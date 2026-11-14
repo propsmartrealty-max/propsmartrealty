@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <rect width="240" height="80" rx="8" fill="#ffffff"/>
+  <g transform="translate(20, 16)">
+    <circle cx="24" cy="24" r="16" fill="none" stroke="#8E2888" stroke-width="2.5"/>
+    <path d="M24 10 L24 38 M10 24 L38 24 M14 14 L34 34 M14 34 L34 14" stroke="#F5A623" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="24" cy="24" r="6" fill="#8E2888"/>
+    <text x="52" y="27" font-family="'Plus Jakarta Sans', 'Arial', sans-serif" font-size="20" font-weight="800" fill="#8E2888" letter-spacing="2">AMANORA</text>
+    <text x="52" y="41" font-family="'Plus Jakarta Sans', 'Arial', sans-serif" font-size="8.5" font-weight="600" fill="#555555" letter-spacing="2">PARK TOWN • PUNE</text>
+  </g>
+</svg>

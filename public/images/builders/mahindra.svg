@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <rect width="240" height="80" rx="8" fill="#ffffff"/>
+  <g transform="translate(15, 16)">
+    <path d="M12 28 C12 18, 22 8, 32 8 C37 8, 42 10, 46 14 L41 18 C38 15, 35 14, 32 14 C25 14, 18 20, 18 28 C18 36, 25 42, 32 42 C35 42, 38 41, 41 38 L46 42 C42 46, 37 48, 32 48 C22 48, 12 38, 12 28 Z" fill="#E31837"/>
+    <circle cx="32" cy="28" r="5" fill="#E31837"/>
+    <text x="60" y="28" font-family="'Plus Jakarta Sans', 'Segoe UI', sans-serif" font-size="19" font-weight="800" fill="#E31837" letter-spacing="0.5">Mahindra</text>
+    <text x="60" y="43" font-family="'Plus Jakarta Sans', 'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#222222" letter-spacing="1.5">LIFESPACES</text>
+  </g>
+</svg>

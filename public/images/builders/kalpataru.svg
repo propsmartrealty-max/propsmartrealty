@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <rect width="240" height="80" rx="8" fill="#ffffff"/>
+  <g transform="translate(15, 16)">
+    <circle cx="22" cy="24" r="16" fill="#006837"/>
+    <path d="M22 12 C18 16, 14 22, 14 28 C17 26, 20 26, 22 28 C24 26, 27 26, 30 28 C30 22, 26 16, 22 12 Z" fill="#ffffff"/>
+    <text x="48" y="29" font-family="'Plus Jakarta Sans', 'Arial', sans-serif" font-size="19" font-weight="800" fill="#006837" letter-spacing="2">KALPATARU</text>
+    <text x="48" y="43" font-family="'Plus Jakarta Sans', 'Arial', sans-serif" font-size="8" font-weight="600" fill="#555555" letter-spacing="2">DEVELOPERS</text>
+  </g>
+</svg>

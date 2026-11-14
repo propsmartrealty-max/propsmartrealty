@@ -27,12 +27,13 @@ export const PropsmartLogo: React.FC<PropsmartLogoProps> = ({
     const heightClass = sizeClasses[size] || sizeClasses.md;
 
     return (
-        <div className={`flex items-center select-none ${className}`}>
+        <div className={`flex items-center shrink-0 select-none ${className}`}>
             <img
                 src={logoSrc}
                 alt="propsmart"
-                className={`${heightClass} w-auto object-contain transition-all duration-300`}
+                className={`${heightClass} w-auto max-w-none object-contain transition-all duration-300 block`}
                 loading="eager"
+                decoding="sync"
             />
         </div>
     );

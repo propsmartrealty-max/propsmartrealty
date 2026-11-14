@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <rect width="240" height="80" rx="8" fill="#ffffff"/>
+  <g transform="translate(15, 14)">
+    <ellipse cx="25" cy="25" rx="18" ry="14" fill="none" stroke="#005A9C" stroke-width="2.5"/>
+    <path d="M17 18 L33 18 M25 18 L25 32" stroke="#005A9C" stroke-width="2.5" stroke-linecap="square"/>
+    <text x="54" y="27" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="800" fill="#005A9C" letter-spacing="2">TATA</text>
+    <text x="54" y="42" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="700" fill="#333333" letter-spacing="2">HOUSING</text>
+  </g>
+</svg>

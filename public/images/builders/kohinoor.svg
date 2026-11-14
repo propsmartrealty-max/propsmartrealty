@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <rect width="240" height="80" rx="8" fill="#ffffff"/>
+  <g transform="translate(15, 14)">
+    <path d="M22 10 L34 22 L22 34 L10 22 Z" fill="#D97706" stroke="#B45309" stroke-width="1"/>
+    <path d="M22 14 L30 22 L22 30 L14 22 Z" fill="#FDE68A"/>
+    <text x="44" y="26" font-family="'Plus Jakarta Sans', 'Arial', sans-serif" font-size="19" font-weight="800" fill="#0F2942" letter-spacing="2">KOHINOOR</text>
+    <text x="44" y="42" font-family="'Plus Jakarta Sans', 'Arial', sans-serif" font-size="8" font-weight="600" fill="#64748B" letter-spacing="1.5">SADA SUKHI RAHO</text>
+  </g>
+</svg>
