@@ -142,8 +142,8 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                             className="fixed inset-0 z-[60] bg-white overflow-y-auto"
                         >
                             <div className="p-5 flex justify-between items-center border-b border-gray-100 sticky top-0 bg-white z-10">
-                                <span className="font-bold text-xl text-slate-900">Menu</span>
-                                <button onClick={() => setMobileMenuOpen(false)} className="p-2 bg-slate-100 rounded-full">
+                                <PropsmartLogo variant="light" />
+                                <button onClick={() => setMobileMenuOpen(false)} className="p-2 bg-slate-100 rounded-full" aria-label="Close menu">
                                     <X className="w-6 h-6 text-slate-600" />
                                 </button>
                             </div>
