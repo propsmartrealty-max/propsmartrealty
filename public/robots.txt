@@ -1,6 +1,83 @@
-User-agent: *
+# ==============================================================================
+# PROPSMART REALTY - Official Robots.txt
+# Platform: https://propsmart.co.in
+# MahaRERA Agent Registration: A031262401295
+# Direct Builder Mandate | 100% Brokerage Free Real Estate in Pune
+# ==============================================================================
+
+# Google Search Console & Googlebot Crawlers
+User-agent: Googlebot
 Allow: /
+Allow: /assets/
+Allow: /images/
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Allow: /search
+Allow: /compare
+Allow: /about
+Allow: /contact
+Allow: /post-property
 Disallow: /admin
+Disallow: /admin/
+Disallow: /admin/*
+Disallow: /api/
+Disallow: /api/*
+Disallow: /login
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+Disallow: /*?*utm_*
+Disallow: /*?*fbclid=
+
+# Google Image Crawler (Rich Property Media, Floor Plans & Elevation Photos)
+User-agent: Googlebot-Image
+Allow: /images/
+Allow: /assets/
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.svg$
+Disallow: /admin/
 Disallow: /api/
 
+# Bingbot & Major Search Engines
+User-agent: Bingbot
+Allow: /
+Allow: /assets/
+Allow: /images/
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Disallow: /admin/
+Disallow: /api/
+Disallow: /login
+
+# Default Crawlers
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /images/
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Disallow: /admin
+Disallow: /admin/
+Disallow: /admin/*
+Disallow: /api/
+Disallow: /api/*
+Disallow: /login
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+# Host declaration
+Host: https://propsmart.co.in
+
+# Google Search Console (GSC) Hardened Sitemap Index & Segmented Sitemaps
 Sitemap: https://propsmart.co.in/sitemap.xml
+Sitemap: https://propsmart.co.in/sitemap-main.xml
+Sitemap: https://propsmart.co.in/sitemap-projects.xml
+Sitemap: https://propsmart.co.in/sitemap-builders.xml
+Sitemap: https://propsmart.co.in/sitemap-localities.xml

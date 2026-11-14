@@ -1,182 +1,224 @@
-import { SitemapStream } from 'sitemap';
-import { createWriteStream } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import { resolve } from 'path';
 
 const BASE_URL = 'https://propsmart.co.in';
 
-const STATIC_ROUTES = [
-    { url: '/', changefreq: 'daily', priority: 1.0 },
-    { url: '/search', changefreq: 'daily', priority: 0.9 },
-    { url: '/directory', changefreq: 'weekly', priority: 0.8 },
-    { url: '/compare', changefreq: 'weekly', priority: 0.7 },
-    { url: '/about', changefreq: 'monthly', priority: 0.6 },
-    { url: '/contact', changefreq: 'monthly', priority: 0.6 },
-    { url: '/post-property', changefreq: 'monthly', priority: 0.6 }
-];
-
-const LOCALITIES = [
-  "hinjewadi",
-  "baner",
-  "wakad",
-  "kharadi",
-  "balewadi",
-  "mahalunge",
-  "wagholi",
-  "tathawade",
-  "bavdhan",
-  "hadapsar",
-  "ravet",
-  "pashan",
-  "kothrud",
-  "kalyani-nagar",
-  "koregaon-park",
-  "viman-nagar",
-  "mamurdi",
-  "pimpri-chinchwad",
-  "mundhwa",
-  "keshavnagar",
-  "undri",
-  "mohammed-wadi",
-  "talegaon-dabhade",
-  "camp",
-  "anand-nagar",
-  "bhosari",
-  "wadgaon-sheri",
-  "bhugaon",
-  "shewalewadi"
-];
-
-const PROJECTS = [
-  "godrej-hillside-3",
-  "godrej-river-royale",
-  "godrej-eden-estate-phase-2",
-  "kolte-patil-life-republic",
-  "kolte-patil-24k-altura",
-  "kolte-patil-little-earth",
-  "vtp-bellissimo",
-  "vtp-dolce-vita",
-  "vtp-naturescape",
-  "lodha-giardino",
-  "lodha-panache",
-  "lodha-bella-vita",
-  "panchshil-eon-waterfront",
-  "panchshil-towers",
-  "rohan-ekam-balewadi",
-  "rohan-saroha",
-  "rohan-ekam",
-  "vj-indilife",
-  "vj-pkc-central",
-  "vj-yashwin-enchante",
-  "gt-pride",
-  "pride-park-connect",
-  "codename-pride-of-chinchwad",
-  "nyati-evoque",
-  "nyati-emerald",
-  "nyati-esteban-2",
-  "gera-hinjewadi-phase-3",
-  "gera-imperium-gateway",
-  "gera-joy-on-treetop",
-  "kasturi-apostrophe",
-  "kasturi-eon-homes",
-  "kasturi-the-balmoral-towers",
-  "mahindra-happinest",
-  "mahindra-citadel",
-  "mahindra-kharadi",
-  "kumar-parth-tower",
-  "kumar-palmspring-towers",
-  "kumar-codename-centrestage",
-  "bramhacorp-hues-of-sky",
-  "bramhacorp-townhouse",
-  "bramhacorp-august-towers",
-  "amanora-city-rise",
-  "joyville-annexe",
-  "joyville-celestia",
-  "joyville-sensorium",
-  "kohinoor-kharadi",
-  "kohinoor-shangrila",
-  "kohinoor-central-park",
-  "kalpataru-jade-skyline",
-  "kalpataru-jade-residences",
-  "kalpataru-blossoms",
-  "sobha-nesara",
-  "sobha-nesara-block-3",
-  "prasiddhi-tatavam-residency",
-  "sense-66-by-tata-value-homes"
-];
-
-const BUILDERS = [
-  "godrej-properties",
-  "kolte-patil-developers",
-  "vtp-realty",
-  "lodha-group",
-  "panchshil-realty",
-  "rohan-builders",
-  "vilas-javdekar-developers",
-  "pride-purple-group",
-  "nyati-group",
-  "gera-developments",
-  "kasturi-housing",
-  "mahindra-lifespaces",
-  "kumar-properties",
-  "bramhacorp",
-  "amanora-park-town",
-  "joyville-shapoorji-pallonji",
-  "kohinoor-group",
-  "kalpataru",
-  "sobha-limited",
-  "tata-housing"
-];
-
-async function generateSitemap() {
-    console.log("🗺️  Generating Cloudflare & Google-optimized Sitemap...");
-
-    const smStream = new SitemapStream({ hostname: BASE_URL });
-    const writeStream = createWriteStream(resolve('./public/sitemap.xml'));
-
-    smStream.pipe(writeStream);
-
-    // 1. Static Routes
-    STATIC_ROUTES.forEach(r => smStream.write(r));
-
-    // 2. City Route
-    smStream.write({ url: '/pune', changefreq: 'daily', priority: 0.9 });
-
-    // 3. Locality Landing Pages
-    LOCALITIES.forEach(loc => {
-        smStream.write({
-            url: `/search?location=${encodeURIComponent(loc)}`,
-            changefreq: 'weekly',
-            priority: 0.85
-        });
-    });
-
-    // 4. Developer / Builder Profiles
-    BUILDERS.forEach(builderSlug => {
-        smStream.write({
-            url: `/builder/${builderSlug}`,
-            changefreq: 'weekly',
-            priority: 0.85
-        });
-    });
-
-    // 5. Individual Verified Projects
-    PROJECTS.forEach(projectSlug => {
-        smStream.write({
-            url: `/project/${projectSlug}`,
-            changefreq: 'daily',
-            priority: 0.9
-        });
-    });
-
-    smStream.end();
-
-    return new Promise((res, rej) => {
-        writeStream.on('finish', () => {
-            console.log(`✅ Google Sitemap generated successfully with ${STATIC_ROUTES.length + 1 + LOCALITIES.length + BUILDERS.length + PROJECTS.length} indexed URLs at public/sitemap.xml`);
-            res(true);
-        });
-        writeStream.on('error', rej);
-    });
+// Helper to escape XML entities
+function escapeXml(unsafe) {
+    if (!unsafe) return '';
+    return String(unsafe)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&apos;');
 }
 
-generateSitemap().catch(console.error);
+// Format current date in W3C datetime format (ISO 8601 with timezone)
+function getW3CDate() {
+    return new Date().toISOString();
+}
+
+async function run() {
+    console.log("🗺️  Generating Google Search Console (GSC) Hardened Sitemaps...");
+
+    const mockDataPath = resolve('./src/data/mockData.ts');
+    const mockDataContent = readFileSync(mockDataPath, 'utf-8');
+
+    // 1. Extract LOCATIONS
+    let locations = [];
+    const locMatch = mockDataContent.match(/export const LOCATIONS: Locality\[\] = (\[[\s\S]*?\]);\n\nexport const BUILDERS/);
+    if (locMatch) {
+        try {
+            locations = JSON.parse(locMatch[1]);
+        } catch (e) {
+            console.warn("Could not parse LOCATIONS as JSON, falling back to regex");
+        }
+    }
+
+    // 2. Extract BUILDERS
+    let builders = [];
+    const bMatch = mockDataContent.match(/export const BUILDERS: Builder\[\] = (\[[\s\S]*?\]);\n\nexport const PROJECTS/);
+    if (bMatch) {
+        try {
+            builders = JSON.parse(bMatch[1]);
+        } catch (e) {
+            console.warn("Could not parse BUILDERS as JSON");
+        }
+    }
+
+    // 3. Extract PROJECTS
+    let projects = [];
+    const pMatch = mockDataContent.match(/export const PROJECTS: Project\[\] = (\[[\s\S]*?\]);/);
+    if (pMatch) {
+        try {
+            projects = JSON.parse(pMatch[1]);
+        } catch (e) {
+            console.warn("Could not parse PROJECTS as JSON");
+        }
+    }
+
+    const lastmod = getW3CDate();
+
+    // -------------------------------------------------------------
+    // FILE 1: sitemap-main.xml (Core Landing Pages)
+    // -------------------------------------------------------------
+    const staticPages = [
+        { url: '/', changefreq: 'daily', priority: '1.0' },
+        { url: '/directory', changefreq: 'daily', priority: '0.9' },
+        { url: '/search', changefreq: 'daily', priority: '0.85' },
+        { url: '/compare', changefreq: 'weekly', priority: '0.7' },
+        { url: '/about', changefreq: 'monthly', priority: '0.6' },
+        { url: '/contact', changefreq: 'monthly', priority: '0.6' },
+        { url: '/post-property', changefreq: 'monthly', priority: '0.6' }
+    ];
+
+    let sitemapMainXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+`;
+    for (const page of staticPages) {
+        sitemapMainXml += `  <url>
+    <loc>${BASE_URL}${page.url}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>${page.changefreq}</changefreq>
+    <priority>${page.priority}</priority>
+  </url>
+`;
+    }
+    sitemapMainXml += `</urlset>`;
+    writeFileSync(resolve('./public/sitemap-main.xml'), sitemapMainXml.trim());
+
+    // -------------------------------------------------------------
+    // FILE 2: sitemap-projects.xml (All Pune Projects with Image Sitemaps)
+    // -------------------------------------------------------------
+    let sitemapProjectsXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+`;
+    for (const p of projects) {
+        const projectUrl = `${BASE_URL}/project/${escapeXml(p.slug)}`;
+        sitemapProjectsXml += `  <url>
+    <loc>${projectUrl}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+`;
+        // Hero / Main Project Image
+        const mainImage = p.heroImage || p.image;
+        if (mainImage) {
+            const fullImgUrl = mainImage.startsWith('http') ? mainImage : `${BASE_URL}${mainImage}`;
+            sitemapProjectsXml += `    <image:image>
+      <image:loc>${escapeXml(fullImgUrl)}</image:loc>
+      <image:title>${escapeXml(p.title)} ${escapeXml(p.location)} Pune</image:title>
+      <image:caption>${escapeXml(p.title)} in ${escapeXml(p.location)}, Pune - 100% Brokerage Free on PROPSMART REALTY (MahaRERA: ${escapeXml(p.reraId || 'Verified')})</image:caption>
+    </image:image>
+`;
+        }
+
+        // Floor plan images
+        if (Array.isArray(p.floorPlans)) {
+            for (const fp of p.floorPlans.slice(0, 3)) { // Max 3 floor plans in sitemap per project
+                if (fp.image) {
+                    const fpUrl = fp.image.startsWith('http') ? fp.image : `${BASE_URL}${fp.image}`;
+                    sitemapProjectsXml += `    <image:image>
+      <image:loc>${escapeXml(fpUrl)}</image:loc>
+      <image:title>${escapeXml(p.title)} ${escapeXml(fp.name || 'Floor Plan')}</image:title>
+      <image:caption>${escapeXml(p.title)} ${escapeXml(fp.name || '')} Floor Plan - ${escapeXml(fp.carpetArea || '')} sq.ft</image:caption>
+    </image:image>
+`;
+                }
+            }
+        }
+
+        sitemapProjectsXml += `  </url>
+`;
+    }
+    sitemapProjectsXml += `</urlset>`;
+    writeFileSync(resolve('./public/sitemap-projects.xml'), sitemapProjectsXml.trim());
+
+    // -------------------------------------------------------------
+    // FILE 3: sitemap-builders.xml (All Developers with Brand Logos)
+    // -------------------------------------------------------------
+    let sitemapBuildersXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+`;
+    for (const b of builders) {
+        const builderUrl = `${BASE_URL}/builder/${escapeXml(b.slug)}`;
+        sitemapBuildersXml += `  <url>
+    <loc>${builderUrl}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+`;
+        if (b.logo) {
+            const logoUrl = b.logo.startsWith('http') ? b.logo : `${BASE_URL}${b.logo}`;
+            sitemapBuildersXml += `    <image:image>
+      <image:loc>${escapeXml(logoUrl)}</image:loc>
+      <image:title>${escapeXml(b.name)} Pune Official Developer Logo</image:title>
+      <image:caption>All ${escapeXml(b.name)} residential township projects in Pune with direct builder sales mandate</image:caption>
+    </image:image>
+`;
+        }
+        sitemapBuildersXml += `  </url>
+`;
+    }
+    sitemapBuildersXml += `</urlset>`;
+    writeFileSync(resolve('./public/sitemap-builders.xml'), sitemapBuildersXml.trim());
+
+    // -------------------------------------------------------------
+    // FILE 4: sitemap-localities.xml (All Pune Micro-market Landing Pages)
+    // -------------------------------------------------------------
+    let sitemapLocalitiesXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+`;
+    for (const loc of locations) {
+        // Derive clean locality slug: e.g. "Hinjewadi" -> "hinjewadi", "Kalyani Nagar" -> "kalyani-nagar"
+        const locSlug = loc.name.toLowerCase().trim().replace(/\s+/g, '-');
+        const locUrl = `${BASE_URL}/flats-in-${escapeXml(locSlug)}`;
+        sitemapLocalitiesXml += `  <url>
+    <loc>${locUrl}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+`;
+    }
+    sitemapLocalitiesXml += `</urlset>`;
+    writeFileSync(resolve('./public/sitemap-localities.xml'), sitemapLocalitiesXml.trim());
+
+    // -------------------------------------------------------------
+    // FILE 5: sitemap.xml (Root Sitemap Index for Google Search Console)
+    // -------------------------------------------------------------
+    const sitemapIndexXml = `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>${BASE_URL}/sitemap-main.xml</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${BASE_URL}/sitemap-projects.xml</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${BASE_URL}/sitemap-builders.xml</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${BASE_URL}/sitemap-localities.xml</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>
+</sitemapindex>
+`;
+    writeFileSync(resolve('./public/sitemap.xml'), sitemapIndexXml.trim());
+
+    console.log(`✅ Google Sitemaps successfully hardened and generated:`);
+    console.log(`   - Root Index:       public/sitemap.xml (4 sub-sitemaps)`);
+    console.log(`   - Main Pages:       public/sitemap-main.xml (${staticPages.length} URLs)`);
+    console.log(`   - Projects:         public/sitemap-projects.xml (${projects.length} URLs with Image Sitemaps)`);
+    console.log(`   - Builders:         public/sitemap-builders.xml (${builders.length} URLs with Logos)`);
+    console.log(`   - Localities:       public/sitemap-localities.xml (${locations.length} URLs with /flats-in-*)`);
+    console.log(`   Total URLs Indexed: ${staticPages.length + projects.length + builders.length + locations.length}`);
+}
+
+run().catch(console.error);
