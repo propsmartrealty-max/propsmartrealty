@@ -15,41 +15,120 @@ const STATIC_ROUTES = [
 ];
 
 const LOCALITIES = [
-    'hinjewadi', 'baner', 'wakad', 'kharadi', 'balewadi', 'mahalunge',
-    'pimple-nilakh', 'wagholi', 'tathawade', 'bavdhan', 'viman-nagar',
-    'kothrud', 'magarpatta-city', 'ravet', 'punawale', 'aundh'
+  "hinjewadi",
+  "baner",
+  "wakad",
+  "kharadi",
+  "balewadi",
+  "mahalunge",
+  "wagholi",
+  "tathawade",
+  "bavdhan",
+  "hadapsar",
+  "ravet",
+  "pashan",
+  "kothrud",
+  "kalyani-nagar",
+  "koregaon-park",
+  "viman-nagar",
+  "mamurdi",
+  "pimpri-chinchwad",
+  "mundhwa",
+  "keshavnagar",
+  "undri",
+  "mohammed-wadi",
+  "talegaon-dabhade",
+  "camp",
+  "anand-nagar",
+  "bhosari",
+  "wadgaon-sheri",
+  "bhugaon",
+  "shewalewadi"
 ];
 
-const FLAGSHIP_PROJECTS = [
-    'kolte-patil-life-republic',
-    'godrej-woodsville',
-    'vtp-blue-waters',
-    'gera-planet-of-joy',
-    'panchshil-towers',
-    'vj-yashwin-enchante',
-    'kasturi-balmoral-riverside',
-    'godrej-hillside',
-    'kolte-patil-24k-opula',
-    'vtp-altair'
+const PROJECTS = [
+  "godrej-hillside-3",
+  "godrej-river-royale",
+  "godrej-eden-estate-phase-2",
+  "kolte-patil-life-republic",
+  "kolte-patil-24k-altura",
+  "kolte-patil-little-earth",
+  "vtp-bellissimo",
+  "vtp-dolce-vita",
+  "vtp-naturescape",
+  "lodha-giardino",
+  "lodha-panache",
+  "lodha-bella-vita",
+  "panchshil-eon-waterfront",
+  "panchshil-towers",
+  "rohan-ekam-balewadi",
+  "rohan-saroha",
+  "rohan-ekam",
+  "vj-indilife",
+  "vj-pkc-central",
+  "vj-yashwin-enchante",
+  "gt-pride",
+  "pride-park-connect",
+  "codename-pride-of-chinchwad",
+  "nyati-evoque",
+  "nyati-emerald",
+  "nyati-esteban-2",
+  "gera-hinjewadi-phase-3",
+  "gera-imperium-gateway",
+  "gera-joy-on-treetop",
+  "kasturi-apostrophe",
+  "kasturi-eon-homes",
+  "kasturi-the-balmoral-towers",
+  "mahindra-happinest",
+  "mahindra-citadel",
+  "mahindra-kharadi",
+  "kumar-parth-tower",
+  "kumar-palmspring-towers",
+  "kumar-codename-centrestage",
+  "bramhacorp-hues-of-sky",
+  "bramhacorp-townhouse",
+  "bramhacorp-august-towers",
+  "amanora-city-rise",
+  "joyville-annexe",
+  "joyville-celestia",
+  "joyville-sensorium",
+  "kohinoor-kharadi",
+  "kohinoor-shangrila",
+  "kohinoor-central-park",
+  "kalpataru-jade-skyline",
+  "kalpataru-jade-residences",
+  "kalpataru-blossoms",
+  "sobha-nesara",
+  "sobha-nesara-block-3",
+  "prasiddhi-tatavam-residency",
+  "sense-66-by-tata-value-homes"
 ];
 
 const BUILDERS = [
-    'kolte-patil-developers',
-    'godrej-properties',
-    'vtp-realty',
-    'gera-developments',
-    'panchshil-realty',
-    'kasturi-housing',
-    'vilas-javdekar-developers',
-    'kumar-properties',
-    'pride-purple-group',
-    'rohan-builders',
-    'nyati-group',
-    'bramhacorp'
+  "godrej-properties",
+  "kolte-patil-developers",
+  "vtp-realty",
+  "lodha-group",
+  "panchshil-realty",
+  "rohan-builders",
+  "vilas-javdekar-developers",
+  "pride-purple-group",
+  "nyati-group",
+  "gera-developments",
+  "kasturi-housing",
+  "mahindra-lifespaces",
+  "kumar-properties",
+  "bramhacorp",
+  "amanora-park-town",
+  "joyville-shapoorji-pallonji",
+  "kohinoor-group",
+  "kalpataru",
+  "sobha-limited",
+  "tata-housing"
 ];
 
 async function generateSitemap() {
-    console.log("🗺️  Generating Cloudflare-optimized Sitemap...");
+    console.log("🗺️  Generating Cloudflare & Google-optimized Sitemap...");
 
     const smStream = new SitemapStream({ hostname: BASE_URL });
     const writeStream = createWriteStream(resolve('./public/sitemap.xml'));
@@ -59,41 +138,45 @@ async function generateSitemap() {
     // 1. Static Routes
     STATIC_ROUTES.forEach(r => smStream.write(r));
 
-    // 2. Project Pages
-    FLAGSHIP_PROJECTS.forEach(slug => {
-        smStream.write({
-            url: `/project/${slug}`,
-            changefreq: 'weekly',
-            priority: 0.9
-        });
-    });
+    // 2. City Route
+    smStream.write({ url: '/pune', changefreq: 'daily', priority: 0.9 });
 
-    // 3. Builder Pages
-    BUILDERS.forEach(slug => {
+    // 3. Locality Landing Pages
+    LOCALITIES.forEach(loc => {
         smStream.write({
-            url: `/builder/${slug}`,
-            changefreq: 'monthly',
-            priority: 0.7
-        });
-    });
-
-    // 4. Locality Pages
-    LOCALITIES.forEach(slug => {
-        smStream.write({
-            url: `/flats-in-${slug}`,
+            url: `/search?location=${encodeURIComponent(loc)}`,
             changefreq: 'weekly',
             priority: 0.85
         });
     });
 
-    smStream.end();
-
-    await new Promise((resolve, reject) => {
-        writeStream.on('finish', resolve);
-        writeStream.on('error', reject);
+    // 4. Developer / Builder Profiles
+    BUILDERS.forEach(builderSlug => {
+        smStream.write({
+            url: `/builder/${builderSlug}`,
+            changefreq: 'weekly',
+            priority: 0.85
+        });
     });
 
-    console.log("✅ Cloudflare Sitemap generated successfully at public/sitemap.xml");
+    // 5. Individual Verified Projects
+    PROJECTS.forEach(projectSlug => {
+        smStream.write({
+            url: `/project/${projectSlug}`,
+            changefreq: 'daily',
+            priority: 0.9
+        });
+    });
+
+    smStream.end();
+
+    return new Promise((res, rej) => {
+        writeStream.on('finish', () => {
+            console.log(`✅ Google Sitemap generated successfully with ${STATIC_ROUTES.length + 1 + LOCALITIES.length + BUILDERS.length + PROJECTS.length} indexed URLs at public/sitemap.xml`);
+            res(true);
+        });
+        writeStream.on('error', rej);
+    });
 }
 
-generateSitemap();
+generateSitemap().catch(console.error);
