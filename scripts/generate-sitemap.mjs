@@ -2,7 +2,7 @@ import { SitemapStream } from 'sitemap';
 import { createWriteStream } from 'fs';
 import { resolve } from 'path';
 
-const BASE_URL = 'https://propsmartrealty.com';
+const BASE_URL = 'https://propsmart.co.in';
 
 const STATIC_ROUTES = [
     { url: '/', changefreq: 'daily', priority: 1.0 },

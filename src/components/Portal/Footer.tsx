@@ -64,7 +64,7 @@ const Footer = () => {
                     </div>
                     <div>
                         <h4 className="text-white font-medium mb-4">Connect</h4>
-                        <p className="text-sm mb-2">connect@punepropertyvlog.in</p>
+                        <p className="text-sm mb-2">connect@propsmart.co.in</p>
                         <p className="text-sm font-bold text-white mb-4">+91 7744009295</p>
                         <div className="flex gap-4">
                             <a href="https://www.facebook.com/punepropertyvlog" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-500 transition-colors">

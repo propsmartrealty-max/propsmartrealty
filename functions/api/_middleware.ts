@@ -108,15 +108,36 @@ export function hexToBytes(hex: string): Uint8Array {
     return bytes;
 }
 
-// Global OPTIONS pre-flight handler
-export const onRequestOptions: PagesFunction = async () => {
-    return new Response(null, {
-        status: 204,
-        headers: {
-            'Access-Control-Allow-Origin': '*',
-            'Access-Control-Allow-Methods': 'GET, POST, PUT, PATCH, DELETE, OPTIONS',
-            'Access-Control-Allow-Headers': 'Content-Type, Authorization, cf-turnstile-token',
-            'Access-Control-Max-Age': '86400'
-        }
-    });
+// Global Edge Middleware: CORS, Security Headers & Pipeline chaining
+export const onRequest: PagesFunction<Env> = async (context) => {
+    // 1. Handle pre-flight CORS
+    if (context.request.method === 'OPTIONS') {
+        return new Response(null, {
+            status: 204,
+            headers: {
+                'Access-Control-Allow-Origin': '*',
+                'Access-Control-Allow-Methods': 'GET, POST, PUT, PATCH, DELETE, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type, Authorization, cf-turnstile-token',
+                'Access-Control-Max-Age': '86400'
+            }
+        });
+    }
+
+    try {
+        // 2. Chain to endpoint
+        const response = await context.next();
+
+        // 3. Ensure CORS and security headers are attached to every response
+        const newHeaders = new Headers(response.headers);
+        newHeaders.set('Access-Control-Allow-Origin', '*');
+        newHeaders.set('X-Content-Type-Options', 'nosniff');
+
+        return new Response(response.body, {
+            status: response.status,
+            statusText: response.statusText,
+            headers: newHeaders
+        });
+    } catch (err: any) {
+        return jsonResponse({ error: 'Edge function error', details: err.message }, 500);
+    }
 };

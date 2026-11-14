@@ -196,7 +196,7 @@ const ProjectDetails = () => {
                 title={seoTitle}
                 description={seoDesc}
                 keywords={project.seoKeywords || [(project.title + " "), (project.location + " flats"), ("New projects in " + project.location), ...(project.configurations || []).map(c => c + " in " + project.location)]}
-                canonical={"https://punepropertyvlog.in/project/" + project.slug}
+                canonical={"https://propsmart.co.in/project/" + project.slug}
                 openGraph={{
                     type: 'website',
                     image: project.heroImage || project.image
@@ -218,7 +218,7 @@ const ProjectDetails = () => {
                         "latitude": "18.5204",
                         "longitude": "73.8567"
                     },
-                    "url": "https://punepropertyvlog.in/project/" + project.slug,
+                    "url": "https://propsmart.co.in/project/" + project.slug,
                     "priceRange": project.priceRange,
                     "numberOfRooms": (project.configurations || []).length,
                     "floorSize": {
@@ -234,7 +234,7 @@ const ProjectDetails = () => {
                     "provider": {
                         "@type": "Organization",
                         "name": builder?.name || project.builderId,
-                        "url": builder ? ("https://punepropertyvlog.in/builder/" + builder.slug) : undefined
+                        "url": builder ? ("https://propsmart.co.in/builder/" + builder.slug) : undefined
                     }
                 }}
             />

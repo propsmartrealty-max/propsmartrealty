@@ -80,7 +80,10 @@ export const api = {
                 }
 
                 const res = await fetch(`/api/projects?${params.toString()}`);
-                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                const contentType = res.headers.get('content-type') || '';
+                if (!res.ok || !contentType.includes('application/json')) {
+                    throw new Error(`Invalid response (${res.status}): ${contentType}`);
+                }
                 const json = await res.json();
 
                 if (!json.data || json.data.length === 0) {
@@ -103,7 +106,10 @@ export const api = {
         getById: async (id: string) => {
             try {
                 const res = await fetch(`/api/projects/${id}`);
-                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                const contentType = res.headers.get('content-type') || '';
+                if (!res.ok || !contentType.includes('application/json')) {
+                    throw new Error(`Invalid response (${res.status}): ${contentType}`);
+                }
                 const data = await res.json();
 
                 if (!data || data.error) {
@@ -139,7 +145,10 @@ export const api = {
         list: async () => {
             try {
                 const res = await fetch('/api/builders');
-                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                const contentType = res.headers.get('content-type') || '';
+                if (!res.ok || !contentType.includes('application/json')) {
+                    throw new Error(`Invalid response (${res.status}): ${contentType}`);
+                }
                 const data = await res.json();
 
                 if (!data || !Array.isArray(data) || data.length === 0) {
@@ -156,7 +165,10 @@ export const api = {
         getById: async (id: string) => {
             try {
                 const res = await fetch(`/api/builders/${id}`);
-                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                const contentType = res.headers.get('content-type') || '';
+                if (!res.ok || !contentType.includes('application/json')) {
+                    throw new Error(`Invalid response (${res.status}): ${contentType}`);
+                }
                 const data = await res.json();
 
                 if (!data || data.error) {

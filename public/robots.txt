@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin
 Disallow: /api/
 
-Sitemap: https://punepropertyvlog.in/sitemap.xml
+Sitemap: https://propsmart.co.in/sitemap.xml

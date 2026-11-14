@@ -1,7 +1,7 @@
-name = "propsmart-realty"
+name = "propsmartrealty"
 compatibility_date = "2024-11-01"
 compatibility_flags = ["nodejs_compat"]
-pages_build_output_dir = "./dist"
+pages_build_output_dir = "dist"
 
 # Production D1 Database
 [[d1_databases]]
@@ -19,4 +19,4 @@ bucket_name = "propsmart-assets"
 [vars]
 ENVIRONMENT = "production"
 ENABLE_TURNSTILE = "true"
-CORS_ALLOW_ORIGIN = "https://propsmartrealty.com,http://localhost:3000,http://localhost:5173"
+CORS_ALLOW_ORIGIN = "https://propsmart.co.in,https://www.propsmart.co.in,https://propsmartrealty.pages.dev,http://localhost:3000,http://localhost:5173"

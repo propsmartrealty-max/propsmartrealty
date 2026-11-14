@@ -32,7 +32,7 @@ const BuilderDetails = () => {
             <SEO
                 title={`${builder.name} - Projects in Pune`}
                 description={builder.description}
-                canonical={`https://punepropertyvlog.in/builder/${builder.slug}`}
+                canonical={`https://propsmart.co.in/builder/${builder.slug}`}
                 openGraph={{
                     type: 'profile',
                     image: builder.logo
@@ -41,7 +41,7 @@ const BuilderDetails = () => {
                     "@context": "https://schema.org",
                     "@type": "Organization",
                     "name": builder.name,
-                    "url": `https://punepropertyvlog.in/builder/${builder.slug}`,
+                    "url": `https://propsmart.co.in/builder/${builder.slug}`,
                     "logo": builder.logo,
                     "description": builder.description,
                     "foundingDate": builder.establishedYear.toString(),

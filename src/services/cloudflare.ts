@@ -125,8 +125,7 @@ export const cloudflare = {
                 filters[col] = val;
                 return queryObj;
             },
-            order: (column: string, opts = { ascending: true }) => {
-                orderConfig = { column, ascending: opts.ascending };
+            order: (_column: string, _opts = { ascending: true }) => {
                 return queryObj;
             },
             limit: (_n: number) => queryObj,
@@ -151,7 +150,10 @@ export const cloudflare = {
                     }
 
                     const res = await fetch(endpoint, { headers });
-                    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                    const contentType = res.headers.get('content-type') || '';
+                    if (!res.ok || !contentType.includes('application/json')) {
+                        throw new Error(`Invalid response (${res.status}): ${contentType}`);
+                    }
                     const json = await res.json();
 
                     const data = json.data !== undefined ? json.data : json;
@@ -186,8 +188,11 @@ export const cloudflare = {
                         headers,
                         body: JSON.stringify(row)
                     });
+                    const contentType = res.headers.get('content-type') || '';
+                    if (!res.ok || !contentType.includes('application/json')) {
+                        throw new Error(`Invalid response (${res.status}): ${contentType}`);
+                    }
                     const json = await res.json();
-                    if (!res.ok) throw new Error(json.error || `Failed to insert into ${table}`);
                     return { data: json, error: null };
                 } catch (err: any) {
                     console.warn(`[Cloudflare D1] Insert into ${table} fallback/error:`, err);
@@ -210,8 +215,11 @@ export const cloudflare = {
                             headers,
                             body: JSON.stringify(updates)
                         });
+                        const contentType = res.headers.get('content-type') || '';
+                        if (!res.ok || !contentType.includes('application/json')) {
+                            throw new Error(`Invalid response (${res.status}): ${contentType}`);
+                        }
                         const json = await res.json();
-                        if (!res.ok) throw new Error(json.error || 'Update failed');
                         return { data: json, error: null };
                     } catch (err: any) {
                         return { data: null, error: err };
@@ -231,6 +239,10 @@ export const cloudflare = {
                             method: 'DELETE',
                             headers
                         });
+                        const contentType = res.headers.get('content-type') || '';
+                        if (!res.ok || !contentType.includes('application/json')) {
+                            throw new Error(`Invalid response (${res.status}): ${contentType}`);
+                        }
                         const json = await res.json();
                         return { data: json, error: null };
                     } catch (err: any) {

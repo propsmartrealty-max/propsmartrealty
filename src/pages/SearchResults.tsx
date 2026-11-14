@@ -101,7 +101,7 @@ const SearchResults = () => {
                 description={locationSlug
                     ? `Looking for flats in ${filterLoc}? Explore top verified new launch projects, pricing, and floor plans in ${filterLoc}, Pune.`
                     : "Browse verified real estate listings in Pune."}
-                canonical={locationSlug ? `https://punepropertyvlog.in/flats-in-${locationSlug}` : undefined}
+                canonical={locationSlug ? `https://propsmart.co.in/flats-in-${locationSlug}` : undefined}
             />
             <PortalNavbar variant="colored" />
 
