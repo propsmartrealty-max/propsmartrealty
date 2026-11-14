@@ -3,7 +3,7 @@ import PortalNavbar from '../components/Portal/Navbar';
 import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
 import { Phone, Mail, MapPin, ShieldCheck } from 'lucide-react';
-import { supabase } from '../services/supabase';
+import { cloudflare } from '../services/cloudflare';
 import { sendLeadEmailNotification } from '../utils/emailUtils';
 
 const Contact = () => {
@@ -26,7 +26,7 @@ const Contact = () => {
         };
 
         try {
-            const { error } = await supabase.from('leads').insert([data]);
+            const { error } = await cloudflare.from('leads').insert([data]);
             if (error) throw error;
 
             await sendLeadEmailNotification(data);

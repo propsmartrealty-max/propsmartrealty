@@ -75,13 +75,13 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
         queryFn: () => api.builders.list(),
     });
 
-    // Phase 3: Fetch Localities globally for Deal Engine
+    // Fetch Localities globally for Deal Engine
     const localitiesQuery = useQuery({
         queryKey: ['localities'],
         queryFn: async () => {
             try {
-                const { supabase } = await import('../services/supabase');
-                const { data, error } = await supabase.from('localities').select('*');
+                const { cloudflare } = await import('../services/cloudflare');
+                const { data, error } = await cloudflare.from('localities').select('*');
                 if (error || !data || data.length === 0) return LOCATIONS;
                 return data;
             } catch {
@@ -93,16 +93,16 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
     // Mutations
     const addProjectMutation = useMutation({
         mutationFn: async (project: Project) => {
-            const { supabase } = await import('../services/supabase');
+            const { cloudflare } = await import('../services/cloudflare');
             const { mapProjectToDb } = await import('../utils/mapper');
             const { id, advancedConfigurations, ...data } = project;
             const payload = id.startsWith('p') || id === '' ? data : { ...data, id };
             const dbPayload = mapProjectToDb(payload);
 
-            const { data: inserted, error } = await supabase.from('projects').insert([dbPayload]).select().single();
+            const { data: inserted, error } = await cloudflare.from('projects').insert([dbPayload]);
             if (error) throw error;
             if (advancedConfigurations && advancedConfigurations.length > 0) {
-                await api.projects.saveConfigurations(inserted.id, advancedConfigurations);
+                await api.projects.saveConfigurations(inserted.id || id, advancedConfigurations);
             }
         },
         onSuccess: () => {
@@ -112,12 +112,12 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
     const updateProjectMutation = useMutation({
         mutationFn: async ({ id, updates }: { id: string; updates: Partial<Project> }) => {
-            const { supabase } = await import('../services/supabase');
+            const { cloudflare } = await import('../services/cloudflare');
             const { mapProjectToDb } = await import('../utils/mapper');
             const { advancedConfigurations, ...data } = updates;
             const dbPayload = mapProjectToDb(data);
 
-            const { error } = await supabase.from('projects').update(dbPayload).eq('id', id);
+            const { error } = await cloudflare.from('projects').update(dbPayload).eq('id', id);
             if (error) throw error;
             if (advancedConfigurations) {
                 await api.projects.saveConfigurations(id, advancedConfigurations);
@@ -130,8 +130,8 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
     const deleteProjectMutation = useMutation({
         mutationFn: async (id: string) => {
-            const { supabase } = await import('../services/supabase');
-            const { error } = await supabase.from('projects').delete().eq('id', id);
+            const { cloudflare } = await import('../services/cloudflare');
+            const { error } = await cloudflare.from('projects').delete().eq('id', id);
             if (error) throw error;
         },
         onSuccess: () => {
@@ -142,14 +142,13 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
     // Builders Mutations
     const addBuilderMutation = useMutation({
         mutationFn: async (builder: Builder) => {
-            const { supabase } = await import('../services/supabase');
+            const { cloudflare } = await import('../services/cloudflare');
             const { mapBuilderToDb } = await import('../utils/mapper');
             const { id, ...data } = builder;
             const payload = id.startsWith('b') || id === '' ? data : builder;
             const dbPayload = mapBuilderToDb(payload);
-            console.log("Supabase Insert Payload:", dbPayload);
 
-            const { error } = await supabase.from('builders').insert([dbPayload]);
+            const { error } = await cloudflare.from('builders').insert([dbPayload]);
             if (error) throw error;
         },
         onSuccess: () => queryClient.invalidateQueries({ queryKey: ['builders'] })
@@ -157,13 +156,11 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
     const updateBuilderMutation = useMutation({
         mutationFn: async ({ id, updates }: { id: string; updates: Partial<Builder> }) => {
-            const { supabase } = await import('../services/supabase');
+            const { cloudflare } = await import('../services/cloudflare');
             const { mapBuilderToDb } = await import('../utils/mapper');
             const dbPayload = mapBuilderToDb(updates);
-            console.log("Supabase UPDATE Payload:", dbPayload);
 
-            const { error } = await supabase.from('builders').update(dbPayload).eq('id', id);
-
+            const { error } = await cloudflare.from('builders').update(dbPayload).eq('id', id);
             if (error) throw error;
         },
         onSuccess: () => queryClient.invalidateQueries({ queryKey: ['builders'] })
@@ -171,8 +168,8 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
     const deleteBuilderMutation = useMutation({
         mutationFn: async (id: string) => {
-            const { supabase } = await import('../services/supabase');
-            const { error } = await supabase.from('builders').delete().eq('id', id);
+            const { cloudflare } = await import('../services/cloudflare');
+            const { error } = await cloudflare.from('builders').delete().eq('id', id);
             if (error) throw error;
         },
         onSuccess: () => queryClient.invalidateQueries({ queryKey: ['builders'] })

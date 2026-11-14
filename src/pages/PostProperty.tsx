@@ -25,11 +25,11 @@ const PostProperty = () => {
         };
 
         try {
-            const { supabase } = await import('../services/supabase');
-            const { error } = await supabase.from('leads').insert([data]);
+            const { cloudflare } = await import('../services/cloudflare');
+            const { error } = await cloudflare.from('leads').insert([data]);
 
             if (error) {
-                console.error('Supabase error:', error);
+                console.error('Cloudflare D1 error:', error);
                 throw error;
             }
 

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { toast } from 'react-hot-toast';
-import { supabase } from '../../services/supabase';
+import { cloudflare } from '../../services/cloudflare';
 import AdminLayout from '../../components/Admin/AdminLayout';
 import ImageUpload from '../../components/Admin/ImageUpload';
 import { Plus, Trash2, Save, MoveUp, MoveDown, Loader2 } from 'lucide-react';
@@ -34,20 +34,17 @@ const AdminBanners = () => {
 
     const fetchBanners = async () => {
         setIsLoading(true);
-        const { data, error } = await supabase
+        const { data } = await cloudflare
             .from('banners')
-            .select('*')
             .select('*')
             .order('sortorder', { ascending: true });
 
         if (data) {
-            // Map sortorder (db) to sortOrder (state) if needed, or just rely on JS flexibility 
-            // type assertion or mapping
             setBanners(data.map((b: any) => ({
                 ...b,
-                imageUrl: b.image_url, // Map from snake_case column
-                isActive: b.is_active, // Map from snake_case column
-                sortOrder: b.sortorder || b.sortOrder
+                imageUrl: b.image_url || b.imageUrl,
+                isActive: b.is_active !== undefined ? b.is_active : b.isActive,
+                sortOrder: b.sortorder || b.sort_order || b.sortOrder
             })));
         }
         setIsLoading(false);
@@ -61,7 +58,7 @@ const AdminBanners = () => {
 
         setIsSaving(true);
 
-        const { error } = await supabase.from('banners').insert([{
+        const { error } = await cloudflare.from('banners').insert([{
             title: newBanner.title,
             image_url: newBanner.imageUrl, // Map to snake_case column
             link: newBanner.link,
@@ -94,7 +91,7 @@ const AdminBanners = () => {
             // Continue to delete record even if storage fails
         }
 
-        const { error } = await supabase.from('banners').delete().eq('id', id);
+        const { error } = await cloudflare.from('banners').delete().eq('id', id);
         if (error) {
             toast.success('Banner deleted successfully');
         } else {
@@ -117,7 +114,7 @@ const AdminBanners = () => {
             delete dbUpdates.sortOrder;
         }
 
-        await supabase.from('banners').update(dbUpdates).eq('id', id);
+        await cloudflare.from('banners').update(dbUpdates).eq('id', id);
         fetchBanners();
     };
 

@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Lock, Building2, Loader2 } from 'lucide-react';
-import { supabase } from '../../services/supabase';
+import { cloudflare } from '../../services/cloudflare';
 import SEO from '../../components/SEO';
 import { toast } from 'react-hot-toast';
 
@@ -17,7 +17,7 @@ const AdminLogin = () => {
         setLoading(true);
 
         try {
-            const { data, error } = await supabase.auth.signInWithPassword({
+            const { data, error } = await cloudflare.auth.signInWithPassword({
                 email,
                 password,
             });

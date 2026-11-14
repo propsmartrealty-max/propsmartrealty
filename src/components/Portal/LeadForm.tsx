@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { X, Loader2, CheckCircle2, Phone, ArrowRight, MessageCircle } from 'lucide-react';
-import { supabase } from '../../services/supabase';
+import { cloudflare } from '../../services/cloudflare';
 import { openWhatsApp } from '../../utils/whatsappUtils';
 import { sendLeadEmailNotification } from '../../utils/emailUtils';
 
@@ -47,7 +47,7 @@ const LeadForm: React.FC<LeadFormProps> = ({ isOpen, onClose, type, projectTitle
                 }
             };
 
-            await supabase.from('leads').insert([insertData]);
+            await cloudflare.from('leads').insert([insertData]);
 
             // Send Email Notification via Web3Forms
             await sendLeadEmailNotification(insertData);

@@ -1,10 +1,8 @@
 import React, { useState } from 'react';
-import { supabase } from '../../services/supabase';
-// Vercel Force Update
+import { cloudflare } from '../../services/cloudflare';
 import AdminLayout from '../../components/Admin/AdminLayout';
-import { useData } from '../../context/DataContext';
 import { fetchProjectDetailsFromAI, fetchBuilderDetailsFromAI } from '../../services/aiService';
-import { Loader2, CheckCircle2, AlertCircle, Database, Play } from 'lucide-react';
+import { Loader2, AlertCircle, Database, Play } from 'lucide-react';
 
 const SEED_DATA = [
     {
@@ -376,10 +374,9 @@ const SeedData = () => {
 
                 try {
                     // Use Upsert for Builder
-                    const { supabase } = await import('../../services/supabase');
-                    const { error } = await supabase
+                    const { error } = await cloudflare
                         .from('builders')
-                        .upsert({
+                        .insert([{
                             name: builderData.name || builderSeed.name,
                             slug: builderData.slug || builderSeed.name.toLowerCase().replace(/ /g, '-'),
                             logo: builderData.logo,
@@ -390,14 +387,14 @@ const SeedData = () => {
                             locations: ['Pune'],
                             // Map camelCase to snake_case for DB
                             established_year: builderData.establishedYear || 2000
-                        }, { onConflict: 'slug' });
+                        }]);
 
                     if (error) throw error;
 
-                    builderId = builderData.name || builderSeed.name; // In real app, fetch ID. Here we use name/slug as reference if needed but better to query.
+                    builderId = builderData.name || builderSeed.name;
 
                     // Fetch the actual ID for connecting projects
-                    const { data: bData } = await supabase.from('builders').select('id').eq('slug', builderData.slug || builderSeed.name.toLowerCase().replace(/ /g, '-')).single();
+                    const { data: bData } = await cloudflare.from('builders').select('id').eq('slug', builderData.slug || builderSeed.name.toLowerCase().replace(/ /g, '-')).single();
                     if (bData) builderId = bData.id;
 
                     log(`✅ Added/Updated Builder: ${builderSeed.name}`);
@@ -420,16 +417,16 @@ const SeedData = () => {
 
                         try {
                             projData = await fetchProjectDetailsFromAI(`Real estate project ${projSeed.name} ${seedLocation} Pune details`);
-                        } catch (e) {
+                        } catch {
                             log(`  ⚠️ AI Limit for ${projSeed.name}. Using Mock.`);
                             projData = getMockProject(projSeed.name, seedType, builderSeed.name);
                         }
 
                         try {
-                            // Upsert Logic for Projects
-                            const { error: pError } = await supabase
+                            // Insert Logic for Projects
+                            const { error: pError } = await cloudflare
                                 .from('projects')
-                                .upsert({
+                                .insert([{
                                     title: projData.title || projSeed.name,
                                     slug: projData.slug || projSeed.name.toLowerCase().replace(/ /g, '-'),
                                     builder_id: builderId,
@@ -449,7 +446,7 @@ const SeedData = () => {
                                     seo_keywords: projData.seoKeywords || [`${projSeed.name} pune`, `${seedType} in ${seedLocation}`, 'luxury homes pune'],
                                     meta_description: projData.metaDescription || `Explore ${projSeed.name} in ${seedLocation}.`,
                                     configuration_details: projData.configurationDetails || []
-                                }, { onConflict: 'slug' });
+                                }]);
 
                             if (pError) throw pError;
 

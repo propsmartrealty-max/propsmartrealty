@@ -11,8 +11,8 @@ const Dashboard = () => {
 
     React.useEffect(() => {
         const fetchStats = async () => {
-            const { supabase } = await import('../../services/supabase');
-            const { count } = await supabase.from('leads').select('*', { count: 'exact', head: true });
+            const { cloudflare } = await import('../../services/cloudflare');
+            const { count } = await cloudflare.from('leads').select('*', { count: 'exact', head: true });
             setLeadsCount(count || 0);
         };
         fetchStats();

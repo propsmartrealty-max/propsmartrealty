@@ -1,4 +1,3 @@
-import { supabase } from './supabase';
 import { Project, Builder, ProjectConfiguration } from '../types';
 import { mapProjectFromDb, mapBuilderFromDb } from '../utils/mapper';
 import { PROJECTS, BUILDERS } from '../data/mockData';
@@ -69,79 +68,48 @@ export const api = {
     projects: {
         list: async (page = 1, filters: ProjectFilters = {}) => {
             try {
-                let query = supabase
-                    .from('projects')
-                    .select('*, project_configurations!inner(basePrice)', { count: 'exact' });
-
-                if (filters.budget && filters.budget.length > 0) {
-                    query = supabase.from('projects').select('*, project_configurations!inner(basePrice)', { count: 'exact' });
-                } else {
-                    query = supabase.from('projects').select('*', { count: 'exact' });
-                }
-
-                // Apply filters (Server-side)
-                if (filters.location) {
-                    query = query.ilike('location', `%${filters.location}%`);
-                }
-                if (filters.type) {
-                    query = query.ilike('type', `%${filters.type}%`);
-                }
-                if (filters.status) {
-                    query = query.eq('status', filters.status);
-                }
+                // Call Cloudflare Edge API
+                const params = new URLSearchParams();
+                params.set('page', String(page));
+                params.set('limit', String(PAGE_SIZE));
+                if (filters.location) params.set('location', filters.location);
+                if (filters.type) params.set('type', filters.type);
+                if (filters.status) params.set('status', filters.status);
                 if (filters.configurations && filters.configurations.length > 0) {
-                    query = query.overlaps('configurations', filters.configurations);
+                    params.set('config', filters.configurations[0]);
                 }
 
-                // Budget Filtering Logic using project_configurations
-                if (filters.budget && filters.budget.length > 0) {
-                    const conditions: string[] = [];
-                    if (filters.budget.includes('50L')) conditions.push('basePrice.lt.5000000');
-                    if (filters.budget.includes('1Cr')) conditions.push('and(basePrice.gte.5000000,basePrice.lt.10000000)');
-                    if (filters.budget.includes('1.5Cr')) conditions.push('and(basePrice.gte.10000000,basePrice.lt.15000000)');
-                    if (filters.budget.includes('2Cr+')) conditions.push('basePrice.gte.20000000');
+                const res = await fetch(`/api/projects?${params.toString()}`);
+                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                const json = await res.json();
 
-                    if (conditions.length > 0) {
-                        query = query.or(conditions.join(','), { foreignTable: 'project_configurations' });
-                    }
-                }
-
-                const from = (page - 1) * PAGE_SIZE;
-                const to = from + PAGE_SIZE - 1;
-
-                const { data, error, count } = await query
-                    .order('created_at', { ascending: false })
-                    .range(from, to);
-
-                if (error || !data || data.length === 0) {
+                if (!json.data || json.data.length === 0) {
                     return filterProjectsLocally(page, filters);
                 }
 
-                const mappedData = data.map(mapProjectFromDb);
-                return { 
-                    data: mappedData as Project[], 
-                    count: count || mappedData.length, 
-                    page, 
-                    totalPages: Math.ceil((count || mappedData.length) / PAGE_SIZE) 
+                const mappedData = json.data.map(mapProjectFromDb);
+                return {
+                    data: mappedData as Project[],
+                    count: json.total || mappedData.length,
+                    page,
+                    totalPages: json.totalPages || Math.ceil((json.total || mappedData.length) / PAGE_SIZE)
                 };
             } catch (err) {
-                console.warn('api.projects.list fallback to local data:', err);
+                console.warn('api.projects.list fallback to local dataset:', err);
                 return filterProjectsLocally(page, filters);
             }
         },
 
         getById: async (id: string) => {
             try {
-                const { data, error } = await supabase
-                    .from('projects')
-                    .select('*, advancedConfigurations:project_configurations(*)')
-                    .eq('id', id)
-                    .single();
+                const res = await fetch(`/api/projects/${id}`);
+                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                const data = await res.json();
 
-                if (error || !data) {
+                if (!data || data.error) {
                     const local = PROJECTS.find(p => p.id === id || p.slug === id);
                     if (local) return local;
-                    throw error || new Error('Project not found');
+                    throw new Error('Project not found');
                 }
                 return mapProjectFromDb(data) as Project;
             } catch (err) {
@@ -154,17 +122,13 @@ export const api = {
         saveConfigurations: async (projectId: string, configs: Partial<ProjectConfiguration>[]) => {
             if (!configs || configs.length === 0) return;
 
-            const records = configs.map(c => ({
-                ...c,
-                projectId,
-            }));
-
             try {
-                const { error } = await supabase
-                    .from('project_configurations')
-                    .upsert(records, { onConflict: 'id' });
-
-                if (error) throw error;
+                const res = await fetch(`/api/projects/${projectId}`, {
+                    method: 'PUT',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ advancedConfigurations: configs })
+                });
+                if (!res.ok) throw new Error(`HTTP ${res.status}`);
             } catch (err) {
                 console.warn('saveConfigurations offline:', err);
             }
@@ -174,25 +138,31 @@ export const api = {
     builders: {
         list: async () => {
             try {
-                const { data, error } = await supabase.from('builders').select('*');
-                if (error || !data || data.length === 0) {
+                const res = await fetch('/api/builders');
+                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                const data = await res.json();
+
+                if (!data || !Array.isArray(data) || data.length === 0) {
                     return BUILDERS;
                 }
                 const mapped = data.map(mapBuilderFromDb) as Builder[];
                 return mapped.length > 0 ? mapped : BUILDERS;
             } catch (err) {
-                console.warn('api.builders.list fallback to local data:', err);
+                console.warn('api.builders.list fallback to local dataset:', err);
                 return BUILDERS;
             }
         },
 
         getById: async (id: string) => {
             try {
-                const { data, error } = await supabase.from('builders').select('*').eq('id', id).single();
-                if (error || !data) {
+                const res = await fetch(`/api/builders/${id}`);
+                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                const data = await res.json();
+
+                if (!data || data.error) {
                     const local = BUILDERS.find(b => b.id === id || b.slug === id);
                     if (local) return local;
-                    throw error || new Error('Builder not found');
+                    throw new Error('Builder not found');
                 }
                 return mapBuilderFromDb(data) as Builder;
             } catch (err) {

@@ -1,9 +1,9 @@
 
 import React from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
-import { LayoutDashboard, Building2, HardHat, LogOut, FileText, Layout, MapPin, Phone, Image as ImageIcon } from 'lucide-react';
+import { LayoutDashboard, Building2, HardHat, LogOut, Layout, MapPin, Phone, Image as ImageIcon } from 'lucide-react';
 
-import { supabase } from '../../services/supabase';
+import { cloudflare } from '../../services/cloudflare';
 
 const AdminLayout: React.FC<{ children: React.ReactNode, title: string }> = ({ children, title }) => {
     const location = useLocation();
@@ -11,7 +11,7 @@ const AdminLayout: React.FC<{ children: React.ReactNode, title: string }> = ({ c
 
     const handleLogout = async () => {
         try {
-            await supabase.auth.signOut();
+            await cloudflare.auth.signOut();
         } catch (error) {
             console.error("Error signing out:", error);
         }

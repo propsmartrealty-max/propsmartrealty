@@ -2,7 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import LocalityCard from '../LocalityCard';
 import { PROPSMART_LOCALITIES, getLocalityImageUrl } from '../../../utils/localityUtils';
-import { MapPin, Sparkles, Compass, ChevronRight } from 'lucide-react';
+import { Compass, ChevronRight } from 'lucide-react';
+import { cloudflare } from '../../../services/cloudflare';
 
 const ZONES = [
     { id: 'all', label: 'All Prime Localities' },
@@ -24,8 +25,7 @@ const LocalityStrip: React.FC = () => {
     useEffect(() => {
         const fetchLocalities = async () => {
             try {
-                const { supabase } = await import('../../../services/supabase');
-                const { data, error } = await supabase
+                const { data, error } = await cloudflare
                     .from('localities')
                     .select('*')
                     .order('name');

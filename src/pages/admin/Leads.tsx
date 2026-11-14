@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { toast } from 'react-hot-toast';
 import AdminLayout from '../../components/Admin/AdminLayout';
-import { supabase } from '../../services/supabase';
+import { cloudflare } from '../../services/cloudflare';
 
 import { Trash2, Phone } from 'lucide-react';
 import DeleteConfirmationModal from '../../components/Admin/DeleteConfirmationModal';
@@ -29,9 +29,9 @@ const AdminLeads = () => {
     });
 
     const fetchLeads = useCallback(async () => {
-        const { data, error } = await supabase
+        const { data, error } = await cloudflare
             .from('leads')
-            .select('*, projects(title, location)')
+            .select('*')
             .order('created_at', { ascending: false });
 
         if (error) {
@@ -66,13 +66,13 @@ const AdminLeads = () => {
 
     const confirmDelete = async () => {
         if (deleteModal.id) {
-            await supabase.from('leads').delete().eq('id', deleteModal.id);
+            await cloudflare.from('leads').delete().eq('id', deleteModal.id);
             fetchLeads();
         }
     };
 
     const handleStatusChange = async (id: string, newStatus: string) => {
-        const { error } = await supabase
+        const { error } = await cloudflare
             .from('leads')
             .update({ status: newStatus })
             .eq('id', id);

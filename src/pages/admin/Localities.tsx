@@ -40,10 +40,10 @@ const AdminLocalities = () => {
     // Mutation to Add/Update Locality
     const mutation = useMutation({
         mutationFn: async (vars: any) => {
-            const { supabase } = await import('../../services/supabase');
+            const { cloudflare } = await import('../../services/cloudflare');
             if (vars.id) {
                 // Update
-                const { error } = await supabase.from('localities').update({
+                const { error } = await cloudflare.from('localities').update({
                     name: vars.name,
                     avgPriceSqft: vars.avgPriceSqft,
                     appreciation_rate: vars.appreciation_rate,
@@ -52,7 +52,7 @@ const AdminLocalities = () => {
                 if (error) throw error;
             } else {
                 // Insert
-                const { error } = await supabase.from('localities').insert([{
+                const { error } = await cloudflare.from('localities').insert([{
                     name: vars.name,
                     avgPriceSqft: vars.avgPriceSqft,
                     appreciation_rate: vars.appreciation_rate,
@@ -73,8 +73,8 @@ const AdminLocalities = () => {
 
     const deleteMutation = useMutation({
         mutationFn: async (id: string) => {
-            const { supabase } = await import('../../services/supabase');
-            const { error } = await supabase.from('localities').delete().eq('id', id);
+            const { cloudflare } = await import('../../services/cloudflare');
+            const { error } = await cloudflare.from('localities').delete().eq('id', id);
             if (error) throw error;
         },
         onSuccess: () => {

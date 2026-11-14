@@ -17,11 +17,9 @@ export default defineConfig(({ mode }) => {
     },
     plugins: [react()],
     define: {
-      // Explicitly expose Env Vars to ensure they are available in the client bundle
-      // We use JSON.stringify to ensure strings are properly quoted for replacement
-      'import.meta.env.VITE_SUPABASE_URL': JSON.stringify(env.VITE_SUPABASE_URL || ''),
-      'import.meta.env.VITE_SUPABASE_ANON_KEY': JSON.stringify(env.VITE_SUPABASE_ANON_KEY || ''),
+      // Expose Cloudflare & App Env Vars
       'import.meta.env.VITE_GEMINI_API_KEY': JSON.stringify(env.VITE_GEMINI_API_KEY || env.GEMINI_API_KEY || ''),
+      'import.meta.env.VITE_CLOUDFLARE_TURNSTILE_SITE_KEY': JSON.stringify(env.VITE_CLOUDFLARE_TURNSTILE_SITE_KEY || ''),
 
       // Polyfill process.env for older libraries if needed
       'process.env': JSON.stringify(env)

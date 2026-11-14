@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { Search, MapPin, ChevronDown, Rocket, Key, Home, Building, ShieldCheck, Building2, BadgePercent, CheckCircle2 } from 'lucide-react';
+import { Search, ChevronDown, Rocket, Key, Home, Building, ShieldCheck, Building2, BadgePercent, CheckCircle2 } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { getLocalityImageUrl } from '../../../utils/localityUtils';
-
-import { supabase } from '../../../services/supabase';
+import { cloudflare } from '../../../services/cloudflare';
 
 // Default Fallback Images
 const DEFAULT_IMAGES = [
@@ -32,8 +31,7 @@ const HeroSearch = () => {
     useEffect(() => {
         const fetchBackgrounds = async () => {
             try {
-                const { supabase } = await import('../../../services/supabase');
-                const { data, error } = await supabase
+                const { data, error } = await cloudflare
                     .from('banners')
                     .select('image_url')
                     .eq('is_active', true)

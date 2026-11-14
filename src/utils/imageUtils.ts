@@ -28,8 +28,8 @@ export const getOptimizedImageUrl = (
     }
 
     try {
-        // Optimize Supabase Storage URLs when valid
-        if (trimmed.includes('supabase.co/storage/v1/object/public')) {
+        // Cloudflare Image Resizing / Edge Storage URLs
+        if (trimmed.includes('/api/storage/raw/')) {
             const separator = trimmed.includes('?') ? '&' : '?';
             return `${trimmed}${separator}width=${width}&quality=${quality}&format=webp`;
         }
@@ -46,6 +46,6 @@ export const getOptimizedImageUrl = (
     }
 };
 
-export const getBlurHash = (url: string) => {
+export const getBlurHash = (_url: string) => {
     return "L6PZfSi_.AyE_3t7t7R**0o#DgR4";
 };
