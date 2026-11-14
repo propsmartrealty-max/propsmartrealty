@@ -19,8 +19,13 @@ function getW3CDate() {
     return new Date().toISOString();
 }
 
+// Format RFC 822 date for RSS feeds
+function getRfc822Date() {
+    return new Date().toUTCString();
+}
+
 async function run() {
-    console.log("🗺️  Generating Google Search Console (GSC) Hardened Sitemaps...");
+    console.log("🗺️  Generating Google & Multi-Engine Hardened Sitemaps & RSS Feed...");
 
     const mockDataPath = resolve('./src/data/mockData.ts');
     const mockDataContent = readFileSync(mockDataPath, 'utf-8');
@@ -32,7 +37,7 @@ async function run() {
         try {
             locations = JSON.parse(locMatch[1]);
         } catch (e) {
-            console.warn("Could not parse LOCATIONS as JSON, falling back to regex");
+            console.warn("Could not parse LOCATIONS as JSON");
         }
     }
 
@@ -59,6 +64,7 @@ async function run() {
     }
 
     const lastmod = getW3CDate();
+    const rfcDate = getRfc822Date();
 
     // -------------------------------------------------------------
     // FILE 1: sitemap-main.xml (Core Landing Pages)
@@ -70,7 +76,8 @@ async function run() {
         { url: '/compare', changefreq: 'weekly', priority: '0.7' },
         { url: '/about', changefreq: 'monthly', priority: '0.6' },
         { url: '/contact', changefreq: 'monthly', priority: '0.6' },
-        { url: '/post-property', changefreq: 'monthly', priority: '0.6' }
+        { url: '/post-property', changefreq: 'monthly', priority: '0.6' },
+        { url: '/pune', changefreq: 'daily', priority: '0.9' }
     ];
 
     let sitemapMainXml = `<?xml version="1.0" encoding="UTF-8"?>
@@ -103,7 +110,6 @@ async function run() {
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
 `;
-        // Hero / Main Project Image
         const mainImage = p.heroImage || p.image;
         if (mainImage) {
             const fullImgUrl = mainImage.startsWith('http') ? mainImage : `${BASE_URL}${mainImage}`;
@@ -115,9 +121,8 @@ async function run() {
 `;
         }
 
-        // Floor plan images
         if (Array.isArray(p.floorPlans)) {
-            for (const fp of p.floorPlans.slice(0, 3)) { // Max 3 floor plans in sitemap per project
+            for (const fp of p.floorPlans.slice(0, 3)) {
                 if (fp.image) {
                     const fpUrl = fp.image.startsWith('http') ? fp.image : `${BASE_URL}${fp.image}`;
                     sitemapProjectsXml += `    <image:image>
@@ -173,7 +178,6 @@ async function run() {
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 `;
     for (const loc of locations) {
-        // Derive clean locality slug: e.g. "Hinjewadi" -> "hinjewadi", "Kalyani Nagar" -> "kalyani-nagar"
         const locSlug = loc.name.toLowerCase().trim().replace(/\s+/g, '-');
         const locUrl = `${BASE_URL}/flats-in-${escapeXml(locSlug)}`;
         sitemapLocalitiesXml += `  <url>
@@ -188,7 +192,7 @@ async function run() {
     writeFileSync(resolve('./public/sitemap-localities.xml'), sitemapLocalitiesXml.trim());
 
     // -------------------------------------------------------------
-    // FILE 5: sitemap.xml (Root Sitemap Index for Google Search Console)
+    // FILE 5: sitemap.xml (Root Sitemap Index for Search Engines)
     // -------------------------------------------------------------
     const sitemapIndexXml = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -212,12 +216,45 @@ async function run() {
 `;
     writeFileSync(resolve('./public/sitemap.xml'), sitemapIndexXml.trim());
 
-    console.log(`✅ Google Sitemaps successfully hardened and generated:`);
-    console.log(`   - Root Index:       public/sitemap.xml (4 sub-sitemaps)`);
+    // -------------------------------------------------------------
+    // FILE 6: feed.xml (Fresh RSS 2.0 Feed for Search Crawlers & Aggregators)
+    // -------------------------------------------------------------
+    let feedXml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PROPSMART REALTY - Pune Real Estate Feed</title>
+    <link>${BASE_URL}</link>
+    <description>Latest MahaRERA verified residential properties and direct builder projects in Pune with 100% Zero Brokerage.</description>
+    <language>en-in</language>
+    <lastBuildDate>${rfcDate}</lastBuildDate>
+    <atom:link href="${BASE_URL}/feed.xml" rel="self" type="application/rss+xml"/>
+`;
+
+    for (const p of projects.slice(0, 30)) {
+        const pUrl = `${BASE_URL}/project/${escapeXml(p.slug)}`;
+        const pImg = p.heroImage || p.image || '';
+        feedXml += `    <item>
+      <title>${escapeXml(p.title)} in ${escapeXml(p.location)}, Pune</title>
+      <link>${pUrl}</link>
+      <guid isPermaLink="true">${pUrl}</guid>
+      <pubDate>${rfcDate}</pubDate>
+      <description><![CDATA[${escapeXml(p.title)} in ${escapeXml(p.location)}, Pune. Pricing: ${escapeXml(p.priceRange || 'On Request')}. Direct builder mandate with 100% Zero Brokerage. Verified MahaRERA ID: ${escapeXml(p.reraId || 'A031262401295')}]]></description>
+${pImg ? `      <enclosure url="${escapeXml(pImg)}" type="image/webp" />` : ''}
+    </item>
+`;
+    }
+
+    feedXml += `  </channel>
+</rss>`;
+    writeFileSync(resolve('./public/feed.xml'), feedXml.trim());
+
+    console.log(`✅ Multi-Engine Sitemaps & Feed successfully generated:`);
+    console.log(`   - Root Index:       public/sitemap.xml`);
     console.log(`   - Main Pages:       public/sitemap-main.xml (${staticPages.length} URLs)`);
     console.log(`   - Projects:         public/sitemap-projects.xml (${projects.length} URLs with Image Sitemaps)`);
     console.log(`   - Builders:         public/sitemap-builders.xml (${builders.length} URLs with Logos)`);
     console.log(`   - Localities:       public/sitemap-localities.xml (${locations.length} URLs with /flats-in-*)`);
+    console.log(`   - Property RSS:     public/feed.xml (30 fresh projects)`);
     console.log(`   Total URLs Indexed: ${staticPages.length + projects.length + builders.length + locations.length}`);
 }
 

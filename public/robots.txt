@@ -1,12 +1,14 @@
 # ==============================================================================
-# PROPSMART REALTY - Official Robots.txt
-# Platform: https://propsmart.co.in
-# MahaRERA Agent Registration: A031262401295
-# Direct Builder Mandate | 100% Brokerage Free Real Estate in Pune
+# PROPSMART REALTY - Advanced Multi-Engine Robots.txt
+# Domain: https://propsmart.co.in
+# Official MahaRERA Agent Registration: A031262401295
+# Direct Builder Sales Mandates | 100% Brokerage Free Real Estate Platform
 # ==============================================================================
 
-# Google Search Console & Googlebot Crawlers
+# Google Crawlers (Googlebot, Mobile, Video, News)
 User-agent: Googlebot
+User-agent: Googlebot-Mobile
+User-agent: Googlebot-News
 Allow: /
 Allow: /assets/
 Allow: /images/
@@ -19,6 +21,7 @@ Allow: /compare
 Allow: /about
 Allow: /contact
 Allow: /post-property
+Allow: /pune
 Disallow: /admin
 Disallow: /admin/
 Disallow: /admin/*
@@ -30,7 +33,7 @@ Disallow: /*?*filter=
 Disallow: /*?*utm_*
 Disallow: /*?*fbclid=
 
-# Google Image Crawler (Rich Property Media, Floor Plans & Elevation Photos)
+# Google Image Indexer (Property Photos, Master Layouts & Floor Plans)
 User-agent: Googlebot-Image
 Allow: /images/
 Allow: /assets/
@@ -42,8 +45,56 @@ Allow: /*.svg$
 Disallow: /admin/
 Disallow: /api/
 
-# Bingbot & Major Search Engines
+# Microsoft Bingbot (Powers Bing, Yahoo Search & DuckDuckGo)
 User-agent: Bingbot
+User-agent: msnbot
+Allow: /
+Allow: /assets/
+Allow: /images/
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Allow: /search
+Allow: /compare
+Allow: /about
+Allow: /contact
+Disallow: /admin
+Disallow: /admin/
+Disallow: /admin/*
+Disallow: /api/
+Disallow: /api/*
+Disallow: /login
+Crawl-delay: 1
+
+# Applebot (Powers Apple Spotlight, Siri & Safari Suggestions)
+User-agent: Applebot
+Allow: /
+Allow: /assets/
+Allow: /images/
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Disallow: /admin/
+Disallow: /api/
+Disallow: /login
+
+# DuckDuckGo Crawler
+User-agent: DuckDuckBot
+Allow: /
+Allow: /assets/
+Allow: /images/
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Disallow: /admin/
+Disallow: /api/
+
+# Yandex Search Crawler
+User-agent: YandexBot
+User-agent: YandexImages
 Allow: /
 Allow: /assets/
 Allow: /images/
@@ -52,9 +103,34 @@ Allow: /project/*
 Allow: /builder/*
 Disallow: /admin/
 Disallow: /api/
-Disallow: /login
+Crawl-delay: 2
 
-# Default Crawlers
+# Baidu Search Crawler
+User-agent: Baiduspider
+Allow: /
+Allow: /assets/
+Allow: /images/
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Disallow: /admin/
+Disallow: /api/
+Crawl-delay: 2
+
+# Social Media Preview Bots (WhatsApp, Facebook, Twitter/X, LinkedIn)
+User-agent: facebookexternalhit
+User-agent: Facebot
+User-agent: Twitterbot
+User-agent: LinkedInBot
+User-agent: WhatsApp
+User-agent: Pinterestbot
+Allow: /
+Allow: /images/
+Allow: /assets/
+Disallow: /admin/
+Disallow: /api/
+
+# Universal Rules for All Other Legitimate Crawlers
 User-agent: *
 Allow: /
 Allow: /assets/
@@ -71,13 +147,18 @@ Disallow: /api/*
 Disallow: /login
 Disallow: /*?*sort=
 Disallow: /*?*filter=
+Disallow: /*?*utm_*
+Crawl-delay: 3
 
-# Host declaration
+# Canonical Host
 Host: https://propsmart.co.in
 
-# Google Search Console (GSC) Hardened Sitemap Index & Segmented Sitemaps
+# Hardened Sitemap Index & Segmented Sitemaps
 Sitemap: https://propsmart.co.in/sitemap.xml
 Sitemap: https://propsmart.co.in/sitemap-main.xml
 Sitemap: https://propsmart.co.in/sitemap-projects.xml
 Sitemap: https://propsmart.co.in/sitemap-builders.xml
 Sitemap: https://propsmart.co.in/sitemap-localities.xml
+
+# Fresh Property RSS Feed
+Sitemap: https://propsmart.co.in/feed.xml
