@@ -8,7 +8,7 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "propsmart-d1"
-database_id = "71bf05aa-03b7-4db2-8377-6000f5b1151a"
+database_id = "8e94c90f-bb0c-4ced-8e59-4cf451930649"
 migrations_dir = "migrations"
 
 # Cloudflare R2 Object Storage (Enable in dashboard to activate)
