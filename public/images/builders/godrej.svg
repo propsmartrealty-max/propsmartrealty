@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
+  <defs>
+    <linearGradient id="godrej-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA771C"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Container -->
+  <rect width="380" height="110" rx="16" fill="#ffffff"/>
+  
+  <!-- Godrej Iconic Script Style Symbol -->
+  <g transform="translate(25, 20)">
+    <!-- Stylized G Monogram Shield -->
+    <path d="M 32 15 C 18 15 8 26 8 40 C 8 54 18 65 32 65 C 44 65 52 57 55 48 L 41 48 C 39 52 35 55 31 55 C 23 55 18 49 18 40 C 18 31 23 25 31 25 C 37 25 41 29 43 34 L 56 30 C 51 21 43 15 32 15 Z" fill="#002B49"/>
+    <!-- Gold Crown Dot -->
+    <circle cx="34" cy="7" r="5" fill="url(#godrej-gold)"/>
+    <path d="M 50 35 L 56 35 L 56 65 L 50 65 Z" fill="url(#godrej-gold)"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="96" y="52" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="34" font-weight="800" fill="#002B49" letter-spacing="-0.5">Godrej</text>
+  <text x="98" y="78" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="15" font-weight="800" fill="#AA771C" letter-spacing="5">PROPERTIES</text>
+  <line x1="98" y1="87" x2="275" y2="87" stroke="url(#godrej-gold)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

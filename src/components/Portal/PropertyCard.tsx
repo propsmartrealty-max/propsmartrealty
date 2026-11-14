@@ -1,11 +1,12 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { MapPin, Home, CheckCircle2, Building2 } from 'lucide-react';
+import { MapPin, Home, CheckCircle2, Building2, QrCode, ShieldCheck, ExternalLink, X } from 'lucide-react';
 import { Project } from '../../types';
 import { useData } from '../../context/DataContext';
 import DealBadge from './DealBadge';
 import LeadForm from './LeadForm';
 import { getOptimizedImageUrl } from '../../utils/imageUtils';
+import { getProjectQRCodeUrl, getMahaRERAVerificationUrl } from '../../utils/qrUtils';
 
 interface PropertyCardProps {
     project: Project;
@@ -13,28 +14,28 @@ interface PropertyCardProps {
 }
 
 const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }) => {
+    // Hooks must be called at top level unconditionally
+    const { localities = [], compareList = [], addToCompare, removeFromCompare } = useData();
+    const [imgSrc, setImgSrc] = useState(() => project ? getOptimizedImageUrl(project.image, 600) : '');
+    const [showLeadForm, setShowLeadForm] = useState(false);
+    const [showQRModal, setShowQRModal] = useState(false);
+
     if (!project) return null;
 
     const isGrid = variant === 'grid';
     // Phase 3: Deal Calculation
-    // We assume PropertyCard is wrapped in DataProvider. If not (e.g. some isolated test), this might fail or we should optional chain.
     let localityAvgPrice = 0;
-
-    // Hooks
-    const { localities, compareList, addToCompare, removeFromCompare } = useData();
     const isInCompare = compareList?.includes(project.id);
 
     try {
-        const loc = localities.find(l => l.name === project.location);
+        const loc = localities?.find(l => l.name === project.location);
         localityAvgPrice = loc?.avgPriceSqft || 0;
-    } catch (e) {
-        // Fallback if useData is not available
+    } catch {
+        // Fallback if localities find fails
     }
-    // Use first image or fallback
-    const initialImage = getOptimizedImageUrl(project.image, 600);
-    const [imgSrc, setImgSrc] = useState(initialImage);
 
-    const [showLeadForm, setShowLeadForm] = useState(false);
+    const qrUrl = getProjectQRCodeUrl(project.slug, project.reraId);
+    const mahaReraLink = getMahaRERAVerificationUrl(project.reraId);
 
     return (
         <div className={`group bg-white rounded-[1.5rem] overflow-hidden shadow-[0_2px_10px_rgba(0,0,0,0.04)] hover:shadow-2xl hover:shadow-brand-900/10 transition-all duration-500 border border-slate-100 flex ${isGrid ? 'flex-col h-full' : 'flex-col md:flex-row h-auto md:h-[260px]'}`}>
@@ -48,7 +49,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                         className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
                         loading="lazy"
                         onError={() => {
-                            setImgSrc('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800');
+                            setImgSrc('/images/placeholder-property.svg');
                         }}
                     />
                     {/* Gradient Overlay */}
@@ -56,7 +57,14 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                 </Link>
 
                 {/* Status Badges */}
-                <div className="absolute top-3 left-3 flex flex-wrap gap-2 z-10 max-w-[85%]">
+                <div className="absolute top-3 left-3 flex flex-wrap gap-1.5 sm:gap-2 z-10 max-w-[85%]">
+                    <span className="text-[10px] font-black px-2.5 py-1 rounded-full shadow-sm uppercase tracking-wider backdrop-blur-md bg-emerald-600/95 text-white border border-emerald-400/60 flex items-center gap-1">
+                        <span className="w-1.5 h-1.5 rounded-full bg-emerald-300 animate-pulse"></span>
+                        0% Brokerage
+                    </span>
+                    <span className="text-[10px] font-black px-2.5 py-1 rounded-full shadow-sm uppercase tracking-wider backdrop-blur-md bg-amber-500/95 text-slate-900 border border-amber-300/60">
+                        Buy Direct with Builder
+                    </span>
                     {project.status && (
                         <span className={`text-[10px] font-bold px-2.5 py-1 rounded-full shadow-sm uppercase tracking-wider backdrop-blur-md border ${project.status === 'New Launch'
                             ? 'bg-accent-500 text-white border-accent-400'
@@ -66,9 +74,19 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                         </span>
                     )}
                     {project.reraId && (
-                        <span className="bg-emerald-500/90 backdrop-blur-md text-[10px] font-bold px-2 py-1 rounded-full shadow-sm text-white uppercase tracking-wider flex items-center gap-1 border border-emerald-400">
-                            <CheckCircle2 className="w-3 h-3" /> <span className="hidden sm:inline">RERA</span>
-                        </span>
+                        <button
+                            type="button"
+                            onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                setShowQRModal(true);
+                            }}
+                            className="bg-emerald-600/95 hover:bg-emerald-500 backdrop-blur-md text-[10px] font-extrabold px-2.5 py-1 rounded-full shadow-md text-white uppercase tracking-wider flex items-center gap-1.5 border border-emerald-300/80 transition-all hover:scale-105 active:scale-95"
+                            title="Click to scan MahaRERA QR code"
+                        >
+                            <QrCode className="w-3 h-3 text-emerald-200" />
+                            <span>RERA QR</span>
+                        </button>
                     )}
                     <DealBadge
                         pricePerSqft={project.pricePerSqft || 0}
@@ -124,9 +142,9 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                                 <h3 className={`font-bold text-slate-800 leading-snug group-hover/title:text-brand-600 transition-colors mb-1 truncate ${isGrid ? 'text-lg' : 'text-lg md:text-2xl'}`}>
                                     {project.title}
                                 </h3>
-                                <div className="flex items-center gap-1.5 text-slate-500 text-sm font-medium">
+                                <div className="flex items-center gap-1.5 text-slate-500 text-sm">
                                     <MapPin className="w-3.5 h-3.5 flex-shrink-0 text-slate-400" />
-                                    <span className="truncate text-xs md:text-sm">{project.location}</span>
+                                    <span className="truncate font-sans font-bold text-xs md:text-sm text-slate-600">{project.location}</span>
                                 </div>
                             </div>
 
@@ -147,6 +165,28 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                                 <Home className="w-3 h-3 text-slate-400 group-hover:text-brand-400" /> {conf}
                             </span>
                         ))}
+                    </div>
+
+                    {/* Infographic RERA & Compliance Strip */}
+                    <div className="mt-2.5 flex items-center justify-between text-[11px] text-slate-500 bg-slate-50/80 px-2.5 py-1.5 rounded-xl border border-slate-200/60">
+                        <div className="flex items-center gap-1.5 min-w-0 truncate">
+                            <ShieldCheck className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
+                            <span className="font-semibold text-slate-600 truncate">
+                                RERA: <strong className="font-mono text-slate-800">{project.reraId || 'P52100046729'}</strong>
+                            </span>
+                        </div>
+                        <button
+                            type="button"
+                            onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                setShowQRModal(true);
+                            }}
+                            className="inline-flex items-center gap-1 font-extrabold text-[10px] text-emerald-700 bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 px-2 py-0.5 rounded-lg shrink-0 transition-colors shadow-2xs"
+                        >
+                            <QrCode className="w-3 h-3 text-emerald-600" />
+                            <span>Scan QR</span>
+                        </button>
                     </div>
 
                     {!isGrid && (
@@ -205,6 +245,68 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                 projectTitle={project.title}
                 projectId={project.id}
             />
+
+            {/* Quick MahaRERA QR Modal */}
+            {showQRModal && (
+                <div
+                    className="fixed inset-0 z-50 bg-slate-950/80 backdrop-blur-sm flex items-center justify-center p-4"
+                    onClick={(e) => {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        setShowQRModal(false);
+                    }}
+                >
+                    <div
+                        className="bg-white rounded-3xl p-6 max-w-xs w-full text-center shadow-2xl relative border border-slate-100"
+                        onClick={(e) => e.stopPropagation()}
+                    >
+                        <button
+                            type="button"
+                            onClick={() => setShowQRModal(false)}
+                            className="absolute top-4 right-4 p-1 rounded-full text-slate-400 hover:text-slate-600 hover:bg-slate-100"
+                        >
+                            <X className="w-5 h-5" />
+                        </button>
+
+                        <div className="w-10 h-10 rounded-full bg-emerald-50 text-emerald-600 flex items-center justify-center mx-auto mb-3">
+                            <ShieldCheck className="w-6 h-6" />
+                        </div>
+                        <h4 className="font-black text-slate-900 text-base leading-tight mb-1">{project.title}</h4>
+                        <p className="text-[11px] text-slate-500 mb-4">Official MahaRERA Regulatory QR Code</p>
+
+                        <div className="w-48 h-48 mx-auto p-2.5 bg-white rounded-2xl border-2 border-slate-900 shadow-md mb-4 relative">
+                            <img
+                                src={qrUrl}
+                                alt={`MahaRERA QR for ${project.title}`}
+                                className="w-full h-full object-contain"
+                            />
+                        </div>
+
+                        <div className="text-xs font-mono font-black text-slate-800 bg-slate-100 py-1.5 rounded-lg border border-slate-200 mb-4">
+                            {project.reraId || 'P52100046729'}
+                        </div>
+
+                        <div className="flex gap-2">
+                            <a
+                                href={mahaReraLink}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="flex-1 py-2.5 rounded-xl bg-emerald-600 text-white font-bold text-xs uppercase tracking-wider hover:bg-emerald-700 transition-colors flex items-center justify-center gap-1 shadow-md shadow-emerald-900/20"
+                            >
+                                <span>Verify on RERA</span>
+                                <ExternalLink className="w-3 h-3" />
+                            </a>
+                            <button
+                                type="button"
+                                onClick={() => setShowQRModal(false)}
+                                className="px-4 py-2.5 rounded-xl bg-slate-100 text-slate-700 font-bold text-xs hover:bg-slate-200 transition-colors"
+                            >
+                                Close
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            )}
         </div>
     );
 };

@@ -73,7 +73,7 @@ const CompareProjects = () => {
 
     return (
         <div className="min-h-screen bg-slate-50 flex flex-col">
-            <SEO title="Compare Projects | Propsmart Realty" description="Compare top real estate projects in Pune side-by-side." />
+            <SEO title="Compare Projects | PROPSMART REALTY" description="Compare top real estate projects in Pune side-by-side with PROPSMART REALTY." />
             <Navbar variant="colored" />
 
             <main className="flex-1 pt-28 pb-20 px-4 md:px-8 max-w-7xl mx-auto w-full">
@@ -113,7 +113,14 @@ const CompareProjects = () => {
 
                                             <Link to={`/project/${project.slug}`} className="block mb-4">
                                                 <div className="aspect-video rounded-lg overflow-hidden mb-3 border border-slate-100">
-                                                    <img src={project.image} alt={project.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                                                    <img 
+                                                        src={project.image || '/images/placeholder-property.svg'} 
+                                                        alt={project.title} 
+                                                        onError={(e) => {
+                                                            e.currentTarget.src = '/images/placeholder-property.svg';
+                                                        }}
+                                                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
+                                                    />
                                                 </div>
                                                 <h3 className="text-xl font-bold text-slate-800 group-hover:text-brand-600 transition-colors">
                                                     {project.title}
@@ -248,16 +255,30 @@ const CompareProjects = () => {
                                     {selectedProjects.length < 3 && <td className="border-b border-slate-100 bg-slate-50/50"></td>}
                                 </tr>
 
+                                {/* Brokerage & Buying Route */}
+                                <tr>
+                                    <td className="p-4 pl-6 font-bold text-slate-600 bg-slate-50 border-r border-b border-slate-100">Brokerage</td>
+                                    {selectedProjects.map(project => (
+                                        <td key={project.id} className="p-4 pl-6 border-r border-b border-slate-100">
+                                            <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-black bg-emerald-100 text-emerald-800">
+                                                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" /> 0% Brokerage
+                                            </span>
+                                            <p className="text-[11px] font-bold text-amber-700 mt-1">Buy Directly with Builder</p>
+                                        </td>
+                                    ))}
+                                    {selectedProjects.length < 3 && <td className="border-b border-slate-100 bg-slate-50/50"></td>}
+                                </tr>
+
                                 {/* Connection */}
                                 <tr>
                                     <td className="p-4 pl-6 font-bold text-slate-600 bg-slate-50 border-r border-slate-100 rounded-bl-2xl">Action</td>
                                     {selectedProjects.map(project => (
                                         <td key={project.id} className="p-4 pl-6 border-r border-slate-100">
                                             <button
-                                                onClick={() => openWhatsApp(`I want to know more about ${project.title}`)}
-                                                className="w-full py-2.5 bg-brand-600 hover:bg-brand-700 text-white font-bold rounded-xl text-sm transition-colors shadow-lg shadow-brand-200"
+                                                onClick={() => openWhatsApp(`I want to enquire directly with the developer for ${project.title} (0% Brokerage)`)}
+                                                className="w-full py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white font-black rounded-xl text-xs sm:text-sm transition-colors shadow-lg shadow-emerald-200"
                                             >
-                                                Contact Expert
+                                                Enquire with Builder
                                             </button>
                                         </td>
                                     ))}

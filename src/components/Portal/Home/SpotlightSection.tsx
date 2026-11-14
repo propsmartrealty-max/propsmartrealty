@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ArrowRight, Star } from 'lucide-react';
+import { ArrowRight, Star, MapPin } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { Project } from '../../../types';
 
@@ -11,8 +11,9 @@ interface SpotlightSectionProps {
 const SpotlightSection: React.FC<SpotlightSectionProps> = ({ projects }) => {
     if (!projects.length) return null;
 
-    // Pick top 3 premium projects (randomized or filtered)
-    const spotlightProjects = projects.filter(p => p.priceRange.includes('Cr')).slice(0, 3);
+    // Pick top 3 premium projects (or fallback to top projects)
+    const matchingCr = projects.filter(p => p.priceRange.includes('Cr'));
+    const spotlightProjects = (matchingCr.length >= 3 ? matchingCr : projects).slice(0, 3);
 
     return (
         <section className="py-12 bg-white">
@@ -35,7 +36,7 @@ const SpotlightSection: React.FC<SpotlightSectionProps> = ({ projects }) => {
                                 alt={project.title}
                                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                                 onError={(e) => {
-                                    e.currentTarget.src = 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800';
+                                    e.currentTarget.src = '/images/placeholder-property.svg';
                                 }}
                             />
                             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-80 group-hover:opacity-90 transition-opacity" />
@@ -46,7 +47,10 @@ const SpotlightSection: React.FC<SpotlightSectionProps> = ({ projects }) => {
 
                             <div className="absolute bottom-0 left-0 p-6 w-full text-white transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300">
                                 <h3 className="text-2xl font-bold mb-1">{project.title}</h3>
-                                <p className="text-white/80 text-sm mb-3">{project.location}</p>
+                                <p className="font-sans font-bold text-sm text-amber-300 mb-3 flex items-center gap-1.5">
+                                    <MapPin className="w-3.5 h-3.5 text-amber-400" />
+                                    <span>{project.location}, Pune</span>
+                                </p>
                                 <div className="flex items-center gap-2">
                                     <span className="font-bold text-lg text-accent-400">{project.priceRange}</span>
                                     <div className="flex-1" />

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
+  <defs>
+    <linearGradient id="shieldGradDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#15803d" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background container -->
+  <rect x="1" y="1" width="318" height="78" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1.5" />
+
+  <!-- Shield Icon -->
+  <g transform="translate(14, 14)">
+    <rect width="52" height="52" rx="10" fill="url(#shieldGradDark)" />
+    <!-- Shield path -->
+    <path d="M 26 10 L 40 16 C 40 28 34 38 26 42 C 18 38 12 28 12 16 Z" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+    <!-- Checkmark inside shield -->
+    <path d="M 20 26 L 24 30 L 32 21" fill="none" stroke="#fef08a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <!-- Text Hierarchy -->
+  <g transform="translate(76, 25)">
+    <!-- Subtitle: MahaRERA Registered -->
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="700" letter-spacing="1.2" fill="#94a3b8">
+      MAHARERA REGISTERED AGENT
+    </text>
+    
+    <!-- Registration Number -->
+    <text x="0" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="800" letter-spacing="0.8" fill="#f8fafc">
+      A031262401295
+    </text>
+
+    <!-- Tagline: propsmart -->
+    <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="600" fill="#f59e0b">
+      propsmart • Government Accredited
+    </text>
+  </g>
+
+  <!-- Verified Badge on right -->
+  <g transform="translate(268, 26)">
+    <circle cx="14" cy="14" r="14" fill="#1e293b" stroke="#059669" stroke-width="1.5" />
+    <path d="M 9 14 L 13 18 L 19 10" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

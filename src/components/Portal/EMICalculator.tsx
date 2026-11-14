@@ -1,5 +1,5 @@
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useMemo } from 'react';
 import { IndianRupee } from 'lucide-react';
 
 const EMICalculator = ({ priceRange }: { priceRange: string }) => {
@@ -15,13 +15,13 @@ const EMICalculator = ({ priceRange }: { priceRange: string }) => {
     const [loanAmount, setLoanAmount] = useState(parsePrice(priceRange));
     const [interestRate, setInterestRate] = useState(8.5);
     const [tenure, setTenure] = useState(20);
-    const [emi, setEmi] = useState(0);
 
-    useEffect(() => {
+    const emi = useMemo(() => {
         const r = interestRate / 12 / 100;
         const n = tenure * 12;
+        if (n === 0 || r === 0) return 0;
         const calcEmi = loanAmount * r * (Math.pow(1 + r, n) / (Math.pow(1 + r, n) - 1));
-        setEmi(Math.round(calcEmi));
+        return Math.round(calcEmi);
     }, [loanAmount, interestRate, tenure]);
 
     const formatCurrency = (val: number) => {

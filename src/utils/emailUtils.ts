@@ -11,7 +11,7 @@ export const sendLeadEmailNotification = async (leadData: any) => {
             body: JSON.stringify({
                 access_key: WEB3FORMS_ACCESS_KEY,
                 subject: `New Lead: ${leadData.type} - ${leadData.name}`,
-                from_name: "Pune Property Vlog Admin",
+                from_name: "PROPSMART REALTY Admin",
                 ...leadData,
             }),
         });

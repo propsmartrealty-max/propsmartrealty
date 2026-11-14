@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
+  <!-- Background Container -->
+  <rect width="380" height="110" rx="16" fill="#ffffff"/>
+
+  <!-- Gera Developments Authentic Sapphire Blue Crest -->
+  <g transform="translate(25, 22)">
+    <rect x="0" y="0" width="66" height="66" rx="14" fill="#0A3B8B"/>
+    <!-- Clean G Monogram with Yellow Accent Star -->
+    <path d="M 44 26 L 33 26 C 24 26 18 32 18 40 C 18 48 24 54 33 54 C 42 54 46 48 46 42 L 32 42 L 32 36 L 52 36 L 52 44 C 50 54 43 60 33 60 C 20 60 11 51 11 40 C 11 29 20 20 33 20 L 44 20 Z" fill="#ffffff"/>
+    <circle cx="49" cy="18" r="4.5" fill="#FFB81C"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="106" y="47" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="28" font-weight="800" fill="#0A3B8B" letter-spacing="1">GERA</text>
+  <text x="107" y="68" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#4B5563" letter-spacing="2.5">DEVELOPMENTS</text>
+  <text x="107" y="84" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" fill="#0A3B8B" letter-spacing="1">Let's Outdo. • 7-Yr Warranty</text>
+</svg>

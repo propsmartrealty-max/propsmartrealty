@@ -15,8 +15,9 @@ interface SEOProps {
 }
 
 const SEO: React.FC<SEOProps> = ({ title, description, canonical, openGraph, jsonLd, keywords }) => {
-    const siteTitle = 'Pune Property Vlog';
-    const fullTitle = `${title} | ${siteTitle}`;
+    const siteTitle = 'PROPSMART REALTY';
+    const cleanTitle = title.replace(/\s*\|\s*(propsmart|Pune Property Vlog|Propsmart Realty)$/i, '');
+    const fullTitle = cleanTitle.includes('PROPSMART REALTY') ? cleanTitle : `${cleanTitle} | ${siteTitle}`;
 
     // Use a default OG image if none provided
     const ogImage = openGraph?.image || 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&q=80&w=1200';

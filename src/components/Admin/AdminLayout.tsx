@@ -34,10 +34,10 @@ const AdminLayout: React.FC<{ children: React.ReactNode, title: string }> = ({ c
             {/* Sidebar */}
             <aside className="w-64 bg-slate-900 text-white fixed h-full hidden md:flex flex-col">
                 <div className="p-6 border-b border-slate-800">
-                    <h1 className="text-xl font-bold flex items-center gap-2">
-                        <span className="bg-blue-600 p-1.5 rounded text-white text-xs">CMS</span>
-                        Pune Property Vlog
-                    </h1>
+                    <Link to="/" className="flex items-center gap-2">
+                        <img src="/images/propsmart-logo-white.svg" alt="PROPSMART REALTY" className="h-6 w-auto" />
+                        <span className="bg-amber-500/20 text-amber-400 border border-amber-500/30 px-1.5 py-0.5 rounded text-[10px] font-bold">CMS</span>
+                    </Link>
                 </div>
 
                 <nav className="flex-1 p-4 space-y-2">

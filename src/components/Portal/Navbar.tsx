@@ -4,6 +4,7 @@ import { Building2, Menu, X, Phone, MessageCircle, ChevronDown, ChevronRight } f
 import { motion, AnimatePresence } from 'framer-motion';
 import { NAVIGATION_CONFIG, NavItem } from '../../config/navigation';
 import { getWhatsAppUrl } from '../../utils/whatsappUtils';
+import RERABadge, { PROPSMART_RERA } from './RERABadge';
 
 const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | 'colored' }) => {
     const [scrolled, setScrolled] = useState(false);
@@ -38,45 +39,34 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex justify-between items-center">
 
-                        {/* Logo */}
-                        <Link to="/" className="flex items-center gap-2 group z-50">
-                            {/* Updated to Dark Amber for the "Yellow" request */}
-                            <motion.div
-                                whileHover="hover"
-                                className="bg-[#15803d] p-2.5 rounded-xl shadow-lg group-hover:shadow-green-500/30 transition-all overflow-hidden relative w-11 h-11 flex items-center justify-center"
-                            >
-                                <motion.div
-                                    initial={{ y: 0, opacity: 1 }}
-                                    variants={{ hover: { y: -30, opacity: 0 } }}
-                                    transition={{ duration: 0.3 }}
-                                    className="absolute"
-                                >
-                                    <Building2 className="w-6 h-6 text-slate-900" />
-                                </motion.div>
-                                <motion.div
-                                    initial={{ y: 30, opacity: 0 }}
-                                    variants={{ hover: { y: 0, opacity: 1 } }}
-                                    transition={{ duration: 0.3 }}
-                                    className="absolute"
-                                >
-                                    <React.Fragment>
-                                        {/* Key Icon imported locally within variants if needed or stick to Lucide Key */}
-                                        {/* Since Key was removed from imports, using SVG or re-importing Key if essential. assuming Key is standard lucide. Re-adding Key to imports for safety */}
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6 text-slate-900"><path d="m21 2-2 2m-7.6 7.6a6 6 0 1 1-5.7-5.7L10 11l4-4 2 2"></path><circle cx="8" cy="17" r="2"></circle></svg>
-                                    </React.Fragment>
-                                </motion.div>
-                            </motion.div>
-                            <div>
-                                <h1 className={`text-xl font-extrabold tracking-tight transition-colors flex gap-1 ${scrolled ? '' : 'md:text-white'}`}>
-                                    <span className={isSolid ? 'text-[#4285F4]' : 'text-white'}>PUNE</span>
-                                    <span className={isSolid ? 'text-[#EA4335]' : 'text-white'}>PROPERTY</span>
-                                    <span className={isSolid ? 'text-[#34A853]' : 'text-white'}>VLOG</span>
-                                </h1>
-                                <p className={`text-[9px] font-bold tracking-[0.2em] transition-colors ${isSolid ? 'text-slate-500' : 'text-slate-400 lg:text-blue-100'}`}>
-                                    REAL ESTATE INTELLIGENCE
-                                </p>
+                        {/* Logo & Value Proposition */}
+                        <div className="flex items-center gap-2 sm:gap-3 z-50">
+                            <Link to="/" className="flex items-center gap-3 group" title="PROPSMART REALTY - 100% Brokerage Free Real Estate">
+                                <img
+                                    src={isSolid ? "/images/propsmart-logo.svg" : "/images/propsmart-logo-white.svg"}
+                                    alt="PROPSMART REALTY"
+                                    className="h-8 sm:h-9 md:h-10 w-auto object-contain transition-all duration-300 group-hover:scale-105"
+                                />
+                            </Link>
+                            <div className="hidden sm:flex items-center gap-1.5">
+                                <span className={`px-2.5 py-1 rounded-full text-[11px] font-extrabold uppercase tracking-wide border shadow-sm flex items-center gap-1 ${
+                                    isSolid 
+                                        ? 'bg-emerald-50 text-emerald-800 border-emerald-200' 
+                                        : 'bg-emerald-500/20 text-white border-emerald-400/30 backdrop-blur-md'
+                                }`}>
+                                    <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+                                    0% Brokerage
+                                </span>
+                                <span className={`hidden md:inline-flex px-2.5 py-1 rounded-full text-[11px] font-extrabold uppercase tracking-wide border shadow-sm ${
+                                    isSolid 
+                                        ? 'bg-amber-50 text-amber-800 border-amber-200' 
+                                        : 'bg-amber-500/20 text-amber-200 border-amber-400/30 backdrop-blur-md'
+                                }`}>
+                                    Buy Direct with Builder
+                                </span>
                             </div>
-                        </Link>
+                            <RERABadge variant="compact" isSolid={isSolid} className="hidden xl:inline-flex" />
+                        </div>
 
                         {/* Desktop Links */}
                         <div className="hidden lg:flex items-center gap-1 bg-white/5 backdrop-blur-sm px-2 py-1 rounded-full border border-white/10 shrink-0">
@@ -241,6 +231,20 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                                     <button className="w-full bg-blue-600 text-white py-4 rounded-xl font-bold text-lg shadow-xl shadow-blue-200">
                                         Login / Sign Up
                                     </button>
+
+                                    {/* Mobile RERA Verification */}
+                                    <a
+                                        href={PROPSMART_RERA.portalUrl}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="mt-2 p-3 bg-slate-50 border border-slate-200 rounded-xl flex items-center justify-between text-left hover:bg-slate-100 transition-colors"
+                                    >
+                                        <div>
+                                            <span className="text-[10px] uppercase font-bold text-slate-500 tracking-wider block">MahaRERA Registered Agent</span>
+                                            <span className="text-sm font-extrabold text-slate-900 tracking-wide">{PROPSMART_RERA.number}</span>
+                                        </div>
+                                        <span className="text-xs font-bold text-emerald-700 bg-emerald-100 px-2 py-0.5 rounded">Verified</span>
+                                    </a>
                                 </div>
                             </div>
                         </motion.div>

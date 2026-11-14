@@ -13,6 +13,8 @@ interface ProjectRailProps {
 }
 
 const ProjectRail: React.FC<ProjectRailProps> = ({ title, subtitle, projects, viewAllLink = '/search', bgColor = 'bg-white' }) => {
+    if (!projects || projects.length === 0) return null;
+
     return (
         <section className={`py-12 ${bgColor}`}>
             <div className="max-w-7xl mx-auto px-4">

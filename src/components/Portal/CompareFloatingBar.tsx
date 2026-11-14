@@ -46,8 +46,11 @@ const CompareFloatingBar: React.FC = () => {
                                     </button>
                                     <div className="w-full aspect-square rounded-lg overflow-hidden border border-slate-200">
                                         <img
-                                            src={project.image || 'https://via.placeholder.com/150'}
+                                            src={project.image || '/images/placeholder-property.svg'}
                                             alt={project.title}
+                                            onError={(e) => {
+                                                e.currentTarget.src = '/images/placeholder-property.svg';
+                                            }}
                                             className="w-full h-full object-cover"
                                         />
                                     </div>

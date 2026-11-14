@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
+  <!-- Background Container -->
+  <rect width="380" height="110" rx="16" fill="#ffffff"/>
+
+  <!-- VTP Authentic Dynamic Red Diamond Prism -->
+  <g transform="translate(24, 22)">
+    <polygon points="34,6 64,34 34,62 4,34" fill="#EE2726"/>
+    <!-- Inverted white core -->
+    <polygon points="34,16 52,34 34,52 16,34" fill="#ffffff"/>
+    <!-- Inner red pip -->
+    <polygon points="34,25 43,34 34,43 25,34" fill="#EE2726"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="104" y="51" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="30" font-weight="900" fill="#EE2726" letter-spacing="1">VTP</text>
+  <text x="175" y="51" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="28" font-weight="800" fill="#1E2229" letter-spacing="1">REALTY</text>
+  <text x="105" y="72" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#64748B" letter-spacing="2">PUNE'S #1 REAL ESTATE BRAND</text>
+  <text x="105" y="87" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="9" font-weight="700" fill="#EE2726" letter-spacing="1.5">MAXIMUM LIVABLE AREA (MLA)</text>
+</svg>

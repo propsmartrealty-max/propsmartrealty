@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <defs>
+    <!-- Sky Gradient -->
+    <linearGradient id="sky-ravet" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#001a23" />
+      <stop offset="45%" stop-color="#004753" />
+      <stop offset="85%" stop-color="#007b83" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+
+    <!-- Sun/Moon Glow -->
+    <radialGradient id="celestial-ravet" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#76e5d8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#00b2a9" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#00b2a9" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Glowing Filter -->
+    <filter id="glow-ravet" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Bottom Dark Vignette for Text Legibility -->
+    <linearGradient id="vignette-ravet" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0" />
+      <stop offset="50%" stop-color="#020617" stop-opacity="0.5" />
+      <stop offset="80%" stop-color="#020617" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0.98" />
+    </linearGradient>
+
+    <!-- Card Accent Glow -->
+    <linearGradient id="badge-glow-ravet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#76e5d8" />
+      <stop offset="100%" stop-color="#00b2a9" />
+    </linearGradient>
+  </defs>
+
+  <!-- 1. Background Sky -->
+  <rect width="800" height="1000" fill="url(#sky-ravet)" />
+
+  <!-- 2. Ambient Celestial Orb / Sun / Moon -->
+  <circle cx="640" cy="180" r="160" fill="url(#celestial-ravet)" />
+  <circle cx="640" cy="180" r="42" fill="#ffffff" opacity="0.95" />
+
+  <!-- 3. Starlight / Atmosphere Particles -->
+  <circle cx="120" cy="110" r="2" fill="#ffffff" opacity="0.7" />
+  <circle cx="240" cy="70" r="1.5" fill="#ffffff" opacity="0.5" />
+  <circle cx="380" cy="140" r="2.5" fill="#ffffff" opacity="0.8" />
+  <circle cx="490" cy="85" r="1.5" fill="#ffffff" opacity="0.6" />
+  <circle cx="720" cy="90" r="2" fill="#ffffff" opacity="0.8" />
+  <circle cx="160" cy="210" r="1.5" fill="#ffffff" opacity="0.4" />
+  <circle cx="310" cy="240" r="2" fill="#ffffff" opacity="0.6" />
+  <circle cx="530" cy="220" r="1" fill="#ffffff" opacity="0.5" />
+
+  <!-- 4. Distant Mountain Skyline Silhouette -->
+  <path d="M 0 540 Q 180 430 380 500 T 800 460 L 800 1000 L 0 1000 Z" fill="#040b17" opacity="0.6" />
+
+  <!-- 5. Distant City Skyline Silhouette -->
+  <polygon points="40,580 70,580 70,720 40,720" fill="#071324" opacity="0.8" />
+  <polygon points="90,520 130,520 130,720 90,720" fill="#071324" opacity="0.8" />
+  <polygon points="150,560 190,560 190,720 150,720" fill="#071324" opacity="0.8" />
+  <polygon points="470,490 510,490 510,720 470,720" fill="#071324" opacity="0.8" />
+  <polygon points="530,530 580,530 580,720 530,720" fill="#071324" opacity="0.8" />
+  <polygon points="610,480 660,480 660,720 610,720" fill="#071324" opacity="0.8" />
+  <polygon points="680,540 730,540 730,720 680,720" fill="#071324" opacity="0.8" />
+
+  <!-- 6. Special Locality Architectural Elements -->
+  
+        <!-- Wakad Twin Towers & Skybridge -->
+        <rect x="160" y="340" width="110" height="380" rx="4" fill="#1b0022" />
+        <rect x="330" y="310" width="120" height="410" rx="4" fill="#1b0022" />
+        <!-- Skybridge at level 18 -->
+        <rect x="250" y="420" width="100" height="26" rx="4" fill="#00b2a9" opacity="0.9" />
+        <line x1="250" y1="433" x2="350" y2="433" stroke="#ffffff" stroke-width="2" stroke-dasharray="4,3" />
+        <!-- Highway flyover arch -->
+        <path d="M 20 720 Q 300 620 780 670" stroke="#76e5d8" stroke-width="8" fill="none" opacity="0.85" />
+        <path d="M 20 720 Q 300 620 780 670" stroke="#ffffff" stroke-width="2" stroke-dasharray="12,12" fill="none" />
+        
+
+  <!-- 7. Foreground Modern High-Rise Buildings -->
+  <rect x="520" y="380" width="160" height="420" rx="4" fill="#030816" />
+  <line x1="520" y1="380" x2="680" y2="380" stroke="#76e5d8" stroke-width="3" />
+  <!-- Illuminated Windows Array -->
+  <g fill="#f0fdfa" opacity="0.85">
+    <rect x="540" y="410" width="16" height="12" rx="1" />
+    <rect x="570" y="410" width="16" height="12" rx="1" />
+    <rect x="630" y="410" width="16" height="12" rx="1" />
+
+    <rect x="540" y="440" width="16" height="12" rx="1" />
+    <rect x="600" y="440" width="16" height="12" rx="1" />
+    <rect x="630" y="440" width="16" height="12" rx="1" />
+
+    <rect x="570" y="470" width="16" height="12" rx="1" />
+    <rect x="600" y="470" width="16" height="12" rx="1" />
+
+    <rect x="540" y="500" width="16" height="12" rx="1" />
+    <rect x="570" y="500" width="16" height="12" rx="1" />
+    <rect x="630" y="500" width="16" height="12" rx="1" />
+
+    <rect x="540" y="540" width="16" height="12" rx="1" />
+    <rect x="600" y="540" width="16" height="12" rx="1" />
+
+    <rect x="570" y="580" width="16" height="12" rx="1" />
+    <rect x="630" y="580" width="16" height="12" rx="1" />
+  </g>
+
+  <!-- Left Foreground Building -->
+  <rect x="60" y="460" width="140" height="340" rx="4" fill="#040c1b" />
+  <line x1="60" y1="460" x2="200" y2="460" stroke="#00b2a9" stroke-width="2.5" />
+  <g fill="#f0fdfa" opacity="0.75">
+    <rect x="80" y="490" width="14" height="10" rx="1" />
+    <rect x="110" y="490" width="14" height="10" rx="1" />
+    <rect x="150" y="490" width="14" height="10" rx="1" />
+
+    <rect x="80" y="525" width="14" height="10" rx="1" />
+    <rect x="150" y="525" width="14" height="10" rx="1" />
+
+    <rect x="110" y="560" width="14" height="10" rx="1" />
+    <rect x="150" y="560" width="14" height="10" rx="1" />
+
+    <rect x="80" y="595" width="14" height="10" rx="1" />
+    <rect x="110" y="595" width="14" height="10" rx="1" />
+  </g>
+
+  <!-- Architectural Rooftop Spire & Antennas -->
+  <line x1="600" y1="380" x2="600" y2="280" stroke="#76e5d8" stroke-width="2.5" />
+  <circle cx="600" cy="280" r="4" fill="#ff3366" filter="url(#glow-ravet)" />
+
+  <!-- 8. Subtle Watermark Geometric Emblem -->
+  <g transform="translate(680, 60)" opacity="0.35">
+    <circle cx="0" cy="0" r="30" stroke="#ffffff" stroke-width="1.5" fill="none" />
+    <circle cx="0" cy="0" r="22" stroke="#76e5d8" stroke-width="1" fill="none" />
+    <path d="M -12 -12 L 0 -22 L 12 -12 L 0 -2 Z" fill="#76e5d8" />
+    <path d="M -12 12 L 0 2 L 12 12 L 0 22 Z" fill="#76e5d8" />
+  </g>
+
+  <!-- 9. Modern Diagonal Architectural Aesthetic Accent Line -->
+  <line x1="0" y1="720" x2="800" y2="680" stroke="#00b2a9" stroke-width="1.5" opacity="0.4" />
+
+  <!-- 10. Deep Bottom Vignette Gradient (Ensures clean contrast for overlaid text) -->
+  <rect y="400" width="800" height="600" fill="url(#vignette-ravet)" />
+
+  <!-- 11. Subtle Micro Graphic Locality Tag in Corner -->
+  <g transform="translate(48, 890)">
+    <rect x="0" y="0" width="130" height="26" rx="13" fill="#00b2a9" opacity="0.25" />
+    <rect x="0" y="0" width="130" height="26" rx="13" stroke="#76e5d8" stroke-width="1" fill="none" opacity="0.6" />
+    <circle cx="14" cy="13" r="4" fill="#76e5d8" />
+    <text x="26" y="17" fill="#ffffff" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" letter-spacing="1">PUNE PRIME</text>
+  </g>
+</svg>

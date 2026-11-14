@@ -36,8 +36,9 @@ export const NAVIGATION_CONFIG: NavItem[] = [
         name: 'Directory',
         icon: Users,
         children: [
-            { name: 'Verified Builders', path: '/directory' },
-            { name: 'Localities', path: '/admin/localities' }, // Assuming public access or redirect
+            { name: 'Verified Builders', path: '/directory?view=builders' },
+            { name: 'All Projects', path: '/directory?view=projects' },
+            { name: 'Top Localities', path: '/search' },
         ]
     },
     {

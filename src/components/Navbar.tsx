@@ -48,16 +48,13 @@ const Navbar: React.FC = () => {
               salesmandate@propsmart.digital
             </div>
           </div>
-          <div className="flex items-center gap-8">
+          <div className="flex items-center gap-6">
+            <div className="flex items-center gap-2 text-[9px] font-black text-amber-400 uppercase tracking-[0.15em] bg-amber-500/10 px-2.5 py-0.5 rounded border border-amber-500/20">
+              0% Brokerage • Buy Directly with Builder
+            </div>
             <div className="flex items-center gap-2 text-[9px] font-black text-slate-400 uppercase tracking-[0.2em]">
               <ShieldCheck size={11} className="text-teal-500" />
               MahaRERA: <span className="text-white">A031262401295</span>
-            </div>
-            <div className="flex items-center gap-3">
-              <span className="inline-block w-1.5 h-1.5 rounded-full bg-teal-500 animate-pulse"></span>
-              <div className="text-[9px] font-black text-teal-500 uppercase tracking-[0.3em]">
-                AI-Engine Status: Active (v4.2.0)
-              </div>
             </div>
           </div>
         </div>
@@ -70,21 +67,12 @@ const Navbar: React.FC = () => {
 
             {/* Structured Logo Layout */}
             <div className="flex-shrink-0">
-              <a href="#hero" onClick={(e) => handleLinkClick(e, '#hero')} className="flex items-center gap-4 group">
-                <div className={`w-11 h-11 rounded-2xl flex items-center justify-center transition-all duration-500 ${isScrolled ? 'bg-slate-900 text-teal-400 shadow-xl' : 'bg-white/10 backdrop-blur-lg text-teal-400 border border-white/20'}`}>
-                  <Building2 size={24} className="group-hover:scale-110 transition-transform duration-500" />
-                </div>
-                <div className="flex flex-col">
-                  <span className={`text-2xl font-black tracking-tighter transition-colors duration-500 leading-none ${isScrolled ? 'text-slate-900' : 'text-white'}`}>
-                    PUNE PROPERTY <span className="text-teal-500">VLOG</span>
-                  </span>
-                  <div className="flex items-center gap-1.5 mt-1">
-                    <span className="h-[1px] w-3 bg-teal-500/50"></span>
-                    <span className={`text-[9px] font-black uppercase tracking-[0.45em] leading-none transition-colors duration-500 ${isScrolled ? 'text-slate-400' : 'text-slate-300'}`}>
-                      Sales Mandates
-                    </span>
-                  </div>
-                </div>
+              <a href="#hero" onClick={(e) => handleLinkClick(e, '#hero')} className="flex items-center gap-3 group">
+                <img
+                  src={isScrolled ? "/images/propsmart-logo.svg" : "/images/propsmart-logo-white.svg"}
+                  alt="PROPSMART REALTY"
+                  className="h-8 md:h-9 w-auto object-contain transition-all duration-300"
+                />
               </a>
             </div>
 

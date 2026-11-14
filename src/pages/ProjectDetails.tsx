@@ -8,7 +8,7 @@ import TrustScore from '../components/Portal/TrustScore';
 import LeadForm from '../components/Portal/LeadForm';
 import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
-import { MapPin, Building2, CheckCircle2, ArrowRight, Phone, Download, Share2, Heart, Star, Calendar, Tag } from 'lucide-react';
+import { MapPin, Building2, CheckCircle2, ArrowRight, Phone, Download, Share2, Heart, Star, Calendar, Tag, ShieldCheck, ExternalLink } from 'lucide-react';
 import EMICalculator from '../components/Portal/EMICalculator';
 import PricingCalculator from '../components/Portal/Project/PricingCalculator';
 import { DetailSkeleton, ErrorState } from '../components/UI/LoadingSkeleton';
@@ -16,6 +16,11 @@ import DealBadge from '../components/Portal/DealBadge';
 import PriceTrendChart from '../components/Portal/MarketIntelligence/PriceTrendChart';
 import { getOptimizedImageUrl } from '../utils/imageUtils';
 import { openWhatsApp } from '../utils/whatsappUtils';
+import RERAProjectPassport from '../components/Portal/RERAProjectPassport';
+import ConstructionTimeline from '../components/Portal/Infographics/ConstructionTimeline';
+import CarpetAreaInfographic from '../components/Portal/Infographics/CarpetAreaInfographic';
+import InvestmentMetrics from '../components/Portal/Infographics/InvestmentMetrics';
+import TransitConnectivity from '../components/Portal/Infographics/TransitConnectivity';
 
 
 
@@ -86,7 +91,12 @@ const ProjectDetails = () => {
         setShowLeadForm(true);
     };
 
-    const project = projects.find(p => p.slug === slug);
+    const project = projects.find(p => 
+        p.slug === slug || 
+        (slug && p.slug.startsWith(slug)) || 
+        (slug && p.id === slug) ||
+        (slug && slug.startsWith(p.slug.split('-').slice(0, 3).join('-')))
+    );
     const locality = localities.find(l => l.name === project?.location);
     const localityAvgPrice = locality?.avgPriceSqft || 0;
 
@@ -249,7 +259,7 @@ const ProjectDetails = () => {
                     fetchPriority="high"
                     className="w-full h-full object-cover"
                     onError={(e) => {
-                        e.currentTarget.src = 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=2000';
+                        e.currentTarget.src = '/images/placeholder-property.svg';
                     }}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/40 to-transparent opacity-90" />
@@ -258,11 +268,21 @@ const ProjectDetails = () => {
                     <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-end justify-between gap-6">
                         <div>
                             <div className="flex gap-2 mb-4 flex-wrap">
+                                <span className="bg-emerald-500 text-white text-xs font-black px-3 py-1 rounded-full uppercase tracking-wide shadow-md flex items-center gap-1.5 border border-emerald-400">
+                                    <span className="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
+                                    100% Brokerage Free
+                                </span>
+                                <span className="bg-amber-500 text-slate-900 text-xs font-black px-3 py-1 rounded-full uppercase tracking-wide shadow-md flex items-center gap-1.5 border border-amber-300">
+                                    🏢 Buy Directly with Builder
+                                </span>
                                 <span className="bg-blue-600 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
                                     {project.status}
                                 </span>
                                 <span className="bg-white/20 backdrop-blur text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
-                                    RERA: {project.reraId || 'Pending'}
+                                    Project RERA: {project.reraId || 'Pending'}
+                                </span>
+                                <span className="bg-emerald-500/20 border border-emerald-400/40 backdrop-blur text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide text-emerald-200">
+                                    PROPSMART REALTY RERA: A031262401295
                                 </span>
                                 <span className="bg-emerald-500/80 backdrop-blur text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
                                     {project.type}
@@ -275,8 +295,8 @@ const ProjectDetails = () => {
                             </div>
                             <h1 className="text-4xl md:text-5xl font-bold mb-2">{project.title}</h1>
                             <div className="flex items-center gap-2 text-gray-200 text-lg">
-                                <MapPin className="w-5 h-5" />
-                                <span>{project.location}, Pune</span>
+                                <MapPin className="w-5 h-5 text-amber-400" />
+                                <span className="font-sans font-bold">{project.location}, Pune</span>
                             </div>
                         </div>
                         <div className="flex flex-col md:items-end gap-2">
@@ -295,25 +315,48 @@ const ProjectDetails = () => {
                 </div>
             </div >
 
+            {/* Direct with Builder Trust Banner */}
+            <div className="bg-gradient-to-r from-emerald-950 via-slate-900 to-emerald-950 text-white py-2.5 px-4 border-b border-emerald-500/20">
+                <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2.5 text-xs">
+                    <div className="flex items-center gap-2">
+                        <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                        <span className="font-black text-emerald-400 uppercase tracking-wider">100% Brokerage Free:</span>
+                        <span className="text-slate-200">Buy directly from builder inventory with official developer sales mandates.</span>
+                    </div>
+                    <div className="flex items-center gap-2.5 shrink-0">
+                        <span className="bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 px-2.5 py-0.5 rounded-full font-bold text-[10px] uppercase tracking-wide">
+                            Zero Buyer Commission
+                        </span>
+                        <span className="text-slate-500 hidden sm:inline">|</span>
+                        <span className="text-amber-300 font-extrabold text-[11px]">MahaRERA: A031262401295</span>
+                    </div>
+                </div>
+            </div>
+
             {/* Sticky Navigation (Adjusted top to not hide behind Fixed Navbar) */}
             <div className="sticky top-[72px] z-40 bg-white/95 backdrop-blur shadow-sm border-b border-gray-200">
                 <div className="max-w-7xl mx-auto px-4">
                     <div className="flex gap-8 overflow-x-auto no-scrollbar">
                         <div className="flex gap-8 overflow-x-auto no-scrollbar">
                             {[
+                                'rera-passport',
                                 'overview',
+                                'construction',
                                 ...(project.masterLayout ? ['master-layout'] : []),
+                                'carpet-area',
                                 ...(project.floorPlans && project.floorPlans.length > 0 ? ['floor-plans'] : []),
                                 'configurations',
                                 'amenities',
+                                'connectivity',
                                 'location',
+                                'investment',
                                 'builder'
                             ].map((section) => (
                                 <button
                                     key={section}
                                     onClick={() => scrollToSection(section)}
                                     className={getTabClass(section)}>
-                                    {section.replace('-', ' ')}
+                                    {section === 'rera-passport' ? 'RERA Passport' : section.replace('-', ' ')}
                                 </button>
                             ))}
                         </div>
@@ -325,6 +368,17 @@ const ProjectDetails = () => {
 
                 {/* Main Content */}
                 <div className="lg:col-span-2 space-y-16">
+
+                    {/* Official MahaRERA Project Passport & Authentic QR Code */}
+                    <div id="rera-passport" className="scroll-mt-40">
+                        <RERAProjectPassport
+                            slug={project.slug}
+                            title={project.title}
+                            reraId={project.reraId || 'P52100046729'}
+                            location={project.location}
+                            possessionDate={project.possessionDate}
+                        />
+                    </div>
 
                     {/* Overview */}
                     <section id="overview" className="scroll-mt-40">
@@ -351,6 +405,14 @@ const ProjectDetails = () => {
                         </div>
                     </section>
 
+                    {/* Construction Milestone Stepper Infographic */}
+                    <div id="construction" className="scroll-mt-40">
+                        <ConstructionTimeline
+                            projectStatus={project.status}
+                            possessionDate={project.possessionDate}
+                        />
+                    </div>
+
                     {/* Master Layout */}
                     {project.masterLayout && (
                         <section id="master-layout" className="scroll-mt-40">
@@ -361,11 +423,21 @@ const ProjectDetails = () => {
                                     alt={project.title + " Master Plan"}
                                     loading="lazy"
                                     decoding="async"
+                                    onError={(e) => {
+                                        e.currentTarget.src = '/images/placeholder-property.svg';
+                                    }}
                                     className="w-full h-auto rounded-xl hover:scale-[1.02] transition-transform cursor-zoom-in"
                                 />
                             </div>
                         </section>
                     )}
+
+                    {/* Space Engineering & Carpet Area Infographic */}
+                    <div id="carpet-area" className="scroll-mt-40">
+                        <CarpetAreaInfographic
+                            configurations={project.configurations}
+                        />
+                    </div>
 
                     {/* Floor Plans */}
                     {project.floorPlans && project.floorPlans.length > 0 && (
@@ -380,6 +452,9 @@ const ProjectDetails = () => {
                                                 alt={"Floor Plan " + (i + 1)}
                                                 loading="lazy"
                                                 decoding="async"
+                                                onError={(e) => {
+                                                    e.currentTarget.src = '/images/placeholder-property.svg';
+                                                }}
                                                 className="w-full h-full object-contain group-hover:scale-105 transition-transform"
                                             />
                                             <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors pointer-events-none" />
@@ -442,13 +517,20 @@ const ProjectDetails = () => {
                         </div>
                     </section>
 
+                    {/* Spatial Transit & Commute Infographic */}
+                    <div id="connectivity" className="scroll-mt-40">
+                        <TransitConnectivity
+                            location={project.location}
+                        />
+                    </div>
+
                     {/* Location */}
                     <section id="location" className="scroll-mt-40">
                         <h2 className="text-2xl font-bold text-slate-800 mb-6">Location</h2>
                         <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6 space-y-4">
-                            <div className="flex items-center gap-2 text-slate-700 mb-2">
-                                <MapPin className="w-5 h-5 text-blue-600" />
-                                <span className="font-semibold text-lg">{project.location}, Pune</span>
+                            <div className="flex items-center gap-2 text-slate-800 mb-2">
+                                <MapPin className="w-5 h-5 text-brand-600" />
+                                <span className="font-sans font-bold text-lg">{project.location}, Pune</span>
                             </div>
 
                             {/* Phase 5: Price Trend Graph */}
@@ -482,14 +564,26 @@ const ProjectDetails = () => {
                         </div>
                     </section>
 
+                    {/* Financial Yield & Capital Appreciation Infographic */}
+                    <div id="investment" className="scroll-mt-40">
+                        <InvestmentMetrics
+                            location={project.location}
+                            priceRange={project.priceRange}
+                            pricePerSqft={project.pricePerSqft}
+                        />
+                    </div>
+
                     {/* Builder Info - Main Section (Improved Fallback) */}
                     <section id="builder" className="scroll-mt-32">
                         <h2 className="text-2xl font-bold text-slate-800 mb-6">About Developer</h2>
                         <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-8">
                             <div className="flex flex-col md:flex-row gap-8 items-start">
                                 <img
-                                    src={getOptimizedImageUrl(builder?.logo || 'https://ui-avatars.com/api/?name=Developer&background=random', 200)}
+                                    src={getOptimizedImageUrl(builder?.logo || '/images/builders/godrej.svg', 200)}
                                     alt={builder?.name || 'Developer'}
+                                    onError={(e) => {
+                                        e.currentTarget.src = '/images/builders/godrej.svg';
+                                    }}
                                     className="w-32 h-32 object-contain p-4 bg-white rounded-xl border border-slate-100 shadow-sm"
                                 />
                                 <div className="flex-1 space-y-4">
@@ -588,6 +682,9 @@ const ProjectDetails = () => {
                                                 src={p.image}
                                                 alt={p.title}
                                                 loading="lazy"
+                                                onError={(e) => {
+                                                    e.currentTarget.src = '/images/placeholder-property.svg';
+                                                }}
                                                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
                                             />
                                             <div className="absolute top-2 left-2 bg-blue-600 text-white text-[10px] font-bold px-2 py-1 rounded shadow-sm">
@@ -640,55 +737,104 @@ const ProjectDetails = () => {
                             </div>
                         </div>
 
-                        {/* Lead Form Card */}
-                        <div className="bg-white rounded-2xl shadow-lg border border-gray-100 overflow-hidden">
-                            <div className="bg-blue-600 p-4 text-white text-center">
-                                <p className="font-bold text-lg">Interested in this property?</p>
-                                <p className="text-blue-100 text-sm">Get Best Deal Guaranteed!</p>
+                        {/* Lead Form Card - Buy Directly with Builder */}
+                        <div className="bg-white rounded-2xl shadow-xl border border-emerald-100 overflow-hidden ring-1 ring-emerald-500/20">
+                            <div className="bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 p-4 text-white text-center">
+                                <div className="inline-flex items-center gap-1.5 bg-white/20 backdrop-blur-sm text-[10px] font-black uppercase tracking-widest px-2.5 py-0.5 rounded-full mb-1.5 border border-white/30 text-white">
+                                    ✨ 100% Brokerage Free
+                                </div>
+                                <p className="font-black text-lg">Buy Directly With Builder</p>
+                                <p className="text-emerald-100 text-xs">Direct Developer Pricing • Zero Commission • Official Mandate</p>
                             </div>
                             <div className="p-6 space-y-4">
                                 <input
                                     type="text"
                                     placeholder="Your Name"
-                                    className="w-full px-4 py-3 rounded-xl bg-slate-50 border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all"
+                                    className="w-full px-4 py-3 rounded-xl bg-slate-50 border border-slate-200 focus:outline-none focus:ring-2 focus:ring-emerald-500 transition-all text-sm"
                                     value={leadName}
                                     onChange={(e) => setLeadName(e.target.value)}
                                 />
                                 <input
                                     type="tel"
                                     placeholder="+91 Phone Number"
-                                    className="w-full px-4 py-3 rounded-xl bg-slate-50 border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all"
+                                    className="w-full px-4 py-3 rounded-xl bg-slate-50 border border-slate-200 focus:outline-none focus:ring-2 focus:ring-emerald-500 transition-all text-sm"
                                     value={leadMobile}
                                     onChange={(e) => setLeadMobile(e.target.value)}
                                 />
                                 <input
                                     type="email"
                                     placeholder="Email Address"
-                                    className="w-full px-4 py-3 rounded-xl bg-slate-50 border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all"
+                                    className="w-full px-4 py-3 rounded-xl bg-slate-50 border border-slate-200 focus:outline-none focus:ring-2 focus:ring-emerald-500 transition-all text-sm"
                                     value={leadEmail}
                                     onChange={(e) => setLeadEmail(e.target.value)}
                                 />
 
                                 <button
                                     onClick={() => {
-                                        const text = "Hi, I am interested in " + project.title + ". Please share details.\n\nName: " + leadName + "\nMobile: " + leadMobile;
+                                        const text = "Hi, I want to connect directly with the developer sales team for " + project.title + " (0% Brokerage).\n\nName: " + leadName + "\nMobile: " + leadMobile;
                                         openWhatsApp(text);
                                     }}
-                                    className="w-full bg-[#25D366] hover:bg-[#20bd5a] text-white font-bold py-3.5 rounded-xl shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-2"
+                                    className="w-full bg-[#25D366] hover:bg-[#20bd5a] text-white font-extrabold py-3.5 rounded-xl shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-2 text-sm"
                                 >
-                                    WhatsApp Enquiry <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" className="w-5 h-5 filter invert brightness-0" alt="WA" />
+                                    Enquire Directly with Builder <img src="/images/whatsapp.svg" className="w-5 h-5 filter invert brightness-0" alt="WA" />
                                 </button>
                                 <a
                                     href="tel:+917744009295"
-                                    className="w-full bg-slate-900 hover:bg-slate-800 text-white font-bold py-3.5 rounded-xl shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-2"
+                                    className="w-full bg-slate-900 hover:bg-slate-800 text-white font-extrabold py-3.5 rounded-xl shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-2 text-sm"
                                 >
-                                    Call Now <Phone className="w-4 h-4" />
+                                    Call Developer Sales Desk <Phone className="w-4 h-4" />
                                 </a>
+
+                                {/* Value Proposition Highlights */}
+                                <div className="pt-2 border-t border-slate-100 space-y-1.5 text-[11px] text-slate-600">
+                                    <div className="flex items-center gap-1.5 font-semibold text-emerald-800">
+                                        <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
+                                        <span>Zero Brokerage Guaranteed for Homebuyers</span>
+                                    </div>
+                                    <div className="flex items-center gap-1.5 font-semibold text-slate-700">
+                                        <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
+                                        <span>Direct Developer Pricing & Sanctioned Inventory</span>
+                                    </div>
+                                    <div className="flex items-center gap-1.5 font-semibold text-slate-700">
+                                        <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
+                                        <span>Authorized MahaRERA Mandate: {PROPSMART_RERA.number}</span>
+                                    </div>
+                                </div>
                             </div >
-                            <div className="bg-slate-50 p-4 text-center text-xs text-gray-500 border-t border-gray-100">
-                                By submitting, you agree to our Terms & Privacy Policy
+                            <div className="bg-slate-50 p-3 text-center text-[10px] text-slate-500 border-t border-slate-100">
+                                Direct Developer Allocation • No Middlemen • 100% Transparent
                             </div>
                         </div >
+
+                        {/* propsmart MahaRERA Agent Mandate Card */}
+                        <div className="bg-slate-900 text-white rounded-2xl p-5 border border-slate-800 shadow-md">
+                            <div className="flex items-center justify-between mb-3">
+                                <span className="text-[10px] font-bold uppercase tracking-wider text-emerald-400 flex items-center gap-1.5">
+                                    <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
+                                    Authorized Mandate Partner
+                                </span>
+                                <span className="text-[10px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30 px-2 py-0.5 rounded">
+                                    0% Brokerage
+                                </span>
+                            </div>
+                            <div className="flex items-center justify-between">
+                                <div>
+                                    <span className="text-xs text-slate-400 block">PROPSMART REALTY MahaRERA No.</span>
+                                    <span className="text-lg font-black text-white tracking-wide">A031262401295</span>
+                                </div>
+                                <a
+                                    href="https://maharera.maharashtra.gov.in/"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="text-xs font-bold text-amber-400 hover:text-amber-300 flex items-center gap-1 underline"
+                                >
+                                    Verify <ExternalLink className="w-3 h-3" />
+                                </a>
+                            </div>
+                            <p className="text-[11px] text-slate-400 mt-2 leading-relaxed border-t border-slate-800 pt-2">
+                                Official MahaRERA accredited sales advisory. Direct developer allocation with complete legal compliance.
+                            </p>
+                        </div>
 
                         {/* RERA VERIFICATION BADGE (Phase 2) */}
                         {
@@ -724,7 +870,14 @@ const ProjectDetails = () => {
                         {
                             builder && (
                                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm flex items-center gap-4">
-                                    <img src={builder.logo} alt={builder.name} className="w-16 h-16 object-contain p-2 bg-white rounded-lg border border-gray-100" />
+                                    <img 
+                                        src={builder.logo || '/images/builders/godrej.svg'} 
+                                        alt={builder.name} 
+                                        onError={(e) => {
+                                            e.currentTarget.src = '/images/builders/godrej.svg';
+                                        }}
+                                        className="w-16 h-16 object-contain p-2 bg-white rounded-lg border border-gray-100" 
+                                    />
                                     <div>
                                         <p className="text-xs text-gray-500 uppercase font-bold">Developer</p>
                                         <h4 className="font-bold text-slate-900">{builder.name}</h4>

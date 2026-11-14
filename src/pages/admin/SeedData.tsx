@@ -250,47 +250,47 @@ const SEED_DATA = [
 
 const MOCK_FALLBACK: any = {
     "Godrej Properties": {
-        logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aec/Godrej_Logo.svg/2560px-Godrej_Logo.svg.png",
+        logo: "/images/builders/godrej.svg",
         description: "Godrej Properties brings the Godrej Group philosophy of innovation, sustainability, and excellence to the real estate industry.",
         establishedYear: 1990
     },
     "VTP Realty": {
-        logo: "https://www.vtprealty.in/wp-content/uploads/2020/08/VTP-Realty-Logo.png",
+        logo: "/images/builders/vtp-realty.svg",
         description: "VTP Realty is Pune's #1 Real Estate Brand, known for its MLA (Maximum Livable Area) philosophy.",
         establishedYear: 2011
     },
     "Panchshil Realty": {
-        logo: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Panchshil_Realty_Logo.jpg",
+        logo: "/images/builders/panchshil.svg",
         description: "Panchshil Realty is one of India's finest luxury real estate developers.",
         establishedYear: 2002
     },
     "Kolte Patil Developers": {
-        logo: "https://www.koltepatil.com/assets/front/images/kp-logo.png",
+        logo: "/images/builders/kolte-patil.webp",
         description: "Kolte-Patil Developers Ltd. is a leading real estate company with dominant presence in the Pune residential market.",
         establishedYear: 1991
     },
     "Rohan Builders": {
-        logo: "https://rohanbuilders.com/static/images/logo.png",
+        logo: "/images/builders/rohan.svg",
         description: "Rohan Builders is a name synonymous with quality, innovation, and ethical business practices in the real estate industry.",
         establishedYear: 1993
     },
     "Gera Developments": {
-        logo: "https://www.gera.in/assets/images/logo.png",
+        logo: "/images/builders/gera.svg",
         description: "Gera Developments is known for its ChildCentric® Homes and innovative real estate solutions in Pune.",
         establishedYear: 1970
     },
     "Kasturi Housing": {
-        logo: "https://kasturi.com/wp-content/themes/kasturi/assets/images/logo.svg",
+        logo: "/images/builders/kasturi.svg",
         description: "Kasturi Housing is an award-winning luxury real estate developer in Pune, known for its architectural excellence.",
         establishedYear: 1999
     },
     "BramhaCorp": {
-        logo: "https://www.bramhacorp.in/assets/images/logo.png",
+        logo: "/images/builders/bramhacorp.svg",
         description: "BramhaCorp is a pioneering real estate company in Pune, known for introducing luxury hospitality and premium residences.",
         establishedYear: 1982
     },
     "DEFAULT": {
-        logo: "https://ui-avatars.com/api/?background=0D8ABC&color=fff&size=512",
+        logo: "/images/builders/godrej.svg",
         description: "A leading name in Pune real estate sector known for quality and delivery.",
         establishedYear: 2005
     }

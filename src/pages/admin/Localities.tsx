@@ -5,6 +5,7 @@ import AdminLayout from '../../components/Admin/AdminLayout';
 import { useData } from '../../context/DataContext';
 import { Edit, Trash2, Plus, MapPin, TrendingUp } from 'lucide-react';
 import ImageUpload from '../../components/Admin/ImageUpload';
+import { getLocalityImageUrl } from '../../utils/localityUtils';
 
 const AdminLocalities = () => {
     const { localities, isLoading } = useData();
@@ -189,16 +190,18 @@ const AdminLocalities = () => {
                     {localities.map((loc: any) => (
                         <div key={loc.id} className="bg-white p-4 rounded-xl border border-gray-100 shadow-sm flex justify-between items-center hover:shadow-md transition-shadow">
                             <div className="flex items-center gap-4">
-                                <div className="bg-blue-50 p-3 rounded-full text-blue-600">
-                                    <MapPin className="w-5 h-5" />
-                                </div>
+                                <img
+                                    src={loc.imageUrl || getLocalityImageUrl(loc.name)}
+                                    alt={loc.name}
+                                    className="w-12 h-12 rounded-xl object-cover border border-slate-200 shrink-0"
+                                />
                                 <div>
-                                    <h4 className="font-bold text-slate-800 text-lg">{loc.name}</h4>
+                                    <h4 className="font-sans font-extrabold text-slate-800 text-lg tracking-tight">{loc.name}</h4>
                                     <div className="flex gap-4 text-sm text-slate-600 mt-1">
-                                        <p>Avg: <span className="font-semibold text-slate-900">₹{loc.avgPriceSqft?.toLocaleString() || 'N/A'}/sqft</span></p>
+                                        <p>Avg: <span className="font-sans font-bold text-slate-900">₹{loc.avgPriceSqft?.toLocaleString() || 'N/A'}/sqft</span></p>
                                         <p className="flex items-center gap-1">
                                             <TrendingUp className="w-3 h-3 text-green-500" />
-                                            <span className="font-semibold text-green-600">+{loc.appreciation_rate}%</span> /yr
+                                            <span className="font-sans font-bold text-green-600">+{loc.appreciation_rate}%</span> /yr
                                         </p>
                                     </div>
                                 </div>

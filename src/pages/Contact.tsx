@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import PortalNavbar from '../components/Portal/Navbar';
 import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
-import { Phone, Mail, MapPin } from 'lucide-react';
+import { Phone, Mail, MapPin, ShieldCheck } from 'lucide-react';
 import { supabase } from '../services/supabase';
 import { sendLeadEmailNotification } from '../utils/emailUtils';
 
@@ -42,8 +42,8 @@ const Contact = () => {
     return (
         <div className="min-h-screen bg-slate-50 flex flex-col">
             <SEO
-                title="Contact Us | Pune Property Vlog"
-                description="Get in touch with us for any queries regarding Pune Real Estate."
+                title="Contact Us | PROPSMART REALTY"
+                description="Get in touch with PROPSMART REALTY for any queries regarding Pune Real Estate."
             />
             <PortalNavbar variant="colored" />
 
@@ -83,6 +83,24 @@ const Contact = () => {
                                     <div>
                                         <p className="text-sm font-bold text-slate-500 uppercase mb-1">Office</p>
                                         <p className="text-lg font-bold text-slate-900">Baner, Pune, Maharashtra 411045</p>
+                                    </div>
+                                </div>
+
+                                <div className="flex items-start gap-4 pt-4 border-t border-slate-100">
+                                    <div className="bg-emerald-100 p-3 rounded-lg text-emerald-600">
+                                        <ShieldCheck className="w-6 h-6" />
+                                    </div>
+                                    <div>
+                                        <p className="text-sm font-bold text-slate-500 uppercase mb-1">MahaRERA Registration</p>
+                                        <p className="text-lg font-black text-slate-900 tracking-wide">A031262401295</p>
+                                        <a
+                                            href="https://maharera.maharashtra.gov.in/"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="text-xs font-semibold text-emerald-600 hover:text-emerald-700 underline mt-1 inline-block"
+                                        >
+                                            Verify on MahaRERA Portal ↗
+                                        </a>
                                     </div>
                                 </div>
                             </div>

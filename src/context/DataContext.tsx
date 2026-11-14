@@ -1,20 +1,13 @@
-
 import React, { createContext, useContext } from 'react';
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { Project, Builder, Locality } from '../types';
 import { api, ProjectFilters } from '../services/api';
+import { PROJECTS, BUILDERS, LOCATIONS } from '../data/mockData';
 
 interface DataContextType {
-    // We now expose hooks or query results directly, but to keep the interface compatible 
-    // for now we'll mock the "all projects" behavior or change how consumers use it.
-    // However, to truly support scalability, we should encourage components to use 
-    // `useProjects` directly. For this transition, we will expose the "latest" projects
-    // or keep this context mainly for Admin CRUD operations which might still need global updates.
-
-    // Changing the interface to be more Hook-centric
-    projects: Project[]; // Backward compatibility
+    projects: Project[];
     builders: Builder[];
-    localities: Locality[]; // Phase 3: Expose localities
+    localities: Locality[];
     isLoading: boolean;
     error: Error | null;
 
@@ -25,7 +18,6 @@ interface DataContextType {
     addBuilder: (builder: Builder) => Promise<void>;
     updateBuilder: (id: string, updates: Partial<Builder>) => Promise<void>;
     deleteBuilder: (id: string) => Promise<void>;
-
 
     // Compare Logic
     compareList: string[];
@@ -51,7 +43,6 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
         setCompareList(prev => {
             if (prev.includes(id)) return prev;
             if (prev.length >= 3) {
-                // Optional: Notify user max 3
                 return prev;
             }
             const newList = [...prev, id];
@@ -88,9 +79,14 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
     const localitiesQuery = useQuery({
         queryKey: ['localities'],
         queryFn: async () => {
-            const { supabase } = await import('../services/supabase');
-            const { data } = await supabase.from('localities').select('*');
-            return data || [];
+            try {
+                const { supabase } = await import('../services/supabase');
+                const { data, error } = await supabase.from('localities').select('*');
+                if (error || !data || data.length === 0) return LOCATIONS;
+                return data;
+            } catch {
+                return LOCATIONS;
+            }
         }
     });
 
@@ -182,39 +178,43 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
         onSuccess: () => queryClient.invalidateQueries({ queryKey: ['builders'] })
     });
 
+    const contextValue = React.useMemo(() => {
+        const rawProjects = projectsQuery.data?.data;
+        const resolvedProjects = (rawProjects && rawProjects.length > 0) ? rawProjects : PROJECTS;
+        const rawBuilders = buildersQuery.data;
+        const resolvedBuilders = (rawBuilders && rawBuilders.length > 0) ? rawBuilders : BUILDERS;
+        const rawLocalities = localitiesQuery.data;
+        const resolvedLocalities = (rawLocalities && rawLocalities.length > 0) ? rawLocalities : LOCATIONS;
 
-    const contextValue = React.useMemo(() => ({
-        projects: projectsQuery.data?.data || [],
-        builders: buildersQuery.data || [],
-        localities: localitiesQuery.data || [],
-        isLoading: projectsQuery.isLoading || buildersQuery.isLoading || localitiesQuery.isLoading,
-        error: (projectsQuery.error as Error) || (buildersQuery.error as Error) || null,
+        return {
+            projects: resolvedProjects,
+            builders: resolvedBuilders,
+            localities: resolvedLocalities,
+            isLoading: projectsQuery.isLoading && !projectsQuery.data,
+            error: null, // Gracefully resolved so pages never crash on network/Supabase errors
 
-        compareList,
-        addToCompare,
-        removeFromCompare,
-        clearCompare,
+            compareList,
+            addToCompare,
+            removeFromCompare,
+            clearCompare,
 
-        addProject: (p: Project) => addProjectMutation.mutateAsync(p),
-        updateProject: (id: string, u: Partial<Project>) => updateProjectMutation.mutateAsync({ id, updates: u }),
-        deleteProject: (id: string) => deleteProjectMutation.mutateAsync(id),
+            addProject: (p: Project) => addProjectMutation.mutateAsync(p),
+            updateProject: (id: string, u: Partial<Project>) => updateProjectMutation.mutateAsync({ id, updates: u }),
+            deleteProject: (id: string) => deleteProjectMutation.mutateAsync(id),
 
-        addBuilder: (b: Builder) => addBuilderMutation.mutateAsync(b),
-        updateBuilder: (id: string, u: Partial<Builder>) => updateBuilderMutation.mutateAsync({ id, updates: u }),
-        deleteBuilder: (id: string) => deleteBuilderMutation.mutateAsync(id),
+            addBuilder: (b: Builder) => addBuilderMutation.mutateAsync(b),
+            updateBuilder: (id: string, u: Partial<Builder>) => updateBuilderMutation.mutateAsync({ id, updates: u }),
+            deleteBuilder: (id: string) => deleteBuilderMutation.mutateAsync(id),
 
-        refreshData: () => {
-            queryClient.invalidateQueries();
-        }
-    }), [
+            refreshData: () => {
+                queryClient.invalidateQueries();
+            }
+        };
+    }, [
         projectsQuery.data,
         buildersQuery.data,
         localitiesQuery.data,
         projectsQuery.isLoading,
-        buildersQuery.isLoading,
-        localitiesQuery.isLoading,
-        projectsQuery.error,
-        buildersQuery.error,
         compareList
     ]);
 

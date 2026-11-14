@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
+  <defs>
+    <linearGradient id="kasturi-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E5C781"/>
+      <stop offset="100%" stop-color="#B38B3F"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Container -->
+  <rect width="380" height="110" rx="16" fill="#ffffff"/>
+
+  <!-- Kasturi Crown Crest Monogram -->
+  <g transform="translate(25, 22)">
+    <rect x="0" y="0" width="66" height="66" rx="14" fill="#3B1C54"/>
+    <!-- Crown icon -->
+    <path d="M 16 46 L 20 24 L 28 35 L 33 20 L 38 35 L 46 24 L 50 46 Z" fill="url(#kasturi-gold)"/>
+    <circle cx="20" cy="22" r="2.5" fill="url(#kasturi-gold)"/>
+    <circle cx="33" cy="18" r="3" fill="url(#kasturi-gold)"/>
+    <circle cx="46" cy="22" r="2.5" fill="url(#kasturi-gold)"/>
+    <!-- Monogram K -->
+    <text x="33" y="58" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">KASTURI</text>
+  </g>
+
+  <!-- Typography -->
+  <text x="106" y="50" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="26" font-weight="800" fill="#201030" letter-spacing="2">KASTURI</text>
+  <text x="108" y="70" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#B38B3F" letter-spacing="3.5">HOUSING PUNE</text>
+  <text x="108" y="85" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#6B7280" letter-spacing="1">The Art of Luxury Living</text>
+</svg>

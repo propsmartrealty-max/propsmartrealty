@@ -45,8 +45,8 @@ const PostProperty = () => {
     return (
         <div className="min-h-screen bg-slate-50 flex flex-col">
             <SEO
-                title="Post Your Property | Pune Property Vlog"
-                description="Sell or Rent your property in Pune with Pune Property Vlog. Free listing for owners."
+                title="Post Your Property | PROPSMART REALTY"
+                description="Sell or Rent your property in Pune with PROPSMART REALTY. Free listing for owners."
             />
             <PortalNavbar variant="colored" />
 
@@ -54,7 +54,7 @@ const PostProperty = () => {
                 <div className="max-w-2xl mx-auto">
                     <div className="text-center mb-10">
                         <h1 className="text-3xl font-extrabold text-slate-900 mb-4">Sell or Rent Your Property</h1>
-                        <p className="text-slate-600">Join thousands of owners who trust Pune Property Vlog to find the right buyers.</p>
+                        <p className="text-slate-600">Join thousands of owners who trust PROPSMART REALTY to find the right buyers.</p>
                     </div>
 
                     {submitted ? (

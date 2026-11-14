@@ -8,9 +8,11 @@ import { ErrorState } from '../components/UI/LoadingSkeleton';
 // New Components
 import HeroSearch from '../components/Portal/Home/HeroSearch';
 import LocalityStrip from '../components/Portal/Home/LocalityStrip';
+import WhyBuyDirect from '../components/Portal/Home/WhyBuyDirect';
 import SpotlightSection from '../components/Portal/Home/SpotlightSection';
 import ProjectRail from '../components/Portal/Home/ProjectRail';
 import BuilderSpotlight from '../components/Portal/Home/BuilderSpotlight';
+import RERABadge from '../components/Portal/RERABadge';
 
 const Home = () => {
     const { projects, builders, isLoading, error, refreshData } = useData();
@@ -35,8 +37,8 @@ const Home = () => {
     return (
         <div className="min-h-screen bg-slate-50 font-sans selection:bg-blue-500 selection:text-white">
             <SEO
-                title="Propsmart Realty - Premium Real Estate in Pune"
-                description="Find your dream home in Pune. Search verified properties, new launches, and resale apartments in Baner, Hinjewadi, and more."
+                title="PROPSMART REALTY - 100% Brokerage Free | Buy Directly with Builder in Pune"
+                description="Buy directly from top builders in Pune with 100% zero brokerage. PROPSMART REALTY is your trusted MahaRERA registered direct developer sales mandate platform."
             />
 
             <PortalNavbar />
@@ -50,13 +52,16 @@ const Home = () => {
                 {/* 2. Popular Localities Strip */}
                 <LocalityStrip />
 
-                {/* 3. Spotlight / Featured Section */}
+                {/* 3. Why Buy Directly with Builder Section (Core Brand Value Proposition) */}
+                <WhyBuyDirect />
+
+                {/* 4. Spotlight / Featured Section */}
                 <SpotlightSection projects={projects} />
 
                 {/* 4. Project Rails */}
                 <ProjectRail
                     title="New Launches"
-                    subtitle="Be the first to book the best invetories"
+                    subtitle="Be the first to book the best inventories"
                     projects={newLaunches}
                     bgColor="bg-slate-50"
                 />
@@ -77,6 +82,11 @@ const Home = () => {
                     projects={luxuryProjects}
                     bgColor="bg-blue-50"
                 />
+
+                {/* 7. Propsmart MahaRERA Compliance & Trust Banner */}
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                    <RERABadge variant="banner" />
+                </div>
 
             </main>
 

@@ -33,11 +33,8 @@ const AdminDashboard: React.FC<{
       <aside className="w-64 bg-slate-900 border-r border-white/5 flex flex-col shrink-0">
         <div className="p-6">
           <div className="flex items-center gap-3 mb-10">
-            <ShieldCheck size={24} className="text-teal-500" />
-            <div className="flex flex-col">
-              <span className="font-black text-base uppercase leading-none">PUNE PROPERTY VLOG</span>
-              <span className="text-[8px] font-black text-teal-500 uppercase tracking-widest mt-1">HQ Console</span>
-            </div>
+            <img src="/images/propsmart-logo-white.svg" alt="PROPSMART REALTY" className="h-6 w-auto" />
+            <span className="text-[9px] font-black text-amber-500 uppercase tracking-widest px-1.5 py-0.5 rounded bg-amber-500/10 border border-amber-500/20">Console</span>
           </div>
           <nav className="space-y-1">
             {[
@@ -70,7 +67,7 @@ const AdminDashboard: React.FC<{
         <header className="flex justify-between items-center mb-10">
           <div>
             <h1 className="text-2xl font-black uppercase tracking-tighter">{activeTab}</h1>
-            <p className="text-slate-500 text-xs font-medium uppercase tracking-widest">Pune Property Vlog Admin</p>
+            <p className="text-slate-500 text-xs font-medium uppercase tracking-widest">PROPSMART REALTY Admin</p>
           </div>
           <div className="px-4 py-2 bg-white/5 rounded-lg border border-white/10 flex items-center gap-2">
             <Zap size={14} className="text-teal-500" />

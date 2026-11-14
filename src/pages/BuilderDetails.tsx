@@ -76,14 +76,23 @@ const BuilderDetails = () => {
                     <div className="max-w-7xl mx-auto flex items-end gap-6">
                         <div className="w-32 h-32 bg-white rounded-xl p-2 shadow-lg -mb-12 relative z-10 flex items-center justify-center">
                             <img
-                                src={builder.logo || 'https://ui-avatars.com/api/?name=' + builder.name + '&background=random'}
+                                src={builder.logo || '/images/builders/godrej.svg'}
                                 alt={builder.name}
+                                onError={(e) => {
+                                    e.currentTarget.src = '/images/builders/godrej.svg';
+                                }}
                                 className="w-full h-full object-contain"
                             />
                         </div>
                         <div className="text-white pb-2">
-                            <div className="flex items-center gap-3 mb-2">
+                            <div className="flex items-center gap-2.5 sm:gap-3 mb-2 flex-wrap">
                                 <h1 className="text-4xl font-bold">{builder.name}</h1>
+                                <span className="bg-emerald-500 text-white text-xs font-black px-3 py-1 rounded-full uppercase tracking-wider flex items-center gap-1 shadow-sm">
+                                    0% Brokerage
+                                </span>
+                                <span className="bg-amber-500 text-slate-900 text-xs font-black px-3 py-1 rounded-full uppercase tracking-wider flex items-center gap-1 shadow-sm">
+                                    Buy Directly with Builder
+                                </span>
                                 {builder.isVerified && (
                                     <span className="bg-blue-600 text-white text-xs font-bold px-2 py-1 rounded-full uppercase tracking-wider flex items-center gap-1 shadow-sm">
                                         <Trophy className="w-3 h-3 text-yellow-300" /> Verified
@@ -93,7 +102,7 @@ const BuilderDetails = () => {
                             <p className="text-gray-300 max-w-2xl">{builder.description}</p>
                             {builder.mobile && (
                                 <a href={`tel:${builder.mobile}`} className="inline-block mt-4 bg-white/10 hover:bg-white/20 backdrop-blur text-white font-semibold px-4 py-2 rounded-lg transition-colors border border-white/20">
-                                    Contact: {builder.mobile}
+                                    Developer Sales Desk: {builder.mobile}
                                 </a>
                             )}
                         </div>
@@ -102,6 +111,19 @@ const BuilderDetails = () => {
             </div>
 
             <div className="max-w-7xl mx-auto px-4 pt-20 pb-12">
+                {/* Direct Builder Sales Mandate Banner */}
+                <div className="mb-8 p-5 rounded-2xl bg-gradient-to-r from-emerald-950 via-slate-900 to-emerald-950 text-white flex flex-col md:flex-row items-center justify-between gap-4 border border-emerald-500/25 shadow-lg">
+                    <div className="flex items-center gap-3">
+                        <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse shrink-0"></span>
+                        <div>
+                            <span className="font-black text-sm text-emerald-300 uppercase tracking-wide">Direct Developer Sales Mandate:</span>
+                            <span className="text-xs text-slate-200 ml-2">All {builder.name} projects on PROPSMART REALTY are 100% Brokerage Free with official pricing.</span>
+                        </div>
+                    </div>
+                    <span className="text-xs font-black bg-amber-500/20 text-amber-300 border border-amber-500/30 px-3.5 py-1 rounded-full shrink-0 uppercase tracking-wider">
+                        0% Brokerage Guaranteed
+                    </span>
+                </div>
 
                 {/* Stats */}
                 <div className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-12">
@@ -143,7 +165,7 @@ const BuilderDetails = () => {
                                     alt={project.title}
                                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                                     onError={(e) => {
-                                        e.currentTarget.src = 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800';
+                                        e.currentTarget.src = '/images/placeholder-property.svg';
                                     }}
                                 />
                                 <div className="absolute top-4 left-4">

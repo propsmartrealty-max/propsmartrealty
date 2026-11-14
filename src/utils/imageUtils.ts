@@ -1,34 +1,51 @@
-
 /**
- * Optimizes Supabase Storage URLs for performance.
- * 
- * Strategy:
- * 1. Appends ?width=X&quality=Y for resizing (Standard Supabase Feature).
- * 2. Caches results to avoid frequent recalculations.
- * 3. Handles fallbacks for broken/empty URLs.
+ * Image optimization & resilient fallback utility for PROPSMART REALTY.
  */
 
-export const getOptimizedImageUrl = (url: string | undefined, width: number = 800, quality: number = 80): string => {
-    if (!url) return 'https://placehold.co/600x400?text=No+Image';
-    if (url.includes('placehold.co') || url.includes('ui-avatars')) return url;
-    if (url.startsWith('blob:')) return url; // Preview images during upload
+export const PLACEHOLDER_PROPERTY = '/images/placeholder-property.svg';
+export const PLACEHOLDER_BUILDER = '/images/builders/godrej.svg';
+
+export const getOptimizedImageUrl = (
+    url: string | undefined | null,
+    width: number = 800,
+    quality: number = 80,
+    fallback: string = PLACEHOLDER_PROPERTY
+): string => {
+    if (!url || typeof url !== 'string' || url.trim() === '') {
+        return fallback;
+    }
+
+    const trimmed = url.trim();
+
+    // Prevent broken external placeholders
+    if (trimmed.includes('placehold.co') || trimmed.includes('via.placeholder.com')) {
+        return fallback;
+    }
+
+    // Local assets or blobs
+    if (trimmed.startsWith('/') || trimmed.startsWith('blob:') || trimmed.startsWith('data:')) {
+        return trimmed;
+    }
 
     try {
-        // Check if it's a Supabase Storage URL
-        if (url.includes('supabase.co/storage/v1/object/public')) {
-            const separator = url.includes('?') ? '&' : '?';
-            // Transformations: width, quality, format=webp (modern browsers)
-            return `${url}${separator}width=${width}&quality=${quality}&format=webp`;
+        // Optimize Supabase Storage URLs when valid
+        if (trimmed.includes('supabase.co/storage/v1/object/public')) {
+            const separator = trimmed.includes('?') ? '&' : '?';
+            return `${trimmed}${separator}width=${width}&quality=${quality}&format=webp`;
         }
 
-        // Return original for non-Supabase URLs
-        return url;
-    } catch (e) {
-        return url;
+        // Optimize Unsplash images with width & format params if missing
+        if (trimmed.includes('images.unsplash.com') && !trimmed.includes('w=')) {
+            const separator = trimmed.includes('?') ? '&' : '?';
+            return `${trimmed}${separator}auto=format&fit=crop&q=${quality}&w=${width}`;
+        }
+
+        return trimmed;
+    } catch {
+        return fallback;
     }
 };
 
 export const getBlurHash = (url: string) => {
-    // Phase 2: Implement BlurHash for smooth loading
     return "L6PZfSi_.AyE_3t7t7R**0o#DgR4";
 };

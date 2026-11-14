@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useSyncExternalStore } from 'react';
 import {
   XAxis,
   YAxis,
@@ -20,7 +20,11 @@ const INITIAL_SALES_DATA = [
 ];
 
 const DashboardPreview: React.FC = () => {
-  const [isMounted, setIsMounted] = useState(false);
+  const isMounted = useSyncExternalStore(
+    () => () => {},
+    () => true,
+    () => false
+  );
   const [liveStats, setLiveStats] = useState({
     aiQualified: 88,
     leadScore: 92.4,
@@ -29,7 +33,6 @@ const DashboardPreview: React.FC = () => {
   const [feed, setFeed] = useState<{ id: number, text: string, time: string, icon: React.ReactNode }[]>([]);
 
   useEffect(() => {
-    setIsMounted(true);
     const interval = setInterval(() => {
       setLiveStats(prev => ({
         aiQualified: Math.min(100, prev.aiQualified + (Math.random() > 0.8 ? 1 : 0)),
@@ -62,7 +65,7 @@ const DashboardPreview: React.FC = () => {
             <div className="w-2.5 h-2.5 rounded-full bg-yellow-500" />
             <div className="w-2.5 h-2.5 rounded-full bg-green-500" />
           </div>
-          <span className="text-slate-400 text-[9px] font-black uppercase tracking-widest">PUNE PROPERTY VLOG v1.0</span>
+          <span className="text-slate-400 text-[9px] font-black uppercase tracking-widest">PROPSMART REALTY v1.0</span>
         </div>
         <div className="flex items-center gap-2">
           <span className="w-2 h-2 bg-teal-500 rounded-full animate-pulse" />
