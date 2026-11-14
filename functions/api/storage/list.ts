@@ -1,5 +1,5 @@
 // Cloudflare Pages Function: /api/storage/list
-import { Env, jsonResponse, verifyAdminToken } from '../../_middleware';
+import { Env, jsonResponse, verifyAdminToken } from '../_middleware';
 
 export const onRequestGet: PagesFunction<Env> = async (context) => {
     const isAuthorized = await verifyAdminToken(context.request, context.env);

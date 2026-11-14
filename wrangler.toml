@@ -7,13 +7,13 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "propsmart-d1"
-database_id = "propsmart-d1-production"
+database_id = "71bf05aa-03b7-4db2-8377-6000f5b1151a"
 migrations_dir = "migrations"
 
-# Cloudflare R2 Object Storage (Images, Documents, Media)
-[[r2_buckets]]
-binding = "ASSETS_BUCKET"
-bucket_name = "propsmart-assets"
+# Cloudflare R2 Object Storage (Enable in dashboard to activate)
+# [[r2_buckets]]
+# binding = "ASSETS_BUCKET"
+# bucket_name = "propsmart-assets"
 
 # Environment Variables & Security Settings
 [vars]

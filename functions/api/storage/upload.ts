@@ -1,5 +1,5 @@
 // Cloudflare Pages Function: /api/storage/upload (R2 Object Storage)
-import { Env, jsonResponse, verifyAdminToken } from '../../_middleware';
+import { Env, jsonResponse, verifyAdminToken } from '../_middleware';
 
 export const onRequestPost: PagesFunction<Env> = async (context) => {
     // Check authentication if needed (admin only for direct media uploads)

@@ -1,5 +1,5 @@
 // Cloudflare Pages Function: /api/storage/delete
-import { Env, jsonResponse, verifyAdminToken } from '../../_middleware';
+import { Env, jsonResponse, verifyAdminToken } from '../_middleware';
 
 export const onRequestPost: PagesFunction<Env> = async (context) => {
     const isAuthorized = await verifyAdminToken(context.request, context.env);
