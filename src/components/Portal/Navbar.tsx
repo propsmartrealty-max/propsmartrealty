@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { NAVIGATION_CONFIG, NavItem } from '../../config/navigation';
 import { getWhatsAppUrl } from '../../utils/whatsappUtils';
 import RERABadge, { PROPSMART_RERA } from './RERABadge';
+import PropsmartLogo from './PropsmartLogo';
 
 const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | 'colored' }) => {
     const [scrolled, setScrolled] = useState(false);
@@ -39,32 +40,11 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex justify-between items-center">
 
-                        {/* Logo & Value Proposition */}
-                        <div className="flex items-center gap-2 sm:gap-3 z-50">
-                            <Link to="/" className="flex items-center gap-3 group" title="PROPSMART REALTY - 100% Brokerage Free Real Estate">
-                                <img
-                                    src={isSolid ? "/images/propsmart-logo.svg" : "/images/propsmart-logo-white.svg"}
-                                    alt="PROPSMART REALTY"
-                                    className="h-8 sm:h-9 md:h-10 w-auto object-contain transition-all duration-300 group-hover:scale-105"
-                                />
+                        {/* Brand Logo */}
+                        <div className="flex items-center gap-3 z-50">
+                            <Link to="/" className="flex items-center group" title="PROPSMART REALTY">
+                                <PropsmartLogo isSolid={isSolid} />
                             </Link>
-                            <div className="hidden sm:flex items-center gap-1.5">
-                                <span className={`px-2.5 py-1 rounded-full text-[11px] font-extrabold uppercase tracking-wide border shadow-sm flex items-center gap-1 ${
-                                    isSolid 
-                                        ? 'bg-emerald-50 text-emerald-800 border-emerald-200' 
-                                        : 'bg-emerald-500/20 text-white border-emerald-400/30 backdrop-blur-md'
-                                }`}>
-                                    <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
-                                    0% Brokerage
-                                </span>
-                                <span className={`hidden md:inline-flex px-2.5 py-1 rounded-full text-[11px] font-extrabold uppercase tracking-wide border shadow-sm ${
-                                    isSolid 
-                                        ? 'bg-amber-50 text-amber-800 border-amber-200' 
-                                        : 'bg-amber-500/20 text-amber-200 border-amber-400/30 backdrop-blur-md'
-                                }`}>
-                                    Buy Direct with Builder
-                                </span>
-                            </div>
                             <RERABadge variant="compact" isSolid={isSolid} className="hidden xl:inline-flex" />
                         </div>
 

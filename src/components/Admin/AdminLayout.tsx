@@ -1,6 +1,7 @@
 
 import React from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
+import PropsmartLogo from '../Portal/PropsmartLogo';
 import { LayoutDashboard, Building2, HardHat, LogOut, Layout, MapPin, Phone, Image as ImageIcon } from 'lucide-react';
 
 import { cloudflare } from '../../services/cloudflare';
@@ -35,7 +36,7 @@ const AdminLayout: React.FC<{ children: React.ReactNode, title: string }> = ({ c
             <aside className="w-64 bg-slate-900 text-white fixed h-full hidden md:flex flex-col">
                 <div className="p-6 border-b border-slate-800">
                     <Link to="/" className="flex items-center gap-2">
-                        <img src="/images/propsmart-logo-white.svg" alt="PROPSMART REALTY" className="h-6 w-auto" />
+                        <PropsmartLogo variant="dark" />
                         <span className="bg-amber-500/20 text-amber-400 border border-amber-500/30 px-1.5 py-0.5 rounded text-[10px] font-bold">CMS</span>
                     </Link>
                 </div>

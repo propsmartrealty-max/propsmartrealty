@@ -1,6 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { Menu, X, Zap, Building2, Phone, Mail, ChevronRight, LayoutGrid, ShieldCheck } from 'lucide-react';
+import PropsmartLogo from './Portal/PropsmartLogo';
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -68,11 +69,7 @@ const Navbar: React.FC = () => {
             {/* Structured Logo Layout */}
             <div className="flex-shrink-0">
               <a href="#hero" onClick={(e) => handleLinkClick(e, '#hero')} className="flex items-center gap-3 group">
-                <img
-                  src={isScrolled ? "/images/propsmart-logo.svg" : "/images/propsmart-logo-white.svg"}
-                  alt="PROPSMART REALTY"
-                  className="h-8 md:h-9 w-auto object-contain transition-all duration-300"
-                />
+                <PropsmartLogo isSolid={isScrolled} />
               </a>
             </div>
 

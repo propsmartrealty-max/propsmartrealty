@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Instagram, Youtube, Facebook, ShieldCheck, ExternalLink, CheckCircle2 } from 'lucide-react';
 import { PROPSMART_RERA } from './RERABadge';
+import PropsmartLogo from './PropsmartLogo';
 
 const Footer = () => {
     return (
@@ -10,11 +11,7 @@ const Footer = () => {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-10">
                     <div>
                         <Link to="/" className="inline-block mb-3 group" title="PROPSMART REALTY">
-                            <img
-                                src="/images/propsmart-logo-white.svg"
-                                alt="PROPSMART REALTY"
-                                className="h-8 md:h-9 w-auto object-contain transition-transform group-hover:scale-105"
-                            />
+                            <PropsmartLogo variant="dark" />
                         </Link>
                         <p className="text-sm text-slate-300 font-medium mb-3">
                             Pune's leading <strong className="text-emerald-400">100% Brokerage Free</strong> platform. Buy directly from top developers with official MahaRERA verified mandates.

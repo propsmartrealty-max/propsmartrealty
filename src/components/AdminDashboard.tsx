@@ -17,6 +17,7 @@ import {
   AreaChart,
   Area
 } from 'recharts';
+import PropsmartLogo from './Portal/PropsmartLogo';
 
 const AdminDashboard: React.FC<{
   onLogout: () => void,
@@ -33,7 +34,7 @@ const AdminDashboard: React.FC<{
       <aside className="w-64 bg-slate-900 border-r border-white/5 flex flex-col shrink-0">
         <div className="p-6">
           <div className="flex items-center gap-3 mb-10">
-            <img src="/images/propsmart-logo-white.svg" alt="PROPSMART REALTY" className="h-6 w-auto" />
+            <PropsmartLogo variant="dark" />
             <span className="text-[9px] font-black text-amber-500 uppercase tracking-widest px-1.5 py-0.5 rounded bg-amber-500/10 border border-amber-500/20">Console</span>
           </div>
           <nav className="space-y-1">
