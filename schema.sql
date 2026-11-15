@@ -188,7 +188,7 @@ INSERT OR IGNORE INTO projects (id, title, slug, builder_id, location, price_ran
     'Verified',
     '["400-Acre Township", "Anisha Global School inside", "Multi-tier Security", "3 Clubhouses", "Olympic Swimming Pool"]',
     '{"structure": "Mivan Formwork Earthquake Resistant", "flooring": "800x800mm Vitrified Tiles", "doors": "Laminated Flush Doors", "fittings": "Grohe / American Standard"}',
-    '["Direct developer pricing with zero brokerage", "Official MahaRERA sales mandate", "Walking distance from upcoming Metro Line 3"]'
+    '["Direct developer pricing with zero brokerage", "Official MahaRERA sales partner", "Walking distance from upcoming Metro Line 3"]'
 ),
 (
     'p-godrej-woodsville',

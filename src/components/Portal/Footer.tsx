@@ -14,7 +14,7 @@ const Footer = () => {
                             <PropsmartLogo variant="dark" />
                         </Link>
                         <p className="text-sm text-slate-300 font-medium mb-3">
-                            Pune's leading <strong className="text-emerald-400">100% Brokerage Free</strong> platform. Buy directly from top developers with official MahaRERA verified mandates.
+                            Pune's leading <strong className="text-emerald-400">100% Brokerage Free</strong> platform. Buy directly from top developers with official MahaRERA authorized partnerships.
                         </p>
                         <div className="flex flex-wrap gap-1.5 mb-4">
                             <span className="text-[10px] font-black uppercase tracking-wider bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2.5 py-0.5 rounded-full">

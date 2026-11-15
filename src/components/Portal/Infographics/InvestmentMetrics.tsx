@@ -145,7 +145,7 @@ const InvestmentMetrics: React.FC<InvestmentMetricsProps> = ({
                 <div className="flex items-center gap-3">
                     <ShieldCheck className="w-5 h-5 text-emerald-400 shrink-0" />
                     <span className="text-slate-300">
-                        <strong>PROPSMART REALTY Mandate Advisory:</strong> Zero brokerage for buyers. All pricing directly matched with sanctioned developer inventory.
+                        <strong>PROPSMART REALTY Partner Advisory:</strong> Zero brokerage for buyers. All pricing directly matched with sanctioned developer inventory.
                     </span>
                 </div>
                 <span className="text-amber-400 font-bold tracking-wide shrink-0">

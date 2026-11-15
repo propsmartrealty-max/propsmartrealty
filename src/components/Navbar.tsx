@@ -46,7 +46,7 @@ const Navbar: React.FC = () => {
             </div>
             <div className="flex items-center gap-2.5 text-[10px] font-black text-slate-400 uppercase tracking-widest group cursor-pointer hover:text-white transition-colors">
               <Mail size={11} className="text-teal-500 group-hover:scale-110 transition-transform" />
-              salesmandate@propsmart.digital
+              partner@propsmart.digital
             </div>
           </div>
           <div className="flex items-center gap-6">
@@ -96,7 +96,7 @@ const Navbar: React.FC = () => {
                   onClick={(e) => handleLinkClick(e, '#contact')}
                   className={`flex items-center gap-3 px-8 py-4 rounded-2xl text-[10px] font-black uppercase tracking-[0.25em] transition-all transform hover:-translate-y-1 active:scale-95 shadow-2xl ${isScrolled ? 'bg-slate-900 text-white shadow-slate-900/20' : 'bg-white text-slate-900 shadow-white/5'}`}
                 >
-                  Discuss Mandate <ChevronRight size={14} className="text-teal-500" />
+                  Discuss Partnership <ChevronRight size={14} className="text-teal-500" />
                 </a>
               </div>
             </div>
@@ -144,7 +144,7 @@ const Navbar: React.FC = () => {
                   <div className="w-8 h-8 rounded-xl bg-slate-100 flex items-center justify-center text-teal-500">
                     <Mail size={14} />
                   </div>
-                  salesmandate@propsmart.digital
+                  partner@propsmart.digital
                 </div>
               </div>
               <a
@@ -152,7 +152,7 @@ const Navbar: React.FC = () => {
                 onClick={(e) => handleLinkClick(e, '#contact')}
                 className="flex items-center justify-center gap-4 w-full bg-slate-900 text-white py-6 rounded-[2rem] text-[11px] font-black uppercase tracking-[0.3em] shadow-xl active:scale-95"
               >
-                Discuss Mandate <Zap size={16} className="text-teal-400" />
+                Discuss Partnership <Zap size={16} className="text-teal-400" />
               </a>
             </div>
           </div>

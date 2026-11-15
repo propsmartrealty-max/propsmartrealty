@@ -117,12 +117,73 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
                         <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse shrink-0"></span>
                         <div>
                             <span className="font-black text-sm text-emerald-300 uppercase tracking-wide">100% Brokerage Free:</span>
-                            <span className="text-xs text-slate-200 ml-2">Direct developer inventory with zero buyer commission & authorized MahaRERA mandates.</span>
+                            <span className="text-xs text-slate-200 ml-2">Direct developer inventory with zero buyer commission & authorized MahaRERA partnerships.</span>
                         </div>
                     </div>
                     <span className="text-xs font-black bg-amber-500/20 text-amber-300 border border-amber-500/30 px-3.5 py-1 rounded-full shrink-0 uppercase tracking-wider">
                         Buy Directly with Builder
                     </span>
+                </div>
+
+                {/* PropertyTech Quick Filter Pills */}
+                <div className="bg-white p-3 rounded-2xl border border-slate-200/90 shadow-2xs mb-6 flex flex-wrap items-center justify-between gap-3">
+                    <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar py-1">
+                        <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider px-2 shrink-0">BHK:</span>
+                        {['1 BHK', '2 BHK', '3 BHK', '4 BHK'].map((bhk) => {
+                            const active = selectedConfigs.includes(bhk);
+                            return (
+                                <button
+                                    key={bhk}
+                                    onClick={() => toggleFilter(bhk, selectedConfigs, setSelectedConfigs)}
+                                    className={`px-3 py-1 rounded-xl text-xs font-bold transition-all shrink-0 ${
+                                        active
+                                            ? 'bg-brand-600 text-white shadow-xs'
+                                            : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                                    }`}
+                                >
+                                    {bhk}
+                                </button>
+                            );
+                        })}
+
+                        <div className="h-4 w-[1px] bg-slate-200 mx-1 shrink-0" />
+
+                        <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider px-2 shrink-0">Budget:</span>
+                        {[
+                            { label: '< ₹60L', val: '< 60 L' },
+                            { label: '₹60L - ₹1Cr', val: '60 L - 1 Cr' },
+                            { label: '₹1Cr - ₹2Cr', val: '1 Cr - 2 Cr' },
+                            { label: '₹2Cr+', val: '> 2 Cr' }
+                        ].map(({ label, val }) => {
+                            const active = selectedBudgets.includes(val);
+                            return (
+                                <button
+                                    key={val}
+                                    onClick={() => toggleFilter(val, selectedBudgets, setSelectedBudgets)}
+                                    className={`px-3 py-1 rounded-xl text-xs font-bold transition-all shrink-0 ${
+                                        active
+                                            ? 'bg-brand-600 text-white shadow-xs'
+                                            : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                                    }`}
+                                >
+                                    {label}
+                                </button>
+                            );
+                        })}
+                    </div>
+
+                    {(selectedConfigs.length > 0 || selectedBudgets.length > 0) && (
+                        <button
+                            onClick={() => {
+                                setSelectedConfigs([]);
+                                setSelectedBudgets([]);
+                                setPage(1);
+                            }}
+                            className="text-xs font-bold text-red-600 hover:text-red-700 bg-red-50 hover:bg-red-100 px-3 py-1 rounded-xl transition-colors shrink-0"
+                        >
+                            Reset Filters
+                        </button>
+                    )}
                 </div>
 
                 {/* View Toggles & Filters */}

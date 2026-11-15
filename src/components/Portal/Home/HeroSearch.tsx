@@ -138,7 +138,7 @@ const HeroSearch = () => {
                         className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-slate-900/60 backdrop-blur-md border border-white/20 text-white text-xs font-semibold hover:bg-slate-900/80 transition-all shadow-md group"
                     >
                         <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-                        <span className="text-white/80">Authorized MahaRERA Mandate:</span>
+                        <span className="text-white/80">Authorized MahaRERA Partner:</span>
                         <span className="font-extrabold text-amber-300 tracking-wide">A031262401295</span>
                     </a>
                 </motion.div>
@@ -255,23 +255,52 @@ const HeroSearch = () => {
                     </div>
                 </motion.div>
 
-                {/* Quick Tags */}
-                <div className="mt-8 flex flex-wrap justify-center gap-3">
-                    <span className="text-white/70 text-sm font-semibold flex items-center gap-2 bg-brand-950/30 px-3 py-1 rounded-full backdrop-blur-sm">
-                        <Rocket className="w-3 h-3 text-accent-400" /> Trending:
-                    </span>
-                    {['2 BHK Baner', 'Luxury Villas', 'Pre-launch Offers', 'Godrej Properties'].map((tag, i) => (
-                        <button
-                            key={i}
-                            className="bg-white/10 hover:bg-white/20 text-white text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 backdrop-blur-md transition-all hover:-translate-y-0.5 shadow-sm"
-                            onClick={() => {
-                                setSearchQuery(tag);
-                                navigate(`/search?q=${encodeURIComponent(tag)}`);
-                            }}
-                        >
-                            {tag}
-                        </button>
-                    ))}
+                {/* Quick Discovery Shortcuts (Google Real Estate & Keystone Liv Inspired) */}
+                <div className="w-full max-w-4xl mt-6 space-y-2.5">
+                    <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-1 text-xs justify-center flex-wrap">
+                        <span className="text-amber-300 font-extrabold shrink-0 flex items-center gap-1.5 bg-amber-500/10 border border-amber-500/20 px-2.5 py-1 rounded-lg">
+                            <Rocket className="w-3.5 h-3.5 text-amber-300" /> Looking for:
+                        </span>
+                        {[
+                            { label: 'Ready Homes', query: 'Ready to Move' },
+                            { label: 'New Launches', query: 'New Launch' },
+                            { label: '2 BHK Under ₹80L', query: '2 BHK' },
+                            { label: '3 BHK Luxury', query: '3 BHK' },
+                            { label: 'Integrated Townships', query: 'Township' },
+                            { label: 'Direct Builder Lounge', query: 'Developer' }
+                        ].map(({ label, query }, i) => (
+                            <button
+                                key={i}
+                                type="button"
+                                className="shrink-0 bg-white/10 hover:bg-amber-400 hover:text-slate-900 text-white text-xs font-bold px-3.5 py-1 rounded-full border border-white/20 backdrop-blur-md transition-all shadow-sm"
+                                onClick={() => {
+                                    setSearchQuery(query);
+                                    navigate(`/search?q=${encodeURIComponent(query)}`);
+                                }}
+                            >
+                                {label}
+                            </button>
+                        ))}
+                    </div>
+
+                    <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-1 text-xs justify-center flex-wrap">
+                        <span className="text-slate-300 font-bold shrink-0 flex items-center gap-1 px-1">
+                            📍 Popular:
+                        </span>
+                        {['Hinjewadi', 'Kharadi', 'Baner', 'Wakad', 'Bavdhan', 'Mahalunge', 'Hadapsar', 'Ravet'].map((loc, i) => (
+                            <button
+                                key={i}
+                                type="button"
+                                className="shrink-0 bg-slate-900/40 hover:bg-white hover:text-slate-900 text-slate-200 text-xs font-semibold px-3 py-0.5 rounded-full border border-white/10 transition-all"
+                                onClick={() => {
+                                    setSearchQuery(loc);
+                                    navigate(`/search?q=${encodeURIComponent(loc)}`);
+                                }}
+                            >
+                                {loc}
+                            </button>
+                        ))}
+                    </div>
                 </div>
 
                 {/* 4 Core Pillars: 100% Brokerage Free & Buy Directly with Builder */}
@@ -301,7 +330,7 @@ const HeroSearch = () => {
                             <ShieldCheck className="w-4 h-4" />
                         </div>
                         <div className="text-left">
-                            <div className="text-xs font-black tracking-wide text-white">MahaRERA Mandate</div>
+                            <div className="text-xs font-black tracking-wide text-white">MahaRERA Partner</div>
                             <div className="text-[10px] text-slate-300">Agent: A031262401295</div>
                         </div>
                     </div>

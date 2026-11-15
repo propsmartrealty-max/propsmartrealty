@@ -96,6 +96,17 @@ export interface Project {
   verificationSource?: string;
   advancedConfigurations?: ProjectConfiguration[];
   pricePerSqft?: number; // Phase 3: Deal Calculation
+  // Google Real Estate & Keystone Liv Enhanced Fields
+  faqs?: {
+    question: string;
+    answer: string;
+  }[];
+  brochureUrl?: string;
+  mapEmbedUrl?: string;
+  totalAcres?: string;
+  totalFloors?: string;
+  approvedBanks?: string[];
+  floorsAndAcres?: string;
 }
 
 export interface ProjectConfiguration {

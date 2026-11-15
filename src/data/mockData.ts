@@ -686,7 +686,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Mahalunge near Metro station and IT corridors",
       "Official MahaRERA verified project P52100050939",
       "Allotment directly from Godrej Properties developer inventory"
@@ -694,7 +694,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100050939",
     "pricePerSqft": 7200,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Godrej Hillside 3 Mahalunge",
       "Godrej Hillside 3 Pune price",
@@ -771,7 +771,52 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Godrej Hillside 3 located?",
+        "answer": "Godrej Hillside 3 is located at road, Mahalunge, Pune."
+      },
+      {
+        "question": "What is the price of Godrej Hillside 3?",
+        "answer": "Prices at Godrej Hillside 3 range from \u20b9 81.00 Lac \u2013 1.06 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Godrej Hillside 3?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 665 \u2013 902 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Godrej Hillside 3?",
+        "answer": "The RERA registration number of Godrej Hillside 3 is P52100050939, P52100022099, P52100022153."
+      },
+      {
+        "question": "When is the possession of Godrej Hillside 3?",
+        "answer": "Possession is expected by Feb 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Godrej Hillside 3?",
+        "answer": "Godrej Hillside 3 is developed by Godrej Properties. The developer has been in real estate since 1897."
+      },
+      {
+        "question": "How many floors does Godrej Hillside 3 have?",
+        "answer": "The project has 28 floors. It is spread across 3 acres."
+      },
+      {
+        "question": "What amenities does Godrej Hillside 3 offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Club house, Gym, Jogging Track, Kids Play Area, Party Lawn, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Godrej Hillside 3?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Godrej Hillside 3?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "brochureUrl": "https://keystoneliv.com/public/uploads/property/k8efs8EX0zH9s8tNGzPxbgUNGd6YGNIzWlWGvWOL.pdf",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3782.2145105194018!2d73.73430237486002!3d18.564365382537687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sGodrej%20Hillside%203%2C%207%2F8%20near%20Godrej%20river%20hills%20nande%2C%20road%2C%20Mahalunge%2C%20Pune%2C%20Maharashtra%20411045!5e0!3m2!1sen!2sin!4v1688044662580!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 28 floors. It is spread across 3 acres."
   },
   {
     "id": "p-godrej-river-royale",
@@ -840,7 +885,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Mahalunge near Metro station and IT corridors",
       "Official MahaRERA verified project P52100052957",
       "Allotment directly from Godrej Properties developer inventory"
@@ -848,7 +893,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100052957",
     "pricePerSqft": 7200,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Godrej River Royale Mahalunge",
       "Godrej River Royale Pune price",
@@ -893,7 +938,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Godrej River Royale located?",
+        "answer": "Godrej River Royale is located at Godrej River Royale, Sector R9, Nande - Balewadi Rd, off Hinjewadi, behind Balewadi Stadium, Mahalunge, Pune, Maharashtra 411045."
+      },
+      {
+        "question": "What is the price of Godrej River Royale?",
+        "answer": "Prices at Godrej River Royale range from \u20b9 2.60 Cr \u2013 3.60 Cr (agreement value). Homes are available as 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Godrej River Royale?",
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,688 \u2013 2,304 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Godrej River Royale?",
+        "answer": "The RERA registration number of Godrej River Royale is P52100052957."
+      },
+      {
+        "question": "When is the possession of Godrej River Royale?",
+        "answer": "Possession is expected by Dec 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Godrej River Royale?",
+        "answer": "Godrej River Royale is developed by Godrej Properties. The developer has been in real estate since 1897."
+      },
+      {
+        "question": "How many floors does Godrej River Royale have?",
+        "answer": "The project has 38 floors. It is spread across 4.37 acres."
+      },
+      {
+        "question": "What amenities does Godrej River Royale offer?",
+        "answer": "Amenities include Banquet Hall, Cafeteria, Kids Play Area, Library, Sports Courts, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Godrej River Royale?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Godrej River Royale?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.0887583531326!2d73.7337243739744!3d18.57003676766372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b9786692480b%3A0x7802359c7ecbca66!2sGodrej%20River%20Royale%2C%20Baner%20-%20Hinjewadi%20Road%2C%20Pune!5e0!3m2!1sen!2sin!4v1698314164857!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 38 floors. It is spread across 4.37 acres."
   },
   {
     "id": "p-godrej-eden-estate-phase-2",
@@ -914,7 +1003,7 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
     "lat": 18.5913,
     "lng": 73.7389,
-    "masterLayout": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/HlZPHQBAei2owiayJmxJZhkdXYVI8emWvLduM451.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/HlZPHQBAei2owiayJmxJZhkdXYVI8emWvLduM451.webp",
       "https://keystoneliv.com/public/uploads/property/po0ncOmSUgj95n9merVfb98wcEMwAyJXM6JuRxN4.webp",
@@ -970,7 +1059,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100054190",
       "Allotment directly from Godrej Properties developer inventory"
@@ -978,7 +1067,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100054190",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Godrej Eden Estate Phase 2 Hinjewadi",
       "Godrej Eden Estate Phase 2 Pune price",
@@ -1023,7 +1112,46 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Godrej Eden Estate Phase 2 located?",
+        "answer": "Godrej Eden Estate Phase 2 is located at Near Hinjawadi Rajiv Gandhi Infotech Park, Phase 1."
+      },
+      {
+        "question": "What is the price of Godrej Eden Estate Phase 2?",
+        "answer": "Prices at Godrej Eden Estate Phase 2 range from \u20b9 2.39 Cr \u2013 3.04 Cr (agreement value). Homes are available as 1 BHK Plot."
+      },
+      {
+        "question": "Which configurations are available at Godrej Eden Estate Phase 2?",
+        "answer": "The project offers 1 BHK Plot homes. Carpet areas range from 2,000 \u2013 2,700 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Godrej Eden Estate Phase 2?",
+        "answer": "The RERA registration number of Godrej Eden Estate Phase 2 is P52100054190, P52100054326."
+      },
+      {
+        "question": "When is the possession of Godrej Eden Estate Phase 2?",
+        "answer": "Possession is expected by Jun 2025, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Godrej Eden Estate Phase 2?",
+        "answer": "Godrej Eden Estate Phase 2 is developed by Godrej Properties. The developer has been in real estate since 1897."
+      },
+      {
+        "question": "What amenities does Godrej Eden Estate Phase 2 offer?",
+        "answer": "Amenities include Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym, Sports Courts and more."
+      },
+      {
+        "question": "Which banks give home loans for Godrej Eden Estate Phase 2?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Godrej Eden Estate Phase 2?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3781.9375723479006!2d73.7247759!3d18.576853!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb98dbb20c51%3A0x423fca08f1fafae3!2sGodrej%20Eden%20Estate%20Phase%201%20%26%202!5e0!3m2!1sen!2sin!4v1706698008844!5m2!1sen!2sin"
   },
   {
     "id": "p-kolte-patil-life-republic",
@@ -1045,12 +1173,16 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "lat": 18.5913,
     "lng": 73.7389,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/image (81).webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
     "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp",
+      "https://keystoneliv.com/public/uploads/property/image (84).webp",
+      "https://keystoneliv.com/public/uploads/property/image (85).webp",
       "https://keystoneliv.com/public/uploads/property/b0jK8LWuJUSOqaGRp8Twd7KIwK8bZW44yr8iBzPy.webp",
-      "https://keystoneliv.com/public/uploads/property/XKyVxdTueAqnEbCtyhjSszBLqf2ycf6nRg0yhmgs.webp",
-      "https://keystoneliv.com/public/uploads/property/r9E7NQbwJEHXtjb0SVNz1uBbAfn4xSMk7cAQrmhc.webp",
-      "https://keystoneliv.com/public/uploads/property/2vHe2nZnwh2WEclT0BNCkE2g7B2c7VTd3FPogvCu.webp"
+      "https://keystoneliv.com/public/uploads/property/XKyVxdTueAqnEbCtyhjSszBLqf2ycf6nRg0yhmgs.webp"
     ],
     "description": "Kolte Patil Life Republic by Kolte-Patil Developers represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b936.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner. Verified under MahaRERA registration P52100087101, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
@@ -1113,7 +1245,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100087101",
       "Allotment directly from Kolte-Patil Developers developer inventory"
@@ -1121,7 +1253,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100087101",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kolte Patil Life Republic Hinjewadi",
       "Kolte Patil Life Republic Pune price",
@@ -1230,7 +1362,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Life Republic located?",
+        "answer": "Kolte Patil Life Republic is located at Hinjewadi , Pune."
+      },
+      {
+        "question": "What is the price of Kolte Patil Life Republic?",
+        "answer": "Prices at Kolte Patil Life Republic range from \u20b9 36.00 Lac \u2013 85.00 Lac (agreement value). Homes are available as 1, 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kolte Patil Life Republic?",
+        "answer": "The project offers 1, 2, 3 BHK homes. Carpet areas range from 367 \u2013 822 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kolte Patil Life Republic?",
+        "answer": "The RERA registration number of Kolte Patil Life Republic is P5100051765."
+      },
+      {
+        "question": "When is the possession of Kolte Patil Life Republic?",
+        "answer": "Possession is expected by Dec 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kolte Patil Life Republic?",
+        "answer": "Kolte Patil Life Republic is developed by Kolte Patil Developers. The developer has been in real estate since 1970."
+      },
+      {
+        "question": "How many floors does Kolte Patil Life Republic have?",
+        "answer": "The project has S+22 floors. It is spread across 10.41 acres."
+      },
+      {
+        "question": "What amenities does Kolte Patil Life Republic offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner, Jogging Track, Kids Play Area and more."
+      },
+      {
+        "question": "Which banks give home loans for Kolte Patil Life Republic?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kolte Patil Life Republic?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.0016607594835!2d73.70791217404884!3d18.61899506616262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2ba4cf4e994ad%3A0xced3d9a93fdcfb77!2sLife%20Republic%20by%20Kolte-Patil!5e0!3m2!1sen!2sin!4v1691580969293!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has S+22 floors. It is spread across 10.41 acres."
   },
   {
     "id": "p-kolte-patil-24k-altura",
@@ -1251,8 +1427,9 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/LgcjwvEED5QzuLQGfPvck5Aa89ZQLgs61tLHVi2z.webp",
     "lat": 18.559,
     "lng": 73.7868,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/gAKiu07l2HrCUZHom4CLqKZ8T9GcBAOZgskO6R5v.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/23WzPt71bQ8955z0nO906uRr6OQwhG8vhfVhhhFQ.webp",
     "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/gAKiu07l2HrCUZHom4CLqKZ8T9GcBAOZgskO6R5v.webp",
       "https://keystoneliv.com/public/uploads/property/image (73).webp",
       "https://keystoneliv.com/public/uploads/property/image (74).webp",
       "https://keystoneliv.com/public/uploads/property/image (75).webp",
@@ -1312,7 +1489,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Baner near Metro station and IT corridors",
       "Official MahaRERA verified project P52100051316",
       "Allotment directly from Kolte-Patil Developers developer inventory"
@@ -1320,7 +1497,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100051316",
     "pricePerSqft": 10500,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kolte Patil 24K Altura Baner",
       "Kolte Patil 24K Altura Pune price",
@@ -1365,7 +1542,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/LgcjwvEED5QzuLQGfPvck5Aa89ZQLgs61tLHVi2z.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil 24K Altura located?",
+        "answer": "Kolte Patil 24K Altura is located at Haveli, Survey Nos. 37 Hissa. 2/1 (Part, Landmark, Taluka, behind Solitaire World."
+      },
+      {
+        "question": "What is the price of Kolte Patil 24K Altura?",
+        "answer": "Prices at Kolte Patil 24K Altura range from \u20b9 2.30 Cr \u2013 2.80 Cr (agreement value). Homes are available as 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kolte Patil 24K Altura?",
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,365 \u2013 1,702 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kolte Patil 24K Altura?",
+        "answer": "The RERA registration number of Kolte Patil 24K Altura is P52100051316."
+      },
+      {
+        "question": "When is the possession of Kolte Patil 24K Altura?",
+        "answer": "Possession is expected by Mar 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kolte Patil 24K Altura?",
+        "answer": "Kolte Patil 24K Altura is developed by Kolte Patil Developers. The developer has been in real estate since 1970."
+      },
+      {
+        "question": "How many floors does Kolte Patil 24K Altura have?",
+        "answer": "The project has Basement + 3P + E-Deck +32 Floors floors. It is spread across 7.5 acres."
+      },
+      {
+        "question": "What amenities does Kolte Patil 24K Altura offer?",
+        "answer": "Amenities include Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym, Pet Park, Sports Courts, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Kolte Patil 24K Altura?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kolte Patil 24K Altura?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.4696136815733!2d73.77061921014825!3d18.55285516811577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf69b4e67321%3A0xdd5e5af093ec84f2!2s24K%20Altura!5e0!3m2!1sen!2sin!4v1696486527896!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has Basement + 3P + E-Deck +32 Floors floors. It is spread across 7.5 acres."
   },
   {
     "id": "p-kolte-patil-little-earth",
@@ -1387,9 +1608,9 @@ export const PROJECTS: Project[] = [
     "lng": 73.7142,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/eX35zH58vFRd7U1uiwuEWiffMD6HgK0efJX59jfS.webp",
     "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/mwg0HTzlNLGsgFGeA928cA6t4UxhNTW4yBluttCN.webp",
       "https://keystoneliv.com/public/uploads/property/image (25).webp",
       "https://keystoneliv.com/public/uploads/property/image (2).webp",
-      "https://keystoneliv.com/public/uploads/property/mwg0HTzlNLGsgFGeA928cA6t4UxhNTW4yBluttCN.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/oRrp18Dqtxt3DIDQNFfy7w2vQ2mQpCzsjr2RG6Xh.webp"
     ],
     "description": "Kolte Patil Little Earth by Kolte-Patil Developers represents modern residential excellence in Mamurdi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b970.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner. Verified under MahaRERA registration P52100048103, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
@@ -1450,7 +1671,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Mamurdi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100048103",
       "Allotment directly from Kolte-Patil Developers developer inventory"
@@ -1458,7 +1679,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100048103",
     "pricePerSqft": 6800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kolte Patil Little Earth Mamurdi",
       "Kolte Patil Little Earth Pune price",
@@ -1503,7 +1724,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (25).webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Little Earth located?",
+        "answer": "Kolte Patil Little Earth is located at Survey No.19, Masulkar City, Mumbai Hwy, near MCA International Cricket Stadium, Kiwale, Mamurdi, Dehu Road, Pune, Maharashtra."
+      },
+      {
+        "question": "What is the price of Kolte Patil Little Earth?",
+        "answer": "Prices at Kolte Patil Little Earth range from \u20b9 70.00 Lac \u2013 92.00 Lac (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kolte Patil Little Earth?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 815 \u2013 1,077 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kolte Patil Little Earth?",
+        "answer": "The RERA registration number of Kolte Patil Little Earth is P52100048103."
+      },
+      {
+        "question": "When is the possession of Kolte Patil Little Earth?",
+        "answer": "Possession is expected by Dec 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kolte Patil Little Earth?",
+        "answer": "Kolte Patil Little Earth is developed by Kolte Patil Developers. The developer has been in real estate since 1970."
+      },
+      {
+        "question": "How many floors does Kolte Patil Little Earth have?",
+        "answer": "The project has G+16 floors. It is spread across 26 acres."
+      },
+      {
+        "question": "What amenities does Kolte Patil Little Earth offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner, Gym, Jogging Track and more."
+      },
+      {
+        "question": "Which banks give home loans for Kolte Patil Little Earth?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kolte Patil Little Earth?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3779.9387091084345!2d73.71592181015116!3d18.66674616462081!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b09a0914e30f%3A0x5cc1980efd1e9fd!2sLittle%20Earth%20Kolte-Patil!5e0!3m2!1sen!2sin!4v1696507493509!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+16 floors. It is spread across 26 acres."
   },
   {
     "id": "p-vtp-bellissimo",
@@ -1576,7 +1841,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100033888",
       "Allotment directly from VTP Realty developer inventory"
@@ -1584,7 +1849,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100033888",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "VTP Bellissimo Hinjewadi",
       "VTP Bellissimo Pune price",
@@ -1661,7 +1926,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/jgs1mOU4egapqUjeXah0vUaNx8ekQVg0pBq8ZQkR.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is VTP Bellissimo located?",
+        "answer": "VTP Bellissimo is located at Infosys Circle Phase 1 Hinjewadi."
+      },
+      {
+        "question": "What is the price of VTP Bellissimo?",
+        "answer": "Prices at VTP Bellissimo range from \u20b9 84.00 Lac \u2013 93.00 Lac (agreement value). Homes are available as 2 BHK."
+      },
+      {
+        "question": "Which configurations are available at VTP Bellissimo?",
+        "answer": "The project offers 2 BHK homes. Carpet areas range from 722 \u2013 800 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of VTP Bellissimo?",
+        "answer": "The RERA registration number of VTP Bellissimo is P52100033888, P52100047246, P52100048331."
+      },
+      {
+        "question": "When is the possession of VTP Bellissimo?",
+        "answer": "Possession is expected by Mar 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of VTP Bellissimo?",
+        "answer": "VTP Bellissimo is developed by VTP Realty. The developer has been in real estate since 1985."
+      },
+      {
+        "question": "How many floors does VTP Bellissimo have?",
+        "answer": "The project has G + 29 floors. It is spread across 10 acres."
+      },
+      {
+        "question": "What amenities does VTP Bellissimo offer?",
+        "answer": "Amenities include Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym, Party Lawn and more."
+      },
+      {
+        "question": "Which banks give home loans for VTP Bellissimo?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to VTP Bellissimo?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8028492796034!2d73.72617217584524!3d18.582924967265285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb3b9fc3d7df%3A0x85da1b572aa2e1fc!2sVTP%20Bellissimo%20Official!5e0!3m2!1sen!2sin!4v1698227991596!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G + 29 floors. It is spread across 10 acres."
   },
   {
     "id": "p-vtp-dolce-vita",
@@ -1684,10 +1993,14 @@ export const PROJECTS: Project[] = [
     "lng": 73.9349,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/hgiRTenojaVcHglxBXqRVHfjihUs6wuNa8Yl46OW.png",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/LW8ofJLVdcWXF1ixxVLZJIS7lmzcBGIFY3WSZJ6X.webp",
       "https://keystoneliv.com/public/uploads/property/evR9QMKWYPJ7mfXswMgWcM03r9vtzVYrhTLN1Yn2.png",
       "https://keystoneliv.com/public/uploads/property/zozJl3E2HhxQbEpe9Q90xFiPbJv4yhBg3pHXhqC9.png",
-      "https://keystoneliv.com/public/uploads/property/CxlM9uIBn5S8zj7R50udJEA2xUAIgmgd0mDLOHo9.png"
+      "https://keystoneliv.com/public/uploads/property/CxlM9uIBn5S8zj7R50udJEA2xUAIgmgd0mDLOHo9.png",
+      "https://keystoneliv.com/public/uploads/property/hgiRTenojaVcHglxBXqRVHfjihUs6wuNa8Yl46OW.png",
+      "https://keystoneliv.com/public/uploads/property/YP4OQJPcaC2gOy7ZO0ZJZzsACXg8fiey3I7EZTMD.png",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://keystoneliv.com/public/uploads/property/00vie3iYOaGLV16hty7Kp1mKKReoxp9eJUKP6zte.png",
+      "https://keystoneliv.com/public/uploads/property/ct7duPh6zz77Wvsn62itR449WOXD0T4CtO4CTCtL.png"
     ],
     "description": "VTP Dolce Vita by VTP Realty represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b977.65 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jacuzzi, Jogging Track. Verified under MahaRERA registration P52100051819, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
@@ -1743,7 +2056,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Kharadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100051819",
       "Allotment directly from VTP Realty developer inventory"
@@ -1751,7 +2064,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100051819",
     "pricePerSqft": 9600,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "VTP Dolce Vita Kharadi",
       "VTP Dolce Vita Pune price",
@@ -1892,7 +2205,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is VTP Dolce Vita located?",
+        "answer": "VTP Dolce Vita is located at Manjari Khurd, Kharadi, Pune."
+      },
+      {
+        "question": "What is the price of VTP Dolce Vita?",
+        "answer": "Prices at VTP Dolce Vita range from \u20b9 77.65 Lac \u2013 2.07 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at VTP Dolce Vita?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 674 \u2013 1,457 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of VTP Dolce Vita?",
+        "answer": "The RERA registration number of VTP Dolce Vita is P52100051819, P52100055405, P52100055407, P52100055619."
+      },
+      {
+        "question": "When is the possession of VTP Dolce Vita?",
+        "answer": "Possession is expected by Dec 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of VTP Dolce Vita?",
+        "answer": "VTP Dolce Vita is developed by VTP Realty. The developer has been in real estate since 1985."
+      },
+      {
+        "question": "How many floors does VTP Dolce Vita have?",
+        "answer": "The project has 32 floors. It is spread across 9 acres."
+      },
+      {
+        "question": "What amenities does VTP Dolce Vita offer?",
+        "answer": "Amenities include Banquet Hall, Club house, Fitness Corner, Gym, Jacuzzi, Jogging Track, Kids Play Area, Party Lawn and more."
+      },
+      {
+        "question": "Which banks give home loans for VTP Dolce Vita?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to VTP Dolce Vita?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.815653879847!2d73.97889127584443!3d18.537230868663926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3b4103c2a39%3A0x8665cce9de413082!2sVTP%20Dolce%20Vita%20-%20New%20Kharadi!5e0!3m2!1sen!2sin!4v1698239319933!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 32 floors. It is spread across 9 acres."
   },
   {
     "id": "p-vtp-naturescape",
@@ -1974,7 +2331,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Bavdhan near Metro station and IT corridors",
       "Official MahaRERA verified project P52100056310",
       "Allotment directly from VTP Realty developer inventory"
@@ -1982,7 +2339,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100056310",
     "pricePerSqft": 8900,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "VTP Naturescape Bavdhan",
       "VTP Naturescape Pune price",
@@ -2075,7 +2432,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/exhSgArl0N19cHeHrRvHQotueHATJf80h9wEJBu6.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is VTP Naturescape located?",
+        "answer": "VTP Naturescape is located at Bavdhan, Pune, Maharashtra."
+      },
+      {
+        "question": "What is the price of VTP Naturescape?",
+        "answer": "Prices at VTP Naturescape range from \u20b9 88.00 Lac \u2013 2.43 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at VTP Naturescape?",
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 760 \u2013 1,750 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of VTP Naturescape?",
+        "answer": "The RERA registration number of VTP Naturescape is P52100056310."
+      },
+      {
+        "question": "When is the possession of VTP Naturescape?",
+        "answer": "Possession is expected by Dec 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of VTP Naturescape?",
+        "answer": "VTP Naturescape is developed by VTP Realty. The developer has been in real estate since 1985."
+      },
+      {
+        "question": "How many floors does VTP Naturescape have?",
+        "answer": "The project has 22 floors. It is spread across 3.5 acres."
+      },
+      {
+        "question": "What amenities does VTP Naturescape offer?",
+        "answer": "Amenities include Amphitheater, Fitness Corner, Gym, Jogging Track, Kids Play Area, Library, Open Gym, Party Lawn and more."
+      },
+      {
+        "question": "Which banks give home loans for VTP Naturescape?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to VTP Naturescape?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.558350523803!2d73.76855947519121!3d18.50365388258664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfd1ea3e6727%3A0x79c35d30e4e47452!2sVTP%20NatureScape!5e0!3m2!1sen!2sin!4v1698239302788!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 22 floors. It is spread across 3.5 acres."
   },
   {
     "id": "p-lodha-giardino",
@@ -2101,7 +2502,10 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/tUBr7yI4J0rcf1m7F6WmNhcMFvrZvPOrpLkLA0xd.webp",
       "https://keystoneliv.com/public/uploads/property/N8h0pFp4t9iPbyC01tcUgFFE2sNIrbMiZg3aekTp.webp",
       "https://keystoneliv.com/public/uploads/property/9bazfJfHebPTWOPKZhvlI5uteXcmfF57aTBYkICe.webp",
-      "https://keystoneliv.com/public/uploads/property/uqOD7mlgMLBjjrzWsFb4eCL82f0hldUzEuA03gyR.webp"
+      "https://keystoneliv.com/public/uploads/property/uqOD7mlgMLBjjrzWsFb4eCL82f0hldUzEuA03gyR.webp",
+      "https://keystoneliv.com/public/uploads/property/dUBwkAaG7EfnFh6NDymuNR5UNLD1e3QTLxUcN08I.webp",
+      "https://keystoneliv.com/public/uploads/property/H6VFHKV0W11g8lU1zZ673X0MpRc8hR1uyGujlBwz.webp",
+      "https://keystoneliv.com/public/uploads/property/PGlvfFmgy2VHokL2QsHGliY2jw1aMvsk3u0b9uB8.webp"
     ],
     "description": "Lodha Giardino by Lodha Group represents modern residential excellence in Wagholi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b995.83 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner. Verified under MahaRERA registration P52100047587, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
@@ -2163,7 +2567,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Wagholi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100047587",
       "Allotment directly from Lodha Group developer inventory"
@@ -2171,7 +2575,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100047587",
     "pricePerSqft": 6400,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Lodha Giardino Wagholi",
       "Lodha Giardino Pune price",
@@ -2264,7 +2668,52 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/uqOD7mlgMLBjjrzWsFb4eCL82f0hldUzEuA03gyR.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Lodha Giardino located?",
+        "answer": "Lodha Giardino is located at Upper Kharadi Main Rd, Wagholi, Pune."
+      },
+      {
+        "question": "What is the price of Lodha Giardino?",
+        "answer": "Prices at Lodha Giardino range from \u20b9 95.83 Lac \u2013 2.57 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Lodha Giardino?",
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 807 \u2013 1,885 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Lodha Giardino?",
+        "answer": "The RERA registration number of Lodha Giardino is P52100047587."
+      },
+      {
+        "question": "When is the possession of Lodha Giardino?",
+        "answer": "Possession is expected by Dec 2025, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Lodha Giardino?",
+        "answer": "Lodha Giardino is developed by Lodha Group. The developer has been in real estate since 1980."
+      },
+      {
+        "question": "How many floors does Lodha Giardino have?",
+        "answer": "The project has 14 floors. It is spread across 14 acres."
+      },
+      {
+        "question": "What amenities does Lodha Giardino offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner, Gym, Jogging Track and more."
+      },
+      {
+        "question": "Which banks give home loans for Lodha Giardino?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Lodha Giardino?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "brochureUrl": "https://keystoneliv.com/public/uploads/property/b2eVj6hR92MtZSySsAoiTD7Jp7kHjxEzQ0hTKpXI.pdf",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15128.96702392734!2d73.9635498!3d18.5631364!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3c191c3f637%3A0xe2514090c62e997f!2sLodha%20Giardino%2C%20Kharadi!5e0!3m2!1sen!2sin!4v1688108216789!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 14 floors. It is spread across 14 acres."
   },
   {
     "id": "p-lodha-panache",
@@ -2284,12 +2733,16 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
     "lat": 18.5913,
     "lng": 73.7389,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/zmj4n4TECfiXjZQ6PK1OM0lDjNqeGFoqs5NMDueV.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/Mc9E5NBWOsI1NtldSLZmgKPoYKU0CWl7tF5vDeCQ.webp",
-      "https://keystoneliv.com/public/uploads/property/ZFDoKn37rtVLsZOWJoU75TT8J0yMCPmXyqNMqFYh.webp",
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp",
+      "https://keystoneliv.com/public/uploads/property/qS0wzqMbjuPWrp8xgOFuPecPubkwlqnM7z4ThESz.webp",
+      "https://keystoneliv.com/public/uploads/property/UPzmG4euaO1BOdmqRNMXOBWt8x0Bj8yXV84daLnk.webp",
       "https://keystoneliv.com/public/uploads/property/C7tGVItVivBs5A9pu9JJNlJuIKchaxzhMmg9UhjV.webp",
-      "https://keystoneliv.com/public/uploads/property/DqZiV2LxEwtgObiiMdb3ecrNCjeh3UtIWNZLlTtx.webp"
+      "https://keystoneliv.com/public/uploads/property/DqZiV2LxEwtgObiiMdb3ecrNCjeh3UtIWNZLlTtx.webp",
+      "https://keystoneliv.com/public/uploads/property/zmj4n4TECfiXjZQ6PK1OM0lDjNqeGFoqs5NMDueV.webp",
+      "https://keystoneliv.com/public/uploads/property/ZB60bzT16gilDe2dmK9WOO14yoeSLG7CJOFpK5KQ.webp"
     ],
     "description": "Lodha Panache by Lodha Group represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.15 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Gym, Jogging Track. Verified under MahaRERA registration P52100050124, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
@@ -2350,7 +2803,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100050124",
       "Allotment directly from Lodha Group developer inventory"
@@ -2358,7 +2811,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100050124",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Lodha Panache Hinjewadi",
       "Lodha Panache Pune price",
@@ -2419,7 +2872,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/ZFDoKn37rtVLsZOWJoU75TT8J0yMCPmXyqNMqFYh.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Lodha Panache located?",
+        "answer": "Lodha Panache is located at Hinjawadi, Pune, Maharashtra.."
+      },
+      {
+        "question": "What is the price of Lodha Panache?",
+        "answer": "Prices at Lodha Panache range from \u20b9 1.15 Cr \u2013 2.80 Cr (agreement value). Homes are available as 2, 3, 4, 5 BHK."
+      },
+      {
+        "question": "Which configurations are available at Lodha Panache?",
+        "answer": "The project offers 2, 3, 4, 5 BHK homes. Carpet areas range from 862 \u2013 3,800 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Lodha Panache?",
+        "answer": "The RERA registration number of Lodha Panache is P52100050124 P52100051257 P52100051280."
+      },
+      {
+        "question": "When is the possession of Lodha Panache?",
+        "answer": "Possession is expected by Jul 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Lodha Panache?",
+        "answer": "Lodha Panache is developed by Lodha Group. The developer has been in real estate since 1980."
+      },
+      {
+        "question": "How many floors does Lodha Panache have?",
+        "answer": "The project has 30 floors. It is spread across 6 acres."
+      },
+      {
+        "question": "What amenities does Lodha Panache offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Gym, Jogging Track, Kids Play Area, Library and more."
+      },
+      {
+        "question": "Which banks give home loans for Lodha Panache?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Lodha Panache?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.918353729581!2d73.74223769999999!3d18.577719300000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbe51db52659%3A0x6d7f2edc6c921355!2sLodha%20Hinjewadi%20Sales%20Gallery!5e0!3m2!1sen!2sin!4v1720522062145!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 30 floors. It is spread across 6 acres."
   },
   {
     "id": "p-lodha-bella-vita",
@@ -2441,10 +2938,11 @@ export const PROJECTS: Project[] = [
     "lng": 73.9142,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/image (40).webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/5B0NFyf2tlJWnCP759YniOd8I3OZlx9Rs0kgNfvg.webp",
       "https://keystoneliv.com/public/uploads/property/image (37).webp",
       "https://keystoneliv.com/public/uploads/property/image (38).webp",
-      "https://keystoneliv.com/public/uploads/property/image (39).webp"
+      "https://keystoneliv.com/public/uploads/property/image (39).webp",
+      "https://keystoneliv.com/public/uploads/property/image (40).webp",
+      "https://keystoneliv.com/public/uploads/property/5B0NFyf2tlJWnCP759YniOd8I3OZlx9Rs0kgNfvg.webp"
     ],
     "description": "Lodha Bella Vita by Lodha Group represents modern residential excellence in Mohammed Wadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.05 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Gym, Jogging Track, Kids Play Area, Party Lawn. Verified under MahaRERA registration P52100024215, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
@@ -2497,7 +2995,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Mohammed Wadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100024215",
       "Allotment directly from Lodha Group developer inventory"
@@ -2505,7 +3003,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100024215",
     "pricePerSqft": 7400,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Lodha Bella Vita Mohammed Wadi",
       "Lodha Bella Vita Pune price",
@@ -2550,7 +3048,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/5B0NFyf2tlJWnCP759YniOd8I3OZlx9Rs0kgNfvg.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Lodha Bella Vita located?",
+        "answer": "Lodha Bella Vita is located at Lodha Sales Gallery, off NIBM Road, Mohammed Wadi, Pune, Maharashtra."
+      },
+      {
+        "question": "What is the price of Lodha Bella Vita?",
+        "answer": "Prices at Lodha Bella Vita range from \u20b9 1.05 Cr \u2013 1.67 Cr (agreement value). Homes are available as 2, 3, 3.5 BHK."
+      },
+      {
+        "question": "Which configurations are available at Lodha Bella Vita?",
+        "answer": "The project offers 2, 3, 3.5 BHK homes. Carpet areas range from 811 \u2013 1,196 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Lodha Bella Vita?",
+        "answer": "The RERA registration number of Lodha Bella Vita is P52100024215, P52100035060, P52100045768, P52100046081, P52100034751."
+      },
+      {
+        "question": "When is the possession of Lodha Bella Vita?",
+        "answer": "Possession is expected by Jun 2024, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Lodha Bella Vita?",
+        "answer": "Lodha Bella Vita is developed by Lodha Group. The developer has been in real estate since 1980."
+      },
+      {
+        "question": "How many floors does Lodha Bella Vita have?",
+        "answer": "The project has G+27 floors. It is spread across 13 acres."
+      },
+      {
+        "question": "What amenities does Lodha Bella Vita offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Gym, Jogging Track, Kids Play Area, Party Lawn, Sports Courts, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Lodha Bella Vita?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Lodha Bella Vita?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.2966597767036!2d73.9116755101464!3d18.47021687063922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2ebcdb68c9b29%3A0xaee7838a5b9159e4!2sLodha%20Bella%20Vita!5e0!3m2!1sen!2sin!4v1697611800171!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+27 floors. It is spread across 13 acres."
   },
   {
     "id": "p-panchshil-eon-waterfront",
@@ -2627,7 +3169,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Kharadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100004202",
       "Allotment directly from Panchshil Realty developer inventory"
@@ -2635,7 +3177,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100004202",
     "pricePerSqft": 9600,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Panchshil Eon Waterfront Kharadi",
       "Panchshil Eon Waterfront Pune price",
@@ -2680,7 +3222,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Panchshil Eon Waterfront located?",
+        "answer": "Panchshil Eon Waterfront is located at Kharadi, Pune."
+      },
+      {
+        "question": "What is the price of Panchshil Eon Waterfront?",
+        "answer": "Prices at Panchshil Eon Waterfront range from \u20b9 4.90 Cr \u2013 6.58 Cr (agreement value). Homes are available as 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Panchshil Eon Waterfront?",
+        "answer": "The project offers 4 BHK homes. Carpet areas range from 4,000 \u2013 5,375 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Panchshil Eon Waterfront?",
+        "answer": "The RERA registration number of Panchshil Eon Waterfront is P52100004202."
+      },
+      {
+        "question": "When is the possession of Panchshil Eon Waterfront?",
+        "answer": "Possession is expected by Dec 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Panchshil Eon Waterfront?",
+        "answer": "Panchshil Eon Waterfront is developed by Panchshil Realty. The developer has been in real estate since 2002."
+      },
+      {
+        "question": "How many floors does Panchshil Eon Waterfront have?",
+        "answer": "The project has 20 floors. It is spread across 4.16 acres."
+      },
+      {
+        "question": "What amenities does Panchshil Eon Waterfront offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area and more."
+      },
+      {
+        "question": "Which banks give home loans for Panchshil Eon Waterfront?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Panchshil Eon Waterfront?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.5619914121007!2d73.95433609999999!3d18.5486854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c304d3f3504d%3A0x155856205dddf7b6!2sEon%20Waterfront%20Phase-1!5e0!3m2!1sen!2sin!4v1750408177770!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 20 floors. It is spread across 4.16 acres."
   },
   {
     "id": "p-panchshil-towers",
@@ -2744,7 +3330,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Kharadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100002528",
       "Allotment directly from Panchshil Realty developer inventory"
@@ -2752,7 +3338,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100002528",
     "pricePerSqft": 9600,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Panchshil Towers Kharadi",
       "Panchshil Towers Pune price",
@@ -2797,7 +3383,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Panchshil Towers located?",
+        "answer": "Panchshil Towers is located at Kharadi Pune East."
+      },
+      {
+        "question": "What is the price of Panchshil Towers?",
+        "answer": "Prices at Panchshil Towers range from \u20b9 4.25 Cr \u2013 8.50 Cr (agreement value). Homes are available as 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Panchshil Towers?",
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,700 \u2013 3,400 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Panchshil Towers?",
+        "answer": "The RERA registration number of Panchshil Towers is P52100002528."
+      },
+      {
+        "question": "When is the possession of Panchshil Towers?",
+        "answer": "Possession is expected by Dec 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Panchshil Towers?",
+        "answer": "Panchshil Towers is developed by Panchshil Realty. The developer has been in real estate since 2002."
+      },
+      {
+        "question": "How many floors does Panchshil Towers have?",
+        "answer": "The project has 32 floors. It is spread across 4 acres."
+      },
+      {
+        "question": "What amenities does Panchshil Towers offer?",
+        "answer": "Amenities include Gym, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Panchshil Towers?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Panchshil Towers?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3738.1349620803708!2d73.95892957519244!3d18.553258682546677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3b847d710c7%3A0xa934efd828e6e0ad!2sPanchshil%20Towers!5e1!3m2!1sen!2sin!4v1757939160534!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 32 floors. It is spread across 4 acres."
   },
   {
     "id": "p-rohan-ekam-balewadi",
@@ -2817,7 +3447,7 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
     "lat": 18.5772,
     "lng": 73.7715,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/jScgFqMxBVz064TlCIRcZyn7NcLN3uNGnz95bqTi.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/pkJxGd1gHFGu7mmQK9QruOkJwCN6UjcR7yv24TqQ.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/in85nexdwWHGTBugbmHouxJBznVFcjkEU4SOl2Qj.webp",
       "https://keystoneliv.com/public/uploads/property/JRdpFkkMaBqWUV91UsxTA5PmT4jrWULe6bfbdGr3.webp",
@@ -2872,7 +3502,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Balewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100052298",
       "Allotment directly from Rohan Builders developer inventory"
@@ -2880,7 +3510,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100052298",
     "pricePerSqft": 9800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Rohan Ekam Balewadi Balewadi",
       "Rohan Ekam Balewadi Pune price",
@@ -2925,7 +3555,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/in85nexdwWHGTBugbmHouxJBznVFcjkEU4SOl2Qj.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Ekam Balewadi located?",
+        "answer": "Rohan Ekam Balewadi is located at Balewadi, Pune."
+      },
+      {
+        "question": "What is the price of Rohan Ekam Balewadi?",
+        "answer": "Prices at Rohan Ekam Balewadi range from \u20b9 1.33 Cr \u2013 3.28 Cr (agreement value). Homes are available as 2, 3, 4, 4.5 BHK."
+      },
+      {
+        "question": "Which configurations are available at Rohan Ekam Balewadi?",
+        "answer": "The project offers 2, 3, 4, 4.5 BHK homes. Carpet areas range from 890 \u2013 2,158 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Rohan Ekam Balewadi?",
+        "answer": "The RERA registration number of Rohan Ekam Balewadi is P52100052298."
+      },
+      {
+        "question": "When is the possession of Rohan Ekam Balewadi?",
+        "answer": "Possession is expected by Dec 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Rohan Ekam Balewadi?",
+        "answer": "Rohan Ekam Balewadi is developed by Rohan Ekam. The developer has been in real estate since 1993."
+      },
+      {
+        "question": "How many floors does Rohan Ekam Balewadi have?",
+        "answer": "The project has 7P+32 Floors floors. It is spread across 13 acres."
+      },
+      {
+        "question": "What amenities does Rohan Ekam Balewadi offer?",
+        "answer": "Amenities include Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Rohan Ekam Balewadi?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Rohan Ekam Balewadi?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8252152149926!2d73.77446417438523!3d18.581917067299056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf5757409bc1%3A0xe1948544e41d7e2e!2sRohan%20Ekam!5e0!3m2!1sen!2sin!4v1708360592697!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 7P+32 Floors floors. It is spread across 13 acres."
   },
   {
     "id": "p-rohan-saroha",
@@ -2945,12 +3619,16 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/8jc5QT6quqef9ftDCKWF9whFNXYnqsn8HFcXlNK6.webp",
     "lat": 18.5028,
     "lng": 73.7381,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/PQOSV63FDT8y9apBXRIl6aZLDwOZYNUPLn6Axz9r.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/YVe9jtDGWda8R0Ge3bKO03qEKIGzAJFW1G7BDEtw.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/9hVlJaZ6meEGYLipoMd0CHIZi7NEU4ceqU1F8rCu.webp",
-      "https://keystoneliv.com/public/uploads/property/DueMOMSvOrqkKdH0Nn6URdDTJS2nvZZ6nLJxFT4u.webp",
-      "https://keystoneliv.com/public/uploads/property/JcMd0ITINpvvxezkKP8YYGDnM7BKMEaUdOn5MG9L.webp",
-      "https://keystoneliv.com/public/uploads/property/k1OMgOvZDrwwhsCpM6DYwg0TeX6qDk3kwE7rft5E.webp"
+      "https://keystoneliv.com/public/uploads/property/pirypefnig5fwwJs1ZORGcWJCujCXhNjv6Pp3UFP.webp",
+      "https://keystoneliv.com/public/uploads/property/MYNRWw1OSwd2X1WWRiMv87vVJVGLKllnZ77rKHEk.webp",
+      "https://keystoneliv.com/public/uploads/property/OAo4YmYPmmyE1TN8Y277HTfgyaoUnd0QkfD4TMnW.webp",
+      "https://keystoneliv.com/public/uploads/property/8lAcBNDewOYfTjyKmGo4zq7iwXSRfAQb5i4Z406J.webp",
+      "https://keystoneliv.com/public/uploads/property/PQOSV63FDT8y9apBXRIl6aZLDwOZYNUPLn6Axz9r.webp",
+      "https://keystoneliv.com/public/uploads/property/b5oceIMtghaxSSAiO2E5Dt4oVI3a7Uc6uRakqvre.webp",
+      "https://keystoneliv.com/public/uploads/property/NnpqoFF2OBg3Qewfk5tD4GWzugUz51BlL7UtQrsU.webp",
+      "https://keystoneliv.com/public/uploads/property/9hVlJaZ6meEGYLipoMd0CHIZi7NEU4ceqU1F8rCu.webp"
     ],
     "description": "Rohan Saroha by Rohan Builders represents modern residential excellence in Bhugaon, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b987.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym. Verified under MahaRERA registration P52100076652, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
@@ -3004,7 +3682,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Bhugaon near Metro station and IT corridors",
       "Official MahaRERA verified project P52100076652",
       "Allotment directly from Rohan Builders developer inventory"
@@ -3012,7 +3690,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100076652",
     "pricePerSqft": 7200,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Rohan Saroha Bhugaon",
       "Rohan Saroha Pune price",
@@ -3057,7 +3735,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/9hVlJaZ6meEGYLipoMd0CHIZi7NEU4ceqU1F8rCu.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Saroha located?",
+        "answer": "Rohan Saroha is located at Bhugaon, Mulshi, Pune."
+      },
+      {
+        "question": "What is the price of Rohan Saroha?",
+        "answer": "Prices at Rohan Saroha range from \u20b9 87.00 Lac \u2013 1.66 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Rohan Saroha?",
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 836 \u2013 1,535 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Rohan Saroha?",
+        "answer": "The RERA registration number of Rohan Saroha is P52100076652."
+      },
+      {
+        "question": "When is the possession of Rohan Saroha?",
+        "answer": "Possession is expected by Sep 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Rohan Saroha?",
+        "answer": "Rohan Saroha is developed by Rohan Builders. The developer has been in real estate since 1993."
+      },
+      {
+        "question": "How many floors does Rohan Saroha have?",
+        "answer": "The project has 15 floors. It is spread across 5.76 acres."
+      },
+      {
+        "question": "What amenities does Rohan Saroha offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area and more."
+      },
+      {
+        "question": "Which banks give home loans for Rohan Saroha?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Rohan Saroha?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4694.809050120558!2d73.74672557519136!3d18.509244282582163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfd99c052b27%3A0x228fe57ce20b13b6!2sRohan%20Saroha!5e1!3m2!1sen!2sin!4v1733549744657!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 15 floors. It is spread across 5.76 acres."
   },
   {
     "id": "p-rohan-ekam",
@@ -3077,8 +3799,11 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/9oCa9AZdSciAEF6lPemC0vhHm2BvHEJKiFxNCHri.webp",
     "lat": 18.5772,
     "lng": 73.7715,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/yiPGuOJ5Fhyx0YB3EzGkjiPFft7mIQsii4HFZdjW.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/pkJxGd1gHFGu7mmQK9QruOkJwCN6UjcR7yv24TqQ.webp",
     "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/in85nexdwWHGTBugbmHouxJBznVFcjkEU4SOl2Qj.webp",
+      "https://keystoneliv.com/public/uploads/property/JRdpFkkMaBqWUV91UsxTA5PmT4jrWULe6bfbdGr3.webp",
+      "https://keystoneliv.com/public/uploads/property/EqFhQWfr3lRMA1nua2t6lHamZuSarVQj6Xo2TWu5.webp",
       "https://keystoneliv.com/public/uploads/property/AmV8a2CDk62VDd4gHjwZ5FxR4LQjjMFKM5NLCqsW.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/6lN0t0aJLQXabFeZvjKRhyOJBLJZtpLhYMKi5Xm6.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/eRICUaL6M4d6iePTlnAtNe9LM01U0TUNFYcI6jom.webp",
@@ -3128,7 +3853,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Balewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100052298",
       "Allotment directly from Rohan Builders developer inventory"
@@ -3136,7 +3861,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100052298",
     "pricePerSqft": 9800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Rohan Ekam Balewadi",
       "Rohan Ekam Pune price",
@@ -3197,7 +3922,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/6lN0t0aJLQXabFeZvjKRhyOJBLJZtpLhYMKi5Xm6.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Ekam Balewadi located?",
+        "answer": "Rohan Ekam Balewadi is located at Balewadi, Pune."
+      },
+      {
+        "question": "What is the price of Rohan Ekam Balewadi?",
+        "answer": "Prices at Rohan Ekam Balewadi range from \u20b9 1.33 Cr \u2013 3.28 Cr (agreement value). Homes are available as 2, 3, 4, 4.5 BHK."
+      },
+      {
+        "question": "Which configurations are available at Rohan Ekam Balewadi?",
+        "answer": "The project offers 2, 3, 4, 4.5 BHK homes. Carpet areas range from 890 \u2013 2,158 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Rohan Ekam Balewadi?",
+        "answer": "The RERA registration number of Rohan Ekam Balewadi is P52100052298."
+      },
+      {
+        "question": "When is the possession of Rohan Ekam Balewadi?",
+        "answer": "Possession is expected by Dec 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Rohan Ekam Balewadi?",
+        "answer": "Rohan Ekam Balewadi is developed by Rohan Ekam. The developer has been in real estate since 1993."
+      },
+      {
+        "question": "How many floors does Rohan Ekam Balewadi have?",
+        "answer": "The project has 7P+32 Floors floors. It is spread across 13 acres."
+      },
+      {
+        "question": "What amenities does Rohan Ekam Balewadi offer?",
+        "answer": "Amenities include Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Rohan Ekam Balewadi?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Rohan Ekam Balewadi?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8252152149926!2d73.77446417438523!3d18.581917067299056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf5757409bc1%3A0xe1948544e41d7e2e!2sRohan%20Ekam!5e0!3m2!1sen!2sin!4v1708360592697!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 7P+32 Floors floors. It is spread across 13 acres."
   },
   {
     "id": "p-vj-indilife",
@@ -3218,12 +3987,14 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/tckPqBcVINZBVHdS5Bf2TEn7XG8BA2rNaM34RTIU.webp",
     "lat": 18.5412,
     "lng": 73.7925,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/image - 2026-05-19T152510.033.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/56RUcH2FcTi4nhHkw0gG3jrlWip1SBX7GquQbPQ9.webp",
     "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/aePrJFSWXCrLzUuIElRa833tORaxTtYAjSNM78Sh.webp",
       "https://keystoneliv.com/public/uploads/property/image - 2026-05-19T152500.769.webp",
       "https://keystoneliv.com/public/uploads/property/NdXJ20cXwaIEvbNcLMqICBTXnHFUDHwqN8v3pGx2.png",
       "https://keystoneliv.com/public/uploads/property/aJ0jJdFO8iraawNzChzm5yfRSs4FcBR0vdbLakJy.png",
-      "https://keystoneliv.com/public/uploads/property/8y0bsfk2BnzfvvWUEvZvcnihuUcAp0sSkh93J6zo.png"
+      "https://keystoneliv.com/public/uploads/property/8y0bsfk2BnzfvvWUEvZvcnihuUcAp0sSkh93J6zo.png",
+      "https://keystoneliv.com/public/uploads/property/image - 2026-05-19T152510.033.webp"
     ],
     "description": "VJ IndiLife by Vilas Javdekar Developers represents modern residential excellence in Pashan, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b969.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Conference Room, Gym, Jogging Track, Kids Play Area, Open Gym. Verified under MahaRERA registration P52100028030, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
@@ -3282,7 +4053,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Pashan near Metro station and IT corridors",
       "Official MahaRERA verified project P52100028030",
       "Allotment directly from Vilas Javdekar Developers developer inventory"
@@ -3290,7 +4061,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100028030",
     "pricePerSqft": 9200,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "VJ IndiLife Pashan",
       "VJ IndiLife Pune price",
@@ -3335,7 +4106,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tckPqBcVINZBVHdS5Bf2TEn7XG8BA2rNaM34RTIU.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is VJ IndiLife located?",
+        "answer": "VJ IndiLife is located at VJ IndiLife, Pashan - Old Sr. No. 128/1B/1, Pashan - Sus Rd, Pashan, Pune, Maharashtra.."
+      },
+      {
+        "question": "What is the price of VJ IndiLife?",
+        "answer": "Prices at VJ IndiLife range from \u20b9 25.95 Lac \u2013 48.50 Lac (agreement value). Homes are available as Studio BHK."
+      },
+      {
+        "question": "Which configurations are available at VJ IndiLife?",
+        "answer": "The project offers Studio BHK homes. Carpet areas range from 184 \u2013 397 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of VJ IndiLife?",
+        "answer": "The RERA registration number of VJ IndiLife is P52100028030."
+      },
+      {
+        "question": "When is the possession of VJ IndiLife?",
+        "answer": "Possession is expected by Sep 2024, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of VJ IndiLife?",
+        "answer": "VJ IndiLife is developed by Vilas Javdekar Developers. The developer has been in real estate since 2016."
+      },
+      {
+        "question": "How many floors does VJ IndiLife have?",
+        "answer": "The project has 17 floors. It is spread across 1.05 acres."
+      },
+      {
+        "question": "What amenities does VJ IndiLife offer?",
+        "answer": "Amenities include Amphitheater, Conference Room, Gym, Jogging Track, Kids Play Area, Open Gym, Party Lawn, Pet Park and more."
+      },
+      {
+        "question": "Which banks give home loans for VJ IndiLife?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to VJ IndiLife?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7565.295457879271!2d73.77912157468334!3d18.54481454957932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf640c853341%3A0x9533f4f039258adb!2sVJ%20Indilife!5e0!3m2!1sen!2sin!4v1688198610806!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 17 floors. It is spread across 1.05 acres."
   },
   {
     "id": "p-vj-pkc-central",
@@ -3411,7 +4226,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Kharadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100077759",
       "Allotment directly from Vilas Javdekar Developers developer inventory"
@@ -3419,7 +4234,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100077759",
     "pricePerSqft": 9600,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "VJ PKC Central Kharadi",
       "VJ PKC Central Pune price",
@@ -3480,7 +4295,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/3K1d5aSB23mtWUwKhqAuWcReKd3jpS1SygdeiM9N.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is VJ PKC Central located?",
+        "answer": "VJ PKC Central is located at Pratik Nagar, Kharadi, Pune, Maharashtra 411014."
+      },
+      {
+        "question": "What is the price of VJ PKC Central?",
+        "answer": "Prices at VJ PKC Central range from \u20b9 1.10 Cr \u2013 1.90 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at VJ PKC Central?",
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 756 \u2013 1,320 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of VJ PKC Central?",
+        "answer": "The RERA registration number of VJ PKC Central is P52100077759."
+      },
+      {
+        "question": "When is the possession of VJ PKC Central?",
+        "answer": "Possession is expected by Dec 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of VJ PKC Central?",
+        "answer": "VJ PKC Central is developed by Vilas Javdekar Developers. The developer has been in real estate since 2016."
+      },
+      {
+        "question": "How many floors does VJ PKC Central have?",
+        "answer": "The project has G+22 floors. It is spread across 2 acres."
+      },
+      {
+        "question": "What amenities does VJ PKC Central offer?",
+        "answer": "Amenities include Amphitheater, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn, Sports Courts and more."
+      },
+      {
+        "question": "Which banks give home loans for VJ PKC Central?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to VJ PKC Central?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4693.4820141334385!2d73.93485547595725!3d18.557559968041836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c31a4bbf5c75%3A0xec03cd5dfb007e86!2sVJ%20Palladio%20Kharadi%20Central!5e1!3m2!1sen!2sin!4v1743167664970!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 2 acres."
   },
   {
     "id": "p-vj-yashwin-enchante",
@@ -3567,7 +4426,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Wagholi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100046510",
       "Allotment directly from Vilas Javdekar Developers developer inventory"
@@ -3575,7 +4434,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100046510",
     "pricePerSqft": 6400,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "VJ Yashwin Enchante Wagholi",
       "VJ Yashwin Enchante Pune price",
@@ -3636,7 +4495,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/3K1d5aSB23mtWUwKhqAuWcReKd3jpS1SygdeiM9N.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is VJ Yashwin Enchante located?",
+        "answer": "VJ Yashwin Enchante is located at Wagholi, Pune, Maharashtra."
+      },
+      {
+        "question": "What is the price of VJ Yashwin Enchante?",
+        "answer": "Prices at VJ Yashwin Enchante range from \u20b9 77.06 Lac \u2013 2.14 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at VJ Yashwin Enchante?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 613 \u2013 1,426 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of VJ Yashwin Enchante?",
+        "answer": "The RERA registration number of VJ Yashwin Enchante is P52100046510, P52100077455."
+      },
+      {
+        "question": "When is the possession of VJ Yashwin Enchante?",
+        "answer": "Possession is expected by Jun 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of VJ Yashwin Enchante?",
+        "answer": "VJ Yashwin Enchante is developed by Vilas Javdekar Developers. The developer has been in real estate since 2016."
+      },
+      {
+        "question": "How many floors does VJ Yashwin Enchante have?",
+        "answer": "The project has 21 floors. It is spread across 4 acres."
+      },
+      {
+        "question": "What amenities does VJ Yashwin Enchante offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym, Jacuzzi, Jogging Track and more."
+      },
+      {
+        "question": "Which banks give home loans for VJ Yashwin Enchante?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to VJ Yashwin Enchante?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.423258351953!2d73.9715317!3d18.5719071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c34a84356017%3A0x17e240cefa2bef98!2sVilas%20Javdekar%20yahwin%20enchante%20sales%20office%20-%20Wagholi!5e1!3m2!1sen!2sin!4v1744268968056!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 21 floors. It is spread across 4 acres."
   },
   {
     "id": "p-gt-pride",
@@ -3657,8 +4560,9 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/jbCsemSHSujdotJecRohojPLWmeJoue0QDRZzz4U.webp",
     "lat": 18.6496,
     "lng": 73.7441,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/7pu992x8lSATxJVYLOahMD6OwofO5QT9Pp2c33Xj.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/3nwgH4M3KYSuaKfXTtDhRqNLtwWRw8zijkrDpzRL.webp",
     "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/7pu992x8lSATxJVYLOahMD6OwofO5QT9Pp2c33Xj.webp",
       "https://keystoneliv.com/public/uploads/property/iqVoBiHDpdvdvsAeUBS5ADhwZqAsUDAkhxfT9DhM.webp",
       "https://keystoneliv.com/public/uploads/property/7TCmWAKkzKZL9nyvyDYsuMU5uJp9pN9T1g859POe.webp",
       "https://keystoneliv.com/public/uploads/property/iQeFKSkfJMsMn9Q736Gsy56RUc1DUApUpYlXsjXI.webp",
@@ -3710,7 +4614,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Ravet near Metro station and IT corridors",
       "Official MahaRERA verified project P52100048595",
       "Allotment directly from Pride Purple Group developer inventory"
@@ -3718,7 +4622,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100048595",
     "pricePerSqft": 7300,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "GT Pride Ravet",
       "GT Pride Pune price",
@@ -3779,7 +4683,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/7TCmWAKkzKZL9nyvyDYsuMU5uJp9pN9T1g859POe.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is GT Pride located?",
+        "answer": "GT Pride is located at Ravet, Pimpri - Chinchwad, Pune, Maharashtra."
+      },
+      {
+        "question": "What is the price of GT Pride?",
+        "answer": "Prices at GT Pride range from \u20b9 53.00 Lac \u2013 78.00 Lac (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at GT Pride?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 688 \u2013 988 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of GT Pride?",
+        "answer": "The RERA registration number of GT Pride is P52100048595."
+      },
+      {
+        "question": "When is the possession of GT Pride?",
+        "answer": "Possession is expected by May 2025, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of GT Pride?",
+        "answer": "GT Pride is developed by GT Associates Promoters & Builders. The developer has been in real estate since 2021."
+      },
+      {
+        "question": "How many floors does GT Pride have?",
+        "answer": "The project has 7 floors. It is spread across 1 acres."
+      },
+      {
+        "question": "What amenities does GT Pride offer?",
+        "answer": "Amenities include Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn, Sports Courts, Yoga Zone and more."
+      },
+      {
+        "question": "Which banks give home loans for GT Pride?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to GT Pride?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.202672707972!2d73.7309476!3d18.6548991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bba09ac1ab5f%3A0x6eee7e13184ecd37!2sGT%20PRIDE!5e0!3m2!1sen!2sin!4v1691753103758!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 7 floors. It is spread across 1 acres."
   },
   {
     "id": "p-pride-park-connect",
@@ -3861,7 +4809,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100020766",
       "Allotment directly from Pride Purple Group developer inventory"
@@ -3869,7 +4817,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100020766",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Pride Park Connect Hinjewadi",
       "Pride Park Connect Pune price",
@@ -3994,7 +4942,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/AGux2KTqcK6w1EClyVamf2E28S9cCEnCxpkBfOoc.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Pride Park Connect located?",
+        "answer": "Pride Park Connect is located at Hinjawadi, Pimpri-Chinchwad, Maharashtra."
+      },
+      {
+        "question": "What is the price of Pride Park Connect?",
+        "answer": "Prices at Pride Park Connect range from \u20b9 66.85 Lac \u2013 1.12 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Pride Park Connect?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 546 \u2013 913 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Pride Park Connect?",
+        "answer": "The RERA registration number of Pride Park Connect is P52100020766."
+      },
+      {
+        "question": "When is the possession of Pride Park Connect?",
+        "answer": "Possession is expected by Dec 2024, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Pride Park Connect?",
+        "answer": "Pride Park Connect is developed by Pride Purple Group. The developer has been in real estate since 2000."
+      },
+      {
+        "question": "How many floors does Pride Park Connect have?",
+        "answer": "The project has G+17 floors. It is spread across 2 acres."
+      },
+      {
+        "question": "What amenities does Pride Park Connect offer?",
+        "answer": "Amenities include Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym, Party Lawn, Pet Park and more."
+      },
+      {
+        "question": "Which banks give home loans for Pride Park Connect?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Pride Park Connect?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4496.848046291115!2d73.72162725054598!3d18.601817205332917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbb7d6a9132d%3A0x2ab76cd01ee7f5d!2sPark%20Connect%2C%20Phase%201%2C%20Hinjawadi%20Rajiv%20Gandhi%20Infotech%20Park%2C%20Hinjawadi%2C%20Pimpri-Chinchwad%2C%20Maharashtra%20411057!5e0!3m2!1sen!2sin!4v1692186175898!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+17 floors. It is spread across 2 acres."
   },
   {
     "id": "p-codename-pride-of-chinchwad",
@@ -4072,7 +5064,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Pimpri Chinchwad near Metro station and IT corridors",
       "Official MahaRERA verified project P52100064090",
       "Allotment directly from Pride Purple Group developer inventory"
@@ -4080,7 +5072,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100064090",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Codename Pride Of Chinchwad Pimpri Chinchwad",
       "Codename Pride Of Chinchwad Pune price",
@@ -4125,7 +5117,47 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/bJRlpzPdNm0DR1MkR1sH6rYnsTdUtDSgBdDHbkM5.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Codename Pride Of Chinchwad located?",
+        "answer": "Codename Pride Of Chinchwad is located at Sno 192A, Udyog Nagar, Pimpri-Chinchwad, Pune.."
+      },
+      {
+        "question": "What is the price of Codename Pride Of Chinchwad?",
+        "answer": "Prices at Codename Pride Of Chinchwad range from \u20b9 1.49 Cr \u2013 2.18 Cr (agreement value). Homes are available as 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Codename Pride Of Chinchwad?",
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,199 \u2013 1,736 sq.ft."
+      },
+      {
+        "question": "When is the possession of Codename Pride Of Chinchwad?",
+        "answer": "Possession is expected by Dec 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Codename Pride Of Chinchwad?",
+        "answer": "Codename Pride Of Chinchwad is developed by Saheel Properties Group. The developer has been in real estate since 2008."
+      },
+      {
+        "question": "How many floors does Codename Pride Of Chinchwad have?",
+        "answer": "The project has B+G+20 floors floors. It is spread across 2 acres."
+      },
+      {
+        "question": "What amenities does Codename Pride Of Chinchwad offer?",
+        "answer": "Amenities include Gym, Jogging Track, Kids Play Area, Open Gym, Party Lawn, Sports Courts, Swimming Pool, Yoga Zone and more."
+      },
+      {
+        "question": "Which banks give home loans for Codename Pride Of Chinchwad?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Codename Pride Of Chinchwad?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60488.36244432715!2d73.71631972167968!3d18.640528199999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b93b2f4be265%3A0x10a99f9c1ab9cd6b!2sITrend%20by%20Saheel%20Properties!5e0!3m2!1sen!2sin!4v1708689371250!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has B+G+20 floors floors. It is spread across 2 acres."
   },
   {
     "id": "p-nyati-evoque",
@@ -4193,7 +5225,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Wadgaon Sheri near Metro station and IT corridors",
       "Official MahaRERA verified project P52100056152",
       "Allotment directly from Nyati Group developer inventory"
@@ -4201,7 +5233,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100056152",
     "pricePerSqft": 8700,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Nyati Evoque Wadgaon Sheri",
       "Nyati Evoque Pune price",
@@ -4246,7 +5278,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/irWHREpB4Bu9lyPddtSq6rmlhF56vKg7o60Jna7N.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Nyati Evoque located?",
+        "answer": "Nyati Evoque is located at Wadgaon Sheri, Pune."
+      },
+      {
+        "question": "What is the price of Nyati Evoque?",
+        "answer": "Prices at Nyati Evoque range from \u20b9 3.57 Cr \u2013 4.33 Cr (agreement value). Homes are available as 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Nyati Evoque?",
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,519 \u2013 1,836 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Nyati Evoque?",
+        "answer": "The RERA registration number of Nyati Evoque is P52100056152."
+      },
+      {
+        "question": "When is the possession of Nyati Evoque?",
+        "answer": "Possession is expected by Dec 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Nyati Evoque?",
+        "answer": "Nyati Evoque is developed by NYATI GROUP. The developer has been in real estate since 1997."
+      },
+      {
+        "question": "How many floors does Nyati Evoque have?",
+        "answer": "The project has 27 floors."
+      },
+      {
+        "question": "What amenities does Nyati Evoque offer?",
+        "answer": "Amenities include Gym, Jogging Track, Kids Play Area, Mini-Theater, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Nyati Evoque?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Nyati Evoque?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.660477834084!2d73.91528199999999!3d18.5442389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1007a073eb7%3A0x6ae5de1bd37039ba!2sNyati%20Evoque!5e0!3m2!1sen!2sin!4v1746887393270!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 27 floors."
   },
   {
     "id": "p-nyati-emerald",
@@ -4317,7 +5393,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Baner near Metro station and IT corridors",
       "Official MahaRERA verified project P52100051235",
       "Allotment directly from Nyati Group developer inventory"
@@ -4325,7 +5401,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100051235",
     "pricePerSqft": 10500,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Nyati Emerald Baner",
       "Nyati Emerald Pune price",
@@ -4370,7 +5446,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/UHNyjEwyLNQy9PeMbK3JWfFARipTf9vfWKRwdV5z.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Nyati Emerald located?",
+        "answer": "Nyati Emerald is located at Baner, Pune."
+      },
+      {
+        "question": "What is the price of Nyati Emerald?",
+        "answer": "Prices at Nyati Emerald range from \u20b9 1.18 Cr \u2013 1.65 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Nyati Emerald?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 838 \u2013 1,213 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Nyati Emerald?",
+        "answer": "The RERA registration number of Nyati Emerald is P52100051235."
+      },
+      {
+        "question": "When is the possession of Nyati Emerald?",
+        "answer": "Possession is expected by Feb 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Nyati Emerald?",
+        "answer": "Nyati Emerald is developed by NYATI GROUP. The developer has been in real estate since 1997."
+      },
+      {
+        "question": "How many floors does Nyati Emerald have?",
+        "answer": "The project has 29 floors. It is spread across 15 acres."
+      },
+      {
+        "question": "What amenities does Nyati Emerald offer?",
+        "answer": "Amenities include Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Pet Park, Swimming Pool, Yoga Zone and more."
+      },
+      {
+        "question": "Which banks give home loans for Nyati Emerald?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Nyati Emerald?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.486478220268!2d73.76621170000001!3d18.552094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bebe9fd39bf1%3A0x9a2e05ea4256096d!2sNyati%20Emerald!5e0!3m2!1sen!2sin!4v1747043793362!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 29 floors. It is spread across 15 acres."
   },
   {
     "id": "p-nyati-esteban-2",
@@ -4443,7 +5563,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Undri near Metro station and IT corridors",
       "Official MahaRERA verified project P52100053440",
       "Allotment directly from Nyati Group developer inventory"
@@ -4451,7 +5571,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100053440",
     "pricePerSqft": 6600,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Nyati Esteban 2 Undri",
       "Nyati Esteban 2 Pune price",
@@ -4496,7 +5616,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Nyati Esteban 2 located?",
+        "answer": "Nyati Esteban 2 is located at Undri, Pune."
+      },
+      {
+        "question": "What is the price of Nyati Esteban 2?",
+        "answer": "Prices at Nyati Esteban 2 range from \u20b9 84.00 Lac \u2013 1.22 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Nyati Esteban 2?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 838 \u2013 1,214 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Nyati Esteban 2?",
+        "answer": "The RERA registration number of Nyati Esteban 2 is P52100053440."
+      },
+      {
+        "question": "When is the possession of Nyati Esteban 2?",
+        "answer": "Possession is expected by Sep 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Nyati Esteban 2?",
+        "answer": "Nyati Esteban 2 is developed by NYATI GROUP. The developer has been in real estate since 1997."
+      },
+      {
+        "question": "How many floors does Nyati Esteban 2 have?",
+        "answer": "The project has 30 floors. It is spread across 5.04 acres."
+      },
+      {
+        "question": "What amenities does Nyati Esteban 2 offer?",
+        "answer": "Amenities include Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Pet Park, Swimming Pool, Yoga Zone and more."
+      },
+      {
+        "question": "Which banks give home loans for Nyati Esteban 2?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Nyati Esteban 2?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.595358632626!2d73.9176876!3d18.4566726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eb5444285d63%3A0xf0ce2364f73e1c51!2sNyati%20Esteban%20I%20%26%20II!5e0!3m2!1sen!2sin!4v1747324956194!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 30 floors. It is spread across 5.04 acres."
   },
   {
     "id": "p-gera-hinjewadi-phase-3",
@@ -4570,7 +5734,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100077635",
       "Allotment directly from Gera Developments developer inventory"
@@ -4578,7 +5742,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100077635",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Gera Hinjewadi Phase 3 \u2013 0 Hinjewadi",
       "Gera Hinjewadi Phase 3 \u2013 0 Pune price",
@@ -4655,7 +5819,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/ImDiujOwFBjJL4Fonv1zzS6x5tRznB71FrHLlhmt.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Gera Hinjewadi Phase 3 \u2013 0 located?",
+        "answer": "Gera Hinjewadi Phase 3 \u2013 0 is located at Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Pimpri-Chinchwad.."
+      },
+      {
+        "question": "What is the price of Gera Hinjewadi Phase 3 \u2013 0?",
+        "answer": "Prices at Gera Hinjewadi Phase 3 \u2013 0 range from \u20b9 83.40 Lac \u2013 1.47 Cr (agreement value). Homes are available as 2, 3 BHK, Duplex."
+      },
+      {
+        "question": "Which configurations are available at Gera Hinjewadi Phase 3 \u2013 0?",
+        "answer": "The project offers 2, 3 BHK, Duplex homes. Carpet areas range from 750 \u2013 1,215 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Gera Hinjewadi Phase 3 \u2013 0?",
+        "answer": "The RERA registration number of Gera Hinjewadi Phase 3 \u2013 0 is P52100077635."
+      },
+      {
+        "question": "When is the possession of Gera Hinjewadi Phase 3 \u2013 0?",
+        "answer": "Possession is expected by Dec 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Gera Hinjewadi Phase 3 \u2013 0?",
+        "answer": "Gera Hinjewadi Phase 3 \u2013 0 is developed by Gera Developers. The developer has been in real estate since 1970."
+      },
+      {
+        "question": "How many floors does Gera Hinjewadi Phase 3 \u2013 0 have?",
+        "answer": "The project has 3P+33 floors floors. It is spread across 10.75 acres."
+      },
+      {
+        "question": "What amenities does Gera Hinjewadi Phase 3 \u2013 0 offer?",
+        "answer": "Amenities include Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Swimming Pool, Yoga Zone and more."
+      },
+      {
+        "question": "Which banks give home loans for Gera Hinjewadi Phase 3 \u2013 0?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Gera Hinjewadi Phase 3 \u2013 0?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30253.972971752486!2d73.64989183096901!3d18.585458588066782!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb12c2bca185%3A0xb3879fc3627adcf4!2sPhase%203%2C%20Hinjawadi%20Rajiv%20Gandhi%20Infotech%20Park%2C%20Hinjawadi%2C%20Pune%2C%20Pimpri-Chinchwad%2C%20Maharashtra%20411057!5e0!3m2!1sen!2sin!4v1709536313556!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 3P+33 floors floors. It is spread across 10.75 acres."
   },
   {
     "id": "p-gera-imperium-gateway",
@@ -4725,7 +5933,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Bhosari near Metro station and IT corridors",
       "Official MahaRERA verified project P52100030184",
       "Allotment directly from Gera Developments developer inventory"
@@ -4733,7 +5941,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100030184",
     "pricePerSqft": 6500,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Gera Imperium Gateway \u2013 A Bhosari",
       "Gera Imperium Gateway \u2013 A Pune price",
@@ -4778,7 +5986,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Yr5BwDRbFNIiqwBjWtCMNhRsmIHKZenfXV5IfERK.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Gera Imperium Gateway \u2013 A located?",
+        "answer": "Gera Imperium Gateway \u2013 A is located at Bhosari, Pune."
+      },
+      {
+        "question": "What is the price of Gera Imperium Gateway \u2013 A?",
+        "answer": "Prices at Gera Imperium Gateway \u2013 A range from \u20b9 65.64 Lac \u2013 3.50 Cr (agreement value). Homes are available as Commercial Office."
+      },
+      {
+        "question": "Which configurations are available at Gera Imperium Gateway \u2013 A?",
+        "answer": "The project offers Commercial Office homes. Carpet areas range from 414 \u2013 1,400 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Gera Imperium Gateway \u2013 A?",
+        "answer": "The RERA registration number of Gera Imperium Gateway \u2013 A is P52100030184 P52100030167."
+      },
+      {
+        "question": "When is the possession of Gera Imperium Gateway \u2013 A?",
+        "answer": "Possession is expected by Mar 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Gera Imperium Gateway \u2013 A?",
+        "answer": "Gera Imperium Gateway \u2013 A is developed by Gera Developers. The developer has been in real estate since 1970."
+      },
+      {
+        "question": "How many floors does Gera Imperium Gateway \u2013 A have?",
+        "answer": "The project has G+35 floors. It is spread across 1.8 acres."
+      },
+      {
+        "question": "What amenities does Gera Imperium Gateway \u2013 A offer?",
+        "answer": "Amenities include Conference Room, Fitness Corner, Sports Courts and more."
+      },
+      {
+        "question": "Which banks give home loans for Gera Imperium Gateway \u2013 A?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Gera Imperium Gateway \u2013 A?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.199415224838!2d73.81750377519381!3d18.61009828250088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b9b5631828cb%3A0x6370d884949e3645!2sGera",
+    "floorsAndAcres": "The project has G+35 floors. It is spread across 1.8 acres."
   },
   {
     "id": "p-gera-joy-on-treetop",
@@ -4861,7 +6113,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100077635",
       "Allotment directly from Gera Developments developer inventory"
@@ -4869,7 +6121,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100077635",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Gera Joy On Treetop Hinjewadi",
       "Gera Joy On Treetop Pune price",
@@ -4930,7 +6182,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/HTDeJtXzkfygVbiRVz95ojkcuQKU5PXVfRQ9NN4R.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Gera Joy On Treetop located?",
+        "answer": "Gera Joy On Treetop is located at Hinjewadi Phase 3, Pimpri-Chinchwad, Pune, Maharashtra.."
+      },
+      {
+        "question": "What is the price of Gera Joy On Treetop?",
+        "answer": "Prices at Gera Joy On Treetop range from \u20b9 85.90 Lac \u2013 1.38 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Gera Joy On Treetop?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 753 \u2013 1,215 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Gera Joy On Treetop?",
+        "answer": "The RERA registration number of Gera Joy On Treetop is P52100077635."
+      },
+      {
+        "question": "When is the possession of Gera Joy On Treetop?",
+        "answer": "Possession is expected by Dec 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Gera Joy On Treetop?",
+        "answer": "Gera Joy On Treetop is developed by Gera Developers. The developer has been in real estate since 1970."
+      },
+      {
+        "question": "How many floors does Gera Joy On Treetop have?",
+        "answer": "The project has G+3P+33 floors. It is spread across 10.7 acres."
+      },
+      {
+        "question": "What amenities does Gera Joy On Treetop offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner, Gym, Jogging Track and more."
+      },
+      {
+        "question": "Which banks give home loans for Gera Joy On Treetop?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Gera Joy On Treetop?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d35415.90523139877!2d73.66268659504249!3d18.585448142709588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb12c2bca185%3A0xb3879fc3627adcf4!2sPhase%203%2C%20Hinjawadi%20Rajiv%20Gandhi%20Infotech%20Park%2C%20Hinjawadi%2C%20Pune%2C%20Pimpri-Chinchwad%2C%20Maharashtra%20411057!5e0!3m2!1sen!2sin!4v1729593615491!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+3P+33 floors. It is spread across 10.7 acres."
   },
   {
     "id": "p-kasturi-apostrophe",
@@ -4950,11 +6246,11 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/Kc9WrFfiUHLEzOWKPwF0yAt4AFwu6yogpoLOfgi1.webp",
     "lat": 18.5913,
     "lng": 73.7389,
-    "masterLayout": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/hktier2sHXP4K72r1KJuALKWEkO0q8C2EMl3ZeVO.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/kLEnSzR22c9MFpgzW1q1VBKhcmnWujmwF6wocGF3.webp",
     "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/6muqAWdRxTJUTEwNXQRGeBfgVIluqwTW2aig5Gly.webp",
       "https://keystoneliv.com/public/uploads/property/image (75).webp",
       "https://keystoneliv.com/public/uploads/property/kLEnSzR22c9MFpgzW1q1VBKhcmnWujmwF6wocGF3.webp",
-      "https://keystoneliv.com/public/uploads/property/6muqAWdRxTJUTEwNXQRGeBfgVIluqwTW2aig5Gly.webp",
       "https://keystoneliv.com/public/uploads/property/z1Cl4amxzGL9angDNIWfxgIYIvfKxamUuEWGUPd0.webp"
     ],
     "description": "Kasturi Apostrophe by Kasturi Housing represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b988.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100031595, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
@@ -5008,7 +6304,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100031595",
       "Allotment directly from Kasturi Housing developer inventory"
@@ -5016,7 +6312,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100031595",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kasturi Apostrophe Hinjewadi",
       "Kasturi Apostrophe Pune price",
@@ -5061,7 +6357,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (75).webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kasturi Apostrophe located?",
+        "answer": "Kasturi Apostrophe is located at Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pimpri-Chinchwad."
+      },
+      {
+        "question": "What is the price of Kasturi Apostrophe?",
+        "answer": "Prices at Kasturi Apostrophe range from \u20b9 88.00 Lac (agreement value). Homes are available as 2 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kasturi Apostrophe?",
+        "answer": "The project offers 2 BHK homes. Carpet areas range from 710 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kasturi Apostrophe?",
+        "answer": "The RERA registration number of Kasturi Apostrophe is P52100031595."
+      },
+      {
+        "question": "When is the possession of Kasturi Apostrophe?",
+        "answer": "Possession is expected by Dec 2025, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kasturi Apostrophe?",
+        "answer": "Kasturi Apostrophe is developed by Kasturi. The developer has been in real estate since 1999."
+      },
+      {
+        "question": "How many floors does Kasturi Apostrophe have?",
+        "answer": "The project has G+22 floors. It is spread across 5.5 acres."
+      },
+      {
+        "question": "What amenities does Kasturi Apostrophe offer?",
+        "answer": "Amenities include Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn, Pet Park and more."
+      },
+      {
+        "question": "Which banks give home loans for Kasturi Apostrophe?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kasturi Apostrophe?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.80929133927!2d73.68933347438524!3d18.582634667277055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb206a8c98eb%3A0xa7f7de605c373e64!2sApostrophe%20Hinjawadi%20By%20Kasturi!5e0!3m2!1sen!2sin!4v1708362071754!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 5.5 acres."
   },
   {
     "id": "p-kasturi-eon-homes",
@@ -5141,7 +6481,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100026429",
       "Allotment directly from Kasturi Housing developer inventory"
@@ -5149,7 +6489,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100026429",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kasturi Eon Homes Hinjewadi",
       "Kasturi Eon Homes Pune price",
@@ -5210,7 +6550,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/LlTxJHtDg73ynmCPMzwDQD1pDvn5dQpm7OIdijJ7.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kasturi Eon Homes located?",
+        "answer": "Kasturi Eon Homes is located at Pune, Maharashtra.."
+      },
+      {
+        "question": "What is the price of Kasturi Eon Homes?",
+        "answer": "Prices at Kasturi Eon Homes range from \u20b9 1.10 Cr \u2013 1.79 Cr (agreement value). Homes are available as 2, 2.5, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kasturi Eon Homes?",
+        "answer": "The project offers 2, 2.5, 3 BHK homes. Carpet areas range from 840 \u2013 1,150 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kasturi Eon Homes?",
+        "answer": "The RERA registration number of Kasturi Eon Homes is P52100026429, P52100046679, P52100024680, P52100030732, P52100048176, P52100080318, P52100013714."
+      },
+      {
+        "question": "When is the possession of Kasturi Eon Homes?",
+        "answer": "Possession is expected by Dec 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kasturi Eon Homes?",
+        "answer": "Kasturi Eon Homes is developed by Kasturi. The developer has been in real estate since 1999."
+      },
+      {
+        "question": "How many floors does Kasturi Eon Homes have?",
+        "answer": "The project has 2B+P+22 floors. It is spread across 22 acres."
+      },
+      {
+        "question": "What amenities does Kasturi Eon Homes offer?",
+        "answer": "Amenities include Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Sports Courts, Swimming Pool, Yoga Zone and more."
+      },
+      {
+        "question": "Which banks give home loans for Kasturi Eon Homes?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kasturi Eon Homes?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d484236.13917022356!2d73.862967!3d18.524616!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf2e67461101%3A0x828d43bf9d9ee343!2sPune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1727432976396!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 2B+P+22 floors. It is spread across 22 acres."
   },
   {
     "id": "p-kasturi-the-balmoral-towers",
@@ -5290,7 +6674,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Balewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100047008",
       "Allotment directly from Kasturi Housing developer inventory"
@@ -5298,7 +6682,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100047008",
     "pricePerSqft": 9800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kasturi The Balmoral Towers Balewadi",
       "Kasturi The Balmoral Towers Pune price",
@@ -5343,7 +6727,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kasturi The Balmoral Towers located?",
+        "answer": "Kasturi The Balmoral Towers is located at Balewadi, Pune."
+      },
+      {
+        "question": "What is the price of Kasturi The Balmoral Towers?",
+        "answer": "Prices at Kasturi The Balmoral Towers range from \u20b9 2.03 Cr \u2013 7.51 Cr (agreement value). Homes are available as 3, 4, 4.5, 5.5 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kasturi The Balmoral Towers?",
+        "answer": "The project offers 3, 4, 4.5, 5.5 BHK homes. Carpet areas range from 1,246 \u2013 3,742 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kasturi The Balmoral Towers?",
+        "answer": "The RERA registration number of Kasturi The Balmoral Towers is P52100047008."
+      },
+      {
+        "question": "When is the possession of Kasturi The Balmoral Towers?",
+        "answer": "Possession is expected by Dec 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kasturi The Balmoral Towers?",
+        "answer": "Kasturi The Balmoral Towers is developed by Kasturi Builders. The developer has been in real estate since 1999."
+      },
+      {
+        "question": "How many floors does Kasturi The Balmoral Towers have?",
+        "answer": "The project has 2B+G+P+37 floors. It is spread across 5 acres."
+      },
+      {
+        "question": "What amenities does Kasturi The Balmoral Towers offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area and more."
+      },
+      {
+        "question": "Which banks give home loans for Kasturi The Balmoral Towers?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kasturi The Balmoral Towers?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8259493671694!2d73.77265187519316!3d18.581883982523642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b939b8fba43d%3A0xa83eaa1b934d907e!2sKasturi%20Balmoral%20Towers%2C%20Balewadi%2C%20Pune%2C%20Maharashtra%20411045!5e0!3m2!1sen!2sin!4v1750233936157!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 2B+G+P+37 floors. It is spread across 5 acres."
   },
   {
     "id": "p-mahindra-happinest",
@@ -5364,11 +6792,12 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/430sCsigr3Ej6G1NbTk8XPOQtxzzglMt7g2T8AOD.webp",
     "lat": 18.6186,
     "lng": 73.7533,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/V4wSzfgdN4fSren4jb95rT0vdd4KSV49tNN9ZgvF.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/AEV4Alkp45KgjGoLG3i2wOtoKOjfuY7T0aplVMNP.webp",
     "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/V4wSzfgdN4fSren4jb95rT0vdd4KSV49tNN9ZgvF.webp",
+      "https://keystoneliv.com/public/uploads/property/image (2).webp",
       "https://keystoneliv.com/public/uploads/property/aU0av4R1IIxdmArOOo0urjB7axIHKZzbIOiGbl5G.webp",
       "https://keystoneliv.com/public/uploads/property/G8iCil7CfCUQv3jH8sFJxdrhZovPC6sPFiRqwXjG.webp",
-      "https://keystoneliv.com/public/uploads/property/image (2).webp",
       "https://keystoneliv.com/public/uploads/property/AEV4Alkp45KgjGoLG3i2wOtoKOjfuY7T0aplVMNP.webp"
     ],
     "description": "Mahindra Happinest \u2013 D,E,F,G by Mahindra Lifespaces represents modern residential excellence in Tathawade, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b956.25 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100028049, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
@@ -5422,7 +6851,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Tathawade near Metro station and IT corridors",
       "Official MahaRERA verified project P52100028049",
       "Allotment directly from Mahindra Lifespaces developer inventory"
@@ -5430,7 +6859,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100028049",
     "pricePerSqft": 7500,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Mahindra Happinest \u2013 D,E,F,G Tathawade",
       "Mahindra Happinest \u2013 D,E,F,G Pune price",
@@ -5475,7 +6904,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/430sCsigr3Ej6G1NbTk8XPOQtxzzglMt7g2T8AOD.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Mahindra Happinest \u2013 D,E,F,G located?",
+        "answer": "Mahindra Happinest \u2013 D,E,F,G is located at Tathawade, Pimpri-Chinchwad, Maharashtra."
+      },
+      {
+        "question": "What is the price of Mahindra Happinest \u2013 D,E,F,G?",
+        "answer": "Prices at Mahindra Happinest \u2013 D,E,F,G range from \u20b9 45.00 Lac (agreement value). Homes are available as 1 BHK."
+      },
+      {
+        "question": "Which configurations are available at Mahindra Happinest \u2013 D,E,F,G?",
+        "answer": "The project offers 1 BHK homes. Carpet areas range from 470 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Mahindra Happinest \u2013 D,E,F,G?",
+        "answer": "The RERA registration number of Mahindra Happinest \u2013 D,E,F,G is P52100028049/P52100045388."
+      },
+      {
+        "question": "When is the possession of Mahindra Happinest \u2013 D,E,F,G?",
+        "answer": "Possession is expected by Jun 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Mahindra Happinest \u2013 D,E,F,G?",
+        "answer": "Mahindra Happinest \u2013 D,E,F,G is developed by Mahindra Lifespaces. The developer has been in real estate since 1994."
+      },
+      {
+        "question": "How many floors does Mahindra Happinest \u2013 D,E,F,G have?",
+        "answer": "The project has B+G+22 floors. It is spread across 7 acres."
+      },
+      {
+        "question": "What amenities does Mahindra Happinest \u2013 D,E,F,G offer?",
+        "answer": "Amenities include Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Library, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Mahindra Happinest \u2013 D,E,F,G?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Mahindra Happinest \u2013 D,E,F,G?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.7743944062513!2d73.7433101!3d18.6292145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b996a82dc273%3A0x4bd01fabf83d5cf7!2sMahindra%20Happinest%20Tathawade%20%E2%80%93%20by%20Mahindra%20Lifespaces!5e0!3m2!1sen!2sin!4v1695033408261!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has B+G+22 floors. It is spread across 7 acres."
   },
   {
     "id": "p-mahindra-citadel",
@@ -5496,7 +6969,7 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/7R1KntHtZGpJcf1ID73ZhW6Bmbi6t69x1dDPXrCk.webp",
     "lat": 18.6298,
     "lng": 73.7997,
-    "masterLayout": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/CRFwCIeZDlS2wIt2FCjHtVPHQkc9Bh2S4PO5qe0k.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/k0DKtRzvGyo3jMbyF5lDnXQFFY421WAIwDkXgXvJ.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/image - 2026-06-02T151837.150.webp",
       "https://keystoneliv.com/public/uploads/property/image - 2026-06-02T151842.182.webp",
@@ -5558,7 +7031,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Pimpri Chinchwad near Metro station and IT corridors",
       "Official MahaRERA verified project P52100047656",
       "Allotment directly from Mahindra Lifespaces developer inventory"
@@ -5566,7 +7039,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100047656",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Mahindra Citadel Pimpri Chinchwad",
       "Mahindra Citadel Pune price",
@@ -5627,7 +7100,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image - 2026-06-02T151842.182.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Mahindra Citadel located?",
+        "answer": "Mahindra Citadel is located at JR87+M88 CTS 4854, next to ICC Tech Park, Vallabh Nagar, Pimpri Colony, Pune, Maharashtra."
+      },
+      {
+        "question": "What is the price of Mahindra Citadel?",
+        "answer": "Prices at Mahindra Citadel range from \u20b9 88.00 Lac \u2013 1.21 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Mahindra Citadel?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 731 \u2013 978 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Mahindra Citadel?",
+        "answer": "The RERA registration number of Mahindra Citadel is P52100047656."
+      },
+      {
+        "question": "When is the possession of Mahindra Citadel?",
+        "answer": "Possession is expected by Dec 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Mahindra Citadel?",
+        "answer": "Mahindra Citadel is developed by Mahindra Lifespaces. The developer has been in real estate since 1994."
+      },
+      {
+        "question": "How many floors does Mahindra Citadel have?",
+        "answer": "The project has 6 Level Parking : + 22 Floor floors. It is spread across 11.5 acres."
+      },
+      {
+        "question": "What amenities does Mahindra Citadel offer?",
+        "answer": "Amenities include Amphitheater, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Library, Open Gym and more."
+      },
+      {
+        "question": "Which banks give home loans for Mahindra Citadel?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Mahindra Citadel?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.0567159034736!2d73.813239!3d18.616518599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b97395ba9695%3A0x9f96b3b1facf7ca7!2sMahindra%20Citadel!5e0!3m2!1sen!2sin!4v1695036573003!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 6 Level Parking : + 22 Floor floors. It is spread across 11.5 acres."
   },
   {
     "id": "p-mahindra-kharadi",
@@ -5707,7 +7224,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Kharadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100055161",
       "Allotment directly from Mahindra Lifespaces developer inventory"
@@ -5715,7 +7232,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100055161",
     "pricePerSqft": 9600,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Mahindra Kharadi Kharadi",
       "Mahindra Kharadi Pune price",
@@ -5776,7 +7293,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Mahindra Kharadi located?",
+        "answer": "Mahindra Kharadi is located at Kharadi, Pune, Maharashtra.."
+      },
+      {
+        "question": "What is the price of Mahindra Kharadi?",
+        "answer": "Prices at Mahindra Kharadi range from \u20b9 98.00 Lac \u2013 2.12 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Mahindra Kharadi?",
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 769 \u2013 1,599 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Mahindra Kharadi?",
+        "answer": "The RERA registration number of Mahindra Kharadi is P52100055161, P52100055162, P52100078592."
+      },
+      {
+        "question": "When is the possession of Mahindra Kharadi?",
+        "answer": "Possession is expected by Dec 2029, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Mahindra Kharadi?",
+        "answer": "Mahindra Kharadi is developed by Mahindra Lifespaces. The developer has been in real estate since 1994."
+      },
+      {
+        "question": "How many floors does Mahindra Kharadi have?",
+        "answer": "The project has 32 floors. It is spread across 5.4 acres."
+      },
+      {
+        "question": "What amenities does Mahindra Kharadi offer?",
+        "answer": "Amenities include Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym, Sports Courts and more."
+      },
+      {
+        "question": "Which banks give home loans for Mahindra Kharadi?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Mahindra Kharadi?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.6140167791295!2d73.96832737423802!3d18.546336668388612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c30016a18a23%3A0xd5b654801aaa6334!2sMahindra%20Lifespace%20Kharadi!5e0!3m2!1sen!2sin!4v1706871796923!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 32 floors. It is spread across 5.4 acres."
   },
   {
     "id": "p-kumar-parth-tower",
@@ -5796,7 +7357,7 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/zoLAkypqIHabTujIT7jLRaHsLqSvtkc6H9LUm5nB.webp",
     "lat": 18.559,
     "lng": 73.7868,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/qARqJM3G0vCdoeKlLfAh7OECZd5lY3HUYD7T9pmW.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/1hrp8Z2H37hCLmuwIlHXP5eaxifc5wiCotUH5cVM.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/1hrp8Z2H37hCLmuwIlHXP5eaxifc5wiCotUH5cVM.webp",
       "https://keystoneliv.com/public/uploads/property/3sc0FvlkSeRB8AoYR0SxcEtb6SinhQcIhFDRcaiY.webp",
@@ -5852,7 +7413,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Baner near Metro station and IT corridors",
       "Official MahaRERA verified project P52100047987",
       "Allotment directly from Kumar Properties developer inventory"
@@ -5860,7 +7421,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100047987",
     "pricePerSqft": 10500,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kumar Parth Tower Baner",
       "Kumar Parth Tower Pune price",
@@ -5905,7 +7466,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/1hrp8Z2H37hCLmuwIlHXP5eaxifc5wiCotUH5cVM.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kumar Parth Tower located?",
+        "answer": "Kumar Parth Tower is located at Baner, Pune."
+      },
+      {
+        "question": "What is the price of Kumar Parth Tower?",
+        "answer": "Prices at Kumar Parth Tower range from \u20b9 1.04 Cr \u2013 1.90 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kumar Parth Tower?",
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 774 \u2013 1,500 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kumar Parth Tower?",
+        "answer": "The RERA registration number of Kumar Parth Tower is P52100047987."
+      },
+      {
+        "question": "When is the possession of Kumar Parth Tower?",
+        "answer": "Possession is expected by Mar 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kumar Parth Tower?",
+        "answer": "Kumar Parth Tower is developed by Kumar Properties. The developer has been in real estate since 1966."
+      },
+      {
+        "question": "How many floors does Kumar Parth Tower have?",
+        "answer": "The project has G+22 floors. It is spread across 2 acres."
+      },
+      {
+        "question": "What amenities does Kumar Parth Tower offer?",
+        "answer": "Amenities include Cafeteria, Fitness Corner, Jogging Track, Kids Play Area, Party Lawn, Pet Park, Sports Courts, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Kumar Parth Tower?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kumar Parth Tower?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15129.761554596447!2d73.75052225011335!3d18.554174146367494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfe9172c216d%3A0xd9b43426a82a33f1!2sKumar%20Parth%20Towers!5e0!3m2!1sen!2sin!4v1708360772924!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 2 acres."
   },
   {
     "id": "p-kumar-palmspring-towers",
@@ -5978,7 +7583,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Undri near Metro station and IT corridors",
       "Official MahaRERA verified project P52100048329",
       "Allotment directly from Kumar Properties developer inventory"
@@ -5986,7 +7591,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100048329",
     "pricePerSqft": 6600,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kumar Palmspring Towers Undri",
       "Kumar Palmspring Towers Pune price",
@@ -6047,7 +7652,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Ti87vi13I6M0IRd0wREubyKxdc8T4Nkn8g7wE844.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kumar Palmspring Towers located?",
+        "answer": "Kumar Palmspring Towers is located at NIBM Rd, Undri, Pune."
+      },
+      {
+        "question": "What is the price of Kumar Palmspring Towers?",
+        "answer": "Prices at Kumar Palmspring Towers range from \u20b9 82.38 Lac \u2013 1.19 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kumar Palmspring Towers?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 763 \u2013 1,103 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kumar Palmspring Towers?",
+        "answer": "The RERA registration number of Kumar Palmspring Towers is P52100048329."
+      },
+      {
+        "question": "When is the possession of Kumar Palmspring Towers?",
+        "answer": "Possession is expected by Dec 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kumar Palmspring Towers?",
+        "answer": "Kumar Palmspring Towers is developed by Kumar Properties. The developer has been in real estate since 1966."
+      },
+      {
+        "question": "How many floors does Kumar Palmspring Towers have?",
+        "answer": "The project has G+35 floors. It is spread across 9.5 acres."
+      },
+      {
+        "question": "What amenities does Kumar Palmspring Towers offer?",
+        "answer": "Amenities include Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Kumar Palmspring Towers?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kumar Palmspring Towers?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.452370525493!2d73.90478987519027!3d18.463157482619305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eb330ed0269f%3A0x6098e1c4bf1c5b2e!2sKumar%20Palmspring%20Towers!5e0!3m2!1sen!2sin!4v1710328946764!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+35 floors. It is spread across 9.5 acres."
   },
   {
     "id": "p-kumar-codename-centrestage",
@@ -6125,7 +7774,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100052912",
       "Allotment directly from Kumar Properties developer inventory"
@@ -6133,7 +7782,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100052912",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kumar Codename Centrestage \u2013 0 Hinjewadi",
       "Kumar Codename Centrestage \u2013 0 Pune price",
@@ -6178,7 +7827,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/kQtc9sF6Owjfz21mFq09aaMEMBhYacxWFpT43wfC.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kumar Codename Centrestage \u2013 0 located?",
+        "answer": "Kumar Codename Centrestage \u2013 0 is located at Phase 3, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Pimpri-Chinchwad, Maharashtra.."
+      },
+      {
+        "question": "What is the price of Kumar Codename Centrestage \u2013 0?",
+        "answer": "Prices at Kumar Codename Centrestage \u2013 0 range from \u20b9 64.00 Lac (agreement value). Homes are available as 2 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kumar Codename Centrestage \u2013 0?",
+        "answer": "The project offers 2 BHK homes. Carpet areas range from 658 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kumar Codename Centrestage \u2013 0?",
+        "answer": "The RERA registration number of Kumar Codename Centrestage \u2013 0 is P52100052912."
+      },
+      {
+        "question": "When is the possession of Kumar Codename Centrestage \u2013 0?",
+        "answer": "Possession is expected by Dec 2029, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kumar Codename Centrestage \u2013 0?",
+        "answer": "Kumar Codename Centrestage \u2013 0 is developed by Kumar Realty & Mega Polis. The developer has been in real estate since 1966."
+      },
+      {
+        "question": "How many floors does Kumar Codename Centrestage \u2013 0 have?",
+        "answer": "The project has 20 floors. It is spread across 2.18 acres."
+      },
+      {
+        "question": "What amenities does Kumar Codename Centrestage \u2013 0 offer?",
+        "answer": "Amenities include Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Library, Party Lawn, Sports Courts and more."
+      },
+      {
+        "question": "Which banks give home loans for Kumar Codename Centrestage \u2013 0?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kumar Codename Centrestage \u2013 0?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.9367278504596!2d73.6847895739372!3d18.576891067453865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb3289264bb7%3A0x874c9604997814ff!2sKumar%20Codename%20Centrestage%20-%20Megapolis!5e0!3m2!1sen!2sin!4v1719315122854!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 20 floors. It is spread across 2.18 acres."
   },
   {
     "id": "p-bramhacorp-hues-of-sky",
@@ -6253,7 +7946,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Camp near Metro station and IT corridors",
       "Official MahaRERA verified project P52100051537",
       "Allotment directly from BramhaCorp developer inventory"
@@ -6261,7 +7954,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100051537",
     "pricePerSqft": 13500,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Bramhacorp Hues Of Sky Camp",
       "Bramhacorp Hues Of Sky Pune price",
@@ -6370,7 +8063,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/V81P09pIBB1Q3TvXBzhzsky9XZxJ856qFhhVs6Ai.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Bramhacorp Hues Of Sky located?",
+        "answer": "Bramhacorp Hues Of Sky is located at Camp, Pune."
+      },
+      {
+        "question": "What is the price of Bramhacorp Hues Of Sky?",
+        "answer": "Prices at Bramhacorp Hues Of Sky range from \u20b9 1.56 Cr \u2013 4.17 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Bramhacorp Hues Of Sky?",
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 700 \u2013 1,901 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Bramhacorp Hues Of Sky?",
+        "answer": "The RERA registration number of Bramhacorp Hues Of Sky is P52100051537."
+      },
+      {
+        "question": "When is the possession of Bramhacorp Hues Of Sky?",
+        "answer": "Possession is expected by Dec 2029, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Bramhacorp Hues Of Sky?",
+        "answer": "Bramhacorp Hues Of Sky is developed by BramhaCorp Limited. The developer has been in real estate since 2012."
+      },
+      {
+        "question": "How many floors does Bramhacorp Hues Of Sky have?",
+        "answer": "The project has 35 floors. It is spread across 2 acres."
+      },
+      {
+        "question": "What amenities does Bramhacorp Hues Of Sky offer?",
+        "answer": "Amenities include Amphitheater, Fitness Corner, Gym, Jogging Track, Kids Play Area, Mini-Theater, Pet Park, Reflexology and more."
+      },
+      {
+        "question": "Which banks give home loans for Bramhacorp Hues Of Sky?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Bramhacorp Hues Of Sky?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.034485271487!2d73.87617589999999!3d18.5273437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1e28f227645%3A0x769b8fc7fa7fd5fc!2sHues%20of%20Sky%20by%20BramhaCorp!5e0!3m2!1sen!2sin!4v1747127208668!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 35 floors. It is spread across 2 acres."
   },
   {
     "id": "p-bramhacorp-townhouse",
@@ -6434,7 +8171,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Balewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100045228",
       "Allotment directly from BramhaCorp developer inventory"
@@ -6442,7 +8179,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100045228",
     "pricePerSqft": 9800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Bramhacorp Townhouse Balewadi",
       "Bramhacorp Townhouse Pune price",
@@ -6487,7 +8224,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/k9Cpqd4cLxkrt0r65YKq9o0IWCPpqcToOcSn1QD4.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Bramhacorp Townhouse located?",
+        "answer": "Bramhacorp Townhouse is located at Balewadi, Pune."
+      },
+      {
+        "question": "What is the price of Bramhacorp Townhouse?",
+        "answer": "Prices at Bramhacorp Townhouse range from \u20b9 35.00 Lac (agreement value). Homes are available as 1, 1 RK BHK."
+      },
+      {
+        "question": "Which configurations are available at Bramhacorp Townhouse?",
+        "answer": "The project offers 1, 1 RK BHK homes. Carpet areas range from 203 \u2013 351 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Bramhacorp Townhouse?",
+        "answer": "The RERA registration number of Bramhacorp Townhouse is P52100045228, P52100045518."
+      },
+      {
+        "question": "When is the possession of Bramhacorp Townhouse?",
+        "answer": "Possession is expected by Dec 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Bramhacorp Townhouse?",
+        "answer": "Bramhacorp Townhouse is developed by Bramhacorp Builders. The developer has been in real estate since 1982."
+      },
+      {
+        "question": "How many floors does Bramhacorp Townhouse have?",
+        "answer": "The project has 5 floors. It is spread across 0.37 acres."
+      },
+      {
+        "question": "What amenities does Bramhacorp Townhouse offer?",
+        "answer": "Amenities include Jogging Track, Kids Play Area and more."
+      },
+      {
+        "question": "Which banks give home loans for Bramhacorp Townhouse?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Bramhacorp Townhouse?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.7951703253043!2d73.7637369!3d18.583271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b91633c77d83%3A0x2aae9ac6df6194fe!2sTownHouse%20by%20BramhaCorp!5e0!3m2!1sen!2sin!4v1754571528144!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 5 floors. It is spread across 0.37 acres."
   },
   {
     "id": "p-bramhacorp-august-towers",
@@ -6556,7 +8337,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Kalyani Nagar near Metro station and IT corridors",
       "Official MahaRERA verified project P52100048195",
       "Allotment directly from BramhaCorp developer inventory"
@@ -6564,7 +8345,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100048195",
     "pricePerSqft": 14000,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Bramhacorp August Towers Kalyani Nagar",
       "Bramhacorp August Towers Pune price",
@@ -6625,7 +8406,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/k9Cpqd4cLxkrt0r65YKq9o0IWCPpqcToOcSn1QD4.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Bramhacorp August Towers located?",
+        "answer": "Bramhacorp August Towers is located at Kalyani Nagar, Pune."
+      },
+      {
+        "question": "What is the price of Bramhacorp August Towers?",
+        "answer": "Prices at Bramhacorp August Towers range from \u20b9 57.70 Lac \u2013 57.90 Lac (agreement value). Homes are available as 2 BHK."
+      },
+      {
+        "question": "Which configurations are available at Bramhacorp August Towers?",
+        "answer": "The project offers 2 BHK homes. Carpet areas range from 484 \u2013 579 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Bramhacorp August Towers?",
+        "answer": "The RERA registration number of Bramhacorp August Towers is P52100048195."
+      },
+      {
+        "question": "When is the possession of Bramhacorp August Towers?",
+        "answer": "Possession is expected by Dec 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Bramhacorp August Towers?",
+        "answer": "Bramhacorp August Towers is developed by Bramhacorp Builders. The developer has been in real estate since 1982."
+      },
+      {
+        "question": "How many floors does Bramhacorp August Towers have?",
+        "answer": "The project has 34 floors."
+      },
+      {
+        "question": "What amenities does Bramhacorp August Towers offer?",
+        "answer": "Amenities include Banquet Hall, Club house, Gym, Jogging Track, Kids Play Area, Swimming Pool, Yoga Zone and more."
+      },
+      {
+        "question": "Which banks give home loans for Bramhacorp August Towers?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Bramhacorp August Towers?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.6231174170243!2d73.91781171081593!3d18.545925782479824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c167ab02cf05%3A0x94a92d1dc9f8816e!2sAugust%20Towers%20by%20BramhaCorp!5e0!3m2!1sen!2sin!4v1756986658660!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 34 floors."
   },
   {
     "id": "p-amanora-city-rise",
@@ -6688,7 +8513,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Kothrud near Metro station and IT corridors",
       "Official MahaRERA verified project P52100051462",
       "Allotment directly from Amanora Park Town developer inventory"
@@ -6696,7 +8521,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100051462",
     "pricePerSqft": 12500,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Amanora City Rise Kothrud",
       "Amanora City Rise Pune price",
@@ -6763,12 +8588,16 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/naU6Ftht3sLHPndXJ1BDOd0MBFugUyMu0B32FZyO.webp",
     "lat": 18.5089,
     "lng": 73.9259,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/image (19).webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/c9W9pcE1Zsuj3kbjYK3vVR94GONg6rObDY6jLi2f.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/HNvTc3nVkYmFjSbMvb2D2yLmiDCkAwa79zcs9svU.webp",
-      "https://keystoneliv.com/public/uploads/property/bS9eQ4haaMridWuxHQiTNBS2XRx3BSSXIqsk3oVh.webp",
+      "https://keystoneliv.com/public/uploads/property/Fb2rGxFdFT1LLFje4Aj4P3GzmiJzikdzBYMoWc5d.webp",
       "https://keystoneliv.com/public/uploads/property/image (17).webp",
-      "https://keystoneliv.com/public/uploads/property/image (18).webp"
+      "https://keystoneliv.com/public/uploads/property/image (18).webp",
+      "https://keystoneliv.com/public/uploads/property/image (19).webp",
+      "https://keystoneliv.com/public/uploads/property/image (20).webp",
+      "https://keystoneliv.com/public/uploads/property/image (21).webp",
+      "https://keystoneliv.com/public/uploads/property/HNvTc3nVkYmFjSbMvb2D2yLmiDCkAwa79zcs9svU.webp",
+      "https://keystoneliv.com/public/uploads/property/bS9eQ4haaMridWuxHQiTNBS2XRx3BSSXIqsk3oVh.webp"
     ],
     "description": "Joyville annexe by Joyville by Shapoorji Pallonji represents modern residential excellence in Hadapsar, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b946.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100026785, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
@@ -6823,7 +8652,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hadapsar near Metro station and IT corridors",
       "Official MahaRERA verified project P52100026785",
       "Allotment directly from Joyville by Shapoorji Pallonji developer inventory"
@@ -6831,7 +8660,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100026785",
     "pricePerSqft": 8400,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Joyville annexe Hadapsar",
       "Joyville annexe Pune price",
@@ -6924,7 +8753,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (18).webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Joyville annexe located?",
+        "answer": "Joyville annexe is located at Near Shewalewadi, Solapur - Pune Hwy, Hadapsar, Pune, Maharashtra."
+      },
+      {
+        "question": "What is the price of Joyville annexe?",
+        "answer": "Prices at Joyville annexe range from \u20b9 46.00 Lac \u2013 1.30 Cr (agreement value). Homes are available as 1, 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Joyville annexe?",
+        "answer": "The project offers 1, 2, 3 BHK homes. Carpet areas range from 393 \u2013 1,043 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Joyville annexe?",
+        "answer": "The RERA registration number of Joyville annexe is P52100026785."
+      },
+      {
+        "question": "When is the possession of Joyville annexe?",
+        "answer": "Possession is expected by Dec 2025, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Joyville annexe?",
+        "answer": "Joyville annexe is developed by Shapoorji Pallonji Group. The developer has been in real estate since 1865."
+      },
+      {
+        "question": "How many floors does Joyville annexe have?",
+        "answer": "The project has 2 Level Park+ 22 Floors floors. It is spread across 21 acres."
+      },
+      {
+        "question": "What amenities does Joyville annexe offer?",
+        "answer": "Amenities include Amphitheater, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym, Party Lawn and more."
+      },
+      {
+        "question": "Which banks give home loans for Joyville annexe?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Joyville annexe?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.721582136912!2d73.96605381014707!3d18.49626636984484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3e3be3a9e55%3A0x42a0d369b2fda6a5!2sJoyville%20Hadapsar!5e0!3m2!1sen!2sin!4v1696577320793!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 2 Level Park+ 22 Floors floors. It is spread across 21 acres."
   },
   {
     "id": "p-joyville-celestia",
@@ -7005,7 +8878,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Shewalewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100053165",
       "Allotment directly from Joyville by Shapoorji Pallonji developer inventory"
@@ -7013,7 +8886,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100053165",
     "pricePerSqft": 6700,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Joyville Celestia Shewalewadi",
       "Joyville Celestia Pune price",
@@ -7122,7 +8995,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/QUSiXbX1yIv3u1F0efgnLHyJgKsJfu0DIDG1r7Wi.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Joyville Celestia located?",
+        "answer": "Joyville Celestia is located at Sky - Luxe Edition Village: Shevalwadi, Taluka."
+      },
+      {
+        "question": "What is the price of Joyville Celestia?",
+        "answer": "Prices at Joyville Celestia range from \u20b9 77.00 Lac \u2013 1.76 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Joyville Celestia?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 589 \u2013 1,270 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Joyville Celestia?",
+        "answer": "The RERA registration number of Joyville Celestia is P52100053165."
+      },
+      {
+        "question": "When is the possession of Joyville Celestia?",
+        "answer": "Possession is expected by Mar 2028, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Joyville Celestia?",
+        "answer": "Joyville Celestia is developed by Shapoorji Pallonji Group. The developer has been in real estate since 1865."
+      },
+      {
+        "question": "How many floors does Joyville Celestia have?",
+        "answer": "The project has G+20 floors. It is spread across 9 acres."
+      },
+      {
+        "question": "What amenities does Joyville Celestia offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn and more."
+      },
+      {
+        "question": "Which banks give home loans for Joyville Celestia?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Joyville Celestia?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10493.454172925729!2d73.95253674499257!3d18.49364602652375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3a5659c8057%3A0x1e6795c701631bc0!2sJoyville%20Celestia%20by%20Shapoorji%20Pallonji!5e0!3m2!1sen!2sin!4v1708527089942!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+20 floors. It is spread across 9 acres."
   },
   {
     "id": "p-joyville-sensorium",
@@ -7143,7 +9060,7 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/leqFS0kMhJDAQ6ZdwEOxnajHj4VcaKZHhxS1hVk1.webp",
     "lat": 18.5913,
     "lng": 73.7389,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/Hp5QymoO2ABUJ95Ntgq1OK86HTQWDyub48erpt1u.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nmPzChK44V7G0iiNdq6UHi8c9Yqa7WJWDA6qDGUb.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/image (85).webp",
       "https://keystoneliv.com/public/uploads/property/image (86).webp",
@@ -7203,7 +9120,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100049547",
       "Allotment directly from Joyville by Shapoorji Pallonji developer inventory"
@@ -7211,7 +9128,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100049547",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Joyville Sensorium Hinjewadi",
       "Joyville Sensorium Pune price",
@@ -7288,7 +9205,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (87).webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Joyville Sensorium located?",
+        "answer": "Joyville Sensorium is located at 101,Phase, Joyville Shapoorji Housing Pvt. Ltd (Plot 2 Survey Nos 98,99 and, 2, Road, off Maan Road, Hinjawadi, Pune, Maharashtra.."
+      },
+      {
+        "question": "What is the price of Joyville Sensorium?",
+        "answer": "Prices at Joyville Sensorium range from \u20b9 90.00 Lac \u2013 2.33 Cr (agreement value). Homes are available as 2, 3, 5, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Joyville Sensorium?",
+        "answer": "The project offers 2, 3, 5, 4 BHK homes. Carpet areas range from 697 \u2013 1,756 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Joyville Sensorium?",
+        "answer": "The RERA registration number of Joyville Sensorium is P52100049547."
+      },
+      {
+        "question": "When is the possession of Joyville Sensorium?",
+        "answer": "Possession is expected by Jun 2025, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Joyville Sensorium?",
+        "answer": "Joyville Sensorium is developed by Shapoorji Pallonji Group. The developer has been in real estate since 1865."
+      },
+      {
+        "question": "How many floors does Joyville Sensorium have?",
+        "answer": "The project has G+22 floors. It is spread across 10.9 acres."
+      },
+      {
+        "question": "What amenities does Joyville Sensorium offer?",
+        "answer": "Amenities include Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn, Pet Park and more."
+      },
+      {
+        "question": "Which banks give home loans for Joyville Sensorium?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Joyville Sensorium?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.075208380779!2d73.71930637438493!3d18.57064776764426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb602855eb8b%3A0xdff2ff146b3bb55d!2sSensorium%20by%20Joyville%2C%20Shapoorji%20Pallonji!5e0!3m2!1sen!2sin!4v1708529717548!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 10.9 acres."
   },
   {
     "id": "p-kohinoor-kharadi",
@@ -7309,11 +9270,11 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/azNbmpmBCobhupU4s5tfh6nAZzKEPgYRISRlQhNa.webp",
     "lat": 18.5514,
     "lng": 73.9349,
-    "masterLayout": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/sq9UXhpZWpFavb6sZTY5JiP6bAJWQXymSdDXjV4e.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
       "https://keystoneliv.com/public/uploads/property/3heONbZszM6nV1D5cGGWNerwu18xb77gy1pOfeUA.webp",
       "https://keystoneliv.com/public/uploads/property/Yh0MhqcWjQpkHVPH3DjAEWr0zVrTSWadIZUjfemG.webp",
+      "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/MzzWe9NoesjKW5vXHcTkKqIpofYGW80l6x5m4rGA.webp"
     ],
     "description": "Kohinoor Kharadi \u2013 5 by Kohinoor Group represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b999.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Conference Room, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100065519, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
@@ -7371,7 +9332,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Kharadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100065519",
       "Allotment directly from Kohinoor Group developer inventory"
@@ -7379,7 +9340,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100065519",
     "pricePerSqft": 9600,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kohinoor Kharadi \u2013 5 Kharadi",
       "Kohinoor Kharadi \u2013 5 Pune price",
@@ -7504,7 +9465,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/9fgd1dc8OsLM6h4q6lT60MbRpIA4vwCadScNvqMA.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kohinoor Kharadi \u2013 5 located?",
+        "answer": "Kohinoor Kharadi \u2013 5 is located at Kharadi , Pune.."
+      },
+      {
+        "question": "What is the price of Kohinoor Kharadi \u2013 5?",
+        "answer": "Prices at Kohinoor Kharadi \u2013 5 range from \u20b9 99.00 Lac \u2013 1.42 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kohinoor Kharadi \u2013 5?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 730 \u2013 1,050 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kohinoor Kharadi \u2013 5?",
+        "answer": "The RERA registration number of Kohinoor Kharadi \u2013 5 is A09200023052."
+      },
+      {
+        "question": "When is the possession of Kohinoor Kharadi \u2013 5?",
+        "answer": "Possession is expected by Jul 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kohinoor Kharadi \u2013 5?",
+        "answer": "Kohinoor Kharadi \u2013 5 is developed by Kohinoor Group. The developer has been in real estate since 1992."
+      },
+      {
+        "question": "How many floors does Kohinoor Kharadi \u2013 5 have?",
+        "answer": "The project has 27 floors. It is spread across 5 acres."
+      },
+      {
+        "question": "What amenities does Kohinoor Kharadi \u2013 5 offer?",
+        "answer": "Amenities include Banquet Hall, Club house, Conference Room, Gym, Jogging Track, Kids Play Area, Open Gym, Party Lawn and more."
+      },
+      {
+        "question": "Which banks give home loans for Kohinoor Kharadi \u2013 5?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kohinoor Kharadi \u2013 5?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.036578619302!2d73.96836537393715!3d18.572389567591774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3093399ff03%3A0xace789327cddabd5!2sKohinoor%20Kaleido%20-%20New%20Kharadi!5e0!3m2!1sen!2sin!4v1707118259502!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 27 floors. It is spread across 5 acres."
   },
   {
     "id": "p-kohinoor-shangrila",
@@ -7524,8 +9529,9 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/btjPpfNMHbOIxRQfCF21p9nMLhQHiuzRce3XKq9N.webp",
     "lat": 18.6298,
     "lng": 73.7997,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/GcpcnUI99erftS3CNypd2i5txdra0VlJzf8WCtWN.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/APk42V9TjCaPnBVvOLDnR7iyoKZq3cs68aY7ykXZ.webp",
     "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/GcpcnUI99erftS3CNypd2i5txdra0VlJzf8WCtWN.webp",
       "https://keystoneliv.com/public/uploads/property/image (94).webp",
       "https://keystoneliv.com/public/uploads/property/image (95).webp",
       "https://keystoneliv.com/public/uploads/property/image (96).webp",
@@ -7583,7 +9589,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Pimpri Chinchwad near Metro station and IT corridors",
       "Official MahaRERA verified project P52100030688",
       "Allotment directly from Kohinoor Group developer inventory"
@@ -7591,7 +9597,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100030688",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kohinoor Shangrila Pimpri Chinchwad",
       "Kohinoor Shangrila Pune price",
@@ -7652,7 +9658,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (95).webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kohinoor Shangrila located?",
+        "answer": "Kohinoor Shangrila is located at 201/1, PCMC Link Rd, Bhat Nagar, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411017."
+      },
+      {
+        "question": "What is the price of Kohinoor Shangrila?",
+        "answer": "Prices at Kohinoor Shangrila range from \u20b9 95.53 Lac \u2013 1.45 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kohinoor Shangrila?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 706 \u2013 1,210 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kohinoor Shangrila?",
+        "answer": "The RERA registration number of Kohinoor Shangrila is P52100030688."
+      },
+      {
+        "question": "When is the possession of Kohinoor Shangrila?",
+        "answer": "Possession is expected by Dec 2025, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kohinoor Shangrila?",
+        "answer": "Kohinoor Shangrila is developed by Kohinoor Group. The developer has been in real estate since 1992."
+      },
+      {
+        "question": "How many floors does Kohinoor Shangrila have?",
+        "answer": "The project has G+22 floors. It is spread across 3.92 acres."
+      },
+      {
+        "question": "What amenities does Kohinoor Shangrila offer?",
+        "answer": "Amenities include Banquet Hall, Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym, Pet Park, Sports Courts and more."
+      },
+      {
+        "question": "Which banks give home loans for Kohinoor Shangrila?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kohinoor Shangrila?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.817037666211!2d73.79681017519422!3d18.627297382487097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b90989b0f33f%3A0x37b820a8056086cd!2sKohinoor%20Shangrila%20Phase%20-II!5e0!3m2!1sen!2sin!4v1708773652582!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 3.92 acres."
   },
   {
     "id": "p-kohinoor-central-park",
@@ -7730,7 +9780,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
       "Official MahaRERA verified project P52100056358",
       "Allotment directly from Kohinoor Group developer inventory"
@@ -7738,7 +9788,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100056358",
     "pricePerSqft": 7800,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kohinoor Central Park \u2013 0 Hinjewadi",
       "Kohinoor Central Park \u2013 0 Pune price",
@@ -7847,7 +9897,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/9fgd1dc8OsLM6h4q6lT60MbRpIA4vwCadScNvqMA.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kohinoor Central Park \u2013 0 located?",
+        "answer": "Kohinoor Central Park \u2013 0 is located at 280, Hinjawadi Phase II, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pimpri-Chinchwad, Pune, Maharashtra."
+      },
+      {
+        "question": "What is the price of Kohinoor Central Park \u2013 0?",
+        "answer": "Prices at Kohinoor Central Park \u2013 0 range from \u20b9 80.50 Lac \u2013 1.18 Cr (agreement value). Homes are available as 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kohinoor Central Park \u2013 0?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 725 \u2013 1,071 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kohinoor Central Park \u2013 0?",
+        "answer": "The RERA registration number of Kohinoor Central Park \u2013 0 is P52100056358."
+      },
+      {
+        "question": "When is the possession of Kohinoor Central Park \u2013 0?",
+        "answer": "Possession is expected by Dec 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kohinoor Central Park \u2013 0?",
+        "answer": "Kohinoor Central Park \u2013 0 is developed by Kohinoor Group. The developer has been in real estate since 1992."
+      },
+      {
+        "question": "How many floors does Kohinoor Central Park \u2013 0 have?",
+        "answer": "The project has G+25 floors. It is spread across 13.5 acres."
+      },
+      {
+        "question": "What amenities does Kohinoor Central Park \u2013 0 offer?",
+        "answer": "Amenities include Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Sports Courts, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Kohinoor Central Park \u2013 0?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kohinoor Central Park \u2013 0?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.6148073365607!2d73.70114002393764!3d18.59139681700946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb00478dad69%3A0xb9fbaf268c44e3ef!2sKohinoor%20Central%20Park%20Hinjewadi%20Ph-2!5e0!3m2!1sen!2sin!4v1719311769234!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+25 floors. It is spread across 13.5 acres."
   },
   {
     "id": "p-kalpataru-jade-skyline",
@@ -7869,10 +9963,11 @@ export const PROJECTS: Project[] = [
     "lng": 73.7868,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/pFuOfY6ZtpCFIT2RdAIOSb2psuUgeLUKT5aP7Txd.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/xXL3bwTTQW80NCNFqMl5F3FP7Yu22pdeIS7r5Z39.webp",
-      "https://keystoneliv.com/public/uploads/property/NP2lL1RMSOai3XmYdaQdzhOJxWvDzVFYB2q9WRGl.webp",
+      "https://keystoneliv.com/public/uploads/property/XGMa0APm2vdRMg166IyrD4znH90asS2Zm2efpcGP.webp",
       "https://keystoneliv.com/public/uploads/property/QujUjJZ0G5zvpoujbJlR7mziw17Whp3rqma1HfW4.webp",
-      "https://keystoneliv.com/public/uploads/property/CmDFE12nnFIgAUpMaBjxRl9fnigcnkgzhwmPsgEZ.webp"
+      "https://keystoneliv.com/public/uploads/property/CmDFE12nnFIgAUpMaBjxRl9fnigcnkgzhwmPsgEZ.webp",
+      "https://keystoneliv.com/public/uploads/property/xXL3bwTTQW80NCNFqMl5F3FP7Yu22pdeIS7r5Z39.webp",
+      "https://keystoneliv.com/public/uploads/property/NP2lL1RMSOai3XmYdaQdzhOJxWvDzVFYB2q9WRGl.webp"
     ],
     "description": "Kalpataru Jade Skyline \u2013 5 by Kalpataru represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.84 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Club house, Conference Room, Fitness Corner, Gym. Verified under MahaRERA registration P52100033791, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
@@ -7932,7 +10027,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Baner near Metro station and IT corridors",
       "Official MahaRERA verified project P52100033791",
       "Allotment directly from Kalpataru developer inventory"
@@ -7940,7 +10035,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100033791",
     "pricePerSqft": 10500,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kalpataru Jade Skyline \u2013 5 Baner",
       "Kalpataru Jade Skyline \u2013 5 Pune price",
@@ -7969,7 +10064,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Q39esXojW09bMJ6Mdrck23emKYk4oMPhiZEBA16j.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kalpataru Jade Skyline \u2013 5 located?",
+        "answer": "Kalpataru Jade Skyline \u2013 5 is located at pan card club road, Baner, Pune.."
+      },
+      {
+        "question": "What is the price of Kalpataru Jade Skyline \u2013 5?",
+        "answer": "Prices at Kalpataru Jade Skyline \u2013 5 range from \u20b9 1.84 Cr (agreement value). Homes are available as 3, 2 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kalpataru Jade Skyline \u2013 5?",
+        "answer": "The project offers 3, 2 BHK homes. Carpet areas range from 780 \u2013 1,190 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kalpataru Jade Skyline \u2013 5?",
+        "answer": "The RERA registration number of Kalpataru Jade Skyline \u2013 5 is P52100033791."
+      },
+      {
+        "question": "When is the possession of Kalpataru Jade Skyline \u2013 5?",
+        "answer": "Possession is expected by Dec 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kalpataru Jade Skyline \u2013 5?",
+        "answer": "Kalpataru Jade Skyline \u2013 5 is developed by Kalpataru Group. The developer has been in real estate since 1969."
+      },
+      {
+        "question": "How many floors does Kalpataru Jade Skyline \u2013 5 have?",
+        "answer": "The project has 8P+21 Floors floors. It is spread across 3 acres."
+      },
+      {
+        "question": "What amenities does Kalpataru Jade Skyline \u2013 5 offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Club house, Conference Room, Fitness Corner, Gym, Jogging Track, Kids Play Area and more."
+      },
+      {
+        "question": "Which banks give home loans for Kalpataru Jade Skyline \u2013 5?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kalpataru Jade Skyline \u2013 5?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.3943035028183!2d73.78168987393663!3d18.55625386808585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf37f6c3be51%3A0x63b013e34cb1c6c9!2sKalpataru%20Jade%20Skyline!5e0!3m2!1sen!2sin!4v1707309905874!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 8P+21 Floors floors. It is spread across 3 acres."
   },
   {
     "id": "p-kalpataru-jade-residences",
@@ -7990,11 +10129,11 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp",
     "lat": 18.559,
     "lng": 73.7868,
-    "masterLayout": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/5e7ymEkZGYztA1gQgHtHN8r5SiHG3A5Er84IsIij.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/jw5ukbRlHKoZR35S8lb9oHfirlSVu9uEbKjZ96Fr.webp",
     "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/pliB773ywyiq6gouzMfqh80mTXjNcrEm9jmjmD0R.webp",
       "https://keystoneliv.com/public/uploads/property/ASPT99t1jPi71AYCgeAfhAvxZA42TDK7ect7a9AC.webp",
       "https://keystoneliv.com/public/uploads/property/jw5ukbRlHKoZR35S8lb9oHfirlSVu9uEbKjZ96Fr.webp",
-      "https://keystoneliv.com/public/uploads/property/pliB773ywyiq6gouzMfqh80mTXjNcrEm9jmjmD0R.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/vnZB3D3Ho8r6BgTj66J5pckjMQ7uPXSYg2C2kPcm.webp"
     ],
     "description": "Kalpataru Jade Residences \u2013 Tower -H by Kalpataru represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b978.75 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn. Verified under MahaRERA registration P52100046423, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
@@ -8045,7 +10184,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Baner near Metro station and IT corridors",
       "Official MahaRERA verified project P52100046423",
       "Allotment directly from Kalpataru developer inventory"
@@ -8053,7 +10192,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100046423",
     "pricePerSqft": 10500,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kalpataru Jade Residences \u2013 Tower -H Baner",
       "Kalpataru Jade Residences \u2013 Tower -H Pune price",
@@ -8098,7 +10237,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kalpataru Jade Residences \u2013 Tower -H located?",
+        "answer": "Kalpataru Jade Residences \u2013 Tower -H is located at Kalpataru Jade, Pan card club Rd, Baner, Pune."
+      },
+      {
+        "question": "What is the price of Kalpataru Jade Residences \u2013 Tower -H?",
+        "answer": "Prices at Kalpataru Jade Residences \u2013 Tower -H range from \u20b9 3.09 Cr \u2013 4.59 Cr (agreement value). Homes are available as 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kalpataru Jade Residences \u2013 Tower -H?",
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,750 \u2013 2,598 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kalpataru Jade Residences \u2013 Tower -H?",
+        "answer": "The RERA registration number of Kalpataru Jade Residences \u2013 Tower -H is P52100046423."
+      },
+      {
+        "question": "When is the possession of Kalpataru Jade Residences \u2013 Tower -H?",
+        "answer": "Possession is expected by Feb 2025, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kalpataru Jade Residences \u2013 Tower -H?",
+        "answer": "Kalpataru Jade Residences \u2013 Tower -H is developed by Kalpataru Group. The developer has been in real estate since 1969."
+      },
+      {
+        "question": "How many floors does Kalpataru Jade Residences \u2013 Tower -H have?",
+        "answer": "The project has G+22 floors. It is spread across 9.36 acres."
+      },
+      {
+        "question": "What amenities does Kalpataru Jade Residences \u2013 Tower -H offer?",
+        "answer": "Amenities include Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn, Sports Courts, Swimming Pool and more."
+      },
+      {
+        "question": "Which banks give home loans for Kalpataru Jade Residences \u2013 Tower -H?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kalpataru Jade Residences \u2013 Tower -H?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.4295612686706!2d73.78354402519254!3d18.554662782545517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf1d606edc9d%3A0xaf13eaa6e1cdaa03!2sKalpataru%20Jade%20Baner!5e0!3m2!1sen!2sin!4v1709020673678!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 9.36 acres."
   },
   {
     "id": "p-kalpataru-blossoms",
@@ -8168,7 +10351,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Anand Nagar near Metro station and IT corridors",
       "Official MahaRERA verified project P52100077659",
       "Allotment directly from Kalpataru developer inventory"
@@ -8176,7 +10359,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100077659",
     "pricePerSqft": 8600,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Kalpataru Blossoms Anand Nagar",
       "Kalpataru Blossoms Pune price",
@@ -8237,7 +10420,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/vnZB3D3Ho8r6BgTj66J5pckjMQ7uPXSYg2C2kPcm.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kalpataru Blossoms located?",
+        "answer": "Kalpataru Blossoms is located at Sinhgad Road, Vadgoan."
+      },
+      {
+        "question": "What is the price of Kalpataru Blossoms?",
+        "answer": "Prices at Kalpataru Blossoms range from \u20b9 1.56 Cr \u2013 5.25 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Kalpataru Blossoms?",
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 877 \u2013 2,622 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Kalpataru Blossoms?",
+        "answer": "The RERA registration number of Kalpataru Blossoms is P52100077659."
+      },
+      {
+        "question": "When is the possession of Kalpataru Blossoms?",
+        "answer": "Possession is expected by Mar 2029, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Kalpataru Blossoms?",
+        "answer": "Kalpataru Blossoms is developed by Kalpataru Group. The developer has been in real estate since 1969."
+      },
+      {
+        "question": "How many floors does Kalpataru Blossoms have?",
+        "answer": "The project has 18 floors. It is spread across 1.44 acres."
+      },
+      {
+        "question": "What amenities does Kalpataru Blossoms offer?",
+        "answer": "Amenities include Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Mini-Theater, Swimming Pool, Yoga Zone and more."
+      },
+      {
+        "question": "Which banks give home loans for Kalpataru Blossoms?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Kalpataru Blossoms?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.269730213492!2d73.8205625!3d18.4714375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc295026ce702b3%3A0xf592c9047c190964!2sKalpataru%20Blossoms!5e0!3m2!1sen!2sin!4v1747033483788!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 18 floors. It is spread across 1.44 acres."
   },
   {
     "id": "p-sobha-nesara",
@@ -8307,7 +10534,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Kothrud near Metro station and IT corridors",
       "Official MahaRERA verified project P52100020057",
       "Allotment directly from Sobha Limited developer inventory"
@@ -8315,7 +10542,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100020057",
     "pricePerSqft": 12500,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Sobha Nesara Kothrud",
       "Sobha Nesara Pune price",
@@ -8360,7 +10587,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XuDMBetWz7JMao7EtAKipFvMdJLCxZvvdmU1XTf4.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Sobha Nesara located?",
+        "answer": "Sobha Nesara is located at Kothrud, Pune."
+      },
+      {
+        "question": "What is the price of Sobha Nesara?",
+        "answer": "Prices at Sobha Nesara range from \u20b9 2.77 Cr \u2013 4.76 Cr (agreement value). Homes are available as 3, 4 BHK."
+      },
+      {
+        "question": "Which configurations are available at Sobha Nesara?",
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,449 \u2013 2,431 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Sobha Nesara?",
+        "answer": "The RERA registration number of Sobha Nesara is P52100020057."
+      },
+      {
+        "question": "When is the possession of Sobha Nesara?",
+        "answer": "Possession is expected by Mar 2026, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Sobha Nesara?",
+        "answer": "Sobha Nesara is developed by Sobha Limited. The developer has been in real estate since 1995."
+      },
+      {
+        "question": "How many floors does Sobha Nesara have?",
+        "answer": "The project has 23 floors. It is spread across 3 acres."
+      },
+      {
+        "question": "What amenities does Sobha Nesara offer?",
+        "answer": "Amenities include Gym, Jogging Track, Kids Play Area, Pet Park, Swimming Pool, Yoga Zone and more."
+      },
+      {
+        "question": "Which banks give home loans for Sobha Nesara?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Sobha Nesara?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3783.4725402013!2d73.78536892519135!3d18.50753633258347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sSobha%20Nesara!5e0!3m2!1sen!2sin!4v1747126048135!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 23 floors. It is spread across 3 acres."
   },
   {
     "id": "p-sobha-nesara-block-3",
@@ -8442,7 +10713,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Kothrud near Metro station and IT corridors",
       "Official MahaRERA verified project P52100020062",
       "Allotment directly from Sobha Limited developer inventory"
@@ -8450,7 +10721,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100020062",
     "pricePerSqft": 12500,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Sobha Nesara Block 3 Kothrud",
       "Sobha Nesara Block 3 Pune price",
@@ -8495,7 +10766,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Sobha Nesara Block 3 located?",
+        "answer": "Sobha Nesara Block 3 is located at Kothrud."
+      },
+      {
+        "question": "What is the price of Sobha Nesara Block 3?",
+        "answer": "Prices at Sobha Nesara Block 3 range from \u20b9 2.81 Cr \u2013 4.10 Cr (agreement value). Homes are available as 3, 3.5, 4, 4.5 BHK."
+      },
+      {
+        "question": "Which configurations are available at Sobha Nesara Block 3?",
+        "answer": "The project offers 3, 3.5, 4, 4.5 BHK homes. Carpet areas range from 2,048 \u2013 2,987 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Sobha Nesara Block 3?",
+        "answer": "The RERA registration number of Sobha Nesara Block 3 is P52100020062."
+      },
+      {
+        "question": "When is the possession of Sobha Nesara Block 3?",
+        "answer": "Possession is expected by Mar 2027, as per the RERA registration."
+      },
+      {
+        "question": "Who is the developer of Sobha Nesara Block 3?",
+        "answer": "Sobha Nesara Block 3 is developed by Sobha Limited. The developer has been in real estate since 1995."
+      },
+      {
+        "question": "How many floors does Sobha Nesara Block 3 have?",
+        "answer": "The project has 23 floors. It is spread across 1 acres."
+      },
+      {
+        "question": "What amenities does Sobha Nesara Block 3 offer?",
+        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym, Jacuzzi, Jogging Track and more."
+      },
+      {
+        "question": "Which banks give home loans for Sobha Nesara Block 3?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Sobha Nesara Block 3?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.493466587116!2d73.78630369999999!3d18.506589599999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf0338ae36ab%3A0xb3e42315f3b26a4e!2sSOBHA%20Nesara!5e0!3m2!1sen!2sin!4v1751040727860!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 23 floors. It is spread across 1 acres."
   },
   {
     "id": "p-prasiddhi-tatavam-residency",
@@ -8562,7 +10877,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Ravet near Metro station and IT corridors",
       "Official MahaRERA verified project P52100046041",
       "Allotment directly from Tata Housing developer inventory"
@@ -8570,7 +10885,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100046041",
     "pricePerSqft": 7300,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Prasiddhi Tatavam Residency Ravet",
       "Prasiddhi Tatavam Residency Pune price",
@@ -8631,7 +10946,51 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/elwH47XcqSfm9Wr8ZOTnPUJV0L8hZ3Mzc0A6AnnL.webp"
       }
-    ]
+    ],
+    "faqs": [
+      {
+        "question": "Where is Prasiddhi Tatavam Residency located?",
+        "answer": "Prasiddhi Tatavam Residency is located at Ravet, Pune."
+      },
+      {
+        "question": "What is the price of Prasiddhi Tatavam Residency?",
+        "answer": "Prices at Prasiddhi Tatavam Residency range from \u20b9 57.96 Lac \u2013 1.39 Cr (agreement value). Homes are available as 1, 2, 3 BHK."
+      },
+      {
+        "question": "Which configurations are available at Prasiddhi Tatavam Residency?",
+        "answer": "The project offers 1, 2, 3 BHK homes. Carpet areas range from 483 \u2013 1,161 sq.ft."
+      },
+      {
+        "question": "What is the RERA number of Prasiddhi Tatavam Residency?",
+        "answer": "The RERA registration number of Prasiddhi Tatavam Residency is P52100046041."
+      },
+      {
+        "question": "When is the possession of Prasiddhi Tatavam Residency?",
+        "answer": "Prasiddhi Tatavam Residency is ready to move in."
+      },
+      {
+        "question": "Who is the developer of Prasiddhi Tatavam Residency?",
+        "answer": "Prasiddhi Tatavam Residency is developed by Prasiddhi Group Pune. The developer has been in real estate since 2004."
+      },
+      {
+        "question": "How many floors does Prasiddhi Tatavam Residency have?",
+        "answer": "The project has 11 floors. It is spread across 0.3 acres."
+      },
+      {
+        "question": "What amenities does Prasiddhi Tatavam Residency offer?",
+        "answer": "Amenities include Jogging Track, Kids Play Area and more."
+      },
+      {
+        "question": "Which banks give home loans for Prasiddhi Tatavam Residency?",
+        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
+      },
+      {
+        "question": "How do I book a site visit to Prasiddhi Tatavam Residency?",
+        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
+      }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.039807074337!2d73.747708!3d18.6622096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b1000fb97dd5%3A0xdd1c8b392d8ac007!2sTatvam%20Residency!5e0!3m2!1sen!2sin!4v1752253385417!5m2!1sen!2sin",
+    "floorsAndAcres": "The project has 11 floors. It is spread across 0.3 acres."
   },
   {
     "id": "p-sense-66-by-tata-value-homes",
@@ -8701,7 +11060,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty direct builder sales mandate",
+      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Talegaon Dabhade near Metro station and IT corridors",
       "Official MahaRERA verified project P52100033265",
       "Allotment directly from Tata Housing developer inventory"
@@ -8709,7 +11068,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100033265",
     "pricePerSqft": 4900,
     "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Direct Developer Mandate",
+    "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
       "Sense 66 By TATA Value Homes Talegaon Dabhade",
       "Sense 66 By TATA Value Homes Pune price",

@@ -111,12 +111,12 @@ const BuilderDetails = () => {
             </div>
 
             <div className="max-w-7xl mx-auto px-4 pt-20 pb-12">
-                {/* Direct Builder Sales Mandate Banner */}
+                {/* Direct Developer Sales Partner Banner */}
                 <div className="mb-8 p-5 rounded-2xl bg-gradient-to-r from-emerald-950 via-slate-900 to-emerald-950 text-white flex flex-col md:flex-row items-center justify-between gap-4 border border-emerald-500/25 shadow-lg">
                     <div className="flex items-center gap-3">
                         <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse shrink-0"></span>
                         <div>
-                            <span className="font-black text-sm text-emerald-300 uppercase tracking-wide">Direct Developer Sales Mandate:</span>
+                            <span className="font-black text-sm text-emerald-300 uppercase tracking-wide">Authorized Developer Sales Partner:</span>
                             <span className="text-xs text-slate-200 ml-2">All {builder.name} projects on PROPSMART REALTY are 100% Brokerage Free with official pricing.</span>
                         </div>
                     </div>

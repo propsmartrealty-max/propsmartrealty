@@ -39,7 +39,7 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
                         Pune's <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-white to-amber-200">Elite Developers</span>
                     </h2>
                     <p className="font-sans text-slate-300 text-sm sm:text-base leading-relaxed">
-                        Connect directly with the official developer sales lounges of Pune's top builders. 0% Brokerage for buyers, direct sanctioned pricing, and verified MahaRERA sales mandates.
+                        Connect directly with the official developer sales lounges of Pune's top builders. 0% Brokerage for buyers, direct sanctioned pricing, and verified MahaRERA sales partnerships.
                     </p>
                     <div className="w-20 h-1.5 bg-gradient-to-r from-amber-400 to-brand-500 mx-auto mt-5 rounded-full" />
                 </div>

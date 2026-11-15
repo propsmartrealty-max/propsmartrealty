@@ -8,7 +8,7 @@ const About = () => {
         <div className="min-h-screen bg-slate-50 flex flex-col">
             <SEO
                 title="About Us - 100% Brokerage Free | PROPSMART REALTY"
-                description="Learn about PROPSMART REALTY - Pune's leading 100% Brokerage Free platform to buy directly from builders with authorized MahaRERA sales mandates."
+                description="Learn about PROPSMART REALTY - Pune's leading 100% Brokerage Free platform to buy directly from builders with authorized MahaRERA sales partnerships."
             />
             <PortalNavbar variant="colored" />
 
@@ -21,7 +21,7 @@ const About = () => {
                             PROPSMART REALTY is Pune's leading **100% BROKERAGE FREE** platform where homebuyers connect and **buy directly with builders**.
                         </p>
                         <p>
-                            With 15+ years of real estate sales mandate experience, our mission is to eliminate middleman commissions and broker markups. We connect homebuyers directly to the official sales lounges of Pune's premier builders, ensuring direct developer pricing, sanitized inventory, and official MahaRERA compliance.
+                            With 15+ years of real estate sales advisory & authorized developer partner experience, our mission is to eliminate middleman commissions and broker markups. We connect homebuyers directly to the official sales lounges of Pune's premier builders, ensuring direct developer pricing, sanitized inventory, and official MahaRERA compliance.
                         </p>
 
                         <h3 className="text-2xl font-bold text-slate-800 mt-8 mb-4">Our Vision</h3>
@@ -73,7 +73,7 @@ const About = () => {
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6 text-xs text-slate-300">
                                 <div className="flex items-start gap-2.5">
                                     <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 mt-1.5 shrink-0"></span>
-                                    <span><strong>100% RERA Registered Projects:</strong> We aggregate and mandate strictly MahaRERA verified residential inventory.</span>
+                                    <span><strong>100% RERA Registered Projects:</strong> We aggregate and partner strictly with MahaRERA verified residential inventory.</span>
                                 </div>
                                 <div className="flex items-start gap-2.5">
                                     <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 mt-1.5 shrink-0"></span>

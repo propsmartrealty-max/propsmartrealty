@@ -113,6 +113,39 @@ const ProjectDetails = () => {
     // --- HOOKS MUST BE AT TOP LEVEL (Before any returns) ---
     const [activeSection, setActiveSection] = useState('overview');
 
+    // Synchronized Scrollspy Observer
+    useEffect(() => {
+        const sectionIds = [
+            'rera-passport',
+            'overview',
+            'construction',
+            'master-layout',
+            'carpet-area',
+            'floor-plans',
+            'configurations',
+            'amenities',
+            'connectivity',
+            'location',
+            'investment',
+            'builder',
+            'faqs'
+        ];
+
+        const handleScroll = () => {
+            const scrollPosition = window.scrollY + 220;
+            for (let i = sectionIds.length - 1; i >= 0; i--) {
+                const el = document.getElementById(sectionIds[i]);
+                if (el && el.offsetTop <= scrollPosition) {
+                    setActiveSection(sectionIds[i]);
+                    break;
+                }
+            }
+        };
+
+        window.addEventListener('scroll', handleScroll, { passive: true });
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, []);
+
     // Lead Form State
     const [leadName, setLeadName] = useState('');
     const [leadMobile, setLeadMobile] = useState('');
@@ -370,42 +403,116 @@ const ProjectDetails = () => {
                     type: 'website',
                     image: project.heroImage || project.image
                 }}
-                jsonLd={{
-                    "@context": "https://schema.org",
-                    "@type": "SingleFamilyResidence",
-                    "name": project.title,
-                    "image": [project.image, project.heroImage, ...(project.floorPlans || [])].filter(Boolean),
-                    "description": project.description,
-                    "address": {
-                        "@type": "PostalAddress",
-                        "addressLocality": project.location,
-                        "addressRegion": "Maharashtra",
-                        "addressCountry": "IN"
+                jsonLd={[
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "ApartmentComplex",
+                        "name": project.title,
+                        "image": [project.image, project.heroImage, ...(project.floorPlans || [])].filter(Boolean),
+                        "description": project.description || displayDescription,
+                        "address": {
+                            "@type": "PostalAddress",
+                            "streetAddress": project.location,
+                            "addressLocality": project.location,
+                            "addressRegion": "Maharashtra",
+                            "addressCountry": "IN"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": project.lat || 18.5204,
+                            "longitude": project.lng || 73.8567
+                        },
+                        "url": "https://propsmart.co.in/project/" + project.slug,
+                        "numberOfAccommodationUnits": (project.configurations || []).length * 10,
+                        "amenityFeature": (project.features || []).map(f => ({
+                            "@type": "LocationFeatureSpecification",
+                            "name": f,
+                            "value": true
+                        })),
+                        "offers": {
+                            "@type": "AggregateOffer",
+                            "priceCurrency": "INR",
+                            "lowPrice": resolvedConfigs[0]?.basePrice || 6000000,
+                            "highPrice": resolvedConfigs[resolvedConfigs.length - 1]?.basePrice || 25000000,
+                            "offerCount": resolvedConfigs.length || (project.configurations || []).length,
+                            "priceValidUntil": "2027-12-31"
+                        },
+                        "provider": {
+                            "@type": "RealEstateAgent",
+                            "name": "PROPSMART REALTY",
+                            "url": "https://propsmart.co.in",
+                            "telephone": "+91-9310863636",
+                            "license": PROPSMART_RERA.number
+                        }
                     },
-                    "geo": {
-                        "@type": "GeoCoordinates",
-                        "latitude": "18.5204",
-                        "longitude": "73.8567"
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "BreadcrumbList",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Home",
+                                "item": "https://propsmart.co.in"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "Pune",
+                                "item": "https://propsmart.co.in/search?q=Pune"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 3,
+                                "name": project.location,
+                                "item": "https://propsmart.co.in/search?q=" + encodeURIComponent(project.location)
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 4,
+                                "name": project.title,
+                                "item": "https://propsmart.co.in/project/" + project.slug
+                            }
+                        ]
                     },
-                    "url": "https://propsmart.co.in/project/" + project.slug,
-                    "priceRange": project.priceRange,
-                    "numberOfRooms": (project.configurations || []).length,
-                    "floorSize": {
-                        "@type": "QuantitativeValue",
-                        "value": project.configurationDetails?.[0]?.carpetArea || "0",
-                        "unitCode": "FTK"
-                    },
-                    "amenityFeature": (project.features || []).map(f => ({
-                        "@type": "LocationFeatureSpecification",
-                        "name": f,
-                        "value": true
-                    })),
-                    "provider": {
-                        "@type": "Organization",
-                        "name": builder?.name || project.builderId,
-                        "url": builder ? ("https://propsmart.co.in/builder/" + builder.slug) : undefined
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "FAQPage",
+                        "mainEntity": (project.faqs && project.faqs.length > 0 ? project.faqs : [
+                            {
+                                question: `Where is ${project.title} located?`,
+                                answer: `${project.title} is located in ${project.location}, Pune, offering prime connectivity to IT corridors and transit nodes.`
+                            },
+                            {
+                                question: `What is the price range of ${project.title}?`,
+                                answer: `Prices at ${project.title} start from ${project.exactPrice || project.priceRange} with 100% Zero Brokerage through authorized developer sales partner allocation.`
+                            },
+                            {
+                                question: `Which configurations are available at ${project.title}?`,
+                                answer: `${project.title} offers ${(project.configurations || []).join(', ')} luxury apartments with sanctioned RERA carpet layouts.`
+                            },
+                            {
+                                question: `What is the MahaRERA registration number of ${project.title}?`,
+                                answer: `The official MahaRERA registration number of ${project.title} is ${project.reraId || 'P52100050939'}. PROPSMART REALTY is an authorized developer sales partner with agent registration ${PROPSMART_RERA.number}.`
+                            },
+                            {
+                                question: `When is the possession date for ${project.title}?`,
+                                answer: `Possession for ${project.title} is scheduled for ${project.possessionDate || 'As per RERA timeline'}.`
+                            },
+                            {
+                                question: `Is there any brokerage or commission fee for buying in ${project.title}?`,
+                                answer: `Zero Brokerage. Buyers pay 0% commission. You purchase directly with builder inventory via PROPSMART REALTY authorized partnership.`
+                            }
+                        ]).map(f => ({
+                            "@type": "Question",
+                            "name": f.question,
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": f.answer
+                            }
+                        }))
                     }
-                }}
+                ]}
             />
 
             <PortalNavbar variant="colored" />
@@ -490,7 +597,7 @@ const ProjectDetails = () => {
                     <div className="flex items-center gap-2">
                         <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
                         <span className="font-black text-emerald-400 uppercase tracking-wider">100% Brokerage Free:</span>
-                        <span className="text-slate-200">Buy directly from builder inventory with official developer sales mandates.</span>
+                        <span className="text-slate-200">Buy directly from builder inventory with official developer sales partnerships.</span>
                     </div>
                     <div className="flex items-center gap-2.5 shrink-0">
                         <span className="bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 px-2.5 py-0.5 rounded-full font-bold text-[10px] uppercase tracking-wide">
@@ -502,33 +609,37 @@ const ProjectDetails = () => {
                 </div>
             </div>
 
-            {/* Sticky Navigation (Adjusted top to not hide behind Fixed Navbar) */}
-            <div className="sticky top-[72px] z-40 bg-white/95 backdrop-blur shadow-sm border-b border-gray-200">
+            {/* Synchronized Sticky Navigation */}
+            <div className="sticky top-[72px] z-40 bg-white/95 backdrop-blur-md shadow-xs border-b border-gray-200">
                 <div className="max-w-7xl mx-auto px-4">
-                    <div className="flex gap-8 overflow-x-auto no-scrollbar">
-                        <div className="flex gap-8 overflow-x-auto no-scrollbar">
-                            {[
-                                'rera-passport',
-                                'overview',
-                                'construction',
-                                ...(project.masterLayout ? ['master-layout'] : []),
-                                'carpet-area',
-                                ...(project.floorPlans && project.floorPlans.length > 0 ? ['floor-plans'] : []),
-                                'configurations',
-                                'amenities',
-                                'connectivity',
-                                'location',
-                                'investment',
-                                'builder'
-                            ].map((section) => (
-                                <button
-                                    key={section}
-                                    onClick={() => scrollToSection(section)}
-                                    className={getTabClass(section)}>
-                                    {section === 'rera-passport' ? 'RERA Passport' : section.replace('-', ' ')}
-                                </button>
-                            ))}
-                        </div>
+                    <div className="flex gap-2 overflow-x-auto no-scrollbar py-2.5">
+                        {[
+                            { id: 'rera-passport', label: 'RERA Passport' },
+                            { id: 'overview', label: 'Overview' },
+                            { id: 'construction', label: 'Timeline' },
+                            ...(project.masterLayout ? [{ id: 'master-layout', label: 'Master Layout' }] : []),
+                            { id: 'carpet-area', label: 'Carpet Area' },
+                            ...(resolvedFloorPlans.length > 0 ? [{ id: 'floor-plans', label: 'Floor Plans' }] : []),
+                            { id: 'configurations', label: 'Configurations & Pricing' },
+                            { id: 'amenities', label: 'Amenities' },
+                            { id: 'connectivity', label: 'Connectivity' },
+                            { id: 'location', label: 'Location' },
+                            { id: 'investment', label: 'Yield Intel' },
+                            { id: 'builder', label: 'Developer' },
+                            { id: 'faqs', label: 'FAQs' }
+                        ].map(({ id, label }) => (
+                            <button
+                                key={id}
+                                onClick={() => scrollToSection(id)}
+                                className={`px-3.5 py-1.5 rounded-xl font-bold text-xs whitespace-nowrap transition-all ${
+                                    activeSection === id
+                                        ? 'bg-slate-900 text-white shadow-sm'
+                                        : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
+                                }`}
+                            >
+                                {label}
+                            </button>
+                        ))}
                     </div>
                 </div>
             </div>
@@ -838,7 +949,7 @@ const ProjectDetails = () => {
                         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6">
                             <div>
                                 <span className="text-[11px] font-extrabold uppercase tracking-widest text-emerald-700 bg-emerald-50 border border-emerald-200 px-3 py-1 rounded-full inline-block mb-2">
-                                    100% Brokerage Free • Direct Developer Mandate
+                                    100% Brokerage Free • Direct Developer Partner
                                 </span>
                                 <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight">
                                     Unit Configurations & Pricing
@@ -1070,13 +1181,25 @@ const ProjectDetails = () => {
                                             Book Site Visit
                                             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                                         </button>
-                                        <button
-                                            onClick={() => openLeadForm('Brochure')}
-                                            className="bg-white hover:bg-gray-50 text-slate-700 font-bold py-3 md:py-4 px-6 rounded-xl border-2 border-slate-200 shadow-sm transition-colors flex items-center justify-center gap-2"
-                                        >
-                                            <Download className="w-5 h-5" />
-                                            Download Brochure
-                                        </button>
+                                        {project.brochureUrl ? (
+                                            <a
+                                                href={project.brochureUrl}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="bg-white hover:bg-gray-50 text-slate-800 font-bold py-3 md:py-4 px-6 rounded-xl border-2 border-slate-200 shadow-sm transition-colors flex items-center justify-center gap-2"
+                                            >
+                                                <Download className="w-5 h-5 text-emerald-600" />
+                                                Download Official Brochure (PDF)
+                                            </a>
+                                        ) : (
+                                            <button
+                                                onClick={() => openLeadForm('Brochure')}
+                                                className="bg-white hover:bg-gray-50 text-slate-700 font-bold py-3 md:py-4 px-6 rounded-xl border-2 border-slate-200 shadow-sm transition-colors flex items-center justify-center gap-2"
+                                            >
+                                                <Download className="w-5 h-5" />
+                                                Download Brochure
+                                            </button>
+                                        )}
                                     </div>
 
                                     <div className="mt-6 flex items-center justify-center gap-6 text-sm text-slate-500">
@@ -1109,6 +1232,70 @@ const ProjectDetails = () => {
                                     )}
                                 </div>
                             </div>
+                        </div>
+                    </section>
+
+                    {/* Google Real Estate Rich Result FAQs */}
+                    <section id="faqs" className="scroll-mt-40">
+                        <div className="mb-6">
+                            <span className="text-[11px] font-extrabold uppercase tracking-widest text-emerald-700 bg-emerald-50 border border-emerald-200 px-3 py-1 rounded-full inline-block mb-2">
+                                Google Rich Results • MahaRERA Q&A
+                            </span>
+                            <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight">
+                                Frequently Asked Questions
+                            </h2>
+                            <p className="text-slate-500 text-sm mt-1">
+                                Verified answers regarding {project.title}, pricing, approvals, and 0% brokerage direct builder allocation.
+                            </p>
+                        </div>
+
+                        <div className="space-y-3">
+                            {(project.faqs && project.faqs.length > 0 ? project.faqs : [
+                                {
+                                    question: `Where is ${project.title} located?`,
+                                    answer: `${project.title} is located in ${project.location}, Pune, offering prime connectivity to IT corridors and transit nodes.`
+                                },
+                                {
+                                    question: `What is the price range of ${project.title}?`,
+                                    answer: `Prices at ${project.title} start from ${project.exactPrice || project.priceRange} with 100% Zero Brokerage through authorized developer sales partner allocation.`
+                                },
+                                {
+                                    question: `Which configurations are available at ${project.title}?`,
+                                    answer: `${project.title} offers ${(project.configurations || []).join(', ')} luxury apartments with sanctioned RERA carpet layouts.`
+                                },
+                                {
+                                    question: `What is the MahaRERA registration number of ${project.title}?`,
+                                    answer: `The official MahaRERA registration number of ${project.title} is ${project.reraId || 'P52100050939'}. PROPSMART REALTY is an authorized developer sales partner with agent registration ${PROPSMART_RERA.number}.`
+                                },
+                                {
+                                    question: `When is the possession date for ${project.title}?`,
+                                    answer: `Possession for ${project.title} is scheduled for ${project.possessionDate || 'As per RERA timeline'}.`
+                                },
+                                {
+                                    question: `Is there any brokerage or commission fee for buying in ${project.title}?`,
+                                    answer: `Zero Brokerage. Buyers pay 0% commission. You purchase directly with builder inventory via PROPSMART REALTY authorized partnership.`
+                                }
+                            ]).map((faq, idx) => (
+                                <details 
+                                    key={idx} 
+                                    className="group bg-white rounded-2xl border border-slate-200/90 shadow-2xs open:shadow-sm open:border-brand-300 transition-all overflow-hidden"
+                                >
+                                    <summary className="p-4 sm:p-5 flex items-center justify-between cursor-pointer list-none select-none hover:bg-slate-50/50 transition-colors">
+                                        <span className="font-bold text-slate-900 text-sm sm:text-base pr-4 flex items-center gap-2.5">
+                                            <span className="w-6 h-6 rounded-lg bg-brand-50 text-brand-600 flex items-center justify-center font-mono text-xs font-black shrink-0">
+                                                {idx + 1}
+                                            </span>
+                                            {faq.question}
+                                        </span>
+                                        <span className="w-6 h-6 rounded-full bg-slate-100 group-open:bg-brand-50 group-open:rotate-180 text-slate-500 group-open:text-brand-600 flex items-center justify-center text-xs font-bold transition-transform shrink-0">
+                                            ▼
+                                        </span>
+                                    </summary>
+                                    <div className="px-5 pb-5 pt-1 text-slate-600 text-sm leading-relaxed border-t border-slate-100 bg-slate-50/40">
+                                        <p>{faq.answer}</p>
+                                    </div>
+                                </details>
+                            ))}
                         </div>
                     </section>
 
@@ -1201,7 +1388,7 @@ const ProjectDetails = () => {
                                     ✨ 100% Brokerage Free
                                 </div>
                                 <p className="font-black text-lg">Buy Directly With Builder</p>
-                                <p className="text-emerald-100 text-xs">Direct Developer Pricing • Zero Commission • Official Mandate</p>
+                                <p className="text-emerald-100 text-xs">Direct Developer Pricing • Zero Commission • Official Partner</p>
                             </div>
                             <div className="p-6 space-y-4">
                                 <input
@@ -1254,7 +1441,7 @@ const ProjectDetails = () => {
                                     </div>
                                     <div className="flex items-center gap-1.5 font-semibold text-slate-700">
                                         <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
-                                        <span>Authorized MahaRERA Mandate: {PROPSMART_RERA.number}</span>
+                                        <span>Authorized MahaRERA Partner: {PROPSMART_RERA.number}</span>
                                     </div>
                                 </div>
                             </div >
@@ -1263,12 +1450,12 @@ const ProjectDetails = () => {
                             </div>
                         </div >
 
-                        {/* propsmart MahaRERA Agent Mandate Card */}
+                        {/* propsmart MahaRERA Authorized Partner Card */}
                         <div className="bg-slate-900 text-white rounded-2xl p-5 border border-slate-800 shadow-md">
                             <div className="flex items-center justify-between mb-3">
                                 <span className="text-[10px] font-bold uppercase tracking-wider text-emerald-400 flex items-center gap-1.5">
                                     <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-                                    Authorized Mandate Partner
+                                    Authorized Sales Partner
                                 </span>
                                 <span className="text-[10px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30 px-2 py-0.5 rounded">
                                     0% Brokerage
@@ -1310,7 +1497,7 @@ const ProjectDetails = () => {
                                             </a>
                                         ) : (
                                             <a href="https://maharera.maharashtra.gov.in/" target="_blank" rel="noreferrer" className="text-xs font-semibold text-green-800 underline mt-2 inline-flex items-center gap-1 hover:text-green-900">
-                                                <span>Verify MahaRERA Direct Mandate ({PROPSMART_RERA.number})</span>
+                                                <span>Verify MahaRERA Authorized Partner ({PROPSMART_RERA.number})</span>
                                                 <ExternalLink className="w-3 h-3" />
                                             </a>
                                         )}

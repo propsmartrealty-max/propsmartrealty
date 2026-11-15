@@ -28,7 +28,7 @@ const WhyBuyDirect: React.FC = () => {
             badge: `MahaRERA: ${PROPSMART_RERA.number}`,
             title: "100% MahaRERA Verified",
             desc: "Every project on PROPSMART REALTY is registered with MahaRERA. Scan official QR codes to inspect sanctioned floor plans, title reports, and possession schedules.",
-            highlight: "Official Agent Mandate",
+            highlight: "Authorized Sales Partner",
             color: "from-teal-50 to-cyan-50/50",
             border: "border-teal-200/80"
         },
@@ -104,7 +104,7 @@ const WhyBuyDirect: React.FC = () => {
                                 Connect directly with developer sales teams in Pune
                             </h4>
                             <p className="text-xs text-slate-400 mt-1">
-                                0% Brokerage Guaranteed • Authentic Sanctioned Pricing • Verified MahaRERA Agent Mandate
+                                0% Brokerage Guaranteed • Authentic Sanctioned Pricing • Verified MahaRERA Authorized Partner
                             </p>
                         </div>
                     </div>

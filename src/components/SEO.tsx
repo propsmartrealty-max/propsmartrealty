@@ -10,7 +10,7 @@ interface SEOProps {
         type: string;
         image?: string;
     };
-    jsonLd?: Record<string, any>;
+    jsonLd?: Record<string, any> | Array<Record<string, any>>;
     keywords?: string[];
 }
 
@@ -45,11 +45,19 @@ const SEO: React.FC<SEOProps> = ({ title, description, canonical, openGraph, jso
             <meta name="twitter:description" content={description} />
             <meta name="twitter:image" content={ogImage} />
 
-            {/* Structured Data */}
+            {/* Structured Data (Google Real Estate Rich Results) */}
             {jsonLd && (
-                <script type="application/ld+json">
-                    {JSON.stringify(jsonLd)}
-                </script>
+                Array.isArray(jsonLd) ? (
+                    jsonLd.map((schema, idx) => (
+                        <script key={idx} type="application/ld+json">
+                            {JSON.stringify(schema)}
+                        </script>
+                    ))
+                ) : (
+                    <script type="application/ld+json">
+                        {JSON.stringify(jsonLd)}
+                    </script>
+                )
             )}
         </Helmet>
     );

@@ -38,7 +38,7 @@ const Home = () => {
         <div className="min-h-screen bg-slate-50 font-sans selection:bg-blue-500 selection:text-white">
             <SEO
                 title="PROPSMART REALTY - 100% Brokerage Free | Buy Directly with Builder in Pune"
-                description="Buy directly from top builders in Pune with 100% zero brokerage. PROPSMART REALTY is your trusted MahaRERA registered direct developer sales mandate platform."
+                description="Buy directly from top builders in Pune with 100% zero brokerage. PROPSMART REALTY is your trusted MahaRERA registered direct developer sales partner platform."
             />
 
             <PortalNavbar />

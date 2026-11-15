@@ -97,7 +97,7 @@ export const CASE_STUDIES: CaseStudy[] = [
     id: '3',
     title: 'Wakad Skyline Township',
     challenge: 'Inventory blockage in 3BHK premium segments due to competitor price cuts.',
-    strategy: 'Value-based positioning shift and CP-exclusive rapid liquidation mandate.',
+    strategy: 'Value-based positioning shift and CP-exclusive rapid liquidation partnership.',
     results: { absorption: 'Sold Out', revenue: '₹210Cr', timeline: '15 Months' },
     image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=800'
   }

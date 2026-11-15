@@ -201,12 +201,12 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
                         </div>
                     </div>
 
-                    {/* Authorized Mandate Trust Note */}
+                    {/* Authorized Partner Trust Note */}
                     <div className="p-3.5 rounded-xl bg-amber-500/10 border border-amber-500/20 text-xs text-amber-900 flex items-center justify-between gap-4">
                         <div className="flex items-center gap-2">
                             <span className="w-2 h-2 rounded-full bg-amber-500 shrink-0" />
                             <span>
-                                Authorized Direct Sales Mandate: <strong>PROPSMART REALTY</strong> (MahaRERA: <strong>{PROPSMART_RERA.number}</strong>)
+                                Authorized Direct Sales Partner: <strong>PROPSMART REALTY</strong> (MahaRERA: <strong>{PROPSMART_RERA.number}</strong>)
                             </span>
                         </div>
                         <span className="font-bold text-[11px] bg-amber-200/80 px-2 py-0.5 rounded text-amber-900 shrink-0">

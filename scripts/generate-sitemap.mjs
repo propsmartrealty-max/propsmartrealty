@@ -161,7 +161,7 @@ async function run() {
             sitemapBuildersXml += `    <image:image>
       <image:loc>${escapeXml(logoUrl)}</image:loc>
       <image:title>${escapeXml(b.name)} Pune Official Developer Logo</image:title>
-      <image:caption>All ${escapeXml(b.name)} residential township projects in Pune with direct builder sales mandate</image:caption>
+      <image:caption>All ${escapeXml(b.name)} residential township projects in Pune with authorized direct builder partner</image:caption>
     </image:image>
 `;
         }

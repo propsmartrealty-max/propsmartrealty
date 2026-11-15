@@ -108,7 +108,7 @@ const DashboardPreview: React.FC = () => {
             <p className="text-xs font-bold text-slate-900">{liveStats.aiQualified}%</p>
           </div>
           <div className="p-4 bg-teal-500 text-white rounded-2xl text-center shadow-lg">
-            <p className="text-[7px] font-black text-white/70 uppercase mb-1">Mandate S.</p>
+            <p className="text-[7px] font-black text-white/70 uppercase mb-1">Partner S.</p>
             <p className="text-xs font-bold">{liveStats.leadScore.toFixed(1)}</p>
           </div>
           <div className="p-4 bg-slate-50 rounded-2xl border border-slate-100 text-center">
