@@ -11,7 +11,7 @@ const ZONES = [
     { id: 'east', label: 'East Pune (Cyber & Airport)' },
     { id: 'south', label: 'South & Central Pune' },
     { id: 'north', label: 'North Pune & PCMC' },
-    { id: 'all', label: 'All 48 Micro-Markets' },
+    { id: 'all', label: `All ${PROPSMART_LOCALITIES.length} Micro-Markets` },
 ];
 
 const LocalityStrip: React.FC = () => {

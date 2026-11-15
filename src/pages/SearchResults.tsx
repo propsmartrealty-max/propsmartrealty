@@ -5,7 +5,7 @@ import { useData } from '../context/DataContext';
 import PortalNavbar from '../components/Portal/Navbar';
 import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
-import { Filter, MapPin, TrendingUp, Sparkles, Building2 } from 'lucide-react';
+import { Filter, MapPin, TrendingUp, Sparkles, Building2, LayoutGrid, List, Map, ArrowUpDown, X, Check } from 'lucide-react';
 import PropertyCard from '../components/Portal/PropertyCard';
 import { PropertyCardSkeleton, ErrorState } from '../components/UI/LoadingSkeleton';
 import { useQuery } from '@tanstack/react-query';
@@ -54,7 +54,8 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
     const [selectedTypes, setSelectedTypes] = React.useState<string[]>([]);
     const [selectedConfigs, setSelectedConfigs] = React.useState<string[]>([]);
     const [showFilters, setShowFilters] = React.useState(false);
-    const [viewMode, setViewMode] = React.useState<'list' | 'map'>('list');
+    const [viewMode, setViewMode] = React.useState<'grid' | 'list' | 'map'>('grid');
+    const [sortBy, setSortBy] = React.useState<'featured' | 'price-asc' | 'price-desc' | 'newest'>('featured');
 
     // Sync selectedCity when URL city param changes
     React.useEffect(() => {
@@ -100,6 +101,20 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
         ? data.data
         : (isLoading ? [] : (error ? PROJECTS : (data?.data || [])));
     const totalPages = data?.totalPages || 1;
+
+    const sortedProjects = React.useMemo(() => {
+        const list = [...projects];
+        if (sortBy === 'price-asc') {
+            return list.sort((a, b) => (a.pricePerSqft || 0) - (b.pricePerSqft || 0));
+        }
+        if (sortBy === 'price-desc') {
+            return list.sort((a, b) => (b.pricePerSqft || 0) - (a.pricePerSqft || 0));
+        }
+        if (sortBy === 'newest') {
+            return list.sort((a, b) => (b.status === 'New Launch' ? 1 : 0) - (a.status === 'New Launch' ? 1 : 0));
+        }
+        return list;
+    }, [projects, sortBy]);
 
     const toggleFilter = (item: string, current: string[], setter: (val: string[]) => void) => {
         if (current.includes(item)) {
@@ -400,36 +415,142 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
                             </div>
                         )}
 
-                        <div className="mb-6 flex items-center justify-between">
-                            <h1 className="font-sans font-extrabold text-2xl text-slate-900 tracking-tight">
-                                {isLoading 
-                                    ? 'Searching verified projects...' 
-                                    : `${data?.count ?? projects.length} Properties found ${filterLoc ? `in ${filterLoc}` : (filterQuery ? `for "${filterQuery}"` : (selectedCity !== 'All' ? `in ${selectedCity}` : 'in Pune'))}`
-                                }
-                            </h1>
+                        {/* Results Header: Title, Controls (View Mode Toggle & Sort Dropdown) */}
+                        <div className="mb-6 flex flex-col md:flex-row md:items-center justify-between gap-4">
+                            <div>
+                                <h1 className="font-sans font-extrabold text-2xl text-slate-900 tracking-tight">
+                                    {isLoading 
+                                        ? 'Searching verified projects...' 
+                                        : `${data?.count ?? sortedProjects.length} Properties found ${filterLoc ? `in ${filterLoc}` : (filterQuery ? `for "${filterQuery}"` : (selectedCity !== 'All' ? `in ${selectedCity}` : 'in Pune'))}`
+                                    }
+                                </h1>
+                                <p className="text-xs text-slate-500 font-medium mt-0.5">
+                                    0% Brokerage • MahaRERA Sanctioned Direct Builder Sales
+                                </p>
+                            </div>
+
+                            <div className="flex items-center gap-3 self-end md:self-auto flex-wrap">
+                                {/* Sort Dropdown */}
+                                <div className="relative inline-flex items-center">
+                                    <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white border border-slate-200/90 shadow-2xs text-xs font-bold text-slate-700">
+                                        <ArrowUpDown className="w-3.5 h-3.5 text-sky-600" />
+                                        <span className="text-slate-400 font-medium">Sort:</span>
+                                        <select
+                                            value={sortBy}
+                                            onChange={(e) => setSortBy(e.target.value as any)}
+                                            className="bg-transparent font-bold text-slate-800 cursor-pointer focus:outline-none pr-1"
+                                        >
+                                            <option value="featured">Featured / Recommended</option>
+                                            <option value="price-asc">Price: Low to High</option>
+                                            <option value="price-desc">Price: High to Low</option>
+                                            <option value="newest">Newest Launches First</option>
+                                        </select>
+                                    </div>
+                                </div>
+
+                                {/* View Mode Switcher */}
+                                <div className="inline-flex items-center bg-white border border-slate-200/90 rounded-xl p-1 shadow-2xs">
+                                    <button
+                                        type="button"
+                                        onClick={() => setViewMode('grid')}
+                                        className={`p-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-1 ${
+                                            viewMode === 'grid'
+                                                ? 'bg-sky-600 text-white shadow-xs'
+                                                : 'text-slate-500 hover:text-slate-900 hover:bg-slate-100'
+                                        }`}
+                                        title="Grid View"
+                                    >
+                                        <LayoutGrid className="w-4 h-4" />
+                                        <span className="hidden sm:inline">Grid</span>
+                                    </button>
+                                    <button
+                                        type="button"
+                                        onClick={() => setViewMode('list')}
+                                        className={`p-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-1 ${
+                                            viewMode === 'list'
+                                                ? 'bg-sky-600 text-white shadow-xs'
+                                                : 'text-slate-500 hover:text-slate-900 hover:bg-slate-100'
+                                        }`}
+                                        title="List View"
+                                    >
+                                        <List className="w-4 h-4" />
+                                        <span className="hidden sm:inline">List</span>
+                                    </button>
+                                    <button
+                                        type="button"
+                                        onClick={() => setViewMode('map')}
+                                        className={`p-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-1 ${
+                                            viewMode === 'map'
+                                                ? 'bg-sky-600 text-white shadow-xs'
+                                                : 'text-slate-500 hover:text-slate-900 hover:bg-slate-100'
+                                        }`}
+                                        title="Map View"
+                                    >
+                                        <Map className="w-4 h-4" />
+                                        <span className="hidden sm:inline">Map</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Quick Filter Chips Bar */}
+                        <div className="mb-6 flex items-center gap-2 overflow-x-auto no-scrollbar py-1">
+                            {[
+                                { label: 'Under ₹50 L', action: () => toggleFilter('under-50', selectedBudgets, setSelectedBudgets), active: selectedBudgets.includes('under-50') },
+                                { label: '₹50 L - ₹1 Cr', action: () => toggleFilter('50-100', selectedBudgets, setSelectedBudgets), active: selectedBudgets.includes('50-100') },
+                                { label: '₹1 Cr - ₹2 Cr', action: () => toggleFilter('100-200', selectedBudgets, setSelectedBudgets), active: selectedBudgets.includes('100-200') },
+                                { label: 'Above ₹2 Cr', action: () => toggleFilter('above-200', selectedBudgets, setSelectedBudgets), active: selectedBudgets.includes('above-200') },
+                                { label: '2 BHK', action: () => toggleFilter('2 BHK', selectedConfigs, setSelectedConfigs), active: selectedConfigs.includes('2 BHK') },
+                                { label: '3 BHK', action: () => toggleFilter('3 BHK', selectedConfigs, setSelectedConfigs), active: selectedConfigs.includes('3 BHK') },
+                                { label: 'New Launch', action: () => toggleFilter('new-launch', selectedTypes, setSelectedTypes), active: selectedTypes.includes('new-launch') },
+                            ].map((chip, idx) => (
+                                <button
+                                    key={idx}
+                                    onClick={chip.action}
+                                    className={`px-3 py-1.5 rounded-full text-xs font-bold tracking-tight whitespace-nowrap transition-all border shrink-0 ${
+                                        chip.active
+                                            ? 'bg-sky-600 text-white border-sky-600 shadow-xs'
+                                            : 'bg-white hover:bg-sky-50 text-slate-700 border-slate-200 hover:border-sky-300'
+                                    }`}
+                                >
+                                    {chip.label}
+                                </button>
+                            ))}
+                            {(selectedBudgets.length > 0 || selectedConfigs.length > 0 || selectedTypes.length > 0) && (
+                                <button
+                                    onClick={() => {
+                                        setSelectedBudgets([]);
+                                        setSelectedConfigs([]);
+                                        setSelectedTypes([]);
+                                    }}
+                                    className="px-2.5 py-1.5 rounded-full text-xs font-bold text-rose-600 hover:bg-rose-50 transition-colors shrink-0 flex items-center gap-1"
+                                >
+                                    <X className="w-3.5 h-3.5" /> Clear All
+                                </button>
+                            )}
                         </div>
 
                         {viewMode === 'map' ? (
                             <div className="w-full h-full min-h-[500px]">
                                 <React.Suspense fallback={<div className="h-96 bg-slate-100 rounded-2xl animate-pulse"></div>}>
-                                    <ProjectMap projects={projects} />
+                                    <ProjectMap projects={sortedProjects} />
                                 </React.Suspense>
                             </div>
                         ) : (
                             isLoading ? (
-                                <div className="grid grid-cols-1 gap-6">
-                                    {Array(3).fill(0).map((_, i) => (
+                                <div className={viewMode === 'grid' ? "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-6" : "grid grid-cols-1 gap-6"}>
+                                    {Array(6).fill(0).map((_, i) => (
                                         <div key={i} className="h-full">
                                             <PropertyCardSkeleton />
                                         </div>
                                     ))}
                                 </div>
-                            ) : projects.length > 0 ? (
+                            ) : sortedProjects.length > 0 ? (
                                 <>
-                                    <div className="grid grid-cols-1 gap-6">
-                                        {projects.map(project => (
+                                    <div className={viewMode === 'grid' ? "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-6" : "grid grid-cols-1 gap-6"}>
+                                        {sortedProjects.map(project => (
                                             <div key={project.id} className="h-full">
-                                                <PropertyCard project={project} variant="list" />
+                                                <PropertyCard project={project} variant={viewMode === 'grid' ? 'grid' : 'list'} />
                                             </div>
                                         ))}
                                     </div>
