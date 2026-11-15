@@ -85,8 +85,18 @@ export const api = {
                 if (!json.data || !Array.isArray(json.data) || json.data.length === 0) {
                     return PROJECTS;
                 }
-                const mappedData = json.data.map(mapProjectFromDb) as Project[];
-                return mappedData.length > 0 ? mappedData : PROJECTS;
+                const localBySlug = new Map(PROJECTS.map(p => [p.slug, p]));
+                const mappedData = json.data.map((dbP: any) => {
+                    const mapped = mapProjectFromDb(dbP) as Project;
+                    const local = localBySlug.get(mapped.slug);
+                    if (local && !mapped.city) {
+                        mapped.city = local.city;
+                    }
+                    return mapped;
+                }) as Project[];
+                const dbSlugs = new Set(mappedData.map(p => p.slug));
+                const missingLocal = PROJECTS.filter(p => !dbSlugs.has(p.slug));
+                return [...mappedData, ...missingLocal];
             } catch (err) {
                 console.warn('api.projects.all fallback to local dataset:', err);
                 return PROJECTS;
@@ -94,6 +104,11 @@ export const api = {
         },
 
         list: async (page = 1, filters: ProjectFilters = {}) => {
+            // When filtering by city, use direct client dataset filter for 100% accurate city counts
+            if (filters.city && filters.city !== 'All') {
+                return filterProjectsLocally(page, filters);
+            }
+
             try {
                 // Call Cloudflare Edge API
                 const params = new URLSearchParams();

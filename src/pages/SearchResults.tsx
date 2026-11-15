@@ -95,14 +95,9 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
         placeholderData: (previousData) => previousData,
     });
 
-    const baseProjects = (data?.data && data.data.length > 0)
+    const projects = (data?.data && data.data.length > 0)
         ? data.data
         : (isLoading ? [] : (error ? PROJECTS : (data?.data || [])));
-
-    const projects = React.useMemo(() => {
-        if (!selectedCity || selectedCity === 'All') return baseProjects;
-        return baseProjects.filter((p: any) => (p.city || 'Pune').toLowerCase() === selectedCity.toLowerCase());
-    }, [baseProjects, selectedCity]);
     const totalPages = data?.totalPages || 1;
 
     const toggleFilter = (item: string, current: string[], setter: (val: string[]) => void) => {
@@ -406,7 +401,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
                             <h1 className="font-sans font-extrabold text-2xl text-slate-900 tracking-tight">
                                 {isLoading 
                                     ? 'Searching verified projects...' 
-                                    : `${projects.length} Properties found ${filterLoc ? `in ${filterLoc}` : (filterQuery ? `for "${filterQuery}"` : (selectedCity !== 'All' ? `in ${selectedCity}` : 'in Pune'))}`
+                                    : `${data?.count ?? projects.length} Properties found ${filterLoc ? `in ${filterLoc}` : (filterQuery ? `for "${filterQuery}"` : (selectedCity !== 'All' ? `in ${selectedCity}` : 'in Pune'))}`
                                 }
                             </h1>
                         </div>
