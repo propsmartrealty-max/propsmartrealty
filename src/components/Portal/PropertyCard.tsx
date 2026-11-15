@@ -1,6 +1,20 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { Link } from 'react-router-dom';
-import { MapPin, Home, CheckCircle2, Building2, QrCode, ShieldCheck, ExternalLink, X, Waves, Dumbbell, Castle, Sparkles } from 'lucide-react';
+import { 
+    MapPin, 
+    Home, 
+    CheckCircle2, 
+    Building2, 
+    QrCode, 
+    ShieldCheck, 
+    ExternalLink, 
+    X, 
+    Waves, 
+    Dumbbell, 
+    Castle, 
+    Sparkles, 
+    Calendar 
+} from 'lucide-react';
 import { Project } from '../../types';
 import { useData } from '../../context/DataContext';
 import DealBadge from './DealBadge';
@@ -14,8 +28,7 @@ interface PropertyCardProps {
 }
 
 const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }) => {
-    // Hooks must be called at top level unconditionally
-    const { localities = [], compareList = [], addToCompare, removeFromCompare } = useData();
+    const { localities = [], builders = [], compareList = [], addToCompare, removeFromCompare } = useData();
     const [imgSrc, setImgSrc] = useState(() => project?.image ? getOptimizedImageUrl(project.image, 600) : '/images/placeholder-property.svg');
     const [showLeadForm, setShowLeadForm] = useState(false);
     const [showQRModal, setShowQRModal] = useState(false);
@@ -28,61 +41,80 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
         }
     }, [project?.id, project?.image]);
 
+    // Resolve human-readable builder name (Never display raw ID like b-godrej or b-vtp)
+    const resolvedBuilder = useMemo(() => {
+        if (!project?.builderId) return null;
+        return builders.find(b => b.id === project.builderId);
+    }, [builders, project?.builderId]);
+
     if (!project) return null;
 
     const projectSlug = project.slug || project.id;
     const projectLink = `/project/${projectSlug}`;
     const isGrid = variant === 'grid';
-    // Phase 3: Deal Calculation
-    let localityAvgPrice = 0;
     const isInCompare = compareList?.includes(project.id);
 
+    const builderName = resolvedBuilder?.name 
+        || (project as any).builderName 
+        || (project.builderId && !project.builderId.startsWith('b-') ? project.builderId : 'Premium Developer');
+
+    // Resolve locality average price for deal computation
+    let localityAvgPrice = 0;
     try {
-        const loc = localities?.find(l => l.name === project.location);
+        const loc = localities?.find(l => l.name?.toLowerCase() === project.location?.toLowerCase());
         localityAvgPrice = loc?.avgPriceSqft || 0;
     } catch {
-        // Fallback if localities find fails
+        localityAvgPrice = 0;
     }
 
     const qrUrl = getProjectQRCodeUrl(project.slug || project.id, project.reraId);
     const mahaReraLink = getMahaRERAVerificationUrl(project.reraId);
 
-    return (
-        <div className={`group glass-card water-card-hover water-shimmer rounded-[1.75rem] overflow-hidden transition-all duration-500 border border-white/80 shadow-[0_4px_24px_rgba(14,165,233,0.06)] hover:border-sky-300 hover:shadow-[0_16px_45px_rgba(14,165,233,0.16)] flex ${isGrid ? 'flex-col h-full' : 'flex-col md:flex-row h-auto md:h-[265px]'}`}>
+    // Clean, formatted price display
+    const formattedPrice = project.exactPrice || project.priceRange || 'Price on Request';
 
-            {/* Image Section */}
-            <div className={`relative overflow-hidden shrink-0 ${isGrid ? 'h-52 w-full' : 'h-52 md:h-full md:w-[40%]'} bg-slate-100`}>
+    return (
+        <div className={`group glass-card water-card-hover water-shimmer rounded-[1.75rem] overflow-hidden transition-all duration-500 border border-white/80 shadow-[0_4px_24px_rgba(14,165,233,0.06)] hover:border-sky-300 hover:shadow-[0_16px_45px_rgba(14,165,233,0.16)] flex ${
+            isGrid 
+                ? 'flex-col h-full bg-white/70 backdrop-blur-md' 
+                : 'flex-col md:flex-row min-h-[250px] md:h-auto bg-white/70 backdrop-blur-md'
+        }`}>
+
+            {/* ================= Image Section ================= */}
+            <div className={`relative overflow-hidden shrink-0 ${
+                isGrid 
+                    ? 'w-full aspect-[16/10]' 
+                    : 'w-full md:w-[38%] min-h-[210px] md:min-h-full aspect-[16/10] md:aspect-auto'
+            } bg-slate-900`}>
                 <Link to={projectLink} className="block h-full w-full">
                     <img
                         src={imgSrc}
                         alt={project.title}
-                        className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
+                        className="w-full h-full object-cover group-hover:scale-108 transition-transform duration-700 ease-out"
                         loading="lazy"
                         onError={() => {
                             setImgSrc('/images/placeholder-property.svg');
                         }}
                     />
-                    {/* Gradient Overlay */}
-                    <div className={`absolute inset-0 md:bg-none transition-opacity duration-300 ${isGrid ? 'bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-90' : 'bg-gradient-to-t from-black/80 md:from-transparent opacity-80'}`} />
+                    {/* Gradient Overlay for Text Readability */}
+                    <div className="absolute inset-0 bg-gradient-to-t from-slate-950/85 via-slate-950/20 to-black/30 transition-opacity duration-300 group-hover:opacity-90" />
                 </Link>
 
-                {/* Status Badges */}
-                <div className="absolute top-3 left-3 flex flex-wrap gap-1.5 sm:gap-2 z-10 max-w-[85%]">
-                    <span className="text-[10px] font-black px-2.5 py-1 rounded-full shadow-sm uppercase tracking-wider backdrop-blur-md bg-emerald-600/95 text-white border border-emerald-400/60 flex items-center gap-1">
+                {/* Top-Left: Sleek Single Luxury Badge */}
+                <div className="absolute top-3 left-3 z-10 flex items-center gap-1.5 flex-wrap max-w-[70%]">
+                    <span className="inline-flex items-center gap-1.5 text-[10px] font-black px-2.5 py-1 rounded-full backdrop-blur-md bg-emerald-600/90 text-white border border-emerald-400/50 shadow-md uppercase tracking-wider">
                         <span className="w-1.5 h-1.5 rounded-full bg-emerald-300 animate-pulse"></span>
                         0% Brokerage
                     </span>
-                    <span className="text-[10px] font-black px-2.5 py-1 rounded-full shadow-sm uppercase tracking-wider backdrop-blur-md bg-amber-500/95 text-slate-900 border border-amber-300/60">
-                        Buy Direct with Builder
-                    </span>
-                    {project.status && (
-                        <span className={`text-[10px] font-bold px-2.5 py-1 rounded-full shadow-sm uppercase tracking-wider backdrop-blur-md border ${project.status === 'New Launch'
-                            ? 'bg-accent-500 text-white border-accent-400'
-                            : 'bg-white/95 text-brand-900 border-white/20'
-                            }`}>
-                            {project.status}
+                    {project.status === 'New Launch' && (
+                        <span className="inline-flex items-center text-[10px] font-black px-2 py-0.5 rounded-full backdrop-blur-md bg-amber-500 text-slate-950 border border-amber-300/80 shadow-xs uppercase tracking-wider">
+                            New Launch
                         </span>
                     )}
+                </div>
+
+                {/* Top-Right: Compare & Quick QR Triggers */}
+                <div className="absolute top-3 right-3 z-20 flex items-center gap-1.5">
                     {project.reraId && (
                         <button
                             type="button"
@@ -91,180 +123,198 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                                 e.stopPropagation();
                                 setShowQRModal(true);
                             }}
-                            className="bg-emerald-600/95 hover:bg-emerald-500 backdrop-blur-md text-[10px] font-extrabold px-2.5 py-1 rounded-full shadow-md text-white uppercase tracking-wider flex items-center gap-1.5 border border-emerald-300/80 transition-all hover:scale-105 active:scale-95"
-                            title="Click to scan MahaRERA QR code"
+                            className="p-1.5 rounded-lg bg-slate-950/70 hover:bg-emerald-600 text-white backdrop-blur-md border border-white/20 transition-all shadow-md hover:scale-105 active:scale-95"
+                            title="Scan MahaRERA Verification QR"
                         >
-                            <QrCode className="w-3 h-3 text-emerald-200" />
-                            <span>RERA QR</span>
+                            <QrCode className="w-3.5 h-3.5 text-emerald-300" />
                         </button>
                     )}
-                    <DealBadge
-                        pricePerSqft={project.pricePerSqft || 0}
-                        localityAvg={localityAvgPrice}
-                        className="shadow-sm backdrop-blur-md"
-                    />
-                </div>
-
-                {/* Compare Checkbox */}
-                <button
-                    onClick={(e) => {
-                        e.preventDefault();
-                        e.stopPropagation();
-                        if (isInCompare) {
-                            removeFromCompare(project.id);
-                        } else {
-                            addToCompare(project.id);
-                        }
-                    }}
-                    className={`absolute top-3 right-3 z-20 px-2 py-1.5 rounded-lg text-[10px] font-bold uppercase tracking-wider shadow-sm backdrop-blur-md border transition-all flex items-center gap-1.5 ${isInCompare
-                        ? 'bg-brand-600 text-white border-brand-500 hover:bg-brand-700'
-                        : 'bg-white/90 text-slate-600 border-white/40 hover:bg-white hover:text-brand-600'
+                    <button
+                        onClick={(e) => {
+                            e.preventDefault();
+                            e.stopPropagation();
+                            if (isInCompare) {
+                                removeFromCompare(project.id);
+                            } else {
+                                addToCompare(project.id);
+                            }
+                        }}
+                        className={`px-2.5 py-1 rounded-lg text-[10px] font-bold uppercase tracking-wider shadow-md backdrop-blur-md border transition-all flex items-center gap-1 hover:scale-105 active:scale-95 ${
+                            isInCompare
+                                ? 'bg-brand-600 text-white border-brand-400 shadow-brand-500/30'
+                                : 'bg-slate-950/70 text-white border-white/20 hover:bg-white hover:text-slate-900'
                         }`}
-                >
-                    {isInCompare ? (
-                        <>
-                            <CheckCircle2 className="w-3.5 h-3.5" /> <span>Added</span>
-                        </>
-                    ) : (
-                        <>
-                            <Building2 className="w-3.5 h-3.5" /> <span>Compare</span>
-                        </>
-                    )}
-                </button>
-
-
-                {/* Mobile/Grid Price Overlay */}
-                <div className={`absolute bottom-3 left-3 text-white z-10 ${isGrid ? 'block' : 'md:hidden'}`}>
-                    <p className="text-xl font-extrabold tracking-tight">{project.exactPrice || project.priceRange}</p>
-                    {isGrid && <p className="text-[10px] text-gray-300 uppercase tracking-widest font-bold">Starting Price</p>}
+                        title="Add to compare list"
+                    >
+                        {isInCompare ? (
+                            <>
+                                <CheckCircle2 className="w-3 h-3 text-emerald-300" /> 
+                                <span>Added</span>
+                            </>
+                        ) : (
+                            <>
+                                <Building2 className="w-3 h-3 text-slate-300" /> 
+                                <span>Compare</span>
+                            </>
+                        )}
+                    </button>
                 </div>
+
+                {/* Bottom Image Overlay: Price & Possession (Grid Mode) */}
+                {isGrid && (
+                    <div className="absolute bottom-0 inset-x-0 p-3 pt-6 bg-gradient-to-t from-slate-950/95 via-slate-950/50 to-transparent flex justify-between items-end text-white z-10">
+                        <div>
+                            <span className="text-[10px] uppercase font-bold tracking-widest text-slate-300 block leading-tight">Starting From</span>
+                            <p className="text-lg font-black tracking-tight text-white leading-tight">{formattedPrice}</p>
+                        </div>
+                        {project.possessionDate && (
+                            <span className="text-[10px] font-bold px-2 py-0.5 rounded-md bg-white/20 backdrop-blur-md border border-white/10 text-slate-200">
+                                {project.possessionDate}
+                            </span>
+                        )}
+                    </div>
+                )}
             </div>
 
-            {/* Content Section */}
-            <div className={`flex-1 flex flex-col justify-between relative ${isGrid ? 'p-4' : 'md:p-6 p-4'}`}>
-
+            {/* ================= Content Section ================= */}
+            <div className={`flex-1 flex flex-col justify-between relative ${isGrid ? 'p-4 sm:p-5' : 'p-5 md:p-6'}`}>
                 <div>
-                    <Link to={projectLink} className="block group/title">
-                        <div className="flex justify-between items-start mb-2">
-                            <div className="flex-1 min-w-0 pr-2">
-                                <h3 className={`font-bold text-slate-800 leading-snug group-hover/title:text-sky-600 transition-colors mb-1 truncate ${isGrid ? 'text-lg' : 'text-lg md:text-2xl'}`}>
+                    {/* Header: Title, Location & Desktop Price (List View) */}
+                    <div className="flex justify-between items-start gap-3 mb-2">
+                        <div className="flex-1 min-w-0">
+                            <Link to={projectLink} className="block group/title">
+                                <h3 className={`font-sans font-black text-slate-900 leading-snug group-hover/title:text-sky-600 transition-colors truncate ${
+                                    isGrid ? 'text-base sm:text-lg' : 'text-lg md:text-xl'
+                                }`}>
                                     {project.title}
                                 </h3>
-                                <div className="flex items-center gap-1.5 text-slate-500 text-sm">
-                                    <MapPin className="w-3.5 h-3.5 flex-shrink-0 text-sky-500" />
-                                    <span className="truncate font-sans font-bold text-xs md:text-sm text-slate-600">
-                                        {project.location}{project.city && project.city !== 'Pune' ? ` • ${project.city}` : ''}
-                                    </span>
-                                </div>
+                            </Link>
+                            <div className="flex items-center gap-1.5 text-slate-500 text-xs sm:text-sm mt-0.5">
+                                <MapPin className="w-3.5 h-3.5 flex-shrink-0 text-sky-500" />
+                                <span className="truncate font-sans font-semibold text-slate-600 text-xs sm:text-sm">
+                                    {project.location}
+                                    {project.city && project.city !== 'Pune' && (
+                                        <span className="ml-1.5 inline-flex items-center text-[10px] font-bold px-1.5 py-0.2 rounded bg-sky-100 text-sky-800">
+                                            {project.city}
+                                        </span>
+                                    )}
+                                </span>
                             </div>
-
-                            {/* Desktop Price (List View) */}
-                            {!isGrid && (
-                                <div className="hidden md:block text-right shrink-0">
-                                    <p className="text-2xl font-black text-slate-900">{project.exactPrice || project.priceRange}</p>
-                                    <p className="text-xs text-sky-600 font-bold uppercase tracking-wide">Starting From</p>
-                                </div>
-                            )}
                         </div>
-                    </Link>
 
-                    {/* Configurations / Details */}
-                    <div className="mt-3 md:mt-4 flex flex-wrap gap-2">
-                        {(project.configurations || []).slice(0, isGrid ? 2 : 4).map((conf, i) => (
-                            <span key={i} className="inline-flex items-center gap-1.5 px-2.5 md:px-3 py-1 md:py-1.5 rounded-xl bg-white/70 backdrop-blur-md border border-white/80 text-[10px] md:text-xs font-bold text-slate-700 shadow-2xs group-hover:border-sky-200 group-hover:bg-sky-50/50 transition-all">
+                        {/* Desktop Price Header (List View) */}
+                        {!isGrid && (
+                            <div className="text-right shrink-0">
+                                <span className="text-[10px] text-sky-600 font-extrabold uppercase tracking-wider block">Starting From</span>
+                                <p className="text-xl md:text-2xl font-black text-slate-900 tracking-tight">{formattedPrice}</p>
+                            </div>
+                        )}
+                    </div>
+
+                    {/* Configurations Chips */}
+                    <div className="mt-2.5 flex flex-wrap gap-1.5">
+                        {(project.configurations || []).slice(0, isGrid ? 3 : 5).map((conf, i) => (
+                            <span 
+                                key={i} 
+                                className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-sky-50/80 border border-sky-200/70 text-[10.5px] font-bold text-slate-700 shadow-2xs group-hover:border-sky-300 transition-all"
+                            >
                                 <Home className="w-3 h-3 text-sky-500" /> {conf}
                             </span>
                         ))}
                     </div>
 
-                    {/* Curated Amenities Infographic Pills with Real Icons */}
+                    {/* Curated Amenity Infographics with Vibrant Icons */}
                     {project.features && project.features.length > 0 && (
-                        <div className="mt-2.5 flex flex-wrap gap-1.5">
-                            {project.features.slice(0, 3).map((feat, i) => {
+                        <div className="mt-2 flex flex-wrap gap-1.5">
+                            {project.features.slice(0, isGrid ? 3 : 4).map((feat, i) => {
                                 const f = feat.toLowerCase();
                                 const isPool = f.includes('pool') || f.includes('swim');
                                 const isGym = f.includes('gym') || f.includes('fitness');
                                 const isClub = f.includes('club');
                                 return (
-                                    <span key={i} className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-lg bg-white/60 backdrop-blur-sm text-[10px] font-semibold text-slate-600 border border-slate-200/50 shadow-2xs">
+                                    <span 
+                                        key={i} 
+                                        className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-white/80 backdrop-blur-sm text-[10px] font-semibold text-slate-600 border border-slate-200/70 shadow-2xs"
+                                    >
                                         {isPool ? (
-                                            <Waves className="w-2.5 h-2.5 text-cyan-500 animate-pulse" />
+                                            <Waves className="w-2.5 h-2.5 text-cyan-500 shrink-0" />
                                         ) : isGym ? (
-                                            <Dumbbell className="w-2.5 h-2.5 text-amber-500" />
+                                            <Dumbbell className="w-2.5 h-2.5 text-amber-500 shrink-0" />
                                         ) : isClub ? (
-                                            <Castle className="w-2.5 h-2.5 text-indigo-500" />
+                                            <Castle className="w-2.5 h-2.5 text-indigo-500 shrink-0" />
                                         ) : (
-                                            <Sparkles className="w-2.5 h-2.5 text-emerald-500" />
+                                            <Sparkles className="w-2.5 h-2.5 text-emerald-500 shrink-0" />
                                         )}
-                                        <span className="truncate max-w-[90px]">{feat}</span>
+                                        <span className="truncate max-w-[100px]">{feat}</span>
                                     </span>
                                 );
                             })}
                         </div>
                     )}
 
-                    {/* Infographic RERA & Compliance Strip */}
-                    <div className="mt-2.5 flex items-center justify-between text-[11px] text-slate-600 bg-white/70 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/90 shadow-2xs">
+                    {/* Builder & RERA Compliance Strip (Always clean, never b-godrej) */}
+                    <div className="mt-3 flex items-center justify-between text-xs text-slate-600 bg-white/60 backdrop-blur-sm px-3 py-1.5 rounded-xl border border-slate-200/60 shadow-2xs">
                         <div className="flex items-center gap-1.5 min-w-0 truncate">
-                            <ShieldCheck className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
-                            <span className="font-semibold text-slate-600 truncate">
-                                RERA: <strong className="font-mono text-slate-800">{project.reraId || 'Available on Request'}</strong>
+                            <Building2 className="w-3.5 h-3.5 text-sky-600 shrink-0" />
+                            <span className="font-bold text-slate-800 truncate text-[11px] sm:text-xs">
+                                {builderName}
                             </span>
                         </div>
-                        <button
-                            type="button"
-                            onClick={(e) => {
-                                e.preventDefault();
-                                e.stopPropagation();
-                                setShowQRModal(true);
-                            }}
-                            className="inline-flex items-center gap-1 font-extrabold text-[10px] text-emerald-700 bg-emerald-50 hover:bg-emerald-100 border border-emerald-200/80 px-2 py-0.5 rounded-lg shrink-0 transition-colors shadow-2xs"
-                        >
-                            <QrCode className="w-3 h-3 text-emerald-600" />
-                            <span>Scan QR</span>
-                        </button>
+                        {project.reraId && (
+                            <button
+                                type="button"
+                                onClick={(e) => {
+                                    e.preventDefault();
+                                    e.stopPropagation();
+                                    setShowQRModal(true);
+                                }}
+                                className="inline-flex items-center gap-1 text-[10px] font-mono font-bold text-emerald-700 bg-emerald-50 hover:bg-emerald-100 border border-emerald-200/80 px-2 py-0.5 rounded-md shrink-0 transition-colors shadow-2xs"
+                                title={`MahaRERA: ${project.reraId}`}
+                            >
+                                <ShieldCheck className="w-3 h-3 text-emerald-600" />
+                                <span className="truncate max-w-[85px] sm:max-w-[110px]">{project.reraId}</span>
+                            </button>
+                        )}
                     </div>
 
-                    {!isGrid && (
-                        <div className="mt-4 grid grid-cols-2 gap-4 text-sm text-slate-600 border-t border-slate-100/80 pt-3">
-                            <div className="flex items-center gap-2">
-                                <span className="w-1.5 h-1.5 rounded-full bg-sky-400"></span>
-                                <span className="text-slate-400 text-xs uppercase font-bold">Possession:</span>
-                                <span className="font-semibold text-slate-700 text-xs md:text-sm">{project.possessionDate || 'Soon'}</span>
-                            </div>
-                            <div className="flex items-center gap-2">
-                                <span className="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>
-                                <span className="text-slate-400 text-xs uppercase font-bold">Builder:</span>
-                                <span className="font-semibold text-slate-700 truncate text-xs md:text-sm">
-                                    {project.builderId ? (
-                                        project.builderId.length > 20 ? 'Premium Developer' : project.builderId
-                                    ) : 'Premium Developer'}
+                    {/* Possession Date (List View Extra Metric) */}
+                    {!isGrid && project.possessionDate && (
+                        <div className="mt-2.5 flex items-center gap-2 text-xs text-slate-500">
+                            <Calendar className="w-3.5 h-3.5 text-sky-500 shrink-0" />
+                            <span>Possession by: <strong className="text-slate-700">{project.possessionDate}</strong></span>
+                            {localityAvgPrice > 0 && (
+                                <span className="ml-auto">
+                                    <DealBadge
+                                        pricePerSqft={project.pricePerSqft || 0}
+                                        localityAvg={localityAvgPrice}
+                                    />
                                 </span>
-                            </div>
+                            )}
                         </div>
                     )}
                 </div>
 
-                {/* Actions Footer with Water Buttons */}
-                <div className={`mt-4 md:mt-5 pt-0 flex gap-2 md:gap-3 ${isGrid ? 'flex-col' : 'justify-end items-center'}`}>
+                {/* Actions Footer: Unified 2-Button Grid Layout */}
+                <div className="mt-4 pt-3 border-t border-slate-100/90 grid grid-cols-2 gap-2">
                     <button
                         onClick={(e) => {
                             e.preventDefault();
                             setShowLeadForm(true);
                         }}
-                        className={`water-btn flex-1 px-3 md:px-4 py-2 md:py-2.5 rounded-xl border border-sky-200 bg-sky-50/80 hover:bg-sky-100 text-sky-700 font-bold text-xs md:text-sm transition-all uppercase tracking-wide text-center shadow-2xs ${isGrid ? 'w-full' : 'max-w-[140px]'}`}
+                        className="water-btn px-3 py-2 rounded-xl border border-sky-200/80 bg-sky-50/80 hover:bg-sky-100 text-sky-700 font-bold text-xs uppercase tracking-wider text-center transition-all shadow-2xs hover:shadow-xs active:scale-95"
                     >
                         Contact
                     </button>
                     <Link
                         to={projectLink}
-                        className={`water-btn flex-1 px-3 md:px-4 py-2 md:py-2.5 rounded-xl bg-gradient-to-r from-sky-600 via-blue-600 to-indigo-600 hover:from-sky-500 hover:to-blue-700 text-white font-bold text-xs md:text-sm transition-all uppercase tracking-wide text-center shadow-lg shadow-sky-500/25 ${isGrid ? 'w-full' : 'max-w-[140px]'}`}
+                        className="water-btn px-3 py-2 rounded-xl bg-gradient-to-r from-sky-600 via-blue-600 to-indigo-600 hover:from-sky-500 hover:to-blue-700 text-white font-bold text-xs uppercase tracking-wider text-center transition-all shadow-md shadow-sky-500/20 hover:shadow-lg active:scale-95"
                     >
                         Details
                     </Link>
                 </div>
             </div>
 
+            {/* Direct Builder Lead Modal */}
             <LeadForm
                 isOpen={showLeadForm}
                 onClose={() => setShowLeadForm(false)}
@@ -284,7 +334,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                     }}
                 >
                     <div
-                        className="glass-panel-elevated rounded-3xl p-6 max-w-xs w-full text-center shadow-2xl relative border border-white/90"
+                        className="glass-panel-elevated rounded-3xl p-6 max-w-xs w-full text-center shadow-2xl relative border border-white/90 bg-white"
                         onClick={(e) => e.stopPropagation()}
                     >
                         <button
@@ -301,7 +351,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                         <h4 className="font-black text-slate-900 text-base leading-tight mb-1">{project.title}</h4>
                         <p className="text-[11px] text-slate-500 mb-4">Official MahaRERA Regulatory QR Code</p>
 
-                        <div className="w-48 h-48 mx-auto p-2.5 bg-white/95 rounded-2xl border-2 border-slate-900 shadow-md mb-4 relative">
+                        <div className="w-48 h-48 mx-auto p-2.5 bg-white rounded-2xl border-2 border-slate-900 shadow-md mb-4 relative">
                             <img
                                 src={qrUrl}
                                 alt={`MahaRERA QR for ${project.title}`}
@@ -312,7 +362,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                             />
                         </div>
 
-                        <div className="text-xs font-mono font-black text-slate-800 bg-white/80 py-1.5 rounded-lg border border-slate-200/80 mb-4">
+                        <div className="text-xs font-mono font-black text-slate-800 bg-slate-50 py-1.5 rounded-lg border border-slate-200/80 mb-4">
                             {project.reraId || 'MahaRERA Registered'}
                         </div>
 

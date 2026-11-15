@@ -279,7 +279,7 @@ const ProjectDetails = () => {
 
         const extractNum = (str: string) => {
             if (!str) return 8000000;
-            const clean = str.replace(/[^\d\.]/g, '');
+            const clean = str.replace(/[^\d.]/g, '');
             const num = parseFloat(clean);
             if (isNaN(num)) return 8000000;
             if (str.includes('Cr')) return num * 10000000;

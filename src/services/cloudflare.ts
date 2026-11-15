@@ -134,6 +134,17 @@ export const cloudflare = {
                 const res = await queryObj.execute();
                 return { data: Array.isArray(res.data) ? res.data[0] || null : res.data, error: res.error };
             },
+            then: <TResult1 = { data: any; error: any; count?: number }, TResult2 = never>(
+                onfulfilled?: ((value: { data: any; error: any; count?: number }) => TResult1 | PromiseLike<TResult1>) | null,
+                onrejected?: ((reason: any) => TResult2 | PromiseLike<TResult2>) | null
+            ) => {
+                return queryObj.execute().then(onfulfilled, onrejected);
+            },
+            catch: <TResult = never>(
+                onrejected?: ((reason: any) => TResult | PromiseLike<TResult>) | null
+            ) => {
+                return queryObj.execute().catch(onrejected);
+            },
             execute: async (): Promise<{ data: any; error: any; count?: number }> => {
                 try {
                     let endpoint = `/api/${table}`;

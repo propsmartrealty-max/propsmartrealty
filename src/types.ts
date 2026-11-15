@@ -68,10 +68,11 @@ export interface Project {
     carpetArea: string;
     priceRange?: string;
   }[];
-  status: 'Ready to Move' | 'Under Construction' | 'New Launch';
+  status: 'Ready to Move' | 'Ready To Move' | 'Under Construction' | 'New Launch';
   type: 'Residential' | 'Commercial' | 'Plot'; // New field for categorization
   possessionDate: string;
   image: string;
+  images?: string[];
   imageAlt?: string;
   heroImage?: string;
   heroImageAlt?: string;

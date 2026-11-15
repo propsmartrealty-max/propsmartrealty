@@ -2,12 +2,14 @@ import React from 'react';
 import { ArrowRight, Star, MapPin, Building2, Sparkles } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { Project } from '../../../types';
+import { useData } from '../../../context/DataContext';
 
 interface SpotlightSectionProps {
     projects: Project[];
 }
 
 const SpotlightSection: React.FC<SpotlightSectionProps> = ({ projects }) => {
+    const { builders = [] } = useData();
     if (!projects.length) return null;
 
     // Prioritize flagship township and landmark luxury elevations
@@ -74,7 +76,9 @@ const SpotlightSection: React.FC<SpotlightSectionProps> = ({ projects }) => {
                             <div className="absolute top-4 left-4 right-4 flex items-center justify-between z-10">
                                 <span className="inline-flex items-center gap-1.5 bg-slate-950/70 backdrop-blur-md px-3 py-1 rounded-full border border-white/20 text-xs font-bold text-white shadow-md">
                                     <Building2 className="w-3.5 h-3.5 text-amber-400" />
-                                    <span>{project.builderId?.replace('b-', '').toUpperCase() || 'Direct Builder'}</span>
+                                    <span>
+                                        {builders.find(b => b.id === project.builderId)?.name || project.builderId?.replace(/^b-/, '').replace(/-/g, ' ').toUpperCase() || 'Direct Builder'}
+                                    </span>
                                 </span>
                                 <span className="bg-amber-400/90 text-slate-950 px-2.5 py-0.5 rounded-full font-black text-[11px] shadow-sm backdrop-blur-md">
                                     ★ Spotlight

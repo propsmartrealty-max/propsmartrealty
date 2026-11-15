@@ -21040,7 +21040,7 @@ export const PROJECTS: Project[] = [
       "2 BHK",
       "3 BHK"
     ],
-    "status": "Ready To Move",
+    "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready / Handover",
     "image": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
@@ -21143,7 +21143,7 @@ export const PROJECTS: Project[] = [
       "2 BHK",
       "4 BHK"
     ],
-    "status": "Ready To Move",
+    "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready / 2025",
     "image": "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/desktop/wildernest_desktop_banner.webp",
@@ -21350,7 +21350,7 @@ export const PROJECTS: Project[] = [
       "3 BHK",
       "3.5 BHK"
     ],
-    "status": "Ready To Move",
+    "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready with OC",
     "image": "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/desktop/wildernest_desktop_banner.webp",
@@ -21661,7 +21661,7 @@ export const PROJECTS: Project[] = [
       "1 BHK",
       "2 BHK"
     ],
-    "status": "Ready To Move",
+    "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready & Ongoing",
     "image": "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/desktop/wildernest_desktop_banner.webp",
@@ -21848,7 +21848,7 @@ export const PROJECTS: Project[] = [
     "configurations": [
       "3 BHK"
     ],
-    "status": "Ready To Move",
+    "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready with OC",
     "image": "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/desktop/wildernest_desktop_banner.webp",

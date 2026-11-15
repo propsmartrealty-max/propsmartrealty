@@ -173,7 +173,7 @@ export const getLocalityImageUrl = (localityNameOrSlug?: string | null): string 
 
     if (mappedSlug) {
         const target = LOCALITY_SLUG_MAP[mappedSlug] || mappedSlug;
-        return ;
+        return `/images/localities/${target}.svg`;
     }
 
     return '/images/localities/baner.svg';

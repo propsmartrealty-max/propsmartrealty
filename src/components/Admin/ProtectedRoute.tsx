@@ -21,7 +21,9 @@ const ProtectedRoute = () => {
             setLoading(false);
         });
 
-        return () => subscription.unsubscribe();
+        return () => {
+            subscription.unsubscribe();
+        };
     }, []);
 
     if (loading) {

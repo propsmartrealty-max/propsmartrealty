@@ -48,7 +48,8 @@ export const LocalityCard: React.FC<LocalityCardProps> = ({
                     alt={`${locality.name} real estate locality Pune`}
                     loading="lazy"
                     onError={(e) => {
-                        e.currentTarget.src = getLocalityImageUrl(locality.name);
+                        e.currentTarget.onerror = null;
+                        e.currentTarget.src = '/images/localities/baner.svg';
                     }}
                     className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-110"
                 />
