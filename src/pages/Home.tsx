@@ -28,6 +28,19 @@ const Home = () => {
     const mumbaiProjects = projects.filter(p => p.city === 'Mumbai');
     const secondHomeProjects = projects.filter(p => p.city === 'Lonavala' || p.city === 'Alibaug');
 
+    // Mega Townships & Iconic Masterplanned Enclaves (Life Republic, Belmondo, Blue Waters, etc.)
+    const townshipProjects = projects.filter(p =>
+        p.title.toLowerCase().includes('township') ||
+        p.description.toLowerCase().includes('township') ||
+        p.description.toLowerCase().includes('acre') ||
+        p.slug.includes('belmondo') ||
+        p.slug.includes('life-republic') ||
+        p.slug.includes('blue-waters') ||
+        p.slug.includes('panchshil-towers') ||
+        p.slug.includes('sensorium') ||
+        p.slug.includes('river-royale')
+    );
+
     if (error) {
         return (
             <div className="min-h-screen bg-slate-50 flex flex-col">
@@ -66,6 +79,16 @@ const Home = () => {
 
                 {/* 5. Spotlight / Featured Section */}
                 <SpotlightSection projects={projects} />
+
+                {/* 5b. Integrated Mega Townships & Landmark High-Rises Rail */}
+                {townshipProjects.length > 0 && (
+                    <ProjectRail
+                        title="Integrated Mega Townships & Landmark High-Rises"
+                        subtitle="Self-sustained 40 to 400+ acre township ecosystems with golf courses, premier schools & retail high-streets"
+                        projects={townshipProjects}
+                        bgColor="bg-amber-50/40"
+                    />
+                )}
 
                 {/* 6. VTP Realty Township Flagships Rail */}
                 {vtpProjects.length > 0 && (

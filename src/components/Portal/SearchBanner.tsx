@@ -4,8 +4,8 @@ import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 
 // --- CONFIGURATION ---
-// Change this URL to update the home page background image
-const BANNER_IMAGE = "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2653&auto=format&fit=crop";
+// Top developer landmark township elevation render
+const BANNER_IMAGE = "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg";
 
 const SearchBanner = () => {
     const navigate = useNavigate();

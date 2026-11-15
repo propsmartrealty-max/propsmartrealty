@@ -5,11 +5,72 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { getLocalityImageUrl } from '../../../utils/localityUtils';
 import { cloudflare } from '../../../services/cloudflare';
 
-// Default Fallback Images
-const DEFAULT_IMAGES = [
-    "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2653&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2670&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1628624747186-a941947771b9?q=80&w=2670&auto=format&fit=crop"
+// Top Developer Flagship Building Elevations & Mega Township Projects
+export interface HeroSlide {
+    image: string;
+    developer: string;
+    title: string;
+    location: string;
+    type: string;
+}
+
+export const FLAGSHIP_HERO_SLIDES: HeroSlide[] = [
+    {
+        image: "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg",
+        developer: "Lodha",
+        title: "Lodha Belmondo",
+        location: "Pune Expressway, Gahunje",
+        type: "100+ Acre Luxury Golf Township"
+    },
+    {
+        image: "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+        developer: "Kolte-Patil",
+        title: "Life Republic",
+        location: "Hinjewadi IT Corridor",
+        type: "400+ Acre Mega Smart Township"
+    },
+    {
+        image: "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+        developer: "Panchshil",
+        title: "Panchshil Towers",
+        location: "Kharadi Cyber City",
+        type: "35-Storey Iconic Glass Towers"
+    },
+    {
+        image: "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+        developer: "VTP Realty",
+        title: "VTP Blue Waters",
+        location: "Mahalunge-Hinjewadi",
+        type: "100+ Acre Riverfront Mega Township"
+    },
+    {
+        image: "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+        developer: "Godrej Properties",
+        title: "Godrej River Royale",
+        location: "Baner-Mahalunge",
+        type: "Ultra-Modern Riverfront High-Rises"
+    },
+    {
+        image: "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+        developer: "Lodha",
+        title: "Lodha Panache",
+        location: "Hinjewadi Phase 1",
+        type: "Luxury Vertical Living Enclave"
+    },
+    {
+        image: "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+        developer: "Kasturi Housing",
+        title: "The Balmoral Towers",
+        location: "Balewadi High Street",
+        type: "Elite High-Rise Skyline Elevation"
+    },
+    {
+        image: "https://keystoneliv.com/public/uploads/property/leqFS0kMhJDAQ6ZdwEOxnajHj4VcaKZHhxS1hVk1.webp",
+        developer: "Shapoorji Pallonji",
+        title: "Joyville Sensorium",
+        location: "Hinjewadi Phase 1",
+        type: "10.5-Acre Biophilic Living Township"
+    }
 ];
 
 const TABS = [
@@ -28,7 +89,7 @@ const HERO_CITIES = [
 
 const HeroSearch = () => {
     const navigate = useNavigate();
-    const [heroImages, setHeroImages] = useState<string[]>(DEFAULT_IMAGES);
+    const [slides, setSlides] = useState<HeroSlide[]>(FLAGSHIP_HERO_SLIDES);
     const [currentImage, setCurrentImage] = useState(0);
     const [activeTab, setActiveTab] = useState('buy');
     const [selectedCity, setSelectedCity] = useState('Pune');
@@ -36,50 +97,24 @@ const HeroSearch = () => {
     const [searchQuery, setSearchQuery] = useState('');
     const [showSuggestions, setShowSuggestions] = useState(false);
 
-    // Fetch Banners from Supabase with safe fallback
+    // Preload flagship developer elevation images
     useEffect(() => {
-        const fetchBackgrounds = async () => {
-            try {
-                const { data, error } = await cloudflare
-                    .from('banners')
-                    .select('image_url')
-                    .eq('is_active', true)
-                    .order('sortorder');
-
-                if (!error && data && data.length > 0) {
-                    const checkImage = (url: string) => new Promise<boolean>((resolve) => {
-                        const img = new Image();
-                        img.onload = () => resolve(true);
-                        img.onerror = () => resolve(false);
-                        img.src = url;
-                    });
-
-                    const results = await Promise.all(data.map(async (b) => {
-                        const isValid = await checkImage(b.image_url);
-                        return isValid ? b.image_url : null;
-                    }));
-
-                    const filtered = results.filter(url => url !== null) as string[];
-                    if (filtered.length > 0) {
-                        setHeroImages(filtered);
-                    }
-                }
-            } catch (err) {
-                // Keep default high-res hero images
-                console.warn('Hero banners fallback:', err);
-            }
-        };
-        fetchBackgrounds();
+        FLAGSHIP_HERO_SLIDES.forEach(slide => {
+            const img = new Image();
+            img.src = slide.image;
+        });
     }, []);
 
-    // Auto-rotate background
+    // Auto-rotate background every 6 seconds
     useEffect(() => {
-        if (heroImages.length <= 1) return;
+        if (slides.length <= 1) return;
         const interval = setInterval(() => {
-            setCurrentImage((prev) => (prev + 1) % heroImages.length);
+            setCurrentImage((prev) => (prev + 1) % slides.length);
         }, 6000);
         return () => clearInterval(interval);
-    }, [heroImages.length]);
+    }, [slides.length]);
+
+    const currentSlide = slides[currentImage] || FLAGSHIP_HERO_SLIDES[0];
 
     const handleSearch = (e: React.FormEvent) => {
         e.preventDefault();
@@ -91,25 +126,56 @@ const HeroSearch = () => {
     };
 
     return (
-        <div className="relative min-h-[700px] lg:min-h-[740px] py-16 w-full flex flex-col items-center justify-center text-white bg-brand-950">
+        <div className="relative min-h-[720px] lg:min-h-[760px] py-16 w-full flex flex-col items-center justify-center text-white bg-brand-950 overflow-hidden">
 
-            {/* Background Slider with Parallax-like feel (isolated overflow) */}
+            {/* Background Slider with Parallax-like feel & Real Developer Elevation Showcase */}
             <div className="absolute inset-0 overflow-hidden pointer-events-none">
                 <AnimatePresence mode='wait'>
                     <motion.div
-                        key={currentImage}
-                        initial={{ opacity: 0, scale: 1.1 }}
+                        key={currentSlide.image}
+                        initial={{ opacity: 0, scale: 1.08 }}
                         animate={{ opacity: 1, scale: 1 }}
                         exit={{ opacity: 0 }}
-                        transition={{ duration: 2, ease: "easeOut" }}
+                        transition={{ duration: 1.6, ease: "easeOut" }}
                         className="absolute inset-0 bg-cover bg-center"
-                        style={{ backgroundImage: `url(${heroImages[currentImage]})` }}
+                        style={{ backgroundImage: `url(${currentSlide.image})` }}
                     />
                 </AnimatePresence>
 
-                {/* Gradient Overlay for Text Readability */}
-                <div className="absolute inset-0 bg-gradient-to-t from-brand-950/90 via-brand-900/60 to-transparent" />
-                <div className="absolute inset-0 bg-black/20" /> {/* Dimmer */}
+                {/* Subtle Ambient Vignette & Gradient for High-Contrast Text Legibility */}
+                <div className="absolute inset-0 bg-gradient-to-t from-slate-950/95 via-slate-950/55 to-slate-950/40" />
+                <div className="absolute inset-0 bg-black/25" />
+            </div>
+
+            {/* Floating Top Developer Landmark Elevation Badge */}
+            <div className="hidden lg:flex absolute bottom-6 right-8 z-20 items-center gap-3 bg-slate-950/85 backdrop-blur-md border border-white/20 px-4 py-2.5 rounded-2xl shadow-2xl text-xs pointer-events-auto">
+                <div className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse shrink-0" />
+                <div className="text-left">
+                    <div className="flex items-center gap-2">
+                        <span className="font-sans font-black text-amber-300 text-xs uppercase tracking-wider">{currentSlide.developer}</span>
+                        <span className="text-white/40">•</span>
+                        <span className="font-sans font-extrabold text-white text-xs">{currentSlide.title}</span>
+                    </div>
+                    <p className="text-[11px] text-slate-300 font-medium font-sans">
+                        {currentSlide.type} — <span className="text-amber-200/90">{currentSlide.location}</span>
+                    </p>
+                </div>
+            </div>
+
+            {/* Slide Navigation Indicator Dots */}
+            <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-2 z-20 pointer-events-auto">
+                {slides.map((slide, idx) => (
+                    <button
+                        key={idx}
+                        onClick={() => setCurrentImage(idx)}
+                        className={`transition-all duration-300 rounded-full ${
+                            idx === currentImage
+                                ? 'w-8 h-2 bg-gradient-to-r from-amber-400 to-brand-400 shadow-md shadow-amber-500/30'
+                                : 'w-2 h-2 bg-white/40 hover:bg-white/80'
+                        }`}
+                        title={`${slide.developer} - ${slide.title}`}
+                    />
+                ))}
             </div>
 
             {/* Content */}

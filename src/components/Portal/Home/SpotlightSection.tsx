@@ -1,6 +1,5 @@
 import React from 'react';
-import { motion } from 'framer-motion';
-import { ArrowRight, Star, MapPin } from 'lucide-react';
+import { ArrowRight, Star, MapPin, Building2, Sparkles } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { Project } from '../../../types';
 
@@ -11,51 +10,93 @@ interface SpotlightSectionProps {
 const SpotlightSection: React.FC<SpotlightSectionProps> = ({ projects }) => {
     if (!projects.length) return null;
 
-    // Pick top 3 premium projects (or fallback to top projects)
-    const matchingCr = projects.filter(p => p.priceRange.includes('Cr'));
-    const spotlightProjects = (matchingCr.length >= 3 ? matchingCr : projects).slice(0, 3);
+    // Prioritize flagship township and landmark luxury elevations
+    const prioritySlugs = [
+        'lodha-belmondo',
+        'kolte-patil-life-republic',
+        'panchshil-towers',
+        'vtp-bellissimo',
+        'godrej-river-royale',
+        'lodha-panache'
+    ];
+
+    const prioritized = prioritySlugs
+        .map(slug => projects.find(p => p.slug === slug || p.slug.includes(slug)))
+        .filter((p): p is Project => p !== undefined);
+
+    const remaining = projects.filter(p => !prioritized.some(pr => pr.id === p.id));
+    const spotlightProjects = [...prioritized, ...remaining].slice(0, 3);
 
     return (
-        <section className="py-12 bg-white">
-            <div className="max-w-7xl mx-auto px-4">
-                <div className="flex justify-between items-end mb-8">
+        <section className="py-16 bg-white relative">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-10 gap-4">
                     <div>
-                        <div className="flex items-center gap-2 mb-2">
-                            <Star className="w-5 h-5 text-accent-500 fill-accent-500" />
-                            <h6 className="text-xs font-bold tracking-widest text-slate-500 uppercase">In Spotlight</h6>
+                        <div className="inline-flex items-center gap-2 mb-2 px-3 py-1 bg-amber-50 rounded-full border border-amber-200">
+                            <Sparkles className="w-4 h-4 text-amber-500 fill-amber-400" />
+                            <span className="text-xs font-black tracking-widest text-amber-800 uppercase">Township & High-Rise Spotlight</span>
                         </div>
-                        <h2 className="text-3xl font-bold text-slate-900">Featured Collections</h2>
+                        <h2 className="text-3xl sm:text-4xl font-black text-slate-900 tracking-tight">
+                            Iconic Landmark Elevations
+                        </h2>
+                        <p className="text-sm sm:text-base text-slate-500 font-medium mt-1">
+                            Experience Pune's most celebrated architectural elevations and master-planned mega townships.
+                        </p>
                     </div>
+                    <Link
+                        to="/search?type=projects"
+                        className="inline-flex items-center gap-2 text-sm font-bold text-brand-600 hover:text-brand-700 bg-brand-50 hover:bg-brand-100 px-5 py-2.5 rounded-full transition-all border border-brand-200 shrink-0"
+                    >
+                        <span>Explore All Flagships</span>
+                        <ArrowRight className="w-4 h-4" />
+                    </Link>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                    {spotlightProjects.map((project, index) => (
-                        <Link to={`/project/${project.slug}`} key={project.id} className="group relative rounded-2xl overflow-hidden aspect-[4/5] shadow-lg cursor-pointer">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-7">
+                    {spotlightProjects.map((project) => (
+                        <Link
+                            to={`/project/${project.slug}`}
+                            key={project.id}
+                            className="group relative rounded-3xl overflow-hidden aspect-[4/5] shadow-xl hover:shadow-2xl transition-all duration-500 hover:-translate-y-2 border border-slate-200/80 bg-slate-900"
+                        >
                             <img
                                 src={project.image}
                                 alt={project.title}
-                                className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+                                className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
                                 onError={(e) => {
                                     e.currentTarget.src = '/images/placeholder-property.svg';
                                 }}
                             />
-                            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-80 group-hover:opacity-90 transition-opacity" />
+                            {/* Deep Contrast Ambient Vignette */}
+                            <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-transparent opacity-90 group-hover:opacity-85 transition-opacity" />
 
-                            <div className="absolute top-4 left-4 bg-white/20 backdrop-blur-md px-3 py-1 rounded-full border border-white/20">
-                                <span className="text-xs font-bold text-white">Featured</span>
+                            {/* Top Badges */}
+                            <div className="absolute top-4 left-4 right-4 flex items-center justify-between z-10">
+                                <span className="inline-flex items-center gap-1.5 bg-slate-950/70 backdrop-blur-md px-3 py-1 rounded-full border border-white/20 text-xs font-bold text-white shadow-md">
+                                    <Building2 className="w-3.5 h-3.5 text-amber-400" />
+                                    <span>{project.builderId?.replace('b-', '').toUpperCase() || 'Direct Builder'}</span>
+                                </span>
+                                <span className="bg-amber-400/90 text-slate-950 px-2.5 py-0.5 rounded-full font-black text-[11px] shadow-sm backdrop-blur-md">
+                                    ★ Spotlight
+                                </span>
                             </div>
 
-                            <div className="absolute bottom-0 left-0 p-6 w-full text-white transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300">
-                                <h3 className="text-2xl font-bold mb-1">{project.title}</h3>
-                                <p className="font-sans font-bold text-sm text-amber-300 mb-3 flex items-center gap-1.5">
-                                    <MapPin className="w-3.5 h-3.5 text-amber-400" />
-                                    <span>{project.location}, Pune</span>
+                            {/* Bottom Content Area */}
+                            <div className="absolute bottom-0 left-0 p-6 w-full text-white z-10">
+                                <h3 className="text-2xl font-black mb-1.5 drop-shadow-md group-hover:text-amber-300 transition-colors line-clamp-1">
+                                    {project.title}
+                                </h3>
+                                <p className="font-sans font-bold text-sm text-slate-300 mb-3 flex items-center gap-1.5">
+                                    <MapPin className="w-3.5 h-3.5 text-amber-400 shrink-0" />
+                                    <span>{project.location}, {project.city || 'Pune'}</span>
                                 </p>
-                                <div className="flex items-center gap-2">
-                                    <span className="font-bold text-lg text-accent-400">{project.priceRange}</span>
-                                    <div className="flex-1" />
-                                    <div className="w-8 h-8 rounded-full bg-white text-black flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
-                                        <ArrowRight className="w-4 h-4" />
+                                <div className="flex items-center justify-between pt-2 border-t border-white/15">
+                                    <div>
+                                        <div className="text-[10px] font-bold uppercase tracking-wider text-slate-400">Starting Direct Price</div>
+                                        <div className="font-black text-xl text-amber-400">{project.priceRange}</div>
+                                    </div>
+                                    <div className="w-10 h-10 rounded-full bg-white text-slate-950 flex items-center justify-center shadow-lg transform group-hover:scale-110 group-hover:bg-amber-400 transition-all">
+                                        <ArrowRight className="w-5 h-5" />
                                     </div>
                                 </div>
                             </div>
