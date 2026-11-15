@@ -8,8 +8,8 @@ import RERABadge, { PROPSMART_RERA } from './RERABadge';
 import PropsmartLogo from './PropsmartLogo';
 
 const NAV_CITIES = [
-    { id: 'Pune', label: 'Pune', count: '189' },
-    { id: 'Mumbai', label: 'Mumbai', count: '11' },
+    { id: 'Pune', label: 'Pune', count: '576' },
+    { id: 'Mumbai', label: 'Mumbai', count: '23' },
     { id: 'Lonavala', label: 'Lonavala', count: '4' },
     { id: 'Alibaug', label: 'Alibaug', count: '2' },
 ];

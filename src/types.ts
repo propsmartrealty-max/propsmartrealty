@@ -88,6 +88,7 @@ export interface Project {
   metaDescription?: string; // Optimized meta description for CTR
   description: string;
   features: string[];
+  featured?: boolean;
   highlights?: string[]; // Key selling points like "3-Side Open", "Vastu Compliant"
   specs: {
     label: string;
