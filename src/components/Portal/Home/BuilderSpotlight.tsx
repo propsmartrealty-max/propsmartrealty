@@ -72,8 +72,13 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
                                 {/* Spacious High-Contrast Logo Showcase Container (Full Color, Big Size, No Grayscale) */}
                                 <div className="w-full h-24 sm:h-28 bg-white rounded-xl flex items-center justify-center p-3 shadow-md group-hover:shadow-xl transition-all duration-300 relative overflow-hidden border border-slate-100 group-hover:scale-102">
                                     {showFallback ? (
-                                        <div className="w-full h-full bg-slate-100 rounded-lg flex items-center justify-center">
-                                            <span className="text-xl font-extrabold text-slate-500 font-sans">{getInitials(builder.name)}</span>
+                                        <div className="w-full h-full bg-gradient-to-br from-slate-50 to-slate-100 rounded-lg flex flex-col items-center justify-center p-2 border border-slate-200/60 text-center">
+                                            <span className="text-xs sm:text-sm font-black text-slate-900 tracking-tight leading-tight line-clamp-2">
+                                                {builder.name}
+                                            </span>
+                                            <span className="text-[9px] font-bold uppercase tracking-wider text-amber-600 mt-1">
+                                                Developer Partner
+                                            </span>
                                         </div>
                                     ) : (
                                         <img
@@ -85,12 +90,12 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
                                     )}
                                 </div>
 
-                                {/* Builder Title & Project Metrics */}
-                                <div className="text-center mt-3 pt-2 border-t border-white/5">
-                                    <h4 className="font-sans font-extrabold text-sm md:text-base text-white group-hover:text-amber-300 transition-colors line-clamp-1 mb-1">
+                                {/* Builder Title & Project Metrics - Uniform 2-line height alignment */}
+                                <div className="text-center mt-3 pt-2 border-t border-white/5 flex flex-col justify-between">
+                                    <h4 className="font-sans font-extrabold text-xs sm:text-sm text-white group-hover:text-amber-300 transition-colors line-clamp-2 min-h-[2.5rem] flex items-center justify-center mb-1 leading-snug">
                                         {builder.name}
                                     </h4>
-                                    <p className="font-sans font-bold text-xs text-slate-400">
+                                    <p className="font-sans font-bold text-[11px] sm:text-xs text-slate-400">
                                         {builder.totalProjects || 20}+ Projects
                                     </p>
                                 </div>

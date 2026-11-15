@@ -27,7 +27,7 @@ interface PropertyCardProps {
     variant?: 'grid' | 'list';
 }
 
-const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }) => {
+const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }) => {
     const { localities = [], builders = [], compareList = [], addToCompare, removeFromCompare } = useData();
     const [imgSrc, setImgSrc] = useState(() => project?.image ? getOptimizedImageUrl(project.image, 600) : '/images/placeholder-property.svg');
     const [showLeadForm, setShowLeadForm] = useState(false);
@@ -183,8 +183,8 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                     <div className="flex justify-between items-start gap-3 mb-2">
                         <div className="flex-1 min-w-0">
                             <Link to={projectLink} className="block group/title">
-                                <h3 className={`font-sans font-black text-slate-900 leading-snug group-hover/title:text-sky-600 transition-colors truncate ${
-                                    isGrid ? 'text-base sm:text-lg' : 'text-lg md:text-xl'
+                                <h3 className={`font-sans font-black text-slate-900 leading-snug group-hover/title:text-sky-600 transition-colors ${
+                                    isGrid ? 'text-base sm:text-lg line-clamp-1' : 'text-lg md:text-xl line-clamp-2'
                                 }`}>
                                     {project.title}
                                 </h3>
@@ -204,7 +204,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
 
                         {/* Desktop Price Header (List View) */}
                         {!isGrid && (
-                            <div className="text-right shrink-0">
+                            <div className="text-right shrink-0 whitespace-nowrap pl-2">
                                 <span className="text-[10px] text-sky-600 font-extrabold uppercase tracking-wider block">Starting From</span>
                                 <p className="text-xl md:text-2xl font-black text-slate-900 tracking-tight">{formattedPrice}</p>
                             </div>
@@ -279,11 +279,13 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
 
                     {/* Possession Date (List View Extra Metric) */}
                     {!isGrid && project.possessionDate && (
-                        <div className="mt-2.5 flex items-center gap-2 text-xs text-slate-500">
-                            <Calendar className="w-3.5 h-3.5 text-sky-500 shrink-0" />
-                            <span>Possession by: <strong className="text-slate-700">{project.possessionDate}</strong></span>
+                        <div className="mt-2.5 flex items-center gap-2 text-xs text-slate-500 flex-wrap">
+                            <span className="flex items-center gap-1.5 shrink-0">
+                                <Calendar className="w-3.5 h-3.5 text-sky-500 shrink-0" />
+                                <span>Possession by: <strong className="text-slate-700">{project.possessionDate}</strong></span>
+                            </span>
                             {localityAvgPrice > 0 && (
-                                <span className="ml-auto">
+                                <span className="ml-auto shrink-0">
                                     <DealBadge
                                         pricePerSqft={project.pricePerSqft || 0}
                                         localityAvg={localityAvgPrice}

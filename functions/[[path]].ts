@@ -14,6 +14,13 @@ export async function onRequest(context: { request: Request; env: { ASSETS: { fe
         return assetResponse;
     }
 
+    // Do NOT serve index.html for missing static files (.svg, .png, .jpg, .webp, .css, .js, .ico, .xml)
+    // This prevents <img> tags from receiving HTML and breaking image fallbacks
+    const isStaticAsset = /\.[a-zA-Z0-9]+$/.test(url.pathname);
+    if (isStaticAsset) {
+        return assetResponse;
+    }
+
     // Path did not match a static file: serve index.html with HTTP 200 OK for SPA client routing
     const indexUrl = new URL('/index.html', request.url);
     const indexResponse = await env.ASSETS.fetch(new Request(indexUrl.toString(), request));

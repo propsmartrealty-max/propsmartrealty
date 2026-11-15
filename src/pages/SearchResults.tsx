@@ -429,7 +429,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
                                     <div className="grid grid-cols-1 gap-6">
                                         {projects.map(project => (
                                             <div key={project.id} className="h-full">
-                                                <PropertyCard project={project} />
+                                                <PropertyCard project={project} variant="list" />
                                             </div>
                                         ))}
                                     </div>
