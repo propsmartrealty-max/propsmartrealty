@@ -2,6 +2,7 @@ name = "propsmartrealty"
 compatibility_date = "2024-11-01"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = "dist"
+account_id = "fbb39d51325df0f234958e2ec8e9c989"
 # Cloudflare Pages Build Pipeline Configuration
 
 # Production D1 Database
