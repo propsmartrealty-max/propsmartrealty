@@ -41,17 +41,21 @@ function cloudflareDevApiPlugin(): Plugin {
         // 2. Projects List Endpoint
         if (pathname === '/api/projects' && req.method === 'GET') {
           const page = Math.max(1, parseInt(url.searchParams.get('page') || '1'));
-          const limit = Math.min(50, Math.max(1, parseInt(url.searchParams.get('limit') || '10')));
+          const limit = Math.min(100, Math.max(1, parseInt(url.searchParams.get('limit') || '10')));
           const location = url.searchParams.get('location')?.toLowerCase().trim();
+          const q = (url.searchParams.get('q') || url.searchParams.get('query'))?.toLowerCase().trim();
           const type = url.searchParams.get('type')?.toLowerCase().trim();
           const status = url.searchParams.get('status')?.toLowerCase().trim();
 
           let filtered = [...PROJECTS];
-          if (location) {
+          const searchKeyword = q || location;
+          if (searchKeyword) {
             filtered = filtered.filter(p =>
-              p.location.toLowerCase().includes(location) ||
-              p.title.toLowerCase().includes(location) ||
-              p.slug.toLowerCase().includes(location)
+              p.location.toLowerCase().includes(searchKeyword) ||
+              p.title.toLowerCase().includes(searchKeyword) ||
+              p.slug.toLowerCase().includes(searchKeyword) ||
+              p.builderId?.toLowerCase().includes(searchKeyword) ||
+              (p.description && p.description.toLowerCase().includes(searchKeyword))
             );
           }
           if (type && type !== 'all') {
@@ -77,8 +81,15 @@ function cloudflareDevApiPlugin(): Plugin {
 
         // 3. Single Project Details Endpoint
         if (pathname.startsWith('/api/projects/') && req.method === 'GET') {
-          const idOrSlug = pathname.replace('/api/projects/', '');
-          const project = PROJECTS.find(p => p.id === idOrSlug || p.slug === idOrSlug);
+          const rawId = decodeURIComponent(pathname.replace('/api/projects/', ''));
+          const idOrSlug = rawId.toLowerCase().trim();
+          const project = PROJECTS.find(p => 
+            p.id === rawId || 
+            p.slug === idOrSlug ||
+            p.slug.toLowerCase() === idOrSlug ||
+            (idOrSlug && p.slug.startsWith(idOrSlug)) ||
+            (idOrSlug && idOrSlug.startsWith(p.slug.split('-').slice(0, 3).join('-')))
+          );
           if (project) {
             res.end(JSON.stringify(project));
           } else {

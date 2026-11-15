@@ -3,13 +3,22 @@ import { Env, jsonResponse, verifyAdminToken } from '../_middleware';
 
 export const onRequestGet: PagesFunction<Env> = async (context) => {
     try {
-        const id = context.params.id as string;
+        const rawId = context.params.id as string;
+        const id = decodeURIComponent(rawId).toLowerCase().trim();
 
         // Query project by ID or slug
-        const project = await context.env.DB
+        let project = await context.env.DB
             .prepare('SELECT * FROM projects WHERE id = ? OR slug = ? LIMIT 1')
-            .bind(id, id)
+            .bind(rawId, id)
             .first<any>();
+
+        if (!project) {
+            // Fallback prefix match (e.g. partial slug matching)
+            project = await context.env.DB
+                .prepare('SELECT * FROM projects WHERE slug LIKE ? LIMIT 1')
+                .bind(`${id}%`)
+                .first<any>();
+        }
 
         if (!project) {
             return jsonResponse({ error: 'Project not found' }, 404);

@@ -9,7 +9,7 @@ const NotFound = () => {
         <div className="min-h-screen bg-slate-50 font-sans flex flex-col">
             <PortalNavbar variant="colored" />
 
-            <div className="flex-1 flex items-center justify-center p-4">
+            <div className="flex-1 flex items-center justify-center p-4 pt-28 pb-12">
                 <div className="max-w-lg w-full text-center">
                     <div className="mb-8 relative inline-block">
                         <span className="text-9xl font-bold text-gray-200 select-none">404</span>

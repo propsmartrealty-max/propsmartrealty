@@ -64,10 +64,10 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
         localStorage.removeItem('propsmart_compare');
     };
 
-    // Fetch initial data
+    // Fetch initial data (load full inventory so all project cards, detail routes, and rails resolve instantly)
     const projectsQuery = useQuery({
-        queryKey: ['projects', 'initial'],
-        queryFn: () => api.projects.list(1, {}),
+        queryKey: ['projects', 'all'],
+        queryFn: () => api.projects.all(),
     });
 
     const buildersQuery = useQuery({
@@ -176,8 +176,8 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
     });
 
     const contextValue = React.useMemo(() => {
-        const rawProjects = projectsQuery.data?.data;
-        const resolvedProjects = (rawProjects && rawProjects.length > 0) ? rawProjects : PROJECTS;
+        const rawProjects = projectsQuery.data;
+        const resolvedProjects = (rawProjects && Array.isArray(rawProjects) && rawProjects.length > 0) ? rawProjects : PROJECTS;
         const rawBuilders = buildersQuery.data;
         const resolvedBuilders = (rawBuilders && rawBuilders.length > 0) ? rawBuilders : BUILDERS;
         const rawLocalities = localitiesQuery.data;

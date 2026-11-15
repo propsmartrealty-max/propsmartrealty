@@ -5,10 +5,11 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     try {
         const url = new URL(context.request.url);
         const page = Math.max(1, parseInt(url.searchParams.get('page') || '1'));
-        const limit = Math.min(50, Math.max(1, parseInt(url.searchParams.get('limit') || '10')));
+        const limit = Math.min(100, Math.max(1, parseInt(url.searchParams.get('limit') || '10')));
         const offset = (page - 1) * limit;
 
         const location = url.searchParams.get('location');
+        const q = url.searchParams.get('q') || url.searchParams.get('query');
         const type = url.searchParams.get('type');
         const status = url.searchParams.get('status');
         const config = url.searchParams.get('config');
@@ -18,12 +19,13 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         const params: any[] = [];
         const countParams: any[] = [];
 
-        if (location && location.trim()) {
-            sql += ' AND (location LIKE ? OR title LIKE ? OR slug LIKE ?)';
-            countSql += ' AND (location LIKE ? OR title LIKE ? OR slug LIKE ?)';
-            const wildcard = `%${location.trim()}%`;
-            params.push(wildcard, wildcard, wildcard);
-            countParams.push(wildcard, wildcard, wildcard);
+        const searchKeyword = q || location;
+        if (searchKeyword && searchKeyword.trim()) {
+            sql += ' AND (location LIKE ? OR title LIKE ? OR slug LIKE ? OR builder_id LIKE ?)';
+            countSql += ' AND (location LIKE ? OR title LIKE ? OR slug LIKE ? OR builder_id LIKE ?)';
+            const wildcard = `%${searchKeyword.trim()}%`;
+            params.push(wildcard, wildcard, wildcard, wildcard);
+            countParams.push(wildcard, wildcard, wildcard, wildcard);
         }
 
         if (type && type.trim() && type !== 'all') {

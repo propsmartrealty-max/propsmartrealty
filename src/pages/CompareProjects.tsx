@@ -28,7 +28,7 @@ const CompareProjects = () => {
         return (
             <div className="min-h-screen bg-slate-50 flex flex-col">
                 <Navbar variant="colored" />
-                <div className="flex-1 flex flex-col items-center justify-center p-6 text-center">
+                <div className="flex-1 flex flex-col items-center justify-center p-6 pt-28 pb-12 text-center">
                     <div className="w-20 h-20 bg-slate-100 rounded-full flex items-center justify-center mb-4 text-slate-300">
                         <Building2 className="w-10 h-10" />
                     </div>

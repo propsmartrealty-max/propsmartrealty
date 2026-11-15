@@ -1,7 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
+import { useQuery } from '@tanstack/react-query';
 import { useData } from '../context/DataContext';
 import { Project, Builder, Locality } from '../types';
+import { api } from '../services/api';
+import { PROJECTS } from '../data/mockData';
 import PortalNavbar from '../components/Portal/Navbar';
 import Breadcrumbs from '../components/Portal/Breadcrumbs';
 import TrustScore from '../components/Portal/TrustScore';
@@ -75,6 +78,34 @@ const ProjectDetails = () => {
     const { slug } = useParams<{ slug: string }>();
     const { projects, builders, localities, isLoading, error, refreshData } = useData();
 
+    // Query single project by slug from API if not yet loaded in context
+    const { data: fetchedProject, isLoading: isProjectLoading } = useQuery({
+        queryKey: ['project', slug],
+        queryFn: () => (slug ? api.projects.getById(slug) : Promise.resolve(null)),
+        enabled: !!slug,
+        staleTime: 1000 * 60 * 5,
+    });
+
+    const normalizedSlug = (slug || '').toLowerCase().trim();
+
+    // Resolution priority:
+    // 1. Fetched from API / Cloudflare D1
+    // 2. Found in DataContext (all projects)
+    // 3. Fallback from local static PROJECTS dataset
+    const project = fetchedProject || projects.find(p => 
+        p.slug === slug || 
+        p.slug.toLowerCase() === normalizedSlug ||
+        (normalizedSlug && p.slug.toLowerCase().startsWith(normalizedSlug)) || 
+        (normalizedSlug && p.id.toLowerCase() === normalizedSlug) ||
+        (normalizedSlug && normalizedSlug.startsWith(p.slug.split('-').slice(0, 3).join('-')))
+    ) || PROJECTS.find(p =>
+        p.slug === slug || 
+        p.slug.toLowerCase() === normalizedSlug ||
+        (normalizedSlug && p.slug.toLowerCase().startsWith(normalizedSlug)) || 
+        (normalizedSlug && p.id.toLowerCase() === normalizedSlug) ||
+        (normalizedSlug && normalizedSlug.startsWith(p.slug.split('-').slice(0, 3).join('-')))
+    );
+
     // --- HOOKS MUST BE AT TOP LEVEL (Before any returns) ---
     const [activeSection, setActiveSection] = useState('overview');
 
@@ -92,12 +123,6 @@ const ProjectDetails = () => {
         setShowLeadForm(true);
     };
 
-    const project = projects.find(p => 
-        p.slug === slug || 
-        (slug && p.slug.startsWith(slug)) || 
-        (slug && p.id === slug) ||
-        (slug && slug.startsWith(p.slug.split('-').slice(0, 3).join('-')))
-    );
     const locality = localities.find(l => l.name === project?.location);
     const localityAvgPrice = locality?.avgPriceSqft || 0;
 
@@ -132,21 +157,25 @@ const ProjectDetails = () => {
         return () => observer.disconnect();
     }, [project]);
 
-    if (isLoading) {
+    const isDataLoading = (isLoading || isProjectLoading) && !project;
+
+    if (isDataLoading) {
         return (
             <div className="min-h-screen bg-slate-50 font-sans">
                 <PortalNavbar variant="colored" />
-                <DetailSkeleton />
+                <div className="pt-24 sm:pt-28">
+                    <DetailSkeleton />
+                </div>
                 <Footer />
             </div>
         );
     }
 
-    if (error) {
+    if (error && !project) {
         return (
             <div className="min-h-screen bg-slate-50 font-sans flex flex-col">
                 <PortalNavbar variant="colored" />
-                <div className="flex-1 flex items-center justify-center p-4">
+                <div className="flex-1 flex items-center justify-center p-4 pt-28">
                     <ErrorState message={error.message} onRetry={refreshData} />
                 </div>
                 <Footer />
@@ -158,10 +187,23 @@ const ProjectDetails = () => {
         return (
             <div className="min-h-screen flex flex-col bg-slate-50">
                 <PortalNavbar variant="colored" />
-                <div className="flex-1 flex items-center justify-center">
-                    <div className="text-center">
-                        <h2 className="text-2xl font-bold mb-2">Project Not Found</h2>
-                        <Link to="/" className="text-blue-600 hover:underline">Return Home</Link>
+                <div className="flex-1 flex items-center justify-center pt-28 pb-12 px-4">
+                    <div className="text-center max-w-md mx-auto bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
+                        <div className="w-16 h-16 bg-amber-50 rounded-full flex items-center justify-center mx-auto mb-4 text-amber-500">
+                            <Building2 className="w-8 h-8" />
+                        </div>
+                        <h2 className="text-2xl font-bold mb-2 text-slate-800">Project Not Found</h2>
+                        <p className="text-slate-600 mb-6 text-sm">
+                            The project you are looking for doesn't exist or may have been renamed. Explore verified direct builder projects in Pune with 100% zero brokerage.
+                        </p>
+                        <div className="flex flex-col sm:flex-row gap-3 justify-center">
+                            <Link to="/search" className="bg-brand-600 text-white px-5 py-2.5 rounded-xl font-bold hover:bg-brand-700 transition text-sm">
+                                Explore All Projects
+                            </Link>
+                            <Link to="/" className="bg-slate-100 text-slate-700 px-5 py-2.5 rounded-xl font-bold hover:bg-slate-200 transition text-sm">
+                                Return Home
+                            </Link>
+                        </div>
                     </div>
                 </div>
                 <Footer />
@@ -242,11 +284,11 @@ const ProjectDetails = () => {
 
             <PortalNavbar variant="colored" />
             {/* Breadcrumbs Area */}
-            <div className="bg-white border-b border-gray-100 pt-20"> {/* Added pt-20 to account for Fixed Navbar */}
+            <div className="bg-white border-b border-gray-100 pt-24 sm:pt-28">
                 <div className="max-w-7xl mx-auto px-4 py-3">
                     <Breadcrumbs items={[
                         { label: 'Pune', path: '/' },
-                        { label: project.location, path: "/search?q=" + project.location },
+                        { label: project.location, path: "/search?q=" + encodeURIComponent(project.location) },
                         { label: project.title }
                     ]} />
                 </div>
@@ -257,7 +299,7 @@ const ProjectDetails = () => {
                 <img
                     src={getOptimizedImageUrl(project.image, 1200)}
                     alt={project.title}
-                    fetchPriority="high"
+                    {...({ fetchpriority: 'high' } as any)}
                     className="w-full h-full object-cover"
                     onError={(e) => {
                         e.currentTarget.src = '/images/placeholder-property.svg';
@@ -847,9 +889,15 @@ const ProjectDetails = () => {
                                         <p className="text-xs text-green-700 mt-1">
                                             This project's RERA ID ({project.reraId}) has been verified against official records.
                                         </p>
-                                        {project.verificationSource && (
-                                            <a href={project.verificationSource} target="_blank" rel="noreferrer" className="text-xs font-semibold text-green-800 underline mt-2 block">
-                                                View Official Certificate
+                                        {project.verificationSource && project.verificationSource.startsWith('http') ? (
+                                            <a href={project.verificationSource} target="_blank" rel="noreferrer" className="text-xs font-semibold text-green-800 underline mt-2 inline-flex items-center gap-1 hover:text-green-900">
+                                                <span>View Official Certificate</span>
+                                                <ExternalLink className="w-3 h-3" />
+                                            </a>
+                                        ) : (
+                                            <a href="https://maharera.maharashtra.gov.in/" target="_blank" rel="noreferrer" className="text-xs font-semibold text-green-800 underline mt-2 inline-flex items-center gap-1 hover:text-green-900">
+                                                <span>Verify MahaRERA Direct Mandate ({PROPSMART_RERA.number})</span>
+                                                <ExternalLink className="w-3 h-3" />
                                             </a>
                                         )}
                                     </div>

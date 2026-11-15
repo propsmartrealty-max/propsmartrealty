@@ -5,6 +5,7 @@ import { PROJECTS, BUILDERS } from '../data/mockData';
 const PAGE_SIZE = 10;
 
 export interface ProjectFilters {
+    query?: string;
     location?: string;
     type?: string;
     minPrice?: number;
@@ -17,12 +18,14 @@ export interface ProjectFilters {
 function filterProjectsLocally(page: number, filters: ProjectFilters = {}) {
     let list = [...PROJECTS];
 
-    if (filters.location && filters.location.trim()) {
-        const loc = filters.location.toLowerCase().trim();
+    const searchKeyword = (filters.query || filters.location || '').toLowerCase().trim();
+    if (searchKeyword) {
         list = list.filter(p => 
-            p.location.toLowerCase().includes(loc) || 
-            p.title.toLowerCase().includes(loc) ||
-            p.slug.toLowerCase().includes(loc)
+            p.location.toLowerCase().includes(searchKeyword) || 
+            p.title.toLowerCase().includes(searchKeyword) ||
+            p.slug.toLowerCase().includes(searchKeyword) ||
+            p.builderId.toLowerCase().includes(searchKeyword) ||
+            (p.description && p.description.toLowerCase().includes(searchKeyword))
         );
     }
 
@@ -66,12 +69,32 @@ function filterProjectsLocally(page: number, filters: ProjectFilters = {}) {
 
 export const api = {
     projects: {
+        all: async () => {
+            try {
+                const res = await fetch('/api/projects?limit=100');
+                const contentType = res.headers.get('content-type') || '';
+                if (!res.ok || !contentType.includes('application/json')) {
+                    throw new Error(`Invalid response (${res.status}): ${contentType}`);
+                }
+                const json = await res.json();
+                if (!json.data || !Array.isArray(json.data) || json.data.length === 0) {
+                    return PROJECTS;
+                }
+                const mappedData = json.data.map(mapProjectFromDb) as Project[];
+                return mappedData.length > 0 ? mappedData : PROJECTS;
+            } catch (err) {
+                console.warn('api.projects.all fallback to local dataset:', err);
+                return PROJECTS;
+            }
+        },
+
         list: async (page = 1, filters: ProjectFilters = {}) => {
             try {
                 // Call Cloudflare Edge API
                 const params = new URLSearchParams();
                 params.set('page', String(page));
                 params.set('limit', String(PAGE_SIZE));
+                if (filters.query) params.set('q', filters.query);
                 if (filters.location) params.set('location', filters.location);
                 if (filters.type) params.set('type', filters.type);
                 if (filters.status) params.set('status', filters.status);
@@ -104,22 +127,35 @@ export const api = {
         },
 
         getById: async (id: string) => {
+            const findLocal = () => {
+                const normalized = (id || '').toLowerCase().trim();
+                return PROJECTS.find(p => 
+                    p.id === id || 
+                    p.slug === normalized ||
+                    p.slug.toLowerCase() === normalized ||
+                    (normalized && p.slug.startsWith(normalized)) ||
+                    (normalized && normalized.startsWith(p.slug.split('-').slice(0, 3).join('-')))
+                );
+            };
+
             try {
-                const res = await fetch(`/api/projects/${id}`);
+                const res = await fetch(`/api/projects/${encodeURIComponent(id)}`);
                 const contentType = res.headers.get('content-type') || '';
                 if (!res.ok || !contentType.includes('application/json')) {
+                    const local = findLocal();
+                    if (local) return local;
                     throw new Error(`Invalid response (${res.status}): ${contentType}`);
                 }
                 const data = await res.json();
 
                 if (!data || data.error) {
-                    const local = PROJECTS.find(p => p.id === id || p.slug === id);
+                    const local = findLocal();
                     if (local) return local;
                     throw new Error('Project not found');
                 }
                 return mapProjectFromDb(data) as Project;
             } catch (err) {
-                const local = PROJECTS.find(p => p.id === id || p.slug === id);
+                const local = findLocal();
                 if (local) return local;
                 throw err;
             }

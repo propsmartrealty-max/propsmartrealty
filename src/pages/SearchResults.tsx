@@ -1,6 +1,6 @@
 
 import React, { useMemo } from 'react';
-import { useLocation, useParams } from 'react-router-dom';
+import { useLocation, useParams, Link } from 'react-router-dom';
 import { useData } from '../context/DataContext';
 import PortalNavbar from '../components/Portal/Navbar';
 import Footer from '../components/Portal/Footer';
@@ -14,48 +14,52 @@ import { PROJECTS } from '../data/mockData';
 import PriceTrendChart from '../components/Portal/MarketIntelligence/PriceTrendChart';
 import { getLocalityImageUrl, PROPSMART_LOCALITIES } from '../utils/localityUtils';
 
+interface SearchResultsProps {
+    forcedLocationSlug?: string;
+}
 
-const SearchResults = () => {
+const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => {
     const { search } = useLocation();
-    const { locationSlug } = useParams<{ locationSlug: string }>();
+    const routeParams = useParams<{ locationSlug: string }>();
+    const effectiveLocationSlug = forcedLocationSlug || routeParams.locationSlug;
     const queryParams = new URLSearchParams(search);
 
+    const rawQuery = queryParams.get('q') || queryParams.get('query') || '';
+    const rawLocationParam = queryParams.get('location') || '';
+
     // Parse location from slug (e.g. 'baner-annex' -> 'Baner Annex') or param
-    const derivedLocation = locationSlug
-        ? locationSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')
-        : (queryParams.get('location') || '');
+    const derivedLocation = effectiveLocationSlug
+        ? effectiveLocationSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')
+        : rawLocationParam;
 
     const filterLoc = derivedLocation;
+    const filterQuery = rawQuery;
     const filterType = queryParams.get('type') || '';
 
     // Phase 5: Get Locality Data for Market Intelligence
     const { localities } = useData();
-    const currentLocality = localities.find(l => l.name === filterLoc);
+    const currentLocality = localities.find(l => 
+        l.name.toLowerCase() === filterLoc.toLowerCase() ||
+        (filterLoc && l.name.toLowerCase().includes(filterLoc.toLowerCase()))
+    );
 
-    // Page state (we can add pagination UI later, currently just page 1 or load more)
+    // Page state
     const [page, setPage] = React.useState(1);
-
-    // Local State for filters (synced with URL initially if complex, but here we treat side filters as additional client-side or server-side params)
-    // To keep it robust, let's treat selectedBudgets/Types as server filters.
-    // However, API might need array support. Our simple API supports single strings. 
-    // Let's simple it: If we check a box, we refetch.
 
     // Local State for filters
     const [selectedBudgets, setSelectedBudgets] = React.useState<string[]>([]);
-    const [selectedTypes, setSelectedTypes] = React.useState<string[]>([]); // "Apartment", "Villa", "Office"
-    const [selectedConfigs, setSelectedConfigs] = React.useState<string[]>([]); // "1 BHK", "2 BHK"
+    const [selectedTypes, setSelectedTypes] = React.useState<string[]>([]);
+    const [selectedConfigs, setSelectedConfigs] = React.useState<string[]>([]);
     const [showFilters, setShowFilters] = React.useState(false);
     const [viewMode, setViewMode] = React.useState<'list' | 'map'>('list');
 
+    // Reset page to 1 when search or location changes
+    React.useEffect(() => {
+        setPage(1);
+    }, [filterLoc, filterQuery, filterType]);
+
     // Lazy load map
     const ProjectMap = React.useMemo(() => React.lazy(() => import('../components/Map/ProjectMap')), []);
-
-    // Sync URL type to selectedTypes on mount
-    React.useEffect(() => {
-        if (filterType && !selectedTypes.includes(filterType)) {
-            // Logic to map URL type to state can be added here if needed
-        }
-    }, [filterType]);
 
     // Calculate derived filters
     const typeFilter = selectedTypes.length > 0
@@ -67,22 +71,23 @@ const SearchResults = () => {
 
     const statusFilter = filterType === 'new-launch' ? 'New Launch' : '';
 
-
     // React Query for Server-Side Search
     const { data, isLoading, error, refetch } = useQuery({
-        queryKey: ['projects', 'search', page, filterLoc, typeFilter, statusFilter, selectedBudgets.join(','), selectedConfigs.join(',')],
+        queryKey: ['projects', 'search', page, filterLoc, filterQuery, typeFilter, statusFilter, selectedBudgets.join(','), selectedConfigs.join(',')],
         queryFn: () => api.projects.list(page, {
+            query: filterQuery,
             location: filterLoc,
             type: typeFilter,
             status: statusFilter,
-            // Passing budget and configs
             budget: selectedBudgets,
             configurations: selectedConfigs
         }),
         placeholderData: (previousData) => previousData,
     });
 
-    const projects = data?.data || (error ? PROJECTS : []);
+    const projects = (data?.data && data.data.length > 0)
+        ? data.data
+        : (isLoading ? [] : (error ? PROJECTS : (data?.data || [])));
     const totalPages = data?.totalPages || 1;
 
     const toggleFilter = (item: string, current: string[], setter: (val: string[]) => void) => {
@@ -91,17 +96,17 @@ const SearchResults = () => {
         } else {
             setter([...current, item]);
         }
-        setPage(1); // Reset to page 1 on filter change
+        setPage(1);
     };
 
     return (
         <div className="min-h-screen bg-gray-50 flex flex-col">
             <SEO
-                title={locationSlug ? `Flats in ${filterLoc} Pune | New Projects & Prices` : `Properties in ${filterLoc || 'Pune'} - Search Results`}
-                description={locationSlug
+                title={effectiveLocationSlug ? `Flats in ${filterLoc} Pune | New Projects & Prices` : `Properties in ${filterLoc || 'Pune'} - Search Results`}
+                description={effectiveLocationSlug
                     ? `Looking for flats in ${filterLoc}? Explore top verified new launch projects, pricing, and floor plans in ${filterLoc}, Pune.`
                     : "Browse verified real estate listings in Pune."}
-                canonical={locationSlug ? `https://propsmart.co.in/flats-in-${locationSlug}` : undefined}
+                canonical={effectiveLocationSlug ? `https://propsmart.co.in/flats-in-${effectiveLocationSlug}` : undefined}
             />
             <PortalNavbar variant="colored" />
 
@@ -274,9 +279,9 @@ const SearchResults = () => {
                                 </div>
                                 <div className="flex flex-wrap gap-2">
                                     {['Baner', 'Hinjewadi', 'Wakad', 'Kharadi', 'Balewadi', 'Viman Nagar'].map(loc => (
-                                        <a
+                                        <Link
                                             key={loc}
-                                            href={`/search?location=${encodeURIComponent(loc)}`}
+                                            to={`/search?location=${encodeURIComponent(loc)}`}
                                             className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-50 border border-slate-200 hover:bg-brand-50 hover:border-brand-300 transition-all shadow-xs group"
                                         >
                                             <img
@@ -287,7 +292,7 @@ const SearchResults = () => {
                                             <span className="font-sans font-bold text-sm tracking-tight text-slate-700 group-hover:text-brand-600 transition-colors">
                                                 {loc}
                                             </span>
-                                        </a>
+                                        </Link>
                                     ))}
                                 </div>
                             </div>
@@ -295,7 +300,10 @@ const SearchResults = () => {
 
                         <div className="mb-6 flex items-center justify-between">
                             <h1 className="font-sans font-extrabold text-2xl text-slate-900 tracking-tight">
-                                {isLoading ? 'Searching...' : `${data?.count || 0} Properties found ${filterLoc ? `in ${filterLoc}` : 'in Pune'}`}
+                                {isLoading 
+                                    ? 'Searching verified projects...' 
+                                    : `${data?.count ?? projects.length} Properties found ${filterLoc ? `in ${filterLoc}` : (filterQuery ? `for "${filterQuery}"` : 'in Pune')}`
+                                }
                             </h1>
                         </div>
 

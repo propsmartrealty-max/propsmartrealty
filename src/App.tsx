@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
 import { Loader2 } from 'lucide-react';
 import { DataProvider } from './context/DataContext';
@@ -49,6 +49,21 @@ const queryClient = new QueryClient();
 
 import { Toaster } from 'react-hot-toast';
 
+// Dynamic Locality SEO Route & 404 Fallback Handler
+const DynamicLocalityOrNotFound = () => {
+    const location = useLocation();
+    const pathname = location.pathname;
+
+    if (pathname.startsWith('/flats-in-')) {
+        const slug = pathname.replace('/flats-in-', '').split('/')[0];
+        if (slug) {
+            return <SearchResults forcedLocationSlug={slug} />;
+        }
+    }
+
+    return <NotFound />;
+};
+
 function App() {
     return (
         <QueryClientProvider client={queryClient}>
@@ -64,6 +79,7 @@ function App() {
                                     <Route path="/" element={<Home />} />
                                     <Route path="/search" element={<SearchResults />} />
                                     <Route path="/directory" element={<Directory />} />
+                                    <Route path="/flats-in/:locationSlug" element={<SearchResults />} />
                                     <Route path="/flats-in-:locationSlug" element={<SearchResults />} />
                                     <Route path="/project/:slug" element={<ProjectDetails />} />
                                     <Route path="/builder/:slug" element={<BuilderDetails />} />
@@ -95,8 +111,8 @@ function App() {
                                         <Route path="/admin/seed" element={<AdminSeedData />} />
                                     </Route>
 
-                                    {/* 404 Fallback */}
-                                    <Route path="*" element={<NotFound />} />
+                                    {/* 404 & Dynamic Locality Fallback */}
+                                    <Route path="*" element={<DynamicLocalityOrNotFound />} />
                                 </Routes>
                             </React.Suspense>
                         </Router>
