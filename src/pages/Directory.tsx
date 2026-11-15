@@ -10,6 +10,7 @@ import { CheckCircle2, ShieldCheck, MapPin, Sparkles } from 'lucide-react';
 import LocalityCard from '../components/Portal/LocalityCard';
 import { getLocalityImageUrl, PROPSMART_LOCALITIES } from '../utils/localityUtils';
 import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
+import { resolveBuilderLogo } from '../utils/builderUtils';
 
 import PropertyCard from '../components/Portal/PropertyCard';
 
@@ -20,25 +21,16 @@ const BuildersGrid = ({ builders }: { builders: any[] }) => {
         setErroredImages(prev => ({ ...prev, [builderId]: true }));
     };
 
-    const getInitials = (name: string) => {
-        return name
-            .split(' ')
-            .map(word => word[0])
-            .join('')
-            .substring(0, 2)
-            .toUpperCase();
-    };
-
     return (
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-5">
             {builders.map((builder) => {
-                const showFallback = !builder.logo || erroredImages[builder.id];
+                const resolvedLogo = resolveBuilderLogo(builder);
+                const showFallback = !resolvedLogo || erroredImages[builder.id];
                 return (
                     <Link
                         to={`/builder/${builder.slug}`}
                         key={builder.id}
                         className="group relative glass-card water-card-hover border border-white/80 hover:border-sky-300 rounded-3xl p-4 flex flex-col justify-between hover:shadow-xl transition-all duration-300 hover:-translate-y-1.5 shadow-sm"
-                        title={`View ${builder.name} projects`}
                     >
                         {/* Verified Pill */}
                         <div className="flex items-center justify-between mb-2 px-1">
@@ -55,12 +47,13 @@ const BuildersGrid = ({ builders }: { builders: any[] }) => {
                         {/* Large, High-Visibility Logo Container */}
                         <div className="w-full h-24 bg-white/90 backdrop-blur-md rounded-2xl flex items-center justify-center p-3 shadow-2xs border border-white/90 group-hover:scale-105 transition-transform">
                             {showFallback ? (
-                                <div className="w-full h-full bg-slate-100 rounded-xl flex items-center justify-center">
-                                    <span className="text-xl font-extrabold text-slate-400 font-sans">{getInitials(builder.name)}</span>
+                                <div className="w-full h-full bg-gradient-to-br from-slate-50 to-slate-100 rounded-xl flex flex-col items-center justify-center p-2 text-center border border-slate-200/60">
+                                    <span className="text-xs font-black text-slate-800 leading-tight line-clamp-2">{builder.name}</span>
+                                    <span className="text-[9px] font-bold text-amber-600 uppercase tracking-wider mt-1">Partner</span>
                                 </div>
                             ) : (
                                 <img
-                                    src={builder.logo}
+                                    src={resolvedLogo}
                                     alt={builder.name}
                                     className="w-full h-full max-h-16 object-contain transition-transform duration-300 group-hover:scale-105"
                                     onError={() => handleImageError(builder.id)}
@@ -69,10 +62,10 @@ const BuildersGrid = ({ builders }: { builders: any[] }) => {
                         </div>
 
                         <div className="text-center mt-3 pt-2 border-t border-slate-100">
-                            <h4 className="font-sans font-extrabold text-sm md:text-base text-slate-800 group-hover:text-brand-600 transition-colors line-clamp-1 mb-1">
+                            <h4 className="font-sans font-extrabold text-xs sm:text-sm text-slate-800 group-hover:text-brand-600 transition-colors line-clamp-2 min-h-[2.25rem] flex items-center justify-center leading-snug">
                                 {builder.name}
                             </h4>
-                            <p className="font-sans font-bold text-xs text-slate-400">
+                            <p className="font-sans font-bold text-[11px] text-slate-400 mt-1">
                                 {builder.totalProjects || 0}+ Projects
                             </p>
                         </div>

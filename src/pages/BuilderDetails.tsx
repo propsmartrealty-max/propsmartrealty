@@ -7,6 +7,7 @@ import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
 import { Building2, MapPin, Trophy } from 'lucide-react';
 import TrustScore from '../components/Portal/TrustScore';
+import { resolveBuilderLogo } from '../utils/builderUtils';
 
 const BuilderDetails = () => {
     const { slug } = useParams<{ slug: string }>();
@@ -76,11 +77,8 @@ const BuilderDetails = () => {
                     <div className="max-w-7xl mx-auto flex items-end gap-6">
                         <div className="w-32 h-32 bg-white rounded-xl p-2 shadow-lg -mb-12 relative z-10 flex items-center justify-center">
                             <img
-                                src={builder.logo || '/images/builders/godrej.svg'}
+                                src={resolveBuilderLogo(builder)}
                                 alt={builder.name}
-                                onError={(e) => {
-                                    e.currentTarget.src = '/images/builders/godrej.svg';
-                                }}
                                 className="w-full h-full object-contain"
                             />
                         </div>

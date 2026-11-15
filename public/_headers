@@ -10,6 +10,27 @@
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Resource-Policy: cross-origin
 
+/api/projects*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, OPTIONS
+  Access-Control-Max-Age: 86400
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=60, s-maxage=300, stale-while-revalidate=86400
+
+/api/builders*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, OPTIONS
+  Access-Control-Max-Age: 86400
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=60, s-maxage=300, stale-while-revalidate=86400
+
+/api/localities*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, OPTIONS
+  Access-Control-Max-Age: 86400
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=60, s-maxage=300, stale-while-revalidate=86400
+
 /api/*
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Methods: GET, POST, PUT, PATCH, DELETE, OPTIONS

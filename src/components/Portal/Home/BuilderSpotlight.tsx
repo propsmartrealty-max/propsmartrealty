@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { CheckCircle2, Award, ChevronRight, Star, ShieldCheck } from 'lucide-react';
 import { Builder } from '../../../types';
+import { resolveBuilderLogo } from '../../../utils/builderUtils';
 
 interface BuilderSpotlightProps {
     builders: Builder[];
@@ -13,15 +14,6 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
 
     const handleImageError = (builderId: string) => {
         setErroredImages(prev => ({ ...prev, [builderId]: true }));
-    };
-
-    const getInitials = (name: string) => {
-        return name
-            .split(' ')
-            .map(word => word[0])
-            .join('')
-            .substring(0, 2)
-            .toUpperCase();
     };
 
     return (
@@ -47,14 +39,14 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
                 {/* Developer Grid - High-visibility prominent rectangular logo cards */}
                 <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-5">
                     {builders.slice(0, 11).map((builder) => {
-                        const showFallback = !builder.logo || erroredImages[builder.id];
+                        const resolvedLogo = resolveBuilderLogo(builder);
+                        const showFallback = !resolvedLogo || erroredImages[builder.id];
 
                         return (
                             <Link
                                 to={`/builder/${builder.slug}`}
                                 key={builder.id}
                                 className="group relative bg-slate-900/80 border border-white/10 hover:border-amber-400/60 rounded-2xl p-3.5 flex flex-col justify-between hover:bg-slate-850 transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl hover:shadow-brand-900/40 backdrop-blur-sm"
-                                title={`Explore projects by ${builder.name}`}
                             >
                                 {/* Top Mini Verified Badge */}
                                 <div className="flex items-center justify-between mb-2.5 px-1">
@@ -82,7 +74,7 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
                                         </div>
                                     ) : (
                                         <img
-                                            src={builder.logo}
+                                            src={resolvedLogo}
                                             alt={builder.name}
                                             onError={() => handleImageError(builder.id)}
                                             className="w-full h-full max-h-18 object-contain transition-transform duration-300 group-hover:scale-105"
@@ -115,7 +107,7 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
                             View All
                         </span>
                         <span className="font-sans font-bold text-[11px] text-brand-400 uppercase tracking-wider">
-                            50+ Developers
+                            {builders.length > 20 ? `${builders.length}+ Developers` : '290+ Developers'}
                         </span>
                         <ChevronRight className="w-4 h-4 text-brand-400 mt-2 group-hover:translate-x-1 transition-transform" />
                     </Link>

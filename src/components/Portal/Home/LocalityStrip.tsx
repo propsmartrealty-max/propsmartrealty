@@ -105,7 +105,7 @@ const LocalityStrip: React.FC = () => {
                         Popular Localities in Pune
                     </h3>
                     <p className="font-sans text-slate-500 text-sm md:text-base mt-2 max-w-2xl mx-auto">
-                        Explore all 48 Pune micro-markets across West, East, South & PCMC corridors with live capital values and verified builder sales.
+                        Explore all {localities.length} Pune micro-markets across West, East, South & PCMC corridors with live capital values and verified builder sales.
                     </p>
                     <div className="w-20 h-1.5 bg-gradient-to-r from-brand-600 to-accent-500 mx-auto mt-4 rounded-full"></div>
                 </div>

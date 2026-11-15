@@ -37,7 +37,6 @@ export const LocalityCard: React.FC<LocalityCardProps> = ({
         <Link
             to={`/search?location=${encodeURIComponent(locality.name)}`}
             className={`group cursor-pointer block ${className}`}
-            title={`Explore property projects in ${locality.name}, Pune`}
         >
             <div className={`relative rounded-3xl overflow-hidden aspect-[4/5] shadow-md hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border bg-slate-900 water-shimmer ${
                 locality.isFeatured
@@ -60,20 +59,20 @@ export const LocalityCard: React.FC<LocalityCardProps> = ({
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/30 to-transparent opacity-90 group-hover:opacity-85 transition-opacity" />
 
                 {/* 3. Top Header: Tag & Price aligned in a single flex row (never overlaps) */}
-                <div className="absolute top-2.5 inset-x-2.5 z-10 flex items-center justify-between gap-1 pointer-events-none">
+                <div className="absolute top-2.5 inset-x-2.5 z-10 flex items-center justify-between gap-1.5 pointer-events-none">
                     {locality.isFeatured ? (
-                        <span className="inline-flex items-center gap-1 bg-gradient-to-r from-amber-400 to-amber-500 text-slate-950 font-sans font-black text-[9.5px] px-2 py-0.5 rounded-full border border-amber-300 shadow-md backdrop-blur-md tracking-tight shrink-0">
+                        <span className="inline-flex items-center gap-1 bg-gradient-to-r from-amber-400 to-amber-500 text-slate-950 font-sans font-black text-[9px] sm:text-[9.5px] px-2 py-0.5 rounded-full border border-amber-300 shadow-md backdrop-blur-md tracking-tight shrink-0">
                             <Sparkles className="w-2.5 h-2.5 text-slate-950 fill-amber-300" />
                             <span>Prime</span>
                         </span>
                     ) : (
-                        <span className="inline-flex items-center gap-1 bg-slate-950/70 backdrop-blur-md text-sky-300 font-sans font-bold text-[9.5px] px-2 py-0.5 rounded-full border border-white/15 shrink-0 truncate max-w-[75px]">
+                        <span className="inline-flex items-center gap-1 bg-slate-950/75 backdrop-blur-md text-sky-300 font-sans font-bold text-[9px] sm:text-[9.5px] px-2 py-0.5 rounded-full border border-white/15 shrink-0 truncate max-w-[70px]">
                             <MapPin className="w-2.5 h-2.5 text-sky-400 shrink-0" />
                             <span className="truncate">{locality.zone || 'Pune'}</span>
                         </span>
                     )}
 
-                    <span className="inline-flex items-center bg-sky-600/95 backdrop-blur-md text-white font-sans font-extrabold text-[10px] px-2 py-0.5 rounded-full shadow-md border border-white/25 tracking-tight shrink-0 ml-auto whitespace-nowrap">
+                    <span className="inline-flex items-center bg-sky-600/95 backdrop-blur-md text-white font-sans font-black text-[9.5px] sm:text-[10px] px-2 py-0.5 rounded-full shadow-md border border-white/25 tracking-tight shrink-0 whitespace-nowrap">
                         {priceLabel}
                     </span>
                 </div>
