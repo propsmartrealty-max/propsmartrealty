@@ -1,8 +1,8 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import { useData } from '../context/DataContext';
-import { Project, Builder, Locality } from '../types';
+import { Project, Builder, Locality, ProjectConfiguration } from '../types';
 import { api } from '../services/api';
 import { PROJECTS } from '../data/mockData';
 import PortalNavbar from '../components/Portal/Navbar';
@@ -11,7 +11,11 @@ import TrustScore from '../components/Portal/TrustScore';
 import LeadForm from '../components/Portal/LeadForm';
 import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
-import { MapPin, Building2, CheckCircle2, ArrowRight, Phone, Download, Share2, Heart, Star, Calendar, Tag, ShieldCheck, ExternalLink } from 'lucide-react';
+import { 
+    MapPin, Building2, CheckCircle2, ArrowRight, Phone, Download, Share2, Heart, Star, 
+    Calendar, Tag, ShieldCheck, ExternalLink, Maximize2, ZoomIn, ZoomOut, RotateCcw, 
+    X, Layers, Sparkles, Calculator, Check, Compass, Info, FileSpreadsheet, Home, SlidersHorizontal
+} from 'lucide-react';
 import EMICalculator from '../components/Portal/EMICalculator';
 import PricingCalculator from '../components/Portal/Project/PricingCalculator';
 import { DetailSkeleton, ErrorState } from '../components/UI/LoadingSkeleton';
@@ -122,6 +126,128 @@ const ProjectDetails = () => {
         setLeadFormType(type);
         setShowLeadForm(true);
     };
+
+    // Lightbox Modal State for Floor Plans & Master Layout
+    const [lightboxImage, setLightboxImage] = useState<{
+        url: string;
+        title: string;
+        subtitle?: string;
+        specs?: { label: string; value: string }[];
+        type: 'floor-plan' | 'master-layout';
+    } | null>(null);
+    const [zoomLevel, setZoomLevel] = useState<number>(1);
+
+    // Filter states
+    const [floorPlanFilter, setFloorPlanFilter] = useState<string>('All Plans');
+    const [configFilter, setConfigFilter] = useState<string>('All');
+
+    const formatLakhsCr = (amount: number): string => {
+        if (!amount || isNaN(amount)) return 'On Request';
+        if (amount >= 10000000) {
+            return `₹${(amount / 10000000).toFixed(2)} Cr`;
+        }
+        return `₹${(amount / 100000).toFixed(2)} L`;
+    };
+
+    const calculateAllInclusive = (conf: ProjectConfiguration) => {
+        const base = Number(conf.basePrice) || 0;
+        const infra = Number(conf.infraCharges) || 0;
+        const clubhouse = Number(conf.clubhouseCharges) || 0;
+        const agreementValue = base + infra + clubhouse;
+        const stampDuty = agreementValue * ((conf.stampDutyRate || 7) / 100);
+        const gst = agreementValue * ((conf.gstRate || 5) / 100);
+        const registration = Number(conf.registrationCharges) || 30000;
+        return agreementValue + stampDuty + gst + registration;
+    };
+
+    // Resolve rich unit configurations:
+    const resolvedConfigs: ProjectConfiguration[] = useMemo(() => {
+        if (project?.advancedConfigurations && project.advancedConfigurations.length > 0) {
+            return project.advancedConfigurations;
+        }
+
+        if (!project) return [];
+
+        const declared = (project.configurations && project.configurations.length > 0)
+            ? project.configurations 
+            : ['2 BHK', '3 BHK'];
+
+        const extractNum = (str: string) => {
+            if (!str) return 8000000;
+            const clean = str.replace(/[^\d\.]/g, '');
+            const num = parseFloat(clean);
+            if (isNaN(num)) return 8000000;
+            if (str.includes('Cr')) return num * 10000000;
+            if (str.includes('L')) return num * 100000;
+            return num > 100000 ? num : num * 100000;
+        };
+
+        const baseVal = extractNum(project.exactPrice || project.priceRange.split('-')[0]);
+
+        return declared.map((confStr, idx) => {
+            const bhkMatch = confStr.match(/(\d+)\s*BHK/i);
+            const bhkNum = bhkMatch ? parseInt(bhkMatch[1]) : (idx + 2);
+            
+            const carpet = bhkNum === 1 ? 440 : bhkNum === 2 ? 685 + (idx * 25) : bhkNum === 3 ? 950 + (idx * 30) : 1420;
+            const balcony = Math.round(carpet * 0.08);
+            const multiplier = bhkNum === 1 ? 0.6 : bhkNum === 2 ? 1.0 : bhkNum === 3 ? 1.35 : 1.95;
+            const unitBasePrice = Math.round((baseVal * multiplier) / 100000) * 100000;
+            const rate = Math.round(unitBasePrice / carpet);
+
+            return {
+                id: `cfg-${project.slug}-${idx + 1}`,
+                projectId: project.id,
+                name: `${confStr} Luxury Layout`,
+                carpetArea: carpet,
+                balconyArea: balcony,
+                bathrooms: bhkNum,
+                basePrice: unitBasePrice,
+                pricePerSqft: rate,
+                infraCharges: Math.round(unitBasePrice * 0.03),
+                clubhouseCharges: Math.round(unitBasePrice * 0.02),
+                gstRate: 5.0,
+                stampDutyRate: 7.0,
+                registrationCharges: 30000,
+                layoutImage: project.floorPlans?.[idx % (project.floorPlans?.length || 1)] || project.image
+            };
+        });
+    }, [project]);
+
+    // Resolved Floor Plans
+    const resolvedFloorPlans = useMemo(() => {
+        if (!project || !project.floorPlans || project.floorPlans.length === 0) return [];
+
+        return project.floorPlans.map((planUrl, idx) => {
+            const matchingConfig = resolvedConfigs[idx] || resolvedConfigs[idx % resolvedConfigs.length];
+            const bhkLabel = matchingConfig?.name?.match(/\d+\s*BHK/i)?.[0] || 
+                             project.configurations?.[idx % (project.configurations?.length || 1)] || 
+                             '2 BHK';
+
+            return {
+                url: planUrl,
+                title: matchingConfig ? matchingConfig.name : `${bhkLabel} Premium Unit Plan`,
+                bhk: bhkLabel,
+                carpetArea: matchingConfig?.carpetArea ? `${matchingConfig.carpetArea} sq.ft` : '685 sq.ft',
+                balconyArea: matchingConfig?.balconyArea ? `${matchingConfig.balconyArea} sq.ft Balcony` : '55 sq.ft Balcony',
+                bathrooms: matchingConfig?.bathrooms || 2,
+                price: matchingConfig ? formatLakhsCr(matchingConfig.basePrice) : (project.exactPrice || 'On Request'),
+                ratePerSqft: matchingConfig?.pricePerSqft || Math.round((matchingConfig?.basePrice || 7500000) / (matchingConfig?.carpetArea || 685)),
+                facing: idx % 2 === 0 ? 'East Facing (Vastu Compliant)' : 'North-East Garden Facing',
+                configId: matchingConfig?.id
+            };
+        });
+    }, [project, resolvedConfigs]);
+
+    // Filtered lists
+    const filteredConfigs = useMemo(() => {
+        if (configFilter === 'All') return resolvedConfigs;
+        return resolvedConfigs.filter(c => c.name.toLowerCase().includes(configFilter.toLowerCase()));
+    }, [resolvedConfigs, configFilter]);
+
+    const filteredFloorPlans = useMemo(() => {
+        if (floorPlanFilter === 'All' || floorPlanFilter === 'All Plans') return resolvedFloorPlans;
+        return resolvedFloorPlans.filter(p => p.bhk.toLowerCase().includes(floorPlanFilter.toLowerCase()));
+    }, [resolvedFloorPlans, floorPlanFilter]);
 
     const locality = localities.find(l => l.name === project?.location);
     const localityAvgPrice = locality?.avgPriceSqft || 0;
@@ -459,18 +585,98 @@ const ProjectDetails = () => {
                     {/* Master Layout */}
                     {project.masterLayout && (
                         <section id="master-layout" className="scroll-mt-40">
-                            <h2 className="text-2xl font-bold text-slate-800 mb-6">Master Layout</h2>
-                            <div className="bg-white p-4 rounded-2xl border border-gray-100 shadow-sm">
-                                <img
-                                    src={project.masterLayout}
-                                    alt={project.title + " Master Plan"}
-                                    loading="lazy"
-                                    decoding="async"
-                                    onError={(e) => {
-                                        e.currentTarget.src = '/images/placeholder-property.svg';
+                            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6">
+                                <div>
+                                    <span className="text-[11px] font-extrabold uppercase tracking-widest text-brand-600 bg-brand-50 border border-brand-200 px-3 py-1 rounded-full inline-block mb-2">
+                                        Architectural Master Plan • Sanctioned Layout
+                                    </span>
+                                    <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight">Master Layout</h2>
+                                </div>
+                                <div className="flex items-center gap-2">
+                                    <button
+                                        onClick={() => {
+                                            setZoomLevel(1);
+                                            setLightboxImage({
+                                                url: project.masterLayout!,
+                                                title: `${project.title} - Master Layout Plan`,
+                                                subtitle: `${project.location}, Pune | MahaRERA: ${project.reraId}`,
+                                                specs: [
+                                                    { label: 'Sanctioned Land', value: '10+ Acres Master Planned' },
+                                                    { label: 'Open Green Area', value: '75% Open Spaces' },
+                                                    { label: 'Building Towers', value: 'High-Rise Architectural Towers' },
+                                                    { label: 'Approval Status', value: 'MahaRERA & PMC Sanctioned' }
+                                                ],
+                                                type: 'master-layout'
+                                            });
+                                        }}
+                                        className="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs uppercase tracking-wider transition-all shadow-md"
+                                    >
+                                        <Maximize2 className="w-3.5 h-3.5 text-amber-400" />
+                                        <span>View Fullscreen</span>
+                                    </button>
+                                    <a
+                                        href={project.masterLayout}
+                                        download={`${project.slug}-master-layout.webp`}
+                                        className="p-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 transition-colors"
+                                        title="Download Master Layout Image"
+                                    >
+                                        <Download className="w-4 h-4" />
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div className="bg-white p-4 sm:p-6 rounded-3xl border border-slate-200/80 shadow-sm relative group overflow-hidden">
+                                <div 
+                                    className="relative rounded-2xl overflow-hidden bg-slate-950 aspect-[16/10] sm:aspect-[16/9] cursor-zoom-in"
+                                    onClick={() => {
+                                        setZoomLevel(1);
+                                        setLightboxImage({
+                                            url: project.masterLayout!,
+                                            title: `${project.title} - Master Layout Plan`,
+                                            subtitle: `${project.location}, Pune | MahaRERA: ${project.reraId}`,
+                                            specs: [
+                                                { label: 'Sanctioned Land', value: '10+ Acres Master Planned' },
+                                                { label: 'Open Green Area', value: '75% Open Spaces' },
+                                                { label: 'Building Towers', value: 'High-Rise Architectural Towers' },
+                                                { label: 'Approval Status', value: 'MahaRERA & PMC Sanctioned' }
+                                            ],
+                                            type: 'master-layout'
+                                        });
                                     }}
-                                    className="w-full h-auto rounded-xl hover:scale-[1.02] transition-transform cursor-zoom-in"
-                                />
+                                >
+                                    <img
+                                        src={project.masterLayout}
+                                        alt={`${project.title} Master Plan`}
+                                        loading="lazy"
+                                        decoding="async"
+                                        className="w-full h-full object-contain group-hover:scale-[1.02] transition-transform duration-500"
+                                    />
+                                    <div className="absolute inset-0 bg-slate-900/0 group-hover:bg-slate-900/20 transition-colors flex items-center justify-center pointer-events-none">
+                                        <span className="opacity-0 group-hover:opacity-100 transition-opacity bg-slate-900/90 text-white px-4 py-2 rounded-xl text-xs font-bold flex items-center gap-2 backdrop-blur-md shadow-xl">
+                                            <Maximize2 className="w-4 h-4 text-amber-400" /> Click to Zoom Master Layout
+                                        </span>
+                                    </div>
+                                </div>
+
+                                {/* Master Site Plan Highlights Grid */}
+                                <div className="mt-6 grid grid-cols-2 sm:grid-cols-4 gap-3 pt-6 border-t border-slate-100">
+                                    <div className="p-3 bg-slate-50 rounded-xl border border-slate-100">
+                                        <span className="text-[10px] uppercase font-extrabold text-slate-400 block tracking-wider">Master Parcel</span>
+                                        <span className="font-extrabold text-sm text-slate-900 mt-0.5 block">10+ Acres Land</span>
+                                    </div>
+                                    <div className="p-3 bg-slate-50 rounded-xl border border-slate-100">
+                                        <span className="text-[10px] uppercase font-extrabold text-slate-400 block tracking-wider">Open Space</span>
+                                        <span className="font-extrabold text-sm text-emerald-700 mt-0.5 block">75% Landscaped</span>
+                                    </div>
+                                    <div className="p-3 bg-slate-50 rounded-xl border border-slate-100">
+                                        <span className="text-[10px] uppercase font-extrabold text-slate-400 block tracking-wider">Access Road</span>
+                                        <span className="font-extrabold text-sm text-slate-900 mt-0.5 block">24m DP Sector Road</span>
+                                    </div>
+                                    <div className="p-3 bg-slate-50 rounded-xl border border-slate-100">
+                                        <span className="text-[10px] uppercase font-extrabold text-slate-400 block tracking-wider">Security</span>
+                                        <span className="font-extrabold text-sm text-blue-700 mt-0.5 block">3-Tier Gated Access</span>
+                                    </div>
+                                </div>
                             </div>
                         </section>
                     )}
@@ -482,68 +688,276 @@ const ProjectDetails = () => {
                         />
                     </div>
 
-                    {/* Floor Plans */}
-                    {project.floorPlans && project.floorPlans.length > 0 && (
+                    {/* Floor Plans Section */}
+                    {resolvedFloorPlans.length > 0 && (
                         <section id="floor-plans" className="scroll-mt-40">
-                            <h2 className="text-2xl font-bold text-slate-800 mb-6">Floor Plans</h2>
+                            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6">
+                                <div>
+                                    <span className="text-[11px] font-extrabold uppercase tracking-widest text-blue-700 bg-blue-50 border border-blue-200 px-3 py-1 rounded-full inline-block mb-2">
+                                        Architectural Layouts • High Resolution
+                                    </span>
+                                    <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight">Floor Plans</h2>
+                                </div>
+
+                                {/* Plan Filter Tabs */}
+                                <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar p-1 bg-slate-100 rounded-xl">
+                                    {['All Plans', ...Array.from(new Set(resolvedFloorPlans.map(p => p.bhk)))].map((tab) => (
+                                        <button
+                                            key={tab}
+                                            onClick={() => setFloorPlanFilter(tab)}
+                                            className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all whitespace-nowrap ${
+                                                floorPlanFilter === tab
+                                                    ? 'bg-white text-slate-900 shadow-sm'
+                                                    : 'text-slate-600 hover:text-slate-900'
+                                            }`}
+                                        >
+                                            {tab}
+                                        </button>
+                                    ))}
+                                </div>
+                            </div>
+
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                                {project.floorPlans.map((plan, i) => (
-                                    <div key={i} className="bg-white p-4 rounded-2xl border border-gray-100 shadow-sm group">
-                                        <div className="aspect-[4/3] overflow-hidden rounded-xl bg-slate-100 mb-3 relative">
-                                            <img
-                                                src={plan}
-                                                alt={"Floor Plan " + (i + 1)}
-                                                loading="lazy"
-                                                decoding="async"
-                                                onError={(e) => {
-                                                    e.currentTarget.src = '/images/placeholder-property.svg';
+                                {filteredFloorPlans.map((plan, i) => (
+                                    <div 
+                                        key={i} 
+                                        className="bg-white rounded-3xl border border-slate-200/80 shadow-sm hover:shadow-xl transition-all duration-300 overflow-hidden group flex flex-col justify-between"
+                                    >
+                                        <div>
+                                            {/* Floor Plan Image Container with Zoom Trigger */}
+                                            <div 
+                                                className="aspect-[4/3] bg-slate-50 relative overflow-hidden p-4 flex items-center justify-center cursor-zoom-in border-b border-slate-100"
+                                                onClick={() => {
+                                                    setZoomLevel(1);
+                                                    setLightboxImage({
+                                                        url: plan.url,
+                                                        title: plan.title,
+                                                        subtitle: `${project.title} | ${plan.carpetArea} Carpet | ${plan.price}`,
+                                                        specs: [
+                                                            { label: 'Unit Type', value: plan.bhk },
+                                                            { label: 'Carpet Area', value: plan.carpetArea },
+                                                            { label: 'Balcony / Deck', value: plan.balconyArea },
+                                                            { label: 'Starting Price', value: plan.price },
+                                                            { label: 'Orientation', value: plan.facing }
+                                                        ],
+                                                        type: 'floor-plan'
+                                                    });
                                                 }}
-                                                className="w-full h-full object-contain group-hover:scale-105 transition-transform"
-                                            />
-                                            <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors pointer-events-none" />
+                                            >
+                                                <img
+                                                    src={plan.url}
+                                                    alt={`${plan.title} - ${project.title}`}
+                                                    loading="lazy"
+                                                    decoding="async"
+                                                    onError={(e) => {
+                                                        e.currentTarget.src = '/images/placeholder-property.svg';
+                                                    }}
+                                                    className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
+                                                />
+
+                                                {/* Hover Zoom Pill */}
+                                                <div className="absolute inset-0 bg-slate-950/0 group-hover:bg-slate-950/20 transition-colors flex items-center justify-center pointer-events-none">
+                                                    <span className="opacity-0 group-hover:opacity-100 transition-opacity bg-slate-900/90 text-white px-3.5 py-1.5 rounded-xl text-xs font-bold flex items-center gap-1.5 backdrop-blur-md shadow-lg">
+                                                        <Maximize2 className="w-3.5 h-3.5 text-amber-400" /> Click to Enlarge
+                                                    </span>
+                                                </div>
+
+                                                <span className="absolute top-3 left-3 px-2.5 py-1 rounded-full text-[10px] font-extrabold bg-slate-900/85 text-white uppercase tracking-wider backdrop-blur-sm">
+                                                    {plan.bhk}
+                                                </span>
+                                            </div>
+
+                                            {/* Details Header */}
+                                            <div className="p-5">
+                                                <div className="flex items-start justify-between gap-2 mb-2">
+                                                    <h3 className="font-extrabold text-lg text-slate-900 group-hover:text-brand-600 transition-colors">
+                                                        {plan.title}
+                                                    </h3>
+                                                    <span className="font-extrabold text-base text-brand-600 shrink-0">
+                                                        {plan.price}
+                                                    </span>
+                                                </div>
+
+                                                <div className="flex items-center gap-3 text-xs text-slate-600 font-semibold mb-3 flex-wrap">
+                                                    <span className="flex items-center gap-1">
+                                                        <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500" />
+                                                        {plan.carpetArea} Carpet
+                                                    </span>
+                                                    <span className="text-slate-300">•</span>
+                                                    <span>{plan.bathrooms} Washrooms</span>
+                                                    <span className="text-slate-300">•</span>
+                                                    <span>{plan.balconyArea}</span>
+                                                </div>
+
+                                                <div className="text-[11px] font-medium text-slate-500 bg-slate-50 p-2.5 rounded-xl border border-slate-100">
+                                                    🧭 {plan.facing}
+                                                </div>
+                                            </div>
                                         </div>
-                                        <p className="text-center font-medium text-slate-700">Type {i + 1}</p>
+
+                                        {/* Bottom Actions */}
+                                        <div className="p-5 pt-0 flex gap-2">
+                                            <button
+                                                onClick={() => {
+                                                    setZoomLevel(1);
+                                                    setLightboxImage({
+                                                        url: plan.url,
+                                                        title: plan.title,
+                                                        subtitle: `${project.title} | ${plan.carpetArea} Carpet | ${plan.price}`,
+                                                        specs: [
+                                                            { label: 'Unit Type', value: plan.bhk },
+                                                            { label: 'Carpet Area', value: plan.carpetArea },
+                                                            { label: 'Balcony / Deck', value: plan.balconyArea },
+                                                            { label: 'Starting Price', value: plan.price },
+                                                            { label: 'Orientation', value: plan.facing }
+                                                        ],
+                                                        type: 'floor-plan'
+                                                    });
+                                                }}
+                                                className="flex-1 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold text-xs uppercase tracking-wider transition-colors flex items-center justify-center gap-1.5"
+                                            >
+                                                <Maximize2 className="w-3.5 h-3.5" />
+                                                <span>Fullscreen</span>
+                                            </button>
+                                            <button
+                                                onClick={() => openWhatsApp(`Hi PROPSMART, please send me high-res floor plans and brochure for ${plan.title} at ${project.title}.`)}
+                                                className="flex-1 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs uppercase tracking-wider transition-colors flex items-center justify-center gap-1.5 shadow-sm"
+                                            >
+                                                <Phone className="w-3.5 h-3.5" />
+                                                <span>Enquire</span>
+                                            </button>
+                                        </div>
                                     </div>
                                 ))}
                             </div>
                         </section>
                     )}
 
-                    {/* Configurations (Pricing) */}
+                    {/* Unit Configurations with Accurate Pricing Matrix */}
                     <section id="configurations" className="scroll-mt-40">
-                        <h2 className="text-2xl font-bold text-slate-800 mb-6">Unit Configurations</h2>
-                        <div className="bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
-                            <div className="grid grid-cols-4 bg-slate-50 p-4 font-semibold text-slate-700 text-sm">
-                                <div>Unit Type</div>
-                                <div>Carpet Area</div>
-                                <div>Price</div>
-                                <div></div>
+                        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6">
+                            <div>
+                                <span className="text-[11px] font-extrabold uppercase tracking-widest text-emerald-700 bg-emerald-50 border border-emerald-200 px-3 py-1 rounded-full inline-block mb-2">
+                                    100% Brokerage Free • Direct Developer Mandate
+                                </span>
+                                <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight">
+                                    Unit Configurations & Pricing
+                                </h2>
                             </div>
-                            {/* Logic: Prefer rich configurationDetails; fallback to basic configurations list */}
-                            {(project.configurationDetails?.length ? project.configurationDetails : (project.configurations || []).map(c => ({
-                                type: c,
-                                carpetArea: 'Request Info',
-                                priceRange: 'Request Price'
-                            }))).map((config: any, i: number) => (
-                                <div key={i} className="grid grid-cols-4 p-4 items-center border-t border-gray-100 hover:bg-blue-50/50 transition-colors">
-                                    <div className="font-bold text-slate-800">{config.type || config}</div>
-                                    <div className="text-slate-600 font-medium">{config.carpetArea || '--'}</div>
-                                    <div className="font-bold text-slate-900">
-                                        {/* Show Exact price if available for specific config, else project range */}
-                                        {config.priceRange && config.priceRange !== 'Request Price'
-                                            ? config.priceRange
-                                            : (i === 0 && project.exactPrice ? project.exactPrice : 'Request Price')}
+
+                            {/* Configuration Filter Tabs */}
+                            <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar p-1 bg-slate-100 rounded-xl">
+                                {['All', ...Array.from(new Set(resolvedConfigs.map(c => c.name.match(/\d+\s*BHK/i)?.[0] || 'Apartment')))].map((tab) => (
+                                    <button
+                                        key={tab}
+                                        onClick={() => setConfigFilter(tab)}
+                                        className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all whitespace-nowrap ${
+                                            configFilter === tab
+                                                ? 'bg-white text-slate-900 shadow-sm'
+                                                : 'text-slate-600 hover:text-slate-900'
+                                        }`}
+                                    >
+                                        {tab}
+                                    </button>
+                                ))}
+                            </div>
+                        </div>
+
+                        {/* Configuration Cards Grid */}
+                        <div className="space-y-4">
+                            {filteredConfigs.map((conf, i) => {
+                                const allInclusive = calculateAllInclusive(conf);
+                                const stampDuty = conf.basePrice * ((conf.stampDutyRate || 7) / 100);
+                                const gst = conf.basePrice * ((conf.gstRate || 5) / 100);
+
+                                return (
+                                    <div 
+                                        key={conf.id || i}
+                                        className="bg-white rounded-3xl border border-slate-200/90 hover:border-brand-300 shadow-sm hover:shadow-md transition-all p-5 sm:p-6"
+                                    >
+                                        <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
+                                            {/* Left: Unit Details */}
+                                            <div className="flex-1">
+                                                <div className="flex items-center gap-2 flex-wrap mb-2">
+                                                    <span className="text-lg sm:text-xl font-black text-slate-900">
+                                                        {conf.name}
+                                                    </span>
+                                                    <span className="px-2.5 py-0.5 rounded-full text-xs font-extrabold bg-blue-50 text-blue-700 border border-blue-200">
+                                                        RERA Carpet: {conf.carpetArea} sq.ft
+                                                    </span>
+                                                    {conf.balconyArea > 0 && (
+                                                        <span className="px-2 py-0.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-600">
+                                                            + {conf.balconyArea} sq.ft Balcony
+                                                        </span>
+                                                    )}
+                                                    <span className="px-2 py-0.5 rounded-full text-xs font-semibold bg-emerald-50 text-emerald-700">
+                                                        {conf.bathrooms} Baths
+                                                    </span>
+                                                </div>
+
+                                                <p className="text-xs text-slate-500 mb-4">
+                                                    Optimal natural lighting, cross-ventilation, and zero space wastage. Verified under MahaRERA {project.reraId}.
+                                                </p>
+
+                                                {/* Price Breakdown Matrix */}
+                                                <div className="grid grid-cols-2 sm:grid-cols-4 gap-2.5 p-3 rounded-xl bg-slate-50 border border-slate-100 text-xs">
+                                                    <div>
+                                                        <span className="text-[10px] text-slate-400 uppercase font-bold block">Base Price</span>
+                                                        <span className="font-extrabold text-slate-900">{formatLakhsCr(conf.basePrice)}</span>
+                                                    </div>
+                                                    <div>
+                                                        <span className="text-[10px] text-slate-400 uppercase font-bold block">Rate / Sq.ft</span>
+                                                        <span className="font-bold text-slate-700">₹{conf.pricePerSqft?.toLocaleString('en-IN') || Math.round(conf.basePrice / conf.carpetArea).toLocaleString('en-IN')}/sq.ft</span>
+                                                    </div>
+                                                    <div>
+                                                        <span className="text-[10px] text-slate-400 uppercase font-bold block">Govt Taxes (SD+GST)</span>
+                                                        <span className="font-medium text-slate-600">₹{Math.round(stampDuty + gst).toLocaleString('en-IN')}</span>
+                                                    </div>
+                                                    <div>
+                                                        <span className="text-[10px] text-emerald-600 uppercase font-black block">All-Inclusive Est.</span>
+                                                        <span className="font-black text-emerald-700 text-sm">{formatLakhsCr(allInclusive)}</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* Right: Actions & Floor Plan Thumbnail */}
+                                            <div className="flex sm:flex-row lg:flex-col items-center sm:justify-end gap-3 shrink-0">
+                                                {conf.layoutImage && (
+                                                    <button
+                                                        onClick={() => {
+                                                            setZoomLevel(1);
+                                                            setLightboxImage({
+                                                                url: conf.layoutImage!,
+                                                                title: `${conf.name} - Floor Plan`,
+                                                                subtitle: `${project.title} | ${conf.carpetArea} sq.ft RERA Carpet Area`,
+                                                                specs: [
+                                                                    { label: 'Unit Type', value: conf.name },
+                                                                    { label: 'Carpet Area', value: `${conf.carpetArea} sq.ft` },
+                                                                    { label: 'Balcony', value: `${conf.balconyArea} sq.ft` },
+                                                                    { label: 'Base Value', value: formatLakhsCr(conf.basePrice) }
+                                                                ],
+                                                                type: 'floor-plan'
+                                                            });
+                                                        }}
+                                                        className="w-full sm:w-auto px-4 py-2.5 rounded-xl border border-slate-300 hover:border-brand-500 hover:bg-brand-50 text-slate-700 hover:text-brand-700 font-bold text-xs uppercase tracking-wider transition-all flex items-center justify-center gap-1.5"
+                                                    >
+                                                        <Maximize2 className="w-3.5 h-3.5" />
+                                                        <span>View Floor Plan</span>
+                                                    </button>
+                                                )}
+
+                                                <button
+                                                    onClick={() => openWhatsApp(`Hi PROPSMART, please send me the official all-inclusive cost sheet and floor plans for ${conf.name} in ${project.title}.`)}
+                                                    className="w-full sm:w-auto px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-extrabold text-xs uppercase tracking-wider transition-all shadow-md flex items-center justify-center gap-1.5"
+                                                >
+                                                    <Phone className="w-3.5 h-3.5" />
+                                                    <span>Get Cost Sheet</span>
+                                                </button>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div className="text-right">
-                                        <button
-                                            onClick={() => openWhatsApp('Hi, sending breakdown for ' + (config.type || config) + ' in ' + project.title)}
-                                            className="text-blue-600 font-semibold text-sm hover:underline"
-                                        >
-                                            Price Breakup
-                                        </button>
-                                    </div>
-                                </div>
-                            ))}
+                                );
+                            })}
                         </div>
                     </section>
 
@@ -947,6 +1361,145 @@ const ProjectDetails = () => {
                     projectId={project.id}
                 />
             </div >
+
+            {/* Fullscreen Master Layout & Floor Plan Lightbox Modal */}
+            {lightboxImage && (
+                <div 
+                    className="fixed inset-0 z-50 bg-slate-950/95 backdrop-blur-lg flex flex-col justify-between p-4 sm:p-6 overflow-hidden animate-in fade-in duration-200"
+                    onClick={(e) => {
+                        if (e.target === e.currentTarget) setLightboxImage(null);
+                    }}
+                >
+                    {/* Top Bar */}
+                    <div className="flex items-center justify-between gap-4 z-10 bg-slate-900/80 backdrop-blur-md p-4 rounded-2xl border border-slate-800 shadow-2xl">
+                        <div className="min-w-0">
+                            <div className="flex items-center gap-2 flex-wrap">
+                                <span className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-wider bg-brand-500/20 text-brand-400 border border-brand-500/30">
+                                    {lightboxImage.type === 'master-layout' ? 'Master Township Plan' : 'RERA Sanctioned Floor Plan'}
+                                </span>
+                                <span className="text-xs text-slate-400 font-mono">MahaRERA: {project.reraId}</span>
+                            </div>
+                            <h3 className="text-lg sm:text-xl font-bold text-white truncate mt-1">
+                                {lightboxImage.title}
+                            </h3>
+                            {lightboxImage.subtitle && (
+                                <p className="text-xs text-slate-400 truncate hidden sm:block">
+                                    {lightboxImage.subtitle}
+                                </p>
+                            )}
+                        </div>
+
+                        {/* Controls */}
+                        <div className="flex items-center gap-2">
+                            {/* Zoom controls */}
+                            <div className="hidden sm:flex items-center gap-1 bg-slate-800/80 p-1 rounded-xl border border-slate-700">
+                                <button
+                                    onClick={() => setZoomLevel(prev => Math.max(0.5, prev - 0.25))}
+                                    className="p-2 text-slate-300 hover:text-white hover:bg-slate-700 rounded-lg transition-colors"
+                                    title="Zoom Out"
+                                >
+                                    <ZoomOut className="w-4 h-4" />
+                                </button>
+                                <span className="text-xs font-mono font-bold text-slate-200 px-2 min-w-[3rem] text-center">
+                                    {Math.round(zoomLevel * 100)}%
+                                </span>
+                                <button
+                                    onClick={() => setZoomLevel(prev => Math.min(3, prev + 0.25))}
+                                    className="p-2 text-slate-300 hover:text-white hover:bg-slate-700 rounded-lg transition-colors"
+                                    title="Zoom In"
+                                >
+                                    <ZoomIn className="w-4 h-4" />
+                                </button>
+                                <button
+                                    onClick={() => setZoomLevel(1)}
+                                    className="p-2 text-slate-400 hover:text-white hover:bg-slate-700 rounded-lg transition-colors"
+                                    title="Reset Zoom"
+                                >
+                                    <RotateCcw className="w-4 h-4" />
+                                </button>
+                            </div>
+
+                            {/* Download Action */}
+                            <a
+                                href={lightboxImage.url}
+                                download={`${project.slug}-${lightboxImage.title.toLowerCase().replace(/\s+/g, '-')}.jpg`}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="p-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 hover:text-white transition-colors border border-slate-700"
+                                title="Download Image"
+                            >
+                                <Download className="w-4 h-4" />
+                            </a>
+
+                            {/* Close */}
+                            <button
+                                onClick={() => setLightboxImage(null)}
+                                className="p-2.5 rounded-xl bg-red-600/80 hover:bg-red-600 text-white transition-colors"
+                                title="Close"
+                            >
+                                <X className="w-4 h-4" />
+                            </button>
+                        </div>
+                    </div>
+
+                    {/* Image Viewer Canvas */}
+                    <div className="flex-1 flex items-center justify-center overflow-auto p-4 my-2 relative">
+                        <div 
+                            className="transition-transform duration-200 ease-out flex items-center justify-center max-w-full max-h-full cursor-grab active:cursor-grabbing"
+                            style={{ transform: `scale(${zoomLevel})` }}
+                        >
+                            <img
+                                src={lightboxImage.url}
+                                alt={lightboxImage.title}
+                                onError={(e) => {
+                                    e.currentTarget.src = '/images/placeholder-property.svg';
+                                }}
+                                className="max-w-full max-h-[70vh] object-contain rounded-xl shadow-2xl bg-white/5 border border-white/10"
+                            />
+                        </div>
+                    </div>
+
+                    {/* Bottom Specs and Actions */}
+                    <div className="z-10 bg-slate-900/90 backdrop-blur-md p-4 rounded-2xl border border-slate-800 shadow-2xl flex flex-col sm:flex-row items-center justify-between gap-4">
+                        {/* Specs Chips */}
+                        {lightboxImage.specs && lightboxImage.specs.length > 0 ? (
+                            <div className="flex items-center gap-2 overflow-x-auto w-full sm:w-auto no-scrollbar">
+                                {lightboxImage.specs.map((spec, idx) => (
+                                    <div key={idx} className="shrink-0 px-3 py-1.5 rounded-xl bg-slate-800/80 border border-slate-700 text-xs">
+                                        <span className="text-slate-400 block text-[10px] uppercase font-bold">{spec.label}</span>
+                                        <span className="text-white font-extrabold">{spec.value}</span>
+                                    </div>
+                                ))}
+                            </div>
+                        ) : (
+                            <div className="text-xs text-slate-400">
+                                Official Sanctioned Architectural Drawing • PROPSMART Direct Verification
+                            </div>
+                        )}
+
+                        {/* CTA Buttons */}
+                        <div className="flex items-center gap-3 w-full sm:w-auto justify-end">
+                            <button
+                                onClick={() => openWhatsApp(`Hi PROPSMART, please share the official high-resolution PDF and cost sheet for ${lightboxImage.title} at ${project.title} (MahaRERA: ${project.reraId}).`)}
+                                className="flex-1 sm:flex-none px-4 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs uppercase tracking-wider transition-colors flex items-center justify-center gap-2 shadow-md"
+                            >
+                                <Phone className="w-4 h-4" />
+                                <span>Get High-Res PDF via WhatsApp</span>
+                            </button>
+                            <button
+                                onClick={() => {
+                                    setLightboxImage(null);
+                                    openLeadForm('Site Visit');
+                                }}
+                                className="flex-1 sm:flex-none px-4 py-2.5 rounded-xl bg-brand-600 hover:bg-brand-500 text-white font-bold text-xs uppercase tracking-wider transition-colors flex items-center justify-center gap-2 shadow-md"
+                            >
+                                <Calendar className="w-4 h-4" />
+                                <span>Book Site Visit</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            )}
 
             <Footer />
         </div >

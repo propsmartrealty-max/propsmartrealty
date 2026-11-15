@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ShieldCheck, QrCode, ExternalLink, Copy, Check, Award, Building, Calendar, LandPlot, CheckCircle2, FileText, Landmark } from 'lucide-react';
+import { ShieldCheck, QrCode, ExternalLink, Copy, Check, Award, Building, Calendar, LandPlot, CheckCircle2, FileText, Landmark, Download } from 'lucide-react';
 import { getRERAMetadata, getMahaRERAVerificationUrl } from '../../utils/qrUtils';
 import { PROPSMART_RERA } from './RERABadge';
 
@@ -21,7 +21,7 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
     const [copied, setCopied] = useState(false);
     const [showEnlargedQR, setShowEnlargedQR] = useState(false);
 
-    const meta = getRERAMetadata(slug, reraId);
+    const meta = getRERAMetadata(slug, reraId, { title, location, possessionDate });
     const verificationUrl = getMahaRERAVerificationUrl(reraId);
 
     const handleCopy = () => {
@@ -249,13 +249,22 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
                                 href={verificationUrl}
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="flex-1 py-3 rounded-xl bg-emerald-600 text-white font-bold text-xs uppercase tracking-wider hover:bg-emerald-700 transition-colors"
+                                className="flex-1 py-3 rounded-xl bg-emerald-600 text-white font-bold text-xs uppercase tracking-wider hover:bg-emerald-700 transition-colors inline-flex items-center justify-center gap-1.5"
                             >
-                                Open Portal
+                                <span>Verify on RERA</span>
+                                <ExternalLink className="w-3.5 h-3.5" />
+                            </a>
+                            <a
+                                href={meta.qrCodeUrl}
+                                download={`${reraId}-MahaRERA-QR.svg`}
+                                className="px-3.5 py-3 rounded-xl bg-slate-100 text-slate-700 font-bold text-xs hover:bg-slate-200 transition-colors inline-flex items-center justify-center"
+                                title="Download MahaRERA QR Code"
+                            >
+                                <Download className="w-4 h-4 text-slate-700" />
                             </a>
                             <button
                                 onClick={() => setShowEnlargedQR(false)}
-                                className="px-5 py-3 rounded-xl bg-slate-100 text-slate-700 font-bold text-xs hover:bg-slate-200 transition-colors"
+                                className="px-4 py-3 rounded-xl bg-slate-100 text-slate-700 font-bold text-xs hover:bg-slate-200 transition-colors"
                             >
                                 Close
                             </button>

@@ -278,6 +278,9 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                             <img
                                 src={qrUrl}
                                 alt={`MahaRERA QR for ${project.title}`}
+                                onError={(e) => {
+                                    e.currentTarget.src = '/images/qr/propsmart-agent-qr.svg';
+                                }}
                                 className="w-full h-full object-contain"
                             />
                         </div>
