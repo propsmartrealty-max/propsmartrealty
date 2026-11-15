@@ -14,7 +14,8 @@ import SEO from '../components/SEO';
 import { 
     MapPin, Building2, CheckCircle2, ArrowRight, Phone, Download, Share2, Heart, Star, 
     Calendar, Tag, ShieldCheck, ExternalLink, Maximize2, ZoomIn, ZoomOut, RotateCcw, 
-    X, Layers, Sparkles, Calculator, Check, Compass, Info, FileSpreadsheet, Home, SlidersHorizontal
+    X, Layers, Sparkles, Calculator, Check, Compass, Info, FileSpreadsheet, Home, SlidersHorizontal,
+    Trees, Activity, Leaf, Droplets, Zap
 } from 'lucide-react';
 import EMICalculator from '../components/Portal/EMICalculator';
 import PricingCalculator from '../components/Portal/Project/PricingCalculator';
@@ -28,6 +29,8 @@ import ConstructionTimeline from '../components/Portal/Infographics/Construction
 import CarpetAreaInfographic from '../components/Portal/Infographics/CarpetAreaInfographic';
 import InvestmentMetrics from '../components/Portal/Infographics/InvestmentMetrics';
 import TransitConnectivity from '../components/Portal/Infographics/TransitConnectivity';
+import AmenitiesInfographic from '../components/Portal/Infographics/AmenitiesInfographic';
+import SpecificationsInfographic from '../components/Portal/Infographics/SpecificationsInfographic';
 import { PROPSMART_RERA } from '../components/Portal/RERABadge';
 
 
@@ -124,6 +127,7 @@ const ProjectDetails = () => {
             'floor-plans',
             'configurations',
             'amenities',
+            'specifications',
             'connectivity',
             'location',
             'investment',
@@ -622,6 +626,7 @@ const ProjectDetails = () => {
                             ...(resolvedFloorPlans.length > 0 ? [{ id: 'floor-plans', label: 'Floor Plans' }] : []),
                             { id: 'configurations', label: 'Configurations & Pricing' },
                             { id: 'amenities', label: 'Amenities' },
+                            { id: 'specifications', label: 'Build Specs' },
                             { id: 'connectivity', label: 'Connectivity' },
                             { id: 'location', label: 'Location' },
                             { id: 'investment', label: 'Yield Intel' },
@@ -671,16 +676,66 @@ const ProjectDetails = () => {
                             </div>
                         </div>
 
-                        <div className="grid grid-cols-2 md:grid-cols-3 bg-white p-6 rounded-2xl border border-gray-100 shadow-sm gap-y-6">
-                            {(project.specs || []).map((spec, index) => (
-                                <div key={index} className="border-r last:border-0 border-gray-100 px-4">
-                                    <p className="text-xs text-gray-400 uppercase tracking-wide mb-1">{spec.label}</p>
-                                    <p className="font-semibold text-slate-800">{spec.value}</p>
+                        {/* Infographic Township Architecture Overview */}
+                        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 bg-white p-4 sm:p-5 rounded-3xl border border-slate-200/90 shadow-2xs">
+                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                                <div className="w-10 h-10 rounded-xl bg-emerald-50 text-emerald-600 flex items-center justify-center shrink-0 border border-emerald-100">
+                                    <Trees className="w-5 h-5" />
                                 </div>
-                            ))}
-                            <div className="px-4">
-                                <p className="text-xs text-gray-400 uppercase tracking-wide mb-1">Status</p>
-                                <p className="font-semibold text-slate-800">{project.status}</p>
+                                <div className="min-w-0">
+                                    <p className="text-[10px] text-slate-400 uppercase font-black tracking-wider">Land Parcel</p>
+                                    <p className="font-extrabold text-slate-900 text-sm truncate">{project.totalAcres || '10+ Acres Planned'}</p>
+                                </div>
+                            </div>
+
+                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                                <div className="w-10 h-10 rounded-xl bg-indigo-50 text-indigo-600 flex items-center justify-center shrink-0 border border-indigo-100">
+                                    <Building2 className="w-5 h-5" />
+                                </div>
+                                <div className="min-w-0">
+                                    <p className="text-[10px] text-slate-400 uppercase font-black tracking-wider">Elevation</p>
+                                    <p className="font-extrabold text-slate-900 text-sm truncate">{project.totalFloors || 'S+22 to G+30 Floors'}</p>
+                                </div>
+                            </div>
+
+                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                                <div className="w-10 h-10 rounded-xl bg-teal-50 text-teal-600 flex items-center justify-center shrink-0 border border-teal-100">
+                                    <Leaf className="w-5 h-5" />
+                                </div>
+                                <div className="min-w-0">
+                                    <p className="text-[10px] text-slate-400 uppercase font-black tracking-wider">Open Greens</p>
+                                    <p className="font-extrabold text-slate-900 text-sm truncate">75% Landscaped Zones</p>
+                                </div>
+                            </div>
+
+                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                                <div className="w-10 h-10 rounded-xl bg-amber-50 text-amber-600 flex items-center justify-center shrink-0 border border-amber-100">
+                                    <Home className="w-5 h-5" />
+                                </div>
+                                <div className="min-w-0">
+                                    <p className="text-[10px] text-slate-400 uppercase font-black tracking-wider">Typology</p>
+                                    <p className="font-extrabold text-slate-900 text-sm truncate">{(project.configurations || []).join(', ')}</p>
+                                </div>
+                            </div>
+
+                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                                <div className="w-10 h-10 rounded-xl bg-blue-50 text-blue-600 flex items-center justify-center shrink-0 border border-blue-100">
+                                    <Activity className="w-5 h-5" />
+                                </div>
+                                <div className="min-w-0">
+                                    <p className="text-[10px] text-slate-400 uppercase font-black tracking-wider">Status</p>
+                                    <p className="font-extrabold text-slate-900 text-sm truncate">{project.status}</p>
+                                </div>
+                            </div>
+
+                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                                <div className="w-10 h-10 rounded-xl bg-purple-50 text-purple-600 flex items-center justify-center shrink-0 border border-purple-100">
+                                    <Calendar className="w-5 h-5" />
+                                </div>
+                                <div className="min-w-0">
+                                    <p className="text-[10px] text-slate-400 uppercase font-black tracking-wider">Possession</p>
+                                    <p className="font-extrabold text-slate-900 text-sm truncate">{project.possessionDate || 'As per RERA'}</p>
+                                </div>
                             </div>
                         </div>
                     </section>
@@ -1072,18 +1127,18 @@ const ProjectDetails = () => {
                         </div>
                     </section>
 
-                    {/* Amenities */}
-                    <section id="amenities" className="scroll-mt-40">
-                        <h2 className="text-2xl font-bold text-slate-800 mb-6">Amenities</h2>
-                        <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-                            {(project.features || []).map((feature, i) => (
-                                <div key={i} className="flex items-center gap-3 p-4 bg-white rounded-xl border border-gray-100 shadow-sm hover:border-blue-200 hover:shadow-md transition-all">
-                                    <CheckCircle2 className="w-5 h-5 text-green-500" />
-                                    <span className="font-medium text-slate-700">{feature}</span>
-                                </div>
-                            ))}
-                        </div>
-                    </section>
+                    {/* Infographic Amenities Hub with Relevant Custom Icons */}
+                    <AmenitiesInfographic
+                        features={project.features || []}
+                        projectTitle={project.title}
+                    />
+
+                    {/* Infographic Technical Specifications & Material Standards */}
+                    <SpecificationsInfographic
+                        specs={project.specs || []}
+                        projectTitle={project.title}
+                        reraId={project.reraId}
+                    />
 
                     {/* Spatial Transit & Commute Infographic */}
                     <div id="connectivity" className="scroll-mt-40">

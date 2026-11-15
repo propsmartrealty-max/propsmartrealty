@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { MapPin, Home, CheckCircle2, Building2, QrCode, ShieldCheck, ExternalLink, X } from 'lucide-react';
+import { MapPin, Home, CheckCircle2, Building2, QrCode, ShieldCheck, ExternalLink, X, Waves, Dumbbell, Castle, Sparkles } from 'lucide-react';
 import { Project } from '../../types';
 import { useData } from '../../context/DataContext';
 import DealBadge from './DealBadge';
@@ -166,6 +166,32 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                             </span>
                         ))}
                     </div>
+
+                    {/* Curated Amenities Infographic Pills with Real Icons */}
+                    {project.features && project.features.length > 0 && (
+                        <div className="mt-2.5 flex flex-wrap gap-1.5">
+                            {project.features.slice(0, 3).map((feat, i) => {
+                                const f = feat.toLowerCase();
+                                const isPool = f.includes('pool') || f.includes('swim');
+                                const isGym = f.includes('gym') || f.includes('fitness');
+                                const isClub = f.includes('club');
+                                return (
+                                    <span key={i} className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-slate-50 text-[10px] font-semibold text-slate-600 border border-slate-200/60">
+                                        {isPool ? (
+                                            <Waves className="w-2.5 h-2.5 text-cyan-600" />
+                                        ) : isGym ? (
+                                            <Dumbbell className="w-2.5 h-2.5 text-amber-600" />
+                                        ) : isClub ? (
+                                            <Castle className="w-2.5 h-2.5 text-indigo-600" />
+                                        ) : (
+                                            <Sparkles className="w-2.5 h-2.5 text-emerald-600" />
+                                        )}
+                                        <span className="truncate max-w-[90px]">{feat}</span>
+                                    </span>
+                                );
+                            })}
+                        </div>
+                    )}
 
                     {/* Infographic RERA & Compliance Strip */}
                     <div className="mt-2.5 flex items-center justify-between text-[11px] text-slate-500 bg-slate-50/80 px-2.5 py-1.5 rounded-xl border border-slate-200/60">

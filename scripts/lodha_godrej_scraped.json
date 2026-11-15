@@ -1,0 +1,2794 @@
+[
+  {
+    "id": "p-lodha-camelot-kharadi",
+    "title": "Lodha Camelot",
+    "slug": "lodha-camelot-kharadi",
+    "builderId": "b-lodha",
+    "location": "Kharadi, Pune",
+    "priceRange": "\u20b91.45 Cr - \u20b92.85 Cr",
+    "exactPrice": "\u20b91.45 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "lat": 18.5529,
+    "lng": 73.9416,
+    "reraId": "P52100052981",
+    "totalAcres": "11.5 Acres Planned",
+    "totalFloors": "4 Towers (G+32 Floors)",
+    "floorsAndAcres": "11.5 Acres Planned \u2022 4 Towers (G+32 Floors)",
+    "description": "Lodha Camelot in Upper Kharadi Pune brings an elite royal lifestyle featuring panoramic river and greenery views, grand palace-inspired clubhouses, and bespoke 3 & 4 BHK residences.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Pune",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Camelot?",
+        "answer": "Lodha Camelot is fully approved by MahaRERA under registration number P52100052981. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Camelot?",
+        "answer": "Lodha Camelot offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b91.45 Cr up to \u20b91.45 Cr - \u20b92.85 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Camelot?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Camelot?",
+        "answer": "The scheduled possession for Lodha Camelot is Dec 2027, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-camelot-kharadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5529,73.9416&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-altero-wakad",
+    "title": "Lodha Altero",
+    "slug": "lodha-altero-wakad",
+    "builderId": "b-lodha",
+    "location": "Wakad, Pune",
+    "priceRange": "\u20b91.15 Cr - \u20b91.75 Cr",
+    "exactPrice": "\u20b91.15 Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/1980265094_Lodha_Wakad_Website_Images_Spotlight_SC_1903x800px.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/1980265094_Lodha_Wakad_Website_Images_Spotlight_SC_1903x800px.jpg",
+    "lat": 18.5987,
+    "lng": 73.7684,
+    "reraId": "P52100054112",
+    "totalAcres": "7.2 Acres Planned",
+    "totalFloors": "G+28 Floors",
+    "floorsAndAcres": "7.2 Acres Planned \u2022 G+28 Floors",
+    "description": "Lodha Altero in Wakad Pune provides futuristic luxury living with intelligent home automation, sprawling podium amenities, and high-speed access to the Hinjewadi IT Park and Pune-Mumbai Expressway.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Pune",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Altero?",
+        "answer": "Lodha Altero is fully approved by MahaRERA under registration number P52100054112. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Altero?",
+        "answer": "Lodha Altero offers 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of \u20b91.15 Cr up to \u20b91.15 Cr - \u20b91.75 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Altero?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Altero?",
+        "answer": "The scheduled possession for Lodha Altero is June 2027, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-altero-wakad-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5987,73.7684&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-estilo-kharadi",
+    "title": "Lodha Estilo",
+    "slug": "lodha-estilo-kharadi",
+    "builderId": "b-lodha",
+    "location": "Kharadi, Pune",
+    "priceRange": "\u20b92.20 Cr - \u20b94.50 Cr",
+    "exactPrice": "\u20b92.20 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Estilo_1903X800_0.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Estilo_1903X800_0.jpg",
+    "lat": 18.5534,
+    "lng": 73.9482,
+    "reraId": "P52100051234",
+    "totalAcres": "8.5 Acres",
+    "totalFloors": "3 Iconic Towers (G+30 Floors)",
+    "floorsAndAcres": "8.5 Acres \u2022 3 Iconic Towers (G+30 Floors)",
+    "description": "Lodha Estilo is Kharadi's crowning jewel of luxury residences, with expansive sundecks, Italian marble finishes, private elevator lobbies, and a lavish 25,000 sq.ft. clubhouse.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Pune",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Estilo?",
+        "answer": "Lodha Estilo is fully approved by MahaRERA under registration number P52100051234. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Estilo?",
+        "answer": "Lodha Estilo offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b92.20 Cr up to \u20b92.20 Cr - \u20b94.50 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Estilo?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Estilo?",
+        "answer": "The scheduled possession for Lodha Estilo is Dec 2026, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-estilo-kharadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5534,73.9482&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-belmondo",
+    "title": "Lodha Belmondo",
+    "slug": "lodha-belmondo",
+    "builderId": "b-lodha",
+    "location": "Pune Expressway, Gahunje",
+    "priceRange": "\u20b91.80 Cr - \u20b96.50 Cr",
+    "exactPrice": "\u20b91.80 Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK",
+      "Golf Villa"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg",
+    "lat": 18.6833,
+    "lng": 73.6989,
+    "reraId": "P52100000287",
+    "totalAcres": "100+ Acres Golf Township",
+    "totalFloors": "Low-Rise & High-Rise G+24",
+    "floorsAndAcres": "100+ Acres Golf Township \u2022 Low-Rise & High-Rise G+24",
+    "description": "Lodha Belmondo is a spectacular 100+ acre riverside golf township designed around a 45-hole Greg Norman golf course along the Pavana River, with 50,000 sq.ft. luxury resort clubhouse.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Pune",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Belmondo?",
+        "answer": "Lodha Belmondo is fully approved by MahaRERA under registration number P52100000287. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Belmondo?",
+        "answer": "Lodha Belmondo offers 2 BHK, 3 BHK, 4 BHK, Golf Villa typologies starting from an exact direct-partner pricing of \u20b91.80 Cr up to \u20b91.80 Cr - \u20b96.50 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Belmondo?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Belmondo?",
+        "answer": "The scheduled possession for Lodha Belmondo is Ready to Move, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-belmondo-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.6833,73.6989&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-magnus-hinjewadi",
+    "title": "Lodha Magnus",
+    "slug": "lodha-magnus-hinjewadi",
+    "builderId": "b-lodha",
+    "location": "Hinjewadi Phase 1, Pune",
+    "priceRange": "\u20b91.25 Cr - \u20b91.95 Cr",
+    "exactPrice": "\u20b91.25 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Magnus_1903x800.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Magnus_1903x800.jpg",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "reraId": "P52100053890",
+    "totalAcres": "9.0 Acres",
+    "totalFloors": "G+31 Floors",
+    "floorsAndAcres": "9.0 Acres \u2022 G+31 Floors",
+    "description": "Lodha Magnus brings grand executive residences to Hinjewadi Phase 1 with infinity lap pools, sky lounges, and pedestrian-first landscape architecture next to major IT campuses.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Pune",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Magnus?",
+        "answer": "Lodha Magnus is fully approved by MahaRERA under registration number P52100053890. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Magnus?",
+        "answer": "Lodha Magnus offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b91.25 Cr up to \u20b91.25 Cr - \u20b91.95 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Magnus?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Magnus?",
+        "answer": "The scheduled possession for Lodha Magnus is Dec 2027, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-magnus-hinjewadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5913,73.7389&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-massimo-baner",
+    "title": "Lodha Massimo",
+    "slug": "lodha-massimo-baner",
+    "builderId": "b-lodha",
+    "location": "Baner, Pune",
+    "priceRange": "\u20b91.65 Cr - \u20b92.95 Cr",
+    "exactPrice": "\u20b91.65 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "March 2028",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight%20v2.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight%20v2.jpg",
+    "lat": 18.559,
+    "lng": 73.7868,
+    "reraId": "P52100055412",
+    "totalAcres": "6.8 Acres Planned",
+    "totalFloors": "G+29 Floors",
+    "floorsAndAcres": "6.8 Acres Planned \u2022 G+29 Floors",
+    "description": "Lodha Massimo in Baner Pune offers high-street luxury living adjacent to Baner Hill, featuring double-height entrance lobbies, private deck balconies, and full Olympic amenities.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Pune",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Massimo?",
+        "answer": "Lodha Massimo is fully approved by MahaRERA under registration number P52100055412. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Massimo?",
+        "answer": "Lodha Massimo offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b91.65 Cr up to \u20b91.65 Cr - \u20b92.95 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Massimo?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Massimo?",
+        "answer": "The scheduled possession for Lodha Massimo is March 2028, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-massimo-baner-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.559,73.7868&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-one-bund-garden",
+    "title": "Lodha One",
+    "slug": "lodha-one-bund-garden",
+    "builderId": "b-lodha",
+    "location": "Bund Garden, Pune",
+    "priceRange": "\u20b94.50 Cr - \u20b912.00 Cr",
+    "exactPrice": "\u20b94.50 Cr",
+    "configurations": [
+      "4 BHK",
+      "5 BHK",
+      "Penthouse"
+    ],
+    "status": "New Launch",
+    "type": "Residential",
+    "possessionDate": "Dec 2028",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/Desktop_Lodha-One_1903x800.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Desktop_Lodha-One_1903x800.jpg",
+    "lat": 18.5362,
+    "lng": 73.8797,
+    "reraId": "P52100056123",
+    "totalAcres": "4.5 Acres Ultra-Luxury",
+    "totalFloors": "Iconic G+35 Towers",
+    "floorsAndAcres": "4.5 Acres Ultra-Luxury \u2022 Iconic G+35 Towers",
+    "description": "Lodha One at Bund Garden is Pune's most prestigious super-luxury address, providing ultra-exclusive sprawling floor-plate residences with personal concierge and private club services.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Pune",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha One?",
+        "answer": "Lodha One is fully approved by MahaRERA under registration number P52100056123. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha One?",
+        "answer": "Lodha One offers 4 BHK, 5 BHK, Penthouse typologies starting from an exact direct-partner pricing of \u20b94.50 Cr up to \u20b94.50 Cr - \u20b912.00 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha One?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha One?",
+        "answer": "The scheduled possession for Lodha One is Dec 2028, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-one-bund-garden-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5362,73.8797&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-palais-kothrud",
+    "title": "Lodha Palais",
+    "slug": "lodha-palais-kothrud",
+    "builderId": "b-lodha",
+    "location": "Kothrud, Pune",
+    "priceRange": "\u20b93.80 Cr - \u20b97.20 Cr",
+    "exactPrice": "\u20b93.80 Cr",
+    "configurations": [
+      "4 BHK",
+      "5 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Kothrud_1903x800.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Kothrud_1903x800.jpg",
+    "lat": 18.5074,
+    "lng": 73.8077,
+    "reraId": "P52100054321",
+    "totalAcres": "5.0 Acres Prime Land",
+    "totalFloors": "G+26 Floors",
+    "floorsAndAcres": "5.0 Acres Prime Land \u2022 G+26 Floors",
+    "description": "Lodha Palais in Kothrud Pune offers French palace-inspired bespoke architecture with lavish high ceilings, private sundecks, and handcrafted leisure facilities.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Pune",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Palais?",
+        "answer": "Lodha Palais is fully approved by MahaRERA under registration number P52100054321. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Palais?",
+        "answer": "Lodha Palais offers 4 BHK, 5 BHK typologies starting from an exact direct-partner pricing of \u20b93.80 Cr up to \u20b93.80 Cr - \u20b97.20 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Palais?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Palais?",
+        "answer": "The scheduled possession for Lodha Palais is Dec 2027, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-palais-kothrud-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5074,73.8077&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-sylvan-hinjewadi",
+    "title": "Lodha Sylvan",
+    "slug": "lodha-sylvan-hinjewadi",
+    "builderId": "b-lodha",
+    "location": "Hinjewadi Phase 3, Pune",
+    "priceRange": "\u20b985.00 L - \u20b91.35 Cr",
+    "exactPrice": "\u20b985.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/2519491749_Lodha-Hinjewadi-phase-3-_1903x800_Spotlight-Banner.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/2519491749_Lodha-Hinjewadi-phase-3-_1903x800_Spotlight-Banner.jpg",
+    "lat": 18.5833,
+    "lng": 73.698,
+    "reraId": "P52100054881",
+    "totalAcres": "12.0 Acres Planned",
+    "totalFloors": "G+28 Floors",
+    "floorsAndAcres": "12.0 Acres Planned \u2022 G+28 Floors",
+    "description": "Lodha Sylvan in Hinjewadi Phase 3 combines tranquil forest living with urban convenience, boasting over 1,000 trees, an organic farm, and multi-tier club zones.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Pune",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Sylvan?",
+        "answer": "Lodha Sylvan is fully approved by MahaRERA under registration number P52100054881. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Sylvan?",
+        "answer": "Lodha Sylvan offers 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of \u20b985.00 L up to \u20b985.00 L - \u20b91.35 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Sylvan?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Sylvan?",
+        "answer": "The scheduled possession for Lodha Sylvan is June 2027, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-sylvan-hinjewadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5833,73.698&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-elise-worli",
+    "title": "Lodha Elise",
+    "slug": "lodha-elise-worli",
+    "builderId": "b-lodha",
+    "location": "Worli, South Mumbai",
+    "priceRange": "\u20b95.50 Cr - \u20b912.50 Cr",
+    "exactPrice": "\u20b95.50 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 19.0176,
+    "lng": 72.8188,
+    "reraId": "P51900052119",
+    "totalAcres": "5.5 Acres",
+    "totalFloors": "G+45 Floors",
+    "floorsAndAcres": "5.5 Acres \u2022 G+45 Floors",
+    "description": "Lodha Elise at Worli Mumbai offers uninterrupted Arabian Sea views, bespoke interior styling by world-renowned designers, and private sky lounges overlooking South Mumbai.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Mumbai",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Elise?",
+        "answer": "Lodha Elise is fully approved by MahaRERA under registration number P51900052119. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Elise?",
+        "answer": "Lodha Elise offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b95.50 Cr up to \u20b95.50 Cr - \u20b912.50 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Elise?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Elise?",
+        "answer": "The scheduled possession for Lodha Elise is Dec 2027, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-elise-worli-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=19.0176,72.8188&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-altamount",
+    "title": "Lodha Altamount",
+    "slug": "lodha-altamount",
+    "builderId": "b-lodha",
+    "location": "Altamount Road, Billionaires Row, Mumbai",
+    "priceRange": "\u20b925.00 Cr - \u20b960.00 Cr",
+    "exactPrice": "\u20b925.00 Cr",
+    "configurations": [
+      "4 BHK",
+      "5 BHK",
+      "Duplex"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/Desktop_Lodha-Altamount_1903x800.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Desktop_Lodha-Altamount_1903x800.jpg",
+    "lat": 18.9667,
+    "lng": 72.8083,
+    "reraId": "P51900000001",
+    "totalAcres": "Bespoke Landmark Tower",
+    "totalFloors": "G+43 Floors",
+    "floorsAndAcres": "Bespoke Landmark Tower \u2022 G+43 Floors",
+    "description": "Lodha Altamount on Mumbai's iconic Billionaire's Row is India's most coveted residential skyscraper, featuring black glass curtain walls and ultra-exclusive residences.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Mumbai",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Altamount?",
+        "answer": "Lodha Altamount is fully approved by MahaRERA under registration number P51900000001. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Altamount?",
+        "answer": "Lodha Altamount offers 4 BHK, 5 BHK, Duplex typologies starting from an exact direct-partner pricing of \u20b925.00 Cr up to \u20b925.00 Cr - \u20b960.00 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Altamount?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Altamount?",
+        "answer": "The scheduled possession for Lodha Altamount is Ready to Move, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-altamount-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.9667,72.8083&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-bellevue-mahalaxmi",
+    "title": "Lodha Bellevue",
+    "slug": "lodha-bellevue-mahalaxmi",
+    "builderId": "b-lodha",
+    "location": "Mahalaxmi, South Mumbai",
+    "priceRange": "\u20b94.85 Cr - \u20b99.20 Cr",
+    "exactPrice": "\u20b94.85 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Bellevue_1903X800_0.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Bellevue_1903X800_0.jpg",
+    "lat": 18.9826,
+    "lng": 72.8242,
+    "reraId": "P51900048234",
+    "totalAcres": "5.0 Acres Grand Urban Oasis",
+    "totalFloors": "2 Towers (G+56 Floors)",
+    "floorsAndAcres": "5.0 Acres Grand Urban Oasis \u2022 2 Towers (G+56 Floors)",
+    "description": "Lodha Bellevue in Mahalaxmi offers mesmerizing views of the Mahalaxmi Racecourse and Arabian Sea, paired with two 56-storey architectural marvels.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Mumbai",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Bellevue?",
+        "answer": "Lodha Bellevue is fully approved by MahaRERA under registration number P51900048234. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Bellevue?",
+        "answer": "Lodha Bellevue offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b94.85 Cr up to \u20b94.85 Cr - \u20b99.20 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Bellevue?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Bellevue?",
+        "answer": "The scheduled possession for Lodha Bellevue is Dec 2026, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-bellevue-mahalaxmi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.9826,72.8242&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-amara-thane",
+    "title": "Lodha Amara",
+    "slug": "lodha-amara-thane",
+    "builderId": "b-lodha",
+    "location": "Kolshet Road, Thane (MMR)",
+    "priceRange": "\u20b978.00 L - \u20b91.85 Cr",
+    "exactPrice": "\u20b978.00 L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move & Ongoing",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_LodhaAmara_1903x800.webp",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_LodhaAmara_1903x800.webp",
+    "lat": 19.2312,
+    "lng": 72.9868,
+    "reraId": "P51700020088",
+    "totalAcres": "40+ Acres Forest Township",
+    "totalFloors": "Multiple G+30 Towers",
+    "floorsAndAcres": "40+ Acres Forest Township \u2022 Multiple G+30 Towers",
+    "description": "Lodha Amara is Thane's premier 40-acre residential township with a 2-acre private forest, 6 clubhouses, 5,000 sq.ft. sports arenas, and thousands of trees.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Mumbai",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Amara?",
+        "answer": "Lodha Amara is fully approved by MahaRERA under registration number P51700020088. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Amara?",
+        "answer": "Lodha Amara offers 1 BHK, 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of \u20b978.00 L up to \u20b978.00 L - \u20b91.85 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Amara?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Amara?",
+        "answer": "The scheduled possession for Lodha Amara is Ready to Move & Ongoing, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-amara-thane-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=19.2312,72.9868&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-upper-thane",
+    "title": "Lodha Upper Thane",
+    "slug": "lodha-upper-thane",
+    "builderId": "b-lodha",
+    "location": "Upper Thane / Anjur, Thane (MMR)",
+    "priceRange": "\u20b952.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b952.00 L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Upper-Thane_1903x800_0.jpg",
+    "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Upper-Thane_1903x800_0.jpg",
+    "lat": 19.2789,
+    "lng": 73.0412,
+    "reraId": "P51700020275",
+    "totalAcres": "200+ Acres Integrated Township",
+    "totalFloors": "G+14 & G+22 Mid-Rise Towers",
+    "floorsAndAcres": "200+ Acres Integrated Township \u2022 G+14 & G+22 Mid-Rise Towers",
+    "description": "Lodha Upper Thane is a 200+ acre mega-township offering world-class ICSE school, grand 50,000 sq.ft. clubhouse, retail high street, and cricket ground.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "Zero Brokerage Direct Builder Sales Partner",
+      "Pre-Sanctioned MahaRERA Approved Project",
+      "Iconic Lodha Luxury Living in Mumbai",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Marble in Living/Dining, 800x800mm Vitrified in Bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Platform with SS Sink, Water Purifier, Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Grohe Premium CP & Sanitaryware with Concealed Diverters"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Schneider Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Upper Thane?",
+        "answer": "Lodha Upper Thane is fully approved by MahaRERA under registration number P51700020275. All sanctions and land titles are verified."
+      },
+      {
+        "question": "What are the available apartment configurations and prices at Lodha Upper Thane?",
+        "answer": "Lodha Upper Thane offers 1 BHK, 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of \u20b952.00 L up to \u20b952.00 L - \u20b91.15 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage on Lodha Upper Thane?",
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+      },
+      {
+        "question": "When is the possession date for Lodha Upper Thane?",
+        "answer": "The scheduled possession for Lodha Upper Thane is Dec 2026, built according to sanctioned delivery timelines."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-upper-thane-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=19.2789,73.0412&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-godrej-meadows-mahalunge",
+    "title": "Godrej Meadows",
+    "slug": "godrej-meadows-mahalunge",
+    "builderId": "b-godrej",
+    "location": "Mahalunge, Pune",
+    "priceRange": "\u20b972.00 L - \u20b91.18 Cr",
+    "exactPrice": "\u20b972.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.563,
+    "lng": 73.742,
+    "reraId": "P52100030580",
+    "totalAcres": "10.0 Acres Enclave",
+    "totalFloors": "G+31 Floors",
+    "floorsAndAcres": "10.0 Acres Enclave \u2022 G+31 Floors",
+    "description": "Godrej Meadows at Riverhills Mahalunge Pune is a wellness-focused residential community with a 3,000 sq.ft. health club, tranquil nature views, and direct connectivity to the Hinjewadi IT corridor.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Pune with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Meadows?",
+        "answer": "Godrej Meadows is sanctioned under MahaRERA registration number P52100030580. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej Meadows?",
+        "answer": "Godrej Meadows configurations start from \u20b972.00 L with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej Meadows?",
+        "answer": "Godrej Meadows features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej Meadows?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-meadows-mahalunge-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.563,73.742&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  },
+  {
+    "id": "p-godrej-park-springs-manjari",
+    "title": "Godrej Park Springs",
+    "slug": "godrej-park-springs-manjari",
+    "builderId": "b-godrej",
+    "location": "Manjari, Pune",
+    "priceRange": "\u20b968.00 L - \u20b91.05 Cr",
+    "exactPrice": "\u20b968.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "March 2027",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5204,
+    "lng": 73.9872,
+    "reraId": "P52100032145",
+    "totalAcres": "9.5 Acres",
+    "totalFloors": "G+26 Floors",
+    "floorsAndAcres": "9.5 Acres \u2022 G+26 Floors",
+    "description": "Godrej Park Springs in Manjari Pune is an expansive green-themed development featuring scenic natural springs, skywalk trails, and quick access to Hadapsar and Kharadi.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Pune with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Park Springs?",
+        "answer": "Godrej Park Springs is sanctioned under MahaRERA registration number P52100032145. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej Park Springs?",
+        "answer": "Godrej Park Springs configurations start from \u20b968.00 L with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej Park Springs?",
+        "answer": "Godrej Park Springs features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej Park Springs?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-park-springs-manjari-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5204,73.9872&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  },
+  {
+    "id": "p-godrej-serene-mamurdi",
+    "title": "Godrej Serene",
+    "slug": "godrej-serene-mamurdi",
+    "builderId": "b-godrej",
+    "location": "Mamurdi, Pune",
+    "priceRange": "\u20b955.00 L - \u20b988.00 L",
+    "exactPrice": "\u20b955.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.6723,
+    "lng": 73.7145,
+    "reraId": "P52100029871",
+    "totalAcres": "12.0 Acres",
+    "totalFloors": "G+24 Floors",
+    "floorsAndAcres": "12.0 Acres \u2022 G+24 Floors",
+    "description": "Godrej Serene in Mamurdi Pune is designed around holistic lifestyle amenities with 1+ acre central park, grand clubhouse, and immediate access to the Pune-Mumbai Expressway.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Pune with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Serene?",
+        "answer": "Godrej Serene is sanctioned under MahaRERA registration number P52100029871. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej Serene?",
+        "answer": "Godrej Serene configurations start from \u20b955.00 L with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej Serene?",
+        "answer": "Godrej Serene features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej Serene?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-serene-mamurdi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.6723,73.7145&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  },
+  {
+    "id": "p-godrej-green-cove-mahalunge",
+    "title": "Godrej Green Cove",
+    "slug": "godrej-green-cove-mahalunge",
+    "builderId": "b-godrej",
+    "location": "Mahalunge, Pune",
+    "priceRange": "\u20b962.00 L - \u20b995.00 L",
+    "exactPrice": "\u20b962.00 L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5635,
+    "lng": 73.743,
+    "reraId": "P52100026875",
+    "totalAcres": "8.0 Acres",
+    "totalFloors": "G+28 Floors",
+    "floorsAndAcres": "8.0 Acres \u2022 G+28 Floors",
+    "description": "Godrej Green Cove is part of the 100+ acre Godrej Riverhills Township in Mahalunge, offering lush riverfront views, cycling tracks, and an integrated high-street retail zone.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Pune with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Green Cove?",
+        "answer": "Godrej Green Cove is sanctioned under MahaRERA registration number P52100026875. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej Green Cove?",
+        "answer": "Godrej Green Cove configurations start from \u20b962.00 L with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej Green Cove?",
+        "answer": "Godrej Green Cove features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej Green Cove?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-green-cove-mahalunge-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5635,73.743&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  },
+  {
+    "id": "p-godrej-park-greens-mamurdi",
+    "title": "Godrej Park Greens",
+    "slug": "godrej-park-greens-mamurdi",
+    "builderId": "b-godrej",
+    "location": "Mamurdi, Pune",
+    "priceRange": "\u20b954.00 L - \u20b982.00 L",
+    "exactPrice": "\u20b954.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.671,
+    "lng": 73.713,
+    "reraId": "P52100019639",
+    "totalAcres": "10.5 Acres",
+    "totalFloors": "G+22 Floors",
+    "floorsAndAcres": "10.5 Acres \u2022 G+22 Floors",
+    "description": "Godrej Park Greens offers over 1,100 trees, tree houses, and reflexology paths in Mamurdi, making it one of Pune's most nature-blessed residential communities.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Pune with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Park Greens?",
+        "answer": "Godrej Park Greens is sanctioned under MahaRERA registration number P52100019639. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej Park Greens?",
+        "answer": "Godrej Park Greens configurations start from \u20b954.00 L with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej Park Greens?",
+        "answer": "Godrej Park Greens features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej Park Greens?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-park-greens-mamurdi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.671,73.713&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  },
+  {
+    "id": "p-godrej-hillview-estate-expressway",
+    "title": "Godrej Hillview Estate",
+    "slug": "godrej-hillview-estate-expressway",
+    "builderId": "b-godrej",
+    "location": "Khalapur, Pune-Mumbai Expressway",
+    "priceRange": "\u20b945.00 L - \u20b91.20 Cr",
+    "exactPrice": "\u20b945.00 L",
+    "configurations": [
+      "Villa Plot",
+      "Resort Villa"
+    ],
+    "status": "New Launch",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.825,
+    "lng": 73.284,
+    "reraId": "P52000052341",
+    "totalAcres": "100+ Acres Hillside Estate",
+    "totalFloors": "G+1 Luxury Villas",
+    "floorsAndAcres": "100+ Acres Hillside Estate \u2022 G+1 Luxury Villas",
+    "description": "Godrej Hillview Estate is an exclusive branded plotted development nestled against the Sahyadri hills off the Pune-Mumbai Expressway, featuring custom villa layouts.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Pune with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Hillview Estate?",
+        "answer": "Godrej Hillview Estate is sanctioned under MahaRERA registration number P52000052341. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej Hillview Estate?",
+        "answer": "Godrej Hillview Estate configurations start from \u20b945.00 L with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej Hillview Estate?",
+        "answer": "Godrej Hillview Estate features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej Hillview Estate?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-hillview-estate-expressway-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.825,73.284&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  },
+  {
+    "id": "p-godrej-nurture-bhandup",
+    "title": "Godrej Nurture",
+    "slug": "godrej-nurture-bhandup",
+    "builderId": "b-godrej",
+    "location": "Bhandup West, Mumbai",
+    "priceRange": "\u20b91.45 Cr - \u20b92.65 Cr",
+    "exactPrice": "\u20b91.45 Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 19.1524,
+    "lng": 72.9372,
+    "reraId": "P51800023412",
+    "totalAcres": "6.5 Acres",
+    "totalFloors": "G+33 Floors",
+    "floorsAndAcres": "6.5 Acres \u2022 G+33 Floors",
+    "description": "Godrej Nurture in Bhandup Mumbai is a child-development-focused community with dedicated academies for sports, music, languages, and modern science.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Mumbai with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Nurture?",
+        "answer": "Godrej Nurture is sanctioned under MahaRERA registration number P51800023412. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej Nurture?",
+        "answer": "Godrej Nurture configurations start from \u20b91.45 Cr with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej Nurture?",
+        "answer": "Godrej Nurture features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej Nurture?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-nurture-bhandup-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=19.1524,72.9372&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  },
+  {
+    "id": "p-godrej-urban-park-chandivali",
+    "title": "Godrej Urban Park",
+    "slug": "godrej-urban-park-chandivali",
+    "builderId": "b-godrej",
+    "location": "Chandivali, Powai Extension, Mumbai",
+    "priceRange": "\u20b91.55 Cr - \u20b92.85 Cr",
+    "exactPrice": "\u20b91.55 Cr",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "March 2027",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 19.1136,
+    "lng": 72.8953,
+    "reraId": "P51800028364",
+    "totalAcres": "7.0 Acres",
+    "totalFloors": "G+28 Floors",
+    "floorsAndAcres": "7.0 Acres \u2022 G+28 Floors",
+    "description": "Godrej Urban Park near Powai Mumbai features rooftop amenities, sky cinema, jogging loops, and proximity to corporate hubs in BKC, SEEPZ, and Powai.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Mumbai with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Urban Park?",
+        "answer": "Godrej Urban Park is sanctioned under MahaRERA registration number P51800028364. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej Urban Park?",
+        "answer": "Godrej Urban Park configurations start from \u20b91.55 Cr with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej Urban Park?",
+        "answer": "Godrej Urban Park features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej Urban Park?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-urban-park-chandivali-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=19.1136,72.8953&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  },
+  {
+    "id": "p-godrej-bandra-bay",
+    "title": "Godrej Bandra Bay",
+    "slug": "godrej-bandra-bay",
+    "builderId": "b-godrej",
+    "location": "Bandra West, Mumbai",
+    "priceRange": "\u20b99.50 Cr - \u20b924.00 Cr",
+    "exactPrice": "\u20b99.50 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK",
+      "Penthouse"
+    ],
+    "status": "New Launch",
+    "type": "Residential",
+    "possessionDate": "Dec 2028",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 19.0596,
+    "lng": 72.8295,
+    "reraId": "P51800054390",
+    "totalAcres": "3.5 Acres Seafront",
+    "totalFloors": "G+42 Iconic Towers",
+    "floorsAndAcres": "3.5 Acres Seafront \u2022 G+42 Iconic Towers",
+    "description": "Godrej Bandra Bay is an architectural trophy residence overlooking Bandra Bay with private infinity edge pools, personal elevators, and 5-star hotel concierge.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Mumbai with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Bandra Bay?",
+        "answer": "Godrej Bandra Bay is sanctioned under MahaRERA registration number P51800054390. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej Bandra Bay?",
+        "answer": "Godrej Bandra Bay configurations start from \u20b99.50 Cr with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej Bandra Bay?",
+        "answer": "Godrej Bandra Bay features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej Bandra Bay?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-bandra-bay-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=19.0596,72.8295&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  },
+  {
+    "id": "p-golf-crest-godrej-city-panvel",
+    "title": "Godrej City Panvel",
+    "slug": "golf-crest-godrej-city-panvel",
+    "builderId": "b-godrej",
+    "location": "Panvel, Navi Mumbai",
+    "priceRange": "\u20b958.00 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b958.00 L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.9894,
+    "lng": 73.1175,
+    "reraId": "P52000018146",
+    "totalAcres": "150+ Acres Golf Township",
+    "totalFloors": "G+32 Towers",
+    "floorsAndAcres": "150+ Acres Golf Township \u2022 G+32 Towers",
+    "description": "Godrej City Panvel is a 150-acre integrated mega-township featuring a 9-hole golf course, high-street retail, international school, and close access to the Navi Mumbai International Airport.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Mumbai with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej City Panvel?",
+        "answer": "Godrej City Panvel is sanctioned under MahaRERA registration number P52000018146. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej City Panvel?",
+        "answer": "Godrej City Panvel configurations start from \u20b958.00 L with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej City Panvel?",
+        "answer": "Godrej City Panvel features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej City Panvel?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/golf-crest-godrej-city-panvel-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.9894,73.1175&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  },
+  {
+    "id": "p-godrej-upavan-thane-extension",
+    "title": "Godrej Upavan",
+    "slug": "godrej-upavan-thane-extension",
+    "builderId": "b-godrej",
+    "location": "Thane Extension, Kalyan-Bhiwandi Road",
+    "priceRange": "\u20b942.00 L - \u20b975.00 L",
+    "exactPrice": "\u20b942.00 L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 19.2612,
+    "lng": 73.1023,
+    "reraId": "P51700027436",
+    "totalAcres": "11.0 Acres",
+    "totalFloors": "G+33 Floors",
+    "floorsAndAcres": "11.0 Acres \u2022 G+33 Floors",
+    "description": "Godrej Upavan features 2+ hectares of greens, 50+ lifestyle amenities, and round-the-clock convenience in the rapidly appreciating Thane Extension belt.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Mumbai with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Upavan?",
+        "answer": "Godrej Upavan is sanctioned under MahaRERA registration number P51700027436. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej Upavan?",
+        "answer": "Godrej Upavan configurations start from \u20b942.00 L with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej Upavan?",
+        "answer": "Godrej Upavan features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej Upavan?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-upavan-thane-extension-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=19.2612,73.1023&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  },
+  {
+    "id": "p-godrej-prime-chembur",
+    "title": "Godrej Prime",
+    "slug": "godrej-prime-chembur",
+    "builderId": "b-godrej",
+    "location": "Chembur, Central Mumbai",
+    "priceRange": "\u20b91.65 Cr - \u20b93.10 Cr",
+    "exactPrice": "\u20b91.65 Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 19.0626,
+    "lng": 72.8994,
+    "reraId": "P51800000519",
+    "totalAcres": "6.0 Acres",
+    "totalFloors": "G+15 Floors",
+    "floorsAndAcres": "6.0 Acres \u2022 G+15 Floors",
+    "description": "Godrej Prime in Chembur connects Central Mumbai, BKC, and South Mumbai seamlessly via the Eastern Freeway and SCLR, featuring rooftop gardens and clubhouse.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Godrej Properties Brand Assurance & Green Living",
+      "Prime Location in Mumbai with Fast Appreciation",
+      "Bank Approved Home Loans by SBI, HDFC, ICICI"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Vitrified Tiles in Living, Dining & Bedrooms, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Kitchen Counter with Stainless Steel Sink and Exhaust Provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Jaquar / Kohler Premium CP & Sanitary Fittings with Solar Water Provision"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Prime?",
+        "answer": "Godrej Prime is sanctioned under MahaRERA registration number P51800000519. All legal clearances and construction milestones are compliant."
+      },
+      {
+        "question": "What is the starting price for Godrej Prime?",
+        "answer": "Godrej Prime configurations start from \u20b91.65 Cr with direct partner terms and no brokerage fee."
+      },
+      {
+        "question": "What amenities are available at Godrej Prime?",
+        "answer": "Godrej Prime features resort-style amenities including an Olympic-length swimming pool, fully equipped clubhouse, fitness center, kids play area, and lush green gardens."
+      },
+      {
+        "question": "How to arrange a site visit for Godrej Prime?",
+        "answer": "You can arrange a free builder-accompanied site visit with PROPSMART REALTY by clicking 'Schedule Site Visit' or calling our Pune & Mumbai team directly."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-prime-chembur-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=19.0626,72.8994&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ]
+  }
+]
