@@ -82,10 +82,11 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
 
     // React Query for Server-Side Search
     const { data, isLoading, error, refetch } = useQuery({
-        queryKey: ['projects', 'search', page, filterLoc, filterQuery, typeFilter, statusFilter, selectedBudgets.join(','), selectedConfigs.join(',')],
+        queryKey: ['projects', 'search', page, filterLoc, filterQuery, selectedCity, typeFilter, statusFilter, selectedBudgets.join(','), selectedConfigs.join(',')],
         queryFn: () => api.projects.list(page, {
             query: filterQuery,
             location: filterLoc,
+            city: selectedCity !== 'All' ? selectedCity : undefined,
             type: typeFilter,
             status: statusFilter,
             budget: selectedBudgets,
@@ -113,13 +114,15 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
         setPage(1);
     };
 
+    const activeCityOrLoc = filterLoc || (selectedCity !== 'All' ? selectedCity : 'Pune');
+
     return (
         <div className="min-h-screen bg-gray-50 flex flex-col">
             <SEO
-                title={effectiveLocationSlug ? `Flats in ${filterLoc} Pune | New Projects & Prices` : `Properties in ${filterLoc || 'Pune'} - Search Results`}
+                title={effectiveLocationSlug ? `Flats in ${filterLoc} | New Projects & Prices` : `Properties in ${activeCityOrLoc} - Search Results`}
                 description={effectiveLocationSlug
-                    ? `Looking for flats in ${filterLoc}? Explore top verified new launch projects, pricing, and floor plans in ${filterLoc}, Pune.`
-                    : "Browse verified real estate listings in Pune."}
+                    ? `Looking for flats in ${filterLoc}? Explore top verified new launch projects, pricing, and floor plans in ${filterLoc}.`
+                    : `Browse verified real estate listings in ${activeCityOrLoc} with zero brokerage and direct builder pricing.`}
                 canonical={effectiveLocationSlug ? `https://propsmart.co.in/flats-in-${effectiveLocationSlug}` : undefined}
             />
             <PortalNavbar variant="colored" />
@@ -403,7 +406,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
                             <h1 className="font-sans font-extrabold text-2xl text-slate-900 tracking-tight">
                                 {isLoading 
                                     ? 'Searching verified projects...' 
-                                    : `${data?.count ?? projects.length} Properties found ${filterLoc ? `in ${filterLoc}` : (filterQuery ? `for "${filterQuery}"` : 'in Pune')}`
+                                    : `${projects.length} Properties found ${filterLoc ? `in ${filterLoc}` : (filterQuery ? `for "${filterQuery}"` : (selectedCity !== 'All' ? `in ${selectedCity}` : 'in Pune'))}`
                                 }
                             </h1>
                         </div>

@@ -5,10 +5,11 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     try {
         const url = new URL(context.request.url);
         const page = Math.max(1, parseInt(url.searchParams.get('page') || '1'));
-        const limit = Math.min(100, Math.max(1, parseInt(url.searchParams.get('limit') || '10')));
+        const limit = Math.min(250, Math.max(1, parseInt(url.searchParams.get('limit') || '10')));
         const offset = (page - 1) * limit;
 
         const location = url.searchParams.get('location');
+        const city = url.searchParams.get('city');
         const q = url.searchParams.get('q') || url.searchParams.get('query');
         const type = url.searchParams.get('type');
         const status = url.searchParams.get('status');
@@ -18,6 +19,14 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         let countSql = 'SELECT COUNT(*) as total FROM projects WHERE 1=1';
         const params: any[] = [];
         const countParams: any[] = [];
+
+        if (city && city.trim() && city.toLowerCase() !== 'all') {
+            sql += ' AND (location LIKE ? OR title LIKE ? OR description LIKE ?)';
+            countSql += ' AND (location LIKE ? OR title LIKE ? OR description LIKE ?)';
+            const wildcard = `%${city.trim()}%`;
+            params.push(wildcard, wildcard, wildcard);
+            countParams.push(wildcard, wildcard, wildcard);
+        }
 
         const searchKeyword = q || location;
         if (searchKeyword && searchKeyword.trim()) {

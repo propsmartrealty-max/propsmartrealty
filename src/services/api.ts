@@ -7,6 +7,7 @@ const PAGE_SIZE = 10;
 export interface ProjectFilters {
     query?: string;
     location?: string;
+    city?: string;
     type?: string;
     minPrice?: number;
     maxPrice?: number;
@@ -17,6 +18,10 @@ export interface ProjectFilters {
 
 function filterProjectsLocally(page: number, filters: ProjectFilters = {}) {
     let list = [...PROJECTS];
+
+    if (filters.city && filters.city.trim() && filters.city.toLowerCase() !== 'all') {
+        list = list.filter(p => (p.city || 'Pune').toLowerCase() === filters.city!.toLowerCase().trim());
+    }
 
     const searchKeyword = (filters.query || filters.location || '').toLowerCase().trim();
     if (searchKeyword) {
@@ -71,7 +76,7 @@ export const api = {
     projects: {
         all: async () => {
             try {
-                const res = await fetch('/api/projects?limit=100');
+                const res = await fetch('/api/projects?limit=250');
                 const contentType = res.headers.get('content-type') || '';
                 if (!res.ok || !contentType.includes('application/json')) {
                     throw new Error(`Invalid response (${res.status}): ${contentType}`);
@@ -96,6 +101,7 @@ export const api = {
                 params.set('limit', String(PAGE_SIZE));
                 if (filters.query) params.set('q', filters.query);
                 if (filters.location) params.set('location', filters.location);
+                if (filters.city && filters.city !== 'All') params.set('city', filters.city);
                 if (filters.type) params.set('type', filters.type);
                 if (filters.status) params.set('status', filters.status);
                 if (filters.configurations && filters.configurations.length > 0) {
