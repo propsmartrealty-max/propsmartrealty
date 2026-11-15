@@ -1,9 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
-  <rect width="240" height="80" rx="8" fill="#ffffff"/>
-  <g transform="translate(15, 16)">
-    <path d="M12 28 C12 18, 22 8, 32 8 C37 8, 42 10, 46 14 L41 18 C38 15, 35 14, 32 14 C25 14, 18 20, 18 28 C18 36, 25 42, 32 42 C35 42, 38 41, 41 38 L46 42 C42 46, 37 48, 32 48 C22 48, 12 38, 12 28 Z" fill="#E31837"/>
-    <circle cx="32" cy="28" r="5" fill="#E31837"/>
-    <text x="60" y="28" font-family="'Plus Jakarta Sans', 'Segoe UI', sans-serif" font-size="19" font-weight="800" fill="#E31837" letter-spacing="0.5">Mahindra</text>
-    <text x="60" y="43" font-family="'Plus Jakarta Sans', 'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#222222" letter-spacing="1.5">LIFESPACES</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
+  <defs>
+    <linearGradient id="mahindra-red" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E31837"/>
+      <stop offset="100%" stop-color="#B80D26"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Container -->
+  <rect width="380" height="110" rx="16" fill="#ffffff"/>
+
+  <!-- Mahindra Rise Dynamic Red Monogram -->
+  <g transform="translate(25, 22)">
+    <rect x="0" y="0" width="66" height="66" rx="14" fill="url(#mahindra-red)"/>
+    <!-- Dynamic 'M' Rise Wing Angles -->
+    <path d="M 16 48 L 26 22 L 33 38 L 40 22 L 50 48 L 42 48 L 36 34 L 33 42 L 30 34 L 24 48 Z" fill="#ffffff"/>
   </g>
+
+  <!-- Typography -->
+  <text x="106" y="47" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="25" font-weight="900" fill="#E31837" letter-spacing="1">Mahindra</text>
+  <text x="107" y="68" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="14" font-weight="800" fill="#111827" letter-spacing="3">LIFESPACES</text>
+  <text x="107" y="85" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="9" font-weight="600" fill="#64748B" letter-spacing="1">Joyful Sustainable Living • Net-Zero Energy</text>
 </svg>

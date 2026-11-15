@@ -8,6 +8,20 @@ interface BuilderSpotlightProps {
     builders: Builder[];
 }
 
+const ELITE_BUILDER_KEYS = [
+    'panchshil',
+    'godrej',
+    'kolte-patil',
+    'vtp',
+    'lodha',
+    'kasturi',
+    'sobha',
+    'tata',
+    'gera',
+    'amanora',
+    'kalpataru'
+];
+
 const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
     // Track errored images by builder ID
     const [erroredImages, setErroredImages] = React.useState<Record<string, boolean>>({});
@@ -15,6 +29,40 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
     const handleImageError = (builderId: string) => {
         setErroredImages(prev => ({ ...prev, [builderId]: true }));
     };
+
+    // Prioritize Pune's premier household-name flagship developers
+    const spotlightBuilders = React.useMemo(() => {
+        if (!builders || builders.length === 0) return [];
+        
+        const eliteMatches: Builder[] = [];
+        const seenIds = new Set<string>();
+
+        // 1. Pick each elite developer in priority order
+        for (const key of ELITE_BUILDER_KEYS) {
+            const match = builders.find(b => 
+                (b.slug && b.slug.includes(key)) || 
+                (b.id && b.id.includes(key)) || 
+                (b.name && b.name.toLowerCase().includes(key))
+            );
+            if (match && !seenIds.has(match.id)) {
+                eliteMatches.push(match);
+                seenIds.add(match.id);
+            }
+        }
+
+        // 2. Fill remaining from verified builders
+        if (eliteMatches.length < 11) {
+            for (const b of builders) {
+                if (!seenIds.has(b.id)) {
+                    eliteMatches.push(b);
+                    seenIds.add(b.id);
+                    if (eliteMatches.length >= 11) break;
+                }
+            }
+        }
+
+        return eliteMatches.slice(0, 11);
+    }, [builders]);
 
     return (
         <section className="py-20 bg-slate-950 text-white relative overflow-hidden">
@@ -38,7 +86,7 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
 
                 {/* Developer Grid - High-visibility prominent rectangular logo cards */}
                 <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-5">
-                    {builders.slice(0, 11).map((builder) => {
+                    {spotlightBuilders.map((builder) => {
                         const resolvedLogo = resolveBuilderLogo(builder);
                         const showFallback = !resolvedLogo || erroredImages[builder.id];
 

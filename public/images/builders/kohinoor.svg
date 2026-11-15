@@ -1,9 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
-  <rect width="240" height="80" rx="8" fill="#ffffff"/>
-  <g transform="translate(15, 14)">
-    <path d="M22 10 L34 22 L22 34 L10 22 Z" fill="#D97706" stroke="#B45309" stroke-width="1"/>
-    <path d="M22 14 L30 22 L22 30 L14 22 Z" fill="#FDE68A"/>
-    <text x="44" y="26" font-family="'Plus Jakarta Sans', 'Arial', sans-serif" font-size="19" font-weight="800" fill="#0F2942" letter-spacing="2">KOHINOOR</text>
-    <text x="44" y="42" font-family="'Plus Jakarta Sans', 'Arial', sans-serif" font-size="8" font-weight="600" fill="#64748B" letter-spacing="1.5">SADA SUKHI RAHO</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
+  <defs>
+    <linearGradient id="kohinoor-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E5CAD"/>
+      <stop offset="100%" stop-color="#083B70"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Container -->
+  <rect width="380" height="110" rx="16" fill="#ffffff"/>
+
+  <!-- Kohinoor Brilliant Diamond Crest -->
+  <g transform="translate(25, 22)">
+    <rect x="0" y="0" width="66" height="66" rx="14" fill="url(#kohinoor-blue)"/>
+    <!-- Faceted Diamond Geometry -->
+    <polygon points="33,14 49,26 43,51 23,51 17,26" fill="none" stroke="#ffffff" stroke-width="2"/>
+    <polygon points="33,14 40,26 33,51 26,26" fill="#ffffff" opacity="0.3"/>
+    <circle cx="33" cy="33" r="3" fill="#ED1C24"/>
   </g>
+
+  <!-- Typography -->
+  <text x="106" y="49" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="28" font-weight="900" fill="#0B4EA2" letter-spacing="1">KOHINOOR</text>
+  <text x="107" y="69" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#C5161D" letter-spacing="2">SADA SUKHI RAHO</text>
+  <text x="107" y="85" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="9" font-weight="600" fill="#64748B" letter-spacing="1">40+ Landmark Communities • Pune & PCMC</text>
 </svg>
