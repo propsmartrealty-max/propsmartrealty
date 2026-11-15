@@ -1,6 +1,14 @@
 export const CONTACT_NUMBER = '917744009295';
 
 /**
+ * Generates a targeted WhatsApp inquiry message for a specific project.
+ */
+export const getProjectWhatsAppMessage = (projectTitle: string, location: string, config?: string): string => {
+    const configText = config ? ` (${config})` : '';
+    return `Hi PROPSMART REALTY, I am interested in ${projectTitle}${configText} at ${location}. Please share the official sanctioned floor plans, payment schedule, and current developer offer.`;
+};
+
+/**
  * Generates a WhatsApp URL with the given message.
  * @param message - The message to pre-fill in the chat.
  * @returns The formatted WhatsApp URL.

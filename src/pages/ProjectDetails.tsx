@@ -15,15 +15,16 @@ import {
     MapPin, Building2, CheckCircle2, ArrowRight, Phone, Download, Share2, Heart, Star, 
     Calendar, Tag, ShieldCheck, ExternalLink, Maximize2, ZoomIn, ZoomOut, RotateCcw, 
     X, Layers, Sparkles, Calculator, Check, Compass, Info, FileSpreadsheet, Home, SlidersHorizontal,
-    Trees, Activity, Leaf, Droplets, Zap
+    Trees, Activity, Leaf, Droplets, Zap, Copy, MessageSquare
 } from 'lucide-react';
+import toast from 'react-hot-toast';
 import EMICalculator from '../components/Portal/EMICalculator';
 import PricingCalculator from '../components/Portal/Project/PricingCalculator';
 import { DetailSkeleton, ErrorState } from '../components/UI/LoadingSkeleton';
 import DealBadge from '../components/Portal/DealBadge';
 import PriceTrendChart from '../components/Portal/MarketIntelligence/PriceTrendChart';
 import { getOptimizedImageUrl } from '../utils/imageUtils';
-import { openWhatsApp } from '../utils/whatsappUtils';
+import { openWhatsApp, getProjectWhatsAppMessage } from '../utils/whatsappUtils';
 import RERAProjectPassport from '../components/Portal/RERAProjectPassport';
 import ConstructionTimeline from '../components/Portal/Infographics/ConstructionTimeline';
 import CarpetAreaInfographic from '../components/Portal/Infographics/CarpetAreaInfographic';
@@ -465,7 +466,7 @@ const ProjectDetails = () => {
     };
 
     return (
-        <div className="min-h-screen bg-slate-50/60 font-sans relative">
+        <div className="min-h-screen bg-slate-50/60 font-sans relative pb-24 lg:pb-0">
             <WaterAmbientBackground />
             <SEO
                 title={seoTitle}
@@ -627,9 +628,25 @@ const ProjectDetails = () => {
                                 <span className="bg-sky-600/90 backdrop-blur-md text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
                                     {project.status}
                                 </span>
-                                <span className="bg-white/20 backdrop-blur-md text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide border border-white/20">
-                                    Project RERA: {project.reraId || 'Available on Request'}
-                                </span>
+                                {project.reraId ? (
+                                    <button
+                                        type="button"
+                                        onClick={() => {
+                                            navigator.clipboard.writeText(project.reraId!);
+                                            toast.success(`MahaRERA ID copied: ${project.reraId}`, { icon: '🛡️' });
+                                        }}
+                                        className="bg-white/20 hover:bg-white/30 active:scale-95 transition-all text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide border border-white/20 flex items-center gap-1.5 cursor-pointer text-white shadow-sm"
+                                        title="Click to copy official MahaRERA registration number"
+                                    >
+                                        <ShieldCheck className="w-3.5 h-3.5 text-emerald-300" />
+                                        <span>RERA: {project.reraId}</span>
+                                        <Copy className="w-3 h-3 text-white/70 ml-0.5" />
+                                    </button>
+                                ) : (
+                                    <span className="bg-white/20 backdrop-blur-md text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide border border-white/20">
+                                        RERA: Available on Request
+                                    </span>
+                                )}
                                 <span className="bg-emerald-500/80 backdrop-blur-md text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
                                     {project.type}
                                 </span>
@@ -682,7 +699,7 @@ const ProjectDetails = () => {
             {/* Synchronized Sticky Navigation Dock */}
             <div className="sticky top-[68px] z-40 bg-white/75 backdrop-blur-2xl shadow-[0_8px_32px_0_rgba(14,165,233,0.08)] border-b border-white/70 py-2.5">
                 <div className="max-w-7xl mx-auto px-4">
-                    <div className="flex gap-2 overflow-x-auto no-scrollbar py-1">
+                    <div className="flex gap-2 overflow-x-auto no-scrollbar py-1 scroll-smooth" style={{ WebkitOverflowScrolling: 'touch' }}>
                         {[
                             { id: 'rera-passport', label: 'RERA Passport' },
                             { id: 'overview', label: 'Overview' },
@@ -1588,7 +1605,23 @@ const ProjectDetails = () => {
                             <div className="flex items-center justify-between">
                                 <div>
                                     <span className="text-xs text-slate-400 block font-semibold">Project MahaRERA Reg.</span>
-                                    <span className="text-base font-black text-white tracking-wide font-mono">{project.reraId || 'Available on Request'}</span>
+                                    <div className="flex items-center gap-1.5 mt-0.5">
+                                        <span className="text-base font-black text-white tracking-wide font-mono">{project.reraId || 'Available on Request'}</span>
+                                        {project.reraId && (
+                                            <button
+                                                type="button"
+                                                onClick={(e) => {
+                                                    e.stopPropagation();
+                                                    navigator.clipboard.writeText(project.reraId!);
+                                                    toast.success(`MahaRERA ID copied: ${project.reraId}`, { icon: '🛡️' });
+                                                }}
+                                                className="text-slate-400 hover:text-white p-1 rounded transition-colors active:scale-95"
+                                                title="Copy MahaRERA ID"
+                                            >
+                                                <Copy className="w-3.5 h-3.5" />
+                                            </button>
+                                        )}
+                                    </div>
                                 </div>
                                 {project.reraId && (
                                     <a
@@ -1816,6 +1849,43 @@ const ProjectDetails = () => {
                     </div>
                 </div>
             )}
+
+            {/* Sticky Mobile Conversion Bar (Visible only on mobile screens < lg) */}
+            <div className="lg:hidden fixed bottom-0 inset-x-0 z-40 bg-white/95 backdrop-blur-md border-t border-slate-200/90 p-3 shadow-[0_-8px_30px_rgba(0,0,0,0.12)]">
+                <div className="max-w-md mx-auto flex items-center justify-between gap-2.5">
+                    <div className="min-w-0 flex-1">
+                        <span className="text-[10px] uppercase font-bold tracking-wider text-slate-500 block leading-tight truncate">
+                            Direct Price
+                        </span>
+                        <p className="text-sm sm:text-base font-black text-slate-900 leading-tight truncate">
+                            {project.exactPrice || project.priceRange || 'On Request'}
+                        </p>
+                    </div>
+
+                    <a
+                        href="tel:+917744009295"
+                        className="p-2.5 rounded-xl border border-slate-200 bg-slate-50 hover:bg-slate-100 text-slate-800 transition-all flex items-center justify-center shrink-0 active:scale-95 shadow-2xs"
+                        title="Call Sales Lounge"
+                    >
+                        <Phone className="w-4 h-4 text-sky-600" />
+                    </a>
+
+                    <button
+                        onClick={() => openWhatsApp(getProjectWhatsAppMessage(project.title, project.location))}
+                        className="py-2.5 px-3 rounded-xl bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-xs uppercase tracking-wider transition-all flex items-center justify-center gap-1.5 shadow-md shadow-emerald-600/25 active:scale-95 shrink-0"
+                    >
+                        <MessageSquare className="w-3.5 h-3.5 text-emerald-200 fill-emerald-200" />
+                        <span>WhatsApp</span>
+                    </button>
+
+                    <button
+                        onClick={() => openLeadForm('Site Visit')}
+                        className="py-2.5 px-3 rounded-xl bg-gradient-to-r from-sky-600 to-blue-600 hover:from-sky-500 hover:to-blue-700 text-white font-bold text-xs uppercase tracking-wider transition-all shadow-md shadow-sky-600/25 active:scale-95 shrink-0"
+                    >
+                        Book Visit
+                    </button>
+                </div>
+            </div>
 
             <Footer />
         </div >
