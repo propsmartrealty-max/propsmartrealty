@@ -61,11 +61,14 @@ const ProjectMap: React.FC<ProjectMapProps> = ({ projects }) => {
                         >
                             <Popup className="custom-popup">
                                 <div className="w-64 p-0">
-                                    <Link to={`/project/${project.slug}`} className="block group">
+                                    <Link to={`/project/${project.slug || project.id}`} className="block group">
                                         <div className="relative aspect-video rounded-t-lg overflow-hidden">
                                             <img
-                                                src={project.image || 'https://via.placeholder.com/300'}
+                                                src={project.image || '/images/placeholder-property.svg'}
                                                 alt={project.title}
+                                                onError={(e) => {
+                                                    e.currentTarget.src = '/images/placeholder-property.svg';
+                                                }}
                                                 className="w-full h-full object-cover group-hover:scale-105 transition-transform"
                                             />
                                             <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-3 pt-8">

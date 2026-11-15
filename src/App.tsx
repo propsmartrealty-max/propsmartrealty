@@ -82,7 +82,10 @@ function App() {
                                     <Route path="/flats-in/:locationSlug" element={<SearchResults />} />
                                     <Route path="/flats-in-:locationSlug" element={<SearchResults />} />
                                     <Route path="/project/:slug" element={<ProjectDetails />} />
+                                    <Route path="/projects/:slug" element={<ProjectDetails />} />
+                                    <Route path="/property/:slug" element={<ProjectDetails />} />
                                     <Route path="/builder/:slug" element={<BuilderDetails />} />
+                                    <Route path="/builders/:slug" element={<BuilderDetails />} />
 
                                     {/* Static & Form Pages */}
                                     <Route path="/compare" element={<CompareProjects />} />

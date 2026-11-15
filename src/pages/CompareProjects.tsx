@@ -111,7 +111,7 @@ const CompareProjects = () => {
                                                 <X className="w-5 h-5" />
                                             </button>
 
-                                            <Link to={`/project/${project.slug}`} className="block mb-4">
+                                            <Link to={`/project/${project.slug || project.id}`} className="block mb-4">
                                                 <div className="aspect-video rounded-lg overflow-hidden mb-3 border border-slate-100">
                                                     <img 
                                                         src={project.image || '/images/placeholder-property.svg'} 
@@ -128,7 +128,7 @@ const CompareProjects = () => {
                                                 <p className="text-sm text-slate-500 font-medium">{project.location}</p>
                                             </Link>
 
-                                            <Link to={`/project/${project.slug}`} className="block w-full text-center py-2 rounded-lg bg-brand-50 text-brand-700 font-bold text-sm hover:bg-brand-100 transition">
+                                            <Link to={`/project/${project.slug || project.id}`} className="block w-full text-center py-2 rounded-lg bg-brand-50 text-brand-700 font-bold text-sm hover:bg-brand-100 transition">
                                                 View Details
                                             </Link>
                                         </th>

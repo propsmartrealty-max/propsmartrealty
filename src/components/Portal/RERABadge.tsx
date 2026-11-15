@@ -1,19 +1,14 @@
 import React from 'react';
 import { ShieldCheck, ExternalLink, CheckCircle2, Award, FileCheck } from 'lucide-react';
+import { PROPSMART_RERA } from '../../constants/rera';
+
+export { PROPSMART_RERA };
 
 interface RERABadgeProps {
     variant?: 'compact' | 'card' | 'banner' | 'pill';
     isSolid?: boolean;
     className?: string;
 }
-
-export const PROPSMART_RERA = {
-    number: 'A031262401295',
-    portalUrl: 'https://maharera.maharashtra.gov.in/',
-    entityName: 'PROPSMART REALTY',
-    legalName: 'Propsmart Realty Private Limited',
-    jurisdiction: 'Maharashtra Real Estate Regulatory Authority',
-};
 
 const RERABadge: React.FC<RERABadgeProps> = ({ variant = 'card', isSolid = false, className = '' }) => {
     // 1. Compact Pill (Ideal for Navbar)

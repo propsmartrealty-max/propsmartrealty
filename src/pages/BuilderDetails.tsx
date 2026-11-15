@@ -155,7 +155,7 @@ const BuilderDetails = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {builderProjects.map(project => (
                         <Link
-                            to={`/project/${project.slug}`}
+                            to={`/project/${project.slug || project.id}`}
                             key={project.id}
                             className="group bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100"
                         >
@@ -187,11 +187,11 @@ const BuilderDetails = () => {
                                 <div className="flex items-center justify-between pt-4 border-t border-gray-100">
                                     <div>
                                         <p className="text-xs text-gray-500 uppercase tracking-wide">Starting</p>
-                                        <p className="font-bold text-slate-900">{project.priceRange}</p>
+                                        <p className="font-bold text-slate-900">{project.exactPrice || project.priceRange || 'On Request'}</p>
                                     </div>
                                     <div className="text-right">
                                         <p className="text-xs text-gray-500 uppercase tracking-wide">Configuration</p>
-                                        <p className="font-medium text-slate-700">{project.configurations[0]}+</p>
+                                        <p className="font-medium text-slate-700">{(project.configurations && project.configurations[0]) || '2 BHK'}+</p>
                                     </div>
                                 </div>
                             </div>

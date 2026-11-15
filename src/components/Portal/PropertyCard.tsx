@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { MapPin, Home, CheckCircle2, Building2, QrCode, ShieldCheck, ExternalLink, X, Waves, Dumbbell, Castle, Sparkles } from 'lucide-react';
 import { Project } from '../../types';
@@ -16,12 +16,22 @@ interface PropertyCardProps {
 const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }) => {
     // Hooks must be called at top level unconditionally
     const { localities = [], compareList = [], addToCompare, removeFromCompare } = useData();
-    const [imgSrc, setImgSrc] = useState(() => project ? getOptimizedImageUrl(project.image, 600) : '');
+    const [imgSrc, setImgSrc] = useState(() => project?.image ? getOptimizedImageUrl(project.image, 600) : '/images/placeholder-property.svg');
     const [showLeadForm, setShowLeadForm] = useState(false);
     const [showQRModal, setShowQRModal] = useState(false);
 
+    useEffect(() => {
+        if (project?.image) {
+            setImgSrc(getOptimizedImageUrl(project.image, 600));
+        } else {
+            setImgSrc('/images/placeholder-property.svg');
+        }
+    }, [project?.id, project?.image]);
+
     if (!project) return null;
 
+    const projectSlug = project.slug || project.id;
+    const projectLink = `/project/${projectSlug}`;
     const isGrid = variant === 'grid';
     // Phase 3: Deal Calculation
     let localityAvgPrice = 0;
@@ -34,7 +44,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
         // Fallback if localities find fails
     }
 
-    const qrUrl = getProjectQRCodeUrl(project.slug, project.reraId);
+    const qrUrl = getProjectQRCodeUrl(project.slug || project.id, project.reraId);
     const mahaReraLink = getMahaRERAVerificationUrl(project.reraId);
 
     return (
@@ -42,7 +52,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
 
             {/* Image Section */}
             <div className={`relative overflow-hidden shrink-0 ${isGrid ? 'h-52 w-full' : 'h-52 md:h-full md:w-[40%]'} bg-slate-100`}>
-                <Link to={`/project/${project.slug}`} className="block h-full w-full">
+                <Link to={projectLink} className="block h-full w-full">
                     <img
                         src={imgSrc}
                         alt={project.title}
@@ -136,7 +146,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                 {/* Decoration: Subtle background builder logo or pattern could go here */}
 
                 <div>
-                    <Link to={`/project/${project.slug}`} className="block group/title">
+                    <Link to={projectLink} className="block group/title">
                         <div className="flex justify-between items-start mb-2">
                             <div className="flex-1 min-w-0 pr-2">
                                 <h3 className={`font-bold text-slate-800 leading-snug group-hover/title:text-brand-600 transition-colors mb-1 truncate ${isGrid ? 'text-lg' : 'text-lg md:text-2xl'}`}>
@@ -258,7 +268,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                         Contact
                     </button>
                     <Link
-                        to={`/project/${project.slug}`}
+                        to={projectLink}
                         className={`flex-1 px-3 md:px-4 py-2 md:py-2.5 rounded-xl bg-brand-600 text-white font-bold text-xs md:text-sm hover:bg-brand-700 transition-all uppercase tracking-wide text-center shadow-lg shadow-brand-200 hover:shadow-brand-300 hover:-translate-y-0.5 ${isGrid ? 'w-full' : 'max-w-[140px]'}`}
                     >
                         Details

@@ -149,36 +149,66 @@ export const api = {
 
         getById: async (id: string) => {
             const findLocal = () => {
-                const normalized = (id || '').toLowerCase().trim();
-                return PROJECTS.find(p => 
-                    p.id === id || 
-                    p.slug === normalized ||
-                    p.slug.toLowerCase() === normalized ||
-                    (normalized && p.slug.startsWith(normalized)) ||
-                    (normalized && normalized.startsWith(p.slug.split('-').slice(0, 3).join('-')))
+                if (!id) return undefined;
+                const raw = id.trim();
+                const norm = raw.toLowerCase().replace(/^(p-|project-)/, '');
+                const cleanTokens = norm.split('-').filter(t => t.length > 2);
+
+                let match = PROJECTS.find(p =>
+                    p.slug === raw ||
+                    p.slug.toLowerCase() === norm ||
+                    p.id === raw ||
+                    p.id.toLowerCase() === raw.toLowerCase() ||
+                    p.id.toLowerCase() === norm ||
+                    p.id.toLowerCase() === `p-${norm}` ||
+                    p.id.toLowerCase() === `p-${norm.toLowerCase()}`
                 );
+                if (match) return match;
+
+                match = PROJECTS.find(p => {
+                    const titleSlug = p.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+                    return titleSlug === norm || titleSlug.replace(/-/g, '') === norm.replace(/-/g, '');
+                });
+                if (match) return match;
+
+                match = PROJECTS.find(p =>
+                    p.slug.toLowerCase().startsWith(norm) ||
+                    norm.startsWith(p.slug.toLowerCase())
+                );
+                if (match) return match;
+
+                if (cleanTokens.length > 0) {
+                    match = PROJECTS.find(p => {
+                        const pSlug = p.slug.toLowerCase();
+                        const pTitle = p.title.toLowerCase();
+                        return cleanTokens.every(t => pSlug.includes(t) || pTitle.includes(t));
+                    });
+                    if (match) return match;
+                }
+
+                return undefined;
             };
+
+            // Synchronous check first: if available in memory, return it instantly
+            const immediateLocal = findLocal();
 
             try {
                 const res = await fetch(`/api/projects/${encodeURIComponent(id)}`);
                 const contentType = res.headers.get('content-type') || '';
                 if (!res.ok || !contentType.includes('application/json')) {
-                    const local = findLocal();
-                    if (local) return local;
-                    throw new Error(`Invalid response (${res.status}): ${contentType}`);
+                    if (immediateLocal) return immediateLocal;
+                    return null;
                 }
                 const data = await res.json();
 
                 if (!data || data.error) {
-                    const local = findLocal();
-                    if (local) return local;
-                    throw new Error('Project not found');
+                    if (immediateLocal) return immediateLocal;
+                    return null;
                 }
                 return mapProjectFromDb(data) as Project;
             } catch (err) {
-                const local = findLocal();
-                if (local) return local;
-                throw err;
+                if (immediateLocal) return immediateLocal;
+                return null;
             }
         },
 

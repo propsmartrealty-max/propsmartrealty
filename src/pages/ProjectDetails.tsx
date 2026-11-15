@@ -31,7 +31,52 @@ import InvestmentMetrics from '../components/Portal/Infographics/InvestmentMetri
 import TransitConnectivity from '../components/Portal/Infographics/TransitConnectivity';
 import AmenitiesInfographic from '../components/Portal/Infographics/AmenitiesInfographic';
 import SpecificationsInfographic from '../components/Portal/Infographics/SpecificationsInfographic';
-import { PROPSMART_RERA } from '../components/Portal/RERABadge';
+import { PROPSMART_RERA } from '../constants/rera';
+
+const resolveProjectFromList = (searchSlug: string | undefined, list: Project[]): Project | undefined => {
+    if (!searchSlug || !list || list.length === 0) return undefined;
+    const raw = searchSlug.trim();
+    const norm = raw.toLowerCase().replace(/^(p-|project-)/, '');
+    const cleanTokens = norm.split('-').filter(t => t.length > 2);
+
+    // 1. Exact match on slug or id (case-insensitive)
+    let match = list.find(p =>
+        p.slug === raw ||
+        p.slug.toLowerCase() === norm ||
+        p.id === raw ||
+        p.id.toLowerCase() === raw.toLowerCase() ||
+        p.id.toLowerCase() === norm ||
+        p.id.toLowerCase() === `p-${norm}` ||
+        p.id.toLowerCase() === `p-${norm.toLowerCase()}`
+    );
+    if (match) return match;
+
+    // 2. Exact match on normalized title
+    match = list.find(p => {
+        const titleSlug = p.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+        return titleSlug === norm || titleSlug.replace(/-/g, '') === norm.replace(/-/g, '');
+    });
+    if (match) return match;
+
+    // 3. Prefix match (e.g. godrej-hillside -> godrej-hillside-3, lodha-altero -> lodha-altero-wakad)
+    match = list.find(p =>
+        p.slug.toLowerCase().startsWith(norm) ||
+        norm.startsWith(p.slug.toLowerCase())
+    );
+    if (match) return match;
+
+    // 4. Token match (e.g. "vtp earth one" or "vtp-earth-one" -> "earth-one-by-vtp-luxe-mahalunge")
+    if (cleanTokens.length > 0) {
+        match = list.find(p => {
+            const pSlug = p.slug.toLowerCase();
+            const pTitle = p.title.toLowerCase();
+            return cleanTokens.every(t => pSlug.includes(t) || pTitle.includes(t));
+        });
+        if (match) return match;
+    }
+
+    return undefined;
+};
 
 
 
@@ -85,33 +130,24 @@ const ProjectDetails = () => {
     const { slug } = useParams<{ slug: string }>();
     const { projects, builders, localities, isLoading, error, refreshData } = useData();
 
-    // Query single project by slug from API if not yet loaded in context
+    // Fast synchronous local resolution from memory (0ms latency):
+    const localProject = useMemo(() => {
+        return resolveProjectFromList(slug, projects) || resolveProjectFromList(slug, PROJECTS);
+    }, [slug, projects]);
+
+    // Query single project by slug from API if not yet loaded in context or to sync latest Cloudflare D1 updates
     const { data: fetchedProject, isLoading: isProjectLoading } = useQuery({
         queryKey: ['project', slug],
         queryFn: () => (slug ? api.projects.getById(slug) : Promise.resolve(null)),
         enabled: !!slug,
         staleTime: 1000 * 60 * 5,
+        initialData: localProject,
     });
-
-    const normalizedSlug = (slug || '').toLowerCase().trim();
 
     // Resolution priority:
     // 1. Fetched from API / Cloudflare D1
-    // 2. Found in DataContext (all projects)
-    // 3. Fallback from local static PROJECTS dataset
-    const project = fetchedProject || projects.find(p => 
-        p.slug === slug || 
-        p.slug.toLowerCase() === normalizedSlug ||
-        (normalizedSlug && p.slug.toLowerCase().startsWith(normalizedSlug)) || 
-        (normalizedSlug && p.id.toLowerCase() === normalizedSlug) ||
-        (normalizedSlug && normalizedSlug.startsWith(p.slug.split('-').slice(0, 3).join('-')))
-    ) || PROJECTS.find(p =>
-        p.slug === slug || 
-        p.slug.toLowerCase() === normalizedSlug ||
-        (normalizedSlug && p.slug.toLowerCase().startsWith(normalizedSlug)) || 
-        (normalizedSlug && p.id.toLowerCase() === normalizedSlug) ||
-        (normalizedSlug && normalizedSlug.startsWith(p.slug.split('-').slice(0, 3).join('-')))
-    );
+    // 2. Synchronous match from DataContext or static PROJECTS
+    const project = fetchedProject || localProject;
 
     // --- HOOKS MUST BE AT TOP LEVEL (Before any returns) ---
     const [activeSection, setActiveSection] = useState('overview');
@@ -219,7 +255,7 @@ const ProjectDetails = () => {
             return num > 100000 ? num : num * 100000;
         };
 
-        const baseVal = extractNum(project.exactPrice || project.priceRange.split('-')[0]);
+        const baseVal = extractNum(project.exactPrice || (project.priceRange ? project.priceRange.split('-')[0] : ''));
 
         return declared.map((confStr, idx) => {
             const bhkMatch = confStr.match(/(\d+)\s*BHK/i);
@@ -320,7 +356,7 @@ const ProjectDetails = () => {
         return () => observer.disconnect();
     }, [project]);
 
-    const isDataLoading = (isLoading || isProjectLoading) && !project;
+    const isDataLoading = !project && (isLoading || isProjectLoading);
 
     if (isDataLoading) {
         return (
@@ -446,7 +482,7 @@ const ProjectDetails = () => {
                             "name": "PROPSMART REALTY",
                             "url": "https://propsmart.co.in",
                             "telephone": "+91-9310863636",
-                            "license": PROPSMART_RERA.number
+                            "license": PROPSMART_RERA?.number || 'A031262401295'
                         }
                     },
                     {
@@ -497,7 +533,7 @@ const ProjectDetails = () => {
                             },
                             {
                                 question: `What is the MahaRERA registration number of ${project.title}?`,
-                                answer: `The official MahaRERA registration number of ${project.title} is ${project.reraId || 'P52100050939'}. PROPSMART REALTY is an authorized developer sales partner with agent registration ${PROPSMART_RERA.number}.`
+                                answer: `The official MahaRERA registration number of ${project.title} is ${project.reraId || 'P52100050939'}. PROPSMART REALTY is an authorized developer sales partner with agent registration ${PROPSMART_RERA?.number || 'A031262401295'}.`
                             },
                             {
                                 question: `When is the possession date for ${project.title}?`,
@@ -1320,7 +1356,7 @@ const ProjectDetails = () => {
                                 },
                                 {
                                     question: `What is the MahaRERA registration number of ${project.title}?`,
-                                    answer: `The official MahaRERA registration number of ${project.title} is ${project.reraId || 'P52100050939'}. PROPSMART REALTY is an authorized developer sales partner with agent registration ${PROPSMART_RERA.number}.`
+                                    answer: `The official MahaRERA registration number of ${project.title} is ${project.reraId || 'P52100050939'}. PROPSMART REALTY is an authorized developer sales partner with agent registration ${PROPSMART_RERA?.number || 'A031262401295'}.`
                                 },
                                 {
                                     question: `When is the possession date for ${project.title}?`,
@@ -1496,7 +1532,7 @@ const ProjectDetails = () => {
                                     </div>
                                     <div className="flex items-center gap-1.5 font-semibold text-slate-700">
                                         <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
-                                        <span>Authorized MahaRERA Partner: {PROPSMART_RERA.number}</span>
+                                        <span>Authorized MahaRERA Partner: {PROPSMART_RERA?.number || 'A031262401295'}</span>
                                     </div>
                                 </div>
                             </div >
@@ -1552,7 +1588,7 @@ const ProjectDetails = () => {
                                             </a>
                                         ) : (
                                             <a href="https://maharera.maharashtra.gov.in/" target="_blank" rel="noreferrer" className="text-xs font-semibold text-green-800 underline mt-2 inline-flex items-center gap-1 hover:text-green-900">
-                                                <span>Verify MahaRERA Authorized Partner ({PROPSMART_RERA.number})</span>
+                                                <span>Verify MahaRERA Authorized Partner ({PROPSMART_RERA?.number || 'A031262401295'})</span>
                                                 <ExternalLink className="w-3 h-3" />
                                             </a>
                                         )}
