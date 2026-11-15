@@ -1363,7 +1363,29 @@ export const PROJECTS: Project[] = [
     "brochureUrl": "https://keystoneliv.com/public/uploads/property/k8efs8EX0zH9s8tNGzPxbgUNGd6YGNIzWlWGvWOL.pdf",
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3782.2145105194018!2d73.73430237486002!3d18.564365382537687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sGodrej%20Hillside%203%2C%207%2F8%20near%20Godrej%20river%20hills%20nande%2C%20road%2C%20Mahalunge%2C%20Pune%2C%20Maharashtra%20411045!5e0!3m2!1sen!2sin!4v1688044662580!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 28 floors. It is spread across 3 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "665 sq.ft",
+        "priceRange": "\u20b981.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "665 sq.ft",
+        "priceRange": "\u20b981.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "\u20b983.00 L"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "902 sq.ft",
+        "priceRange": "\u20b91.06 Cr"
+      }
+    ]
   },
   {
     "id": "p-godrej-river-royale",
@@ -1530,7 +1552,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.0887583531326!2d73.7337243739744!3d18.57003676766372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b9786692480b%3A0x7802359c7ecbca66!2sGodrej%20River%20Royale%2C%20Baner%20-%20Hinjewadi%20Road%2C%20Pune!5e0!3m2!1sen!2sin!4v1698314164857!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 38 floors. It is spread across 4.37 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b954.00 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b975.60 L"
+      }
+    ]
   },
   {
     "id": "p-godrej-eden-estate-phase-2",
@@ -1700,7 +1734,19 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3781.9375723479006!2d73.7247759!3d18.576853!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb98dbb20c51%3A0x423fca08f1fafae3!2sGodrej%20Eden%20Estate%20Phase%201%20%26%202!5e0!3m2!1sen!2sin!4v1706698008844!5m2!1sen!2sin",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b958.50 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b981.90 L"
+      }
+    ]
   },
   {
     "id": "p-vtp-bellissimo",
@@ -1903,7 +1949,29 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8028492796034!2d73.72617217584524!3d18.582924967265285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb3b9fc3d7df%3A0x85da1b572aa2e1fc!2sVTP%20Bellissimo%20Official!5e0!3m2!1sen!2sin!4v1698227991596!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G + 29 floors. It is spread across 10 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "722 sq.ft",
+        "priceRange": "\u20b984.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "722 sq.ft",
+        "priceRange": "\u20b984.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "757 sq.ft",
+        "priceRange": "\u20b988.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "800 sq.ft",
+        "priceRange": "\u20b993.00 L"
+      }
+    ]
   },
   {
     "id": "p-vtp-dolce-vita",
@@ -2183,7 +2251,49 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.815653879847!2d73.97889127584443!3d18.537230868663926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3b4103c2a39%3A0x8665cce9de413082!2sVTP%20Dolce%20Vita%20-%20New%20Kharadi!5e0!3m2!1sen!2sin!4v1698239319933!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 32 floors. It is spread across 9 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "674 sq.ft",
+        "priceRange": "\u20b977.65 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "674 sq.ft",
+        "priceRange": "\u20b977.65 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "756 sq.ft",
+        "priceRange": "\u20b987.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "756 sq.ft",
+        "priceRange": "\u20b987.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "850 sq.ft",
+        "priceRange": "\u20b91.21 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "857 sq.ft",
+        "priceRange": "\u20b91.22 Cr"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "840 sq.ft",
+        "priceRange": "\u20b91.19 Cr"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "928 sq.ft",
+        "priceRange": "\u20b91.32 Cr"
+      }
+    ]
   },
   {
     "id": "p-vtp-naturescape",
@@ -2411,7 +2521,34 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.558350523803!2d73.76855947519121!3d18.50365388258664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfd1ea3e6727%3A0x79c35d30e4e47452!2sVTP%20NatureScape!5e0!3m2!1sen!2sin!4v1698239302788!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 22 floors. It is spread across 3.5 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "\u20b988.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "\u20b988.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "800 sq.ft",
+        "priceRange": "\u20b91.01 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "855 sq.ft",
+        "priceRange": "\u20b91.08 Cr"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "975 sq.ft",
+        "priceRange": "\u20b91.28 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-giardino",
@@ -2649,7 +2786,34 @@ export const PROJECTS: Project[] = [
     "brochureUrl": "https://keystoneliv.com/public/uploads/property/b2eVj6hR92MtZSySsAoiTD7Jp7kHjxEzQ0hTKpXI.pdf",
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15128.96702392734!2d73.9635498!3d18.5631364!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3c191c3f637%3A0xe2514090c62e997f!2sLodha%20Giardino%2C%20Kharadi!5e0!3m2!1sen!2sin!4v1688108216789!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 14 floors. It is spread across 14 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "807 sq.ft",
+        "priceRange": "\u20b995.83 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "807 sq.ft",
+        "priceRange": "\u20b995.83 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "822 sq.ft",
+        "priceRange": "\u20b91.22 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "855 sq.ft",
+        "priceRange": "\u20b91.26 Cr"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "938 sq.ft",
+        "priceRange": "\u20b91.30 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-panache",
@@ -2853,7 +3017,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.918353729581!2d73.74223769999999!3d18.577719300000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbe51db52659%3A0x6d7f2edc6c921355!2sLodha%20Hinjewadi%20Sales%20Gallery!5e0!3m2!1sen!2sin!4v1720522062145!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 30 floors. It is spread across 6 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "862 sq.ft",
+        "priceRange": "\u20b91.15 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "862 sq.ft",
+        "priceRange": "\u20b91.15 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "883 sq.ft",
+        "priceRange": "\u20b91.20 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-bella-vita",
@@ -3030,7 +3211,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.2966597767036!2d73.9116755101464!3d18.47021687063922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2ebcdb68c9b29%3A0xaee7838a5b9159e4!2sLodha%20Bella%20Vita!5e0!3m2!1sen!2sin!4v1697611800171!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+27 floors. It is spread across 13 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "811 sq.ft",
+        "priceRange": "\u20b91.05 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "811 sq.ft",
+        "priceRange": "\u20b91.05 Cr"
+      }
+    ]
   },
   {
     "id": "p-panchshil-eon-waterfront",
@@ -3038,15 +3231,16 @@ export const PROJECTS: Project[] = [
     "slug": "panchshil-eon-waterfront",
     "builderId": "b-panchshil",
     "location": "Kharadi",
-    "priceRange": "\u20b972.00 L - \u20b91.01 Cr",
-    "exactPrice": "\u20b972.00 L",
+    "priceRange": "\u20b93.02 Cr - \u20b95.66 Cr",
+    "exactPrice": "\u20b93.02 Cr",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "4 BHK",
+      "4.5 BHK",
+      "Penthouse"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "in 2027",
+    "possessionDate": "Ready to Move",
     "image": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
     "lat": 18.5514,
@@ -3107,13 +3301,13 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Kharadi near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100004202",
-      "Allotment directly from Panchshil Realty developer inventory"
+      "Waterfront Luxury",
+      "4.5 BHK Signature Residences",
+      "Private Elevators",
+      "World-Class Concierge"
     ],
     "reraId": "P52100004202",
-    "pricePerSqft": 9600,
+    "pricePerSqft": 15500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -3131,34 +3325,50 @@ export const PROJECTS: Project[] = [
       {
         "id": "cfg-panchshil-eon-waterfront-1",
         "projectId": "p-panchshil-eon-waterfront",
-        "name": "2 BHK Premium",
-        "carpetArea": 750,
-        "balconyArea": 60,
-        "bathrooms": 2,
-        "basePrice": 7200000,
-        "pricePerSqft": 9600,
-        "infraCharges": 216000.0,
-        "clubhouseCharges": 144000.0,
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 30200000,
+        "pricePerSqft": 15487,
+        "infraCharges": 906000,
+        "clubhouseCharges": 604000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp"
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/2RHyNsHcYFRyG4DosoTGOT7S7A6JMuulvZb7D2kQ.webp"
       },
       {
         "id": "cfg-panchshil-eon-waterfront-2",
         "projectId": "p-panchshil-eon-waterfront",
-        "name": "3 BHK Royale",
-        "carpetArea": 1050,
-        "balconyArea": 85,
-        "bathrooms": 3,
-        "basePrice": 10080000,
-        "pricePerSqft": 9600,
-        "infraCharges": 302400.0,
-        "clubhouseCharges": 201600.0,
+        "name": "4.5 BHK Premium Layout",
+        "carpetArea": 2450,
+        "balconyArea": 200,
+        "bathrooms": 4,
+        "basePrice": 38000000,
+        "pricePerSqft": 15510,
+        "infraCharges": 1140000,
+        "clubhouseCharges": 760000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp"
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
+      },
+      {
+        "id": "cfg-panchshil-eon-waterfront-3",
+        "projectId": "p-panchshil-eon-waterfront",
+        "name": "Penthouse Premium Layout",
+        "carpetArea": 3650,
+        "balconyArea": 350,
+        "bathrooms": 5,
+        "basePrice": 56600000,
+        "pricePerSqft": 15507,
+        "infraCharges": 1698000,
+        "clubhouseCharges": 1132000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp"
       }
     ],
     "faqs": [
@@ -3205,7 +3415,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.5619914121007!2d73.95433609999999!3d18.5486854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c304d3f3504d%3A0x155856205dddf7b6!2sEon%20Waterfront%20Phase-1!5e0!3m2!1sen!2sin!4v1750408177770!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 20 floors. It is spread across 4.16 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b93.02 Cr"
+      },
+      {
+        "type": "4.5 BHK",
+        "carpetArea": "2450 sq.ft",
+        "priceRange": "\u20b93.80 Cr"
+      },
+      {
+        "type": "Penthouse",
+        "carpetArea": "3650 sq.ft",
+        "priceRange": "\u20b95.66 Cr"
+      }
+    ]
   },
   {
     "id": "p-panchshil-towers",
@@ -3213,15 +3440,16 @@ export const PROJECTS: Project[] = [
     "slug": "panchshil-towers",
     "builderId": "b-panchshil",
     "location": "Kharadi",
-    "priceRange": "\u20b972.00 L - \u20b91.01 Cr",
-    "exactPrice": "\u20b972.00 L",
+    "priceRange": "\u20b92.19 Cr - \u20b95.40 Cr",
+    "exactPrice": "\u20b92.19 Cr",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "3.5 BHK",
+      "4.5 BHK",
+      "Penthouse"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "in 2027",
+    "possessionDate": "Ready to Move",
     "image": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
     "lat": 18.5514,
@@ -3269,13 +3497,13 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Kharadi near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100002528",
-      "Allotment directly from Panchshil Realty developer inventory"
+      "Iconic Twin Towers",
+      "3.5 & 4.5 BHK Residences",
+      "Infinity Pool on 30th Floor",
+      "Kharadi World Trade Center Corridor"
     ],
     "reraId": "P52100002528",
-    "pricePerSqft": 9600,
+    "pricePerSqft": 14800,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -3293,34 +3521,50 @@ export const PROJECTS: Project[] = [
       {
         "id": "cfg-panchshil-towers-1",
         "projectId": "p-panchshil-towers",
-        "name": "2 BHK Premium",
-        "carpetArea": 750,
-        "balconyArea": 60,
-        "bathrooms": 2,
-        "basePrice": 7200000,
-        "pricePerSqft": 9600,
-        "infraCharges": 216000.0,
-        "clubhouseCharges": 144000.0,
+        "name": "3.5 BHK Premium Layout",
+        "carpetArea": 1480,
+        "balconyArea": 120,
+        "bathrooms": 3,
+        "basePrice": 21900000,
+        "pricePerSqft": 14797,
+        "infraCharges": 657000,
+        "clubhouseCharges": 438000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp"
       },
       {
         "id": "cfg-panchshil-towers-2",
         "projectId": "p-panchshil-towers",
-        "name": "3 BHK Royale",
-        "carpetArea": 1050,
-        "balconyArea": 85,
-        "bathrooms": 3,
-        "basePrice": 10080000,
-        "pricePerSqft": 9600,
-        "infraCharges": 302400.0,
-        "clubhouseCharges": 201600.0,
+        "name": "4.5 BHK Premium Layout",
+        "carpetArea": 2450,
+        "balconyArea": 200,
+        "bathrooms": 4,
+        "basePrice": 36250000,
+        "pricePerSqft": 14796,
+        "infraCharges": 1087500,
+        "clubhouseCharges": 725000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp"
+      },
+      {
+        "id": "cfg-panchshil-towers-3",
+        "projectId": "p-panchshil-towers",
+        "name": "Penthouse Premium Layout",
+        "carpetArea": 3650,
+        "balconyArea": 350,
+        "bathrooms": 5,
+        "basePrice": 54000000,
+        "pricePerSqft": 14795,
+        "infraCharges": 1620000,
+        "clubhouseCharges": 1080000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/Oz85QLYWtUPkHjRU5N2NHLOOg2Z4WBzI9bJT6qeD.webp"
       }
     ],
     "faqs": [
@@ -3367,7 +3611,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3738.1349620803708!2d73.95892957519244!3d18.553258682546677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3b847d710c7%3A0xa934efd828e6e0ad!2sPanchshil%20Towers!5e1!3m2!1sen!2sin!4v1757939160534!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 32 floors. It is spread across 4 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "3.5 BHK",
+        "carpetArea": "1480 sq.ft",
+        "priceRange": "\u20b92.19 Cr"
+      },
+      {
+        "type": "4.5 BHK",
+        "carpetArea": "2450 sq.ft",
+        "priceRange": "\u20b93.62 Cr"
+      },
+      {
+        "type": "Penthouse",
+        "carpetArea": "3650 sq.ft",
+        "priceRange": "\u20b95.40 Cr"
+      }
+    ]
   },
   {
     "id": "p-rohan-ekam-balewadi",
@@ -3540,7 +3801,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8252152149926!2d73.77446417438523!3d18.581917067299056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf5757409bc1%3A0xe1948544e41d7e2e!2sRohan%20Ekam!5e0!3m2!1sen!2sin!4v1708360592697!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 7P+32 Floors floors. It is spread across 13 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "\u20b91.33 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "\u20b91.33 Cr"
+      }
+    ]
   },
   {
     "id": "p-rohan-saroha",
@@ -3721,7 +3994,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4694.809050120558!2d73.74672557519136!3d18.509244282582163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfd99c052b27%3A0x228fe57ce20b13b6!2sRohan%20Saroha!5e1!3m2!1sen!2sin!4v1733549744657!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 15 floors. It is spread across 5.76 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "836 sq.ft",
+        "priceRange": "\u20b987.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "836 sq.ft",
+        "priceRange": "\u20b987.00 L"
+      }
+    ]
   },
   {
     "id": "p-rohan-ekam",
@@ -3909,7 +4194,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8252152149926!2d73.77446417438523!3d18.581917067299056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf5757409bc1%3A0xe1948544e41d7e2e!2sRohan%20Ekam!5e0!3m2!1sen!2sin!4v1708360592697!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 7P+32 Floors floors. It is spread across 13 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "\u20b91.18 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "\u20b91.18 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "987 sq.ft",
+        "priceRange": "\u20b91.31 Cr"
+      }
+    ]
   },
   {
     "id": "p-vj-indilife",
@@ -4094,7 +4396,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7565.295457879271!2d73.77912157468334!3d18.54481454957932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf640c853341%3A0x9533f4f039258adb!2sVJ%20Indilife!5e0!3m2!1sen!2sin!4v1688198610806!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 17 floors. It is spread across 1.05 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b969.00 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b996.60 L"
+      }
+    ]
   },
   {
     "id": "p-vj-pkc-central",
@@ -4284,7 +4598,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4693.4820141334385!2d73.93485547595725!3d18.557559968041836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c31a4bbf5c75%3A0xec03cd5dfb007e86!2sVJ%20Palladio%20Kharadi%20Central!5e1!3m2!1sen!2sin!4v1743167664970!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+22 floors. It is spread across 2 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "756 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "756 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "825 sq.ft",
+        "priceRange": "\u20b91.24 Cr"
+      }
+    ]
   },
   {
     "id": "p-vj-yashwin-enchante",
@@ -4292,8 +4623,8 @@ export const PROJECTS: Project[] = [
     "slug": "vj-yashwin-enchante",
     "builderId": "b-vilas-javdekar",
     "location": "Wagholi",
-    "priceRange": "\u20b995.85 L - \u20b91.14 Cr",
-    "exactPrice": "\u20b995.85 L",
+    "priceRange": "\u20b960.48 L - \u20b91.14 Cr",
+    "exactPrice": "\u20b960.48 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -4428,10 +4759,10 @@ export const PROJECTS: Project[] = [
         "id": "cfg-vj-yashwin-enchante-3",
         "projectId": "p-vj-yashwin-enchante",
         "name": "3 BHK Luxury Unit",
-        "carpetArea": 639,
-        "balconyArea": 51,
+        "carpetArea": 945,
+        "balconyArea": 85,
         "bathrooms": 3,
-        "basePrice": 9585000.0,
+        "basePrice": 6048000,
         "pricePerSqft": 15000.0,
         "infraCharges": 287550.0,
         "clubhouseCharges": 191700.0,
@@ -4485,7 +4816,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.423258351953!2d73.9715317!3d18.5719071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c34a84356017%3A0x17e240cefa2bef98!2sVilas%20Javdekar%20yahwin%20enchante%20sales%20office%20-%20Wagholi!5e1!3m2!1sen!2sin!4v1744268968056!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 21 floors. It is spread across 4 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "771 sq.ft",
+        "priceRange": "\u20b91.14 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "771 sq.ft",
+        "priceRange": "\u20b91.14 Cr"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "945 sq.ft",
+        "priceRange": "\u20b960.48 L"
+      }
+    ]
   },
   {
     "id": "p-gt-pride",
@@ -4674,7 +5022,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.202672707972!2d73.7309476!3d18.6548991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bba09ac1ab5f%3A0x6eee7e13184ecd37!2sGT%20PRIDE!5e0!3m2!1sen!2sin!4v1691753103758!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 7 floors. It is spread across 1 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "688 sq.ft",
+        "priceRange": "\u20b953.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "688 sq.ft",
+        "priceRange": "\u20b953.00 L"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "988 sq.ft",
+        "priceRange": "\u20b978.00 L"
+      }
+    ]
   },
   {
     "id": "p-pride-park-connect",
@@ -4934,7 +5299,44 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4496.848046291115!2d73.72162725054598!3d18.601817205332917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbb7d6a9132d%3A0x2ab76cd01ee7f5d!2sPark%20Connect%2C%20Phase%201%2C%20Hinjawadi%20Rajiv%20Gandhi%20Infotech%20Park%2C%20Hinjawadi%2C%20Pimpri-Chinchwad%2C%20Maharashtra%20411057!5e0!3m2!1sen!2sin!4v1692186175898!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+17 floors. It is spread across 2 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "546 sq.ft",
+        "priceRange": "\u20b966.85 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "546 sq.ft",
+        "priceRange": "\u20b966.85 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "577 sq.ft",
+        "priceRange": "\u20b970.65 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "663 sq.ft",
+        "priceRange": "\u20b981.18 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "756 sq.ft",
+        "priceRange": "\u20b992.56 L"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "796 sq.ft",
+        "priceRange": "\u20b997.46 L"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "913 sq.ft",
+        "priceRange": "\u20b91.12 Cr"
+      }
+    ]
   },
   {
     "id": "p-codename-pride-of-chinchwad",
@@ -5106,7 +5508,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60488.36244432715!2d73.71631972167968!3d18.640528199999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b93b2f4be265%3A0x10a99f9c1ab9cd6b!2sITrend%20by%20Saheel%20Properties!5e0!3m2!1sen!2sin!4v1708689371250!5m2!1sen!2sin",
     "floorsAndAcres": "The project has B+G+20 floors floors. It is spread across 2 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b958.50 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b981.90 L"
+      }
+    ]
   },
   {
     "id": "p-nyati-evoque",
@@ -5272,7 +5686,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.660477834084!2d73.91528199999999!3d18.5442389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1007a073eb7%3A0x6ae5de1bd37039ba!2sNyati%20Evoque!5e0!3m2!1sen!2sin!4v1746887393270!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 27 floors.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b965.25 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b991.35 L"
+      }
+    ]
   },
   {
     "id": "p-nyati-emerald",
@@ -5441,7 +5867,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.486478220268!2d73.76621170000001!3d18.552094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bebe9fd39bf1%3A0x9a2e05ea4256096d!2sNyati%20Emerald!5e0!3m2!1sen!2sin!4v1747043793362!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 29 floors. It is spread across 15 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "838 sq.ft",
+        "priceRange": "\u20b91.18 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "838 sq.ft",
+        "priceRange": "\u20b91.18 Cr"
+      }
+    ]
   },
   {
     "id": "p-nyati-esteban-2",
@@ -5612,7 +6050,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.595358632626!2d73.9176876!3d18.4566726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eb5444285d63%3A0xf0ce2364f73e1c51!2sNyati%20Esteban%20I%20%26%20II!5e0!3m2!1sen!2sin!4v1747324956194!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 30 floors. It is spread across 5.04 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "838 sq.ft",
+        "priceRange": "\u20b984.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "838 sq.ft",
+        "priceRange": "\u20b984.00 L"
+      }
+    ]
   },
   {
     "id": "p-gera-hinjewadi-phase-3",
@@ -5816,7 +6266,29 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30253.972971752486!2d73.64989183096901!3d18.585458588066782!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb12c2bca185%3A0xb3879fc3627adcf4!2sPhase%203%2C%20Hinjawadi%20Rajiv%20Gandhi%20Infotech%20Park%2C%20Hinjawadi%2C%20Pune%2C%20Pimpri-Chinchwad%2C%20Maharashtra%20411057!5e0!3m2!1sen!2sin!4v1709536313556!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 3P+33 floors floors. It is spread across 10.75 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b983.40 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b983.40 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "850 sq.ft",
+        "priceRange": "\u20b992.40 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "895 sq.ft",
+        "priceRange": "\u20b91.03 Cr"
+      }
+    ]
   },
   {
     "id": "p-gera-imperium-gateway",
@@ -5984,7 +6456,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.199415224838!2d73.81750377519381!3d18.61009828250088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b9b5631828cb%3A0x6370d884949e3645!2sGera",
     "floorsAndAcres": "The project has G+35 floors. It is spread across 1.8 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b948.75 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b968.25 L"
+      }
+    ]
   },
   {
     "id": "p-gera-joy-on-treetop",
@@ -6181,7 +6665,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d35415.90523139877!2d73.66268659504249!3d18.585448142709588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb12c2bca185%3A0xb3879fc3627adcf4!2sPhase%203%2C%20Hinjawadi%20Rajiv%20Gandhi%20Infotech%20Park%2C%20Hinjawadi%2C%20Pune%2C%20Pimpri-Chinchwad%2C%20Maharashtra%20411057!5e0!3m2!1sen!2sin!4v1729593615491!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+3P+33 floors. It is spread across 10.7 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "753 sq.ft",
+        "priceRange": "\u20b985.90 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "753 sq.ft",
+        "priceRange": "\u20b985.90 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "855 sq.ft",
+        "priceRange": "\u20b994.90 L"
+      }
+    ]
   },
   {
     "id": "p-kasturi-apostrophe",
@@ -6357,7 +6858,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.80929133927!2d73.68933347438524!3d18.582634667277055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb206a8c98eb%3A0xa7f7de605c373e64!2sApostrophe%20Hinjawadi%20By%20Kasturi!5e0!3m2!1sen!2sin!4v1708362071754!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+22 floors. It is spread across 5.5 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "\u20b988.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "\u20b988.00 L"
+      }
+    ]
   },
   {
     "id": "p-kasturi-eon-homes",
@@ -6551,7 +7064,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d484236.13917022356!2d73.862967!3d18.524616!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf2e67461101%3A0x828d43bf9d9ee343!2sPune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1727432976396!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 2B+P+22 floors. It is spread across 22 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "840 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "840 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
+      },
+      {
+        "type": "5 BHK Luxury Unit",
+        "carpetArea": "973 sq.ft",
+        "priceRange": "\u20b91.30 Cr"
+      }
+    ]
   },
   {
     "id": "p-kasturi-the-balmoral-towers",
@@ -6729,7 +7259,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8259493671694!2d73.77265187519316!3d18.581883982523642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b939b8fba43d%3A0xa83eaa1b934d907e!2sKasturi%20Balmoral%20Towers%2C%20Balewadi%2C%20Pune%2C%20Maharashtra%20411045!5e0!3m2!1sen!2sin!4v1750233936157!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 2B+G+P+37 floors. It is spread across 5 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b973.50 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b91.03 Cr"
+      }
+    ]
   },
   {
     "id": "p-mahindra-happinest",
@@ -6907,7 +7449,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.7743944062513!2d73.7433101!3d18.6292145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b996a82dc273%3A0x4bd01fabf83d5cf7!2sMahindra%20Happinest%20Tathawade%20%E2%80%93%20by%20Mahindra%20Lifespaces!5e0!3m2!1sen!2sin!4v1695033408261!5m2!1sen!2sin",
     "floorsAndAcres": "The project has B+G+22 floors. It is spread across 7 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b956.25 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b978.75 L"
+      }
+    ]
   },
   {
     "id": "p-mahindra-citadel",
@@ -7104,7 +7658,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.0567159034736!2d73.813239!3d18.616518599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b97395ba9695%3A0x9f96b3b1facf7ca7!2sMahindra%20Citadel!5e0!3m2!1sen!2sin!4v1695036573003!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 6 Level Parking : + 22 Floor floors. It is spread across 11.5 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "731 sq.ft",
+        "priceRange": "\u20b988.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "731 sq.ft",
+        "priceRange": "\u20b988.00 L"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "978 sq.ft",
+        "priceRange": "\u20b91.21 Cr"
+      }
+    ]
   },
   {
     "id": "p-mahindra-kharadi",
@@ -7298,7 +7869,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.6140167791295!2d73.96832737423802!3d18.546336668388612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c30016a18a23%3A0xd5b654801aaa6334!2sMahindra%20Lifespace%20Kharadi!5e0!3m2!1sen!2sin!4v1706871796923!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 32 floors. It is spread across 5.4 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "769 sq.ft",
+        "priceRange": "\u20b998.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "769 sq.ft",
+        "priceRange": "\u20b998.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "867 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
+      }
+    ]
   },
   {
     "id": "p-kumar-parth-tower",
@@ -7472,7 +8060,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15129.761554596447!2d73.75052225011335!3d18.554174146367494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfe9172c216d%3A0xd9b43426a82a33f1!2sKumar%20Parth%20Towers!5e0!3m2!1sen!2sin!4v1708360772924!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+22 floors. It is spread across 2 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "774 sq.ft",
+        "priceRange": "\u20b91.04 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "774 sq.ft",
+        "priceRange": "\u20b91.04 Cr"
+      }
+    ]
   },
   {
     "id": "p-kumar-palmspring-towers",
@@ -7659,7 +8259,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.452370525493!2d73.90478987519027!3d18.463157482619305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eb330ed0269f%3A0x6098e1c4bf1c5b2e!2sKumar%20Palmspring%20Towers!5e0!3m2!1sen!2sin!4v1710328946764!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+35 floors. It is spread across 9.5 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "763 sq.ft",
+        "priceRange": "\u20b982.38 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "763 sq.ft",
+        "priceRange": "\u20b982.38 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "850 sq.ft",
+        "priceRange": "\u20b991.77 L"
+      }
+    ]
   },
   {
     "id": "p-kumar-codename-centrestage",
@@ -7835,7 +8452,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.9367278504596!2d73.6847895739372!3d18.576891067453865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb3289264bb7%3A0x874c9604997814ff!2sKumar%20Codename%20Centrestage%20-%20Megapolis!5e0!3m2!1sen!2sin!4v1719315122854!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 20 floors. It is spread across 2.18 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "658 sq.ft",
+        "priceRange": "\u20b964.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "658 sq.ft",
+        "priceRange": "\u20b964.00 L"
+      }
+    ]
   },
   {
     "id": "p-bramhacorp-hues-of-sky",
@@ -8072,7 +8701,39 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.034485271487!2d73.87617589999999!3d18.5273437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1e28f227645%3A0x769b8fc7fa7fd5fc!2sHues%20of%20Sky%20by%20BramhaCorp!5e0!3m2!1sen!2sin!4v1747127208668!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 35 floors. It is spread across 2 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "700 sq.ft",
+        "priceRange": "\u20b91.56 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "700 sq.ft",
+        "priceRange": "\u20b91.56 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "729 sq.ft",
+        "priceRange": "\u20b91.62 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b91.64 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "736 sq.ft",
+        "priceRange": "\u20b91.64 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "861 sq.ft",
+        "priceRange": "\u20b91.92 Cr"
+      }
+    ]
   },
   {
     "id": "p-bramhacorp-townhouse",
@@ -8234,7 +8895,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.7951703253043!2d73.7637369!3d18.583271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b91633c77d83%3A0x2aae9ac6df6194fe!2sTownHouse%20by%20BramhaCorp!5e0!3m2!1sen!2sin!4v1754571528144!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 5 floors. It is spread across 0.37 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b973.50 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b91.03 Cr"
+      }
+    ]
   },
   {
     "id": "p-bramhacorp-august-towers",
@@ -8242,7 +8915,7 @@ export const PROJECTS: Project[] = [
     "slug": "bramhacorp-august-towers",
     "builderId": "b-bramhacorp",
     "location": "Kalyani Nagar",
-    "priceRange": "\u20b957.70 L - \u20b957.90 L",
+    "priceRange": "\u20b957.70 L - \u20b91.00 Cr",
     "exactPrice": "\u20b957.70 L",
     "configurations": [
       "2 BHK"
@@ -8328,10 +9001,10 @@ export const PROJECTS: Project[] = [
         "id": "cfg-bramhacorp-august-towers-1",
         "projectId": "p-bramhacorp-august-towers",
         "name": "2 BHK Luxury Unit",
-        "carpetArea": 484,
-        "balconyArea": 38,
+        "carpetArea": 715,
+        "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 5770000.0,
+        "basePrice": 10010000,
         "pricePerSqft": 11921.49,
         "infraCharges": 173100.0,
         "clubhouseCharges": 115400.0,
@@ -8417,7 +9090,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.6231174170243!2d73.91781171081593!3d18.545925782479824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c167ab02cf05%3A0x94a92d1dc9f8816e!2sAugust%20Towers%20by%20BramhaCorp!5e0!3m2!1sen!2sin!4v1756986658660!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 34 floors.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "715 sq.ft",
+        "priceRange": "\u20b91.00 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "577 sq.ft",
+        "priceRange": "\u20b957.70 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "579 sq.ft",
+        "priceRange": "\u20b957.90 L"
+      }
+    ]
   },
   {
     "id": "p-amanora-city-rise",
@@ -8438,7 +9128,7 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/ozTB4XODdBQeqGDmSjJ9UEPdq2M8vHjJj5zZK3pB.webp",
     "lat": 18.5074,
     "lng": 73.8077,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ozTB4XODdBQeqGDmSjJ9UEPdq2M8vHjJj5zZK3pB.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/y23eQolQreeZxbOCvNAmA6XXJRnsVLTyeeJxCyN9.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/y23eQolQreeZxbOCvNAmA6XXJRnsVLTyeeJxCyN9.webp",
       "https://keystoneliv.com/public/uploads/property/hBhWq7z67MCde6MvvhDvmu4lEKeJpH2zLkqJlrml.webp",
@@ -8534,7 +9224,19 @@ export const PROJECTS: Project[] = [
         "layoutImage": "https://keystoneliv.com/public/uploads/property/ozTB4XODdBQeqGDmSjJ9UEPdq2M8vHjJj5zZK3pB.webp"
       }
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b993.75 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b91.31 Cr"
+      }
+    ]
   },
   {
     "id": "p-joyville-annexe",
@@ -8542,8 +9244,8 @@ export const PROJECTS: Project[] = [
     "slug": "joyville-annexe",
     "builderId": "b-shapoorji",
     "location": "Hadapsar",
-    "priceRange": "\u20b946.50 L - \u20b91.06 Cr",
-    "exactPrice": "\u20b946.50 L",
+    "priceRange": "\u20b946.00 L - \u20b91.06 Cr",
+    "exactPrice": "\u20b946.00 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -8766,7 +9468,34 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.721582136912!2d73.96605381014707!3d18.49626636984484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3e3be3a9e55%3A0x42a0d369b2fda6a5!2sJoyville%20Hadapsar!5e0!3m2!1sen!2sin!4v1696577320793!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 2 Level Park+ 22 Floors floors. It is spread across 21 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "1 BHK Luxury Unit",
+        "carpetArea": "393 sq.ft",
+        "priceRange": "\u20b946.00 L"
+      },
+      {
+        "type": "1 BHK Luxury Unit",
+        "carpetArea": "393 sq.ft",
+        "priceRange": "\u20b946.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "589 sq.ft",
+        "priceRange": "\u20b966.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "670 sq.ft",
+        "priceRange": "\u20b986.00 L"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "815 sq.ft",
+        "priceRange": "\u20b91.06 Cr"
+      }
+    ]
   },
   {
     "id": "p-joyville-celestia",
@@ -9009,7 +9738,39 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10493.454172925729!2d73.95253674499257!3d18.49364602652375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3a5659c8057%3A0x1e6795c701631bc0!2sJoyville%20Celestia%20by%20Shapoorji%20Pallonji!5e0!3m2!1sen!2sin!4v1708527089942!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+20 floors. It is spread across 9 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "589 sq.ft",
+        "priceRange": "\u20b977.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "589 sq.ft",
+        "priceRange": "\u20b977.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "593 sq.ft",
+        "priceRange": "\u20b977.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "602 sq.ft",
+        "priceRange": "\u20b978.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "707 sq.ft",
+        "priceRange": "\u20b990.00 L"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "936 sq.ft",
+        "priceRange": "\u20b91.16 Cr"
+      }
+    ]
   },
   {
     "id": "p-joyville-sensorium",
@@ -9017,8 +9778,8 @@ export const PROJECTS: Project[] = [
     "slug": "joyville-sensorium",
     "builderId": "b-shapoorji",
     "location": "Hinjewadi",
-    "priceRange": "\u20b976.00 L - \u20b91.29 Cr",
-    "exactPrice": "\u20b976.00 L",
+    "priceRange": "\u20b990.00 L - \u20b91.29 Cr",
+    "exactPrice": "\u20b990.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -9220,7 +9981,29 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.075208380779!2d73.71930637438493!3d18.57064776764426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb602855eb8b%3A0xdff2ff146b3bb55d!2sSensorium%20by%20Joyville%2C%20Shapoorji%20Pallonji!5e0!3m2!1sen!2sin!4v1708529717548!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+22 floors. It is spread across 10.9 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "697 sq.ft",
+        "priceRange": "\u20b990.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "697 sq.ft",
+        "priceRange": "\u20b990.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "715 sq.ft",
+        "priceRange": "\u20b995.00 L"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "973 sq.ft",
+        "priceRange": "\u20b91.29 Cr"
+      }
+    ]
   },
   {
     "id": "p-kohinoor-kharadi",
@@ -9481,7 +10264,44 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.036578619302!2d73.96836537393715!3d18.572389567591774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3093399ff03%3A0xace789327cddabd5!2sKohinoor%20Kaleido%20-%20New%20Kharadi!5e0!3m2!1sen!2sin!4v1707118259502!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 27 floors. It is spread across 5 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "730 sq.ft",
+        "priceRange": "\u20b999.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "730 sq.ft",
+        "priceRange": "\u20b999.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b91.03 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "800 sq.ft",
+        "priceRange": "\u20b91.09 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "820 sq.ft",
+        "priceRange": "\u20b91.11 Cr"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "880 sq.ft",
+        "priceRange": "\u20b91.20 Cr"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "910 sq.ft",
+        "priceRange": "\u20b91.25 Cr"
+      }
+    ]
   },
   {
     "id": "p-kohinoor-shangrila",
@@ -9675,7 +10495,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.817037666211!2d73.79681017519422!3d18.627297382487097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b90989b0f33f%3A0x37b820a8056086cd!2sKohinoor%20Shangrila%20Phase%20-II!5e0!3m2!1sen!2sin!4v1708773652582!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+22 floors. It is spread across 3.92 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "706 sq.ft",
+        "priceRange": "\u20b995.53 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "706 sq.ft",
+        "priceRange": "\u20b995.53 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "776 sq.ft",
+        "priceRange": "\u20b91.05 Cr"
+      }
+    ]
   },
   {
     "id": "p-kohinoor-central-park",
@@ -9915,7 +10752,39 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.6148073365607!2d73.70114002393764!3d18.59139681700946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb00478dad69%3A0xb9fbaf268c44e3ef!2sKohinoor%20Central%20Park%20Hinjewadi%20Ph-2!5e0!3m2!1sen!2sin!4v1719311769234!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+25 floors. It is spread across 13.5 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "725 sq.ft",
+        "priceRange": "\u20b980.50 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "725 sq.ft",
+        "priceRange": "\u20b980.50 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "796 sq.ft",
+        "priceRange": "\u20b986.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "803 sq.ft",
+        "priceRange": "\u20b986.90 L"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "894 sq.ft",
+        "priceRange": "\u20b997.00 L"
+      },
+      {
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "955 sq.ft",
+        "priceRange": "\u20b91.03 Cr"
+      }
+    ]
   },
   {
     "id": "p-kalpataru-jade-skyline",
@@ -10083,7 +10952,14 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.3943035028183!2d73.78168987393663!3d18.55625386808585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf37f6c3be51%3A0x63b013e34cb1c6c9!2sKalpataru%20Jade%20Skyline!5e0!3m2!1sen!2sin!4v1707309905874!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 8P+21 Floors floors. It is spread across 3 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "\u20b91.84 Cr"
+      }
+    ]
   },
   {
     "id": "p-kalpataru-jade-residences",
@@ -10257,7 +11133,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.4295612686706!2d73.78354402519254!3d18.554662782545517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf1d606edc9d%3A0xaf13eaa6e1cdaa03!2sKalpataru%20Jade%20Baner!5e0!3m2!1sen!2sin!4v1709020673678!5m2!1sen!2sin",
     "floorsAndAcres": "The project has G+22 floors. It is spread across 9.36 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b978.75 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
+      }
+    ]
   },
   {
     "id": "p-kalpataru-blossoms",
@@ -10441,7 +11329,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.269730213492!2d73.8205625!3d18.4714375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc295026ce702b3%3A0xf592c9047c190964!2sKalpataru%20Blossoms!5e0!3m2!1sen!2sin!4v1747033483788!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 18 floors. It is spread across 1.44 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "877 sq.ft",
+        "priceRange": "\u20b91.56 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "877 sq.ft",
+        "priceRange": "\u20b91.56 Cr"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "930 sq.ft",
+        "priceRange": "\u20b91.70 Cr"
+      }
+    ]
   },
   {
     "id": "p-sobha-nesara",
@@ -10462,7 +11367,7 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/XuDMBetWz7JMao7EtAKipFvMdJLCxZvvdmU1XTf4.webp",
     "lat": 18.5074,
     "lng": 73.8077,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/XuDMBetWz7JMao7EtAKipFvMdJLCxZvvdmU1XTf4.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/fx4tJjRmJedaJ69GSAzp9y1Po3iHhu7xv951qJNV.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/fx4tJjRmJedaJ69GSAzp9y1Po3iHhu7xv951qJNV.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp",
@@ -10609,7 +11514,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3783.4725402013!2d73.78536892519135!3d18.50753633258347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sSobha%20Nesara!5e0!3m2!1sen!2sin!4v1747126048135!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 23 floors. It is spread across 3 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b993.75 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b91.31 Cr"
+      }
+    ]
   },
   {
     "id": "p-sobha-nesara-block-3",
@@ -10630,7 +11547,7 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp",
     "lat": 18.5074,
     "lng": 73.8077,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/aWnxy62MDO1QX60oMsN6OrORW8XJAf2mAMh9MAgQ.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/aWnxy62MDO1QX60oMsN6OrORW8XJAf2mAMh9MAgQ.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/XuDMBetWz7JMao7EtAKipFvMdJLCxZvvdmU1XTf4.webp",
@@ -10789,7 +11706,19 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.493466587116!2d73.78630369999999!3d18.506589599999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf0338ae36ab%3A0xb3e42315f3b26a4e!2sSOBHA%20Nesara!5e0!3m2!1sen!2sin!4v1751040727860!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 23 floors. It is spread across 1 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b993.75 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b91.31 Cr"
+      }
+    ]
   },
   {
     "id": "p-prasiddhi-tatavam-residency",
@@ -10970,7 +11899,24 @@ export const PROJECTS: Project[] = [
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.039807074337!2d73.747708!3d18.6622096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b1000fb97dd5%3A0xdd1c8b392d8ac007!2sTatvam%20Residency!5e0!3m2!1sen!2sin!4v1752253385417!5m2!1sen!2sin",
     "floorsAndAcres": "The project has 11 floors. It is spread across 0.3 acres.",
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "1 BHK Luxury Unit",
+        "carpetArea": "483 sq.ft",
+        "priceRange": "\u20b957.96 L"
+      },
+      {
+        "type": "1 BHK Luxury Unit",
+        "carpetArea": "483 sq.ft",
+        "priceRange": "\u20b957.96 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "796 sq.ft",
+        "priceRange": "\u20b995.00 L"
+      }
+    ]
   },
   {
     "id": "p-sense-66-by-tata-value-homes",
@@ -11110,7 +12056,24 @@ export const PROJECTS: Project[] = [
         "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
       }
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "configurationDetails": [
+      {
+        "type": "1 BHK Luxury Unit",
+        "carpetArea": "458 sq.ft",
+        "priceRange": "\u20b927.00 L"
+      },
+      {
+        "type": "1 BHK Luxury Unit",
+        "carpetArea": "458 sq.ft",
+        "priceRange": "\u20b927.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "736 sq.ft",
+        "priceRange": "\u20b960.00 L"
+      }
+    ]
   },
   {
     "id": "p-lodha-camelot-kharadi",
@@ -11118,8 +12081,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-camelot-kharadi",
     "builderId": "b-lodha",
     "location": "Kharadi, Pune",
-    "priceRange": "\u20b91.45 Cr - \u20b92.85 Cr",
-    "exactPrice": "\u20b91.45 Cr",
+    "priceRange": "\u20b91.50 Cr - \u20b92.62 Cr",
+    "exactPrice": "\u20b91.50 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -11218,7 +12181,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 13400,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-camelot-kharadi-1",
+        "projectId": "p-lodha-camelot-kharadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 15000000,
+        "pricePerSqft": 13393,
+        "infraCharges": 450000,
+        "clubhouseCharges": 300000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-camelot-kharadi-2",
+        "projectId": "p-lodha-camelot-kharadi",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 26150000,
+        "pricePerSqft": 13410,
+        "infraCharges": 784500,
+        "clubhouseCharges": 523000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.50 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b92.62 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-altero-wakad",
@@ -11226,8 +12236,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-altero-wakad",
     "builderId": "b-lodha",
     "location": "Wakad, Pune",
-    "priceRange": "\u20b91.15 Cr - \u20b91.75 Cr",
-    "exactPrice": "\u20b91.15 Cr",
+    "priceRange": "\u20b91.06 Cr - \u20b91.62 Cr",
+    "exactPrice": "\u20b91.06 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -11326,7 +12336,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 14500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-altero-wakad-1",
+        "projectId": "p-lodha-altero-wakad",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 10650000,
+        "pricePerSqft": 14490,
+        "infraCharges": 319500,
+        "clubhouseCharges": 213000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-altero-wakad-2",
+        "projectId": "p-lodha-altero-wakad",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 16250000,
+        "pricePerSqft": 14509,
+        "infraCharges": 487500,
+        "clubhouseCharges": 325000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b91.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.62 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-estilo-kharadi",
@@ -11334,8 +12391,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-estilo-kharadi",
     "builderId": "b-lodha",
     "location": "Kharadi, Pune",
-    "priceRange": "\u20b92.20 Cr - \u20b94.50 Cr",
-    "exactPrice": "\u20b92.20 Cr",
+    "priceRange": "\u20b91.74 Cr - \u20b93.02 Cr",
+    "exactPrice": "\u20b91.74 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -11434,7 +12491,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 15500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-estilo-kharadi-1",
+        "projectId": "p-lodha-estilo-kharadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 17350000,
+        "pricePerSqft": 15491,
+        "infraCharges": 520500,
+        "clubhouseCharges": 347000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-estilo-kharadi-2",
+        "projectId": "p-lodha-estilo-kharadi",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 30200000,
+        "pricePerSqft": 15487,
+        "infraCharges": 906000,
+        "clubhouseCharges": 604000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.74 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b93.02 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-belmondo",
@@ -11442,8 +12546,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-belmondo",
     "builderId": "b-lodha",
     "location": "Pune Expressway, Gahunje",
-    "priceRange": "\u20b91.80 Cr - \u20b96.50 Cr",
-    "exactPrice": "\u20b91.80 Cr",
+    "priceRange": "\u20b91.15 Cr - \u20b96.58 Cr",
+    "exactPrice": "\u20b91.15 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -11544,7 +12648,96 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Lonavala"
+    "city": "Lonavala",
+    "pricePerSqft": 15650,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-belmondo-1",
+        "projectId": "p-lodha-belmondo",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 11500000,
+        "pricePerSqft": 15646,
+        "infraCharges": 345000,
+        "clubhouseCharges": 230000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-belmondo-2",
+        "projectId": "p-lodha-belmondo",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 17550000,
+        "pricePerSqft": 15670,
+        "infraCharges": 526500,
+        "clubhouseCharges": 351000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-lodha-belmondo-3",
+        "projectId": "p-lodha-belmondo",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 30500000,
+        "pricePerSqft": 15641,
+        "infraCharges": 915000,
+        "clubhouseCharges": 610000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-belmondo-4",
+        "projectId": "p-lodha-belmondo",
+        "name": "Golf Villa Premium Layout",
+        "carpetArea": 4200,
+        "balconyArea": 380,
+        "bathrooms": 5,
+        "basePrice": 65750000,
+        "pricePerSqft": 15655,
+        "infraCharges": 1972500,
+        "clubhouseCharges": 1315000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b91.15 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.75 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b93.05 Cr"
+      },
+      {
+        "type": "Golf Villa",
+        "carpetArea": "4200 sq.ft",
+        "priceRange": "\u20b96.58 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-magnus-hinjewadi",
@@ -11552,8 +12745,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-magnus-hinjewadi",
     "builderId": "b-lodha",
     "location": "Hinjewadi Phase 1, Pune",
-    "priceRange": "\u20b91.25 Cr - \u20b91.95 Cr",
-    "exactPrice": "\u20b91.25 Cr",
+    "priceRange": "\u20b91.27 Cr - \u20b92.21 Cr",
+    "exactPrice": "\u20b91.27 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -11652,7 +12845,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 11360,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-magnus-hinjewadi-1",
+        "projectId": "p-lodha-magnus-hinjewadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 12700000,
+        "pricePerSqft": 11339,
+        "infraCharges": 381000,
+        "clubhouseCharges": 254000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-magnus-hinjewadi-2",
+        "projectId": "p-lodha-magnus-hinjewadi",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 22150000,
+        "pricePerSqft": 11359,
+        "infraCharges": 664500,
+        "clubhouseCharges": 443000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.27 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b92.21 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-massimo-baner",
@@ -11660,8 +12900,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-massimo-baner",
     "builderId": "b-lodha",
     "location": "Baner, Pune",
-    "priceRange": "\u20b91.65 Cr - \u20b92.95 Cr",
-    "exactPrice": "\u20b91.65 Cr",
+    "priceRange": "\u20b91.56 Cr - \u20b92.73 Cr",
+    "exactPrice": "\u20b91.56 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -11760,7 +13000,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 13980,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-massimo-baner-1",
+        "projectId": "p-lodha-massimo-baner",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 15650000,
+        "pricePerSqft": 13973,
+        "infraCharges": 469500,
+        "clubhouseCharges": 313000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-massimo-baner-2",
+        "projectId": "p-lodha-massimo-baner",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 27250000,
+        "pricePerSqft": 13974,
+        "infraCharges": 817500,
+        "clubhouseCharges": 545000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.56 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b92.73 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-one-bund-garden",
@@ -11768,8 +13055,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-one-bund-garden",
     "builderId": "b-lodha",
     "location": "Bund Garden, Pune",
-    "priceRange": "\u20b94.50 Cr - \u20b912.00 Cr",
-    "exactPrice": "\u20b94.50 Cr",
+    "priceRange": "\u20b93.90 Cr - \u20b97.30 Cr",
+    "exactPrice": "\u20b93.90 Cr",
     "configurations": [
       "4 BHK",
       "5 BHK",
@@ -11869,7 +13156,75 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 20000,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-one-bund-garden-1",
+        "projectId": "p-lodha-one-bund-garden",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 39000000,
+        "pricePerSqft": 20000,
+        "infraCharges": 1170000,
+        "clubhouseCharges": 780000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-one-bund-garden-2",
+        "projectId": "p-lodha-one-bund-garden",
+        "name": "5 BHK Premium Layout",
+        "carpetArea": 3100,
+        "balconyArea": 260,
+        "bathrooms": 5,
+        "basePrice": 62000000,
+        "pricePerSqft": 20000,
+        "infraCharges": 1860000,
+        "clubhouseCharges": 1240000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-lodha-one-bund-garden-3",
+        "projectId": "p-lodha-one-bund-garden",
+        "name": "Penthouse Premium Layout",
+        "carpetArea": 3650,
+        "balconyArea": 350,
+        "bathrooms": 5,
+        "basePrice": 73000000,
+        "pricePerSqft": 20000,
+        "infraCharges": 2190000,
+        "clubhouseCharges": 1460000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b93.90 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "3100 sq.ft",
+        "priceRange": "\u20b96.20 Cr"
+      },
+      {
+        "type": "Penthouse",
+        "carpetArea": "3650 sq.ft",
+        "priceRange": "\u20b97.30 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-palais-kothrud",
@@ -11877,8 +13232,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-palais-kothrud",
     "builderId": "b-lodha",
     "location": "Kothrud, Pune",
-    "priceRange": "\u20b93.80 Cr - \u20b97.20 Cr",
-    "exactPrice": "\u20b93.80 Cr",
+    "priceRange": "\u20b93.90 Cr - \u20b96.20 Cr",
+    "exactPrice": "\u20b93.90 Cr",
     "configurations": [
       "4 BHK",
       "5 BHK"
@@ -11977,7 +13332,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 20000,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-palais-kothrud-1",
+        "projectId": "p-lodha-palais-kothrud",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 39000000,
+        "pricePerSqft": 20000,
+        "infraCharges": 1170000,
+        "clubhouseCharges": 780000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-palais-kothrud-2",
+        "projectId": "p-lodha-palais-kothrud",
+        "name": "5 BHK Premium Layout",
+        "carpetArea": 3100,
+        "balconyArea": 260,
+        "bathrooms": 5,
+        "basePrice": 62000000,
+        "pricePerSqft": 20000,
+        "infraCharges": 1860000,
+        "clubhouseCharges": 1240000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b93.90 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "3100 sq.ft",
+        "priceRange": "\u20b96.20 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-sylvan-hinjewadi",
@@ -11985,8 +13387,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-sylvan-hinjewadi",
     "builderId": "b-lodha",
     "location": "Hinjewadi Phase 3, Pune",
-    "priceRange": "\u20b985.00 L - \u20b91.35 Cr",
-    "exactPrice": "\u20b985.00 L",
+    "priceRange": "\u20b986.50 L - \u20b91.32 Cr",
+    "exactPrice": "\u20b986.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -12085,7 +13487,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 11800,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-sylvan-hinjewadi-1",
+        "projectId": "p-lodha-sylvan-hinjewadi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 8650000,
+        "pricePerSqft": 11769,
+        "infraCharges": 259500,
+        "clubhouseCharges": 173000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-sylvan-hinjewadi-2",
+        "projectId": "p-lodha-sylvan-hinjewadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 13200000,
+        "pricePerSqft": 11786,
+        "infraCharges": 396000,
+        "clubhouseCharges": 264000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b986.50 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.32 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-elise-worli",
@@ -12093,8 +13542,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-elise-worli",
     "builderId": "b-lodha",
     "location": "Worli, South Mumbai",
-    "priceRange": "\u20b95.50 Cr - \u20b912.50 Cr",
-    "exactPrice": "\u20b95.50 Cr",
+    "priceRange": "\u20b94.80 Cr - \u20b98.37 Cr",
+    "exactPrice": "\u20b94.80 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -12193,7 +13642,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Mumbai"
+    "city": "Mumbai",
+    "pricePerSqft": 42900,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-elise-worli-1",
+        "projectId": "p-lodha-elise-worli",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 48050000,
+        "pricePerSqft": 42902,
+        "infraCharges": 1441500,
+        "clubhouseCharges": 961000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-elise-worli-2",
+        "projectId": "p-lodha-elise-worli",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 83650000,
+        "pricePerSqft": 42897,
+        "infraCharges": 2509500,
+        "clubhouseCharges": 1673000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b94.80 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b98.37 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-altamount",
@@ -12201,8 +13697,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-altamount",
     "builderId": "b-lodha",
     "location": "Altamount Road, Billionaires Row, Mumbai",
-    "priceRange": "\u20b925.00 Cr - \u20b960.00 Cr",
-    "exactPrice": "\u20b925.00 Cr",
+    "priceRange": "\u20b918.75 Cr - \u20b932.69 Cr",
+    "exactPrice": "\u20b918.75 Cr",
     "configurations": [
       "4 BHK",
       "5 BHK",
@@ -12302,7 +13798,75 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Mumbai"
+    "city": "Mumbai",
+    "pricePerSqft": 96150,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-altamount-1",
+        "projectId": "p-lodha-altamount",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 187500000,
+        "pricePerSqft": 96154,
+        "infraCharges": 5625000,
+        "clubhouseCharges": 3750000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-altamount-2",
+        "projectId": "p-lodha-altamount",
+        "name": "5 BHK Premium Layout",
+        "carpetArea": 3100,
+        "balconyArea": 260,
+        "bathrooms": 5,
+        "basePrice": 298050000,
+        "pricePerSqft": 96145,
+        "infraCharges": 8941500,
+        "clubhouseCharges": 5961000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-lodha-altamount-3",
+        "projectId": "p-lodha-altamount",
+        "name": "Duplex Premium Layout",
+        "carpetArea": 3400,
+        "balconyArea": 300,
+        "bathrooms": 5,
+        "basePrice": 326900000,
+        "pricePerSqft": 96147,
+        "infraCharges": 9807000,
+        "clubhouseCharges": 6538000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b918.75 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "3100 sq.ft",
+        "priceRange": "\u20b929.80 Cr"
+      },
+      {
+        "type": "Duplex",
+        "carpetArea": "3400 sq.ft",
+        "priceRange": "\u20b932.69 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-bellevue-mahalaxmi",
@@ -12310,8 +13874,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-bellevue-mahalaxmi",
     "builderId": "b-lodha",
     "location": "Mahalaxmi, South Mumbai",
-    "priceRange": "\u20b94.85 Cr - \u20b99.20 Cr",
-    "exactPrice": "\u20b94.85 Cr",
+    "priceRange": "\u20b94.94 Cr - \u20b98.60 Cr",
+    "exactPrice": "\u20b94.94 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -12410,7 +13974,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Mumbai"
+    "city": "Mumbai",
+    "pricePerSqft": 44090,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-bellevue-mahalaxmi-1",
+        "projectId": "p-lodha-bellevue-mahalaxmi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 49400000,
+        "pricePerSqft": 44107,
+        "infraCharges": 1482000,
+        "clubhouseCharges": 988000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-bellevue-mahalaxmi-2",
+        "projectId": "p-lodha-bellevue-mahalaxmi",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 86000000,
+        "pricePerSqft": 44103,
+        "infraCharges": 2580000,
+        "clubhouseCharges": 1720000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b94.94 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b98.60 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-amara-thane",
@@ -12418,8 +14029,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-amara-thane",
     "builderId": "b-lodha",
     "location": "Kolshet Road, Thane (MMR)",
-    "priceRange": "\u20b978.00 L - \u20b91.85 Cr",
-    "exactPrice": "\u20b978.00 L",
+    "priceRange": "\u20b979.00 L - \u20b92.00 Cr",
+    "exactPrice": "\u20b979.00 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -12519,7 +14130,75 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Mumbai"
+    "city": "Mumbai",
+    "pricePerSqft": 17900,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-amara-thane-1",
+        "projectId": "p-lodha-amara-thane",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 7900000,
+        "pricePerSqft": 17955,
+        "infraCharges": 237000,
+        "clubhouseCharges": 158000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-amara-thane-2",
+        "projectId": "p-lodha-amara-thane",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 13150000,
+        "pricePerSqft": 17891,
+        "infraCharges": 394500,
+        "clubhouseCharges": 263000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-lodha-amara-thane-3",
+        "projectId": "p-lodha-amara-thane",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 20050000,
+        "pricePerSqft": 17902,
+        "infraCharges": 601500,
+        "clubhouseCharges": 401000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b979.00 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b91.31 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b92.00 Cr"
+      }
+    ]
   },
   {
     "id": "p-lodha-upper-thane",
@@ -12527,8 +14206,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-upper-thane",
     "builderId": "b-lodha",
     "location": "Upper Thane / Anjur, Thane (MMR)",
-    "priceRange": "\u20b952.00 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b952.00 L",
+    "priceRange": "\u20b954.50 L - \u20b91.39 Cr",
+    "exactPrice": "\u20b954.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -12628,7 +14307,75 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "city": "Mumbai"
+    "city": "Mumbai",
+    "pricePerSqft": 12380,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-upper-thane-1",
+        "projectId": "p-lodha-upper-thane",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 5450000,
+        "pricePerSqft": 12386,
+        "infraCharges": 163500,
+        "clubhouseCharges": 109000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-upper-thane-2",
+        "projectId": "p-lodha-upper-thane",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 9100000,
+        "pricePerSqft": 12381,
+        "infraCharges": 273000,
+        "clubhouseCharges": 182000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-lodha-upper-thane-3",
+        "projectId": "p-lodha-upper-thane",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 13850000,
+        "pricePerSqft": 12366,
+        "infraCharges": 415500,
+        "clubhouseCharges": 277000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b954.50 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b991.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.39 Cr"
+      }
+    ]
   },
   {
     "id": "p-godrej-meadows-mahalunge",
@@ -12636,8 +14383,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-meadows-mahalunge",
     "builderId": "b-godrej",
     "location": "Mahalunge, Pune",
-    "priceRange": "\u20b972.00 L - \u20b91.18 Cr",
-    "exactPrice": "\u20b972.00 L",
+    "priceRange": "\u20b977.00 L - \u20b91.18 Cr",
+    "exactPrice": "\u20b977.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -12736,7 +14483,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 10500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-meadows-mahalunge-1",
+        "projectId": "p-godrej-meadows-mahalunge",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7700000,
+        "pricePerSqft": 10476,
+        "infraCharges": 231000,
+        "clubhouseCharges": 154000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-godrej-meadows-mahalunge-2",
+        "projectId": "p-godrej-meadows-mahalunge",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 11750000,
+        "pricePerSqft": 10491,
+        "infraCharges": 352500,
+        "clubhouseCharges": 235000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b977.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.18 Cr"
+      }
+    ]
   },
   {
     "id": "p-godrej-park-springs-manjari",
@@ -12744,8 +14538,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-park-springs-manjari",
     "builderId": "b-godrej",
     "location": "Manjari, Pune",
-    "priceRange": "\u20b968.00 L - \u20b91.05 Cr",
-    "exactPrice": "\u20b968.00 L",
+    "priceRange": "\u20b972.50 L - \u20b91.10 Cr",
+    "exactPrice": "\u20b972.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -12844,7 +14638,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 9850,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-park-springs-manjari-1",
+        "projectId": "p-godrej-park-springs-manjari",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7250000,
+        "pricePerSqft": 9864,
+        "infraCharges": 217500,
+        "clubhouseCharges": 145000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-godrej-park-springs-manjari-2",
+        "projectId": "p-godrej-park-springs-manjari",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 11050000,
+        "pricePerSqft": 9866,
+        "infraCharges": 331500,
+        "clubhouseCharges": 221000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b972.50 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
+      }
+    ]
   },
   {
     "id": "p-godrej-serene-mamurdi",
@@ -12852,8 +14693,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-serene-mamurdi",
     "builderId": "b-godrej",
     "location": "Mamurdi, Pune",
-    "priceRange": "\u20b955.00 L - \u20b988.00 L",
-    "exactPrice": "\u20b955.00 L",
+    "priceRange": "\u20b961.00 L - \u20b993.50 L",
+    "exactPrice": "\u20b961.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -12952,7 +14793,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 8330,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-serene-mamurdi-1",
+        "projectId": "p-godrej-serene-mamurdi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 6100000,
+        "pricePerSqft": 8299,
+        "infraCharges": 183000,
+        "clubhouseCharges": 122000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-godrej-serene-mamurdi-2",
+        "projectId": "p-godrej-serene-mamurdi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 9350000,
+        "pricePerSqft": 8348,
+        "infraCharges": 280500,
+        "clubhouseCharges": 187000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b961.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b993.50 L"
+      }
+    ]
   },
   {
     "id": "p-godrej-green-cove-mahalunge",
@@ -12960,8 +14848,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-green-cove-mahalunge",
     "builderId": "b-godrej",
     "location": "Mahalunge, Pune",
-    "priceRange": "\u20b962.00 L - \u20b995.00 L",
-    "exactPrice": "\u20b962.00 L",
+    "priceRange": "\u20b959.50 L - \u20b91.51 Cr",
+    "exactPrice": "\u20b959.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -13061,7 +14949,75 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 13480,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-green-cove-mahalunge-1",
+        "projectId": "p-godrej-green-cove-mahalunge",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 5950000,
+        "pricePerSqft": 13523,
+        "infraCharges": 178500,
+        "clubhouseCharges": 119000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-godrej-green-cove-mahalunge-2",
+        "projectId": "p-godrej-green-cove-mahalunge",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 9900000,
+        "pricePerSqft": 13469,
+        "infraCharges": 297000,
+        "clubhouseCharges": 198000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      },
+      {
+        "id": "cfg-godrej-green-cove-mahalunge-3",
+        "projectId": "p-godrej-green-cove-mahalunge",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 15100000,
+        "pricePerSqft": 13482,
+        "infraCharges": 453000,
+        "clubhouseCharges": 302000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b959.50 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b999.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.51 Cr"
+      }
+    ]
   },
   {
     "id": "p-godrej-park-greens-mamurdi",
@@ -13069,8 +15025,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-park-greens-mamurdi",
     "builderId": "b-godrej",
     "location": "Mamurdi, Pune",
-    "priceRange": "\u20b954.00 L - \u20b982.00 L",
-    "exactPrice": "\u20b954.00 L",
+    "priceRange": "\u20b960.50 L - \u20b992.00 L",
+    "exactPrice": "\u20b960.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -13169,7 +15125,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Pune"
+    "city": "Pune",
+    "pricePerSqft": 8200,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-park-greens-mamurdi-1",
+        "projectId": "p-godrej-park-greens-mamurdi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 6050000,
+        "pricePerSqft": 8231,
+        "infraCharges": 181500,
+        "clubhouseCharges": 121000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-godrej-park-greens-mamurdi-2",
+        "projectId": "p-godrej-park-greens-mamurdi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 9200000,
+        "pricePerSqft": 8214,
+        "infraCharges": 276000,
+        "clubhouseCharges": 184000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b960.50 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b992.00 L"
+      }
+    ]
   },
   {
     "id": "p-godrej-hillview-estate-expressway",
@@ -13177,8 +15180,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-hillview-estate-expressway",
     "builderId": "b-godrej",
     "location": "Khalapur, Pune-Mumbai Expressway",
-    "priceRange": "\u20b945.00 L - \u20b91.20 Cr",
-    "exactPrice": "\u20b945.00 L",
+    "priceRange": "\u20b91.17 Cr - \u20b91.56 Cr",
+    "exactPrice": "\u20b91.17 Cr",
     "configurations": [
       "Villa Plot",
       "Resort Villa"
@@ -13277,7 +15280,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Lonavala"
+    "city": "Lonavala",
+    "pricePerSqft": 6500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-hillview-estate-expressway-1",
+        "projectId": "p-godrej-hillview-estate-expressway",
+        "name": "Villa Plot Premium Layout",
+        "carpetArea": 1800,
+        "balconyArea": 0,
+        "bathrooms": 0,
+        "basePrice": 11700000,
+        "pricePerSqft": 6500,
+        "infraCharges": 351000,
+        "clubhouseCharges": 234000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-godrej-hillview-estate-expressway-2",
+        "projectId": "p-godrej-hillview-estate-expressway",
+        "name": "Resort Villa Premium Layout",
+        "carpetArea": 2400,
+        "balconyArea": 220,
+        "bathrooms": 3,
+        "basePrice": 15600000,
+        "pricePerSqft": 6500,
+        "infraCharges": 468000,
+        "clubhouseCharges": 312000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "Villa Plot",
+        "carpetArea": "1800 sq.ft",
+        "priceRange": "\u20b91.17 Cr"
+      },
+      {
+        "type": "Resort Villa",
+        "carpetArea": "2400 sq.ft",
+        "priceRange": "\u20b91.56 Cr"
+      }
+    ]
   },
   {
     "id": "p-godrej-nurture-bhandup",
@@ -13285,8 +15335,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-nurture-bhandup",
     "builderId": "b-godrej",
     "location": "Bhandup West, Mumbai",
-    "priceRange": "\u20b91.45 Cr - \u20b92.65 Cr",
-    "exactPrice": "\u20b91.45 Cr",
+    "priceRange": "\u20b91.72 Cr - \u20b92.62 Cr",
+    "exactPrice": "\u20b91.72 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -13385,7 +15435,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Mumbai"
+    "city": "Mumbai",
+    "pricePerSqft": 23380,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-nurture-bhandup-1",
+        "projectId": "p-godrej-nurture-bhandup",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 17200000,
+        "pricePerSqft": 23401,
+        "infraCharges": 516000,
+        "clubhouseCharges": 344000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-godrej-nurture-bhandup-2",
+        "projectId": "p-godrej-nurture-bhandup",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 26200000,
+        "pricePerSqft": 23393,
+        "infraCharges": 786000,
+        "clubhouseCharges": 524000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b91.72 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b92.62 Cr"
+      }
+    ]
   },
   {
     "id": "p-godrej-urban-park-chandivali",
@@ -13393,8 +15490,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-urban-park-chandivali",
     "builderId": "b-godrej",
     "location": "Chandivali, Powai Extension, Mumbai",
-    "priceRange": "\u20b91.55 Cr - \u20b92.85 Cr",
-    "exactPrice": "\u20b91.55 Cr",
+    "priceRange": "\u20b91.42 Cr - \u20b93.62 Cr",
+    "exactPrice": "\u20b91.42 Cr",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -13494,7 +15591,75 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Mumbai"
+    "city": "Mumbai",
+    "pricePerSqft": 32290,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-urban-park-chandivali-1",
+        "projectId": "p-godrej-urban-park-chandivali",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 14200000,
+        "pricePerSqft": 32273,
+        "infraCharges": 426000,
+        "clubhouseCharges": 284000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-godrej-urban-park-chandivali-2",
+        "projectId": "p-godrej-urban-park-chandivali",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 23750000,
+        "pricePerSqft": 32313,
+        "infraCharges": 712500,
+        "clubhouseCharges": 475000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      },
+      {
+        "id": "cfg-godrej-urban-park-chandivali-3",
+        "projectId": "p-godrej-urban-park-chandivali",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 36150000,
+        "pricePerSqft": 32277,
+        "infraCharges": 1084500,
+        "clubhouseCharges": 723000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b91.42 Cr"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b92.38 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b93.62 Cr"
+      }
+    ]
   },
   {
     "id": "p-godrej-bandra-bay",
@@ -13502,8 +15667,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-bandra-bay",
     "builderId": "b-godrej",
     "location": "Bandra West, Mumbai",
-    "priceRange": "\u20b99.50 Cr - \u20b924.00 Cr",
-    "exactPrice": "\u20b99.50 Cr",
+    "priceRange": "\u20b97.88 Cr - \u20b925.68 Cr",
+    "exactPrice": "\u20b97.88 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK",
@@ -13603,7 +15768,75 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Mumbai"
+    "city": "Mumbai",
+    "pricePerSqft": 70370,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-bandra-bay-1",
+        "projectId": "p-godrej-bandra-bay",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 78800000,
+        "pricePerSqft": 70357,
+        "infraCharges": 2364000,
+        "clubhouseCharges": 1576000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-godrej-bandra-bay-2",
+        "projectId": "p-godrej-bandra-bay",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 137200000,
+        "pricePerSqft": 70359,
+        "infraCharges": 4116000,
+        "clubhouseCharges": 2744000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      },
+      {
+        "id": "cfg-godrej-bandra-bay-3",
+        "projectId": "p-godrej-bandra-bay",
+        "name": "Penthouse Premium Layout",
+        "carpetArea": 3650,
+        "balconyArea": 350,
+        "bathrooms": 5,
+        "basePrice": 256850000,
+        "pricePerSqft": 70370,
+        "infraCharges": 7705500,
+        "clubhouseCharges": 5137000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b97.88 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b913.72 Cr"
+      },
+      {
+        "type": "Penthouse",
+        "carpetArea": "3650 sq.ft",
+        "priceRange": "\u20b925.68 Cr"
+      }
+    ]
   },
   {
     "id": "p-golf-crest-godrej-city-panvel",
@@ -13611,8 +15844,8 @@ export const PROJECTS: Project[] = [
     "slug": "golf-crest-godrej-city-panvel",
     "builderId": "b-godrej",
     "location": "Panvel, Navi Mumbai",
-    "priceRange": "\u20b958.00 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b958.00 L",
+    "priceRange": "\u20b955.50 L - \u20b91.41 Cr",
+    "exactPrice": "\u20b955.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -13712,7 +15945,75 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Mumbai"
+    "city": "Mumbai",
+    "pricePerSqft": 12600,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-golf-crest-godrej-city-panvel-1",
+        "projectId": "p-golf-crest-godrej-city-panvel",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 5550000,
+        "pricePerSqft": 12614,
+        "infraCharges": 166500,
+        "clubhouseCharges": 111000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-golf-crest-godrej-city-panvel-2",
+        "projectId": "p-golf-crest-godrej-city-panvel",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 9250000,
+        "pricePerSqft": 12585,
+        "infraCharges": 277500,
+        "clubhouseCharges": 185000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      },
+      {
+        "id": "cfg-golf-crest-godrej-city-panvel-3",
+        "projectId": "p-golf-crest-godrej-city-panvel",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 14100000,
+        "pricePerSqft": 12589,
+        "infraCharges": 423000,
+        "clubhouseCharges": 282000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b955.50 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b992.50 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.41 Cr"
+      }
+    ]
   },
   {
     "id": "p-godrej-upavan-thane-extension",
@@ -13720,8 +16021,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-upavan-thane-extension",
     "builderId": "b-godrej",
     "location": "Thane Extension, Kalyan-Bhiwandi Road",
-    "priceRange": "\u20b942.00 L - \u20b975.00 L",
-    "exactPrice": "\u20b942.00 L",
+    "priceRange": "\u20b947.50 L - \u20b979.00 L",
+    "exactPrice": "\u20b947.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK"
@@ -13820,7 +16121,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Mumbai"
+    "city": "Mumbai",
+    "pricePerSqft": 10770,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-upavan-thane-extension-1",
+        "projectId": "p-godrej-upavan-thane-extension",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 4750000,
+        "pricePerSqft": 10795,
+        "infraCharges": 142500,
+        "clubhouseCharges": 95000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-godrej-upavan-thane-extension-2",
+        "projectId": "p-godrej-upavan-thane-extension",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7900000,
+        "pricePerSqft": 10748,
+        "infraCharges": 237000,
+        "clubhouseCharges": 158000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b947.50 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b979.00 L"
+      }
+    ]
   },
   {
     "id": "p-godrej-prime-chembur",
@@ -13828,8 +16176,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-prime-chembur",
     "builderId": "b-godrej",
     "location": "Chembur, Central Mumbai",
-    "priceRange": "\u20b91.65 Cr - \u20b93.10 Cr",
-    "exactPrice": "\u20b91.65 Cr",
+    "priceRange": "\u20b91.78 Cr - \u20b92.71 Cr",
+    "exactPrice": "\u20b91.78 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -13928,7 +16276,54 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Bank of Baroda"
     ],
-    "city": "Mumbai"
+    "city": "Mumbai",
+    "pricePerSqft": 24260,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-prime-chembur-1",
+        "projectId": "p-godrej-prime-chembur",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 17850000,
+        "pricePerSqft": 24286,
+        "infraCharges": 535500,
+        "clubhouseCharges": 357000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      },
+      {
+        "id": "cfg-godrej-prime-chembur-2",
+        "projectId": "p-godrej-prime-chembur",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 27150000,
+        "pricePerSqft": 24241,
+        "infraCharges": 814500,
+        "clubhouseCharges": 543000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b91.78 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b92.71 Cr"
+      }
+    ]
   },
   {
     "id": "p-earth-one-by-vtp-luxe-mahalunge",
@@ -13937,8 +16332,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge, Pune",
     "city": "Pune",
-    "priceRange": "\u20b982.00 L - \u20b91.85 Cr",
-    "exactPrice": "\u20b982.00 L",
+    "priceRange": "\u20b986.50 L - \u20b92.30 Cr",
+    "exactPrice": "\u20b986.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -13946,19 +16341,19 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury",
-        "carpetArea": "765 - 820 sq.ft",
-        "priceRange": "\u20b982.00 L - \u20b992.00 L"
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b986.50 L"
       },
       {
-        "type": "3 BHK Premium",
-        "carpetArea": "1045 - 1180 sq.ft",
-        "priceRange": "\u20b91.15 Cr - \u20b91.35 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.32 Cr"
       },
       {
-        "type": "4 BHK Grand Luxe",
-        "carpetArea": "1580 - 1850 sq.ft",
-        "priceRange": "\u20b91.65 Cr - \u20b91.85 Cr"
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b92.30 Cr"
       }
     ],
     "status": "Under Construction",
@@ -14054,6 +16449,57 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 11800,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-earth-one-by-vtp-luxe-mahalunge-1",
+        "projectId": "p-earth-one-by-vtp-luxe-mahalunge",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 8650000,
+        "pricePerSqft": 11769,
+        "infraCharges": 259500,
+        "clubhouseCharges": 173000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-earth-one-by-vtp-luxe-mahalunge-2",
+        "projectId": "p-earth-one-by-vtp-luxe-mahalunge",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 13200000,
+        "pricePerSqft": 11786,
+        "infraCharges": 396000,
+        "clubhouseCharges": 264000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-earth-one-by-vtp-luxe-mahalunge-3",
+        "projectId": "p-earth-one-by-vtp-luxe-mahalunge",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 23000000,
+        "pricePerSqft": 11795,
+        "infraCharges": 690000,
+        "clubhouseCharges": 460000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
     ]
   },
   {
@@ -14063,22 +16509,22 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Hinjewadi Phase 1, Pune",
     "city": "Pune",
-    "priceRange": "\u20b978.00 L - \u20b91.55 Cr",
-    "exactPrice": "\u20b978.00 L",
+    "priceRange": "\u20b977.00 L - \u20b91.18 Cr",
+    "exactPrice": "\u20b977.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Smart",
-        "carpetArea": "745 - 790 sq.ft",
-        "priceRange": "\u20b978.00 L - \u20b986.00 L"
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b977.00 L"
       },
       {
-        "type": "3 BHK Grand",
-        "carpetArea": "1025 - 1150 sq.ft",
-        "priceRange": "\u20b91.10 Cr - \u20b91.28 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.18 Cr"
       }
     ],
     "status": "Under Construction",
@@ -14174,6 +16620,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 10500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-monarque-hinjawadi-1",
+        "projectId": "p-vtp-monarque-hinjawadi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7700000,
+        "pricePerSqft": 10476,
+        "infraCharges": 231000,
+        "clubhouseCharges": 154000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-monarque-hinjawadi-2",
+        "projectId": "p-vtp-monarque-hinjawadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 11750000,
+        "pricePerSqft": 10491,
+        "infraCharges": 352500,
+        "clubhouseCharges": 235000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -14183,22 +16664,22 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b989.00 L - \u20b91.65 Cr",
-    "exactPrice": "\u20b989.00 L",
+    "priceRange": "\u20b979.50 L - \u20b91.21 Cr",
+    "exactPrice": "\u20b979.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK MLA",
-        "carpetArea": "775 - 830 sq.ft",
-        "priceRange": "\u20b989.00 L - \u20b998.00 L"
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b979.50 L"
       },
       {
-        "type": "3 BHK MLA",
-        "carpetArea": "1080 - 1240 sq.ft",
-        "priceRange": "\u20b91.25 Cr - \u20b91.45 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.21 Cr"
       }
     ],
     "status": "Under Construction",
@@ -14294,6 +16775,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 10800,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-aurelia-kharadi-1",
+        "projectId": "p-vtp-aurelia-kharadi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7950000,
+        "pricePerSqft": 10816,
+        "infraCharges": 238500,
+        "clubhouseCharges": 159000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-aurelia-kharadi-2",
+        "projectId": "p-vtp-aurelia-kharadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 12100000,
+        "pricePerSqft": 10804,
+        "infraCharges": 363000,
+        "clubhouseCharges": 242000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -14303,8 +16819,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b985.00 L - \u20b91.48 Cr",
-    "exactPrice": "\u20b985.00 L",
+    "priceRange": "\u20b978.00 L - \u20b91.19 Cr",
+    "exactPrice": "\u20b978.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -14312,13 +16828,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "750 - 810 sq.ft",
-        "priceRange": "\u20b985.00 L - \u20b994.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b978.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "1040 - 1160 sq.ft",
-        "priceRange": "\u20b91.18 Cr - \u20b91.35 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.19 Cr"
       }
     ],
     "status": "Under Construction",
@@ -14414,6 +16930,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 10600,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-altamira-kharadi-1",
+        "projectId": "p-vtp-altamira-kharadi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7800000,
+        "pricePerSqft": 10612,
+        "infraCharges": 234000,
+        "clubhouseCharges": 156000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-altamira-kharadi-2",
+        "projectId": "p-vtp-altamira-kharadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 11850000,
+        "pricePerSqft": 10580,
+        "infraCharges": 355500,
+        "clubhouseCharges": 237000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -14423,22 +16974,22 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b93.50 Cr - \u20b96.80 Cr",
-    "exactPrice": "\u20b93.50 Cr",
+    "priceRange": "\u20b94.87 Cr - \u20b96.35 Cr",
+    "exactPrice": "\u20b94.87 Cr",
     "configurations": [
       "4 BHK Villa",
       "5 BHK Villa"
     ],
     "configurationDetails": [
       {
-        "type": "4 BHK Signature Villa",
-        "carpetArea": "3200 - 3800 sq.ft",
-        "priceRange": "\u20b93.50 Cr - \u20b94.50 Cr"
+        "type": "4 BHK Villa",
+        "carpetArea": "2950 sq.ft",
+        "priceRange": "\u20b94.87 Cr"
       },
       {
-        "type": "5 BHK Imperial Villa",
-        "carpetArea": "4500 - 5400 sq.ft",
-        "priceRange": "\u20b95.20 Cr - \u20b96.80 Cr"
+        "type": "5 BHK Villa",
+        "carpetArea": "3850 sq.ft",
+        "priceRange": "\u20b96.35 Cr"
       }
     ],
     "status": "Under Construction",
@@ -14534,6 +17085,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 16500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-velvet-villas-by-vtp-luxe-kharadi-1",
+        "projectId": "p-velvet-villas-by-vtp-luxe-kharadi",
+        "name": "4 BHK Villa Premium Layout",
+        "carpetArea": 2950,
+        "balconyArea": 260,
+        "bathrooms": 4,
+        "basePrice": 48700000,
+        "pricePerSqft": 16508,
+        "infraCharges": 1461000,
+        "clubhouseCharges": 974000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-velvet-villas-by-vtp-luxe-kharadi-2",
+        "projectId": "p-velvet-villas-by-vtp-luxe-kharadi",
+        "name": "5 BHK Villa Premium Layout",
+        "carpetArea": 3850,
+        "balconyArea": 320,
+        "bathrooms": 5,
+        "basePrice": 63500000,
+        "pricePerSqft": 16494,
+        "infraCharges": 1905000,
+        "clubhouseCharges": 1270000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -14543,7 +17129,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Hinjewadi Phase 1, Pune",
     "city": "Pune",
-    "priceRange": "\u20b975.00 L - \u20b91.35 Cr",
+    "priceRange": "\u20b975.00 L - \u20b91.14 Cr",
     "exactPrice": "\u20b975.00 L",
     "configurations": [
       "2 BHK",
@@ -14552,13 +17138,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "720 - 785 sq.ft",
-        "priceRange": "\u20b975.00 L - \u20b984.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b975.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "990 - 1120 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.22 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.14 Cr"
       }
     ],
     "status": "Under Construction",
@@ -14654,6 +17240,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 10200,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-volare-hinjawadi-1",
+        "projectId": "p-vtp-volare-hinjawadi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7500000,
+        "pricePerSqft": 10204,
+        "infraCharges": 225000,
+        "clubhouseCharges": 150000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-volare-hinjawadi-2",
+        "projectId": "p-vtp-volare-hinjawadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 11400000,
+        "pricePerSqft": 10179,
+        "infraCharges": 342000,
+        "clubhouseCharges": 228000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -14663,8 +17284,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Baner-Sus Road, Pune",
     "city": "Pune",
-    "priceRange": "\u20b988.00 L - \u20b91.52 Cr",
-    "exactPrice": "\u20b988.00 L",
+    "priceRange": "\u20b982.50 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b982.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -14672,13 +17293,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "760 - 825 sq.ft",
-        "priceRange": "\u20b988.00 L - \u20b996.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b982.50 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "1050 - 1200 sq.ft",
-        "priceRange": "\u20b91.22 Cr - \u20b91.40 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.25 Cr"
       }
     ],
     "status": "Under Construction",
@@ -14774,6 +17395,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 11200,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-verve-baner-sus-1",
+        "projectId": "p-vtp-verve-baner-sus",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 8250000,
+        "pricePerSqft": 11224,
+        "infraCharges": 247500,
+        "clubhouseCharges": 165000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-verve-baner-sus-2",
+        "projectId": "p-vtp-verve-baner-sus",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 12550000,
+        "pricePerSqft": 11205,
+        "infraCharges": 376500,
+        "clubhouseCharges": 251000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -14783,8 +17439,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Bavdhan, Pune",
     "city": "Pune",
-    "priceRange": "\u20b995.00 L - \u20b91.95 Cr",
-    "exactPrice": "\u20b995.00 L",
+    "priceRange": "\u20b984.50 L - \u20b92.24 Cr",
+    "exactPrice": "\u20b984.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -14793,18 +17449,18 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "780 - 840 sq.ft",
-        "priceRange": "\u20b995.00 L - \u20b91.05 Cr"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b984.50 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "1120 - 1280 sq.ft",
-        "priceRange": "\u20b91.35 Cr - \u20b91.55 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.29 Cr"
       },
       {
         "type": "4 BHK",
-        "carpetArea": "1650 - 1880 sq.ft",
-        "priceRange": "\u20b91.80 Cr - \u20b91.95 Cr"
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b92.24 Cr"
       }
     ],
     "status": "Under Construction",
@@ -14900,6 +17556,57 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 11500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-cielo-bavdhan-1",
+        "projectId": "p-vtp-cielo-bavdhan",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 8450000,
+        "pricePerSqft": 11497,
+        "infraCharges": 253500,
+        "clubhouseCharges": 169000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-cielo-bavdhan-2",
+        "projectId": "p-vtp-cielo-bavdhan",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 12900000,
+        "pricePerSqft": 11518,
+        "infraCharges": 387000,
+        "clubhouseCharges": 258000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-vtp-cielo-bavdhan-3",
+        "projectId": "p-vtp-cielo-bavdhan",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 22400000,
+        "pricePerSqft": 11487,
+        "infraCharges": 672000,
+        "clubhouseCharges": 448000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
     ]
   },
   {
@@ -14909,8 +17616,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b958.00 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b958.00 L",
+    "priceRange": "\u20b943.00 L - \u20b91.10 Cr",
+    "exactPrice": "\u20b943.00 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -14919,18 +17626,18 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "1 BHK",
-        "carpetArea": "480 - 520 sq.ft",
-        "priceRange": "\u20b958.00 L - \u20b964.00 L"
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b943.00 L"
       },
       {
         "type": "2 BHK",
-        "carpetArea": "720 - 790 sq.ft",
-        "priceRange": "\u20b978.00 L - \u20b988.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b972.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "1010 - 1140 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.15 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
       }
     ],
     "status": "Under Construction",
@@ -15026,6 +17733,57 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 9800,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-euphoria-kharadi-1",
+        "projectId": "p-vtp-euphoria-kharadi",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 4300000,
+        "pricePerSqft": 9773,
+        "infraCharges": 129000,
+        "clubhouseCharges": 86000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-euphoria-kharadi-2",
+        "projectId": "p-vtp-euphoria-kharadi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7200000,
+        "pricePerSqft": 9796,
+        "infraCharges": 216000,
+        "clubhouseCharges": 144000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-vtp-euphoria-kharadi-3",
+        "projectId": "p-vtp-euphoria-kharadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 11000000,
+        "pricePerSqft": 9821,
+        "infraCharges": 330000,
+        "clubhouseCharges": 220000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
     ]
   },
   {
@@ -15035,8 +17793,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Baner-Sus Road, Pune",
     "city": "Pune",
-    "priceRange": "\u20b982.00 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b982.00 L",
+    "priceRange": "\u20b980.00 L - \u20b91.22 Cr",
+    "exactPrice": "\u20b980.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -15044,13 +17802,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "745 - 810 sq.ft",
-        "priceRange": "\u20b982.00 L - \u20b990.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b980.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "1020 - 1180 sq.ft",
-        "priceRange": "\u20b91.15 Cr - \u20b91.35 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.22 Cr"
       }
     ],
     "status": "Under Construction",
@@ -15146,6 +17904,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 10900,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-sierra-baner-sus-1",
+        "projectId": "p-vtp-sierra-baner-sus",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 8000000,
+        "pricePerSqft": 10884,
+        "infraCharges": 240000,
+        "clubhouseCharges": 160000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-sierra-baner-sus-2",
+        "projectId": "p-vtp-sierra-baner-sus",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 12200000,
+        "pricePerSqft": 10893,
+        "infraCharges": 366000,
+        "clubhouseCharges": 244000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -15155,8 +17948,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b91.25 Cr - \u20b92.75 Cr",
-    "exactPrice": "\u20b91.25 Cr",
+    "priceRange": "\u20b992.00 L - \u20b92.44 Cr",
+    "exactPrice": "\u20b992.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -15164,19 +17957,19 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Luxe",
-        "carpetArea": "820 - 890 sq.ft",
-        "priceRange": "\u20b91.25 Cr - \u20b91.40 Cr"
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b992.00 L"
       },
       {
-        "type": "3 BHK Luxe",
-        "carpetArea": "1180 - 1350 sq.ft",
-        "priceRange": "\u20b91.65 Cr - \u20b91.95 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.40 Cr"
       },
       {
-        "type": "4 BHK Luxe",
-        "carpetArea": "1720 - 2100 sq.ft",
-        "priceRange": "\u20b92.30 Cr - \u20b92.75 Cr"
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b92.44 Cr"
       }
     ],
     "status": "Under Construction",
@@ -15272,6 +18065,57 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 12500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-flamante-by-vtp-luxe-kharadi-1",
+        "projectId": "p-flamante-by-vtp-luxe-kharadi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 9200000,
+        "pricePerSqft": 12517,
+        "infraCharges": 276000,
+        "clubhouseCharges": 184000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-flamante-by-vtp-luxe-kharadi-2",
+        "projectId": "p-flamante-by-vtp-luxe-kharadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 14000000,
+        "pricePerSqft": 12500,
+        "infraCharges": 420000,
+        "clubhouseCharges": 280000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-flamante-by-vtp-luxe-kharadi-3",
+        "projectId": "p-flamante-by-vtp-luxe-kharadi",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 24400000,
+        "pricePerSqft": 12513,
+        "infraCharges": 732000,
+        "clubhouseCharges": 488000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
     ]
   },
   {
@@ -15281,8 +18125,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge, Pune",
     "city": "Pune",
-    "priceRange": "\u20b969.00 L - \u20b91.28 Cr",
-    "exactPrice": "\u20b969.00 L",
+    "priceRange": "\u20b974.00 L - \u20b91.13 Cr",
+    "exactPrice": "\u20b974.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -15290,13 +18134,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "710 - 775 sq.ft",
-        "priceRange": "\u20b969.00 L - \u20b978.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b974.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "980 - 1110 sq.ft",
-        "priceRange": "\u20b999.00 L - \u20b91.18 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.13 Cr"
       }
     ],
     "status": "Under Construction",
@@ -15392,6 +18236,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 10100,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-aethereus-mahalunge-1",
+        "projectId": "p-vtp-aethereus-mahalunge",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7400000,
+        "pricePerSqft": 10068,
+        "infraCharges": 222000,
+        "clubhouseCharges": 148000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-aethereus-mahalunge-2",
+        "projectId": "p-vtp-aethereus-mahalunge",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 11300000,
+        "pricePerSqft": 10089,
+        "infraCharges": 339000,
+        "clubhouseCharges": 226000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -15401,22 +18280,22 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Wakad, Pune",
     "city": "Pune",
-    "priceRange": "\u20b982.00 L - \u20b91.80 Cr",
-    "exactPrice": "\u20b982.00 L",
+    "priceRange": "\u20b950.50 L - \u20b978.00 L",
+    "exactPrice": "\u20b950.50 L",
     "configurations": [
       "Commercial Offices",
       "Retail Shops"
     ],
     "configurationDetails": [
       {
-        "type": "Grade A Office",
-        "carpetArea": "450 - 950 sq.ft",
-        "priceRange": "\u20b982.00 L - \u20b91.35 Cr"
+        "type": "Commercial Offices",
+        "carpetArea": "650 sq.ft",
+        "priceRange": "\u20b978.00 L"
       },
       {
-        "type": "High Street Retail",
-        "carpetArea": "600 - 1400 sq.ft",
-        "priceRange": "\u20b91.20 Cr - \u20b91.80 Cr"
+        "type": "Retail Shops",
+        "carpetArea": "420 sq.ft",
+        "priceRange": "\u20b950.50 L"
       }
     ],
     "status": "Under Construction",
@@ -15512,6 +18391,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 12000,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-altitude-wakad-1",
+        "projectId": "p-vtp-altitude-wakad",
+        "name": "Commercial Offices Premium Layout",
+        "carpetArea": 650,
+        "balconyArea": 0,
+        "bathrooms": 1,
+        "basePrice": 7800000,
+        "pricePerSqft": 12000,
+        "infraCharges": 234000,
+        "clubhouseCharges": 156000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-altitude-wakad-2",
+        "projectId": "p-vtp-altitude-wakad",
+        "name": "Retail Shops Premium Layout",
+        "carpetArea": 420,
+        "balconyArea": 0,
+        "bathrooms": 1,
+        "basePrice": 5050000,
+        "pricePerSqft": 12024,
+        "infraCharges": 151500,
+        "clubhouseCharges": 101000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -15521,8 +18435,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Hinjewadi Phase 1, Pune",
     "city": "Pune",
-    "priceRange": "\u20b976.00 L - \u20b91.42 Cr",
-    "exactPrice": "\u20b976.00 L",
+    "priceRange": "\u20b976.50 L - \u20b91.17 Cr",
+    "exactPrice": "\u20b976.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -15530,13 +18444,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "730 - 795 sq.ft",
-        "priceRange": "\u20b976.00 L - \u20b985.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b976.50 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "1015 - 1160 sq.ft",
-        "priceRange": "\u20b91.10 Cr - \u20b91.28 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.17 Cr"
       }
     ],
     "status": "Under Construction",
@@ -15632,6 +18546,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 10400,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-bellissimo-hinjewadi-1",
+        "projectId": "p-vtp-bellissimo-hinjewadi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7650000,
+        "pricePerSqft": 10408,
+        "infraCharges": 229500,
+        "clubhouseCharges": 153000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-bellissimo-hinjewadi-2",
+        "projectId": "p-vtp-bellissimo-hinjewadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 11650000,
+        "pricePerSqft": 10402,
+        "infraCharges": 349500,
+        "clubhouseCharges": 233000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -15641,8 +18590,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Wakad, Pune",
     "city": "Pune",
-    "priceRange": "\u20b982.00 L - \u20b91.35 Cr",
-    "exactPrice": "\u20b982.00 L",
+    "priceRange": "\u20b981.00 L - \u20b91.23 Cr",
+    "exactPrice": "\u20b981.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -15650,13 +18599,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "735 - 800 sq.ft",
-        "priceRange": "\u20b982.00 L - \u20b991.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b981.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "1030 - 1150 sq.ft",
-        "priceRange": "\u20b91.12 Cr - \u20b91.28 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.23 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -15752,6 +18701,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 11000,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-hilife-wakad-1",
+        "projectId": "p-vtp-hilife-wakad",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 8100000,
+        "pricePerSqft": 11020,
+        "infraCharges": 243000,
+        "clubhouseCharges": 162000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-hilife-wakad-2",
+        "projectId": "p-vtp-hilife-wakad",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 12300000,
+        "pricePerSqft": 10982,
+        "infraCharges": 369000,
+        "clubhouseCharges": 246000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -15761,8 +18745,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge, Pune",
     "city": "Pune",
-    "priceRange": "\u20b965.00 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b965.00 L",
+    "priceRange": "\u20b942.00 L - \u20b91.06 Cr",
+    "exactPrice": "\u20b942.00 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -15771,18 +18755,18 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "1 BHK",
-        "carpetArea": "465 - 510 sq.ft",
-        "priceRange": "\u20b965.00 L - \u20b970.00 L"
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b942.00 L"
       },
       {
         "type": "2 BHK",
-        "carpetArea": "715 - 770 sq.ft",
-        "priceRange": "\u20b978.00 L - \u20b986.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b970.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "985 - 1100 sq.ft",
-        "priceRange": "\u20b998.00 L - \u20b91.10 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.06 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -15878,6 +18862,57 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 9500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-leonara-mahalunge-1",
+        "projectId": "p-vtp-leonara-mahalunge",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 4200000,
+        "pricePerSqft": 9545,
+        "infraCharges": 126000,
+        "clubhouseCharges": 84000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-leonara-mahalunge-2",
+        "projectId": "p-vtp-leonara-mahalunge",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7000000,
+        "pricePerSqft": 9524,
+        "infraCharges": 210000,
+        "clubhouseCharges": 140000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-vtp-leonara-mahalunge-3",
+        "projectId": "p-vtp-leonara-mahalunge",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 10650000,
+        "pricePerSqft": 9509,
+        "infraCharges": 319500,
+        "clubhouseCharges": 213000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
     ]
   },
   {
@@ -15887,8 +18922,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge, Pune",
     "city": "Pune",
-    "priceRange": "\u20b962.00 L - \u20b91.05 Cr",
-    "exactPrice": "\u20b962.00 L",
+    "priceRange": "\u20b941.50 L - \u20b91.05 Cr",
+    "exactPrice": "\u20b941.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -15897,18 +18932,18 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "1 BHK",
-        "carpetArea": "470 - 515 sq.ft",
-        "priceRange": "\u20b962.00 L - \u20b968.00 L"
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b941.50 L"
       },
       {
         "type": "2 BHK",
-        "carpetArea": "710 - 765 sq.ft",
-        "priceRange": "\u20b975.00 L - \u20b984.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b969.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "970 - 1080 sq.ft",
-        "priceRange": "\u20b995.00 L - \u20b91.05 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.05 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -16004,6 +19039,57 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 9400,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-belair-mahalunge-1",
+        "projectId": "p-vtp-belair-mahalunge",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 4150000,
+        "pricePerSqft": 9432,
+        "infraCharges": 124500,
+        "clubhouseCharges": 83000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-belair-mahalunge-2",
+        "projectId": "p-vtp-belair-mahalunge",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 6900000,
+        "pricePerSqft": 9388,
+        "infraCharges": 207000,
+        "clubhouseCharges": 138000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-vtp-belair-mahalunge-3",
+        "projectId": "p-vtp-belair-mahalunge",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 10550000,
+        "pricePerSqft": 9420,
+        "infraCharges": 316500,
+        "clubhouseCharges": 211000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
     ]
   },
   {
@@ -16013,8 +19099,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge, Pune",
     "city": "Pune",
-    "priceRange": "\u20b964.00 L - \u20b91.08 Cr",
-    "exactPrice": "\u20b964.00 L",
+    "priceRange": "\u20b970.50 L - \u20b91.07 Cr",
+    "exactPrice": "\u20b970.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -16022,13 +19108,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "715 - 775 sq.ft",
-        "priceRange": "\u20b964.00 L - \u20b974.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b970.50 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "980 - 1090 sq.ft",
-        "priceRange": "\u20b996.00 L - \u20b91.08 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.07 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -16124,6 +19210,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 9600,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-alpine-mahalunge-1",
+        "projectId": "p-vtp-alpine-mahalunge",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7050000,
+        "pricePerSqft": 9592,
+        "infraCharges": 211500,
+        "clubhouseCharges": 141000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-alpine-mahalunge-2",
+        "projectId": "p-vtp-alpine-mahalunge",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 10750000,
+        "pricePerSqft": 9598,
+        "infraCharges": 322500,
+        "clubhouseCharges": 215000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -16133,8 +19254,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b972.00 L - \u20b91.28 Cr",
-    "exactPrice": "\u20b972.00 L",
+    "priceRange": "\u20b973.00 L - \u20b91.11 Cr",
+    "exactPrice": "\u20b973.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -16142,13 +19263,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "725 - 785 sq.ft",
-        "priceRange": "\u20b972.00 L - \u20b982.00 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b973.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "995 - 1120 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.22 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.11 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -16244,6 +19365,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 9900,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-cygnus-kharadi-1",
+        "projectId": "p-vtp-cygnus-kharadi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7300000,
+        "pricePerSqft": 9932,
+        "infraCharges": 219000,
+        "clubhouseCharges": 146000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-cygnus-kharadi-2",
+        "projectId": "p-vtp-cygnus-kharadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 11100000,
+        "pricePerSqft": 9911,
+        "infraCharges": 333000,
+        "clubhouseCharges": 222000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -16253,22 +19409,22 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b992.00 L - \u20b91.75 Cr",
-    "exactPrice": "\u20b992.00 L",
+    "priceRange": "\u20b986.50 L - \u20b91.32 Cr",
+    "exactPrice": "\u20b986.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Luxe",
-        "carpetArea": "780 - 845 sq.ft",
-        "priceRange": "\u20b992.00 L - \u20b91.02 Cr"
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b986.50 L"
       },
       {
-        "type": "3 BHK Luxe",
-        "carpetArea": "1090 - 1260 sq.ft",
-        "priceRange": "\u20b91.32 Cr - \u20b91.55 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.32 Cr"
       }
     ],
     "status": "Under Construction",
@@ -16364,6 +19520,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 11800,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-vtp-beaumonde-kharadi-1",
+        "projectId": "p-vtp-beaumonde-kharadi",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 8650000,
+        "pricePerSqft": 11769,
+        "infraCharges": 259500,
+        "clubhouseCharges": 173000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-vtp-beaumonde-kharadi-2",
+        "projectId": "p-vtp-beaumonde-kharadi",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 13200000,
+        "pricePerSqft": 11786,
+        "infraCharges": 396000,
+        "clubhouseCharges": 264000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -16373,8 +19564,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Khopoli Foothills, Lonavala",
     "city": "Lonavala",
-    "priceRange": "\u20b92.85 Cr - \u20b96.50 Cr",
-    "exactPrice": "\u20b92.85 Cr",
+    "priceRange": "\u20b91.81 Cr - \u20b94.28 Cr",
+    "exactPrice": "\u20b91.81 Cr",
     "configurations": [
       "3 BHK Villa",
       "4 BHK Villa",
@@ -16382,19 +19573,19 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK Valley Villa",
-        "carpetArea": "2400 - 2800 sq.ft",
-        "priceRange": "\u20b92.85 Cr - \u20b93.40 Cr"
+        "type": "3 BHK Villa",
+        "carpetArea": "2250 sq.ft",
+        "priceRange": "\u20b93.26 Cr"
       },
       {
-        "type": "4 BHK Forest Villa",
-        "carpetArea": "3200 - 3900 sq.ft",
-        "priceRange": "\u20b93.80 Cr - \u20b94.60 Cr"
+        "type": "4 BHK Villa",
+        "carpetArea": "2950 sq.ft",
+        "priceRange": "\u20b94.28 Cr"
       },
       {
-        "type": "5 BHK Private Estate",
-        "carpetArea": "4800 - 6200 sq.ft",
-        "priceRange": "\u20b95.20 Cr - \u20b96.50 Cr"
+        "type": "5 BHK Estate",
+        "carpetArea": "1250 sq.ft",
+        "priceRange": "\u20b91.81 Cr"
       }
     ],
     "status": "Under Construction",
@@ -16490,6 +19681,57 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 14500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-villa-cerro-khopoli-lonavala-1",
+        "projectId": "p-lodha-villa-cerro-khopoli-lonavala",
+        "name": "3 BHK Villa Premium Layout",
+        "carpetArea": 2250,
+        "balconyArea": 190,
+        "bathrooms": 3,
+        "basePrice": 32600000,
+        "pricePerSqft": 14489,
+        "infraCharges": 978000,
+        "clubhouseCharges": 652000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-villa-cerro-khopoli-lonavala-2",
+        "projectId": "p-lodha-villa-cerro-khopoli-lonavala",
+        "name": "4 BHK Villa Premium Layout",
+        "carpetArea": 2950,
+        "balconyArea": 260,
+        "bathrooms": 4,
+        "basePrice": 42800000,
+        "pricePerSqft": 14508,
+        "infraCharges": 1284000,
+        "clubhouseCharges": 856000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-lodha-villa-cerro-khopoli-lonavala-3",
+        "projectId": "p-lodha-villa-cerro-khopoli-lonavala",
+        "name": "5 BHK Estate Premium Layout",
+        "carpetArea": 1250,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 18100000,
+        "pricePerSqft": 14480,
+        "infraCharges": 543000,
+        "clubhouseCharges": 362000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
     ]
   },
   {
@@ -16499,22 +19741,22 @@ export const PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Khalapur, Lonavala Corridor",
     "city": "Lonavala",
-    "priceRange": "\u20b91.15 Cr - \u20b92.75 Cr",
-    "exactPrice": "\u20b91.15 Cr",
+    "priceRange": "\u20b92.07 Cr - \u20b92.76 Cr",
+    "exactPrice": "\u20b92.07 Cr",
     "configurations": [
       "Villa Plot",
       "Resort Villa"
     ],
     "configurationDetails": [
       {
-        "type": "Villa Plot 1500 sq.ft",
-        "carpetArea": "1500 - 2200 sq.ft",
-        "priceRange": "\u20b91.15 Cr - \u20b91.65 Cr"
+        "type": "Villa Plot",
+        "carpetArea": "1800 sq.ft",
+        "priceRange": "\u20b92.07 Cr"
       },
       {
-        "type": "Estate Plot 2500 sq.ft",
-        "carpetArea": "2500 - 3800 sq.ft",
-        "priceRange": "\u20b91.85 Cr - \u20b92.75 Cr"
+        "type": "Resort Villa",
+        "carpetArea": "2400 sq.ft",
+        "priceRange": "\u20b92.76 Cr"
       }
     ],
     "status": "New Launch",
@@ -16610,6 +19852,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 11500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-godrej-woodside-estate-lonavala-1",
+        "projectId": "p-godrej-woodside-estate-lonavala",
+        "name": "Villa Plot Premium Layout",
+        "carpetArea": 1800,
+        "balconyArea": 0,
+        "bathrooms": 0,
+        "basePrice": 20700000,
+        "pricePerSqft": 11500,
+        "infraCharges": 621000,
+        "clubhouseCharges": 414000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-godrej-woodside-estate-lonavala-2",
+        "projectId": "p-godrej-woodside-estate-lonavala",
+        "name": "Resort Villa Premium Layout",
+        "carpetArea": 2400,
+        "balconyArea": 220,
+        "bathrooms": 3,
+        "basePrice": 27600000,
+        "pricePerSqft": 11500,
+        "infraCharges": 828000,
+        "clubhouseCharges": 552000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -16619,8 +19896,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Awas Beach, Alibaug",
     "city": "Alibaug",
-    "priceRange": "\u20b94.50 Cr - \u20b915.00 Cr",
-    "exactPrice": "\u20b94.50 Cr",
+    "priceRange": "\u20b96.89 Cr - \u20b912.72 Cr",
+    "exactPrice": "\u20b96.89 Cr",
     "configurations": [
       "3 BHK Beach Villa",
       "4 BHK Beach Villa",
@@ -16628,19 +19905,19 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK Coastal Villa",
-        "carpetArea": "2600 - 3200 sq.ft",
-        "priceRange": "\u20b94.50 Cr - \u20b95.80 Cr"
+        "type": "3 BHK Beach Villa",
+        "carpetArea": "2600 sq.ft",
+        "priceRange": "\u20b96.89 Cr"
       },
       {
-        "type": "4 BHK Royal Villa",
-        "carpetArea": "3800 - 4600 sq.ft",
-        "priceRange": "\u20b96.80 Cr - \u20b98.50 Cr"
+        "type": "4 BHK Beach Villa",
+        "carpetArea": "3450 sq.ft",
+        "priceRange": "\u20b99.14 Cr"
       },
       {
-        "type": "5 BHK Beachfront Manor",
-        "carpetArea": "5500 - 7500 sq.ft",
-        "priceRange": "\u20b910.50 Cr - \u20b915.00 Cr"
+        "type": "5 BHK Royal Manor",
+        "carpetArea": "4800 sq.ft",
+        "priceRange": "\u20b912.72 Cr"
       }
     ],
     "status": "Under Construction",
@@ -16736,6 +20013,57 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 26500,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-lodha-alibaug-coastal-villas-1",
+        "projectId": "p-lodha-alibaug-coastal-villas",
+        "name": "3 BHK Beach Villa Premium Layout",
+        "carpetArea": 2600,
+        "balconyArea": 240,
+        "bathrooms": 3,
+        "basePrice": 68900000,
+        "pricePerSqft": 26500,
+        "infraCharges": 2067000,
+        "clubhouseCharges": 1378000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-lodha-alibaug-coastal-villas-2",
+        "projectId": "p-lodha-alibaug-coastal-villas",
+        "name": "4 BHK Beach Villa Premium Layout",
+        "carpetArea": 3450,
+        "balconyArea": 300,
+        "bathrooms": 4,
+        "basePrice": 91400000,
+        "pricePerSqft": 26493,
+        "infraCharges": 2742000,
+        "clubhouseCharges": 1828000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      },
+      {
+        "id": "cfg-lodha-alibaug-coastal-villas-3",
+        "projectId": "p-lodha-alibaug-coastal-villas",
+        "name": "5 BHK Royal Manor Premium Layout",
+        "carpetArea": 4800,
+        "balconyArea": 420,
+        "bathrooms": 5,
+        "basePrice": 127200000,
+        "pricePerSqft": 26500,
+        "infraCharges": 3816000,
+        "clubhouseCharges": 2544000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      }
     ]
   },
   {
@@ -16745,22 +20073,22 @@ export const PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Mandwa Jetty Corridor, Alibaug",
     "city": "Alibaug",
-    "priceRange": "\u20b91.45 Cr - \u20b93.80 Cr",
-    "exactPrice": "\u20b91.45 Cr",
+    "priceRange": "\u20b93.69 Cr - \u20b96.05 Cr",
+    "exactPrice": "\u20b93.69 Cr",
     "configurations": [
       "Coastal Villa Plot",
       "Beach Estate"
     ],
     "configurationDetails": [
       {
-        "type": "Coastal Plot 1800 sq.ft",
-        "carpetArea": "1800 - 2400 sq.ft",
-        "priceRange": "\u20b91.45 Cr - \u20b91.95 Cr"
+        "type": "Coastal Villa Plot",
+        "carpetArea": "2200 sq.ft",
+        "priceRange": "\u20b93.69 Cr"
       },
       {
-        "type": "Beach Estate 3000 sq.ft",
-        "carpetArea": "3000 - 4500 sq.ft",
-        "priceRange": "\u20b92.45 Cr - \u20b93.80 Cr"
+        "type": "Beach Estate",
+        "carpetArea": "3600 sq.ft",
+        "priceRange": "\u20b96.05 Cr"
       }
     ],
     "status": "New Launch",
@@ -16856,6 +20184,41 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
+    ],
+    "pricePerSqft": 16800,
+    "advancedConfigurations": [
+      {
+        "id": "cfg-abhinandan-lodha-alibaug-reserve-1",
+        "projectId": "p-abhinandan-lodha-alibaug-reserve",
+        "name": "Coastal Villa Plot Premium Layout",
+        "carpetArea": 2200,
+        "balconyArea": 0,
+        "bathrooms": 0,
+        "basePrice": 36950000,
+        "pricePerSqft": 16795,
+        "infraCharges": 1108500,
+        "clubhouseCharges": 739000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
+      },
+      {
+        "id": "cfg-abhinandan-lodha-alibaug-reserve-2",
+        "projectId": "p-abhinandan-lodha-alibaug-reserve",
+        "name": "Beach Estate Premium Layout",
+        "carpetArea": 3600,
+        "balconyArea": 300,
+        "bathrooms": 4,
+        "basePrice": 60500000,
+        "pricePerSqft": 16806,
+        "infraCharges": 1815000,
+        "clubhouseCharges": 1210000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+      }
     ]
   },
   {
@@ -16865,8 +20228,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b964.00 L - \u20b995.00 L",
-    "exactPrice": "\u20b964.00 L",
+    "priceRange": "\u20b953.00 L - \u20b980.50 L",
+    "exactPrice": "\u20b953.00 L",
     "pricePerSqft": 7200,
     "configurations": [
       "2 BHK",
@@ -16875,13 +20238,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "725 - 785 sq.ft",
-        "priceRange": "\u20b964 L - \u20b974 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b953.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "940 - 1,010 sq.ft",
-        "priceRange": "\u20b982 L - \u20b995 L"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b980.50 L"
       }
     ],
     "status": "Under Construction",
@@ -16984,7 +20347,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100079623"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100079623",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-life-republic-qrious-1",
+        "projectId": "p-kolte-patil-life-republic-qrious",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 5300000,
+        "pricePerSqft": 7211,
+        "infraCharges": 159000,
+        "clubhouseCharges": 106000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-life-republic-qrious-2",
+        "projectId": "p-kolte-patil-life-republic-qrious",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 8050000,
+        "pricePerSqft": 7188,
+        "infraCharges": 241500,
+        "clubhouseCharges": 161000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-life-republic-canvas",
@@ -16993,7 +20390,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b91.18 Cr - \u20b92.10 Cr",
+    "priceRange": "\u20b91.18 Cr - \u20b91.85 Cr",
     "exactPrice": "\u20b91.18 Cr",
     "pricePerSqft": 8400,
     "configurations": [
@@ -17003,19 +20400,19 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
-        "carpetArea": "1,120 - 1,280 sq.ft",
-        "priceRange": "\u20b91.18 Cr - \u20b91.45 Cr"
+        "type": "3 BHK Luxury Sky Suite",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.18 Cr"
       },
       {
-        "type": "3.5 BHK",
-        "carpetArea": "1,390 - 1,480 sq.ft",
-        "priceRange": "\u20b91.52 Cr - \u20b91.72 Cr"
+        "type": "3.5 BHK Grand Residence",
+        "carpetArea": "1390 sq.ft",
+        "priceRange": "\u20b91.52 Cr"
       },
       {
-        "type": "4 BHK",
-        "carpetArea": "1,650 - 1,850 sq.ft",
-        "priceRange": "\u20b91.85 Cr - \u20b92.10 Cr"
+        "type": "4 BHK Imperial Penthouse",
+        "carpetArea": "1650 sq.ft",
+        "priceRange": "\u20b91.85 Cr"
       }
     ],
     "status": "Under Construction",
@@ -17231,8 +20628,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b962.00 L - \u20b989.00 L",
-    "exactPrice": "\u20b962.00 L",
+    "priceRange": "\u20b952.00 L - \u20b979.50 L",
+    "exactPrice": "\u20b952.00 L",
     "pricePerSqft": 7100,
     "configurations": [
       "2 BHK",
@@ -17241,13 +20638,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "715 - 770 sq.ft",
-        "priceRange": "\u20b962 L - \u20b972 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b952.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "890 - 980 sq.ft",
-        "priceRange": "\u20b978 L - \u20b989 L"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b979.50 L"
       }
     ],
     "status": "Under Construction",
@@ -17382,6 +20779,40 @@ export const PROJECTS: Project[] = [
       "https://www.koltepatil.com/assets/uploads/gallery/1684241345866229263.jpg",
       "https://www.koltepatil.com/assets/uploads/gallery/base_image/16842393951418697056.jpg",
       "https://www.koltepatil.com/assets/uploads/gallery/16842393951624072702.jpg"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-life-republic-aros-1",
+        "projectId": "p-kolte-patil-life-republic-aros",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 5200000,
+        "pricePerSqft": 7075,
+        "infraCharges": 156000,
+        "clubhouseCharges": 104000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1684245329977342120.jpg"
+      },
+      {
+        "id": "cfg-kolte-patil-life-republic-aros-2",
+        "projectId": "p-kolte-patil-life-republic-aros",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 7950000,
+        "pricePerSqft": 7098,
+        "infraCharges": 238500,
+        "clubhouseCharges": 159000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/16842453291490461123.jpg"
+      }
     ]
   },
   {
@@ -17391,8 +20822,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b958.00 L - \u20b978.00 L",
-    "exactPrice": "\u20b958.00 L",
+    "priceRange": "\u20b951.00 L - \u20b961.00 L",
+    "exactPrice": "\u20b951.00 L",
     "pricePerSqft": 6950,
     "configurations": [
       "2 BHK",
@@ -17401,13 +20832,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "685 - 740 sq.ft",
-        "priceRange": "\u20b958 L - \u20b968 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b951.00 L"
       },
       {
         "type": "2.5 BHK",
-        "carpetArea": "790 - 850 sq.ft",
-        "priceRange": "\u20b969 L - \u20b978 L"
+        "carpetArea": "880 sq.ft",
+        "priceRange": "\u20b961.00 L"
       }
     ],
     "status": "Under Construction",
@@ -17528,6 +20959,40 @@ export const PROJECTS: Project[] = [
       "https://www.koltepatil.com/assets/uploads/gallery/1688035221995782530.jpg",
       "https://www.koltepatil.com/assets/uploads/gallery/base_image/1688035180865610291.jpg",
       "https://www.koltepatil.com/assets/uploads/gallery/16880351801446442741.jpg"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-life-republic-atmos-1",
+        "projectId": "p-kolte-patil-life-republic-atmos",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 5100000,
+        "pricePerSqft": 6939,
+        "infraCharges": 153000,
+        "clubhouseCharges": 102000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/168803585650275619.jpg"
+      },
+      {
+        "id": "cfg-kolte-patil-life-republic-atmos-2",
+        "projectId": "p-kolte-patil-life-republic-atmos",
+        "name": "2.5 BHK Premium Layout",
+        "carpetArea": 880,
+        "balconyArea": 70,
+        "bathrooms": 2,
+        "basePrice": 6100000,
+        "pricePerSqft": 6932,
+        "infraCharges": 183000,
+        "clubhouseCharges": 122000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/16880358561556615257.jpg"
+      }
     ]
   },
   {
@@ -17537,22 +21002,17 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b954.00 L - \u20b966.00 L",
-    "exactPrice": "\u20b954.00 L",
+    "priceRange": "\u20b950.00 L",
+    "exactPrice": "\u20b950.00 L",
     "pricePerSqft": 6800,
     "configurations": [
       "2 BHK"
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Compact",
-        "carpetArea": "640 sq.ft",
-        "priceRange": "\u20b954 L - \u20b959 L"
-      },
-      {
-        "type": "2 BHK Luxury",
-        "carpetArea": "720 sq.ft",
-        "priceRange": "\u20b960 L - \u20b966 L"
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b950.00 L"
       }
     ],
     "status": "Under Construction",
@@ -17655,7 +21115,25 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100079424"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100079424",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-life-republic-duet-1",
+        "projectId": "p-kolte-patil-life-republic-duet",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 5000000,
+        "pricePerSqft": 6803,
+        "infraCharges": 150000,
+        "clubhouseCharges": 100000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-life-republic-echoes",
@@ -17664,8 +21142,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b959.00 L - \u20b979.00 L",
-    "exactPrice": "\u20b959.00 L",
+    "priceRange": "\u20b951.50 L - \u20b961.50 L",
+    "exactPrice": "\u20b951.50 L",
     "pricePerSqft": 7000,
     "configurations": [
       "2 BHK",
@@ -17674,13 +21152,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "670 - 735 sq.ft",
-        "priceRange": "\u20b959 L - \u20b969 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b951.50 L"
       },
       {
         "type": "2.5 BHK",
-        "carpetArea": "780 - 840 sq.ft",
-        "priceRange": "\u20b970 L - \u20b979 L"
+        "carpetArea": "880 sq.ft",
+        "priceRange": "\u20b961.50 L"
       }
     ],
     "status": "Under Construction",
@@ -17783,7 +21261,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100077382"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100077382",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-life-republic-echoes-1",
+        "projectId": "p-kolte-patil-life-republic-echoes",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 5150000,
+        "pricePerSqft": 7007,
+        "infraCharges": 154500,
+        "clubhouseCharges": 103000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-life-republic-echoes-2",
+        "projectId": "p-kolte-patil-life-republic-echoes",
+        "name": "2.5 BHK Premium Layout",
+        "carpetArea": 880,
+        "balconyArea": 70,
+        "bathrooms": 2,
+        "basePrice": 6150000,
+        "pricePerSqft": 6989,
+        "infraCharges": 184500,
+        "clubhouseCharges": 123000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-24k-espada-at-life-republic",
@@ -17792,8 +21304,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b92.85 Cr - \u20b94.50 Cr",
-    "exactPrice": "\u20b92.85 Cr",
+    "priceRange": "\u20b92.19 Cr - \u20b93.47 Cr",
+    "exactPrice": "\u20b92.19 Cr",
     "pricePerSqft": 11200,
     "configurations": [
       "4 BHK",
@@ -17801,14 +21313,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "4 BHK Row House",
-        "carpetArea": "2,450 - 2,850 sq.ft",
-        "priceRange": "\u20b92.85 Cr - \u20b93.40 Cr"
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b92.19 Cr"
       },
       {
-        "type": "5 BHK Grand Villa",
-        "carpetArea": "3,200 - 3,850 sq.ft",
-        "priceRange": "\u20b93.80 Cr - \u20b94.50 Cr"
+        "type": "5 BHK",
+        "carpetArea": "3100 sq.ft",
+        "priceRange": "\u20b93.47 Cr"
       }
     ],
     "status": "Under Construction",
@@ -17911,7 +21423,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100051876"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100051876",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-24k-espada-at-life-republic-1",
+        "projectId": "p-kolte-patil-24k-espada-at-life-republic",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 21850000,
+        "pricePerSqft": 11205,
+        "infraCharges": 655500,
+        "clubhouseCharges": 437000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-24k-espada-at-life-republic-2",
+        "projectId": "p-kolte-patil-24k-espada-at-life-republic",
+        "name": "5 BHK Premium Layout",
+        "carpetArea": 3100,
+        "balconyArea": 260,
+        "bathrooms": 5,
+        "basePrice": 34700000,
+        "pricePerSqft": 11194,
+        "infraCharges": 1041000,
+        "clubhouseCharges": 694000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-universe-at-life-republic",
@@ -17920,8 +21466,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b941.00 L - \u20b962.00 L",
-    "exactPrice": "\u20b941.00 L",
+    "priceRange": "\u20b930.50 L - \u20b950.50 L",
+    "exactPrice": "\u20b930.50 L",
     "pricePerSqft": 6900,
     "configurations": [
       "1 BHK",
@@ -17930,13 +21476,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "1 BHK",
-        "carpetArea": "460 - 510 sq.ft",
-        "priceRange": "\u20b941 L - \u20b948 L"
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b930.50 L"
       },
       {
         "type": "2 BHK",
-        "carpetArea": "620 - 695 sq.ft",
-        "priceRange": "\u20b953 L - \u20b962 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b950.50 L"
       }
     ],
     "status": "Ready to Move",
@@ -18039,7 +21585,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100027629"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100027629",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-universe-at-life-republic-1",
+        "projectId": "p-kolte-patil-universe-at-life-republic",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 3050000,
+        "pricePerSqft": 6932,
+        "infraCharges": 91500,
+        "clubhouseCharges": 61000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-universe-at-life-republic-2",
+        "projectId": "p-kolte-patil-universe-at-life-republic",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 5050000,
+        "pricePerSqft": 6871,
+        "infraCharges": 151500,
+        "clubhouseCharges": 101000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-oro-avenue-at-life-republic",
@@ -18048,8 +21628,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b938.00 L - \u20b958.00 L",
-    "exactPrice": "\u20b938.00 L",
+    "priceRange": "\u20b930.00 L - \u20b950.00 L",
+    "exactPrice": "\u20b930.00 L",
     "pricePerSqft": 6800,
     "configurations": [
       "1 BHK",
@@ -18058,13 +21638,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "1 BHK",
-        "carpetArea": "425 - 480 sq.ft",
-        "priceRange": "\u20b938 L - \u20b944 L"
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b930.00 L"
       },
       {
         "type": "2 BHK",
-        "carpetArea": "585 - 650 sq.ft",
-        "priceRange": "\u20b949 L - \u20b958 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b950.00 L"
       }
     ],
     "status": "Ready to Move",
@@ -18167,7 +21747,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100017116"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100017116",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-oro-avenue-at-life-republic-1",
+        "projectId": "p-kolte-patil-oro-avenue-at-life-republic",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 3000000,
+        "pricePerSqft": 6818,
+        "infraCharges": 90000,
+        "clubhouseCharges": 60000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-oro-avenue-at-life-republic-2",
+        "projectId": "p-kolte-patil-oro-avenue-at-life-republic",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 5000000,
+        "pricePerSqft": 6803,
+        "infraCharges": 150000,
+        "clubhouseCharges": 100000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-24k-atria",
@@ -18176,8 +21790,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Pimple Nilakh",
     "city": "Pune",
-    "priceRange": "\u20b91.95 Cr - \u20b93.20 Cr",
-    "exactPrice": "\u20b91.95 Cr",
+    "priceRange": "\u20b91.40 Cr - \u20b92.44 Cr",
+    "exactPrice": "\u20b91.40 Cr",
     "pricePerSqft": 12500,
     "configurations": [
       "3 BHK",
@@ -18185,14 +21799,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK Luxury",
-        "carpetArea": "1,450 - 1,750 sq.ft",
-        "priceRange": "\u20b91.95 Cr - \u20b92.40 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.40 Cr"
       },
       {
-        "type": "4 BHK Sky Suite",
-        "carpetArea": "1,980 - 2,250 sq.ft",
-        "priceRange": "\u20b92.65 Cr - \u20b93.20 Cr"
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b92.44 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -18295,7 +21909,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000428"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000428",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-24k-atria-1",
+        "projectId": "p-kolte-patil-24k-atria",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 14000000,
+        "pricePerSqft": 12500,
+        "infraCharges": 420000,
+        "clubhouseCharges": 280000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-24k-atria-2",
+        "projectId": "p-kolte-patil-24k-atria",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 24400000,
+        "pricePerSqft": 12513,
+        "infraCharges": 732000,
+        "clubhouseCharges": 488000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-24k-manor",
@@ -18304,8 +21952,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Pimple Nilakh",
     "city": "Pune",
-    "priceRange": "\u20b92.35 Cr - \u20b93.90 Cr",
-    "exactPrice": "\u20b92.35 Cr",
+    "priceRange": "\u20b91.51 Cr - \u20b92.63 Cr",
+    "exactPrice": "\u20b91.51 Cr",
     "pricePerSqft": 13500,
     "configurations": [
       "3 BHK",
@@ -18313,14 +21961,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK Palatial",
-        "carpetArea": "1,650 - 1,950 sq.ft",
-        "priceRange": "\u20b92.35 Cr - \u20b92.95 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.51 Cr"
       },
       {
-        "type": "4 BHK Imperial",
-        "carpetArea": "2,200 - 2,650 sq.ft",
-        "priceRange": "\u20b93.20 Cr - \u20b93.90 Cr"
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b92.63 Cr"
       }
     ],
     "status": "Under Construction",
@@ -18423,7 +22071,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100052151"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100052151",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-24k-manor-1",
+        "projectId": "p-kolte-patil-24k-manor",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 15100000,
+        "pricePerSqft": 13482,
+        "infraCharges": 453000,
+        "clubhouseCharges": 302000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-24k-manor-2",
+        "projectId": "p-kolte-patil-24k-manor",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 26300000,
+        "pricePerSqft": 13487,
+        "infraCharges": 789000,
+        "clubhouseCharges": 526000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-24k-opula",
@@ -18432,8 +22114,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Pimple Nilakh",
     "city": "Pune",
-    "priceRange": "\u20b92.65 Cr - \u20b94.80 Cr",
-    "exactPrice": "\u20b92.65 Cr",
+    "priceRange": "\u20b91.54 Cr - \u20b94.28 Cr",
+    "exactPrice": "\u20b91.54 Cr",
     "pricePerSqft": 13800,
     "configurations": [
       "3 BHK",
@@ -18442,19 +22124,19 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK Luxury",
-        "carpetArea": "1,850 sq.ft",
-        "priceRange": "\u20b92.65 Cr - \u20b92.95 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.54 Cr"
       },
       {
-        "type": "4 BHK Sky Villa",
-        "carpetArea": "2,450 sq.ft",
-        "priceRange": "\u20b93.40 Cr - \u20b93.95 Cr"
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b92.69 Cr"
       },
       {
-        "type": "5 BHK Penthouse",
-        "carpetArea": "3,400 sq.ft",
-        "priceRange": "\u20b94.30 Cr - \u20b94.80 Cr"
+        "type": "5 BHK",
+        "carpetArea": "3100 sq.ft",
+        "priceRange": "\u20b94.28 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -18557,7 +22239,57 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000398"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000398",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-24k-opula-1",
+        "projectId": "p-kolte-patil-24k-opula",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 15450000,
+        "pricePerSqft": 13795,
+        "infraCharges": 463500,
+        "clubhouseCharges": 309000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-24k-opula-2",
+        "projectId": "p-kolte-patil-24k-opula",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 26900000,
+        "pricePerSqft": 13795,
+        "infraCharges": 807000,
+        "clubhouseCharges": 538000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      },
+      {
+        "id": "cfg-kolte-patil-24k-opula-3",
+        "projectId": "p-kolte-patil-24k-opula",
+        "name": "5 BHK Premium Layout",
+        "carpetArea": 3100,
+        "balconyArea": 260,
+        "bathrooms": 5,
+        "basePrice": 42800000,
+        "pricePerSqft": 13806,
+        "infraCharges": 1284000,
+        "clubhouseCharges": 856000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (82).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-24k-stargaze",
@@ -18566,8 +22298,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Bavdhan",
     "city": "Pune",
-    "priceRange": "\u20b91.65 Cr - \u20b92.75 Cr",
-    "exactPrice": "\u20b91.65 Cr",
+    "priceRange": "\u20b91.25 Cr - \u20b92.19 Cr",
+    "exactPrice": "\u20b91.25 Cr",
     "pricePerSqft": 11200,
     "configurations": [
       "3 BHK",
@@ -18575,14 +22307,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK Valley View",
-        "carpetArea": "1,350 - 1,650 sq.ft",
-        "priceRange": "\u20b91.65 Cr - \u20b92.10 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.25 Cr"
       },
       {
-        "type": "4 BHK Sky Villa",
-        "carpetArea": "1,850 - 2,150 sq.ft",
-        "priceRange": "\u20b92.30 Cr - \u20b92.75 Cr"
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b92.19 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -18685,7 +22417,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100018473"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100018473",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-24k-stargaze-1",
+        "projectId": "p-kolte-patil-24k-stargaze",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 12550000,
+        "pricePerSqft": 11205,
+        "infraCharges": 376500,
+        "clubhouseCharges": 251000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-24k-stargaze-2",
+        "projectId": "p-kolte-patil-24k-stargaze",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 21850000,
+        "pricePerSqft": 11205,
+        "infraCharges": 655500,
+        "clubhouseCharges": 437000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-crown",
@@ -18694,8 +22460,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Pimple Nilakh",
     "city": "Pune",
-    "priceRange": "\u20b985.00 L - \u20b91.28 Cr",
-    "exactPrice": "\u20b985.00 L",
+    "priceRange": "\u20b972.00 L - \u20b91.10 Cr",
+    "exactPrice": "\u20b972.00 L",
     "pricePerSqft": 9800,
     "configurations": [
       "2 BHK",
@@ -18704,13 +22470,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "780 - 850 sq.ft",
-        "priceRange": "\u20b985 L - \u20b995 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b972.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "980 - 1,120 sq.ft",
-        "priceRange": "\u20b91.10 Cr - \u20b91.28 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -18813,7 +22579,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100020471"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100020471",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-crown-1",
+        "projectId": "p-kolte-patil-crown",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7200000,
+        "pricePerSqft": 9796,
+        "infraCharges": 216000,
+        "clubhouseCharges": 144000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-crown-2",
+        "projectId": "p-kolte-patil-crown",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 11000000,
+        "pricePerSqft": 9821,
+        "infraCharges": 330000,
+        "clubhouseCharges": 220000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-the-reserve",
@@ -18822,8 +22622,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Sinhagad Road",
     "city": "Pune",
-    "priceRange": "\u20b974.00 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b974.00 L",
+    "priceRange": "\u20b960.50 L - \u20b992.00 L",
+    "exactPrice": "\u20b960.50 L",
     "pricePerSqft": 8200,
     "configurations": [
       "2 BHK",
@@ -18832,19 +22632,19 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Riverview",
-        "carpetArea": "765 - 820 sq.ft",
-        "priceRange": "\u20b974 L - \u20b983 L"
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b960.50 L"
       },
       {
-        "type": "2.5 BHK Riverside",
-        "carpetArea": "880 - 945 sq.ft",
-        "priceRange": "\u20b986 L - \u20b996 L"
+        "type": "2.5 BHK",
+        "carpetArea": "880 sq.ft",
+        "priceRange": "\u20b972.00 L"
       },
       {
-        "type": "3 BHK Grand",
-        "carpetArea": "1,050 - 1,180 sq.ft",
-        "priceRange": "\u20b91.02 Cr - \u20b91.15 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b992.00 L"
       }
     ],
     "status": "Under Construction",
@@ -18947,7 +22747,57 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=PM1261012600748"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=PM1261012600748",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-the-reserve-1",
+        "projectId": "p-kolte-patil-the-reserve",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 6050000,
+        "pricePerSqft": 8231,
+        "infraCharges": 181500,
+        "clubhouseCharges": 121000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-the-reserve-2",
+        "projectId": "p-kolte-patil-the-reserve",
+        "name": "2.5 BHK Premium Layout",
+        "carpetArea": 880,
+        "balconyArea": 70,
+        "bathrooms": 2,
+        "basePrice": 7200000,
+        "pricePerSqft": 8182,
+        "infraCharges": 216000,
+        "clubhouseCharges": 144000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      },
+      {
+        "id": "cfg-kolte-patil-the-reserve-3",
+        "projectId": "p-kolte-patil-the-reserve",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 9200000,
+        "pricePerSqft": 8214,
+        "infraCharges": 276000,
+        "clubhouseCharges": 184000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (82).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-the-winds",
@@ -18956,8 +22806,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Bhugaon",
     "city": "Pune",
-    "priceRange": "\u20b968.00 L - \u20b91.05 Cr",
-    "exactPrice": "\u20b968.00 L",
+    "priceRange": "\u20b957.50 L - \u20b987.50 L",
+    "exactPrice": "\u20b957.50 L",
     "pricePerSqft": 7800,
     "configurations": [
       "2 BHK",
@@ -18966,19 +22816,19 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Hillview",
-        "carpetArea": "720 - 780 sq.ft",
-        "priceRange": "\u20b968 L - \u20b977 L"
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b957.50 L"
       },
       {
-        "type": "2.5 BHK Valley",
-        "carpetArea": "840 - 910 sq.ft",
-        "priceRange": "\u20b979 L - \u20b989 L"
+        "type": "2.5 BHK",
+        "carpetArea": "880 sq.ft",
+        "priceRange": "\u20b968.50 L"
       },
       {
-        "type": "3 BHK Luxury",
-        "carpetArea": "990 - 1,060 sq.ft",
-        "priceRange": "\u20b994 L - \u20b91.05 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b987.50 L"
       }
     ],
     "status": "Under Construction",
@@ -19081,7 +22931,57 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=PR1261012600258"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=PR1261012600258",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-the-winds-1",
+        "projectId": "p-kolte-patil-the-winds",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 5750000,
+        "pricePerSqft": 7823,
+        "infraCharges": 172500,
+        "clubhouseCharges": 115000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-the-winds-2",
+        "projectId": "p-kolte-patil-the-winds",
+        "name": "2.5 BHK Premium Layout",
+        "carpetArea": 880,
+        "balconyArea": 70,
+        "bathrooms": 2,
+        "basePrice": 6850000,
+        "pricePerSqft": 7784,
+        "infraCharges": 205500,
+        "clubhouseCharges": 137000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      },
+      {
+        "id": "cfg-kolte-patil-the-winds-3",
+        "projectId": "p-kolte-patil-the-winds",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 8750000,
+        "pricePerSqft": 7812,
+        "infraCharges": 262500,
+        "clubhouseCharges": 175000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (82).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-springshire",
@@ -19090,8 +22990,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Wagholi",
     "city": "Pune",
-    "priceRange": "\u20b956.00 L - \u20b984.00 L",
-    "exactPrice": "\u20b956.00 L",
+    "priceRange": "\u20b948.00 L - \u20b973.00 L",
+    "exactPrice": "\u20b948.00 L",
     "pricePerSqft": 6500,
     "configurations": [
       "2 BHK",
@@ -19100,13 +23000,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "710 - 775 sq.ft",
-        "priceRange": "\u20b956 L - \u20b965 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b948.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "920 - 1,020 sq.ft",
-        "priceRange": "\u20b974 L - \u20b984 L"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b973.00 L"
       }
     ],
     "status": "Under Construction",
@@ -19209,7 +23109,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100076743"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100076743",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-springshire-1",
+        "projectId": "p-kolte-patil-springshire",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 4800000,
+        "pricePerSqft": 6531,
+        "infraCharges": 144000,
+        "clubhouseCharges": 96000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-springshire-2",
+        "projectId": "p-kolte-patil-springshire",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 7300000,
+        "pricePerSqft": 6518,
+        "infraCharges": 219000,
+        "clubhouseCharges": 146000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-little-earth",
@@ -19218,8 +23152,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b948.00 L - \u20b972.00 L",
-    "exactPrice": "\u20b948.00 L",
+    "priceRange": "\u20b945.50 L - \u20b969.50 L",
+    "exactPrice": "\u20b945.50 L",
     "pricePerSqft": 6200,
     "configurations": [
       "2 BHK",
@@ -19229,18 +23163,18 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "680 - 740 sq.ft",
-        "priceRange": "\u20b948 L - \u20b956 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b945.50 L"
       },
       {
         "type": "2.5 BHK",
-        "carpetArea": "790 - 850 sq.ft",
-        "priceRange": "\u20b958 L - \u20b965 L"
+        "carpetArea": "880 sq.ft",
+        "priceRange": "\u20b954.50 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "910 - 980 sq.ft",
-        "priceRange": "\u20b965 L - \u20b972 L"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b969.50 L"
       }
     ],
     "status": "Under Construction",
@@ -19343,7 +23277,57 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100047721"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100047721",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-little-earth-1",
+        "projectId": "p-kolte-patil-little-earth",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 4550000,
+        "pricePerSqft": 6190,
+        "infraCharges": 136500,
+        "clubhouseCharges": 91000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-little-earth-2",
+        "projectId": "p-kolte-patil-little-earth",
+        "name": "2.5 BHK Premium Layout",
+        "carpetArea": 880,
+        "balconyArea": 70,
+        "bathrooms": 2,
+        "basePrice": 5450000,
+        "pricePerSqft": 6193,
+        "infraCharges": 163500,
+        "clubhouseCharges": 109000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      },
+      {
+        "id": "cfg-kolte-patil-little-earth-3",
+        "projectId": "p-kolte-patil-little-earth",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 6950000,
+        "pricePerSqft": 6205,
+        "infraCharges": 208500,
+        "clubhouseCharges": 139000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (82).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-western-avenue",
@@ -19352,8 +23336,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b982.00 L - \u20b91.24 Cr",
-    "exactPrice": "\u20b982.00 L",
+    "priceRange": "\u20b970.00 L - \u20b91.06 Cr",
+    "exactPrice": "\u20b970.00 L",
     "pricePerSqft": 9500,
     "configurations": [
       "2 BHK",
@@ -19362,13 +23346,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "740 - 810 sq.ft",
-        "priceRange": "\u20b982 L - \u20b994 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b970.00 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "960 - 1,080 sq.ft",
-        "priceRange": "\u20b91.08 Cr - \u20b91.24 Cr"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.06 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -19471,7 +23455,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000917"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000917",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-western-avenue-1",
+        "projectId": "p-kolte-patil-western-avenue",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 7000000,
+        "pricePerSqft": 9524,
+        "infraCharges": 210000,
+        "clubhouseCharges": 140000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-western-avenue-2",
+        "projectId": "p-kolte-patil-western-avenue",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 10650000,
+        "pricePerSqft": 9509,
+        "infraCharges": 319500,
+        "clubhouseCharges": 213000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-centria",
@@ -19480,22 +23498,17 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Undri",
     "city": "Pune",
-    "priceRange": "\u20b988.00 L - \u20b91.28 Cr",
-    "exactPrice": "\u20b988.00 L",
+    "priceRange": "\u20b980.50 L",
+    "exactPrice": "\u20b980.50 L",
     "pricePerSqft": 7200,
     "configurations": [
       "3 BHK"
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK Garden Luxury",
-        "carpetArea": "1,050 - 1,220 sq.ft",
-        "priceRange": "\u20b988 L - \u20b91.05 Cr"
-      },
-      {
-        "type": "3 BHK Grand Suite",
-        "carpetArea": "1,280 - 1,420 sq.ft",
-        "priceRange": "\u20b91.10 Cr - \u20b91.28 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b980.50 L"
       }
     ],
     "status": "Ready to Move",
@@ -19598,7 +23611,25 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100016567"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100016567",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-centria-1",
+        "projectId": "p-kolte-patil-centria",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 8050000,
+        "pricePerSqft": 7188,
+        "infraCharges": 241500,
+        "clubhouseCharges": 161000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-green-olive",
@@ -19607,8 +23638,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b962.00 L - \u20b988.00 L",
-    "exactPrice": "\u20b962.00 L",
+    "priceRange": "\u20b951.50 L - \u20b978.50 L",
+    "exactPrice": "\u20b951.50 L",
     "pricePerSqft": 7000,
     "configurations": [
       "2 BHK",
@@ -19617,13 +23648,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "720 - 790 sq.ft",
-        "priceRange": "\u20b962 L - \u20b972 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b951.50 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "920 - 1,040 sq.ft",
-        "priceRange": "\u20b978 L - \u20b988 L"
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b978.50 L"
       }
     ],
     "status": "Ready to Move",
@@ -19726,7 +23757,41 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100013526"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100013526",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-green-olive-1",
+        "projectId": "p-kolte-patil-green-olive",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 5150000,
+        "pricePerSqft": 7007,
+        "infraCharges": 154500,
+        "clubhouseCharges": 103000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-green-olive-2",
+        "projectId": "p-kolte-patil-green-olive",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 7850000,
+        "pricePerSqft": 7009,
+        "infraCharges": 235500,
+        "clubhouseCharges": 157000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-ivy-estate",
@@ -19735,8 +23800,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Wagholi",
     "city": "Pune",
-    "priceRange": "\u20b938.00 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b938.00 L",
+    "priceRange": "\u20b927.00 L - \u20b968.50 L",
+    "exactPrice": "\u20b927.00 L",
     "pricePerSqft": 6100,
     "configurations": [
       "1 BHK",
@@ -19746,18 +23811,18 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "1 BHK",
-        "carpetArea": "510 - 560 sq.ft",
-        "priceRange": "\u20b938 L - \u20b944 L"
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b927.00 L"
       },
       {
         "type": "2 BHK",
-        "carpetArea": "710 - 820 sq.ft",
-        "priceRange": "\u20b952 L - \u20b965 L"
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b945.00 L"
       },
       {
-        "type": "3 BHK / Row House",
-        "carpetArea": "1,100 - 1,650 sq.ft",
-        "priceRange": "\u20b988 L - \u20b91.45 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b968.50 L"
       }
     ],
     "status": "Ready to Move",
@@ -19860,7 +23925,57 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100001066"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100001066",
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-ivy-estate-1",
+        "projectId": "p-kolte-patil-ivy-estate",
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 2700000,
+        "pricePerSqft": 6136,
+        "infraCharges": 81000,
+        "clubhouseCharges": 54000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+      },
+      {
+        "id": "cfg-kolte-patil-ivy-estate-2",
+        "projectId": "p-kolte-patil-ivy-estate",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 4500000,
+        "pricePerSqft": 6122,
+        "infraCharges": 135000,
+        "clubhouseCharges": 90000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
+      },
+      {
+        "id": "cfg-kolte-patil-ivy-estate-3",
+        "projectId": "p-kolte-patil-ivy-estate",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 6850000,
+        "pricePerSqft": 6116,
+        "infraCharges": 205500,
+        "clubhouseCharges": 137000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (82).webp"
+      }
+    ]
   },
   {
     "id": "p-kolte-patil-serenova",
@@ -19869,7 +23984,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Versova, Andheri West",
     "city": "Mumbai",
-    "priceRange": "\u20b92.75 Cr - \u20b94.50 Cr",
+    "priceRange": "\u20b92.75 Cr - \u20b93.80 Cr",
     "exactPrice": "\u20b92.75 Cr",
     "pricePerSqft": 32000,
     "configurations": [
@@ -19879,13 +23994,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK Coastal Luxe",
-        "carpetArea": "785 - 860 sq.ft",
-        "priceRange": "\u20b92.75 Cr - \u20b93.25 Cr"
+        "carpetArea": "785 sq.ft",
+        "priceRange": "\u20b92.75 Cr"
       },
       {
-        "type": "3 BHK Sea Facing",
-        "carpetArea": "1,050 - 1,220 sq.ft",
-        "priceRange": "\u20b93.80 Cr - \u20b94.50 Cr"
+        "type": "3 BHK Sea Facing Suite",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b93.80 Cr"
       }
     ],
     "status": "Under Construction",
@@ -20045,7 +24160,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Goregaon West",
     "city": "Mumbai",
-    "priceRange": "\u20b92.15 Cr - \u20b93.45 Cr",
+    "priceRange": "\u20b92.15 Cr - \u20b92.95 Cr",
     "exactPrice": "\u20b92.15 Cr",
     "pricePerSqft": 28500,
     "configurations": [
@@ -20054,14 +24169,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Modern",
-        "carpetArea": "695 - 760 sq.ft",
-        "priceRange": "\u20b92.15 Cr - \u20b92.55 Cr"
+        "type": "2 BHK Modern Urban",
+        "carpetArea": "695 sq.ft",
+        "priceRange": "\u20b92.15 Cr"
       },
       {
-        "type": "3 BHK Premium",
-        "carpetArea": "940 - 1,080 sq.ft",
-        "priceRange": "\u20b92.95 Cr - \u20b93.45 Cr"
+        "type": "3 BHK Premium Suite",
+        "carpetArea": "940 sq.ft",
+        "priceRange": "\u20b92.95 Cr"
       }
     ],
     "status": "Under Construction",
@@ -20262,7 +24377,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Santacruz East",
     "city": "Mumbai",
-    "priceRange": "\u20b91.95 Cr - \u20b93.10 Cr",
+    "priceRange": "\u20b91.95 Cr - \u20b92.65 Cr",
     "exactPrice": "\u20b91.95 Cr",
     "pricePerSqft": 26000,
     "configurations": [
@@ -20272,13 +24387,13 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK City Suite",
-        "carpetArea": "680 - 745 sq.ft",
-        "priceRange": "\u20b91.95 Cr - \u20b92.30 Cr"
+        "carpetArea": "680 sq.ft",
+        "priceRange": "\u20b91.95 Cr"
       },
       {
         "type": "3 BHK Grande",
-        "carpetArea": "890 - 1,020 sq.ft",
-        "priceRange": "\u20b92.65 Cr - \u20b93.10 Cr"
+        "carpetArea": "890 sq.ft",
+        "priceRange": "\u20b92.65 Cr"
       }
     ],
     "status": "Under Construction",
@@ -20478,8 +24593,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Navi Mumbai",
     "city": "Mumbai",
-    "priceRange": "\u20b91.65 Cr - \u20b92.85 Cr",
-    "exactPrice": "\u20b91.65 Cr",
+    "priceRange": "\u20b91.58 Cr - \u20b92.41 Cr",
+    "exactPrice": "\u20b91.58 Cr",
     "pricePerSqft": 21500,
     "configurations": [
       "2 BHK",
@@ -20487,14 +24602,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Waterfront",
-        "carpetArea": "720 - 790 sq.ft",
-        "priceRange": "\u20b91.65 Cr - \u20b91.95 Cr"
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b91.58 Cr"
       },
       {
-        "type": "3 BHK Luxury",
-        "carpetArea": "980 - 1,150 sq.ft",
-        "priceRange": "\u20b92.35 Cr - \u20b92.85 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b92.41 Cr"
       }
     ],
     "status": "Under Construction",
@@ -20633,6 +24748,40 @@ export const PROJECTS: Project[] = [
       "https://www.koltepatil.com/assets/uploads/gallery/1733899088734963345.jpg",
       "https://www.koltepatil.com/assets/uploads/gallery/base_image/17338991611384860974.jpg",
       "https://www.koltepatil.com/assets/uploads/gallery/17338991611268664826.jpg"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-kolte-patil-la-vita-1",
+        "projectId": "p-kolte-patil-la-vita",
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 15800000,
+        "pricePerSqft": 21497,
+        "infraCharges": 474000,
+        "clubhouseCharges": 316000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1734594123750942359.jpeg"
+      },
+      {
+        "id": "cfg-kolte-patil-la-vita-2",
+        "projectId": "p-kolte-patil-la-vita",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 24100000,
+        "pricePerSqft": 21518,
+        "infraCharges": 723000,
+        "clubhouseCharges": 482000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/17345941231412469239.jpeg"
+      }
     ]
   },
   {
@@ -20642,7 +24791,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Shewalewadi",
     "city": "Pune",
-    "priceRange": "\u20b91.84 Cr - \u20b92.40 Cr",
+    "priceRange": "\u20b91.84 Cr - \u20b93.15 Cr",
     "exactPrice": "\u20b91.84 Cr",
     "configurations": [
       "3 BHK",
@@ -20793,6 +24942,28 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/floorplans/4bhk-2.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Luxury Residence",
+        "carpetArea": "1384 sq.ft",
+        "priceRange": "\u20b91.84 Cr"
+      },
+      {
+        "type": "3 BHK Grande Residence",
+        "carpetArea": "1503 sq.ft",
+        "priceRange": "\u20b91.98 Cr"
+      },
+      {
+        "type": "4 BHK Royal Residence",
+        "carpetArea": "1900 sq.ft",
+        "priceRange": "\u20b92.40 Cr"
+      },
+      {
+        "type": "4 BHK Imperial Villament",
+        "carpetArea": "2460 sq.ft",
+        "priceRange": "\u20b93.15 Cr"
+      }
     ]
   },
   {
@@ -20802,7 +24973,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b978.00 L - \u20b91.45 Cr",
+    "priceRange": "\u20b978.00 L - \u20b91.12 Cr",
     "exactPrice": "\u20b978.00 L",
     "configurations": [
       "2 BHK",
@@ -20903,6 +25074,18 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart Residence",
+        "carpetArea": "684 sq.ft",
+        "priceRange": "\u20b978.00 L"
+      },
+      {
+        "type": "3 BHK Royale Residence",
+        "carpetArea": "985 sq.ft",
+        "priceRange": "\u20b91.12 Cr"
+      }
     ]
   },
   {
@@ -20912,7 +25095,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Bavdhan",
     "city": "Pune",
-    "priceRange": "\u20b91.48 Cr - \u20b93.31 Cr",
+    "priceRange": "\u20b91.48 Cr - \u20b92.75 Cr",
     "exactPrice": "\u20b91.48 Cr",
     "configurations": [
       "2 BHK",
@@ -20926,7 +25109,7 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "lat": 18.5158,
     "lng": 73.7684,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
@@ -21024,6 +25207,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Golf View Residence",
+        "carpetArea": "1011 sq.ft",
+        "priceRange": "\u20b91.48 Cr"
+      },
+      {
+        "type": "3 BHK Fairway Suite",
+        "carpetArea": "1420 sq.ft",
+        "priceRange": "\u20b91.98 Cr"
+      },
+      {
+        "type": "4 BHK Signature Residence",
+        "carpetArea": "1980 sq.ft",
+        "priceRange": "\u20b92.75 Cr"
+      }
     ]
   },
   {
@@ -21033,8 +25233,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Bavdhan",
     "city": "Pune",
-    "priceRange": "\u20b953.50 L - \u20b91.35 Cr",
-    "exactPrice": "\u20b953.50 L",
+    "priceRange": "\u20b947.50 L - \u20b91.21 Cr",
+    "exactPrice": "\u20b947.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -21047,7 +25247,7 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
     "lat": 18.5145,
     "lng": 73.7698,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
@@ -21097,36 +25297,69 @@ export const PROJECTS: Project[] = [
     "metaDescription": "Buy 1 BHK, 2 BHK, 3 BHK homes in Shapoorji Vanaha Springs, Bavdhan Pune. Starting \u20b953.50 L. 100% Zero Brokerage. Verified MahaRERA P52100030065.",
     "advancedConfigurations": [
       {
-        "id": "cfg-springs-1",
+        "id": "cfg-shapoorji-vanaha-springs-bavdhan-1",
         "projectId": "p-shapoorji-vanaha-springs-bavdhan",
-        "name": "1 BHK Nature Suite",
-        "carpetArea": 495,
-        "balconyArea": 42,
+        "name": "1 BHK Premium Layout",
+        "carpetArea": 440,
+        "balconyArea": 40,
         "bathrooms": 1,
-        "basePrice": 5350000.0,
-        "pricePerSqft": 10808.08,
-        "infraCharges": 180000.0,
-        "clubhouseCharges": 100000.0,
+        "basePrice": 4750000,
+        "pricePerSqft": 10795,
+        "infraCharges": 142500,
+        "clubhouseCharges": 95000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
       {
-        "id": "cfg-springs-2",
+        "id": "cfg-shapoorji-vanaha-springs-bavdhan-2",
         "projectId": "p-shapoorji-vanaha-springs-bavdhan",
-        "name": "2 BHK Forest View",
-        "carpetArea": 835,
-        "balconyArea": 68,
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 8900000.0,
-        "pricePerSqft": 10658.68,
-        "infraCharges": 280000.0,
-        "clubhouseCharges": 150000.0,
+        "basePrice": 7950000,
+        "pricePerSqft": 10816,
+        "infraCharges": 238500,
+        "clubhouseCharges": 159000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+      },
+      {
+        "id": "cfg-shapoorji-vanaha-springs-bavdhan-3",
+        "projectId": "p-shapoorji-vanaha-springs-bavdhan",
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
+        "bathrooms": 3,
+        "basePrice": 12100000,
+        "pricePerSqft": 10804,
+        "infraCharges": 363000,
+        "clubhouseCharges": 242000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "440 sq.ft",
+        "priceRange": "\u20b947.50 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b979.50 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.21 Cr"
       }
     ]
   },
@@ -21137,7 +25370,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Bandra East",
     "city": "Mumbai",
-    "priceRange": "\u20b92.23 Cr - \u20b94.65 Cr",
+    "priceRange": "\u20b92.23 Cr - \u20b92.49 Cr",
     "exactPrice": "\u20b92.23 Cr",
     "configurations": [
       "2 BHK",
@@ -21231,6 +25464,18 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Elite Residence",
+        "carpetArea": "639 sq.ft",
+        "priceRange": "\u20b92.23 Cr"
+      },
+      {
+        "type": "2 BHK Signature Residence",
+        "carpetArea": "712 sq.ft",
+        "priceRange": "\u20b92.49 Cr"
+      }
     ]
   },
   {
@@ -21240,8 +25485,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Marine Drive",
     "city": "Mumbai",
-    "priceRange": "\u20b914.49 Cr - \u20b931.50 Cr",
-    "exactPrice": "\u20b914.49 Cr",
+    "priceRange": "\u20b910.59 Cr - \u20b918.43 Cr",
+    "exactPrice": "\u20b910.59 Cr",
     "configurations": [
       "3 BHK",
       "3.5 BHK",
@@ -21303,36 +25548,69 @@ export const PROJECTS: Project[] = [
     "metaDescription": "Buy ultra-luxury sea-facing sky residences in The Odyssey by Shapoorji Pallonji, Marine Drive Gamdevi South Mumbai. Starting \u20b914.49 Cr. Verified MahaRERA P51900050998.",
     "advancedConfigurations": [
       {
-        "id": "cfg-odyssey-1",
+        "id": "cfg-shapoorji-the-odyssey-marine-drive-1",
         "projectId": "p-shapoorji-the-odyssey-marine-drive",
-        "name": "3 BHK Arabian Sea Vista",
-        "carpetArea": 1533,
-        "balconyArea": 140,
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
         "bathrooms": 3,
-        "basePrice": 144900000.0,
-        "pricePerSqft": 94520.54,
-        "infraCharges": 3500000.0,
-        "clubhouseCharges": 1500000.0,
+        "basePrice": 105850000,
+        "pricePerSqft": 94509,
+        "infraCharges": 3175500,
+        "clubhouseCharges": 2117000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
       {
-        "id": "cfg-odyssey-2",
+        "id": "cfg-shapoorji-the-odyssey-marine-drive-2",
         "projectId": "p-shapoorji-the-odyssey-marine-drive",
-        "name": "3.5 BHK Queen's Necklace Suite",
-        "carpetArea": 1797,
-        "balconyArea": 165,
-        "bathrooms": 4,
-        "basePrice": 172500000.0,
-        "pricePerSqft": 95993.32,
-        "infraCharges": 4200000.0,
-        "clubhouseCharges": 1500000.0,
+        "name": "3.5 BHK Premium Layout",
+        "carpetArea": 1480,
+        "balconyArea": 120,
+        "bathrooms": 3,
+        "basePrice": 139850000,
+        "pricePerSqft": 94493,
+        "infraCharges": 4195500,
+        "clubhouseCharges": 2797000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+      },
+      {
+        "id": "cfg-shapoorji-the-odyssey-marine-drive-3",
+        "projectId": "p-shapoorji-the-odyssey-marine-drive",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 184300000,
+        "pricePerSqft": 94513,
+        "infraCharges": 5529000,
+        "clubhouseCharges": 3686000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b910.59 Cr"
+      },
+      {
+        "type": "3.5 BHK",
+        "carpetArea": "1480 sq.ft",
+        "priceRange": "\u20b913.98 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b918.43 Cr"
       }
     ]
   },
@@ -21343,8 +25621,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Powai",
     "city": "Mumbai",
-    "priceRange": "\u20b92.10 Cr - \u20b95.10 Cr",
-    "exactPrice": "\u20b92.10 Cr",
+    "priceRange": "\u20b92.30 Cr - \u20b94.63 Cr",
+    "exactPrice": "\u20b92.30 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -21406,36 +25684,69 @@ export const PROJECTS: Project[] = [
     "metaDescription": "Buy ready-to-move OC received 2 BHK, 3 BHK luxury residences in Shapoorji Pallonji Vicinia, Powai Chandivali Mumbai. Starting \u20b92.10 Cr. Verified MahaRERA P51800002564.",
     "advancedConfigurations": [
       {
-        "id": "cfg-vicinia-1",
+        "id": "cfg-shapoorji-vicinia-powai-1",
         "projectId": "p-shapoorji-vicinia-powai",
-        "name": "2 BHK Hill View",
-        "carpetArea": 671,
-        "balconyArea": 50,
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 21000000.0,
-        "pricePerSqft": 31296.57,
-        "infraCharges": 580000.0,
-        "clubhouseCharges": 300000.0,
-        "gstRate": 0.0,
+        "basePrice": 23000000,
+        "pricePerSqft": 31293,
+        "infraCharges": 690000,
+        "clubhouseCharges": 460000,
+        "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
       {
-        "id": "cfg-vicinia-2",
+        "id": "cfg-shapoorji-vicinia-powai-2",
         "projectId": "p-shapoorji-vicinia-powai",
-        "name": "3 BHK Signature",
-        "carpetArea": 1068,
-        "balconyArea": 85,
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
         "bathrooms": 3,
-        "basePrice": 34500000.0,
-        "pricePerSqft": 32303.37,
-        "infraCharges": 850000.0,
-        "clubhouseCharges": 400000.0,
-        "gstRate": 0.0,
+        "basePrice": 35050000,
+        "pricePerSqft": 31295,
+        "infraCharges": 1051500,
+        "clubhouseCharges": 701000,
+        "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+      },
+      {
+        "id": "cfg-shapoorji-vicinia-powai-3",
+        "projectId": "p-shapoorji-vicinia-powai",
+        "name": "3.5 BHK Premium Layout",
+        "carpetArea": 1480,
+        "balconyArea": 120,
+        "bathrooms": 3,
+        "basePrice": 46300000,
+        "pricePerSqft": 31284,
+        "infraCharges": 1389000,
+        "clubhouseCharges": 926000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b92.30 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b93.50 Cr"
+      },
+      {
+        "type": "3.5 BHK",
+        "carpetArea": "1480 sq.ft",
+        "priceRange": "\u20b94.63 Cr"
       }
     ]
   },
@@ -21446,8 +25757,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Thane West",
     "city": "Mumbai",
-    "priceRange": "\u20b91.35 Cr - \u20b93.25 Cr",
-    "exactPrice": "\u20b91.35 Cr",
+    "priceRange": "\u20b91.81 Cr - \u20b94.82 Cr",
+    "exactPrice": "\u20b91.81 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -21511,36 +25822,69 @@ export const PROJECTS: Project[] = [
     "metaDescription": "Buy 2 BHK, 3 BHK, 4 BHK luxury residences in Northern Lights by Shapoorji Pallonji, Pokhran Road 2 Thane West. Starting \u20b91.35 Cr. Verified MahaRERA P51700019864.",
     "advancedConfigurations": [
       {
-        "id": "cfg-northern-1",
+        "id": "cfg-shapoorji-northern-lights-thane-1",
         "projectId": "p-shapoorji-northern-lights-thane",
-        "name": "2 BHK Deck Residence",
-        "carpetArea": 545,
-        "balconyArea": 42,
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 13500000.0,
-        "pricePerSqft": 24770.64,
-        "infraCharges": 420000.0,
-        "clubhouseCharges": 200000.0,
+        "basePrice": 18150000,
+        "pricePerSqft": 24694,
+        "infraCharges": 544500,
+        "clubhouseCharges": 363000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
       {
-        "id": "cfg-northern-2",
+        "id": "cfg-shapoorji-northern-lights-thane-2",
         "projectId": "p-shapoorji-northern-lights-thane",
-        "name": "3 BHK Skyraa Tower",
-        "carpetArea": 1085,
-        "balconyArea": 85,
+        "name": "3 BHK Premium Layout",
+        "carpetArea": 1120,
+        "balconyArea": 95,
         "bathrooms": 3,
-        "basePrice": 24500000.0,
-        "pricePerSqft": 22580.64,
-        "infraCharges": 650000.0,
-        "clubhouseCharges": 300000.0,
+        "basePrice": 27650000,
+        "pricePerSqft": 24688,
+        "infraCharges": 829500,
+        "clubhouseCharges": 553000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+      },
+      {
+        "id": "cfg-shapoorji-northern-lights-thane-3",
+        "projectId": "p-shapoorji-northern-lights-thane",
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
+        "bathrooms": 4,
+        "basePrice": 48150000,
+        "pricePerSqft": 24692,
+        "infraCharges": 1444500,
+        "clubhouseCharges": 963000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b91.81 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b92.77 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b94.82 Cr"
       }
     ]
   },
@@ -21551,8 +25895,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Mahalaxmi",
     "city": "Mumbai",
-    "priceRange": "\u20b913.50 Cr - \u20b938.00 Cr",
-    "exactPrice": "\u20b913.50 Cr",
+    "priceRange": "\u20b99.71 Cr - \u20b922.30 Cr",
+    "exactPrice": "\u20b99.71 Cr",
     "configurations": [
       "3.5 BHK",
       "4 BHK",
@@ -21615,36 +25959,69 @@ export const PROJECTS: Project[] = [
     "metaDescription": "Buy ultra-luxury racecourse-facing sky mansions in The Minerva, Mahalaxmi South Mumbai with Shapoorji Pallonji. Starting \u20b913.50 Cr. Verified MahaRERA P51900008204.",
     "advancedConfigurations": [
       {
-        "id": "cfg-minerva-1",
+        "id": "cfg-shapoorji-the-minerva-mahalaxmi-1",
         "projectId": "p-shapoorji-the-minerva-mahalaxmi",
-        "name": "3.5 BHK Sky Suite",
-        "carpetArea": 2058,
-        "balconyArea": 180,
-        "bathrooms": 4,
-        "basePrice": 135000000.0,
-        "pricePerSqft": 65597.66,
-        "infraCharges": 3500000.0,
-        "clubhouseCharges": 1500000.0,
+        "name": "3.5 BHK Premium Layout",
+        "carpetArea": 1480,
+        "balconyArea": 120,
+        "bathrooms": 3,
+        "basePrice": 97100000,
+        "pricePerSqft": 65608,
+        "infraCharges": 2913000,
+        "clubhouseCharges": 1942000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
       {
-        "id": "cfg-minerva-2",
+        "id": "cfg-shapoorji-the-minerva-mahalaxmi-2",
         "projectId": "p-shapoorji-the-minerva-mahalaxmi",
-        "name": "4 BHK Royal Vantage",
-        "carpetArea": 2136,
-        "balconyArea": 210,
+        "name": "4 BHK Premium Layout",
+        "carpetArea": 1950,
+        "balconyArea": 165,
         "bathrooms": 4,
-        "basePrice": 158000000.0,
-        "pricePerSqft": 73970.03,
-        "infraCharges": 4200000.0,
-        "clubhouseCharges": 1500000.0,
+        "basePrice": 127900000,
+        "pricePerSqft": 65590,
+        "infraCharges": 3837000,
+        "clubhouseCharges": 2558000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+      },
+      {
+        "id": "cfg-shapoorji-the-minerva-mahalaxmi-3",
+        "projectId": "p-shapoorji-the-minerva-mahalaxmi",
+        "name": "Duplex Premium Layout",
+        "carpetArea": 3400,
+        "balconyArea": 300,
+        "bathrooms": 5,
+        "basePrice": 223050000,
+        "pricePerSqft": 65603,
+        "infraCharges": 6691500,
+        "clubhouseCharges": 4461000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3.5 BHK",
+        "carpetArea": "1480 sq.ft",
+        "priceRange": "\u20b99.71 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b912.79 Cr"
+      },
+      {
+        "type": "Duplex",
+        "carpetArea": "3400 sq.ft",
+        "priceRange": "\u20b922.30 Cr"
       }
     ]
   },
@@ -21655,7 +26032,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Virar West",
     "city": "Mumbai",
-    "priceRange": "\u20b942.00 L - \u20b977.00 L",
+    "priceRange": "\u20b942.00 L - \u20b970.00 L",
     "exactPrice": "\u20b942.00 L",
     "configurations": [
       "1 BHK",
@@ -21749,6 +26126,18 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Palm Grove",
+        "carpetArea": "415 sq.ft",
+        "priceRange": "\u20b942.00 L"
+      },
+      {
+        "type": "2 BHK Palm Breeze",
+        "carpetArea": "644 sq.ft",
+        "priceRange": "\u20b970.00 L"
+      }
     ]
   },
   {
@@ -21758,8 +26147,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Sewri",
     "city": "Mumbai",
-    "priceRange": "\u20b92.15 Cr - \u20b93.40 Cr",
-    "exactPrice": "\u20b92.15 Cr",
+    "priceRange": "\u20b92.42 Cr - \u20b92.90 Cr",
+    "exactPrice": "\u20b92.42 Cr",
     "configurations": [
       "2 BHK",
       "2.5 BHK"
@@ -21819,20 +26208,48 @@ export const PROJECTS: Project[] = [
     "metaDescription": "Buy 2 BHK, 2.5 BHK harbour-view residences in The Canvas Residences by Shapoorji Pallonji, Sewri Mumbai. Starting \u20b92.15 Cr. Verified MahaRERA P51900000521.",
     "advancedConfigurations": [
       {
-        "id": "cfg-canvas-1",
+        "id": "cfg-shapoorji-the-canvas-residences-sewri-1",
         "projectId": "p-shapoorji-the-canvas-residences-sewri",
-        "name": "2 BHK Harbour Deck",
-        "carpetArea": 650,
-        "balconyArea": 50,
+        "name": "2 BHK Premium Layout",
+        "carpetArea": 735,
+        "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 21500000.0,
-        "pricePerSqft": 33076.92,
-        "infraCharges": 580000.0,
-        "clubhouseCharges": 300000.0,
+        "basePrice": 24250000,
+        "pricePerSqft": 32993,
+        "infraCharges": 727500,
+        "clubhouseCharges": 485000,
         "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      },
+      {
+        "id": "cfg-shapoorji-the-canvas-residences-sewri-2",
+        "projectId": "p-shapoorji-the-canvas-residences-sewri",
+        "name": "2.5 BHK Premium Layout",
+        "carpetArea": 880,
+        "balconyArea": 70,
+        "bathrooms": 2,
+        "basePrice": 29050000,
+        "pricePerSqft": 33011,
+        "infraCharges": 871500,
+        "clubhouseCharges": 581000,
+        "gstRate": 5.0,
+        "stampDutyRate": 7.0,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b92.42 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "880 sq.ft",
+        "priceRange": "\u20b92.90 Cr"
       }
     ]
   },
@@ -21843,7 +26260,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Santacruz West",
     "city": "Mumbai",
-    "priceRange": "\u20b95.25 Cr - \u20b96.50 Cr",
+    "priceRange": "\u20b95.25 Cr",
     "exactPrice": "\u20b95.25 Cr",
     "configurations": [
       "3 BHK"
@@ -21913,10 +26330,17 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 44491.52,
         "infraCharges": 1200000.0,
         "clubhouseCharges": 500000.0,
-        "gstRate": 0.0,
+        "gstRate": 5.0,
         "stampDutyRate": 7.0,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Private Residence",
+        "carpetArea": "1180 sq.ft",
+        "priceRange": "\u20b95.25 Cr"
       }
     ]
   }

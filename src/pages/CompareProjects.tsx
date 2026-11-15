@@ -156,7 +156,9 @@ const CompareProjects = () => {
                                         <td key={project.id} className="p-4 pl-6 border-r border-b border-slate-100">
                                             <span className="text-xl font-bold text-brand-600">{project.exactPrice || project.priceRange}</span>
                                             <div className="text-xs text-slate-500 mt-1">
-                                                Base: ₹{(project as any).base_price?.toLocaleString() || 'N/A'}
+                                                Base: {project.advancedConfigurations?.[0]?.basePrice 
+                                                    ? `₹${project.advancedConfigurations[0].basePrice.toLocaleString('en-IN')}` 
+                                                    : (project.exactPrice || 'On Request')}
                                             </div>
                                         </td>
                                     ))}
