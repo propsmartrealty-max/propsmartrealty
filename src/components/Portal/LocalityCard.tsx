@@ -58,47 +58,47 @@ export const LocalityCard: React.FC<LocalityCardProps> = ({
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/30 to-transparent opacity-90 group-hover:opacity-85 transition-opacity" />
 
                 {/* 3. Top Header: Tag & Price aligned in a single flex row (never overlaps) */}
-                <div className="absolute top-3 inset-x-3 z-10 flex items-center justify-between gap-1.5">
+                <div className="absolute top-2.5 inset-x-2.5 z-10 flex items-center justify-between gap-1 pointer-events-none">
                     {locality.isFeatured ? (
-                        <span className="inline-flex items-center gap-1 bg-gradient-to-r from-amber-400 to-amber-500 text-slate-950 font-sans font-black text-[10px] px-2 py-0.5 rounded-full border border-amber-300 shadow-md backdrop-blur-md tracking-tight shrink-0">
+                        <span className="inline-flex items-center gap-1 bg-gradient-to-r from-amber-400 to-amber-500 text-slate-950 font-sans font-black text-[9.5px] px-2 py-0.5 rounded-full border border-amber-300 shadow-md backdrop-blur-md tracking-tight shrink-0">
                             <Sparkles className="w-2.5 h-2.5 text-slate-950 fill-amber-300" />
                             <span>Prime</span>
                         </span>
                     ) : (
-                        <span className="inline-flex items-center gap-1 bg-slate-950/70 backdrop-blur-md text-sky-300 font-sans font-bold text-[10px] px-2 py-0.5 rounded-full border border-white/15 shrink-0 truncate max-w-[85px]">
+                        <span className="inline-flex items-center gap-1 bg-slate-950/70 backdrop-blur-md text-sky-300 font-sans font-bold text-[9.5px] px-2 py-0.5 rounded-full border border-white/15 shrink-0 truncate max-w-[75px]">
                             <MapPin className="w-2.5 h-2.5 text-sky-400 shrink-0" />
                             <span className="truncate">{locality.zone || 'Pune'}</span>
                         </span>
                     )}
 
-                    <span className="inline-flex items-center bg-sky-600/90 backdrop-blur-md text-white font-sans font-extrabold text-[10.5px] px-2 py-0.5 rounded-full shadow-md border border-white/25 tracking-tight shrink-0 ml-auto whitespace-nowrap">
+                    <span className="inline-flex items-center bg-sky-600/95 backdrop-blur-md text-white font-sans font-extrabold text-[10px] px-2 py-0.5 rounded-full shadow-md border border-white/25 tracking-tight shrink-0 ml-auto whitespace-nowrap">
                         {priceLabel}
                     </span>
                 </div>
 
                 {/* 5. Bottom Locality Highlight Text */}
-                <div className="absolute bottom-4 left-4 right-4 z-10 text-white">
+                <div className="absolute bottom-3 left-3 right-3 z-10 text-white pointer-events-none">
                     {/* Consistent bold locality title across website */}
-                    <h4 className="font-sans font-black text-lg md:text-xl tracking-tight text-white mb-1 drop-shadow-md group-hover:text-sky-300 transition-colors line-clamp-1 flex items-center justify-between">
-                        <span>{locality.name}</span>
+                    <h4 className="font-sans font-black text-base sm:text-lg tracking-tight text-white mb-0.5 drop-shadow-md group-hover:text-sky-300 transition-colors line-clamp-1 flex items-center justify-between">
+                        <span className="truncate">{locality.name}</span>
                         {locality.isFeatured && (
-                            <span className="text-amber-400 text-xs font-bold font-sans">★</span>
+                            <span className="text-amber-400 text-xs font-bold font-sans ml-1 shrink-0">★</span>
                         )}
                     </h4>
 
                     {locality.tagline && (
-                        <p className="text-[11px] text-slate-300 font-medium line-clamp-1 mb-1.5 opacity-90">
+                        <p className="text-[10.5px] text-slate-300 font-medium line-clamp-1 mb-1.5 opacity-90 truncate">
                             {locality.tagline}
                         </p>
                     )}
 
                     {/* Metadata strip */}
-                    <div className="flex items-center justify-between text-xs text-white/90">
-                        <span className="font-sans font-bold text-xs bg-white/20 backdrop-blur-md px-2.5 py-0.5 rounded-full border border-white/20">
+                    <div className="flex items-center justify-between text-xs text-white/90 gap-1">
+                        <span className="font-sans font-bold text-[10.5px] bg-white/20 backdrop-blur-md px-2 py-0.5 rounded-full border border-white/20 shrink-0">
                             {projectCount} Projects
                         </span>
-                        <span className="text-[11px] font-semibold text-emerald-300 flex items-center gap-1">
-                            <TrendingUp className="w-3 h-3" /> High Growth
+                        <span className="text-[10.5px] font-semibold text-emerald-300 flex items-center gap-1 shrink-0">
+                            <TrendingUp className="w-3 h-3 shrink-0" /> High Growth
                         </span>
                     </div>
                 </div>

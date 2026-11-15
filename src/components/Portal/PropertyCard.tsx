@@ -100,75 +100,76 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                     <div className="absolute inset-0 bg-gradient-to-t from-slate-950/85 via-slate-950/20 to-black/30 transition-opacity duration-300 group-hover:opacity-90" />
                 </Link>
 
-                {/* Top-Left: Sleek Single Luxury Badge */}
-                <div className="absolute top-3 left-3 z-10 flex items-center gap-1.5 flex-wrap max-w-[70%]">
-                    <span className="inline-flex items-center gap-1.5 text-[10px] font-black px-2.5 py-1 rounded-full backdrop-blur-md bg-emerald-600/90 text-white border border-emerald-400/50 shadow-md uppercase tracking-wider">
-                        <span className="w-1.5 h-1.5 rounded-full bg-emerald-300 animate-pulse"></span>
-                        0% Brokerage
-                    </span>
-                    {project.status === 'New Launch' && (
-                        <span className="inline-flex items-center text-[10px] font-black px-2 py-0.5 rounded-full backdrop-blur-md bg-amber-500 text-slate-950 border border-amber-300/80 shadow-xs uppercase tracking-wider">
-                            New Launch
+                {/* Top Header: Unified single flex row (guarantees zero overlap between badges and actions) */}
+                <div className="absolute top-3 inset-x-3 z-20 flex items-center justify-between gap-1.5 pointer-events-none">
+                    <div className="flex items-center gap-1.5 min-w-0 pointer-events-auto">
+                        <span className="inline-flex items-center gap-1.5 text-[10px] font-black px-2.5 py-1 rounded-full backdrop-blur-md bg-emerald-600/90 text-white border border-emerald-400/50 shadow-md uppercase tracking-wider shrink-0">
+                            <span className="w-1.5 h-1.5 rounded-full bg-emerald-300 animate-pulse"></span>
+                            0% Brokerage
                         </span>
-                    )}
-                </div>
+                        {project.status === 'New Launch' && (
+                            <span className="inline-flex items-center text-[10px] font-black px-2 py-0.5 rounded-full backdrop-blur-md bg-amber-500 text-slate-950 border border-amber-300/80 shadow-xs uppercase tracking-wider shrink-0">
+                                New Launch
+                            </span>
+                        )}
+                    </div>
 
-                {/* Top-Right: Compare & Quick QR Triggers */}
-                <div className="absolute top-3 right-3 z-20 flex items-center gap-1.5">
-                    {project.reraId && (
+                    <div className="flex items-center gap-1.5 shrink-0 pointer-events-auto">
+                        {project.reraId && (
+                            <button
+                                type="button"
+                                onClick={(e) => {
+                                    e.preventDefault();
+                                    e.stopPropagation();
+                                    setShowQRModal(true);
+                                }}
+                                className="p-1.5 rounded-lg bg-slate-950/70 hover:bg-emerald-600 text-white backdrop-blur-md border border-white/20 transition-all shadow-md hover:scale-105 active:scale-95"
+                                title="Scan MahaRERA Verification QR"
+                            >
+                                <QrCode className="w-3.5 h-3.5 text-emerald-300" />
+                            </button>
+                        )}
                         <button
-                            type="button"
                             onClick={(e) => {
                                 e.preventDefault();
                                 e.stopPropagation();
-                                setShowQRModal(true);
+                                if (isInCompare) {
+                                    removeFromCompare(project.id);
+                                } else {
+                                    addToCompare(project.id);
+                                }
                             }}
-                            className="p-1.5 rounded-lg bg-slate-950/70 hover:bg-emerald-600 text-white backdrop-blur-md border border-white/20 transition-all shadow-md hover:scale-105 active:scale-95"
-                            title="Scan MahaRERA Verification QR"
+                            className={`px-2.5 py-1 rounded-lg text-[10px] font-bold uppercase tracking-wider shadow-md backdrop-blur-md border transition-all flex items-center gap-1 hover:scale-105 active:scale-95 ${
+                                isInCompare
+                                    ? 'bg-brand-600 text-white border-brand-400 shadow-brand-500/30'
+                                    : 'bg-slate-950/70 text-white border-white/20 hover:bg-white hover:text-slate-900'
+                            }`}
+                            title="Add to compare list"
                         >
-                            <QrCode className="w-3.5 h-3.5 text-emerald-300" />
+                            {isInCompare ? (
+                                <>
+                                    <CheckCircle2 className="w-3 h-3 text-emerald-300" /> 
+                                    <span>Added</span>
+                                </>
+                            ) : (
+                                <>
+                                    <Building2 className="w-3 h-3 text-slate-300" /> 
+                                    <span>Compare</span>
+                                </>
+                            )}
                         </button>
-                    )}
-                    <button
-                        onClick={(e) => {
-                            e.preventDefault();
-                            e.stopPropagation();
-                            if (isInCompare) {
-                                removeFromCompare(project.id);
-                            } else {
-                                addToCompare(project.id);
-                            }
-                        }}
-                        className={`px-2.5 py-1 rounded-lg text-[10px] font-bold uppercase tracking-wider shadow-md backdrop-blur-md border transition-all flex items-center gap-1 hover:scale-105 active:scale-95 ${
-                            isInCompare
-                                ? 'bg-brand-600 text-white border-brand-400 shadow-brand-500/30'
-                                : 'bg-slate-950/70 text-white border-white/20 hover:bg-white hover:text-slate-900'
-                        }`}
-                        title="Add to compare list"
-                    >
-                        {isInCompare ? (
-                            <>
-                                <CheckCircle2 className="w-3 h-3 text-emerald-300" /> 
-                                <span>Added</span>
-                            </>
-                        ) : (
-                            <>
-                                <Building2 className="w-3 h-3 text-slate-300" /> 
-                                <span>Compare</span>
-                            </>
-                        )}
-                    </button>
+                    </div>
                 </div>
 
                 {/* Bottom Image Overlay: Price & Possession (Grid Mode) */}
                 {isGrid && (
                     <div className="absolute bottom-0 inset-x-0 p-3 pt-6 bg-gradient-to-t from-slate-950/95 via-slate-950/50 to-transparent flex justify-between items-end text-white z-10">
-                        <div>
+                        <div className="min-w-0 pr-2">
                             <span className="text-[10px] uppercase font-bold tracking-widest text-slate-300 block leading-tight">Starting From</span>
-                            <p className="text-lg font-black tracking-tight text-white leading-tight">{formattedPrice}</p>
+                            <p className="text-lg font-black tracking-tight text-white leading-tight truncate">{formattedPrice}</p>
                         </div>
                         {project.possessionDate && (
-                            <span className="text-[10px] font-bold px-2 py-0.5 rounded-md bg-white/20 backdrop-blur-md border border-white/10 text-slate-200">
+                            <span className="text-[10px] font-bold px-2 py-0.5 rounded-md bg-white/20 backdrop-blur-md border border-white/10 text-slate-200 shrink-0">
                                 {project.possessionDate}
                             </span>
                         )}
