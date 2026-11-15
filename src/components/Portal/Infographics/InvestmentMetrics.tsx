@@ -148,8 +148,8 @@ const InvestmentMetrics: React.FC<InvestmentMetricsProps> = ({
                         <strong>PROPSMART REALTY Partner Advisory:</strong> Zero brokerage for buyers. All pricing directly matched with sanctioned developer inventory.
                     </span>
                 </div>
-                <span className="text-amber-400 font-bold tracking-wide shrink-0">
-                    MahaRERA: A031262401295
+                <span className="text-emerald-400 font-bold tracking-wide shrink-0">
+                    Direct Developer Pricing
                 </span>
             </div>
         </div>

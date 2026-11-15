@@ -206,7 +206,7 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
                         <div className="flex items-center gap-2">
                             <span className="w-2 h-2 rounded-full bg-amber-500 shrink-0" />
                             <span>
-                                Authorized Direct Sales Partner: <strong>PROPSMART REALTY</strong> (MahaRERA: <strong>{PROPSMART_RERA.number}</strong>)
+                                Authorized Direct Developer Sales Partner: <strong>PROPSMART REALTY</strong> (100% Brokerage Free)
                             </span>
                         </div>
                         <span className="font-bold text-[11px] bg-amber-200/80 px-2 py-0.5 rounded text-amber-900 shrink-0">

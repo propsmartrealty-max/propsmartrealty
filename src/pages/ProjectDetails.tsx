@@ -31,7 +31,7 @@ import InvestmentMetrics from '../components/Portal/Infographics/InvestmentMetri
 import TransitConnectivity from '../components/Portal/Infographics/TransitConnectivity';
 import AmenitiesInfographic from '../components/Portal/Infographics/AmenitiesInfographic';
 import SpecificationsInfographic from '../components/Portal/Infographics/SpecificationsInfographic';
-import { PROPSMART_RERA } from '../constants/rera';
+import { getMahaRERAVerificationUrl } from '../utils/qrUtils';
 
 const resolveProjectFromList = (searchSlug: string | undefined, list: Project[]): Project | undefined => {
     if (!searchSlug || !list || list.length === 0) return undefined;
@@ -85,8 +85,8 @@ const generateDynamicDescription = (project: Project, builder?: Builder, localit
     const builderName = builder?.name || project.builderId || 'a reputed developer';
     const locationName = project.location;
     const title = project.title;
-    const configList = (project.configurations || []).join(', ');
-    const amenityList = (project.features || []).slice(0, 8).join(', ');
+    const configList = (Array.isArray(project.configurations) ? project.configurations : []).join(', ');
+    const amenityList = (Array.isArray(project.features) ? project.features : []).slice(0, 8).join(', ');
     const price = project.priceRange;
 
     const intro = "Discover the epitome of modern living at " + title + ", a premium residential development by " + builderName + ", strategically located in the prime neighborhood of " + locationName + ", Pune. This project is meticulously designed to offer a blend of luxury, comfort, and convenience, making it an ideal choice for homebuyers seeking a quality lifestyle.";
@@ -233,6 +233,38 @@ const ProjectDetails = () => {
         return agreementValue + stampDuty + gst + registration;
     };
 
+    // Safely normalized arrays (protects against JSON-stringified SQLite columns from D1)
+    const safeFloorPlans: string[] = useMemo(() => {
+        const fp = project?.floorPlans;
+        if (!fp) return [];
+        if (Array.isArray(fp)) return fp;
+        if (typeof fp === 'string') {
+            try {
+                const parsed = JSON.parse(fp);
+                if (Array.isArray(parsed)) return parsed;
+            } catch {
+                return [fp];
+            }
+        }
+        return [];
+    }, [project?.floorPlans]);
+
+    const safeConfigurations: string[] = useMemo(() => {
+        const c = project?.configurations;
+        if (!c) return ['2 BHK', '3 BHK'];
+        if (Array.isArray(c)) return c.length > 0 ? c : ['2 BHK', '3 BHK'];
+        if (typeof c === 'string') {
+            try {
+                const parsed = JSON.parse(c);
+                if (Array.isArray(parsed) && parsed.length > 0) return parsed;
+            } catch {
+                const parts = c.split(',').map((s: string) => s.trim()).filter(Boolean);
+                if (parts.length > 0) return parts;
+            }
+        }
+        return ['2 BHK', '3 BHK'];
+    }, [project?.configurations]);
+
     // Resolve rich unit configurations:
     const resolvedConfigs: ProjectConfiguration[] = useMemo(() => {
         if (project?.advancedConfigurations && project.advancedConfigurations.length > 0) {
@@ -241,9 +273,7 @@ const ProjectDetails = () => {
 
         if (!project) return [];
 
-        const declared = (project.configurations && project.configurations.length > 0)
-            ? project.configurations 
-            : ['2 BHK', '3 BHK'];
+        const declared = safeConfigurations;
 
         const extractNum = (str: string) => {
             if (!str) return 8000000;
@@ -281,19 +311,19 @@ const ProjectDetails = () => {
                 gstRate: 5.0,
                 stampDutyRate: 7.0,
                 registrationCharges: 30000,
-                layoutImage: project.floorPlans?.[idx % (project.floorPlans?.length || 1)] || project.image
+                layoutImage: safeFloorPlans[idx % (safeFloorPlans.length || 1)] || project.image
             };
         });
-    }, [project]);
+    }, [project, safeConfigurations, safeFloorPlans]);
 
     // Resolved Floor Plans
     const resolvedFloorPlans = useMemo(() => {
-        if (!project || !project.floorPlans || project.floorPlans.length === 0) return [];
+        if (!project || safeFloorPlans.length === 0) return [];
 
-        return project.floorPlans.map((planUrl, idx) => {
+        return safeFloorPlans.map((planUrl, idx) => {
             const matchingConfig = resolvedConfigs[idx] || resolvedConfigs[idx % resolvedConfigs.length];
             const bhkLabel = matchingConfig?.name?.match(/\d+\s*BHK/i)?.[0] || 
-                             project.configurations?.[idx % (project.configurations?.length || 1)] || 
+                             safeConfigurations[idx % (safeConfigurations.length || 1)] || 
                              '2 BHK';
 
             return {
@@ -309,7 +339,7 @@ const ProjectDetails = () => {
                 configId: matchingConfig?.id
             };
         });
-    }, [project, resolvedConfigs]);
+    }, [project, resolvedConfigs, safeFloorPlans, safeConfigurations]);
 
     // Filtered lists
     const filteredConfigs = useMemo(() => {
@@ -412,9 +442,9 @@ const ProjectDetails = () => {
 
     // Builder defined at the top
     // Dynamic SEO Generator... (Reuse logic)
-    const seoTitle = project.title + " " + project.location + " | " + (project.configurations || []).join(', ') + " | Price " + project.priceRange;
+    const seoTitle = project.title + " " + project.location + " | " + safeConfigurations.join(', ') + " | Price " + (project.exactPrice || project.priceRange || 'On Request');
     // ... rest of logic
-    const seoDesc = project.metaDescription || ("Buy " + (project.configurations || []).join(' & ') + " at " + project.title + ", " + project.location + ". " + (project.reraId ? "RERA Verified: " + project.reraId + ". " : "") + "Starting from " + project.priceRange + ". Brochure, Floor Plans & Price Sheet.");
+    const seoDesc = project.metaDescription || ("Buy " + safeConfigurations.join(' & ') + " at " + project.title + ", " + project.location + ". " + (project.reraId ? "RERA Verified: " + project.reraId + ". " : "") + "Starting from " + (project.exactPrice || project.priceRange || 'On Request') + ". Brochure, Floor Plans & Price Sheet.");
 
     const getTabClass = (section: string) => {
         const base = "py-4 px-2 font-semibold text-sm uppercase tracking-wider border-b-2 transition-colors whitespace-nowrap";
@@ -437,7 +467,7 @@ const ProjectDetails = () => {
             <SEO
                 title={seoTitle}
                 description={seoDesc}
-                keywords={project.seoKeywords || [(project.title + " "), (project.location + " flats"), ("New projects in " + project.location), ...(project.configurations || []).map(c => c + " in " + project.location)]}
+                keywords={Array.isArray(project.seoKeywords) && project.seoKeywords.length > 0 ? project.seoKeywords : [(project.title + " "), (project.location + " flats"), ("New projects in " + project.location), ...safeConfigurations.map(c => c + " in " + project.location)]}
                 canonical={"https://propsmart.co.in/project/" + project.slug}
                 openGraph={{
                     type: 'website',
@@ -448,7 +478,7 @@ const ProjectDetails = () => {
                         "@context": "https://schema.org",
                         "@type": "ApartmentComplex",
                         "name": project.title,
-                        "image": [project.image, project.heroImage, ...(project.floorPlans || [])].filter(Boolean),
+                        "image": [project.image, project.heroImage, ...safeFloorPlans].filter(Boolean),
                         "description": project.description || displayDescription,
                         "address": {
                             "@type": "PostalAddress",
@@ -463,8 +493,8 @@ const ProjectDetails = () => {
                             "longitude": project.lng || 73.8567
                         },
                         "url": "https://propsmart.co.in/project/" + project.slug,
-                        "numberOfAccommodationUnits": (project.configurations || []).length * 10,
-                        "amenityFeature": (project.features || []).map(f => ({
+                        "numberOfAccommodationUnits": safeConfigurations.length * 10,
+                        "amenityFeature": (Array.isArray(project.features) ? project.features : []).map(f => ({
                             "@type": "LocationFeatureSpecification",
                             "name": f,
                             "value": true
@@ -474,7 +504,7 @@ const ProjectDetails = () => {
                             "priceCurrency": "INR",
                             "lowPrice": resolvedConfigs[0]?.basePrice || 6000000,
                             "highPrice": resolvedConfigs[resolvedConfigs.length - 1]?.basePrice || 25000000,
-                            "offerCount": resolvedConfigs.length || (project.configurations || []).length,
+                            "offerCount": resolvedConfigs.length || safeConfigurations.length,
                             "priceValidUntil": "2027-12-31"
                         },
                         "provider": {
@@ -482,7 +512,7 @@ const ProjectDetails = () => {
                             "name": "PROPSMART REALTY",
                             "url": "https://propsmart.co.in",
                             "telephone": "+91-9310863636",
-                            "license": PROPSMART_RERA?.number || 'A031262401295'
+                            "license": "A031262401295"
                         }
                     },
                     {
@@ -529,11 +559,11 @@ const ProjectDetails = () => {
                             },
                             {
                                 question: `Which configurations are available at ${project.title}?`,
-                                answer: `${project.title} offers ${(project.configurations || []).join(', ')} luxury apartments with sanctioned RERA carpet layouts.`
+                                answer: `${project.title} offers ${(Array.isArray(project.configurations) ? project.configurations : []).join(', ')} luxury apartments with sanctioned RERA carpet layouts.`
                             },
                             {
                                 question: `What is the MahaRERA registration number of ${project.title}?`,
-                                answer: `The official MahaRERA registration number of ${project.title} is ${project.reraId || 'P52100050939'}. PROPSMART REALTY is an authorized developer sales partner with agent registration ${PROPSMART_RERA?.number || 'A031262401295'}.`
+                                answer: `The official MahaRERA registration number of ${project.title} is ${project.reraId || 'registered under MahaRERA'}. Direct builder booking is available with 0% brokerage.`
                             },
                             {
                                 question: `When is the possession date for ${project.title}?`,
@@ -595,10 +625,7 @@ const ProjectDetails = () => {
                                     {project.status}
                                 </span>
                                 <span className="bg-white/20 backdrop-blur text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
-                                    Project RERA: {project.reraId || 'Pending'}
-                                </span>
-                                <span className="bg-emerald-500/20 border border-emerald-400/40 backdrop-blur text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide text-emerald-200">
-                                    PROPSMART REALTY RERA: A031262401295
+                                    Project RERA: {project.reraId || 'Available on Request'}
                                 </span>
                                 <span className="bg-emerald-500/80 backdrop-blur text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
                                     {project.type}
@@ -644,7 +671,7 @@ const ProjectDetails = () => {
                             Zero Buyer Commission
                         </span>
                         <span className="text-slate-500 hidden sm:inline">|</span>
-                        <span className="text-amber-300 font-extrabold text-[11px]">MahaRERA: A031262401295</span>
+                        <span className="text-emerald-300 font-bold text-[11px]">Direct Builder Desk</span>
                     </div>
                 </div>
             </div>
@@ -750,7 +777,7 @@ const ProjectDetails = () => {
                                 </div>
                                 <div className="min-w-0">
                                     <p className="text-[10px] text-slate-400 uppercase font-black tracking-wider">Typology</p>
-                                    <p className="font-extrabold text-slate-900 text-sm truncate">{(project.configurations || []).join(', ')}</p>
+                                    <p className="font-extrabold text-slate-900 text-sm truncate">{(Array.isArray(project.configurations) ? project.configurations : []).join(', ')}</p>
                                 </div>
                             </div>
 
@@ -886,7 +913,7 @@ const ProjectDetails = () => {
                     {/* Space Engineering & Carpet Area Infographic */}
                     <div id="carpet-area" className="scroll-mt-40">
                         <CarpetAreaInfographic
-                            configurations={project.configurations}
+                            configurations={Array.isArray(project.configurations) ? project.configurations : []}
                         />
                     </div>
 
@@ -1165,7 +1192,7 @@ const ProjectDetails = () => {
 
                     {/* Infographic Amenities Hub with Relevant Custom Icons */}
                     <AmenitiesInfographic
-                        features={project.features || []}
+                        features={Array.isArray(project.features) ? project.features : []}
                         projectTitle={project.title}
                     />
 
@@ -1352,11 +1379,11 @@ const ProjectDetails = () => {
                                 },
                                 {
                                     question: `Which configurations are available at ${project.title}?`,
-                                    answer: `${project.title} offers ${(project.configurations || []).join(', ')} luxury apartments with sanctioned RERA carpet layouts.`
+                                    answer: `${project.title} offers ${(Array.isArray(project.configurations) ? project.configurations : []).join(', ')} luxury apartments with sanctioned RERA carpet layouts.`
                                 },
                                 {
                                     question: `What is the MahaRERA registration number of ${project.title}?`,
-                                    answer: `The official MahaRERA registration number of ${project.title} is ${project.reraId || 'P52100050939'}. PROPSMART REALTY is an authorized developer sales partner with agent registration ${PROPSMART_RERA?.number || 'A031262401295'}.`
+                                    answer: `The official MahaRERA registration number of ${project.title} is ${project.reraId || 'registered under MahaRERA'}. Direct builder booking is available with 0% brokerage.`
                                 },
                                 {
                                     question: `When is the possession date for ${project.title}?`,
@@ -1532,7 +1559,7 @@ const ProjectDetails = () => {
                                     </div>
                                     <div className="flex items-center gap-1.5 font-semibold text-slate-700">
                                         <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
-                                        <span>Authorized MahaRERA Partner: {PROPSMART_RERA?.number || 'A031262401295'}</span>
+                                        <span>Authorized Developer Sales Partner</span>
                                     </div>
                                 </div>
                             </div >
@@ -1541,12 +1568,12 @@ const ProjectDetails = () => {
                             </div>
                         </div >
 
-                        {/* propsmart MahaRERA Authorized Partner Card */}
+                        {/* Project MahaRERA & Direct Developer Allocation Card */}
                         <div className="bg-slate-900 text-white rounded-2xl p-5 border border-slate-800 shadow-md">
                             <div className="flex items-center justify-between mb-3">
                                 <span className="text-[10px] font-bold uppercase tracking-wider text-emerald-400 flex items-center gap-1.5">
                                     <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-                                    Authorized Sales Partner
+                                    Direct Builder Desk
                                 </span>
                                 <span className="text-[10px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30 px-2 py-0.5 rounded">
                                     0% Brokerage
@@ -1554,20 +1581,22 @@ const ProjectDetails = () => {
                             </div>
                             <div className="flex items-center justify-between">
                                 <div>
-                                    <span className="text-xs text-slate-400 block">PROPSMART REALTY MahaRERA No.</span>
-                                    <span className="text-lg font-black text-white tracking-wide">A031262401295</span>
+                                    <span className="text-xs text-slate-400 block">Project MahaRERA Reg.</span>
+                                    <span className="text-base font-black text-white tracking-wide font-mono">{project.reraId || 'Available on Request'}</span>
                                 </div>
-                                <a
-                                    href="https://maharera.maharashtra.gov.in/"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="text-xs font-bold text-amber-400 hover:text-amber-300 flex items-center gap-1 underline"
-                                >
-                                    Verify <ExternalLink className="w-3 h-3" />
-                                </a>
+                                {project.reraId && (
+                                    <a
+                                        href={getMahaRERAVerificationUrl(project.reraId)}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="text-xs font-bold text-amber-400 hover:text-amber-300 flex items-center gap-1 underline"
+                                    >
+                                        Verify <ExternalLink className="w-3 h-3" />
+                                    </a>
+                                )}
                             </div>
                             <p className="text-[11px] text-slate-400 mt-2 leading-relaxed border-t border-slate-800 pt-2">
-                                Official MahaRERA accredited sales advisory. Direct developer allocation with complete legal compliance.
+                                Official developer pricing & sanctioned allocation with 100% transparent documentation and zero brokerage.
                             </p>
                         </div>
 
@@ -1587,8 +1616,8 @@ const ProjectDetails = () => {
                                                 <ExternalLink className="w-3 h-3" />
                                             </a>
                                         ) : (
-                                            <a href="https://maharera.maharashtra.gov.in/" target="_blank" rel="noreferrer" className="text-xs font-semibold text-green-800 underline mt-2 inline-flex items-center gap-1 hover:text-green-900">
-                                                <span>Verify MahaRERA Authorized Partner ({PROPSMART_RERA?.number || 'A031262401295'})</span>
+                                            <a href={project.reraId ? getMahaRERAVerificationUrl(project.reraId) : "https://maharera.maharashtra.gov.in/"} target="_blank" rel="noreferrer" className="text-xs font-semibold text-green-800 underline mt-2 inline-flex items-center gap-1 hover:text-green-900">
+                                                <span>Verify on Official MahaRERA Portal</span>
                                                 <ExternalLink className="w-3 h-3" />
                                             </a>
                                         )}

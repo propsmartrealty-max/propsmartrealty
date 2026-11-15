@@ -37,11 +37,31 @@ export const mapProjectToDb = (project: Partial<Project>) => {
     };
 };
 
+export const safeParseArray = <T = any>(val: any): T[] => {
+    if (!val) return [];
+    if (Array.isArray(val)) return val;
+    if (typeof val === 'string') {
+        const trimmed = val.trim();
+        if (!trimmed) return [];
+        try {
+            const parsed = JSON.parse(trimmed);
+            if (Array.isArray(parsed)) return parsed;
+            if (parsed && typeof parsed === 'object') return Object.values(parsed);
+        } catch {
+            if (trimmed.includes(',')) {
+                return trimmed.split(',').map(s => s.trim()).filter(Boolean) as any;
+            }
+            return [trimmed] as any;
+        }
+    }
+    return [];
+};
+
 export const mapProjectFromDb = (data: any): Project => {
     return {
         ...data,
         builderId: data.builder_id || data.builderId,
-        priceRange: data.price_range || data.priceRange,
+        priceRange: data.price_range || data.priceRange || 'On Request',
         possessionDate: data.possession_date || data.possessionDate,
         heroImage: data.hero_image || data.heroImage,
         imageAlt: data.image_alt || data.imageAlt,
@@ -49,15 +69,18 @@ export const mapProjectFromDb = (data: any): Project => {
         reraId: data.rera_id || data.reraId,
         exactPrice: data.exact_price || data.exactPrice,
         priceType: data.price_type || data.priceType,
-        seoKeywords: data.seo_keywords || data.seoKeywords,
+        seoKeywords: safeParseArray(data.seo_keywords || data.seoKeywords),
         metaDescription: data.meta_description || data.metaDescription,
         configurationDetails: data.configuration_details || data.configurationDetails,
         masterLayout: data.master_layout || data.masterLayout,
-        floorPlans: data.floor_plans || data.floorPlans,
+        floorPlans: safeParseArray(data.floor_plans || data.floorPlans),
+        configurations: safeParseArray(data.configurations),
+        features: safeParseArray(data.features),
+        highlights: safeParseArray(data.highlights),
+        faqs: safeParseArray(data.faqs),
         verificationStatus: data.verification_status || data.verificationStatus,
         pricePerSqft: data.price_per_sqft || data.pricePerSqft,
-        verificationSource: data.verification_source || data.verificationSource,
-        highlights: data.highlights || data.highlights
+        verificationSource: data.verification_source || data.verificationSource
     };
 };
 

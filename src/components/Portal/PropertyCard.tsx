@@ -210,7 +210,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                         <div className="flex items-center gap-1.5 min-w-0 truncate">
                             <ShieldCheck className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
                             <span className="font-semibold text-slate-600 truncate">
-                                RERA: <strong className="font-mono text-slate-800">{project.reraId || 'P52100046729'}</strong>
+                                RERA: <strong className="font-mono text-slate-800">{project.reraId || 'Available on Request'}</strong>
                             </span>
                         </div>
                         <button
@@ -324,7 +324,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                         </div>
 
                         <div className="text-xs font-mono font-black text-slate-800 bg-slate-100 py-1.5 rounded-lg border border-slate-200 mb-4">
-                            {project.reraId || 'P52100046729'}
+                            {project.reraId || 'MahaRERA Registered'}
                         </div>
 
                         <div className="flex gap-2">
