@@ -72,6 +72,62 @@ export const getRERAMetadata = (
             carpetAreaEfficiency: '74% Usable Carpet Area',
             bankApprovals: ['SBI', 'HDFC Bank', 'ICICI Bank', 'Kotak Mahindra', 'Punjab National Bank']
         },
+                'kolte-patil-serenova': {
+            sanctionedTowers: '1 Iconic Coastal Tower (2B + G + 17 Storeys)',
+            sanctionedLandArea: '1.15 Acres Boutique Coastal Parcel in Versova',
+            reraPossessionDate: 'December 2028',
+            carpetAreaEfficiency: '74% Certified Usable Carpet Area',
+            bankApprovals: ['State Bank of India', 'HDFC Bank', 'ICICI Bank', 'Axis Bank', 'Kotak Mahindra Bank']
+        },
+        'kolte-patil-vivere': {
+            sanctionedTowers: '2 High-Rise Towers (3B + G + 26 Storeys)',
+            sanctionedLandArea: '2.45 Acres in Bangur Nagar, Goregaon West',
+            reraPossessionDate: 'December 2027',
+            carpetAreaEfficiency: '75% Certified Usable Carpet Area',
+            bankApprovals: ['HDFC Bank', 'SBI', 'ICICI Bank', 'Axis Bank', 'Bank of Baroda']
+        },
+        'kolte-patil-alora': {
+            sanctionedTowers: '2 Premium Towers (2B + G + 16 Storeys)',
+            sanctionedLandArea: '1.85 Acres in Kalina, Santacruz East',
+            reraPossessionDate: 'June 2027',
+            carpetAreaEfficiency: '76% Certified Usable Carpet Area',
+            bankApprovals: ['HDFC Bank', 'SBI', 'ICICI Bank', 'Bank of Maharashtra']
+        },
+        'kolte-patil-la-vita': {
+            sanctionedTowers: '1 Waterfront Tower (G + 28 Storeys)',
+            sanctionedLandArea: '1.5 Acres Sector 17, Vashi, Navi Mumbai',
+            reraPossessionDate: 'December 2027',
+            carpetAreaEfficiency: '75% Certified Usable Carpet Area',
+            bankApprovals: ['SBI', 'HDFC Bank', 'ICICI Bank', 'Union Bank of India']
+        },
+        'kolte-patil-life-republic-canvas': {
+            sanctionedTowers: '4 High-Rise Towers (2B + G + 32 Storeys)',
+            sanctionedLandArea: '390+ Acres Integrated Township (Sector Canvas)',
+            reraPossessionDate: 'June 2028',
+            carpetAreaEfficiency: '77% Certified Usable Carpet Area',
+            bankApprovals: ['State Bank of India', 'HDFC Bank', 'ICICI Bank', 'Axis Bank', 'Punjab National Bank']
+        },
+        'kolte-patil-life-republic-qrious': {
+            sanctionedTowers: '5 High-Rise Towers (2B + G + 28 Storeys)',
+            sanctionedLandArea: '390+ Acres Integrated Township (Sector Qrious)',
+            reraPossessionDate: 'December 2027',
+            carpetAreaEfficiency: '76% Certified Usable Carpet Area',
+            bankApprovals: ['SBI', 'HDFC Bank', 'ICICI Bank', 'Axis Bank', 'Bank of Baroda']
+        },
+        'kolte-patil-life-republic-aros': {
+            sanctionedTowers: '3 High-Rise Towers (G + 24 Storeys)',
+            sanctionedLandArea: '390+ Acres Integrated Township (Sector Aros)',
+            reraPossessionDate: 'December 2026',
+            carpetAreaEfficiency: '75% Certified Usable Carpet Area',
+            bankApprovals: ['SBI', 'HDFC Bank', 'ICICI Bank', 'Axis Bank']
+        },
+        'kolte-patil-life-republic-atmos': {
+            sanctionedTowers: '4 High-Rise Towers (G + 22 Storeys)',
+            sanctionedLandArea: '390+ Acres Integrated Township (Sector Atmos)',
+            reraPossessionDate: 'March 2027',
+            carpetAreaEfficiency: '75% Certified Usable Carpet Area',
+            bankApprovals: ['SBI', 'HDFC Bank', 'ICICI Bank', 'Axis Bank']
+        },
         'kolte-patil-24k-altura': {
             sanctionedTowers: '2 Sky Towers (G + 32 Floors)',
             sanctionedLandArea: '7.2 Acres in Baner-Balewadi',
