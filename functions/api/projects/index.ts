@@ -15,46 +15,56 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         const status = url.searchParams.get('status');
         const config = url.searchParams.get('config');
 
-        let sql = 'SELECT * FROM projects WHERE 1=1';
-        let countSql = 'SELECT COUNT(*) as total FROM projects WHERE 1=1';
+        const searchKeyword = q || location;
+        const cleanFtsQuery = (searchKeyword || '')
+            .trim()
+            .replace(/[^a-zA-Z0-9\s]/g, ' ')
+            .split(/\s+/)
+            .filter(Boolean)
+            .map(token => `"${token}"*`)
+            .join(' ');
+
+        let sql = '';
+        let countSql = '';
         const params: any[] = [];
         const countParams: any[] = [];
 
+        if (cleanFtsQuery) {
+            sql = 'SELECT p.* FROM projects p JOIN projects_fts f ON p.id = f.id WHERE projects_fts MATCH ?';
+            countSql = 'SELECT COUNT(*) as total FROM projects p JOIN projects_fts f ON p.id = f.id WHERE projects_fts MATCH ?';
+            params.push(cleanFtsQuery);
+            countParams.push(cleanFtsQuery);
+        } else {
+            sql = 'SELECT p.* FROM projects p WHERE 1=1';
+            countSql = 'SELECT COUNT(*) as total FROM projects p WHERE 1=1';
+        }
+
         if (city && city.trim() && city.toLowerCase() !== 'all') {
-            sql += ' AND (location LIKE ? OR title LIKE ? OR description LIKE ?)';
-            countSql += ' AND (location LIKE ? OR title LIKE ? OR description LIKE ?)';
+            sql += ' AND (p.location LIKE ? OR p.title LIKE ? OR p.description LIKE ?)';
+            countSql += ' AND (p.location LIKE ? OR p.title LIKE ? OR p.description LIKE ?)';
             const wildcard = `%${city.trim()}%`;
             params.push(wildcard, wildcard, wildcard);
             countParams.push(wildcard, wildcard, wildcard);
         }
 
-        const searchKeyword = q || location;
-        if (searchKeyword && searchKeyword.trim()) {
-            sql += ' AND (location LIKE ? OR title LIKE ? OR slug LIKE ? OR builder_id LIKE ?)';
-            countSql += ' AND (location LIKE ? OR title LIKE ? OR slug LIKE ? OR builder_id LIKE ?)';
-            const wildcard = `%${searchKeyword.trim()}%`;
-            params.push(wildcard, wildcard, wildcard, wildcard);
-            countParams.push(wildcard, wildcard, wildcard, wildcard);
-        }
-
         if (type && type.trim() && type !== 'all') {
-            sql += ' AND type LIKE ?';
-            countSql += ' AND type LIKE ?';
+            sql += ' AND p.type LIKE ?';
+            countSql += ' AND p.type LIKE ?';
             const wildcard = `%${type.trim()}%`;
             params.push(wildcard);
             countParams.push(wildcard);
         }
 
         if (status && status.trim()) {
-            sql += ' AND LOWER(status) = LOWER(?)';
-            countSql += ' AND LOWER(status) = LOWER(?)';
+            sql += ' AND LOWER(p.status) = LOWER(?)';
+            countSql += ' AND LOWER(p.status) = LOWER(?)';
             params.push(status.trim());
             countParams.push(status.trim());
         }
 
         if (config && config.trim()) {
-            sql += ' AND configurations LIKE ?';
-            countSql += ' AND configurations LIKE ?';
+            sql += ' AND p.configurations LIKE ?';
+            countSql += ' AND p.configurations LIKE ?';
             params.push(`%${config.trim()}%`);
             countParams.push(`%${config.trim()}%`);
         }
@@ -67,8 +77,12 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
 
         const total = countResult?.total || 0;
 
-        // Paginated results
-        sql += ' ORDER BY created_at DESC LIMIT ? OFFSET ?';
+        // Paginated results with BM25 Rank priority when FTS is active
+        if (cleanFtsQuery) {
+            sql += ' ORDER BY f.rank ASC, p.created_at DESC LIMIT ? OFFSET ?';
+        } else {
+            sql += ' ORDER BY p.created_at DESC LIMIT ? OFFSET ?';
+        }
         params.push(limit, offset);
 
         const { results } = await context.env.DB
@@ -91,7 +105,11 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
             total,
             page,
             limit,
-            totalPages: Math.ceil(total / limit) || 1
+            totalPages: Math.ceil(total / limit) || 1,
+            engine: cleanFtsQuery ? 'Cloudflare-D1-FTS5-BM25' : 'Cloudflare-D1-Indexed'
+        }, 200, {
+            'Cache-Control': 'public, max-age=60, s-maxage=300, stale-while-revalidate=86400',
+            'X-Edge-Engine': 'Cloudflare-D1-Enterprise-FTS5'
         });
     } catch (err: any) {
         return jsonResponse({ error: 'Failed to query projects', details: err.message }, 500);

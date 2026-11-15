@@ -18,7 +18,10 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
             locations: typeof b.locations === 'string' ? safeJsonParse(b.locations, []) : b.locations
         }));
 
-        return jsonResponse(formatted);
+        return jsonResponse(formatted, 200, {
+            'Cache-Control': 'public, max-age=60, s-maxage=300, stale-while-revalidate=86400',
+            'X-Edge-Engine': 'Cloudflare-D1-Enterprise'
+        });
     } catch (err: any) {
         return jsonResponse({ error: 'Failed to fetch builders', details: err.message }, 500);
     }

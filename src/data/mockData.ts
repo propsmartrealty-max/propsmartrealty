@@ -693,22 +693,32 @@ export const BUILDERS: Builder[] = [
       "Hinjewadi"
     ]
   },
-  {
+    {
     "id": "b-kolte-patil",
     "name": "Kolte-Patil Developers",
     "slug": "kolte-patil-developers",
     "logo": "/images/builders/kolte-patil.svg",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
-    "description": "Kolte-Patil Developers Ltd. is Pune\u2019s premier real estate developer with over 30 years of excellence, famous for integrated townships like Life Republic and luxury landmarks like 24K Opula.",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17630446171899594771.png",
+    "description": "Kolte-Patil Developers Ltd. is a publicly listed premier real estate company with dominant presence across Pune and Mumbai. With over 30 years of excellence, Kolte-Patil is celebrated for iconic integrated townships like Life Republic in Hinjewadi and luxury landmarks under the prestigious 24K brand.",
     "establishedYear": 1991,
     "totalProjects": 60,
-    "ongoingProjects": 5,
+    "ongoingProjects": 26,
     "trustScore": 9.5,
     "isVerified": true,
     "locations": [
       "Hinjewadi",
-      "Baner",
-      "Mamurdi"
+      "Pimple Nilakh",
+      "Bavdhan",
+      "Sinhagad Road",
+      "Bhugaon",
+      "Wagholi",
+      "Kiwale",
+      "Wakad",
+      "Undri",
+      "Versova, Andheri West",
+      "Goregaon West",
+      "Santacruz East",
+      "Navi Mumbai"
     ]
   },
   {
@@ -1565,626 +1575,6 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3781.9375723479006!2d73.7247759!3d18.576853!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb98dbb20c51%3A0x423fca08f1fafae3!2sGodrej%20Eden%20Estate%20Phase%201%20%26%202!5e0!3m2!1sen!2sin!4v1706698008844!5m2!1sen!2sin",
-    "city": "Pune"
-  },
-  {
-    "id": "p-kolte-patil-life-republic",
-    "title": "Kolte Patil Life Republic",
-    "slug": "kolte-patil-life-republic",
-    "builderId": "b-kolte-patil",
-    "location": "Hinjewadi",
-    "priceRange": "\u20b936.00 L - \u20b985.00 L",
-    "exactPrice": "\u20b936.00 L",
-    "configurations": [
-      "1 BHK",
-      "2 BHK",
-      "3 BHK"
-    ],
-    "status": "Under Construction",
-    "type": "Residential",
-    "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
-    "lat": 18.5913,
-    "lng": 73.7389,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
-    "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
-      "https://keystoneliv.com/public/uploads/property/image (81).webp",
-      "https://keystoneliv.com/public/uploads/property/image (82).webp",
-      "https://keystoneliv.com/public/uploads/property/image (83).webp",
-      "https://keystoneliv.com/public/uploads/property/image (84).webp",
-      "https://keystoneliv.com/public/uploads/property/image (85).webp",
-      "https://keystoneliv.com/public/uploads/property/b0jK8LWuJUSOqaGRp8Twd7KIwK8bZW44yr8iBzPy.webp",
-      "https://keystoneliv.com/public/uploads/property/XKyVxdTueAqnEbCtyhjSszBLqf2ycf6nRg0yhmgs.webp"
-    ],
-    "description": "Kolte Patil Life Republic by Kolte-Patil Developers represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b936.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner. Verified under MahaRERA registration P52100087101, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
-    "features": [
-      "Amphitheater",
-      "Banquet Hall",
-      "Cafeteria",
-      "Club house",
-      "Conference Room",
-      "Fitness Corner",
-      "Jogging Track",
-      "Kids Play Area",
-      "Library",
-      "Mini-Theater",
-      "Open Gym",
-      "Party Lawn",
-      "Reflexology",
-      "Sports Courts",
-      "Swimming Pool",
-      "Yoga Zone",
-      "24*7 Water",
-      "Airy Rooms",
-      "Gated Society",
-      "Intercom",
-      "Lift",
-      "Low Density Society",
-      "Natural Light",
-      "No open drainage around",
-      "Pantry Area",
-      "Parking",
-      "Pet Friendly",
-      "Power Back Up",
-      "Spacious Interiors",
-      "Waste Disposal",
-      "Workstations"
-    ],
-    "specs": [
-      {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
-      },
-      {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony"
-      },
-      {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas"
-      },
-      {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe CP & Sanitaryware, Concealed Plumbing, Designer Wall Tiles"
-      },
-      {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Schneider / Legrand Modular Switches"
-      },
-      {
-        "label": "Doors Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
-      }
-    ],
-    "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Hinjewadi near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100087101",
-      "Allotment directly from Kolte-Patil Developers developer inventory"
-    ],
-    "reraId": "P52100087101",
-    "pricePerSqft": 7800,
-    "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Authorized Developer Partner",
-    "seoKeywords": [
-      "Kolte Patil Life Republic Hinjewadi",
-      "Kolte Patil Life Republic Pune price",
-      "Kolte Patil Life Republic floor plan",
-      "Kolte Patil Life Republic MahaRERA P52100087101",
-      "Kolte-Patil Developers projects in Hinjewadi",
-      "flats in Hinjewadi Pune",
-      "buy 2 BHK in Hinjewadi",
-      "zero brokerage property Pune"
-    ],
-    "metaDescription": "Buy 1 BHK, 2 BHK, 3 BHK in Kolte Patil Life Republic, Hinjewadi Pune by Kolte-Patil Developers. Price starts \u20b936.00 L. 100% Zero Brokerage. Verified MahaRERA P5",
-    "advancedConfigurations": [
-      {
-        "id": "cfg-kolte-patil-life-republic-1",
-        "projectId": "p-kolte-patil-life-republic",
-        "name": "1 BHK Luxury Unit",
-        "carpetArea": 367,
-        "balconyArea": 29,
-        "bathrooms": 1,
-        "basePrice": 3600000.0,
-        "pricePerSqft": 9809.26,
-        "infraCharges": 108000.0,
-        "clubhouseCharges": 72000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
-        "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp"
-      },
-      {
-        "id": "cfg-kolte-patil-life-republic-2",
-        "projectId": "p-kolte-patil-life-republic",
-        "name": "1 BHK Luxury Unit",
-        "carpetArea": 367,
-        "balconyArea": 29,
-        "bathrooms": 1,
-        "basePrice": 3600000.0,
-        "pricePerSqft": 9809.26,
-        "infraCharges": 108000.0,
-        "clubhouseCharges": 72000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
-        "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/b0jK8LWuJUSOqaGRp8Twd7KIwK8bZW44yr8iBzPy.webp"
-      },
-      {
-        "id": "cfg-kolte-patil-life-republic-3",
-        "projectId": "p-kolte-patil-life-republic",
-        "name": "1 BHK Luxury Unit",
-        "carpetArea": 414,
-        "balconyArea": 33,
-        "bathrooms": 1,
-        "basePrice": 4000000.0,
-        "pricePerSqft": 9661.84,
-        "infraCharges": 120000.0,
-        "clubhouseCharges": 80000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
-        "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/XKyVxdTueAqnEbCtyhjSszBLqf2ycf6nRg0yhmgs.webp"
-      },
-      {
-        "id": "cfg-kolte-patil-life-republic-4",
-        "projectId": "p-kolte-patil-life-republic",
-        "name": "1 BHK Luxury Unit",
-        "carpetArea": 422,
-        "balconyArea": 33,
-        "bathrooms": 1,
-        "basePrice": 4100000.0,
-        "pricePerSqft": 9715.64,
-        "infraCharges": 123000.0,
-        "clubhouseCharges": 82000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
-        "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/r9E7NQbwJEHXtjb0SVNz1uBbAfn4xSMk7cAQrmhc.webp"
-      },
-      {
-        "id": "cfg-kolte-patil-life-republic-5",
-        "projectId": "p-kolte-patil-life-republic",
-        "name": "2 BHK Luxury Unit",
-        "carpetArea": 530,
-        "balconyArea": 42,
-        "bathrooms": 2,
-        "basePrice": 5200000.0,
-        "pricePerSqft": 9811.32,
-        "infraCharges": 156000.0,
-        "clubhouseCharges": 104000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
-        "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/2vHe2nZnwh2WEclT0BNCkE2g7B2c7VTd3FPogvCu.webp"
-      },
-      {
-        "id": "cfg-kolte-patil-life-republic-6",
-        "projectId": "p-kolte-patil-life-republic",
-        "name": "3 BHK Luxury Unit",
-        "carpetArea": 822,
-        "balconyArea": 65,
-        "bathrooms": 3,
-        "basePrice": 8500000.0,
-        "pricePerSqft": 10340.63,
-        "infraCharges": 255000.0,
-        "clubhouseCharges": 170000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
-        "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
-      }
-    ],
-    "faqs": [
-      {
-        "question": "Where is Kolte Patil Life Republic located?",
-        "answer": "Kolte Patil Life Republic is located at Hinjewadi , Pune."
-      },
-      {
-        "question": "What is the price of Kolte Patil Life Republic?",
-        "answer": "Prices at Kolte Patil Life Republic range from \u20b9 36.00 Lac \u2013 85.00 Lac (agreement value). Homes are available as 1, 2, 3 BHK."
-      },
-      {
-        "question": "Which configurations are available at Kolte Patil Life Republic?",
-        "answer": "The project offers 1, 2, 3 BHK homes. Carpet areas range from 367 \u2013 822 sq.ft."
-      },
-      {
-        "question": "What is the RERA number of Kolte Patil Life Republic?",
-        "answer": "The RERA registration number of Kolte Patil Life Republic is P5100051765."
-      },
-      {
-        "question": "When is the possession of Kolte Patil Life Republic?",
-        "answer": "Possession is expected by Dec 2026, as per the RERA registration."
-      },
-      {
-        "question": "Who is the developer of Kolte Patil Life Republic?",
-        "answer": "Kolte Patil Life Republic is developed by Kolte Patil Developers. The developer has been in real estate since 1970."
-      },
-      {
-        "question": "How many floors does Kolte Patil Life Republic have?",
-        "answer": "The project has S+22 floors. It is spread across 10.41 acres."
-      },
-      {
-        "question": "What amenities does Kolte Patil Life Republic offer?",
-        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner, Jogging Track, Kids Play Area and more."
-      },
-      {
-        "question": "Which banks give home loans for Kolte Patil Life Republic?",
-        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
-      },
-      {
-        "question": "How do I book a site visit to Kolte Patil Life Republic?",
-        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
-      }
-    ],
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.0016607594835!2d73.70791217404884!3d18.61899506616262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2ba4cf4e994ad%3A0xced3d9a93fdcfb77!2sLife%20Republic%20by%20Kolte-Patil!5e0!3m2!1sen!2sin!4v1691580969293!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has S+22 floors. It is spread across 10.41 acres.",
-    "city": "Pune"
-  },
-  {
-    "id": "p-kolte-patil-24k-altura",
-    "title": "Kolte Patil 24K Altura",
-    "slug": "kolte-patil-24k-altura",
-    "builderId": "b-kolte-patil",
-    "location": "Baner",
-    "priceRange": "\u20b978.75 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b978.75 L",
-    "configurations": [
-      "2 BHK",
-      "3 BHK"
-    ],
-    "status": "Under Construction",
-    "type": "Residential",
-    "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/LgcjwvEED5QzuLQGfPvck5Aa89ZQLgs61tLHVi2z.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/LgcjwvEED5QzuLQGfPvck5Aa89ZQLgs61tLHVi2z.webp",
-    "lat": 18.559,
-    "lng": 73.7868,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/23WzPt71bQ8955z0nO906uRr6OQwhG8vhfVhhhFQ.webp",
-    "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/gAKiu07l2HrCUZHom4CLqKZ8T9GcBAOZgskO6R5v.webp",
-      "https://keystoneliv.com/public/uploads/property/image (73).webp",
-      "https://keystoneliv.com/public/uploads/property/image (74).webp",
-      "https://keystoneliv.com/public/uploads/property/image (75).webp",
-      "https://keystoneliv.com/public/uploads/property/23WzPt71bQ8955z0nO906uRr6OQwhG8vhfVhhhFQ.webp"
-    ],
-    "description": "Kolte Patil 24K Altura by Kolte-Patil Developers represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b978.75 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym, Pet Park. Verified under MahaRERA registration P52100051316, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
-    "features": [
-      "Fitness Corner",
-      "Gym",
-      "Jogging Track",
-      "Kids Play Area",
-      "Open Gym",
-      "Pet Park",
-      "Sports Courts",
-      "Swimming Pool",
-      "Yoga Zone",
-      "24*7 Water",
-      "Airy Rooms",
-      "Gas Pipeline",
-      "Gated Society",
-      "Intercom",
-      "Lift",
-      "Low Density Society",
-      "Natural Light",
-      "No open drainage around",
-      "Parking",
-      "Pet Friendly",
-      "Power Back Up",
-      "Security System",
-      "Washroom",
-      "Waste Disposal"
-    ],
-    "specs": [
-      {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
-      },
-      {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony"
-      },
-      {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas"
-      },
-      {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe CP & Sanitaryware, Concealed Plumbing, Designer Wall Tiles"
-      },
-      {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Schneider / Legrand Modular Switches"
-      },
-      {
-        "label": "Doors Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
-      }
-    ],
-    "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Baner near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100051316",
-      "Allotment directly from Kolte-Patil Developers developer inventory"
-    ],
-    "reraId": "P52100051316",
-    "pricePerSqft": 10500,
-    "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Authorized Developer Partner",
-    "seoKeywords": [
-      "Kolte Patil 24K Altura Baner",
-      "Kolte Patil 24K Altura Pune price",
-      "Kolte Patil 24K Altura floor plan",
-      "Kolte Patil 24K Altura MahaRERA P52100051316",
-      "Kolte-Patil Developers projects in Baner",
-      "flats in Baner Pune",
-      "buy 2 BHK in Baner",
-      "zero brokerage property Pune"
-    ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil 24K Altura, Baner Pune by Kolte-Patil Developers. Price starts \u20b978.75 L. 100% Zero Brokerage. Verified MahaRERA P52100051316. Fl",
-    "advancedConfigurations": [
-      {
-        "id": "cfg-kolte-patil-24k-altura-1",
-        "projectId": "p-kolte-patil-24k-altura",
-        "name": "2 BHK Premium",
-        "carpetArea": 750,
-        "balconyArea": 60,
-        "bathrooms": 2,
-        "basePrice": 7875000,
-        "pricePerSqft": 10500,
-        "infraCharges": 236250.0,
-        "clubhouseCharges": 157500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
-        "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/LgcjwvEED5QzuLQGfPvck5Aa89ZQLgs61tLHVi2z.webp"
-      },
-      {
-        "id": "cfg-kolte-patil-24k-altura-2",
-        "projectId": "p-kolte-patil-24k-altura",
-        "name": "3 BHK Royale",
-        "carpetArea": 1050,
-        "balconyArea": 85,
-        "bathrooms": 3,
-        "basePrice": 11025000,
-        "pricePerSqft": 10500,
-        "infraCharges": 330750.0,
-        "clubhouseCharges": 220500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
-        "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/LgcjwvEED5QzuLQGfPvck5Aa89ZQLgs61tLHVi2z.webp"
-      }
-    ],
-    "faqs": [
-      {
-        "question": "Where is Kolte Patil 24K Altura located?",
-        "answer": "Kolte Patil 24K Altura is located at Haveli, Survey Nos. 37 Hissa. 2/1 (Part, Landmark, Taluka, behind Solitaire World."
-      },
-      {
-        "question": "What is the price of Kolte Patil 24K Altura?",
-        "answer": "Prices at Kolte Patil 24K Altura range from \u20b9 2.30 Cr \u2013 2.80 Cr (agreement value). Homes are available as 3, 4 BHK."
-      },
-      {
-        "question": "Which configurations are available at Kolte Patil 24K Altura?",
-        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,365 \u2013 1,702 sq.ft."
-      },
-      {
-        "question": "What is the RERA number of Kolte Patil 24K Altura?",
-        "answer": "The RERA registration number of Kolte Patil 24K Altura is P52100051316."
-      },
-      {
-        "question": "When is the possession of Kolte Patil 24K Altura?",
-        "answer": "Possession is expected by Mar 2028, as per the RERA registration."
-      },
-      {
-        "question": "Who is the developer of Kolte Patil 24K Altura?",
-        "answer": "Kolte Patil 24K Altura is developed by Kolte Patil Developers. The developer has been in real estate since 1970."
-      },
-      {
-        "question": "How many floors does Kolte Patil 24K Altura have?",
-        "answer": "The project has Basement + 3P + E-Deck +32 Floors floors. It is spread across 7.5 acres."
-      },
-      {
-        "question": "What amenities does Kolte Patil 24K Altura offer?",
-        "answer": "Amenities include Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym, Pet Park, Sports Courts, Swimming Pool and more."
-      },
-      {
-        "question": "Which banks give home loans for Kolte Patil 24K Altura?",
-        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
-      },
-      {
-        "question": "How do I book a site visit to Kolte Patil 24K Altura?",
-        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
-      }
-    ],
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.4696136815733!2d73.77061921014825!3d18.55285516811577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf69b4e67321%3A0xdd5e5af093ec84f2!2s24K%20Altura!5e0!3m2!1sen!2sin!4v1696486527896!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has Basement + 3P + E-Deck +32 Floors floors. It is spread across 7.5 acres.",
-    "city": "Pune"
-  },
-  {
-    "id": "p-kolte-patil-little-earth",
-    "title": "Kolte Patil Little Earth",
-    "slug": "kolte-patil-little-earth",
-    "builderId": "b-kolte-patil",
-    "location": "Mamurdi",
-    "priceRange": "\u20b970.00 L",
-    "exactPrice": "\u20b970.00 L",
-    "configurations": [
-      "2 BHK"
-    ],
-    "status": "Under Construction",
-    "type": "Residential",
-    "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp",
-    "lat": 18.6738,
-    "lng": 73.7142,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/eX35zH58vFRd7U1uiwuEWiffMD6HgK0efJX59jfS.webp",
-    "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/mwg0HTzlNLGsgFGeA928cA6t4UxhNTW4yBluttCN.webp",
-      "https://keystoneliv.com/public/uploads/property/image (25).webp",
-      "https://keystoneliv.com/public/uploads/property/image (2).webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/oRrp18Dqtxt3DIDQNFfy7w2vQ2mQpCzsjr2RG6Xh.webp"
-    ],
-    "description": "Kolte Patil Little Earth by Kolte-Patil Developers represents modern residential excellence in Mamurdi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b970.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner. Verified under MahaRERA registration P52100048103, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
-    "features": [
-      "Amphitheater",
-      "Banquet Hall",
-      "Cafeteria",
-      "Club house",
-      "Conference Room",
-      "Fitness Corner",
-      "Gym",
-      "Jogging Track",
-      "Kids Play Area",
-      "Open Gym",
-      "Party Lawn",
-      "Pet Park",
-      "Sports Courts",
-      "Swimming Pool",
-      "Yoga Zone",
-      "24*7 Water",
-      "Gas Pipeline",
-      "Gated Society",
-      "Intercom",
-      "Lift",
-      "Low Density Society",
-      "No open drainage around",
-      "Parking",
-      "Pet Friendly",
-      "Power Back Up",
-      "Security System",
-      "Washroom",
-      "Waste Disposal"
-    ],
-    "specs": [
-      {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
-      },
-      {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony"
-      },
-      {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas"
-      },
-      {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe CP & Sanitaryware, Concealed Plumbing, Designer Wall Tiles"
-      },
-      {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Schneider / Legrand Modular Switches"
-      },
-      {
-        "label": "Doors Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
-      }
-    ],
-    "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Mamurdi near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100048103",
-      "Allotment directly from Kolte-Patil Developers developer inventory"
-    ],
-    "reraId": "P52100048103",
-    "pricePerSqft": 6800,
-    "verificationStatus": "Verified",
-    "verificationSource": "MahaRERA Authorized Developer Partner",
-    "seoKeywords": [
-      "Kolte Patil Little Earth Mamurdi",
-      "Kolte Patil Little Earth Pune price",
-      "Kolte Patil Little Earth floor plan",
-      "Kolte Patil Little Earth MahaRERA P52100048103",
-      "Kolte-Patil Developers projects in Mamurdi",
-      "flats in Mamurdi Pune",
-      "buy 2 BHK in Mamurdi",
-      "zero brokerage property Pune"
-    ],
-    "metaDescription": "Buy 2 BHK in Kolte Patil Little Earth, Mamurdi Pune by Kolte-Patil Developers. Price starts \u20b970.00 L. 100% Zero Brokerage. Verified MahaRERA P52100048103. Floor",
-    "advancedConfigurations": [
-      {
-        "id": "cfg-kolte-patil-little-earth-1",
-        "projectId": "p-kolte-patil-little-earth",
-        "name": "2 BHK Luxury Unit",
-        "carpetArea": 815,
-        "balconyArea": 65,
-        "bathrooms": 2,
-        "basePrice": 7000000.0,
-        "pricePerSqft": 8588.96,
-        "infraCharges": 210000.0,
-        "clubhouseCharges": 140000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
-        "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp"
-      },
-      {
-        "id": "cfg-kolte-patil-little-earth-2",
-        "projectId": "p-kolte-patil-little-earth",
-        "name": "2 BHK Luxury Unit",
-        "carpetArea": 815,
-        "balconyArea": 65,
-        "bathrooms": 2,
-        "basePrice": 7000000.0,
-        "pricePerSqft": 8588.96,
-        "infraCharges": 210000.0,
-        "clubhouseCharges": 140000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
-        "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/image (25).webp"
-      }
-    ],
-    "faqs": [
-      {
-        "question": "Where is Kolte Patil Little Earth located?",
-        "answer": "Kolte Patil Little Earth is located at Survey No.19, Masulkar City, Mumbai Hwy, near MCA International Cricket Stadium, Kiwale, Mamurdi, Dehu Road, Pune, Maharashtra."
-      },
-      {
-        "question": "What is the price of Kolte Patil Little Earth?",
-        "answer": "Prices at Kolte Patil Little Earth range from \u20b9 70.00 Lac \u2013 92.00 Lac (agreement value). Homes are available as 2, 3 BHK."
-      },
-      {
-        "question": "Which configurations are available at Kolte Patil Little Earth?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 815 \u2013 1,077 sq.ft."
-      },
-      {
-        "question": "What is the RERA number of Kolte Patil Little Earth?",
-        "answer": "The RERA registration number of Kolte Patil Little Earth is P52100048103."
-      },
-      {
-        "question": "When is the possession of Kolte Patil Little Earth?",
-        "answer": "Possession is expected by Dec 2026, as per the RERA registration."
-      },
-      {
-        "question": "Who is the developer of Kolte Patil Little Earth?",
-        "answer": "Kolte Patil Little Earth is developed by Kolte Patil Developers. The developer has been in real estate since 1970."
-      },
-      {
-        "question": "How many floors does Kolte Patil Little Earth have?",
-        "answer": "The project has G+16 floors. It is spread across 26 acres."
-      },
-      {
-        "question": "What amenities does Kolte Patil Little Earth offer?",
-        "answer": "Amenities include Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner, Gym, Jogging Track and more."
-      },
-      {
-        "question": "Which banks give home loans for Kolte Patil Little Earth?",
-        "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
-      },
-      {
-        "question": "How do I book a site visit to Kolte Patil Little Earth?",
-        "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
-      }
-    ],
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3779.9387091084345!2d73.71592181015116!3d18.66674616462081!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b09a0914e30f%3A0x5cc1980efd1e9fd!2sLittle%20Earth%20Kolte-Patil!5e0!3m2!1sen!2sin!4v1696507493509!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+16 floors. It is spread across 26 acres.",
     "city": "Pune"
   },
   {
@@ -17342,5 +16732,3367 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ]
+  },
+  {
+    "id": "p-kolte-patil-life-republic-qrious",
+    "title": "Kolte Patil Life Republic Qrious",
+    "slug": "kolte-patil-life-republic-qrious",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b964.00 L - \u20b995.00 L",
+    "exactPrice": "\u20b964.00 L",
+    "pricePerSqft": 7200,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "725 - 785 sq.ft",
+        "priceRange": "\u20b964 L - \u20b974 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "940 - 1,010 sq.ft",
+        "priceRange": "\u20b982 L - \u20b995 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17630446171899594771.png",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17630446171899594771.png",
+    "imageAlt": "Kolte Patil Life Republic Qrious Elevation by Kolte-Patil Developers in Hinjewadi, Pune",
+    "heroImageAlt": "Kolte Patil Life Republic Qrious High-Rise Building Architecture",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100079623",
+    "seoKeywords": [
+      "Kolte Patil Life Republic Qrious Hinjewadi",
+      "Kolte Patil Life Republic Qrious price",
+      "Kolte Patil Life Republic Qrious floor plan",
+      "Kolte Patil Life Republic Qrious MahaRERA P52100079623",
+      "Kolte Patil projects in Hinjewadi",
+      "flats in Hinjewadi Pune"
+    ],
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Life Republic Qrious, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b964.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100079623.",
+    "description": "When you're living at Qrious by Life Republic \u2013 a new launch project offering 2 & 3 BHK flats in Hinjewadi, the very heart of Pune\u2019s future.\n\r\nHere, every day the next chapter unfolds, Future opportun\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Hinjewadi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100079623",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Life Republic Qrious located?",
+        "answer": "Kolte Patil Life Republic Qrious is prime situated in Hinjewadi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Life Republic Qrious?",
+        "answer": "Residences at Kolte Patil Life Republic Qrious start from \u20b964.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Life Republic Qrious?",
+        "answer": "Kolte Patil Life Republic Qrious offers 2 BHK, 3 BHK residences with spacious carpet layouts from 725 - 785 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Life Republic Qrious?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Life Republic Qrious is P52100079623. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Life Republic Qrious?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100079623"
+  },
+  {
+    "id": "p-kolte-patil-life-republic-canvas",
+    "title": "Kolte Patil Life Republic Canvas",
+    "slug": "kolte-patil-life-republic-canvas",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b91.18 Cr - \u20b92.10 Cr",
+    "exactPrice": "\u20b91.18 Cr",
+    "pricePerSqft": 8400,
+    "configurations": [
+      "3 BHK",
+      "3.5 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1,120 - 1,280 sq.ft",
+        "priceRange": "\u20b91.18 Cr - \u20b91.45 Cr"
+      },
+      {
+        "type": "3.5 BHK",
+        "carpetArea": "1,390 - 1,480 sq.ft",
+        "priceRange": "\u20b91.52 Cr - \u20b91.72 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1,650 - 1,850 sq.ft",
+        "priceRange": "\u20b91.85 Cr - \u20b92.10 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2028",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1736838615597289150.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1736838615597289150.jpg",
+    "imageAlt": "Kolte Patil Life Republic Canvas Elevation by Kolte-Patil Developers in Hinjewadi, Pune",
+    "heroImageAlt": "Kolte Patil Life Republic Canvas High-Rise Building Architecture",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100077008",
+    "seoKeywords": [
+      "Kolte Patil Life Republic Canvas Hinjewadi",
+      "Kolte Patil Life Republic Canvas price",
+      "Kolte Patil Life Republic Canvas floor plan",
+      "Kolte Patil Life Republic Canvas MahaRERA P52100077008",
+      "Kolte Patil projects in Hinjewadi",
+      "flats in Hinjewadi Pune"
+    ],
+    "metaDescription": "Buy 3 BHK, 3.5 BHK, 4 BHK in Kolte Patil Life Republic Canvas, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b91.18 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100077008.",
+    "description": "Enjoy the different colours of the sky with four high-rising towers offering luxurious 3 and 4 BHK apartments that overlook the township from an impressive altitude of ~120M.\n\nYou once pictured a life\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Hinjewadi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100077008",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Life Republic Canvas located?",
+        "answer": "Kolte Patil Life Republic Canvas is prime situated in Hinjewadi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Life Republic Canvas?",
+        "answer": "Residences at Kolte Patil Life Republic Canvas start from \u20b91.18 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Life Republic Canvas?",
+        "answer": "Kolte Patil Life Republic Canvas offers 3 BHK, 3.5 BHK, 4 BHK residences with spacious carpet layouts from 1,120 - 1,280 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Life Republic Canvas?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Life Republic Canvas is P52100077008. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Life Republic Canvas?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100077008"
+  },
+  {
+    "id": "p-kolte-patil-life-republic-aros",
+    "title": "Kolte Patil Life Republic Aros",
+    "slug": "kolte-patil-life-republic-aros",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b962.00 L - \u20b989.00 L",
+    "exactPrice": "\u20b962.00 L",
+    "pricePerSqft": 7100,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "715 - 770 sq.ft",
+        "priceRange": "\u20b962 L - \u20b972 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "890 - 980 sq.ft",
+        "priceRange": "\u20b978 L - \u20b989 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17371057642004803003.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17371057642004803003.jpg",
+    "imageAlt": "Kolte Patil Life Republic Aros Elevation by Kolte-Patil Developers in Hinjewadi, Pune",
+    "heroImageAlt": "Kolte Patil Life Republic Aros High-Rise Building Architecture",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100047921",
+    "seoKeywords": [
+      "Kolte Patil Life Republic Aros Hinjewadi",
+      "Kolte Patil Life Republic Aros price",
+      "Kolte Patil Life Republic Aros floor plan",
+      "Kolte Patil Life Republic Aros MahaRERA P52100047921",
+      "Kolte Patil projects in Hinjewadi",
+      "flats in Hinjewadi Pune"
+    ],
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Life Republic Aros, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b962.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100047921.",
+    "description": "Rise above the mundane, everyday life and seek something extraordinary. This immersive and rejuvenating lifestyle at Aros, Life Republic, includes a thoughtfully designed 19,000 sq.ft. Club Aros, a me\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Hinjewadi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100047921",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Life Republic Aros located?",
+        "answer": "Kolte Patil Life Republic Aros is prime situated in Hinjewadi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Life Republic Aros?",
+        "answer": "Residences at Kolte Patil Life Republic Aros start from \u20b962.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Life Republic Aros?",
+        "answer": "Kolte Patil Life Republic Aros offers 2 BHK, 3 BHK residences with spacious carpet layouts from 715 - 770 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Life Republic Aros?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Life Republic Aros is P52100047921. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Life Republic Aros?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100047921"
+  },
+  {
+    "id": "p-kolte-patil-life-republic-atmos",
+    "title": "Kolte Patil Life Republic Atmos",
+    "slug": "kolte-patil-life-republic-atmos",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b958.00 L - \u20b978.00 L",
+    "exactPrice": "\u20b958.00 L",
+    "pricePerSqft": 6950,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "685 - 740 sq.ft",
+        "priceRange": "\u20b958 L - \u20b968 L"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "790 - 850 sq.ft",
+        "priceRange": "\u20b969 L - \u20b978 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "March 2027",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17368380161318147602.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17368380161318147602.jpg",
+    "imageAlt": "Kolte Patil Life Republic Atmos Elevation by Kolte-Patil Developers in Hinjewadi, Pune",
+    "heroImageAlt": "Kolte Patil Life Republic Atmos High-Rise Building Architecture",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100051765",
+    "seoKeywords": [
+      "Kolte Patil Life Republic Atmos Hinjewadi",
+      "Kolte Patil Life Republic Atmos price",
+      "Kolte Patil Life Republic Atmos floor plan",
+      "Kolte Patil Life Republic Atmos MahaRERA P52100051765",
+      "Kolte Patil projects in Hinjewadi",
+      "flats in Hinjewadi Pune"
+    ],
+    "metaDescription": "Buy 2 BHK, 2.5 BHK in Kolte Patil Life Republic Atmos, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b958.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100051765.",
+    "description": "A multi-passionate modern family deserves a flexible atmosphere to explore and flourish in. A home that syncs with their aura. Atmos is a New Launch at Life Republic by Kolte Patil located near Hinjaw\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Hinjewadi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100051765",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Life Republic Atmos located?",
+        "answer": "Kolte Patil Life Republic Atmos is prime situated in Hinjewadi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Life Republic Atmos?",
+        "answer": "Residences at Kolte Patil Life Republic Atmos start from \u20b958.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Life Republic Atmos?",
+        "answer": "Kolte Patil Life Republic Atmos offers 2 BHK, 2.5 BHK residences with spacious carpet layouts from 685 - 740 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Life Republic Atmos?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Life Republic Atmos is P52100051765. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Life Republic Atmos?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100051765"
+  },
+  {
+    "id": "p-kolte-patil-life-republic-duet",
+    "title": "Kolte Patil Life Republic Duet",
+    "slug": "kolte-patil-life-republic-duet",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b954.00 L - \u20b966.00 L",
+    "exactPrice": "\u20b954.00 L",
+    "pricePerSqft": 6800,
+    "configurations": [
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Compact",
+        "carpetArea": "640 sq.ft",
+        "priceRange": "\u20b954 L - \u20b959 L"
+      },
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "\u20b960 L - \u20b966 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Sept 2027",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1756736086132321226.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1756736086132321226.jpg",
+    "imageAlt": "Kolte Patil Life Republic Duet Elevation by Kolte-Patil Developers in Hinjewadi, Pune",
+    "heroImageAlt": "Kolte Patil Life Republic Duet High-Rise Building Architecture",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100079424",
+    "seoKeywords": [
+      "Kolte Patil Life Republic Duet Hinjewadi",
+      "Kolte Patil Life Republic Duet price",
+      "Kolte Patil Life Republic Duet floor plan",
+      "Kolte Patil Life Republic Duet MahaRERA P52100079424",
+      "Kolte Patil projects in Hinjewadi",
+      "flats in Hinjewadi Pune"
+    ],
+    "metaDescription": "Buy 2 BHK in Kolte Patil Life Republic Duet, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b954.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100079424.",
+    "description": "Because while two hearts beat together and live together, they can have different expectations. So, here\u2019s one address that has everything needed to complete these two worlds that live together under\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Hinjewadi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100079424",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Life Republic Duet located?",
+        "answer": "Kolte Patil Life Republic Duet is prime situated in Hinjewadi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Life Republic Duet?",
+        "answer": "Residences at Kolte Patil Life Republic Duet start from \u20b954.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Life Republic Duet?",
+        "answer": "Kolte Patil Life Republic Duet offers 2 BHK residences with spacious carpet layouts from 640 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Life Republic Duet?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Life Republic Duet is P52100079424. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Life Republic Duet?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100079424"
+  },
+  {
+    "id": "p-kolte-patil-life-republic-echoes",
+    "title": "Kolte Patil Life Republic Echoes",
+    "slug": "kolte-patil-life-republic-echoes",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b959.00 L - \u20b979.00 L",
+    "exactPrice": "\u20b959.00 L",
+    "pricePerSqft": 7000,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "670 - 735 sq.ft",
+        "priceRange": "\u20b959 L - \u20b969 L"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "780 - 840 sq.ft",
+        "priceRange": "\u20b970 L - \u20b979 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17742511611639045753.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17742511611639045753.jpg",
+    "imageAlt": "Kolte Patil Life Republic Echoes Elevation by Kolte-Patil Developers in Hinjewadi, Pune",
+    "heroImageAlt": "Kolte Patil Life Republic Echoes High-Rise Building Architecture",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100077382",
+    "seoKeywords": [
+      "Kolte Patil Life Republic Echoes Hinjewadi",
+      "Kolte Patil Life Republic Echoes price",
+      "Kolte Patil Life Republic Echoes floor plan",
+      "Kolte Patil Life Republic Echoes MahaRERA P52100077382",
+      "Kolte Patil projects in Hinjewadi",
+      "flats in Hinjewadi Pune"
+    ],
+    "metaDescription": "Buy 2 BHK, 2.5 BHK in Kolte Patil Life Republic Echoes, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b959.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100077382.",
+    "description": "At Kolte Patil Echoes, childhood is designed to be truly carefree, where play flows across open, thoughtfully planned spaces and everyday moments turn into lasting memories.\n\r\nSet within a secure town\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Hinjewadi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100077382",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Life Republic Echoes located?",
+        "answer": "Kolte Patil Life Republic Echoes is prime situated in Hinjewadi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Life Republic Echoes?",
+        "answer": "Residences at Kolte Patil Life Republic Echoes start from \u20b959.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Life Republic Echoes?",
+        "answer": "Kolte Patil Life Republic Echoes offers 2 BHK, 2.5 BHK residences with spacious carpet layouts from 670 - 735 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Life Republic Echoes?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Life Republic Echoes is P52100077382. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Life Republic Echoes?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100077382"
+  },
+  {
+    "id": "p-kolte-patil-24k-espada-at-life-republic",
+    "title": "Kolte Patil 24K Espada at Life Republic",
+    "slug": "kolte-patil-24k-espada-at-life-republic",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b92.85 Cr - \u20b94.50 Cr",
+    "exactPrice": "\u20b92.85 Cr",
+    "pricePerSqft": 11200,
+    "configurations": [
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK Row House",
+        "carpetArea": "2,450 - 2,850 sq.ft",
+        "priceRange": "\u20b92.85 Cr - \u20b93.40 Cr"
+      },
+      {
+        "type": "5 BHK Grand Villa",
+        "carpetArea": "3,200 - 3,850 sq.ft",
+        "priceRange": "\u20b93.80 Cr - \u20b94.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1739969532664397379.png",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1739969532664397379.png",
+    "imageAlt": "Kolte Patil 24K Espada at Life Republic Elevation by Kolte-Patil Developers in Hinjewadi, Pune",
+    "heroImageAlt": "Kolte Patil 24K Espada at Life Republic High-Rise Building Architecture",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100051876",
+    "seoKeywords": [
+      "Kolte Patil 24K Espada at Life Republic Hinjewadi",
+      "Kolte Patil 24K Espada at Life Republic price",
+      "Kolte Patil 24K Espada at Life Republic floor plan",
+      "Kolte Patil 24K Espada at Life Republic MahaRERA P52100051876",
+      "Kolte Patil projects in Hinjewadi",
+      "flats in Hinjewadi Pune"
+    ],
+    "metaDescription": "Buy 4 BHK, 5 BHK in Kolte Patil 24K Espada at Life Republic, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b92.85 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100051876.",
+    "description": "Welcome to 24K Espada, an urban cocoon of privacy and exclusivity. Located in well-connected Hinjawadi, it is part of a 400-acre integrated township. 24K Espada offers 4 & 5 bed premium row houses tha\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Hinjewadi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100051876",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil 24K Espada at Life Republic located?",
+        "answer": "Kolte Patil 24K Espada at Life Republic is prime situated in Hinjewadi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil 24K Espada at Life Republic?",
+        "answer": "Residences at Kolte Patil 24K Espada at Life Republic start from \u20b92.85 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil 24K Espada at Life Republic?",
+        "answer": "Kolte Patil 24K Espada at Life Republic offers 4 BHK, 5 BHK residences with spacious carpet layouts from 2,450 - 2,850 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil 24K Espada at Life Republic?",
+        "answer": "The official MahaRERA registration number for Kolte Patil 24K Espada at Life Republic is P52100051876. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil 24K Espada at Life Republic?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100051876"
+  },
+  {
+    "id": "p-kolte-patil-universe-at-life-republic",
+    "title": "Kolte Patil Universe at Life Republic",
+    "slug": "kolte-patil-universe-at-life-republic",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b941.00 L - \u20b962.00 L",
+    "exactPrice": "\u20b941.00 L",
+    "pricePerSqft": 6900,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "460 - 510 sq.ft",
+        "priceRange": "\u20b941 L - \u20b948 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "620 - 695 sq.ft",
+        "priceRange": "\u20b953 L - \u20b962 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17377879311754578076.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17377879311754578076.jpg",
+    "imageAlt": "Kolte Patil Universe at Life Republic Elevation by Kolte-Patil Developers in Hinjewadi, Pune",
+    "heroImageAlt": "Kolte Patil Universe at Life Republic High-Rise Building Architecture",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100027629",
+    "seoKeywords": [
+      "Kolte Patil Universe at Life Republic Hinjewadi",
+      "Kolte Patil Universe at Life Republic price",
+      "Kolte Patil Universe at Life Republic floor plan",
+      "Kolte Patil Universe at Life Republic MahaRERA P52100027629",
+      "Kolte Patil projects in Hinjewadi",
+      "flats in Hinjewadi Pune"
+    ],
+    "metaDescription": "Buy 1 BHK, 2 BHK in Kolte Patil Universe at Life Republic, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b941.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100027629.",
+    "description": "The {U}niverse at Life Republic is the cradle of a digital lifestyle in Pune. Powered by smart living solutions, you will be ensconced at the heart of every activity here. The Planet App, a proprietar\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Hinjewadi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100027629",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Universe at Life Republic located?",
+        "answer": "Kolte Patil Universe at Life Republic is prime situated in Hinjewadi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Universe at Life Republic?",
+        "answer": "Residences at Kolte Patil Universe at Life Republic start from \u20b941.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Universe at Life Republic?",
+        "answer": "Kolte Patil Universe at Life Republic offers 1 BHK, 2 BHK residences with spacious carpet layouts from 460 - 510 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Universe at Life Republic?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Universe at Life Republic is P52100027629. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Universe at Life Republic?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100027629"
+  },
+  {
+    "id": "p-kolte-patil-oro-avenue-at-life-republic",
+    "title": "Kolte Patil Oro Avenue at Life Republic",
+    "slug": "kolte-patil-oro-avenue-at-life-republic",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b938.00 L - \u20b958.00 L",
+    "exactPrice": "\u20b938.00 L",
+    "pricePerSqft": 6800,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "425 - 480 sq.ft",
+        "priceRange": "\u20b938 L - \u20b944 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "585 - 650 sq.ft",
+        "priceRange": "\u20b949 L - \u20b958 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/15728530931548913611.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/15728530931548913611.jpg",
+    "imageAlt": "Kolte Patil Oro Avenue at Life Republic Elevation by Kolte-Patil Developers in Hinjewadi, Pune",
+    "heroImageAlt": "Kolte Patil Oro Avenue at Life Republic High-Rise Building Architecture",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100017116",
+    "seoKeywords": [
+      "Kolte Patil Oro Avenue at Life Republic Hinjewadi",
+      "Kolte Patil Oro Avenue at Life Republic price",
+      "Kolte Patil Oro Avenue at Life Republic floor plan",
+      "Kolte Patil Oro Avenue at Life Republic MahaRERA P52100017116",
+      "Kolte Patil projects in Hinjewadi",
+      "flats in Hinjewadi Pune"
+    ],
+    "metaDescription": "Buy 1 BHK, 2 BHK in Kolte Patil Oro Avenue at Life Republic, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b938.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100017116.",
+    "description": "Welcome to the finest sector of Pune - Life Republic Oro Avenue. A dream come true for the modernized minds who seek urban spaces for their family at luxurious 2 BHK flats in Hinjewadi. These apartmen\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Hinjewadi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100017116",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Oro Avenue at Life Republic located?",
+        "answer": "Kolte Patil Oro Avenue at Life Republic is prime situated in Hinjewadi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Oro Avenue at Life Republic?",
+        "answer": "Residences at Kolte Patil Oro Avenue at Life Republic start from \u20b938.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Oro Avenue at Life Republic?",
+        "answer": "Kolte Patil Oro Avenue at Life Republic offers 1 BHK, 2 BHK residences with spacious carpet layouts from 425 - 480 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Oro Avenue at Life Republic?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Oro Avenue at Life Republic is P52100017116. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Oro Avenue at Life Republic?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100017116"
+  },
+  {
+    "id": "p-kolte-patil-24k-atria",
+    "title": "Kolte Patil 24K Atria",
+    "slug": "kolte-patil-24k-atria",
+    "builderId": "b-kolte-patil",
+    "location": "Pimple Nilakh",
+    "city": "Pune",
+    "priceRange": "\u20b91.95 Cr - \u20b93.20 Cr",
+    "exactPrice": "\u20b91.95 Cr",
+    "pricePerSqft": 12500,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1,450 - 1,750 sq.ft",
+        "priceRange": "\u20b91.95 Cr - \u20b92.40 Cr"
+      },
+      {
+        "type": "4 BHK Sky Suite",
+        "carpetArea": "1,980 - 2,250 sq.ft",
+        "priceRange": "\u20b92.65 Cr - \u20b93.20 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/157121615478649281.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/157121615478649281.jpg",
+    "imageAlt": "Kolte Patil 24K Atria Elevation by Kolte-Patil Developers in Pimple Nilakh, Pune",
+    "heroImageAlt": "Kolte Patil 24K Atria High-Rise Building Architecture",
+    "lat": 18.5833,
+    "lng": 73.7833,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100000428",
+    "seoKeywords": [
+      "Kolte Patil 24K Atria Pimple Nilakh",
+      "Kolte Patil 24K Atria price",
+      "Kolte Patil 24K Atria floor plan",
+      "Kolte Patil 24K Atria MahaRERA P52100000428",
+      "Kolte Patil projects in Pimple Nilakh",
+      "flats in Pimple Nilakh Pune"
+    ],
+    "metaDescription": "Buy 3 BHK, 4 BHK in Kolte Patil 24K Atria, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from \u20b91.95 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100000428.",
+    "description": "Beautifully crafted to complement your chic and aristocratic personality, our exclusively designed residences at 24K Atria by Kolte-Patil Developers let you explore the true joy of grandeur. These ult\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Pimple Nilakh location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100000428",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil 24K Atria located?",
+        "answer": "Kolte Patil 24K Atria is prime situated in Pimple Nilakh, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil 24K Atria?",
+        "answer": "Residences at Kolte Patil 24K Atria start from \u20b91.95 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil 24K Atria?",
+        "answer": "Kolte Patil 24K Atria offers 3 BHK, 4 BHK residences with spacious carpet layouts from 1,450 - 1,750 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil 24K Atria?",
+        "answer": "The official MahaRERA registration number for Kolte Patil 24K Atria is P52100000428. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil 24K Atria?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000428"
+  },
+  {
+    "id": "p-kolte-patil-24k-manor",
+    "title": "Kolte Patil 24K Manor",
+    "slug": "kolte-patil-24k-manor",
+    "builderId": "b-kolte-patil",
+    "location": "Pimple Nilakh",
+    "city": "Pune",
+    "priceRange": "\u20b92.35 Cr - \u20b93.90 Cr",
+    "exactPrice": "\u20b92.35 Cr",
+    "pricePerSqft": 13500,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Palatial",
+        "carpetArea": "1,650 - 1,950 sq.ft",
+        "priceRange": "\u20b92.35 Cr - \u20b92.95 Cr"
+      },
+      {
+        "type": "4 BHK Imperial",
+        "carpetArea": "2,200 - 2,650 sq.ft",
+        "priceRange": "\u20b93.20 Cr - \u20b93.90 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/16915632221413240699.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/16915632221413240699.jpg",
+    "imageAlt": "Kolte Patil 24K Manor Elevation by Kolte-Patil Developers in Pimple Nilakh, Pune",
+    "heroImageAlt": "Kolte Patil 24K Manor High-Rise Building Architecture",
+    "lat": 18.5833,
+    "lng": 73.7833,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100052151",
+    "seoKeywords": [
+      "Kolte Patil 24K Manor Pimple Nilakh",
+      "Kolte Patil 24K Manor price",
+      "Kolte Patil 24K Manor floor plan",
+      "Kolte Patil 24K Manor MahaRERA P52100052151",
+      "Kolte Patil projects in Pimple Nilakh",
+      "flats in Pimple Nilakh Pune"
+    ],
+    "metaDescription": "Buy 3 BHK, 4 BHK in Kolte Patil 24K Manor, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from \u20b92.35 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100052151.",
+    "description": "At the intersection of architectural brilliance and lifestyle sophistication, 24K Manor stands tall, a beacon of exclusivity and grandeur. Every aspect of this unparalleled offering has been meticulou\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Pimple Nilakh location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100052151",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil 24K Manor located?",
+        "answer": "Kolte Patil 24K Manor is prime situated in Pimple Nilakh, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil 24K Manor?",
+        "answer": "Residences at Kolte Patil 24K Manor start from \u20b92.35 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil 24K Manor?",
+        "answer": "Kolte Patil 24K Manor offers 3 BHK, 4 BHK residences with spacious carpet layouts from 1,650 - 1,950 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil 24K Manor?",
+        "answer": "The official MahaRERA registration number for Kolte Patil 24K Manor is P52100052151. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil 24K Manor?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100052151"
+  },
+  {
+    "id": "p-kolte-patil-24k-opula",
+    "title": "Kolte Patil 24K Opula",
+    "slug": "kolte-patil-24k-opula",
+    "builderId": "b-kolte-patil",
+    "location": "Pimple Nilakh",
+    "city": "Pune",
+    "priceRange": "\u20b92.65 Cr - \u20b94.80 Cr",
+    "exactPrice": "\u20b92.65 Cr",
+    "pricePerSqft": 13800,
+    "configurations": [
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1,850 sq.ft",
+        "priceRange": "\u20b92.65 Cr - \u20b92.95 Cr"
+      },
+      {
+        "type": "4 BHK Sky Villa",
+        "carpetArea": "2,450 sq.ft",
+        "priceRange": "\u20b93.40 Cr - \u20b93.95 Cr"
+      },
+      {
+        "type": "5 BHK Penthouse",
+        "carpetArea": "3,400 sq.ft",
+        "priceRange": "\u20b94.30 Cr - \u20b94.80 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/15712055551076523637.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/15712055551076523637.jpg",
+    "imageAlt": "Kolte Patil 24K Opula Elevation by Kolte-Patil Developers in Pimple Nilakh, Pune",
+    "heroImageAlt": "Kolte Patil 24K Opula High-Rise Building Architecture",
+    "lat": 18.5833,
+    "lng": 73.7833,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100000398",
+    "seoKeywords": [
+      "Kolte Patil 24K Opula Pimple Nilakh",
+      "Kolte Patil 24K Opula price",
+      "Kolte Patil 24K Opula floor plan",
+      "Kolte Patil 24K Opula MahaRERA P52100000398",
+      "Kolte Patil projects in Pimple Nilakh",
+      "flats in Pimple Nilakh Pune"
+    ],
+    "metaDescription": "Buy 3 BHK, 4 BHK, 5 BHK in Kolte Patil 24K Opula, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from \u20b92.65 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100000398.",
+    "description": "Spread across 7.77 acres, each home at 24K Opula is built to perfection and adheres to the highest standards of quality and efficiency. The ongoing project in Pune by Kolte Patil Developers offers exc\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Pimple Nilakh location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100000398",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil 24K Opula located?",
+        "answer": "Kolte Patil 24K Opula is prime situated in Pimple Nilakh, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil 24K Opula?",
+        "answer": "Residences at Kolte Patil 24K Opula start from \u20b92.65 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil 24K Opula?",
+        "answer": "Kolte Patil 24K Opula offers 3 BHK, 4 BHK, 5 BHK residences with spacious carpet layouts from 1,850 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil 24K Opula?",
+        "answer": "The official MahaRERA registration number for Kolte Patil 24K Opula is P52100000398. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil 24K Opula?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000398"
+  },
+  {
+    "id": "p-kolte-patil-24k-stargaze",
+    "title": "Kolte Patil 24K Stargaze",
+    "slug": "kolte-patil-24k-stargaze",
+    "builderId": "b-kolte-patil",
+    "location": "Bavdhan",
+    "city": "Pune",
+    "priceRange": "\u20b91.65 Cr - \u20b92.75 Cr",
+    "exactPrice": "\u20b91.65 Cr",
+    "pricePerSqft": 11200,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Valley View",
+        "carpetArea": "1,350 - 1,650 sq.ft",
+        "priceRange": "\u20b91.65 Cr - \u20b92.10 Cr"
+      },
+      {
+        "type": "4 BHK Sky Villa",
+        "carpetArea": "1,850 - 2,150 sq.ft",
+        "priceRange": "\u20b92.30 Cr - \u20b92.75 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/16582369311871863705.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/16582369311871863705.jpg",
+    "imageAlt": "Kolte Patil 24K Stargaze Elevation by Kolte-Patil Developers in Bavdhan, Pune",
+    "heroImageAlt": "Kolte Patil 24K Stargaze High-Rise Building Architecture",
+    "lat": 18.5158,
+    "lng": 73.7686,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100018473",
+    "seoKeywords": [
+      "Kolte Patil 24K Stargaze Bavdhan",
+      "Kolte Patil 24K Stargaze price",
+      "Kolte Patil 24K Stargaze floor plan",
+      "Kolte Patil 24K Stargaze MahaRERA P52100018473",
+      "Kolte Patil projects in Bavdhan",
+      "flats in Bavdhan Pune"
+    ],
+    "metaDescription": "Buy 3 BHK, 4 BHK in Kolte Patil 24K Stargaze, Bavdhan Pune by Kolte-Patil Developers. Prices from \u20b91.65 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100018473.",
+    "description": "24K Stargaze by Kolte Patil, not only offers you a place to reside but a home where you\u2019ll enjoy every moment with your friends and family. Located in Bavdhan, which is just 5-kms away from Kothrud, t\n\nSituated in prime Bavdhan, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Bavdhan location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100018473",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil 24K Stargaze located?",
+        "answer": "Kolte Patil 24K Stargaze is prime situated in Bavdhan, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil 24K Stargaze?",
+        "answer": "Residences at Kolte Patil 24K Stargaze start from \u20b91.65 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil 24K Stargaze?",
+        "answer": "Kolte Patil 24K Stargaze offers 3 BHK, 4 BHK residences with spacious carpet layouts from 1,350 - 1,650 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil 24K Stargaze?",
+        "answer": "The official MahaRERA registration number for Kolte Patil 24K Stargaze is P52100018473. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil 24K Stargaze?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100018473"
+  },
+  {
+    "id": "p-kolte-patil-crown",
+    "title": "Kolte Patil Crown",
+    "slug": "kolte-patil-crown",
+    "builderId": "b-kolte-patil",
+    "location": "Pimple Nilakh",
+    "city": "Pune",
+    "priceRange": "\u20b985.00 L - \u20b91.28 Cr",
+    "exactPrice": "\u20b985.00 L",
+    "pricePerSqft": 9800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "780 - 850 sq.ft",
+        "priceRange": "\u20b985 L - \u20b995 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "980 - 1,120 sq.ft",
+        "priceRange": "\u20b91.10 Cr - \u20b91.28 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1606749190359803451.png",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1606749190359803451.png",
+    "imageAlt": "Kolte Patil Crown Elevation by Kolte-Patil Developers in Pimple Nilakh, Pune",
+    "heroImageAlt": "Kolte Patil Crown High-Rise Building Architecture",
+    "lat": 18.5833,
+    "lng": 73.7833,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100020471",
+    "seoKeywords": [
+      "Kolte Patil Crown Pimple Nilakh",
+      "Kolte Patil Crown price",
+      "Kolte Patil Crown floor plan",
+      "Kolte Patil Crown MahaRERA P52100020471",
+      "Kolte Patil projects in Pimple Nilakh",
+      "flats in Pimple Nilakh Pune"
+    ],
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Crown, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from \u20b985.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100020471.",
+    "description": "All its endearing charm and enduring greens, its strategic placement and pleasant peace, somehow felt incomplete. It craved for something that would add glitter to the greens and shimmer to the sunset\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Pimple Nilakh location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100020471",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Crown located?",
+        "answer": "Kolte Patil Crown is prime situated in Pimple Nilakh, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Crown?",
+        "answer": "Residences at Kolte Patil Crown start from \u20b985.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Crown?",
+        "answer": "Kolte Patil Crown offers 2 BHK, 3 BHK residences with spacious carpet layouts from 780 - 850 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Crown?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Crown is P52100020471. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Crown?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100020471"
+  },
+  {
+    "id": "p-kolte-patil-the-reserve",
+    "title": "Kolte Patil The Reserve",
+    "slug": "kolte-patil-the-reserve",
+    "builderId": "b-kolte-patil",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "\u20b974.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b974.00 L",
+    "pricePerSqft": 8200,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Riverview",
+        "carpetArea": "765 - 820 sq.ft",
+        "priceRange": "\u20b974 L - \u20b983 L"
+      },
+      {
+        "type": "2.5 BHK Riverside",
+        "carpetArea": "880 - 945 sq.ft",
+        "priceRange": "\u20b986 L - \u20b996 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1,050 - 1,180 sq.ft",
+        "priceRange": "\u20b91.02 Cr - \u20b91.15 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17847862141319131306.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17847862141319131306.jpg",
+    "imageAlt": "Kolte Patil The Reserve Elevation by Kolte-Patil Developers in Sinhagad Road, Pune",
+    "heroImageAlt": "Kolte Patil The Reserve High-Rise Building Architecture",
+    "lat": 18.4716,
+    "lng": 73.8184,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "PM1261012600748",
+    "seoKeywords": [
+      "Kolte Patil The Reserve Sinhagad Road",
+      "Kolte Patil The Reserve price",
+      "Kolte Patil The Reserve floor plan",
+      "Kolte Patil The Reserve MahaRERA PM1261012600748",
+      "Kolte Patil projects in Sinhagad Road",
+      "flats in Sinhagad Road Pune"
+    ],
+    "metaDescription": "Buy 2 BHK, 2.5 BHK, 3 BHK in Kolte Patil The Reserve, Sinhagad Road Pune by Kolte-Patil Developers. Prices from \u20b974.00 L. 100% Zero Brokerage direct builder desk. MahaRERA PM1261012600748.",
+    "description": "Spread across 21.03 acres of master development in a rare riverside setting at Vadgaon Khurd on Sinhgad Road, The Reserve by Kolte-Patil brings together river-facing greens, scenic NDA hill views and\n\nSituated in prime Sinhagad Road, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Sinhagad Road location with seamless arterial connectivity",
+      "MahaRERA Registered Project: PM1261012600748",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil The Reserve located?",
+        "answer": "Kolte Patil The Reserve is prime situated in Sinhagad Road, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil The Reserve?",
+        "answer": "Residences at Kolte Patil The Reserve start from \u20b974.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil The Reserve?",
+        "answer": "Kolte Patil The Reserve offers 2 BHK, 2.5 BHK, 3 BHK residences with spacious carpet layouts from 765 - 820 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil The Reserve?",
+        "answer": "The official MahaRERA registration number for Kolte Patil The Reserve is PM1261012600748. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil The Reserve?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=PM1261012600748"
+  },
+  {
+    "id": "p-kolte-patil-the-winds",
+    "title": "Kolte Patil The Winds",
+    "slug": "kolte-patil-the-winds",
+    "builderId": "b-kolte-patil",
+    "location": "Bhugaon",
+    "city": "Pune",
+    "priceRange": "\u20b968.00 L - \u20b91.05 Cr",
+    "exactPrice": "\u20b968.00 L",
+    "pricePerSqft": 7800,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Hillview",
+        "carpetArea": "720 - 780 sq.ft",
+        "priceRange": "\u20b968 L - \u20b977 L"
+      },
+      {
+        "type": "2.5 BHK Valley",
+        "carpetArea": "840 - 910 sq.ft",
+        "priceRange": "\u20b979 L - \u20b989 L"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "990 - 1,060 sq.ft",
+        "priceRange": "\u20b994 L - \u20b91.05 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "March 2028",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1777879627665083408.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1777879627665083408.jpg",
+    "imageAlt": "Kolte Patil The Winds Elevation by Kolte-Patil Developers in Bhugaon, Pune",
+    "heroImageAlt": "Kolte Patil The Winds High-Rise Building Architecture",
+    "lat": 18.5089,
+    "lng": 73.7324,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "PR1261012600258",
+    "seoKeywords": [
+      "Kolte Patil The Winds Bhugaon",
+      "Kolte Patil The Winds price",
+      "Kolte Patil The Winds floor plan",
+      "Kolte Patil The Winds MahaRERA PR1261012600258",
+      "Kolte Patil projects in Bhugaon",
+      "flats in Bhugaon Pune"
+    ],
+    "metaDescription": "Buy 2 BHK, 2.5 BHK, 3 BHK in Kolte Patil The Winds, Bhugaon Pune by Kolte-Patil Developers. Prices from \u20b968.00 L. 100% Zero Brokerage direct builder desk. MahaRERA PR1261012600258.",
+    "description": "The Winds by Kolte-Patil is a thoughtfully designed residential development nestled in the natural valley of Bhugaon-where cleaner air, open greens, and seamless connectivity come together. Located mi\n\nSituated in prime Bhugaon, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Bhugaon location with seamless arterial connectivity",
+      "MahaRERA Registered Project: PR1261012600258",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil The Winds located?",
+        "answer": "Kolte Patil The Winds is prime situated in Bhugaon, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil The Winds?",
+        "answer": "Residences at Kolte Patil The Winds start from \u20b968.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil The Winds?",
+        "answer": "Kolte Patil The Winds offers 2 BHK, 2.5 BHK, 3 BHK residences with spacious carpet layouts from 720 - 780 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil The Winds?",
+        "answer": "The official MahaRERA registration number for Kolte Patil The Winds is PR1261012600258. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil The Winds?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=PR1261012600258"
+  },
+  {
+    "id": "p-kolte-patil-springshire",
+    "title": "Kolte Patil Springshire",
+    "slug": "kolte-patil-springshire",
+    "builderId": "b-kolte-patil",
+    "location": "Wagholi",
+    "city": "Pune",
+    "priceRange": "\u20b956.00 L - \u20b984.00 L",
+    "exactPrice": "\u20b956.00 L",
+    "pricePerSqft": 6500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 - 775 sq.ft",
+        "priceRange": "\u20b956 L - \u20b965 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "920 - 1,020 sq.ft",
+        "priceRange": "\u20b974 L - \u20b984 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1737032225375196551.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1737032225375196551.jpg",
+    "imageAlt": "Kolte Patil Springshire Elevation by Kolte-Patil Developers in Wagholi, Pune",
+    "heroImageAlt": "Kolte Patil Springshire High-Rise Building Architecture",
+    "lat": 18.5808,
+    "lng": 73.9787,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100076743",
+    "seoKeywords": [
+      "Kolte Patil Springshire Wagholi",
+      "Kolte Patil Springshire price",
+      "Kolte Patil Springshire floor plan",
+      "Kolte Patil Springshire MahaRERA P52100076743",
+      "Kolte Patil projects in Wagholi",
+      "flats in Wagholi Pune"
+    ],
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Springshire, Wagholi Pune by Kolte-Patil Developers. Prices from \u20b956.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100076743.",
+    "description": "Step into your personal outdoor oasis at Springshire, where style and comfort blend seamlessly with nature. Whether you\u2019re looking for 2 BHK flats in Wagholi, spacious 3 BHK flats in Wagholi Pune, or\n\nSituated in prime Wagholi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Wagholi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100076743",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Springshire located?",
+        "answer": "Kolte Patil Springshire is prime situated in Wagholi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Springshire?",
+        "answer": "Residences at Kolte Patil Springshire start from \u20b956.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Springshire?",
+        "answer": "Kolte Patil Springshire offers 2 BHK, 3 BHK residences with spacious carpet layouts from 710 - 775 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Springshire?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Springshire is P52100076743. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Springshire?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100076743"
+  },
+  {
+    "id": "p-kolte-patil-little-earth",
+    "title": "Kolte Patil Little Earth",
+    "slug": "kolte-patil-little-earth",
+    "builderId": "b-kolte-patil",
+    "location": "Kiwale",
+    "city": "Pune",
+    "priceRange": "\u20b948.00 L - \u20b972.00 L",
+    "exactPrice": "\u20b948.00 L",
+    "pricePerSqft": 6200,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "680 - 740 sq.ft",
+        "priceRange": "\u20b948 L - \u20b956 L"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "790 - 850 sq.ft",
+        "priceRange": "\u20b958 L - \u20b965 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "910 - 980 sq.ft",
+        "priceRange": "\u20b965 L - \u20b972 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2026",
+    "image": "https://www.koltepatil.com/assets/uploads/webp/canvas-new.png",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/webp/canvas-new.png",
+    "imageAlt": "Kolte Patil Little Earth Elevation by Kolte-Patil Developers in Kiwale, Pune",
+    "heroImageAlt": "Kolte Patil Little Earth High-Rise Building Architecture",
+    "lat": 18.6653,
+    "lng": 73.7256,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100047721",
+    "seoKeywords": [
+      "Kolte Patil Little Earth Kiwale",
+      "Kolte Patil Little Earth price",
+      "Kolte Patil Little Earth floor plan",
+      "Kolte Patil Little Earth MahaRERA P52100047721",
+      "Kolte Patil projects in Kiwale",
+      "flats in Kiwale Pune"
+    ],
+    "metaDescription": "Buy 2 BHK, 2.5 BHK, 3 BHK in Kolte Patil Little Earth, Kiwale Pune by Kolte-Patil Developers. Prices from \u20b948.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100047721.",
+    "description": "A finely crafted 2, 2.5 & 3 BHK home in Pune promises a lot more than just a good living. It\u2019s a bouquet of goodies! An enticing expanse of 25 acres, a gated community in Pune, serene environment, eye\n\nSituated in prime Kiwale, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Kiwale location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100047721",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Little Earth located?",
+        "answer": "Kolte Patil Little Earth is prime situated in Kiwale, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Little Earth?",
+        "answer": "Residences at Kolte Patil Little Earth start from \u20b948.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Little Earth?",
+        "answer": "Kolte Patil Little Earth offers 2 BHK, 2.5 BHK, 3 BHK residences with spacious carpet layouts from 680 - 740 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Little Earth?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Little Earth is P52100047721. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Little Earth?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100047721"
+  },
+  {
+    "id": "p-kolte-patil-western-avenue",
+    "title": "Kolte Patil Western Avenue",
+    "slug": "kolte-patil-western-avenue",
+    "builderId": "b-kolte-patil",
+    "location": "Wakad",
+    "city": "Pune",
+    "priceRange": "\u20b982.00 L - \u20b91.24 Cr",
+    "exactPrice": "\u20b982.00 L",
+    "pricePerSqft": 9500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "740 - 810 sq.ft",
+        "priceRange": "\u20b982 L - \u20b994 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "960 - 1,080 sq.ft",
+        "priceRange": "\u20b91.08 Cr - \u20b91.24 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1737028466535989305.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1737028466535989305.jpg",
+    "imageAlt": "Kolte Patil Western Avenue Elevation by Kolte-Patil Developers in Wakad, Pune",
+    "heroImageAlt": "Kolte Patil Western Avenue High-Rise Building Architecture",
+    "lat": 18.5987,
+    "lng": 73.7645,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100000917",
+    "seoKeywords": [
+      "Kolte Patil Western Avenue Wakad",
+      "Kolte Patil Western Avenue price",
+      "Kolte Patil Western Avenue floor plan",
+      "Kolte Patil Western Avenue MahaRERA P52100000917",
+      "Kolte Patil projects in Wakad",
+      "flats in Wakad Pune"
+    ],
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Western Avenue, Wakad Pune by Kolte-Patil Developers. Prices from \u20b982.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100000917.",
+    "description": "Spread over 16 acres of land, Western Avenue offers you holistic residential living in Wakad with 30+ lifestyle amenities\u2014specially curated for recreation, relaxation, and rejuvenation\u2014right in the he\n\nSituated in prime Wakad, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Wakad location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100000917",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Western Avenue located?",
+        "answer": "Kolte Patil Western Avenue is prime situated in Wakad, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Western Avenue?",
+        "answer": "Residences at Kolte Patil Western Avenue start from \u20b982.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Western Avenue?",
+        "answer": "Kolte Patil Western Avenue offers 2 BHK, 3 BHK residences with spacious carpet layouts from 740 - 810 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Western Avenue?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Western Avenue is P52100000917. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Western Avenue?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000917"
+  },
+  {
+    "id": "p-kolte-patil-centria",
+    "title": "Kolte Patil Centria",
+    "slug": "kolte-patil-centria",
+    "builderId": "b-kolte-patil",
+    "location": "Undri",
+    "city": "Pune",
+    "priceRange": "\u20b988.00 L - \u20b91.28 Cr",
+    "exactPrice": "\u20b988.00 L",
+    "pricePerSqft": 7200,
+    "configurations": [
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Garden Luxury",
+        "carpetArea": "1,050 - 1,220 sq.ft",
+        "priceRange": "\u20b988 L - \u20b91.05 Cr"
+      },
+      {
+        "type": "3 BHK Grand Suite",
+        "carpetArea": "1,280 - 1,420 sq.ft",
+        "priceRange": "\u20b91.10 Cr - \u20b91.28 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17370989851070907963.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17370989851070907963.jpg",
+    "imageAlt": "Kolte Patil Centria Elevation by Kolte-Patil Developers in Undri, Pune",
+    "heroImageAlt": "Kolte Patil Centria High-Rise Building Architecture",
+    "lat": 18.4552,
+    "lng": 73.9118,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100016567",
+    "seoKeywords": [
+      "Kolte Patil Centria Undri",
+      "Kolte Patil Centria price",
+      "Kolte Patil Centria floor plan",
+      "Kolte Patil Centria MahaRERA P52100016567",
+      "Kolte Patil projects in Undri",
+      "flats in Undri Pune"
+    ],
+    "metaDescription": "Buy 3 BHK in Kolte Patil Centria, Undri Pune by Kolte-Patil Developers. Prices from \u20b988.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100016567.",
+    "description": "A home, a haven\u2026 an abode of bliss! Welcome to Centria by Kolte-Patil, a thoughtfully designed residential project in Undri, Pune, located in one of the city\u2019s fastest-growing real estate corridors.\n\nSituated in prime Undri, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Undri location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100016567",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Centria located?",
+        "answer": "Kolte Patil Centria is prime situated in Undri, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Centria?",
+        "answer": "Residences at Kolte Patil Centria start from \u20b988.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Centria?",
+        "answer": "Kolte Patil Centria offers 3 BHK residences with spacious carpet layouts from 1,050 - 1,220 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Centria?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Centria is P52100016567. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Centria?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100016567"
+  },
+  {
+    "id": "p-kolte-patil-green-olive",
+    "title": "Kolte Patil Green Olive",
+    "slug": "kolte-patil-green-olive",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b962.00 L - \u20b988.00 L",
+    "exactPrice": "\u20b962.00 L",
+    "pricePerSqft": 7000,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "720 - 790 sq.ft",
+        "priceRange": "\u20b962 L - \u20b972 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "920 - 1,040 sq.ft",
+        "priceRange": "\u20b978 L - \u20b988 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/15713898601510210700.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/15713898601510210700.jpg",
+    "imageAlt": "Kolte Patil Green Olive Elevation by Kolte-Patil Developers in Hinjewadi, Pune",
+    "heroImageAlt": "Kolte Patil Green Olive High-Rise Building Architecture",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100013526",
+    "seoKeywords": [
+      "Kolte Patil Green Olive Hinjewadi",
+      "Kolte Patil Green Olive price",
+      "Kolte Patil Green Olive floor plan",
+      "Kolte Patil Green Olive MahaRERA P52100013526",
+      "Kolte Patil projects in Hinjewadi",
+      "flats in Hinjewadi Pune"
+    ],
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Green Olive, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b962.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100013526.",
+    "description": "Spread across 6 acres of thoughtfully planned land, this residential project in Hinjewadi, Pune offers you a vibrant neighborhood right next to Rajiv Gandhi Infotech Park, India\u2019s largest IT hub.\n\nThe\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Hinjewadi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100013526",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Green Olive located?",
+        "answer": "Kolte Patil Green Olive is prime situated in Hinjewadi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Green Olive?",
+        "answer": "Residences at Kolte Patil Green Olive start from \u20b962.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Green Olive?",
+        "answer": "Kolte Patil Green Olive offers 2 BHK, 3 BHK residences with spacious carpet layouts from 720 - 790 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Green Olive?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Green Olive is P52100013526. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Green Olive?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100013526"
+  },
+  {
+    "id": "p-kolte-patil-ivy-estate",
+    "title": "Kolte Patil Ivy Estate",
+    "slug": "kolte-patil-ivy-estate",
+    "builderId": "b-kolte-patil",
+    "location": "Wagholi",
+    "city": "Pune",
+    "priceRange": "\u20b938.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b938.00 L",
+    "pricePerSqft": 6100,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "510 - 560 sq.ft",
+        "priceRange": "\u20b938 L - \u20b944 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 - 820 sq.ft",
+        "priceRange": "\u20b952 L - \u20b965 L"
+      },
+      {
+        "type": "3 BHK / Row House",
+        "carpetArea": "1,100 - 1,650 sq.ft",
+        "priceRange": "\u20b988 L - \u20b91.45 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1736854599399690020.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1736854599399690020.jpg",
+    "imageAlt": "Kolte Patil Ivy Estate Elevation by Kolte-Patil Developers in Wagholi, Pune",
+    "heroImageAlt": "Kolte Patil Ivy Estate High-Rise Building Architecture",
+    "lat": 18.5808,
+    "lng": 73.9787,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P52100001066",
+    "seoKeywords": [
+      "Kolte Patil Ivy Estate Wagholi",
+      "Kolte Patil Ivy Estate price",
+      "Kolte Patil Ivy Estate floor plan",
+      "Kolte Patil Ivy Estate MahaRERA P52100001066",
+      "Kolte Patil projects in Wagholi",
+      "flats in Wagholi Pune"
+    ],
+    "metaDescription": "Buy 1 BHK, 2 BHK, 3 BHK in Kolte Patil Ivy Estate, Wagholi Pune by Kolte-Patil Developers. Prices from \u20b938.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100001066.",
+    "description": "Nestled in Wagholi, East Pune\u2019s fastest-growing investment hub, Kolte Patil IVY Estate offers the perfect balance of community living and green living. These spacious and efficiently planned 1, 2 & 3\n\nSituated in prime Wagholi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Wagholi location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P52100001066",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Ivy Estate located?",
+        "answer": "Kolte Patil Ivy Estate is prime situated in Wagholi, Pune, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Ivy Estate?",
+        "answer": "Residences at Kolte Patil Ivy Estate start from \u20b938.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Ivy Estate?",
+        "answer": "Kolte Patil Ivy Estate offers 1 BHK, 2 BHK, 3 BHK residences with spacious carpet layouts from 510 - 560 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Ivy Estate?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Ivy Estate is P52100001066. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Ivy Estate?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100001066"
+  },
+  {
+    "id": "p-kolte-patil-serenova",
+    "title": "Kolte Patil Serenova",
+    "slug": "kolte-patil-serenova",
+    "builderId": "b-kolte-patil",
+    "location": "Versova, Andheri West",
+    "city": "Mumbai",
+    "priceRange": "\u20b92.75 Cr - \u20b94.50 Cr",
+    "exactPrice": "\u20b92.75 Cr",
+    "pricePerSqft": 32000,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Coastal Luxe",
+        "carpetArea": "785 - 860 sq.ft",
+        "priceRange": "\u20b92.75 Cr - \u20b93.25 Cr"
+      },
+      {
+        "type": "3 BHK Sea Facing",
+        "carpetArea": "1,050 - 1,220 sq.ft",
+        "priceRange": "\u20b93.80 Cr - \u20b94.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2028",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17625868631642006009.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17625868631642006009.jpg",
+    "imageAlt": "Kolte Patil Serenova Elevation by Kolte-Patil Developers in Versova, Andheri West, Mumbai",
+    "heroImageAlt": "Kolte Patil Serenova High-Rise Building Architecture",
+    "lat": 19.1319,
+    "lng": 72.8164,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "PR1180002500850",
+    "seoKeywords": [
+      "Kolte Patil Serenova Versova, Andheri West",
+      "Kolte Patil Serenova price",
+      "Kolte Patil Serenova floor plan",
+      "Kolte Patil Serenova MahaRERA PR1180002500850",
+      "Kolte Patil projects in Versova, Andheri West",
+      "flats in Versova, Andheri West Mumbai"
+    ],
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Serenova, Versova, Andheri West Mumbai by Kolte-Patil Developers. Prices from \u20b92.75 Cr. 100% Zero Brokerage direct builder desk. MahaRERA PR1180002500850.",
+    "description": "Discover New Launch By Kolte Patil at Versova \u2013 a boutique residential address where Mumbai\u2019s pace gently slows down. With thoughtfully designed 2 & 3 Bed residences, private balconies, and elegant la\n\nSituated in prime Versova, Andheri West, Mumbai, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Versova, Andheri West location with seamless arterial connectivity",
+      "MahaRERA Registered Project: PR1180002500850",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Serenova located?",
+        "answer": "Kolte Patil Serenova is prime situated in Versova, Andheri West, Mumbai, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Serenova?",
+        "answer": "Residences at Kolte Patil Serenova start from \u20b92.75 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Serenova?",
+        "answer": "Kolte Patil Serenova offers 2 BHK, 3 BHK residences with spacious carpet layouts from 785 - 860 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Serenova?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Serenova is PR1180002500850. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Serenova?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=PR1180002500850"
+  },
+  {
+    "id": "p-kolte-patil-vivere",
+    "title": "Kolte Patil Vivere",
+    "slug": "kolte-patil-vivere",
+    "builderId": "b-kolte-patil",
+    "location": "Goregaon West",
+    "city": "Mumbai",
+    "priceRange": "\u20b92.15 Cr - \u20b93.45 Cr",
+    "exactPrice": "\u20b92.15 Cr",
+    "pricePerSqft": 28500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Modern",
+        "carpetArea": "695 - 760 sq.ft",
+        "priceRange": "\u20b92.15 Cr - \u20b92.55 Cr"
+      },
+      {
+        "type": "3 BHK Premium",
+        "carpetArea": "940 - 1,080 sq.ft",
+        "priceRange": "\u20b92.95 Cr - \u20b93.45 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1773649285415334021.jpeg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1773649285415334021.jpeg",
+    "imageAlt": "Kolte Patil Vivere Elevation by Kolte-Patil Developers in Goregaon West, Mumbai",
+    "heroImageAlt": "Kolte Patil Vivere High-Rise Building Architecture",
+    "lat": 19.1663,
+    "lng": 72.8402,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "PR1180002502702",
+    "seoKeywords": [
+      "Kolte Patil Vivere Goregaon West",
+      "Kolte Patil Vivere price",
+      "Kolte Patil Vivere floor plan",
+      "Kolte Patil Vivere MahaRERA PR1180002502702",
+      "Kolte Patil projects in Goregaon West",
+      "flats in Goregaon West Mumbai"
+    ],
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Vivere, Goregaon West Mumbai by Kolte-Patil Developers. Prices from \u20b92.15 Cr. 100% Zero Brokerage direct builder desk. MahaRERA PR1180002502702.",
+    "description": "Vivere by Kolte Patil Developers is a premium residential development in Bangur Nagar, Goregaon (W), thoughtfully designed for elevated urban living. With excellent connectivity to the Western Express\n\nSituated in prime Goregaon West, Mumbai, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Goregaon West location with seamless arterial connectivity",
+      "MahaRERA Registered Project: PR1180002502702",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Vivere located?",
+        "answer": "Kolte Patil Vivere is prime situated in Goregaon West, Mumbai, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Vivere?",
+        "answer": "Residences at Kolte Patil Vivere start from \u20b92.15 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Vivere?",
+        "answer": "Kolte Patil Vivere offers 2 BHK, 3 BHK residences with spacious carpet layouts from 695 - 760 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Vivere?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Vivere is PR1180002502702. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Vivere?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=PR1180002502702"
+  },
+  {
+    "id": "p-kolte-patil-alora",
+    "title": "Kolte Patil Alora",
+    "slug": "kolte-patil-alora",
+    "builderId": "b-kolte-patil",
+    "location": "Santacruz East",
+    "city": "Mumbai",
+    "priceRange": "\u20b91.95 Cr - \u20b93.10 Cr",
+    "exactPrice": "\u20b91.95 Cr",
+    "pricePerSqft": 26000,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK City Suite",
+        "carpetArea": "680 - 745 sq.ft",
+        "priceRange": "\u20b91.95 Cr - \u20b92.30 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "890 - 1,020 sq.ft",
+        "priceRange": "\u20b92.65 Cr - \u20b93.10 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17368379271110413328.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17368379271110413328.jpg",
+    "imageAlt": "Kolte Patil Alora Elevation by Kolte-Patil Developers in Santacruz East, Mumbai",
+    "heroImageAlt": "Kolte Patil Alora High-Rise Building Architecture",
+    "lat": 19.0843,
+    "lng": 72.855,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P51800049048",
+    "seoKeywords": [
+      "Kolte Patil Alora Santacruz East",
+      "Kolte Patil Alora price",
+      "Kolte Patil Alora floor plan",
+      "Kolte Patil Alora MahaRERA P51800049048",
+      "Kolte Patil projects in Santacruz East",
+      "flats in Santacruz East Mumbai"
+    ],
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Alora, Santacruz East Mumbai by Kolte-Patil Developers. Prices from \u20b91.95 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P51800049048.",
+    "description": "Welcome to Alora by Kolte-Patil Developers, an inspired edifice that celebrates life. Leisure is the essence of living here at Alora. The collage of memories you\u2019ll create includes blissful moments li\n\nSituated in prime Santacruz East, Mumbai, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Santacruz East location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P51800049048",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil Alora located?",
+        "answer": "Kolte Patil Alora is prime situated in Santacruz East, Mumbai, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil Alora?",
+        "answer": "Residences at Kolte Patil Alora start from \u20b91.95 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil Alora?",
+        "answer": "Kolte Patil Alora offers 2 BHK, 3 BHK residences with spacious carpet layouts from 680 - 745 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil Alora?",
+        "answer": "The official MahaRERA registration number for Kolte Patil Alora is P51800049048. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil Alora?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800049048"
+  },
+  {
+    "id": "p-kolte-patil-la-vita",
+    "title": "Kolte Patil La Vita",
+    "slug": "kolte-patil-la-vita",
+    "builderId": "b-kolte-patil",
+    "location": "Navi Mumbai",
+    "city": "Mumbai",
+    "priceRange": "\u20b91.65 Cr - \u20b92.85 Cr",
+    "exactPrice": "\u20b91.65 Cr",
+    "pricePerSqft": 21500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Waterfront",
+        "carpetArea": "720 - 790 sq.ft",
+        "priceRange": "\u20b91.65 Cr - \u20b91.95 Cr"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "980 - 1,150 sq.ft",
+        "priceRange": "\u20b92.35 Cr - \u20b92.85 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1736838699412805200.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1736838699412805200.jpg",
+    "imageAlt": "Kolte Patil La Vita Elevation by Kolte-Patil Developers in Navi Mumbai, Mumbai",
+    "heroImageAlt": "Kolte Patil La Vita High-Rise Building Architecture",
+    "lat": 19.076,
+    "lng": 72.9986,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp",
+      "https://keystoneliv.com/public/uploads/property/image (82).webp",
+      "https://keystoneliv.com/public/uploads/property/image (83).webp"
+    ],
+    "reraId": "P51700077178",
+    "seoKeywords": [
+      "Kolte Patil La Vita Navi Mumbai",
+      "Kolte Patil La Vita price",
+      "Kolte Patil La Vita floor plan",
+      "Kolte Patil La Vita MahaRERA P51700077178",
+      "Kolte Patil projects in Navi Mumbai",
+      "flats in Navi Mumbai Mumbai"
+    ],
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil La Vita, Navi Mumbai Mumbai by Kolte-Patil Developers. Prices from \u20b91.65 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P51700077178.",
+    "description": "Welcome to La Vita by Kolte-Patil Developers \u2013 Vashi\u2019s new landmark address of inspiration.\n\nLocated in the vibrant hub of Vashi, Navi Mumbai, La Vita offers seamless connectivity to premier shopping\n\nSituated in prime Navi Mumbai, Mumbai, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ],
+    "highlights": [
+      "Prime Navi Mumbai location with seamless arterial connectivity",
+      "MahaRERA Registered Project: P51700077178",
+      "100% Brokerage Free direct developer allocation via PROPSMART REALTY",
+      "Integrated lifestyle amenities spanning multi-level clubhouses",
+      "Vastu-compliant architecture with maximum carpet efficiency"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Kolte Patil La Vita located?",
+        "answer": "Kolte Patil La Vita is prime situated in Navi Mumbai, Mumbai, offering superb access to business districts, schools, hospitals, and major transit corridors."
+      },
+      {
+        "question": "What is the price of apartments in Kolte Patil La Vita?",
+        "answer": "Residences at Kolte Patil La Vita start from \u20b91.65 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What configurations are available in Kolte Patil La Vita?",
+        "answer": "Kolte Patil La Vita offers 2 BHK, 3 BHK residences with spacious carpet layouts from 720 - 790 sq.ft."
+      },
+      {
+        "question": "What is the MahaRERA number for Kolte Patil La Vita?",
+        "answer": "The official MahaRERA registration number for Kolte Patil La Vita is P51700077178. Official certificates and sanctioned approvals can be verified on the MahaRERA portal."
+      },
+      {
+        "question": "What amenities are provided at Kolte Patil La Vita?",
+        "answer": "The project features 25+ world-class amenities including an infinity swimming pool, clubhouse, state-of-the-art fitness center, landscaped gardens, jogging track, and multi-tier security."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51700077178"
   }
 ];

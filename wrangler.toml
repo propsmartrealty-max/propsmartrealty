@@ -16,6 +16,10 @@ migrations_dir = "migrations"
 # binding = "ASSETS_BUCKET"
 # bucket_name = "propsmart-assets"
 
+# Cloudflare Smart Placement (Auto-optimizes edge compute location for D1 queries)
+[placement]
+mode = "smart"
+
 # Environment Variables & Security Settings
 [vars]
 ENVIRONMENT = "production"
