@@ -14,6 +14,7 @@ import SpotlightSection from '../components/Portal/Home/SpotlightSection';
 import ProjectRail from '../components/Portal/Home/ProjectRail';
 import BuilderSpotlight from '../components/Portal/Home/BuilderSpotlight';
 import RERABadge from '../components/Portal/RERABadge';
+import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
 
 const Home = () => {
     const { projects, builders, isLoading, error, refreshData } = useData();
@@ -54,7 +55,8 @@ const Home = () => {
     }
 
     return (
-        <div className="min-h-screen bg-slate-50 font-sans selection:bg-blue-500 selection:text-white">
+        <div className="min-h-screen bg-slate-50/70 font-sans selection:bg-sky-500 selection:text-white relative">
+            <WaterAmbientBackground variant="vibrant" />
             <SEO
                 title="PROPSMART REALTY - 100% Brokerage Free | Buy Directly with Builder in Pune"
                 description="Buy directly from top builders in Pune with 100% zero brokerage. PROPSMART REALTY is your trusted MahaRERA registered direct developer sales partner platform."

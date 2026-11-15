@@ -6,8 +6,20 @@ import PropsmartLogo from './PropsmartLogo';
 
 const Footer = () => {
     return (
-        <footer className="bg-slate-900 text-gray-400 pt-12 pb-8 border-t border-slate-800">
-            <div className="max-w-7xl mx-auto px-4">
+        <div className="relative">
+            {/* Fluid Organic Water Wave Divider */}
+            <div className="water-wave-divider overflow-hidden leading-none -mb-1">
+                <svg className="w-full h-8 md:h-12 text-slate-950 fill-current" viewBox="0 0 1440 80" preserveAspectRatio="none">
+                    <path d="M0,32L60,42.7C120,53,240,75,360,69.3C480,64,600,32,720,26.7C840,21,960,43,1080,48C1200,53,1320,43,1380,37.3L1440,32L1440,80L1380,80C1320,80,1200,80,1080,80C960,80,840,80,720,80C600,80,480,80,360,80C240,80,120,80,60,80L0,80Z"></path>
+                </svg>
+            </div>
+
+            <footer className="bg-slate-950 text-gray-400 pt-12 pb-10 border-t border-white/10 relative overflow-hidden">
+                {/* Ambient Deep Ocean Glow Spot */}
+                <div className="absolute top-0 right-1/4 w-96 h-96 bg-sky-600/10 rounded-full blur-3xl pointer-events-none -z-0" />
+                <div className="absolute bottom-0 left-1/4 w-96 h-96 bg-teal-600/10 rounded-full blur-3xl pointer-events-none -z-0" />
+
+                <div className="max-w-7xl mx-auto px-4 relative z-10">
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-10">
                     <div>
                         <Link to="/" className="inline-block mb-3 group" title="PROPSMART REALTY">
@@ -122,6 +134,7 @@ const Footer = () => {
                 </div>
             </div>
         </footer>
+        </div>
     );
 };
 

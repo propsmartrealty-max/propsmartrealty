@@ -240,54 +240,56 @@ const HeroSearch = () => {
                     Zero buyer commission. Direct developer inventory, official builder pricing, and sanctioned payment plans across Pune's top MahaRERA registered townships and luxury projects.
                 </motion.p>
 
-                {/* Search Box Container */}
+                {/* Search Box Container with Water Border & Glassmorphic Elevation */}
                 <motion.div
                     initial={{ scale: 0.95, opacity: 0 }}
                     animate={{ scale: 1, opacity: 1 }}
                     transition={{ delay: 0.2 }}
-                    className="w-full bg-white/95 backdrop-blur-xl rounded-[2rem] shadow-2xl border border-white/40 p-1.5 relative z-30"
+                    className="w-full glass-panel-elevated water-border-flow rounded-[2.2rem] shadow-2xl p-2 relative z-30"
                 >
-                    <div className="bg-white rounded-[1.8rem] shadow-inner relative">
+                    <div className="bg-white/90 backdrop-blur-xl rounded-[1.8rem] shadow-inner relative">
                         {/* Tabs */}
-                        <div className="flex bg-slate-50/50 border-b border-gray-100 overflow-x-auto no-scrollbar pt-1 px-1 rounded-t-[1.8rem]">
+                        <div className="flex bg-slate-50/70 border-b border-sky-100/60 overflow-x-auto no-scrollbar pt-1.5 px-2 rounded-t-[1.8rem]">
                             {TABS.map((tab) => (
                                 <button
                                     key={tab.id}
                                     onClick={() => setActiveTab(tab.id)}
-                                    className={`flex items-center gap-2 px-6 py-4 text-sm font-bold transition-all relative whitespace-nowrap rounded-t-xl ${activeTab === tab.id
-                                        ? 'text-brand-600 bg-white shadow-[0_-5px_10px_rgba(0,0,0,0.02)] z-10'
-                                        : 'text-slate-500 hover:text-slate-700 hover:bg-slate-100/50'
-                                        }`}
+                                    className={`flex items-center gap-2 px-6 py-3.5 text-sm font-bold transition-all relative whitespace-nowrap rounded-t-2xl ${
+                                        activeTab === tab.id
+                                            ? 'text-sky-600 bg-white/95 shadow-[0_-5px_15px_rgba(14,165,233,0.08)] z-10'
+                                            : 'text-slate-500 hover:text-slate-800 hover:bg-white/40'
+                                    }`}
                                 >
-                                    <div className={`p-1 rounded-full ${activeTab === tab.id ? 'bg-brand-100' : 'bg-transparent'}`}>
+                                    <div className={`p-1 rounded-full ${activeTab === tab.id ? 'bg-sky-100/80 text-sky-600' : 'bg-transparent'}`}>
                                         {tab.icon}
                                     </div>
                                     {tab.label}
                                     {activeTab === tab.id && (
-                                        <div className="absolute top-0 left-0 w-full h-0.5 bg-gradient-to-r from-brand-500 to-brand-300 rounded-t-full" />
+                                        <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-sky-500 via-cyan-400 to-blue-600 rounded-t-full shadow-sm" />
                                     )}
                                 </button>
                             ))}
                         </div>
 
                         {/* Search Input Area */}
-                        <form onSubmit={handleSearch} className="p-4 md:p-5 flex flex-col md:flex-row gap-4 items-center bg-white rounded-b-[1.8rem] relative">
+                        <form onSubmit={handleSearch} className="p-4 md:p-5 flex flex-col md:flex-row gap-4 items-center bg-transparent rounded-b-[1.8rem] relative">
 
                             {/* Location Dropdown */}
-                            <div className="w-full md:w-[28%] relative border-b md:border-b-0 md:border-r border-gray-100 pb-4 md:pb-0 md:pr-4 group">
-                                <label className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1 block group-hover:text-brand-500 transition-colors">Select City</label>
+                            <div className="w-full md:w-[28%] relative border-b md:border-b-0 md:border-r border-sky-100/80 pb-4 md:pb-0 md:pr-4 group">
+                                <label className="text-[10px] font-black text-sky-600 uppercase tracking-widest mb-1 block group-hover:text-sky-700 transition-colors">Select City</label>
                                 <button
                                     type="button"
                                     onClick={() => setCityDropdownOpen(!cityDropdownOpen)}
-                                    className="flex justify-between items-center w-full text-slate-800 font-bold text-lg hover:text-brand-600 transition-colors"
+                                    className="flex justify-between items-center w-full text-slate-800 font-extrabold text-lg hover:text-sky-600 transition-colors"
                                 >
                                     <span>{selectedCity}</span>
-                                    <ChevronDown className={`w-4 h-4 text-gray-400 transition-transform ${cityDropdownOpen ? 'rotate-180 text-brand-600' : ''}`} />
+                                    <ChevronDown className={`w-4 h-4 text-sky-500 transition-transform duration-300 ${cityDropdownOpen ? 'rotate-180' : ''}`} />
                                 </button>
 
                                 {cityDropdownOpen && (
-                                    <div className="absolute top-[calc(100%+12px)] left-0 w-64 bg-white rounded-2xl shadow-xl border border-slate-100 p-2 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
-                                        <div className="text-[11px] font-black uppercase text-slate-400 px-3 py-1.5 tracking-wider">
+                                    <div className="absolute top-[calc(100%+12px)] left-0 w-64 glass-panel rounded-2xl shadow-2xl border border-white/80 p-2 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
+                                        <div className="text-[11px] font-black uppercase text-sky-600 px-3 py-1.5 tracking-wider flex items-center gap-1.5">
+                                            <span className="w-1.5 h-1.5 rounded-full bg-sky-500 animate-ping"></span>
                                             Active Regions
                                         </div>
                                         {HERO_CITIES.map((c) => (
@@ -298,14 +300,14 @@ const HeroSearch = () => {
                                                     setSelectedCity(c.id);
                                                     setCityDropdownOpen(false);
                                                 }}
-                                                className={`w-full flex items-center justify-between px-3 py-2 rounded-xl text-sm font-bold transition-colors ${
+                                                className={`w-full flex items-center justify-between px-3 py-2.5 rounded-xl text-sm font-bold transition-colors ${
                                                     selectedCity === c.id
-                                                        ? 'bg-brand-50 text-brand-700'
-                                                        : 'text-slate-700 hover:bg-slate-50'
+                                                        ? 'bg-sky-50 text-sky-700'
+                                                        : 'text-slate-700 hover:bg-sky-50/60'
                                                 }`}
                                             >
                                                 <span>{c.label}</span>
-                                                <span className="text-[11px] font-bold text-slate-400 bg-slate-100 px-2 py-0.5 rounded-full">
+                                                <span className="text-[11px] font-black text-sky-600 bg-sky-100/80 px-2 py-0.5 rounded-full">
                                                     {c.badge}
                                                 </span>
                                             </button>
@@ -316,7 +318,7 @@ const HeroSearch = () => {
 
                             {/* Text Input */}
                             <div className="flex-1 w-full relative group">
-                                <label className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1 block group-hover:text-brand-500 transition-colors">Search Location, Project or Builder</label>
+                                <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1 block group-hover:text-sky-600 transition-colors">Search Location, Project or Builder</label>
                                 <input
                                     type="text"
                                     placeholder={`Try "3 BHK in Baner" or "VTP Realty"`}
@@ -329,16 +331,16 @@ const HeroSearch = () => {
 
                                 {/* Smart Suggestions Dropdown */}
                                 {showSuggestions && (
-                                    <div className="absolute top-[calc(100%+20px)] left-[-20px] right-[-20px] bg-white rounded-2xl shadow-xl shadow-slate-200/50 border border-gray-100 p-3.5 z-50">
-                                        <h4 className="font-sans font-extrabold text-xs text-slate-400 px-3 py-1 uppercase tracking-wider flex items-center justify-between">
+                                    <div className="absolute top-[calc(100%+20px)] left-[-20px] right-[-20px] glass-panel rounded-3xl shadow-2xl border border-white/80 p-4 z-50 animate-in fade-in duration-200">
+                                        <h4 className="font-sans font-extrabold text-xs text-sky-700 px-3 py-1 uppercase tracking-wider flex items-center justify-between">
                                             <span>Featured Prime Localities</span>
-                                            <span className="text-[10px] text-brand-600 font-bold lowercase">★ prime corridors</span>
+                                            <span className="text-[10px] text-sky-600 font-bold lowercase">★ prime corridors</span>
                                         </h4>
-                                        <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 mt-1.5">
+                                        <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 mt-2">
                                             {['Hinjewadi', 'Baner', 'Wakad', 'Balewadi', 'Punawale', 'Tathawade', 'Kharadi', 'Aundh', 'Pashan', 'Bhugaon', 'Bavdhan', 'Kothrud'].map(loc => (
                                                 <div
                                                     key={loc}
-                                                    className="px-3 py-2 hover:bg-brand-50 hover:text-brand-700 rounded-xl cursor-pointer flex items-center gap-2.5 transition-colors border border-transparent hover:border-brand-200"
+                                                    className="px-3 py-2 hover:bg-sky-50/80 hover:text-sky-700 rounded-xl cursor-pointer flex items-center gap-2.5 transition-colors border border-transparent hover:border-sky-200"
                                                     onClick={() => setSearchQuery(loc)}
                                                 >
                                                     <img
@@ -356,13 +358,13 @@ const HeroSearch = () => {
                                 )}
                             </div>
 
-                            {/* Search Button */}
+                            {/* Search Button with Liquid Wave Ripple */}
                             <button
                                 type="submit"
-                                className="w-full md:w-auto bg-gradient-to-r from-brand-600 to-brand-500 hover:from-brand-700 hover:to-brand-600 text-white font-bold py-4 px-10 rounded-[1.2rem] shadow-xl shadow-brand-500/30 transition-all hover:scale-105 active:scale-95 flex items-center justify-center gap-2 text-md"
+                                className="water-btn w-full md:w-auto bg-gradient-to-r from-sky-500 via-blue-600 to-indigo-600 hover:from-sky-400 hover:to-blue-500 text-white font-black py-4 px-10 rounded-[1.4rem] shadow-xl shadow-sky-500/25 transition-all flex items-center justify-center gap-2 text-base"
                             >
                                 <Search className="w-5 h-5" />
-                                Search
+                                <span>Search</span>
                             </button>
                         </form>
                     </div>

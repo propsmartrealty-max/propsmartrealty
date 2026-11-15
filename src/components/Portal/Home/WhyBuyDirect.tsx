@@ -44,45 +44,45 @@ const WhyBuyDirect: React.FC = () => {
     ];
 
     return (
-        <section className="py-14 bg-gradient-to-b from-white via-slate-50 to-white border-y border-slate-200/60 relative overflow-hidden">
+        <section className="py-16 bg-transparent relative overflow-hidden">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
                 {/* Header */}
                 <div className="text-center max-w-3xl mx-auto mb-12">
-                    <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-800 text-xs font-black uppercase tracking-wider mb-3">
-                        <Sparkles className="w-3.5 h-3.5 text-emerald-600" />
+                    <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full glass-pill text-emerald-800 text-xs font-black uppercase tracking-wider mb-3 border border-emerald-300/60 shadow-2xs">
+                        <Sparkles className="w-3.5 h-3.5 text-emerald-600 animate-pulse" />
                         <span>The PROPSMART Advantage</span>
                     </div>
                     <h2 className="text-3xl md:text-4xl font-black text-slate-900 tracking-tight">
-                        Why Buy Directly with Builder on <span className="text-amber-600">PROPSMART REALTY</span>?
+                        Why Buy Directly with Builder on <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-600 via-cyan-500 to-blue-700">PROPSMART REALTY</span>?
                     </h2>
                     <p className="mt-3 text-base md:text-lg text-slate-600 font-medium">
                         We eliminated real estate brokerages to connect Pune homebuyers straight to authorized developer sales teams with complete transparency and zero commission.
                     </p>
                 </div>
 
-                {/* 4 Pillars Grid */}
+                {/* 4 Pillars Grid with Glassmorphism */}
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                     {pillars.map((p, idx) => (
                         <div
                             key={idx}
-                            className={`rounded-2xl p-6 bg-gradient-to-br ${p.color} border ${p.border} shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1 flex flex-col justify-between`}
+                            className="glass-panel water-card-hover rounded-3xl p-6 border border-white/80 shadow-[0_8px_32px_rgba(14,165,233,0.06)] hover:border-sky-300 flex flex-col justify-between"
                         >
                             <div>
                                 <div className="flex items-center justify-between mb-4">
-                                    <div className="w-12 h-12 rounded-xl bg-white shadow-md flex items-center justify-center">
+                                    <div className="w-12 h-12 rounded-2xl bg-white/90 backdrop-blur-md shadow-md flex items-center justify-center border border-white/80">
                                         {p.icon}
                                     </div>
-                                    <span className="text-[10px] font-black uppercase tracking-wider bg-white/90 text-slate-800 px-2.5 py-1 rounded-full border border-slate-200 shadow-2xs">
+                                    <span className="text-[10px] font-black uppercase tracking-wider glass-pill text-slate-800 px-2.5 py-1 rounded-full border border-white/90 shadow-2xs">
                                         {p.badge}
                                     </span>
                                 </div>
                                 <h3 className="text-lg font-black text-slate-900 mb-2">{p.title}</h3>
-                                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">{p.desc}</p>
+                                <p className="text-xs md:text-sm text-slate-600 leading-relaxed font-medium">{p.desc}</p>
                             </div>
 
-                            <div className="mt-5 pt-4 border-t border-slate-200/60 flex items-center justify-between text-xs font-bold text-slate-800">
-                                <span className="flex items-center gap-1 text-emerald-700 font-extrabold">
-                                    <CheckCircle2 className="w-3.5 h-3.5" />
+                            <div className="mt-5 pt-4 border-t border-sky-100/60 flex items-center justify-between text-xs font-bold text-slate-800">
+                                <span className="flex items-center gap-1.5 text-emerald-700 font-extrabold">
+                                    <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
                                     {p.highlight}
                                 </span>
                             </div>

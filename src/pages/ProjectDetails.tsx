@@ -32,6 +32,7 @@ import TransitConnectivity from '../components/Portal/Infographics/TransitConnec
 import AmenitiesInfographic from '../components/Portal/Infographics/AmenitiesInfographic';
 import SpecificationsInfographic from '../components/Portal/Infographics/SpecificationsInfographic';
 import { getMahaRERAVerificationUrl } from '../utils/qrUtils';
+import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
 
 const resolveProjectFromList = (searchSlug: string | undefined, list: Project[]): Project | undefined => {
     if (!searchSlug || !list || list.length === 0) return undefined;
@@ -463,7 +464,8 @@ const ProjectDetails = () => {
     };
 
     return (
-        <div className="min-h-screen bg-slate-50 font-sans">
+        <div className="min-h-screen bg-slate-50/60 font-sans relative">
+            <WaterAmbientBackground />
             <SEO
                 title={seoTitle}
                 description={seoDesc}
@@ -587,7 +589,7 @@ const ProjectDetails = () => {
 
             <PortalNavbar variant="colored" />
             {/* Breadcrumbs Area */}
-            <div className="bg-white border-b border-gray-100 pt-24 sm:pt-28">
+            <div className="bg-white/70 backdrop-blur-xl border-b border-white/60 pt-24 sm:pt-28">
                 <div className="max-w-7xl mx-auto px-4 py-3">
                     <Breadcrumbs items={[
                         { label: project.city || 'Pune', path: "/search?city=" + encodeURIComponent(project.city || 'Pune') },
@@ -597,37 +599,37 @@ const ProjectDetails = () => {
                 </div>
             </div>
 
-            {/* Hero Image & Header */}
-            <div className="relative h-[450px] md:h-[550px] w-full group">
+            {/* Hero Image & Header with Floating Glass Cockpit */}
+            <div className="relative h-[450px] md:h-[550px] w-full group overflow-hidden">
                 <img
                     src={getOptimizedImageUrl(project.image, 1200)}
                     alt={project.title}
                     {...({ fetchpriority: 'high' } as any)}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000 ease-out"
                     onError={(e) => {
                         e.currentTarget.src = '/images/placeholder-property.svg';
                     }}
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/40 to-transparent opacity-90" />
+                <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-transparent opacity-90" />
 
-                <div className="absolute bottom-0 left-0 w-full p-6 md:p-12 text-white">
-                    <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-end justify-between gap-6">
+                <div className="absolute bottom-0 left-0 w-full p-4 sm:p-6 md:p-10 text-white">
+                    <div className="max-w-7xl mx-auto glass-panel-dark rounded-3xl p-6 md:p-8 border border-white/20 shadow-2xl backdrop-blur-2xl flex flex-col md:flex-row md:items-end justify-between gap-6">
                         <div>
                             <div className="flex gap-2 mb-4 flex-wrap">
-                                <span className="bg-emerald-500 text-white text-xs font-black px-3 py-1 rounded-full uppercase tracking-wide shadow-md flex items-center gap-1.5 border border-emerald-400">
+                                <span className="bg-emerald-500/90 backdrop-blur-md text-white text-xs font-black px-3 py-1 rounded-full uppercase tracking-wide shadow-md flex items-center gap-1.5 border border-emerald-400">
                                     <span className="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
                                     100% Brokerage Free
                                 </span>
-                                <span className="bg-amber-500 text-slate-900 text-xs font-black px-3 py-1 rounded-full uppercase tracking-wide shadow-md flex items-center gap-1.5 border border-amber-300">
+                                <span className="bg-amber-500/90 backdrop-blur-md text-slate-900 text-xs font-black px-3 py-1 rounded-full uppercase tracking-wide shadow-md flex items-center gap-1.5 border border-amber-300">
                                     🏢 Buy Directly with Builder
                                 </span>
-                                <span className="bg-blue-600 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
+                                <span className="bg-sky-600/90 backdrop-blur-md text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
                                     {project.status}
                                 </span>
-                                <span className="bg-white/20 backdrop-blur text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
+                                <span className="bg-white/20 backdrop-blur-md text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide border border-white/20">
                                     Project RERA: {project.reraId || 'Available on Request'}
                                 </span>
-                                <span className="bg-emerald-500/80 backdrop-blur text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
+                                <span className="bg-emerald-500/80 backdrop-blur-md text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
                                     {project.type}
                                 </span>
                                 <DealBadge
@@ -636,21 +638,21 @@ const ProjectDetails = () => {
                                     className="border-white/20 text-white bg-white/20 backdrop-blur shadow-sm"
                                 />
                             </div>
-                            <h1 className="text-4xl md:text-5xl font-bold mb-2">{project.title}</h1>
-                            <div className="flex items-center gap-2 text-gray-200 text-lg">
-                                <MapPin className="w-5 h-5 text-amber-400" />
+                            <h1 className="text-3xl md:text-5xl font-black mb-2 tracking-tight">{project.title}</h1>
+                            <div className="flex items-center gap-2 text-sky-200 text-base md:text-lg">
+                                <MapPin className="w-5 h-5 text-sky-400 animate-pulse" />
                                 <span className="font-sans font-bold">{project.location}, {project.city || 'Pune'}</span>
                             </div>
                         </div>
-                        <div className="flex flex-col md:items-end gap-2">
-                            <p className="text-sm text-gray-300 uppercase tracking-widest font-semibold">Starting Price</p>
-                            <p className="text-4xl font-bold text-white mb-2">{project.exactPrice || project.priceRange}</p>
-                            <div className="flex gap-3">
-                                <button className="bg-white/10 hover:bg-white/20 backdrop-blur p-2 rounded-full transition-colors">
-                                    <Share2 className="w-5 h-5" />
+                        <div className="flex flex-col md:items-end gap-2 shrink-0">
+                            <p className="text-xs text-sky-300 uppercase tracking-widest font-black">Starting Price</p>
+                            <p className="text-3xl md:text-4xl font-black text-white mb-1">{project.exactPrice || project.priceRange}</p>
+                            <div className="flex gap-2.5">
+                                <button className="water-btn bg-white/15 hover:bg-white/30 backdrop-blur-md p-2.5 rounded-full transition-all border border-white/25 text-white" title="Share Project">
+                                    <Share2 className="w-4 h-4" />
                                 </button>
-                                <button className="bg-white/10 hover:bg-white/20 backdrop-blur p-2 rounded-full transition-colors">
-                                    <Heart className="w-5 h-5" />
+                                <button className="water-btn bg-white/15 hover:bg-white/30 backdrop-blur-md p-2.5 rounded-full transition-all border border-white/25 text-white" title="Save to Favorites">
+                                    <Heart className="w-4 h-4 text-rose-400" />
                                 </button>
                             </div>
                         </div>
@@ -659,7 +661,7 @@ const ProjectDetails = () => {
             </div >
 
             {/* Direct with Builder Trust Banner */}
-            <div className="bg-gradient-to-r from-emerald-950 via-slate-900 to-emerald-950 text-white py-2.5 px-4 border-b border-emerald-500/20">
+            <div className="bg-gradient-to-r from-slate-950/95 via-sky-950/90 to-slate-950/95 backdrop-blur-xl text-white py-3 px-4 border-b border-sky-400/20 shadow-glass">
                 <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2.5 text-xs">
                     <div className="flex items-center gap-2">
                         <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
@@ -676,10 +678,10 @@ const ProjectDetails = () => {
                 </div>
             </div>
 
-            {/* Synchronized Sticky Navigation */}
-            <div className="sticky top-[72px] z-40 bg-white/95 backdrop-blur-md shadow-xs border-b border-gray-200">
+            {/* Synchronized Sticky Navigation Dock */}
+            <div className="sticky top-[68px] z-40 bg-white/75 backdrop-blur-2xl shadow-[0_8px_32px_0_rgba(14,165,233,0.08)] border-b border-white/70 py-2.5">
                 <div className="max-w-7xl mx-auto px-4">
-                    <div className="flex gap-2 overflow-x-auto no-scrollbar py-2.5">
+                    <div className="flex gap-2 overflow-x-auto no-scrollbar py-1">
                         {[
                             { id: 'rera-passport', label: 'RERA Passport' },
                             { id: 'overview', label: 'Overview' },
@@ -701,8 +703,8 @@ const ProjectDetails = () => {
                                 onClick={() => scrollToSection(id)}
                                 className={`px-3.5 py-1.5 rounded-xl font-bold text-xs whitespace-nowrap transition-all ${
                                     activeSection === id
-                                        ? 'bg-slate-900 text-white shadow-sm'
-                                        : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
+                                        ? 'bg-gradient-to-r from-sky-600 via-blue-600 to-indigo-600 text-white shadow-md shadow-sky-500/25'
+                                        : 'glass-pill text-slate-700 hover:text-sky-600 hover:bg-sky-50/70 border-white/60'
                                 }`}
                             >
                                 {label}
@@ -728,9 +730,12 @@ const ProjectDetails = () => {
                         />
                     </div>
 
-                    {/* Overview */}
-                    <section id="overview" className="scroll-mt-40">
-                        <h2 className="text-2xl font-bold text-slate-800 mb-6">About {project.title}</h2>
+                    {/* Overview with Glassmorphism */}
+                    <section id="overview" className="glass-panel rounded-3xl p-6 sm:p-8 border border-white/80 shadow-[0_8px_32px_rgba(14,165,233,0.06)] scroll-mt-40">
+                        <div className="flex items-center gap-2 mb-6">
+                            <span className="w-2.5 h-2.5 rounded-full bg-sky-500 animate-pulse"></span>
+                            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">About {project.title}</h2>
+                        </div>
                         <div className="prose max-w-none text-slate-600 leading-relaxed mb-8">
                             <div>
                                 <p className={`transition-all duration-300 ${!activeSection.includes('overview') ? '' : ''}`}>
@@ -740,8 +745,8 @@ const ProjectDetails = () => {
                         </div>
 
                         {/* Infographic Township Architecture Overview */}
-                        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 bg-white p-4 sm:p-5 rounded-3xl border border-slate-200/90 shadow-2xs">
-                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3.5 bg-white/60 backdrop-blur-md p-4 sm:p-5 rounded-3xl border border-white/80 shadow-2xs">
+                            <div className="p-3.5 rounded-2xl bg-white/70 backdrop-blur-sm border border-white/80 flex items-center gap-3 transition-all hover:border-sky-300 hover:shadow-sm">
                                 <div className="w-10 h-10 rounded-xl bg-emerald-50 text-emerald-600 flex items-center justify-center shrink-0 border border-emerald-100">
                                     <Trees className="w-5 h-5" />
                                 </div>
@@ -751,7 +756,7 @@ const ProjectDetails = () => {
                                 </div>
                             </div>
 
-                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                            <div className="p-3.5 rounded-2xl bg-white/70 backdrop-blur-sm border border-white/80 flex items-center gap-3 transition-all hover:border-sky-300 hover:shadow-sm">
                                 <div className="w-10 h-10 rounded-xl bg-indigo-50 text-indigo-600 flex items-center justify-center shrink-0 border border-indigo-100">
                                     <Building2 className="w-5 h-5" />
                                 </div>
@@ -761,7 +766,7 @@ const ProjectDetails = () => {
                                 </div>
                             </div>
 
-                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                            <div className="p-3.5 rounded-2xl bg-white/70 backdrop-blur-sm border border-white/80 flex items-center gap-3 transition-all hover:border-sky-300 hover:shadow-sm">
                                 <div className="w-10 h-10 rounded-xl bg-teal-50 text-teal-600 flex items-center justify-center shrink-0 border border-teal-100">
                                     <Leaf className="w-5 h-5" />
                                 </div>
@@ -771,7 +776,7 @@ const ProjectDetails = () => {
                                 </div>
                             </div>
 
-                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                            <div className="p-3.5 rounded-2xl bg-white/70 backdrop-blur-sm border border-white/80 flex items-center gap-3 transition-all hover:border-sky-300 hover:shadow-sm">
                                 <div className="w-10 h-10 rounded-xl bg-amber-50 text-amber-600 flex items-center justify-center shrink-0 border border-amber-100">
                                     <Home className="w-5 h-5" />
                                 </div>
@@ -781,7 +786,7 @@ const ProjectDetails = () => {
                                 </div>
                             </div>
 
-                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                            <div className="p-3.5 rounded-2xl bg-white/70 backdrop-blur-sm border border-white/80 flex items-center gap-3 transition-all hover:border-sky-300 hover:shadow-sm">
                                 <div className="w-10 h-10 rounded-xl bg-blue-50 text-blue-600 flex items-center justify-center shrink-0 border border-blue-100">
                                     <Activity className="w-5 h-5" />
                                 </div>
@@ -791,7 +796,7 @@ const ProjectDetails = () => {
                                 </div>
                             </div>
 
-                            <div className="p-3.5 rounded-2xl bg-slate-50 border border-slate-100/80 flex items-center gap-3">
+                            <div className="p-3.5 rounded-2xl bg-white/70 backdrop-blur-sm border border-white/80 flex items-center gap-3 transition-all hover:border-sky-300 hover:shadow-sm">
                                 <div className="w-10 h-10 rounded-xl bg-purple-50 text-purple-600 flex items-center justify-center shrink-0 border border-purple-100">
                                     <Calendar className="w-5 h-5" />
                                 </div>
@@ -813,13 +818,13 @@ const ProjectDetails = () => {
 
                     {/* Master Layout */}
                     {project.masterLayout && (
-                        <section id="master-layout" className="scroll-mt-40">
+                        <section id="master-layout" className="glass-panel rounded-3xl p-6 sm:p-8 border border-white/80 shadow-[0_8px_32px_rgba(14,165,233,0.06)] scroll-mt-40">
                             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6">
                                 <div>
-                                    <span className="text-[11px] font-extrabold uppercase tracking-widest text-brand-600 bg-brand-50 border border-brand-200 px-3 py-1 rounded-full inline-block mb-2">
+                                    <span className="text-[11px] font-extrabold uppercase tracking-widest text-sky-700 bg-sky-50 border border-sky-200 px-3 py-1 rounded-full inline-block mb-2">
                                         Architectural Master Plan • Sanctioned Layout
                                     </span>
-                                    <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight">Master Layout</h2>
+                                    <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">Master Layout</h2>
                                 </div>
                                 <div className="flex items-center gap-2">
                                     <button
@@ -838,7 +843,7 @@ const ProjectDetails = () => {
                                                 type: 'master-layout'
                                             });
                                         }}
-                                        className="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs uppercase tracking-wider transition-all shadow-md"
+                                        className="water-btn inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs uppercase tracking-wider transition-all shadow-md"
                                     >
                                         <Maximize2 className="w-3.5 h-3.5 text-amber-400" />
                                         <span>View Fullscreen</span>
@@ -846,7 +851,7 @@ const ProjectDetails = () => {
                                     <a
                                         href={project.masterLayout}
                                         download={`${project.slug}-master-layout.webp`}
-                                        className="p-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 transition-colors"
+                                        className="water-btn p-2 rounded-xl bg-white/80 hover:bg-white text-slate-700 border border-slate-200/80 transition-colors shadow-2xs"
                                         title="Download Master Layout Image"
                                     >
                                         <Download className="w-4 h-4" />
@@ -854,7 +859,7 @@ const ProjectDetails = () => {
                                 </div>
                             </div>
 
-                            <div className="bg-white p-4 sm:p-6 rounded-3xl border border-slate-200/80 shadow-sm relative group overflow-hidden">
+                            <div className="bg-white/80 backdrop-blur-md p-4 sm:p-6 rounded-3xl border border-white/80 shadow-sm relative group overflow-hidden">
                                 <div 
                                     className="relative rounded-2xl overflow-hidden bg-slate-950 aspect-[16/10] sm:aspect-[16/9] cursor-zoom-in"
                                     onClick={() => {
@@ -888,22 +893,22 @@ const ProjectDetails = () => {
                                 </div>
 
                                 {/* Master Site Plan Highlights Grid */}
-                                <div className="mt-6 grid grid-cols-2 sm:grid-cols-4 gap-3 pt-6 border-t border-slate-100">
-                                    <div className="p-3 bg-slate-50 rounded-xl border border-slate-100">
+                                <div className="mt-6 grid grid-cols-2 sm:grid-cols-4 gap-3 pt-6 border-t border-slate-100/80">
+                                    <div className="p-3 bg-white/70 backdrop-blur-sm rounded-2xl border border-white/80 shadow-2xs">
                                         <span className="text-[10px] uppercase font-extrabold text-slate-400 block tracking-wider">Master Parcel</span>
                                         <span className="font-extrabold text-sm text-slate-900 mt-0.5 block">10+ Acres Land</span>
                                     </div>
-                                    <div className="p-3 bg-slate-50 rounded-xl border border-slate-100">
+                                    <div className="p-3 bg-white/70 backdrop-blur-sm rounded-2xl border border-white/80 shadow-2xs">
                                         <span className="text-[10px] uppercase font-extrabold text-slate-400 block tracking-wider">Open Space</span>
                                         <span className="font-extrabold text-sm text-emerald-700 mt-0.5 block">75% Landscaped</span>
                                     </div>
-                                    <div className="p-3 bg-slate-50 rounded-xl border border-slate-100">
+                                    <div className="p-3 bg-white/70 backdrop-blur-sm rounded-2xl border border-white/80 shadow-2xs">
                                         <span className="text-[10px] uppercase font-extrabold text-slate-400 block tracking-wider">Access Road</span>
                                         <span className="font-extrabold text-sm text-slate-900 mt-0.5 block">24m DP Sector Road</span>
                                     </div>
-                                    <div className="p-3 bg-slate-50 rounded-xl border border-slate-100">
+                                    <div className="p-3 bg-white/70 backdrop-blur-sm rounded-2xl border border-white/80 shadow-2xs">
                                         <span className="text-[10px] uppercase font-extrabold text-slate-400 block tracking-wider">Security</span>
-                                        <span className="font-extrabold text-sm text-blue-700 mt-0.5 block">3-Tier Gated Access</span>
+                                        <span className="font-extrabold text-sm text-sky-700 mt-0.5 block">3-Tier Gated Access</span>
                                     </div>
                                 </div>
                             </div>
@@ -917,27 +922,27 @@ const ProjectDetails = () => {
                         />
                     </div>
 
-                    {/* Floor Plans Section */}
+                    {/* Floor Plans Section with Glassmorphism */}
                     {resolvedFloorPlans.length > 0 && (
-                        <section id="floor-plans" className="scroll-mt-40">
+                        <section id="floor-plans" className="glass-panel rounded-3xl p-6 sm:p-8 border border-white/80 shadow-[0_8px_32px_rgba(14,165,233,0.06)] scroll-mt-40">
                             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6">
                                 <div>
-                                    <span className="text-[11px] font-extrabold uppercase tracking-widest text-blue-700 bg-blue-50 border border-blue-200 px-3 py-1 rounded-full inline-block mb-2">
+                                    <span className="text-[11px] font-extrabold uppercase tracking-widest text-sky-700 bg-sky-50 border border-sky-200 px-3 py-1 rounded-full inline-block mb-2">
                                         Architectural Layouts • High Resolution
                                     </span>
-                                    <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight">Floor Plans</h2>
+                                    <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">Floor Plans</h2>
                                 </div>
 
                                 {/* Plan Filter Tabs */}
-                                <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar p-1 bg-slate-100 rounded-xl">
+                                <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar p-1.5 bg-white/70 backdrop-blur-md rounded-2xl border border-white/80 shadow-2xs">
                                     {['All Plans', ...Array.from(new Set(resolvedFloorPlans.map(p => p.bhk)))].map((tab) => (
                                         <button
                                             key={tab}
                                             onClick={() => setFloorPlanFilter(tab)}
-                                            className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all whitespace-nowrap ${
+                                            className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap ${
                                                 floorPlanFilter === tab
-                                                    ? 'bg-white text-slate-900 shadow-sm'
-                                                    : 'text-slate-600 hover:text-slate-900'
+                                                    ? 'bg-gradient-to-r from-sky-600 to-blue-600 text-white shadow-sm'
+                                                    : 'text-slate-600 hover:text-sky-600'
                                             }`}
                                         >
                                             {tab}
@@ -950,12 +955,12 @@ const ProjectDetails = () => {
                                 {filteredFloorPlans.map((plan, i) => (
                                     <div 
                                         key={i} 
-                                        className="bg-white rounded-3xl border border-slate-200/80 shadow-sm hover:shadow-xl transition-all duration-300 overflow-hidden group flex flex-col justify-between"
+                                        className="glass-card water-card-hover rounded-3xl border border-white/80 shadow-sm hover:shadow-xl transition-all duration-300 overflow-hidden group flex flex-col justify-between"
                                     >
                                         <div>
                                             {/* Floor Plan Image Container with Zoom Trigger */}
                                             <div 
-                                                className="aspect-[4/3] bg-slate-50 relative overflow-hidden p-4 flex items-center justify-center cursor-zoom-in border-b border-slate-100"
+                                                className="aspect-[4/3] bg-white/50 relative overflow-hidden p-4 flex items-center justify-center cursor-zoom-in border-b border-white/80"
                                                 onClick={() => {
                                                     setZoomLevel(1);
                                                     setLightboxImage({
@@ -991,7 +996,7 @@ const ProjectDetails = () => {
                                                     </span>
                                                 </div>
 
-                                                <span className="absolute top-3 left-3 px-2.5 py-1 rounded-full text-[10px] font-extrabold bg-slate-900/85 text-white uppercase tracking-wider backdrop-blur-sm">
+                                                <span className="absolute top-3 left-3 px-2.5 py-1 rounded-full text-[10px] font-extrabold bg-slate-900/85 text-white uppercase tracking-wider backdrop-blur-md border border-white/20">
                                                     {plan.bhk}
                                                 </span>
                                             </div>
@@ -999,10 +1004,10 @@ const ProjectDetails = () => {
                                             {/* Details Header */}
                                             <div className="p-5">
                                                 <div className="flex items-start justify-between gap-2 mb-2">
-                                                    <h3 className="font-extrabold text-lg text-slate-900 group-hover:text-brand-600 transition-colors">
+                                                    <h3 className="font-extrabold text-lg text-slate-900 group-hover:text-sky-600 transition-colors">
                                                         {plan.title}
                                                     </h3>
-                                                    <span className="font-extrabold text-base text-brand-600 shrink-0">
+                                                    <span className="font-black text-base text-sky-600 shrink-0">
                                                         {plan.price}
                                                     </span>
                                                 </div>
@@ -1018,7 +1023,7 @@ const ProjectDetails = () => {
                                                     <span>{plan.balconyArea}</span>
                                                 </div>
 
-                                                <div className="text-[11px] font-medium text-slate-500 bg-slate-50 p-2.5 rounded-xl border border-slate-100">
+                                                <div className="text-[11px] font-medium text-slate-500 bg-white/70 p-2.5 rounded-xl border border-white/80 shadow-2xs">
                                                     🧭 {plan.facing}
                                                 </div>
                                             </div>
@@ -1043,14 +1048,14 @@ const ProjectDetails = () => {
                                                         type: 'floor-plan'
                                                     });
                                                 }}
-                                                className="flex-1 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold text-xs uppercase tracking-wider transition-colors flex items-center justify-center gap-1.5"
+                                                className="water-btn flex-1 py-2.5 rounded-xl bg-white/80 hover:bg-white text-slate-800 font-bold text-xs uppercase tracking-wider transition-colors flex items-center justify-center gap-1.5 border border-slate-200/80 shadow-2xs"
                                             >
-                                                <Maximize2 className="w-3.5 h-3.5" />
+                                                <Maximize2 className="w-3.5 h-3.5 text-sky-600" />
                                                 <span>Fullscreen</span>
                                             </button>
                                             <button
                                                 onClick={() => openWhatsApp(`Hi PROPSMART, please send me high-res floor plans and brochure for ${plan.title} at ${project.title}.`)}
-                                                className="flex-1 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs uppercase tracking-wider transition-colors flex items-center justify-center gap-1.5 shadow-sm"
+                                                className="water-btn flex-1 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs uppercase tracking-wider transition-colors flex items-center justify-center gap-1.5 shadow-sm"
                                             >
                                                 <Phone className="w-3.5 h-3.5" />
                                                 <span>Enquire</span>
@@ -1063,27 +1068,27 @@ const ProjectDetails = () => {
                     )}
 
                     {/* Unit Configurations with Accurate Pricing Matrix */}
-                    <section id="configurations" className="scroll-mt-40">
+                    <section id="configurations" className="glass-panel rounded-3xl p-6 sm:p-8 border border-white/80 shadow-[0_8px_32px_rgba(14,165,233,0.06)] scroll-mt-40">
                         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6">
                             <div>
                                 <span className="text-[11px] font-extrabold uppercase tracking-widest text-emerald-700 bg-emerald-50 border border-emerald-200 px-3 py-1 rounded-full inline-block mb-2">
                                     100% Brokerage Free • Direct Developer Partner
                                 </span>
-                                <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight">
+                                <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                                     Unit Configurations & Pricing
                                 </h2>
                             </div>
 
                             {/* Configuration Filter Tabs */}
-                            <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar p-1 bg-slate-100 rounded-xl">
+                            <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar p-1.5 bg-white/70 backdrop-blur-md rounded-2xl border border-white/80 shadow-2xs">
                                 {['All', ...Array.from(new Set(resolvedConfigs.map(c => c.name.match(/\d+\s*BHK/i)?.[0] || 'Apartment')))].map((tab) => (
                                     <button
                                         key={tab}
                                         onClick={() => setConfigFilter(tab)}
-                                        className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all whitespace-nowrap ${
+                                        className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap ${
                                             configFilter === tab
-                                                ? 'bg-white text-slate-900 shadow-sm'
-                                                : 'text-slate-600 hover:text-slate-900'
+                                                ? 'bg-gradient-to-r from-emerald-600 to-teal-600 text-white shadow-sm'
+                                                : 'text-slate-600 hover:text-emerald-700'
                                         }`}
                                     >
                                         {tab}
@@ -1102,7 +1107,7 @@ const ProjectDetails = () => {
                                 return (
                                     <div 
                                         key={conf.id || i}
-                                        className="bg-white rounded-3xl border border-slate-200/90 hover:border-brand-300 shadow-sm hover:shadow-md transition-all p-5 sm:p-6"
+                                        className="glass-card water-card-hover rounded-3xl border border-white/80 hover:border-sky-300 shadow-sm hover:shadow-md transition-all p-5 sm:p-6"
                                     >
                                         <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
                                             {/* Left: Unit Details */}
@@ -1111,7 +1116,7 @@ const ProjectDetails = () => {
                                                     <span className="text-lg sm:text-xl font-black text-slate-900">
                                                         {conf.name}
                                                     </span>
-                                                    <span className="px-2.5 py-0.5 rounded-full text-xs font-extrabold bg-blue-50 text-blue-700 border border-blue-200">
+                                                    <span className="px-2.5 py-0.5 rounded-full text-xs font-extrabold bg-sky-50 text-sky-700 border border-sky-200">
                                                         RERA Carpet: {conf.carpetArea} sq.ft
                                                     </span>
                                                     {conf.balconyArea > 0 && (
@@ -1129,10 +1134,10 @@ const ProjectDetails = () => {
                                                 </p>
 
                                                 {/* Price Breakdown Matrix */}
-                                                <div className="grid grid-cols-2 sm:grid-cols-4 gap-2.5 p-3 rounded-xl bg-slate-50 border border-slate-100 text-xs">
+                                                <div className="grid grid-cols-2 sm:grid-cols-4 gap-2.5 p-3 rounded-2xl bg-white/70 backdrop-blur-sm border border-white/80 text-xs shadow-2xs">
                                                     <div>
                                                         <span className="text-[10px] text-slate-400 uppercase font-bold block">Base Price</span>
-                                                        <span className="font-extrabold text-slate-900">{formatLakhsCr(conf.basePrice)}</span>
+                                                        <span className="font-black text-slate-900">{formatLakhsCr(conf.basePrice)}</span>
                                                     </div>
                                                     <div>
                                                         <span className="text-[10px] text-slate-400 uppercase font-bold block">Rate / Sq.ft</span>
@@ -1168,16 +1173,16 @@ const ProjectDetails = () => {
                                                                 type: 'floor-plan'
                                                             });
                                                         }}
-                                                        className="w-full sm:w-auto px-4 py-2.5 rounded-xl border border-slate-300 hover:border-brand-500 hover:bg-brand-50 text-slate-700 hover:text-brand-700 font-bold text-xs uppercase tracking-wider transition-all flex items-center justify-center gap-1.5"
+                                                        className="water-btn w-full sm:w-auto px-4 py-2.5 rounded-xl border border-slate-300 hover:border-sky-400 bg-white/80 hover:bg-white text-slate-700 hover:text-sky-700 font-bold text-xs uppercase tracking-wider transition-all flex items-center justify-center gap-1.5 shadow-2xs"
                                                     >
-                                                        <Maximize2 className="w-3.5 h-3.5" />
+                                                        <Maximize2 className="w-3.5 h-3.5 text-sky-600" />
                                                         <span>View Floor Plan</span>
                                                     </button>
                                                 )}
 
                                                 <button
                                                     onClick={() => openWhatsApp(`Hi PROPSMART, please send me the official all-inclusive cost sheet and floor plans for ${conf.name} in ${project.title}.`)}
-                                                    className="w-full sm:w-auto px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-extrabold text-xs uppercase tracking-wider transition-all shadow-md flex items-center justify-center gap-1.5"
+                                                    className="water-btn w-full sm:w-auto px-5 py-2.5 rounded-xl bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-extrabold text-xs uppercase tracking-wider transition-all shadow-md flex items-center justify-center gap-1.5"
                                                 >
                                                     <Phone className="w-3.5 h-3.5" />
                                                     <span>Get Cost Sheet</span>
@@ -1474,15 +1479,15 @@ const ProjectDetails = () => {
                     </section>
                 </div>
 
-                {/* Sidebar Sticky */}
+                {/* Sidebar Sticky with Glassmorphism & Water Effects */}
                 <div className="lg:col-span-1">
-                    <div className="sticky top-24 space-y-6">
+                    <div className="sticky top-28 space-y-6">
 
                         {/* Highlights Card */}
-                        <div className="bg-gradient-to-br from-slate-900 to-slate-800 rounded-2xl shadow-xl overflow-hidden text-white">
+                        <div className="glass-panel-dark rounded-3xl shadow-2xl overflow-hidden text-white border border-white/10">
                             <div className="p-6">
-                                <h3 className="text-lg font-bold mb-4 flex items-center gap-2">
-                                    <Star className="w-5 h-5 text-yellow-400" /> Why this Project?
+                                <h3 className="text-lg font-black mb-4 flex items-center gap-2 text-white">
+                                    <Star className="w-5 h-5 text-amber-400" /> Why this Project?
                                 </h3>
                                 <ul className="space-y-3">
                                     {(project.highlights || [
@@ -1500,33 +1505,33 @@ const ProjectDetails = () => {
                         </div>
 
                         {/* Lead Form Card - Buy Directly with Builder */}
-                        <div className="bg-white rounded-2xl shadow-xl border border-emerald-100 overflow-hidden ring-1 ring-emerald-500/20">
-                            <div className="bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 p-4 text-white text-center">
-                                <div className="inline-flex items-center gap-1.5 bg-white/20 backdrop-blur-sm text-[10px] font-black uppercase tracking-widest px-2.5 py-0.5 rounded-full mb-1.5 border border-white/30 text-white">
+                        <div className="glass-panel-elevated water-border-flow rounded-3xl shadow-2xl overflow-hidden ring-1 ring-emerald-500/30">
+                            <div className="bg-gradient-to-r from-emerald-600/90 via-teal-600/90 to-emerald-700/90 backdrop-blur-md p-5 text-white text-center">
+                                <div className="inline-flex items-center gap-1.5 bg-white/20 backdrop-blur-md text-[10px] font-black uppercase tracking-widest px-3 py-1 rounded-full mb-2 border border-white/30 text-white shadow-2xs">
                                     ✨ 100% Brokerage Free
                                 </div>
-                                <p className="font-black text-lg">Buy Directly With Builder</p>
-                                <p className="text-emerald-100 text-xs">Direct Developer Pricing • Zero Commission • Official Partner</p>
+                                <p className="font-black text-xl tracking-tight">Buy Directly With Builder</p>
+                                <p className="text-emerald-100 text-xs mt-1">Direct Developer Pricing • Zero Commission • Official Desk</p>
                             </div>
                             <div className="p-6 space-y-4">
                                 <input
                                     type="text"
                                     placeholder="Your Name"
-                                    className="w-full px-4 py-3 rounded-xl bg-slate-50 border border-slate-200 focus:outline-none focus:ring-2 focus:ring-emerald-500 transition-all text-sm"
+                                    className="glass-input w-full px-4 py-3 rounded-xl focus:outline-none text-sm text-slate-800 placeholder-slate-400 font-semibold"
                                     value={leadName}
                                     onChange={(e) => setLeadName(e.target.value)}
                                 />
                                 <input
                                     type="tel"
                                     placeholder="+91 Phone Number"
-                                    className="w-full px-4 py-3 rounded-xl bg-slate-50 border border-slate-200 focus:outline-none focus:ring-2 focus:ring-emerald-500 transition-all text-sm"
+                                    className="glass-input w-full px-4 py-3 rounded-xl focus:outline-none text-sm text-slate-800 placeholder-slate-400 font-semibold"
                                     value={leadMobile}
                                     onChange={(e) => setLeadMobile(e.target.value)}
                                 />
                                 <input
                                     type="email"
                                     placeholder="Email Address"
-                                    className="w-full px-4 py-3 rounded-xl bg-slate-50 border border-slate-200 focus:outline-none focus:ring-2 focus:ring-emerald-500 transition-all text-sm"
+                                    className="glass-input w-full px-4 py-3 rounded-xl focus:outline-none text-sm text-slate-800 placeholder-slate-400 font-semibold"
                                     value={leadEmail}
                                     onChange={(e) => setLeadEmail(e.target.value)}
                                 />
@@ -1536,52 +1541,52 @@ const ProjectDetails = () => {
                                         const text = "Hi, I want to connect directly with the developer sales team for " + project.title + " (0% Brokerage).\n\nName: " + leadName + "\nMobile: " + leadMobile;
                                         openWhatsApp(text);
                                     }}
-                                    className="w-full bg-[#25D366] hover:bg-[#20bd5a] text-white font-extrabold py-3.5 rounded-xl shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-2 text-sm"
+                                    className="water-btn w-full bg-[#25D366] hover:bg-[#20bd5a] text-white font-black py-3.5 rounded-xl shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-2 text-sm"
                                 >
                                     Enquire Directly with Builder <img src="/images/whatsapp.svg" className="w-5 h-5 filter invert brightness-0" alt="WA" />
                                 </button>
                                 <a
                                     href="tel:+917744009295"
-                                    className="w-full bg-slate-900 hover:bg-slate-800 text-white font-extrabold py-3.5 rounded-xl shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-2 text-sm"
+                                    className="water-btn w-full bg-slate-900 hover:bg-slate-800 text-white font-black py-3.5 rounded-xl shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-2 text-sm"
                                 >
-                                    Call Developer Sales Desk <Phone className="w-4 h-4" />
+                                    Call Developer Sales Desk <Phone className="w-4 h-4 text-sky-400" />
                                 </a>
 
                                 {/* Value Proposition Highlights */}
-                                <div className="pt-2 border-t border-slate-100 space-y-1.5 text-[11px] text-slate-600">
-                                    <div className="flex items-center gap-1.5 font-semibold text-emerald-800">
-                                        <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
+                                <div className="pt-2 border-t border-slate-200/60 space-y-2 text-[11px] text-slate-600">
+                                    <div className="flex items-center gap-2 font-bold text-emerald-800">
+                                        <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0" />
                                         <span>Zero Brokerage Guaranteed for Homebuyers</span>
                                     </div>
-                                    <div className="flex items-center gap-1.5 font-semibold text-slate-700">
-                                        <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
+                                    <div className="flex items-center gap-2 font-bold text-slate-700">
+                                        <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0" />
                                         <span>Direct Developer Pricing & Sanctioned Inventory</span>
                                     </div>
-                                    <div className="flex items-center gap-1.5 font-semibold text-slate-700">
-                                        <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
+                                    <div className="flex items-center gap-2 font-bold text-slate-700">
+                                        <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0" />
                                         <span>Authorized Developer Sales Partner</span>
                                     </div>
                                 </div>
-                            </div >
-                            <div className="bg-slate-50 p-3 text-center text-[10px] text-slate-500 border-t border-slate-100">
+                            </div>
+                            <div className="bg-white/60 backdrop-blur-sm p-3 text-center text-[10px] text-slate-500 border-t border-white/60 font-semibold">
                                 Direct Developer Allocation • No Middlemen • 100% Transparent
                             </div>
-                        </div >
+                        </div>
 
                         {/* Project MahaRERA & Direct Developer Allocation Card */}
-                        <div className="bg-slate-900 text-white rounded-2xl p-5 border border-slate-800 shadow-md">
+                        <div className="glass-panel-dark text-white rounded-3xl p-5 border border-white/10 shadow-xl">
                             <div className="flex items-center justify-between mb-3">
-                                <span className="text-[10px] font-bold uppercase tracking-wider text-emerald-400 flex items-center gap-1.5">
+                                <span className="text-[10px] font-black uppercase tracking-wider text-emerald-400 flex items-center gap-1.5">
                                     <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
                                     Direct Builder Desk
                                 </span>
-                                <span className="text-[10px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30 px-2 py-0.5 rounded">
+                                <span className="text-[10px] font-extrabold bg-amber-500/20 text-amber-300 border border-amber-500/30 px-2 py-0.5 rounded-full">
                                     0% Brokerage
                                 </span>
                             </div>
                             <div className="flex items-center justify-between">
                                 <div>
-                                    <span className="text-xs text-slate-400 block">Project MahaRERA Reg.</span>
+                                    <span className="text-xs text-slate-400 block font-semibold">Project MahaRERA Reg.</span>
                                     <span className="text-base font-black text-white tracking-wide font-mono">{project.reraId || 'Available on Request'}</span>
                                 </div>
                                 {project.reraId && (
@@ -1595,7 +1600,7 @@ const ProjectDetails = () => {
                                     </a>
                                 )}
                             </div>
-                            <p className="text-[11px] text-slate-400 mt-2 leading-relaxed border-t border-slate-800 pt-2">
+                            <p className="text-[11px] text-slate-400 mt-2 leading-relaxed border-t border-slate-800/80 pt-2">
                                 Official developer pricing & sanctioned allocation with 100% transparent documentation and zero brokerage.
                             </p>
                         </div>
@@ -1639,19 +1644,22 @@ const ProjectDetails = () => {
                         {/* Builder Mini Card */}
                         {
                             builder && (
-                                <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm flex items-center gap-4">
+                                <div className="glass-panel p-6 rounded-3xl border border-white/80 shadow-md flex items-center gap-4">
                                     <img 
                                         src={builder.logo || '/images/builders/godrej.svg'} 
                                         alt={builder.name} 
                                         onError={(e) => {
                                             e.currentTarget.src = '/images/builders/godrej.svg';
                                         }}
-                                        className="w-16 h-16 object-contain p-2 bg-white rounded-lg border border-gray-100" 
+                                        className="w-16 h-16 object-contain p-2 bg-white/80 rounded-2xl border border-white/90 shadow-2xs" 
                                     />
                                     <div>
-                                        <p className="text-xs text-gray-500 uppercase font-bold">Developer</p>
-                                        <h4 className="font-bold text-slate-900">{builder.name}</h4>
-                                        <Link to={"/builder/" + builder.slug} className="text-blue-600 text-sm font-semibold hover:underline">View Profile</Link>
+                                        <p className="text-[10px] text-sky-600 uppercase font-black tracking-wider">Developer</p>
+                                        <h4 className="font-black text-slate-900 text-base">{builder.name}</h4>
+                                        <Link to={"/builder/" + builder.slug} className="text-sky-600 text-xs font-bold hover:underline inline-flex items-center gap-1 mt-0.5">
+                                            <span>View Profile</span>
+                                            <ArrowRight className="w-3 h-3" />
+                                        </Link>
                                     </div>
                                 </div>
                             )

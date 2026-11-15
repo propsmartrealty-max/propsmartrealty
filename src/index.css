@@ -26,11 +26,73 @@
 
 @layer utilities {
   .glass {
-    @apply bg-white/70 backdrop-blur-lg border border-white/20 shadow-glass;
+    @apply bg-white/75 backdrop-blur-xl border border-white/60 shadow-glass;
   }
 
   .glass-dark {
-    @apply bg-slate-900/70 backdrop-blur-lg border border-white/10 shadow-glass;
+    @apply bg-slate-900/80 backdrop-blur-xl border border-white/10 shadow-glass;
+  }
+
+  /* Ultra-Premium Glassmorphism Suite */
+  .glass-panel {
+    background: rgba(255, 255, 255, 0.76);
+    backdrop-filter: blur(18px) saturate(180%);
+    -webkit-backdrop-filter: blur(18px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    box-shadow: 0 8px 32px 0 rgba(14, 165, 233, 0.08), inset 0 1px 1px 0 rgba(255, 255, 255, 0.9);
+  }
+
+  .glass-panel-elevated {
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(24px) saturate(200%);
+    -webkit-backdrop-filter: blur(24px) saturate(200%);
+    border: 1px solid rgba(255, 255, 255, 0.85);
+    box-shadow: 0 20px 45px -10px rgba(14, 165, 233, 0.14), 0 0 25px -5px rgba(6, 182, 212, 0.12), inset 0 1px 2px 0 #ffffff;
+  }
+
+  .glass-panel-dark {
+    background: rgba(15, 23, 42, 0.78);
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    box-shadow: 0 16px 40px 0 rgba(0, 0, 0, 0.35), inset 0 1px 0 0 rgba(255, 255, 255, 0.2);
+  }
+
+  .glass-pill {
+    background: rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(12px) saturate(160%);
+    -webkit-backdrop-filter: blur(12px) saturate(160%);
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    box-shadow: 0 2px 8px 0 rgba(31, 38, 135, 0.06), inset 0 1px 0 0 rgba(255, 255, 255, 0.8);
+  }
+
+  .glass-pill-dark {
+    background: rgba(15, 23, 42, 0.65);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .glass-dock {
+    background: rgba(255, 255, 255, 0.82);
+    backdrop-filter: blur(20px) saturate(190%);
+    -webkit-backdrop-filter: blur(20px) saturate(190%);
+    border: 1px solid rgba(255, 255, 255, 0.75);
+    box-shadow: 0 10px 30px -5px rgba(14, 165, 233, 0.12), inset 0 1px 1px 0 #ffffff;
+  }
+
+  .glass-input {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(226, 232, 240, 0.8);
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .glass-input:focus {
+    background: rgba(255, 255, 255, 0.95);
+    border-color: rgba(14, 165, 233, 0.6);
+    box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.15), 0 4px 16px rgba(14, 165, 233, 0.08);
   }
 
   .text-gradient {
@@ -39,6 +101,10 @@
 
   .text-gradient-gold {
     @apply bg-clip-text text-transparent bg-gradient-to-r from-amber-500 via-yellow-400 to-amber-600;
+  }
+
+  .text-gradient-ocean {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-sky-600 via-cyan-500 to-blue-700;
   }
 
   /* Hide scrollbar for Chrome, Safari and Opera */
@@ -73,17 +139,215 @@
 }
 
 .glass-card {
-  background: rgba(255, 255, 255, 0.7);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.76);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 0 8px 30px 0 rgba(14, 165, 233, 0.06), inset 0 1px 0 0 rgba(255, 255, 255, 0.9);
 }
 
 .glass-card-dark {
-  background: rgba(15, 23, 42, 0.6);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(15, 23, 42, 0.78);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+/* =========================================
+   WATER FLOW & FLUID HYDRODYNAMIC AESTHETICS
+   ========================================= */
+
+/* Ambient Water Fluid Background Layers */
+.water-flow-bg {
+  background: linear-gradient(135deg, #f8fafc 0%, #f0fdfa 25%, #f0f9ff 50%, #eff6ff 75%, #f8fafc 100%);
+  background-size: 400% 400%;
+  animation: waterGradientFlow 18s ease infinite;
+}
+
+@keyframes waterGradientFlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Ambient Liquid Blobs that float smoothly under glass */
+.water-blob {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(60px);
+  opacity: 0.45;
+  pointer-events: none;
+  will-change: transform;
+}
+
+.water-blob-cyan {
+  background: radial-gradient(circle, rgba(6, 182, 212, 0.35) 0%, rgba(14, 165, 233, 0.15) 70%, transparent 100%);
+  animation: waterBlobFloat1 20s ease-in-out infinite alternate;
+}
+
+.water-blob-blue {
+  background: radial-gradient(circle, rgba(59, 130, 246, 0.3) 0%, rgba(37, 99, 235, 0.1) 70%, transparent 100%);
+  animation: waterBlobFloat2 24s ease-in-out infinite alternate;
+}
+
+.water-blob-emerald {
+  background: radial-gradient(circle, rgba(16, 185, 129, 0.25) 0%, rgba(5, 150, 105, 0.08) 70%, transparent 100%);
+  animation: waterBlobFloat3 22s ease-in-out infinite alternate;
+}
+
+@keyframes waterBlobFloat1 {
+  0% { transform: translate(0px, 0px) scale(1); }
+  50% { transform: translate(60px, -40px) scale(1.15); }
+  100% { transform: translate(-40px, 30px) scale(0.9); }
+}
+
+@keyframes waterBlobFloat2 {
+  0% { transform: translate(0px, 0px) scale(1); }
+  50% { transform: translate(-50px, 50px) scale(1.1); }
+  100% { transform: translate(40px, -30px) scale(0.95); }
+}
+
+@keyframes waterBlobFloat3 {
+  0% { transform: translate(0px, 0px) scale(1); }
+  50% { transform: translate(30px, 40px) scale(1.12); }
+  100% { transform: translate(-50px, -30px) scale(0.92); }
+}
+
+/* Flowing Liquid Gradient Border */
+.water-border-flow {
+  position: relative;
+}
+.water-border-flow::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  border-radius: inherit;
+  padding: 2px;
+  background: linear-gradient(115deg, #0ea5e9, #06b6d4, #10b981, #3b82f6, #0ea5e9);
+  background-size: 300% 300%;
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  animation: waterBorderStream 6s ease infinite;
+  pointer-events: none;
+}
+
+@keyframes waterBorderStream {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Water Caustic Light Shimmer across cards and heroes */
+.water-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+.water-shimmer::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -150%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.45) 50%,
+    transparent 100%
+  );
+  transform: skewX(-20deg);
+  pointer-events: none;
+  transition: none;
+}
+.water-shimmer:hover::after {
+  animation: waterShimmerPass 1.2s ease-in-out;
+}
+
+@keyframes waterShimmerPass {
+  0% { left: -150%; }
+  100% { left: 200%; }
+}
+
+/* Liquid Ripple Action Buttons */
+.water-btn {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.water-btn::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 9999px;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.35) 0%, transparent 70%);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s ease-out, height 0.6s ease-out;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.water-btn:hover::before {
+  width: 300%;
+  height: 300%;
+}
+
+.water-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px -5px rgba(14, 165, 233, 0.35);
+}
+
+.water-btn:active {
+  transform: translateY(0);
+}
+
+/* Water Ripple Pulse Ring for Live / RERA / Direct indicators */
+.water-ripple-ring {
+  position: relative;
+}
+.water-ripple-ring::after {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: 9999px;
+  border: 2px solid currentColor;
+  opacity: 0.8;
+  animation: waterRipplePulse 2s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+
+@keyframes waterRipplePulse {
+  0% {
+    transform: scale(0.9);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(1.6);
+    opacity: 0;
+  }
+}
+
+/* Water wave animated divider */
+.water-wave-divider {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  line-height: 0;
+  direction: ltr;
+}
+
+/* Hydrodynamic Card Hover */
+.water-card-hover {
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.water-card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px -15px rgba(14, 165, 233, 0.18), 0 0 20px 0 rgba(6, 182, 212, 0.1);
+  border-color: rgba(56, 189, 248, 0.5);
 }
 
 @keyframes float {

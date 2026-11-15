@@ -2,19 +2,21 @@ import React from 'react';
 import PortalNavbar from '../components/Portal/Navbar';
 import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
+import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
 
 const About = () => {
     return (
-        <div className="min-h-screen bg-slate-50 flex flex-col">
+        <div className="min-h-screen bg-slate-50 flex flex-col relative selection:bg-sky-500 selection:text-white">
+            <WaterAmbientBackground />
             <SEO
                 title="About Us - 100% Brokerage Free | PROPSMART REALTY"
                 description="Learn about PROPSMART REALTY - Pune's leading 100% Brokerage Free platform to buy directly from builders with authorized MahaRERA sales partnerships."
             />
             <PortalNavbar variant="colored" />
 
-            <div className="flex-1 pt-32 pb-12 px-4">
-                <div className="max-w-4xl mx-auto bg-white p-10 rounded-2xl shadow-sm border border-slate-100">
-                    <h1 className="text-4xl font-extrabold text-slate-900 mb-6">About PROPSMART REALTY</h1>
+            <div className="flex-1 pt-32 pb-12 px-4 relative z-10">
+                <div className="max-w-4xl mx-auto glass-panel-elevated p-10 rounded-3xl border border-white/80 shadow-[0_8px_32px_rgba(14,165,233,0.06)]">
+                    <h1 className="text-4xl font-extrabold text-slate-900 mb-6 tracking-tight">About PROPSMART REALTY</h1>
 
                     <div className="prose prose-lg text-slate-600">
                         <p className="lead text-xl">
@@ -30,17 +32,17 @@ const About = () => {
                         </p>
 
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 my-10 not-prose">
-                            <div className="bg-brand-50 p-6 rounded-xl text-center">
-                                <div className="text-3xl font-bold text-brand-600 mb-2">0%</div>
-                                <div className="text-sm font-bold text-brand-800">Brokerage for Buyers</div>
+                            <div className="glass-panel p-6 rounded-2xl text-center border border-white/80 shadow-glass-sm water-card-hover">
+                                <div className="text-3xl font-black bg-gradient-to-r from-sky-600 to-teal-500 bg-clip-text text-transparent mb-2">0%</div>
+                                <div className="text-sm font-bold text-slate-800">Brokerage for Buyers</div>
                             </div>
-                            <div className="bg-brand-50 p-6 rounded-xl text-center">
-                                <div className="text-3xl font-bold text-brand-600 mb-2">100%</div>
-                                <div className="text-sm font-bold text-brand-800">Direct with Builder</div>
+                            <div className="glass-panel p-6 rounded-2xl text-center border border-white/80 shadow-glass-sm water-card-hover">
+                                <div className="text-3xl font-black bg-gradient-to-r from-sky-600 to-teal-500 bg-clip-text text-transparent mb-2">100%</div>
+                                <div className="text-sm font-bold text-slate-800">Direct with Builder</div>
                             </div>
-                            <div className="bg-brand-50 p-6 rounded-xl text-center">
-                                <div className="text-3xl font-bold text-brand-600 mb-2">5000+</div>
-                                <div className="text-sm font-bold text-brand-800">Families Benefited</div>
+                            <div className="glass-panel p-6 rounded-2xl text-center border border-white/80 shadow-glass-sm water-card-hover">
+                                <div className="text-3xl font-black bg-gradient-to-r from-sky-600 to-teal-500 bg-clip-text text-transparent mb-2">5000+</div>
+                                <div className="text-sm font-bold text-slate-800">Families Benefited</div>
                             </div>
                         </div>
 

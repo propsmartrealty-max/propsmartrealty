@@ -13,6 +13,7 @@ import { api } from '../services/api';
 import { PROJECTS } from '../data/mockData';
 import PriceTrendChart from '../components/Portal/MarketIntelligence/PriceTrendChart';
 import { getLocalityImageUrl, PROPSMART_LOCALITIES } from '../utils/localityUtils';
+import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
 
 interface SearchResultsProps {
     forcedLocationSlug?: string;
@@ -112,7 +113,8 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
     const activeCityOrLoc = filterLoc || (selectedCity !== 'All' ? selectedCity : 'Pune');
 
     return (
-        <div className="min-h-screen bg-gray-50 flex flex-col">
+        <div className="min-h-screen bg-slate-50/70 flex flex-col relative">
+            <WaterAmbientBackground />
             <SEO
                 title={effectiveLocationSlug ? `Flats in ${filterLoc} | New Projects & Prices` : `Properties in ${activeCityOrLoc} - Search Results`}
                 description={effectiveLocationSlug
@@ -124,7 +126,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
 
             <div className="max-w-7xl mx-auto px-4 pt-28 pb-12 flex-1 w-full">
                 {/* 100% Brokerage Free & Buy Direct with Builder Banner */}
-                <div className="mb-6 p-4 rounded-2xl bg-gradient-to-r from-emerald-950 via-slate-900 to-emerald-950 text-white flex flex-col sm:flex-row items-center justify-between gap-4 shadow-md border border-emerald-500/25">
+                <div className="mb-6 p-4 rounded-3xl bg-gradient-to-r from-slate-950/95 via-sky-950/90 to-slate-950/95 backdrop-blur-xl text-white flex flex-col sm:flex-row items-center justify-between gap-4 shadow-xl border border-sky-400/25">
                     <div className="flex items-center gap-3">
                         <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse shrink-0"></span>
                         <div>
@@ -138,7 +140,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
                 </div>
 
                 {/* PropertyTech Quick Filter Pills */}
-                <div className="bg-white p-3 rounded-2xl border border-slate-200/90 shadow-2xs mb-6 flex flex-wrap items-center justify-between gap-3">
+                <div className="glass-panel p-3.5 rounded-3xl border border-white/80 shadow-[0_8px_32px_rgba(14,165,233,0.06)] mb-6 flex flex-wrap items-center justify-between gap-3">
                     <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar py-1">
                         <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider px-2 shrink-0">City:</span>
                         {[

@@ -9,6 +9,7 @@ import SEO from '../components/SEO';
 import { CheckCircle2, ShieldCheck, MapPin, Sparkles } from 'lucide-react';
 import LocalityCard from '../components/Portal/LocalityCard';
 import { getLocalityImageUrl, PROPSMART_LOCALITIES } from '../utils/localityUtils';
+import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
 
 import PropertyCard from '../components/Portal/PropertyCard';
 
@@ -36,25 +37,25 @@ const BuildersGrid = ({ builders }: { builders: any[] }) => {
                     <Link
                         to={`/builder/${builder.slug}`}
                         key={builder.id}
-                        className="group relative bg-white border border-slate-200 hover:border-brand-300 rounded-2xl p-3.5 flex flex-col justify-between hover:shadow-xl transition-all duration-300 hover:-translate-y-1.5 shadow-sm"
+                        className="group relative glass-card water-card-hover border border-white/80 hover:border-sky-300 rounded-3xl p-4 flex flex-col justify-between hover:shadow-xl transition-all duration-300 hover:-translate-y-1.5 shadow-sm"
                         title={`View ${builder.name} projects`}
                     >
                         {/* Verified Pill */}
                         <div className="flex items-center justify-between mb-2 px-1">
-                            <span className="inline-flex items-center gap-1 text-[10px] font-sans font-bold text-emerald-700 bg-emerald-50 border border-emerald-200/80 px-2 py-0.5 rounded-full">
+                            <span className="inline-flex items-center gap-1 text-[10px] font-sans font-black text-emerald-700 bg-emerald-50 border border-emerald-200/80 px-2.5 py-0.5 rounded-full">
                                 <CheckCircle2 className="w-2.5 h-2.5 text-emerald-600" /> Verified
                             </span>
                             {builder.trustScore && (
-                                <span className="text-[10px] font-sans font-extrabold text-amber-500">
+                                <span className="text-[10px] font-sans font-black text-amber-500">
                                     ★ {builder.trustScore}
                                 </span>
                             )}
                         </div>
 
-                        {/* Large, High-Visibility Logo Container (Full Color, No Grayscale) */}
-                        <div className="w-full h-24 bg-white rounded-xl flex items-center justify-center p-3 shadow-xs border border-slate-100 group-hover:scale-102 transition-transform">
+                        {/* Large, High-Visibility Logo Container */}
+                        <div className="w-full h-24 bg-white/90 backdrop-blur-md rounded-2xl flex items-center justify-center p-3 shadow-2xs border border-white/90 group-hover:scale-105 transition-transform">
                             {showFallback ? (
-                                <div className="w-full h-full bg-slate-100 rounded-lg flex items-center justify-center">
+                                <div className="w-full h-full bg-slate-100 rounded-xl flex items-center justify-center">
                                     <span className="text-xl font-extrabold text-slate-400 font-sans">{getInitials(builder.name)}</span>
                                 </div>
                             ) : (
@@ -119,35 +120,36 @@ const Directory = () => {
 
 
     return (
-        <div className="min-h-screen bg-slate-50">
+        <div className="min-h-screen bg-slate-50 relative selection:bg-sky-500 selection:text-white">
+            <WaterAmbientBackground />
             <SEO
                 title={view === 'builders' ? "Top Builders in Pune - Buy Directly | PROPSMART REALTY" : "All Property Projects in Pune - 100% Brokerage Free | PROPSMART REALTY"}
                 description="Browse our complete directory of real estate projects and builders in Pune. Buy directly from developers with 100% zero brokerage."
             />
             <PortalNavbar variant="colored" />
 
-            <div className="max-w-7xl mx-auto px-4 pt-28 pb-12">
+            <div className="max-w-7xl mx-auto px-4 pt-28 pb-12 relative z-10">
                 <div className="mb-6">
-                    <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-800 text-xs font-black uppercase tracking-wider mb-2">
+                    <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-800 text-xs font-black uppercase tracking-wider mb-2 backdrop-blur-md">
                         ✨ 100% Brokerage Free • Buy Directly with Builder
                     </div>
                 </div>
-                <div className="flex flex-col md:flex-row items-baseline justify-between mb-8">
-                    <h1 className="text-3xl font-bold text-slate-800">
+                <div className="flex flex-col md:flex-row items-baseline justify-between mb-8 gap-4">
+                    <h1 className="text-3xl font-extrabold text-slate-900 tracking-tight">
                         {view === 'builders' ? 'Pune Real Estate Developers' : 'Pune Real Estate Directory'}
                     </h1>
 
                     {/* View Switcher/Tabs */}
-                    <div className="flex gap-4 mt-4 md:mt-0">
+                    <div className="flex gap-2 p-1 bg-white/70 backdrop-blur-xl border border-white/80 rounded-2xl shadow-glass-sm">
                         <Link
                             to="/directory?view=projects"
-                            className={`px-4 py-2 rounded-lg font-medium transition-colors ${view !== 'builders' ? 'bg-brand-600 text-white shadow-lg' : 'bg-white text-slate-600 hover:bg-slate-100'}`}
+                            className={`px-5 py-2.5 rounded-xl font-sans font-bold text-sm transition-all duration-300 ${view !== 'builders' ? 'water-btn text-white shadow-md' : 'text-slate-600 hover:text-sky-600 hover:bg-white/60'}`}
                         >
                             Projects ({validProjects.length})
                         </Link>
                         <Link
                             to="/directory?view=builders"
-                            className={`px-4 py-2 rounded-lg font-medium transition-colors ${view === 'builders' ? 'bg-brand-600 text-white shadow-lg' : 'bg-white text-slate-600 hover:bg-slate-100'}`}
+                            className={`px-5 py-2.5 rounded-xl font-sans font-bold text-sm transition-all duration-300 ${view === 'builders' ? 'water-btn text-white shadow-md' : 'text-slate-600 hover:text-sky-600 hover:bg-white/60'}`}
                         >
                             Builders ({builders.length})
                         </Link>
@@ -155,8 +157,8 @@ const Directory = () => {
                 </div>
 
                 {/* MahaRERA Compliance Assurance Strip */}
-                <div className="bg-emerald-50 border border-emerald-200/80 rounded-xl p-3 mb-6 flex flex-wrap items-center justify-between gap-3 text-xs text-emerald-900 shadow-sm">
-                    <div className="flex items-center gap-2">
+                <div className="glass-panel border-emerald-200/80 rounded-2xl p-4 mb-8 flex flex-wrap items-center justify-between gap-3 text-xs text-emerald-950 shadow-glass-sm">
+                    <div className="flex items-center gap-2.5">
                         <ShieldCheck className="w-4 h-4 text-emerald-600 shrink-0" />
                         <span><strong>100% MahaRERA Verified Directory:</strong> Curated under PROPSMART REALTY (MahaRERA Reg No: <strong>A031262401295</strong>).</span>
                     </div>
@@ -199,17 +201,17 @@ const Directory = () => {
                                     <Link
                                         key={loc.id}
                                         to={`/search?location=${encodeURIComponent(loc.name)}`}
-                                        className="inline-flex items-center gap-2 px-3.5 py-2 bg-white border border-slate-200 rounded-full text-slate-700 hover:text-brand-600 hover:border-brand-300 hover:shadow-md transition-all shadow-sm group"
+                                        className="inline-flex items-center gap-2 px-3.5 py-2 glass-pill hover:border-sky-300 hover:shadow-md transition-all group"
                                     >
                                         <img
                                             src={getLocalityImageUrl(loc.name)}
                                             alt=""
                                             className="w-5 h-5 rounded-full object-cover border border-slate-200 group-hover:scale-110 transition-transform"
                                         />
-                                        <span className="font-sans font-bold text-sm tracking-tight text-slate-800 group-hover:text-brand-600 transition-colors">
+                                        <span className="font-sans font-bold text-sm tracking-tight text-slate-800 group-hover:text-sky-600 transition-colors">
                                             {loc.name}
                                         </span>
-                                        <span className="font-sans font-bold text-xs bg-slate-100 text-slate-500 px-2 py-0.5 rounded-full group-hover:bg-brand-50 group-hover:text-brand-600 transition-colors">
+                                        <span className="font-sans font-bold text-xs bg-sky-50 text-sky-700 px-2 py-0.5 rounded-full group-hover:bg-sky-600 group-hover:text-white transition-colors">
                                             {loc.count}
                                         </span>
                                     </Link>
