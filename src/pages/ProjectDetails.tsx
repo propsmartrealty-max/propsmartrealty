@@ -86,11 +86,12 @@ const generateDynamicDescription = (project: Project, builder?: Builder, localit
     const builderName = builder?.name || project.builderId || 'a reputed developer';
     const locationName = project.location;
     const title = project.title;
+    const cityName = project.city || 'Pune';
     const configList = (Array.isArray(project.configurations) ? project.configurations : []).join(', ');
     const amenityList = (Array.isArray(project.features) ? project.features : []).slice(0, 8).join(', ');
     const price = project.priceRange;
 
-    const intro = "Discover the epitome of modern living at " + title + ", a premium residential development by " + builderName + ", strategically located in the prime neighborhood of " + locationName + ", Pune. This project is meticulously designed to offer a blend of luxury, comfort, and convenience, making it an ideal choice for homebuyers seeking a quality lifestyle.";
+    const intro = "Discover the epitome of modern living at " + title + ", a premium residential development by " + builderName + ", strategically located in the prime neighborhood of " + locationName + ", " + cityName + ". This project is meticulously designed to offer a blend of luxury, comfort, and convenience, making it an ideal choice for homebuyers seeking a quality lifestyle.";
 
     const configText = "Offering a versatile range of " + configList + " apartments, " + title + " caters to the diverse needs of modern families. Each unit is crafted with precision, ensuring ample natural light, ventilation, and efficient space utilization. The residences are available at an attractive price range starting from " + price + ", providing exceptional value for a property in this sought-after location.";
 
@@ -553,7 +554,7 @@ const ProjectDetails = () => {
                         "mainEntity": (project.faqs && project.faqs.length > 0 ? project.faqs : [
                             {
                                 question: `Where is ${project.title} located?`,
-                                answer: `${project.title} is located in ${project.location}, Pune, offering prime connectivity to IT corridors and transit nodes.`
+                                answer: `${project.title} is located in ${project.location}, ${project.city || 'Pune'}, offering prime connectivity to IT corridors and transit nodes.`
                             },
                             {
                                 question: `What is the price range of ${project.title}?`,
@@ -833,7 +834,7 @@ const ProjectDetails = () => {
                                             setLightboxImage({
                                                 url: project.masterLayout!,
                                                 title: `${project.title} - Master Layout Plan`,
-                                                subtitle: `${project.location}, Pune | MahaRERA: ${project.reraId}`,
+                                                subtitle: `${project.location}, ${project.city || 'Pune'} | MahaRERA: ${project.reraId}`,
                                                 specs: [
                                                     { label: 'Sanctioned Land', value: '10+ Acres Master Planned' },
                                                     { label: 'Open Green Area', value: '75% Open Spaces' },
@@ -867,7 +868,7 @@ const ProjectDetails = () => {
                                         setLightboxImage({
                                             url: project.masterLayout!,
                                             title: `${project.title} - Master Layout Plan`,
-                                            subtitle: `${project.location}, Pune | MahaRERA: ${project.reraId}`,
+                                            subtitle: `${project.location}, ${project.city || 'Pune'} | MahaRERA: ${project.reraId}`,
                                             specs: [
                                                 { label: 'Sanctioned Land', value: '10+ Acres Master Planned' },
                                                 { label: 'Open Green Area', value: '75% Open Spaces' },
@@ -1221,7 +1222,7 @@ const ProjectDetails = () => {
                         <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6 space-y-4">
                             <div className="flex items-center gap-2 text-slate-800 mb-2">
                                 <MapPin className="w-5 h-5 text-brand-600" />
-                                <span className="font-sans font-bold text-lg">{project.location}, Pune</span>
+                                <span className="font-sans font-bold text-lg">{project.location}, {project.city || 'Pune'}</span>
                             </div>
 
                             {/* Phase 5: Price Trend Graph */}
@@ -1376,7 +1377,7 @@ const ProjectDetails = () => {
                             {(project.faqs && project.faqs.length > 0 ? project.faqs : [
                                 {
                                     question: `Where is ${project.title} located?`,
-                                    answer: `${project.title} is located in ${project.location}, Pune, offering prime connectivity to IT corridors and transit nodes.`
+                                    answer: `${project.title} is located in ${project.location}, ${project.city || 'Pune'}, offering prime connectivity to IT corridors and transit nodes.`
                                 },
                                 {
                                     question: `What is the price range of ${project.title}?`,

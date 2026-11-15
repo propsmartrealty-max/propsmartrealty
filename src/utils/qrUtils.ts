@@ -135,6 +135,90 @@ export const getRERAMetadata = (
             carpetAreaEfficiency: '78% Usable Luxury Carpet',
             bankApprovals: ['HDFC Bank', 'SBI', 'ICICI Bank', 'Citibank', 'Axis Bank']
         },
+        'shapoorji-wildernest-sp-kingstown': {
+            sanctionedTowers: '4 High-Rise Towers (G + 22 Storeys), 12 Villaments & 13 Villas',
+            sanctionedLandArea: '130+ Acres Integrated Master Township (SP Kingstown)',
+            reraPossessionDate: 'June 2027 (Tower 1) / March 2029 (Tower 4)',
+            carpetAreaEfficiency: '76% Certified Usable Carpet Area (1,384 sq.ft 3BHK)',
+            bankApprovals: ["State Bank of India", "HDFC Bank", "ICICI Bank", "Axis Bank", "Bajaj Housing Finance"]
+        },
+        'shapoorji-vyomora-hinjewadi': {
+            sanctionedTowers: '4 High-Rise Biophilic Towers (2B + G + 28 Storeys)',
+            sanctionedLandArea: '25 Acres Integrated Township Sector',
+            reraPossessionDate: 'December 2028',
+            carpetAreaEfficiency: '75% Certified Usable Carpet Area',
+            bankApprovals: ["SBI", "HDFC Bank", "ICICI Bank", "Bank of Baroda", "Axis Bank"]
+        },
+        'shapoorji-vanaha-golfland-bavdhan': {
+            sanctionedTowers: '6 Golf-Front Signature Towers (3B + G + 32 Storeys)',
+            sanctionedLandArea: '1,000+ Acres Oxford Valley Master Township',
+            reraPossessionDate: 'June 2027',
+            carpetAreaEfficiency: '78% Luxury Usable Carpet Area',
+            bankApprovals: ["HDFC Bank", "State Bank of India", "ICICI Bank", "Kotak Mahindra Bank", "Axis Bank"]
+        },
+        'shapoorji-vanaha-springs-bavdhan': {
+            sanctionedTowers: '3 Hill-View Towers (G + 22 Storeys)',
+            sanctionedLandArea: '18.5 Acres Hillside Reserve in Bavdhan',
+            reraPossessionDate: 'Ready to Move / Handover in Progress',
+            carpetAreaEfficiency: '74% Usable Carpet Area',
+            bankApprovals: ["SBI", "HDFC Bank", "ICICI Bank", "Bank of Maharashtra"]
+        },
+        'shapoorji-bkc-28-bandra-east': {
+            sanctionedTowers: '1 Boutique Sky Tower (G + 22 Storeys)',
+            sanctionedLandArea: '1.2 Acres Prime Land Parcel in Kherwadi Bandra East',
+            reraPossessionDate: 'Ready to Move / 2025',
+            carpetAreaEfficiency: '75% Usable Carpet Area',
+            bankApprovals: ["HDFC Bank", "ICICI Bank", "State Bank of India", "Axis Bank", "Standard Chartered"]
+        },
+        'shapoorji-the-odyssey-marine-drive': {
+            sanctionedTowers: '1 Iconic High-Rise Sea-Facing Tower (G + 34 Storeys)',
+            sanctionedLandArea: '0.95 Acres Premier South Mumbai Parcel off Marine Drive',
+            reraPossessionDate: 'December 2028',
+            carpetAreaEfficiency: '80% Palatial Usable Carpet Area',
+            bankApprovals: ["HDFC Bank", "ICICI Bank", "SBI", "HSBC", "Standard Chartered"]
+        },
+        'shapoorji-vicinia-powai': {
+            sanctionedTowers: '8 High-Rise Towers (G + 22 Storeys)',
+            sanctionedLandArea: '6.7 Acres Gated Sanctuary in Chandivali Powai',
+            reraPossessionDate: 'Ready to Move with Full OC Received (Zero GST)',
+            carpetAreaEfficiency: '78% Usable Luxury Carpet',
+            bankApprovals: ["HDFC Bank", "SBI", "ICICI Bank", "Kotak Mahindra", "Axis Bank"]
+        },
+        'shapoorji-northern-lights-thane': {
+            sanctionedTowers: '5 High-Rise Sky Towers (G + 47 Storeys including Skyraa)',
+            sanctionedLandArea: '4.8 Acres Landscaped Gated Community on Pokhran Road 2',
+            reraPossessionDate: 'December 2026',
+            carpetAreaEfficiency: '76% Usable Carpet Area',
+            bankApprovals: ["State Bank of India", "HDFC Bank", "ICICI Bank", "Axis Bank", "Bank of India"]
+        },
+        'shapoorji-the-minerva-mahalaxmi': {
+            sanctionedTowers: '1 Super-Tall Luxury Skyscraper (90+ Storeys)',
+            sanctionedLandArea: '2.2 Acres Racecourse Facing Prime Parcel',
+            reraPossessionDate: 'December 2026',
+            carpetAreaEfficiency: '82% Ultra-Luxury Usable Carpet',
+            bankApprovals: ["HDFC Bank", "ICICI Bank", "SBI", "HSBC", "Citibank"]
+        },
+        'joyville-virar-mumbai': {
+            sanctionedTowers: '7 Township Towers (G + 23 Storeys)',
+            sanctionedLandArea: '12.5 Acres Master Planned Community in Virar West',
+            reraPossessionDate: 'Ready to Move & Ongoing Phases',
+            carpetAreaEfficiency: '74% Usable Carpet Area',
+            bankApprovals: ["State Bank of India", "HDFC Bank", "ICICI Bank", "Bank of Baroda"]
+        },
+        'shapoorji-the-canvas-residences-sewri': {
+            sanctionedTowers: '2 Harbour-View Sky Towers (2B + G + 32 Storeys)',
+            sanctionedLandArea: '3.1 Acres Waterfront Parcel in Sewri West',
+            reraPossessionDate: 'December 2026',
+            carpetAreaEfficiency: '76% Usable Carpet Area',
+            bankApprovals: ["SBI", "HDFC Bank", "ICICI Bank", "Axis Bank"]
+        },
+        'shapoorji-the-designate-santacruz': {
+            sanctionedTowers: '1 Boutique Luxury Tower (G + 14 Storeys, 2 Homes/Floor)',
+            sanctionedLandArea: '0.75 Acres Exclusive Parcel in Khar-Santacruz West',
+            reraPossessionDate: 'Ready to Move with Full OC Received (Zero GST)',
+            carpetAreaEfficiency: '79% Certified Usable Carpet Area',
+            bankApprovals: ["HDFC Bank", "ICICI Bank", "SBI", "Kotak Mahindra Bank"]
+        },
         'vtp-bellissimo': {
             sanctionedTowers: '6 Towers (3P + 33 Floors)',
             sanctionedLandArea: '100+ Acres Blue Waters Township',

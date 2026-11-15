@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
+  <defs>
+    <linearGradient id="sp-navy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a192f"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="sp-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c59b27"/>
+      <stop offset="100%" stop-color="#9a7b1c"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Container -->
+  <rect width="380" height="110" rx="16" fill="#ffffff"/>
+  
+  <!-- SP Heritage Monogram Shield -->
+  <g transform="translate(24, 20)">
+    <rect x="4" y="4" width="62" height="62" rx="12" fill="url(#sp-navy)"/>
+    <!-- Interlocking Diamond Geometry -->
+    <path d="M 35 12 L 56 35 L 35 58 L 14 35 Z" fill="none" stroke="url(#sp-gold)" stroke-width="2.5"/>
+    <text x="35" y="43" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="22" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="1">SP</text>
+  </g>
+
+  <!-- Typography -->
+  <text x="104" y="48" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="21" font-weight="800" fill="#0f172a" letter-spacing="-0.3">Shapoorji Pallonji</text>
+  <text x="105" y="74" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="12" font-weight="800" fill="#9a7b1c" letter-spacing="5">REAL ESTATE</text>
+  <line x1="105" y1="84" x2="330" y2="84" stroke="url(#sp-gold)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

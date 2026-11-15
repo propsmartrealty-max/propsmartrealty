@@ -111,12 +111,13 @@ async function run() {
     <priority>0.9</priority>
 `;
         const mainImage = p.heroImage || p.image;
+        const projectCity = p.city || 'Pune';
         if (mainImage) {
             const fullImgUrl = mainImage.startsWith('http') ? mainImage : `${BASE_URL}${mainImage}`;
             sitemapProjectsXml += `    <image:image>
       <image:loc>${escapeXml(fullImgUrl)}</image:loc>
-      <image:title>${escapeXml(p.title)} ${escapeXml(p.location)} Pune</image:title>
-      <image:caption>${escapeXml(p.title)} in ${escapeXml(p.location)}, Pune - 100% Brokerage Free on PROPSMART REALTY (MahaRERA: ${escapeXml(p.reraId || 'Verified')})</image:caption>
+      <image:title>${escapeXml(p.title)} ${escapeXml(p.location)} ${escapeXml(projectCity)}</image:title>
+      <image:caption>${escapeXml(p.title)} in ${escapeXml(p.location)}, ${escapeXml(projectCity)} - 100% Brokerage Free on PROPSMART REALTY (MahaRERA: ${escapeXml(p.reraId || 'Verified')})</image:caption>
     </image:image>
 `;
         }
@@ -160,8 +161,8 @@ async function run() {
             const logoUrl = b.logo.startsWith('http') ? b.logo : `${BASE_URL}${b.logo}`;
             sitemapBuildersXml += `    <image:image>
       <image:loc>${escapeXml(logoUrl)}</image:loc>
-      <image:title>${escapeXml(b.name)} Pune Official Developer Logo</image:title>
-      <image:caption>All ${escapeXml(b.name)} residential township projects in Pune with authorized direct builder partner</image:caption>
+      <image:title>${escapeXml(b.name)} Official Developer Logo</image:title>
+      <image:caption>All ${escapeXml(b.name)} residential township projects with authorized direct builder partner</image:caption>
     </image:image>
 `;
         }
