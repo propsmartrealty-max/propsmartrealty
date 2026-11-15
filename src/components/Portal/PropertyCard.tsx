@@ -117,11 +117,6 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                             <span className="w-1.5 h-1.5 rounded-full bg-emerald-300 animate-pulse"></span>
                             0% Brokerage
                         </span>
-                        {project.status === 'New Launch' && (
-                            <span className="inline-flex items-center text-[10px] font-black px-2 py-0.5 rounded-full backdrop-blur-md bg-amber-500 text-slate-950 border border-amber-300/80 shadow-xs uppercase tracking-wider shrink-0">
-                                New Launch
-                            </span>
-                        )}
                     </div>
 
                     <div className="flex items-center gap-1.5 shrink-0 pointer-events-auto">
@@ -171,14 +166,26 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                     </div>
                 </div>
 
-                {/* Bottom Image Overlay: Clean Possession Badge */}
-                {project.possessionDate && (
-                    <div className="absolute bottom-2.5 right-2.5 z-10 pointer-events-none">
-                        <span className="text-[9.5px] font-bold px-2 py-0.5 rounded-md bg-slate-950/80 backdrop-blur-md border border-white/15 text-slate-200 shadow-sm">
+                {/* Bottom Image Overlay: Status Badge (Left) & Clean Possession Badge (Right) */}
+                <div className="absolute bottom-2.5 inset-x-2.5 z-10 flex items-center justify-between gap-2 pointer-events-none">
+                    <div className="pointer-events-auto">
+                        {project.status === 'New Launch' ? (
+                            <span className="inline-flex items-center gap-1 text-[9.5px] font-black px-2 py-0.5 rounded-md backdrop-blur-md bg-amber-500 text-slate-950 border border-amber-300/80 shadow-xs uppercase tracking-wider shrink-0">
+                                <Sparkles className="w-2.5 h-2.5" /> New Launch
+                            </span>
+                        ) : project.status === 'Ready to Move' ? (
+                            <span className="inline-flex items-center gap-1 text-[9.5px] font-black px-2 py-0.5 rounded-md backdrop-blur-md bg-emerald-500 text-white border border-emerald-300/80 shadow-xs uppercase tracking-wider shrink-0">
+                                <CheckCircle2 className="w-2.5 h-2.5" /> Ready to Move
+                            </span>
+                        ) : null}
+                    </div>
+
+                    {project.possessionDate && (
+                        <span className="text-[9.5px] font-bold px-2 py-0.5 rounded-md bg-slate-950/80 backdrop-blur-md border border-white/15 text-slate-200 shadow-sm shrink-0">
                             Possession: {project.possessionDate}
                         </span>
-                    </div>
-                )}
+                    )}
+                </div>
             </div>
 
             {/* ================= Content Section ================= */}

@@ -88,6 +88,7 @@ const Home = () => {
                         title="Integrated Mega Townships & Landmark High-Rises"
                         subtitle="Self-sustained 40 to 400+ acre township ecosystems with golf courses, premier schools & retail high-streets"
                         projects={townshipProjects}
+                        viewAllLink="/search?q=township"
                         bgColor="bg-amber-50/40"
                     />
                 )}
@@ -98,6 +99,7 @@ const Home = () => {
                         title="VTP Realty Township Flagships"
                         subtitle="Pioneering MLA philosophy across Hinjewadi, Kharadi, Mahalunge & Baner"
                         projects={vtpProjects}
+                        viewAllLink="/builder/vtp-realty"
                         bgColor="bg-slate-50"
                     />
                 )}
@@ -107,6 +109,7 @@ const Home = () => {
                     title="New Launches"
                     subtitle="Be the first to book the best inventories"
                     projects={newLaunches}
+                    viewAllLink="/search?status=New+Launch"
                 />
 
                 {/* 8. Mumbai Luxury Landmarks Rail */}
@@ -115,6 +118,7 @@ const Home = () => {
                         title="Mumbai Luxury Landmarks"
                         subtitle="Sea-facing and ultra-luxury high-rise towers across South Mumbai & MMR"
                         projects={mumbaiProjects}
+                        viewAllLink="/search?city=Mumbai"
                         bgColor="bg-indigo-50/40"
                     />
                 )}
@@ -125,6 +129,7 @@ const Home = () => {
                         title="Lonavala & Alibaug Second-Home Villas"
                         subtitle="Scenic mountain valley estates and coastal beach retreats"
                         projects={secondHomeProjects}
+                        viewAllLink="/search?city=Lonavala"
                         bgColor="bg-emerald-50/40"
                     />
                 )}
@@ -134,6 +139,7 @@ const Home = () => {
                     title="Ready to Move In"
                     subtitle="Move into your dream home today with zero waiting period"
                     projects={readyToMove}
+                    viewAllLink="/search?status=Ready+to+Move"
                 />
 
                 {/* 11. Builder Spotlight */}
@@ -144,6 +150,7 @@ const Home = () => {
                     title="Luxury Collections"
                     subtitle="Premium living for the discerning few"
                     projects={luxuryProjects}
+                    viewAllLink="/search?price=luxury"
                     bgColor="bg-blue-50"
                 />
 
