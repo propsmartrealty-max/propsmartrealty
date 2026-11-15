@@ -28,7 +28,9 @@ export const LocalityCard: React.FC<LocalityCardProps> = ({
         ? locality.image
         : getLocalityImageUrl(locality.name);
 
-    const priceLabel = locality.price || (locality.avgPriceSqft ? `₹${(locality.avgPriceSqft / 1000).toFixed(1)}k/sq.ft` : '₹8.5k/sq.ft');
+    const priceLabel = locality.price 
+        ? locality.price.replace('/sq.ft', '/sqft')
+        : (locality.avgPriceSqft ? `₹${(locality.avgPriceSqft / 1000).toFixed(1)}k/sqft` : '₹8.5k/sqft');
     const projectCount = locality.count ?? 25;
 
     return (

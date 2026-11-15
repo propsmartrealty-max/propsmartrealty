@@ -1168,8 +1168,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-hillside-3",
     "builderId": "b-godrej",
     "location": "Mahalunge",
-    "priceRange": "\u20b981.00 L - \u20b91.06 Cr",
-    "exactPrice": "\u20b981.00 L",
+    "priceRange": "₹81.00 L - ₹1.06 Cr",
+    "exactPrice": "₹81.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -1188,7 +1188,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
-    "description": "Godrej Hillside 3 by Godrej Properties represents modern residential excellence in Mahalunge, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b981.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Club house, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100050939, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Godrej Hillside 3 by Godrej Properties represents modern residential excellence in Mahalunge, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹81.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Club house, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100050939, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -1251,7 +1251,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Mahalunge",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Godrej Hillside 3, Mahalunge Pune by Godrej Properties. Price starts \u20b981.00 L. 100% Zero Brokerage. Verified MahaRERA P52100050939. Floor pl",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Godrej Hillside 3, Mahalunge Pune by Godrej Properties. Price starts ₹81.00 L. 100% Zero Brokerage. Verified MahaRERA P52100050939. Floor pl",
     "advancedConfigurations": [
       {
         "id": "cfg-godrej-hillside-3-1",
@@ -1260,12 +1260,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 665,
         "balconyArea": 53,
         "bathrooms": 2,
-        "basePrice": 8100000.0,
+        "basePrice": 8100000,
         "pricePerSqft": 12180.45,
-        "infraCharges": 243000.0,
-        "clubhouseCharges": 162000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 243000,
+        "clubhouseCharges": 162000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dllJJfjjSSZzKD4GqapaGnZYQXOspHGlmKMt9QUX.webp"
       },
@@ -1276,12 +1276,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 665,
         "balconyArea": 53,
         "bathrooms": 2,
-        "basePrice": 8100000.0,
+        "basePrice": 8100000,
         "pricePerSqft": 12180.45,
-        "infraCharges": 243000.0,
-        "clubhouseCharges": 162000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 243000,
+        "clubhouseCharges": 162000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
@@ -1292,12 +1292,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 680,
         "balconyArea": 54,
         "bathrooms": 2,
-        "basePrice": 8300000.0,
+        "basePrice": 8300000,
         "pricePerSqft": 12205.88,
-        "infraCharges": 249000.0,
-        "clubhouseCharges": 166000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 249000,
+        "clubhouseCharges": 166000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       },
@@ -1308,12 +1308,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 902,
         "balconyArea": 72,
         "bathrooms": 3,
-        "basePrice": 10600000.0,
+        "basePrice": 10600000,
         "pricePerSqft": 11751.66,
-        "infraCharges": 318000.0,
-        "clubhouseCharges": 212000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 318000,
+        "clubhouseCharges": 212000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
       }
@@ -1325,11 +1325,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Godrej Hillside 3?",
-        "answer": "Prices at Godrej Hillside 3 range from \u20b9 81.00 Lac \u2013 1.06 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Godrej Hillside 3 range from ₹ 81.00 Lac – 1.06 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Godrej Hillside 3?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 665 \u2013 902 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 665 – 902 sq.ft."
       },
       {
         "question": "What is the RERA number of Godrej Hillside 3?",
@@ -1368,22 +1368,22 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "665 sq.ft",
-        "priceRange": "\u20b981.00 L"
+        "priceRange": "₹81.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "665 sq.ft",
-        "priceRange": "\u20b981.00 L"
+        "priceRange": "₹81.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "680 sq.ft",
-        "priceRange": "\u20b983.00 L"
+        "priceRange": "₹83.00 L"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "902 sq.ft",
-        "priceRange": "\u20b91.06 Cr"
+        "priceRange": "₹1.06 Cr"
       }
     ]
   },
@@ -1393,11 +1393,11 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-river-royale",
     "builderId": "b-godrej",
     "location": "Mahalunge",
-    "priceRange": "\u20b954.00 L - \u20b975.60 L",
-    "exactPrice": "\u20b954.00 L",
+    "priceRange": "₹2.50 Cr - ₹4.40 Cr",
+    "exactPrice": "₹2.50 Cr",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -1413,7 +1413,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
     ],
-    "description": "Godrej River Royale by Godrej Properties represents modern residential excellence in Mahalunge, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b954.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Cafeteria, Kids Play Area, Library, Sports Courts, Swimming Pool. Verified under MahaRERA registration P52100052957, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Godrej River Royale is an ultra-luxury riverside residential enclave by Godrej Properties situated along the scenic riverfront in Mahalunge, West Pune. Spread over prime river-view acreage, River Royale features expansive 3 and 4 BHK palatial residences starting from ₹2.50 Cr up to ₹4.40 Cr with private elevators, grand river-facing decks, and resort-style club facilities.\n\nVerified under MahaRERA registration P52100052957 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Cafeteria",
@@ -1460,7 +1460,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Godrej Properties developer inventory"
     ],
     "reraId": "P52100052957",
-    "pricePerSqft": 7200,
+    "pricePerSqft": 14800,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -1473,7 +1473,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Mahalunge",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Godrej River Royale, Mahalunge Pune by Godrej Properties. Price starts \u20b954.00 L. 100% Zero Brokerage. Verified MahaRERA P52100052957. Floor ",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Godrej River Royale, Mahalunge Pune by Godrej Properties. Price starts ₹54.00 L. 100% Zero Brokerage. Verified MahaRERA P52100052957. Floor ",
     "advancedConfigurations": [
       {
         "id": "cfg-godrej-river-royale-1",
@@ -1484,10 +1484,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 5400000,
         "pricePerSqft": 7200,
-        "infraCharges": 162000.0,
-        "clubhouseCharges": 108000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 162000,
+        "clubhouseCharges": 108000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -1500,10 +1500,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 7560000,
         "pricePerSqft": 7200,
-        "infraCharges": 226800.0,
-        "clubhouseCharges": 151200.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 226800,
+        "clubhouseCharges": 151200,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       }
@@ -1515,11 +1515,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Godrej River Royale?",
-        "answer": "Prices at Godrej River Royale range from \u20b9 2.60 Cr \u2013 3.60 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Godrej River Royale range from ₹ 2.60 Cr – 3.60 Cr (agreement value). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Godrej River Royale?",
-        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,688 \u2013 2,304 sq.ft."
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,688 – 2,304 sq.ft."
       },
       {
         "question": "What is the RERA number of Godrej River Royale?",
@@ -1555,14 +1555,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b954.00 L"
+        "type": "3 BHK Riverside Luxury",
+        "carpetArea": "1688 sq.ft",
+        "priceRange": "₹2.50 Cr"
       },
       {
-        "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b975.60 L"
+        "type": "3 BHK Grande",
+        "carpetArea": "2100 sq.ft",
+        "priceRange": "₹2.95 Cr"
+      },
+      {
+        "type": "4 BHK Riverside Palace",
+        "carpetArea": "2304 sq.ft",
+        "priceRange": "₹3.95 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "2529 sq.ft",
+        "priceRange": "₹4.40 Cr"
       }
     ]
   },
@@ -1572,14 +1582,14 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-eden-estate-phase-2",
     "builderId": "b-godrej",
     "location": "Hinjewadi",
-    "priceRange": "\u20b958.50 L - \u20b981.90 L",
-    "exactPrice": "\u20b958.50 L",
+    "priceRange": "₹1.71 Cr - ₹2.90 Cr",
+    "exactPrice": "₹1.71 Cr",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "Villa Plot",
+      "Estate Plot"
     ],
     "status": "Under Construction",
-    "type": "Residential",
+    "type": "Plot",
     "possessionDate": "in 2027",
     "image": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
@@ -1592,7 +1602,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/B8lLrgp8K9glD4SfUoFNPgGs2hgPvixeAczdfTfR.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
     ],
-    "description": "Godrej Eden Estate Phase 2 by Godrej Properties represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b958.50 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100054190, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Godrej Eden Estate Phase 2 is an exclusive gated plotted villa development by Godrej Properties located in Phase 1 / Maan, Hinjewadi, Pune. Offering custom residential villa plots ranging from 1,500 sq.ft to 2,500 sq.ft starting from ₹1.71 Cr, Eden Estate provides 5-tier security, dedicated estate clubhouse, and lush tree-lined boulevards.\n\nVerified under MahaRERA registration P52100054190 with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Club house",
@@ -1647,7 +1657,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Godrej Properties developer inventory"
     ],
     "reraId": "P52100054190",
-    "pricePerSqft": 7800,
+    "pricePerSqft": 11400,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -1660,7 +1670,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Godrej Eden Estate Phase 2, Hinjewadi Pune by Godrej Properties. Price starts \u20b958.50 L. 100% Zero Brokerage. Verified MahaRERA P52100054190.",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Godrej Eden Estate Phase 2, Hinjewadi Pune by Godrej Properties. Price starts ₹58.50 L. 100% Zero Brokerage. Verified MahaRERA P52100054190.",
     "advancedConfigurations": [
       {
         "id": "cfg-godrej-eden-estate-phase-2-1",
@@ -1671,10 +1681,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 5850000,
         "pricePerSqft": 7800,
-        "infraCharges": 175500.0,
-        "clubhouseCharges": 117000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 175500,
+        "clubhouseCharges": 117000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp"
       },
@@ -1687,10 +1697,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 8190000,
         "pricePerSqft": 7800,
-        "infraCharges": 245700.0,
-        "clubhouseCharges": 163800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 245700,
+        "clubhouseCharges": 163800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp"
       }
@@ -1702,11 +1712,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Godrej Eden Estate Phase 2?",
-        "answer": "Prices at Godrej Eden Estate Phase 2 range from \u20b9 2.39 Cr \u2013 3.04 Cr (agreement value). Homes are available as 1 BHK Plot."
+        "answer": "Prices at Godrej Eden Estate Phase 2 range from ₹ 2.39 Cr – 3.04 Cr (agreement value). Homes are available as 1 BHK Plot."
       },
       {
         "question": "Which configurations are available at Godrej Eden Estate Phase 2?",
-        "answer": "The project offers 1 BHK Plot homes. Carpet areas range from 2,000 \u2013 2,700 sq.ft."
+        "answer": "The project offers 1 BHK Plot homes. Carpet areas range from 2,000 – 2,700 sq.ft."
       },
       {
         "question": "What is the RERA number of Godrej Eden Estate Phase 2?",
@@ -1737,14 +1747,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b958.50 L"
+        "type": "1,500 sq.ft Villa Plot",
+        "carpetArea": "1500 sq.ft",
+        "priceRange": "₹1.71 Cr"
       },
       {
-        "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b981.90 L"
+        "type": "1,800 sq.ft Grande Plot",
+        "carpetArea": "1800 sq.ft",
+        "priceRange": "₹2.16 Cr"
+      },
+      {
+        "type": "2,200 sq.ft Estate Plot",
+        "carpetArea": "2200 sq.ft",
+        "priceRange": "₹2.64 Cr"
+      },
+      {
+        "type": "2,500 sq.ft Presidential Plot",
+        "carpetArea": "2500 sq.ft",
+        "priceRange": "₹2.90 Cr"
       }
     ]
   },
@@ -1754,10 +1774,11 @@ export const PROJECTS: Project[] = [
     "slug": "vtp-bellissimo",
     "builderId": "b-vtp",
     "location": "Hinjewadi",
-    "priceRange": "\u20b984.00 L - \u20b993.00 L",
-    "exactPrice": "\u20b984.00 L",
+    "priceRange": "₹74.00 L - ₹1.45 Cr",
+    "exactPrice": "₹74.00 L",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -1773,7 +1794,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/jgs1mOU4egapqUjeXah0vUaNx8ekQVg0pBq8ZQkR.webp",
       "https://keystoneliv.com/public/uploads/property/DUlnXQzjx5Pmekfng8ii6PNlJHlAP8CA9oi4Rc27.webp"
     ],
-    "description": "VTP Bellissimo by VTP Realty represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b984.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100033888, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "VTP Bellissimo by VTP Realty represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹84.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100033888, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Club house",
@@ -1825,7 +1846,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from VTP Realty developer inventory"
     ],
     "reraId": "P52100033888",
-    "pricePerSqft": 7800,
+    "pricePerSqft": 9500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -1838,7 +1859,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in VTP Bellissimo, Hinjewadi Pune by VTP Realty. Price starts \u20b984.00 L. 100% Zero Brokerage. Verified MahaRERA P52100033888. Floor plans & brochure.",
+    "metaDescription": "Buy 2 BHK in VTP Bellissimo, Hinjewadi Pune by VTP Realty. Price starts ₹84.00 L. 100% Zero Brokerage. Verified MahaRERA P52100033888. Floor plans & brochure.",
     "advancedConfigurations": [
       {
         "id": "cfg-vtp-bellissimo-1",
@@ -1847,12 +1868,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 722,
         "balconyArea": 57,
         "bathrooms": 2,
-        "basePrice": 8400000.0,
+        "basePrice": 8400000,
         "pricePerSqft": 11634.35,
-        "infraCharges": 252000.0,
-        "clubhouseCharges": 168000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 252000,
+        "clubhouseCharges": 168000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
       },
@@ -1863,12 +1884,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 722,
         "balconyArea": 57,
         "bathrooms": 2,
-        "basePrice": 8400000.0,
+        "basePrice": 8400000,
         "pricePerSqft": 11634.35,
-        "infraCharges": 252000.0,
-        "clubhouseCharges": 168000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 252000,
+        "clubhouseCharges": 168000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
       },
@@ -1879,12 +1900,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 757,
         "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 8800000.0,
+        "basePrice": 8800000,
         "pricePerSqft": 11624.83,
-        "infraCharges": 264000.0,
-        "clubhouseCharges": 176000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 264000,
+        "clubhouseCharges": 176000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp"
       },
@@ -1895,12 +1916,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 800,
         "balconyArea": 64,
         "bathrooms": 2,
-        "basePrice": 9300000.0,
-        "pricePerSqft": 11625.0,
-        "infraCharges": 279000.0,
-        "clubhouseCharges": 186000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "basePrice": 9300000,
+        "pricePerSqft": 11625,
+        "infraCharges": 279000,
+        "clubhouseCharges": 186000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/jgs1mOU4egapqUjeXah0vUaNx8ekQVg0pBq8ZQkR.webp"
       }
@@ -1912,11 +1933,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VTP Bellissimo?",
-        "answer": "Prices at VTP Bellissimo range from \u20b9 84.00 Lac \u2013 93.00 Lac (agreement value). Homes are available as 2 BHK."
+        "answer": "Prices at VTP Bellissimo range from ₹ 84.00 Lac – 93.00 Lac (agreement value). Homes are available as 2 BHK."
       },
       {
         "question": "Which configurations are available at VTP Bellissimo?",
-        "answer": "The project offers 2 BHK homes. Carpet areas range from 722 \u2013 800 sq.ft."
+        "answer": "The project offers 2 BHK homes. Carpet areas range from 722 – 800 sq.ft."
       },
       {
         "question": "What is the RERA number of VTP Bellissimo?",
@@ -1952,24 +1973,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "722 sq.ft",
-        "priceRange": "\u20b984.00 L"
+        "type": "2 BHK Smart",
+        "carpetArea": "578 sq.ft",
+        "priceRange": "₹74.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "722 sq.ft",
-        "priceRange": "\u20b984.00 L"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "757 sq.ft",
-        "priceRange": "\u20b988.00 L"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Grande",
         "carpetArea": "800 sq.ft",
-        "priceRange": "\u20b993.00 L"
+        "priceRange": "₹95.00 L"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "900 sq.ft",
+        "priceRange": "₹1.05 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1200 sq.ft",
+        "priceRange": "₹1.45 Cr"
       }
     ]
   },
@@ -1979,8 +2000,8 @@ export const PROJECTS: Project[] = [
     "slug": "vtp-dolce-vita",
     "builderId": "b-vtp",
     "location": "Kharadi",
-    "priceRange": "\u20b977.65 L - \u20b91.32 Cr",
-    "exactPrice": "\u20b977.65 L",
+    "priceRange": "₹78.00 L - ₹1.48 Cr",
+    "exactPrice": "₹78.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -2003,7 +2024,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/00vie3iYOaGLV16hty7Kp1mKKReoxp9eJUKP6zte.png",
       "https://keystoneliv.com/public/uploads/property/ct7duPh6zz77Wvsn62itR449WOXD0T4CtO4CTCtL.png"
     ],
-    "description": "VTP Dolce Vita by VTP Realty represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b977.65 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jacuzzi, Jogging Track. Verified under MahaRERA registration P52100051819, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "VTP Dolce Vita by VTP Realty represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹77.65 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jacuzzi, Jogging Track. Verified under MahaRERA registration P52100051819, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Club house",
@@ -2063,7 +2084,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from VTP Realty developer inventory"
     ],
     "reraId": "P52100051819",
-    "pricePerSqft": 9600,
+    "pricePerSqft": 11500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -2076,7 +2097,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Kharadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in VTP Dolce Vita, Kharadi Pune by VTP Realty. Price starts \u20b977.65 L. 100% Zero Brokerage. Verified MahaRERA P52100051819. Floor plans & brochu",
+    "metaDescription": "Buy 2 BHK, 3 BHK in VTP Dolce Vita, Kharadi Pune by VTP Realty. Price starts ₹77.65 L. 100% Zero Brokerage. Verified MahaRERA P52100051819. Floor plans & brochu",
     "advancedConfigurations": [
       {
         "id": "cfg-vtp-dolce-vita-1",
@@ -2087,10 +2108,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 7765000.000000001,
         "pricePerSqft": 11520.77,
-        "infraCharges": 232950.0,
-        "clubhouseCharges": 155300.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 232950,
+        "clubhouseCharges": 155300,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/wwDg59UNik44EYQehyqKPr8KZ3pmLXeQ3ZDmJVj2.webp"
       },
@@ -2103,10 +2124,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 7765000.000000001,
         "pricePerSqft": 11520.77,
-        "infraCharges": 232950.0,
-        "clubhouseCharges": 155300.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 232950,
+        "clubhouseCharges": 155300,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/LW8ofJLVdcWXF1ixxVLZJIS7lmzcBGIFY3WSZJ6X.webp"
       },
@@ -2117,12 +2138,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 756,
         "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 8700000.0,
+        "basePrice": 8700000,
         "pricePerSqft": 11507.94,
-        "infraCharges": 261000.0,
-        "clubhouseCharges": 174000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 261000,
+        "clubhouseCharges": 174000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/evR9QMKWYPJ7mfXswMgWcM03r9vtzVYrhTLN1Yn2.png"
       },
@@ -2133,12 +2154,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 756,
         "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 8700000.0,
+        "basePrice": 8700000,
         "pricePerSqft": 11507.94,
-        "infraCharges": 261000.0,
-        "clubhouseCharges": 174000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 261000,
+        "clubhouseCharges": 174000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zozJl3E2HhxQbEpe9Q90xFiPbJv4yhBg3pHXhqC9.png"
       },
@@ -2149,12 +2170,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 850,
         "balconyArea": 68,
         "bathrooms": 2,
-        "basePrice": 12100000.0,
+        "basePrice": 12100000,
         "pricePerSqft": 14235.29,
-        "infraCharges": 363000.0,
-        "clubhouseCharges": 242000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 363000,
+        "clubhouseCharges": 242000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/CxlM9uIBn5S8zj7R50udJEA2xUAIgmgd0mDLOHo9.png"
       },
@@ -2165,12 +2186,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 857,
         "balconyArea": 68,
         "bathrooms": 2,
-        "basePrice": 12200000.0,
+        "basePrice": 12200000,
         "pricePerSqft": 14235.71,
-        "infraCharges": 366000.0,
-        "clubhouseCharges": 244000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 366000,
+        "clubhouseCharges": 244000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/hgiRTenojaVcHglxBXqRVHfjihUs6wuNa8Yl46OW.png"
       },
@@ -2181,12 +2202,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 840,
         "balconyArea": 67,
         "bathrooms": 3,
-        "basePrice": 11900000.0,
+        "basePrice": 11900000,
         "pricePerSqft": 14166.67,
-        "infraCharges": 357000.0,
-        "clubhouseCharges": 238000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 357000,
+        "clubhouseCharges": 238000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/YP4OQJPcaC2gOy7ZO0ZJZzsACXg8fiey3I7EZTMD.png"
       },
@@ -2197,12 +2218,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 928,
         "balconyArea": 74,
         "bathrooms": 3,
-        "basePrice": 13200000.0,
+        "basePrice": 13200000,
         "pricePerSqft": 14224.14,
-        "infraCharges": 396000.0,
-        "clubhouseCharges": 264000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 396000,
+        "clubhouseCharges": 264000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png"
       }
@@ -2214,11 +2235,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VTP Dolce Vita?",
-        "answer": "Prices at VTP Dolce Vita range from \u20b9 77.65 Lac \u2013 2.07 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at VTP Dolce Vita range from ₹ 77.65 Lac – 2.07 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at VTP Dolce Vita?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 674 \u2013 1,457 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 674 – 1,457 sq.ft."
       },
       {
         "question": "What is the RERA number of VTP Dolce Vita?",
@@ -2254,44 +2275,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Premium",
         "carpetArea": "674 sq.ft",
-        "priceRange": "\u20b977.65 L"
+        "priceRange": "₹78.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "674 sq.ft",
-        "priceRange": "\u20b977.65 L"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Grande",
         "carpetArea": "756 sq.ft",
-        "priceRange": "\u20b987.00 L"
+        "priceRange": "₹92.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "756 sq.ft",
-        "priceRange": "\u20b987.00 L"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "850 sq.ft",
-        "priceRange": "\u20b91.21 Cr"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "857 sq.ft",
-        "priceRange": "\u20b91.22 Cr"
-      },
-      {
-        "type": "3 BHK Luxury Unit",
+        "type": "3 BHK Luxury",
         "carpetArea": "840 sq.ft",
-        "priceRange": "\u20b91.19 Cr"
+        "priceRange": "₹1.15 Cr"
       },
       {
-        "type": "3 BHK Luxury Unit",
-        "carpetArea": "928 sq.ft",
-        "priceRange": "\u20b91.32 Cr"
+        "type": "3 BHK Royale",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹1.48 Cr"
       }
     ]
   },
@@ -2301,8 +2302,8 @@ export const PROJECTS: Project[] = [
     "slug": "vtp-naturescape",
     "builderId": "b-vtp",
     "location": "Bavdhan",
-    "priceRange": "\u20b988.00 L - \u20b91.28 Cr",
-    "exactPrice": "\u20b988.00 L",
+    "priceRange": "₹88.00 L - ₹1.55 Cr",
+    "exactPrice": "₹88.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -2321,7 +2322,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/exhSgArl0N19cHeHrRvHQotueHATJf80h9wEJBu6.webp"
     ],
-    "description": "VTP Naturescape by VTP Realty represents modern residential excellence in Bavdhan, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b988.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Fitness Corner, Gym, Jogging Track, Kids Play Area, Library. Verified under MahaRERA registration P52100056310, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "VTP Naturescape by VTP Realty represents modern residential excellence in Bavdhan, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹88.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Fitness Corner, Gym, Jogging Track, Kids Play Area, Library. Verified under MahaRERA registration P52100056310, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Fitness Corner",
@@ -2381,7 +2382,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from VTP Realty developer inventory"
     ],
     "reraId": "P52100056310",
-    "pricePerSqft": 8900,
+    "pricePerSqft": 11200,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -2394,7 +2395,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Bavdhan",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in VTP Naturescape, Bavdhan Pune by VTP Realty. Price starts \u20b988.00 L. 100% Zero Brokerage. Verified MahaRERA P52100056310. Floor plans & broch",
+    "metaDescription": "Buy 2 BHK, 3 BHK in VTP Naturescape, Bavdhan Pune by VTP Realty. Price starts ₹88.00 L. 100% Zero Brokerage. Verified MahaRERA P52100056310. Floor plans & broch",
     "advancedConfigurations": [
       {
         "id": "cfg-vtp-naturescape-1",
@@ -2403,12 +2404,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 760,
         "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 8800000.0,
+        "basePrice": 8800000,
         "pricePerSqft": 11578.95,
-        "infraCharges": 264000.0,
-        "clubhouseCharges": 176000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 264000,
+        "clubhouseCharges": 176000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp"
       },
@@ -2419,12 +2420,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 760,
         "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 8800000.0,
+        "basePrice": 8800000,
         "pricePerSqft": 11578.95,
-        "infraCharges": 264000.0,
-        "clubhouseCharges": 176000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 264000,
+        "clubhouseCharges": 176000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/qXM8HRWxsHzEqzzkejOkuF5OA14I5dxYYMPiCfKC.webp"
       },
@@ -2435,12 +2436,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 800,
         "balconyArea": 64,
         "bathrooms": 2,
-        "basePrice": 10100000.0,
-        "pricePerSqft": 12625.0,
-        "infraCharges": 303000.0,
-        "clubhouseCharges": 202000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "basePrice": 10100000,
+        "pricePerSqft": 12625,
+        "infraCharges": 303000,
+        "clubhouseCharges": 202000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Oz85QLYWtUPkHjRU5N2NHLOOg2Z4WBzI9bJT6qeD.webp"
       },
@@ -2451,12 +2452,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 855,
         "balconyArea": 68,
         "bathrooms": 2,
-        "basePrice": 10800000.0,
+        "basePrice": 10800000,
         "pricePerSqft": 12631.58,
-        "infraCharges": 324000.0,
-        "clubhouseCharges": 216000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 324000,
+        "clubhouseCharges": 216000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
       },
@@ -2467,12 +2468,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 975,
         "balconyArea": 78,
         "bathrooms": 3,
-        "basePrice": 12800000.0,
+        "basePrice": 12800000,
         "pricePerSqft": 13128.21,
-        "infraCharges": 384000.0,
-        "clubhouseCharges": 256000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 384000,
+        "clubhouseCharges": 256000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/exhSgArl0N19cHeHrRvHQotueHATJf80h9wEJBu6.webp"
       }
@@ -2484,11 +2485,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VTP Naturescape?",
-        "answer": "Prices at VTP Naturescape range from \u20b9 88.00 Lac \u2013 2.43 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at VTP Naturescape range from ₹ 88.00 Lac – 2.43 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at VTP Naturescape?",
-        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 760 \u2013 1,750 sq.ft."
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 760 – 1,750 sq.ft."
       },
       {
         "question": "What is the RERA number of VTP Naturescape?",
@@ -2524,29 +2525,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Nature Living",
         "carpetArea": "760 sq.ft",
-        "priceRange": "\u20b988.00 L"
+        "priceRange": "₹88.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "760 sq.ft",
-        "priceRange": "\u20b988.00 L"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Grande",
         "carpetArea": "800 sq.ft",
-        "priceRange": "\u20b91.01 Cr"
+        "priceRange": "₹1.05 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "855 sq.ft",
-        "priceRange": "\u20b91.08 Cr"
-      },
-      {
-        "type": "3 BHK Luxury Unit",
+        "type": "3 BHK Valley View",
         "carpetArea": "975 sq.ft",
-        "priceRange": "\u20b91.28 Cr"
+        "priceRange": "₹1.25 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1180 sq.ft",
+        "priceRange": "₹1.55 Cr"
       }
     ]
   },
@@ -2556,8 +2552,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-giardino",
     "builderId": "b-lodha",
     "location": "Wagholi",
-    "priceRange": "\u20b995.83 L - \u20b91.30 Cr",
-    "exactPrice": "\u20b995.83 L",
+    "priceRange": "₹95.83 L - ₹1.30 Cr",
+    "exactPrice": "₹95.83 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -2579,7 +2575,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/H6VFHKV0W11g8lU1zZ673X0MpRc8hR1uyGujlBwz.webp",
       "https://keystoneliv.com/public/uploads/property/PGlvfFmgy2VHokL2QsHGliY2jw1aMvsk3u0b9uB8.webp"
     ],
-    "description": "Lodha Giardino by Lodha Group represents modern residential excellence in Wagholi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b995.83 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner. Verified under MahaRERA registration P52100047587, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Lodha Giardino by Lodha Group represents modern residential excellence in Wagholi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹95.83 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner. Verified under MahaRERA registration P52100047587, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -2658,7 +2654,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Wagholi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Lodha Giardino, Wagholi Pune by Lodha Group. Price starts \u20b995.83 L. 100% Zero Brokerage. Verified MahaRERA P52100047587. Floor plans & broch",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Lodha Giardino, Wagholi Pune by Lodha Group. Price starts ₹95.83 L. 100% Zero Brokerage. Verified MahaRERA P52100047587. Floor plans & broch",
     "advancedConfigurations": [
       {
         "id": "cfg-lodha-giardino-1",
@@ -2667,12 +2663,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 807,
         "balconyArea": 64,
         "bathrooms": 2,
-        "basePrice": 9583000.0,
+        "basePrice": 9583000,
         "pricePerSqft": 11874.85,
-        "infraCharges": 287490.0,
-        "clubhouseCharges": 191660.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 287490,
+        "clubhouseCharges": 191660,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp"
       },
@@ -2683,12 +2679,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 807,
         "balconyArea": 64,
         "bathrooms": 2,
-        "basePrice": 9583000.0,
+        "basePrice": 9583000,
         "pricePerSqft": 11874.85,
-        "infraCharges": 287490.0,
-        "clubhouseCharges": 191660.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 287490,
+        "clubhouseCharges": 191660,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tUBr7yI4J0rcf1m7F6WmNhcMFvrZvPOrpLkLA0xd.webp"
       },
@@ -2699,12 +2695,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 822,
         "balconyArea": 65,
         "bathrooms": 2,
-        "basePrice": 12200000.0,
+        "basePrice": 12200000,
         "pricePerSqft": 14841.85,
-        "infraCharges": 366000.0,
-        "clubhouseCharges": 244000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 366000,
+        "clubhouseCharges": 244000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/N8h0pFp4t9iPbyC01tcUgFFE2sNIrbMiZg3aekTp.webp"
       },
@@ -2715,12 +2711,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 855,
         "balconyArea": 68,
         "bathrooms": 2,
-        "basePrice": 12600000.0,
+        "basePrice": 12600000,
         "pricePerSqft": 14736.84,
-        "infraCharges": 378000.0,
-        "clubhouseCharges": 252000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 378000,
+        "clubhouseCharges": 252000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/9bazfJfHebPTWOPKZhvlI5uteXcmfF57aTBYkICe.webp"
       },
@@ -2731,12 +2727,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 938,
         "balconyArea": 75,
         "bathrooms": 3,
-        "basePrice": 13000000.0,
+        "basePrice": 13000000,
         "pricePerSqft": 13859.28,
-        "infraCharges": 390000.0,
-        "clubhouseCharges": 260000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 390000,
+        "clubhouseCharges": 260000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/uqOD7mlgMLBjjrzWsFb4eCL82f0hldUzEuA03gyR.webp"
       }
@@ -2748,11 +2744,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Lodha Giardino?",
-        "answer": "Prices at Lodha Giardino range from \u20b9 95.83 Lac \u2013 2.57 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Lodha Giardino range from ₹ 95.83 Lac – 2.57 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Lodha Giardino?",
-        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 807 \u2013 1,885 sq.ft."
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 807 – 1,885 sq.ft."
       },
       {
         "question": "What is the RERA number of Lodha Giardino?",
@@ -2791,27 +2787,27 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "807 sq.ft",
-        "priceRange": "\u20b995.83 L"
+        "priceRange": "₹95.83 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "807 sq.ft",
-        "priceRange": "\u20b995.83 L"
+        "priceRange": "₹95.83 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "822 sq.ft",
-        "priceRange": "\u20b91.22 Cr"
+        "priceRange": "₹1.22 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "855 sq.ft",
-        "priceRange": "\u20b91.26 Cr"
+        "priceRange": "₹1.26 Cr"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "938 sq.ft",
-        "priceRange": "\u20b91.30 Cr"
+        "priceRange": "₹1.30 Cr"
       }
     ]
   },
@@ -2821,8 +2817,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-panache",
     "builderId": "b-lodha",
     "location": "Hinjewadi",
-    "priceRange": "\u20b91.15 Cr - \u20b91.20 Cr",
-    "exactPrice": "\u20b91.15 Cr",
+    "priceRange": "₹1.15 Cr - ₹1.20 Cr",
+    "exactPrice": "₹1.15 Cr",
     "configurations": [
       "2 BHK"
     ],
@@ -2844,7 +2840,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/zmj4n4TECfiXjZQ6PK1OM0lDjNqeGFoqs5NMDueV.webp",
       "https://keystoneliv.com/public/uploads/property/ZB60bzT16gilDe2dmK9WOO14yoeSLG7CJOFpK5KQ.webp"
     ],
-    "description": "Lodha Panache by Lodha Group represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.15 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Gym, Jogging Track. Verified under MahaRERA registration P52100050124, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Lodha Panache by Lodha Group represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹1.15 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Gym, Jogging Track. Verified under MahaRERA registration P52100050124, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -2922,7 +2918,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Lodha Panache, Hinjewadi Pune by Lodha Group. Price starts \u20b91.15 Cr. 100% Zero Brokerage. Verified MahaRERA P52100050124. Floor plans & brochure.",
+    "metaDescription": "Buy 2 BHK in Lodha Panache, Hinjewadi Pune by Lodha Group. Price starts ₹1.15 Cr. 100% Zero Brokerage. Verified MahaRERA P52100050124. Floor plans & brochure.",
     "advancedConfigurations": [
       {
         "id": "cfg-lodha-panache-1",
@@ -2933,10 +2929,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 11499999.999999998,
         "pricePerSqft": 13341.07,
-        "infraCharges": 345000.0,
-        "clubhouseCharges": 230000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 345000,
+        "clubhouseCharges": 230000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp"
       },
@@ -2949,10 +2945,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 11499999.999999998,
         "pricePerSqft": 13341.07,
-        "infraCharges": 345000.0,
-        "clubhouseCharges": 230000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 345000,
+        "clubhouseCharges": 230000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Mc9E5NBWOsI1NtldSLZmgKPoYKU0CWl7tF5vDeCQ.webp"
       },
@@ -2963,12 +2959,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 883,
         "balconyArea": 70,
         "bathrooms": 2,
-        "basePrice": 12000000.0,
+        "basePrice": 12000000,
         "pricePerSqft": 13590.03,
-        "infraCharges": 360000.0,
-        "clubhouseCharges": 240000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 360000,
+        "clubhouseCharges": 240000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/ZFDoKn37rtVLsZOWJoU75TT8J0yMCPmXyqNMqFYh.webp"
       }
@@ -2980,11 +2976,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Lodha Panache?",
-        "answer": "Prices at Lodha Panache range from \u20b9 1.15 Cr \u2013 2.80 Cr (agreement value). Homes are available as 2, 3, 4, 5 BHK."
+        "answer": "Prices at Lodha Panache range from ₹ 1.15 Cr – 2.80 Cr (agreement value). Homes are available as 2, 3, 4, 5 BHK."
       },
       {
         "question": "Which configurations are available at Lodha Panache?",
-        "answer": "The project offers 2, 3, 4, 5 BHK homes. Carpet areas range from 862 \u2013 3,800 sq.ft."
+        "answer": "The project offers 2, 3, 4, 5 BHK homes. Carpet areas range from 862 – 3,800 sq.ft."
       },
       {
         "question": "What is the RERA number of Lodha Panache?",
@@ -3022,17 +3018,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "862 sq.ft",
-        "priceRange": "\u20b91.15 Cr"
+        "priceRange": "₹1.15 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "862 sq.ft",
-        "priceRange": "\u20b91.15 Cr"
+        "priceRange": "₹1.15 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "883 sq.ft",
-        "priceRange": "\u20b91.20 Cr"
+        "priceRange": "₹1.20 Cr"
       }
     ]
   },
@@ -3042,8 +3038,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-bella-vita",
     "builderId": "b-lodha",
     "location": "Mohammed Wadi",
-    "priceRange": "\u20b91.05 Cr",
-    "exactPrice": "\u20b91.05 Cr",
+    "priceRange": "₹1.05 Cr",
+    "exactPrice": "₹1.05 Cr",
     "configurations": [
       "2 BHK"
     ],
@@ -3062,7 +3058,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/image (40).webp",
       "https://keystoneliv.com/public/uploads/property/5B0NFyf2tlJWnCP759YniOd8I3OZlx9Rs0kgNfvg.webp"
     ],
-    "description": "Lodha Bella Vita by Lodha Group represents modern residential excellence in Mohammed Wadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.05 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Gym, Jogging Track, Kids Play Area, Party Lawn. Verified under MahaRERA registration P52100024215, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Lodha Bella Vita by Lodha Group represents modern residential excellence in Mohammed Wadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹1.05 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Gym, Jogging Track, Kids Play Area, Party Lawn. Verified under MahaRERA registration P52100024215, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -3132,7 +3128,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Mohammed Wadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Lodha Bella Vita, Mohammed Wadi Pune by Lodha Group. Price starts \u20b91.05 Cr. 100% Zero Brokerage. Verified MahaRERA P52100024215. Floor plans & broc",
+    "metaDescription": "Buy 2 BHK in Lodha Bella Vita, Mohammed Wadi Pune by Lodha Group. Price starts ₹1.05 Cr. 100% Zero Brokerage. Verified MahaRERA P52100024215. Floor plans & broc",
     "advancedConfigurations": [
       {
         "id": "cfg-lodha-bella-vita-1",
@@ -3141,12 +3137,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 811,
         "balconyArea": 64,
         "bathrooms": 2,
-        "basePrice": 10500000.0,
+        "basePrice": 10500000,
         "pricePerSqft": 12946.98,
-        "infraCharges": 315000.0,
-        "clubhouseCharges": 210000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 315000,
+        "clubhouseCharges": 210000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Jlp88hAaeNuplnxEs8TQo4teuwJ1SbAKL03dxJnu.webp"
       },
@@ -3157,12 +3153,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 811,
         "balconyArea": 64,
         "bathrooms": 2,
-        "basePrice": 10500000.0,
+        "basePrice": 10500000,
         "pricePerSqft": 12946.98,
-        "infraCharges": 315000.0,
-        "clubhouseCharges": 210000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 315000,
+        "clubhouseCharges": 210000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/5B0NFyf2tlJWnCP759YniOd8I3OZlx9Rs0kgNfvg.webp"
       }
@@ -3174,11 +3170,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Lodha Bella Vita?",
-        "answer": "Prices at Lodha Bella Vita range from \u20b9 1.05 Cr \u2013 1.67 Cr (agreement value). Homes are available as 2, 3, 3.5 BHK."
+        "answer": "Prices at Lodha Bella Vita range from ₹ 1.05 Cr – 1.67 Cr (agreement value). Homes are available as 2, 3, 3.5 BHK."
       },
       {
         "question": "Which configurations are available at Lodha Bella Vita?",
-        "answer": "The project offers 2, 3, 3.5 BHK homes. Carpet areas range from 811 \u2013 1,196 sq.ft."
+        "answer": "The project offers 2, 3, 3.5 BHK homes. Carpet areas range from 811 – 1,196 sq.ft."
       },
       {
         "question": "What is the RERA number of Lodha Bella Vita?",
@@ -3216,12 +3212,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "811 sq.ft",
-        "priceRange": "\u20b91.05 Cr"
+        "priceRange": "₹1.05 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "811 sq.ft",
-        "priceRange": "\u20b91.05 Cr"
+        "priceRange": "₹1.05 Cr"
       }
     ]
   },
@@ -3231,8 +3227,8 @@ export const PROJECTS: Project[] = [
     "slug": "panchshil-eon-waterfront",
     "builderId": "b-panchshil",
     "location": "Kharadi",
-    "priceRange": "\u20b93.02 Cr - \u20b95.66 Cr",
-    "exactPrice": "\u20b93.02 Cr",
+    "priceRange": "₹3.02 Cr - ₹5.66 Cr",
+    "exactPrice": "₹3.02 Cr",
     "configurations": [
       "4 BHK",
       "4.5 BHK",
@@ -3252,7 +3248,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp",
       "https://keystoneliv.com/public/uploads/property/Oz85QLYWtUPkHjRU5N2NHLOOg2Z4WBzI9bJT6qeD.webp"
     ],
-    "description": "Panchshil Eon Waterfront by Panchshil Realty represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b972.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym. Verified under MahaRERA registration P52100004202, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Panchshil Eon Waterfront by Panchshil Realty represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹72.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym. Verified under MahaRERA registration P52100004202, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -3320,7 +3316,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Kharadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Panchshil Eon Waterfront, Kharadi Pune by Panchshil Realty. Price starts \u20b972.00 L. 100% Zero Brokerage. Verified MahaRERA P52100004202. Floo",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Panchshil Eon Waterfront, Kharadi Pune by Panchshil Realty. Price starts ₹72.00 L. 100% Zero Brokerage. Verified MahaRERA P52100004202. Floo",
     "advancedConfigurations": [
       {
         "id": "cfg-panchshil-eon-waterfront-1",
@@ -3333,8 +3329,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 15487,
         "infraCharges": 906000,
         "clubhouseCharges": 604000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/2RHyNsHcYFRyG4DosoTGOT7S7A6JMuulvZb7D2kQ.webp"
       },
@@ -3349,8 +3345,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 15510,
         "infraCharges": 1140000,
         "clubhouseCharges": 760000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
       },
@@ -3365,8 +3361,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 15507,
         "infraCharges": 1698000,
         "clubhouseCharges": 1132000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp"
       }
@@ -3378,11 +3374,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Panchshil Eon Waterfront?",
-        "answer": "Prices at Panchshil Eon Waterfront range from \u20b9 4.90 Cr \u2013 6.58 Cr (agreement value). Homes are available as 4 BHK."
+        "answer": "Prices at Panchshil Eon Waterfront range from ₹ 4.90 Cr – 6.58 Cr (agreement value). Homes are available as 4 BHK."
       },
       {
         "question": "Which configurations are available at Panchshil Eon Waterfront?",
-        "answer": "The project offers 4 BHK homes. Carpet areas range from 4,000 \u2013 5,375 sq.ft."
+        "answer": "The project offers 4 BHK homes. Carpet areas range from 4,000 – 5,375 sq.ft."
       },
       {
         "question": "What is the RERA number of Panchshil Eon Waterfront?",
@@ -3420,17 +3416,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b93.02 Cr"
+        "priceRange": "₹3.02 Cr"
       },
       {
         "type": "4.5 BHK",
         "carpetArea": "2450 sq.ft",
-        "priceRange": "\u20b93.80 Cr"
+        "priceRange": "₹3.80 Cr"
       },
       {
         "type": "Penthouse",
         "carpetArea": "3650 sq.ft",
-        "priceRange": "\u20b95.66 Cr"
+        "priceRange": "₹5.66 Cr"
       }
     ]
   },
@@ -3440,8 +3436,8 @@ export const PROJECTS: Project[] = [
     "slug": "panchshil-towers",
     "builderId": "b-panchshil",
     "location": "Kharadi",
-    "priceRange": "\u20b92.19 Cr - \u20b95.40 Cr",
-    "exactPrice": "\u20b92.19 Cr",
+    "priceRange": "₹2.90 Cr - ₹8.50 Cr",
+    "exactPrice": "₹2.90 Cr",
     "configurations": [
       "3.5 BHK",
       "4.5 BHK",
@@ -3461,7 +3457,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/Oz85QLYWtUPkHjRU5N2NHLOOg2Z4WBzI9bJT6qeD.webp",
       "https://keystoneliv.com/public/uploads/property/c5iyPCgaCqPe2H7UgjtMuIlxz0gkapjWv7U5nlzE.webp"
     ],
-    "description": "Panchshil Towers by Panchshil Realty represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b972.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Gym, Swimming Pool, 24*7 Water, Lift, Parking, Waste Disposal. Verified under MahaRERA registration P52100002528, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Panchshil Towers by Panchshil Realty represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹72.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Gym, Swimming Pool, 24*7 Water, Lift, Parking, Waste Disposal. Verified under MahaRERA registration P52100002528, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Gym",
       "Swimming Pool",
@@ -3503,7 +3499,7 @@ export const PROJECTS: Project[] = [
       "Kharadi World Trade Center Corridor"
     ],
     "reraId": "P52100002528",
-    "pricePerSqft": 14800,
+    "pricePerSqft": 16500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -3516,7 +3512,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Kharadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Panchshil Towers, Kharadi Pune by Panchshil Realty. Price starts \u20b972.00 L. 100% Zero Brokerage. Verified MahaRERA P52100002528. Floor plans ",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Panchshil Towers, Kharadi Pune by Panchshil Realty. Price starts ₹72.00 L. 100% Zero Brokerage. Verified MahaRERA P52100002528. Floor plans ",
     "advancedConfigurations": [
       {
         "id": "cfg-panchshil-towers-1",
@@ -3529,8 +3525,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 14797,
         "infraCharges": 657000,
         "clubhouseCharges": 438000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp"
       },
@@ -3545,8 +3541,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 14796,
         "infraCharges": 1087500,
         "clubhouseCharges": 725000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp"
       },
@@ -3561,8 +3557,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 14795,
         "infraCharges": 1620000,
         "clubhouseCharges": 1080000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Oz85QLYWtUPkHjRU5N2NHLOOg2Z4WBzI9bJT6qeD.webp"
       }
@@ -3574,11 +3570,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Panchshil Towers?",
-        "answer": "Prices at Panchshil Towers range from \u20b9 4.25 Cr \u2013 8.50 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Panchshil Towers range from ₹ 4.25 Cr – 8.50 Cr (agreement value). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Panchshil Towers?",
-        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,700 \u2013 3,400 sq.ft."
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,700 – 3,400 sq.ft."
       },
       {
         "question": "What is the RERA number of Panchshil Towers?",
@@ -3614,19 +3610,29 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "3.5 BHK",
-        "carpetArea": "1480 sq.ft",
-        "priceRange": "\u20b92.19 Cr"
+        "type": "3.5 BHK Sky Residence",
+        "carpetArea": "1373 sq.ft",
+        "priceRange": "₹2.90 Cr"
       },
       {
-        "type": "4.5 BHK",
-        "carpetArea": "2450 sq.ft",
-        "priceRange": "\u20b93.62 Cr"
+        "type": "3.5 BHK Luxury",
+        "carpetArea": "1857 sq.ft",
+        "priceRange": "₹4.50 Cr"
       },
       {
-        "type": "Penthouse",
-        "carpetArea": "3650 sq.ft",
-        "priceRange": "\u20b95.40 Cr"
+        "type": "4.5 BHK Luxury Suite",
+        "carpetArea": "2224 sq.ft",
+        "priceRange": "₹5.00 Cr"
+      },
+      {
+        "type": "4.5 BHK Grande",
+        "carpetArea": "2650 sq.ft",
+        "priceRange": "₹5.80 Cr"
+      },
+      {
+        "type": "Signature Penthouse",
+        "carpetArea": "3882 sq.ft",
+        "priceRange": "₹8.50 Cr"
       }
     ]
   },
@@ -3636,10 +3642,12 @@ export const PROJECTS: Project[] = [
     "slug": "rohan-ekam-balewadi",
     "builderId": "b-rohan",
     "location": "Balewadi",
-    "priceRange": "\u20b91.33 Cr",
-    "exactPrice": "\u20b91.33 Cr",
+    "priceRange": "₹1.33 Cr - ₹3.42 Cr",
+    "exactPrice": "₹1.33 Cr",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -3655,7 +3663,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/EqFhQWfr3lRMA1nua2t6lHamZuSarVQj6Xo2TWu5.webp",
       "https://keystoneliv.com/public/uploads/property/pkJxGd1gHFGu7mmQK9QruOkJwCN6UjcR7yv24TqQ.webp"
     ],
-    "description": "Rohan Ekam Balewadi by Rohan Builders represents modern residential excellence in Balewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.33 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym, Jogging Track. Verified under MahaRERA registration P52100052298, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Rohan Ekam Balewadi by Rohan Builders represents modern residential excellence in Balewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹1.33 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym, Jogging Track. Verified under MahaRERA registration P52100052298, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Cafeteria",
@@ -3709,7 +3717,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Rohan Builders developer inventory"
     ],
     "reraId": "P52100052298",
-    "pricePerSqft": 9800,
+    "pricePerSqft": 15400,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -3722,7 +3730,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Balewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Rohan Ekam Balewadi, Balewadi Pune by Rohan Builders. Price starts \u20b91.33 Cr. 100% Zero Brokerage. Verified MahaRERA P52100052298. Floor plans & bro",
+    "metaDescription": "Buy 2 BHK in Rohan Ekam Balewadi, Balewadi Pune by Rohan Builders. Price starts ₹1.33 Cr. 100% Zero Brokerage. Verified MahaRERA P52100052298. Floor plans & bro",
     "advancedConfigurations": [
       {
         "id": "cfg-rohan-ekam-balewadi-1",
@@ -3731,12 +3739,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 890,
         "balconyArea": 71,
         "bathrooms": 2,
-        "basePrice": 13300000.0,
+        "basePrice": 13300000,
         "pricePerSqft": 14943.82,
-        "infraCharges": 399000.0,
-        "clubhouseCharges": 266000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 399000,
+        "clubhouseCharges": 266000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp"
       },
@@ -3747,12 +3755,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 890,
         "balconyArea": 71,
         "bathrooms": 2,
-        "basePrice": 13300000.0,
+        "basePrice": 13300000,
         "pricePerSqft": 14943.82,
-        "infraCharges": 399000.0,
-        "clubhouseCharges": 266000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 399000,
+        "clubhouseCharges": 266000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/in85nexdwWHGTBugbmHouxJBznVFcjkEU4SOl2Qj.webp"
       }
@@ -3764,11 +3772,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Rohan Ekam Balewadi?",
-        "answer": "Prices at Rohan Ekam Balewadi range from \u20b9 1.33 Cr \u2013 3.28 Cr (agreement value). Homes are available as 2, 3, 4, 4.5 BHK."
+        "answer": "Prices at Rohan Ekam Balewadi range from ₹ 1.33 Cr – 3.28 Cr (agreement value). Homes are available as 2, 3, 4, 4.5 BHK."
       },
       {
         "question": "Which configurations are available at Rohan Ekam Balewadi?",
-        "answer": "The project offers 2, 3, 4, 4.5 BHK homes. Carpet areas range from 890 \u2013 2,158 sq.ft."
+        "answer": "The project offers 2, 3, 4, 4.5 BHK homes. Carpet areas range from 890 – 2,158 sq.ft."
       },
       {
         "question": "What is the RERA number of Rohan Ekam Balewadi?",
@@ -3804,14 +3812,29 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "890 sq.ft",
-        "priceRange": "\u20b91.33 Cr"
+        "type": "2 BHK Luxury",
+        "carpetArea": "869 sq.ft",
+        "priceRange": "₹1.33 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "890 sq.ft",
-        "priceRange": "\u20b91.33 Cr"
+        "type": "2 BHK Grande",
+        "carpetArea": "910 sq.ft",
+        "priceRange": "₹1.42 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1046 sq.ft",
+        "priceRange": "₹1.68 Cr"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1410 sq.ft",
+        "priceRange": "₹2.24 Cr"
+      },
+      {
+        "type": "4 BHK Royale",
+        "carpetArea": "2158 sq.ft",
+        "priceRange": "₹3.42 Cr"
       }
     ]
   },
@@ -3821,10 +3844,11 @@ export const PROJECTS: Project[] = [
     "slug": "rohan-saroha",
     "builderId": "b-rohan",
     "location": "Bhugaon",
-    "priceRange": "\u20b987.00 L",
-    "exactPrice": "\u20b987.00 L",
+    "priceRange": "₹80.00 L - ₹1.43 Cr",
+    "exactPrice": "₹80.00 L",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -3844,7 +3868,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/NnpqoFF2OBg3Qewfk5tD4GWzugUz51BlL7UtQrsU.webp",
       "https://keystoneliv.com/public/uploads/property/9hVlJaZ6meEGYLipoMd0CHIZi7NEU4ceqU1F8rCu.webp"
     ],
-    "description": "Rohan Saroha by Rohan Builders represents modern residential excellence in Bhugaon, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b987.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym. Verified under MahaRERA registration P52100076652, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Rohan Saroha by Rohan Builders represents modern residential excellence in Bhugaon, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹87.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym. Verified under MahaRERA registration P52100076652, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -3902,7 +3926,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Rohan Builders developer inventory"
     ],
     "reraId": "P52100076652",
-    "pricePerSqft": 7200,
+    "pricePerSqft": 9800,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -3915,7 +3939,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Bhugaon",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Rohan Saroha, Bhugaon Pune by Rohan Builders. Price starts \u20b987.00 L. 100% Zero Brokerage. Verified MahaRERA P52100076652. Floor plans & brochure.",
+    "metaDescription": "Buy 2 BHK in Rohan Saroha, Bhugaon Pune by Rohan Builders. Price starts ₹87.00 L. 100% Zero Brokerage. Verified MahaRERA P52100076652. Floor plans & brochure.",
     "advancedConfigurations": [
       {
         "id": "cfg-rohan-saroha-1",
@@ -3924,12 +3948,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 836,
         "balconyArea": 66,
         "bathrooms": 2,
-        "basePrice": 8700000.0,
+        "basePrice": 8700000,
         "pricePerSqft": 10406.7,
-        "infraCharges": 261000.0,
-        "clubhouseCharges": 174000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 261000,
+        "clubhouseCharges": 174000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/8jc5QT6quqef9ftDCKWF9whFNXYnqsn8HFcXlNK6.webp"
       },
@@ -3940,12 +3964,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 836,
         "balconyArea": 66,
         "bathrooms": 2,
-        "basePrice": 8700000.0,
+        "basePrice": 8700000,
         "pricePerSqft": 10406.7,
-        "infraCharges": 261000.0,
-        "clubhouseCharges": 174000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 261000,
+        "clubhouseCharges": 174000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/9hVlJaZ6meEGYLipoMd0CHIZi7NEU4ceqU1F8rCu.webp"
       }
@@ -3957,11 +3981,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Rohan Saroha?",
-        "answer": "Prices at Rohan Saroha range from \u20b9 87.00 Lac \u2013 1.66 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Rohan Saroha range from ₹ 87.00 Lac – 1.66 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Rohan Saroha?",
-        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 836 \u2013 1,535 sq.ft."
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 836 – 1,535 sq.ft."
       },
       {
         "question": "What is the RERA number of Rohan Saroha?",
@@ -3997,14 +4021,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "836 sq.ft",
-        "priceRange": "\u20b987.00 L"
+        "type": "2 BHK Scenic",
+        "carpetArea": "727 sq.ft",
+        "priceRange": "₹80.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "836 sq.ft",
-        "priceRange": "\u20b987.00 L"
+        "type": "2 BHK Grande",
+        "carpetArea": "864 sq.ft",
+        "priceRange": "₹87.00 L"
+      },
+      {
+        "type": "3 BHK Lakeview",
+        "carpetArea": "1048 sq.ft",
+        "priceRange": "₹1.09 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1382 sq.ft",
+        "priceRange": "₹1.43 Cr"
       }
     ]
   },
@@ -4014,10 +4048,12 @@ export const PROJECTS: Project[] = [
     "slug": "rohan-ekam",
     "builderId": "b-rohan",
     "location": "Balewadi",
-    "priceRange": "\u20b91.18 Cr - \u20b91.31 Cr",
-    "exactPrice": "\u20b91.18 Cr",
+    "priceRange": "₹1.33 Cr - ₹3.42 Cr",
+    "exactPrice": "₹1.33 Cr",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -4036,7 +4072,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/eRICUaL6M4d6iePTlnAtNe9LM01U0TUNFYcI6jom.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/7qHeB3yzfOJKGDwmXzmh3BJZ92BlzvkRJ2h6DNuD.webp"
     ],
-    "description": "Rohan Ekam by Rohan Builders represents modern residential excellence in Balewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.18 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Pet Park. Verified under MahaRERA registration P52100052298, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Rohan Ekam by Rohan Builders represents modern residential excellence in Balewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹1.18 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Pet Park. Verified under MahaRERA registration P52100052298, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Club house",
@@ -4086,7 +4122,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Rohan Builders developer inventory"
     ],
     "reraId": "P52100052298",
-    "pricePerSqft": 9800,
+    "pricePerSqft": 15400,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -4099,7 +4135,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Balewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Rohan Ekam, Balewadi Pune by Rohan Builders. Price starts \u20b91.18 Cr. 100% Zero Brokerage. Verified MahaRERA P52100052298. Floor plans & brochure.",
+    "metaDescription": "Buy 2 BHK in Rohan Ekam, Balewadi Pune by Rohan Builders. Price starts ₹1.18 Cr. 100% Zero Brokerage. Verified MahaRERA P52100052298. Floor plans & brochure.",
     "advancedConfigurations": [
       {
         "id": "cfg-rohan-ekam-1",
@@ -4108,12 +4144,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 890,
         "balconyArea": 71,
         "bathrooms": 2,
-        "basePrice": 11800000.0,
+        "basePrice": 11800000,
         "pricePerSqft": 13258.43,
-        "infraCharges": 354000.0,
-        "clubhouseCharges": 236000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 354000,
+        "clubhouseCharges": 236000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/9oCa9AZdSciAEF6lPemC0vhHm2BvHEJKiFxNCHri.webp"
       },
@@ -4124,12 +4160,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 890,
         "balconyArea": 71,
         "bathrooms": 2,
-        "basePrice": 11800000.0,
+        "basePrice": 11800000,
         "pricePerSqft": 13258.43,
-        "infraCharges": 354000.0,
-        "clubhouseCharges": 236000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 354000,
+        "clubhouseCharges": 236000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/AmV8a2CDk62VDd4gHjwZ5FxR4LQjjMFKM5NLCqsW.webp"
       },
@@ -4140,12 +4176,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 987,
         "balconyArea": 78,
         "bathrooms": 2,
-        "basePrice": 13100000.0,
+        "basePrice": 13100000,
         "pricePerSqft": 13272.54,
-        "infraCharges": 393000.0,
-        "clubhouseCharges": 262000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 393000,
+        "clubhouseCharges": 262000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/6lN0t0aJLQXabFeZvjKRhyOJBLJZtpLhYMKi5Xm6.webp"
       }
@@ -4157,11 +4193,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Rohan Ekam Balewadi?",
-        "answer": "Prices at Rohan Ekam Balewadi range from \u20b9 1.33 Cr \u2013 3.28 Cr (agreement value). Homes are available as 2, 3, 4, 4.5 BHK."
+        "answer": "Prices at Rohan Ekam Balewadi range from ₹ 1.33 Cr – 3.28 Cr (agreement value). Homes are available as 2, 3, 4, 4.5 BHK."
       },
       {
         "question": "Which configurations are available at Rohan Ekam Balewadi?",
-        "answer": "The project offers 2, 3, 4, 4.5 BHK homes. Carpet areas range from 890 \u2013 2,158 sq.ft."
+        "answer": "The project offers 2, 3, 4, 4.5 BHK homes. Carpet areas range from 890 – 2,158 sq.ft."
       },
       {
         "question": "What is the RERA number of Rohan Ekam Balewadi?",
@@ -4197,19 +4233,29 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "890 sq.ft",
-        "priceRange": "\u20b91.18 Cr"
+        "type": "2 BHK Luxury",
+        "carpetArea": "869 sq.ft",
+        "priceRange": "₹1.33 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "890 sq.ft",
-        "priceRange": "\u20b91.18 Cr"
+        "type": "2 BHK Grande",
+        "carpetArea": "910 sq.ft",
+        "priceRange": "₹1.42 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "987 sq.ft",
-        "priceRange": "\u20b91.31 Cr"
+        "type": "3 BHK Grande",
+        "carpetArea": "1046 sq.ft",
+        "priceRange": "₹1.68 Cr"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1410 sq.ft",
+        "priceRange": "₹2.24 Cr"
+      },
+      {
+        "type": "4 BHK Royale",
+        "carpetArea": "2158 sq.ft",
+        "priceRange": "₹3.42 Cr"
       }
     ]
   },
@@ -4219,11 +4265,11 @@ export const PROJECTS: Project[] = [
     "slug": "vj-indilife",
     "builderId": "b-vilas-javdekar",
     "location": "Pashan",
-    "priceRange": "\u20b969.00 L - \u20b996.60 L",
-    "exactPrice": "\u20b969.00 L",
+    "priceRange": "₹26.00 L - ₹65.00 L",
+    "exactPrice": "₹26.00 L",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "Studio Suite",
+      "1 BHK Suite"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -4241,7 +4287,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/8y0bsfk2BnzfvvWUEvZvcnihuUcAp0sSkh93J6zo.png",
       "https://keystoneliv.com/public/uploads/property/image - 2026-05-19T152510.033.webp"
     ],
-    "description": "VJ IndiLife by Vilas Javdekar Developers represents modern residential excellence in Pashan, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b969.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Conference Room, Gym, Jogging Track, Kids Play Area, Open Gym. Verified under MahaRERA registration P52100028030, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "VJ IndiLife by Vilas Javdekar Developers represents modern residential excellence in Pashan, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹69.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Conference Room, Gym, Jogging Track, Kids Play Area, Open Gym. Verified under MahaRERA registration P52100028030, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Conference Room",
@@ -4304,7 +4350,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Vilas Javdekar Developers developer inventory"
     ],
     "reraId": "P52100028030",
-    "pricePerSqft": 9200,
+    "pricePerSqft": 14200,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -4317,7 +4363,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Pashan",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in VJ IndiLife, Pashan Pune by Vilas Javdekar Developers. Price starts \u20b969.00 L. 100% Zero Brokerage. Verified MahaRERA P52100028030. Floor pla",
+    "metaDescription": "Buy 2 BHK, 3 BHK in VJ IndiLife, Pashan Pune by Vilas Javdekar Developers. Price starts ₹69.00 L. 100% Zero Brokerage. Verified MahaRERA P52100028030. Floor pla",
     "advancedConfigurations": [
       {
         "id": "cfg-vj-indilife-1",
@@ -4328,10 +4374,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 6900000,
         "pricePerSqft": 9200,
-        "infraCharges": 207000.0,
-        "clubhouseCharges": 138000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 207000,
+        "clubhouseCharges": 138000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tckPqBcVINZBVHdS5Bf2TEn7XG8BA2rNaM34RTIU.webp"
       },
@@ -4344,10 +4390,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 9660000,
         "pricePerSqft": 9200,
-        "infraCharges": 289800.0,
-        "clubhouseCharges": 193200.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 289800,
+        "clubhouseCharges": 193200,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tckPqBcVINZBVHdS5Bf2TEn7XG8BA2rNaM34RTIU.webp"
       }
@@ -4359,11 +4405,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VJ IndiLife?",
-        "answer": "Prices at VJ IndiLife range from \u20b9 25.95 Lac \u2013 48.50 Lac (agreement value). Homes are available as Studio BHK."
+        "answer": "Prices at VJ IndiLife range from ₹ 25.95 Lac – 48.50 Lac (agreement value). Homes are available as Studio BHK."
       },
       {
         "question": "Which configurations are available at VJ IndiLife?",
-        "answer": "The project offers Studio BHK homes. Carpet areas range from 184 \u2013 397 sq.ft."
+        "answer": "The project offers Studio BHK homes. Carpet areas range from 184 – 397 sq.ft."
       },
       {
         "question": "What is the RERA number of VJ IndiLife?",
@@ -4399,14 +4445,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b969.00 L"
+        "type": "Smart Studio Suite",
+        "carpetArea": "184 sq.ft",
+        "priceRange": "₹26.00 L"
       },
       {
-        "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b996.60 L"
+        "type": "Deluxe Studio Suite",
+        "carpetArea": "220 sq.ft",
+        "priceRange": "₹32.00 L"
+      },
+      {
+        "type": "1 BHK Executive Suite",
+        "carpetArea": "310 sq.ft",
+        "priceRange": "₹45.00 L"
+      },
+      {
+        "type": "1 BHK Grande Suite",
+        "carpetArea": "397 sq.ft",
+        "priceRange": "₹65.00 L"
       }
     ]
   },
@@ -4416,8 +4472,8 @@ export const PROJECTS: Project[] = [
     "slug": "vj-pkc-central",
     "builderId": "b-vilas-javdekar",
     "location": "Kharadi",
-    "priceRange": "\u20b91.10 Cr - \u20b91.24 Cr",
-    "exactPrice": "\u20b91.10 Cr",
+    "priceRange": "₹1.10 Cr - ₹1.24 Cr",
+    "exactPrice": "₹1.10 Cr",
     "configurations": [
       "2 BHK"
     ],
@@ -4435,7 +4491,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/xbbi8BCVsBCZzTjFyouxPMWqZ8HZFkhR4L7m1EyR.webp",
       "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp"
     ],
-    "description": "VJ PKC Central by Vilas Javdekar Developers represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.10 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100077759, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "VJ PKC Central by Vilas Javdekar Developers represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹1.10 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100077759, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Club house",
@@ -4503,7 +4559,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Kharadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in VJ PKC Central, Kharadi Pune by Vilas Javdekar Developers. Price starts \u20b91.10 Cr. 100% Zero Brokerage. Verified MahaRERA P52100077759. Floor plans ",
+    "metaDescription": "Buy 2 BHK in VJ PKC Central, Kharadi Pune by Vilas Javdekar Developers. Price starts ₹1.10 Cr. 100% Zero Brokerage. Verified MahaRERA P52100077759. Floor plans ",
     "advancedConfigurations": [
       {
         "id": "cfg-vj-pkc-central-1",
@@ -4514,10 +4570,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 11000000.000000002,
         "pricePerSqft": 14550.26,
-        "infraCharges": 330000.0,
-        "clubhouseCharges": 220000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 330000,
+        "clubhouseCharges": 220000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Zer51XQI5ojyaQkJzALaQDh3PUsVuRYsoTIvuyGp.webp"
       },
@@ -4530,10 +4586,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 11000000.000000002,
         "pricePerSqft": 14550.26,
-        "infraCharges": 330000.0,
-        "clubhouseCharges": 220000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 330000,
+        "clubhouseCharges": 220000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/8L6yo8fke1Wz7a9c7D8pNIZ2pR09E2Yl5a6H2JkU.webp"
       },
@@ -4544,12 +4600,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 825,
         "balconyArea": 66,
         "bathrooms": 2,
-        "basePrice": 12400000.0,
+        "basePrice": 12400000,
         "pricePerSqft": 15030.3,
-        "infraCharges": 372000.0,
-        "clubhouseCharges": 248000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 372000,
+        "clubhouseCharges": 248000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/3K1d5aSB23mtWUwKhqAuWcReKd3jpS1SygdeiM9N.webp"
       }
@@ -4561,11 +4617,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VJ PKC Central?",
-        "answer": "Prices at VJ PKC Central range from \u20b9 1.10 Cr \u2013 1.90 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at VJ PKC Central range from ₹ 1.10 Cr – 1.90 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at VJ PKC Central?",
-        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 756 \u2013 1,320 sq.ft."
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 756 – 1,320 sq.ft."
       },
       {
         "question": "What is the RERA number of VJ PKC Central?",
@@ -4603,17 +4659,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "756 sq.ft",
-        "priceRange": "\u20b91.10 Cr"
+        "priceRange": "₹1.10 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "756 sq.ft",
-        "priceRange": "\u20b91.10 Cr"
+        "priceRange": "₹1.10 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "825 sq.ft",
-        "priceRange": "\u20b91.24 Cr"
+        "priceRange": "₹1.24 Cr"
       }
     ]
   },
@@ -4623,8 +4679,8 @@ export const PROJECTS: Project[] = [
     "slug": "vj-yashwin-enchante",
     "builderId": "b-vilas-javdekar",
     "location": "Wagholi",
-    "priceRange": "\u20b960.48 L - \u20b91.14 Cr",
-    "exactPrice": "\u20b960.48 L",
+    "priceRange": "₹73.00 L - ₹1.12 Cr",
+    "exactPrice": "₹73.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -4643,7 +4699,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/xbbi8BCVsBCZzTjFyouxPMWqZ8HZFkhR4L7m1EyR.webp",
       "https://keystoneliv.com/public/uploads/property/gu9bQayoV6LdnMMIPWE4YCnur8rK2HqDUWUnOUJr.webp"
     ],
-    "description": "VJ Yashwin Enchante by Vilas Javdekar Developers represents modern residential excellence in Wagholi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b995.85 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym. Verified under MahaRERA registration P52100046510, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "VJ Yashwin Enchante by Vilas Javdekar Developers represents modern residential excellence in Wagholi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹95.85 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym. Verified under MahaRERA registration P52100046510, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -4708,7 +4764,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Vilas Javdekar Developers developer inventory"
     ],
     "reraId": "P52100046510",
-    "pricePerSqft": 6400,
+    "pricePerSqft": 10200,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -4721,7 +4777,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Wagholi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in VJ Yashwin Enchante, Wagholi Pune by Vilas Javdekar Developers. Price starts \u20b995.85 L. 100% Zero Brokerage. Verified MahaRERA P52100046510. ",
+    "metaDescription": "Buy 2 BHK, 3 BHK in VJ Yashwin Enchante, Wagholi Pune by Vilas Javdekar Developers. Price starts ₹95.85 L. 100% Zero Brokerage. Verified MahaRERA P52100046510. ",
     "advancedConfigurations": [
       {
         "id": "cfg-vj-yashwin-enchante-1",
@@ -4732,10 +4788,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 11399999.999999998,
         "pricePerSqft": 14785.99,
-        "infraCharges": 342000.0,
-        "clubhouseCharges": 228000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 342000,
+        "clubhouseCharges": 228000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/nzNTueMEEy7klzyMvsAZKbQvi18BTc9IP4Lf94GE.webp"
       },
@@ -4748,10 +4804,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 11399999.999999998,
         "pricePerSqft": 14785.99,
-        "infraCharges": 342000.0,
-        "clubhouseCharges": 228000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 342000,
+        "clubhouseCharges": 228000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/EVDSKyNRMmSSf7oqrNNRpKJnAT7ktaXYDp3VM2Yf.webp"
       },
@@ -4763,11 +4819,11 @@ export const PROJECTS: Project[] = [
         "balconyArea": 85,
         "bathrooms": 3,
         "basePrice": 6048000,
-        "pricePerSqft": 15000.0,
-        "infraCharges": 287550.0,
-        "clubhouseCharges": 191700.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "pricePerSqft": 15000,
+        "infraCharges": 287550,
+        "clubhouseCharges": 191700,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/3K1d5aSB23mtWUwKhqAuWcReKd3jpS1SygdeiM9N.webp"
       }
@@ -4779,11 +4835,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VJ Yashwin Enchante?",
-        "answer": "Prices at VJ Yashwin Enchante range from \u20b9 77.06 Lac \u2013 2.14 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at VJ Yashwin Enchante range from ₹ 77.06 Lac – 2.14 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at VJ Yashwin Enchante?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 613 \u2013 1,426 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 613 – 1,426 sq.ft."
       },
       {
         "question": "What is the RERA number of VJ Yashwin Enchante?",
@@ -4819,19 +4875,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "771 sq.ft",
-        "priceRange": "\u20b91.14 Cr"
+        "type": "2 BHK Optima",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹73.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "771 sq.ft",
-        "priceRange": "\u20b91.14 Cr"
+        "type": "2 BHK Grande",
+        "carpetArea": "740 sq.ft",
+        "priceRange": "₹89.00 L"
       },
       {
-        "type": "3 BHK Luxury Unit",
-        "carpetArea": "945 sq.ft",
-        "priceRange": "\u20b960.48 L"
+        "type": "3 BHK Luxury",
+        "carpetArea": "846 sq.ft",
+        "priceRange": "₹95.00 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "865 sq.ft",
+        "priceRange": "₹1.12 Cr"
       }
     ]
   },
@@ -4841,8 +4902,8 @@ export const PROJECTS: Project[] = [
     "slug": "gt-pride",
     "builderId": "b-pride-purple",
     "location": "Ravet",
-    "priceRange": "\u20b953.00 L - \u20b978.00 L",
-    "exactPrice": "\u20b953.00 L",
+    "priceRange": "₹53.00 L - ₹78.00 L",
+    "exactPrice": "₹53.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -4862,7 +4923,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/iQeFKSkfJMsMn9Q736Gsy56RUc1DUApUpYlXsjXI.webp",
       "https://keystoneliv.com/public/uploads/property/3nwgH4M3KYSuaKfXTtDhRqNLtwWRw8zijkrDpzRL.webp"
     ],
-    "description": "GT Pride by Pride Purple Group represents modern residential excellence in Ravet, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b953.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn, Sports Courts. Verified under MahaRERA registration P52100048595, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "GT Pride by Pride Purple Group represents modern residential excellence in Ravet, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹53.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn, Sports Courts. Verified under MahaRERA registration P52100048595, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Fitness Corner",
       "Gym",
@@ -4927,7 +4988,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Ravet",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in GT Pride, Ravet Pune by Pride Purple Group. Price starts \u20b953.00 L. 100% Zero Brokerage. Verified MahaRERA P52100048595. Floor plans & brochu",
+    "metaDescription": "Buy 2 BHK, 3 BHK in GT Pride, Ravet Pune by Pride Purple Group. Price starts ₹53.00 L. 100% Zero Brokerage. Verified MahaRERA P52100048595. Floor plans & brochu",
     "advancedConfigurations": [
       {
         "id": "cfg-gt-pride-1",
@@ -4936,12 +4997,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 688,
         "balconyArea": 55,
         "bathrooms": 2,
-        "basePrice": 5300000.0,
+        "basePrice": 5300000,
         "pricePerSqft": 7703.49,
-        "infraCharges": 159000.0,
-        "clubhouseCharges": 106000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 159000,
+        "clubhouseCharges": 106000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/jbCsemSHSujdotJecRohojPLWmeJoue0QDRZzz4U.webp"
       },
@@ -4952,12 +5013,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 688,
         "balconyArea": 55,
         "bathrooms": 2,
-        "basePrice": 5300000.0,
+        "basePrice": 5300000,
         "pricePerSqft": 7703.49,
-        "infraCharges": 159000.0,
-        "clubhouseCharges": 106000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 159000,
+        "clubhouseCharges": 106000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/iqVoBiHDpdvdvsAeUBS5ADhwZqAsUDAkhxfT9DhM.webp"
       },
@@ -4968,12 +5029,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 988,
         "balconyArea": 79,
         "bathrooms": 3,
-        "basePrice": 7800000.0,
+        "basePrice": 7800000,
         "pricePerSqft": 7894.74,
-        "infraCharges": 234000.0,
-        "clubhouseCharges": 156000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 234000,
+        "clubhouseCharges": 156000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/7TCmWAKkzKZL9nyvyDYsuMU5uJp9pN9T1g859POe.webp"
       }
@@ -4985,11 +5046,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of GT Pride?",
-        "answer": "Prices at GT Pride range from \u20b9 53.00 Lac \u2013 78.00 Lac (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at GT Pride range from ₹ 53.00 Lac – 78.00 Lac (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at GT Pride?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 688 \u2013 988 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 688 – 988 sq.ft."
       },
       {
         "question": "What is the RERA number of GT Pride?",
@@ -5027,17 +5088,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "688 sq.ft",
-        "priceRange": "\u20b953.00 L"
+        "priceRange": "₹53.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "688 sq.ft",
-        "priceRange": "\u20b953.00 L"
+        "priceRange": "₹53.00 L"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "988 sq.ft",
-        "priceRange": "\u20b978.00 L"
+        "priceRange": "₹78.00 L"
       }
     ]
   },
@@ -5047,8 +5108,8 @@ export const PROJECTS: Project[] = [
     "slug": "pride-park-connect",
     "builderId": "b-pride-purple",
     "location": "Hinjewadi",
-    "priceRange": "\u20b966.85 L - \u20b91.12 Cr",
-    "exactPrice": "\u20b966.85 L",
+    "priceRange": "₹66.85 L - ₹1.12 Cr",
+    "exactPrice": "₹66.85 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -5067,7 +5128,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/aosfObh9Vvdv8aZgQlzOvwbck4sVAjkctSkrwgox.webp",
       "https://keystoneliv.com/public/uploads/property/b8feIUVDt3lYstN0BMwcKjsjQarsPnZ4QBTS8zNj.webp"
     ],
-    "description": "Pride Park Connect by Pride Purple Group represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b966.85 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym. Verified under MahaRERA registration P52100020766, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Pride Park Connect by Pride Purple Group represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹66.85 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym. Verified under MahaRERA registration P52100020766, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Club house",
       "Fitness Corner",
@@ -5140,7 +5201,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Pride Park Connect, Hinjewadi Pune by Pride Purple Group. Price starts \u20b966.85 L. 100% Zero Brokerage. Verified MahaRERA P52100020766. Floor ",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Pride Park Connect, Hinjewadi Pune by Pride Purple Group. Price starts ₹66.85 L. 100% Zero Brokerage. Verified MahaRERA P52100020766. Floor ",
     "advancedConfigurations": [
       {
         "id": "cfg-pride-park-connect-1",
@@ -5151,10 +5212,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 6684999.999999999,
         "pricePerSqft": 12243.59,
-        "infraCharges": 200550.0,
-        "clubhouseCharges": 133700.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 200550,
+        "clubhouseCharges": 133700,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/pyfCcZQGbXLGoumWmHpNJZu7lOdvBE2m8hqD7GBs.webp"
       },
@@ -5167,10 +5228,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 6684999.999999999,
         "pricePerSqft": 12243.59,
-        "infraCharges": 200550.0,
-        "clubhouseCharges": 133700.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 200550,
+        "clubhouseCharges": 133700,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/FI0pRYe4YtQiDClNaJlsXItZMlHcOGiWSdLu8YJw.webp"
       },
@@ -5183,10 +5244,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 7065000.000000001,
         "pricePerSqft": 12244.37,
-        "infraCharges": 211950.0,
-        "clubhouseCharges": 141300.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 211950,
+        "clubhouseCharges": 141300,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/BdOHFAflcjgXwOB8Bd1Rh03LxMxYzglkJcavsSBS.webp"
       },
@@ -5199,10 +5260,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 8118000.000000001,
         "pricePerSqft": 12244.34,
-        "infraCharges": 243540.0,
-        "clubhouseCharges": 162360.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 243540,
+        "clubhouseCharges": 162360,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/aosfObh9Vvdv8aZgQlzOvwbck4sVAjkctSkrwgox.webp"
       },
@@ -5213,12 +5274,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 756,
         "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 9256000.0,
+        "basePrice": 9256000,
         "pricePerSqft": 12243.39,
-        "infraCharges": 277680.0,
-        "clubhouseCharges": 185120.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 277680,
+        "clubhouseCharges": 185120,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/b8feIUVDt3lYstN0BMwcKjsjQarsPnZ4QBTS8zNj.webp"
       },
@@ -5229,12 +5290,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 796,
         "balconyArea": 63,
         "bathrooms": 3,
-        "basePrice": 9746000.0,
+        "basePrice": 9746000,
         "pricePerSqft": 12243.72,
-        "infraCharges": 292380.0,
-        "clubhouseCharges": 194920.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 292380,
+        "clubhouseCharges": 194920,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/yJYYgN6FjHg8otXKZFYokqMcDsDOaiin6tPyDHNW.webp"
       },
@@ -5247,10 +5308,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 11200000.000000002,
         "pricePerSqft": 12267.25,
-        "infraCharges": 336000.0,
-        "clubhouseCharges": 224000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 336000,
+        "clubhouseCharges": 224000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/AGux2KTqcK6w1EClyVamf2E28S9cCEnCxpkBfOoc.webp"
       }
@@ -5262,11 +5323,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Pride Park Connect?",
-        "answer": "Prices at Pride Park Connect range from \u20b9 66.85 Lac \u2013 1.12 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Pride Park Connect range from ₹ 66.85 Lac – 1.12 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Pride Park Connect?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 546 \u2013 913 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 546 – 913 sq.ft."
       },
       {
         "question": "What is the RERA number of Pride Park Connect?",
@@ -5304,37 +5365,37 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "546 sq.ft",
-        "priceRange": "\u20b966.85 L"
+        "priceRange": "₹66.85 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "546 sq.ft",
-        "priceRange": "\u20b966.85 L"
+        "priceRange": "₹66.85 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "577 sq.ft",
-        "priceRange": "\u20b970.65 L"
+        "priceRange": "₹70.65 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "663 sq.ft",
-        "priceRange": "\u20b981.18 L"
+        "priceRange": "₹81.18 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "756 sq.ft",
-        "priceRange": "\u20b992.56 L"
+        "priceRange": "₹92.56 L"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "796 sq.ft",
-        "priceRange": "\u20b997.46 L"
+        "priceRange": "₹97.46 L"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "913 sq.ft",
-        "priceRange": "\u20b91.12 Cr"
+        "priceRange": "₹1.12 Cr"
       }
     ]
   },
@@ -5344,11 +5405,11 @@ export const PROJECTS: Project[] = [
     "slug": "codename-pride-of-chinchwad",
     "builderId": "b-pride-purple",
     "location": "Pimpri Chinchwad",
-    "priceRange": "\u20b958.50 L - \u20b981.90 L",
-    "exactPrice": "\u20b958.50 L",
+    "priceRange": "₹1.49 Cr - ₹2.36 Cr",
+    "exactPrice": "₹1.49 Cr",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -5364,7 +5425,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/image - 2026-05-28T164742.622.webp",
       "https://keystoneliv.com/public/uploads/property/image - 2026-05-28T164746.759.webp"
     ],
-    "description": "Codename Pride Of Chinchwad by Pride Purple Group represents modern residential excellence in Pimpri Chinchwad, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b958.50 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Gym, Jogging Track, Kids Play Area, Open Gym, Party Lawn, Sports Courts. Verified under MahaRERA registration P52100064090, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Codename Pride Of Chinchwad by Pride Purple Group represents modern residential excellence in Pimpri Chinchwad, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹58.50 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Gym, Jogging Track, Kids Play Area, Open Gym, Party Lawn, Sports Courts. Verified under MahaRERA registration P52100064090, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Gym",
       "Jogging Track",
@@ -5420,7 +5481,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Pride Purple Group developer inventory"
     ],
     "reraId": "P52100064090",
-    "pricePerSqft": 7800,
+    "pricePerSqft": 12400,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -5433,7 +5494,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Pimpri Chinchwad",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Codename Pride Of Chinchwad, Pimpri Chinchwad Pune by Pride Purple Group. Price starts \u20b958.50 L. 100% Zero Brokerage. Verified MahaRERA P521",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Codename Pride Of Chinchwad, Pimpri Chinchwad Pune by Pride Purple Group. Price starts ₹58.50 L. 100% Zero Brokerage. Verified MahaRERA P521",
     "advancedConfigurations": [
       {
         "id": "cfg-codename-pride-of-chinchwad-1",
@@ -5444,10 +5505,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 5850000,
         "pricePerSqft": 7800,
-        "infraCharges": 175500.0,
-        "clubhouseCharges": 117000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 175500,
+        "clubhouseCharges": 117000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/bJRlpzPdNm0DR1MkR1sH6rYnsTdUtDSgBdDHbkM5.webp"
       },
@@ -5460,10 +5521,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 8190000,
         "pricePerSqft": 7800,
-        "infraCharges": 245700.0,
-        "clubhouseCharges": 163800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 245700,
+        "clubhouseCharges": 163800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/bJRlpzPdNm0DR1MkR1sH6rYnsTdUtDSgBdDHbkM5.webp"
       }
@@ -5475,11 +5536,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Codename Pride Of Chinchwad?",
-        "answer": "Prices at Codename Pride Of Chinchwad range from \u20b9 1.49 Cr \u2013 2.18 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Codename Pride Of Chinchwad range from ₹ 1.49 Cr – 2.18 Cr (agreement value). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Codename Pride Of Chinchwad?",
-        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,199 \u2013 1,736 sq.ft."
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,199 – 1,736 sq.ft."
       },
       {
         "question": "When is the possession of Codename Pride Of Chinchwad?",
@@ -5511,14 +5572,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b958.50 L"
+        "type": "3 BHK Luxury",
+        "carpetArea": "1199 sq.ft",
+        "priceRange": "₹1.49 Cr"
       },
       {
-        "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b981.90 L"
+        "type": "3 BHK Grande",
+        "carpetArea": "1236 sq.ft",
+        "priceRange": "₹1.69 Cr"
+      },
+      {
+        "type": "4 BHK Royale",
+        "carpetArea": "1641 sq.ft",
+        "priceRange": "₹2.03 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "1736 sq.ft",
+        "priceRange": "₹2.36 Cr"
       }
     ]
   },
@@ -5528,11 +5599,11 @@ export const PROJECTS: Project[] = [
     "slug": "nyati-evoque",
     "builderId": "b-nyati",
     "location": "Wadgaon Sheri",
-    "priceRange": "\u20b965.25 L - \u20b991.35 L",
-    "exactPrice": "\u20b965.25 L",
+    "priceRange": "₹3.57 Cr - ₹4.35 Cr",
+    "exactPrice": "₹3.57 Cr",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -5548,7 +5619,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/j6Wb9cOhThHs5G5EODyVRF8nmtjnP9T0wBWO4MqP.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/8KKQNl9pXNBZ6numJWe8UNpGknzVelIS0Qg1KIWp.webp"
     ],
-    "description": "Nyati Evoque by Nyati Group represents modern residential excellence in Wadgaon Sheri, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b965.25 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Gym, Jogging Track, Kids Play Area, Mini-Theater, Swimming Pool, 24*7 Water. Verified under MahaRERA registration P52100056152, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Nyati Evoque by Nyati Group represents modern residential excellence in Wadgaon Sheri, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹65.25 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Gym, Jogging Track, Kids Play Area, Mini-Theater, Swimming Pool, 24*7 Water. Verified under MahaRERA registration P52100056152, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Gym",
       "Jogging Track",
@@ -5594,7 +5665,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Nyati Group developer inventory"
     ],
     "reraId": "P52100056152",
-    "pricePerSqft": 8700,
+    "pricePerSqft": 22500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -5607,7 +5678,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Wadgaon Sheri",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Nyati Evoque, Wadgaon Sheri Pune by Nyati Group. Price starts \u20b965.25 L. 100% Zero Brokerage. Verified MahaRERA P52100056152. Floor plans & b",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Nyati Evoque, Wadgaon Sheri Pune by Nyati Group. Price starts ₹65.25 L. 100% Zero Brokerage. Verified MahaRERA P52100056152. Floor plans & b",
     "advancedConfigurations": [
       {
         "id": "cfg-nyati-evoque-1",
@@ -5618,10 +5689,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 6525000,
         "pricePerSqft": 8700,
-        "infraCharges": 195750.0,
-        "clubhouseCharges": 130500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 195750,
+        "clubhouseCharges": 130500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/irWHREpB4Bu9lyPddtSq6rmlhF56vKg7o60Jna7N.webp"
       },
@@ -5634,10 +5705,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 9135000,
         "pricePerSqft": 8700,
-        "infraCharges": 274050.0,
-        "clubhouseCharges": 182700.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 274050,
+        "clubhouseCharges": 182700,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/irWHREpB4Bu9lyPddtSq6rmlhF56vKg7o60Jna7N.webp"
       }
@@ -5649,11 +5720,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Nyati Evoque?",
-        "answer": "Prices at Nyati Evoque range from \u20b9 3.57 Cr \u2013 4.33 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Nyati Evoque range from ₹ 3.57 Cr – 4.33 Cr (agreement value). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Nyati Evoque?",
-        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,519 \u2013 1,836 sq.ft."
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,519 – 1,836 sq.ft."
       },
       {
         "question": "What is the RERA number of Nyati Evoque?",
@@ -5689,14 +5760,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b965.25 L"
+        "type": "3 BHK Riverside Luxury",
+        "carpetArea": "1519 sq.ft",
+        "priceRange": "₹3.57 Cr"
       },
       {
-        "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b991.35 L"
+        "type": "3 BHK Grande",
+        "carpetArea": "1553 sq.ft",
+        "priceRange": "₹3.80 Cr"
+      },
+      {
+        "type": "4 BHK Riverside Palace",
+        "carpetArea": "1780 sq.ft",
+        "priceRange": "₹4.20 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "1836 sq.ft",
+        "priceRange": "₹4.35 Cr"
       }
     ]
   },
@@ -5706,10 +5787,11 @@ export const PROJECTS: Project[] = [
     "slug": "nyati-emerald",
     "builderId": "b-nyati",
     "location": "Baner",
-    "priceRange": "\u20b91.18 Cr",
-    "exactPrice": "\u20b91.18 Cr",
+    "priceRange": "₹1.05 Cr - ₹1.80 Cr",
+    "exactPrice": "₹1.05 Cr",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -5725,7 +5807,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/j6Wb9cOhThHs5G5EODyVRF8nmtjnP9T0wBWO4MqP.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/8KKQNl9pXNBZ6numJWe8UNpGknzVelIS0Qg1KIWp.webp"
     ],
-    "description": "Nyati Emerald by Nyati Group represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.18 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Pet Park. Verified under MahaRERA registration P52100051235, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Nyati Emerald by Nyati Group represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹1.18 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Pet Park. Verified under MahaRERA registration P52100051235, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Club house",
@@ -5775,7 +5857,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Nyati Group developer inventory"
     ],
     "reraId": "P52100051235",
-    "pricePerSqft": 10500,
+    "pricePerSqft": 12500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -5788,7 +5870,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Baner",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Nyati Emerald, Baner Pune by Nyati Group. Price starts \u20b91.18 Cr. 100% Zero Brokerage. Verified MahaRERA P52100051235. Floor plans & brochure.",
+    "metaDescription": "Buy 2 BHK in Nyati Emerald, Baner Pune by Nyati Group. Price starts ₹1.18 Cr. 100% Zero Brokerage. Verified MahaRERA P52100051235. Floor plans & brochure.",
     "advancedConfigurations": [
       {
         "id": "cfg-nyati-emerald-1",
@@ -5797,12 +5879,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 838,
         "balconyArea": 67,
         "bathrooms": 2,
-        "basePrice": 11800000.0,
+        "basePrice": 11800000,
         "pricePerSqft": 14081.15,
-        "infraCharges": 354000.0,
-        "clubhouseCharges": 236000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 354000,
+        "clubhouseCharges": 236000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/CU1K5TMPY5iB90KqfJVmfosGCK6HiAnidy5Rb9Xd.webp"
       },
@@ -5813,12 +5895,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 838,
         "balconyArea": 67,
         "bathrooms": 2,
-        "basePrice": 11800000.0,
+        "basePrice": 11800000,
         "pricePerSqft": 14081.15,
-        "infraCharges": 354000.0,
-        "clubhouseCharges": 236000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 354000,
+        "clubhouseCharges": 236000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/UHNyjEwyLNQy9PeMbK3JWfFARipTf9vfWKRwdV5z.webp"
       }
@@ -5830,11 +5912,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Nyati Emerald?",
-        "answer": "Prices at Nyati Emerald range from \u20b9 1.18 Cr \u2013 1.65 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Nyati Emerald range from ₹ 1.18 Cr – 1.65 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Nyati Emerald?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 838 \u2013 1,213 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 838 – 1,213 sq.ft."
       },
       {
         "question": "What is the RERA number of Nyati Emerald?",
@@ -5870,14 +5952,19 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Luxury",
         "carpetArea": "838 sq.ft",
-        "priceRange": "\u20b91.18 Cr"
+        "priceRange": "₹1.05 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "838 sq.ft",
-        "priceRange": "\u20b91.18 Cr"
+        "type": "2 BHK Grande",
+        "carpetArea": "950 sq.ft",
+        "priceRange": "₹1.35 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1213 sq.ft",
+        "priceRange": "₹1.80 Cr"
       }
     ]
   },
@@ -5887,10 +5974,11 @@ export const PROJECTS: Project[] = [
     "slug": "nyati-esteban-2",
     "builderId": "b-nyati",
     "location": "Undri",
-    "priceRange": "\u20b984.00 L",
-    "exactPrice": "\u20b984.00 L",
+    "priceRange": "₹75.00 L - ₹1.25 Cr",
+    "exactPrice": "₹75.00 L",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -5906,7 +5994,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/j6Wb9cOhThHs5G5EODyVRF8nmtjnP9T0wBWO4MqP.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/8KKQNl9pXNBZ6numJWe8UNpGknzVelIS0Qg1KIWp.webp"
     ],
-    "description": "Nyati Esteban 2 by Nyati Group represents modern residential excellence in Undri, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b984.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Pet Park. Verified under MahaRERA registration P52100053440, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Nyati Esteban 2 by Nyati Group represents modern residential excellence in Undri, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹84.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Pet Park. Verified under MahaRERA registration P52100053440, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Club house",
@@ -5958,7 +6046,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Nyati Group developer inventory"
     ],
     "reraId": "P52100053440",
-    "pricePerSqft": 6600,
+    "pricePerSqft": 9200,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -5971,7 +6059,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Undri",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Nyati Esteban 2, Undri Pune by Nyati Group. Price starts \u20b984.00 L. 100% Zero Brokerage. Verified MahaRERA P52100053440. Floor plans & brochure.",
+    "metaDescription": "Buy 2 BHK in Nyati Esteban 2, Undri Pune by Nyati Group. Price starts ₹84.00 L. 100% Zero Brokerage. Verified MahaRERA P52100053440. Floor plans & brochure.",
     "advancedConfigurations": [
       {
         "id": "cfg-nyati-esteban-2-1",
@@ -5980,12 +6068,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 838,
         "balconyArea": 67,
         "bathrooms": 2,
-        "basePrice": 8400000.0,
+        "basePrice": 8400000,
         "pricePerSqft": 10023.87,
-        "infraCharges": 252000.0,
-        "clubhouseCharges": 168000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 252000,
+        "clubhouseCharges": 168000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/q5AHQmgzPmHHJpiGmkjETlcn8wnVNDWB11vSWkcy.webp"
       },
@@ -5996,12 +6084,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 838,
         "balconyArea": 67,
         "bathrooms": 2,
-        "basePrice": 8400000.0,
+        "basePrice": 8400000,
         "pricePerSqft": 10023.87,
-        "infraCharges": 252000.0,
-        "clubhouseCharges": 168000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 252000,
+        "clubhouseCharges": 168000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp"
       }
@@ -6013,11 +6101,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Nyati Esteban 2?",
-        "answer": "Prices at Nyati Esteban 2 range from \u20b9 84.00 Lac \u2013 1.22 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Nyati Esteban 2 range from ₹ 84.00 Lac – 1.22 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Nyati Esteban 2?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 838 \u2013 1,214 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 838 – 1,214 sq.ft."
       },
       {
         "question": "What is the RERA number of Nyati Esteban 2?",
@@ -6053,27 +6141,35 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Elegant",
         "carpetArea": "838 sq.ft",
-        "priceRange": "\u20b984.00 L"
+        "priceRange": "₹75.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "838 sq.ft",
-        "priceRange": "\u20b984.00 L"
+        "type": "2 BHK Grande",
+        "carpetArea": "920 sq.ft",
+        "priceRange": "₹88.00 L"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1214 sq.ft",
+        "priceRange": "₹1.25 Cr"
       }
     ]
   },
   {
     "id": "p-gera-hinjewadi-phase-3",
-    "title": "Gera Hinjewadi Phase 3 \u2013 0",
+    "title": "Gera Hinjewadi Phase 3 – 0",
     "slug": "gera-hinjewadi-phase-3",
     "builderId": "b-gera",
     "location": "Hinjewadi",
-    "priceRange": "\u20b983.40 L - \u20b91.03 Cr",
-    "exactPrice": "\u20b983.40 L",
+    "priceRange": "₹84.00 L - ₹1.50 Cr",
+    "exactPrice": "₹84.00 L",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "2 BHK Duplex",
+      "3 BHK",
+      "3 BHK Duplex"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -6089,7 +6185,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/ImDiujOwFBjJL4Fonv1zzS6x5tRznB71FrHLlhmt.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Re1pQnaMMOCbS4ph0DQTOvgYzMeNJKjA3J8utYWQ.webp"
     ],
-    "description": "Gera Hinjewadi Phase 3 \u2013 0 by Gera Developments represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b983.40 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Swimming Pool. Verified under MahaRERA registration P52100077635, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Gera Hinjewadi Phase 3 – 0 by Gera Developments represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹83.40 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Swimming Pool. Verified under MahaRERA registration P52100077635, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Club house",
       "Fitness Corner",
@@ -6142,20 +6238,20 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Gera Developments developer inventory"
     ],
     "reraId": "P52100077635",
-    "pricePerSqft": 7800,
+    "pricePerSqft": 11200,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
-      "Gera Hinjewadi Phase 3 \u2013 0 Hinjewadi",
-      "Gera Hinjewadi Phase 3 \u2013 0 Pune price",
-      "Gera Hinjewadi Phase 3 \u2013 0 floor plan",
-      "Gera Hinjewadi Phase 3 \u2013 0 MahaRERA P52100077635",
+      "Gera Hinjewadi Phase 3 – 0 Hinjewadi",
+      "Gera Hinjewadi Phase 3 – 0 Pune price",
+      "Gera Hinjewadi Phase 3 – 0 floor plan",
+      "Gera Hinjewadi Phase 3 – 0 MahaRERA P52100077635",
       "Gera Developments projects in Hinjewadi",
       "flats in Hinjewadi Pune",
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Gera Hinjewadi Phase 3 \u2013 0, Hinjewadi Pune by Gera Developments. Price starts \u20b983.40 L. 100% Zero Brokerage. Verified MahaRERA P52100077635. Floor ",
+    "metaDescription": "Buy 2 BHK in Gera Hinjewadi Phase 3 – 0, Hinjewadi Pune by Gera Developments. Price starts ₹83.40 L. 100% Zero Brokerage. Verified MahaRERA P52100077635. Floor ",
     "advancedConfigurations": [
       {
         "id": "cfg-gera-hinjewadi-phase-3-1",
@@ -6165,11 +6261,11 @@ export const PROJECTS: Project[] = [
         "balconyArea": 60,
         "bathrooms": 2,
         "basePrice": 8340000.000000001,
-        "pricePerSqft": 11120.0,
-        "infraCharges": 250200.0,
-        "clubhouseCharges": 166800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "pricePerSqft": 11120,
+        "infraCharges": 250200,
+        "clubhouseCharges": 166800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Vrt23jt5LSfa41TChYsDPZdCGlEn8UCmlZ3CgxZH.webp"
       },
@@ -6181,11 +6277,11 @@ export const PROJECTS: Project[] = [
         "balconyArea": 60,
         "bathrooms": 2,
         "basePrice": 8340000.000000001,
-        "pricePerSqft": 11120.0,
-        "infraCharges": 250200.0,
-        "clubhouseCharges": 166800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "pricePerSqft": 11120,
+        "infraCharges": 250200,
+        "clubhouseCharges": 166800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/5tGVdoBmlNYzErLGfVKOK1iX1OZIqyzJ17rTGkJ7.webp"
       },
@@ -6196,12 +6292,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 850,
         "balconyArea": 68,
         "bathrooms": 2,
-        "basePrice": 9240000.0,
+        "basePrice": 9240000,
         "pricePerSqft": 10870.59,
-        "infraCharges": 277200.0,
-        "clubhouseCharges": 184800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 277200,
+        "clubhouseCharges": 184800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/HTDeJtXzkfygVbiRVz95ojkcuQKU5PXVfRQ9NN4R.webp"
       },
@@ -6212,55 +6308,55 @@ export const PROJECTS: Project[] = [
         "carpetArea": 895,
         "balconyArea": 71,
         "bathrooms": 2,
-        "basePrice": 10300000.0,
+        "basePrice": 10300000,
         "pricePerSqft": 11508.38,
-        "infraCharges": 309000.0,
-        "clubhouseCharges": 206000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 309000,
+        "clubhouseCharges": 206000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/ImDiujOwFBjJL4Fonv1zzS6x5tRznB71FrHLlhmt.webp"
       }
     ],
     "faqs": [
       {
-        "question": "Where is Gera Hinjewadi Phase 3 \u2013 0 located?",
-        "answer": "Gera Hinjewadi Phase 3 \u2013 0 is located at Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Pimpri-Chinchwad.."
+        "question": "Where is Gera Hinjewadi Phase 3 – 0 located?",
+        "answer": "Gera Hinjewadi Phase 3 – 0 is located at Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Pimpri-Chinchwad.."
       },
       {
-        "question": "What is the price of Gera Hinjewadi Phase 3 \u2013 0?",
-        "answer": "Prices at Gera Hinjewadi Phase 3 \u2013 0 range from \u20b9 83.40 Lac \u2013 1.47 Cr (agreement value). Homes are available as 2, 3 BHK, Duplex."
+        "question": "What is the price of Gera Hinjewadi Phase 3 – 0?",
+        "answer": "Prices at Gera Hinjewadi Phase 3 – 0 range from ₹ 83.40 Lac – 1.47 Cr (agreement value). Homes are available as 2, 3 BHK, Duplex."
       },
       {
-        "question": "Which configurations are available at Gera Hinjewadi Phase 3 \u2013 0?",
-        "answer": "The project offers 2, 3 BHK, Duplex homes. Carpet areas range from 750 \u2013 1,215 sq.ft."
+        "question": "Which configurations are available at Gera Hinjewadi Phase 3 – 0?",
+        "answer": "The project offers 2, 3 BHK, Duplex homes. Carpet areas range from 750 – 1,215 sq.ft."
       },
       {
-        "question": "What is the RERA number of Gera Hinjewadi Phase 3 \u2013 0?",
-        "answer": "The RERA registration number of Gera Hinjewadi Phase 3 \u2013 0 is P52100077635."
+        "question": "What is the RERA number of Gera Hinjewadi Phase 3 – 0?",
+        "answer": "The RERA registration number of Gera Hinjewadi Phase 3 – 0 is P52100077635."
       },
       {
-        "question": "When is the possession of Gera Hinjewadi Phase 3 \u2013 0?",
+        "question": "When is the possession of Gera Hinjewadi Phase 3 – 0?",
         "answer": "Possession is expected by Dec 2028, as per the RERA registration."
       },
       {
-        "question": "Who is the developer of Gera Hinjewadi Phase 3 \u2013 0?",
-        "answer": "Gera Hinjewadi Phase 3 \u2013 0 is developed by Gera Developers. The developer has been in real estate since 1970."
+        "question": "Who is the developer of Gera Hinjewadi Phase 3 – 0?",
+        "answer": "Gera Hinjewadi Phase 3 – 0 is developed by Gera Developers. The developer has been in real estate since 1970."
       },
       {
-        "question": "How many floors does Gera Hinjewadi Phase 3 \u2013 0 have?",
+        "question": "How many floors does Gera Hinjewadi Phase 3 – 0 have?",
         "answer": "The project has 3P+33 floors floors. It is spread across 10.75 acres."
       },
       {
-        "question": "What amenities does Gera Hinjewadi Phase 3 \u2013 0 offer?",
+        "question": "What amenities does Gera Hinjewadi Phase 3 – 0 offer?",
         "answer": "Amenities include Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Swimming Pool, Yoga Zone and more."
       },
       {
-        "question": "Which banks give home loans for Gera Hinjewadi Phase 3 \u2013 0?",
+        "question": "Which banks give home loans for Gera Hinjewadi Phase 3 – 0?",
         "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
       },
       {
-        "question": "How do I book a site visit to Gera Hinjewadi Phase 3 \u2013 0?",
+        "question": "How do I book a site visit to Gera Hinjewadi Phase 3 – 0?",
         "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
       }
     ],
@@ -6269,41 +6365,41 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b983.40 L"
+        "type": "2 BHK Smart",
+        "carpetArea": "753 sq.ft",
+        "priceRange": "₹84.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b983.40 L"
+        "type": "2 BHK Duplex",
+        "carpetArea": "898 sq.ft",
+        "priceRange": "₹1.01 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "850 sq.ft",
-        "priceRange": "\u20b992.40 L"
+        "type": "3 BHK Family",
+        "carpetArea": "1011 sq.ft",
+        "priceRange": "₹1.16 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "895 sq.ft",
-        "priceRange": "\u20b91.03 Cr"
+        "type": "3 BHK Duplex",
+        "carpetArea": "1218 sq.ft",
+        "priceRange": "₹1.50 Cr"
       }
     ]
   },
   {
     "id": "p-gera-imperium-gateway",
-    "title": "Gera Imperium Gateway \u2013 A",
+    "title": "Gera Imperium Gateway – A",
     "slug": "gera-imperium-gateway",
     "builderId": "b-gera",
     "location": "Bhosari",
-    "priceRange": "\u20b948.75 L - \u20b968.25 L",
-    "exactPrice": "\u20b948.75 L",
+    "priceRange": "₹55.00 L - ₹2.28 Cr",
+    "exactPrice": "₹55.00 L",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "Commercial Offices",
+      "Retail Shops"
     ],
     "status": "Under Construction",
-    "type": "Residential",
+    "type": "Commercial",
     "possessionDate": "in 2027",
     "image": "https://keystoneliv.com/public/uploads/property/Yr5BwDRbFNIiqwBjWtCMNhRsmIHKZenfXV5IfERK.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/Yr5BwDRbFNIiqwBjWtCMNhRsmIHKZenfXV5IfERK.webp",
@@ -6316,7 +6412,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/SH7H8dxS80mn8MREYklIjIfomkd46PAdSgIPEBpM.webp",
       "https://keystoneliv.com/public/uploads/property/TZsdhaVnvOXVsKJ354KwYxoNAXi3JGPoJKcuFYvN.webp"
     ],
-    "description": "Gera Imperium Gateway \u2013 A by Gera Developments represents modern residential excellence in Bhosari, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b948.75 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Conference Room, Fitness Corner, Sports Courts, 24*7 Water, Airy Rooms, Gated Society. Verified under MahaRERA registration P52100030184, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Gera Imperium Gateway is a landmark commercial and retail tower by Gera Developments directly connected to Bhosari Metro Station in PCMC, Pune. Featuring Grade-A corporate office suites and high-street retail shops starting from ₹55.00 L up to ₹2.28 Cr.\n\nVerified under MahaRERA registration P52100027787 with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Conference Room",
       "Fitness Corner",
@@ -6364,20 +6460,20 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Gera Developments developer inventory"
     ],
     "reraId": "P52100030184",
-    "pricePerSqft": 6500,
+    "pricePerSqft": 13200,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
-      "Gera Imperium Gateway \u2013 A Bhosari",
-      "Gera Imperium Gateway \u2013 A Pune price",
-      "Gera Imperium Gateway \u2013 A floor plan",
-      "Gera Imperium Gateway \u2013 A MahaRERA P52100030184",
+      "Gera Imperium Gateway – A Bhosari",
+      "Gera Imperium Gateway – A Pune price",
+      "Gera Imperium Gateway – A floor plan",
+      "Gera Imperium Gateway – A MahaRERA P52100030184",
       "Gera Developments projects in Bhosari",
       "flats in Bhosari Pune",
       "buy 2 BHK in Bhosari",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Gera Imperium Gateway \u2013 A, Bhosari Pune by Gera Developments. Price starts \u20b948.75 L. 100% Zero Brokerage. Verified MahaRERA P52100030184. Fl",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Gera Imperium Gateway – A, Bhosari Pune by Gera Developments. Price starts ₹48.75 L. 100% Zero Brokerage. Verified MahaRERA P52100030184. Fl",
     "advancedConfigurations": [
       {
         "id": "cfg-gera-imperium-gateway-1",
@@ -6388,10 +6484,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 4875000,
         "pricePerSqft": 6500,
-        "infraCharges": 146250.0,
-        "clubhouseCharges": 97500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 146250,
+        "clubhouseCharges": 97500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Yr5BwDRbFNIiqwBjWtCMNhRsmIHKZenfXV5IfERK.webp"
       },
@@ -6404,53 +6500,53 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 6825000,
         "pricePerSqft": 6500,
-        "infraCharges": 204750.0,
-        "clubhouseCharges": 136500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 204750,
+        "clubhouseCharges": 136500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Yr5BwDRbFNIiqwBjWtCMNhRsmIHKZenfXV5IfERK.webp"
       }
     ],
     "faqs": [
       {
-        "question": "Where is Gera Imperium Gateway \u2013 A located?",
-        "answer": "Gera Imperium Gateway \u2013 A is located at Bhosari, Pune."
+        "question": "Where is Gera Imperium Gateway – A located?",
+        "answer": "Gera Imperium Gateway – A is located at Bhosari, Pune."
       },
       {
-        "question": "What is the price of Gera Imperium Gateway \u2013 A?",
-        "answer": "Prices at Gera Imperium Gateway \u2013 A range from \u20b9 65.64 Lac \u2013 3.50 Cr (agreement value). Homes are available as Commercial Office."
+        "question": "What is the price of Gera Imperium Gateway – A?",
+        "answer": "Prices at Gera Imperium Gateway – A range from ₹ 65.64 Lac – 3.50 Cr (agreement value). Homes are available as Commercial Office."
       },
       {
-        "question": "Which configurations are available at Gera Imperium Gateway \u2013 A?",
-        "answer": "The project offers Commercial Office homes. Carpet areas range from 414 \u2013 1,400 sq.ft."
+        "question": "Which configurations are available at Gera Imperium Gateway – A?",
+        "answer": "The project offers Commercial Office homes. Carpet areas range from 414 – 1,400 sq.ft."
       },
       {
-        "question": "What is the RERA number of Gera Imperium Gateway \u2013 A?",
-        "answer": "The RERA registration number of Gera Imperium Gateway \u2013 A is P52100030184 P52100030167."
+        "question": "What is the RERA number of Gera Imperium Gateway – A?",
+        "answer": "The RERA registration number of Gera Imperium Gateway – A is P52100030184 P52100030167."
       },
       {
-        "question": "When is the possession of Gera Imperium Gateway \u2013 A?",
+        "question": "When is the possession of Gera Imperium Gateway – A?",
         "answer": "Possession is expected by Mar 2026, as per the RERA registration."
       },
       {
-        "question": "Who is the developer of Gera Imperium Gateway \u2013 A?",
-        "answer": "Gera Imperium Gateway \u2013 A is developed by Gera Developers. The developer has been in real estate since 1970."
+        "question": "Who is the developer of Gera Imperium Gateway – A?",
+        "answer": "Gera Imperium Gateway – A is developed by Gera Developers. The developer has been in real estate since 1970."
       },
       {
-        "question": "How many floors does Gera Imperium Gateway \u2013 A have?",
+        "question": "How many floors does Gera Imperium Gateway – A have?",
         "answer": "The project has G+35 floors. It is spread across 1.8 acres."
       },
       {
-        "question": "What amenities does Gera Imperium Gateway \u2013 A offer?",
+        "question": "What amenities does Gera Imperium Gateway – A offer?",
         "answer": "Amenities include Conference Room, Fitness Corner, Sports Courts and more."
       },
       {
-        "question": "Which banks give home loans for Gera Imperium Gateway \u2013 A?",
+        "question": "Which banks give home loans for Gera Imperium Gateway – A?",
         "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
       },
       {
-        "question": "How do I book a site visit to Gera Imperium Gateway \u2013 A?",
+        "question": "How do I book a site visit to Gera Imperium Gateway – A?",
         "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
       }
     ],
@@ -6459,14 +6555,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b948.75 L"
+        "type": "Boutique Office Suite",
+        "carpetArea": "420 sq.ft",
+        "priceRange": "₹55.00 L"
       },
       {
-        "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b968.25 L"
+        "type": "Corporate Office Space",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "₹1.15 Cr"
+      },
+      {
+        "type": "Executive Commercial Floor",
+        "carpetArea": "1200 sq.ft",
+        "priceRange": "₹1.65 Cr"
+      },
+      {
+        "type": "Metro High-Street Retail Shop",
+        "carpetArea": "550 sq.ft",
+        "priceRange": "₹2.28 Cr"
       }
     ]
   },
@@ -6476,10 +6582,11 @@ export const PROJECTS: Project[] = [
     "slug": "gera-joy-on-treetop",
     "builderId": "b-gera",
     "location": "Hinjewadi",
-    "priceRange": "\u20b985.90 L - \u20b994.90 L",
-    "exactPrice": "\u20b985.90 L",
+    "priceRange": "₹84.00 L - ₹1.38 Cr",
+    "exactPrice": "₹84.00 L",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -6495,7 +6602,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/ImDiujOwFBjJL4Fonv1zzS6x5tRznB71FrHLlhmt.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Re1pQnaMMOCbS4ph0DQTOvgYzMeNJKjA3J8utYWQ.webp"
     ],
-    "description": "Gera Joy On Treetop by Gera Developments represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b985.90 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner. Verified under MahaRERA registration P52100077635, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Gera Joy On Treetop by Gera Developments represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹85.90 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner. Verified under MahaRERA registration P52100077635, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -6557,7 +6664,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Gera Developments developer inventory"
     ],
     "reraId": "P52100077635",
-    "pricePerSqft": 7800,
+    "pricePerSqft": 11200,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -6570,7 +6677,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Gera Joy On Treetop, Hinjewadi Pune by Gera Developments. Price starts \u20b985.90 L. 100% Zero Brokerage. Verified MahaRERA P52100077635. Floor plans &",
+    "metaDescription": "Buy 2 BHK in Gera Joy On Treetop, Hinjewadi Pune by Gera Developments. Price starts ₹85.90 L. 100% Zero Brokerage. Verified MahaRERA P52100077635. Floor plans &",
     "advancedConfigurations": [
       {
         "id": "cfg-gera-joy-on-treetop-1",
@@ -6579,12 +6686,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 753,
         "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 8590000.0,
+        "basePrice": 8590000,
         "pricePerSqft": 11407.7,
-        "infraCharges": 257700.0,
-        "clubhouseCharges": 171800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 257700,
+        "clubhouseCharges": 171800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Clv6QVczOiJD0bNhVQSdUoYvHCzVM92HasWLD3ET.webp"
       },
@@ -6595,12 +6702,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 753,
         "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 8590000.0,
+        "basePrice": 8590000,
         "pricePerSqft": 11407.7,
-        "infraCharges": 257700.0,
-        "clubhouseCharges": 171800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 257700,
+        "clubhouseCharges": 171800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/FmsooXsys3CQEXObVELeVcFw0pG4tD91LIBWTvhT.webp"
       },
@@ -6611,12 +6718,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 855,
         "balconyArea": 68,
         "bathrooms": 2,
-        "basePrice": 9490000.0,
+        "basePrice": 9490000,
         "pricePerSqft": 11099.42,
-        "infraCharges": 284700.0,
-        "clubhouseCharges": 189800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 284700,
+        "clubhouseCharges": 189800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/HTDeJtXzkfygVbiRVz95ojkcuQKU5PXVfRQ9NN4R.webp"
       }
@@ -6628,11 +6735,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Gera Joy On Treetop?",
-        "answer": "Prices at Gera Joy On Treetop range from \u20b9 85.90 Lac \u2013 1.38 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Gera Joy On Treetop range from ₹ 85.90 Lac – 1.38 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Gera Joy On Treetop?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 753 \u2013 1,215 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 753 – 1,215 sq.ft."
       },
       {
         "question": "What is the RERA number of Gera Joy On Treetop?",
@@ -6668,19 +6775,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Smart",
         "carpetArea": "753 sq.ft",
-        "priceRange": "\u20b985.90 L"
+        "priceRange": "₹84.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "753 sq.ft",
-        "priceRange": "\u20b985.90 L"
+        "type": "2 BHK Grande",
+        "carpetArea": "868 sq.ft",
+        "priceRange": "₹94.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "855 sq.ft",
-        "priceRange": "\u20b994.90 L"
+        "type": "3 BHK Family",
+        "carpetArea": "1011 sq.ft",
+        "priceRange": "₹1.16 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1237 sq.ft",
+        "priceRange": "₹1.38 Cr"
       }
     ]
   },
@@ -6690,8 +6802,8 @@ export const PROJECTS: Project[] = [
     "slug": "kasturi-apostrophe",
     "builderId": "b-kasturi",
     "location": "Hinjewadi",
-    "priceRange": "\u20b988.00 L",
-    "exactPrice": "\u20b988.00 L",
+    "priceRange": "₹88.00 L",
+    "exactPrice": "₹88.00 L",
     "configurations": [
       "2 BHK"
     ],
@@ -6709,7 +6821,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/kLEnSzR22c9MFpgzW1q1VBKhcmnWujmwF6wocGF3.webp",
       "https://keystoneliv.com/public/uploads/property/z1Cl4amxzGL9angDNIWfxgIYIvfKxamUuEWGUPd0.webp"
     ],
-    "description": "Kasturi Apostrophe by Kasturi Housing represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b988.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100031595, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kasturi Apostrophe by Kasturi Housing represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹88.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100031595, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Cafeteria",
@@ -6779,7 +6891,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Kasturi Apostrophe, Hinjewadi Pune by Kasturi Housing. Price starts \u20b988.00 L. 100% Zero Brokerage. Verified MahaRERA P52100031595. Floor plans & br",
+    "metaDescription": "Buy 2 BHK in Kasturi Apostrophe, Hinjewadi Pune by Kasturi Housing. Price starts ₹88.00 L. 100% Zero Brokerage. Verified MahaRERA P52100031595. Floor plans & br",
     "advancedConfigurations": [
       {
         "id": "cfg-kasturi-apostrophe-1",
@@ -6788,12 +6900,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 710,
         "balconyArea": 56,
         "bathrooms": 2,
-        "basePrice": 8800000.0,
+        "basePrice": 8800000,
         "pricePerSqft": 12394.37,
-        "infraCharges": 264000.0,
-        "clubhouseCharges": 176000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 264000,
+        "clubhouseCharges": 176000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Kc9WrFfiUHLEzOWKPwF0yAt4AFwu6yogpoLOfgi1.webp"
       },
@@ -6804,12 +6916,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 710,
         "balconyArea": 56,
         "bathrooms": 2,
-        "basePrice": 8800000.0,
+        "basePrice": 8800000,
         "pricePerSqft": 12394.37,
-        "infraCharges": 264000.0,
-        "clubhouseCharges": 176000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 264000,
+        "clubhouseCharges": 176000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (75).webp"
       }
@@ -6821,7 +6933,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kasturi Apostrophe?",
-        "answer": "Prices at Kasturi Apostrophe range from \u20b9 88.00 Lac (agreement value). Homes are available as 2 BHK."
+        "answer": "Prices at Kasturi Apostrophe range from ₹ 88.00 Lac (agreement value). Homes are available as 2 BHK."
       },
       {
         "question": "Which configurations are available at Kasturi Apostrophe?",
@@ -6863,12 +6975,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "710 sq.ft",
-        "priceRange": "\u20b988.00 L"
+        "priceRange": "₹88.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "710 sq.ft",
-        "priceRange": "\u20b988.00 L"
+        "priceRange": "₹88.00 L"
       }
     ]
   },
@@ -6878,11 +6990,12 @@ export const PROJECTS: Project[] = [
     "slug": "kasturi-eon-homes",
     "builderId": "b-kasturi",
     "location": "Hinjewadi",
-    "priceRange": "\u20b91.10 Cr - \u20b91.30 Cr",
-    "exactPrice": "\u20b91.10 Cr",
+    "priceRange": "₹1.07 Cr - ₹1.91 Cr",
+    "exactPrice": "₹1.07 Cr",
     "configurations": [
       "2 BHK",
-      "5 BHK"
+      "2.5 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -6898,7 +7011,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/CDMAPe6qKsbaiZoY5bJY1as78VedvW5RfxaRbaLD.webp",
       "https://keystoneliv.com/public/uploads/property/EUGfJFJxGbOyjIhZSzCYMF3RNiNiqBdv63H9ECdy.webp"
     ],
-    "description": "Kasturi Eon Homes by Kasturi Housing represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 5 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.10 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Sports Courts. Verified under MahaRERA registration P52100026429, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kasturi Eon Homes by Kasturi Housing represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 5 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹1.10 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Sports Courts. Verified under MahaRERA registration P52100026429, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Club house",
       "Fitness Corner",
@@ -6956,7 +7069,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Kasturi Housing developer inventory"
     ],
     "reraId": "P52100026429",
-    "pricePerSqft": 7800,
+    "pricePerSqft": 12800,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -6969,7 +7082,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 5 BHK in Kasturi Eon Homes, Hinjewadi Pune by Kasturi Housing. Price starts \u20b91.10 Cr. 100% Zero Brokerage. Verified MahaRERA P52100026429. Floor plan",
+    "metaDescription": "Buy 2 BHK, 5 BHK in Kasturi Eon Homes, Hinjewadi Pune by Kasturi Housing. Price starts ₹1.10 Cr. 100% Zero Brokerage. Verified MahaRERA P52100026429. Floor plan",
     "advancedConfigurations": [
       {
         "id": "cfg-kasturi-eon-homes-1",
@@ -6980,10 +7093,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 11000000.000000002,
         "pricePerSqft": 13095.24,
-        "infraCharges": 330000.0,
-        "clubhouseCharges": 220000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 330000,
+        "clubhouseCharges": 220000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/hktier2sHXP4K72r1KJuALKWEkO0q8C2EMl3ZeVO.webp"
       },
@@ -6996,10 +7109,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 11000000.000000002,
         "pricePerSqft": 13095.24,
-        "infraCharges": 330000.0,
-        "clubhouseCharges": 220000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 330000,
+        "clubhouseCharges": 220000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/EFCbCMcwQX5lBHlxlb1G1NTULKb5MjiKSxeS3S9s.webp"
       },
@@ -7010,12 +7123,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 973,
         "balconyArea": 77,
         "bathrooms": 4,
-        "basePrice": 13000000.0,
+        "basePrice": 13000000,
         "pricePerSqft": 13360.74,
-        "infraCharges": 390000.0,
-        "clubhouseCharges": 260000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 390000,
+        "clubhouseCharges": 260000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/LlTxJHtDg73ynmCPMzwDQD1pDvn5dQpm7OIdijJ7.webp"
       }
@@ -7027,11 +7140,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kasturi Eon Homes?",
-        "answer": "Prices at Kasturi Eon Homes range from \u20b9 1.10 Cr \u2013 1.79 Cr (agreement value). Homes are available as 2, 2.5, 3 BHK."
+        "answer": "Prices at Kasturi Eon Homes range from ₹ 1.10 Cr – 1.79 Cr (agreement value). Homes are available as 2, 2.5, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kasturi Eon Homes?",
-        "answer": "The project offers 2, 2.5, 3 BHK homes. Carpet areas range from 840 \u2013 1,150 sq.ft."
+        "answer": "The project offers 2, 2.5, 3 BHK homes. Carpet areas range from 840 – 1,150 sq.ft."
       },
       {
         "question": "What is the RERA number of Kasturi Eon Homes?",
@@ -7067,19 +7180,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "840 sq.ft",
-        "priceRange": "\u20b91.10 Cr"
+        "type": "2 BHK Premium",
+        "carpetArea": "839 sq.ft",
+        "priceRange": "₹1.07 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "840 sq.ft",
-        "priceRange": "\u20b91.10 Cr"
-      },
-      {
-        "type": "5 BHK Luxury Unit",
+        "type": "2.5 BHK Luxury",
         "carpetArea": "973 sq.ft",
-        "priceRange": "\u20b91.30 Cr"
+        "priceRange": "₹1.28 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1149 sq.ft",
+        "priceRange": "₹1.70 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1260 sq.ft",
+        "priceRange": "₹1.91 Cr"
       }
     ]
   },
@@ -7089,11 +7207,12 @@ export const PROJECTS: Project[] = [
     "slug": "kasturi-the-balmoral-towers",
     "builderId": "b-kasturi",
     "location": "Balewadi",
-    "priceRange": "\u20b973.50 L - \u20b91.03 Cr",
-    "exactPrice": "\u20b973.50 L",
+    "priceRange": "₹2.13 Cr - ₹6.11 Cr",
+    "exactPrice": "₹2.13 Cr",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK",
+      "Penthouse"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -7109,7 +7228,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/f9GMlttRsqc66dOt6VQurFR4i48juAfzCiUaFmOs.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/yiPGuOJ5Fhyx0YB3EzGkjiPFft7mIQsii4HFZdjW.webp"
     ],
-    "description": "Kasturi The Balmoral Towers by Kasturi Housing represents modern residential excellence in Balewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b973.50 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym. Verified under MahaRERA registration P52100047008, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "The Balmoral Towers by Kasturi Housing is a benchmark of ultra-luxury living on Balewadi High Street, Pune. Featuring international concierge services, German engineered fixtures, and sprawling 3 & 4 BHK residences starting from ₹2.13 Cr up to ₹6.11 Cr.\n\nVerified under MahaRERA registration P52100001099 with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -7167,7 +7286,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Kasturi Housing developer inventory"
     ],
     "reraId": "P52100047008",
-    "pricePerSqft": 9800,
+    "pricePerSqft": 18500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -7180,7 +7299,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Balewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kasturi The Balmoral Towers, Balewadi Pune by Kasturi Housing. Price starts \u20b973.50 L. 100% Zero Brokerage. Verified MahaRERA P52100047008. F",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kasturi The Balmoral Towers, Balewadi Pune by Kasturi Housing. Price starts ₹73.50 L. 100% Zero Brokerage. Verified MahaRERA P52100047008. F",
     "advancedConfigurations": [
       {
         "id": "cfg-kasturi-the-balmoral-towers-1",
@@ -7191,10 +7310,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 7350000,
         "pricePerSqft": 9800,
-        "infraCharges": 220500.0,
-        "clubhouseCharges": 147000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 220500,
+        "clubhouseCharges": 147000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp"
       },
@@ -7207,10 +7326,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 10290000,
         "pricePerSqft": 9800,
-        "infraCharges": 308700.0,
-        "clubhouseCharges": 205800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 308700,
+        "clubhouseCharges": 205800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp"
       }
@@ -7222,11 +7341,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kasturi The Balmoral Towers?",
-        "answer": "Prices at Kasturi The Balmoral Towers range from \u20b9 2.03 Cr \u2013 7.51 Cr (agreement value). Homes are available as 3, 4, 4.5, 5.5 BHK."
+        "answer": "Prices at Kasturi The Balmoral Towers range from ₹ 2.03 Cr – 7.51 Cr (agreement value). Homes are available as 3, 4, 4.5, 5.5 BHK."
       },
       {
         "question": "Which configurations are available at Kasturi The Balmoral Towers?",
-        "answer": "The project offers 3, 4, 4.5, 5.5 BHK homes. Carpet areas range from 1,246 \u2013 3,742 sq.ft."
+        "answer": "The project offers 3, 4, 4.5, 5.5 BHK homes. Carpet areas range from 1,246 – 3,742 sq.ft."
       },
       {
         "question": "What is the RERA number of Kasturi The Balmoral Towers?",
@@ -7262,25 +7381,40 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b973.50 L"
+        "type": "3 BHK Luxury",
+        "carpetArea": "1108 sq.ft",
+        "priceRange": "₹2.13 Cr"
       },
       {
-        "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b91.03 Cr"
+        "type": "3 BHK Grande",
+        "carpetArea": "1246 sq.ft",
+        "priceRange": "₹2.56 Cr"
+      },
+      {
+        "type": "4 BHK Sky Residence",
+        "carpetArea": "1581 sq.ft",
+        "priceRange": "₹2.74 Cr"
+      },
+      {
+        "type": "4 BHK Royale",
+        "carpetArea": "1750 sq.ft",
+        "priceRange": "₹3.05 Cr"
+      },
+      {
+        "type": "Signature Penthouse",
+        "carpetArea": "2850 sq.ft",
+        "priceRange": "₹6.11 Cr"
       }
     ]
   },
   {
     "id": "p-mahindra-happinest",
-    "title": "Mahindra Happinest \u2013 D,E,F,G",
+    "title": "Mahindra Happinest – D,E,F,G",
     "slug": "mahindra-happinest",
     "builderId": "b-mahindra",
     "location": "Tathawade",
-    "priceRange": "\u20b956.25 L - \u20b978.75 L",
-    "exactPrice": "\u20b956.25 L",
+    "priceRange": "₹56.25 L - ₹78.75 L",
+    "exactPrice": "₹56.25 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -7300,7 +7434,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/G8iCil7CfCUQv3jH8sFJxdrhZovPC6sPFiRqwXjG.webp",
       "https://keystoneliv.com/public/uploads/property/AEV4Alkp45KgjGoLG3i2wOtoKOjfuY7T0aplVMNP.webp"
     ],
-    "description": "Mahindra Happinest \u2013 D,E,F,G by Mahindra Lifespaces represents modern residential excellence in Tathawade, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b956.25 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100028049, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Mahindra Happinest – D,E,F,G by Mahindra Lifespaces represents modern residential excellence in Tathawade, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹56.25 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100028049, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Club house",
@@ -7361,16 +7495,16 @@ export const PROJECTS: Project[] = [
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
-      "Mahindra Happinest \u2013 D,E,F,G Tathawade",
-      "Mahindra Happinest \u2013 D,E,F,G Pune price",
-      "Mahindra Happinest \u2013 D,E,F,G floor plan",
-      "Mahindra Happinest \u2013 D,E,F,G MahaRERA P52100028049",
+      "Mahindra Happinest – D,E,F,G Tathawade",
+      "Mahindra Happinest – D,E,F,G Pune price",
+      "Mahindra Happinest – D,E,F,G floor plan",
+      "Mahindra Happinest – D,E,F,G MahaRERA P52100028049",
       "Mahindra Lifespaces projects in Tathawade",
       "flats in Tathawade Pune",
       "buy 2 BHK in Tathawade",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Mahindra Happinest \u2013 D,E,F,G, Tathawade Pune by Mahindra Lifespaces. Price starts \u20b956.25 L. 100% Zero Brokerage. Verified MahaRERA P52100028",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Mahindra Happinest – D,E,F,G, Tathawade Pune by Mahindra Lifespaces. Price starts ₹56.25 L. 100% Zero Brokerage. Verified MahaRERA P52100028",
     "advancedConfigurations": [
       {
         "id": "cfg-mahindra-happinest-1",
@@ -7381,10 +7515,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 5625000,
         "pricePerSqft": 7500,
-        "infraCharges": 168750.0,
-        "clubhouseCharges": 112500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 168750,
+        "clubhouseCharges": 112500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/430sCsigr3Ej6G1NbTk8XPOQtxzzglMt7g2T8AOD.webp"
       },
@@ -7397,53 +7531,53 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 7875000,
         "pricePerSqft": 7500,
-        "infraCharges": 236250.0,
-        "clubhouseCharges": 157500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 236250,
+        "clubhouseCharges": 157500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/430sCsigr3Ej6G1NbTk8XPOQtxzzglMt7g2T8AOD.webp"
       }
     ],
     "faqs": [
       {
-        "question": "Where is Mahindra Happinest \u2013 D,E,F,G located?",
-        "answer": "Mahindra Happinest \u2013 D,E,F,G is located at Tathawade, Pimpri-Chinchwad, Maharashtra."
+        "question": "Where is Mahindra Happinest – D,E,F,G located?",
+        "answer": "Mahindra Happinest – D,E,F,G is located at Tathawade, Pimpri-Chinchwad, Maharashtra."
       },
       {
-        "question": "What is the price of Mahindra Happinest \u2013 D,E,F,G?",
-        "answer": "Prices at Mahindra Happinest \u2013 D,E,F,G range from \u20b9 45.00 Lac (agreement value). Homes are available as 1 BHK."
+        "question": "What is the price of Mahindra Happinest – D,E,F,G?",
+        "answer": "Prices at Mahindra Happinest – D,E,F,G range from ₹ 45.00 Lac (agreement value). Homes are available as 1 BHK."
       },
       {
-        "question": "Which configurations are available at Mahindra Happinest \u2013 D,E,F,G?",
+        "question": "Which configurations are available at Mahindra Happinest – D,E,F,G?",
         "answer": "The project offers 1 BHK homes. Carpet areas range from 470 sq.ft."
       },
       {
-        "question": "What is the RERA number of Mahindra Happinest \u2013 D,E,F,G?",
-        "answer": "The RERA registration number of Mahindra Happinest \u2013 D,E,F,G is P52100028049/P52100045388."
+        "question": "What is the RERA number of Mahindra Happinest – D,E,F,G?",
+        "answer": "The RERA registration number of Mahindra Happinest – D,E,F,G is P52100028049/P52100045388."
       },
       {
-        "question": "When is the possession of Mahindra Happinest \u2013 D,E,F,G?",
+        "question": "When is the possession of Mahindra Happinest – D,E,F,G?",
         "answer": "Possession is expected by Jun 2026, as per the RERA registration."
       },
       {
-        "question": "Who is the developer of Mahindra Happinest \u2013 D,E,F,G?",
-        "answer": "Mahindra Happinest \u2013 D,E,F,G is developed by Mahindra Lifespaces. The developer has been in real estate since 1994."
+        "question": "Who is the developer of Mahindra Happinest – D,E,F,G?",
+        "answer": "Mahindra Happinest – D,E,F,G is developed by Mahindra Lifespaces. The developer has been in real estate since 1994."
       },
       {
-        "question": "How many floors does Mahindra Happinest \u2013 D,E,F,G have?",
+        "question": "How many floors does Mahindra Happinest – D,E,F,G have?",
         "answer": "The project has B+G+22 floors. It is spread across 7 acres."
       },
       {
-        "question": "What amenities does Mahindra Happinest \u2013 D,E,F,G offer?",
+        "question": "What amenities does Mahindra Happinest – D,E,F,G offer?",
         "answer": "Amenities include Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Library, Swimming Pool and more."
       },
       {
-        "question": "Which banks give home loans for Mahindra Happinest \u2013 D,E,F,G?",
+        "question": "Which banks give home loans for Mahindra Happinest – D,E,F,G?",
         "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
       },
       {
-        "question": "How do I book a site visit to Mahindra Happinest \u2013 D,E,F,G?",
+        "question": "How do I book a site visit to Mahindra Happinest – D,E,F,G?",
         "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
       }
     ],
@@ -7454,12 +7588,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Premium",
         "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b956.25 L"
+        "priceRange": "₹56.25 L"
       },
       {
         "type": "3 BHK Royale",
         "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b978.75 L"
+        "priceRange": "₹78.75 L"
       }
     ]
   },
@@ -7469,11 +7603,12 @@ export const PROJECTS: Project[] = [
     "slug": "mahindra-citadel",
     "builderId": "b-mahindra",
     "location": "Pimpri Chinchwad",
-    "priceRange": "\u20b988.00 L - \u20b91.21 Cr",
-    "exactPrice": "\u20b988.00 L",
+    "priceRange": "₹1.01 Cr - ₹2.64 Cr",
+    "exactPrice": "₹1.01 Cr",
     "configurations": [
       "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -7489,7 +7624,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/k0DKtRzvGyo3jMbyF5lDnXQFFY421WAIwDkXgXvJ.webp",
       "https://keystoneliv.com/public/uploads/property/ljCflOeKdGaCwzeaJCHwGzZzLQOn3TbJUc7voNB7.webp"
     ],
-    "description": "Mahindra Citadel by Mahindra Lifespaces represents modern residential excellence in Pimpri Chinchwad, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b988.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100047656, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Mahindra Citadel by Mahindra Lifespaces represents modern residential excellence in Pimpri Chinchwad, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹88.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100047656, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Club house",
@@ -7550,7 +7685,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Mahindra Lifespaces developer inventory"
     ],
     "reraId": "P52100047656",
-    "pricePerSqft": 7800,
+    "pricePerSqft": 15800,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -7563,7 +7698,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Pimpri Chinchwad",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Mahindra Citadel, Pimpri Chinchwad Pune by Mahindra Lifespaces. Price starts \u20b988.00 L. 100% Zero Brokerage. Verified MahaRERA P52100047656. ",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Mahindra Citadel, Pimpri Chinchwad Pune by Mahindra Lifespaces. Price starts ₹88.00 L. 100% Zero Brokerage. Verified MahaRERA P52100047656. ",
     "advancedConfigurations": [
       {
         "id": "cfg-mahindra-citadel-1",
@@ -7572,12 +7707,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 731,
         "balconyArea": 58,
         "bathrooms": 2,
-        "basePrice": 8800000.0,
+        "basePrice": 8800000,
         "pricePerSqft": 12038.3,
-        "infraCharges": 264000.0,
-        "clubhouseCharges": 176000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 264000,
+        "clubhouseCharges": 176000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/7R1KntHtZGpJcf1ID73ZhW6Bmbi6t69x1dDPXrCk.webp"
       },
@@ -7588,12 +7723,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 731,
         "balconyArea": 58,
         "bathrooms": 2,
-        "basePrice": 8800000.0,
+        "basePrice": 8800000,
         "pricePerSqft": 12038.3,
-        "infraCharges": 264000.0,
-        "clubhouseCharges": 176000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 264000,
+        "clubhouseCharges": 176000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image - 2026-06-02T151837.150.webp"
       },
@@ -7604,12 +7739,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 978,
         "balconyArea": 78,
         "bathrooms": 3,
-        "basePrice": 12100000.0,
+        "basePrice": 12100000,
         "pricePerSqft": 12372.19,
-        "infraCharges": 363000.0,
-        "clubhouseCharges": 242000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 363000,
+        "clubhouseCharges": 242000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image - 2026-06-02T151842.182.webp"
       }
@@ -7621,11 +7756,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Mahindra Citadel?",
-        "answer": "Prices at Mahindra Citadel range from \u20b9 88.00 Lac \u2013 1.21 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Mahindra Citadel range from ₹ 88.00 Lac – 1.21 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Mahindra Citadel?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 731 \u2013 978 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 731 – 978 sq.ft."
       },
       {
         "question": "What is the RERA number of Mahindra Citadel?",
@@ -7661,19 +7796,29 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "731 sq.ft",
-        "priceRange": "\u20b988.00 L"
+        "type": "2 BHK Premium",
+        "carpetArea": "634 sq.ft",
+        "priceRange": "₹1.01 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "731 sq.ft",
-        "priceRange": "\u20b988.00 L"
+        "type": "2 BHK Grande",
+        "carpetArea": "838 sq.ft",
+        "priceRange": "₹1.35 Cr"
       },
       {
-        "type": "3 BHK Luxury Unit",
+        "type": "3 BHK Luxury",
         "carpetArea": "978 sq.ft",
-        "priceRange": "\u20b91.21 Cr"
+        "priceRange": "₹1.57 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1386 sq.ft",
+        "priceRange": "₹2.13 Cr"
+      },
+      {
+        "type": "4 BHK Sky Villa",
+        "carpetArea": "1665 sq.ft",
+        "priceRange": "₹2.64 Cr"
       }
     ]
   },
@@ -7683,10 +7828,11 @@ export const PROJECTS: Project[] = [
     "slug": "mahindra-kharadi",
     "builderId": "b-mahindra",
     "location": "Kharadi",
-    "priceRange": "\u20b998.00 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b998.00 L",
+    "priceRange": "₹95.00 L - ₹1.84 Cr",
+    "exactPrice": "₹95.00 L",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -7702,7 +7848,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/CRFwCIeZDlS2wIt2FCjHtVPHQkc9Bh2S4PO5qe0k.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/QbhYUbAfFrqgKArEMujIovb4jaOm9oYk4M7GmYWA.webp"
     ],
-    "description": "Mahindra Kharadi by Mahindra Lifespaces represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b998.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100055161, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Mahindra Kharadi by Mahindra Lifespaces represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹98.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100055161, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Club house",
@@ -7761,7 +7907,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Mahindra Lifespaces developer inventory"
     ],
     "reraId": "P52100055161",
-    "pricePerSqft": 9600,
+    "pricePerSqft": 12400,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -7774,7 +7920,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Kharadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Mahindra Kharadi, Kharadi Pune by Mahindra Lifespaces. Price starts \u20b998.00 L. 100% Zero Brokerage. Verified MahaRERA P52100055161. Floor plans & br",
+    "metaDescription": "Buy 2 BHK in Mahindra Kharadi, Kharadi Pune by Mahindra Lifespaces. Price starts ₹98.00 L. 100% Zero Brokerage. Verified MahaRERA P52100055161. Floor plans & br",
     "advancedConfigurations": [
       {
         "id": "cfg-mahindra-kharadi-1",
@@ -7783,12 +7929,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 769,
         "balconyArea": 61,
         "bathrooms": 2,
-        "basePrice": 9800000.0,
+        "basePrice": 9800000,
         "pricePerSqft": 12743.82,
-        "infraCharges": 294000.0,
-        "clubhouseCharges": 196000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 294000,
+        "clubhouseCharges": 196000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/3msy8g3YfuGeOTEPUH6aUTf87xT71BtV95I63SR5.webp"
       },
@@ -7799,12 +7945,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 769,
         "balconyArea": 61,
         "bathrooms": 2,
-        "basePrice": 9800000.0,
+        "basePrice": 9800000,
         "pricePerSqft": 12743.82,
-        "infraCharges": 294000.0,
-        "clubhouseCharges": 196000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 294000,
+        "clubhouseCharges": 196000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/T2hW8rsrM5jiIRNVy8F3OvaLwxpanGya500Zymno.webp"
       },
@@ -7817,10 +7963,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 11000000.000000002,
         "pricePerSqft": 12687.43,
-        "infraCharges": 330000.0,
-        "clubhouseCharges": 220000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 330000,
+        "clubhouseCharges": 220000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp"
       }
@@ -7832,11 +7978,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Mahindra Kharadi?",
-        "answer": "Prices at Mahindra Kharadi range from \u20b9 98.00 Lac \u2013 2.12 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Mahindra Kharadi range from ₹ 98.00 Lac – 2.12 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Mahindra Kharadi?",
-        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 769 \u2013 1,599 sq.ft."
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 769 – 1,599 sq.ft."
       },
       {
         "question": "What is the RERA number of Mahindra Kharadi?",
@@ -7872,19 +8018,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Premium",
         "carpetArea": "769 sq.ft",
-        "priceRange": "\u20b998.00 L"
+        "priceRange": "₹95.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "769 sq.ft",
-        "priceRange": "\u20b998.00 L"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Grande",
         "carpetArea": "867 sq.ft",
-        "priceRange": "\u20b91.10 Cr"
+        "priceRange": "₹1.18 Cr"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1114 sq.ft",
+        "priceRange": "₹1.40 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1237 sq.ft",
+        "priceRange": "₹1.84 Cr"
       }
     ]
   },
@@ -7894,10 +8045,11 @@ export const PROJECTS: Project[] = [
     "slug": "kumar-parth-tower",
     "builderId": "b-kumar",
     "location": "Baner",
-    "priceRange": "\u20b91.04 Cr",
-    "exactPrice": "\u20b91.04 Cr",
+    "priceRange": "₹99.00 L - ₹1.63 Cr",
+    "exactPrice": "₹99.00 L",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -7913,7 +8065,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Ti87vi13I6M0IRd0wREubyKxdc8T4Nkn8g7wE844.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/AyxlzWYoKGc6CUULimaJkjmBUMC6UAe7CwEFP02O.webp"
     ],
-    "description": "Kumar Parth Tower by Kumar Properties represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.04 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Cafeteria, Fitness Corner, Jogging Track, Kids Play Area, Party Lawn, Pet Park. Verified under MahaRERA registration P52100047987, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kumar Parth Tower by Kumar Properties represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹1.04 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Cafeteria, Fitness Corner, Jogging Track, Kids Play Area, Party Lawn, Pet Park. Verified under MahaRERA registration P52100047987, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Cafeteria",
       "Fitness Corner",
@@ -7968,7 +8120,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Kumar Properties developer inventory"
     ],
     "reraId": "P52100047987",
-    "pricePerSqft": 10500,
+    "pricePerSqft": 13000,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -7981,7 +8133,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Baner",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Kumar Parth Tower, Baner Pune by Kumar Properties. Price starts \u20b91.04 Cr. 100% Zero Brokerage. Verified MahaRERA P52100047987. Floor plans & brochu",
+    "metaDescription": "Buy 2 BHK in Kumar Parth Tower, Baner Pune by Kumar Properties. Price starts ₹1.04 Cr. 100% Zero Brokerage. Verified MahaRERA P52100047987. Floor plans & brochu",
     "advancedConfigurations": [
       {
         "id": "cfg-kumar-parth-tower-1",
@@ -7990,12 +8142,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 774,
         "balconyArea": 61,
         "bathrooms": 2,
-        "basePrice": 10400000.0,
+        "basePrice": 10400000,
         "pricePerSqft": 13436.69,
-        "infraCharges": 312000.0,
-        "clubhouseCharges": 208000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 312000,
+        "clubhouseCharges": 208000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zoLAkypqIHabTujIT7jLRaHsLqSvtkc6H9LUm5nB.webp"
       },
@@ -8006,12 +8158,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 774,
         "balconyArea": 61,
         "bathrooms": 2,
-        "basePrice": 10400000.0,
+        "basePrice": 10400000,
         "pricePerSqft": 13436.69,
-        "infraCharges": 312000.0,
-        "clubhouseCharges": 208000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 312000,
+        "clubhouseCharges": 208000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/1hrp8Z2H37hCLmuwIlHXP5eaxifc5wiCotUH5cVM.webp"
       }
@@ -8023,11 +8175,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kumar Parth Tower?",
-        "answer": "Prices at Kumar Parth Tower range from \u20b9 1.04 Cr \u2013 1.90 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Kumar Parth Tower range from ₹ 1.04 Cr – 1.90 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Kumar Parth Tower?",
-        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 774 \u2013 1,500 sq.ft."
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 774 – 1,500 sq.ft."
       },
       {
         "question": "What is the RERA number of Kumar Parth Tower?",
@@ -8063,14 +8215,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "774 sq.ft",
-        "priceRange": "\u20b91.04 Cr"
+        "type": "2 BHK Premium",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "₹99.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Grande",
         "carpetArea": "774 sq.ft",
-        "priceRange": "\u20b91.04 Cr"
+        "priceRange": "₹1.16 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1077 sq.ft",
+        "priceRange": "₹1.41 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1177 sq.ft",
+        "priceRange": "₹1.63 Cr"
       }
     ]
   },
@@ -8080,10 +8242,11 @@ export const PROJECTS: Project[] = [
     "slug": "kumar-palmspring-towers",
     "builderId": "b-kumar",
     "location": "Undri",
-    "priceRange": "\u20b982.38 L - \u20b991.77 L",
-    "exactPrice": "\u20b982.38 L",
+    "priceRange": "₹76.00 L - ₹1.35 Cr",
+    "exactPrice": "₹76.00 L",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -8099,7 +8262,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/AyxlzWYoKGc6CUULimaJkjmBUMC6UAe7CwEFP02O.webp",
       "https://keystoneliv.com/public/uploads/property/MePjpM2o9KQjJ6xTMr6aFlHFsoAzGOb15Qt42xOo.webp"
     ],
-    "description": "Kumar Palmspring Towers by Kumar Properties represents modern residential excellence in Undri, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b982.38 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100048329, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kumar Palmspring Towers by Kumar Properties represents modern residential excellence in Undri, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹82.38 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100048329, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Cafeteria",
@@ -8151,7 +8314,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Kumar Properties developer inventory"
     ],
     "reraId": "P52100048329",
-    "pricePerSqft": 6600,
+    "pricePerSqft": 9800,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -8164,7 +8327,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Undri",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Kumar Palmspring Towers, Undri Pune by Kumar Properties. Price starts \u20b982.38 L. 100% Zero Brokerage. Verified MahaRERA P52100048329. Floor plans & ",
+    "metaDescription": "Buy 2 BHK in Kumar Palmspring Towers, Undri Pune by Kumar Properties. Price starts ₹82.38 L. 100% Zero Brokerage. Verified MahaRERA P52100048329. Floor plans & ",
     "advancedConfigurations": [
       {
         "id": "cfg-kumar-palmspring-towers-1",
@@ -8173,12 +8336,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 763,
         "balconyArea": 61,
         "bathrooms": 2,
-        "basePrice": 8238000.0,
+        "basePrice": 8238000,
         "pricePerSqft": 10796.85,
-        "infraCharges": 247140.0,
-        "clubhouseCharges": 164760.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 247140,
+        "clubhouseCharges": 164760,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/ByYt4cju0mAa243xiYGkSFBnG4OPoJfO0NqnVL4K.webp"
       },
@@ -8189,12 +8352,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 763,
         "balconyArea": 61,
         "bathrooms": 2,
-        "basePrice": 8238000.0,
+        "basePrice": 8238000,
         "pricePerSqft": 10796.85,
-        "infraCharges": 247140.0,
-        "clubhouseCharges": 164760.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 247140,
+        "clubhouseCharges": 164760,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/uROGhbrnCt3JOwg4l6nWrWbJXNmwQf1k5AM7ItuC.webp"
       },
@@ -8205,12 +8368,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 850,
         "balconyArea": 68,
         "bathrooms": 2,
-        "basePrice": 9177000.0,
+        "basePrice": 9177000,
         "pricePerSqft": 10796.47,
-        "infraCharges": 275310.0,
-        "clubhouseCharges": 183540.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 275310,
+        "clubhouseCharges": 183540,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Ti87vi13I6M0IRd0wREubyKxdc8T4Nkn8g7wE844.webp"
       }
@@ -8222,11 +8385,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kumar Palmspring Towers?",
-        "answer": "Prices at Kumar Palmspring Towers range from \u20b9 82.38 Lac \u2013 1.19 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Kumar Palmspring Towers range from ₹ 82.38 Lac – 1.19 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kumar Palmspring Towers?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 763 \u2013 1,103 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 763 – 1,103 sq.ft."
       },
       {
         "question": "What is the RERA number of Kumar Palmspring Towers?",
@@ -8262,30 +8425,35 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "763 sq.ft",
-        "priceRange": "\u20b982.38 L"
+        "type": "2 BHK Comfort",
+        "carpetArea": "764 sq.ft",
+        "priceRange": "₹76.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "763 sq.ft",
-        "priceRange": "\u20b982.38 L"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Grande",
         "carpetArea": "850 sq.ft",
-        "priceRange": "\u20b991.77 L"
+        "priceRange": "₹89.00 L"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹1.10 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1280 sq.ft",
+        "priceRange": "₹1.35 Cr"
       }
     ]
   },
   {
     "id": "p-kumar-codename-centrestage",
-    "title": "Kumar Codename Centrestage \u2013 0",
+    "title": "Kumar Codename Centrestage – 0",
     "slug": "kumar-codename-centrestage",
     "builderId": "b-kumar",
     "location": "Hinjewadi",
-    "priceRange": "\u20b964.00 L",
-    "exactPrice": "\u20b964.00 L",
+    "priceRange": "₹64.00 L",
+    "exactPrice": "₹64.00 L",
     "configurations": [
       "2 BHK"
     ],
@@ -8303,7 +8471,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Ptw9XmFBU5IeYvADN8ruLftUvTCTToYOMifOkh2x.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Tj3y8qp05piS5DyKdZNR5CmqntpkgK0jXLq6DkBE.webp"
     ],
-    "description": "Kumar Codename Centrestage \u2013 0 by Kumar Properties represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b964.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Library. Verified under MahaRERA registration P52100052912, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kumar Codename Centrestage – 0 by Kumar Properties represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹64.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Library. Verified under MahaRERA registration P52100052912, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Club house",
       "Fitness Corner",
@@ -8364,16 +8532,16 @@ export const PROJECTS: Project[] = [
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
-      "Kumar Codename Centrestage \u2013 0 Hinjewadi",
-      "Kumar Codename Centrestage \u2013 0 Pune price",
-      "Kumar Codename Centrestage \u2013 0 floor plan",
-      "Kumar Codename Centrestage \u2013 0 MahaRERA P52100052912",
+      "Kumar Codename Centrestage – 0 Hinjewadi",
+      "Kumar Codename Centrestage – 0 Pune price",
+      "Kumar Codename Centrestage – 0 floor plan",
+      "Kumar Codename Centrestage – 0 MahaRERA P52100052912",
       "Kumar Properties projects in Hinjewadi",
       "flats in Hinjewadi Pune",
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Kumar Codename Centrestage \u2013 0, Hinjewadi Pune by Kumar Properties. Price starts \u20b964.00 L. 100% Zero Brokerage. Verified MahaRERA P52100052912. Flo",
+    "metaDescription": "Buy 2 BHK in Kumar Codename Centrestage – 0, Hinjewadi Pune by Kumar Properties. Price starts ₹64.00 L. 100% Zero Brokerage. Verified MahaRERA P52100052912. Flo",
     "advancedConfigurations": [
       {
         "id": "cfg-kumar-codename-centrestage-1",
@@ -8382,12 +8550,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 658,
         "balconyArea": 52,
         "bathrooms": 2,
-        "basePrice": 6400000.0,
+        "basePrice": 6400000,
         "pricePerSqft": 9726.44,
-        "infraCharges": 192000.0,
-        "clubhouseCharges": 128000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 192000,
+        "clubhouseCharges": 128000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/9QSvdpBVQcRA9ABgjNfHXdLD8GpbbzQXsW9OlEb7.webp"
       },
@@ -8398,55 +8566,55 @@ export const PROJECTS: Project[] = [
         "carpetArea": 658,
         "balconyArea": 52,
         "bathrooms": 2,
-        "basePrice": 6400000.0,
+        "basePrice": 6400000,
         "pricePerSqft": 9726.44,
-        "infraCharges": 192000.0,
-        "clubhouseCharges": 128000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 192000,
+        "clubhouseCharges": 128000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/kQtc9sF6Owjfz21mFq09aaMEMBhYacxWFpT43wfC.webp"
       }
     ],
     "faqs": [
       {
-        "question": "Where is Kumar Codename Centrestage \u2013 0 located?",
-        "answer": "Kumar Codename Centrestage \u2013 0 is located at Phase 3, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Pimpri-Chinchwad, Maharashtra.."
+        "question": "Where is Kumar Codename Centrestage – 0 located?",
+        "answer": "Kumar Codename Centrestage – 0 is located at Phase 3, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Pimpri-Chinchwad, Maharashtra.."
       },
       {
-        "question": "What is the price of Kumar Codename Centrestage \u2013 0?",
-        "answer": "Prices at Kumar Codename Centrestage \u2013 0 range from \u20b9 64.00 Lac (agreement value). Homes are available as 2 BHK."
+        "question": "What is the price of Kumar Codename Centrestage – 0?",
+        "answer": "Prices at Kumar Codename Centrestage – 0 range from ₹ 64.00 Lac (agreement value). Homes are available as 2 BHK."
       },
       {
-        "question": "Which configurations are available at Kumar Codename Centrestage \u2013 0?",
+        "question": "Which configurations are available at Kumar Codename Centrestage – 0?",
         "answer": "The project offers 2 BHK homes. Carpet areas range from 658 sq.ft."
       },
       {
-        "question": "What is the RERA number of Kumar Codename Centrestage \u2013 0?",
-        "answer": "The RERA registration number of Kumar Codename Centrestage \u2013 0 is P52100052912."
+        "question": "What is the RERA number of Kumar Codename Centrestage – 0?",
+        "answer": "The RERA registration number of Kumar Codename Centrestage – 0 is P52100052912."
       },
       {
-        "question": "When is the possession of Kumar Codename Centrestage \u2013 0?",
+        "question": "When is the possession of Kumar Codename Centrestage – 0?",
         "answer": "Possession is expected by Dec 2029, as per the RERA registration."
       },
       {
-        "question": "Who is the developer of Kumar Codename Centrestage \u2013 0?",
-        "answer": "Kumar Codename Centrestage \u2013 0 is developed by Kumar Realty & Mega Polis. The developer has been in real estate since 1966."
+        "question": "Who is the developer of Kumar Codename Centrestage – 0?",
+        "answer": "Kumar Codename Centrestage – 0 is developed by Kumar Realty & Mega Polis. The developer has been in real estate since 1966."
       },
       {
-        "question": "How many floors does Kumar Codename Centrestage \u2013 0 have?",
+        "question": "How many floors does Kumar Codename Centrestage – 0 have?",
         "answer": "The project has 20 floors. It is spread across 2.18 acres."
       },
       {
-        "question": "What amenities does Kumar Codename Centrestage \u2013 0 offer?",
+        "question": "What amenities does Kumar Codename Centrestage – 0 offer?",
         "answer": "Amenities include Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Library, Party Lawn, Sports Courts and more."
       },
       {
-        "question": "Which banks give home loans for Kumar Codename Centrestage \u2013 0?",
+        "question": "Which banks give home loans for Kumar Codename Centrestage – 0?",
         "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
       },
       {
-        "question": "How do I book a site visit to Kumar Codename Centrestage \u2013 0?",
+        "question": "How do I book a site visit to Kumar Codename Centrestage – 0?",
         "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
       }
     ],
@@ -8457,12 +8625,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "658 sq.ft",
-        "priceRange": "\u20b964.00 L"
+        "priceRange": "₹64.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "658 sq.ft",
-        "priceRange": "\u20b964.00 L"
+        "priceRange": "₹64.00 L"
       }
     ]
   },
@@ -8472,8 +8640,8 @@ export const PROJECTS: Project[] = [
     "slug": "bramhacorp-hues-of-sky",
     "builderId": "b-bramhacorp",
     "location": "Camp",
-    "priceRange": "\u20b91.56 Cr - \u20b91.92 Cr",
-    "exactPrice": "\u20b91.56 Cr",
+    "priceRange": "₹1.56 Cr - ₹1.92 Cr",
+    "exactPrice": "₹1.56 Cr",
     "configurations": [
       "2 BHK"
     ],
@@ -8491,7 +8659,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/erVeCsyBq9xP98CDIxaoBvpB9TucxbfYYskXd5u8.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/8bVjxHl1Pm4gu6j8jiPOrVTXerCTsKss9eG2yUak.webp"
     ],
-    "description": "Bramhacorp Hues Of Sky by BramhaCorp represents modern residential excellence in Camp, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.56 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Fitness Corner, Gym, Jogging Track, Kids Play Area, Mini-Theater. Verified under MahaRERA registration P52100051537, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Bramhacorp Hues Of Sky by BramhaCorp represents modern residential excellence in Camp, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹1.56 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Fitness Corner, Gym, Jogging Track, Kids Play Area, Mini-Theater. Verified under MahaRERA registration P52100051537, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Fitness Corner",
@@ -8558,7 +8726,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Camp",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Bramhacorp Hues Of Sky, Camp Pune by BramhaCorp. Price starts \u20b91.56 Cr. 100% Zero Brokerage. Verified MahaRERA P52100051537. Floor plans & brochure",
+    "metaDescription": "Buy 2 BHK in Bramhacorp Hues Of Sky, Camp Pune by BramhaCorp. Price starts ₹1.56 Cr. 100% Zero Brokerage. Verified MahaRERA P52100051537. Floor plans & brochure",
     "advancedConfigurations": [
       {
         "id": "cfg-bramhacorp-hues-of-sky-1",
@@ -8567,12 +8735,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 700,
         "balconyArea": 56,
         "bathrooms": 2,
-        "basePrice": 15600000.0,
+        "basePrice": 15600000,
         "pricePerSqft": 22285.71,
-        "infraCharges": 468000.0,
-        "clubhouseCharges": 312000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 468000,
+        "clubhouseCharges": 312000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/e1Yisy3QN19cU13poeL9foZvCwjxU3tEAiuqtDxW.webp"
       },
@@ -8583,12 +8751,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 700,
         "balconyArea": 56,
         "bathrooms": 2,
-        "basePrice": 15600000.0,
+        "basePrice": 15600000,
         "pricePerSqft": 22285.71,
-        "infraCharges": 468000.0,
-        "clubhouseCharges": 312000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 468000,
+        "clubhouseCharges": 312000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/0Z27YlfNSec1eITGBHLNBI0TyDkXT9a9CEJJh9g0.webp"
       },
@@ -8599,12 +8767,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 729,
         "balconyArea": 58,
         "bathrooms": 2,
-        "basePrice": 16200000.0,
+        "basePrice": 16200000,
         "pricePerSqft": 22222.22,
-        "infraCharges": 486000.0,
-        "clubhouseCharges": 324000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 486000,
+        "clubhouseCharges": 324000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/AfsSTe0EQ7zfqS2GArpbdZatnkAy4aZEzuTs16Jd.webp"
       },
@@ -8615,12 +8783,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 735,
         "balconyArea": 58,
         "bathrooms": 2,
-        "basePrice": 16400000.0,
+        "basePrice": 16400000,
         "pricePerSqft": 22312.93,
-        "infraCharges": 492000.0,
-        "clubhouseCharges": 328000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 492000,
+        "clubhouseCharges": 328000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/erVeCsyBq9xP98CDIxaoBvpB9TucxbfYYskXd5u8.webp"
       },
@@ -8631,12 +8799,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 736,
         "balconyArea": 58,
         "bathrooms": 2,
-        "basePrice": 16400000.0,
+        "basePrice": 16400000,
         "pricePerSqft": 22282.61,
-        "infraCharges": 492000.0,
-        "clubhouseCharges": 328000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 492000,
+        "clubhouseCharges": 328000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/8bVjxHl1Pm4gu6j8jiPOrVTXerCTsKss9eG2yUak.webp"
       },
@@ -8647,12 +8815,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 861,
         "balconyArea": 68,
         "bathrooms": 2,
-        "basePrice": 19200000.0,
+        "basePrice": 19200000,
         "pricePerSqft": 22299.65,
-        "infraCharges": 576000.0,
-        "clubhouseCharges": 384000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 576000,
+        "clubhouseCharges": 384000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/V81P09pIBB1Q3TvXBzhzsky9XZxJ856qFhhVs6Ai.webp"
       }
@@ -8664,11 +8832,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Bramhacorp Hues Of Sky?",
-        "answer": "Prices at Bramhacorp Hues Of Sky range from \u20b9 1.56 Cr \u2013 4.17 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Bramhacorp Hues Of Sky range from ₹ 1.56 Cr – 4.17 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Bramhacorp Hues Of Sky?",
-        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 700 \u2013 1,901 sq.ft."
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 700 – 1,901 sq.ft."
       },
       {
         "question": "What is the RERA number of Bramhacorp Hues Of Sky?",
@@ -8706,32 +8874,32 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "700 sq.ft",
-        "priceRange": "\u20b91.56 Cr"
+        "priceRange": "₹1.56 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "700 sq.ft",
-        "priceRange": "\u20b91.56 Cr"
+        "priceRange": "₹1.56 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "729 sq.ft",
-        "priceRange": "\u20b91.62 Cr"
+        "priceRange": "₹1.62 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.64 Cr"
+        "priceRange": "₹1.64 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "736 sq.ft",
-        "priceRange": "\u20b91.64 Cr"
+        "priceRange": "₹1.64 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "861 sq.ft",
-        "priceRange": "\u20b91.92 Cr"
+        "priceRange": "₹1.92 Cr"
       }
     ]
   },
@@ -8741,11 +8909,11 @@ export const PROJECTS: Project[] = [
     "slug": "bramhacorp-townhouse",
     "builderId": "b-bramhacorp",
     "location": "Balewadi",
-    "priceRange": "\u20b973.50 L - \u20b91.03 Cr",
-    "exactPrice": "\u20b973.50 L",
+    "priceRange": "₹26.00 L - ₹56.00 L",
+    "exactPrice": "₹26.00 L",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "Studio / 1 RK",
+      "1 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -8761,7 +8929,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/yiPGuOJ5Fhyx0YB3EzGkjiPFft7mIQsii4HFZdjW.webp",
       "https://keystoneliv.com/public/uploads/property/f9GMlttRsqc66dOt6VQurFR4i48juAfzCiUaFmOs.webp"
     ],
-    "description": "Bramhacorp Townhouse by BramhaCorp represents modern residential excellence in Balewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b973.50 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Jogging Track, Kids Play Area, 24*7 Water, Gas Pipeline, Lift, Parking. Verified under MahaRERA registration P52100045228, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "BramhaCorp Townhouse is a contemporary micro-living and millennial studio residential development in Balewadi, Pune. Crafted specifically for young professionals and IT leaders, offering stylish Studio and 1 BHK suites starting from ₹26.00 L.\n\nVerified under MahaRERA registration P52100025178 with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Jogging Track",
       "Kids Play Area",
@@ -8803,7 +8971,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from BramhaCorp developer inventory"
     ],
     "reraId": "P52100045228",
-    "pricePerSqft": 9800,
+    "pricePerSqft": 14500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -8816,7 +8984,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Balewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Bramhacorp Townhouse, Balewadi Pune by BramhaCorp. Price starts \u20b973.50 L. 100% Zero Brokerage. Verified MahaRERA P52100045228. Floor plans &",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Bramhacorp Townhouse, Balewadi Pune by BramhaCorp. Price starts ₹73.50 L. 100% Zero Brokerage. Verified MahaRERA P52100045228. Floor plans &",
     "advancedConfigurations": [
       {
         "id": "cfg-bramhacorp-townhouse-1",
@@ -8827,10 +8995,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 7350000,
         "pricePerSqft": 9800,
-        "infraCharges": 220500.0,
-        "clubhouseCharges": 147000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 220500,
+        "clubhouseCharges": 147000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/k9Cpqd4cLxkrt0r65YKq9o0IWCPpqcToOcSn1QD4.webp"
       },
@@ -8843,10 +9011,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 10290000,
         "pricePerSqft": 9800,
-        "infraCharges": 308700.0,
-        "clubhouseCharges": 205800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 308700,
+        "clubhouseCharges": 205800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/k9Cpqd4cLxkrt0r65YKq9o0IWCPpqcToOcSn1QD4.webp"
       }
@@ -8858,11 +9026,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Bramhacorp Townhouse?",
-        "answer": "Prices at Bramhacorp Townhouse range from \u20b9 35.00 Lac (agreement value). Homes are available as 1, 1 RK BHK."
+        "answer": "Prices at Bramhacorp Townhouse range from ₹ 35.00 Lac (agreement value). Homes are available as 1, 1 RK BHK."
       },
       {
         "question": "Which configurations are available at Bramhacorp Townhouse?",
-        "answer": "The project offers 1, 1 RK BHK homes. Carpet areas range from 203 \u2013 351 sq.ft."
+        "answer": "The project offers 1, 1 RK BHK homes. Carpet areas range from 203 – 351 sq.ft."
       },
       {
         "question": "What is the RERA number of Bramhacorp Townhouse?",
@@ -8898,14 +9066,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b973.50 L"
+        "type": "Studio Suite (1 RK)",
+        "carpetArea": "185 sq.ft",
+        "priceRange": "₹26.00 L"
       },
       {
-        "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b91.03 Cr"
+        "type": "Executive Studio (1 RK)",
+        "carpetArea": "259 sq.ft",
+        "priceRange": "₹37.00 L"
+      },
+      {
+        "type": "1 BHK Smart Suite",
+        "carpetArea": "344 sq.ft",
+        "priceRange": "₹52.00 L"
+      },
+      {
+        "type": "1 BHK Grande Suite",
+        "carpetArea": "394 sq.ft",
+        "priceRange": "₹56.00 L"
       }
     ]
   },
@@ -8915,10 +9093,11 @@ export const PROJECTS: Project[] = [
     "slug": "bramhacorp-august-towers",
     "builderId": "b-bramhacorp",
     "location": "Kalyani Nagar",
-    "priceRange": "\u20b957.70 L - \u20b91.00 Cr",
-    "exactPrice": "\u20b957.70 L",
+    "priceRange": "₹1.12 Cr - ₹2.25 Cr",
+    "exactPrice": "₹1.12 Cr",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -8934,7 +9113,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/NS4WdVkoynSB2vYI9ZOVKqtmDrrNMzNEok3Twc3f.webp",
       "https://keystoneliv.com/public/uploads/property/goBwy7cz2g5PqAH9tZTLyxfBkF71AqkrMWUZNNAw.webp"
     ],
-    "description": "Bramhacorp August Towers by BramhaCorp represents modern residential excellence in Kalyani Nagar, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b957.70 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Gym, Jogging Track, Kids Play Area, Swimming Pool. Verified under MahaRERA registration P52100048195, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Bramhacorp August Towers by BramhaCorp represents modern residential excellence in Kalyani Nagar, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹57.70 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Gym, Jogging Track, Kids Play Area, Swimming Pool. Verified under MahaRERA registration P52100048195, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Club house",
@@ -8982,7 +9161,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from BramhaCorp developer inventory"
     ],
     "reraId": "P52100048195",
-    "pricePerSqft": 14000,
+    "pricePerSqft": 18500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -8995,7 +9174,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Kalyani Nagar",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Bramhacorp August Towers, Kalyani Nagar Pune by BramhaCorp. Price starts \u20b957.70 L. 100% Zero Brokerage. Verified MahaRERA P52100048195. Floor plans",
+    "metaDescription": "Buy 2 BHK in Bramhacorp August Towers, Kalyani Nagar Pune by BramhaCorp. Price starts ₹57.70 L. 100% Zero Brokerage. Verified MahaRERA P52100048195. Floor plans",
     "advancedConfigurations": [
       {
         "id": "cfg-bramhacorp-august-towers-1",
@@ -9006,10 +9185,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 10010000,
         "pricePerSqft": 11921.49,
-        "infraCharges": 173100.0,
-        "clubhouseCharges": 115400.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 173100,
+        "clubhouseCharges": 115400,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/cfRu71vAvcCfj79N64dTM20dXnH55jXdd9LunD32.webp"
       },
@@ -9020,12 +9199,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 577,
         "balconyArea": 46,
         "bathrooms": 2,
-        "basePrice": 5770000.0,
-        "pricePerSqft": 10000.0,
-        "infraCharges": 173100.0,
-        "clubhouseCharges": 115400.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "basePrice": 5770000,
+        "pricePerSqft": 10000,
+        "infraCharges": 173100,
+        "clubhouseCharges": 115400,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/YH1pP1UAcemKGCEerJi9kTbgFzEbhLPsQgDgzJmR.webp"
       },
@@ -9036,12 +9215,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 579,
         "balconyArea": 46,
         "bathrooms": 2,
-        "basePrice": 5790000.0,
-        "pricePerSqft": 10000.0,
-        "infraCharges": 173700.0,
-        "clubhouseCharges": 115800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "basePrice": 5790000,
+        "pricePerSqft": 10000,
+        "infraCharges": 173700,
+        "clubhouseCharges": 115800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/k9Cpqd4cLxkrt0r65YKq9o0IWCPpqcToOcSn1QD4.webp"
       }
@@ -9053,11 +9232,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Bramhacorp August Towers?",
-        "answer": "Prices at Bramhacorp August Towers range from \u20b9 57.70 Lac \u2013 57.90 Lac (agreement value). Homes are available as 2 BHK."
+        "answer": "Prices at Bramhacorp August Towers range from ₹ 57.70 Lac – 57.90 Lac (agreement value). Homes are available as 2 BHK."
       },
       {
         "question": "Which configurations are available at Bramhacorp August Towers?",
-        "answer": "The project offers 2 BHK homes. Carpet areas range from 484 \u2013 579 sq.ft."
+        "answer": "The project offers 2 BHK homes. Carpet areas range from 484 – 579 sq.ft."
       },
       {
         "question": "What is the RERA number of Bramhacorp August Towers?",
@@ -9093,19 +9272,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "715 sq.ft",
-        "priceRange": "\u20b91.00 Cr"
+        "type": "2 BHK Suite",
+        "carpetArea": "520 sq.ft",
+        "priceRange": "₹1.12 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "577 sq.ft",
-        "priceRange": "\u20b957.70 L"
+        "type": "2 BHK Luxury",
+        "carpetArea": "620 sq.ft",
+        "priceRange": "₹1.43 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "579 sq.ft",
-        "priceRange": "\u20b957.90 L"
+        "type": "3 BHK Royale",
+        "carpetArea": "880 sq.ft",
+        "priceRange": "₹1.85 Cr"
+      },
+      {
+        "type": "3 BHK Presidential",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "₹2.25 Cr"
       }
     ]
   },
@@ -9115,8 +9299,8 @@ export const PROJECTS: Project[] = [
     "slug": "amanora-city-rise",
     "builderId": "b-amanora",
     "location": "Kothrud",
-    "priceRange": "\u20b993.75 L - \u20b91.31 Cr",
-    "exactPrice": "\u20b993.75 L",
+    "priceRange": "₹1.33 Cr - ₹2.90 Cr",
+    "exactPrice": "₹1.33 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -9134,7 +9318,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/hBhWq7z67MCde6MvvhDvmu4lEKeJpH2zLkqJlrml.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/hBhWq7z67MCde6MvvhDvmu4lEKeJpH2zLkqJlrml.webp"
     ],
-    "description": "Amanora City Rise by Amanora Park Town represents modern residential excellence in Kothrud, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b993.75 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Gym, Kids Play Area, Swimming Pool, Yoga Zone, Gated Society, Security System. Verified under MahaRERA registration P52100051462, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Amanora City Rise by Amanora Park Town represents modern residential excellence in Kothrud, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹93.75 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Gym, Kids Play Area, Swimming Pool, Yoga Zone, Gated Society, Security System. Verified under MahaRERA registration P52100051462, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Gym",
       "Kids Play Area",
@@ -9176,7 +9360,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Amanora Park Town developer inventory"
     ],
     "reraId": "P52100051462",
-    "pricePerSqft": 12500,
+    "pricePerSqft": 20000,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -9189,7 +9373,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Kothrud",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Amanora City Rise, Kothrud Pune by Amanora Park Town. Price starts \u20b993.75 L. 100% Zero Brokerage. Verified MahaRERA P52100051462. Floor plan",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Amanora City Rise, Kothrud Pune by Amanora Park Town. Price starts ₹93.75 L. 100% Zero Brokerage. Verified MahaRERA P52100051462. Floor plan",
     "advancedConfigurations": [
       {
         "id": "cfg-amanora-city-rise-1",
@@ -9200,10 +9384,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 9375000,
         "pricePerSqft": 12500,
-        "infraCharges": 281250.0,
-        "clubhouseCharges": 187500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 281250,
+        "clubhouseCharges": 187500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/ozTB4XODdBQeqGDmSjJ9UEPdq2M8vHjJj5zZK3pB.webp"
       },
@@ -9216,10 +9400,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 13125000,
         "pricePerSqft": 12500,
-        "infraCharges": 393750.0,
-        "clubhouseCharges": 262500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 393750,
+        "clubhouseCharges": 262500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/ozTB4XODdBQeqGDmSjJ9UEPdq2M8vHjJj5zZK3pB.webp"
       }
@@ -9227,14 +9411,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b993.75 L"
+        "type": "2 BHK Urban",
+        "carpetArea": "663 sq.ft",
+        "priceRange": "₹1.33 Cr"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "687 sq.ft",
+        "priceRange": "₹1.85 Cr"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "994 sq.ft",
+        "priceRange": "₹1.99 Cr"
       },
       {
         "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b91.31 Cr"
+        "carpetArea": "1037 sq.ft",
+        "priceRange": "₹2.90 Cr"
       }
     ]
   },
@@ -9244,8 +9438,8 @@ export const PROJECTS: Project[] = [
     "slug": "joyville-annexe",
     "builderId": "b-shapoorji",
     "location": "Hadapsar",
-    "priceRange": "\u20b946.00 L - \u20b91.06 Cr",
-    "exactPrice": "\u20b946.00 L",
+    "priceRange": "₹46.00 L - ₹1.06 Cr",
+    "exactPrice": "₹46.00 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -9269,7 +9463,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/HNvTc3nVkYmFjSbMvb2D2yLmiDCkAwa79zcs9svU.webp",
       "https://keystoneliv.com/public/uploads/property/bS9eQ4haaMridWuxHQiTNBS2XRx3BSSXIqsk3oVh.webp"
     ],
-    "description": "Joyville annexe by Joyville by Shapoorji Pallonji represents modern residential excellence in Hadapsar, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b946.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100026785, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Joyville annexe by Joyville by Shapoorji Pallonji represents modern residential excellence in Hadapsar, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹46.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100026785, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Club house",
@@ -9341,7 +9535,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Hadapsar",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 1 BHK, 2 BHK, 3 BHK in Joyville annexe, Hadapsar Pune by Joyville by Shapoorji Pallonji. Price starts \u20b946.00 L. 100% Zero Brokerage. Verified MahaRERA P5210",
+    "metaDescription": "Buy 1 BHK, 2 BHK, 3 BHK in Joyville annexe, Hadapsar Pune by Joyville by Shapoorji Pallonji. Price starts ₹46.00 L. 100% Zero Brokerage. Verified MahaRERA P5210",
     "advancedConfigurations": [
       {
         "id": "cfg-joyville-annexe-1",
@@ -9350,12 +9544,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 393,
         "balconyArea": 31,
         "bathrooms": 1,
-        "basePrice": 4600000.0,
+        "basePrice": 4600000,
         "pricePerSqft": 11704.83,
-        "infraCharges": 138000.0,
-        "clubhouseCharges": 92000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 138000,
+        "clubhouseCharges": 92000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/naU6Ftht3sLHPndXJ1BDOd0MBFugUyMu0B32FZyO.webp"
       },
@@ -9366,12 +9560,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 393,
         "balconyArea": 31,
         "bathrooms": 1,
-        "basePrice": 4600000.0,
+        "basePrice": 4600000,
         "pricePerSqft": 11704.83,
-        "infraCharges": 138000.0,
-        "clubhouseCharges": 92000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 138000,
+        "clubhouseCharges": 92000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/HNvTc3nVkYmFjSbMvb2D2yLmiDCkAwa79zcs9svU.webp"
       },
@@ -9382,12 +9576,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 589,
         "balconyArea": 47,
         "bathrooms": 2,
-        "basePrice": 6600000.0,
+        "basePrice": 6600000,
         "pricePerSqft": 11205.43,
-        "infraCharges": 198000.0,
-        "clubhouseCharges": 132000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 198000,
+        "clubhouseCharges": 132000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/bS9eQ4haaMridWuxHQiTNBS2XRx3BSSXIqsk3oVh.webp"
       },
@@ -9398,12 +9592,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 670,
         "balconyArea": 53,
         "bathrooms": 2,
-        "basePrice": 8600000.0,
+        "basePrice": 8600000,
         "pricePerSqft": 12835.82,
-        "infraCharges": 258000.0,
-        "clubhouseCharges": 172000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 258000,
+        "clubhouseCharges": 172000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (17).webp"
       },
@@ -9414,12 +9608,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 815,
         "balconyArea": 65,
         "bathrooms": 3,
-        "basePrice": 10600000.0,
+        "basePrice": 10600000,
         "pricePerSqft": 13006.13,
-        "infraCharges": 318000.0,
-        "clubhouseCharges": 212000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 318000,
+        "clubhouseCharges": 212000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (18).webp"
       }
@@ -9431,11 +9625,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Joyville annexe?",
-        "answer": "Prices at Joyville annexe range from \u20b9 46.00 Lac \u2013 1.30 Cr (agreement value). Homes are available as 1, 2, 3 BHK."
+        "answer": "Prices at Joyville annexe range from ₹ 46.00 Lac – 1.30 Cr (agreement value). Homes are available as 1, 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Joyville annexe?",
-        "answer": "The project offers 1, 2, 3 BHK homes. Carpet areas range from 393 \u2013 1,043 sq.ft."
+        "answer": "The project offers 1, 2, 3 BHK homes. Carpet areas range from 393 – 1,043 sq.ft."
       },
       {
         "question": "What is the RERA number of Joyville annexe?",
@@ -9473,27 +9667,27 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK Luxury Unit",
         "carpetArea": "393 sq.ft",
-        "priceRange": "\u20b946.00 L"
+        "priceRange": "₹46.00 L"
       },
       {
         "type": "1 BHK Luxury Unit",
         "carpetArea": "393 sq.ft",
-        "priceRange": "\u20b946.00 L"
+        "priceRange": "₹46.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "589 sq.ft",
-        "priceRange": "\u20b966.00 L"
+        "priceRange": "₹66.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "670 sq.ft",
-        "priceRange": "\u20b986.00 L"
+        "priceRange": "₹86.00 L"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "815 sq.ft",
-        "priceRange": "\u20b91.06 Cr"
+        "priceRange": "₹1.06 Cr"
       }
     ]
   },
@@ -9503,8 +9697,8 @@ export const PROJECTS: Project[] = [
     "slug": "joyville-celestia",
     "builderId": "b-shapoorji",
     "location": "Shewalewadi",
-    "priceRange": "\u20b977.00 L - \u20b91.16 Cr",
-    "exactPrice": "\u20b977.00 L",
+    "priceRange": "₹77.00 L - ₹1.16 Cr",
+    "exactPrice": "₹77.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -9523,7 +9717,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/RWIi7BIWUPzANdMmWgQwl2LXS8AnA1T678vBPvo7.webp",
       "https://keystoneliv.com/public/uploads/property/nWQwPeaSVaBSmMahbWW0cXS3uJVKN70QzqslX4fM.webp"
     ],
-    "description": "Joyville Celestia by Joyville by Shapoorji Pallonji represents modern residential excellence in Shewalewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b977.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track. Verified under MahaRERA registration P52100053165, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Joyville Celestia by Joyville by Shapoorji Pallonji represents modern residential excellence in Shewalewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹77.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track. Verified under MahaRERA registration P52100053165, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -9595,7 +9789,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Shewalewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Joyville Celestia, Shewalewadi Pune by Joyville by Shapoorji Pallonji. Price starts \u20b977.00 L. 100% Zero Brokerage. Verified MahaRERA P521000",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Joyville Celestia, Shewalewadi Pune by Joyville by Shapoorji Pallonji. Price starts ₹77.00 L. 100% Zero Brokerage. Verified MahaRERA P521000",
     "advancedConfigurations": [
       {
         "id": "cfg-joyville-celestia-1",
@@ -9604,12 +9798,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 589,
         "balconyArea": 47,
         "bathrooms": 2,
-        "basePrice": 7700000.0,
+        "basePrice": 7700000,
         "pricePerSqft": 13073.01,
-        "infraCharges": 231000.0,
-        "clubhouseCharges": 154000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 231000,
+        "clubhouseCharges": 154000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/DHi0IYRMCmrf7yoxp0cK8Vp96P1ccxV3V6g85gdz.webp"
       },
@@ -9620,12 +9814,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 589,
         "balconyArea": 47,
         "bathrooms": 2,
-        "basePrice": 7700000.0,
+        "basePrice": 7700000,
         "pricePerSqft": 13073.01,
-        "infraCharges": 231000.0,
-        "clubhouseCharges": 154000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 231000,
+        "clubhouseCharges": 154000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/I5MMUKviSMXlXfrqof2dWrQiVvLepViAgf0WOxpJ.webp"
       },
@@ -9636,12 +9830,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 593,
         "balconyArea": 47,
         "bathrooms": 2,
-        "basePrice": 7700000.0,
+        "basePrice": 7700000,
         "pricePerSqft": 12984.82,
-        "infraCharges": 231000.0,
-        "clubhouseCharges": 154000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 231000,
+        "clubhouseCharges": 154000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/CSQsZy9Fpj5xj4HayoHzAI3hgUTUYgJL0S4owv16.webp"
       },
@@ -9652,12 +9846,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 602,
         "balconyArea": 48,
         "bathrooms": 2,
-        "basePrice": 7800000.0,
+        "basePrice": 7800000,
         "pricePerSqft": 12956.81,
-        "infraCharges": 234000.0,
-        "clubhouseCharges": 156000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 234000,
+        "clubhouseCharges": 156000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/RWIi7BIWUPzANdMmWgQwl2LXS8AnA1T678vBPvo7.webp"
       },
@@ -9668,12 +9862,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 707,
         "balconyArea": 56,
         "bathrooms": 2,
-        "basePrice": 9000000.0,
+        "basePrice": 9000000,
         "pricePerSqft": 12729.84,
-        "infraCharges": 270000.0,
-        "clubhouseCharges": 180000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 270000,
+        "clubhouseCharges": 180000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/nWQwPeaSVaBSmMahbWW0cXS3uJVKN70QzqslX4fM.webp"
       },
@@ -9686,10 +9880,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 11599999.999999998,
         "pricePerSqft": 12393.16,
-        "infraCharges": 348000.0,
-        "clubhouseCharges": 232000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 348000,
+        "clubhouseCharges": 232000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/QUSiXbX1yIv3u1F0efgnLHyJgKsJfu0DIDG1r7Wi.webp"
       }
@@ -9701,11 +9895,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Joyville Celestia?",
-        "answer": "Prices at Joyville Celestia range from \u20b9 77.00 Lac \u2013 1.76 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Joyville Celestia range from ₹ 77.00 Lac – 1.76 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Joyville Celestia?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 589 \u2013 1,270 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 589 – 1,270 sq.ft."
       },
       {
         "question": "What is the RERA number of Joyville Celestia?",
@@ -9743,32 +9937,32 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "589 sq.ft",
-        "priceRange": "\u20b977.00 L"
+        "priceRange": "₹77.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "589 sq.ft",
-        "priceRange": "\u20b977.00 L"
+        "priceRange": "₹77.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "593 sq.ft",
-        "priceRange": "\u20b977.00 L"
+        "priceRange": "₹77.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "602 sq.ft",
-        "priceRange": "\u20b978.00 L"
+        "priceRange": "₹78.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "707 sq.ft",
-        "priceRange": "\u20b990.00 L"
+        "priceRange": "₹90.00 L"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "936 sq.ft",
-        "priceRange": "\u20b91.16 Cr"
+        "priceRange": "₹1.16 Cr"
       }
     ]
   },
@@ -9778,8 +9972,8 @@ export const PROJECTS: Project[] = [
     "slug": "joyville-sensorium",
     "builderId": "b-shapoorji",
     "location": "Hinjewadi",
-    "priceRange": "\u20b990.00 L - \u20b91.29 Cr",
-    "exactPrice": "\u20b990.00 L",
+    "priceRange": "₹90.00 L - ₹1.29 Cr",
+    "exactPrice": "₹90.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -9798,7 +9992,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/image (87).webp",
       "https://keystoneliv.com/public/uploads/property/nmPzChK44V7G0iiNdq6UHi8c9Yqa7WJWDA6qDGUb.webp"
     ],
-    "description": "Joyville Sensorium by Joyville by Shapoorji Pallonji represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b990.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100049547, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Joyville Sensorium by Joyville by Shapoorji Pallonji represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹90.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100049547, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Cafeteria",
@@ -9870,7 +10064,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Joyville Sensorium, Hinjewadi Pune by Joyville by Shapoorji Pallonji. Price starts \u20b990.00 L. 100% Zero Brokerage. Verified MahaRERA P5210004",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Joyville Sensorium, Hinjewadi Pune by Joyville by Shapoorji Pallonji. Price starts ₹90.00 L. 100% Zero Brokerage. Verified MahaRERA P5210004",
     "advancedConfigurations": [
       {
         "id": "cfg-joyville-sensorium-1",
@@ -9879,12 +10073,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 697,
         "balconyArea": 55,
         "bathrooms": 2,
-        "basePrice": 9000000.0,
+        "basePrice": 9000000,
         "pricePerSqft": 12912.48,
-        "infraCharges": 270000.0,
-        "clubhouseCharges": 180000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 270000,
+        "clubhouseCharges": 180000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/leqFS0kMhJDAQ6ZdwEOxnajHj4VcaKZHhxS1hVk1.webp"
       },
@@ -9895,12 +10089,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 697,
         "balconyArea": 55,
         "bathrooms": 2,
-        "basePrice": 9000000.0,
+        "basePrice": 9000000,
         "pricePerSqft": 12912.48,
-        "infraCharges": 270000.0,
-        "clubhouseCharges": 180000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 270000,
+        "clubhouseCharges": 180000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (85).webp"
       },
@@ -9911,12 +10105,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 715,
         "balconyArea": 57,
         "bathrooms": 2,
-        "basePrice": 9500000.0,
+        "basePrice": 9500000,
         "pricePerSqft": 13286.71,
-        "infraCharges": 285000.0,
-        "clubhouseCharges": 190000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 285000,
+        "clubhouseCharges": 190000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (86).webp"
       },
@@ -9927,12 +10121,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 973,
         "balconyArea": 77,
         "bathrooms": 3,
-        "basePrice": 12900000.0,
+        "basePrice": 12900000,
         "pricePerSqft": 13257.97,
-        "infraCharges": 387000.0,
-        "clubhouseCharges": 258000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 387000,
+        "clubhouseCharges": 258000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (87).webp"
       }
@@ -9944,11 +10138,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Joyville Sensorium?",
-        "answer": "Prices at Joyville Sensorium range from \u20b9 90.00 Lac \u2013 2.33 Cr (agreement value). Homes are available as 2, 3, 5, 4 BHK."
+        "answer": "Prices at Joyville Sensorium range from ₹ 90.00 Lac – 2.33 Cr (agreement value). Homes are available as 2, 3, 5, 4 BHK."
       },
       {
         "question": "Which configurations are available at Joyville Sensorium?",
-        "answer": "The project offers 2, 3, 5, 4 BHK homes. Carpet areas range from 697 \u2013 1,756 sq.ft."
+        "answer": "The project offers 2, 3, 5, 4 BHK homes. Carpet areas range from 697 – 1,756 sq.ft."
       },
       {
         "question": "What is the RERA number of Joyville Sensorium?",
@@ -9986,33 +10180,33 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "697 sq.ft",
-        "priceRange": "\u20b990.00 L"
+        "priceRange": "₹90.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "697 sq.ft",
-        "priceRange": "\u20b990.00 L"
+        "priceRange": "₹90.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "715 sq.ft",
-        "priceRange": "\u20b995.00 L"
+        "priceRange": "₹95.00 L"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "973 sq.ft",
-        "priceRange": "\u20b91.29 Cr"
+        "priceRange": "₹1.29 Cr"
       }
     ]
   },
   {
     "id": "p-kohinoor-kharadi",
-    "title": "Kohinoor Kharadi \u2013 5",
+    "title": "Kohinoor Kharadi – 5",
     "slug": "kohinoor-kharadi",
     "builderId": "b-kohinoor",
     "location": "Kharadi",
-    "priceRange": "\u20b999.00 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b999.00 L",
+    "priceRange": "₹99.00 L - ₹1.25 Cr",
+    "exactPrice": "₹99.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -10031,7 +10225,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/MzzWe9NoesjKW5vXHcTkKqIpofYGW80l6x5m4rGA.webp"
     ],
-    "description": "Kohinoor Kharadi \u2013 5 by Kohinoor Group represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b999.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Conference Room, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100065519, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kohinoor Kharadi – 5 by Kohinoor Group represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹99.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Conference Room, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100065519, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Club house",
@@ -10096,16 +10290,16 @@ export const PROJECTS: Project[] = [
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
-      "Kohinoor Kharadi \u2013 5 Kharadi",
-      "Kohinoor Kharadi \u2013 5 Pune price",
-      "Kohinoor Kharadi \u2013 5 floor plan",
-      "Kohinoor Kharadi \u2013 5 MahaRERA P52100065519",
+      "Kohinoor Kharadi – 5 Kharadi",
+      "Kohinoor Kharadi – 5 Pune price",
+      "Kohinoor Kharadi – 5 floor plan",
+      "Kohinoor Kharadi – 5 MahaRERA P52100065519",
       "Kohinoor Group projects in Kharadi",
       "flats in Kharadi Pune",
       "buy 2 BHK in Kharadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kohinoor Kharadi \u2013 5, Kharadi Pune by Kohinoor Group. Price starts \u20b999.00 L. 100% Zero Brokerage. Verified MahaRERA P52100065519. Floor plan",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kohinoor Kharadi – 5, Kharadi Pune by Kohinoor Group. Price starts ₹99.00 L. 100% Zero Brokerage. Verified MahaRERA P52100065519. Floor plan",
     "advancedConfigurations": [
       {
         "id": "cfg-kohinoor-kharadi-1",
@@ -10114,12 +10308,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 730,
         "balconyArea": 58,
         "bathrooms": 2,
-        "basePrice": 9900000.0,
+        "basePrice": 9900000,
         "pricePerSqft": 13561.64,
-        "infraCharges": 297000.0,
-        "clubhouseCharges": 198000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 297000,
+        "clubhouseCharges": 198000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/azNbmpmBCobhupU4s5tfh6nAZzKEPgYRISRlQhNa.webp"
       },
@@ -10130,12 +10324,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 730,
         "balconyArea": 58,
         "bathrooms": 2,
-        "basePrice": 9900000.0,
+        "basePrice": 9900000,
         "pricePerSqft": 13561.64,
-        "infraCharges": 297000.0,
-        "clubhouseCharges": 198000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 297000,
+        "clubhouseCharges": 198000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp"
       },
@@ -10146,12 +10340,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 750,
         "balconyArea": 60,
         "bathrooms": 2,
-        "basePrice": 10300000.0,
+        "basePrice": 10300000,
         "pricePerSqft": 13733.33,
-        "infraCharges": 309000.0,
-        "clubhouseCharges": 206000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 309000,
+        "clubhouseCharges": 206000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/3heONbZszM6nV1D5cGGWNerwu18xb77gy1pOfeUA.webp"
       },
@@ -10163,11 +10357,11 @@ export const PROJECTS: Project[] = [
         "balconyArea": 64,
         "bathrooms": 2,
         "basePrice": 10900000.000000002,
-        "pricePerSqft": 13625.0,
-        "infraCharges": 327000.0,
-        "clubhouseCharges": 218000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "pricePerSqft": 13625,
+        "infraCharges": 327000,
+        "clubhouseCharges": 218000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Yh0MhqcWjQpkHVPH3DjAEWr0zVrTSWadIZUjfemG.webp"
       },
@@ -10180,10 +10374,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 11100000.000000002,
         "pricePerSqft": 13536.59,
-        "infraCharges": 333000.0,
-        "clubhouseCharges": 222000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 333000,
+        "clubhouseCharges": 222000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/MzzWe9NoesjKW5vXHcTkKqIpofYGW80l6x5m4rGA.webp"
       },
@@ -10194,12 +10388,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 880,
         "balconyArea": 70,
         "bathrooms": 3,
-        "basePrice": 12000000.0,
+        "basePrice": 12000000,
         "pricePerSqft": 13636.36,
-        "infraCharges": 360000.0,
-        "clubhouseCharges": 240000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 360000,
+        "clubhouseCharges": 240000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/sq9UXhpZWpFavb6sZTY5JiP6bAJWQXymSdDXjV4e.webp"
       },
@@ -10210,55 +10404,55 @@ export const PROJECTS: Project[] = [
         "carpetArea": 910,
         "balconyArea": 72,
         "bathrooms": 3,
-        "basePrice": 12500000.0,
+        "basePrice": 12500000,
         "pricePerSqft": 13736.26,
-        "infraCharges": 375000.0,
-        "clubhouseCharges": 250000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 375000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/9fgd1dc8OsLM6h4q6lT60MbRpIA4vwCadScNvqMA.webp"
       }
     ],
     "faqs": [
       {
-        "question": "Where is Kohinoor Kharadi \u2013 5 located?",
-        "answer": "Kohinoor Kharadi \u2013 5 is located at Kharadi , Pune.."
+        "question": "Where is Kohinoor Kharadi – 5 located?",
+        "answer": "Kohinoor Kharadi – 5 is located at Kharadi , Pune.."
       },
       {
-        "question": "What is the price of Kohinoor Kharadi \u2013 5?",
-        "answer": "Prices at Kohinoor Kharadi \u2013 5 range from \u20b9 99.00 Lac \u2013 1.42 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "question": "What is the price of Kohinoor Kharadi – 5?",
+        "answer": "Prices at Kohinoor Kharadi – 5 range from ₹ 99.00 Lac – 1.42 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
-        "question": "Which configurations are available at Kohinoor Kharadi \u2013 5?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 730 \u2013 1,050 sq.ft."
+        "question": "Which configurations are available at Kohinoor Kharadi – 5?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 730 – 1,050 sq.ft."
       },
       {
-        "question": "What is the RERA number of Kohinoor Kharadi \u2013 5?",
-        "answer": "The RERA registration number of Kohinoor Kharadi \u2013 5 is A09200023052."
+        "question": "What is the RERA number of Kohinoor Kharadi – 5?",
+        "answer": "The RERA registration number of Kohinoor Kharadi – 5 is A09200023052."
       },
       {
-        "question": "When is the possession of Kohinoor Kharadi \u2013 5?",
+        "question": "When is the possession of Kohinoor Kharadi – 5?",
         "answer": "Possession is expected by Jul 2027, as per the RERA registration."
       },
       {
-        "question": "Who is the developer of Kohinoor Kharadi \u2013 5?",
-        "answer": "Kohinoor Kharadi \u2013 5 is developed by Kohinoor Group. The developer has been in real estate since 1992."
+        "question": "Who is the developer of Kohinoor Kharadi – 5?",
+        "answer": "Kohinoor Kharadi – 5 is developed by Kohinoor Group. The developer has been in real estate since 1992."
       },
       {
-        "question": "How many floors does Kohinoor Kharadi \u2013 5 have?",
+        "question": "How many floors does Kohinoor Kharadi – 5 have?",
         "answer": "The project has 27 floors. It is spread across 5 acres."
       },
       {
-        "question": "What amenities does Kohinoor Kharadi \u2013 5 offer?",
+        "question": "What amenities does Kohinoor Kharadi – 5 offer?",
         "answer": "Amenities include Banquet Hall, Club house, Conference Room, Gym, Jogging Track, Kids Play Area, Open Gym, Party Lawn and more."
       },
       {
-        "question": "Which banks give home loans for Kohinoor Kharadi \u2013 5?",
+        "question": "Which banks give home loans for Kohinoor Kharadi – 5?",
         "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
       },
       {
-        "question": "How do I book a site visit to Kohinoor Kharadi \u2013 5?",
+        "question": "How do I book a site visit to Kohinoor Kharadi – 5?",
         "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
       }
     ],
@@ -10269,37 +10463,37 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "730 sq.ft",
-        "priceRange": "\u20b999.00 L"
+        "priceRange": "₹99.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "730 sq.ft",
-        "priceRange": "\u20b999.00 L"
+        "priceRange": "₹99.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b91.03 Cr"
+        "priceRange": "₹1.03 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "800 sq.ft",
-        "priceRange": "\u20b91.09 Cr"
+        "priceRange": "₹1.09 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "820 sq.ft",
-        "priceRange": "\u20b91.11 Cr"
+        "priceRange": "₹1.11 Cr"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "880 sq.ft",
-        "priceRange": "\u20b91.20 Cr"
+        "priceRange": "₹1.20 Cr"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "910 sq.ft",
-        "priceRange": "\u20b91.25 Cr"
+        "priceRange": "₹1.25 Cr"
       }
     ]
   },
@@ -10309,10 +10503,11 @@ export const PROJECTS: Project[] = [
     "slug": "kohinoor-shangrila",
     "builderId": "b-kohinoor",
     "location": "Pimpri Chinchwad",
-    "priceRange": "\u20b995.53 L - \u20b91.05 Cr",
-    "exactPrice": "\u20b995.53 L",
+    "priceRange": "₹93.00 L - ₹1.40 Cr",
+    "exactPrice": "₹93.00 L",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -10329,7 +10524,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/image (96).webp",
       "https://keystoneliv.com/public/uploads/property/APk42V9TjCaPnBVvOLDnR7iyoKZq3cs68aY7ykXZ.webp"
     ],
-    "description": "Kohinoor Shangrila by Kohinoor Group represents modern residential excellence in Pimpri Chinchwad, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b995.53 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym. Verified under MahaRERA registration P52100030688, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kohinoor Shangrila by Kohinoor Group represents modern residential excellence in Pimpri Chinchwad, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹95.53 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Fitness Corner, Gym, Jogging Track, Kids Play Area, Open Gym. Verified under MahaRERA registration P52100030688, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Fitness Corner",
@@ -10387,7 +10582,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Kohinoor Group developer inventory"
     ],
     "reraId": "P52100030688",
-    "pricePerSqft": 7800,
+    "pricePerSqft": 13200,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -10400,7 +10595,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Pimpri Chinchwad",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Kohinoor Shangrila, Pimpri Chinchwad Pune by Kohinoor Group. Price starts \u20b995.53 L. 100% Zero Brokerage. Verified MahaRERA P52100030688. Floor plan",
+    "metaDescription": "Buy 2 BHK in Kohinoor Shangrila, Pimpri Chinchwad Pune by Kohinoor Group. Price starts ₹95.53 L. 100% Zero Brokerage. Verified MahaRERA P52100030688. Floor plan",
     "advancedConfigurations": [
       {
         "id": "cfg-kohinoor-shangrila-1",
@@ -10409,12 +10604,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 706,
         "balconyArea": 56,
         "bathrooms": 2,
-        "basePrice": 9553000.0,
+        "basePrice": 9553000,
         "pricePerSqft": 13531.16,
-        "infraCharges": 286590.0,
-        "clubhouseCharges": 191060.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 286590,
+        "clubhouseCharges": 191060,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/btjPpfNMHbOIxRQfCF21p9nMLhQHiuzRce3XKq9N.webp"
       },
@@ -10425,12 +10620,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 706,
         "balconyArea": 56,
         "bathrooms": 2,
-        "basePrice": 9553000.0,
+        "basePrice": 9553000,
         "pricePerSqft": 13531.16,
-        "infraCharges": 286590.0,
-        "clubhouseCharges": 191060.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 286590,
+        "clubhouseCharges": 191060,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (94).webp"
       },
@@ -10441,12 +10636,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 776,
         "balconyArea": 62,
         "bathrooms": 2,
-        "basePrice": 10500000.0,
+        "basePrice": 10500000,
         "pricePerSqft": 13530.93,
-        "infraCharges": 315000.0,
-        "clubhouseCharges": 210000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 315000,
+        "clubhouseCharges": 210000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (95).webp"
       }
@@ -10458,11 +10653,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kohinoor Shangrila?",
-        "answer": "Prices at Kohinoor Shangrila range from \u20b9 95.53 Lac \u2013 1.45 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Kohinoor Shangrila range from ₹ 95.53 Lac – 1.45 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kohinoor Shangrila?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 706 \u2013 1,210 sq.ft."
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 706 – 1,210 sq.ft."
       },
       {
         "question": "What is the RERA number of Kohinoor Shangrila?",
@@ -10498,30 +10693,35 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "706 sq.ft",
-        "priceRange": "\u20b995.53 L"
+        "type": "2 BHK Optima",
+        "carpetArea": "701 sq.ft",
+        "priceRange": "₹93.00 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "706 sq.ft",
-        "priceRange": "\u20b995.53 L"
+        "type": "2 BHK Grande",
+        "carpetArea": "809 sq.ft",
+        "priceRange": "₹1.05 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "776 sq.ft",
-        "priceRange": "\u20b91.05 Cr"
+        "type": "3 BHK Grande",
+        "carpetArea": "1000 sq.ft",
+        "priceRange": "₹1.17 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1074 sq.ft",
+        "priceRange": "₹1.40 Cr"
       }
     ]
   },
   {
     "id": "p-kohinoor-central-park",
-    "title": "Kohinoor Central Park \u2013 0",
+    "title": "Kohinoor Central Park – 0",
     "slug": "kohinoor-central-park",
     "builderId": "b-kohinoor",
     "location": "Hinjewadi",
-    "priceRange": "\u20b980.50 L - \u20b91.03 Cr",
-    "exactPrice": "\u20b980.50 L",
+    "priceRange": "₹80.50 L - ₹1.03 Cr",
+    "exactPrice": "₹80.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -10540,7 +10740,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/MzzWe9NoesjKW5vXHcTkKqIpofYGW80l6x5m4rGA.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/sq9UXhpZWpFavb6sZTY5JiP6bAJWQXymSdDXjV4e.webp"
     ],
-    "description": "Kohinoor Central Park \u2013 0 by Kohinoor Group represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b980.50 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100056358, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kohinoor Central Park – 0 by Kohinoor Group represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹80.50 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100056358, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Club house",
@@ -10600,16 +10800,16 @@ export const PROJECTS: Project[] = [
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
-      "Kohinoor Central Park \u2013 0 Hinjewadi",
-      "Kohinoor Central Park \u2013 0 Pune price",
-      "Kohinoor Central Park \u2013 0 floor plan",
-      "Kohinoor Central Park \u2013 0 MahaRERA P52100056358",
+      "Kohinoor Central Park – 0 Hinjewadi",
+      "Kohinoor Central Park – 0 Pune price",
+      "Kohinoor Central Park – 0 floor plan",
+      "Kohinoor Central Park – 0 MahaRERA P52100056358",
       "Kohinoor Group projects in Hinjewadi",
       "flats in Hinjewadi Pune",
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kohinoor Central Park \u2013 0, Hinjewadi Pune by Kohinoor Group. Price starts \u20b980.50 L. 100% Zero Brokerage. Verified MahaRERA P52100056358. Flo",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kohinoor Central Park – 0, Hinjewadi Pune by Kohinoor Group. Price starts ₹80.50 L. 100% Zero Brokerage. Verified MahaRERA P52100056358. Flo",
     "advancedConfigurations": [
       {
         "id": "cfg-kohinoor-central-park-1",
@@ -10618,12 +10818,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 725,
         "balconyArea": 58,
         "bathrooms": 2,
-        "basePrice": 8050000.0,
+        "basePrice": 8050000,
         "pricePerSqft": 11103.45,
-        "infraCharges": 241500.0,
-        "clubhouseCharges": 161000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 241500,
+        "clubhouseCharges": 161000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dRkDonPR1eXndCLucTp17YruBhz2634DUGQ5X3YG.webp"
       },
@@ -10634,12 +10834,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 725,
         "balconyArea": 58,
         "bathrooms": 2,
-        "basePrice": 8050000.0,
+        "basePrice": 8050000,
         "pricePerSqft": 11103.45,
-        "infraCharges": 241500.0,
-        "clubhouseCharges": 161000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 241500,
+        "clubhouseCharges": 161000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/0BgGeUEWnpaENDzgtjJ9AphTNfjVqgQpmqF57pB9.webp"
       },
@@ -10650,12 +10850,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 796,
         "balconyArea": 63,
         "bathrooms": 2,
-        "basePrice": 8600000.0,
+        "basePrice": 8600000,
         "pricePerSqft": 10804.02,
-        "infraCharges": 258000.0,
-        "clubhouseCharges": 172000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 258000,
+        "clubhouseCharges": 172000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/TAsZoKbJdyjSNYsDTppGHd3eG82J2a61bC8y9CHD.webp"
       },
@@ -10666,12 +10866,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 803,
         "balconyArea": 64,
         "bathrooms": 2,
-        "basePrice": 8690000.0,
+        "basePrice": 8690000,
         "pricePerSqft": 10821.92,
-        "infraCharges": 260700.0,
-        "clubhouseCharges": 173800.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 260700,
+        "clubhouseCharges": 173800,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/MzzWe9NoesjKW5vXHcTkKqIpofYGW80l6x5m4rGA.webp"
       },
@@ -10682,12 +10882,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 894,
         "balconyArea": 71,
         "bathrooms": 3,
-        "basePrice": 9700000.0,
+        "basePrice": 9700000,
         "pricePerSqft": 10850.11,
-        "infraCharges": 291000.0,
-        "clubhouseCharges": 194000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 291000,
+        "clubhouseCharges": 194000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/sq9UXhpZWpFavb6sZTY5JiP6bAJWQXymSdDXjV4e.webp"
       },
@@ -10698,55 +10898,55 @@ export const PROJECTS: Project[] = [
         "carpetArea": 955,
         "balconyArea": 76,
         "bathrooms": 3,
-        "basePrice": 10300000.0,
+        "basePrice": 10300000,
         "pricePerSqft": 10785.34,
-        "infraCharges": 309000.0,
-        "clubhouseCharges": 206000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 309000,
+        "clubhouseCharges": 206000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/9fgd1dc8OsLM6h4q6lT60MbRpIA4vwCadScNvqMA.webp"
       }
     ],
     "faqs": [
       {
-        "question": "Where is Kohinoor Central Park \u2013 0 located?",
-        "answer": "Kohinoor Central Park \u2013 0 is located at 280, Hinjawadi Phase II, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pimpri-Chinchwad, Pune, Maharashtra."
+        "question": "Where is Kohinoor Central Park – 0 located?",
+        "answer": "Kohinoor Central Park – 0 is located at 280, Hinjawadi Phase II, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pimpri-Chinchwad, Pune, Maharashtra."
       },
       {
-        "question": "What is the price of Kohinoor Central Park \u2013 0?",
-        "answer": "Prices at Kohinoor Central Park \u2013 0 range from \u20b9 80.50 Lac \u2013 1.18 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "question": "What is the price of Kohinoor Central Park – 0?",
+        "answer": "Prices at Kohinoor Central Park – 0 range from ₹ 80.50 Lac – 1.18 Cr (agreement value). Homes are available as 2, 3 BHK."
       },
       {
-        "question": "Which configurations are available at Kohinoor Central Park \u2013 0?",
-        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 725 \u2013 1,071 sq.ft."
+        "question": "Which configurations are available at Kohinoor Central Park – 0?",
+        "answer": "The project offers 2, 3 BHK homes. Carpet areas range from 725 – 1,071 sq.ft."
       },
       {
-        "question": "What is the RERA number of Kohinoor Central Park \u2013 0?",
-        "answer": "The RERA registration number of Kohinoor Central Park \u2013 0 is P52100056358."
+        "question": "What is the RERA number of Kohinoor Central Park – 0?",
+        "answer": "The RERA registration number of Kohinoor Central Park – 0 is P52100056358."
       },
       {
-        "question": "When is the possession of Kohinoor Central Park \u2013 0?",
+        "question": "When is the possession of Kohinoor Central Park – 0?",
         "answer": "Possession is expected by Dec 2027, as per the RERA registration."
       },
       {
-        "question": "Who is the developer of Kohinoor Central Park \u2013 0?",
-        "answer": "Kohinoor Central Park \u2013 0 is developed by Kohinoor Group. The developer has been in real estate since 1992."
+        "question": "Who is the developer of Kohinoor Central Park – 0?",
+        "answer": "Kohinoor Central Park – 0 is developed by Kohinoor Group. The developer has been in real estate since 1992."
       },
       {
-        "question": "How many floors does Kohinoor Central Park \u2013 0 have?",
+        "question": "How many floors does Kohinoor Central Park – 0 have?",
         "answer": "The project has G+25 floors. It is spread across 13.5 acres."
       },
       {
-        "question": "What amenities does Kohinoor Central Park \u2013 0 offer?",
+        "question": "What amenities does Kohinoor Central Park – 0 offer?",
         "answer": "Amenities include Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Sports Courts, Swimming Pool and more."
       },
       {
-        "question": "Which banks give home loans for Kohinoor Central Park \u2013 0?",
+        "question": "Which banks give home loans for Kohinoor Central Park – 0?",
         "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
       },
       {
-        "question": "How do I book a site visit to Kohinoor Central Park \u2013 0?",
+        "question": "How do I book a site visit to Kohinoor Central Park – 0?",
         "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
       }
     ],
@@ -10757,43 +10957,43 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "725 sq.ft",
-        "priceRange": "\u20b980.50 L"
+        "priceRange": "₹80.50 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "725 sq.ft",
-        "priceRange": "\u20b980.50 L"
+        "priceRange": "₹80.50 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "796 sq.ft",
-        "priceRange": "\u20b986.00 L"
+        "priceRange": "₹86.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "803 sq.ft",
-        "priceRange": "\u20b986.90 L"
+        "priceRange": "₹86.90 L"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "894 sq.ft",
-        "priceRange": "\u20b997.00 L"
+        "priceRange": "₹97.00 L"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "955 sq.ft",
-        "priceRange": "\u20b91.03 Cr"
+        "priceRange": "₹1.03 Cr"
       }
     ]
   },
   {
     "id": "p-kalpataru-jade-skyline",
-    "title": "Kalpataru Jade Skyline \u2013 5",
+    "title": "Kalpataru Jade Skyline – 5",
     "slug": "kalpataru-jade-skyline",
     "builderId": "b-kalpataru",
     "location": "Baner",
-    "priceRange": "\u20b91.84 Cr",
-    "exactPrice": "\u20b91.84 Cr",
+    "priceRange": "₹1.84 Cr",
+    "exactPrice": "₹1.84 Cr",
     "configurations": [
       "2 BHK"
     ],
@@ -10812,7 +11012,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/xXL3bwTTQW80NCNFqMl5F3FP7Yu22pdeIS7r5Z39.webp",
       "https://keystoneliv.com/public/uploads/property/NP2lL1RMSOai3XmYdaQdzhOJxWvDzVFYB2q9WRGl.webp"
     ],
-    "description": "Kalpataru Jade Skyline \u2013 5 by Kalpataru represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.84 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Club house, Conference Room, Fitness Corner, Gym. Verified under MahaRERA registration P52100033791, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kalpataru Jade Skyline – 5 by Kalpataru represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹1.84 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Club house, Conference Room, Fitness Corner, Gym. Verified under MahaRERA registration P52100033791, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -10880,16 +11080,16 @@ export const PROJECTS: Project[] = [
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
-      "Kalpataru Jade Skyline \u2013 5 Baner",
-      "Kalpataru Jade Skyline \u2013 5 Pune price",
-      "Kalpataru Jade Skyline \u2013 5 floor plan",
-      "Kalpataru Jade Skyline \u2013 5 MahaRERA P52100033791",
+      "Kalpataru Jade Skyline – 5 Baner",
+      "Kalpataru Jade Skyline – 5 Pune price",
+      "Kalpataru Jade Skyline – 5 floor plan",
+      "Kalpataru Jade Skyline – 5 MahaRERA P52100033791",
       "Kalpataru projects in Baner",
       "flats in Baner Pune",
       "buy 2 BHK in Baner",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Kalpataru Jade Skyline \u2013 5, Baner Pune by Kalpataru. Price starts \u20b91.84 Cr. 100% Zero Brokerage. Verified MahaRERA P52100033791. Floor plans & broc",
+    "metaDescription": "Buy 2 BHK in Kalpataru Jade Skyline – 5, Baner Pune by Kalpataru. Price starts ₹1.84 Cr. 100% Zero Brokerage. Verified MahaRERA P52100033791. Floor plans & broc",
     "advancedConfigurations": [
       {
         "id": "cfg-kalpataru-jade-skyline-1",
@@ -10898,55 +11098,55 @@ export const PROJECTS: Project[] = [
         "carpetArea": 780,
         "balconyArea": 62,
         "bathrooms": 2,
-        "basePrice": 18400000.0,
+        "basePrice": 18400000,
         "pricePerSqft": 23589.74,
-        "infraCharges": 552000.0,
-        "clubhouseCharges": 368000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 552000,
+        "clubhouseCharges": 368000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Q39esXojW09bMJ6Mdrck23emKYk4oMPhiZEBA16j.webp"
       }
     ],
     "faqs": [
       {
-        "question": "Where is Kalpataru Jade Skyline \u2013 5 located?",
-        "answer": "Kalpataru Jade Skyline \u2013 5 is located at pan card club road, Baner, Pune.."
+        "question": "Where is Kalpataru Jade Skyline – 5 located?",
+        "answer": "Kalpataru Jade Skyline – 5 is located at pan card club road, Baner, Pune.."
       },
       {
-        "question": "What is the price of Kalpataru Jade Skyline \u2013 5?",
-        "answer": "Prices at Kalpataru Jade Skyline \u2013 5 range from \u20b9 1.84 Cr (agreement value). Homes are available as 3, 2 BHK."
+        "question": "What is the price of Kalpataru Jade Skyline – 5?",
+        "answer": "Prices at Kalpataru Jade Skyline – 5 range from ₹ 1.84 Cr (agreement value). Homes are available as 3, 2 BHK."
       },
       {
-        "question": "Which configurations are available at Kalpataru Jade Skyline \u2013 5?",
-        "answer": "The project offers 3, 2 BHK homes. Carpet areas range from 780 \u2013 1,190 sq.ft."
+        "question": "Which configurations are available at Kalpataru Jade Skyline – 5?",
+        "answer": "The project offers 3, 2 BHK homes. Carpet areas range from 780 – 1,190 sq.ft."
       },
       {
-        "question": "What is the RERA number of Kalpataru Jade Skyline \u2013 5?",
-        "answer": "The RERA registration number of Kalpataru Jade Skyline \u2013 5 is P52100033791."
+        "question": "What is the RERA number of Kalpataru Jade Skyline – 5?",
+        "answer": "The RERA registration number of Kalpataru Jade Skyline – 5 is P52100033791."
       },
       {
-        "question": "When is the possession of Kalpataru Jade Skyline \u2013 5?",
+        "question": "When is the possession of Kalpataru Jade Skyline – 5?",
         "answer": "Possession is expected by Dec 2026, as per the RERA registration."
       },
       {
-        "question": "Who is the developer of Kalpataru Jade Skyline \u2013 5?",
-        "answer": "Kalpataru Jade Skyline \u2013 5 is developed by Kalpataru Group. The developer has been in real estate since 1969."
+        "question": "Who is the developer of Kalpataru Jade Skyline – 5?",
+        "answer": "Kalpataru Jade Skyline – 5 is developed by Kalpataru Group. The developer has been in real estate since 1969."
       },
       {
-        "question": "How many floors does Kalpataru Jade Skyline \u2013 5 have?",
+        "question": "How many floors does Kalpataru Jade Skyline – 5 have?",
         "answer": "The project has 8P+21 Floors floors. It is spread across 3 acres."
       },
       {
-        "question": "What amenities does Kalpataru Jade Skyline \u2013 5 offer?",
+        "question": "What amenities does Kalpataru Jade Skyline – 5 offer?",
         "answer": "Amenities include Amphitheater, Banquet Hall, Club house, Conference Room, Fitness Corner, Gym, Jogging Track, Kids Play Area and more."
       },
       {
-        "question": "Which banks give home loans for Kalpataru Jade Skyline \u2013 5?",
+        "question": "Which banks give home loans for Kalpataru Jade Skyline – 5?",
         "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
       },
       {
-        "question": "How do I book a site visit to Kalpataru Jade Skyline \u2013 5?",
+        "question": "How do I book a site visit to Kalpataru Jade Skyline – 5?",
         "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
       }
     ],
@@ -10957,21 +11157,21 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "780 sq.ft",
-        "priceRange": "\u20b91.84 Cr"
+        "priceRange": "₹1.84 Cr"
       }
     ]
   },
   {
     "id": "p-kalpataru-jade-residences",
-    "title": "Kalpataru Jade Residences \u2013 Tower -H",
+    "title": "Kalpataru Jade Residences – Tower -H",
     "slug": "kalpataru-jade-residences",
     "builderId": "b-kalpataru",
     "location": "Baner",
-    "priceRange": "\u20b978.75 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b978.75 L",
+    "priceRange": "₹1.95 Cr - ₹4.50 Cr",
+    "exactPrice": "₹1.95 Cr",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -10987,7 +11187,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/jw5ukbRlHKoZR35S8lb9oHfirlSVu9uEbKjZ96Fr.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/vnZB3D3Ho8r6BgTj66J5pckjMQ7uPXSYg2C2kPcm.webp"
     ],
-    "description": "Kalpataru Jade Residences \u2013 Tower -H by Kalpataru represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b978.75 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn. Verified under MahaRERA registration P52100046423, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kalpataru Jade Residences – Tower -H by Kalpataru represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹78.75 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn. Verified under MahaRERA registration P52100046423, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Cafeteria",
       "Fitness Corner",
@@ -11041,20 +11241,20 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Kalpataru developer inventory"
     ],
     "reraId": "P52100046423",
-    "pricePerSqft": 10500,
+    "pricePerSqft": 14500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
-      "Kalpataru Jade Residences \u2013 Tower -H Baner",
-      "Kalpataru Jade Residences \u2013 Tower -H Pune price",
-      "Kalpataru Jade Residences \u2013 Tower -H floor plan",
-      "Kalpataru Jade Residences \u2013 Tower -H MahaRERA P52100046423",
+      "Kalpataru Jade Residences – Tower -H Baner",
+      "Kalpataru Jade Residences – Tower -H Pune price",
+      "Kalpataru Jade Residences – Tower -H floor plan",
+      "Kalpataru Jade Residences – Tower -H MahaRERA P52100046423",
       "Kalpataru projects in Baner",
       "flats in Baner Pune",
       "buy 2 BHK in Baner",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kalpataru Jade Residences \u2013 Tower -H, Baner Pune by Kalpataru. Price starts \u20b978.75 L. 100% Zero Brokerage. Verified MahaRERA P52100046423. F",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kalpataru Jade Residences – Tower -H, Baner Pune by Kalpataru. Price starts ₹78.75 L. 100% Zero Brokerage. Verified MahaRERA P52100046423. F",
     "advancedConfigurations": [
       {
         "id": "cfg-kalpataru-jade-residences-1",
@@ -11065,10 +11265,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 7875000,
         "pricePerSqft": 10500,
-        "infraCharges": 236250.0,
-        "clubhouseCharges": 157500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 236250,
+        "clubhouseCharges": 157500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp"
       },
@@ -11081,53 +11281,53 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 11025000,
         "pricePerSqft": 10500,
-        "infraCharges": 330750.0,
-        "clubhouseCharges": 220500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 330750,
+        "clubhouseCharges": 220500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp"
       }
     ],
     "faqs": [
       {
-        "question": "Where is Kalpataru Jade Residences \u2013 Tower -H located?",
-        "answer": "Kalpataru Jade Residences \u2013 Tower -H is located at Kalpataru Jade, Pan card club Rd, Baner, Pune."
+        "question": "Where is Kalpataru Jade Residences – Tower -H located?",
+        "answer": "Kalpataru Jade Residences – Tower -H is located at Kalpataru Jade, Pan card club Rd, Baner, Pune."
       },
       {
-        "question": "What is the price of Kalpataru Jade Residences \u2013 Tower -H?",
-        "answer": "Prices at Kalpataru Jade Residences \u2013 Tower -H range from \u20b9 3.09 Cr \u2013 4.59 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "question": "What is the price of Kalpataru Jade Residences – Tower -H?",
+        "answer": "Prices at Kalpataru Jade Residences – Tower -H range from ₹ 3.09 Cr – 4.59 Cr (agreement value). Homes are available as 3, 4 BHK."
       },
       {
-        "question": "Which configurations are available at Kalpataru Jade Residences \u2013 Tower -H?",
-        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,750 \u2013 2,598 sq.ft."
+        "question": "Which configurations are available at Kalpataru Jade Residences – Tower -H?",
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,750 – 2,598 sq.ft."
       },
       {
-        "question": "What is the RERA number of Kalpataru Jade Residences \u2013 Tower -H?",
-        "answer": "The RERA registration number of Kalpataru Jade Residences \u2013 Tower -H is P52100046423."
+        "question": "What is the RERA number of Kalpataru Jade Residences – Tower -H?",
+        "answer": "The RERA registration number of Kalpataru Jade Residences – Tower -H is P52100046423."
       },
       {
-        "question": "When is the possession of Kalpataru Jade Residences \u2013 Tower -H?",
+        "question": "When is the possession of Kalpataru Jade Residences – Tower -H?",
         "answer": "Possession is expected by Feb 2025, as per the RERA registration."
       },
       {
-        "question": "Who is the developer of Kalpataru Jade Residences \u2013 Tower -H?",
-        "answer": "Kalpataru Jade Residences \u2013 Tower -H is developed by Kalpataru Group. The developer has been in real estate since 1969."
+        "question": "Who is the developer of Kalpataru Jade Residences – Tower -H?",
+        "answer": "Kalpataru Jade Residences – Tower -H is developed by Kalpataru Group. The developer has been in real estate since 1969."
       },
       {
-        "question": "How many floors does Kalpataru Jade Residences \u2013 Tower -H have?",
+        "question": "How many floors does Kalpataru Jade Residences – Tower -H have?",
         "answer": "The project has G+22 floors. It is spread across 9.36 acres."
       },
       {
-        "question": "What amenities does Kalpataru Jade Residences \u2013 Tower -H offer?",
+        "question": "What amenities does Kalpataru Jade Residences – Tower -H offer?",
         "answer": "Amenities include Cafeteria, Fitness Corner, Gym, Jogging Track, Kids Play Area, Party Lawn, Sports Courts, Swimming Pool and more."
       },
       {
-        "question": "Which banks give home loans for Kalpataru Jade Residences \u2013 Tower -H?",
+        "question": "Which banks give home loans for Kalpataru Jade Residences – Tower -H?",
         "answer": "Home loans are available from Aditya Birla Capital, Axis Bank Home Loan, Bajaj Finserv, Bank of Baroda, Citi Bank, among others. Our team can help you compare offers."
       },
       {
-        "question": "How do I book a site visit to Kalpataru Jade Residences \u2013 Tower -H?",
+        "question": "How do I book a site visit to Kalpataru Jade Residences – Tower -H?",
         "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
       }
     ],
@@ -11136,14 +11336,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b978.75 L"
+        "type": "3 BHK Luxury",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹1.95 Cr"
       },
       {
-        "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b91.10 Cr"
+        "type": "3 BHK Grande",
+        "carpetArea": "1930 sq.ft",
+        "priceRange": "₹2.50 Cr"
+      },
+      {
+        "type": "4 BHK Sky Villa",
+        "carpetArea": "2450 sq.ft",
+        "priceRange": "₹3.99 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "2600 sq.ft",
+        "priceRange": "₹4.50 Cr"
       }
     ]
   },
@@ -11153,8 +11363,8 @@ export const PROJECTS: Project[] = [
     "slug": "kalpataru-blossoms",
     "builderId": "b-kalpataru",
     "location": "Anand Nagar",
-    "priceRange": "\u20b91.56 Cr - \u20b91.70 Cr",
-    "exactPrice": "\u20b91.56 Cr",
+    "priceRange": "₹1.56 Cr - ₹1.70 Cr",
+    "exactPrice": "₹1.56 Cr",
     "configurations": [
       "2 BHK"
     ],
@@ -11172,7 +11382,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/5e7ymEkZGYztA1gQgHtHN8r5SiHG3A5Er84IsIij.webp",
       "https://keystoneliv.com/public/uploads/property/OCn2152ubIWYsNscRoF5YYxsHbSz1zNbLdTEKCEn.webp"
     ],
-    "description": "Kalpataru Blossoms by Kalpataru represents modern residential excellence in Anand Nagar, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.56 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Mini-Theater. Verified under MahaRERA registration P52100077659, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kalpataru Blossoms by Kalpataru represents modern residential excellence in Anand Nagar, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹1.56 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Mini-Theater. Verified under MahaRERA registration P52100077659, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Club house",
@@ -11234,7 +11444,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Anand Nagar",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Kalpataru Blossoms, Anand Nagar Pune by Kalpataru. Price starts \u20b91.56 Cr. 100% Zero Brokerage. Verified MahaRERA P52100077659. Floor plans & brochu",
+    "metaDescription": "Buy 2 BHK in Kalpataru Blossoms, Anand Nagar Pune by Kalpataru. Price starts ₹1.56 Cr. 100% Zero Brokerage. Verified MahaRERA P52100077659. Floor plans & brochu",
     "advancedConfigurations": [
       {
         "id": "cfg-kalpataru-blossoms-1",
@@ -11243,12 +11453,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 877,
         "balconyArea": 70,
         "bathrooms": 2,
-        "basePrice": 15600000.0,
+        "basePrice": 15600000,
         "pricePerSqft": 17787.91,
-        "infraCharges": 468000.0,
-        "clubhouseCharges": 312000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 468000,
+        "clubhouseCharges": 312000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/ATBSWRDRKSRmbyRoiopB8HwrRQIgzAkuoILwvdpl.webp"
       },
@@ -11259,12 +11469,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 877,
         "balconyArea": 70,
         "bathrooms": 2,
-        "basePrice": 15600000.0,
+        "basePrice": 15600000,
         "pricePerSqft": 17787.91,
-        "infraCharges": 468000.0,
-        "clubhouseCharges": 312000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 468000,
+        "clubhouseCharges": 312000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/aZDFJSOJKOLyvcMQp6Y7bsA73qTJkHiSzjiwwS9Q.webp"
       },
@@ -11275,12 +11485,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 930,
         "balconyArea": 74,
         "bathrooms": 2,
-        "basePrice": 17000000.0,
+        "basePrice": 17000000,
         "pricePerSqft": 18279.57,
-        "infraCharges": 510000.0,
-        "clubhouseCharges": 340000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 510000,
+        "clubhouseCharges": 340000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/vnZB3D3Ho8r6BgTj66J5pckjMQ7uPXSYg2C2kPcm.webp"
       }
@@ -11292,11 +11502,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kalpataru Blossoms?",
-        "answer": "Prices at Kalpataru Blossoms range from \u20b9 1.56 Cr \u2013 5.25 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Kalpataru Blossoms range from ₹ 1.56 Cr – 5.25 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Kalpataru Blossoms?",
-        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 877 \u2013 2,622 sq.ft."
+        "answer": "The project offers 2, 3, 4 BHK homes. Carpet areas range from 877 – 2,622 sq.ft."
       },
       {
         "question": "What is the RERA number of Kalpataru Blossoms?",
@@ -11334,17 +11544,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "877 sq.ft",
-        "priceRange": "\u20b91.56 Cr"
+        "priceRange": "₹1.56 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "877 sq.ft",
-        "priceRange": "\u20b91.56 Cr"
+        "priceRange": "₹1.56 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "930 sq.ft",
-        "priceRange": "\u20b91.70 Cr"
+        "priceRange": "₹1.70 Cr"
       }
     ]
   },
@@ -11354,11 +11564,11 @@ export const PROJECTS: Project[] = [
     "slug": "sobha-nesara",
     "builderId": "b-sobha",
     "location": "Kothrud",
-    "priceRange": "\u20b993.75 L - \u20b91.31 Cr",
-    "exactPrice": "\u20b993.75 L",
+    "priceRange": "₹3.60 Cr - ₹5.55 Cr",
+    "exactPrice": "₹3.60 Cr",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -11374,7 +11584,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/hBhWq7z67MCde6MvvhDvmu4lEKeJpH2zLkqJlrml.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/hBhWq7z67MCde6MvvhDvmu4lEKeJpH2zLkqJlrml.webp"
     ],
-    "description": "Sobha Nesara by Sobha Limited represents modern residential excellence in Kothrud, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b993.75 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Gym, Jogging Track, Kids Play Area, Pet Park, Swimming Pool, Yoga Zone. Verified under MahaRERA registration P52100020057, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Sobha Nesara is an ultra-luxury hillside residential enclave by Sobha Limited nestled along the NDA hills in Kothrud, Pune. Boasting panoramic Sahyadri hill views, German engineered precision construction, and magnificent 3 & 4 BHK residences starting from ₹3.60 Cr up to ₹5.55 Cr.\n\nVerified under MahaRERA registration P52100020145 with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Gym",
       "Jogging Track",
@@ -11422,7 +11632,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Sobha Limited developer inventory"
     ],
     "reraId": "P52100020057",
-    "pricePerSqft": 12500,
+    "pricePerSqft": 18500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -11435,7 +11645,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Kothrud",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Sobha Nesara, Kothrud Pune by Sobha Limited. Price starts \u20b993.75 L. 100% Zero Brokerage. Verified MahaRERA P52100020057. Floor plans & broch",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Sobha Nesara, Kothrud Pune by Sobha Limited. Price starts ₹93.75 L. 100% Zero Brokerage. Verified MahaRERA P52100020057. Floor plans & broch",
     "advancedConfigurations": [
       {
         "id": "cfg-sobha-nesara-1",
@@ -11446,10 +11656,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 9375000,
         "pricePerSqft": 12500,
-        "infraCharges": 281250.0,
-        "clubhouseCharges": 187500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 281250,
+        "clubhouseCharges": 187500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XuDMBetWz7JMao7EtAKipFvMdJLCxZvvdmU1XTf4.webp"
       },
@@ -11462,10 +11672,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 13125000,
         "pricePerSqft": 12500,
-        "infraCharges": 393750.0,
-        "clubhouseCharges": 262500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 393750,
+        "clubhouseCharges": 262500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XuDMBetWz7JMao7EtAKipFvMdJLCxZvvdmU1XTf4.webp"
       }
@@ -11477,11 +11687,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Sobha Nesara?",
-        "answer": "Prices at Sobha Nesara range from \u20b9 2.77 Cr \u2013 4.76 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Sobha Nesara range from ₹ 2.77 Cr – 4.76 Cr (agreement value). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Sobha Nesara?",
-        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,449 \u2013 2,431 sq.ft."
+        "answer": "The project offers 3, 4 BHK homes. Carpet areas range from 1,449 – 2,431 sq.ft."
       },
       {
         "question": "What is the RERA number of Sobha Nesara?",
@@ -11517,14 +11727,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b993.75 L"
+        "type": "3 BHK Hillside Luxury",
+        "carpetArea": "1450 sq.ft",
+        "priceRange": "₹3.60 Cr"
       },
       {
-        "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b91.31 Cr"
+        "type": "3 BHK Grande",
+        "carpetArea": "2095 sq.ft",
+        "priceRange": "₹4.65 Cr"
+      },
+      {
+        "type": "4 BHK Sky Residence",
+        "carpetArea": "2450 sq.ft",
+        "priceRange": "₹5.10 Cr"
+      },
+      {
+        "type": "4 BHK Presidential Palace",
+        "carpetArea": "2981 sq.ft",
+        "priceRange": "₹5.55 Cr"
       }
     ]
   },
@@ -11534,11 +11754,11 @@ export const PROJECTS: Project[] = [
     "slug": "sobha-nesara-block-3",
     "builderId": "b-sobha",
     "location": "Kothrud",
-    "priceRange": "\u20b993.75 L - \u20b91.31 Cr",
-    "exactPrice": "\u20b993.75 L",
+    "priceRange": "₹3.60 Cr - ₹5.55 Cr",
+    "exactPrice": "₹3.60 Cr",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -11554,7 +11774,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/hBhWq7z67MCde6MvvhDvmu4lEKeJpH2zLkqJlrml.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/hBhWq7z67MCde6MvvhDvmu4lEKeJpH2zLkqJlrml.webp"
     ],
-    "description": "Sobha Nesara Block 3 by Sobha Limited represents modern residential excellence in Kothrud, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b993.75 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym. Verified under MahaRERA registration P52100020062, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Sobha Nesara Block 3 by Sobha Limited represents modern residential excellence in Kothrud, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹93.75 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym. Verified under MahaRERA registration P52100020062, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Amphitheater",
       "Banquet Hall",
@@ -11614,7 +11834,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Sobha Limited developer inventory"
     ],
     "reraId": "P52100020062",
-    "pricePerSqft": 12500,
+    "pricePerSqft": 18500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -11627,7 +11847,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Kothrud",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Sobha Nesara Block 3, Kothrud Pune by Sobha Limited. Price starts \u20b993.75 L. 100% Zero Brokerage. Verified MahaRERA P52100020062. Floor plans",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Sobha Nesara Block 3, Kothrud Pune by Sobha Limited. Price starts ₹93.75 L. 100% Zero Brokerage. Verified MahaRERA P52100020062. Floor plans",
     "advancedConfigurations": [
       {
         "id": "cfg-sobha-nesara-block-3-1",
@@ -11638,10 +11858,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 2,
         "basePrice": 9375000,
         "pricePerSqft": 12500,
-        "infraCharges": 281250.0,
-        "clubhouseCharges": 187500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 281250,
+        "clubhouseCharges": 187500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp"
       },
@@ -11654,10 +11874,10 @@ export const PROJECTS: Project[] = [
         "bathrooms": 3,
         "basePrice": 13125000,
         "pricePerSqft": 12500,
-        "infraCharges": 393750.0,
-        "clubhouseCharges": 262500.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 393750,
+        "clubhouseCharges": 262500,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp"
       }
@@ -11669,11 +11889,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Sobha Nesara Block 3?",
-        "answer": "Prices at Sobha Nesara Block 3 range from \u20b9 2.81 Cr \u2013 4.10 Cr (agreement value). Homes are available as 3, 3.5, 4, 4.5 BHK."
+        "answer": "Prices at Sobha Nesara Block 3 range from ₹ 2.81 Cr – 4.10 Cr (agreement value). Homes are available as 3, 3.5, 4, 4.5 BHK."
       },
       {
         "question": "Which configurations are available at Sobha Nesara Block 3?",
-        "answer": "The project offers 3, 3.5, 4, 4.5 BHK homes. Carpet areas range from 2,048 \u2013 2,987 sq.ft."
+        "answer": "The project offers 3, 3.5, 4, 4.5 BHK homes. Carpet areas range from 2,048 – 2,987 sq.ft."
       },
       {
         "question": "What is the RERA number of Sobha Nesara Block 3?",
@@ -11709,14 +11929,24 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b993.75 L"
+        "type": "3 BHK Hillside Luxury",
+        "carpetArea": "1450 sq.ft",
+        "priceRange": "₹3.60 Cr"
       },
       {
-        "type": "3 BHK Royale",
-        "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b91.31 Cr"
+        "type": "3 BHK Grande",
+        "carpetArea": "2095 sq.ft",
+        "priceRange": "₹4.65 Cr"
+      },
+      {
+        "type": "4 BHK Sky Residence",
+        "carpetArea": "2450 sq.ft",
+        "priceRange": "₹5.10 Cr"
+      },
+      {
+        "type": "4 BHK Presidential Palace",
+        "carpetArea": "2981 sq.ft",
+        "priceRange": "₹5.55 Cr"
       }
     ]
   },
@@ -11726,8 +11956,8 @@ export const PROJECTS: Project[] = [
     "slug": "prasiddhi-tatavam-residency",
     "builderId": "b-tata",
     "location": "Ravet",
-    "priceRange": "\u20b957.96 L - \u20b995.00 L",
-    "exactPrice": "\u20b957.96 L",
+    "priceRange": "₹57.96 L - ₹95.00 L",
+    "exactPrice": "₹57.96 L",
     "configurations": [
       "1 BHK",
       "2 BHK"
@@ -11746,7 +11976,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/GTXvNp63rizbi7PzyGamBctpuR6TT5eK393FsUXB.webp",
       "https://keystoneliv.com/public/uploads/property/aMobBGd7Ut8Rx6KGpdkdEhct7heEo0dv5pyVzWik.webp"
     ],
-    "description": "Prasiddhi Tatavam Residency by Tata Housing represents modern residential excellence in Ravet, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b957.96 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Jogging Track, Kids Play Area, 24*7 Water, Gas Pipeline, Gated Society, Lift. Verified under MahaRERA registration P52100046041, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Prasiddhi Tatavam Residency by Tata Housing represents modern residential excellence in Ravet, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹57.96 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Jogging Track, Kids Play Area, 24*7 Water, Gas Pipeline, Gated Society, Lift. Verified under MahaRERA registration P52100046041, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Jogging Track",
       "Kids Play Area",
@@ -11804,7 +12034,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Ravet",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 1 BHK, 2 BHK in Prasiddhi Tatavam Residency, Ravet Pune by Tata Housing. Price starts \u20b957.96 L. 100% Zero Brokerage. Verified MahaRERA P52100046041. Floor p",
+    "metaDescription": "Buy 1 BHK, 2 BHK in Prasiddhi Tatavam Residency, Ravet Pune by Tata Housing. Price starts ₹57.96 L. 100% Zero Brokerage. Verified MahaRERA P52100046041. Floor p",
     "advancedConfigurations": [
       {
         "id": "cfg-prasiddhi-tatavam-residency-1",
@@ -11813,12 +12043,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 483,
         "balconyArea": 38,
         "bathrooms": 1,
-        "basePrice": 5796000.0,
-        "pricePerSqft": 12000.0,
-        "infraCharges": 173880.0,
-        "clubhouseCharges": 115920.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "basePrice": 5796000,
+        "pricePerSqft": 12000,
+        "infraCharges": 173880,
+        "clubhouseCharges": 115920,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/9pvXyW2GJ03250xBWLfGckCuaopvViEXcNd2j0GO.webp"
       },
@@ -11829,12 +12059,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 483,
         "balconyArea": 38,
         "bathrooms": 1,
-        "basePrice": 5796000.0,
-        "pricePerSqft": 12000.0,
-        "infraCharges": 173880.0,
-        "clubhouseCharges": 115920.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "basePrice": 5796000,
+        "pricePerSqft": 12000,
+        "infraCharges": 173880,
+        "clubhouseCharges": 115920,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/J9Ip37z2Wzgx196NQyLrRvd22LBOy1PXHkFuPfuN.webp"
       },
@@ -11845,12 +12075,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 796,
         "balconyArea": 63,
         "bathrooms": 2,
-        "basePrice": 9500000.0,
+        "basePrice": 9500000,
         "pricePerSqft": 11934.67,
-        "infraCharges": 285000.0,
-        "clubhouseCharges": 190000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 285000,
+        "clubhouseCharges": 190000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/elwH47XcqSfm9Wr8ZOTnPUJV0L8hZ3Mzc0A6AnnL.webp"
       }
@@ -11862,11 +12092,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Prasiddhi Tatavam Residency?",
-        "answer": "Prices at Prasiddhi Tatavam Residency range from \u20b9 57.96 Lac \u2013 1.39 Cr (agreement value). Homes are available as 1, 2, 3 BHK."
+        "answer": "Prices at Prasiddhi Tatavam Residency range from ₹ 57.96 Lac – 1.39 Cr (agreement value). Homes are available as 1, 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Prasiddhi Tatavam Residency?",
-        "answer": "The project offers 1, 2, 3 BHK homes. Carpet areas range from 483 \u2013 1,161 sq.ft."
+        "answer": "The project offers 1, 2, 3 BHK homes. Carpet areas range from 483 – 1,161 sq.ft."
       },
       {
         "question": "What is the RERA number of Prasiddhi Tatavam Residency?",
@@ -11904,17 +12134,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK Luxury Unit",
         "carpetArea": "483 sq.ft",
-        "priceRange": "\u20b957.96 L"
+        "priceRange": "₹57.96 L"
       },
       {
         "type": "1 BHK Luxury Unit",
         "carpetArea": "483 sq.ft",
-        "priceRange": "\u20b957.96 L"
+        "priceRange": "₹57.96 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "796 sq.ft",
-        "priceRange": "\u20b995.00 L"
+        "priceRange": "₹95.00 L"
       }
     ]
   },
@@ -11924,8 +12154,8 @@ export const PROJECTS: Project[] = [
     "slug": "sense-66-by-tata-value-homes",
     "builderId": "b-tata",
     "location": "Talegaon Dabhade",
-    "priceRange": "\u20b927.00 L - \u20b960.00 L",
-    "exactPrice": "\u20b927.00 L",
+    "priceRange": "₹27.00 L - ₹60.00 L",
+    "exactPrice": "₹27.00 L",
     "configurations": [
       "1 BHK",
       "2 BHK"
@@ -11944,7 +12174,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
     ],
-    "description": "Sense 66 By TATA Value Homes by Tata Housing represents modern residential excellence in Talegaon Dabhade, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b927.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Gym, Jogging Track, Kids Play Area, Swimming Pool. Verified under MahaRERA registration P52100033265, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Sense 66 By TATA Value Homes by Tata Housing represents modern residential excellence in Talegaon Dabhade, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹27.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Gym, Jogging Track, Kids Play Area, Swimming Pool. Verified under MahaRERA registration P52100033265, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Banquet Hall",
       "Club house",
@@ -12005,7 +12235,7 @@ export const PROJECTS: Project[] = [
       "buy 2 BHK in Talegaon Dabhade",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 1 BHK, 2 BHK in Sense 66 By TATA Value Homes, Talegaon Dabhade Pune by Tata Housing. Price starts \u20b927.00 L. 100% Zero Brokerage. Verified MahaRERA P52100033",
+    "metaDescription": "Buy 1 BHK, 2 BHK in Sense 66 By TATA Value Homes, Talegaon Dabhade Pune by Tata Housing. Price starts ₹27.00 L. 100% Zero Brokerage. Verified MahaRERA P52100033",
     "advancedConfigurations": [
       {
         "id": "cfg-sense-66-by-tata-value-homes-1",
@@ -12014,12 +12244,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 458,
         "balconyArea": 36,
         "bathrooms": 1,
-        "basePrice": 2700000.0,
+        "basePrice": 2700000,
         "pricePerSqft": 5895.2,
-        "infraCharges": 81000.0,
-        "clubhouseCharges": 54000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 81000,
+        "clubhouseCharges": 54000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
       },
@@ -12030,12 +12260,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 458,
         "balconyArea": 36,
         "bathrooms": 1,
-        "basePrice": 2700000.0,
+        "basePrice": 2700000,
         "pricePerSqft": 5895.2,
-        "infraCharges": 81000.0,
-        "clubhouseCharges": 54000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 81000,
+        "clubhouseCharges": 54000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/TvBBvQvs52hmuvOVumr3HhUSxLMtk2rFCDVnxua0.webp"
       },
@@ -12046,12 +12276,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 736,
         "balconyArea": 58,
         "bathrooms": 2,
-        "basePrice": 6000000.0,
+        "basePrice": 6000000,
         "pricePerSqft": 8152.17,
-        "infraCharges": 180000.0,
-        "clubhouseCharges": 120000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 180000,
+        "clubhouseCharges": 120000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
       }
@@ -12061,17 +12291,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK Luxury Unit",
         "carpetArea": "458 sq.ft",
-        "priceRange": "\u20b927.00 L"
+        "priceRange": "₹27.00 L"
       },
       {
         "type": "1 BHK Luxury Unit",
         "carpetArea": "458 sq.ft",
-        "priceRange": "\u20b927.00 L"
+        "priceRange": "₹27.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "736 sq.ft",
-        "priceRange": "\u20b960.00 L"
+        "priceRange": "₹60.00 L"
       }
     ]
   },
@@ -12081,8 +12311,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-camelot-kharadi",
     "builderId": "b-lodha",
     "location": "Kharadi, Pune",
-    "priceRange": "\u20b91.50 Cr - \u20b92.62 Cr",
-    "exactPrice": "\u20b91.50 Cr",
+    "priceRange": "₹1.50 Cr - ₹2.62 Cr",
+    "exactPrice": "₹1.50 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -12097,7 +12327,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100052981",
     "totalAcres": "11.5 Acres Planned",
     "totalFloors": "4 Towers (G+32 Floors)",
-    "floorsAndAcres": "11.5 Acres Planned \u2022 4 Towers (G+32 Floors)",
+    "floorsAndAcres": "11.5 Acres Planned • 4 Towers (G+32 Floors)",
     "description": "Lodha Camelot in Upper Kharadi Pune brings an elite royal lifestyle featuring panoramic river and greenery views, grand palace-inspired clubhouses, and bespoke 3 & 4 BHK residences.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -12161,11 +12391,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Camelot?",
-        "answer": "Lodha Camelot offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b91.45 Cr up to \u20b91.45 Cr - \u20b92.85 Cr."
+        "answer": "Lodha Camelot offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of ₹1.45 Cr up to ₹1.45 Cr - ₹2.85 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Camelot?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Camelot?",
@@ -12195,8 +12425,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13393,
         "infraCharges": 450000,
         "clubhouseCharges": 300000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -12211,8 +12441,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13410,
         "infraCharges": 784500,
         "clubhouseCharges": 523000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -12221,12 +12451,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.50 Cr"
+        "priceRange": "₹1.50 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b92.62 Cr"
+        "priceRange": "₹2.62 Cr"
       }
     ]
   },
@@ -12236,8 +12466,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-altero-wakad",
     "builderId": "b-lodha",
     "location": "Wakad, Pune",
-    "priceRange": "\u20b91.06 Cr - \u20b91.62 Cr",
-    "exactPrice": "\u20b91.06 Cr",
+    "priceRange": "₹1.06 Cr - ₹1.62 Cr",
+    "exactPrice": "₹1.06 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -12252,7 +12482,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100054112",
     "totalAcres": "7.2 Acres Planned",
     "totalFloors": "G+28 Floors",
-    "floorsAndAcres": "7.2 Acres Planned \u2022 G+28 Floors",
+    "floorsAndAcres": "7.2 Acres Planned • G+28 Floors",
     "description": "Lodha Altero in Wakad Pune provides futuristic luxury living with intelligent home automation, sprawling podium amenities, and high-speed access to the Hinjewadi IT Park and Pune-Mumbai Expressway.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -12316,11 +12546,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Altero?",
-        "answer": "Lodha Altero offers 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of \u20b91.15 Cr up to \u20b91.15 Cr - \u20b91.75 Cr."
+        "answer": "Lodha Altero offers 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of ₹1.15 Cr up to ₹1.15 Cr - ₹1.75 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Altero?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Altero?",
@@ -12350,8 +12580,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 14490,
         "infraCharges": 319500,
         "clubhouseCharges": 213000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -12366,8 +12596,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 14509,
         "infraCharges": 487500,
         "clubhouseCharges": 325000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -12376,12 +12606,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.06 Cr"
+        "priceRange": "₹1.06 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.62 Cr"
+        "priceRange": "₹1.62 Cr"
       }
     ]
   },
@@ -12391,8 +12621,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-estilo-kharadi",
     "builderId": "b-lodha",
     "location": "Kharadi, Pune",
-    "priceRange": "\u20b91.74 Cr - \u20b93.02 Cr",
-    "exactPrice": "\u20b91.74 Cr",
+    "priceRange": "₹1.74 Cr - ₹3.02 Cr",
+    "exactPrice": "₹1.74 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -12407,7 +12637,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100051234",
     "totalAcres": "8.5 Acres",
     "totalFloors": "3 Iconic Towers (G+30 Floors)",
-    "floorsAndAcres": "8.5 Acres \u2022 3 Iconic Towers (G+30 Floors)",
+    "floorsAndAcres": "8.5 Acres • 3 Iconic Towers (G+30 Floors)",
     "description": "Lodha Estilo is Kharadi's crowning jewel of luxury residences, with expansive sundecks, Italian marble finishes, private elevator lobbies, and a lavish 25,000 sq.ft. clubhouse.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -12471,11 +12701,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Estilo?",
-        "answer": "Lodha Estilo offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b92.20 Cr up to \u20b92.20 Cr - \u20b94.50 Cr."
+        "answer": "Lodha Estilo offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of ₹2.20 Cr up to ₹2.20 Cr - ₹4.50 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Estilo?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Estilo?",
@@ -12505,8 +12735,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 15491,
         "infraCharges": 520500,
         "clubhouseCharges": 347000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -12521,8 +12751,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 15487,
         "infraCharges": 906000,
         "clubhouseCharges": 604000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -12531,12 +12761,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.74 Cr"
+        "priceRange": "₹1.74 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b93.02 Cr"
+        "priceRange": "₹3.02 Cr"
       }
     ]
   },
@@ -12546,8 +12776,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-belmondo",
     "builderId": "b-lodha",
     "location": "Pune Expressway, Gahunje",
-    "priceRange": "\u20b91.15 Cr - \u20b96.58 Cr",
-    "exactPrice": "\u20b91.15 Cr",
+    "priceRange": "₹1.15 Cr - ₹6.58 Cr",
+    "exactPrice": "₹1.15 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -12564,7 +12794,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100000287",
     "totalAcres": "100+ Acres Golf Township",
     "totalFloors": "Low-Rise & High-Rise G+24",
-    "floorsAndAcres": "100+ Acres Golf Township \u2022 Low-Rise & High-Rise G+24",
+    "floorsAndAcres": "100+ Acres Golf Township • Low-Rise & High-Rise G+24",
     "description": "Lodha Belmondo is a spectacular 100+ acre riverside golf township designed around a 45-hole Greg Norman golf course along the Pavana River, with 50,000 sq.ft. luxury resort clubhouse.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -12628,11 +12858,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Belmondo?",
-        "answer": "Lodha Belmondo offers 2 BHK, 3 BHK, 4 BHK, Golf Villa typologies starting from an exact direct-partner pricing of \u20b91.80 Cr up to \u20b91.80 Cr - \u20b96.50 Cr."
+        "answer": "Lodha Belmondo offers 2 BHK, 3 BHK, 4 BHK, Golf Villa typologies starting from an exact direct-partner pricing of ₹1.80 Cr up to ₹1.80 Cr - ₹6.50 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Belmondo?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Belmondo?",
@@ -12662,8 +12892,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 15646,
         "infraCharges": 345000,
         "clubhouseCharges": 230000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -12678,8 +12908,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 15670,
         "infraCharges": 526500,
         "clubhouseCharges": 351000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -12694,8 +12924,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 15641,
         "infraCharges": 915000,
         "clubhouseCharges": 610000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -12710,8 +12940,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 15655,
         "infraCharges": 1972500,
         "clubhouseCharges": 1315000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -12720,22 +12950,22 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.15 Cr"
+        "priceRange": "₹1.15 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.75 Cr"
+        "priceRange": "₹1.75 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b93.05 Cr"
+        "priceRange": "₹3.05 Cr"
       },
       {
         "type": "Golf Villa",
         "carpetArea": "4200 sq.ft",
-        "priceRange": "\u20b96.58 Cr"
+        "priceRange": "₹6.58 Cr"
       }
     ]
   },
@@ -12745,8 +12975,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-magnus-hinjewadi",
     "builderId": "b-lodha",
     "location": "Hinjewadi Phase 1, Pune",
-    "priceRange": "\u20b91.27 Cr - \u20b92.21 Cr",
-    "exactPrice": "\u20b91.27 Cr",
+    "priceRange": "₹1.27 Cr - ₹2.21 Cr",
+    "exactPrice": "₹1.27 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -12761,7 +12991,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100053890",
     "totalAcres": "9.0 Acres",
     "totalFloors": "G+31 Floors",
-    "floorsAndAcres": "9.0 Acres \u2022 G+31 Floors",
+    "floorsAndAcres": "9.0 Acres • G+31 Floors",
     "description": "Lodha Magnus brings grand executive residences to Hinjewadi Phase 1 with infinity lap pools, sky lounges, and pedestrian-first landscape architecture next to major IT campuses.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -12825,11 +13055,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Magnus?",
-        "answer": "Lodha Magnus offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b91.25 Cr up to \u20b91.25 Cr - \u20b91.95 Cr."
+        "answer": "Lodha Magnus offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of ₹1.25 Cr up to ₹1.25 Cr - ₹1.95 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Magnus?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Magnus?",
@@ -12859,8 +13089,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11339,
         "infraCharges": 381000,
         "clubhouseCharges": 254000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -12875,8 +13105,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11359,
         "infraCharges": 664500,
         "clubhouseCharges": 443000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -12885,12 +13115,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.27 Cr"
+        "priceRange": "₹1.27 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b92.21 Cr"
+        "priceRange": "₹2.21 Cr"
       }
     ]
   },
@@ -12900,8 +13130,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-massimo-baner",
     "builderId": "b-lodha",
     "location": "Baner, Pune",
-    "priceRange": "\u20b91.56 Cr - \u20b92.73 Cr",
-    "exactPrice": "\u20b91.56 Cr",
+    "priceRange": "₹1.56 Cr - ₹2.73 Cr",
+    "exactPrice": "₹1.56 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -12916,7 +13146,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100055412",
     "totalAcres": "6.8 Acres Planned",
     "totalFloors": "G+29 Floors",
-    "floorsAndAcres": "6.8 Acres Planned \u2022 G+29 Floors",
+    "floorsAndAcres": "6.8 Acres Planned • G+29 Floors",
     "description": "Lodha Massimo in Baner Pune offers high-street luxury living adjacent to Baner Hill, featuring double-height entrance lobbies, private deck balconies, and full Olympic amenities.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -12980,11 +13210,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Massimo?",
-        "answer": "Lodha Massimo offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b91.65 Cr up to \u20b91.65 Cr - \u20b92.95 Cr."
+        "answer": "Lodha Massimo offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of ₹1.65 Cr up to ₹1.65 Cr - ₹2.95 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Massimo?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Massimo?",
@@ -13014,8 +13244,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13973,
         "infraCharges": 469500,
         "clubhouseCharges": 313000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -13030,8 +13260,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13974,
         "infraCharges": 817500,
         "clubhouseCharges": 545000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -13040,12 +13270,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.56 Cr"
+        "priceRange": "₹1.56 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b92.73 Cr"
+        "priceRange": "₹2.73 Cr"
       }
     ]
   },
@@ -13055,8 +13285,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-one-bund-garden",
     "builderId": "b-lodha",
     "location": "Bund Garden, Pune",
-    "priceRange": "\u20b93.90 Cr - \u20b97.30 Cr",
-    "exactPrice": "\u20b93.90 Cr",
+    "priceRange": "₹3.90 Cr - ₹7.30 Cr",
+    "exactPrice": "₹3.90 Cr",
     "configurations": [
       "4 BHK",
       "5 BHK",
@@ -13072,7 +13302,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100056123",
     "totalAcres": "4.5 Acres Ultra-Luxury",
     "totalFloors": "Iconic G+35 Towers",
-    "floorsAndAcres": "4.5 Acres Ultra-Luxury \u2022 Iconic G+35 Towers",
+    "floorsAndAcres": "4.5 Acres Ultra-Luxury • Iconic G+35 Towers",
     "description": "Lodha One at Bund Garden is Pune's most prestigious super-luxury address, providing ultra-exclusive sprawling floor-plate residences with personal concierge and private club services.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -13136,11 +13366,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha One?",
-        "answer": "Lodha One offers 4 BHK, 5 BHK, Penthouse typologies starting from an exact direct-partner pricing of \u20b94.50 Cr up to \u20b94.50 Cr - \u20b912.00 Cr."
+        "answer": "Lodha One offers 4 BHK, 5 BHK, Penthouse typologies starting from an exact direct-partner pricing of ₹4.50 Cr up to ₹4.50 Cr - ₹12.00 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha One?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha One?",
@@ -13170,8 +13400,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 20000,
         "infraCharges": 1170000,
         "clubhouseCharges": 780000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -13186,8 +13416,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 20000,
         "infraCharges": 1860000,
         "clubhouseCharges": 1240000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -13202,8 +13432,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 20000,
         "infraCharges": 2190000,
         "clubhouseCharges": 1460000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -13212,17 +13442,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b93.90 Cr"
+        "priceRange": "₹3.90 Cr"
       },
       {
         "type": "5 BHK",
         "carpetArea": "3100 sq.ft",
-        "priceRange": "\u20b96.20 Cr"
+        "priceRange": "₹6.20 Cr"
       },
       {
         "type": "Penthouse",
         "carpetArea": "3650 sq.ft",
-        "priceRange": "\u20b97.30 Cr"
+        "priceRange": "₹7.30 Cr"
       }
     ]
   },
@@ -13232,8 +13462,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-palais-kothrud",
     "builderId": "b-lodha",
     "location": "Kothrud, Pune",
-    "priceRange": "\u20b93.90 Cr - \u20b96.20 Cr",
-    "exactPrice": "\u20b93.90 Cr",
+    "priceRange": "₹3.90 Cr - ₹6.20 Cr",
+    "exactPrice": "₹3.90 Cr",
     "configurations": [
       "4 BHK",
       "5 BHK"
@@ -13248,7 +13478,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100054321",
     "totalAcres": "5.0 Acres Prime Land",
     "totalFloors": "G+26 Floors",
-    "floorsAndAcres": "5.0 Acres Prime Land \u2022 G+26 Floors",
+    "floorsAndAcres": "5.0 Acres Prime Land • G+26 Floors",
     "description": "Lodha Palais in Kothrud Pune offers French palace-inspired bespoke architecture with lavish high ceilings, private sundecks, and handcrafted leisure facilities.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -13312,11 +13542,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Palais?",
-        "answer": "Lodha Palais offers 4 BHK, 5 BHK typologies starting from an exact direct-partner pricing of \u20b93.80 Cr up to \u20b93.80 Cr - \u20b97.20 Cr."
+        "answer": "Lodha Palais offers 4 BHK, 5 BHK typologies starting from an exact direct-partner pricing of ₹3.80 Cr up to ₹3.80 Cr - ₹7.20 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Palais?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Palais?",
@@ -13346,8 +13576,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 20000,
         "infraCharges": 1170000,
         "clubhouseCharges": 780000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -13362,8 +13592,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 20000,
         "infraCharges": 1860000,
         "clubhouseCharges": 1240000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -13372,12 +13602,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b93.90 Cr"
+        "priceRange": "₹3.90 Cr"
       },
       {
         "type": "5 BHK",
         "carpetArea": "3100 sq.ft",
-        "priceRange": "\u20b96.20 Cr"
+        "priceRange": "₹6.20 Cr"
       }
     ]
   },
@@ -13387,8 +13617,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-sylvan-hinjewadi",
     "builderId": "b-lodha",
     "location": "Hinjewadi Phase 3, Pune",
-    "priceRange": "\u20b986.50 L - \u20b91.32 Cr",
-    "exactPrice": "\u20b986.50 L",
+    "priceRange": "₹86.50 L - ₹1.32 Cr",
+    "exactPrice": "₹86.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -13403,7 +13633,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100054881",
     "totalAcres": "12.0 Acres Planned",
     "totalFloors": "G+28 Floors",
-    "floorsAndAcres": "12.0 Acres Planned \u2022 G+28 Floors",
+    "floorsAndAcres": "12.0 Acres Planned • G+28 Floors",
     "description": "Lodha Sylvan in Hinjewadi Phase 3 combines tranquil forest living with urban convenience, boasting over 1,000 trees, an organic farm, and multi-tier club zones.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -13467,11 +13697,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Sylvan?",
-        "answer": "Lodha Sylvan offers 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of \u20b985.00 L up to \u20b985.00 L - \u20b91.35 Cr."
+        "answer": "Lodha Sylvan offers 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of ₹85.00 L up to ₹85.00 L - ₹1.35 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Sylvan?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Sylvan?",
@@ -13501,8 +13731,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11769,
         "infraCharges": 259500,
         "clubhouseCharges": 173000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -13517,8 +13747,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11786,
         "infraCharges": 396000,
         "clubhouseCharges": 264000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -13527,12 +13757,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b986.50 L"
+        "priceRange": "₹86.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.32 Cr"
+        "priceRange": "₹1.32 Cr"
       }
     ]
   },
@@ -13542,8 +13772,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-elise-worli",
     "builderId": "b-lodha",
     "location": "Worli, South Mumbai",
-    "priceRange": "\u20b94.80 Cr - \u20b98.37 Cr",
-    "exactPrice": "\u20b94.80 Cr",
+    "priceRange": "₹4.80 Cr - ₹8.37 Cr",
+    "exactPrice": "₹4.80 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -13558,7 +13788,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P51900052119",
     "totalAcres": "5.5 Acres",
     "totalFloors": "G+45 Floors",
-    "floorsAndAcres": "5.5 Acres \u2022 G+45 Floors",
+    "floorsAndAcres": "5.5 Acres • G+45 Floors",
     "description": "Lodha Elise at Worli Mumbai offers uninterrupted Arabian Sea views, bespoke interior styling by world-renowned designers, and private sky lounges overlooking South Mumbai.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -13622,11 +13852,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Elise?",
-        "answer": "Lodha Elise offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b95.50 Cr up to \u20b95.50 Cr - \u20b912.50 Cr."
+        "answer": "Lodha Elise offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of ₹5.50 Cr up to ₹5.50 Cr - ₹12.50 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Elise?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Elise?",
@@ -13656,8 +13886,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 42902,
         "infraCharges": 1441500,
         "clubhouseCharges": 961000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -13672,8 +13902,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 42897,
         "infraCharges": 2509500,
         "clubhouseCharges": 1673000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -13682,12 +13912,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b94.80 Cr"
+        "priceRange": "₹4.80 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b98.37 Cr"
+        "priceRange": "₹8.37 Cr"
       }
     ]
   },
@@ -13697,8 +13927,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-altamount",
     "builderId": "b-lodha",
     "location": "Altamount Road, Billionaires Row, Mumbai",
-    "priceRange": "\u20b918.75 Cr - \u20b932.69 Cr",
-    "exactPrice": "\u20b918.75 Cr",
+    "priceRange": "₹18.75 Cr - ₹32.69 Cr",
+    "exactPrice": "₹18.75 Cr",
     "configurations": [
       "4 BHK",
       "5 BHK",
@@ -13714,7 +13944,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P51900000001",
     "totalAcres": "Bespoke Landmark Tower",
     "totalFloors": "G+43 Floors",
-    "floorsAndAcres": "Bespoke Landmark Tower \u2022 G+43 Floors",
+    "floorsAndAcres": "Bespoke Landmark Tower • G+43 Floors",
     "description": "Lodha Altamount on Mumbai's iconic Billionaire's Row is India's most coveted residential skyscraper, featuring black glass curtain walls and ultra-exclusive residences.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -13778,11 +14008,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Altamount?",
-        "answer": "Lodha Altamount offers 4 BHK, 5 BHK, Duplex typologies starting from an exact direct-partner pricing of \u20b925.00 Cr up to \u20b925.00 Cr - \u20b960.00 Cr."
+        "answer": "Lodha Altamount offers 4 BHK, 5 BHK, Duplex typologies starting from an exact direct-partner pricing of ₹25.00 Cr up to ₹25.00 Cr - ₹60.00 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Altamount?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Altamount?",
@@ -13812,8 +14042,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 96154,
         "infraCharges": 5625000,
         "clubhouseCharges": 3750000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -13828,8 +14058,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 96145,
         "infraCharges": 8941500,
         "clubhouseCharges": 5961000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -13844,8 +14074,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 96147,
         "infraCharges": 9807000,
         "clubhouseCharges": 6538000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -13854,17 +14084,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b918.75 Cr"
+        "priceRange": "₹18.75 Cr"
       },
       {
         "type": "5 BHK",
         "carpetArea": "3100 sq.ft",
-        "priceRange": "\u20b929.80 Cr"
+        "priceRange": "₹29.80 Cr"
       },
       {
         "type": "Duplex",
         "carpetArea": "3400 sq.ft",
-        "priceRange": "\u20b932.69 Cr"
+        "priceRange": "₹32.69 Cr"
       }
     ]
   },
@@ -13874,8 +14104,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-bellevue-mahalaxmi",
     "builderId": "b-lodha",
     "location": "Mahalaxmi, South Mumbai",
-    "priceRange": "\u20b94.94 Cr - \u20b98.60 Cr",
-    "exactPrice": "\u20b94.94 Cr",
+    "priceRange": "₹4.94 Cr - ₹8.60 Cr",
+    "exactPrice": "₹4.94 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -13890,7 +14120,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P51900048234",
     "totalAcres": "5.0 Acres Grand Urban Oasis",
     "totalFloors": "2 Towers (G+56 Floors)",
-    "floorsAndAcres": "5.0 Acres Grand Urban Oasis \u2022 2 Towers (G+56 Floors)",
+    "floorsAndAcres": "5.0 Acres Grand Urban Oasis • 2 Towers (G+56 Floors)",
     "description": "Lodha Bellevue in Mahalaxmi offers mesmerizing views of the Mahalaxmi Racecourse and Arabian Sea, paired with two 56-storey architectural marvels.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -13954,11 +14184,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Bellevue?",
-        "answer": "Lodha Bellevue offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of \u20b94.85 Cr up to \u20b94.85 Cr - \u20b99.20 Cr."
+        "answer": "Lodha Bellevue offers 3 BHK, 4 BHK typologies starting from an exact direct-partner pricing of ₹4.85 Cr up to ₹4.85 Cr - ₹9.20 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Bellevue?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Bellevue?",
@@ -13988,8 +14218,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 44107,
         "infraCharges": 1482000,
         "clubhouseCharges": 988000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -14004,8 +14234,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 44103,
         "infraCharges": 2580000,
         "clubhouseCharges": 1720000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -14014,12 +14244,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b94.94 Cr"
+        "priceRange": "₹4.94 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b98.60 Cr"
+        "priceRange": "₹8.60 Cr"
       }
     ]
   },
@@ -14029,8 +14259,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-amara-thane",
     "builderId": "b-lodha",
     "location": "Kolshet Road, Thane (MMR)",
-    "priceRange": "\u20b979.00 L - \u20b92.00 Cr",
-    "exactPrice": "\u20b979.00 L",
+    "priceRange": "₹79.00 L - ₹2.00 Cr",
+    "exactPrice": "₹79.00 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -14046,7 +14276,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P51700020088",
     "totalAcres": "40+ Acres Forest Township",
     "totalFloors": "Multiple G+30 Towers",
-    "floorsAndAcres": "40+ Acres Forest Township \u2022 Multiple G+30 Towers",
+    "floorsAndAcres": "40+ Acres Forest Township • Multiple G+30 Towers",
     "description": "Lodha Amara is Thane's premier 40-acre residential township with a 2-acre private forest, 6 clubhouses, 5,000 sq.ft. sports arenas, and thousands of trees.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -14110,11 +14340,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Amara?",
-        "answer": "Lodha Amara offers 1 BHK, 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of \u20b978.00 L up to \u20b978.00 L - \u20b91.85 Cr."
+        "answer": "Lodha Amara offers 1 BHK, 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of ₹78.00 L up to ₹78.00 L - ₹1.85 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Amara?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Amara?",
@@ -14144,8 +14374,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 17955,
         "infraCharges": 237000,
         "clubhouseCharges": 158000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -14160,8 +14390,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 17891,
         "infraCharges": 394500,
         "clubhouseCharges": 263000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -14176,8 +14406,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 17902,
         "infraCharges": 601500,
         "clubhouseCharges": 401000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -14186,17 +14416,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b979.00 L"
+        "priceRange": "₹79.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.31 Cr"
+        "priceRange": "₹1.31 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b92.00 Cr"
+        "priceRange": "₹2.00 Cr"
       }
     ]
   },
@@ -14206,8 +14436,8 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-upper-thane",
     "builderId": "b-lodha",
     "location": "Upper Thane / Anjur, Thane (MMR)",
-    "priceRange": "\u20b954.50 L - \u20b91.39 Cr",
-    "exactPrice": "\u20b954.50 L",
+    "priceRange": "₹54.50 L - ₹1.39 Cr",
+    "exactPrice": "₹54.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -14223,7 +14453,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P51700020275",
     "totalAcres": "200+ Acres Integrated Township",
     "totalFloors": "G+14 & G+22 Mid-Rise Towers",
-    "floorsAndAcres": "200+ Acres Integrated Township \u2022 G+14 & G+22 Mid-Rise Towers",
+    "floorsAndAcres": "200+ Acres Integrated Township • G+14 & G+22 Mid-Rise Towers",
     "description": "Lodha Upper Thane is a 200+ acre mega-township offering world-class ICSE school, grand 50,000 sq.ft. clubhouse, retail high street, and cricket ground.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
@@ -14287,11 +14517,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available apartment configurations and prices at Lodha Upper Thane?",
-        "answer": "Lodha Upper Thane offers 1 BHK, 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of \u20b952.00 L up to \u20b952.00 L - \u20b91.15 Cr."
+        "answer": "Lodha Upper Thane offers 1 BHK, 2 BHK, 3 BHK typologies starting from an exact direct-partner pricing of ₹52.00 L up to ₹52.00 L - ₹1.15 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage on Lodha Upper Thane?",
-        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay \u20b90 brokerage and get transparent builder inventory with complete documentation support."
+        "answer": "No. PROPSMART REALTY is a 100% Brokerage-Free Direct Builder Sales Partner. You pay ₹0 brokerage and get transparent builder inventory with complete documentation support."
       },
       {
         "question": "When is the possession date for Lodha Upper Thane?",
@@ -14321,8 +14551,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12386,
         "infraCharges": 163500,
         "clubhouseCharges": 109000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -14337,8 +14567,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12381,
         "infraCharges": 273000,
         "clubhouseCharges": 182000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -14353,8 +14583,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12366,
         "infraCharges": 415500,
         "clubhouseCharges": 277000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -14363,17 +14593,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b954.50 L"
+        "priceRange": "₹54.50 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b991.00 L"
+        "priceRange": "₹91.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.39 Cr"
+        "priceRange": "₹1.39 Cr"
       }
     ]
   },
@@ -14383,8 +14613,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-meadows-mahalunge",
     "builderId": "b-godrej",
     "location": "Mahalunge, Pune",
-    "priceRange": "\u20b977.00 L - \u20b91.18 Cr",
-    "exactPrice": "\u20b977.00 L",
+    "priceRange": "₹77.00 L - ₹1.18 Cr",
+    "exactPrice": "₹77.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -14399,7 +14629,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100030580",
     "totalAcres": "10.0 Acres Enclave",
     "totalFloors": "G+31 Floors",
-    "floorsAndAcres": "10.0 Acres Enclave \u2022 G+31 Floors",
+    "floorsAndAcres": "10.0 Acres Enclave • G+31 Floors",
     "description": "Godrej Meadows at Riverhills Mahalunge Pune is a wellness-focused residential community with a 3,000 sq.ft. health club, tranquil nature views, and direct connectivity to the Hinjewadi IT corridor.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -14463,7 +14693,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej Meadows?",
-        "answer": "Godrej Meadows configurations start from \u20b972.00 L with direct partner terms and no brokerage fee."
+        "answer": "Godrej Meadows configurations start from ₹72.00 L with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej Meadows?",
@@ -14497,8 +14727,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10476,
         "infraCharges": 231000,
         "clubhouseCharges": 154000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -14513,8 +14743,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10491,
         "infraCharges": 352500,
         "clubhouseCharges": 235000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       }
@@ -14523,12 +14753,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b977.00 L"
+        "priceRange": "₹77.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.18 Cr"
+        "priceRange": "₹1.18 Cr"
       }
     ]
   },
@@ -14538,8 +14768,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-park-springs-manjari",
     "builderId": "b-godrej",
     "location": "Manjari, Pune",
-    "priceRange": "\u20b972.50 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b972.50 L",
+    "priceRange": "₹72.50 L - ₹1.10 Cr",
+    "exactPrice": "₹72.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -14554,7 +14784,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100032145",
     "totalAcres": "9.5 Acres",
     "totalFloors": "G+26 Floors",
-    "floorsAndAcres": "9.5 Acres \u2022 G+26 Floors",
+    "floorsAndAcres": "9.5 Acres • G+26 Floors",
     "description": "Godrej Park Springs in Manjari Pune is an expansive green-themed development featuring scenic natural springs, skywalk trails, and quick access to Hadapsar and Kharadi.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -14618,7 +14848,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej Park Springs?",
-        "answer": "Godrej Park Springs configurations start from \u20b968.00 L with direct partner terms and no brokerage fee."
+        "answer": "Godrej Park Springs configurations start from ₹68.00 L with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej Park Springs?",
@@ -14652,8 +14882,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9864,
         "infraCharges": 217500,
         "clubhouseCharges": 145000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -14668,8 +14898,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9866,
         "infraCharges": 331500,
         "clubhouseCharges": 221000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       }
@@ -14678,12 +14908,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b972.50 L"
+        "priceRange": "₹72.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.10 Cr"
+        "priceRange": "₹1.10 Cr"
       }
     ]
   },
@@ -14693,8 +14923,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-serene-mamurdi",
     "builderId": "b-godrej",
     "location": "Mamurdi, Pune",
-    "priceRange": "\u20b961.00 L - \u20b993.50 L",
-    "exactPrice": "\u20b961.00 L",
+    "priceRange": "₹61.00 L - ₹93.50 L",
+    "exactPrice": "₹61.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -14709,7 +14939,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100029871",
     "totalAcres": "12.0 Acres",
     "totalFloors": "G+24 Floors",
-    "floorsAndAcres": "12.0 Acres \u2022 G+24 Floors",
+    "floorsAndAcres": "12.0 Acres • G+24 Floors",
     "description": "Godrej Serene in Mamurdi Pune is designed around holistic lifestyle amenities with 1+ acre central park, grand clubhouse, and immediate access to the Pune-Mumbai Expressway.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -14773,7 +15003,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej Serene?",
-        "answer": "Godrej Serene configurations start from \u20b955.00 L with direct partner terms and no brokerage fee."
+        "answer": "Godrej Serene configurations start from ₹55.00 L with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej Serene?",
@@ -14807,8 +15037,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 8299,
         "infraCharges": 183000,
         "clubhouseCharges": 122000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -14823,8 +15053,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 8348,
         "infraCharges": 280500,
         "clubhouseCharges": 187000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       }
@@ -14833,12 +15063,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b961.00 L"
+        "priceRange": "₹61.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b993.50 L"
+        "priceRange": "₹93.50 L"
       }
     ]
   },
@@ -14848,8 +15078,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-green-cove-mahalunge",
     "builderId": "b-godrej",
     "location": "Mahalunge, Pune",
-    "priceRange": "\u20b959.50 L - \u20b91.51 Cr",
-    "exactPrice": "\u20b959.50 L",
+    "priceRange": "₹59.50 L - ₹1.51 Cr",
+    "exactPrice": "₹59.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -14865,7 +15095,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100026875",
     "totalAcres": "8.0 Acres",
     "totalFloors": "G+28 Floors",
-    "floorsAndAcres": "8.0 Acres \u2022 G+28 Floors",
+    "floorsAndAcres": "8.0 Acres • G+28 Floors",
     "description": "Godrej Green Cove is part of the 100+ acre Godrej Riverhills Township in Mahalunge, offering lush riverfront views, cycling tracks, and an integrated high-street retail zone.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -14929,7 +15159,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej Green Cove?",
-        "answer": "Godrej Green Cove configurations start from \u20b962.00 L with direct partner terms and no brokerage fee."
+        "answer": "Godrej Green Cove configurations start from ₹62.00 L with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej Green Cove?",
@@ -14963,8 +15193,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13523,
         "infraCharges": 178500,
         "clubhouseCharges": 119000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -14979,8 +15209,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13469,
         "infraCharges": 297000,
         "clubhouseCharges": 198000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       },
@@ -14995,8 +15225,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13482,
         "infraCharges": 453000,
         "clubhouseCharges": 302000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       }
@@ -15005,17 +15235,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b959.50 L"
+        "priceRange": "₹59.50 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b999.00 L"
+        "priceRange": "₹99.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.51 Cr"
+        "priceRange": "₹1.51 Cr"
       }
     ]
   },
@@ -15025,8 +15255,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-park-greens-mamurdi",
     "builderId": "b-godrej",
     "location": "Mamurdi, Pune",
-    "priceRange": "\u20b960.50 L - \u20b992.00 L",
-    "exactPrice": "\u20b960.50 L",
+    "priceRange": "₹60.50 L - ₹92.00 L",
+    "exactPrice": "₹60.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -15041,7 +15271,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100019639",
     "totalAcres": "10.5 Acres",
     "totalFloors": "G+22 Floors",
-    "floorsAndAcres": "10.5 Acres \u2022 G+22 Floors",
+    "floorsAndAcres": "10.5 Acres • G+22 Floors",
     "description": "Godrej Park Greens offers over 1,100 trees, tree houses, and reflexology paths in Mamurdi, making it one of Pune's most nature-blessed residential communities.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -15105,7 +15335,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej Park Greens?",
-        "answer": "Godrej Park Greens configurations start from \u20b954.00 L with direct partner terms and no brokerage fee."
+        "answer": "Godrej Park Greens configurations start from ₹54.00 L with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej Park Greens?",
@@ -15139,8 +15369,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 8231,
         "infraCharges": 181500,
         "clubhouseCharges": 121000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -15155,8 +15385,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 8214,
         "infraCharges": 276000,
         "clubhouseCharges": 184000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       }
@@ -15165,12 +15395,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b960.50 L"
+        "priceRange": "₹60.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b992.00 L"
+        "priceRange": "₹92.00 L"
       }
     ]
   },
@@ -15180,8 +15410,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-hillview-estate-expressway",
     "builderId": "b-godrej",
     "location": "Khalapur, Pune-Mumbai Expressway",
-    "priceRange": "\u20b91.17 Cr - \u20b91.56 Cr",
-    "exactPrice": "\u20b91.17 Cr",
+    "priceRange": "₹1.17 Cr - ₹1.56 Cr",
+    "exactPrice": "₹1.17 Cr",
     "configurations": [
       "Villa Plot",
       "Resort Villa"
@@ -15196,7 +15426,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52000052341",
     "totalAcres": "100+ Acres Hillside Estate",
     "totalFloors": "G+1 Luxury Villas",
-    "floorsAndAcres": "100+ Acres Hillside Estate \u2022 G+1 Luxury Villas",
+    "floorsAndAcres": "100+ Acres Hillside Estate • G+1 Luxury Villas",
     "description": "Godrej Hillview Estate is an exclusive branded plotted development nestled against the Sahyadri hills off the Pune-Mumbai Expressway, featuring custom villa layouts.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -15260,7 +15490,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej Hillview Estate?",
-        "answer": "Godrej Hillview Estate configurations start from \u20b945.00 L with direct partner terms and no brokerage fee."
+        "answer": "Godrej Hillview Estate configurations start from ₹45.00 L with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej Hillview Estate?",
@@ -15294,8 +15524,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6500,
         "infraCharges": 351000,
         "clubhouseCharges": 234000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -15310,8 +15540,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6500,
         "infraCharges": 468000,
         "clubhouseCharges": 312000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       }
@@ -15320,12 +15550,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "Villa Plot",
         "carpetArea": "1800 sq.ft",
-        "priceRange": "\u20b91.17 Cr"
+        "priceRange": "₹1.17 Cr"
       },
       {
         "type": "Resort Villa",
         "carpetArea": "2400 sq.ft",
-        "priceRange": "\u20b91.56 Cr"
+        "priceRange": "₹1.56 Cr"
       }
     ]
   },
@@ -15335,8 +15565,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-nurture-bhandup",
     "builderId": "b-godrej",
     "location": "Bhandup West, Mumbai",
-    "priceRange": "\u20b91.72 Cr - \u20b92.62 Cr",
-    "exactPrice": "\u20b91.72 Cr",
+    "priceRange": "₹1.72 Cr - ₹2.62 Cr",
+    "exactPrice": "₹1.72 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -15351,7 +15581,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P51800023412",
     "totalAcres": "6.5 Acres",
     "totalFloors": "G+33 Floors",
-    "floorsAndAcres": "6.5 Acres \u2022 G+33 Floors",
+    "floorsAndAcres": "6.5 Acres • G+33 Floors",
     "description": "Godrej Nurture in Bhandup Mumbai is a child-development-focused community with dedicated academies for sports, music, languages, and modern science.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -15415,7 +15645,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej Nurture?",
-        "answer": "Godrej Nurture configurations start from \u20b91.45 Cr with direct partner terms and no brokerage fee."
+        "answer": "Godrej Nurture configurations start from ₹1.45 Cr with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej Nurture?",
@@ -15449,8 +15679,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 23401,
         "infraCharges": 516000,
         "clubhouseCharges": 344000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -15465,8 +15695,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 23393,
         "infraCharges": 786000,
         "clubhouseCharges": 524000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       }
@@ -15475,12 +15705,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.72 Cr"
+        "priceRange": "₹1.72 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b92.62 Cr"
+        "priceRange": "₹2.62 Cr"
       }
     ]
   },
@@ -15490,8 +15720,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-urban-park-chandivali",
     "builderId": "b-godrej",
     "location": "Chandivali, Powai Extension, Mumbai",
-    "priceRange": "\u20b91.42 Cr - \u20b93.62 Cr",
-    "exactPrice": "\u20b91.42 Cr",
+    "priceRange": "₹1.42 Cr - ₹3.62 Cr",
+    "exactPrice": "₹1.42 Cr",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -15507,7 +15737,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P51800028364",
     "totalAcres": "7.0 Acres",
     "totalFloors": "G+28 Floors",
-    "floorsAndAcres": "7.0 Acres \u2022 G+28 Floors",
+    "floorsAndAcres": "7.0 Acres • G+28 Floors",
     "description": "Godrej Urban Park near Powai Mumbai features rooftop amenities, sky cinema, jogging loops, and proximity to corporate hubs in BKC, SEEPZ, and Powai.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -15571,7 +15801,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej Urban Park?",
-        "answer": "Godrej Urban Park configurations start from \u20b91.55 Cr with direct partner terms and no brokerage fee."
+        "answer": "Godrej Urban Park configurations start from ₹1.55 Cr with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej Urban Park?",
@@ -15605,8 +15835,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 32273,
         "infraCharges": 426000,
         "clubhouseCharges": 284000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -15621,8 +15851,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 32313,
         "infraCharges": 712500,
         "clubhouseCharges": 475000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       },
@@ -15637,8 +15867,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 32277,
         "infraCharges": 1084500,
         "clubhouseCharges": 723000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       }
@@ -15647,17 +15877,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b91.42 Cr"
+        "priceRange": "₹1.42 Cr"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b92.38 Cr"
+        "priceRange": "₹2.38 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b93.62 Cr"
+        "priceRange": "₹3.62 Cr"
       }
     ]
   },
@@ -15667,8 +15897,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-bandra-bay",
     "builderId": "b-godrej",
     "location": "Bandra West, Mumbai",
-    "priceRange": "\u20b97.88 Cr - \u20b925.68 Cr",
-    "exactPrice": "\u20b97.88 Cr",
+    "priceRange": "₹7.88 Cr - ₹25.68 Cr",
+    "exactPrice": "₹7.88 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK",
@@ -15684,7 +15914,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P51800054390",
     "totalAcres": "3.5 Acres Seafront",
     "totalFloors": "G+42 Iconic Towers",
-    "floorsAndAcres": "3.5 Acres Seafront \u2022 G+42 Iconic Towers",
+    "floorsAndAcres": "3.5 Acres Seafront • G+42 Iconic Towers",
     "description": "Godrej Bandra Bay is an architectural trophy residence overlooking Bandra Bay with private infinity edge pools, personal elevators, and 5-star hotel concierge.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -15748,7 +15978,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej Bandra Bay?",
-        "answer": "Godrej Bandra Bay configurations start from \u20b99.50 Cr with direct partner terms and no brokerage fee."
+        "answer": "Godrej Bandra Bay configurations start from ₹9.50 Cr with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej Bandra Bay?",
@@ -15782,8 +16012,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 70357,
         "infraCharges": 2364000,
         "clubhouseCharges": 1576000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -15798,8 +16028,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 70359,
         "infraCharges": 4116000,
         "clubhouseCharges": 2744000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       },
@@ -15814,8 +16044,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 70370,
         "infraCharges": 7705500,
         "clubhouseCharges": 5137000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       }
@@ -15824,17 +16054,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b97.88 Cr"
+        "priceRange": "₹7.88 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b913.72 Cr"
+        "priceRange": "₹13.72 Cr"
       },
       {
         "type": "Penthouse",
         "carpetArea": "3650 sq.ft",
-        "priceRange": "\u20b925.68 Cr"
+        "priceRange": "₹25.68 Cr"
       }
     ]
   },
@@ -15844,8 +16074,8 @@ export const PROJECTS: Project[] = [
     "slug": "golf-crest-godrej-city-panvel",
     "builderId": "b-godrej",
     "location": "Panvel, Navi Mumbai",
-    "priceRange": "\u20b955.50 L - \u20b91.41 Cr",
-    "exactPrice": "\u20b955.50 L",
+    "priceRange": "₹55.50 L - ₹1.41 Cr",
+    "exactPrice": "₹55.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -15861,7 +16091,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52000018146",
     "totalAcres": "150+ Acres Golf Township",
     "totalFloors": "G+32 Towers",
-    "floorsAndAcres": "150+ Acres Golf Township \u2022 G+32 Towers",
+    "floorsAndAcres": "150+ Acres Golf Township • G+32 Towers",
     "description": "Godrej City Panvel is a 150-acre integrated mega-township featuring a 9-hole golf course, high-street retail, international school, and close access to the Navi Mumbai International Airport.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -15925,7 +16155,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej City Panvel?",
-        "answer": "Godrej City Panvel configurations start from \u20b958.00 L with direct partner terms and no brokerage fee."
+        "answer": "Godrej City Panvel configurations start from ₹58.00 L with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej City Panvel?",
@@ -15959,8 +16189,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12614,
         "infraCharges": 166500,
         "clubhouseCharges": 111000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -15975,8 +16205,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12585,
         "infraCharges": 277500,
         "clubhouseCharges": 185000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       },
@@ -15991,8 +16221,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12589,
         "infraCharges": 423000,
         "clubhouseCharges": 282000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       }
@@ -16001,17 +16231,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b955.50 L"
+        "priceRange": "₹55.50 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b992.50 L"
+        "priceRange": "₹92.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.41 Cr"
+        "priceRange": "₹1.41 Cr"
       }
     ]
   },
@@ -16021,8 +16251,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-upavan-thane-extension",
     "builderId": "b-godrej",
     "location": "Thane Extension, Kalyan-Bhiwandi Road",
-    "priceRange": "\u20b947.50 L - \u20b979.00 L",
-    "exactPrice": "\u20b947.50 L",
+    "priceRange": "₹47.50 L - ₹79.00 L",
+    "exactPrice": "₹47.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK"
@@ -16037,7 +16267,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P51700027436",
     "totalAcres": "11.0 Acres",
     "totalFloors": "G+33 Floors",
-    "floorsAndAcres": "11.0 Acres \u2022 G+33 Floors",
+    "floorsAndAcres": "11.0 Acres • G+33 Floors",
     "description": "Godrej Upavan features 2+ hectares of greens, 50+ lifestyle amenities, and round-the-clock convenience in the rapidly appreciating Thane Extension belt.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -16101,7 +16331,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej Upavan?",
-        "answer": "Godrej Upavan configurations start from \u20b942.00 L with direct partner terms and no brokerage fee."
+        "answer": "Godrej Upavan configurations start from ₹42.00 L with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej Upavan?",
@@ -16135,8 +16365,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10795,
         "infraCharges": 142500,
         "clubhouseCharges": 95000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -16151,8 +16381,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10748,
         "infraCharges": 237000,
         "clubhouseCharges": 158000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       }
@@ -16161,12 +16391,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b947.50 L"
+        "priceRange": "₹47.50 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b979.00 L"
+        "priceRange": "₹79.00 L"
       }
     ]
   },
@@ -16176,8 +16406,8 @@ export const PROJECTS: Project[] = [
     "slug": "godrej-prime-chembur",
     "builderId": "b-godrej",
     "location": "Chembur, Central Mumbai",
-    "priceRange": "\u20b91.78 Cr - \u20b92.71 Cr",
-    "exactPrice": "\u20b91.78 Cr",
+    "priceRange": "₹1.78 Cr - ₹2.71 Cr",
+    "exactPrice": "₹1.78 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -16192,7 +16422,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P51800000519",
     "totalAcres": "6.0 Acres",
     "totalFloors": "G+15 Floors",
-    "floorsAndAcres": "6.0 Acres \u2022 G+15 Floors",
+    "floorsAndAcres": "6.0 Acres • G+15 Floors",
     "description": "Godrej Prime in Chembur connects Central Mumbai, BKC, and South Mumbai seamlessly via the Eastern Freeway and SCLR, featuring rooftop gardens and clubhouse.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -16256,7 +16486,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the starting price for Godrej Prime?",
-        "answer": "Godrej Prime configurations start from \u20b91.65 Cr with direct partner terms and no brokerage fee."
+        "answer": "Godrej Prime configurations start from ₹1.65 Cr with direct partner terms and no brokerage fee."
       },
       {
         "question": "What amenities are available at Godrej Prime?",
@@ -16290,8 +16520,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 24286,
         "infraCharges": 535500,
         "clubhouseCharges": 357000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
       },
@@ -16306,8 +16536,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 24241,
         "infraCharges": 814500,
         "clubhouseCharges": 543000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       }
@@ -16316,12 +16546,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.78 Cr"
+        "priceRange": "₹1.78 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b92.71 Cr"
+        "priceRange": "₹2.71 Cr"
       }
     ]
   },
@@ -16332,8 +16562,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge, Pune",
     "city": "Pune",
-    "priceRange": "\u20b986.50 L - \u20b92.30 Cr",
-    "exactPrice": "\u20b986.50 L",
+    "priceRange": "₹86.50 L - ₹2.30 Cr",
+    "exactPrice": "₹86.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -16343,17 +16573,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b986.50 L"
+        "priceRange": "₹86.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.32 Cr"
+        "priceRange": "₹1.32 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b92.30 Cr"
+        "priceRange": "₹2.30 Cr"
       }
     ],
     "status": "Under Construction",
@@ -16366,7 +16596,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210005182",
     "totalAcres": "10.0 Acres Riverfront Township",
     "totalFloors": "5 Iconic Towers (G+34 Floors)",
-    "floorsAndAcres": "10.0 Acres Riverfront Township \u2022 5 Iconic Towers (G+34 Floors)",
+    "floorsAndAcres": "10.0 Acres Riverfront Township • 5 Iconic Towers (G+34 Floors)",
     "description": "Earth One by VTP Luxe in Mahalunge Pune offers riverside architectural excellence, maximum livable area (MLA) layouts, 5-tier club indulgence, and seamless transit to Hinjewadi Phase 1.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
     "floorPlans": [
@@ -16430,11 +16660,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at Earth One by VTP Luxe?",
-        "answer": "Earth One by VTP Luxe offers 2 BHK, 3 BHK, 4 BHK with carpet sizes ranging across 765 - 820 sq.ft and starting at an exact price of \u20b982.00 L."
+        "answer": "Earth One by VTP Luxe offers 2 BHK, 3 BHK, 4 BHK with carpet sizes ranging across 765 - 820 sq.ft and starting at an exact price of ₹82.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for Earth One by VTP Luxe?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for Earth One by VTP Luxe?",
@@ -16463,8 +16693,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11769,
         "infraCharges": 259500,
         "clubhouseCharges": 173000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -16479,8 +16709,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11786,
         "infraCharges": 396000,
         "clubhouseCharges": 264000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -16495,8 +16725,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11795,
         "infraCharges": 690000,
         "clubhouseCharges": 460000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -16509,8 +16739,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Hinjewadi Phase 1, Pune",
     "city": "Pune",
-    "priceRange": "\u20b977.00 L - \u20b91.18 Cr",
-    "exactPrice": "\u20b977.00 L",
+    "priceRange": "₹77.00 L - ₹1.18 Cr",
+    "exactPrice": "₹77.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -16519,12 +16749,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b977.00 L"
+        "priceRange": "₹77.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.18 Cr"
+        "priceRange": "₹1.18 Cr"
       }
     ],
     "status": "Under Construction",
@@ -16537,7 +16767,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210004984",
     "totalAcres": "7.5 Acres",
     "totalFloors": "4 Towers (G+32 Floors)",
-    "floorsAndAcres": "7.5 Acres \u2022 4 Towers (G+32 Floors)",
+    "floorsAndAcres": "7.5 Acres • 4 Towers (G+32 Floors)",
     "description": "Monarque by VTP Luxe in Hinjewadi Phase 1 offers royal high-rise homes right next to Infosys Circle with smart-home automation and Olympic-scale sporting amenities.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-monarque-hinjawadi-pune/Monarque_Master_Plan_27199f1f86.webp",
     "floorPlans": [
@@ -16601,11 +16831,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Monarque?",
-        "answer": "VTP Monarque offers 2 BHK, 3 BHK with carpet sizes ranging across 745 - 790 sq.ft and starting at an exact price of \u20b978.00 L."
+        "answer": "VTP Monarque offers 2 BHK, 3 BHK with carpet sizes ranging across 745 - 790 sq.ft and starting at an exact price of ₹78.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Monarque?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Monarque?",
@@ -16634,8 +16864,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10476,
         "infraCharges": 231000,
         "clubhouseCharges": 154000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -16650,8 +16880,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10491,
         "infraCharges": 352500,
         "clubhouseCharges": 235000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -16664,8 +16894,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b979.50 L - \u20b91.21 Cr",
-    "exactPrice": "\u20b979.50 L",
+    "priceRange": "₹79.50 L - ₹1.21 Cr",
+    "exactPrice": "₹79.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -16674,12 +16904,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b979.50 L"
+        "priceRange": "₹79.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.21 Cr"
+        "priceRange": "₹1.21 Cr"
       }
     ],
     "status": "Under Construction",
@@ -16692,7 +16922,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210005540",
     "totalAcres": "6.8 Acres",
     "totalFloors": "G+30 Floors",
-    "floorsAndAcres": "6.8 Acres \u2022 G+30 Floors",
+    "floorsAndAcres": "6.8 Acres • G+30 Floors",
     "description": "VTP Aurelia at Township Codename Pegasus in Kharadi is a benchmark in high-end living with heated swimming pools, grand clubhouse, and quick access to EON Free Zone.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-aurelia-kharadi-pune/Aurelia_Master_Plan_0a37b12d7c.webp",
     "floorPlans": [
@@ -16756,11 +16986,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Aurelia?",
-        "answer": "VTP Aurelia offers 2 BHK, 3 BHK with carpet sizes ranging across 775 - 830 sq.ft and starting at an exact price of \u20b989.00 L."
+        "answer": "VTP Aurelia offers 2 BHK, 3 BHK with carpet sizes ranging across 775 - 830 sq.ft and starting at an exact price of ₹89.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Aurelia?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Aurelia?",
@@ -16789,8 +17019,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10816,
         "infraCharges": 238500,
         "clubhouseCharges": 159000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -16805,8 +17035,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10804,
         "infraCharges": 363000,
         "clubhouseCharges": 242000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -16819,8 +17049,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b978.00 L - \u20b91.19 Cr",
-    "exactPrice": "\u20b978.00 L",
+    "priceRange": "₹78.00 L - ₹1.19 Cr",
+    "exactPrice": "₹78.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -16829,12 +17059,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b978.00 L"
+        "priceRange": "₹78.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.19 Cr"
+        "priceRange": "₹1.19 Cr"
       }
     ],
     "status": "Under Construction",
@@ -16847,7 +17077,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210005181",
     "totalAcres": "5.5 Acres",
     "totalFloors": "G+29 Floors",
-    "floorsAndAcres": "5.5 Acres \u2022 G+29 Floors",
+    "floorsAndAcres": "5.5 Acres • G+29 Floors",
     "description": "VTP Altamira brings Spanish-inspired elegance to Kharadi Pune with high-ceiling residences, landscaped central courtyard, and designer podium amenities.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-altamira-kharadi-pune/Altamira_Master_Plan_166b88523c.webp",
     "floorPlans": [
@@ -16911,11 +17141,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Altamira?",
-        "answer": "VTP Altamira offers 2 BHK, 3 BHK with carpet sizes ranging across 750 - 810 sq.ft and starting at an exact price of \u20b985.00 L."
+        "answer": "VTP Altamira offers 2 BHK, 3 BHK with carpet sizes ranging across 750 - 810 sq.ft and starting at an exact price of ₹85.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Altamira?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Altamira?",
@@ -16944,8 +17174,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10612,
         "infraCharges": 234000,
         "clubhouseCharges": 156000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -16960,8 +17190,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10580,
         "infraCharges": 355500,
         "clubhouseCharges": 237000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -16974,8 +17204,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b94.87 Cr - \u20b96.35 Cr",
-    "exactPrice": "\u20b94.87 Cr",
+    "priceRange": "₹4.87 Cr - ₹6.35 Cr",
+    "exactPrice": "₹4.87 Cr",
     "configurations": [
       "4 BHK Villa",
       "5 BHK Villa"
@@ -16984,12 +17214,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Villa",
         "carpetArea": "2950 sq.ft",
-        "priceRange": "\u20b94.87 Cr"
+        "priceRange": "₹4.87 Cr"
       },
       {
         "type": "5 BHK Villa",
         "carpetArea": "3850 sq.ft",
-        "priceRange": "\u20b96.35 Cr"
+        "priceRange": "₹6.35 Cr"
       }
     ],
     "status": "Under Construction",
@@ -17002,7 +17232,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210005241",
     "totalAcres": "12.0 Acres Gated Villa Enclave",
     "totalFloors": "G+2 Private Villas with Lift",
-    "floorsAndAcres": "12.0 Acres Gated Villa Enclave \u2022 G+2 Private Villas with Lift",
+    "floorsAndAcres": "12.0 Acres Gated Villa Enclave • G+2 Private Villas with Lift",
     "description": "Velvet Villas by VTP Luxe is Pune's ultimate private sanctuary offering custom luxury villas with personal elevators, private swimming pools, and manicured lawns in Kharadi.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/velvet-villas-by-vtp-luxe-kharadi-pune/Velvet_Villas_Master_Plan_8c72834b1a.webp",
     "floorPlans": [
@@ -17066,11 +17296,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at Velvet Villas by VTP Luxe?",
-        "answer": "Velvet Villas by VTP Luxe offers 4 BHK Villa, 5 BHK Villa with carpet sizes ranging across 3200 - 3800 sq.ft and starting at an exact price of \u20b93.50 Cr."
+        "answer": "Velvet Villas by VTP Luxe offers 4 BHK Villa, 5 BHK Villa with carpet sizes ranging across 3200 - 3800 sq.ft and starting at an exact price of ₹3.50 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage for Velvet Villas by VTP Luxe?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for Velvet Villas by VTP Luxe?",
@@ -17099,8 +17329,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 16508,
         "infraCharges": 1461000,
         "clubhouseCharges": 974000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -17115,8 +17345,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 16494,
         "infraCharges": 1905000,
         "clubhouseCharges": 1270000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -17129,8 +17359,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Hinjewadi Phase 1, Pune",
     "city": "Pune",
-    "priceRange": "\u20b975.00 L - \u20b91.14 Cr",
-    "exactPrice": "\u20b975.00 L",
+    "priceRange": "₹75.00 L - ₹1.14 Cr",
+    "exactPrice": "₹75.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -17139,12 +17369,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b975.00 L"
+        "priceRange": "₹75.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.14 Cr"
+        "priceRange": "₹1.14 Cr"
       }
     ],
     "status": "Under Construction",
@@ -17157,7 +17387,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210004737",
     "totalAcres": "6.0 Acres",
     "totalFloors": "G+30 Floors",
-    "floorsAndAcres": "6.0 Acres \u2022 G+30 Floors",
+    "floorsAndAcres": "6.0 Acres • G+30 Floors",
     "description": "VTP Volare in Hinjewadi Phase 1 provides state-of-the-art tech living for IT executives, featuring smart digital locks, home automation, and 24x7 fitness zones.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
     "floorPlans": [
@@ -17221,11 +17451,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Volare?",
-        "answer": "VTP Volare offers 2 BHK, 3 BHK with carpet sizes ranging across 720 - 785 sq.ft and starting at an exact price of \u20b975.00 L."
+        "answer": "VTP Volare offers 2 BHK, 3 BHK with carpet sizes ranging across 720 - 785 sq.ft and starting at an exact price of ₹75.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Volare?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Volare?",
@@ -17254,8 +17484,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10204,
         "infraCharges": 225000,
         "clubhouseCharges": 150000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -17270,8 +17500,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10179,
         "infraCharges": 342000,
         "clubhouseCharges": 228000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -17284,8 +17514,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Baner-Sus Road, Pune",
     "city": "Pune",
-    "priceRange": "\u20b982.50 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b982.50 L",
+    "priceRange": "₹82.50 L - ₹1.25 Cr",
+    "exactPrice": "₹82.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -17294,12 +17524,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b982.50 L"
+        "priceRange": "₹82.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.25 Cr"
+        "priceRange": "₹1.25 Cr"
       }
     ],
     "status": "Under Construction",
@@ -17312,7 +17542,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210004731",
     "totalAcres": "5.0 Acres",
     "totalFloors": "G+28 Floors",
-    "floorsAndAcres": "5.0 Acres \u2022 G+28 Floors",
+    "floorsAndAcres": "5.0 Acres • G+28 Floors",
     "description": "VTP Verve on Baner-Sus Road combines picturesque hill views with modern urban comfort, featuring high-speed elevators, infinity swimming pool, and sky observation deck.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-verve-baner-sus-pune/Verve_Master_Plan_4b72183c9a.webp",
     "floorPlans": [
@@ -17376,11 +17606,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Verve?",
-        "answer": "VTP Verve offers 2 BHK, 3 BHK with carpet sizes ranging across 760 - 825 sq.ft and starting at an exact price of \u20b988.00 L."
+        "answer": "VTP Verve offers 2 BHK, 3 BHK with carpet sizes ranging across 760 - 825 sq.ft and starting at an exact price of ₹88.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Verve?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Verve?",
@@ -17409,8 +17639,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11224,
         "infraCharges": 247500,
         "clubhouseCharges": 165000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -17425,8 +17655,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11205,
         "infraCharges": 376500,
         "clubhouseCharges": 251000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -17439,8 +17669,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Bavdhan, Pune",
     "city": "Pune",
-    "priceRange": "\u20b984.50 L - \u20b92.24 Cr",
-    "exactPrice": "\u20b984.50 L",
+    "priceRange": "₹84.50 L - ₹2.24 Cr",
+    "exactPrice": "₹84.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -17450,17 +17680,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b984.50 L"
+        "priceRange": "₹84.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.29 Cr"
+        "priceRange": "₹1.29 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b92.24 Cr"
+        "priceRange": "₹2.24 Cr"
       }
     ],
     "status": "Under Construction",
@@ -17473,7 +17703,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210004584",
     "totalAcres": "6.2 Acres",
     "totalFloors": "G+27 Floors",
-    "floorsAndAcres": "6.2 Acres \u2022 G+27 Floors",
+    "floorsAndAcres": "6.2 Acres • G+27 Floors",
     "description": "VTP Cielo in Bavdhan is nestled amidst lush green hills with clean air and great connectivity to Kothrud and the Pune-Bangalore Highway.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-cielo-bavdhan-pune/Cielo_Master_Plan_5a82741b2c.webp",
     "floorPlans": [
@@ -17537,11 +17767,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Cielo?",
-        "answer": "VTP Cielo offers 2 BHK, 3 BHK, 4 BHK with carpet sizes ranging across 780 - 840 sq.ft and starting at an exact price of \u20b995.00 L."
+        "answer": "VTP Cielo offers 2 BHK, 3 BHK, 4 BHK with carpet sizes ranging across 780 - 840 sq.ft and starting at an exact price of ₹95.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Cielo?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Cielo?",
@@ -17570,8 +17800,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11497,
         "infraCharges": 253500,
         "clubhouseCharges": 169000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -17586,8 +17816,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11518,
         "infraCharges": 387000,
         "clubhouseCharges": 258000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -17602,8 +17832,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11487,
         "infraCharges": 672000,
         "clubhouseCharges": 448000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -17616,8 +17846,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b943.00 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b943.00 L",
+    "priceRange": "₹43.00 L - ₹1.10 Cr",
+    "exactPrice": "₹43.00 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -17627,17 +17857,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b943.00 L"
+        "priceRange": "₹43.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b972.00 L"
+        "priceRange": "₹72.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.10 Cr"
+        "priceRange": "₹1.10 Cr"
       }
     ],
     "status": "Under Construction",
@@ -17650,7 +17880,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210003182",
     "totalAcres": "8.8 Acres",
     "totalFloors": "G+30 Floors",
-    "floorsAndAcres": "8.8 Acres \u2022 G+30 Floors",
+    "floorsAndAcres": "8.8 Acres • G+30 Floors",
     "description": "VTP Euphoria in Kharadi offers vibrant community living with over 30 lifestyle amenities, a central sports arena, and kid-friendly learning zones.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-euphoria-kharadi-pune/Euphoria_Master_Plan_9c82613d4b.webp",
     "floorPlans": [
@@ -17714,11 +17944,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Euphoria?",
-        "answer": "VTP Euphoria offers 1 BHK, 2 BHK, 3 BHK with carpet sizes ranging across 480 - 520 sq.ft and starting at an exact price of \u20b958.00 L."
+        "answer": "VTP Euphoria offers 1 BHK, 2 BHK, 3 BHK with carpet sizes ranging across 480 - 520 sq.ft and starting at an exact price of ₹58.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Euphoria?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Euphoria?",
@@ -17747,8 +17977,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9773,
         "infraCharges": 129000,
         "clubhouseCharges": 86000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -17763,8 +17993,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9796,
         "infraCharges": 216000,
         "clubhouseCharges": 144000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -17779,8 +18009,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9821,
         "infraCharges": 330000,
         "clubhouseCharges": 220000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -17793,8 +18023,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Baner-Sus Road, Pune",
     "city": "Pune",
-    "priceRange": "\u20b980.00 L - \u20b91.22 Cr",
-    "exactPrice": "\u20b980.00 L",
+    "priceRange": "₹80.00 L - ₹1.22 Cr",
+    "exactPrice": "₹80.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -17803,12 +18033,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b980.00 L"
+        "priceRange": "₹80.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.22 Cr"
+        "priceRange": "₹1.22 Cr"
       }
     ],
     "status": "Under Construction",
@@ -17821,7 +18051,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210002677",
     "totalAcres": "6.5 Acres",
     "totalFloors": "G+28 Floors",
-    "floorsAndAcres": "6.5 Acres \u2022 G+28 Floors",
+    "floorsAndAcres": "6.5 Acres • G+28 Floors",
     "description": "VTP Sierra on Baner-Sus Road provides breathtaking mountain horizons, 3-tier clubhouse amenities, and quick transit to Balewadi High Street.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-sierra-baner-sus-pune/Sierra_Master_Plan_6b71829c3a.webp",
     "floorPlans": [
@@ -17885,11 +18115,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Sierra?",
-        "answer": "VTP Sierra offers 2 BHK, 3 BHK with carpet sizes ranging across 745 - 810 sq.ft and starting at an exact price of \u20b982.00 L."
+        "answer": "VTP Sierra offers 2 BHK, 3 BHK with carpet sizes ranging across 745 - 810 sq.ft and starting at an exact price of ₹82.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Sierra?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Sierra?",
@@ -17918,8 +18148,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10884,
         "infraCharges": 240000,
         "clubhouseCharges": 160000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -17934,8 +18164,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10893,
         "infraCharges": 366000,
         "clubhouseCharges": 244000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -17948,8 +18178,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b992.00 L - \u20b92.44 Cr",
-    "exactPrice": "\u20b992.00 L",
+    "priceRange": "₹92.00 L - ₹2.44 Cr",
+    "exactPrice": "₹92.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -17959,17 +18189,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b992.00 L"
+        "priceRange": "₹92.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.40 Cr"
+        "priceRange": "₹1.40 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b92.44 Cr"
+        "priceRange": "₹2.44 Cr"
       }
     ],
     "status": "Under Construction",
@@ -17982,7 +18212,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210005631",
     "totalAcres": "7.0 Acres",
     "totalFloors": "G+33 Floors",
-    "floorsAndAcres": "7.0 Acres \u2022 G+33 Floors",
+    "floorsAndAcres": "7.0 Acres • G+33 Floors",
     "description": "Flamante by VTP Luxe is an opulent address in Kharadi Pune featuring Italian marble flooring, high-end fittings, private decks, and a sky observatory.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/flamante-by-vtp-luxe-kharadi-pune/Flamante_Master_Plan_7a81294c5d.webp",
     "floorPlans": [
@@ -18046,11 +18276,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at Flamante by VTP Luxe?",
-        "answer": "Flamante by VTP Luxe offers 2 BHK, 3 BHK, 4 BHK with carpet sizes ranging across 820 - 890 sq.ft and starting at an exact price of \u20b91.25 Cr."
+        "answer": "Flamante by VTP Luxe offers 2 BHK, 3 BHK, 4 BHK with carpet sizes ranging across 820 - 890 sq.ft and starting at an exact price of ₹1.25 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage for Flamante by VTP Luxe?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for Flamante by VTP Luxe?",
@@ -18079,8 +18309,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12517,
         "infraCharges": 276000,
         "clubhouseCharges": 184000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -18095,8 +18325,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12500,
         "infraCharges": 420000,
         "clubhouseCharges": 280000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -18111,8 +18341,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12513,
         "infraCharges": 732000,
         "clubhouseCharges": 488000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -18125,8 +18355,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge, Pune",
     "city": "Pune",
-    "priceRange": "\u20b974.00 L - \u20b91.13 Cr",
-    "exactPrice": "\u20b974.00 L",
+    "priceRange": "₹74.00 L - ₹1.13 Cr",
+    "exactPrice": "₹74.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -18135,12 +18365,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b974.00 L"
+        "priceRange": "₹74.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.13 Cr"
+        "priceRange": "₹1.13 Cr"
       }
     ],
     "status": "Under Construction",
@@ -18153,7 +18383,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210002837",
     "totalAcres": "8.0 Acres",
     "totalFloors": "G+31 Floors",
-    "floorsAndAcres": "8.0 Acres \u2022 G+31 Floors",
+    "floorsAndAcres": "8.0 Acres • G+31 Floors",
     "description": "VTP Aethereus offers modern township living with an integrated high-street retail promenade, health spa, and riverside lifestyle amenities in Mahalunge.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-aethereus-high-street-mahalunge-pune/Aethereus_Master_Plan_3b81729c1a.webp",
     "floorPlans": [
@@ -18217,11 +18447,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Aethereus?",
-        "answer": "VTP Aethereus offers 2 BHK, 3 BHK with carpet sizes ranging across 710 - 775 sq.ft and starting at an exact price of \u20b969.00 L."
+        "answer": "VTP Aethereus offers 2 BHK, 3 BHK with carpet sizes ranging across 710 - 775 sq.ft and starting at an exact price of ₹69.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Aethereus?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Aethereus?",
@@ -18250,8 +18480,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10068,
         "infraCharges": 222000,
         "clubhouseCharges": 148000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -18266,8 +18496,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10089,
         "infraCharges": 339000,
         "clubhouseCharges": 226000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -18280,26 +18510,36 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Wakad, Pune",
     "city": "Pune",
-    "priceRange": "\u20b950.50 L - \u20b978.00 L",
-    "exactPrice": "\u20b950.50 L",
+    "priceRange": "₹50.50 L - ₹1.65 Cr",
+    "exactPrice": "₹50.50 L",
     "configurations": [
       "Commercial Offices",
       "Retail Shops"
     ],
     "configurationDetails": [
       {
-        "type": "Commercial Offices",
-        "carpetArea": "650 sq.ft",
-        "priceRange": "\u20b978.00 L"
+        "type": "Grade-A Commercial Office",
+        "carpetArea": "450 sq.ft",
+        "priceRange": "₹50.50 L"
       },
       {
-        "type": "Retail Shops",
-        "carpetArea": "420 sq.ft",
-        "priceRange": "\u20b950.50 L"
+        "type": "Corporate Executive Office",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "₹95.00 L"
+      },
+      {
+        "type": "Retail High Street Shop",
+        "carpetArea": "320 sq.ft",
+        "priceRange": "₹85.00 L"
+      },
+      {
+        "type": "Prime Corner Retail Showroom",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹1.65 Cr"
       }
     ],
     "status": "Under Construction",
-    "type": "Residential",
+    "type": "Commercial",
     "possessionDate": "June 2026",
     "image": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
@@ -18308,7 +18548,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210003169",
     "totalAcres": "3.5 Acres Commercial Landmark",
     "totalFloors": "Iconic G+24 Commercial Tower",
-    "floorsAndAcres": "3.5 Acres Commercial Landmark \u2022 Iconic G+24 Commercial Tower",
+    "floorsAndAcres": "3.5 Acres Commercial Landmark • Iconic G+24 Commercial Tower",
     "description": "VTP Altitude is Wakad's premier commercial high-rise tower offering Grade-A corporate offices, retail spaces, and conference facilities right on the Mumbai-Pune Expressway exit.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-altitude-wakad-pune/Altitude_Master_Plan_2a71829c4d.webp",
     "floorPlans": [
@@ -18372,11 +18612,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Altitude?",
-        "answer": "VTP Altitude offers Commercial Offices, Retail Shops with carpet sizes ranging across 450 - 950 sq.ft and starting at an exact price of \u20b982.00 L."
+        "answer": "VTP Altitude offers Commercial Offices, Retail Shops with carpet sizes ranging across 450 - 950 sq.ft and starting at an exact price of ₹82.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Altitude?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Altitude?",
@@ -18392,7 +18632,7 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "pricePerSqft": 12000,
+    "pricePerSqft": 14500,
     "advancedConfigurations": [
       {
         "id": "cfg-vtp-altitude-wakad-1",
@@ -18405,8 +18645,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12000,
         "infraCharges": 234000,
         "clubhouseCharges": 156000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -18421,8 +18661,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12024,
         "infraCharges": 151500,
         "clubhouseCharges": 101000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -18435,8 +18675,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Hinjewadi Phase 1, Pune",
     "city": "Pune",
-    "priceRange": "\u20b976.50 L - \u20b91.17 Cr",
-    "exactPrice": "\u20b976.50 L",
+    "priceRange": "₹76.50 L - ₹1.17 Cr",
+    "exactPrice": "₹76.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -18445,12 +18685,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b976.50 L"
+        "priceRange": "₹76.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.17 Cr"
+        "priceRange": "₹1.17 Cr"
       }
     ],
     "status": "Under Construction",
@@ -18463,7 +18703,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210002813",
     "totalAcres": "9.2 Acres",
     "totalFloors": "G+32 Floors",
-    "floorsAndAcres": "9.2 Acres \u2022 G+32 Floors",
+    "floorsAndAcres": "9.2 Acres • G+32 Floors",
     "description": "VTP Bellissimo in Hinjewadi Phase 1 features 3-side open residences with uninterrupted hill views, heated lap pool, and walking proximity to Wipro and Quadron IT Park.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-bellissimo-hinjewadi-pune/Bellissimo_Master_Plan_1a82937c5f.webp",
     "floorPlans": [
@@ -18527,11 +18767,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Bellissimo?",
-        "answer": "VTP Bellissimo offers 2 BHK, 3 BHK with carpet sizes ranging across 730 - 795 sq.ft and starting at an exact price of \u20b976.00 L."
+        "answer": "VTP Bellissimo offers 2 BHK, 3 BHK with carpet sizes ranging across 730 - 795 sq.ft and starting at an exact price of ₹76.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Bellissimo?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Bellissimo?",
@@ -18560,8 +18800,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10408,
         "infraCharges": 229500,
         "clubhouseCharges": 153000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -18576,8 +18816,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10402,
         "infraCharges": 349500,
         "clubhouseCharges": 233000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -18590,8 +18830,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Wakad, Pune",
     "city": "Pune",
-    "priceRange": "\u20b981.00 L - \u20b91.23 Cr",
-    "exactPrice": "\u20b981.00 L",
+    "priceRange": "₹81.00 L - ₹1.23 Cr",
+    "exactPrice": "₹81.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -18600,12 +18840,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b981.00 L"
+        "priceRange": "₹81.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.23 Cr"
+        "priceRange": "₹1.23 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -18618,7 +18858,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100018274",
     "totalAcres": "5.5 Acres",
     "totalFloors": "G+22 Floors",
-    "floorsAndAcres": "5.5 Acres \u2022 G+22 Floors",
+    "floorsAndAcres": "5.5 Acres • G+22 Floors",
     "description": "VTP Hilife in Wakad is a ready-to-move-in lifestyle landmark featuring double-height club lounge, swimming pool, and prime location off Dange Chowk.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-hilife-wakad-pune/Hilife_Master_Plan_5c82917d3b.webp",
     "floorPlans": [
@@ -18682,11 +18922,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Hilife?",
-        "answer": "VTP Hilife offers 2 BHK, 3 BHK with carpet sizes ranging across 735 - 800 sq.ft and starting at an exact price of \u20b982.00 L."
+        "answer": "VTP Hilife offers 2 BHK, 3 BHK with carpet sizes ranging across 735 - 800 sq.ft and starting at an exact price of ₹82.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Hilife?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Hilife?",
@@ -18715,8 +18955,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11020,
         "infraCharges": 243000,
         "clubhouseCharges": 162000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -18731,8 +18971,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10982,
         "infraCharges": 369000,
         "clubhouseCharges": 246000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -18745,8 +18985,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge, Pune",
     "city": "Pune",
-    "priceRange": "\u20b942.00 L - \u20b91.06 Cr",
-    "exactPrice": "\u20b942.00 L",
+    "priceRange": "₹42.00 L - ₹1.06 Cr",
+    "exactPrice": "₹42.00 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -18756,17 +18996,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b942.00 L"
+        "priceRange": "₹42.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b970.00 L"
+        "priceRange": "₹70.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.06 Cr"
+        "priceRange": "₹1.06 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -18779,7 +19019,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100019902",
     "totalAcres": "100+ Acre Bluewaters Township",
     "totalFloors": "G+28 Floors",
-    "floorsAndAcres": "100+ Acre Bluewaters Township \u2022 G+28 Floors",
+    "floorsAndAcres": "100+ Acre Bluewaters Township • G+28 Floors",
     "description": "VTP Leonara is an established ready community within Township Codename Bluewaters in Mahalunge, offering lush river promenades and cricket academy.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
     "floorPlans": [
@@ -18843,11 +19083,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Leonara?",
-        "answer": "VTP Leonara offers 1 BHK, 2 BHK, 3 BHK with carpet sizes ranging across 465 - 510 sq.ft and starting at an exact price of \u20b965.00 L."
+        "answer": "VTP Leonara offers 1 BHK, 2 BHK, 3 BHK with carpet sizes ranging across 465 - 510 sq.ft and starting at an exact price of ₹65.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Leonara?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Leonara?",
@@ -18876,8 +19116,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9545,
         "infraCharges": 126000,
         "clubhouseCharges": 84000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -18892,8 +19132,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9524,
         "infraCharges": 210000,
         "clubhouseCharges": 140000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -18908,8 +19148,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9509,
         "infraCharges": 319500,
         "clubhouseCharges": 213000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -18922,8 +19162,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge, Pune",
     "city": "Pune",
-    "priceRange": "\u20b941.50 L - \u20b91.05 Cr",
-    "exactPrice": "\u20b941.50 L",
+    "priceRange": "₹41.50 L - ₹1.05 Cr",
+    "exactPrice": "₹41.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -18933,17 +19173,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b941.50 L"
+        "priceRange": "₹41.50 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b969.00 L"
+        "priceRange": "₹69.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.05 Cr"
+        "priceRange": "₹1.05 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -18956,7 +19196,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100020331",
     "totalAcres": "7.8 Acres",
     "totalFloors": "G+26 Floors",
-    "floorsAndAcres": "7.8 Acres \u2022 G+26 Floors",
+    "floorsAndAcres": "7.8 Acres • G+26 Floors",
     "description": "VTP Belair offers comfortable contemporary family residences surrounded by pristine river views and 75% open spaces in Mahalunge.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
     "floorPlans": [
@@ -19020,11 +19260,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Belair?",
-        "answer": "VTP Belair offers 1 BHK, 2 BHK, 3 BHK with carpet sizes ranging across 470 - 515 sq.ft and starting at an exact price of \u20b962.00 L."
+        "answer": "VTP Belair offers 1 BHK, 2 BHK, 3 BHK with carpet sizes ranging across 470 - 515 sq.ft and starting at an exact price of ₹62.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Belair?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Belair?",
@@ -19053,8 +19293,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9432,
         "infraCharges": 124500,
         "clubhouseCharges": 83000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -19069,8 +19309,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9388,
         "infraCharges": 207000,
         "clubhouseCharges": 138000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -19085,8 +19325,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9420,
         "infraCharges": 316500,
         "clubhouseCharges": 211000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -19099,8 +19339,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge, Pune",
     "city": "Pune",
-    "priceRange": "\u20b970.50 L - \u20b91.07 Cr",
-    "exactPrice": "\u20b970.50 L",
+    "priceRange": "₹70.50 L - ₹1.07 Cr",
+    "exactPrice": "₹70.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -19109,12 +19349,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b970.50 L"
+        "priceRange": "₹70.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.07 Cr"
+        "priceRange": "₹1.07 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -19127,7 +19367,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100020166",
     "totalAcres": "6.0 Acres",
     "totalFloors": "G+24 Floors",
-    "floorsAndAcres": "6.0 Acres \u2022 G+24 Floors",
+    "floorsAndAcres": "6.0 Acres • G+24 Floors",
     "description": "VTP Alpine in Mahalunge Pune offers ready-possession homes with state-of-the-art gymnasium, multi-purpose hall, and jogging paths.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
     "floorPlans": [
@@ -19191,11 +19431,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Alpine?",
-        "answer": "VTP Alpine offers 2 BHK, 3 BHK with carpet sizes ranging across 715 - 775 sq.ft and starting at an exact price of \u20b964.00 L."
+        "answer": "VTP Alpine offers 2 BHK, 3 BHK with carpet sizes ranging across 715 - 775 sq.ft and starting at an exact price of ₹64.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Alpine?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Alpine?",
@@ -19224,8 +19464,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9592,
         "infraCharges": 211500,
         "clubhouseCharges": 141000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -19240,8 +19480,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9598,
         "infraCharges": 322500,
         "clubhouseCharges": 215000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -19254,8 +19494,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b973.00 L - \u20b91.11 Cr",
-    "exactPrice": "\u20b973.00 L",
+    "priceRange": "₹73.00 L - ₹1.11 Cr",
+    "exactPrice": "₹73.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -19264,12 +19504,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b973.00 L"
+        "priceRange": "₹73.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.11 Cr"
+        "priceRange": "₹1.11 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -19282,7 +19522,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100021609",
     "totalAcres": "6.5 Acres",
     "totalFloors": "G+28 Floors",
-    "floorsAndAcres": "6.5 Acres \u2022 G+28 Floors",
+    "floorsAndAcres": "6.5 Acres • G+28 Floors",
     "description": "VTP Cygnus at Township Codename Pegasus in Kharadi is a fully integrated residential development with retail arcade and wellness club.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-aurelia-kharadi-pune/Aurelia_Master_Plan_0a37b12d7c.webp",
     "floorPlans": [
@@ -19346,11 +19586,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Cygnus?",
-        "answer": "VTP Cygnus offers 2 BHK, 3 BHK with carpet sizes ranging across 725 - 785 sq.ft and starting at an exact price of \u20b972.00 L."
+        "answer": "VTP Cygnus offers 2 BHK, 3 BHK with carpet sizes ranging across 725 - 785 sq.ft and starting at an exact price of ₹72.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Cygnus?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Cygnus?",
@@ -19379,8 +19619,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9932,
         "infraCharges": 219000,
         "clubhouseCharges": 146000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -19395,8 +19635,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9911,
         "infraCharges": 333000,
         "clubhouseCharges": 222000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -19409,8 +19649,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi, Pune",
     "city": "Pune",
-    "priceRange": "\u20b986.50 L - \u20b91.32 Cr",
-    "exactPrice": "\u20b986.50 L",
+    "priceRange": "₹86.50 L - ₹1.32 Cr",
+    "exactPrice": "₹86.50 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -19419,12 +19659,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b986.50 L"
+        "priceRange": "₹86.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.32 Cr"
+        "priceRange": "₹1.32 Cr"
       }
     ],
     "status": "Under Construction",
@@ -19437,7 +19677,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P5210002939",
     "totalAcres": "5.8 Acres",
     "totalFloors": "G+30 Floors",
-    "floorsAndAcres": "5.8 Acres \u2022 G+30 Floors",
+    "floorsAndAcres": "5.8 Acres • G+30 Floors",
     "description": "VTP Beaumonde in Kharadi Pune delivers premier lifestyle residences with temperature-controlled swimming pool, indoor sports lounge, and business pods.",
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-altamira-kharadi-pune/Altamira_Master_Plan_166b88523c.webp",
     "floorPlans": [
@@ -19501,11 +19741,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at VTP Beaumonde?",
-        "answer": "VTP Beaumonde offers 2 BHK, 3 BHK with carpet sizes ranging across 780 - 845 sq.ft and starting at an exact price of \u20b992.00 L."
+        "answer": "VTP Beaumonde offers 2 BHK, 3 BHK with carpet sizes ranging across 780 - 845 sq.ft and starting at an exact price of ₹92.00 L."
       },
       {
         "question": "Does PROPSMART charge any brokerage for VTP Beaumonde?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for VTP Beaumonde?",
@@ -19534,8 +19774,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11769,
         "infraCharges": 259500,
         "clubhouseCharges": 173000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -19550,8 +19790,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11786,
         "infraCharges": 396000,
         "clubhouseCharges": 264000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -19564,28 +19804,28 @@ export const PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Khopoli Foothills, Lonavala",
     "city": "Lonavala",
-    "priceRange": "\u20b91.81 Cr - \u20b94.28 Cr",
-    "exactPrice": "\u20b91.81 Cr",
+    "priceRange": "₹5.25 Cr - ₹10.50 Cr",
+    "exactPrice": "₹5.25 Cr",
     "configurations": [
-      "3 BHK Villa",
       "4 BHK Villa",
+      "4 BHK Grande",
       "5 BHK Estate"
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK Villa",
-        "carpetArea": "2250 sq.ft",
-        "priceRange": "\u20b93.26 Cr"
+        "type": "4 BHK Private Villa",
+        "carpetArea": "3150 sq.ft",
+        "priceRange": "₹5.25 Cr"
       },
       {
-        "type": "4 BHK Villa",
-        "carpetArea": "2950 sq.ft",
-        "priceRange": "\u20b94.28 Cr"
+        "type": "4 BHK Grande Villa",
+        "carpetArea": "4050 sq.ft",
+        "priceRange": "₹7.00 Cr"
       },
       {
-        "type": "5 BHK Estate",
-        "carpetArea": "1250 sq.ft",
-        "priceRange": "\u20b91.81 Cr"
+        "type": "5 BHK Royal Estate",
+        "carpetArea": "5400 sq.ft",
+        "priceRange": "₹10.50 Cr"
       }
     ],
     "status": "Under Construction",
@@ -19598,7 +19838,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52000054321",
     "totalAcres": "50+ Acres Mountain Sanctuary",
     "totalFloors": "G+1 Bespoke Valley Villas",
-    "floorsAndAcres": "50+ Acres Mountain Sanctuary \u2022 G+1 Bespoke Valley Villas",
+    "floorsAndAcres": "50+ Acres Mountain Sanctuary • G+1 Bespoke Valley Villas",
     "description": "Lodha Villa Cerro is an exclusive hill-station retreat nestled in the mist-clad Sahyadri valley between Lonavala and Khopoli, offering private plunge pools and valley terraces.",
     "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
     "floorPlans": [
@@ -19662,11 +19902,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at Lodha Villa Cerro?",
-        "answer": "Lodha Villa Cerro offers 3 BHK Villa, 4 BHK Villa, 5 BHK Estate with carpet sizes ranging across 2400 - 2800 sq.ft and starting at an exact price of \u20b92.85 Cr."
+        "answer": "Lodha Villa Cerro offers 3 BHK Villa, 4 BHK Villa, 5 BHK Estate with carpet sizes ranging across 2400 - 2800 sq.ft and starting at an exact price of ₹2.85 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage for Lodha Villa Cerro?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for Lodha Villa Cerro?",
@@ -19682,7 +19922,7 @@ export const PROJECTS: Project[] = [
       "Axis Bank",
       "Kotak Mahindra Bank"
     ],
-    "pricePerSqft": 14500,
+    "pricePerSqft": 16800,
     "advancedConfigurations": [
       {
         "id": "cfg-lodha-villa-cerro-khopoli-lonavala-1",
@@ -19695,8 +19935,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 14489,
         "infraCharges": 978000,
         "clubhouseCharges": 652000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -19711,8 +19951,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 14508,
         "infraCharges": 1284000,
         "clubhouseCharges": 856000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -19727,8 +19967,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 14480,
         "infraCharges": 543000,
         "clubhouseCharges": 362000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -19741,8 +19981,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Khalapur, Lonavala Corridor",
     "city": "Lonavala",
-    "priceRange": "\u20b92.07 Cr - \u20b92.76 Cr",
-    "exactPrice": "\u20b92.07 Cr",
+    "priceRange": "₹2.07 Cr - ₹2.76 Cr",
+    "exactPrice": "₹2.07 Cr",
     "configurations": [
       "Villa Plot",
       "Resort Villa"
@@ -19751,12 +19991,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "Villa Plot",
         "carpetArea": "1800 sq.ft",
-        "priceRange": "\u20b92.07 Cr"
+        "priceRange": "₹2.07 Cr"
       },
       {
         "type": "Resort Villa",
         "carpetArea": "2400 sq.ft",
-        "priceRange": "\u20b92.76 Cr"
+        "priceRange": "₹2.76 Cr"
       }
     ],
     "status": "New Launch",
@@ -19769,7 +20009,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52000055123",
     "totalAcres": "100+ Acres Forested Estate",
     "totalFloors": "G+1 Plotted Villa Community",
-    "floorsAndAcres": "100+ Acres Forested Estate \u2022 G+1 Plotted Villa Community",
+    "floorsAndAcres": "100+ Acres Forested Estate • G+1 Plotted Villa Community",
     "description": "Godrej Woodside Estate along the Mumbai-Pune Expressway near Lonavala is an idyllic green township featuring a natural river stream, camping grounds, and grand clubhouse.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -19833,11 +20073,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at Godrej Woodside Estate?",
-        "answer": "Godrej Woodside Estate offers Villa Plot, Resort Villa with carpet sizes ranging across 1500 - 2200 sq.ft and starting at an exact price of \u20b91.15 Cr."
+        "answer": "Godrej Woodside Estate offers Villa Plot, Resort Villa with carpet sizes ranging across 1500 - 2200 sq.ft and starting at an exact price of ₹1.15 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage for Godrej Woodside Estate?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for Godrej Woodside Estate?",
@@ -19866,8 +20106,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11500,
         "infraCharges": 621000,
         "clubhouseCharges": 414000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -19882,8 +20122,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11500,
         "infraCharges": 828000,
         "clubhouseCharges": 552000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -19896,8 +20136,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Awas Beach, Alibaug",
     "city": "Alibaug",
-    "priceRange": "\u20b96.89 Cr - \u20b912.72 Cr",
-    "exactPrice": "\u20b96.89 Cr",
+    "priceRange": "₹6.89 Cr - ₹12.72 Cr",
+    "exactPrice": "₹6.89 Cr",
     "configurations": [
       "3 BHK Beach Villa",
       "4 BHK Beach Villa",
@@ -19907,17 +20147,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Beach Villa",
         "carpetArea": "2600 sq.ft",
-        "priceRange": "\u20b96.89 Cr"
+        "priceRange": "₹6.89 Cr"
       },
       {
         "type": "4 BHK Beach Villa",
         "carpetArea": "3450 sq.ft",
-        "priceRange": "\u20b99.14 Cr"
+        "priceRange": "₹9.14 Cr"
       },
       {
         "type": "5 BHK Royal Manor",
         "carpetArea": "4800 sq.ft",
-        "priceRange": "\u20b912.72 Cr"
+        "priceRange": "₹12.72 Cr"
       }
     ],
     "status": "Under Construction",
@@ -19930,7 +20170,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52000051189",
     "totalAcres": "40+ Acres Beachside Sanctuary",
     "totalFloors": "G+1 Bespoke Beach Villas",
-    "floorsAndAcres": "40+ Acres Beachside Sanctuary \u2022 G+1 Bespoke Beach Villas",
+    "floorsAndAcres": "40+ Acres Beachside Sanctuary • G+1 Bespoke Beach Villas",
     "description": "Lodha Alibaug near Awas Beach is Mumbai's most prestigious coastal sanctuary, providing private pool villas, coconut groves, speedboat dock access, and 5-star concierge services.",
     "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
     "floorPlans": [
@@ -19994,11 +20234,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at Lodha Alibaug?",
-        "answer": "Lodha Alibaug offers 3 BHK Beach Villa, 4 BHK Beach Villa, 5 BHK Royal Manor with carpet sizes ranging across 2600 - 3200 sq.ft and starting at an exact price of \u20b94.50 Cr."
+        "answer": "Lodha Alibaug offers 3 BHK Beach Villa, 4 BHK Beach Villa, 5 BHK Royal Manor with carpet sizes ranging across 2600 - 3200 sq.ft and starting at an exact price of ₹4.50 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage for Lodha Alibaug?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for Lodha Alibaug?",
@@ -20027,8 +20267,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 26500,
         "infraCharges": 2067000,
         "clubhouseCharges": 1378000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -20043,8 +20283,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 26493,
         "infraCharges": 2742000,
         "clubhouseCharges": 1828000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       },
@@ -20059,8 +20299,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 26500,
         "infraCharges": 3816000,
         "clubhouseCharges": 2544000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
@@ -20073,8 +20313,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Mandwa Jetty Corridor, Alibaug",
     "city": "Alibaug",
-    "priceRange": "\u20b93.69 Cr - \u20b96.05 Cr",
-    "exactPrice": "\u20b93.69 Cr",
+    "priceRange": "₹3.69 Cr - ₹6.05 Cr",
+    "exactPrice": "₹3.69 Cr",
     "configurations": [
       "Coastal Villa Plot",
       "Beach Estate"
@@ -20083,12 +20323,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "Coastal Villa Plot",
         "carpetArea": "2200 sq.ft",
-        "priceRange": "\u20b93.69 Cr"
+        "priceRange": "₹3.69 Cr"
       },
       {
         "type": "Beach Estate",
         "carpetArea": "3600 sq.ft",
-        "priceRange": "\u20b96.05 Cr"
+        "priceRange": "₹6.05 Cr"
       }
     ],
     "status": "New Launch",
@@ -20101,7 +20341,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52000053912",
     "totalAcres": "60+ Acres Gated Coastal Parkland",
     "totalFloors": "G+1 Custom Plotted Villas",
-    "floorsAndAcres": "60+ Acres Gated Coastal Parkland \u2022 G+1 Custom Plotted Villas",
+    "floorsAndAcres": "60+ Acres Gated Coastal Parkland • G+1 Custom Plotted Villas",
     "description": "The House of Abhinandan Lodha Alibaug Reserve offers prime 7-star branded land and villa estates just 15 minutes from the Mandwa RORO ferry terminal.",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -20165,11 +20405,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What are the available configurations and carpet area at Abhinandan Lodha Alibaug Reserve?",
-        "answer": "Abhinandan Lodha Alibaug Reserve offers Coastal Villa Plot, Beach Estate with carpet sizes ranging across 1800 - 2400 sq.ft and starting at an exact price of \u20b91.45 Cr."
+        "answer": "Abhinandan Lodha Alibaug Reserve offers Coastal Villa Plot, Beach Estate with carpet sizes ranging across 1800 - 2400 sq.ft and starting at an exact price of ₹1.45 Cr."
       },
       {
         "question": "Does PROPSMART charge any brokerage for Abhinandan Lodha Alibaug Reserve?",
-        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay ₹0 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
       },
       {
         "question": "When will possession be handed over for Abhinandan Lodha Alibaug Reserve?",
@@ -20198,8 +20438,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 16795,
         "infraCharges": 1108500,
         "clubhouseCharges": 739000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       },
@@ -20214,8 +20454,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 16806,
         "infraCharges": 1815000,
         "clubhouseCharges": 1210000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
       }
@@ -20228,8 +20468,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b953.00 L - \u20b980.50 L",
-    "exactPrice": "\u20b953.00 L",
+    "priceRange": "₹53.00 L - ₹80.50 L",
+    "exactPrice": "₹53.00 L",
     "pricePerSqft": 7200,
     "configurations": [
       "2 BHK",
@@ -20239,12 +20479,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b953.00 L"
+        "priceRange": "₹53.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b980.50 L"
+        "priceRange": "₹80.50 L"
       }
     ],
     "status": "Under Construction",
@@ -20272,8 +20512,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Hinjewadi",
       "flats in Hinjewadi Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Life Republic Qrious, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b964.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100079623.",
-    "description": "When you're living at Qrious by Life Republic \u2013 a new launch project offering 2 & 3 BHK flats in Hinjewadi, the very heart of Pune\u2019s future.\n\r\nHere, every day the next chapter unfolds, Future opportun\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Life Republic Qrious, Hinjewadi Pune by Kolte-Patil Developers. Prices from ₹64.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100079623.",
+    "description": "When you're living at Qrious by Life Republic – a new launch project offering 2 & 3 BHK flats in Hinjewadi, the very heart of Pune’s future.\n\r\nHere, every day the next chapter unfolds, Future opportun\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -20331,7 +20571,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Life Republic Qrious?",
-        "answer": "Residences at Kolte Patil Life Republic Qrious start from \u20b964.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Life Republic Qrious start from ₹64.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Life Republic Qrious?",
@@ -20360,8 +20600,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 7211,
         "infraCharges": 159000,
         "clubhouseCharges": 106000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -20376,8 +20616,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 7188,
         "infraCharges": 241500,
         "clubhouseCharges": 161000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -20390,8 +20630,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b91.18 Cr - \u20b91.85 Cr",
-    "exactPrice": "\u20b91.18 Cr",
+    "priceRange": "₹1.18 Cr - ₹1.85 Cr",
+    "exactPrice": "₹1.18 Cr",
     "pricePerSqft": 8400,
     "configurations": [
       "3 BHK",
@@ -20402,17 +20642,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Luxury Sky Suite",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.18 Cr"
+        "priceRange": "₹1.18 Cr"
       },
       {
         "type": "3.5 BHK Grand Residence",
         "carpetArea": "1390 sq.ft",
-        "priceRange": "\u20b91.52 Cr"
+        "priceRange": "₹1.52 Cr"
       },
       {
         "type": "4 BHK Imperial Penthouse",
         "carpetArea": "1650 sq.ft",
-        "priceRange": "\u20b91.85 Cr"
+        "priceRange": "₹1.85 Cr"
       }
     ],
     "status": "Under Construction",
@@ -20448,7 +20688,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Hinjewadi",
       "flats in Hinjewadi Pune"
     ],
-    "metaDescription": "Buy 3 BHK, 3.5 BHK, 4 BHK in Kolte Patil Life Republic Canvas, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b91.18 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100077008.",
+    "metaDescription": "Buy 3 BHK, 3.5 BHK, 4 BHK in Kolte Patil Life Republic Canvas, Hinjewadi Pune by Kolte-Patil Developers. Prices from ₹1.18 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100077008.",
     "description": "Enjoy the different colours of the sky with four high-rising towers offering luxurious 3 and 4 BHK apartments that overlook the township from an impressive altitude of ~120M.\n\nYou once pictured a life\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -20507,7 +20747,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Life Republic Canvas?",
-        "answer": "Residences at Kolte Patil Life Republic Canvas start from \u20b91.18 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Life Republic Canvas start from ₹1.18 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Life Republic Canvas?",
@@ -20578,12 +20818,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 1120,
         "balconyArea": 95,
         "bathrooms": 3,
-        "basePrice": 11800000.0,
+        "basePrice": 11800000,
         "pricePerSqft": 10535.71,
-        "infraCharges": 350000.0,
-        "clubhouseCharges": 250000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 350000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1728477684134798907.png"
       },
@@ -20594,12 +20834,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 1390,
         "balconyArea": 120,
         "bathrooms": 3,
-        "basePrice": 15200000.0,
+        "basePrice": 15200000,
         "pricePerSqft": 10935.25,
-        "infraCharges": 400000.0,
-        "clubhouseCharges": 250000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 400000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/1728477684130993331.png"
       },
@@ -20610,12 +20850,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 1650,
         "balconyArea": 160,
         "bathrooms": 4,
-        "basePrice": 18500000.0,
+        "basePrice": 18500000,
         "pricePerSqft": 11212.12,
-        "infraCharges": 500000.0,
-        "clubhouseCharges": 300000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 500000,
+        "clubhouseCharges": 300000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/17284759001887960407.png"
       }
@@ -20628,8 +20868,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b952.00 L - \u20b979.50 L",
-    "exactPrice": "\u20b952.00 L",
+    "priceRange": "₹52.00 L - ₹79.50 L",
+    "exactPrice": "₹52.00 L",
     "pricePerSqft": 7100,
     "configurations": [
       "2 BHK",
@@ -20639,12 +20879,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b952.00 L"
+        "priceRange": "₹52.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b979.50 L"
+        "priceRange": "₹79.50 L"
       }
     ],
     "status": "Under Construction",
@@ -20678,7 +20918,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Hinjewadi",
       "flats in Hinjewadi Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Life Republic Aros, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b962.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100047921.",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Life Republic Aros, Hinjewadi Pune by Kolte-Patil Developers. Prices from ₹62.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100047921.",
     "description": "Rise above the mundane, everyday life and seek something extraordinary. This immersive and rejuvenating lifestyle at Aros, Life Republic, includes a thoughtfully designed 19,000 sq.ft. Club Aros, a me\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -20737,7 +20977,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Life Republic Aros?",
-        "answer": "Residences at Kolte Patil Life Republic Aros start from \u20b962.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Life Republic Aros start from ₹62.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Life Republic Aros?",
@@ -20792,8 +21032,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 7075,
         "infraCharges": 156000,
         "clubhouseCharges": 104000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1684245329977342120.jpg"
       },
@@ -20808,8 +21048,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 7098,
         "infraCharges": 238500,
         "clubhouseCharges": 159000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/16842453291490461123.jpg"
       }
@@ -20822,8 +21062,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b951.00 L - \u20b961.00 L",
-    "exactPrice": "\u20b951.00 L",
+    "priceRange": "₹51.00 L - ₹61.00 L",
+    "exactPrice": "₹51.00 L",
     "pricePerSqft": 6950,
     "configurations": [
       "2 BHK",
@@ -20833,12 +21073,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b951.00 L"
+        "priceRange": "₹51.00 L"
       },
       {
         "type": "2.5 BHK",
         "carpetArea": "880 sq.ft",
-        "priceRange": "\u20b961.00 L"
+        "priceRange": "₹61.00 L"
       }
     ],
     "status": "Under Construction",
@@ -20874,7 +21114,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Hinjewadi",
       "flats in Hinjewadi Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 2.5 BHK in Kolte Patil Life Republic Atmos, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b958.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100051765.",
+    "metaDescription": "Buy 2 BHK, 2.5 BHK in Kolte Patil Life Republic Atmos, Hinjewadi Pune by Kolte-Patil Developers. Prices from ₹58.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100051765.",
     "description": "A multi-passionate modern family deserves a flexible atmosphere to explore and flourish in. A home that syncs with their aura. Atmos is a New Launch at Life Republic by Kolte Patil located near Hinjaw\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -20933,7 +21173,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Life Republic Atmos?",
-        "answer": "Residences at Kolte Patil Life Republic Atmos start from \u20b958.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Life Republic Atmos start from ₹58.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Life Republic Atmos?",
@@ -20972,8 +21212,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6939,
         "infraCharges": 153000,
         "clubhouseCharges": 102000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/168803585650275619.jpg"
       },
@@ -20988,8 +21228,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6932,
         "infraCharges": 183000,
         "clubhouseCharges": 122000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/16880358561556615257.jpg"
       }
@@ -21002,8 +21242,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b950.00 L",
-    "exactPrice": "\u20b950.00 L",
+    "priceRange": "₹50.00 L",
+    "exactPrice": "₹50.00 L",
     "pricePerSqft": 6800,
     "configurations": [
       "2 BHK"
@@ -21012,7 +21252,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b950.00 L"
+        "priceRange": "₹50.00 L"
       }
     ],
     "status": "Under Construction",
@@ -21040,8 +21280,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Hinjewadi",
       "flats in Hinjewadi Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Kolte Patil Life Republic Duet, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b954.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100079424.",
-    "description": "Because while two hearts beat together and live together, they can have different expectations. So, here\u2019s one address that has everything needed to complete these two worlds that live together under\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 2 BHK in Kolte Patil Life Republic Duet, Hinjewadi Pune by Kolte-Patil Developers. Prices from ₹54.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100079424.",
+    "description": "Because while two hearts beat together and live together, they can have different expectations. So, here’s one address that has everything needed to complete these two worlds that live together under\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -21099,7 +21339,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Life Republic Duet?",
-        "answer": "Residences at Kolte Patil Life Republic Duet start from \u20b954.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Life Republic Duet start from ₹54.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Life Republic Duet?",
@@ -21128,8 +21368,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6803,
         "infraCharges": 150000,
         "clubhouseCharges": 100000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       }
@@ -21142,8 +21382,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b951.50 L - \u20b961.50 L",
-    "exactPrice": "\u20b951.50 L",
+    "priceRange": "₹51.50 L - ₹61.50 L",
+    "exactPrice": "₹51.50 L",
     "pricePerSqft": 7000,
     "configurations": [
       "2 BHK",
@@ -21153,12 +21393,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b951.50 L"
+        "priceRange": "₹51.50 L"
       },
       {
         "type": "2.5 BHK",
         "carpetArea": "880 sq.ft",
-        "priceRange": "\u20b961.50 L"
+        "priceRange": "₹61.50 L"
       }
     ],
     "status": "Under Construction",
@@ -21186,7 +21426,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Hinjewadi",
       "flats in Hinjewadi Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 2.5 BHK in Kolte Patil Life Republic Echoes, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b959.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100077382.",
+    "metaDescription": "Buy 2 BHK, 2.5 BHK in Kolte Patil Life Republic Echoes, Hinjewadi Pune by Kolte-Patil Developers. Prices from ₹59.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100077382.",
     "description": "At Kolte Patil Echoes, childhood is designed to be truly carefree, where play flows across open, thoughtfully planned spaces and everyday moments turn into lasting memories.\n\r\nSet within a secure town\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -21245,7 +21485,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Life Republic Echoes?",
-        "answer": "Residences at Kolte Patil Life Republic Echoes start from \u20b959.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Life Republic Echoes start from ₹59.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Life Republic Echoes?",
@@ -21274,8 +21514,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 7007,
         "infraCharges": 154500,
         "clubhouseCharges": 103000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -21290,8 +21530,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6989,
         "infraCharges": 184500,
         "clubhouseCharges": 123000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -21304,8 +21544,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b92.19 Cr - \u20b93.47 Cr",
-    "exactPrice": "\u20b92.19 Cr",
+    "priceRange": "₹2.19 Cr - ₹3.47 Cr",
+    "exactPrice": "₹2.19 Cr",
     "pricePerSqft": 11200,
     "configurations": [
       "4 BHK",
@@ -21315,12 +21555,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b92.19 Cr"
+        "priceRange": "₹2.19 Cr"
       },
       {
         "type": "5 BHK",
         "carpetArea": "3100 sq.ft",
-        "priceRange": "\u20b93.47 Cr"
+        "priceRange": "₹3.47 Cr"
       }
     ],
     "status": "Under Construction",
@@ -21348,7 +21588,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Hinjewadi",
       "flats in Hinjewadi Pune"
     ],
-    "metaDescription": "Buy 4 BHK, 5 BHK in Kolte Patil 24K Espada at Life Republic, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b92.85 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100051876.",
+    "metaDescription": "Buy 4 BHK, 5 BHK in Kolte Patil 24K Espada at Life Republic, Hinjewadi Pune by Kolte-Patil Developers. Prices from ₹2.85 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100051876.",
     "description": "Welcome to 24K Espada, an urban cocoon of privacy and exclusivity. Located in well-connected Hinjawadi, it is part of a 400-acre integrated township. 24K Espada offers 4 & 5 bed premium row houses tha\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -21407,7 +21647,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil 24K Espada at Life Republic?",
-        "answer": "Residences at Kolte Patil 24K Espada at Life Republic start from \u20b92.85 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil 24K Espada at Life Republic start from ₹2.85 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil 24K Espada at Life Republic?",
@@ -21436,8 +21676,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11205,
         "infraCharges": 655500,
         "clubhouseCharges": 437000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -21452,8 +21692,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11194,
         "infraCharges": 1041000,
         "clubhouseCharges": 694000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -21466,8 +21706,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b930.50 L - \u20b950.50 L",
-    "exactPrice": "\u20b930.50 L",
+    "priceRange": "₹30.50 L - ₹50.50 L",
+    "exactPrice": "₹30.50 L",
     "pricePerSqft": 6900,
     "configurations": [
       "1 BHK",
@@ -21477,12 +21717,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b930.50 L"
+        "priceRange": "₹30.50 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b950.50 L"
+        "priceRange": "₹50.50 L"
       }
     ],
     "status": "Ready to Move",
@@ -21510,7 +21750,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Hinjewadi",
       "flats in Hinjewadi Pune"
     ],
-    "metaDescription": "Buy 1 BHK, 2 BHK in Kolte Patil Universe at Life Republic, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b941.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100027629.",
+    "metaDescription": "Buy 1 BHK, 2 BHK in Kolte Patil Universe at Life Republic, Hinjewadi Pune by Kolte-Patil Developers. Prices from ₹41.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100027629.",
     "description": "The {U}niverse at Life Republic is the cradle of a digital lifestyle in Pune. Powered by smart living solutions, you will be ensconced at the heart of every activity here. The Planet App, a proprietar\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -21569,7 +21809,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Universe at Life Republic?",
-        "answer": "Residences at Kolte Patil Universe at Life Republic start from \u20b941.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Universe at Life Republic start from ₹41.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Universe at Life Republic?",
@@ -21598,8 +21838,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6932,
         "infraCharges": 91500,
         "clubhouseCharges": 61000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -21614,8 +21854,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6871,
         "infraCharges": 151500,
         "clubhouseCharges": 101000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -21628,8 +21868,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b930.00 L - \u20b950.00 L",
-    "exactPrice": "\u20b930.00 L",
+    "priceRange": "₹30.00 L - ₹50.00 L",
+    "exactPrice": "₹30.00 L",
     "pricePerSqft": 6800,
     "configurations": [
       "1 BHK",
@@ -21639,12 +21879,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b930.00 L"
+        "priceRange": "₹30.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b950.00 L"
+        "priceRange": "₹50.00 L"
       }
     ],
     "status": "Ready to Move",
@@ -21672,7 +21912,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Hinjewadi",
       "flats in Hinjewadi Pune"
     ],
-    "metaDescription": "Buy 1 BHK, 2 BHK in Kolte Patil Oro Avenue at Life Republic, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b938.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100017116.",
+    "metaDescription": "Buy 1 BHK, 2 BHK in Kolte Patil Oro Avenue at Life Republic, Hinjewadi Pune by Kolte-Patil Developers. Prices from ₹38.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100017116.",
     "description": "Welcome to the finest sector of Pune - Life Republic Oro Avenue. A dream come true for the modernized minds who seek urban spaces for their family at luxurious 2 BHK flats in Hinjewadi. These apartmen\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -21731,7 +21971,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Oro Avenue at Life Republic?",
-        "answer": "Residences at Kolte Patil Oro Avenue at Life Republic start from \u20b938.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Oro Avenue at Life Republic start from ₹38.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Oro Avenue at Life Republic?",
@@ -21760,8 +22000,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6818,
         "infraCharges": 90000,
         "clubhouseCharges": 60000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -21776,8 +22016,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6803,
         "infraCharges": 150000,
         "clubhouseCharges": 100000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -21790,8 +22030,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Pimple Nilakh",
     "city": "Pune",
-    "priceRange": "\u20b91.40 Cr - \u20b92.44 Cr",
-    "exactPrice": "\u20b91.40 Cr",
+    "priceRange": "₹1.40 Cr - ₹2.44 Cr",
+    "exactPrice": "₹1.40 Cr",
     "pricePerSqft": 12500,
     "configurations": [
       "3 BHK",
@@ -21801,12 +22041,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.40 Cr"
+        "priceRange": "₹1.40 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b92.44 Cr"
+        "priceRange": "₹2.44 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -21834,7 +22074,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Pimple Nilakh",
       "flats in Pimple Nilakh Pune"
     ],
-    "metaDescription": "Buy 3 BHK, 4 BHK in Kolte Patil 24K Atria, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from \u20b91.95 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100000428.",
+    "metaDescription": "Buy 3 BHK, 4 BHK in Kolte Patil 24K Atria, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from ₹1.95 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100000428.",
     "description": "Beautifully crafted to complement your chic and aristocratic personality, our exclusively designed residences at 24K Atria by Kolte-Patil Developers let you explore the true joy of grandeur. These ult\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -21893,7 +22133,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil 24K Atria?",
-        "answer": "Residences at Kolte Patil 24K Atria start from \u20b91.95 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil 24K Atria start from ₹1.95 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil 24K Atria?",
@@ -21922,8 +22162,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12500,
         "infraCharges": 420000,
         "clubhouseCharges": 280000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -21938,8 +22178,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 12513,
         "infraCharges": 732000,
         "clubhouseCharges": 488000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -21952,8 +22192,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Pimple Nilakh",
     "city": "Pune",
-    "priceRange": "\u20b91.51 Cr - \u20b92.63 Cr",
-    "exactPrice": "\u20b91.51 Cr",
+    "priceRange": "₹1.51 Cr - ₹2.63 Cr",
+    "exactPrice": "₹1.51 Cr",
     "pricePerSqft": 13500,
     "configurations": [
       "3 BHK",
@@ -21963,12 +22203,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.51 Cr"
+        "priceRange": "₹1.51 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b92.63 Cr"
+        "priceRange": "₹2.63 Cr"
       }
     ],
     "status": "Under Construction",
@@ -21996,7 +22236,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Pimple Nilakh",
       "flats in Pimple Nilakh Pune"
     ],
-    "metaDescription": "Buy 3 BHK, 4 BHK in Kolte Patil 24K Manor, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from \u20b92.35 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100052151.",
+    "metaDescription": "Buy 3 BHK, 4 BHK in Kolte Patil 24K Manor, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from ₹2.35 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100052151.",
     "description": "At the intersection of architectural brilliance and lifestyle sophistication, 24K Manor stands tall, a beacon of exclusivity and grandeur. Every aspect of this unparalleled offering has been meticulou\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -22055,7 +22295,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil 24K Manor?",
-        "answer": "Residences at Kolte Patil 24K Manor start from \u20b92.35 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil 24K Manor start from ₹2.35 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil 24K Manor?",
@@ -22084,8 +22324,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13482,
         "infraCharges": 453000,
         "clubhouseCharges": 302000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -22100,8 +22340,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13487,
         "infraCharges": 789000,
         "clubhouseCharges": 526000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -22114,8 +22354,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Pimple Nilakh",
     "city": "Pune",
-    "priceRange": "\u20b91.54 Cr - \u20b94.28 Cr",
-    "exactPrice": "\u20b91.54 Cr",
+    "priceRange": "₹1.54 Cr - ₹4.28 Cr",
+    "exactPrice": "₹1.54 Cr",
     "pricePerSqft": 13800,
     "configurations": [
       "3 BHK",
@@ -22126,17 +22366,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.54 Cr"
+        "priceRange": "₹1.54 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b92.69 Cr"
+        "priceRange": "₹2.69 Cr"
       },
       {
         "type": "5 BHK",
         "carpetArea": "3100 sq.ft",
-        "priceRange": "\u20b94.28 Cr"
+        "priceRange": "₹4.28 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -22164,7 +22404,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Pimple Nilakh",
       "flats in Pimple Nilakh Pune"
     ],
-    "metaDescription": "Buy 3 BHK, 4 BHK, 5 BHK in Kolte Patil 24K Opula, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from \u20b92.65 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100000398.",
+    "metaDescription": "Buy 3 BHK, 4 BHK, 5 BHK in Kolte Patil 24K Opula, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from ₹2.65 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100000398.",
     "description": "Spread across 7.77 acres, each home at 24K Opula is built to perfection and adheres to the highest standards of quality and efficiency. The ongoing project in Pune by Kolte Patil Developers offers exc\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -22223,7 +22463,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil 24K Opula?",
-        "answer": "Residences at Kolte Patil 24K Opula start from \u20b92.65 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil 24K Opula start from ₹2.65 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil 24K Opula?",
@@ -22252,8 +22492,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13795,
         "infraCharges": 463500,
         "clubhouseCharges": 309000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -22268,8 +22508,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13795,
         "infraCharges": 807000,
         "clubhouseCharges": 538000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       },
@@ -22284,8 +22524,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 13806,
         "infraCharges": 1284000,
         "clubhouseCharges": 856000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (82).webp"
       }
@@ -22298,8 +22538,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Bavdhan",
     "city": "Pune",
-    "priceRange": "\u20b91.25 Cr - \u20b92.19 Cr",
-    "exactPrice": "\u20b91.25 Cr",
+    "priceRange": "₹1.25 Cr - ₹2.19 Cr",
+    "exactPrice": "₹1.25 Cr",
     "pricePerSqft": 11200,
     "configurations": [
       "3 BHK",
@@ -22309,12 +22549,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.25 Cr"
+        "priceRange": "₹1.25 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b92.19 Cr"
+        "priceRange": "₹2.19 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -22342,8 +22582,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Bavdhan",
       "flats in Bavdhan Pune"
     ],
-    "metaDescription": "Buy 3 BHK, 4 BHK in Kolte Patil 24K Stargaze, Bavdhan Pune by Kolte-Patil Developers. Prices from \u20b91.65 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100018473.",
-    "description": "24K Stargaze by Kolte Patil, not only offers you a place to reside but a home where you\u2019ll enjoy every moment with your friends and family. Located in Bavdhan, which is just 5-kms away from Kothrud, t\n\nSituated in prime Bavdhan, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 3 BHK, 4 BHK in Kolte Patil 24K Stargaze, Bavdhan Pune by Kolte-Patil Developers. Prices from ₹1.65 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P52100018473.",
+    "description": "24K Stargaze by Kolte Patil, not only offers you a place to reside but a home where you’ll enjoy every moment with your friends and family. Located in Bavdhan, which is just 5-kms away from Kothrud, t\n\nSituated in prime Bavdhan, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -22401,7 +22641,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil 24K Stargaze?",
-        "answer": "Residences at Kolte Patil 24K Stargaze start from \u20b91.65 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil 24K Stargaze start from ₹1.65 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil 24K Stargaze?",
@@ -22430,8 +22670,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11205,
         "infraCharges": 376500,
         "clubhouseCharges": 251000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -22446,8 +22686,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 11205,
         "infraCharges": 655500,
         "clubhouseCharges": 437000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -22460,8 +22700,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Pimple Nilakh",
     "city": "Pune",
-    "priceRange": "\u20b972.00 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b972.00 L",
+    "priceRange": "₹72.00 L - ₹1.10 Cr",
+    "exactPrice": "₹72.00 L",
     "pricePerSqft": 9800,
     "configurations": [
       "2 BHK",
@@ -22471,12 +22711,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b972.00 L"
+        "priceRange": "₹72.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.10 Cr"
+        "priceRange": "₹1.10 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -22504,7 +22744,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Pimple Nilakh",
       "flats in Pimple Nilakh Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Crown, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from \u20b985.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100020471.",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Crown, Pimple Nilakh Pune by Kolte-Patil Developers. Prices from ₹85.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100020471.",
     "description": "All its endearing charm and enduring greens, its strategic placement and pleasant peace, somehow felt incomplete. It craved for something that would add glitter to the greens and shimmer to the sunset\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -22563,7 +22803,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Crown?",
-        "answer": "Residences at Kolte Patil Crown start from \u20b985.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Crown start from ₹85.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Crown?",
@@ -22592,8 +22832,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9796,
         "infraCharges": 216000,
         "clubhouseCharges": 144000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -22608,8 +22848,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9821,
         "infraCharges": 330000,
         "clubhouseCharges": 220000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -22622,8 +22862,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Sinhagad Road",
     "city": "Pune",
-    "priceRange": "\u20b960.50 L - \u20b992.00 L",
-    "exactPrice": "\u20b960.50 L",
+    "priceRange": "₹60.50 L - ₹92.00 L",
+    "exactPrice": "₹60.50 L",
     "pricePerSqft": 8200,
     "configurations": [
       "2 BHK",
@@ -22634,17 +22874,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b960.50 L"
+        "priceRange": "₹60.50 L"
       },
       {
         "type": "2.5 BHK",
         "carpetArea": "880 sq.ft",
-        "priceRange": "\u20b972.00 L"
+        "priceRange": "₹72.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b992.00 L"
+        "priceRange": "₹92.00 L"
       }
     ],
     "status": "Under Construction",
@@ -22672,7 +22912,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Sinhagad Road",
       "flats in Sinhagad Road Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 2.5 BHK, 3 BHK in Kolte Patil The Reserve, Sinhagad Road Pune by Kolte-Patil Developers. Prices from \u20b974.00 L. 100% Zero Brokerage direct builder desk. MahaRERA PM1261012600748.",
+    "metaDescription": "Buy 2 BHK, 2.5 BHK, 3 BHK in Kolte Patil The Reserve, Sinhagad Road Pune by Kolte-Patil Developers. Prices from ₹74.00 L. 100% Zero Brokerage direct builder desk. MahaRERA PM1261012600748.",
     "description": "Spread across 21.03 acres of master development in a rare riverside setting at Vadgaon Khurd on Sinhgad Road, The Reserve by Kolte-Patil brings together river-facing greens, scenic NDA hill views and\n\nSituated in prime Sinhagad Road, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -22731,7 +22971,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil The Reserve?",
-        "answer": "Residences at Kolte Patil The Reserve start from \u20b974.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil The Reserve start from ₹74.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil The Reserve?",
@@ -22760,8 +23000,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 8231,
         "infraCharges": 181500,
         "clubhouseCharges": 121000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -22776,8 +23016,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 8182,
         "infraCharges": 216000,
         "clubhouseCharges": 144000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       },
@@ -22792,8 +23032,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 8214,
         "infraCharges": 276000,
         "clubhouseCharges": 184000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (82).webp"
       }
@@ -22806,8 +23046,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Bhugaon",
     "city": "Pune",
-    "priceRange": "\u20b957.50 L - \u20b987.50 L",
-    "exactPrice": "\u20b957.50 L",
+    "priceRange": "₹57.50 L - ₹87.50 L",
+    "exactPrice": "₹57.50 L",
     "pricePerSqft": 7800,
     "configurations": [
       "2 BHK",
@@ -22818,17 +23058,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b957.50 L"
+        "priceRange": "₹57.50 L"
       },
       {
         "type": "2.5 BHK",
         "carpetArea": "880 sq.ft",
-        "priceRange": "\u20b968.50 L"
+        "priceRange": "₹68.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b987.50 L"
+        "priceRange": "₹87.50 L"
       }
     ],
     "status": "Under Construction",
@@ -22856,7 +23096,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Bhugaon",
       "flats in Bhugaon Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 2.5 BHK, 3 BHK in Kolte Patil The Winds, Bhugaon Pune by Kolte-Patil Developers. Prices from \u20b968.00 L. 100% Zero Brokerage direct builder desk. MahaRERA PR1261012600258.",
+    "metaDescription": "Buy 2 BHK, 2.5 BHK, 3 BHK in Kolte Patil The Winds, Bhugaon Pune by Kolte-Patil Developers. Prices from ₹68.00 L. 100% Zero Brokerage direct builder desk. MahaRERA PR1261012600258.",
     "description": "The Winds by Kolte-Patil is a thoughtfully designed residential development nestled in the natural valley of Bhugaon-where cleaner air, open greens, and seamless connectivity come together. Located mi\n\nSituated in prime Bhugaon, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -22915,7 +23155,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil The Winds?",
-        "answer": "Residences at Kolte Patil The Winds start from \u20b968.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil The Winds start from ₹68.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil The Winds?",
@@ -22944,8 +23184,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 7823,
         "infraCharges": 172500,
         "clubhouseCharges": 115000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -22960,8 +23200,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 7784,
         "infraCharges": 205500,
         "clubhouseCharges": 137000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       },
@@ -22976,8 +23216,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 7812,
         "infraCharges": 262500,
         "clubhouseCharges": 175000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (82).webp"
       }
@@ -22990,8 +23230,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Wagholi",
     "city": "Pune",
-    "priceRange": "\u20b948.00 L - \u20b973.00 L",
-    "exactPrice": "\u20b948.00 L",
+    "priceRange": "₹48.00 L - ₹73.00 L",
+    "exactPrice": "₹48.00 L",
     "pricePerSqft": 6500,
     "configurations": [
       "2 BHK",
@@ -23001,12 +23241,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b948.00 L"
+        "priceRange": "₹48.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b973.00 L"
+        "priceRange": "₹73.00 L"
       }
     ],
     "status": "Under Construction",
@@ -23034,8 +23274,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Wagholi",
       "flats in Wagholi Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Springshire, Wagholi Pune by Kolte-Patil Developers. Prices from \u20b956.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100076743.",
-    "description": "Step into your personal outdoor oasis at Springshire, where style and comfort blend seamlessly with nature. Whether you\u2019re looking for 2 BHK flats in Wagholi, spacious 3 BHK flats in Wagholi Pune, or\n\nSituated in prime Wagholi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Springshire, Wagholi Pune by Kolte-Patil Developers. Prices from ₹56.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100076743.",
+    "description": "Step into your personal outdoor oasis at Springshire, where style and comfort blend seamlessly with nature. Whether you’re looking for 2 BHK flats in Wagholi, spacious 3 BHK flats in Wagholi Pune, or\n\nSituated in prime Wagholi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -23093,7 +23333,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Springshire?",
-        "answer": "Residences at Kolte Patil Springshire start from \u20b956.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Springshire start from ₹56.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Springshire?",
@@ -23122,8 +23362,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6531,
         "infraCharges": 144000,
         "clubhouseCharges": 96000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -23138,8 +23378,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6518,
         "infraCharges": 219000,
         "clubhouseCharges": 146000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -23152,8 +23392,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b945.50 L - \u20b969.50 L",
-    "exactPrice": "\u20b945.50 L",
+    "priceRange": "₹45.50 L - ₹69.50 L",
+    "exactPrice": "₹45.50 L",
     "pricePerSqft": 6200,
     "configurations": [
       "2 BHK",
@@ -23164,17 +23404,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b945.50 L"
+        "priceRange": "₹45.50 L"
       },
       {
         "type": "2.5 BHK",
         "carpetArea": "880 sq.ft",
-        "priceRange": "\u20b954.50 L"
+        "priceRange": "₹54.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b969.50 L"
+        "priceRange": "₹69.50 L"
       }
     ],
     "status": "Under Construction",
@@ -23202,8 +23442,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Kiwale",
       "flats in Kiwale Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 2.5 BHK, 3 BHK in Kolte Patil Little Earth, Kiwale Pune by Kolte-Patil Developers. Prices from \u20b948.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100047721.",
-    "description": "A finely crafted 2, 2.5 & 3 BHK home in Pune promises a lot more than just a good living. It\u2019s a bouquet of goodies! An enticing expanse of 25 acres, a gated community in Pune, serene environment, eye\n\nSituated in prime Kiwale, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 2 BHK, 2.5 BHK, 3 BHK in Kolte Patil Little Earth, Kiwale Pune by Kolte-Patil Developers. Prices from ₹48.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100047721.",
+    "description": "A finely crafted 2, 2.5 & 3 BHK home in Pune promises a lot more than just a good living. It’s a bouquet of goodies! An enticing expanse of 25 acres, a gated community in Pune, serene environment, eye\n\nSituated in prime Kiwale, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -23261,7 +23501,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Little Earth?",
-        "answer": "Residences at Kolte Patil Little Earth start from \u20b948.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Little Earth start from ₹48.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Little Earth?",
@@ -23290,8 +23530,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6190,
         "infraCharges": 136500,
         "clubhouseCharges": 91000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -23306,8 +23546,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6193,
         "infraCharges": 163500,
         "clubhouseCharges": 109000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       },
@@ -23322,8 +23562,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6205,
         "infraCharges": 208500,
         "clubhouseCharges": 139000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (82).webp"
       }
@@ -23336,8 +23576,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b970.00 L - \u20b91.06 Cr",
-    "exactPrice": "\u20b970.00 L",
+    "priceRange": "₹70.00 L - ₹1.06 Cr",
+    "exactPrice": "₹70.00 L",
     "pricePerSqft": 9500,
     "configurations": [
       "2 BHK",
@@ -23347,12 +23587,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b970.00 L"
+        "priceRange": "₹70.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.06 Cr"
+        "priceRange": "₹1.06 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -23380,8 +23620,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Wakad",
       "flats in Wakad Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Western Avenue, Wakad Pune by Kolte-Patil Developers. Prices from \u20b982.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100000917.",
-    "description": "Spread over 16 acres of land, Western Avenue offers you holistic residential living in Wakad with 30+ lifestyle amenities\u2014specially curated for recreation, relaxation, and rejuvenation\u2014right in the he\n\nSituated in prime Wakad, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Western Avenue, Wakad Pune by Kolte-Patil Developers. Prices from ₹82.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100000917.",
+    "description": "Spread over 16 acres of land, Western Avenue offers you holistic residential living in Wakad with 30+ lifestyle amenities—specially curated for recreation, relaxation, and rejuvenation—right in the he\n\nSituated in prime Wakad, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -23439,7 +23679,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Western Avenue?",
-        "answer": "Residences at Kolte Patil Western Avenue start from \u20b982.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Western Avenue start from ₹82.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Western Avenue?",
@@ -23468,8 +23708,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9524,
         "infraCharges": 210000,
         "clubhouseCharges": 140000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -23484,8 +23724,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 9509,
         "infraCharges": 319500,
         "clubhouseCharges": 213000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -23498,8 +23738,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Undri",
     "city": "Pune",
-    "priceRange": "\u20b980.50 L",
-    "exactPrice": "\u20b980.50 L",
+    "priceRange": "₹80.50 L",
+    "exactPrice": "₹80.50 L",
     "pricePerSqft": 7200,
     "configurations": [
       "3 BHK"
@@ -23508,7 +23748,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b980.50 L"
+        "priceRange": "₹80.50 L"
       }
     ],
     "status": "Ready to Move",
@@ -23536,8 +23776,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Undri",
       "flats in Undri Pune"
     ],
-    "metaDescription": "Buy 3 BHK in Kolte Patil Centria, Undri Pune by Kolte-Patil Developers. Prices from \u20b988.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100016567.",
-    "description": "A home, a haven\u2026 an abode of bliss! Welcome to Centria by Kolte-Patil, a thoughtfully designed residential project in Undri, Pune, located in one of the city\u2019s fastest-growing real estate corridors.\n\nSituated in prime Undri, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 3 BHK in Kolte Patil Centria, Undri Pune by Kolte-Patil Developers. Prices from ₹88.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100016567.",
+    "description": "A home, a haven… an abode of bliss! Welcome to Centria by Kolte-Patil, a thoughtfully designed residential project in Undri, Pune, located in one of the city’s fastest-growing real estate corridors.\n\nSituated in prime Undri, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -23595,7 +23835,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Centria?",
-        "answer": "Residences at Kolte Patil Centria start from \u20b988.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Centria start from ₹88.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Centria?",
@@ -23624,8 +23864,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 7188,
         "infraCharges": 241500,
         "clubhouseCharges": 161000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       }
@@ -23638,8 +23878,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b951.50 L - \u20b978.50 L",
-    "exactPrice": "\u20b951.50 L",
+    "priceRange": "₹51.50 L - ₹78.50 L",
+    "exactPrice": "₹51.50 L",
     "pricePerSqft": 7000,
     "configurations": [
       "2 BHK",
@@ -23649,12 +23889,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b951.50 L"
+        "priceRange": "₹51.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b978.50 L"
+        "priceRange": "₹78.50 L"
       }
     ],
     "status": "Ready to Move",
@@ -23682,8 +23922,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Hinjewadi",
       "flats in Hinjewadi Pune"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Green Olive, Hinjewadi Pune by Kolte-Patil Developers. Prices from \u20b962.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100013526.",
-    "description": "Spread across 6 acres of thoughtfully planned land, this residential project in Hinjewadi, Pune offers you a vibrant neighborhood right next to Rajiv Gandhi Infotech Park, India\u2019s largest IT hub.\n\nThe\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Green Olive, Hinjewadi Pune by Kolte-Patil Developers. Prices from ₹62.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100013526.",
+    "description": "Spread across 6 acres of thoughtfully planned land, this residential project in Hinjewadi, Pune offers you a vibrant neighborhood right next to Rajiv Gandhi Infotech Park, India’s largest IT hub.\n\nThe\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -23741,7 +23981,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Green Olive?",
-        "answer": "Residences at Kolte Patil Green Olive start from \u20b962.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Green Olive start from ₹62.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Green Olive?",
@@ -23770,8 +24010,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 7007,
         "infraCharges": 154500,
         "clubhouseCharges": 103000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -23786,8 +24026,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 7009,
         "infraCharges": 235500,
         "clubhouseCharges": 157000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       }
@@ -23800,8 +24040,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Wagholi",
     "city": "Pune",
-    "priceRange": "\u20b927.00 L - \u20b968.50 L",
-    "exactPrice": "\u20b927.00 L",
+    "priceRange": "₹27.00 L - ₹68.50 L",
+    "exactPrice": "₹27.00 L",
     "pricePerSqft": 6100,
     "configurations": [
       "1 BHK",
@@ -23812,17 +24052,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b927.00 L"
+        "priceRange": "₹27.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b945.00 L"
+        "priceRange": "₹45.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b968.50 L"
+        "priceRange": "₹68.50 L"
       }
     ],
     "status": "Ready to Move",
@@ -23850,8 +24090,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Wagholi",
       "flats in Wagholi Pune"
     ],
-    "metaDescription": "Buy 1 BHK, 2 BHK, 3 BHK in Kolte Patil Ivy Estate, Wagholi Pune by Kolte-Patil Developers. Prices from \u20b938.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100001066.",
-    "description": "Nestled in Wagholi, East Pune\u2019s fastest-growing investment hub, Kolte Patil IVY Estate offers the perfect balance of community living and green living. These spacious and efficiently planned 1, 2 & 3\n\nSituated in prime Wagholi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 1 BHK, 2 BHK, 3 BHK in Kolte Patil Ivy Estate, Wagholi Pune by Kolte-Patil Developers. Prices from ₹38.00 L. 100% Zero Brokerage direct builder desk. MahaRERA P52100001066.",
+    "description": "Nestled in Wagholi, East Pune’s fastest-growing investment hub, Kolte Patil IVY Estate offers the perfect balance of community living and green living. These spacious and efficiently planned 1, 2 & 3\n\nSituated in prime Wagholi, Pune, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -23909,7 +24149,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Ivy Estate?",
-        "answer": "Residences at Kolte Patil Ivy Estate start from \u20b938.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Ivy Estate start from ₹38.00 L with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Ivy Estate?",
@@ -23938,8 +24178,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6136,
         "infraCharges": 81000,
         "clubhouseCharges": 54000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
       },
@@ -23954,8 +24194,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6122,
         "infraCharges": 135000,
         "clubhouseCharges": 90000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (81).webp"
       },
@@ -23970,8 +24210,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 6116,
         "infraCharges": 205500,
         "clubhouseCharges": 137000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/image (82).webp"
       }
@@ -23984,8 +24224,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Versova, Andheri West",
     "city": "Mumbai",
-    "priceRange": "\u20b92.75 Cr - \u20b93.80 Cr",
-    "exactPrice": "\u20b92.75 Cr",
+    "priceRange": "₹2.75 Cr - ₹3.80 Cr",
+    "exactPrice": "₹2.75 Cr",
     "pricePerSqft": 32000,
     "configurations": [
       "2 BHK",
@@ -23995,12 +24235,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Coastal Luxe",
         "carpetArea": "785 sq.ft",
-        "priceRange": "\u20b92.75 Cr"
+        "priceRange": "₹2.75 Cr"
       },
       {
         "type": "3 BHK Sea Facing Suite",
         "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b93.80 Cr"
+        "priceRange": "₹3.80 Cr"
       }
     ],
     "status": "Under Construction",
@@ -24030,8 +24270,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Versova, Andheri West",
       "flats in Versova, Andheri West Mumbai"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Serenova, Versova, Andheri West Mumbai by Kolte-Patil Developers. Prices from \u20b92.75 Cr. 100% Zero Brokerage direct builder desk. MahaRERA PR1180002500850.",
-    "description": "Discover New Launch By Kolte Patil at Versova \u2013 a boutique residential address where Mumbai\u2019s pace gently slows down. With thoughtfully designed 2 & 3 Bed residences, private balconies, and elegant la\n\nSituated in prime Versova, Andheri West, Mumbai, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Serenova, Versova, Andheri West Mumbai by Kolte-Patil Developers. Prices from ₹2.75 Cr. 100% Zero Brokerage direct builder desk. MahaRERA PR1180002500850.",
+    "description": "Discover New Launch By Kolte Patil at Versova – a boutique residential address where Mumbai’s pace gently slows down. With thoughtfully designed 2 & 3 Bed residences, private balconies, and elegant la\n\nSituated in prime Versova, Andheri West, Mumbai, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -24089,7 +24329,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Serenova?",
-        "answer": "Residences at Kolte Patil Serenova start from \u20b92.75 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Serenova start from ₹2.75 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Serenova?",
@@ -24126,12 +24366,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 785,
         "balconyArea": 65,
         "bathrooms": 2,
-        "basePrice": 27500000.0,
+        "basePrice": 27500000,
         "pricePerSqft": 35031.84,
-        "infraCharges": 500000.0,
-        "clubhouseCharges": 350000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 6.0,
+        "infraCharges": 500000,
+        "clubhouseCharges": 350000,
+        "gstRate": 5,
+        "stampDutyRate": 6,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1761227063505755514.jpg"
       },
@@ -24142,12 +24382,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 1050,
         "balconyArea": 85,
         "bathrooms": 3,
-        "basePrice": 38000000.0,
+        "basePrice": 38000000,
         "pricePerSqft": 36190.47,
-        "infraCharges": 700000.0,
-        "clubhouseCharges": 450000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 6.0,
+        "infraCharges": 700000,
+        "clubhouseCharges": 450000,
+        "gstRate": 5,
+        "stampDutyRate": 6,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/1761227063802632599.png"
       }
@@ -24160,8 +24400,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Goregaon West",
     "city": "Mumbai",
-    "priceRange": "\u20b92.15 Cr - \u20b92.95 Cr",
-    "exactPrice": "\u20b92.15 Cr",
+    "priceRange": "₹2.15 Cr - ₹2.95 Cr",
+    "exactPrice": "₹2.15 Cr",
     "pricePerSqft": 28500,
     "configurations": [
       "2 BHK",
@@ -24171,12 +24411,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Modern Urban",
         "carpetArea": "695 sq.ft",
-        "priceRange": "\u20b92.15 Cr"
+        "priceRange": "₹2.15 Cr"
       },
       {
         "type": "3 BHK Premium Suite",
         "carpetArea": "940 sq.ft",
-        "priceRange": "\u20b92.95 Cr"
+        "priceRange": "₹2.95 Cr"
       }
     ],
     "status": "Under Construction",
@@ -24216,7 +24456,7 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Goregaon West",
       "flats in Goregaon West Mumbai"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Vivere, Goregaon West Mumbai by Kolte-Patil Developers. Prices from \u20b92.15 Cr. 100% Zero Brokerage direct builder desk. MahaRERA PR1180002502702.",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Vivere, Goregaon West Mumbai by Kolte-Patil Developers. Prices from ₹2.15 Cr. 100% Zero Brokerage direct builder desk. MahaRERA PR1180002502702.",
     "description": "Vivere by Kolte Patil Developers is a premium residential development in Bangur Nagar, Goregaon (W), thoughtfully designed for elevated urban living. With excellent connectivity to the Western Express\n\nSituated in prime Goregaon West, Mumbai, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
@@ -24275,7 +24515,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Vivere?",
-        "answer": "Residences at Kolte Patil Vivere start from \u20b92.15 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Vivere start from ₹2.15 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Vivere?",
@@ -24343,12 +24583,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 695,
         "balconyArea": 55,
         "bathrooms": 2,
-        "basePrice": 21500000.0,
+        "basePrice": 21500000,
         "pricePerSqft": 30935.25,
-        "infraCharges": 450000.0,
-        "clubhouseCharges": 300000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 6.0,
+        "infraCharges": 450000,
+        "clubhouseCharges": 300000,
+        "gstRate": 5,
+        "stampDutyRate": 6,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1774542867166283317.jpg"
       },
@@ -24359,12 +24599,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 940,
         "balconyArea": 75,
         "bathrooms": 3,
-        "basePrice": 29500000.0,
+        "basePrice": 29500000,
         "pricePerSqft": 31382.97,
-        "infraCharges": 600000.0,
-        "clubhouseCharges": 400000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 6.0,
+        "infraCharges": 600000,
+        "clubhouseCharges": 400000,
+        "gstRate": 5,
+        "stampDutyRate": 6,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/17745428672075565255.jpg"
       }
@@ -24377,8 +24617,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Santacruz East",
     "city": "Mumbai",
-    "priceRange": "\u20b91.95 Cr - \u20b92.65 Cr",
-    "exactPrice": "\u20b91.95 Cr",
+    "priceRange": "₹1.95 Cr - ₹2.65 Cr",
+    "exactPrice": "₹1.95 Cr",
     "pricePerSqft": 26000,
     "configurations": [
       "2 BHK",
@@ -24388,12 +24628,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK City Suite",
         "carpetArea": "680 sq.ft",
-        "priceRange": "\u20b91.95 Cr"
+        "priceRange": "₹1.95 Cr"
       },
       {
         "type": "3 BHK Grande",
         "carpetArea": "890 sq.ft",
-        "priceRange": "\u20b92.65 Cr"
+        "priceRange": "₹2.65 Cr"
       }
     ],
     "status": "Under Construction",
@@ -24447,8 +24687,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Santacruz East",
       "flats in Santacruz East Mumbai"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Alora, Santacruz East Mumbai by Kolte-Patil Developers. Prices from \u20b91.95 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P51800049048.",
-    "description": "Welcome to Alora by Kolte-Patil Developers, an inspired edifice that celebrates life. Leisure is the essence of living here at Alora. The collage of memories you\u2019ll create includes blissful moments li\n\nSituated in prime Santacruz East, Mumbai, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil Alora, Santacruz East Mumbai by Kolte-Patil Developers. Prices from ₹1.95 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P51800049048.",
+    "description": "Welcome to Alora by Kolte-Patil Developers, an inspired edifice that celebrates life. Leisure is the essence of living here at Alora. The collage of memories you’ll create includes blissful moments li\n\nSituated in prime Santacruz East, Mumbai, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -24506,7 +24746,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil Alora?",
-        "answer": "Residences at Kolte Patil Alora start from \u20b91.95 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil Alora start from ₹1.95 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil Alora?",
@@ -24559,12 +24799,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 680,
         "balconyArea": 50,
         "bathrooms": 2,
-        "basePrice": 19500000.0,
+        "basePrice": 19500000,
         "pricePerSqft": 28676.47,
-        "infraCharges": 400000.0,
-        "clubhouseCharges": 300000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 6.0,
+        "infraCharges": 400000,
+        "clubhouseCharges": 300000,
+        "gstRate": 5,
+        "stampDutyRate": 6,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1676437419498181183.jpg"
       },
@@ -24575,12 +24815,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 890,
         "balconyArea": 70,
         "bathrooms": 3,
-        "basePrice": 26500000.0,
+        "basePrice": 26500000,
         "pricePerSqft": 29775.28,
-        "infraCharges": 550000.0,
-        "clubhouseCharges": 350000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 6.0,
+        "infraCharges": 550000,
+        "clubhouseCharges": 350000,
+        "gstRate": 5,
+        "stampDutyRate": 6,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/1676437419434225824.jpg"
       }
@@ -24593,8 +24833,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Navi Mumbai",
     "city": "Mumbai",
-    "priceRange": "\u20b91.58 Cr - \u20b92.41 Cr",
-    "exactPrice": "\u20b91.58 Cr",
+    "priceRange": "₹1.58 Cr - ₹2.41 Cr",
+    "exactPrice": "₹1.58 Cr",
     "pricePerSqft": 21500,
     "configurations": [
       "2 BHK",
@@ -24604,12 +24844,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.58 Cr"
+        "priceRange": "₹1.58 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b92.41 Cr"
+        "priceRange": "₹2.41 Cr"
       }
     ],
     "status": "Under Construction",
@@ -24647,8 +24887,8 @@ export const PROJECTS: Project[] = [
       "Kolte Patil projects in Navi Mumbai",
       "flats in Navi Mumbai Mumbai"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil La Vita, Navi Mumbai Mumbai by Kolte-Patil Developers. Prices from \u20b91.65 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P51700077178.",
-    "description": "Welcome to La Vita by Kolte-Patil Developers \u2013 Vashi\u2019s new landmark address of inspiration.\n\nLocated in the vibrant hub of Vashi, Navi Mumbai, La Vita offers seamless connectivity to premier shopping\n\nSituated in prime Navi Mumbai, Mumbai, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
+    "metaDescription": "Buy 2 BHK, 3 BHK in Kolte Patil La Vita, Navi Mumbai Mumbai by Kolte-Patil Developers. Prices from ₹1.65 Cr. 100% Zero Brokerage direct builder desk. MahaRERA P51700077178.",
+    "description": "Welcome to La Vita by Kolte-Patil Developers – Vashi’s new landmark address of inspiration.\n\nLocated in the vibrant hub of Vashi, Navi Mumbai, La Vita offers seamless connectivity to premier shopping\n\nSituated in prime Navi Mumbai, Mumbai, this development by Kolte-Patil Developers delivers exceptional connectivity to transit corridors, commercial epicenters, and educational institutes. Book directly through PROPSMART REALTY for zero brokerage, developer-sanctioned pricing, and complete MahaRERA compliance.",
     "features": [
       "Grand Clubhouse",
       "Infinity Swimming Pool",
@@ -24706,7 +24946,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of apartments in Kolte Patil La Vita?",
-        "answer": "Residences at Kolte Patil La Vita start from \u20b91.65 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
+        "answer": "Residences at Kolte Patil La Vita start from ₹1.65 Cr with direct builder inventory allocation and 100% Zero Brokerage through PROPSMART REALTY."
       },
       {
         "question": "What configurations are available in Kolte Patil La Vita?",
@@ -24761,8 +25001,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 21497,
         "infraCharges": 474000,
         "clubhouseCharges": 316000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1734594123750942359.jpeg"
       },
@@ -24777,8 +25017,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 21518,
         "infraCharges": 723000,
         "clubhouseCharges": 482000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/17345941231412469239.jpeg"
       }
@@ -24791,8 +25031,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Shewalewadi",
     "city": "Pune",
-    "priceRange": "\u20b91.84 Cr - \u20b93.15 Cr",
-    "exactPrice": "\u20b91.84 Cr",
+    "priceRange": "₹1.84 Cr - ₹3.15 Cr",
+    "exactPrice": "₹1.84 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK"
@@ -24812,7 +25052,7 @@ export const PROJECTS: Project[] = [
       "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/floorplans/4bhk-2.webp",
       "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/floorplans/4bhk-3.webp"
     ],
-    "description": "Wildernest at SP Kingstown by Shapoorji Pallonji Real Estate represents ultra-luxury living on the Pune-Solapur Highway in Shewalewadi (Hadapsar Annexe), Pune. Nestled inside a massive 130+ acre master township, Wildernest offers low-density living with only 4 apartments per floor, east-west facing towers, 10-foot clear ceiling heights, and 8-foot tall panoramic windows with unhindered nature views.\n\nStarting from \u20b91.84 Cr, residences feature imported Italian marble flooring, pre-installed multi-split air conditioning, and premium sanitary fittings. Residents enjoy 50+ world-class lifestyle amenities including an infinity-edge swimming pool, rooftop pool in private villaments, open podium gym, central mango orchard, fireside lounge, and private sports arenas. Verified under MahaRERA registration P52100052683, this property is available with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Wildernest at SP Kingstown by Shapoorji Pallonji Real Estate represents ultra-luxury living on the Pune-Solapur Highway in Shewalewadi (Hadapsar Annexe), Pune. Nestled inside a massive 130+ acre master township, Wildernest offers low-density living with only 4 apartments per floor, east-west facing towers, 10-foot clear ceiling heights, and 8-foot tall panoramic windows with unhindered nature views.\n\nStarting from ₹1.84 Cr, residences feature imported Italian marble flooring, pre-installed multi-split air conditioning, and premium sanitary fittings. Residents enjoy 50+ world-class lifestyle amenities including an infinity-edge swimming pool, rooftop pool in private villaments, open podium gym, central mango orchard, fireside lounge, and private sports arenas. Verified under MahaRERA registration P52100052683, this property is available with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Infinity Edge Pool",
       "Rooftop Pool in Villas",
@@ -24876,7 +25116,7 @@ export const PROJECTS: Project[] = [
       "MahaRERA P52100052683",
       "zero brokerage flats Pune"
     ],
-    "metaDescription": "Buy 3 BHK, 4 BHK luxury residences in Wildernest at SP Kingstown, Hadapsar Annexe Pune by Shapoorji Pallonji Real Estate. Starting \u20b91.84 Cr. Verified MahaRERA P52100052683.",
+    "metaDescription": "Buy 3 BHK, 4 BHK luxury residences in Wildernest at SP Kingstown, Hadapsar Annexe Pune by Shapoorji Pallonji Real Estate. Starting ₹1.84 Cr. Verified MahaRERA P52100052683.",
     "advancedConfigurations": [
       {
         "id": "cfg-wildernest-1",
@@ -24885,12 +25125,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 1384,
         "balconyArea": 115,
         "bathrooms": 3,
-        "basePrice": 18400000.0,
+        "basePrice": 18400000,
         "pricePerSqft": 13294.8,
-        "infraCharges": 550000.0,
-        "clubhouseCharges": 350000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 550000,
+        "clubhouseCharges": 350000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/floorplans/3bhk-1.webp"
       },
@@ -24901,12 +25141,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 1503,
         "balconyArea": 128,
         "bathrooms": 3,
-        "basePrice": 19800000.0,
+        "basePrice": 19800000,
         "pricePerSqft": 13173.65,
-        "infraCharges": 590000.0,
-        "clubhouseCharges": 350000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 590000,
+        "clubhouseCharges": 350000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/floorplans/3bhk-2.webp"
       },
@@ -24917,12 +25157,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 1900,
         "balconyArea": 165,
         "bathrooms": 4,
-        "basePrice": 24000000.0,
+        "basePrice": 24000000,
         "pricePerSqft": 12631.58,
-        "infraCharges": 720000.0,
-        "clubhouseCharges": 450000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 720000,
+        "clubhouseCharges": 450000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/floorplans/4bhk-1.webp"
       },
@@ -24933,12 +25173,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 2460,
         "balconyArea": 240,
         "bathrooms": 5,
-        "basePrice": 31500000.0,
+        "basePrice": 31500000,
         "pricePerSqft": 12804.88,
-        "infraCharges": 950000.0,
-        "clubhouseCharges": 500000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 950000,
+        "clubhouseCharges": 500000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/floorplans/4bhk-2.webp"
       }
@@ -24947,22 +25187,22 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Luxury Residence",
         "carpetArea": "1384 sq.ft",
-        "priceRange": "\u20b91.84 Cr"
+        "priceRange": "₹1.84 Cr"
       },
       {
         "type": "3 BHK Grande Residence",
         "carpetArea": "1503 sq.ft",
-        "priceRange": "\u20b91.98 Cr"
+        "priceRange": "₹1.98 Cr"
       },
       {
         "type": "4 BHK Royal Residence",
         "carpetArea": "1900 sq.ft",
-        "priceRange": "\u20b92.40 Cr"
+        "priceRange": "₹2.40 Cr"
       },
       {
         "type": "4 BHK Imperial Villament",
         "carpetArea": "2460 sq.ft",
-        "priceRange": "\u20b93.15 Cr"
+        "priceRange": "₹3.15 Cr"
       }
     ]
   },
@@ -24973,8 +25213,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b978.00 L - \u20b91.12 Cr",
-    "exactPrice": "\u20b978.00 L",
+    "priceRange": "₹78.00 L - ₹1.12 Cr",
+    "exactPrice": "₹78.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -24991,7 +25231,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "Shapoorji Pallonji Vyomora is a visionary 25-acre integrated residential development located strategically in Hinjawadi Phase 1, Pune. Designed around biophilic living and intelligent smart homes, Vyomora offers contemporary 2 BHK, 3 BHK residences and exclusive duplexes.\n\nStarting from \u20b978.00 L, the project features a massive 3-level clubhouse, Miyawaki urban forest, digital learning dome, temperature-controlled indoor pool, and direct signal-free access to major IT campuses. Verified under MahaRERA registration PR1260002600999 with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Shapoorji Pallonji Vyomora is a visionary 25-acre integrated residential development located strategically in Hinjawadi Phase 1, Pune. Designed around biophilic living and intelligent smart homes, Vyomora offers contemporary 2 BHK, 3 BHK residences and exclusive duplexes.\n\nStarting from ₹78.00 L, the project features a massive 3-level clubhouse, Miyawaki urban forest, digital learning dome, temperature-controlled indoor pool, and direct signal-free access to major IT campuses. Verified under MahaRERA registration PR1260002600999 with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Biophilic Architecture",
       "Grand 3-Level Clubhouse",
@@ -25040,7 +25280,7 @@ export const PROJECTS: Project[] = [
       "3 BHK in Hinjewadi Phase 1",
       "MahaRERA PR1260002600999"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK smart homes in Shapoorji Pallonji Vyomora, Hinjewadi Phase 1 Pune. Price starts \u20b978.00 L. 100% Zero Brokerage. Verified MahaRERA PR1260002600999.",
+    "metaDescription": "Buy 2 BHK, 3 BHK smart homes in Shapoorji Pallonji Vyomora, Hinjewadi Phase 1 Pune. Price starts ₹78.00 L. 100% Zero Brokerage. Verified MahaRERA PR1260002600999.",
     "advancedConfigurations": [
       {
         "id": "cfg-vyomora-1",
@@ -25049,12 +25289,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 684,
         "balconyArea": 52,
         "bathrooms": 2,
-        "basePrice": 7800000.0,
+        "basePrice": 7800000,
         "pricePerSqft": 11403.5,
-        "infraCharges": 250000.0,
-        "clubhouseCharges": 150000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 250000,
+        "clubhouseCharges": 150000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
@@ -25065,12 +25305,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 985,
         "balconyArea": 78,
         "bathrooms": 3,
-        "basePrice": 11200000.0,
+        "basePrice": 11200000,
         "pricePerSqft": 11370.55,
-        "infraCharges": 350000.0,
-        "clubhouseCharges": 200000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 350000,
+        "clubhouseCharges": 200000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       }
@@ -25079,12 +25319,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Smart Residence",
         "carpetArea": "684 sq.ft",
-        "priceRange": "\u20b978.00 L"
+        "priceRange": "₹78.00 L"
       },
       {
         "type": "3 BHK Royale Residence",
         "carpetArea": "985 sq.ft",
-        "priceRange": "\u20b91.12 Cr"
+        "priceRange": "₹1.12 Cr"
       }
     ]
   },
@@ -25095,8 +25335,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Bavdhan",
     "city": "Pune",
-    "priceRange": "\u20b91.48 Cr - \u20b92.75 Cr",
-    "exactPrice": "\u20b91.48 Cr",
+    "priceRange": "₹1.48 Cr - ₹2.75 Cr",
+    "exactPrice": "₹1.48 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -25114,7 +25354,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "Vanaha Golfland by Shapoorji Pallonji Real Estate is an elite golf-front residential enclave situated adjacent to the Oxford Golf Resort in Bavdhan, Pune. Part of the 1,000-acre master township, Golfland offers panoramic views of the 18-hole championship golf course and surrounding Sahyadri hills.\n\nFeaturing luxury 2, 3, and 4 BHK residences and townhouses starting from \u20b91.48 Cr, the development provides expansive wrap-around decks, international-standard clubhouses, golf putting greens, and tranquil nature walks. Registered under MahaRERA P52100052376 with 100% zero brokerage via PROPSMART REALTY.",
+    "description": "Vanaha Golfland by Shapoorji Pallonji Real Estate is an elite golf-front residential enclave situated adjacent to the Oxford Golf Resort in Bavdhan, Pune. Part of the 1,000-acre master township, Golfland offers panoramic views of the 18-hole championship golf course and surrounding Sahyadri hills.\n\nFeaturing luxury 2, 3, and 4 BHK residences and townhouses starting from ₹1.48 Cr, the development provides expansive wrap-around decks, international-standard clubhouses, golf putting greens, and tranquil nature walks. Registered under MahaRERA P52100052376 with 100% zero brokerage via PROPSMART REALTY.",
     "features": [
       "18-Hole Championship Golf Course Views",
       "Vanaha Grand Clubhouse",
@@ -25157,7 +25397,7 @@ export const PROJECTS: Project[] = [
       "3 BHK in Bavdhan Pune",
       "MahaRERA P52100052376"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK, 4 BHK golf-view residences in Shapoorji Vanaha Golfland, Bavdhan Pune. Starting \u20b91.48 Cr. Verified MahaRERA P52100052376.",
+    "metaDescription": "Buy 2 BHK, 3 BHK, 4 BHK golf-view residences in Shapoorji Vanaha Golfland, Bavdhan Pune. Starting ₹1.48 Cr. Verified MahaRERA P52100052376.",
     "advancedConfigurations": [
       {
         "id": "cfg-golfland-1",
@@ -25166,12 +25406,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 1011,
         "balconyArea": 95,
         "bathrooms": 2,
-        "basePrice": 14800000.0,
+        "basePrice": 14800000,
         "pricePerSqft": 14638.97,
-        "infraCharges": 450000.0,
-        "clubhouseCharges": 250000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 450000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
@@ -25182,12 +25422,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 1420,
         "balconyArea": 130,
         "bathrooms": 3,
-        "basePrice": 19800000.0,
+        "basePrice": 19800000,
         "pricePerSqft": 13943.66,
-        "infraCharges": 580000.0,
-        "clubhouseCharges": 300000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 580000,
+        "clubhouseCharges": 300000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       },
@@ -25198,12 +25438,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 1980,
         "balconyArea": 180,
         "bathrooms": 4,
-        "basePrice": 27500000.0,
+        "basePrice": 27500000,
         "pricePerSqft": 13888.88,
-        "infraCharges": 750000.0,
-        "clubhouseCharges": 400000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 750000,
+        "clubhouseCharges": 400000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       }
@@ -25212,17 +25452,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Golf View Residence",
         "carpetArea": "1011 sq.ft",
-        "priceRange": "\u20b91.48 Cr"
+        "priceRange": "₹1.48 Cr"
       },
       {
         "type": "3 BHK Fairway Suite",
         "carpetArea": "1420 sq.ft",
-        "priceRange": "\u20b91.98 Cr"
+        "priceRange": "₹1.98 Cr"
       },
       {
         "type": "4 BHK Signature Residence",
         "carpetArea": "1980 sq.ft",
-        "priceRange": "\u20b92.75 Cr"
+        "priceRange": "₹2.75 Cr"
       }
     ]
   },
@@ -25233,8 +25473,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Bavdhan",
     "city": "Pune",
-    "priceRange": "\u20b947.50 L - \u20b91.21 Cr",
-    "exactPrice": "\u20b947.50 L",
+    "priceRange": "₹47.50 L - ₹1.21 Cr",
+    "exactPrice": "₹47.50 L",
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -25252,7 +25492,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "Vanaha Springs by Shapoorji Pallonji is a serene hill-facing residential enclave located in Bavdhan, Pune, near Chandani Chowk and the Oxford Valley. Offering ready and near-possession 1, 2, and 3 BHK homes starting from \u20b953.50 L, Springs combines clean mountain air with rapid connectivity to Kothrud, Hinjewadi, and Mumbai-Pune Expressway.\n\nVerified under MahaRERA registration P52100030065 with complete peace of mind and 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Vanaha Springs by Shapoorji Pallonji is a serene hill-facing residential enclave located in Bavdhan, Pune, near Chandani Chowk and the Oxford Valley. Offering ready and near-possession 1, 2, and 3 BHK homes starting from ₹53.50 L, Springs combines clean mountain air with rapid connectivity to Kothrud, Hinjewadi, and Mumbai-Pune Expressway.\n\nVerified under MahaRERA registration P52100030065 with complete peace of mind and 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Forest View Balconies",
       "Clubhouse & Gym",
@@ -25294,7 +25534,7 @@ export const PROJECTS: Project[] = [
       "2 BHK in Bavdhan Pune",
       "MahaRERA P52100030065"
     ],
-    "metaDescription": "Buy 1 BHK, 2 BHK, 3 BHK homes in Shapoorji Vanaha Springs, Bavdhan Pune. Starting \u20b953.50 L. 100% Zero Brokerage. Verified MahaRERA P52100030065.",
+    "metaDescription": "Buy 1 BHK, 2 BHK, 3 BHK homes in Shapoorji Vanaha Springs, Bavdhan Pune. Starting ₹53.50 L. 100% Zero Brokerage. Verified MahaRERA P52100030065.",
     "advancedConfigurations": [
       {
         "id": "cfg-shapoorji-vanaha-springs-bavdhan-1",
@@ -25307,8 +25547,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10795,
         "infraCharges": 142500,
         "clubhouseCharges": 95000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
@@ -25323,8 +25563,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10816,
         "infraCharges": 238500,
         "clubhouseCharges": 159000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       },
@@ -25339,8 +25579,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 10804,
         "infraCharges": 363000,
         "clubhouseCharges": 242000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       }
@@ -25349,17 +25589,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b947.50 L"
+        "priceRange": "₹47.50 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b979.50 L"
+        "priceRange": "₹79.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.21 Cr"
+        "priceRange": "₹1.21 Cr"
       }
     ]
   },
@@ -25370,8 +25610,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Bandra East",
     "city": "Mumbai",
-    "priceRange": "\u20b92.23 Cr - \u20b92.49 Cr",
-    "exactPrice": "\u20b92.23 Cr",
+    "priceRange": "₹2.23 Cr - ₹2.49 Cr",
+    "exactPrice": "₹2.23 Cr",
     "configurations": [
       "2 BHK",
       "4 BHK"
@@ -25388,7 +25628,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "BKC 28 by Shapoorji Pallonji Real Estate is an exclusive boutique high-rise development located in Kherwadi, Bandra East, Mumbai, minutes away from the Bandra-Kurla Complex (BKC) financial epicenter. Rising 22 storeys with only 4 apartments per floor, BKC 28 delivers smart, ultra-luxury 2 BHK homes and combined 4 BHK Jodi apartments.\n\nStarting from \u20b92.23 Cr, homes feature imported Italian marble flooring, full home automation, rooftop sky lounge, state-of-the-art gymnasium, and double-height entrance lobby. Registered under MahaRERA P51800028474 with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "BKC 28 by Shapoorji Pallonji Real Estate is an exclusive boutique high-rise development located in Kherwadi, Bandra East, Mumbai, minutes away from the Bandra-Kurla Complex (BKC) financial epicenter. Rising 22 storeys with only 4 apartments per floor, BKC 28 delivers smart, ultra-luxury 2 BHK homes and combined 4 BHK Jodi apartments.\n\nStarting from ₹2.23 Cr, homes feature imported Italian marble flooring, full home automation, rooftop sky lounge, state-of-the-art gymnasium, and double-height entrance lobby. Registered under MahaRERA P51800028474 with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Rooftop Sky Lounge",
       "Double-Height Designer Lobby",
@@ -25430,7 +25670,7 @@ export const PROJECTS: Project[] = [
       "Shapoorji Mumbai projects",
       "MahaRERA P51800028474"
     ],
-    "metaDescription": "Buy 2 BHK, 4 BHK luxury residences in Shapoorji Pallonji BKC 28, Bandra East Mumbai. Starting \u20b92.23 Cr. Verified MahaRERA P51800028474.",
+    "metaDescription": "Buy 2 BHK, 4 BHK luxury residences in Shapoorji Pallonji BKC 28, Bandra East Mumbai. Starting ₹2.23 Cr. Verified MahaRERA P51800028474.",
     "advancedConfigurations": [
       {
         "id": "cfg-bkc28-1",
@@ -25439,12 +25679,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 639,
         "balconyArea": 45,
         "bathrooms": 2,
-        "basePrice": 22300000.0,
+        "basePrice": 22300000,
         "pricePerSqft": 34898.27,
-        "infraCharges": 650000.0,
-        "clubhouseCharges": 350000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 650000,
+        "clubhouseCharges": 350000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
@@ -25455,12 +25695,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 712,
         "balconyArea": 52,
         "bathrooms": 2,
-        "basePrice": 24900000.0,
+        "basePrice": 24900000,
         "pricePerSqft": 34971.91,
-        "infraCharges": 720000.0,
-        "clubhouseCharges": 350000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 720000,
+        "clubhouseCharges": 350000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       }
@@ -25469,12 +25709,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Elite Residence",
         "carpetArea": "639 sq.ft",
-        "priceRange": "\u20b92.23 Cr"
+        "priceRange": "₹2.23 Cr"
       },
       {
         "type": "2 BHK Signature Residence",
         "carpetArea": "712 sq.ft",
-        "priceRange": "\u20b92.49 Cr"
+        "priceRange": "₹2.49 Cr"
       }
     ]
   },
@@ -25485,8 +25725,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Marine Drive",
     "city": "Mumbai",
-    "priceRange": "\u20b910.59 Cr - \u20b918.43 Cr",
-    "exactPrice": "\u20b910.59 Cr",
+    "priceRange": "₹10.59 Cr - ₹18.43 Cr",
+    "exactPrice": "₹10.59 Cr",
     "configurations": [
       "3 BHK",
       "3.5 BHK",
@@ -25504,7 +25744,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "The Odyssey by Shapoorji Pallonji Real Estate is an ultra-luxury architectural masterpiece located off Marine Drive in Gamdevi, South Mumbai. Offering unobstructed panoramic vistas of the Arabian Sea and the Queen's Necklace, The Odyssey sets a new benchmark in bespoke high-rise luxury.\n\nFeaturing palatial 3 BHK, 3.5 BHK, and 4.5 BHK sea-facing sky suites starting from \u20b914.49 Cr, residences feature private elevator foyers, imported marble finishing, temperature-controlled sea-view infinity pool, luxury spa, and 24/7 concierge. Registered under MahaRERA P51900050998 with 100% zero brokerage via PROPSMART REALTY.",
+    "description": "The Odyssey by Shapoorji Pallonji Real Estate is an ultra-luxury architectural masterpiece located off Marine Drive in Gamdevi, South Mumbai. Offering unobstructed panoramic vistas of the Arabian Sea and the Queen's Necklace, The Odyssey sets a new benchmark in bespoke high-rise luxury.\n\nFeaturing palatial 3 BHK, 3.5 BHK, and 4.5 BHK sea-facing sky suites starting from ₹14.49 Cr, residences feature private elevator foyers, imported marble finishing, temperature-controlled sea-view infinity pool, luxury spa, and 24/7 concierge. Registered under MahaRERA P51900050998 with 100% zero brokerage via PROPSMART REALTY.",
     "features": [
       "Unobstructed Arabian Sea & Queen's Necklace Views",
       "Sea-Facing Infinity Pool",
@@ -25545,7 +25785,7 @@ export const PROJECTS: Project[] = [
       "luxury flats South Mumbai",
       "MahaRERA P51900050998"
     ],
-    "metaDescription": "Buy ultra-luxury sea-facing sky residences in The Odyssey by Shapoorji Pallonji, Marine Drive Gamdevi South Mumbai. Starting \u20b914.49 Cr. Verified MahaRERA P51900050998.",
+    "metaDescription": "Buy ultra-luxury sea-facing sky residences in The Odyssey by Shapoorji Pallonji, Marine Drive Gamdevi South Mumbai. Starting ₹14.49 Cr. Verified MahaRERA P51900050998.",
     "advancedConfigurations": [
       {
         "id": "cfg-shapoorji-the-odyssey-marine-drive-1",
@@ -25558,8 +25798,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 94509,
         "infraCharges": 3175500,
         "clubhouseCharges": 2117000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
@@ -25574,8 +25814,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 94493,
         "infraCharges": 4195500,
         "clubhouseCharges": 2797000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       },
@@ -25590,8 +25830,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 94513,
         "infraCharges": 5529000,
         "clubhouseCharges": 3686000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       }
@@ -25600,17 +25840,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b910.59 Cr"
+        "priceRange": "₹10.59 Cr"
       },
       {
         "type": "3.5 BHK",
         "carpetArea": "1480 sq.ft",
-        "priceRange": "\u20b913.98 Cr"
+        "priceRange": "₹13.98 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b918.43 Cr"
+        "priceRange": "₹18.43 Cr"
       }
     ]
   },
@@ -25621,8 +25861,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Powai",
     "city": "Mumbai",
-    "priceRange": "\u20b92.30 Cr - \u20b94.63 Cr",
-    "exactPrice": "\u20b92.30 Cr",
+    "priceRange": "₹2.30 Cr - ₹4.63 Cr",
+    "exactPrice": "₹2.30 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -25640,7 +25880,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "Shapoorji Pallonji Vicinia is a premier 6.7-acre residential landmark located in Chandivali, Powai, Mumbai. Designed to provide a serene sanctuary amidst the bustling city, Vicinia offers ready-to-move 2, 3, and 3.5 BHK luxury residences.\n\nStarting from \u20b92.10 Cr with Occupation Certificate (OC) received, the gated community boasts a 30,000 sq.ft luxury clubhouse, infinity pool, squash and badminton courts, senior citizen pavilions, and lush botanical gardens. Verified under MahaRERA P51800002564 with 100% zero brokerage via PROPSMART REALTY.",
+    "description": "Shapoorji Pallonji Vicinia is a premier 6.7-acre residential landmark located in Chandivali, Powai, Mumbai. Designed to provide a serene sanctuary amidst the bustling city, Vicinia offers ready-to-move 2, 3, and 3.5 BHK luxury residences.\n\nStarting from ₹2.10 Cr with Occupation Certificate (OC) received, the gated community boasts a 30,000 sq.ft luxury clubhouse, infinity pool, squash and badminton courts, senior citizen pavilions, and lush botanical gardens. Verified under MahaRERA P51800002564 with 100% zero brokerage via PROPSMART REALTY.",
     "features": [
       "30,000 Sq.Ft Grand Clubhouse",
       "Infinity Swimming Pool & Kids Pool",
@@ -25681,7 +25921,7 @@ export const PROJECTS: Project[] = [
       "3 BHK in Chandivali",
       "MahaRERA P51800002564"
     ],
-    "metaDescription": "Buy ready-to-move OC received 2 BHK, 3 BHK luxury residences in Shapoorji Pallonji Vicinia, Powai Chandivali Mumbai. Starting \u20b92.10 Cr. Verified MahaRERA P51800002564.",
+    "metaDescription": "Buy ready-to-move OC received 2 BHK, 3 BHK luxury residences in Shapoorji Pallonji Vicinia, Powai Chandivali Mumbai. Starting ₹2.10 Cr. Verified MahaRERA P51800002564.",
     "advancedConfigurations": [
       {
         "id": "cfg-shapoorji-vicinia-powai-1",
@@ -25694,8 +25934,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 31293,
         "infraCharges": 690000,
         "clubhouseCharges": 460000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
@@ -25710,8 +25950,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 31295,
         "infraCharges": 1051500,
         "clubhouseCharges": 701000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       },
@@ -25726,8 +25966,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 31284,
         "infraCharges": 1389000,
         "clubhouseCharges": 926000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       }
@@ -25736,17 +25976,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b92.30 Cr"
+        "priceRange": "₹2.30 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b93.50 Cr"
+        "priceRange": "₹3.50 Cr"
       },
       {
         "type": "3.5 BHK",
         "carpetArea": "1480 sq.ft",
-        "priceRange": "\u20b94.63 Cr"
+        "priceRange": "₹4.63 Cr"
       }
     ]
   },
@@ -25757,8 +25997,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Thane West",
     "city": "Mumbai",
-    "priceRange": "\u20b91.81 Cr - \u20b94.82 Cr",
-    "exactPrice": "\u20b91.81 Cr",
+    "priceRange": "₹1.81 Cr - ₹4.82 Cr",
+    "exactPrice": "₹1.81 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -25776,7 +26016,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "Northern Lights by Shapoorji Pallonji Real Estate is a landmark 4.8-acre luxury residential community located on prime Pokhran Road No. 2, Thane West. Featuring towering high-rises including the prestigious Skyraa tower, the project offers thoughtfully engineered 2, 3, and 4 BHK homes.\n\nStarting from \u20b91.35 Cr, Northern Lights provides 60+ curated amenities across multiple podium and rooftop recreation levels, including a sky lounge, heated pool, music room, and jogging trails. Verified under MahaRERA registration P51700019864 with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Northern Lights by Shapoorji Pallonji Real Estate is a landmark 4.8-acre luxury residential community located on prime Pokhran Road No. 2, Thane West. Featuring towering high-rises including the prestigious Skyraa tower, the project offers thoughtfully engineered 2, 3, and 4 BHK homes.\n\nStarting from ₹1.35 Cr, Northern Lights provides 60+ curated amenities across multiple podium and rooftop recreation levels, including a sky lounge, heated pool, music room, and jogging trails. Verified under MahaRERA registration P51700019864 with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "60+ Curated Lifestyle Amenities",
       "Rooftop Sky Lounge (Skyraa Tower)",
@@ -25819,7 +26059,7 @@ export const PROJECTS: Project[] = [
       "3 BHK in Pokhran Road",
       "MahaRERA P51700019864"
     ],
-    "metaDescription": "Buy 2 BHK, 3 BHK, 4 BHK luxury residences in Northern Lights by Shapoorji Pallonji, Pokhran Road 2 Thane West. Starting \u20b91.35 Cr. Verified MahaRERA P51700019864.",
+    "metaDescription": "Buy 2 BHK, 3 BHK, 4 BHK luxury residences in Northern Lights by Shapoorji Pallonji, Pokhran Road 2 Thane West. Starting ₹1.35 Cr. Verified MahaRERA P51700019864.",
     "advancedConfigurations": [
       {
         "id": "cfg-shapoorji-northern-lights-thane-1",
@@ -25832,8 +26072,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 24694,
         "infraCharges": 544500,
         "clubhouseCharges": 363000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
@@ -25848,8 +26088,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 24688,
         "infraCharges": 829500,
         "clubhouseCharges": 553000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       },
@@ -25864,8 +26104,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 24692,
         "infraCharges": 1444500,
         "clubhouseCharges": 963000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       }
@@ -25874,17 +26114,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.81 Cr"
+        "priceRange": "₹1.81 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b92.77 Cr"
+        "priceRange": "₹2.77 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b94.82 Cr"
+        "priceRange": "₹4.82 Cr"
       }
     ]
   },
@@ -25895,8 +26135,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Mahalaxmi",
     "city": "Mumbai",
-    "priceRange": "\u20b99.71 Cr - \u20b922.30 Cr",
-    "exactPrice": "\u20b99.71 Cr",
+    "priceRange": "₹9.71 Cr - ₹22.30 Cr",
+    "exactPrice": "₹9.71 Cr",
     "configurations": [
       "3.5 BHK",
       "4 BHK",
@@ -25914,7 +26154,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "The Minerva is one of India's tallest and most iconic residential skyscrapers, soaring above Mahalaxmi Racecourse in South Mumbai. Developed in strategic collaboration with Shapoorji Pallonji Real Estate, this architectural wonder offers palatial 3.5 BHK, 4 BHK, and duplex sky mansions.\n\nStarting from \u20b913.50 Cr, residences command unobstructed vistas of the Mahalaxmi Racecourse, Arabian Sea, and Mumbai skyline. Residents experience triple-height designer lobbies, high-altitude viewing observatories, temperature-controlled pools, private wellness centers, and multi-tier automated security. Verified under MahaRERA registration P51900008204 with 100% zero brokerage via PROPSMART REALTY.",
+    "description": "The Minerva is one of India's tallest and most iconic residential skyscrapers, soaring above Mahalaxmi Racecourse in South Mumbai. Developed in strategic collaboration with Shapoorji Pallonji Real Estate, this architectural wonder offers palatial 3.5 BHK, 4 BHK, and duplex sky mansions.\n\nStarting from ₹13.50 Cr, residences command unobstructed vistas of the Mahalaxmi Racecourse, Arabian Sea, and Mumbai skyline. Residents experience triple-height designer lobbies, high-altitude viewing observatories, temperature-controlled pools, private wellness centers, and multi-tier automated security. Verified under MahaRERA registration P51900008204 with 100% zero brokerage via PROPSMART REALTY.",
     "features": [
       "Unobstructed Mahalaxmi Racecourse & Sea Views",
       "Triple-Height Air-Conditioned Grand Lobby",
@@ -25956,7 +26196,7 @@ export const PROJECTS: Project[] = [
       "Shapoorji Minerva Mumbai",
       "MahaRERA P51900008204"
     ],
-    "metaDescription": "Buy ultra-luxury racecourse-facing sky mansions in The Minerva, Mahalaxmi South Mumbai with Shapoorji Pallonji. Starting \u20b913.50 Cr. Verified MahaRERA P51900008204.",
+    "metaDescription": "Buy ultra-luxury racecourse-facing sky mansions in The Minerva, Mahalaxmi South Mumbai with Shapoorji Pallonji. Starting ₹13.50 Cr. Verified MahaRERA P51900008204.",
     "advancedConfigurations": [
       {
         "id": "cfg-shapoorji-the-minerva-mahalaxmi-1",
@@ -25969,8 +26209,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 65608,
         "infraCharges": 2913000,
         "clubhouseCharges": 1942000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
@@ -25985,8 +26225,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 65590,
         "infraCharges": 3837000,
         "clubhouseCharges": 2558000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       },
@@ -26001,8 +26241,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 65603,
         "infraCharges": 6691500,
         "clubhouseCharges": 4461000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       }
@@ -26011,17 +26251,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "3.5 BHK",
         "carpetArea": "1480 sq.ft",
-        "priceRange": "\u20b99.71 Cr"
+        "priceRange": "₹9.71 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b912.79 Cr"
+        "priceRange": "₹12.79 Cr"
       },
       {
         "type": "Duplex",
         "carpetArea": "3400 sq.ft",
-        "priceRange": "\u20b922.30 Cr"
+        "priceRange": "₹22.30 Cr"
       }
     ]
   },
@@ -26032,8 +26272,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Virar West",
     "city": "Mumbai",
-    "priceRange": "\u20b942.00 L - \u20b970.00 L",
-    "exactPrice": "\u20b942.00 L",
+    "priceRange": "₹42.00 L - ₹70.00 L",
+    "exactPrice": "₹42.00 L",
     "configurations": [
       "1 BHK",
       "2 BHK"
@@ -26050,7 +26290,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "Joyville Virar by Shapoorji Pallonji Real Estate is a sprawling master-planned residential township located in Virar West in the Mumbai Metropolitan Region (MMR). Built with Shapoorji's legendary engineering standards, the project offers thoughtfully designed 1 and 2 BHK residences.\n\nStarting from \u20b942.00 L, residents enjoy access to a grand clubhouse, expansive swimming pool, sports arenas, children's parks, and landscaped gardens. Verified under MahaRERA registration P51900000444 with 100% zero brokerage via PROPSMART REALTY.",
+    "description": "Joyville Virar by Shapoorji Pallonji Real Estate is a sprawling master-planned residential township located in Virar West in the Mumbai Metropolitan Region (MMR). Built with Shapoorji's legendary engineering standards, the project offers thoughtfully designed 1 and 2 BHK residences.\n\nStarting from ₹42.00 L, residents enjoy access to a grand clubhouse, expansive swimming pool, sports arenas, children's parks, and landscaped gardens. Verified under MahaRERA registration P51900000444 with 100% zero brokerage via PROPSMART REALTY.",
     "features": [
       "Grand Gated Township",
       "Modern Clubhouse & Gym",
@@ -26092,7 +26332,7 @@ export const PROJECTS: Project[] = [
       "2 BHK in Virar West Mumbai",
       "MahaRERA P51900000444"
     ],
-    "metaDescription": "Buy 1 BHK, 2 BHK homes in Joyville Virar Mumbai by Shapoorji Pallonji. Starting \u20b942.00 L. 100% Zero Brokerage. Verified MahaRERA P51900000444.",
+    "metaDescription": "Buy 1 BHK, 2 BHK homes in Joyville Virar Mumbai by Shapoorji Pallonji. Starting ₹42.00 L. 100% Zero Brokerage. Verified MahaRERA P51900000444.",
     "advancedConfigurations": [
       {
         "id": "cfg-virar-1",
@@ -26101,12 +26341,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 415,
         "balconyArea": 35,
         "bathrooms": 1,
-        "basePrice": 4200000.0,
+        "basePrice": 4200000,
         "pricePerSqft": 10120.48,
-        "infraCharges": 150000.0,
-        "clubhouseCharges": 100000.0,
-        "gstRate": 1.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 150000,
+        "clubhouseCharges": 100000,
+        "gstRate": 1,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
@@ -26117,12 +26357,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 644,
         "balconyArea": 55,
         "bathrooms": 2,
-        "basePrice": 7000000.0,
+        "basePrice": 7000000,
         "pricePerSqft": 10869.56,
-        "infraCharges": 250000.0,
-        "clubhouseCharges": 150000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 250000,
+        "clubhouseCharges": 150000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       }
@@ -26131,12 +26371,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK Palm Grove",
         "carpetArea": "415 sq.ft",
-        "priceRange": "\u20b942.00 L"
+        "priceRange": "₹42.00 L"
       },
       {
         "type": "2 BHK Palm Breeze",
         "carpetArea": "644 sq.ft",
-        "priceRange": "\u20b970.00 L"
+        "priceRange": "₹70.00 L"
       }
     ]
   },
@@ -26147,8 +26387,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Sewri",
     "city": "Mumbai",
-    "priceRange": "\u20b92.42 Cr - \u20b92.90 Cr",
-    "exactPrice": "\u20b92.42 Cr",
+    "priceRange": "₹2.42 Cr - ₹2.90 Cr",
+    "exactPrice": "₹2.42 Cr",
     "configurations": [
       "2 BHK",
       "2.5 BHK"
@@ -26165,7 +26405,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "The Canvas Residences by Shapoorji Pallonji (SD Corp) is an upscale harbour-facing residential tower located in Sewri West, South-Central Mumbai, right at the onset of the Mumbai Trans Harbour Link (Atal Setu). Offering premium 2 and 2.5 BHK residences with scenic views of the Arabian Sea and flamingos sanctuary.\n\nStarting from \u20b92.15 Cr, homes feature floor-to-ceiling glass windows, imported marble flooring, state-of-the-art gymnasium, infinity pool, and seamless transit to South Mumbai and Navi Mumbai. Verified under MahaRERA registration P51900000521 with 100% zero brokerage via PROPSMART REALTY.",
+    "description": "The Canvas Residences by Shapoorji Pallonji (SD Corp) is an upscale harbour-facing residential tower located in Sewri West, South-Central Mumbai, right at the onset of the Mumbai Trans Harbour Link (Atal Setu). Offering premium 2 and 2.5 BHK residences with scenic views of the Arabian Sea and flamingos sanctuary.\n\nStarting from ₹2.15 Cr, homes feature floor-to-ceiling glass windows, imported marble flooring, state-of-the-art gymnasium, infinity pool, and seamless transit to South Mumbai and Navi Mumbai. Verified under MahaRERA registration P51900000521 with 100% zero brokerage via PROPSMART REALTY.",
     "features": [
       "Arabian Sea Harbour & Flamingo Bay Views",
       "Infinity Swimming Pool",
@@ -26205,7 +26445,7 @@ export const PROJECTS: Project[] = [
       "2 BHK in Sewri Mumbai",
       "MahaRERA P51900000521"
     ],
-    "metaDescription": "Buy 2 BHK, 2.5 BHK harbour-view residences in The Canvas Residences by Shapoorji Pallonji, Sewri Mumbai. Starting \u20b92.15 Cr. Verified MahaRERA P51900000521.",
+    "metaDescription": "Buy 2 BHK, 2.5 BHK harbour-view residences in The Canvas Residences by Shapoorji Pallonji, Sewri Mumbai. Starting ₹2.15 Cr. Verified MahaRERA P51900000521.",
     "advancedConfigurations": [
       {
         "id": "cfg-shapoorji-the-canvas-residences-sewri-1",
@@ -26218,8 +26458,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 32993,
         "infraCharges": 727500,
         "clubhouseCharges": 485000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
@@ -26234,8 +26474,8 @@ export const PROJECTS: Project[] = [
         "pricePerSqft": 33011,
         "infraCharges": 871500,
         "clubhouseCharges": 581000,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       }
@@ -26244,12 +26484,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b92.42 Cr"
+        "priceRange": "₹2.42 Cr"
       },
       {
         "type": "2.5 BHK",
         "carpetArea": "880 sq.ft",
-        "priceRange": "\u20b92.90 Cr"
+        "priceRange": "₹2.90 Cr"
       }
     ]
   },
@@ -26260,8 +26500,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Santacruz West",
     "city": "Mumbai",
-    "priceRange": "\u20b95.25 Cr",
-    "exactPrice": "\u20b95.25 Cr",
+    "priceRange": "₹5.25 Cr",
+    "exactPrice": "₹5.25 Cr",
     "configurations": [
       "3 BHK"
     ],
@@ -26277,7 +26517,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "The Designate by Shapoorji Pallonji Real Estate is an ultra-exclusive low-density luxury residence located in Khar West / Santacruz, Mumbai. Designed with only 2 private apartments per floor, The Designate offers bespoke 3 BHK luxury residences crafted for utmost privacy and distinction.\n\nStarting from \u20b95.25 Cr with full Occupation Certificate (OC received), homes feature Italian marble, 3.2-meter high ceilings, wrap-around balconies, private elevator access, and rooftop leisure deck. Registered under MahaRERA P51800001443 with 100% zero brokerage via PROPSMART REALTY.",
+    "description": "The Designate by Shapoorji Pallonji Real Estate is an ultra-exclusive low-density luxury residence located in Khar West / Santacruz, Mumbai. Designed with only 2 private apartments per floor, The Designate offers bespoke 3 BHK luxury residences crafted for utmost privacy and distinction.\n\nStarting from ₹5.25 Cr with full Occupation Certificate (OC received), homes feature Italian marble, 3.2-meter high ceilings, wrap-around balconies, private elevator access, and rooftop leisure deck. Registered under MahaRERA P51800001443 with 100% zero brokerage via PROPSMART REALTY.",
     "features": [
       "Only 2 Apartments per Floor (Maximum Privacy)",
       "Rooftop Sky Terrace & Lounge",
@@ -26317,7 +26557,7 @@ export const PROJECTS: Project[] = [
       "3 BHK in Santacruz West",
       "MahaRERA P51800001443"
     ],
-    "metaDescription": "Buy ready-to-move OC received bespoke 3 BHK luxury residences in The Designate by Shapoorji Pallonji, Santacruz Khar West Mumbai. Starting \u20b95.25 Cr. Verified MahaRERA P51800001443.",
+    "metaDescription": "Buy ready-to-move OC received bespoke 3 BHK luxury residences in The Designate by Shapoorji Pallonji, Santacruz Khar West Mumbai. Starting ₹5.25 Cr. Verified MahaRERA P51800001443.",
     "advancedConfigurations": [
       {
         "id": "cfg-designate-1",
@@ -26326,12 +26566,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": 1180,
         "balconyArea": 110,
         "bathrooms": 3,
-        "basePrice": 52500000.0,
+        "basePrice": 52500000,
         "pricePerSqft": 44491.52,
-        "infraCharges": 1200000.0,
-        "clubhouseCharges": 500000.0,
-        "gstRate": 5.0,
-        "stampDutyRate": 7.0,
+        "infraCharges": 1200000,
+        "clubhouseCharges": 500000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       }
@@ -26340,7 +26580,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Private Residence",
         "carpetArea": "1180 sq.ft",
-        "priceRange": "\u20b95.25 Cr"
+        "priceRange": "₹5.25 Cr"
       }
     ]
   }

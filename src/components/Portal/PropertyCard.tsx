@@ -84,7 +84,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
             <div className={`relative overflow-hidden shrink-0 ${
                 isGrid 
                     ? 'w-full aspect-[16/10]' 
-                    : 'w-full md:w-[38%] min-h-[210px] md:min-h-full aspect-[16/10] md:aspect-auto'
+                    : 'w-full md:w-72 md:min-w-[280px] lg:w-80 lg:min-w-[300px] aspect-[16/10] md:aspect-auto'
             } bg-slate-900`}>
                 <Link to={projectLink} className="block h-full w-full">
                     <img
@@ -97,7 +97,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         }}
                     />
                     {/* Gradient Overlay for Text Readability */}
-                    <div className="absolute inset-0 bg-gradient-to-t from-slate-950/85 via-slate-950/20 to-black/30 transition-opacity duration-300 group-hover:opacity-90" />
+                    <div className="absolute inset-0 bg-gradient-to-t from-slate-950/70 via-slate-950/10 to-black/25 transition-opacity duration-300 group-hover:opacity-80" />
                 </Link>
 
                 {/* Top Header: Unified single flex row (guarantees zero overlap between badges and actions) */}
@@ -161,18 +161,12 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                     </div>
                 </div>
 
-                {/* Bottom Image Overlay: Price & Possession (Grid Mode) */}
-                {isGrid && (
-                    <div className="absolute bottom-0 inset-x-0 p-3 pt-6 bg-gradient-to-t from-slate-950/95 via-slate-950/50 to-transparent flex justify-between items-end text-white z-10">
-                        <div className="min-w-0 pr-2">
-                            <span className="text-[10px] uppercase font-bold tracking-widest text-slate-300 block leading-tight">Starting From</span>
-                            <p className="text-lg font-black tracking-tight text-white leading-tight truncate">{formattedPrice}</p>
-                        </div>
-                        {project.possessionDate && (
-                            <span className="text-[10px] font-bold px-2 py-0.5 rounded-md bg-white/20 backdrop-blur-md border border-white/10 text-slate-200 shrink-0">
-                                {project.possessionDate}
-                            </span>
-                        )}
+                {/* Bottom Image Overlay: Clean Possession Badge */}
+                {project.possessionDate && (
+                    <div className="absolute bottom-2.5 right-2.5 z-10 pointer-events-none">
+                        <span className="text-[9.5px] font-bold px-2 py-0.5 rounded-md bg-slate-950/80 backdrop-blur-md border border-white/15 text-slate-200 shadow-sm">
+                            Possession: {project.possessionDate}
+                        </span>
                     </div>
                 )}
             </div>
@@ -180,40 +174,43 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
             {/* ================= Content Section ================= */}
             <div className={`flex-1 flex flex-col justify-between relative ${isGrid ? 'p-4 sm:p-5' : 'p-5 md:p-6'}`}>
                 <div>
-                    {/* Header: Title, Location & Desktop Price (List View) */}
-                    <div className="flex justify-between items-start gap-3 mb-2">
-                        <div className="flex-1 min-w-0">
-                            <Link to={projectLink} className="block group/title">
-                                <h3 className={`font-sans font-black text-slate-900 leading-snug group-hover/title:text-sky-600 transition-colors ${
-                                    isGrid ? 'text-base sm:text-lg line-clamp-1' : 'text-lg md:text-xl line-clamp-2'
-                                }`}>
-                                    {project.title}
-                                </h3>
-                            </Link>
-                            <div className="flex items-center gap-1.5 text-slate-500 text-xs sm:text-sm mt-0.5">
-                                <MapPin className="w-3.5 h-3.5 flex-shrink-0 text-sky-500" />
-                                <span className="truncate font-sans font-semibold text-slate-600 text-xs sm:text-sm">
-                                    {project.location}
-                                    {project.city && project.city !== 'Pune' && (
-                                        <span className="ml-1.5 inline-flex items-center text-[10px] font-bold px-1.5 py-0.2 rounded bg-sky-100 text-sky-800">
-                                            {project.city}
-                                        </span>
-                                    )}
-                                </span>
-                            </div>
+                    {/* Header: Title & Location (Full Width, Zero Collisions) */}
+                    <div>
+                        <Link to={projectLink} className="block group/title">
+                            <h3 className={`font-sans font-black text-slate-900 leading-snug group-hover/title:text-sky-600 transition-colors ${
+                                isGrid ? 'text-base sm:text-lg line-clamp-1' : 'text-lg md:text-xl line-clamp-2'
+                            }`} title={project.title}>
+                                {project.title}
+                            </h3>
+                        </Link>
+                        <div className="flex items-center gap-1.5 text-slate-500 text-xs sm:text-sm mt-1">
+                            <MapPin className="w-3.5 h-3.5 flex-shrink-0 text-sky-500" />
+                            <span className="truncate font-sans font-semibold text-slate-600 text-xs sm:text-sm">
+                                {project.location}
+                                {project.city && project.city !== 'Pune' && (
+                                    <span className="ml-1.5 inline-flex items-center text-[10px] font-bold px-1.5 py-0.2 rounded bg-sky-100 text-sky-800">
+                                        {project.city}
+                                    </span>
+                                )}
+                            </span>
                         </div>
+                    </div>
 
-                        {/* Desktop Price Header (List View) */}
-                        {!isGrid && (
-                            <div className="text-right shrink-0 whitespace-nowrap pl-2">
-                                <span className="text-[10px] text-sky-600 font-extrabold uppercase tracking-wider block">Starting From</span>
-                                <p className="text-xl md:text-2xl font-black text-slate-900 tracking-tight">{formattedPrice}</p>
-                            </div>
+                    {/* Dedicated Direct Starting Price Row (Prominent, High Contrast, 100% Collision-Free) */}
+                    <div className="mt-3 p-2.5 rounded-xl bg-slate-50/90 border border-slate-200/70 flex items-baseline justify-between gap-2 shadow-2xs">
+                        <div className="min-w-0">
+                            <span className="text-[9.5px] uppercase font-black tracking-wider text-slate-400 block leading-tight">Starting Direct Price</span>
+                            <p className="text-lg sm:text-xl font-black text-slate-900 tracking-tight leading-tight truncate">{formattedPrice}</p>
+                        </div>
+                        {project.pricePerSqft && (
+                            <span className="text-[10.5px] font-bold text-sky-700 bg-sky-100/80 px-2 py-0.5 rounded-md border border-sky-200/70 shrink-0">
+                                ₹{project.pricePerSqft.toLocaleString('en-IN')}/sqft
+                            </span>
                         )}
                     </div>
 
                     {/* Configurations Chips */}
-                    <div className="mt-2.5 flex flex-wrap gap-1.5">
+                    <div className="mt-3 flex flex-wrap gap-1.5">
                         {(project.configurations || []).slice(0, isGrid ? 3 : 5).map((conf, i) => (
                             <span 
                                 key={i} 
