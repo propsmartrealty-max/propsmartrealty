@@ -7,7 +7,7 @@ import Footer from '../components/Portal/Footer';
 const NotFound = () => {
     return (
         <div className="min-h-screen bg-slate-50 font-sans flex flex-col">
-            <PortalNavbar />
+            <PortalNavbar variant="colored" />
 
             <div className="flex-1 flex items-center justify-center p-4">
                 <div className="max-w-lg w-full text-center">

@@ -21,6 +21,7 @@ import ConstructionTimeline from '../components/Portal/Infographics/Construction
 import CarpetAreaInfographic from '../components/Portal/Infographics/CarpetAreaInfographic';
 import InvestmentMetrics from '../components/Portal/Infographics/InvestmentMetrics';
 import TransitConnectivity from '../components/Portal/Infographics/TransitConnectivity';
+import { PROPSMART_RERA } from '../components/Portal/RERABadge';
 
 
 
@@ -134,7 +135,7 @@ const ProjectDetails = () => {
     if (isLoading) {
         return (
             <div className="min-h-screen bg-slate-50 font-sans">
-                <PortalNavbar />
+                <PortalNavbar variant="colored" />
                 <DetailSkeleton />
                 <Footer />
             </div>
@@ -144,7 +145,7 @@ const ProjectDetails = () => {
     if (error) {
         return (
             <div className="min-h-screen bg-slate-50 font-sans flex flex-col">
-                <PortalNavbar />
+                <PortalNavbar variant="colored" />
                 <div className="flex-1 flex items-center justify-center p-4">
                     <ErrorState message={error.message} onRetry={refreshData} />
                 </div>
@@ -156,7 +157,7 @@ const ProjectDetails = () => {
     if (!project) {
         return (
             <div className="min-h-screen flex flex-col bg-slate-50">
-                <PortalNavbar />
+                <PortalNavbar variant="colored" />
                 <div className="flex-1 flex items-center justify-center">
                     <div className="text-center">
                         <h2 className="text-2xl font-bold mb-2">Project Not Found</h2>
@@ -239,7 +240,7 @@ const ProjectDetails = () => {
                 }}
             />
 
-            <PortalNavbar />
+            <PortalNavbar variant="colored" />
             {/* Breadcrumbs Area */}
             <div className="bg-white border-b border-gray-100 pt-20"> {/* Added pt-20 to account for Fixed Navbar */}
                 <div className="max-w-7xl mx-auto px-4 py-3">

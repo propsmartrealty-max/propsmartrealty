@@ -14,7 +14,11 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
     const [mobileExpanded, setMobileExpanded] = useState<string | null>(null);
     const location = useLocation();
 
-    const isSolid = scrolled || variant === 'colored';
+    // Pages with a dark hero section where a transparent navbar is appropriate:
+    const isDarkHeroPage = location.pathname === '/' || location.pathname.startsWith('/builder/');
+    // If route doesn't have a dark hero, automatically default to colored/solid navbar
+    const effectiveVariant = (variant === 'transparent' && !isDarkHeroPage) ? 'colored' : variant;
+    const isSolid = scrolled || effectiveVariant === 'colored';
 
     // Handle Scroll Effect
     useEffect(() => {
