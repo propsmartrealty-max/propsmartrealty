@@ -264,9 +264,12 @@ const HeroSearch = () => {
                                 {/* Smart Suggestions Dropdown */}
                                 {showSuggestions && (
                                     <div className="absolute top-[calc(100%+20px)] left-[-20px] right-[-20px] bg-white rounded-2xl shadow-xl shadow-slate-200/50 border border-gray-100 p-3.5 z-50">
-                                        <h4 className="font-sans font-extrabold text-xs text-slate-400 px-3 py-1 uppercase tracking-wider">Trending Pune Localities</h4>
-                                        <div className="grid grid-cols-2 gap-2 mt-1.5">
-                                            {['Baner', 'Wakad', 'Hinjewadi', 'Kharadi', 'Viman Nagar', 'Balewadi'].map(loc => (
+                                        <h4 className="font-sans font-extrabold text-xs text-slate-400 px-3 py-1 uppercase tracking-wider flex items-center justify-between">
+                                            <span>Featured Prime Localities</span>
+                                            <span className="text-[10px] text-brand-600 font-bold lowercase">★ prime corridors</span>
+                                        </h4>
+                                        <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 mt-1.5">
+                                            {['Hinjewadi', 'Baner', 'Wakad', 'Balewadi', 'Punawale', 'Tathawade', 'Kharadi', 'Aundh', 'Pashan', 'Bhugaon', 'Bavdhan', 'Kothrud'].map(loc => (
                                                 <div
                                                     key={loc}
                                                     className="px-3 py-2 hover:bg-brand-50 hover:text-brand-700 rounded-xl cursor-pointer flex items-center gap-2.5 transition-colors border border-transparent hover:border-brand-200"
@@ -277,7 +280,7 @@ const HeroSearch = () => {
                                                         alt={loc}
                                                         className="w-7 h-7 rounded-lg object-cover border border-slate-200 shrink-0"
                                                     />
-                                                    <span className="font-sans font-bold text-sm tracking-tight text-slate-800">
+                                                    <span className="font-sans font-bold text-xs md:text-sm tracking-tight text-slate-800">
                                                         {loc}
                                                     </span>
                                                 </div>

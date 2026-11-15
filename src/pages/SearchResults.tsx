@@ -370,27 +370,28 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
                                 </div>
                             </div>
                         ) : (
-                            /* Trending Localities Quick Filter Bar */
+                            /* Featured Prime Localities Quick Filter Bar */
                             <div className="mb-6 bg-white p-3.5 rounded-2xl border border-slate-200/80 shadow-sm">
                                 <div className="flex items-center gap-2 mb-2 text-xs font-sans font-extrabold text-slate-400 uppercase tracking-wider">
                                     <Sparkles className="w-3.5 h-3.5 text-amber-500" />
-                                    Explore Top Localities
+                                    Explore Prime Featured Pune Corridors
                                 </div>
                                 <div className="flex flex-wrap gap-2">
-                                    {['Baner', 'Hinjewadi', 'Wakad', 'Kharadi', 'Balewadi', 'Viman Nagar'].map(loc => (
+                                    {PROPSMART_LOCALITIES.filter(l => l.isFeatured).slice(0, 12).map(loc => (
                                         <Link
-                                            key={loc}
-                                            to={`/search?location=${encodeURIComponent(loc)}`}
+                                            key={loc.name}
+                                            to={`/search?location=${encodeURIComponent(loc.name)}`}
                                             className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-50 border border-slate-200 hover:bg-brand-50 hover:border-brand-300 transition-all shadow-xs group"
                                         >
                                             <img
-                                                src={getLocalityImageUrl(loc)}
+                                                src={getLocalityImageUrl(loc.name)}
                                                 alt=""
-                                                className="w-4 h-4 rounded-full object-cover"
+                                                className="w-4 h-4 rounded-full object-cover shrink-0"
                                             />
-                                            <span className="font-sans font-bold text-sm tracking-tight text-slate-700 group-hover:text-brand-600 transition-colors">
-                                                {loc}
+                                            <span className="font-sans font-bold text-xs md:text-sm tracking-tight text-slate-700 group-hover:text-brand-600 transition-colors">
+                                                {loc.name}
                                             </span>
+                                            <span className="text-[10px] text-amber-500 font-bold">★</span>
                                         </Link>
                                     ))}
                                 </div>

@@ -176,13 +176,13 @@ const Directory = () => {
                                 <div>
                                     <h3 className="font-sans font-extrabold text-2xl text-slate-900 tracking-tight flex items-center gap-2">
                                         <Sparkles className="w-5 h-5 text-amber-500" />
-                                        Popular Pune Localities
+                                        Prime Featured Pune Localities
                                     </h3>
-                                    <p className="font-sans text-xs md:text-sm text-slate-500 mt-0.5">Explore key investment zones across West and East Pune</p>
+                                    <p className="font-sans text-xs md:text-sm text-slate-500 mt-0.5">Explore key investment zones across West, East, South & PCMC corridors</p>
                                 </div>
                             </div>
                             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
-                                {PROPSMART_LOCALITIES.slice(0, 6).map(loc => (
+                                {PROPSMART_LOCALITIES.filter(l => l.isFeatured).slice(0, 12).map(loc => (
                                     <LocalityCard key={loc.name} locality={loc} />
                                 ))}
                             </div>

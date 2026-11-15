@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <defs>
+    <linearGradient id="sky-sus" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b18" />
+      <stop offset="45%" stop-color="#3a332d" />
+      <stop offset="85%" stop-color="#61574c" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+    <radialGradient id="celestial-sus" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d4a373" stop-opacity="0.75" />
+      <stop offset="60%" stop-color="#faedcd" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#faedcd" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="vignette-sus" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0" />
+      <stop offset="50%" stop-color="#020617" stop-opacity="0.5" />
+      <stop offset="80%" stop-color="#020617" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0.98" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="1000" fill="url(#sky-sus)" />
+  <circle cx="620" cy="220" r="160" fill="url(#celestial-sus)" />
+
+  <!-- Background Mountain Silhouette -->
+  <path d="M 0 520 Q 200 440 400 480 T 800 460 L 800 1000 L 0 1000 Z" fill="#100e0d" opacity="0.6" />
+
+  <!-- Background Skyline Towers -->
+  <rect x="80" y="380" width="90" height="420" rx="3" fill="#100e0d" opacity="0.7" />
+  <rect x="210" y="320" width="120" height="480" rx="3" fill="#100e0d" opacity="0.8" />
+  <rect x="360" y="260" width="140" height="540" rx="3" fill="#100e0d" opacity="0.9" />
+  <rect x="530" y="340" width="110" height="460" rx="3" fill="#100e0d" opacity="0.85" />
+  <rect x="660" y="400" width="90" height="400" rx="3" fill="#100e0d" opacity="0.75" />
+
+  <!-- Accent Spire Lines -->
+  <line x1="430" y1="260" x2="430" y2="180" stroke="#d4a373" stroke-width="2.5" />
+  <circle cx="430" cy="180" r="5" fill="#ff3366" />
+  <line x1="270" y1="320" x2="270" y2="250" stroke="#faedcd" stroke-width="2" />
+  <circle cx="270" cy="250" r="4" fill="#d4a373" />
+
+  <!-- Building Windows Matrix -->
+  <g fill="#faedcd" opacity="0.65">
+    <rect x="390" y="300" width="16" height="10" rx="1" />
+    <rect x="430" y="300" width="16" height="10" rx="1" />
+    <rect x="460" y="300" width="16" height="10" rx="1" />
+    <rect x="390" y="330" width="16" height="10" rx="1" />
+    <rect x="460" y="330" width="16" height="10" rx="1" />
+    <rect x="390" y="360" width="16" height="10" rx="1" />
+    <rect x="430" y="360" width="16" height="10" rx="1" />
+    <rect x="460" y="360" width="16" height="10" rx="1" />
+    <rect x="390" y="390" width="16" height="10" rx="1" />
+    <rect x="430" y="390" width="16" height="10" rx="1" />
+    <rect x="230" y="360" width="14" height="8" rx="1" />
+    <rect x="260" y="360" width="14" height="8" rx="1" />
+    <rect x="290" y="360" width="14" height="8" rx="1" />
+    <rect x="230" y="390" width="14" height="8" rx="1" />
+    <rect x="290" y="390" width="14" height="8" rx="1" />
+    <rect x="550" y="380" width="14" height="8" rx="1" />
+    <rect x="580" y="380" width="14" height="8" rx="1" />
+    <rect x="610" y="380" width="14" height="8" rx="1" />
+  </g>
+
+  <!-- Architectural Horizon Grid Line -->
+  <line x1="0" y1="720" x2="800" y2="680" stroke="#d4a373" stroke-width="1.5" opacity="0.35" />
+
+  <!-- Bottom Contrast Vignette -->
+  <rect y="380" width="800" height="620" fill="url(#vignette-sus)" />
+
+  <!-- Locality Micro-Badge -->
+  <g transform="translate(48, 890)">
+    <rect x="0" y="0" width="150" height="28" rx="14" fill="#d4a373" opacity="0.2" />
+    <rect x="0" y="0" width="150" height="28" rx="14" stroke="#d4a373" stroke-width="1" fill="none" opacity="0.6" />
+    <circle cx="15" cy="14" r="4" fill="#d4a373" />
+    <text x="28" y="18" fill="#ffffff" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="10.5" font-weight="800" letter-spacing="1">BANER HILL VALLEY</text>
+  </g>
+</svg>

@@ -131,11 +131,16 @@ export interface ProjectConfiguration {
 export interface Locality {
   id: string;
   name: string;
+  slug?: string;
   city?: 'Pune' | 'Mumbai' | 'Lonavala' | 'Alibaug' | string;
+  zone?: 'West Pune' | 'East Pune' | 'South & Central' | 'North Pune (PCMC)' | string;
+  isFeatured?: boolean;
   image?: string;
   projectCount?: number;
   avgPriceSqft?: number;
   appreciation_rate?: number;
+  tagline?: string;
+  description?: string;
   last_updated?: string;
 }
 
