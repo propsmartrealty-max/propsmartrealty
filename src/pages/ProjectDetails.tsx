@@ -524,7 +524,7 @@ const ProjectDetails = () => {
             <div className="bg-white border-b border-gray-100 pt-24 sm:pt-28">
                 <div className="max-w-7xl mx-auto px-4 py-3">
                     <Breadcrumbs items={[
-                        { label: 'Pune', path: '/' },
+                        { label: project.city || 'Pune', path: "/search?city=" + encodeURIComponent(project.city || 'Pune') },
                         { label: project.location, path: "/search?q=" + encodeURIComponent(project.location) },
                         { label: project.title }
                     ]} />
@@ -576,7 +576,7 @@ const ProjectDetails = () => {
                             <h1 className="text-4xl md:text-5xl font-bold mb-2">{project.title}</h1>
                             <div className="flex items-center gap-2 text-gray-200 text-lg">
                                 <MapPin className="w-5 h-5 text-amber-400" />
-                                <span className="font-sans font-bold">{project.location}, Pune</span>
+                                <span className="font-sans font-bold">{project.location}, {project.city || 'Pune'}</span>
                             </div>
                         </div>
                         <div className="flex flex-col md:items-end gap-2">

@@ -144,7 +144,9 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'list' }
                                 </h3>
                                 <div className="flex items-center gap-1.5 text-slate-500 text-sm">
                                     <MapPin className="w-3.5 h-3.5 flex-shrink-0 text-slate-400" />
-                                    <span className="truncate font-sans font-bold text-xs md:text-sm text-slate-600">{project.location}</span>
+                                    <span className="truncate font-sans font-bold text-xs md:text-sm text-slate-600">
+                                        {project.location}{project.city && project.city !== 'Pune' ? ` • ${project.city}` : ''}
+                                    </span>
                                 </div>
                             </div>
 

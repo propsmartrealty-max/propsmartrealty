@@ -26,6 +26,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
 
     const rawQuery = queryParams.get('q') || queryParams.get('query') || '';
     const rawLocationParam = queryParams.get('location') || '';
+    const rawCityParam = queryParams.get('city') || '';
 
     // Parse location from slug (e.g. 'baner-annex' -> 'Baner Annex') or param
     const derivedLocation = effectiveLocationSlug
@@ -47,11 +48,19 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
     const [page, setPage] = React.useState(1);
 
     // Local State for filters
+    const [selectedCity, setSelectedCity] = React.useState<string>(rawCityParam || 'All');
     const [selectedBudgets, setSelectedBudgets] = React.useState<string[]>([]);
     const [selectedTypes, setSelectedTypes] = React.useState<string[]>([]);
     const [selectedConfigs, setSelectedConfigs] = React.useState<string[]>([]);
     const [showFilters, setShowFilters] = React.useState(false);
     const [viewMode, setViewMode] = React.useState<'list' | 'map'>('list');
+
+    // Sync selectedCity when URL city param changes
+    React.useEffect(() => {
+        if (rawCityParam) {
+            setSelectedCity(rawCityParam);
+        }
+    }, [rawCityParam]);
 
     // Reset page to 1 when search or location changes
     React.useEffect(() => {
@@ -85,9 +94,14 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
         placeholderData: (previousData) => previousData,
     });
 
-    const projects = (data?.data && data.data.length > 0)
+    const baseProjects = (data?.data && data.data.length > 0)
         ? data.data
         : (isLoading ? [] : (error ? PROJECTS : (data?.data || [])));
+
+    const projects = React.useMemo(() => {
+        if (!selectedCity || selectedCity === 'All') return baseProjects;
+        return baseProjects.filter((p: any) => (p.city || 'Pune').toLowerCase() === selectedCity.toLowerCase());
+    }, [baseProjects, selectedCity]);
     const totalPages = data?.totalPages || 1;
 
     const toggleFilter = (item: string, current: string[], setter: (val: string[]) => void) => {
@@ -128,6 +142,32 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
                 {/* PropertyTech Quick Filter Pills */}
                 <div className="bg-white p-3 rounded-2xl border border-slate-200/90 shadow-2xs mb-6 flex flex-wrap items-center justify-between gap-3">
                     <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar py-1">
+                        <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider px-2 shrink-0">City:</span>
+                        {[
+                            { id: 'All', label: 'All Cities' },
+                            { id: 'Pune', label: 'Pune' },
+                            { id: 'Mumbai', label: 'Mumbai' },
+                            { id: 'Lonavala', label: 'Lonavala' },
+                            { id: 'Alibaug', label: 'Alibaug' }
+                        ].map((c) => {
+                            const active = selectedCity === c.id;
+                            return (
+                                <button
+                                    key={c.id}
+                                    onClick={() => setSelectedCity(c.id)}
+                                    className={`px-3 py-1 rounded-xl text-xs font-bold transition-all shrink-0 ${
+                                        active
+                                            ? 'bg-slate-900 text-white shadow-xs'
+                                            : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                                    }`}
+                                >
+                                    {c.label}
+                                </button>
+                            );
+                        })}
+
+                        <div className="h-4 w-[1px] bg-slate-200 mx-1 shrink-0" />
+
                         <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider px-2 shrink-0">BHK:</span>
                         {['1 BHK', '2 BHK', '3 BHK', '4 BHK'].map((bhk) => {
                             const active = selectedConfigs.includes(bhk);

@@ -816,7 +816,8 @@ export const PROJECTS: Project[] = [
     ],
     "brochureUrl": "https://keystoneliv.com/public/uploads/property/k8efs8EX0zH9s8tNGzPxbgUNGd6YGNIzWlWGvWOL.pdf",
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3782.2145105194018!2d73.73430237486002!3d18.564365382537687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sGodrej%20Hillside%203%2C%207%2F8%20near%20Godrej%20river%20hills%20nande%2C%20road%2C%20Mahalunge%2C%20Pune%2C%20Maharashtra%20411045!5e0!3m2!1sen!2sin!4v1688044662580!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 28 floors. It is spread across 3 acres."
+    "floorsAndAcres": "The project has 28 floors. It is spread across 3 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-godrej-river-royale",
@@ -982,7 +983,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.0887583531326!2d73.7337243739744!3d18.57003676766372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b9786692480b%3A0x7802359c7ecbca66!2sGodrej%20River%20Royale%2C%20Baner%20-%20Hinjewadi%20Road%2C%20Pune!5e0!3m2!1sen!2sin!4v1698314164857!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 38 floors. It is spread across 4.37 acres."
+    "floorsAndAcres": "The project has 38 floors. It is spread across 4.37 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-godrej-eden-estate-phase-2",
@@ -1151,7 +1153,8 @@ export const PROJECTS: Project[] = [
         "answer": "Use \"Schedule Site Visit\" on this page or call +91 93108 63636. PROPSMART REALTY arranges a free guided visit, with pick-up on request."
       }
     ],
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3781.9375723479006!2d73.7247759!3d18.576853!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb98dbb20c51%3A0x423fca08f1fafae3!2sGodrej%20Eden%20Estate%20Phase%201%20%26%202!5e0!3m2!1sen!2sin!4v1706698008844!5m2!1sen!2sin"
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3781.9375723479006!2d73.7247759!3d18.576853!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb98dbb20c51%3A0x423fca08f1fafae3!2sGodrej%20Eden%20Estate%20Phase%201%20%26%202!5e0!3m2!1sen!2sin!4v1706698008844!5m2!1sen!2sin",
+    "city": "Pune"
   },
   {
     "id": "p-kolte-patil-life-republic",
@@ -1406,7 +1409,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.0016607594835!2d73.70791217404884!3d18.61899506616262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2ba4cf4e994ad%3A0xced3d9a93fdcfb77!2sLife%20Republic%20by%20Kolte-Patil!5e0!3m2!1sen!2sin!4v1691580969293!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has S+22 floors. It is spread across 10.41 acres."
+    "floorsAndAcres": "The project has S+22 floors. It is spread across 10.41 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kolte-patil-24k-altura",
@@ -1586,7 +1590,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.4696136815733!2d73.77061921014825!3d18.55285516811577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf69b4e67321%3A0xdd5e5af093ec84f2!2s24K%20Altura!5e0!3m2!1sen!2sin!4v1696486527896!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has Basement + 3P + E-Deck +32 Floors floors. It is spread across 7.5 acres."
+    "floorsAndAcres": "The project has Basement + 3P + E-Deck +32 Floors floors. It is spread across 7.5 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kolte-patil-little-earth",
@@ -1768,7 +1773,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3779.9387091084345!2d73.71592181015116!3d18.66674616462081!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b09a0914e30f%3A0x5cc1980efd1e9fd!2sLittle%20Earth%20Kolte-Patil!5e0!3m2!1sen!2sin!4v1696507493509!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+16 floors. It is spread across 26 acres."
+    "floorsAndAcres": "The project has G+16 floors. It is spread across 26 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-vtp-bellissimo",
@@ -1970,7 +1976,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8028492796034!2d73.72617217584524!3d18.582924967265285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb3b9fc3d7df%3A0x85da1b572aa2e1fc!2sVTP%20Bellissimo%20Official!5e0!3m2!1sen!2sin!4v1698227991596!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G + 29 floors. It is spread across 10 acres."
+    "floorsAndAcres": "The project has G + 29 floors. It is spread across 10 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-vtp-dolce-vita",
@@ -2249,7 +2256,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.815653879847!2d73.97889127584443!3d18.537230868663926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3b4103c2a39%3A0x8665cce9de413082!2sVTP%20Dolce%20Vita%20-%20New%20Kharadi!5e0!3m2!1sen!2sin!4v1698239319933!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 32 floors. It is spread across 9 acres."
+    "floorsAndAcres": "The project has 32 floors. It is spread across 9 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-vtp-naturescape",
@@ -2476,7 +2484,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.558350523803!2d73.76855947519121!3d18.50365388258664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfd1ea3e6727%3A0x79c35d30e4e47452!2sVTP%20NatureScape!5e0!3m2!1sen!2sin!4v1698239302788!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 22 floors. It is spread across 3.5 acres."
+    "floorsAndAcres": "The project has 22 floors. It is spread across 3.5 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-lodha-giardino",
@@ -2713,7 +2722,8 @@ export const PROJECTS: Project[] = [
     ],
     "brochureUrl": "https://keystoneliv.com/public/uploads/property/b2eVj6hR92MtZSySsAoiTD7Jp7kHjxEzQ0hTKpXI.pdf",
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15128.96702392734!2d73.9635498!3d18.5631364!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3c191c3f637%3A0xe2514090c62e997f!2sLodha%20Giardino%2C%20Kharadi!5e0!3m2!1sen!2sin!4v1688108216789!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 14 floors. It is spread across 14 acres."
+    "floorsAndAcres": "The project has 14 floors. It is spread across 14 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-lodha-panache",
@@ -2916,7 +2926,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.918353729581!2d73.74223769999999!3d18.577719300000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbe51db52659%3A0x6d7f2edc6c921355!2sLodha%20Hinjewadi%20Sales%20Gallery!5e0!3m2!1sen!2sin!4v1720522062145!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 30 floors. It is spread across 6 acres."
+    "floorsAndAcres": "The project has 30 floors. It is spread across 6 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-lodha-bella-vita",
@@ -3092,7 +3103,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.2966597767036!2d73.9116755101464!3d18.47021687063922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2ebcdb68c9b29%3A0xaee7838a5b9159e4!2sLodha%20Bella%20Vita!5e0!3m2!1sen!2sin!4v1697611800171!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+27 floors. It is spread across 13 acres."
+    "floorsAndAcres": "The project has G+27 floors. It is spread across 13 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-panchshil-eon-waterfront",
@@ -3266,7 +3278,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.5619914121007!2d73.95433609999999!3d18.5486854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c304d3f3504d%3A0x155856205dddf7b6!2sEon%20Waterfront%20Phase-1!5e0!3m2!1sen!2sin!4v1750408177770!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 20 floors. It is spread across 4.16 acres."
+    "floorsAndAcres": "The project has 20 floors. It is spread across 4.16 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-panchshil-towers",
@@ -3427,7 +3440,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3738.1349620803708!2d73.95892957519244!3d18.553258682546677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3b847d710c7%3A0xa934efd828e6e0ad!2sPanchshil%20Towers!5e1!3m2!1sen!2sin!4v1757939160534!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 32 floors. It is spread across 4 acres."
+    "floorsAndAcres": "The project has 32 floors. It is spread across 4 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-rohan-ekam-balewadi",
@@ -3599,7 +3613,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8252152149926!2d73.77446417438523!3d18.581917067299056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf5757409bc1%3A0xe1948544e41d7e2e!2sRohan%20Ekam!5e0!3m2!1sen!2sin!4v1708360592697!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 7P+32 Floors floors. It is spread across 13 acres."
+    "floorsAndAcres": "The project has 7P+32 Floors floors. It is spread across 13 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-rohan-saroha",
@@ -3779,7 +3794,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4694.809050120558!2d73.74672557519136!3d18.509244282582163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfd99c052b27%3A0x228fe57ce20b13b6!2sRohan%20Saroha!5e1!3m2!1sen!2sin!4v1733549744657!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 15 floors. It is spread across 5.76 acres."
+    "floorsAndAcres": "The project has 15 floors. It is spread across 5.76 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-rohan-ekam",
@@ -3966,7 +3982,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8252152149926!2d73.77446417438523!3d18.581917067299056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf5757409bc1%3A0xe1948544e41d7e2e!2sRohan%20Ekam!5e0!3m2!1sen!2sin!4v1708360592697!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 7P+32 Floors floors. It is spread across 13 acres."
+    "floorsAndAcres": "The project has 7P+32 Floors floors. It is spread across 13 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-vj-indilife",
@@ -4150,7 +4167,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7565.295457879271!2d73.77912157468334!3d18.54481454957932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf640c853341%3A0x9533f4f039258adb!2sVJ%20Indilife!5e0!3m2!1sen!2sin!4v1688198610806!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 17 floors. It is spread across 1.05 acres."
+    "floorsAndAcres": "The project has 17 floors. It is spread across 1.05 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-vj-pkc-central",
@@ -4339,7 +4357,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4693.4820141334385!2d73.93485547595725!3d18.557559968041836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c31a4bbf5c75%3A0xec03cd5dfb007e86!2sVJ%20Palladio%20Kharadi%20Central!5e1!3m2!1sen!2sin!4v1743167664970!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+22 floors. It is spread across 2 acres."
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 2 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-vj-yashwin-enchante",
@@ -4539,7 +4558,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.423258351953!2d73.9715317!3d18.5719071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c34a84356017%3A0x17e240cefa2bef98!2sVilas%20Javdekar%20yahwin%20enchante%20sales%20office%20-%20Wagholi!5e1!3m2!1sen!2sin!4v1744268968056!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 21 floors. It is spread across 4 acres."
+    "floorsAndAcres": "The project has 21 floors. It is spread across 4 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-gt-pride",
@@ -4727,7 +4747,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.202672707972!2d73.7309476!3d18.6548991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bba09ac1ab5f%3A0x6eee7e13184ecd37!2sGT%20PRIDE!5e0!3m2!1sen!2sin!4v1691753103758!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 7 floors. It is spread across 1 acres."
+    "floorsAndAcres": "The project has 7 floors. It is spread across 1 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-pride-park-connect",
@@ -4986,7 +5007,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4496.848046291115!2d73.72162725054598!3d18.601817205332917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbb7d6a9132d%3A0x2ab76cd01ee7f5d!2sPark%20Connect%2C%20Phase%201%2C%20Hinjawadi%20Rajiv%20Gandhi%20Infotech%20Park%2C%20Hinjawadi%2C%20Pimpri-Chinchwad%2C%20Maharashtra%20411057!5e0!3m2!1sen!2sin!4v1692186175898!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+17 floors. It is spread across 2 acres."
+    "floorsAndAcres": "The project has G+17 floors. It is spread across 2 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-codename-pride-of-chinchwad",
@@ -5157,7 +5179,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60488.36244432715!2d73.71631972167968!3d18.640528199999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b93b2f4be265%3A0x10a99f9c1ab9cd6b!2sITrend%20by%20Saheel%20Properties!5e0!3m2!1sen!2sin!4v1708689371250!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has B+G+20 floors floors. It is spread across 2 acres."
+    "floorsAndAcres": "The project has B+G+20 floors floors. It is spread across 2 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-nyati-evoque",
@@ -5322,7 +5345,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.660477834084!2d73.91528199999999!3d18.5442389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1007a073eb7%3A0x6ae5de1bd37039ba!2sNyati%20Evoque!5e0!3m2!1sen!2sin!4v1746887393270!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 27 floors."
+    "floorsAndAcres": "The project has 27 floors.",
+    "city": "Pune"
   },
   {
     "id": "p-nyati-emerald",
@@ -5490,7 +5514,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.486478220268!2d73.76621170000001!3d18.552094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bebe9fd39bf1%3A0x9a2e05ea4256096d!2sNyati%20Emerald!5e0!3m2!1sen!2sin!4v1747043793362!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 29 floors. It is spread across 15 acres."
+    "floorsAndAcres": "The project has 29 floors. It is spread across 15 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-nyati-esteban-2",
@@ -5660,7 +5685,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.595358632626!2d73.9176876!3d18.4566726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eb5444285d63%3A0xf0ce2364f73e1c51!2sNyati%20Esteban%20I%20%26%20II!5e0!3m2!1sen!2sin!4v1747324956194!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 30 floors. It is spread across 5.04 acres."
+    "floorsAndAcres": "The project has 30 floors. It is spread across 5.04 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-gera-hinjewadi-phase-3",
@@ -5863,7 +5889,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30253.972971752486!2d73.64989183096901!3d18.585458588066782!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb12c2bca185%3A0xb3879fc3627adcf4!2sPhase%203%2C%20Hinjawadi%20Rajiv%20Gandhi%20Infotech%20Park%2C%20Hinjawadi%2C%20Pune%2C%20Pimpri-Chinchwad%2C%20Maharashtra%20411057!5e0!3m2!1sen!2sin!4v1709536313556!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 3P+33 floors floors. It is spread across 10.75 acres."
+    "floorsAndAcres": "The project has 3P+33 floors floors. It is spread across 10.75 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-gera-imperium-gateway",
@@ -6030,7 +6057,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.199415224838!2d73.81750377519381!3d18.61009828250088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b9b5631828cb%3A0x6370d884949e3645!2sGera",
-    "floorsAndAcres": "The project has G+35 floors. It is spread across 1.8 acres."
+    "floorsAndAcres": "The project has G+35 floors. It is spread across 1.8 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-gera-joy-on-treetop",
@@ -6226,7 +6254,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d35415.90523139877!2d73.66268659504249!3d18.585448142709588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb12c2bca185%3A0xb3879fc3627adcf4!2sPhase%203%2C%20Hinjawadi%20Rajiv%20Gandhi%20Infotech%20Park%2C%20Hinjawadi%2C%20Pune%2C%20Pimpri-Chinchwad%2C%20Maharashtra%20411057!5e0!3m2!1sen!2sin!4v1729593615491!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+3P+33 floors. It is spread across 10.7 acres."
+    "floorsAndAcres": "The project has G+3P+33 floors. It is spread across 10.7 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kasturi-apostrophe",
@@ -6401,7 +6430,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.80929133927!2d73.68933347438524!3d18.582634667277055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb206a8c98eb%3A0xa7f7de605c373e64!2sApostrophe%20Hinjawadi%20By%20Kasturi!5e0!3m2!1sen!2sin!4v1708362071754!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+22 floors. It is spread across 5.5 acres."
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 5.5 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kasturi-eon-homes",
@@ -6594,7 +6624,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d484236.13917022356!2d73.862967!3d18.524616!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf2e67461101%3A0x828d43bf9d9ee343!2sPune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1727432976396!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 2B+P+22 floors. It is spread across 22 acres."
+    "floorsAndAcres": "The project has 2B+P+22 floors. It is spread across 22 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kasturi-the-balmoral-towers",
@@ -6771,7 +6802,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8259493671694!2d73.77265187519316!3d18.581883982523642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b939b8fba43d%3A0xa83eaa1b934d907e!2sKasturi%20Balmoral%20Towers%2C%20Balewadi%2C%20Pune%2C%20Maharashtra%20411045!5e0!3m2!1sen!2sin!4v1750233936157!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 2B+G+P+37 floors. It is spread across 5 acres."
+    "floorsAndAcres": "The project has 2B+G+P+37 floors. It is spread across 5 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-mahindra-happinest",
@@ -6948,7 +6980,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.7743944062513!2d73.7433101!3d18.6292145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b996a82dc273%3A0x4bd01fabf83d5cf7!2sMahindra%20Happinest%20Tathawade%20%E2%80%93%20by%20Mahindra%20Lifespaces!5e0!3m2!1sen!2sin!4v1695033408261!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has B+G+22 floors. It is spread across 7 acres."
+    "floorsAndAcres": "The project has B+G+22 floors. It is spread across 7 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-mahindra-citadel",
@@ -7144,7 +7177,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.0567159034736!2d73.813239!3d18.616518599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b97395ba9695%3A0x9f96b3b1facf7ca7!2sMahindra%20Citadel!5e0!3m2!1sen!2sin!4v1695036573003!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 6 Level Parking : + 22 Floor floors. It is spread across 11.5 acres."
+    "floorsAndAcres": "The project has 6 Level Parking : + 22 Floor floors. It is spread across 11.5 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-mahindra-kharadi",
@@ -7337,7 +7371,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.6140167791295!2d73.96832737423802!3d18.546336668388612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c30016a18a23%3A0xd5b654801aaa6334!2sMahindra%20Lifespace%20Kharadi!5e0!3m2!1sen!2sin!4v1706871796923!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 32 floors. It is spread across 5.4 acres."
+    "floorsAndAcres": "The project has 32 floors. It is spread across 5.4 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kumar-parth-tower",
@@ -7510,7 +7545,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15129.761554596447!2d73.75052225011335!3d18.554174146367494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfe9172c216d%3A0xd9b43426a82a33f1!2sKumar%20Parth%20Towers!5e0!3m2!1sen!2sin!4v1708360772924!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+22 floors. It is spread across 2 acres."
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 2 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kumar-palmspring-towers",
@@ -7696,7 +7732,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.452370525493!2d73.90478987519027!3d18.463157482619305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eb330ed0269f%3A0x6098e1c4bf1c5b2e!2sKumar%20Palmspring%20Towers!5e0!3m2!1sen!2sin!4v1710328946764!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+35 floors. It is spread across 9.5 acres."
+    "floorsAndAcres": "The project has G+35 floors. It is spread across 9.5 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kumar-codename-centrestage",
@@ -7871,7 +7908,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.9367278504596!2d73.6847895739372!3d18.576891067453865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb3289264bb7%3A0x874c9604997814ff!2sKumar%20Codename%20Centrestage%20-%20Megapolis!5e0!3m2!1sen!2sin!4v1719315122854!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 20 floors. It is spread across 2.18 acres."
+    "floorsAndAcres": "The project has 20 floors. It is spread across 2.18 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-bramhacorp-hues-of-sky",
@@ -8107,7 +8145,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.034485271487!2d73.87617589999999!3d18.5273437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1e28f227645%3A0x769b8fc7fa7fd5fc!2sHues%20of%20Sky%20by%20BramhaCorp!5e0!3m2!1sen!2sin!4v1747127208668!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 35 floors. It is spread across 2 acres."
+    "floorsAndAcres": "The project has 35 floors. It is spread across 2 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-bramhacorp-townhouse",
@@ -8268,7 +8307,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.7951703253043!2d73.7637369!3d18.583271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b91633c77d83%3A0x2aae9ac6df6194fe!2sTownHouse%20by%20BramhaCorp!5e0!3m2!1sen!2sin!4v1754571528144!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 5 floors. It is spread across 0.37 acres."
+    "floorsAndAcres": "The project has 5 floors. It is spread across 0.37 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-bramhacorp-august-towers",
@@ -8450,7 +8490,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.6231174170243!2d73.91781171081593!3d18.545925782479824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c167ab02cf05%3A0x94a92d1dc9f8816e!2sAugust%20Towers%20by%20BramhaCorp!5e0!3m2!1sen!2sin!4v1756986658660!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 34 floors."
+    "floorsAndAcres": "The project has 34 floors.",
+    "city": "Pune"
   },
   {
     "id": "p-amanora-city-rise",
@@ -8566,7 +8607,8 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/ozTB4XODdBQeqGDmSjJ9UEPdq2M8vHjJj5zZK3pB.webp"
       }
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-joyville-annexe",
@@ -8797,7 +8839,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.721582136912!2d73.96605381014707!3d18.49626636984484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3e3be3a9e55%3A0x42a0d369b2fda6a5!2sJoyville%20Hadapsar!5e0!3m2!1sen!2sin!4v1696577320793!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 2 Level Park+ 22 Floors floors. It is spread across 21 acres."
+    "floorsAndAcres": "The project has 2 Level Park+ 22 Floors floors. It is spread across 21 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-joyville-celestia",
@@ -9039,7 +9082,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10493.454172925729!2d73.95253674499257!3d18.49364602652375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3a5659c8057%3A0x1e6795c701631bc0!2sJoyville%20Celestia%20by%20Shapoorji%20Pallonji!5e0!3m2!1sen!2sin!4v1708527089942!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+20 floors. It is spread across 9 acres."
+    "floorsAndAcres": "The project has G+20 floors. It is spread across 9 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-joyville-sensorium",
@@ -9249,7 +9293,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.075208380779!2d73.71930637438493!3d18.57064776764426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb602855eb8b%3A0xdff2ff146b3bb55d!2sSensorium%20by%20Joyville%2C%20Shapoorji%20Pallonji!5e0!3m2!1sen!2sin!4v1708529717548!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+22 floors. It is spread across 10.9 acres."
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 10.9 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kohinoor-kharadi",
@@ -9509,7 +9554,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.036578619302!2d73.96836537393715!3d18.572389567591774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3093399ff03%3A0xace789327cddabd5!2sKohinoor%20Kaleido%20-%20New%20Kharadi!5e0!3m2!1sen!2sin!4v1707118259502!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 27 floors. It is spread across 5 acres."
+    "floorsAndAcres": "The project has 27 floors. It is spread across 5 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kohinoor-shangrila",
@@ -9702,7 +9748,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.817037666211!2d73.79681017519422!3d18.627297382487097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b90989b0f33f%3A0x37b820a8056086cd!2sKohinoor%20Shangrila%20Phase%20-II!5e0!3m2!1sen!2sin!4v1708773652582!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+22 floors. It is spread across 3.92 acres."
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 3.92 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kohinoor-central-park",
@@ -9941,7 +9988,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.6148073365607!2d73.70114002393764!3d18.59139681700946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb00478dad69%3A0xb9fbaf268c44e3ef!2sKohinoor%20Central%20Park%20Hinjewadi%20Ph-2!5e0!3m2!1sen!2sin!4v1719311769234!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+25 floors. It is spread across 13.5 acres."
+    "floorsAndAcres": "The project has G+25 floors. It is spread across 13.5 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kalpataru-jade-skyline",
@@ -10108,7 +10156,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.3943035028183!2d73.78168987393663!3d18.55625386808585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf37f6c3be51%3A0x63b013e34cb1c6c9!2sKalpataru%20Jade%20Skyline!5e0!3m2!1sen!2sin!4v1707309905874!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 8P+21 Floors floors. It is spread across 3 acres."
+    "floorsAndAcres": "The project has 8P+21 Floors floors. It is spread across 3 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kalpataru-jade-residences",
@@ -10281,7 +10330,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.4295612686706!2d73.78354402519254!3d18.554662782545517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf1d606edc9d%3A0xaf13eaa6e1cdaa03!2sKalpataru%20Jade%20Baner!5e0!3m2!1sen!2sin!4v1709020673678!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has G+22 floors. It is spread across 9.36 acres."
+    "floorsAndAcres": "The project has G+22 floors. It is spread across 9.36 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-kalpataru-blossoms",
@@ -10464,7 +10514,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.269730213492!2d73.8205625!3d18.4714375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc295026ce702b3%3A0xf592c9047c190964!2sKalpataru%20Blossoms!5e0!3m2!1sen!2sin!4v1747033483788!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 18 floors. It is spread across 1.44 acres."
+    "floorsAndAcres": "The project has 18 floors. It is spread across 1.44 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-sobha-nesara",
@@ -10631,7 +10682,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3783.4725402013!2d73.78536892519135!3d18.50753633258347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sSobha%20Nesara!5e0!3m2!1sen!2sin!4v1747126048135!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 23 floors. It is spread across 3 acres."
+    "floorsAndAcres": "The project has 23 floors. It is spread across 3 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-sobha-nesara-block-3",
@@ -10810,7 +10862,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.493466587116!2d73.78630369999999!3d18.506589599999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf0338ae36ab%3A0xb3e42315f3b26a4e!2sSOBHA%20Nesara!5e0!3m2!1sen!2sin!4v1751040727860!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 23 floors. It is spread across 1 acres."
+    "floorsAndAcres": "The project has 23 floors. It is spread across 1 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-prasiddhi-tatavam-residency",
@@ -10990,7 +11043,8 @@ export const PROJECTS: Project[] = [
       }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.039807074337!2d73.747708!3d18.6622096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b1000fb97dd5%3A0xdd1c8b392d8ac007!2sTatvam%20Residency!5e0!3m2!1sen!2sin!4v1752253385417!5m2!1sen!2sin",
-    "floorsAndAcres": "The project has 11 floors. It is spread across 0.3 acres."
+    "floorsAndAcres": "The project has 11 floors. It is spread across 0.3 acres.",
+    "city": "Pune"
   },
   {
     "id": "p-sense-66-by-tata-value-homes",
@@ -11129,7 +11183,8 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
       }
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-lodha-camelot-kharadi",
@@ -11236,7 +11291,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-lodha-altero-wakad",
@@ -11343,7 +11399,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-lodha-estilo-kharadi",
@@ -11450,7 +11507,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-lodha-belmondo",
@@ -11559,7 +11617,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Lonavala"
   },
   {
     "id": "p-lodha-magnus-hinjewadi",
@@ -11666,7 +11725,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-lodha-massimo-baner",
@@ -11773,7 +11833,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-lodha-one-bund-garden",
@@ -11881,7 +11942,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-lodha-palais-kothrud",
@@ -11988,7 +12050,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-lodha-sylvan-hinjewadi",
@@ -12095,7 +12158,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-lodha-elise-worli",
@@ -12202,7 +12266,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Mumbai"
   },
   {
     "id": "p-lodha-altamount",
@@ -12310,7 +12375,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Mumbai"
   },
   {
     "id": "p-lodha-bellevue-mahalaxmi",
@@ -12417,7 +12483,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Mumbai"
   },
   {
     "id": "p-lodha-amara-thane",
@@ -12525,7 +12592,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Mumbai"
   },
   {
     "id": "p-lodha-upper-thane",
@@ -12633,7 +12701,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Kotak Mahindra Bank"
-    ]
+    ],
+    "city": "Mumbai"
   },
   {
     "id": "p-godrej-meadows-mahalunge",
@@ -12740,7 +12809,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-godrej-park-springs-manjari",
@@ -12847,7 +12917,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-godrej-serene-mamurdi",
@@ -12954,7 +13025,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-godrej-green-cove-mahalunge",
@@ -13062,7 +13134,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-godrej-park-greens-mamurdi",
@@ -13169,7 +13242,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
-    ]
+    ],
+    "city": "Pune"
   },
   {
     "id": "p-godrej-hillview-estate-expressway",
@@ -13276,7 +13350,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
-    ]
+    ],
+    "city": "Lonavala"
   },
   {
     "id": "p-godrej-nurture-bhandup",
@@ -13383,7 +13458,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
-    ]
+    ],
+    "city": "Mumbai"
   },
   {
     "id": "p-godrej-urban-park-chandivali",
@@ -13491,7 +13567,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
-    ]
+    ],
+    "city": "Mumbai"
   },
   {
     "id": "p-godrej-bandra-bay",
@@ -13599,7 +13676,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
-    ]
+    ],
+    "city": "Mumbai"
   },
   {
     "id": "p-golf-crest-godrej-city-panvel",
@@ -13707,7 +13785,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
-    ]
+    ],
+    "city": "Mumbai"
   },
   {
     "id": "p-godrej-upavan-thane-extension",
@@ -13814,7 +13893,8 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
-    ]
+    ],
+    "city": "Mumbai"
   },
   {
     "id": "p-godrej-prime-chembur",
@@ -13921,6 +14001,2935 @@ export const PROJECTS: Project[] = [
       "ICICI Bank",
       "Axis Bank",
       "Bank of Baroda"
+    ],
+    "city": "Mumbai"
+  },
+  {
+    "id": "p-earth-one-by-vtp-luxe-mahalunge",
+    "title": "Earth One by VTP Luxe",
+    "slug": "earth-one-by-vtp-luxe-mahalunge",
+    "builderId": "b-vtp",
+    "location": "Mahalunge, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b982.00 L - \u20b91.85 Cr",
+    "exactPrice": "\u20b982.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "765 - 820 sq.ft",
+        "priceRange": "\u20b982.00 L - \u20b992.00 L"
+      },
+      {
+        "type": "3 BHK Premium",
+        "carpetArea": "1045 - 1180 sq.ft",
+        "priceRange": "\u20b91.15 Cr - \u20b91.35 Cr"
+      },
+      {
+        "type": "4 BHK Grand Luxe",
+        "carpetArea": "1580 - 1850 sq.ft",
+        "priceRange": "\u20b91.65 Cr - \u20b91.85 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.563,
+    "lng": 73.742,
+    "reraId": "P5210005182",
+    "totalAcres": "10.0 Acres Riverfront Township",
+    "totalFloors": "5 Iconic Towers (G+34 Floors)",
+    "floorsAndAcres": "10.0 Acres Riverfront Township \u2022 5 Iconic Towers (G+34 Floors)",
+    "description": "Earth One by VTP Luxe in Mahalunge Pune offers riverside architectural excellence, maximum livable area (MLA) layouts, 5-tier club indulgence, and seamless transit to Hinjewadi Phase 1.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Earth One by VTP Luxe?",
+        "answer": "Earth One by VTP Luxe is approved under MahaRERA registration number P5210005182. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at Earth One by VTP Luxe?",
+        "answer": "Earth One by VTP Luxe offers 2 BHK, 3 BHK, 4 BHK with carpet sizes ranging across 765 - 820 sq.ft and starting at an exact price of \u20b982.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for Earth One by VTP Luxe?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for Earth One by VTP Luxe?",
+        "answer": "The scheduled possession date for Earth One by VTP Luxe is Dec 2026."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/earth-one-by-vtp-luxe-mahalunge-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.563,73.742&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-monarque-hinjawadi",
+    "title": "VTP Monarque",
+    "slug": "vtp-monarque-hinjawadi",
+    "builderId": "b-vtp",
+    "location": "Hinjewadi Phase 1, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b978.00 L - \u20b91.55 Cr",
+    "exactPrice": "\u20b978.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "745 - 790 sq.ft",
+        "priceRange": "\u20b978.00 L - \u20b986.00 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1025 - 1150 sq.ft",
+        "priceRange": "\u20b91.10 Cr - \u20b91.28 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "reraId": "P5210004984",
+    "totalAcres": "7.5 Acres",
+    "totalFloors": "4 Towers (G+32 Floors)",
+    "floorsAndAcres": "7.5 Acres \u2022 4 Towers (G+32 Floors)",
+    "description": "Monarque by VTP Luxe in Hinjewadi Phase 1 offers royal high-rise homes right next to Infosys Circle with smart-home automation and Olympic-scale sporting amenities.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-monarque-hinjawadi-pune/Monarque_Master_Plan_27199f1f86.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Monarque?",
+        "answer": "VTP Monarque is approved under MahaRERA registration number P5210004984. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Monarque?",
+        "answer": "VTP Monarque offers 2 BHK, 3 BHK with carpet sizes ranging across 745 - 790 sq.ft and starting at an exact price of \u20b978.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Monarque?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Monarque?",
+        "answer": "The scheduled possession date for VTP Monarque is June 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-monarque-hinjawadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5913,73.7389&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-aurelia-kharadi",
+    "title": "VTP Aurelia",
+    "slug": "vtp-aurelia-kharadi",
+    "builderId": "b-vtp",
+    "location": "Kharadi, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b989.00 L - \u20b91.65 Cr",
+    "exactPrice": "\u20b989.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK MLA",
+        "carpetArea": "775 - 830 sq.ft",
+        "priceRange": "\u20b989.00 L - \u20b998.00 L"
+      },
+      {
+        "type": "3 BHK MLA",
+        "carpetArea": "1080 - 1240 sq.ft",
+        "priceRange": "\u20b91.25 Cr - \u20b91.45 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5529,
+    "lng": 73.9416,
+    "reraId": "P5210005540",
+    "totalAcres": "6.8 Acres",
+    "totalFloors": "G+30 Floors",
+    "floorsAndAcres": "6.8 Acres \u2022 G+30 Floors",
+    "description": "VTP Aurelia at Township Codename Pegasus in Kharadi is a benchmark in high-end living with heated swimming pools, grand clubhouse, and quick access to EON Free Zone.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-aurelia-kharadi-pune/Aurelia_Master_Plan_0a37b12d7c.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Aurelia?",
+        "answer": "VTP Aurelia is approved under MahaRERA registration number P5210005540. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Aurelia?",
+        "answer": "VTP Aurelia offers 2 BHK, 3 BHK with carpet sizes ranging across 775 - 830 sq.ft and starting at an exact price of \u20b989.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Aurelia?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Aurelia?",
+        "answer": "The scheduled possession date for VTP Aurelia is Dec 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-aurelia-kharadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5529,73.9416&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-altamira-kharadi",
+    "title": "VTP Altamira",
+    "slug": "vtp-altamira-kharadi",
+    "builderId": "b-vtp",
+    "location": "Kharadi, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b985.00 L - \u20b91.48 Cr",
+    "exactPrice": "\u20b985.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "750 - 810 sq.ft",
+        "priceRange": "\u20b985.00 L - \u20b994.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1040 - 1160 sq.ft",
+        "priceRange": "\u20b91.18 Cr - \u20b91.35 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5535,
+    "lng": 73.9425,
+    "reraId": "P5210005181",
+    "totalAcres": "5.5 Acres",
+    "totalFloors": "G+29 Floors",
+    "floorsAndAcres": "5.5 Acres \u2022 G+29 Floors",
+    "description": "VTP Altamira brings Spanish-inspired elegance to Kharadi Pune with high-ceiling residences, landscaped central courtyard, and designer podium amenities.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-altamira-kharadi-pune/Altamira_Master_Plan_166b88523c.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Altamira?",
+        "answer": "VTP Altamira is approved under MahaRERA registration number P5210005181. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Altamira?",
+        "answer": "VTP Altamira offers 2 BHK, 3 BHK with carpet sizes ranging across 750 - 810 sq.ft and starting at an exact price of \u20b985.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Altamira?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Altamira?",
+        "answer": "The scheduled possession date for VTP Altamira is June 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-altamira-kharadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5535,73.9425&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-velvet-villas-by-vtp-luxe-kharadi",
+    "title": "Velvet Villas by VTP Luxe",
+    "slug": "velvet-villas-by-vtp-luxe-kharadi",
+    "builderId": "b-vtp",
+    "location": "Kharadi, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b93.50 Cr - \u20b96.80 Cr",
+    "exactPrice": "\u20b93.50 Cr",
+    "configurations": [
+      "4 BHK Villa",
+      "5 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK Signature Villa",
+        "carpetArea": "3200 - 3800 sq.ft",
+        "priceRange": "\u20b93.50 Cr - \u20b94.50 Cr"
+      },
+      {
+        "type": "5 BHK Imperial Villa",
+        "carpetArea": "4500 - 5400 sq.ft",
+        "priceRange": "\u20b95.20 Cr - \u20b96.80 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.554,
+    "lng": 73.945,
+    "reraId": "P5210005241",
+    "totalAcres": "12.0 Acres Gated Villa Enclave",
+    "totalFloors": "G+2 Private Villas with Lift",
+    "floorsAndAcres": "12.0 Acres Gated Villa Enclave \u2022 G+2 Private Villas with Lift",
+    "description": "Velvet Villas by VTP Luxe is Pune's ultimate private sanctuary offering custom luxury villas with personal elevators, private swimming pools, and manicured lawns in Kharadi.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/velvet-villas-by-vtp-luxe-kharadi-pune/Velvet_Villas_Master_Plan_8c72834b1a.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Velvet Villas by VTP Luxe?",
+        "answer": "Velvet Villas by VTP Luxe is approved under MahaRERA registration number P5210005241. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at Velvet Villas by VTP Luxe?",
+        "answer": "Velvet Villas by VTP Luxe offers 4 BHK Villa, 5 BHK Villa with carpet sizes ranging across 3200 - 3800 sq.ft and starting at an exact price of \u20b93.50 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for Velvet Villas by VTP Luxe?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for Velvet Villas by VTP Luxe?",
+        "answer": "The scheduled possession date for Velvet Villas by VTP Luxe is Dec 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/velvet-villas-by-vtp-luxe-kharadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.554,73.945&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-volare-hinjawadi",
+    "title": "VTP Volare",
+    "slug": "vtp-volare-hinjawadi",
+    "builderId": "b-vtp",
+    "location": "Hinjewadi Phase 1, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b975.00 L - \u20b91.35 Cr",
+    "exactPrice": "\u20b975.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "720 - 785 sq.ft",
+        "priceRange": "\u20b975.00 L - \u20b984.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "990 - 1120 sq.ft",
+        "priceRange": "\u20b91.05 Cr - \u20b91.22 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5905,
+    "lng": 73.737,
+    "reraId": "P5210004737",
+    "totalAcres": "6.0 Acres",
+    "totalFloors": "G+30 Floors",
+    "floorsAndAcres": "6.0 Acres \u2022 G+30 Floors",
+    "description": "VTP Volare in Hinjewadi Phase 1 provides state-of-the-art tech living for IT executives, featuring smart digital locks, home automation, and 24x7 fitness zones.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Volare?",
+        "answer": "VTP Volare is approved under MahaRERA registration number P5210004737. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Volare?",
+        "answer": "VTP Volare offers 2 BHK, 3 BHK with carpet sizes ranging across 720 - 785 sq.ft and starting at an exact price of \u20b975.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Volare?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Volare?",
+        "answer": "The scheduled possession date for VTP Volare is June 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-volare-hinjawadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5905,73.737&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-verve-baner-sus",
+    "title": "VTP Verve",
+    "slug": "vtp-verve-baner-sus",
+    "builderId": "b-vtp",
+    "location": "Baner-Sus Road, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b988.00 L - \u20b91.52 Cr",
+    "exactPrice": "\u20b988.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "760 - 825 sq.ft",
+        "priceRange": "\u20b988.00 L - \u20b996.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1050 - 1200 sq.ft",
+        "priceRange": "\u20b91.22 Cr - \u20b91.40 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.558,
+    "lng": 73.765,
+    "reraId": "P5210004731",
+    "totalAcres": "5.0 Acres",
+    "totalFloors": "G+28 Floors",
+    "floorsAndAcres": "5.0 Acres \u2022 G+28 Floors",
+    "description": "VTP Verve on Baner-Sus Road combines picturesque hill views with modern urban comfort, featuring high-speed elevators, infinity swimming pool, and sky observation deck.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-verve-baner-sus-pune/Verve_Master_Plan_4b72183c9a.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Verve?",
+        "answer": "VTP Verve is approved under MahaRERA registration number P5210004731. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Verve?",
+        "answer": "VTP Verve offers 2 BHK, 3 BHK with carpet sizes ranging across 760 - 825 sq.ft and starting at an exact price of \u20b988.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Verve?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Verve?",
+        "answer": "The scheduled possession date for VTP Verve is Dec 2026."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-verve-baner-sus-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.558,73.765&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-cielo-bavdhan",
+    "title": "VTP Cielo",
+    "slug": "vtp-cielo-bavdhan",
+    "builderId": "b-vtp",
+    "location": "Bavdhan, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b995.00 L - \u20b91.95 Cr",
+    "exactPrice": "\u20b995.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "780 - 840 sq.ft",
+        "priceRange": "\u20b995.00 L - \u20b91.05 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 - 1280 sq.ft",
+        "priceRange": "\u20b91.35 Cr - \u20b91.55 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1650 - 1880 sq.ft",
+        "priceRange": "\u20b91.80 Cr - \u20b91.95 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "March 2027",
+    "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5134,
+    "lng": 73.7742,
+    "reraId": "P5210004584",
+    "totalAcres": "6.2 Acres",
+    "totalFloors": "G+27 Floors",
+    "floorsAndAcres": "6.2 Acres \u2022 G+27 Floors",
+    "description": "VTP Cielo in Bavdhan is nestled amidst lush green hills with clean air and great connectivity to Kothrud and the Pune-Bangalore Highway.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-cielo-bavdhan-pune/Cielo_Master_Plan_5a82741b2c.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Cielo?",
+        "answer": "VTP Cielo is approved under MahaRERA registration number P5210004584. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Cielo?",
+        "answer": "VTP Cielo offers 2 BHK, 3 BHK, 4 BHK with carpet sizes ranging across 780 - 840 sq.ft and starting at an exact price of \u20b995.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Cielo?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Cielo?",
+        "answer": "The scheduled possession date for VTP Cielo is March 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-cielo-bavdhan-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5134,73.7742&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-euphoria-kharadi",
+    "title": "VTP Euphoria",
+    "slug": "vtp-euphoria-kharadi",
+    "builderId": "b-vtp",
+    "location": "Kharadi, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b958.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b958.00 L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "480 - 520 sq.ft",
+        "priceRange": "\u20b958.00 L - \u20b964.00 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "720 - 790 sq.ft",
+        "priceRange": "\u20b978.00 L - \u20b988.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1010 - 1140 sq.ft",
+        "priceRange": "\u20b91.05 Cr - \u20b91.15 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.552,
+    "lng": 73.94,
+    "reraId": "P5210003182",
+    "totalAcres": "8.8 Acres",
+    "totalFloors": "G+30 Floors",
+    "floorsAndAcres": "8.8 Acres \u2022 G+30 Floors",
+    "description": "VTP Euphoria in Kharadi offers vibrant community living with over 30 lifestyle amenities, a central sports arena, and kid-friendly learning zones.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-euphoria-kharadi-pune/Euphoria_Master_Plan_9c82613d4b.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Euphoria?",
+        "answer": "VTP Euphoria is approved under MahaRERA registration number P5210003182. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Euphoria?",
+        "answer": "VTP Euphoria offers 1 BHK, 2 BHK, 3 BHK with carpet sizes ranging across 480 - 520 sq.ft and starting at an exact price of \u20b958.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Euphoria?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Euphoria?",
+        "answer": "The scheduled possession date for VTP Euphoria is Dec 2026."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-euphoria-kharadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.552,73.94&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-sierra-baner-sus",
+    "title": "VTP Sierra",
+    "slug": "vtp-sierra-baner-sus",
+    "builderId": "b-vtp",
+    "location": "Baner-Sus Road, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b982.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b982.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "745 - 810 sq.ft",
+        "priceRange": "\u20b982.00 L - \u20b990.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1020 - 1180 sq.ft",
+        "priceRange": "\u20b91.15 Cr - \u20b91.35 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5575,
+    "lng": 73.764,
+    "reraId": "P5210002677",
+    "totalAcres": "6.5 Acres",
+    "totalFloors": "G+28 Floors",
+    "floorsAndAcres": "6.5 Acres \u2022 G+28 Floors",
+    "description": "VTP Sierra on Baner-Sus Road provides breathtaking mountain horizons, 3-tier clubhouse amenities, and quick transit to Balewadi High Street.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-sierra-baner-sus-pune/Sierra_Master_Plan_6b71829c3a.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Sierra?",
+        "answer": "VTP Sierra is approved under MahaRERA registration number P5210002677. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Sierra?",
+        "answer": "VTP Sierra offers 2 BHK, 3 BHK with carpet sizes ranging across 745 - 810 sq.ft and starting at an exact price of \u20b982.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Sierra?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Sierra?",
+        "answer": "The scheduled possession date for VTP Sierra is June 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-sierra-baner-sus-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5575,73.764&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-flamante-by-vtp-luxe-kharadi",
+    "title": "Flamante by VTP Luxe",
+    "slug": "flamante-by-vtp-luxe-kharadi",
+    "builderId": "b-vtp",
+    "location": "Kharadi, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b91.25 Cr - \u20b92.75 Cr",
+    "exactPrice": "\u20b91.25 Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxe",
+        "carpetArea": "820 - 890 sq.ft",
+        "priceRange": "\u20b91.25 Cr - \u20b91.40 Cr"
+      },
+      {
+        "type": "3 BHK Luxe",
+        "carpetArea": "1180 - 1350 sq.ft",
+        "priceRange": "\u20b91.65 Cr - \u20b91.95 Cr"
+      },
+      {
+        "type": "4 BHK Luxe",
+        "carpetArea": "1720 - 2100 sq.ft",
+        "priceRange": "\u20b92.30 Cr - \u20b92.75 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5532,
+    "lng": 73.943,
+    "reraId": "P5210005631",
+    "totalAcres": "7.0 Acres",
+    "totalFloors": "G+33 Floors",
+    "floorsAndAcres": "7.0 Acres \u2022 G+33 Floors",
+    "description": "Flamante by VTP Luxe is an opulent address in Kharadi Pune featuring Italian marble flooring, high-end fittings, private decks, and a sky observatory.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/flamante-by-vtp-luxe-kharadi-pune/Flamante_Master_Plan_7a81294c5d.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Flamante by VTP Luxe?",
+        "answer": "Flamante by VTP Luxe is approved under MahaRERA registration number P5210005631. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at Flamante by VTP Luxe?",
+        "answer": "Flamante by VTP Luxe offers 2 BHK, 3 BHK, 4 BHK with carpet sizes ranging across 820 - 890 sq.ft and starting at an exact price of \u20b91.25 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for Flamante by VTP Luxe?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for Flamante by VTP Luxe?",
+        "answer": "The scheduled possession date for Flamante by VTP Luxe is Dec 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/flamante-by-vtp-luxe-kharadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5532,73.943&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-aethereus-mahalunge",
+    "title": "VTP Aethereus",
+    "slug": "vtp-aethereus-mahalunge",
+    "builderId": "b-vtp",
+    "location": "Mahalunge, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b969.00 L - \u20b91.28 Cr",
+    "exactPrice": "\u20b969.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 - 775 sq.ft",
+        "priceRange": "\u20b969.00 L - \u20b978.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "980 - 1110 sq.ft",
+        "priceRange": "\u20b999.00 L - \u20b91.18 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5638,
+    "lng": 73.7435,
+    "reraId": "P5210002837",
+    "totalAcres": "8.0 Acres",
+    "totalFloors": "G+31 Floors",
+    "floorsAndAcres": "8.0 Acres \u2022 G+31 Floors",
+    "description": "VTP Aethereus offers modern township living with an integrated high-street retail promenade, health spa, and riverside lifestyle amenities in Mahalunge.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-aethereus-high-street-mahalunge-pune/Aethereus_Master_Plan_3b81729c1a.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Aethereus?",
+        "answer": "VTP Aethereus is approved under MahaRERA registration number P5210002837. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Aethereus?",
+        "answer": "VTP Aethereus offers 2 BHK, 3 BHK with carpet sizes ranging across 710 - 775 sq.ft and starting at an exact price of \u20b969.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Aethereus?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Aethereus?",
+        "answer": "The scheduled possession date for VTP Aethereus is Dec 2026."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-aethereus-mahalunge-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5638,73.7435&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-altitude-wakad",
+    "title": "VTP Altitude",
+    "slug": "vtp-altitude-wakad",
+    "builderId": "b-vtp",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b982.00 L - \u20b91.80 Cr",
+    "exactPrice": "\u20b982.00 L",
+    "configurations": [
+      "Commercial Offices",
+      "Retail Shops"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Grade A Office",
+        "carpetArea": "450 - 950 sq.ft",
+        "priceRange": "\u20b982.00 L - \u20b91.35 Cr"
+      },
+      {
+        "type": "High Street Retail",
+        "carpetArea": "600 - 1400 sq.ft",
+        "priceRange": "\u20b91.20 Cr - \u20b91.80 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2026",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5985,
+    "lng": 73.768,
+    "reraId": "P5210003169",
+    "totalAcres": "3.5 Acres Commercial Landmark",
+    "totalFloors": "Iconic G+24 Commercial Tower",
+    "floorsAndAcres": "3.5 Acres Commercial Landmark \u2022 Iconic G+24 Commercial Tower",
+    "description": "VTP Altitude is Wakad's premier commercial high-rise tower offering Grade-A corporate offices, retail spaces, and conference facilities right on the Mumbai-Pune Expressway exit.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-altitude-wakad-pune/Altitude_Master_Plan_2a71829c4d.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Altitude?",
+        "answer": "VTP Altitude is approved under MahaRERA registration number P5210003169. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Altitude?",
+        "answer": "VTP Altitude offers Commercial Offices, Retail Shops with carpet sizes ranging across 450 - 950 sq.ft and starting at an exact price of \u20b982.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Altitude?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Altitude?",
+        "answer": "The scheduled possession date for VTP Altitude is June 2026."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-altitude-wakad-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5985,73.768&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-bellissimo-hinjewadi",
+    "title": "VTP Bellissimo",
+    "slug": "vtp-bellissimo-hinjewadi",
+    "builderId": "b-vtp",
+    "location": "Hinjewadi Phase 1, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b976.00 L - \u20b91.42 Cr",
+    "exactPrice": "\u20b976.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "730 - 795 sq.ft",
+        "priceRange": "\u20b976.00 L - \u20b985.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1015 - 1160 sq.ft",
+        "priceRange": "\u20b91.10 Cr - \u20b91.28 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.591,
+    "lng": 73.738,
+    "reraId": "P5210002813",
+    "totalAcres": "9.2 Acres",
+    "totalFloors": "G+32 Floors",
+    "floorsAndAcres": "9.2 Acres \u2022 G+32 Floors",
+    "description": "VTP Bellissimo in Hinjewadi Phase 1 features 3-side open residences with uninterrupted hill views, heated lap pool, and walking proximity to Wipro and Quadron IT Park.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-bellissimo-hinjewadi-pune/Bellissimo_Master_Plan_1a82937c5f.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Bellissimo?",
+        "answer": "VTP Bellissimo is approved under MahaRERA registration number P5210002813. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Bellissimo?",
+        "answer": "VTP Bellissimo offers 2 BHK, 3 BHK with carpet sizes ranging across 730 - 795 sq.ft and starting at an exact price of \u20b976.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Bellissimo?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Bellissimo?",
+        "answer": "The scheduled possession date for VTP Bellissimo is Dec 2026."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-bellissimo-hinjewadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.591,73.738&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-hilife-wakad",
+    "title": "VTP Hilife",
+    "slug": "vtp-hilife-wakad",
+    "builderId": "b-vtp",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b982.00 L - \u20b91.35 Cr",
+    "exactPrice": "\u20b982.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 - 800 sq.ft",
+        "priceRange": "\u20b982.00 L - \u20b991.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1030 - 1150 sq.ft",
+        "priceRange": "\u20b91.12 Cr - \u20b91.28 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.599,
+    "lng": 73.769,
+    "reraId": "P52100018274",
+    "totalAcres": "5.5 Acres",
+    "totalFloors": "G+22 Floors",
+    "floorsAndAcres": "5.5 Acres \u2022 G+22 Floors",
+    "description": "VTP Hilife in Wakad is a ready-to-move-in lifestyle landmark featuring double-height club lounge, swimming pool, and prime location off Dange Chowk.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-hilife-wakad-pune/Hilife_Master_Plan_5c82917d3b.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Hilife?",
+        "answer": "VTP Hilife is approved under MahaRERA registration number P52100018274. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Hilife?",
+        "answer": "VTP Hilife offers 2 BHK, 3 BHK with carpet sizes ranging across 735 - 800 sq.ft and starting at an exact price of \u20b982.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Hilife?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Hilife?",
+        "answer": "The scheduled possession date for VTP Hilife is Ready to Move."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-hilife-wakad-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.599,73.769&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-leonara-mahalunge",
+    "title": "VTP Leonara",
+    "slug": "vtp-leonara-mahalunge",
+    "builderId": "b-vtp",
+    "location": "Mahalunge, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b965.00 L - \u20b91.10 Cr",
+    "exactPrice": "\u20b965.00 L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "465 - 510 sq.ft",
+        "priceRange": "\u20b965.00 L - \u20b970.00 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "715 - 770 sq.ft",
+        "priceRange": "\u20b978.00 L - \u20b986.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "985 - 1100 sq.ft",
+        "priceRange": "\u20b998.00 L - \u20b91.10 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.562,
+    "lng": 73.741,
+    "reraId": "P52100019902",
+    "totalAcres": "100+ Acre Bluewaters Township",
+    "totalFloors": "G+28 Floors",
+    "floorsAndAcres": "100+ Acre Bluewaters Township \u2022 G+28 Floors",
+    "description": "VTP Leonara is an established ready community within Township Codename Bluewaters in Mahalunge, offering lush river promenades and cricket academy.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Leonara?",
+        "answer": "VTP Leonara is approved under MahaRERA registration number P52100019902. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Leonara?",
+        "answer": "VTP Leonara offers 1 BHK, 2 BHK, 3 BHK with carpet sizes ranging across 465 - 510 sq.ft and starting at an exact price of \u20b965.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Leonara?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Leonara?",
+        "answer": "The scheduled possession date for VTP Leonara is Ready to Move."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-leonara-mahalunge-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.562,73.741&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-belair-mahalunge",
+    "title": "VTP Belair",
+    "slug": "vtp-belair-mahalunge",
+    "builderId": "b-vtp",
+    "location": "Mahalunge, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b962.00 L - \u20b91.05 Cr",
+    "exactPrice": "\u20b962.00 L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "470 - 515 sq.ft",
+        "priceRange": "\u20b962.00 L - \u20b968.00 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 - 765 sq.ft",
+        "priceRange": "\u20b975.00 L - \u20b984.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "970 - 1080 sq.ft",
+        "priceRange": "\u20b995.00 L - \u20b91.05 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5625,
+    "lng": 73.7415,
+    "reraId": "P52100020331",
+    "totalAcres": "7.8 Acres",
+    "totalFloors": "G+26 Floors",
+    "floorsAndAcres": "7.8 Acres \u2022 G+26 Floors",
+    "description": "VTP Belair offers comfortable contemporary family residences surrounded by pristine river views and 75% open spaces in Mahalunge.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Belair?",
+        "answer": "VTP Belair is approved under MahaRERA registration number P52100020331. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Belair?",
+        "answer": "VTP Belair offers 1 BHK, 2 BHK, 3 BHK with carpet sizes ranging across 470 - 515 sq.ft and starting at an exact price of \u20b962.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Belair?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Belair?",
+        "answer": "The scheduled possession date for VTP Belair is Ready to Move."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-belair-mahalunge-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5625,73.7415&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-alpine-mahalunge",
+    "title": "VTP Alpine",
+    "slug": "vtp-alpine-mahalunge",
+    "builderId": "b-vtp",
+    "location": "Mahalunge, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b964.00 L - \u20b91.08 Cr",
+    "exactPrice": "\u20b964.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "715 - 775 sq.ft",
+        "priceRange": "\u20b964.00 L - \u20b974.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "980 - 1090 sq.ft",
+        "priceRange": "\u20b996.00 L - \u20b91.08 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5615,
+    "lng": 73.7405,
+    "reraId": "P52100020166",
+    "totalAcres": "6.0 Acres",
+    "totalFloors": "G+24 Floors",
+    "floorsAndAcres": "6.0 Acres \u2022 G+24 Floors",
+    "description": "VTP Alpine in Mahalunge Pune offers ready-possession homes with state-of-the-art gymnasium, multi-purpose hall, and jogging paths.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Alpine?",
+        "answer": "VTP Alpine is approved under MahaRERA registration number P52100020166. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Alpine?",
+        "answer": "VTP Alpine offers 2 BHK, 3 BHK with carpet sizes ranging across 715 - 775 sq.ft and starting at an exact price of \u20b964.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Alpine?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Alpine?",
+        "answer": "The scheduled possession date for VTP Alpine is Ready to Move."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-alpine-mahalunge-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5615,73.7405&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-cygnus-kharadi",
+    "title": "VTP Cygnus",
+    "slug": "vtp-cygnus-kharadi",
+    "builderId": "b-vtp",
+    "location": "Kharadi, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b972.00 L - \u20b91.28 Cr",
+    "exactPrice": "\u20b972.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "725 - 785 sq.ft",
+        "priceRange": "\u20b972.00 L - \u20b982.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "995 - 1120 sq.ft",
+        "priceRange": "\u20b91.05 Cr - \u20b91.22 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5515,
+    "lng": 73.939,
+    "reraId": "P52100021609",
+    "totalAcres": "6.5 Acres",
+    "totalFloors": "G+28 Floors",
+    "floorsAndAcres": "6.5 Acres \u2022 G+28 Floors",
+    "description": "VTP Cygnus at Township Codename Pegasus in Kharadi is a fully integrated residential development with retail arcade and wellness club.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-aurelia-kharadi-pune/Aurelia_Master_Plan_0a37b12d7c.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Cygnus?",
+        "answer": "VTP Cygnus is approved under MahaRERA registration number P52100021609. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Cygnus?",
+        "answer": "VTP Cygnus offers 2 BHK, 3 BHK with carpet sizes ranging across 725 - 785 sq.ft and starting at an exact price of \u20b972.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Cygnus?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Cygnus?",
+        "answer": "The scheduled possession date for VTP Cygnus is Ready to Move."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-cygnus-kharadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5515,73.939&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-vtp-beaumonde-kharadi",
+    "title": "VTP Beaumonde",
+    "slug": "vtp-beaumonde-kharadi",
+    "builderId": "b-vtp",
+    "location": "Kharadi, Pune",
+    "city": "Pune",
+    "priceRange": "\u20b992.00 L - \u20b91.75 Cr",
+    "exactPrice": "\u20b992.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxe",
+        "carpetArea": "780 - 845 sq.ft",
+        "priceRange": "\u20b992.00 L - \u20b91.02 Cr"
+      },
+      {
+        "type": "3 BHK Luxe",
+        "carpetArea": "1090 - 1260 sq.ft",
+        "priceRange": "\u20b91.32 Cr - \u20b91.55 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.5525,
+    "lng": 73.941,
+    "reraId": "P5210002939",
+    "totalAcres": "5.8 Acres",
+    "totalFloors": "G+30 Floors",
+    "floorsAndAcres": "5.8 Acres \u2022 G+30 Floors",
+    "description": "VTP Beaumonde in Kharadi Pune delivers premier lifestyle residences with temperature-controlled swimming pool, indoor sports lounge, and business pods.",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-altamira-kharadi-pune/Altamira_Master_Plan_166b88523c.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Pune Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for VTP Beaumonde?",
+        "answer": "VTP Beaumonde is approved under MahaRERA registration number P5210002939. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at VTP Beaumonde?",
+        "answer": "VTP Beaumonde offers 2 BHK, 3 BHK with carpet sizes ranging across 780 - 845 sq.ft and starting at an exact price of \u20b992.00 L."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for VTP Beaumonde?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for VTP Beaumonde?",
+        "answer": "The scheduled possession date for VTP Beaumonde is Dec 2026."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/vtp-beaumonde-kharadi-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.5525,73.941&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-villa-cerro-khopoli-lonavala",
+    "title": "Lodha Villa Cerro",
+    "slug": "lodha-villa-cerro-khopoli-lonavala",
+    "builderId": "b-lodha",
+    "location": "Khopoli Foothills, Lonavala",
+    "city": "Lonavala",
+    "priceRange": "\u20b92.85 Cr - \u20b96.50 Cr",
+    "exactPrice": "\u20b92.85 Cr",
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa",
+      "5 BHK Estate"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Valley Villa",
+        "carpetArea": "2400 - 2800 sq.ft",
+        "priceRange": "\u20b92.85 Cr - \u20b93.40 Cr"
+      },
+      {
+        "type": "4 BHK Forest Villa",
+        "carpetArea": "3200 - 3900 sq.ft",
+        "priceRange": "\u20b93.80 Cr - \u20b94.60 Cr"
+      },
+      {
+        "type": "5 BHK Private Estate",
+        "carpetArea": "4800 - 6200 sq.ft",
+        "priceRange": "\u20b95.20 Cr - \u20b96.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.7892,
+    "lng": 73.3421,
+    "reraId": "P52000054321",
+    "totalAcres": "50+ Acres Mountain Sanctuary",
+    "totalFloors": "G+1 Bespoke Valley Villas",
+    "floorsAndAcres": "50+ Acres Mountain Sanctuary \u2022 G+1 Bespoke Valley Villas",
+    "description": "Lodha Villa Cerro is an exclusive hill-station retreat nestled in the mist-clad Sahyadri valley between Lonavala and Khopoli, offering private plunge pools and valley terraces.",
+    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Lonavala Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Lodha Villa Cerro?",
+        "answer": "Lodha Villa Cerro is approved under MahaRERA registration number P52000054321. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at Lodha Villa Cerro?",
+        "answer": "Lodha Villa Cerro offers 3 BHK Villa, 4 BHK Villa, 5 BHK Estate with carpet sizes ranging across 2400 - 2800 sq.ft and starting at an exact price of \u20b92.85 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for Lodha Villa Cerro?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for Lodha Villa Cerro?",
+        "answer": "The scheduled possession date for Lodha Villa Cerro is Dec 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-villa-cerro-khopoli-lonavala-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.7892,73.3421&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-godrej-woodside-estate-lonavala",
+    "title": "Godrej Woodside Estate",
+    "slug": "godrej-woodside-estate-lonavala",
+    "builderId": "b-godrej",
+    "location": "Khalapur, Lonavala Corridor",
+    "city": "Lonavala",
+    "priceRange": "\u20b91.15 Cr - \u20b92.75 Cr",
+    "exactPrice": "\u20b91.15 Cr",
+    "configurations": [
+      "Villa Plot",
+      "Resort Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Villa Plot 1500 sq.ft",
+        "carpetArea": "1500 - 2200 sq.ft",
+        "priceRange": "\u20b91.15 Cr - \u20b91.65 Cr"
+      },
+      {
+        "type": "Estate Plot 2500 sq.ft",
+        "carpetArea": "2500 - 3800 sq.ft",
+        "priceRange": "\u20b91.85 Cr - \u20b92.75 Cr"
+      }
+    ],
+    "status": "New Launch",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.8123,
+    "lng": 73.3105,
+    "reraId": "P52000055123",
+    "totalAcres": "100+ Acres Forested Estate",
+    "totalFloors": "G+1 Plotted Villa Community",
+    "floorsAndAcres": "100+ Acres Forested Estate \u2022 G+1 Plotted Villa Community",
+    "description": "Godrej Woodside Estate along the Mumbai-Pune Expressway near Lonavala is an idyllic green township featuring a natural river stream, camping grounds, and grand clubhouse.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Lonavala Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Godrej Woodside Estate?",
+        "answer": "Godrej Woodside Estate is approved under MahaRERA registration number P52000055123. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at Godrej Woodside Estate?",
+        "answer": "Godrej Woodside Estate offers Villa Plot, Resort Villa with carpet sizes ranging across 1500 - 2200 sq.ft and starting at an exact price of \u20b91.15 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for Godrej Woodside Estate?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for Godrej Woodside Estate?",
+        "answer": "The scheduled possession date for Godrej Woodside Estate is Dec 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/godrej-woodside-estate-lonavala-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.8123,73.3105&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-lodha-alibaug-coastal-villas",
+    "title": "Lodha Alibaug",
+    "slug": "lodha-alibaug-coastal-villas",
+    "builderId": "b-lodha",
+    "location": "Awas Beach, Alibaug",
+    "city": "Alibaug",
+    "priceRange": "\u20b94.50 Cr - \u20b915.00 Cr",
+    "exactPrice": "\u20b94.50 Cr",
+    "configurations": [
+      "3 BHK Beach Villa",
+      "4 BHK Beach Villa",
+      "5 BHK Royal Manor"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Coastal Villa",
+        "carpetArea": "2600 - 3200 sq.ft",
+        "priceRange": "\u20b94.50 Cr - \u20b95.80 Cr"
+      },
+      {
+        "type": "4 BHK Royal Villa",
+        "carpetArea": "3800 - 4600 sq.ft",
+        "priceRange": "\u20b96.80 Cr - \u20b98.50 Cr"
+      },
+      {
+        "type": "5 BHK Beachfront Manor",
+        "carpetArea": "5500 - 7500 sq.ft",
+        "priceRange": "\u20b910.50 Cr - \u20b915.00 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.7758,
+    "lng": 72.8756,
+    "reraId": "P52000051189",
+    "totalAcres": "40+ Acres Beachside Sanctuary",
+    "totalFloors": "G+1 Bespoke Beach Villas",
+    "floorsAndAcres": "40+ Acres Beachside Sanctuary \u2022 G+1 Bespoke Beach Villas",
+    "description": "Lodha Alibaug near Awas Beach is Mumbai's most prestigious coastal sanctuary, providing private pool villas, coconut groves, speedboat dock access, and 5-star concierge services.",
+    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Alibaug Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Lodha Alibaug?",
+        "answer": "Lodha Alibaug is approved under MahaRERA registration number P52000051189. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at Lodha Alibaug?",
+        "answer": "Lodha Alibaug offers 3 BHK Beach Villa, 4 BHK Beach Villa, 5 BHK Royal Manor with carpet sizes ranging across 2600 - 3200 sq.ft and starting at an exact price of \u20b94.50 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for Lodha Alibaug?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for Lodha Alibaug?",
+        "answer": "The scheduled possession date for Lodha Alibaug is Dec 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/lodha-alibaug-coastal-villas-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.7758,72.8756&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+  {
+    "id": "p-abhinandan-lodha-alibaug-reserve",
+    "title": "Abhinandan Lodha Alibaug Reserve",
+    "slug": "abhinandan-lodha-alibaug-reserve",
+    "builderId": "b-lodha",
+    "location": "Mandwa Jetty Corridor, Alibaug",
+    "city": "Alibaug",
+    "priceRange": "\u20b91.45 Cr - \u20b93.80 Cr",
+    "exactPrice": "\u20b91.45 Cr",
+    "configurations": [
+      "Coastal Villa Plot",
+      "Beach Estate"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Coastal Plot 1800 sq.ft",
+        "carpetArea": "1800 - 2400 sq.ft",
+        "priceRange": "\u20b91.45 Cr - \u20b91.95 Cr"
+      },
+      {
+        "type": "Beach Estate 3000 sq.ft",
+        "carpetArea": "3000 - 4500 sq.ft",
+        "priceRange": "\u20b92.45 Cr - \u20b93.80 Cr"
+      }
+    ],
+    "status": "New Launch",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&q=80&w=1200",
+    "lat": 18.7905,
+    "lng": 72.885,
+    "reraId": "P52000053912",
+    "totalAcres": "60+ Acres Gated Coastal Parkland",
+    "totalFloors": "G+1 Custom Plotted Villas",
+    "floorsAndAcres": "60+ Acres Gated Coastal Parkland \u2022 G+1 Custom Plotted Villas",
+    "description": "The House of Abhinandan Lodha Alibaug Reserve offers prime 7-star branded land and villa estates just 15 minutes from the Mandwa RORO ferry terminal.",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
+    ],
+    "highlights": [
+      "100% Brokerage Free Direct Builder Sales Partner",
+      "Prime Alibaug Investment Opportunity",
+      "Pre-Sanctioned MahaRERA Clear Title Project",
+      "Zero Brokerage Builder-Direct Inventory & VIP Site Visit"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake Resistant RCC Shear Wall Structure (Seismic Zone III)"
+      },
+      {
+        "label": "Flooring",
+        "value": "Double Charged Vitrified Tiles in Living/Dining, Anti-Skid in Bathrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite Platform with Stainless Steel Sink, Water Purifier & Piped Gas"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Kohler / Jaquar CP & Sanitaryware with Solar Water Connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed FR Grade Copper Wiring with Modular Smart Switches"
+      },
+      {
+        "label": "Doors Windows",
+        "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA number for Abhinandan Lodha Alibaug Reserve?",
+        "answer": "Abhinandan Lodha Alibaug Reserve is approved under MahaRERA registration number P52000053912. Title certificates and layout approvals are fully sanctioned."
+      },
+      {
+        "question": "What are the available configurations and carpet area at Abhinandan Lodha Alibaug Reserve?",
+        "answer": "Abhinandan Lodha Alibaug Reserve offers Coastal Villa Plot, Beach Estate with carpet sizes ranging across 1800 - 2400 sq.ft and starting at an exact price of \u20b91.45 Cr."
+      },
+      {
+        "question": "Does PROPSMART charge any brokerage for Abhinandan Lodha Alibaug Reserve?",
+        "answer": "No. PROPSMART REALTY is a direct builder sales partner. You pay \u20b90 brokerage and get transparent builder prices, official documentation, and doorstep home loan assistance."
+      },
+      {
+        "question": "When will possession be handed over for Abhinandan Lodha Alibaug Reserve?",
+        "answer": "The scheduled possession date for Abhinandan Lodha Alibaug Reserve is June 2027."
+      }
+    ],
+    "brochureUrl": "https://propsmart.co.in/brochures/abhinandan-lodha-alibaug-reserve-brochure.pdf",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=18.7905,72.885&z=15&output=embed",
+    "approvedBanks": [
+      "State Bank of India (SBI)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
     ]
   }
 ];

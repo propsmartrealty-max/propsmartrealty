@@ -60,6 +60,7 @@ export interface Project {
   slug: string;
   builderId: string;
   location: string;
+  city?: 'Pune' | 'Mumbai' | 'Lonavala' | 'Alibaug' | string;
   priceRange: string;
   configurations: string[]; // e.g. "2 BHK", "3 BHK"
   configurationDetails?: { // Richer details for carpet area
@@ -130,6 +131,7 @@ export interface ProjectConfiguration {
 export interface Locality {
   id: string;
   name: string;
+  city?: 'Pune' | 'Mumbai' | 'Lonavala' | 'Alibaug' | string;
   image?: string;
   projectCount?: number;
   avgPriceSqft?: number;

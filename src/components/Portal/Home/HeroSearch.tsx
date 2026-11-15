@@ -19,11 +19,20 @@ const TABS = [
     { id: 'commercial', label: 'Commercial', icon: <Building className="w-4 h-4" /> },
 ];
 
+const HERO_CITIES = [
+    { id: 'Pune', label: 'Pune', badge: '88 Projects' },
+    { id: 'Mumbai', label: 'Mumbai', badge: '11 Projects' },
+    { id: 'Lonavala', label: 'Lonavala', badge: '4 Projects' },
+    { id: 'Alibaug', label: 'Alibaug', badge: '2 Projects' },
+];
+
 const HeroSearch = () => {
     const navigate = useNavigate();
     const [heroImages, setHeroImages] = useState<string[]>(DEFAULT_IMAGES);
     const [currentImage, setCurrentImage] = useState(0);
     const [activeTab, setActiveTab] = useState('buy');
+    const [selectedCity, setSelectedCity] = useState('Pune');
+    const [cityDropdownOpen, setCityDropdownOpen] = useState(false);
     const [searchQuery, setSearchQuery] = useState('');
     const [showSuggestions, setShowSuggestions] = useState(false);
 
@@ -74,9 +83,11 @@ const HeroSearch = () => {
 
     const handleSearch = (e: React.FormEvent) => {
         e.preventDefault();
-        if (searchQuery.trim()) {
-            navigate(`/search?q=${encodeURIComponent(searchQuery)}&type=${activeTab}`);
-        }
+        const params = new URLSearchParams();
+        if (searchQuery.trim()) params.append('q', searchQuery.trim());
+        if (selectedCity) params.append('city', selectedCity);
+        if (activeTab) params.append('type', activeTab);
+        navigate(`/search?${params.toString()}`);
     };
 
     return (
@@ -198,10 +209,43 @@ const HeroSearch = () => {
 
                             {/* Location Dropdown */}
                             <div className="w-full md:w-[28%] relative border-b md:border-b-0 md:border-r border-gray-100 pb-4 md:pb-0 md:pr-4 group">
-                                <label className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1 block group-hover:text-brand-500 transition-colors">City</label>
-                                <button type="button" className="flex justify-between items-center w-full text-slate-800 font-bold text-lg hover:text-brand-600 transition-colors">
-                                    Pune <ChevronDown className="w-4 h-4 text-gray-400 group-hover:text-brand-500 transition-colors" />
+                                <label className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1 block group-hover:text-brand-500 transition-colors">Select City</label>
+                                <button
+                                    type="button"
+                                    onClick={() => setCityDropdownOpen(!cityDropdownOpen)}
+                                    className="flex justify-between items-center w-full text-slate-800 font-bold text-lg hover:text-brand-600 transition-colors"
+                                >
+                                    <span>{selectedCity}</span>
+                                    <ChevronDown className={`w-4 h-4 text-gray-400 transition-transform ${cityDropdownOpen ? 'rotate-180 text-brand-600' : ''}`} />
                                 </button>
+
+                                {cityDropdownOpen && (
+                                    <div className="absolute top-[calc(100%+12px)] left-0 w-64 bg-white rounded-2xl shadow-xl border border-slate-100 p-2 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
+                                        <div className="text-[11px] font-black uppercase text-slate-400 px-3 py-1.5 tracking-wider">
+                                            Active Regions
+                                        </div>
+                                        {HERO_CITIES.map((c) => (
+                                            <button
+                                                key={c.id}
+                                                type="button"
+                                                onClick={() => {
+                                                    setSelectedCity(c.id);
+                                                    setCityDropdownOpen(false);
+                                                }}
+                                                className={`w-full flex items-center justify-between px-3 py-2 rounded-xl text-sm font-bold transition-colors ${
+                                                    selectedCity === c.id
+                                                        ? 'bg-brand-50 text-brand-700'
+                                                        : 'text-slate-700 hover:bg-slate-50'
+                                                }`}
+                                            >
+                                                <span>{c.label}</span>
+                                                <span className="text-[11px] font-bold text-slate-400 bg-slate-100 px-2 py-0.5 rounded-full">
+                                                    {c.badge}
+                                                </span>
+                                            </button>
+                                        ))}
+                                    </div>
+                                )}
                             </div>
 
                             {/* Text Input */}
