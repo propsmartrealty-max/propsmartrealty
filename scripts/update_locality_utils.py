@@ -1,7 +1,8 @@
 import json
 import re
 
-mock_data_path = 'punepropertyvloginside/src/data/mockData.ts'
+import os
+mock_data_path = 'src/data/mockData.ts' if os.path.exists('src/data/mockData.ts') else 'punepropertyvloginside/src/data/mockData.ts'
 with open(mock_data_path, 'r', encoding='utf-8') as f:
     content = f.read()
 
@@ -288,7 +289,8 @@ export const getCityZones = (city: string): CityZone[] => {{
 }};
 '''
 
-with open('punepropertyvloginside/src/utils/localityUtils.ts', 'w', encoding='utf-8') as f:
+out_path = 'src/utils/localityUtils.ts' if os.path.exists('src/utils') else 'punepropertyvloginside/src/utils/localityUtils.ts'
+with open(out_path, 'w', encoding='utf-8') as f:
     f.write(ts_content)
 
 print(f"Generated punepropertyvloginside/src/utils/localityUtils.ts with {len(locality_items)} localities.")

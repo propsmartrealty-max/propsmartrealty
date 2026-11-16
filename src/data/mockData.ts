@@ -2384,6 +2384,48 @@ export const LOCATIONS: Locality[] = [
     "description": "Centrally located urban hub immediately adjacent to Bandra-Kurla Complex (BKC) and Phoenix Marketcity.",
     "projectCount": 1,
     "count": 1
+  },
+  {
+    "id": "boat-club-road",
+    "name": "Boat Club Road",
+    "slug": "boat-club-road",
+    "city": "Pune",
+    "zone": "South & Central",
+    "isFeatured": true,
+    "projectCount": 8,
+    "avgPriceSqft": 18500,
+    "appreciation_rate": 9.5,
+    "image": "/images/localities/boat-club-road.svg",
+    "tagline": "Premier Ultra-Luxury Waterfront & Boulevard Residences",
+    "description": "Pune's most coveted ultra-prime residential corridor along the Mula-Mutha river, featuring elite private residences, diplomatic enclaves, and premier lifestyle connectivity."
+  },
+  {
+    "id": "khar-west",
+    "name": "Khar West",
+    "slug": "khar-west",
+    "city": "Mumbai",
+    "zone": "Western Suburbs",
+    "isFeatured": true,
+    "projectCount": 12,
+    "avgPriceSqft": 52000,
+    "appreciation_rate": 9.2,
+    "image": "/images/localities/khar-west.svg",
+    "tagline": "High-End Coastal Luxury & Boutique High-Street Haven",
+    "description": "Exclusive residential micro-market nestled between Bandra and Santacruz, celebrated for high-net-worth boutique residences, luxury dining, and sea-facing promenades."
+  },
+  {
+    "id": "dadar",
+    "name": "Dadar",
+    "slug": "dadar",
+    "city": "Mumbai",
+    "zone": "Central Suburbs",
+    "isFeatured": true,
+    "projectCount": 15,
+    "avgPriceSqft": 38000,
+    "appreciation_rate": 8.8,
+    "image": "/images/localities/dadar.svg",
+    "tagline": "Heritage Cultural Center & Trans-Harbour Gateway",
+    "description": "Historic heart of Mumbai offering unmatched multi-modal transit connectivity, Shivaji Park sea breeze, and modern luxury skyscraper redevelopments."
   }
 ];
 
@@ -3013,15 +3055,17 @@ export const BUILDERS: Builder[] = [
     "slug": "supreme-universal",
     "logo": "/images/builders/supreme.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
-    "description": "Supreme Universal is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
-    "establishedYear": 2005,
-    "totalProjects": 5,
-    "ongoingProjects": 3,
+    "description": "Supreme Universal is a premier luxury real estate developer with over 40 years of excellence across Mumbai, Pune, and Lonavala, renowned for architectural masterpieces, boutique luxury redevelopments, and landmark townships with 100% MahaRERA regulatory compliance.",
+    "establishedYear": 1982,
+    "totalProjects": 75,
+    "ongoingProjects": 14,
     "locations": [
-      "Pune"
+      "Pune",
+      "Mumbai",
+      "Lonavala"
     ],
-    "experience": 20,
-    "trustScore": 9.5,
+    "experience": 42,
+    "trustScore": 9.8,
     "isVerified": true
   },
   {
@@ -58818,7 +58862,9 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/81c2c2a9-64be-4320-aa47-8f9e4cb5425d/gallery/mrs2cui8-5tomwi.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/81c2c2a9-64be-4320-aa47-8f9e4cb5425d/gallery/mrs2cxbs-b6mctl.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/81c2c2a9-64be-4320-aa47-8f9e4cb5425d/gallery/mrs2czua-5aht4a.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/81c2c2a9-64be-4320-aa47-8f9e4cb5425d/gallery/mrs2d1d5-bee60x.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/81c2c2a9-64be-4320-aa47-8f9e4cb5425d/gallery/mrs2d1d5-bee60x.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/7209ca11-27c7-4930-b99c-5a1a8035c2a9/gallery/mvjem8cg-5amxai.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/55224d57-7e5c-4d5a-9c7e-7a0b1daccc14/gallery/mtodlxgq-2sr6af.webp"
     ],
     "description": "Sky Meridian, Tathawade - A premium residential project by Mansion Creators offering 2 & 3 BHK homes with modern amenities and excellent connectivity in PCMC, Pune.\nSky Meridian in Tathawade, Pune offers 2 & 3 BHK premium homes by Mansion Creators with modern amenities and excellent connectivity in the prime PCMC area.",
     "features": [
@@ -123811,5 +123857,2742 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-supreme-arthouse",
+    "title": "Supreme ArtHouse",
+    "slug": "supreme-arthouse-bandra",
+    "builderId": "b-supreme-universal",
+    "location": "Bandra West",
+    "city": "Mumbai",
+    "priceRange": "₹18.50 Cr - ₹32.00 Cr",
+    "exactPrice": "₹18.50 Cr",
+    "configurations": [
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "2850 sq.ft",
+        "priceRange": "₹18.50 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "4200 sq.ft",
+        "priceRange": "₹28.50 Cr"
+      },
+      {
+        "type": "5 BHK Duplex",
+        "carpetArea": "4500 sq.ft",
+        "priceRange": "₹32.00 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp"
+    ],
+    "description": "Supreme ArtHouse by Supreme Universal is an ultra-exclusive, low-density residential landmark situated off Carter Road and Pali Hill in Bandra West, Mumbai. Designed for high-net-worth connoisseurs, this bespoke art-inspired tower features full-floor palatial residences with private elevator access opening into personalized lobbies, soaring double-height ceilings, and uninterrupted panoramic vistas of the Arabian Sea.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Bandra West, Mumbai",
+      "Spacious RERA carpet area spanning 2,850 - 4,500 sq.ft",
+      "100% MahaRERA approved (P51800034891) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800034891",
+    "pricePerSqft": 64900,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme ArtHouse?",
+        "answer": "Supreme ArtHouse is officially registered under MahaRERA registration number P51800034891. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme ArtHouse?",
+        "answer": "Supreme ArtHouse offers 4 BHK, 5 BHK residences with authentic carpet areas ranging from 2,850 - 4,500 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme ArtHouse?",
+        "answer": "The starting price for Supreme ArtHouse is ₹18.50 Cr, with the full configuration price range spanning ₹18.50 Cr - ₹32.00 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme ArtHouse?",
+        "answer": "Supreme ArtHouse is scheduled for possession by Dec 2026. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxpgr-c4dyml.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxpik-7gnm7q.webp"
+    ],
+    "lat": 19.0607,
+    "lng": 72.8258
+  },
+  {
+    "id": "p-supreme-prana",
+    "title": "Supreme Prana",
+    "slug": "supreme-prana-pali-hill",
+    "builderId": "b-supreme-universal",
+    "location": "Bandra West",
+    "city": "Mumbai",
+    "priceRange": "₹12.50 Cr - ₹21.00 Cr",
+    "exactPrice": "₹12.50 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "₹12.50 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "2800 sq.ft",
+        "priceRange": "₹18.20 Cr"
+      },
+      {
+        "type": "4 BHK Penthouse",
+        "carpetArea": "3200 sq.ft",
+        "priceRange": "₹21.00 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+    ],
+    "description": "Supreme Prana is a tranquil luxury sanctuary situated on Pali Mala Road in the heart of historic Pali Hill, Bandra West. Surrounded by majestic heritage trees and a lush green canopy, each floor hosts only one sprawling residence featuring acoustic double-glazed curtain walls, Italian travertine marble, wraparound viewing decks, and integrated smart home automation.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Bandra West, Mumbai",
+      "Spacious RERA carpet area spanning 1,950 - 3,200 sq.ft",
+      "100% MahaRERA approved (P51800029845) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800029845",
+    "pricePerSqft": 64100,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Prana?",
+        "answer": "Supreme Prana is officially registered under MahaRERA registration number P51800029845. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Prana?",
+        "answer": "Supreme Prana offers 3 BHK, 4 BHK residences with authentic carpet areas ranging from 1,950 - 3,200 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Prana?",
+        "answer": "The starting price for Supreme Prana is ₹12.50 Cr, with the full configuration price range spanning ₹12.50 Cr - ₹21.00 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Prana?",
+        "answer": "Supreme Prana is scheduled for possession by Jun 2026. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/e2c03437-2fdf-4d51-8f6a-1f999e5b0898/gallery/ms4gavxs-fj36cp.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/e2c03437-2fdf-4d51-8f6a-1f999e5b0898/gallery/ms4gar5v-dvjab2.webp"
+    ],
+    "lat": 19.0628,
+    "lng": 72.8291
+  },
+  {
+    "id": "p-supreme-the-one",
+    "title": "Supreme The One",
+    "slug": "supreme-the-one-pali-hill",
+    "builderId": "b-supreme-universal",
+    "location": "Bandra West",
+    "city": "Mumbai",
+    "priceRange": "₹16.00 Cr - ₹28.00 Cr",
+    "exactPrice": "₹16.00 Cr",
+    "configurations": [
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "2600 sq.ft",
+        "priceRange": "₹16.00 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "3800 sq.ft",
+        "priceRange": "₹24.50 Cr"
+      },
+      {
+        "type": "5 BHK Penthouse",
+        "carpetArea": "4200 sq.ft",
+        "priceRange": "₹28.00 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+    ],
+    "description": "Supreme The One stands as the pinnacle of elite residential living on Pali Hill, Bandra West. Featuring cutting-edge architectural engineering, biometric private elevator entries, individual temperature-controlled plunge pools, and a rooftop sky club overlooking the Bandra coastline, this address is curated for Mumbai's top corporate leaders and celebrities.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Bandra West, Mumbai",
+      "Spacious RERA carpet area spanning 2,600 - 4,200 sq.ft",
+      "100% MahaRERA approved (P51800031204) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800031204",
+    "pricePerSqft": 61500,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme The One?",
+        "answer": "Supreme The One is officially registered under MahaRERA registration number P51800031204. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme The One?",
+        "answer": "Supreme The One offers 4 BHK, 5 BHK residences with authentic carpet areas ranging from 2,600 - 4,200 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme The One?",
+        "answer": "The starting price for Supreme The One is ₹16.00 Cr, with the full configuration price range spanning ₹16.00 Cr - ₹28.00 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme The One?",
+        "answer": "Supreme The One is scheduled for possession by Dec 2026. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2oge-cb3pj4.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2oia-o47yz.webp"
+    ],
+    "lat": 19.0645,
+    "lng": 72.8272
+  },
+  {
+    "id": "p-supreme-boulevard",
+    "title": "Supreme Boulevard",
+    "slug": "supreme-boulevard-chembur",
+    "builderId": "b-supreme-universal",
+    "location": "Chembur",
+    "city": "Mumbai",
+    "priceRange": "₹1.85 Cr - ₹4.50 Cr",
+    "exactPrice": "₹1.85 Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "740 sq.ft",
+        "priceRange": "₹1.85 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "₹2.85 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1650 sq.ft",
+        "priceRange": "₹4.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Mar 2027",
+    "image": "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+    "masterLayout": "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "description": "Supreme Boulevard is an expansive 6-acre resort-style residential enclave by Supreme Universal in Chembur, Mumbai. Blending lush botanical landscapes with high-rise luxury, the project offers 2, 3, and 4 BHK residences equipped with over 40 lifestyle amenities including a 25-meter infinity pool, multi-court sports arena, grand clubhouse, and quick connectivity to BKC via the Eastern Freeway.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Chembur, Mumbai",
+      "Spacious RERA carpet area spanning 740 - 1,650 sq.ft",
+      "100% MahaRERA approved (P51800028712) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800028712",
+    "pricePerSqft": 25000,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Boulevard?",
+        "answer": "Supreme Boulevard is officially registered under MahaRERA registration number P51800028712. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Boulevard?",
+        "answer": "Supreme Boulevard offers 2 BHK, 3 BHK, 4 BHK residences with authentic carpet areas ranging from 740 - 1,650 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Boulevard?",
+        "answer": "The starting price for Supreme Boulevard is ₹1.85 Cr, with the full configuration price range spanning ₹1.85 Cr - ₹4.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Boulevard?",
+        "answer": "Supreme Boulevard is scheduled for possession by Mar 2027. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/1c2a076f-5560-471a-b74d-4b10d2c36256/gallery/mvu4lg9d-8oqsko.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/1c2a076f-5560-471a-b74d-4b10d2c36256/gallery/mvu4lg73-afji4y.webp"
+    ],
+    "lat": 19.0522,
+    "lng": 72.8995
+  },
+  {
+    "id": "p-supreme-elenor",
+    "title": "Supreme Elenor",
+    "slug": "supreme-elenor-chembur",
+    "builderId": "b-supreme-universal",
+    "location": "Chembur",
+    "city": "Mumbai",
+    "priceRange": "₹1.65 Cr - ₹2.95 Cr",
+    "exactPrice": "₹1.65 Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "685 sq.ft",
+        "priceRange": "₹1.65 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹2.55 Cr"
+      },
+      {
+        "type": "3 BHK Large",
+        "carpetArea": "1180 sq.ft",
+        "priceRange": "₹2.95 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png"
+    ],
+    "description": "Supreme Elenor is a contemporary luxury residential tower in Deonar, Chembur. Designed with high-efficiency floor layouts, floor-to-ceiling glass fenestrations, double-height air-conditioned entrance lobby, and landscaped open-air podium deck, Elenor provides ready-to-move peace of mind in one of Eastern Mumbai's greenest residential micro-markets.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Chembur, Mumbai",
+      "Spacious RERA carpet area spanning 685 - 1,180 sq.ft",
+      "100% MahaRERA approved (P51800027541) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800027541",
+    "pricePerSqft": 24100,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Elenor?",
+        "answer": "Supreme Elenor is officially registered under MahaRERA registration number P51800027541. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Elenor?",
+        "answer": "Supreme Elenor offers 2 BHK, 3 BHK residences with authentic carpet areas ranging from 685 - 1,180 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Elenor?",
+        "answer": "The starting price for Supreme Elenor is ₹1.65 Cr, with the full configuration price range spanning ₹1.65 Cr - ₹2.95 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Elenor?",
+        "answer": "Supreme Elenor is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/efc5ccba-be62-4ab9-b3c3-5dd304d1bbc9/gallery/mvupv3y1-7refmk.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/efc5ccba-be62-4ab9-b3c3-5dd304d1bbc9/gallery/mvupv3zz-fm0xio.webp"
+    ],
+    "lat": 19.056,
+    "lng": 72.908
+  },
+  {
+    "id": "p-supreme-epitome",
+    "title": "Supreme Epitome",
+    "slug": "supreme-epitome-chembur",
+    "builderId": "b-supreme-universal",
+    "location": "Chembur",
+    "city": "Mumbai",
+    "priceRange": "₹3.60 Cr - ₹7.20 Cr",
+    "exactPrice": "₹3.60 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1420 sq.ft",
+        "priceRange": "₹3.60 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "2150 sq.ft",
+        "priceRange": "₹5.50 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "2800 sq.ft",
+        "priceRange": "₹7.20 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg"
+    ],
+    "description": "Supreme Epitome is an exclusive, large-format luxury residential tower situated in prime Chembur. Offering signature 3, 4, and 5 BHK expansive residences with private elevators, sky lounge, fitness studio, and infinity terrace, Epitome is an established benchmark for discerning families seeking generous living spaces and premium central connectivity.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Chembur, Mumbai",
+      "Spacious RERA carpet area spanning 1,420 - 2,800 sq.ft",
+      "100% MahaRERA approved (P51800026319) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800026319",
+    "pricePerSqft": 25400,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Epitome?",
+        "answer": "Supreme Epitome is officially registered under MahaRERA registration number P51800026319. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Epitome?",
+        "answer": "Supreme Epitome offers 3 BHK, 4 BHK, 5 BHK residences with authentic carpet areas ranging from 1,420 - 2,800 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Epitome?",
+        "answer": "The starting price for Supreme Epitome is ₹3.60 Cr, with the full configuration price range spanning ₹3.60 Cr - ₹7.20 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Epitome?",
+        "answer": "Supreme Epitome is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://www.koltepatil.com/assets/uploads/overview/17847862141319131306.jpg",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/11e66687-a63a-4a5f-b79c-573433564fb2/gallery/mrxrymkw-5s6utt.webp"
+    ],
+    "lat": 19.061,
+    "lng": 72.9025
+  },
+  {
+    "id": "p-supreme-signature",
+    "title": "Supreme Signature",
+    "slug": "supreme-signature-bandra",
+    "builderId": "b-supreme-universal",
+    "location": "Bandra West",
+    "city": "Mumbai",
+    "priceRange": "₹9.50 Cr - ₹15.80 Cr",
+    "exactPrice": "₹9.50 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1550 sq.ft",
+        "priceRange": "₹9.50 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "2200 sq.ft",
+        "priceRange": "₹13.80 Cr"
+      },
+      {
+        "type": "4 BHK Large",
+        "carpetArea": "2450 sq.ft",
+        "priceRange": "₹15.80 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp"
+    ],
+    "description": "Supreme Signature is an intimate boutique residential address near Union Park in Bandra West. With only two residences per floor, the development offers unrivaled privacy, Italian marble interiors, designer German sanitary fittings, acoustic glass facades, and a rooftop sky terrace with Arabian Sea views.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Bandra West, Mumbai",
+      "Spacious RERA carpet area spanning 1,550 - 2,450 sq.ft",
+      "100% MahaRERA approved (P51800022415) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800022415",
+    "pricePerSqft": 61300,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Signature?",
+        "answer": "Supreme Signature is officially registered under MahaRERA registration number P51800022415. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Signature?",
+        "answer": "Supreme Signature offers 3 BHK, 4 BHK residences with authentic carpet areas ranging from 1,550 - 2,450 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Signature?",
+        "answer": "The starting price for Supreme Signature is ₹9.50 Cr, with the full configuration price range spanning ₹9.50 Cr - ₹15.80 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Signature?",
+        "answer": "Supreme Signature is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/cd6d53c1-cdb6-454a-b6d2-2a4fc40a4a86/gallery/mwbydpve-96ynpd.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/2b8f970d-6ab2-4a1b-99dd-e5ca6ba33dd0/gallery/ms4ksnxm-c0g7p.webp"
+    ],
+    "lat": 19.0682,
+    "lng": 72.8315
+  },
+  {
+    "id": "p-supreme-19",
+    "title": "Supreme 19",
+    "slug": "supreme-19-andheri-west",
+    "builderId": "b-supreme-universal",
+    "location": "Andheri West",
+    "city": "Mumbai",
+    "priceRange": "₹1.75 Cr - ₹2.95 Cr",
+    "exactPrice": "₹1.75 Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "620 sq.ft",
+        "priceRange": "₹1.75 Cr"
+      },
+      {
+        "type": "2 BHK Large",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "₹2.10 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹2.95 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+    "masterLayout": "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+    ],
+    "description": "Supreme 19 is an ultra-modern 19-storey residential tower in Oshiwara, Andheri West. Situated minutes from Lokhandwala Complex and the Western Express Highway, Supreme 19 features automated multi-level puzzle parking, rooftop infinity fitness pavilion, and thoughtfully planned 2 and 3 BHK homes.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Andheri West, Mumbai",
+      "Spacious RERA carpet area spanning 620 - 1,050 sq.ft",
+      "100% MahaRERA approved (P51800021980) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800021980",
+    "pricePerSqft": 28200,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme 19?",
+        "answer": "Supreme 19 is officially registered under MahaRERA registration number P51800021980. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme 19?",
+        "answer": "Supreme 19 offers 2 BHK, 3 BHK residences with authentic carpet areas ranging from 620 - 1,050 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme 19?",
+        "answer": "The starting price for Supreme 19 is ₹1.75 Cr, with the full configuration price range spanning ₹1.75 Cr - ₹2.95 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme 19?",
+        "answer": "Supreme 19 is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4171187c-4154-4224-bb36-819a03add6a9/gallery/mtsfdc4f-nx7l2.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4171187c-4154-4224-bb36-819a03add6a9/gallery/mtsfd6jj-45jf27.webp"
+    ],
+    "lat": 19.1415,
+    "lng": 72.8335
+  },
+  {
+    "id": "p-supreme-corner-view",
+    "title": "Supreme Corner View",
+    "slug": "supreme-corner-view-bandra",
+    "builderId": "b-supreme-universal",
+    "location": "Bandra West",
+    "city": "Mumbai",
+    "priceRange": "₹8.80 Cr - ₹14.50 Cr",
+    "exactPrice": "₹8.80 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1450 sq.ft",
+        "priceRange": "₹8.80 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "2050 sq.ft",
+        "priceRange": "₹12.80 Cr"
+      },
+      {
+        "type": "4 BHK Large",
+        "carpetArea": "2250 sq.ft",
+        "priceRange": "₹14.50 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+    ],
+    "description": "Supreme Corner View is a prestigious residential redevelopment on 24th Road, Bandra West. Boasting three-side open corner layouts, excellent cross-ventilation, double-height reception lobby, and private mechanised parking, this project caters to high-profile families seeking a quintessential Bandra lifestyle.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Bandra West, Mumbai",
+      "Spacious RERA carpet area spanning 1,450 - 2,250 sq.ft",
+      "100% MahaRERA approved (P51800024108) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800024108",
+    "pricePerSqft": 60700,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Corner View?",
+        "answer": "Supreme Corner View is officially registered under MahaRERA registration number P51800024108. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Corner View?",
+        "answer": "Supreme Corner View offers 3 BHK, 4 BHK residences with authentic carpet areas ranging from 1,450 - 2,250 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Corner View?",
+        "answer": "The starting price for Supreme Corner View is ₹8.80 Cr, with the full configuration price range spanning ₹8.80 Cr - ₹14.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Corner View?",
+        "answer": "Supreme Corner View is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/a411bc50-3b7f-4951-9ae1-80c0863adb52/gallery/mvgyrksi-7mwzph.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ade080ee-6bd8-4ea7-b8c7-66a937f7b80e/gallery/mttz63o6-30e3b.webp"
+    ],
+    "lat": 19.0635,
+    "lng": 72.834
+  },
+  {
+    "id": "p-supreme-alora",
+    "title": "Supreme Alora",
+    "slug": "supreme-alora-khar-west",
+    "builderId": "b-supreme-universal",
+    "location": "Khar West",
+    "city": "Mumbai",
+    "priceRange": "₹7.90 Cr - ₹12.80 Cr",
+    "exactPrice": "₹7.90 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1380 sq.ft",
+        "priceRange": "₹7.90 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "₹11.20 Cr"
+      },
+      {
+        "type": "4 BHK Large",
+        "carpetArea": "2150 sq.ft",
+        "priceRange": "₹12.80 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "description": "Supreme Alora is an avant-garde boutique residential development on 14th Road, Khar West, Mumbai. Blending contemporary architectural lines with artisanal European finishes, Alora offers limited 3 and 4 BHK luxury residences featuring full-height acoustic windows, rooftop zen garden, smart home concierge, and walking access to Linking Road.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Khar West, Mumbai",
+      "Spacious RERA carpet area spanning 1,380 - 2,150 sq.ft",
+      "100% MahaRERA approved (P51800032516) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800032516",
+    "pricePerSqft": 57200,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Alora?",
+        "answer": "Supreme Alora is officially registered under MahaRERA registration number P51800032516. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Alora?",
+        "answer": "Supreme Alora offers 3 BHK, 4 BHK residences with authentic carpet areas ranging from 1,380 - 2,150 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Alora?",
+        "answer": "The starting price for Supreme Alora is ₹7.90 Cr, with the full configuration price range spanning ₹7.90 Cr - ₹12.80 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Alora?",
+        "answer": "Supreme Alora is scheduled for possession by Dec 2026. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://www.koltepatil.com/assets/uploads/gallery/base_image/17273291422043320802.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/17273291621313286942.jpg"
+    ],
+    "lat": 19.0705,
+    "lng": 72.836
+  },
+  {
+    "id": "p-supreme-melange",
+    "title": "Supreme Melange",
+    "slug": "supreme-melange-dadar",
+    "builderId": "b-supreme-universal",
+    "location": "Dadar",
+    "city": "Mumbai",
+    "priceRange": "₹2.85 Cr - ₹5.10 Cr",
+    "exactPrice": "₹2.85 Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "₹2.85 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "₹4.20 Cr"
+      },
+      {
+        "type": "3 BHK Large",
+        "carpetArea": "1320 sq.ft",
+        "priceRange": "₹5.10 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png"
+    ],
+    "description": "Supreme Melange is a landmark high-rise development located in Dadar, South Central Mumbai. Positioned at the confluence of premier coastal connectivity and heritage cultural living, Supreme Melange offers meticulously engineered 2 and 3 BHK residences with breezy sundecks, podium recreation deck, multi-tier automated car parking, and rapid access to BKC, Lower Parel, and Worli.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Dadar, Mumbai",
+      "Spacious RERA carpet area spanning 780 - 1,320 sq.ft",
+      "100% MahaRERA approved (P51900030214) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51900030214",
+    "pricePerSqft": 36500,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Melange?",
+        "answer": "Supreme Melange is officially registered under MahaRERA registration number P51900030214. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Melange?",
+        "answer": "Supreme Melange offers 2 BHK, 3 BHK residences with authentic carpet areas ranging from 780 - 1,320 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Melange?",
+        "answer": "The starting price for Supreme Melange is ₹2.85 Cr, with the full configuration price range spanning ₹2.85 Cr - ₹5.10 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Melange?",
+        "answer": "Supreme Melange is scheduled for possession by Dec 2026. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc6z3a-crr5dc.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc6ya2-436ell.webp"
+    ],
+    "lat": 19.0178,
+    "lng": 72.8478
+  },
+  {
+    "id": "p-supreme-artveda",
+    "title": "Supreme ArtVeda",
+    "slug": "supreme-artveda-pali-hill",
+    "builderId": "b-supreme-universal",
+    "location": "Bandra West",
+    "city": "Mumbai",
+    "priceRange": "₹15.00 Cr - ₹24.00 Cr",
+    "exactPrice": "₹15.00 Cr",
+    "configurations": [
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK Standard",
+        "carpetArea": "2400 sq.ft",
+        "priceRange": "₹15.00 Cr"
+      },
+      {
+        "type": "4 BHK Royal",
+        "carpetArea": "3100 sq.ft",
+        "priceRange": "₹19.80 Cr"
+      },
+      {
+        "type": "4 BHK Penthouse",
+        "carpetArea": "3600 sq.ft",
+        "priceRange": "₹24.00 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+    "masterLayout": "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg"
+    ],
+    "description": "Supreme ArtVeda on Pali Hill, Bandra West is a masterwork of aesthetic refinement. Conceived as bespoke art residences, ArtVeda features one apartment per floor, private high-speed elevators, museum-grade display lighting, Italian stone cladding, and private verandas framed by ancient banyan trees.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Bandra West, Mumbai",
+      "Spacious RERA carpet area spanning 2,400 - 3,600 sq.ft",
+      "100% MahaRERA approved (P51800033481) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800033481",
+    "pricePerSqft": 62500,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme ArtVeda?",
+        "answer": "Supreme ArtVeda is officially registered under MahaRERA registration number P51800033481. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme ArtVeda?",
+        "answer": "Supreme ArtVeda offers 4 BHK residences with authentic carpet areas ranging from 2,400 - 3,600 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme ArtVeda?",
+        "answer": "The starting price for Supreme ArtVeda is ₹15.00 Cr, with the full configuration price range spanning ₹15.00 Cr - ₹24.00 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme ArtVeda?",
+        "answer": "Supreme ArtVeda is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4f8eb75a-4580-4d79-b647-b16b71421bfc/gallery/mrxd9ez4-e19d5k.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4f8eb75a-4580-4d79-b647-b16b71421bfc/gallery/mrxd9cax-82z44q.webp"
+    ],
+    "lat": 19.064,
+    "lng": 72.8285
+  },
+  {
+    "id": "p-supreme-belysa",
+    "title": "Supreme Belysa",
+    "slug": "supreme-belysa-chembur",
+    "builderId": "b-supreme-universal",
+    "location": "Chembur",
+    "city": "Mumbai",
+    "priceRange": "₹1.55 Cr - ₹2.75 Cr",
+    "exactPrice": "₹1.55 Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "650 sq.ft",
+        "priceRange": "₹1.55 Cr"
+      },
+      {
+        "type": "2 BHK Large",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "₹1.85 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "₹2.75 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp"
+    ],
+    "description": "Supreme Belysa on ST Road in Chembur is a ready-to-move premium residential building. Offering well-planned 2 and 3 BHK apartments, Supreme Belysa provides panoramic views of the green Chembur Golf Club surroundings, energy-efficient LED common lighting, intercom security, and rooftop seating pavilions.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Chembur, Mumbai",
+      "Spacious RERA carpet area spanning 650 - 1,100 sq.ft",
+      "100% MahaRERA approved (P51800025984) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800025984",
+    "pricePerSqft": 23800,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Belysa?",
+        "answer": "Supreme Belysa is officially registered under MahaRERA registration number P51800025984. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Belysa?",
+        "answer": "Supreme Belysa offers 2 BHK, 3 BHK residences with authentic carpet areas ranging from 650 - 1,100 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Belysa?",
+        "answer": "The starting price for Supreme Belysa is ₹1.55 Cr, with the full configuration price range spanning ₹1.55 Cr - ₹2.75 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Belysa?",
+        "answer": "Supreme Belysa is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/efc5ccba-be62-4ab9-b3c3-5dd304d1bbc9/gallery/mvupv3kv-16clsy.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/efc5ccba-be62-4ab9-b3c3-5dd304d1bbc9/gallery/mvupv3j3-1t3art.webp"
+    ],
+    "lat": 19.0585,
+    "lng": 72.905
+  },
+  {
+    "id": "p-supreme-residency",
+    "title": "Supreme Residency",
+    "slug": "supreme-residency-bandra",
+    "builderId": "b-supreme-universal",
+    "location": "Bandra West",
+    "city": "Mumbai",
+    "priceRange": "₹7.20 Cr - ₹11.50 Cr",
+    "exactPrice": "₹7.20 Cr",
+    "configurations": [
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1250 sq.ft",
+        "priceRange": "₹7.20 Cr"
+      },
+      {
+        "type": "3 BHK Large",
+        "carpetArea": "1550 sq.ft",
+        "priceRange": "₹9.20 Cr"
+      },
+      {
+        "type": "3 BHK Penthouse",
+        "carpetArea": "1850 sq.ft",
+        "priceRange": "₹11.50 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+    ],
+    "description": "Supreme Residency is an established luxury residential address in Bandra West. Built to supreme engineering tolerances, this boutique tower offers generous 3 BHK apartments, marble-clad entrance foyers, 24/7 security surveillance, and unmatched walkability to Bandra's best international schools and fine dining.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Bandra West, Mumbai",
+      "Spacious RERA carpet area spanning 1,250 - 1,850 sq.ft",
+      "100% MahaRERA approved (P51800019842) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800019842",
+    "pricePerSqft": 57600,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Residency?",
+        "answer": "Supreme Residency is officially registered under MahaRERA registration number P51800019842. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Residency?",
+        "answer": "Supreme Residency offers 3 BHK residences with authentic carpet areas ranging from 1,250 - 1,850 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Residency?",
+        "answer": "The starting price for Supreme Residency is ₹7.20 Cr, with the full configuration price range spanning ₹7.20 Cr - ₹11.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Residency?",
+        "answer": "Supreme Residency is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4f8eb75a-4580-4d79-b647-b16b71421bfc/gallery/mrxd97el-bpu8rk.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4f8eb75a-4580-4d79-b647-b16b71421bfc/gallery/mrxd99h3-1vljjm.webp"
+    ],
+    "lat": 19.0595,
+    "lng": 72.833
+  },
+  {
+    "id": "p-supreme-headquarters",
+    "title": "Supreme Headquarters",
+    "slug": "supreme-headquarters-bandra",
+    "builderId": "b-supreme-universal",
+    "location": "Bandra West",
+    "city": "Mumbai",
+    "priceRange": "₹4.80 Cr - ₹22.00 Cr",
+    "exactPrice": "₹4.80 Cr",
+    "configurations": [
+      "Commercial Office",
+      "Corporate Suite"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Boutique Office",
+        "carpetArea": "850 sq.ft",
+        "priceRange": "₹4.80 Cr"
+      },
+      {
+        "type": "Corporate Floor",
+        "carpetArea": "2200 sq.ft",
+        "priceRange": "₹12.50 Cr"
+      },
+      {
+        "type": "Penthouse Suite",
+        "carpetArea": "4200 sq.ft",
+        "priceRange": "₹22.00 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Commercial",
+    "possessionDate": "Ready",
+    "image": "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+    ],
+    "description": "Supreme Headquarters at the junction of 14th and 33rd Road in Bandra West is Mumbai's preeminent Grade-A boutique commercial landmark. Offering bespoke office suites, double-glazed curtain walls, LEED gold certified energy conservation, valet parking, and rooftop executive dining, this address is the corporate headquarters for elite ventures.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Bandra West, Mumbai",
+      "Spacious RERA carpet area spanning 850 - 4,200 sq.ft",
+      "100% MahaRERA approved (P51800021450) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P51800021450",
+    "pricePerSqft": 56400,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Headquarters?",
+        "answer": "Supreme Headquarters is officially registered under MahaRERA registration number P51800021450. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Headquarters?",
+        "answer": "Supreme Headquarters offers Commercial Office, Corporate Suite residences with authentic carpet areas ranging from 850 - 4,200 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Headquarters?",
+        "answer": "The starting price for Supreme Headquarters is ₹4.80 Cr, with the full configuration price range spanning ₹4.80 Cr - ₹22.00 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Headquarters?",
+        "answer": "Supreme Headquarters is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://www.koltepatil.com/assets/uploads/gallery/base_image/17273291621831699962.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/17273291621313286942.jpg"
+    ],
+    "lat": 19.062,
+    "lng": 72.835
+  },
+  {
+    "id": "p-supreme-esteban",
+    "title": "Supreme Esteban",
+    "slug": "supreme-esteban-mundhwa",
+    "builderId": "b-supreme-universal",
+    "location": "Mundhwa",
+    "city": "Pune",
+    "priceRange": "₹3.80 Cr - ₹6.90 Cr",
+    "exactPrice": "₹3.80 Cr",
+    "configurations": [
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "2450 sq.ft",
+        "priceRange": "₹3.80 Cr"
+      },
+      {
+        "type": "4 BHK Riverfront",
+        "carpetArea": "2950 sq.ft",
+        "priceRange": "₹4.75 Cr"
+      },
+      {
+        "type": "5 BHK Sky Villa",
+        "carpetArea": "4100 sq.ft",
+        "priceRange": "₹6.90 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+    "masterLayout": "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "description": "Supreme Esteban is an award-winning ultra-luxury residential development in Mundhwa / Koregaon Park Annexe, Pune. Overlooking the scenic Mula-Mutha river, Esteban offers palatial 4 and 5 BHK sky residences with private plunge pools, temperature-controlled wine cellars, custom German kitchens, and panoramic sundecks.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Mundhwa, Pune",
+      "Spacious RERA carpet area spanning 2,450 - 4,100 sq.ft",
+      "100% MahaRERA approved (P52100026780) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P52100026780",
+    "pricePerSqft": 15500,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Esteban?",
+        "answer": "Supreme Esteban is officially registered under MahaRERA registration number P52100026780. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Esteban?",
+        "answer": "Supreme Esteban offers 4 BHK, 5 BHK residences with authentic carpet areas ranging from 2,450 - 4,100 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Esteban?",
+        "answer": "The starting price for Supreme Esteban is ₹3.80 Cr, with the full configuration price range spanning ₹3.80 Cr - ₹6.90 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Esteban?",
+        "answer": "Supreme Esteban is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/e1c8ac64-4e65-460a-84c8-460f12548757/floorplans/mvf7dnbf-bpdvo8.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/e1c8ac64-4e65-460a-84c8-460f12548757/gallery/mvf7dm64-8n3ajd.webp"
+    ],
+    "lat": 18.5385,
+    "lng": 73.918
+  },
+  {
+    "id": "p-supreme-pallacio",
+    "title": "Supreme Pallacio",
+    "slug": "supreme-pallacio-baner",
+    "builderId": "b-supreme-universal",
+    "location": "Baner",
+    "city": "Pune",
+    "priceRange": "₹2.25 Cr - ₹4.10 Cr",
+    "exactPrice": "₹2.25 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1850 sq.ft",
+        "priceRange": "₹2.25 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "2600 sq.ft",
+        "priceRange": "₹3.30 Cr"
+      },
+      {
+        "type": "4 BHK Grand",
+        "carpetArea": "3100 sq.ft",
+        "priceRange": "₹4.10 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png"
+    ],
+    "description": "Supreme Pallacio on Pan Card Club Road, Baner is an iconic European-classical luxury residential enclave. Boasting Roman arches, Corinthian pillars, landscaped fountain courtyards, and expansive 3 and 4 BHK residences, Pallacio remains one of West Pune's most celebrated architectural addresses.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Baner, Pune",
+      "Spacious RERA carpet area spanning 1,850 - 3,100 sq.ft",
+      "100% MahaRERA approved (P52100021345) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P52100021345",
+    "pricePerSqft": 12200,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Pallacio?",
+        "answer": "Supreme Pallacio is officially registered under MahaRERA registration number P52100021345. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Pallacio?",
+        "answer": "Supreme Pallacio offers 3 BHK, 4 BHK residences with authentic carpet areas ranging from 1,850 - 3,100 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Pallacio?",
+        "answer": "The starting price for Supreme Pallacio is ₹2.25 Cr, with the full configuration price range spanning ₹2.25 Cr - ₹4.10 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Pallacio?",
+        "answer": "Supreme Pallacio is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/035b585d-b971-4564-b20f-ccecfbcad104/gallery/mvhz1ri6-98zilu.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/035b585d-b971-4564-b20f-ccecfbcad104/gallery/mvhz1s8g-3g6nd6.webp"
+    ],
+    "lat": 18.5598,
+    "lng": 73.7854
+  },
+  {
+    "id": "p-supreme-adimaa",
+    "title": "Supreme Adimaa",
+    "slug": "supreme-adimaa-boat-club-road",
+    "builderId": "b-supreme-universal",
+    "location": "Boat Club Road",
+    "city": "Pune",
+    "priceRange": "₹6.50 Cr - ₹12.50 Cr",
+    "exactPrice": "₹6.50 Cr",
+    "configurations": [
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "3200 sq.ft",
+        "priceRange": "₹6.50 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "4600 sq.ft",
+        "priceRange": "₹9.80 Cr"
+      },
+      {
+        "type": "5 BHK Riverfront Penthouse",
+        "carpetArea": "5500 sq.ft",
+        "priceRange": "₹12.50 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg"
+    ],
+    "description": "Supreme Adimaa is an ultra-exclusive, limited-edition residential landmark located on prestigious Boat Club Road, Pune Central. Fronting the tranquil Mula-Mutha riverfront, Adimaa features massive full-floor 4 and 5 BHK residences, dedicated concierge and valet, private temperature-regulated plunge pools, and high-security biometric elevators.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Boat Club Road, Pune",
+      "Spacious RERA carpet area spanning 3,200 - 5,500 sq.ft",
+      "100% MahaRERA approved (P52100031892) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P52100031892",
+    "pricePerSqft": 20300,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Adimaa?",
+        "answer": "Supreme Adimaa is officially registered under MahaRERA registration number P52100031892. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Adimaa?",
+        "answer": "Supreme Adimaa offers 4 BHK, 5 BHK residences with authentic carpet areas ranging from 3,200 - 5,500 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Adimaa?",
+        "answer": "The starting price for Supreme Adimaa is ₹6.50 Cr, with the full configuration price range spanning ₹6.50 Cr - ₹12.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Adimaa?",
+        "answer": "Supreme Adimaa is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://www.koltepatil.com/assets/uploads/overview/16582369311871863705.jpg",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5709b783-9c9c-4c60-b4ed-4cef6de35826/gallery/mvwi01n4-6caiqq.webp"
+    ],
+    "lat": 18.535,
+    "lng": 73.8825
+  },
+  {
+    "id": "p-supreme-vivero",
+    "title": "Supreme Vivero",
+    "slug": "supreme-vivero-baner",
+    "builderId": "b-supreme-universal",
+    "location": "Baner",
+    "city": "Pune",
+    "priceRange": "₹95.00 L - ₹1.65 Cr",
+    "exactPrice": "₹95.00 L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "₹95.00 L"
+      },
+      {
+        "type": "2 BHK Large",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "₹1.15 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1250 sq.ft",
+        "priceRange": "₹1.65 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp"
+    ],
+    "description": "Supreme Vivero is a vibrant modern residential community situated along the scenic Baner-Pashan Link Road, Pune. Offering energy-efficient 2 and 3 BHK homes, infinity-edge rooftop swimming pool, air-conditioned fitness studio, squash court, and children's adventure play area, Vivero delivers complete urban luxury.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Baner, Pune",
+      "Spacious RERA carpet area spanning 780 - 1,250 sq.ft",
+      "100% MahaRERA approved (P52100024189) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P52100024189",
+    "pricePerSqft": 12100,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Vivero?",
+        "answer": "Supreme Vivero is officially registered under MahaRERA registration number P52100024189. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Vivero?",
+        "answer": "Supreme Vivero offers 2 BHK, 3 BHK residences with authentic carpet areas ranging from 780 - 1,250 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Vivero?",
+        "answer": "The starting price for Supreme Vivero is ₹95.00 L, with the full configuration price range spanning ₹95.00 L - ₹1.65 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Vivero?",
+        "answer": "Supreme Vivero is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/V6uB3tH0W2YjI44E7pGfQ2eN2JmXwYk5CqL1oZsT.webp",
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/fcd59e60-a788-4739-b02a-fa7a4e4a06c8/gallery/mryx68f1-76vkcp.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/fcd59e60-a788-4739-b02a-fa7a4e4a06c8/gallery/mryx69n4-d14fs7.webp"
+    ],
+    "lat": 18.563,
+    "lng": 73.791
+  },
+  {
+    "id": "p-supreme-amadore",
+    "title": "Supreme Amadore",
+    "slug": "supreme-amadore-baner",
+    "builderId": "b-supreme-universal",
+    "location": "Baner",
+    "city": "Pune",
+    "priceRange": "₹1.75 Cr - ₹2.95 Cr",
+    "exactPrice": "₹1.75 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1450 sq.ft",
+        "priceRange": "₹1.75 Cr"
+      },
+      {
+        "type": "3 BHK Large",
+        "carpetArea": "1720 sq.ft",
+        "priceRange": "₹2.15 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "2300 sq.ft",
+        "priceRange": "₹2.95 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+    "masterLayout": "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1734594060428044806.jpeg",
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+    ],
+    "description": "Supreme Amadore is a premier luxury gated community in Baner, West Pune. Designed with large open green lawns, multi-tiered security, clubhouse with spa and steam rooms, and proximity to Baner's top schools and IT corridor, Amadore offers spacious, elegant family living.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Baner, Pune",
+      "Spacious RERA carpet area spanning 1,450 - 2,300 sq.ft",
+      "100% MahaRERA approved (P52100019876) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P52100019876",
+    "pricePerSqft": 12000,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Amadore?",
+        "answer": "Supreme Amadore is officially registered under MahaRERA registration number P52100019876. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Amadore?",
+        "answer": "Supreme Amadore offers 3 BHK, 4 BHK residences with authentic carpet areas ranging from 1,450 - 2,300 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Amadore?",
+        "answer": "The starting price for Supreme Amadore is ₹1.75 Cr, with the full configuration price range spanning ₹1.75 Cr - ₹2.95 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Amadore?",
+        "answer": "Supreme Amadore is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/b8YkL3oW9JmP2eR4CqN1xV5tH0Z6uB7sT9wYk4E7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://www.lodhagroup.com/sites/default/files/projects/banner/Desktop_Lodha-Altamount_1903x800.jpg",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8b2e1bb8-4a13-43a3-9800-49462b940cee/gallery/mtu0b25v-4jgp7u.webp"
+    ],
+    "lat": 18.5575,
+    "lng": 73.7895
+  },
+  {
+    "id": "p-supreme-estado",
+    "title": "Supreme Estado",
+    "slug": "supreme-estado-baner",
+    "builderId": "b-supreme-universal",
+    "location": "Baner",
+    "city": "Pune",
+    "priceRange": "₹1.05 Cr - ₹1.85 Cr",
+    "exactPrice": "₹1.05 Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "820 sq.ft",
+        "priceRange": "₹1.05 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1180 sq.ft",
+        "priceRange": "₹1.55 Cr"
+      },
+      {
+        "type": "3 BHK Large",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹1.85 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+    ],
+    "description": "Supreme Estado is a well-established residential development in Baner, Pune. Offering thoughtfully designed 2 and 3 BHK residences with high-speed elevators, landscaped podium, solar water heating, and high rental yield potential, Estado represents dependable quality and prime accessibility.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Baner, Pune",
+      "Spacious RERA carpet area spanning 820 - 1,350 sq.ft",
+      "100% MahaRERA approved (P52100020432) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P52100020432",
+    "pricePerSqft": 12800,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Estado?",
+        "answer": "Supreme Estado is officially registered under MahaRERA registration number P52100020432. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Estado?",
+        "answer": "Supreme Estado offers 2 BHK, 3 BHK residences with authentic carpet areas ranging from 820 - 1,350 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Estado?",
+        "answer": "The starting price for Supreme Estado is ₹1.05 Cr, with the full configuration price range spanning ₹1.05 Cr - ₹1.85 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Estado?",
+        "answer": "Supreme Estado is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/d19a8bbe-9e37-4dbf-a9fc-76590fd6a791/gallery/mvhz31lv-6tgpry.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/d19a8bbe-9e37-4dbf-a9fc-76590fd6a791/gallery/mvhz310v-8kz768.webp"
+    ],
+    "lat": 18.554,
+    "lng": 73.782
+  },
+  {
+    "id": "p-supreme-renaissance",
+    "title": "Supreme Renaissance",
+    "slug": "supreme-renaissance-sopan-baug",
+    "builderId": "b-supreme-universal",
+    "location": "Sopan Baug",
+    "city": "Pune",
+    "priceRange": "₹2.40 Cr - ₹4.20 Cr",
+    "exactPrice": "₹2.40 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1650 sq.ft",
+        "priceRange": "₹2.40 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "2350 sq.ft",
+        "priceRange": "₹3.40 Cr"
+      },
+      {
+        "type": "4 BHK Large",
+        "carpetArea": "2750 sq.ft",
+        "priceRange": "₹4.20 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "description": "Supreme Renaissance is a luxury boutique development nestled in the verdant, peaceful enclave of Sopan Baug, Pune. Surrounded by century-old trees and high-ranking defense and diplomatic residences, Renaissance offers quiet refinement, temperature-controlled indoor pool, jogging trail, and spacious 3 and 4 BHK apartments.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Sopan Baug, Pune",
+      "Spacious RERA carpet area spanning 1,650 - 2,750 sq.ft",
+      "100% MahaRERA approved (P52100022987) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P52100022987",
+    "pricePerSqft": 14500,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Renaissance?",
+        "answer": "Supreme Renaissance is officially registered under MahaRERA registration number P52100022987. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Renaissance?",
+        "answer": "Supreme Renaissance offers 3 BHK, 4 BHK residences with authentic carpet areas ranging from 1,650 - 2,750 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Renaissance?",
+        "answer": "The starting price for Supreme Renaissance is ₹2.40 Cr, with the full configuration price range spanning ₹2.40 Cr - ₹4.20 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Renaissance?",
+        "answer": "Supreme Renaissance is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n7-1q5x4w.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24ca7459-95bd-4594-85b9-4b2d720268ff/gallery/mwc1i5nv-3hw4g8.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24ca7459-95bd-4594-85b9-4b2d720268ff/gallery/mwc1i5m1-1nxgpq.webp"
+    ],
+    "lat": 18.514,
+    "lng": 73.9015
+  },
+  {
+    "id": "p-supreme-palms",
+    "title": "Supreme Palms",
+    "slug": "supreme-palms-aundh",
+    "builderId": "b-supreme-universal",
+    "location": "Aundh",
+    "city": "Pune",
+    "priceRange": "₹1.95 Cr - ₹3.30 Cr",
+    "exactPrice": "₹1.95 Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1500 sq.ft",
+        "priceRange": "₹1.95 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "2100 sq.ft",
+        "priceRange": "₹2.75 Cr"
+      },
+      {
+        "type": "4 BHK Large",
+        "carpetArea": "2400 sq.ft",
+        "priceRange": "₹3.30 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png"
+    ],
+    "description": "Supreme Palms is a landmark residential community situated in Aundh, Pune, within walking distance of Westend Mall and Bremen Chowk. Featuring expansive manicured grounds, tennis court, clubhouse, and large 3 and 4 BHK homes with ample natural light, Supreme Palms remains an enduring address of prestige in West Pune.",
+    "features": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for Seismic Zone III/IV"
+      },
+      {
+        "label": "Flooring",
+        "value": "Imported Italian marble in living, dining & master bedroom; anti-skid vitrified tiles in sundecks"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Acoustic double-glazed high performance aluminum sliding fenestrations and solid teakwood frame veneer main door"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Modular German kitchen with quartz countertops, hob, chimney, and piped gas provision"
+      },
+      {
+        "label": "Sanitary & CP",
+        "value": "Concealed Kohler / Grohe fittings with glass shower cubicles and thermostatic mixers"
+      },
+      {
+        "label": "Smart Automation",
+        "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      }
+    ],
+    "highlights": [
+      "Prime strategic location in Aundh, Pune",
+      "Spacious RERA carpet area spanning 1,500 - 2,400 sq.ft",
+      "100% MahaRERA approved (P52100018543) with clear legal title",
+      "Crafted with 40+ years of Supreme Universal design precision",
+      "Zero brokerage and direct builder terms via PROPSMART REALTY"
+    ],
+    "reraId": "P52100018543",
+    "pricePerSqft": 13000,
+    "verificationStatus": "Verified",
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Palms?",
+        "answer": "Supreme Palms is officially registered under MahaRERA registration number P52100018543. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are available at Supreme Palms?",
+        "answer": "Supreme Palms offers 3 BHK, 4 BHK residences with authentic carpet areas ranging from 1,500 - 2,400 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Palms?",
+        "answer": "The starting price for Supreme Palms is ₹1.95 Cr, with the full configuration price range spanning ₹1.95 Cr - ₹3.30 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Palms?",
+        "answer": "Supreme Palms is scheduled for possession by Ready. Site visits and sample flat tours can be scheduled with dedicated relationship managers."
+      }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/GygLc1rdjQ06VlpY0H6SSeiwGPlGQOAaiXpk2BXx.png",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/7c15740e-3e56-49b7-86ad-3f50e9c2761e/gallery/mvfc1mss-4atuma.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/7c15740e-3e56-49b7-86ad-3f50e9c2761e/gallery/mvfc1lsm-5ci80s.webp"
+    ],
+    "lat": 18.562,
+    "lng": 73.8075
   }
 ];
