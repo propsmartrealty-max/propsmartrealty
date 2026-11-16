@@ -7,8 +7,10 @@ interface ImageGalleryProps {
 }
 
 const ImageGallery: React.FC<ImageGalleryProps> = ({ images }) => {
-    // Use array of images, if only one provided, repeat it for demo purposes or handle singular
-    const galleryImages = images.length > 0 ? images : ['https://via.placeholder.com/1200x600?text=No+Image'];
+    // Use array of images, if only one provided, ensure resilient fallback
+    const galleryImages = images && images.length > 0 
+        ? images 
+        : ['https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80'];
 
     const [isOpen, setIsOpen] = useState(false);
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -38,20 +40,37 @@ const ImageGallery: React.FC<ImageGalleryProps> = ({ images }) => {
                     <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors" />
                 </div>
 
-                {/* Secondary images (simulated by repeating main image if multiple not available in MockData yet) */}
-                <div className="hidden md:block relative h-full" onClick={() => openLightbox(0)}>
-                    <img src={galleryImages[0]} alt="Property View 2" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700 grayscale hover:grayscale-0" />
+                {/* Secondary images: distinct gallery photos */}
+                <div className="hidden md:block relative h-full overflow-hidden" onClick={() => openLightbox(1 % galleryImages.length)}>
+                    <img 
+                        src={galleryImages[1] || galleryImages[0]} 
+                        alt="Property View 2" 
+                        className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" 
+                    />
                 </div>
-                <div className="hidden md:block relative h-full" onClick={() => openLightbox(0)}>
-                    <img src={galleryImages[0]} alt="Property View 3" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700 grayscale hover:grayscale-0" />
+                <div className="hidden md:block relative h-full overflow-hidden" onClick={() => openLightbox(2 % galleryImages.length)}>
+                    <img 
+                        src={galleryImages[2] || galleryImages[0]} 
+                        alt="Property View 3" 
+                        className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" 
+                    />
                 </div>
-                <div className="hidden md:block relative h-full" onClick={() => openLightbox(0)}>
-                    <img src={galleryImages[0]} alt="Property View 4" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700 grayscale hover:grayscale-0" />
+                <div className="hidden md:block relative h-full overflow-hidden" onClick={() => openLightbox(3 % galleryImages.length)}>
+                    <img 
+                        src={galleryImages[3] || galleryImages[0]} 
+                        alt="Property View 4" 
+                        className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" 
+                    />
                 </div>
-                <div className="hidden md:block relative h-full" onClick={() => openLightbox(0)}>
-                    <img src={galleryImages[0]} alt="Property View 5" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700 grayscale hover:grayscale-0" />
-                    <div className="absolute inset-0 bg-black/50 flex items-center justify-center text-white font-bold text-lg">
-                        View All Photos
+                <div className="hidden md:block relative h-full overflow-hidden" onClick={() => openLightbox(4 % galleryImages.length)}>
+                    <img 
+                        src={galleryImages[4] || galleryImages[0]} 
+                        alt="Property View 5" 
+                        className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" 
+                    />
+                    <div className="absolute inset-0 bg-slate-950/60 backdrop-blur-2xs flex flex-col items-center justify-center text-white font-black text-sm uppercase tracking-wider group-hover:bg-slate-950/50 transition-colors">
+                        <Maximize2 className="w-5 h-5 mb-1 text-sky-400" />
+                        <span>View All {galleryImages.length} Photos</span>
                     </div>
                 </div>
 

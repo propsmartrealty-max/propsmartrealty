@@ -33,6 +33,7 @@ import TransitConnectivity from '../components/Portal/Infographics/TransitConnec
 import AmenitiesInfographic from '../components/Portal/Infographics/AmenitiesInfographic';
 import SpecificationsInfographic from '../components/Portal/Infographics/SpecificationsInfographic';
 import { getMahaRERAVerificationUrl } from '../utils/qrUtils';
+import { resolveBuilderLogo } from '../utils/builderUtils';
 import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
 
 const resolveProjectFromList = (searchSlug: string | undefined, list: Project[]): Project | undefined => {
@@ -358,8 +359,9 @@ const ProjectDetails = () => {
     const locality = localities.find(l => l.name === project?.location);
     const localityAvgPrice = locality?.avgPriceSqft || 0;
 
-    // Improved Builder Lookup
+    // Improved Builder Lookup & Authentic Logo Resolution
     const builder = builders.find(b => b.id === project?.builderId || b.name === project?.builderId);
+    const resolvedBuilderLogo = useMemo(() => resolveBuilderLogo(builder), [builder]);
 
     const displayDescription = (project && project.description && project.description.length > 800)
         ? project.description
@@ -1287,14 +1289,20 @@ const ProjectDetails = () => {
                         <h2 className="text-2xl font-bold text-slate-800 mb-6">About Developer</h2>
                         <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-8">
                             <div className="flex flex-col md:flex-row gap-8 items-start">
-                                <img
-                                    src={getOptimizedImageUrl(builder?.logo || '/images/builders/godrej.svg', 200)}
-                                    alt={builder?.name || 'Developer'}
-                                    onError={(e) => {
-                                        e.currentTarget.src = '/images/builders/godrej.svg';
-                                    }}
-                                    className="w-32 h-32 object-contain p-4 bg-white rounded-xl border border-slate-100 shadow-sm"
-                                />
+                                {resolvedBuilderLogo ? (
+                                    <img
+                                        src={getOptimizedImageUrl(resolvedBuilderLogo, 200)}
+                                        alt={builder?.name || 'Developer'}
+                                        className="w-32 h-32 object-contain p-4 bg-white rounded-xl border border-slate-100 shadow-sm"
+                                    />
+                                ) : (
+                                    <div className="w-32 h-32 bg-gradient-to-br from-slate-50 to-slate-100 rounded-xl border border-slate-200/80 p-3 shadow-sm flex flex-col items-center justify-center text-center shrink-0">
+                                        <Building2 className="w-8 h-8 text-sky-600 mb-1.5" />
+                                        <span className="text-xs font-black text-slate-800 line-clamp-2 leading-tight">
+                                            {builder?.name || 'Developer Partner'}
+                                        </span>
+                                    </div>
+                                )}
                                 <div className="flex-1 space-y-4">
                                     <div>
                                         <h3 className="text-xl font-bold text-slate-900">{builder?.name || project.builderId || 'Reputed Developer'}</h3>
@@ -1679,14 +1687,17 @@ const ProjectDetails = () => {
                         {
                             builder && (
                                 <div className="glass-panel p-6 rounded-3xl border border-white/80 shadow-md flex items-center gap-4">
-                                    <img 
-                                        src={builder.logo || '/images/builders/godrej.svg'} 
-                                        alt={builder.name} 
-                                        onError={(e) => {
-                                            e.currentTarget.src = '/images/builders/godrej.svg';
-                                        }}
-                                        className="w-16 h-16 object-contain p-2 bg-white/80 rounded-2xl border border-white/90 shadow-2xs" 
-                                    />
+                                    {resolvedBuilderLogo ? (
+                                        <img 
+                                            src={resolvedBuilderLogo} 
+                                            alt={builder.name} 
+                                            className="w-16 h-16 object-contain p-2 bg-white/80 rounded-2xl border border-white/90 shadow-2xs" 
+                                        />
+                                    ) : (
+                                        <div className="w-16 h-16 bg-gradient-to-br from-slate-50 to-slate-100 rounded-2xl border border-slate-200/80 p-2 shadow-2xs flex flex-col items-center justify-center text-center shrink-0">
+                                            <Building2 className="w-6 h-6 text-sky-600" />
+                                        </div>
+                                    )}
                                     <div>
                                         <p className="text-[10px] text-sky-600 uppercase font-black tracking-wider">Developer</p>
                                         <h4 className="font-black text-slate-900 text-base">{builder.name}</h4>

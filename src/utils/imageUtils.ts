@@ -3,7 +3,7 @@
  */
 
 export const PLACEHOLDER_PROPERTY = '/images/placeholder-property.svg';
-export const PLACEHOLDER_BUILDER = '/images/builders/godrej.svg';
+export const PLACEHOLDER_BUILDER = '';
 
 export const getOptimizedImageUrl = (
     url: string | undefined | null,

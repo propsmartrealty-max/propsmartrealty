@@ -76,11 +76,20 @@ const BuilderDetails = () => {
                 <div className="absolute bottom-0 left-0 w-full p-8">
                     <div className="max-w-7xl mx-auto flex items-end gap-6">
                         <div className="w-32 h-32 bg-white rounded-xl p-2 shadow-lg -mb-12 relative z-10 flex items-center justify-center">
-                            <img
-                                src={resolveBuilderLogo(builder)}
-                                alt={builder.name}
-                                className="w-full h-full object-contain"
-                            />
+                            {resolveBuilderLogo(builder) ? (
+                                <img
+                                    src={resolveBuilderLogo(builder)}
+                                    alt={builder.name}
+                                    className="w-full h-full object-contain"
+                                />
+                            ) : (
+                                <div className="w-full h-full bg-gradient-to-br from-slate-50 to-slate-100 rounded-lg flex flex-col items-center justify-center p-2 border border-slate-200/80 text-center">
+                                    <Building2 className="w-8 h-8 text-sky-600 mb-1" />
+                                    <span className="text-xs font-black text-slate-800 leading-tight line-clamp-2">
+                                        {builder.name}
+                                    </span>
+                                </div>
+                            )}
                         </div>
                         <div className="text-white pb-2">
                             <div className="flex items-center gap-2.5 sm:gap-3 mb-2 flex-wrap">

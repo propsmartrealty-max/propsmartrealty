@@ -40143,72 +40143,80 @@ export const PROJECTS: Project[] = [
     "featured": false
   },
   {
-    "id": "p-aarambh",
-    "title": "Aarambh",
-    "slug": "aarambh",
-    "builderId": "b-adi-realtors",
-    "location": "Balewadi",
-    "city": "Pune",
-    "priceRange": "\u20b999 L",
-    "exactPrice": "\u20b999 L",
-    "pricePerSqft": 12375,
-    "configurations": [
-      "2 BHK"
-    ],
-    "status": "Ready to Move",
-    "type": "Residential",
-    "possessionDate": "2027",
-    "image": "/images/placeholder-property.svg",
-    "images": [
-      "/images/placeholder-property.svg"
-    ],
-    "description": "Adi Aarambh by Adi Realtors is a small boutique project in Balewadi, Pune: one tower with 12 residential units on about 0.14 acres, and around 7 storeys. The 2 BHKs are roughly 800 sq ft. The project is RERA registered (P52100079803), with possession scheduled for August 2026. That date has already passed, so check the current RERA status and the actual handover timeline before committing. Amenities look basic (water supply, power backup, covered parking), so the appeal is mainly the Balewadi location rather than lifestyle facilities",
-    "features": [
-      "CCTV Surveillance",
-      "Gymnasium",
-      "Rainwater Harvesting",
-      "Jogging Track",
-      "Power Backup",
-      "24x7 Security",
-      "Landscaped Garden",
-      "Covered Parking"
-    ],
-    "highlights": [
-      "MahaRERA: P52100079803",
-      "0% Brokerage & Direct Builder Booking",
-      "Balewadi Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
-    ],
-    "specs": [
-      {
-        "label": "Project Status",
-        "value": "Ready to Move"
-      },
-      {
-        "label": "MahaRERA ID",
-        "value": "P52100079803"
-      },
-      {
-        "label": "Direct Starting Price",
-        "value": "\u20b999 L"
-      },
-      {
-        "label": "Configurations",
-        "value": "2 BHK"
-      },
-      {
-        "label": "Possession Date",
-        "value": "2027"
-      },
-      {
-        "label": "Micro-Market",
-        "value": "Balewadi, Pune"
-      }
-    ],
-    "reraId": "P52100079803",
-    "verificationStatus": "Verified",
-    "featured": true
-  },
+        "id": "p-aarambh",
+        "title": "Aarambh",
+        "slug": "aarambh",
+        "builderId": "b-adi-realtors",
+        "location": "Balewadi",
+        "city": "Pune",
+        "priceRange": "\u20b999 L",
+        "exactPrice": "\u20b999 L",
+        "pricePerSqft": 12375,
+        "configurations": [
+            "2 BHK"
+        ],
+        "status": "Ready to Move",
+        "type": "Residential",
+        "possessionDate": "2027",
+        "image": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+        "images": [
+            "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "description": "Adi Aarambh by Adi Realtors is a small boutique project in Balewadi, Pune: one tower with 12 residential units on about 0.14 acres, and around 7 storeys. The 2 BHKs are roughly 800 sq ft. The project is RERA registered (P52100079803), with possession scheduled for August 2026. That date has already passed, so check the current RERA status and the actual handover timeline before committing. Amenities look basic (water supply, power backup, covered parking), so the appeal is mainly the Balewadi location rather than lifestyle facilities",
+        "features": [
+            "CCTV Surveillance",
+            "Gymnasium",
+            "Rainwater Harvesting",
+            "Jogging Track",
+            "Power Backup",
+            "24x7 Security",
+            "Landscaped Garden",
+            "Covered Parking"
+        ],
+        "highlights": [
+            "MahaRERA: P52100079803",
+            "0% Brokerage & Direct Builder Booking",
+            "Balewadi Prime Residential Corridor",
+            "Sanctioned Developer Payment Schedule"
+        ],
+        "specs": [
+            {
+                "label": "Project Status",
+                "value": "Ready to Move"
+            },
+            {
+                "label": "MahaRERA ID",
+                "value": "P52100079803"
+            },
+            {
+                "label": "Direct Starting Price",
+                "value": "\u20b999 L"
+            },
+            {
+                "label": "Configurations",
+                "value": "2 BHK"
+            },
+            {
+                "label": "Possession Date",
+                "value": "2027"
+            },
+            {
+                "label": "Micro-Market",
+                "value": "Balewadi, Pune"
+            }
+        ],
+        "reraId": "P52100079803",
+        "verificationStatus": "Verified",
+        "featured": true,
+        "heroImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+        "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+        "floorPlans": [
+            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+        ]
+    },
   {
     "id": "p-skyone-walhekarwadi",
     "title": "Skyone",
@@ -40706,71 +40714,79 @@ export const PROJECTS: Project[] = [
     "featured": false
   },
   {
-    "id": "p-one-place",
-    "title": "One Place",
-    "slug": "one-place",
-    "builderId": "b-mittal-brothers-on-pan-card-club-road",
-    "location": "Baner",
-    "city": "Pune",
-    "priceRange": "\u20b91.32 Cr - \u20b91.70 Cr",
-    "exactPrice": "\u20b91.32 Cr",
-    "pricePerSqft": 33673,
-    "configurations": [
-      "Office"
-    ],
-    "status": "Under Construction",
-    "type": "Residential",
-    "possessionDate": "2027",
-    "image": "/images/placeholder-property.svg",
-    "images": [
-      "/images/placeholder-property.svg"
-    ],
-    "description": "One Place Baner (listed as New Unicon One Place) is a commercial development by Mittal Brothers on Pan Card Club Road, Baner, Pune. It offers 104 offices and 75 shops, so it suits small and mid-sized businesses more than large corporate occupiers. The surrounding area has restaurants, malls and medical centres, which covers day-to-day needs for staff and visitors. Baner itself is a well-established IT and business hub in Pune\u2019s western corridor with good road connectivity, and a later phase of the project (Phase III) is also listed under RERA. Listing sites give different details, so confirm the current RERA status, possession, pricing and rent with the developer or a broker before deciding.",
-    "features": [
-      "CCTV Surveillance",
-      "Rainwater Harvesting",
-      "Power Backup",
-      "24x7 Security",
-      "Landscaped Garden",
-      "Covered Parking",
-      "EV Charging"
-    ],
-    "highlights": [
-      "MahaRERA: P52100019584",
-      "0% Brokerage & Direct Builder Booking",
-      "Baner Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
-    ],
-    "specs": [
-      {
-        "label": "Project Status",
-        "value": "Under Construction"
-      },
-      {
-        "label": "MahaRERA ID",
-        "value": "P52100019584"
-      },
-      {
-        "label": "Direct Starting Price",
-        "value": "\u20b91.32 Cr"
-      },
-      {
-        "label": "Configurations",
-        "value": "Office"
-      },
-      {
-        "label": "Possession Date",
-        "value": "2027"
-      },
-      {
-        "label": "Micro-Market",
-        "value": "Baner, Pune"
-      }
-    ],
-    "reraId": "P52100019584",
-    "verificationStatus": "Verified",
-    "featured": true
-  },
+        "id": "p-one-place",
+        "title": "One Place",
+        "slug": "one-place",
+        "builderId": "b-mittal-brothers-on-pan-card-club-road",
+        "location": "Baner",
+        "city": "Pune",
+        "priceRange": "\u20b91.32 Cr - \u20b91.70 Cr",
+        "exactPrice": "\u20b91.32 Cr",
+        "pricePerSqft": 33673,
+        "configurations": [
+            "Office"
+        ],
+        "status": "Under Construction",
+        "type": "Residential",
+        "possessionDate": "2027",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+            "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80",
+            "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1200&q=80",
+            "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "description": "One Place Baner (listed as New Unicon One Place) is a commercial development by Mittal Brothers on Pan Card Club Road, Baner, Pune. It offers 104 offices and 75 shops, so it suits small and mid-sized businesses more than large corporate occupiers. The surrounding area has restaurants, malls and medical centres, which covers day-to-day needs for staff and visitors. Baner itself is a well-established IT and business hub in Pune\u2019s western corridor with good road connectivity, and a later phase of the project (Phase III) is also listed under RERA. Listing sites give different details, so confirm the current RERA status, possession, pricing and rent with the developer or a broker before deciding.",
+        "features": [
+            "CCTV Surveillance",
+            "Rainwater Harvesting",
+            "Power Backup",
+            "24x7 Security",
+            "Landscaped Garden",
+            "Covered Parking",
+            "EV Charging"
+        ],
+        "highlights": [
+            "MahaRERA: P52100019584",
+            "0% Brokerage & Direct Builder Booking",
+            "Baner Prime Residential Corridor",
+            "Sanctioned Developer Payment Schedule"
+        ],
+        "specs": [
+            {
+                "label": "Project Status",
+                "value": "Under Construction"
+            },
+            {
+                "label": "MahaRERA ID",
+                "value": "P52100019584"
+            },
+            {
+                "label": "Direct Starting Price",
+                "value": "\u20b91.32 Cr"
+            },
+            {
+                "label": "Configurations",
+                "value": "Office"
+            },
+            {
+                "label": "Possession Date",
+                "value": "2027"
+            },
+            {
+                "label": "Micro-Market",
+                "value": "Baner, Pune"
+            }
+        ],
+        "reraId": "P52100019584",
+        "verificationStatus": "Verified",
+        "featured": true,
+        "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=85",
+        "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+        "floorPlans": [
+            "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
+        ]
+    },
   {
     "id": "p-tej-one-fc-road",
     "title": "Tej One FC Road",
