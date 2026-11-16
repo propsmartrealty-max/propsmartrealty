@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
+  <defs>
+    <linearGradient id="grad-kk-group" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D9488"/>
+      <stop offset="100%" stop-color="#115E59"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Container -->
+  <rect width="380" height="110" rx="16" fill="#ffffff"/>
+
+  <!-- Developer Emblem -->
+  <g transform="translate(25, 22)">
+    
+        <rect x="0" y="0" width="66" height="66" rx="14" fill="url(#grad-kk-group)"/>
+        <circle cx="33" cy="33" r="22" fill="none" stroke="#F59E0B" stroke-width="2.5" stroke-dasharray="8 3"/>
+        <text x="33" y="41" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="20" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="1">KG</text>
+        
+  </g>
+
+  <!-- Typography -->
+  <text x="106" y="48" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="24" font-weight="900" fill="#115E59" letter-spacing="1">KK</text>
+  <text x="107" y="68" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="#F59E0B" letter-spacing="2.5">KK GROUP • PUNE</text>
+  <text x="107" y="85" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="9" font-weight="600" fill="#64748B" letter-spacing="0.5">PREMIUM TOWNSHIPS • DIRECT BUILDER</text>
+</svg>

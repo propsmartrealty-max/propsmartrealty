@@ -1745,7 +1745,7 @@ export const BUILDERS: Builder[] = [
     "name": "Puravankara Limited",
     "slug": "puravankara",
     "logo": "/images/builders/puravankara.svg",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
     "description": "Puravankara Limited is one of India's leading publicly listed real estate developers with over four decades of excellence across residential and commercial developments.",
     "establishedYear": 1975,
     "totalProjects": 45,
@@ -1760,8 +1760,8 @@ export const BUILDERS: Builder[] = [
     "id": "b-goel-ganga",
     "name": "Goel Ganga Developments",
     "slug": "goel-ganga",
-    "logo": "",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "logo": "/images/builders/goel-ganga.svg",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
     "description": "Goel Ganga Developments is a reputed Pune builder with landmark township and luxury developments across East, South, and Central Pune.",
     "establishedYear": 1983,
     "totalProjects": 38,
@@ -1777,8 +1777,8 @@ export const BUILDERS: Builder[] = [
     "id": "b-rama",
     "name": "Rama Group",
     "slug": "rama-group",
-    "logo": "",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "logo": "/images/builders/rama-group.svg",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp",
     "description": "Rama Group is a premier real estate conglomerate in PCMC and Pune, delivering mega residential townships with lifestyle amenities.",
     "establishedYear": 1991,
     "totalProjects": 30,
@@ -1794,7 +1794,7 @@ export const BUILDERS: Builder[] = [
     "name": "Magarpatta Township Development",
     "slug": "magarpatta",
     "logo": "/images/builders/magarpatta.svg",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
     "description": "Magarpatta Development is the pioneering creator of Magarpatta City and Nanded City, renowned for sustainable cyber cities and integrated townships.",
     "establishedYear": 1999,
     "totalProjects": 25,
@@ -1810,7 +1810,7 @@ export const BUILDERS: Builder[] = [
     "name": "Kundan Spaces",
     "slug": "kundan-spaces",
     "logo": "/images/builders/kundan.svg",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "description": "Kundan Spaces crafts bespoke luxury and boutique high-rise residences across Balewadi, Kondhwa, and Central Pune corridors.",
     "establishedYear": 2004,
     "totalProjects": 22,
@@ -1827,8 +1827,8 @@ export const BUILDERS: Builder[] = [
     "id": "b-namrata",
     "name": "Namrata Group",
     "slug": "namrata-group",
-    "logo": "",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mrrp57ei-d5iyrw.webp?width=192&quality=75&resize=contain",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp",
     "description": "Namrata Group has shaped Talegaon, Tathawade, and PCMC with trusted residential communities and high-growth investment projects.",
     "establishedYear": 1993,
     "totalProjects": 28,
@@ -1843,8 +1843,8 @@ export const BUILDERS: Builder[] = [
     "id": "b-krisala",
     "name": "Krisala Developers",
     "slug": "krisala",
-    "logo": "",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "logo": "/images/builders/krisala.svg",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
     "description": "Krisala Developers is a fast-growing developer focused on premium residential living across Tathawade, Punawale, and West Pune IT corridors.",
     "establishedYear": 2011,
     "totalProjects": 20,
@@ -1859,8 +1859,8 @@ export const BUILDERS: Builder[] = [
     "id": "b-amar",
     "name": "Amar Builders",
     "slug": "amar-builders",
-    "logo": "",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "logo": "/images/builders/amar-builders.svg",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp",
     "description": "Amar Builders is a symbol of ultra-luxury estates and premier Grade-A IT parks across Pashan, Kalyani Nagar, and Baner.",
     "establishedYear": 1978,
     "totalProjects": 35,
@@ -1875,8 +1875,8 @@ export const BUILDERS: Builder[] = [
     "id": "b-pandit-javadekar",
     "name": "Pandit Javadekar",
     "slug": "pandit-javadekar",
-    "logo": "",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "logo": "/images/builders/pandit-javadekar.svg",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
     "description": "Pandit Javadekar specializes in signature boutique residences and architectural landmarks across Shivaji Nagar, Prabhat Road, and Erandwane.",
     "establishedYear": 2002,
     "totalProjects": 24,
@@ -1891,8 +1891,8 @@ export const BUILDERS: Builder[] = [
     "id": "b-nirman",
     "name": "Nirman Developers",
     "slug": "nirman-developers",
-    "logo": "",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    "logo": "/images/builders/nirman-developers.svg",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp",
     "description": "Nirman Developers builds high-quality residential communities and redevelopment high-rises across central and prime Pune nodes.",
     "establishedYear": 1995,
     "totalProjects": 26,
@@ -1909,7 +1909,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-tulip-realty",
     "name": "Tulip Realty",
     "slug": "tulip-realty",
-    "logo": "",
+    "logo": "/images/builders/tulip-realty.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7e9be983-97fd-4deb-aced-9ee2824da745/gallery/mruxcc66-6m0qje.webp",
     "description": "Tulip Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -1943,7 +1943,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-sathe-gandhi-builders",
     "name": "Sathe Gandhi Builders",
     "slug": "sathe-gandhi-builders",
-    "logo": "",
+    "logo": "/images/builders/sathe-gandhi-builders.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1a3387cb-9d2b-44cb-9935-98aa9db7d093/gallery/mttxavd9-66pajv.webp",
     "description": "Sathe Gandhi Builders is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -1960,7 +1960,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-the-skies-group",
     "name": "The Skies Group",
     "slug": "the-skies-group",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mwev2ro6-gfehx2.png?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6dc0c88-7cbe-43d4-9bc3-4158339ebef6/gallery/mvghnbi8-2g2sm4.webp",
     "description": "The Skies Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -1977,7 +1977,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-avani-housing",
     "name": "Avani Housing",
     "slug": "avani-housing",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvtitxfu-ebyssi.png?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f64dd8a4-68e0-46c6-aebf-1d8e29be3e5e/gallery/mvtitxir-2deba1.webp",
     "description": "Avani Housing is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -1994,7 +1994,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-k-raheja-corp",
     "name": "K Raheja Corp",
     "slug": "k-raheja-corp",
-    "logo": "",
+    "logo": "/images/builders/k-raheja-corp.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f6a3ff23-1594-4885-803c-779ac7881160/gallery/mvu15tc7-243ai.webp",
     "description": "K Raheja Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2011,7 +2011,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-privia-group",
     "name": "Privia Group",
     "slug": "privia-group",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/msvmu7ku-8aet6z.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/52142406-0fa2-45cb-9d60-c8bb6404417c/gallery/mumd4yga-7wpi5s.webp",
     "description": "Privia Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2028,7 +2028,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kesar-group",
     "name": "Kesar Group",
     "slug": "kesar-group",
-    "logo": "",
+    "logo": "/images/builders/kesar-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7e61c95f-602f-4601-b133-9770abb853e7/gallery/mvtpn3uf-bwnu6a.webp",
     "description": "Kesar Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2045,7 +2045,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vision-group",
     "name": "Vision Group",
     "slug": "vision-group",
-    "logo": "",
+    "logo": "/images/builders/vision-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8c495758-2bab-434b-bfe8-b7dc50ffdca6/gallery/mumj9ack-3vho0m.webp",
     "description": "Vision Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2062,7 +2062,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-shreenidhi-developers",
     "name": "Shreenidhi Developers",
     "slug": "shreenidhi-developers",
-    "logo": "",
+    "logo": "/images/builders/shreenidhi-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3c41b097-0b1d-403a-aa12-8e604481316d/gallery/mtvftbrc-cmg6cv.webp",
     "description": "Shreenidhi Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2079,7 +2079,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-santiago-on-sector-7-road",
     "name": "Santiago On Sector 7 Road",
     "slug": "santiago-on-sector-7-road",
-    "logo": "",
+    "logo": "/images/builders/santiago-on-sector-7-road.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2be1e665-b28e-4bf5-a42f-348a3a0fa8ff/gallery/mvu2wo4q-g2u1r4.webp",
     "description": "Santiago On Sector 7 Road is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2096,7 +2096,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-konbil-group",
     "name": "Konbil Group",
     "slug": "konbil-group",
-    "logo": "",
+    "logo": "/images/builders/konbil-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1fb3b136-50b8-4324-8729-93f941e2b964/gallery/mvu3597y-eky877.webp",
     "description": "Konbil Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2113,7 +2113,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-the-renowned-architect-arco",
     "name": "The Renowned Architect Arco",
     "slug": "the-renowned-architect-arco",
-    "logo": "",
+    "logo": "/images/builders/the-renowned-architect-arco.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f6112baa-0481-401b-8910-ec78b165019e/gallery/mruxuv87-8c5g2i.webp",
     "description": "The Renowned Architect Arco is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2130,7 +2130,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-gaikwad-corp",
     "name": "Gaikwad Corp",
     "slug": "gaikwad-corp",
-    "logo": "",
+    "logo": "/images/builders/gaikwad-corp.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e90f1de0-1d98-411c-b4ef-e535dce471e7/gallery/mv54jco0-7zkd55.webp",
     "description": "Gaikwad Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2147,7 +2147,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-zenone-developers",
     "name": "Zenone Developers",
     "slug": "zenone-developers",
-    "logo": "",
+    "logo": "/images/builders/zenone-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/30617edf-80e6-434b-adbb-2f306acea067/gallery/mtgwb4eh-bqushf.webp",
     "description": "Zenone Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2164,7 +2164,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-venkatesh-buildcon-on-old-mundhwa-road",
     "name": "Venkatesh Buildcon On Old Mundhwa Road",
     "slug": "venkatesh-buildcon-on-old-mundhwa-road",
-    "logo": "",
+    "logo": "/images/builders/venkatesh-buildcon-on-old-mundhwa-road.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6dcdd53e-530b-446c-a6c8-123ef894a217/gallery/mvu457zd-a1y6oz.webp",
     "description": "Venkatesh Buildcon On Old Mundhwa Road is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2181,7 +2181,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-pashankar-developers",
     "name": "Pashankar Developers",
     "slug": "pashankar-developers",
-    "logo": "",
+    "logo": "/images/builders/pashankar-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b93ed04d-dde2-433f-bb89-694ae6959151/gallery/mvu4n4xe-3dqfkr.webp",
     "description": "Pashankar Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2198,7 +2198,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-dream-works-realtors",
     "name": "Dream Works Realtors",
     "slug": "dream-works-realtors",
-    "logo": "",
+    "logo": "/images/builders/dream-works-realtors.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/efc5ccba-be62-4ab9-b3c3-5dd304d1bbc9/gallery/mvupv33n-92xe2v.webp",
     "description": "Dream Works Realtors is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2215,7 +2215,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-sai-nisarg-landmark",
     "name": "Sai Nisarg Landmark",
     "slug": "sai-nisarg-landmark",
-    "logo": "",
+    "logo": "/images/builders/sai-nisarg-landmark.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/31cd26d0-3555-4bdf-8c1e-7a840afda71b/gallery/mvuiy6vl-a7nd8u.webp",
     "description": "Sai Nisarg Landmark is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2232,7 +2232,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-pride-group",
     "name": "Pride Group",
     "slug": "pride-group",
-    "logo": "",
+    "logo": "/images/builders/pride-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0345fcc0-f941-42e3-b0ca-79fe7ceba616/gallery/mvv3stv8-aigzir.webp",
     "description": "Pride Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2249,7 +2249,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-prapti-buildcon",
     "name": "Prapti Buildcon",
     "slug": "prapti-buildcon",
-    "logo": "",
+    "logo": "/images/builders/prapti-buildcon.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1c2a076f-5560-471a-b74d-4b10d2c36256/gallery/mvu4lfz8-ec7cds.webp",
     "description": "Prapti Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2266,7 +2266,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-skyway-builder-and-developers",
     "name": "Skyway Builder and Developers",
     "slug": "skyway-builder-and-developers",
-    "logo": "",
+    "logo": "/images/builders/skyway-builder-and-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bb0d8689-c959-429c-9ab4-183d2095c8a6/gallery/mv0nnnmq-37o9ge.webp",
     "description": "Skyway Builder and Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2283,7 +2283,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vtp-group",
     "name": "VTP Group",
     "slug": "vtp-group",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvhz6zy1-4yev0s.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3080c1b4-ff23-4ee0-8a58-455bad35d65d/gallery/mvhz2nod-wvqip.webp",
     "description": "VTP Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2300,7 +2300,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-four-pillars",
     "name": "Four Pillars",
     "slug": "four-pillars",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvu2edz4-d1ioy0.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6bc773eb-7656-403b-99d7-978a3cfe26e6/gallery/mvu2ee0x-d824tw.webp",
     "description": "Four Pillars is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2317,7 +2317,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-adi-realtors",
     "name": "Adi Realtors",
     "slug": "adi-realtors",
-    "logo": "",
+    "logo": "/images/builders/adi-realtors.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "description": "Adi Realtors is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2334,7 +2334,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-nawani-developers",
     "name": "Nawani Developers",
     "slug": "nawani-developers",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvuq5cij-5qvn57.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bdc6357f-5214-4ad0-83d5-d0ed962f20b4/gallery/mvuq5ckd-f5ryas.webp",
     "description": "Nawani Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2351,7 +2351,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-palladio-developers",
     "name": "Palladio Developers",
     "slug": "palladio-developers",
-    "logo": "",
+    "logo": "/images/builders/palladio-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/765c8240-3fed-4d70-b271-5ecbd6547ee4/gallery/mvv5vy43-31pt59.webp",
     "description": "Palladio Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2368,7 +2368,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vissionary-developers",
     "name": "Vissionary Developers",
     "slug": "vissionary-developers",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mwevqiij-2bqhux.png?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/934ae67a-4206-4655-b43b-e446319056a8/gallery/mvuqeigv-choo9y.webp",
     "description": "Vissionary Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2385,7 +2385,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-mittal-brothers-on-pan-card-club-road",
     "name": "Mittal Brothers On Pan Card Club Road",
     "slug": "mittal-brothers-on-pan-card-club-road",
-    "logo": "",
+    "logo": "/images/builders/mittal-brothers-on-pan-card-cluroad.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "description": "Mittal Brothers On Pan Card Club Road is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2402,7 +2402,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-tejraj-group",
     "name": "Tejraj Group",
     "slug": "tejraj-group",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvwj57ky-7okfil.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/039e0489-632a-4fe2-9173-0fb7f39f299c/gallery/mvwj9k0v-1pknb2.webp",
     "description": "Tejraj Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2419,7 +2419,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-garve-group",
     "name": "Garve Group",
     "slug": "garve-group",
-    "logo": "",
+    "logo": "/images/builders/garve-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/eb5f46da-c60b-4969-834b-26d3f953ba50/gallery/msw2inrx-2gkm3l.webp",
     "description": "Garve Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2436,7 +2436,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-asap-spaces",
     "name": "ASAP Spaces",
     "slug": "asap-spaces",
-    "logo": "",
+    "logo": "/images/builders/asap-spaces.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6f179efc-b2df-49a3-b42b-b7335719d627/gallery/mvwhgwmc-fz80rc.webp",
     "description": "ASAP Spaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2453,7 +2453,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-excellaa-realty",
     "name": "Excellaa Realty",
     "slug": "excellaa-realty",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvwk2rxi-ftm8f5.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1f3df788-7035-4e21-8487-a66424ab8f1f/gallery/mvwl1o7c-1x2u56.webp",
     "description": "Excellaa Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2470,7 +2470,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kuber-properties",
     "name": "Kuber Properties",
     "slug": "kuber-properties",
-    "logo": "",
+    "logo": "/images/builders/kuber-properties.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a92fc5ac-8421-4852-af64-88fdc835cc3c/gallery/mvv3umst-naexw.webp",
     "description": "Kuber Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2487,7 +2487,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-prime-properties",
     "name": "Prime Properties",
     "slug": "prime-properties",
-    "logo": "",
+    "logo": "/images/builders/prime-properties.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a3cccdc6-45e5-43ed-9364-4fc12208ec47/gallery/mwbwzfz9-39rbi.webp",
     "description": "Prime Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2504,7 +2504,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-pristine-properties",
     "name": "Pristine Properties",
     "slug": "pristine-properties",
-    "logo": "",
+    "logo": "/images/builders/pristine-properties.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9e955491-de5d-45c8-a1e5-b959ff896266/gallery/mwbxwt43-7q82bw.webp",
     "description": "Pristine Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2521,7 +2521,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-uha-london",
     "name": "Uha London",
     "slug": "uha-london",
-    "logo": "",
+    "logo": "/images/builders/uha-london.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fe3bba83-c3a1-4ebc-a7d3-38119f5f80bd/gallery/mwbxypu9-f14zae.webp",
     "description": "Uha London is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2538,7 +2538,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-unique-properties",
     "name": "Unique Properties",
     "slug": "unique-properties",
-    "logo": "",
+    "logo": "/images/builders/unique-properties.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/991a2afa-8abc-43d8-a7a9-e2374e67d2b8/gallery/mwbvbhe8-d8o2s4.webp",
     "description": "Unique Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2555,7 +2555,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-krisna-nirmaan-skyscraper-llp",
     "name": "Krisna Nirmaan Skyscraper Llp",
     "slug": "krisna-nirmaan-skyscraper-llp",
-    "logo": "",
+    "logo": "/images/builders/krisna-nirmaan-skyscraper-llp.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cd6d53c1-cdb6-454a-b6d2-2a4fc40a4a86/gallery/mwbydpc9-6l1q7t.webp",
     "description": "Krisna Nirmaan Skyscraper Llp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2572,7 +2572,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-smruti-developers",
     "name": "Smruti Developers",
     "slug": "smruti-developers",
-    "logo": "",
+    "logo": "/images/builders/smruti-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2b8f970d-6ab2-4a1b-99dd-e5ca6ba33dd0/gallery/ms4ksnxm-c0g7p.webp",
     "description": "Smruti Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2589,7 +2589,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-stalwart-developers",
     "name": "Stalwart Developers",
     "slug": "stalwart-developers",
-    "logo": "",
+    "logo": "/images/builders/stalwart-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/edbd80d8-4bc4-41bc-8999-809af0344a9d/gallery/mtzmqeli-5bffdg.webp",
     "description": "Stalwart Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2606,7 +2606,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-38-developers",
     "name": "38 Developers",
     "slug": "38-developers",
-    "logo": "",
+    "logo": "/images/builders/38-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/060d4b73-861b-4946-a14a-f4cdbd228afb/gallery/mwc04zj6-7e49ma.webp",
     "description": "38 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2623,7 +2623,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-ranawat-group",
     "name": "Ranawat Group",
     "slug": "ranawat-group",
-    "logo": "",
+    "logo": "/images/builders/ranawat-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fe3ecf58-88a1-48db-8f0a-9127bff57588/gallery/mwc0rswd-7idamn.webp",
     "description": "Ranawat Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2640,7 +2640,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-mangalam-landmarks",
     "name": "Mangalam Landmarks",
     "slug": "mangalam-landmarks",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvez0s1n-56n27t.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ee3d3709-ccba-444e-b44c-94c656b58362/gallery/mwbyso1b-ag04mv.webp",
     "description": "Mangalam Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2657,7 +2657,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-luxton-developers",
     "name": "Luxton Developers",
     "slug": "luxton-developers",
-    "logo": "",
+    "logo": "/images/builders/luxton-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bc16413d-ccb5-44a6-af16-228c1ca63cf9/gallery/mwc0gptg-11z3av.webp",
     "description": "Luxton Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2674,7 +2674,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-agarwal-and-bhondve-buildcon",
     "name": "Agarwal and Bhondve Buildcon",
     "slug": "agarwal-and-bhondve-buildcon",
-    "logo": "",
+    "logo": "/images/builders/agarwal-and-bhondve-buildcon.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qjyd-3efmmg.webp",
     "description": "Agarwal and Bhondve Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2691,7 +2691,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-nirman-greens",
     "name": "Nirman Greens",
     "slug": "nirman-greens",
-    "logo": "",
+    "logo": "/images/builders/nirman-greens.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24ca7459-95bd-4594-85b9-4b2d720268ff/gallery/mwc1i5m1-1nxgpq.webp",
     "description": "Nirman Greens is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2708,7 +2708,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-city-one",
     "name": "City one",
     "slug": "city-one",
-    "logo": "",
+    "logo": "/images/builders/city-one.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6afd9e53-566c-495c-8534-7ef6714229a9/gallery/mwbwamia-8f90y4.webp",
     "description": "City one is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2725,7 +2725,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-over-40-curated-lifestyle-amenities",
     "name": "Over 40 Curated Lifestyle Amenities",
     "slug": "over-40-curated-lifestyle-amenities",
-    "logo": "",
+    "logo": "/images/builders/over-40-curated-lifestyle-amenities.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f0b24c37-657e-4713-a35f-c1b0d9e96998/gallery/mrpbpbt9-5sv0q6.webp",
     "description": "Over 40 Curated Lifestyle Amenities is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2742,7 +2742,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-balaji-builders",
     "name": "Balaji Builders",
     "slug": "balaji-builders",
-    "logo": "",
+    "logo": "/images/builders/balaji-builders.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e0bddd57-1189-435c-9a61-82e7913baff8/gallery/mvhn571w-66kq18.jpg",
     "description": "Balaji Builders is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2759,7 +2759,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-legacy-lifespaces",
     "name": "Legacy Lifespaces",
     "slug": "legacy-lifespaces",
-    "logo": "",
+    "logo": "/images/builders/legacy-lifespaces.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8394e5dc-7d40-49e2-91d1-9e2213a3a9ed/gallery/mvcpkd09-iqw96.webp",
     "description": "Legacy Lifespaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2776,7 +2776,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-blue-pearl-group",
     "name": "Blue Pearl Group",
     "slug": "blue-pearl-group",
-    "logo": "",
+    "logo": "/images/builders/blue-pearl-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/84580f53-f3be-4a1b-94b5-c387737e5da0/gallery/mwc182b1-6xmrng.webp",
     "description": "Blue Pearl Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2793,7 +2793,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-three-lifts",
     "name": "Three Lifts",
     "slug": "three-lifts",
-    "logo": "",
+    "logo": "/images/builders/three-lifts.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/681ee323-40a2-43c6-aa6b-b1b628b41ded/gallery/mvv3sx8p-fro66f.webp",
     "description": "Three Lifts is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2810,7 +2810,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-binary-infrastructures",
     "name": "Binary infrastructures",
     "slug": "binary-infrastructures",
-    "logo": "",
+    "logo": "/images/builders/binary-infrastructures.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ccb891cd-2a8e-4ea7-be32-f82930b0bf1e/gallery/mryv0mv8-f5iven.webp",
     "description": "Binary infrastructures is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2827,7 +2827,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-architect-hafeez-contractor",
     "name": "Architect Hafeez Contractor",
     "slug": "architect-hafeez-contractor",
-    "logo": "",
+    "logo": "/images/builders/architect-hafeez-contractor.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/87e7f1a3-7eec-46eb-8c85-2f6047e38451/gallery/mwc2r2a3-4mlk77.webp",
     "description": "Architect Hafeez Contractor is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2844,7 +2844,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-santiago-realty",
     "name": "Santiago Realty",
     "slug": "santiago-realty",
-    "logo": "",
+    "logo": "/images/builders/santiago-realty.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a29ec45e-adb5-4102-8301-1359013fc422/gallery/mwbu7slc-a0l7qs.webp",
     "description": "Santiago Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2861,7 +2861,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-dasscon-realty",
     "name": "Dasscon Realty",
     "slug": "dasscon-realty",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mwevqe60-583g08.png?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7544fa37-d446-4c0f-b468-f46524919acb/gallery/mwevqe85-503eob.webp",
     "description": "Dasscon Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2878,7 +2878,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-a-lift-and-a-fire-lift",
     "name": "A Lift And A Fire Lift",
     "slug": "a-lift-and-a-fire-lift",
-    "logo": "",
+    "logo": "/images/builders/a-lift-and-a-fire-lift.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3f30183c-dee9-474d-aa2e-283b5b964ca4/gallery/mwc1yu9z-32chh9.webp",
     "description": "A Lift And A Fire Lift is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2895,7 +2895,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-tayal-corp",
     "name": "Tayal Corp",
     "slug": "tayal-corp",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/ms3hgof1-1k0oq3.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxot5-2uipt2.webp",
     "description": "Tayal Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2912,7 +2912,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vtp-luxe",
     "name": "Vtp Luxe",
     "slug": "vtp-luxe",
-    "logo": "",
+    "logo": "/images/builders/vtp-luxe.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d19a8bbe-9e37-4dbf-a9fc-76590fd6a791/gallery/mvhz2yqd-eaboou.webp",
     "description": "Vtp Luxe is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2929,7 +2929,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vtop-spaces",
     "name": "VTOP Spaces",
     "slug": "vtop-spaces",
-    "logo": "",
+    "logo": "/images/builders/vtop-spaces.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e5f322d4-5af4-4386-95f4-9858807fdc3d/gallery/mwevqikj-7c7wfj.webp",
     "description": "VTOP Spaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2946,7 +2946,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-gd-square-spaces",
     "name": "Gd Square Spaces",
     "slug": "gd-square-spaces",
-    "logo": "",
+    "logo": "/images/builders/gd-square-spaces.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e15cd083-ae07-4325-a450-25bf2e8a9fe5/gallery/mvgyqfx3-c7yqyo.webp",
     "description": "Gd Square Spaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2963,7 +2963,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-rohit-infra",
     "name": "Rohit Infra",
     "slug": "rohit-infra",
-    "logo": "",
+    "logo": "/images/builders/rohit-infra.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/322d07a0-6385-4d77-8780-aeec2575abe7/gallery/msua2uw5-9cimze.webp",
     "description": "Rohit Infra is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2980,7 +2980,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-chandrarang-group",
     "name": "Chandrarang Group",
     "slug": "chandrarang-group",
-    "logo": "",
+    "logo": "/images/builders/chandrarang-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrj96u-2995as.webp",
     "description": "Chandrarang Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -2997,7 +2997,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-life-spaces-realty",
     "name": "Life Spaces Realty",
     "slug": "life-spaces-realty",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mwevkidr-9mm3ue.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkifz-70hrok.webp",
     "description": "Life Spaces Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3014,7 +3014,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-estofa-realty",
     "name": "Estofa Realty",
     "slug": "estofa-realty",
-    "logo": "",
+    "logo": "/images/builders/estofa-realty.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/dbe6d4d7-22d8-411f-ac8e-0c297a741dec/gallery/mvj3dtph-e0p9h9.webp",
     "description": "Estofa Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3031,7 +3031,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-gurukrupa-developers",
     "name": "Gurukrupa Developers",
     "slug": "gurukrupa-developers",
-    "logo": "",
+    "logo": "/images/builders/gurukrupa-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/900844af-b054-425d-8239-3c454aa794b9/gallery/mu9zjkju-3xkdey.webp",
     "description": "Gurukrupa Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3048,7 +3048,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-escala-developers",
     "name": "Escala Developers",
     "slug": "escala-developers",
-    "logo": "",
+    "logo": "/images/builders/escala-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a5446ba3-bd84-43ba-9078-c482ca87653f/gallery/mwc2g7zr-3i7hkc.webp",
     "description": "Escala Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3065,7 +3065,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-shapoorji-pallonji",
     "name": "Shapoorji Pallonji",
     "slug": "shapoorji-pallonji",
-    "logo": "",
+    "logo": "/images/builders/shapoorji-pallonji.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3f50d75f-ca48-494b-946f-240dd8c3adf7/gallery/mwewan2f-5n6nc0.webp",
     "description": "Shapoorji Pallonji is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3082,7 +3082,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kunal-landmarks",
     "name": "Kunal Landmarks",
     "slug": "kunal-landmarks",
-    "logo": "",
+    "logo": "/images/builders/kunal-landmarks.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/06e74847-186b-4b70-886e-b1e9e8ea59c6/gallery/mvjcr8zz-3mph1i.webp",
     "description": "Kunal Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3099,7 +3099,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-anp-corp",
     "name": "ANP Corp",
     "slug": "anp-corp",
-    "logo": "",
+    "logo": "/images/builders/anp-corp.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6634267-49ad-49d9-957a-3053de1e1203/gallery/msqeqa47-83fc3u.webp",
     "description": "ANP Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3116,7 +3116,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-mahalaxmi-group",
     "name": "Mahalaxmi Group",
     "slug": "mahalaxmi-group",
-    "logo": "",
+    "logo": "/images/builders/mahalaxmi-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3eba92fd-037c-4c0d-8138-adda9e82f72b/gallery/mrpbbfni-ezvifz.webp",
     "description": "Mahalaxmi Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3133,7 +3133,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-nitaara-developers",
     "name": "Nitaara Developers",
     "slug": "nitaara-developers",
-    "logo": "",
+    "logo": "/images/builders/nitaara-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5e68d5f1-9feb-47fa-b46b-8c8c37bfa3a8/gallery/msd5hqri-179i32.webp",
     "description": "Nitaara Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3150,7 +3150,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-arkaay-developers",
     "name": "Arkaay Developers",
     "slug": "arkaay-developers",
-    "logo": "",
+    "logo": "/images/builders/arkaay-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c8b7b2c5-d220-4557-b4d5-b02d2662c19c/gallery/mrqr33d9-b8r2m3.webp",
     "description": "Arkaay Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3167,7 +3167,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-arion-developers",
     "name": "Arion Developers",
     "slug": "arion-developers",
-    "logo": "",
+    "logo": "/images/builders/arion-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bc0ee393-91a5-411b-8c9e-15fc80797b1d/gallery/muwgu14e-36to9c.webp",
     "description": "Arion Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3184,7 +3184,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-silverise-group",
     "name": "SilveRise Group",
     "slug": "silverise-group",
-    "logo": "",
+    "logo": "/images/builders/silverise-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6225ea51-db39-4bd2-ba6c-36faf40655ef/gallery/mrwdlc7g-mk6mn.webp",
     "description": "SilveRise Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3201,7 +3201,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-truespace",
     "name": "Truespace",
     "slug": "truespace",
-    "logo": "",
+    "logo": "/images/builders/truespace.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/91e54192-3706-40ab-9bdd-76ae599d129d/gallery/muckf6xb-53r7zr.webp",
     "description": "Truespace is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3218,7 +3218,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-krishna-rrealty",
     "name": "Krishna Rrealty",
     "slug": "krishna-rrealty",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvf8b6vs-55p4ul.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/92685a0d-2bbc-4399-bf68-87ff551065bc/gallery/mvfck3l0-9s42q5.webp",
     "description": "Krishna Rrealty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3235,7 +3235,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-sukhwani-associates",
     "name": "Sukhwani associates",
     "slug": "sukhwani-associates",
-    "logo": "",
+    "logo": "/images/builders/sukhwani-associates.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6634267-49ad-49d9-957a-3053de1e1203/gallery/msqeq4xg-4xkfh8.webp",
     "description": "Sukhwani associates is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3252,7 +3252,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-mansion-creators",
     "name": "Mansion Creators",
     "slug": "mansion-creators",
-    "logo": "",
+    "logo": "/images/builders/mansion-creators.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/81c2c2a9-64be-4320-aa47-8f9e4cb5425d/gallery/mrs2cui8-5tomwi.webp",
     "description": "Mansion Creators is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3269,7 +3269,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-milleflori-developers",
     "name": "Milleflori Developers",
     "slug": "milleflori-developers",
-    "logo": "",
+    "logo": "/images/builders/milleflori-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b9096b94-5d0b-409b-9d81-f0ca2173d49f/gallery/mrpaw7gi-63m6i6.webp",
     "description": "Milleflori Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3286,7 +3286,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kamalraj-group",
     "name": "Kamalraj Group",
     "slug": "kamalraj-group",
-    "logo": "",
+    "logo": "/images/builders/kamalraj-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/951a2bb9-e10c-48cb-9bf3-99c455c5e238/gallery/msfujbzj-706kdg.webp",
     "description": "Kamalraj Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3303,7 +3303,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-drashti-developers",
     "name": "Drashti Developers",
     "slug": "drashti-developers",
-    "logo": "",
+    "logo": "/images/builders/drashti-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/033577c7-cde6-4c1d-acfd-995991176460/gallery/mtifivk9-afc26n.webp",
     "description": "Drashti Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3320,7 +3320,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-sentosa-landmarks",
     "name": "Sentosa Landmarks",
     "slug": "sentosa-landmarks",
-    "logo": "",
+    "logo": "/images/builders/sentosa-landmarks.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ef1e189a-9218-43da-94aa-9535701986cc/gallery/muk19zsp-fwwy3j.webp",
     "description": "Sentosa Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3337,7 +3337,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-austin-realty",
     "name": "Austin Realty",
     "slug": "austin-realty",
-    "logo": "",
+    "logo": "/images/builders/austin-realty.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6a5fe380-4809-4829-b89d-7d8f4402804a/gallery/mtn4l78m-fntzk9.webp",
     "description": "Austin Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3354,7 +3354,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-croissance-buildcon",
     "name": "Croissance Buildcon",
     "slug": "croissance-buildcon",
-    "logo": "",
+    "logo": "/images/builders/croissance-buildcon.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3302b32c-7d28-4e95-8ff5-6f646428c415/gallery/mvgyqu7b-6afjkz.webp",
     "description": "Croissance Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3371,7 +3371,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-siyaram-developers",
     "name": "Siyaram Developers",
     "slug": "siyaram-developers",
-    "logo": "",
+    "logo": "/images/builders/siyaram-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a411bc50-3b7f-4951-9ae1-80c0863adb52/gallery/mvgyrjr4-c3kus9.webp",
     "description": "Siyaram Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3388,7 +3388,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-eh-developers",
     "name": "EH Developers",
     "slug": "eh-developers",
-    "logo": "",
+    "logo": "/images/builders/eh-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ade080ee-6bd8-4ea7-b8c7-66a937f7b80e/gallery/mttz63o6-30e3b.webp",
     "description": "EH Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3405,7 +3405,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-livience-lifespaces",
     "name": "Livience Lifespaces",
     "slug": "livience-lifespaces",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvu1ao88-8i47v8.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6565c818-1762-439b-a08e-025169ea5272/gallery/mt7hxg5c-4j78qj.webp",
     "description": "Livience Lifespaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3422,7 +3422,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-amberwood-developers",
     "name": "Amberwood Developers",
     "slug": "amberwood-developers",
-    "logo": "",
+    "logo": "/images/builders/amberwood-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/98e067af-424f-4cb4-a951-e3cc6019bad3/gallery/mtgx35jy-ew6od9.webp",
     "description": "Amberwood Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3439,7 +3439,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-adhira-developers",
     "name": "Adhira Developers",
     "slug": "adhira-developers",
-    "logo": "",
+    "logo": "/images/builders/adhira-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e2fa3cf8-05e9-4bd2-8a98-ec971184f31d/gallery/mv3pw5ns-a4mo46.webp",
     "description": "Adhira Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3456,7 +3456,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-december-2029",
     "name": "December 2029",
     "slug": "december-2029",
-    "logo": "",
+    "logo": "/images/builders/december-2029.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/45de421c-44fe-4268-af50-b309ffa7f1b6/gallery/ms0bzxch-c98x7p.webp",
     "description": "December 2029 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3473,7 +3473,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-arihant-developers",
     "name": "Arihant Developers",
     "slug": "arihant-developers",
-    "logo": "",
+    "logo": "/images/builders/arihant-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/67b56909-af22-4dee-8b51-64b0d14c3288/gallery/mt09ixxo-1bh3bg.webp",
     "description": "Arihant Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3490,7 +3490,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-new-developers",
     "name": "New Developers",
     "slug": "new-developers",
-    "logo": "",
+    "logo": "/images/builders/new-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1edaa53d-bf29-49fb-bbd4-a1388fd59928/gallery/ms4gyuat-d320b3.webp",
     "description": "New Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3507,7 +3507,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-51-developers",
     "name": "51 Developers",
     "slug": "51-developers",
-    "logo": "",
+    "logo": "/images/builders/51-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9b195edf-c20c-4111-994a-8f5bcf6ea104/gallery/mrysr25n-c3xe2z.webp",
     "description": "51 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3524,7 +3524,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-nexus-group",
     "name": "Nexus Group",
     "slug": "nexus-group",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mt8gi73h-dwvbiu.jpg?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3f5cde23-0711-4d66-bf8a-15b8ed16d1d3/gallery/mvgypv2r-3xk6hd.webp",
     "description": "Nexus Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3541,7 +3541,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-skylish-bluediamond-innfrracon",
     "name": "Skylish Bluediamond Innfrracon",
     "slug": "skylish-bluediamond-innfrracon",
-    "logo": "",
+    "logo": "/images/builders/skylish-bluediamond-innfrracon.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f26fa0df-240e-434d-a8d3-5b906c62f914/gallery/mvgynds1-z2owo.webp",
     "description": "Skylish Bluediamond Innfrracon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3558,7 +3558,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kasturi-developers",
     "name": "Kasturi Developers",
     "slug": "kasturi-developers",
-    "logo": "",
+    "logo": "/images/builders/kasturi-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5563c52c-c0af-49f1-a4cb-64afe9562e41/gallery/ms4etuwm-db78p6.webp",
     "description": "Kasturi Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3575,7 +3575,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-ashirwad-enterprises",
     "name": "Ashirwad Enterprises",
     "slug": "ashirwad-enterprises",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mrrpcr8s-27v62.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cd8d7ef8-9ffe-45cc-8756-eb1507dd6c8b/gallery/mrrqryju-dmx6iw.webp",
     "description": "Ashirwad Enterprises is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3592,7 +3592,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-sonigara-corp",
     "name": "Sonigara Corp",
     "slug": "sonigara-corp",
-    "logo": "",
+    "logo": "/images/builders/sonigara-corp.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b0cbcbc-bafa-4edd-8daf-bc0345a92fb0/gallery/ms4l9d4t-3a0rkn.webp",
     "description": "Sonigara Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3609,7 +3609,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-ambrosia-developers",
     "name": "Ambrosia Developers",
     "slug": "ambrosia-developers",
-    "logo": "",
+    "logo": "/images/builders/ambrosia-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3ef14a0a-4b80-4f76-b6f2-eab72a9ca5a4/gallery/msvcd541-6sf26n.webp",
     "description": "Ambrosia Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3626,7 +3626,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-arise-developers",
     "name": "Arise Developers",
     "slug": "arise-developers",
-    "logo": "",
+    "logo": "/images/builders/arise-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b90c69e-3eb1-4936-a613-d637d6da763d/gallery/mrwe0mp4-6rme71.webp",
     "description": "Arise Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3643,7 +3643,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-jhamtani-group",
     "name": "Jhamtani Group",
     "slug": "jhamtani-group",
-    "logo": "",
+    "logo": "/images/builders/jhamtani-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a7c1e982-9ff3-48d5-a23e-a4b95472c926/gallery/mryun1xh-ejxjkp.webp",
     "description": "Jhamtani Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3660,7 +3660,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-rk-developers",
     "name": "RK Developers",
     "slug": "rk-developers",
-    "logo": "",
+    "logo": "/images/builders/rk-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1a7ea786-7a45-4de8-94ff-cb7a5120e313/gallery/mrtjxzzr-c2zjv0.webp",
     "description": "RK Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3677,7 +3677,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-road",
     "name": "Road",
     "slug": "road",
-    "logo": "",
+    "logo": "/images/builders/road.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/971a27a7-2ca1-49aa-ba47-7c19565a97c9/cover/mvgys14z-1gy57z.webp",
     "description": "Road is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3694,7 +3694,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-merak-developers",
     "name": "Merak Developers",
     "slug": "merak-developers",
-    "logo": "",
+    "logo": "/images/builders/merak-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f922d466-3cad-4f91-b178-a719f2d12f4a/gallery/mv3m472j-awlzz4.webp",
     "description": "Merak Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3711,7 +3711,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-elite-group",
     "name": "Elite Group",
     "slug": "elite-group",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mwc3colk-1osekx.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/17506f3d-4570-4491-940a-8e53076f3147/gallery/mrxe7nch-u35fu.webp",
     "description": "Elite Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3728,7 +3728,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-v-developers",
     "name": "V Developers",
     "slug": "v-developers",
-    "logo": "",
+    "logo": "/images/builders/v-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/34e1a7a3-da32-4ff4-b128-2a4e7a4e4dba/gallery/ms389nk0-3rrvzk.webp",
     "description": "V Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3745,7 +3745,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-march-2027",
     "name": "March 2027",
     "slug": "march-2027",
-    "logo": "",
+    "logo": "/images/builders/march-2027.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/689e361f-8e73-4017-b516-a5938945476d/gallery/mrwc477v-dwfcec.webp",
     "description": "March 2027 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3762,7 +3762,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-muktangan-developers",
     "name": "Muktangan Developers",
     "slug": "muktangan-developers",
-    "logo": "",
+    "logo": "/images/builders/muktangan-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9ec7dd8e-663f-46ec-8417-95f0d3543de8/gallery/mtmr3mdh-7j4vb6.webp",
     "description": "Muktangan Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3779,7 +3779,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-icon-group",
     "name": "ICON Group",
     "slug": "icon-group",
-    "logo": "",
+    "logo": "/images/builders/icon-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8f3a80d8-062b-4b96-abdd-8c9d4ace387c/gallery/mtwtazw8-padtx.webp",
     "description": "ICON Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3796,7 +3796,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-avis-group",
     "name": "AVIS Group",
     "slug": "avis-group",
-    "logo": "",
+    "logo": "/images/builders/avis-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5a8eacc1-bed9-4a3c-b415-2bbb35d962f2/gallery/mrytvdlm-9pl1vk.webp",
     "description": "AVIS Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3813,7 +3813,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vardhaman-properties",
     "name": "Vardhaman Properties",
     "slug": "vardhaman-properties",
-    "logo": "",
+    "logo": "/images/builders/vardhaman-properties.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cba33f94-0ced-4c4d-b487-943ecea5bfc6/gallery/msqd8hks-542thg.webp",
     "description": "Vardhaman Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3830,7 +3830,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-millefiori-developers",
     "name": "Millefiori Developers",
     "slug": "millefiori-developers",
-    "logo": "",
+    "logo": "/images/builders/millefiori-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/058bc5a5-6696-4f4b-a1a6-5cf87aa39ce5/gallery/mrtb5j80-eda8wv.webp",
     "description": "Millefiori Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3847,7 +3847,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-nancy-developers",
     "name": "Nancy Developers",
     "slug": "nancy-developers",
-    "logo": "",
+    "logo": "/images/builders/nancy-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ab9177c3-e72f-4a60-bf98-5daa9077dbae/gallery/mtshghnd-8wewuu.webp",
     "description": "Nancy Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3864,7 +3864,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-abhinav-group",
     "name": "abhinav group",
     "slug": "abhinav-group",
-    "logo": "",
+    "logo": "/images/builders/abhinav-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ade9cb2c-2037-4201-8340-afe156a62f58/gallery/msg83yk3-esrzgm.webp",
     "description": "abhinav group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3881,7 +3881,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-platinum-buildcon",
     "name": "Platinum Buildcon",
     "slug": "platinum-buildcon",
-    "logo": "",
+    "logo": "/images/builders/platinum-buildcon.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/48611d1f-ff42-4e50-b233-ff28ff267b56/gallery/mrs4g8oe-3soz7l.webp",
     "description": "Platinum Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3898,7 +3898,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-prime-developers",
     "name": "Prime Developers",
     "slug": "prime-developers",
-    "logo": "",
+    "logo": "/images/builders/prime-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/848b9e71-e076-4683-ba26-f19b8a4d9c19/cover/mtr83uon-1vi659.webp",
     "description": "Prime Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3915,7 +3915,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-pk-group",
     "name": "PK Group",
     "slug": "pk-group",
-    "logo": "",
+    "logo": "/images/builders/pk-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0b8cdabd-bf10-456b-990d-bb5003951810/gallery/mrqnwa0o-2i0li2.webp",
     "description": "PK Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3932,7 +3932,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-ravima-ventures",
     "name": "Ravima Ventures",
     "slug": "ravima-ventures",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mryvoy8i-e9ig6b.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a0614d4f-2ac7-4c8f-b396-4d3797eca4bf/gallery/mryvtd6h-kfk7m.webp",
     "description": "Ravima Ventures is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3949,7 +3949,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-rgs-realty",
     "name": "RGS Realty",
     "slug": "rgs-realty",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mrrjf9p2-99pf3l.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e9d4696f-89b3-4cd7-8770-7fd8b9e9059f/gallery/msek5hjv-9e6b5l.webp",
     "description": "RGS Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3966,7 +3966,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-ramsa-developers",
     "name": "RamSa Developers",
     "slug": "ramsa-developers",
-    "logo": "",
+    "logo": "/images/builders/ramsa-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f3617d21-0df9-4450-b9bc-65424cd5106c/gallery/msyl37wy-am3g1o.webp",
     "description": "RamSa Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -3983,7 +3983,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-rahul-constructions",
     "name": "Rahul Constructions",
     "slug": "rahul-constructions",
-    "logo": "",
+    "logo": "/images/builders/rahul-constructions.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/787b453c-d317-43e5-bb50-f5264fa4899c/gallery/msykifjn-252gzg.jpg",
     "description": "Rahul Constructions is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4000,7 +4000,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-preet-promoter",
     "name": "Preet Promoter",
     "slug": "preet-promoter",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvv3sqoh-6snjcz.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/952b0965-d22a-4a32-9ac6-596edd404dfe/gallery/msyrrijj-58yi4p.webp",
     "description": "Preet Promoter is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4017,7 +4017,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-sankla-buildcon",
     "name": "Sankla Buildcon",
     "slug": "sankla-buildcon",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvu2wo2r-9dbqgt.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2b32e733-dec7-4486-b4d7-e3db030fcc2f/gallery/mt8raaul-c6uyu2.webp",
     "description": "Sankla Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4034,7 +4034,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-sankalp-group",
     "name": "Sankalp Group",
     "slug": "sankalp-group",
-    "logo": "",
+    "logo": "/images/builders/sankalp-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24e8b4ba-f85b-4d56-9714-067e8e838fb0/gallery/msabb9qm-mhpib.webp",
     "description": "Sankalp Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4051,7 +4051,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-onkar-developers",
     "name": "Onkar Developers",
     "slug": "onkar-developers",
-    "logo": "",
+    "logo": "/images/builders/onkar-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0cc7c1eb-b0b8-46a2-8135-af7b5aa30e87/gallery/msd1y5rp-5iy0o.webp",
     "description": "Onkar Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4068,7 +4068,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-bizzbay-developers",
     "name": "Bizzbay Developers",
     "slug": "bizzbay-developers",
-    "logo": "",
+    "logo": "/images/builders/bizzbay-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3dc1b420-f927-42eb-9b73-646a8b60bc78/gallery/mtzo6olh-8xlhqt.webp",
     "description": "Bizzbay Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4085,7 +4085,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-renuka-construction",
     "name": "Renuka Construction",
     "slug": "renuka-construction",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mryx1lpy-b8ta1q.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6cd703f1-29fd-4e79-974a-f66e627b5887/gallery/mt8qcwcb-b9m2g4.webp",
     "description": "Renuka Construction is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4102,7 +4102,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-t-developers",
     "name": "T Developers",
     "slug": "t-developers",
-    "logo": "",
+    "logo": "/images/builders/t-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24d6ae25-a0ce-448a-b1e0-802f910a6444/gallery/mua3kvmu-504b36.webp",
     "description": "T Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4119,7 +4119,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-almal-is-a-4-bhk-residential-project",
     "name": "Almal Is A 4 Bhk Residential Project",
     "slug": "almal-is-a-4-bhk-residential-project",
-    "logo": "",
+    "logo": "/images/builders/almal-is-a-4-bhk-residential-project.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9b539eae-9101-4db6-8609-a0a1783bceab/gallery/munxv6ju-4rrct3.webp",
     "description": "Almal Is A 4 Bhk Residential Project is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4136,7 +4136,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-codename-developers",
     "name": "Codename Developers",
     "slug": "codename-developers",
-    "logo": "",
+    "logo": "/images/builders/codename-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24d6ae25-a0ce-448a-b1e0-802f910a6444/gallery/mua3l5m3-9a3h3s.webp",
     "description": "Codename Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4153,7 +4153,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-tulip-group",
     "name": "Tulip Group",
     "slug": "tulip-group",
-    "logo": "",
+    "logo": "/images/builders/tulip-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc6xbx-17wr8.webp",
     "description": "Tulip Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4170,7 +4170,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-harivishva-developers",
     "name": "Harivishva Developers",
     "slug": "harivishva-developers",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mrvvi9eq-8uku93.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b22d8088-0c22-4d3d-88c7-5bd8a10c0946/gallery/ms4e6rnl-d2myhz.webp",
     "description": "Harivishva Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4187,7 +4187,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-yashada-realty",
     "name": "Yashada Realty",
     "slug": "yashada-realty",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/object/public/project-media/developers/logos/mw9eiuvn-186jy0.webp",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/61ae461c-a73a-4c6f-9f18-8e1a8edf822e/gallery/msngjroc-84ytl0.webp",
     "description": "Yashada Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4204,7 +4204,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-feb-2026",
     "name": "Feb 2026",
     "slug": "feb-2026",
-    "logo": "",
+    "logo": "/images/builders/fe2026.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5113990c-0436-4a35-a9ac-b9802d21a448/gallery/mul2s7nm-3zipbp.webp",
     "description": "Feb 2026 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4221,7 +4221,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vj-developers",
     "name": "VJ Developers",
     "slug": "vj-developers",
-    "logo": "",
+    "logo": "/images/builders/vj-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/99ce3d8b-3910-41f2-be36-1e991b80692b/gallery/mtfqrpaw-70lfh1.webp",
     "description": "VJ Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4238,7 +4238,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-commercial-developers",
     "name": "Commercial Developers",
     "slug": "commercial-developers",
-    "logo": "",
+    "logo": "/images/builders/commercial-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/654bbb43-a80a-4cdb-a564-7d86a52df17c/gallery/mrytnodb-2izrb9.webp",
     "description": "Commercial Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4255,7 +4255,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-mauli-developers",
     "name": "Mauli Developers",
     "slug": "mauli-developers",
-    "logo": "",
+    "logo": "/images/builders/mauli-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6bb8368-42c5-433d-a743-63e4ade9e95c/gallery/mrrkvfqh-9gxwsy.webp",
     "description": "Mauli Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4272,7 +4272,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-park-developers",
     "name": "Park Developers",
     "slug": "park-developers",
-    "logo": "",
+    "logo": "/images/builders/park-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b6f7d828-1abf-42f9-80d8-454090539be2/gallery/mrxttsfz-gamp1q.webp",
     "description": "Park Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4289,7 +4289,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-the-developer",
     "name": "The Developer",
     "slug": "the-developer",
-    "logo": "",
+    "logo": "/images/builders/the-developer.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7c15740e-3e56-49b7-86ad-3f50e9c2761e/gallery/mvfc1lsm-5ci80s.webp",
     "description": "The Developer is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4306,7 +4306,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-maheshwaram-associates",
     "name": "Maheshwaram Associates",
     "slug": "maheshwaram-associates",
-    "logo": "",
+    "logo": "/images/builders/maheshwaram-associates.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/92c3cc6d-744b-4bad-9224-d1afb435a8bc/gallery/mtmsfjnr-ccc5t0.webp",
     "description": "Maheshwaram Associates is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4323,7 +4323,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-geo-developers",
     "name": "GEO Developers",
     "slug": "geo-developers",
-    "logo": "",
+    "logo": "/images/builders/geo-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8f9b342d-2355-4f8e-8bc9-93fd2e8bf50e/gallery/msg76i9z-9ekdyn.webp",
     "description": "GEO Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4340,7 +4340,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kunal-group",
     "name": "Kunal Group",
     "slug": "kunal-group",
-    "logo": "",
+    "logo": "/images/builders/kunal-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/951faf40-6acb-4fef-abd1-f5ef5cb26a99/gallery/mrtjk1pm-am367u.webp",
     "description": "Kunal Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4357,7 +4357,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-alpine-developers",
     "name": "ALPINE Developers",
     "slug": "alpine-developers",
-    "logo": "",
+    "logo": "/images/builders/alpine-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/34b209bd-d98f-40de-b735-24132e7edc0e/gallery/mrvu8nbp-9ls2yu.webp",
     "description": "ALPINE Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4374,7 +4374,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-newton-developers",
     "name": "Newton Developers",
     "slug": "newton-developers",
-    "logo": "",
+    "logo": "/images/builders/newton-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/79ad62b1-963d-43e6-92e9-7d2a50735dc5/gallery/mvhpt6ph-7h7vlt.webp",
     "description": "Newton Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4391,7 +4391,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-road-and-rail",
     "name": "Road And Rail",
     "slug": "road-and-rail",
-    "logo": "",
+    "logo": "/images/builders/road-and-rail.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/07f33567-595b-4aa8-943e-6640f90acc51/gallery/mupk5pl8-3ye1my.webp",
     "description": "Road And Rail is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4408,7 +4408,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-nm-corp",
     "name": "NM Corp",
     "slug": "nm-corp",
-    "logo": "",
+    "logo": "/images/builders/nm-corp.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/157b51b9-13b8-4ea8-851d-cb26fed69ee9/gallery/msg961nj-f6m04h.webp",
     "description": "NM Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4425,7 +4425,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-grd-infraprojects-private-limited",
     "name": "GRD Infraprojects Private Limited",
     "slug": "grd-infraprojects-private-limited",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mrtgwaq7-dqyetw.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c8016333-bd3a-410d-860f-c1949064dd27/gallery/msfqrm6d-8cvrt8.webp",
     "description": "GRD Infraprojects Private Limited is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4442,7 +4442,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-gen1-developers",
     "name": "Gen1 Developers",
     "slug": "gen1-developers",
-    "logo": "",
+    "logo": "/images/builders/gen1-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/50692e8f-fea2-4b79-a477-99df56aa20c0/gallery/msw30lhj-begcd0.webp",
     "description": "Gen1 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4459,7 +4459,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-crestline-developers",
     "name": "Crestline Developers",
     "slug": "crestline-developers",
-    "logo": "",
+    "logo": "/images/builders/crestline-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c68d7f2b-2386-4496-b1b2-d96371a7e8a6/gallery/mv53wbs0-75nfjl.webp",
     "description": "Crestline Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4476,7 +4476,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-aria-developers",
     "name": "Aria Developers",
     "slug": "aria-developers",
-    "logo": "",
+    "logo": "/images/builders/aria-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6c3ce846-af1c-4745-8f05-deb747f088ea/gallery/ms7gja99-51tdna.webp",
     "description": "Aria Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4493,7 +4493,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-ag-developers",
     "name": "AG Developers",
     "slug": "ag-developers",
-    "logo": "",
+    "logo": "/images/builders/ag-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6d10e688-5927-4ea8-a4da-a454a1bbf4b8/gallery/msueedbq-8ttwk2.webp",
     "description": "AG Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4510,7 +4510,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-gt-associates-promotors-and-builders",
     "name": "GT Associates Promotors and Builders",
     "slug": "gt-associates-promotors-and-builders",
-    "logo": "",
+    "logo": "/images/builders/gt-associates-promotors-and-builders.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/54dda84e-2a5d-4efa-908f-94c7289ebc77/gallery/mv55qn45-5bsru4.webp",
     "description": "GT Associates Promotors and Builders is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4527,7 +4527,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-heartland-developers",
     "name": "Heartland Developers",
     "slug": "heartland-developers",
-    "logo": "",
+    "logo": "/images/builders/heartland-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/34e1a7a3-da32-4ff4-b128-2a4e7a4e4dba/gallery/ms389rem-3jwcao.webp",
     "description": "Heartland Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4544,7 +4544,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-shaligram-group",
     "name": "Shaligram Group",
     "slug": "shaligram-group",
-    "logo": "",
+    "logo": "/images/builders/shaligram-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d81320d5-fca4-4200-b78a-05a80ba67291/gallery/mrs2rfde-8lfvg3.webp",
     "description": "Shaligram Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4561,7 +4561,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-anand-developers",
     "name": "Anand Developers",
     "slug": "anand-developers",
-    "logo": "",
+    "logo": "/images/builders/anand-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2d319d68-1122-4d25-a483-b35c34a06912/gallery/mt048rlf-7htves.webp",
     "description": "Anand Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4578,7 +4578,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vishnu-housing",
     "name": "Vishnu Housing",
     "slug": "vishnu-housing",
-    "logo": "",
+    "logo": "/images/builders/vishnu-housing.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8006af67-6771-4e1b-853e-d355aac1f967/cover/mujnikbe-bfyrin.webp",
     "description": "Vishnu Housing is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4595,7 +4595,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-yoo-developers",
     "name": "Yoo Developers",
     "slug": "yoo-developers",
-    "logo": "",
+    "logo": "/images/builders/yoo-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ff00cd0f-2bf2-4bfe-9b1b-b7d43a00338a/gallery/ms8px5jp-9zal2u.webp",
     "description": "Yoo Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4612,7 +4612,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-nb-developers",
     "name": "NB Developers",
     "slug": "nb-developers",
-    "logo": "",
+    "logo": "/images/builders/ndevelopers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e45d7774-0437-43fb-a011-5451a160d9e1/gallery/msdcgfv6-aseeac.webp",
     "description": "NB Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4629,7 +4629,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-shankeshwar-group",
     "name": "Shankeshwar Group",
     "slug": "shankeshwar-group",
-    "logo": "",
+    "logo": "/images/builders/shankeshwar-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a00dca02-b2fb-496f-9534-57318a5788d3/gallery/mtbhu914-7t4d2x.webp",
     "description": "Shankeshwar Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4646,7 +4646,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-hubtown",
     "name": "Hubtown",
     "slug": "hubtown",
-    "logo": "",
+    "logo": "/images/builders/hubtown.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b82f3be3-cd1a-4f2a-9003-0b7e915ec07c/gallery/mujgx5jd-b0arag.webp",
     "description": "Hubtown is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4663,7 +4663,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-gk-associates-promoters-builders",
     "name": "GK Associates Promoters & Builders",
     "slug": "gk-associates-promoters-builders",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvjfmkxa-e5s7gm.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bdd4f5fd-7713-4265-a7b4-171214876d05/gallery/mrxsigfu-33l9ng.webp",
     "description": "GK Associates Promoters & Builders is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4680,7 +4680,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-45-developers",
     "name": "45 Developers",
     "slug": "45-developers",
-    "logo": "",
+    "logo": "/images/builders/45-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5fc193db-5c08-409c-895c-e105fdeae0fe/gallery/muxzxux8-a18boo.webp",
     "description": "45 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4697,7 +4697,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-73-developers",
     "name": "73 Developers",
     "slug": "73-developers",
-    "logo": "",
+    "logo": "/images/builders/73-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d24fbac3-1f80-4607-a825-09126356f890/gallery/mv0tn4pa-2z51de.webp",
     "description": "73 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4714,7 +4714,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-cosmos-urban-realty",
     "name": "Cosmos Urban Realty",
     "slug": "cosmos-urban-realty",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvghn9l3-ayi2xi.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2084d602-4687-43b2-ace1-2af77bde7e3d/gallery/mv6hzkmf-74n8dr.webp",
     "description": "Cosmos Urban Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4731,7 +4731,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-excellent-connectivity",
     "name": "Excellent Connectivity",
     "slug": "excellent-connectivity",
-    "logo": "",
+    "logo": "/images/builders/excellent-connectivity.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3eaf88fb-9d78-4980-97b1-14bdbebeadc2/gallery/mtwr6asp-fb33pt.webp",
     "description": "Excellent Connectivity is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4748,7 +4748,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-emerald-developers",
     "name": "Emerald Developers",
     "slug": "emerald-developers",
-    "logo": "",
+    "logo": "/images/builders/emerald-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e4f4965c-c8a9-4daa-83c8-607c45dcadbb/gallery/mrqeru68-4lvvs7.webp",
     "description": "Emerald Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4765,7 +4765,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-arun-developers",
     "name": "Arun Developers",
     "slug": "arun-developers",
-    "logo": "",
+    "logo": "/images/builders/arun-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2e69a6e3-1ce7-4c98-9e0a-727349288117/gallery/mtgzn229-161b8j.webp",
     "description": "Arun Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4782,7 +4782,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-audumbar-developers",
     "name": "Audumbar Developers",
     "slug": "audumbar-developers",
-    "logo": "",
+    "logo": "/images/builders/audumbar-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d07d0848-f239-4259-9fe2-94296d231351/gallery/mt0abz0r-4xmjh9.webp",
     "description": "Audumbar Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4799,7 +4799,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-wakadkar-associate",
     "name": "Wakadkar Associate",
     "slug": "wakadkar-associate",
-    "logo": "",
+    "logo": "/images/builders/wakadkar-associate.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/98204206-d13b-4b07-906b-eb11aaba666a/gallery/muxw567j-do2fjo.webp",
     "description": "Wakadkar Associate is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4816,7 +4816,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-aundh-developers",
     "name": "Aundh Developers",
     "slug": "aundh-developers",
-    "logo": "",
+    "logo": "/images/builders/aundh-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/40461eb8-5661-4748-b8ed-9686540b3bb5/gallery/mtps65l1-5mp9pf.webp",
     "description": "Aundh Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4833,7 +4833,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-morya-greens",
     "name": "MORYA GREENS",
     "slug": "morya-greens",
-    "logo": "",
+    "logo": "/images/builders/morya-greens.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/00789064-ebcf-4e95-99f3-6f00b908eae3/gallery/msob4dr4-28dyoq.webp",
     "description": "MORYA GREENS is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4850,7 +4850,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-shree-venkatesh-buildcon-and-vikram-developers-and-promoters",
     "name": "Shree Venkatesh Buildcon and Vikram Developers and Promoters",
     "slug": "shree-venkatesh-buildcon-and-vikram-developers-and-promoters",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mw9lpzlc-8jwtm8.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a24b3a7c-640f-4663-8a56-e4d02d301816/gallery/mt77tevk-1m89vj.webp",
     "description": "Shree Venkatesh Buildcon and Vikram Developers and Promoters is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4867,7 +4867,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-empire-developers",
     "name": "EMPIRE Developers",
     "slug": "empire-developers",
-    "logo": "",
+    "logo": "/images/builders/empire-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7c996bc2-4657-4119-98bb-bf6f970f32ae/gallery/muclj1z0-2wxgqe.webp",
     "description": "EMPIRE Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4884,7 +4884,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kimaya-realities",
     "name": "Kimaya Realities",
     "slug": "kimaya-realities",
-    "logo": "",
+    "logo": "/images/builders/kimaya-realities.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/05a9a4ed-6dd6-4bef-8166-7a05a2139000/gallery/mrriv5rg-eegsiq.webp",
     "description": "Kimaya Realities is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4901,7 +4901,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kshitej-realtors",
     "name": "Kshitej Realtors",
     "slug": "kshitej-realtors",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvv4ky9b-3fk4mx.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a32719e9-86a5-4d6e-9057-8e4205c1fd74/gallery/msudikp7-7w0uv1.webp",
     "description": "Kshitej Realtors is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4918,7 +4918,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-aswani-associates",
     "name": "Aswani Associates",
     "slug": "aswani-associates",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mrwba3wr-a6ciih.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f213716d-f8eb-4867-98dd-5db4e7362c9a/gallery/mrtirptb-w6pqk.webp",
     "description": "Aswani Associates is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4935,7 +4935,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vezdaa-developers",
     "name": "Vezdaa Developers",
     "slug": "vezdaa-developers",
-    "logo": "",
+    "logo": "/images/builders/vezdaa-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/408d9399-8f79-4443-bbe5-c388dae06c81/gallery/mszpiyh6-31suah.webp",
     "description": "Vezdaa Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4952,7 +4952,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kalp-developers",
     "name": "Kalp Developers",
     "slug": "kalp-developers",
-    "logo": "",
+    "logo": "/images/builders/kalp-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/271b55e4-1962-4221-8d1a-c0e975c2dcdd/gallery/ms32vmc7-3suj1m.webp",
     "description": "Kalp Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4969,7 +4969,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-akshay-skyscrapers",
     "name": "Akshay Skyscrapers",
     "slug": "akshay-skyscrapers",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvwhgwk9-cvv476.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/881dd189-ee16-4cd3-bba5-c97887854b13/gallery/mt03if0h-2se7np.webp",
     "description": "Akshay Skyscrapers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -4986,7 +4986,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-udyam-developers",
     "name": "Udyam Developers",
     "slug": "udyam-developers",
-    "logo": "",
+    "logo": "/images/builders/udyam-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5d62fa8a-eeaa-4f06-b87a-86eef01aa1a4/gallery/mruserwt-5ajriv.webp",
     "description": "Udyam Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5003,7 +5003,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-atrium-landmarks",
     "name": "Atrium Landmarks",
     "slug": "atrium-landmarks",
-    "logo": "",
+    "logo": "/images/builders/atrium-landmarks.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1cacab48-57d0-4e31-8ad8-cb73542425ac/gallery/mrtj7na9-6a7qwb.webp",
     "description": "Atrium Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5020,7 +5020,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-unite-developers",
     "name": "Unite Developers",
     "slug": "unite-developers",
-    "logo": "",
+    "logo": "/images/builders/unite-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4050e2e5-684b-4d3b-9477-b5fbe03bebcb/gallery/ms37mbuy-4imre6.webp",
     "description": "Unite Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5037,7 +5037,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vivanta-developers",
     "name": "Vivanta Developers",
     "slug": "vivanta-developers",
-    "logo": "",
+    "logo": "/images/builders/vivanta-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d3b9ccda-f53f-4ea0-82e8-c2fe0cce3faa/gallery/ms4qg7vw-3wf6fu.webp",
     "description": "Vivanta Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5054,7 +5054,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kisana-developers",
     "name": "Kisana Developers",
     "slug": "kisana-developers",
-    "logo": "",
+    "logo": "/images/builders/kisana-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a1ac05b2-6c7e-48ac-bd00-48277dc98be5/gallery/mv6jrnt0-99g8id.webp",
     "description": "Kisana Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5071,7 +5071,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-ajwani-developers",
     "name": "Ajwani Developers",
     "slug": "ajwani-developers",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/1a154680cc6-7ae3cb4.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9caa7b33-d668-4189-b6bf-cf105a9ae1ed/gallery/mvf42mhg-2mrw30.webp",
     "description": "Ajwani Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5088,7 +5088,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-june-2027",
     "name": "June 2027",
     "slug": "june-2027",
-    "logo": "",
+    "logo": "/images/builders/june-2027.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0638891f-fbf6-45b3-aa47-ddc0801191c0/gallery/mtwogjei-fgrycg.webp",
     "description": "June 2027 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5105,7 +5105,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-koral-developers",
     "name": "Koral Developers",
     "slug": "koral-developers",
-    "logo": "",
+    "logo": "/images/builders/koral-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/11e66687-a63a-4a5f-b79c-573433564fb2/gallery/mrxkq96a-f6i5kz.webp",
     "description": "Koral Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5122,7 +5122,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-shitole-properties",
     "name": "Shitole Properties",
     "slug": "shitole-properties",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvfbfnub-3suj8a.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8f242be2-cc75-49c7-b614-a46cdf840e6a/gallery/mvfbfp93-aec27h.webp",
     "description": "Shitole Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5139,7 +5139,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-24-developers",
     "name": "24 Developers",
     "slug": "24-developers",
-    "logo": "",
+    "logo": "/images/builders/24-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/97f88402-cebb-4a65-8e90-1404397d3b14/gallery/mszvnaf9-edbwq3.webp",
     "description": "24 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5156,7 +5156,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-space-builders-group",
     "name": "Space Builders Group",
     "slug": "space-builders-group",
-    "logo": "",
+    "logo": "/images/builders/space-builders-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/62b6b3ff-c78a-4b7d-ad2b-fd5cd24f01e7/gallery/mv51tz1h-ahxao6.webp",
     "description": "Space Builders Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5173,7 +5173,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kumar-lifespaces",
     "name": "Kumar Lifespaces",
     "slug": "kumar-lifespaces",
-    "logo": "",
+    "logo": "/images/builders/kumar-lifespaces.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6db11a45-9947-4037-9561-15d5aeed339a/gallery/mtya4okq-muzq6.webp",
     "description": "Kumar Lifespaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5190,7 +5190,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kk-group",
     "name": "KK Group",
     "slug": "kk-group",
-    "logo": "",
+    "logo": "/images/builders/kk-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ab609199-bd97-4a85-934a-6b91c59d2cb3/gallery/mt43zv2s-25hor4.webp",
     "description": "KK Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5207,7 +5207,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-zolo-homes",
     "name": "Zolo Homes",
     "slug": "zolo-homes",
-    "logo": "",
+    "logo": "/images/builders/zolo-homes.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/79d0271e-267d-4ae7-9dfd-30eb2c6f9ccd/gallery/mtlfb0pf-36zkyk.webp",
     "description": "Zolo Homes is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5224,7 +5224,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-lenora-developers",
     "name": "Lenora Developers",
     "slug": "lenora-developers",
-    "logo": "",
+    "logo": "/images/builders/lenora-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1cf046a5-1b91-4fc2-ac07-26ec3e2f846e/gallery/mtlia5ly-7s8f2h.webp",
     "description": "Lenora Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5241,7 +5241,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-apex-developers",
     "name": "Apex Developers",
     "slug": "apex-developers",
-    "logo": "",
+    "logo": "/images/builders/apex-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/30cbdfff-e995-423b-b4d3-6728a30539b4/gallery/msxdvnj8-eewwqd.webp",
     "description": "Apex Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5258,7 +5258,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-majestique-landmarks",
     "name": "Majestique Landmarks",
     "slug": "majestique-landmarks",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvhs3y0x-ff2xhy.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/99be1981-dbfd-4c59-aee3-ae6cf167810b/gallery/mtqzv5ky-ahx3zv.webp",
     "description": "Majestique Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5275,7 +5275,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-amegh-group",
     "name": "Amegh Group",
     "slug": "amegh-group",
-    "logo": "",
+    "logo": "/images/builders/amegh-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/717b3806-d658-471f-959d-797f70e0653f/gallery/muuxj5u4-cwmsf4.webp",
     "description": "Amegh Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5292,7 +5292,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-midori-developers",
     "name": "Midori Developers",
     "slug": "midori-developers",
-    "logo": "",
+    "logo": "/images/builders/midori-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e48534a1-6f04-4a36-a0ee-4631131d8c22/gallery/ms8wdzi3-a4oka3.webp",
     "description": "Midori Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5309,7 +5309,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-goyal-properties",
     "name": "Goyal Properties",
     "slug": "goyal-properties",
-    "logo": "",
+    "logo": "/images/builders/goyal-properties.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/33dcd66b-17e3-45d1-9b85-289549670757/gallery/mtppx9v0-7fopcl.webp",
     "description": "Goyal Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5326,7 +5326,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-aditya-builders",
     "name": "Aditya Builders",
     "slug": "aditya-builders",
-    "logo": "",
+    "logo": "/images/builders/aditya-builders.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6143bac3-2520-4813-be17-aba5d967132e/gallery/mt02ytg8-bkop0w.webp",
     "description": "Aditya Builders is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5343,7 +5343,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-meriton-developers",
     "name": "Meriton Developers",
     "slug": "meriton-developers",
-    "logo": "",
+    "logo": "/images/builders/meriton-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/16d4fb2e-a619-45d4-9fcc-42ab9cdb529d/gallery/mt8inz8k-7sp8ow.webp",
     "description": "Meriton Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5360,7 +5360,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-np-lifespaces",
     "name": "Np Lifespaces",
     "slug": "np-lifespaces",
-    "logo": "",
+    "logo": "/images/builders/np-lifespaces.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f87b81f3-4e01-402e-8750-96439fbe8951/gallery/mruixyww-crr91p.webp",
     "description": "Np Lifespaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5377,7 +5377,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-ar-realty",
     "name": "AR Realty",
     "slug": "ar-realty",
-    "logo": "",
+    "logo": "/images/builders/ar-realty.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/534a4875-d314-4b58-9aaa-4cded5c22efd/gallery/mtgyun1i-84p9je.webp",
     "description": "AR Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5394,7 +5394,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-it-parks",
     "name": "It Parks",
     "slug": "it-parks",
-    "logo": "",
+    "logo": "/images/builders/it-parks.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f3321588-9b93-4a63-b13b-08ab09924e6b/gallery/ms0dvbce-21vacz.webp",
     "description": "It Parks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5411,7 +5411,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-a-reputed-west",
     "name": "A Reputed West",
     "slug": "a-reputed-west",
-    "logo": "",
+    "logo": "/images/builders/a-reputed-west.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/51014204-43f0-496a-847a-05447110109f/gallery/mt5m03g2-6kzuic.webp",
     "description": "A Reputed West is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5428,7 +5428,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-om-builders-developers",
     "name": "Om Builders & Developers",
     "slug": "om-builders-developers",
-    "logo": "",
+    "logo": "/images/builders/om-builders-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bcd2a79a-b7f3-4413-89da-3597e847c5b9/gallery/ms4fg9g9-dvfnem.webp",
     "description": "Om Builders & Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5445,7 +5445,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-que-developers",
     "name": "QUE Developers",
     "slug": "que-developers",
-    "logo": "",
+    "logo": "/images/builders/que-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a0f6cbc9-ffca-428e-9c11-b2767da64b4d/gallery/msxhob6a-dqdnv4.webp",
     "description": "QUE Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5462,7 +5462,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-matrix-developers",
     "name": "Matrix Developers",
     "slug": "matrix-developers",
-    "logo": "",
+    "logo": "/images/builders/matrix-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1d6b3128-b87a-4b5a-b287-87c39391c76a/gallery/mtbbd2ax-4t4hi.webp",
     "description": "Matrix Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5479,7 +5479,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-placidia-developers",
     "name": "Placidia Developers",
     "slug": "placidia-developers",
-    "logo": "",
+    "logo": "/images/builders/placidia-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b54ce6d-9ca9-420e-81ad-1050f00a9815/gallery/mtpqvqmz-2mbz0m.webp",
     "description": "Placidia Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5496,7 +5496,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-pleroma-developers",
     "name": "Pleroma Developers",
     "slug": "pleroma-developers",
-    "logo": "",
+    "logo": "/images/builders/pleroma-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b94c8e51-0894-4925-87fe-7eb0c22b2f97/gallery/mrwbewaa-bulh1v.webp",
     "description": "Pleroma Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5513,7 +5513,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-royal-nisarg-ventures",
     "name": "Royal Nisarg Ventures",
     "slug": "royal-nisarg-ventures",
-    "logo": "",
+    "logo": "/images/builders/royal-nisarg-ventures.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/14bb74d4-520e-4469-b033-2667102b8521/gallery/mucnimxs-1lp6uw.webp",
     "description": "Royal Nisarg Ventures is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5530,7 +5530,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-rutuja-developers",
     "name": "Rutuja Developers",
     "slug": "rutuja-developers",
-    "logo": "",
+    "logo": "/images/builders/rutuja-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e3bf98e0-903d-4ad4-983e-142d2cfb4d3c/gallery/mrx8yzqf-e5khl8.webp",
     "description": "Rutuja Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5547,7 +5547,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kiwale-realty-llp",
     "name": "Kiwale Realty LLP",
     "slug": "kiwale-realty-llp",
-    "logo": "",
+    "logo": "/images/builders/kiwale-realty-llp.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b80dcfb1-9a8c-4126-8545-75666ce1fed6/gallery/mvfblt6r-667qht.webp",
     "description": "Kiwale Realty LLP is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5564,7 +5564,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-rachana-lifestyle",
     "name": "Rachana Lifestyle",
     "slug": "rachana-lifestyle",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/ms361aka-bmizey.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d631a1fa-0e4b-42f8-af34-06f3e70167c2/gallery/mtsegmun-de8iyy.webp",
     "description": "Rachana Lifestyle is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5581,7 +5581,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-18-developers",
     "name": "18 Developers",
     "slug": "18-developers",
-    "logo": "",
+    "logo": "/images/builders/18-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f461243b-2436-450b-983e-e08a92b46022/gallery/mszuqely-b4tiyj.webp",
     "description": "18 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5598,7 +5598,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-bhagawati-developers",
     "name": "Bhagawati Developers",
     "slug": "bhagawati-developers",
-    "logo": "",
+    "logo": "/images/builders/bhagawati-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b7cc03c1-3f41-4ade-ac54-b92c9f8479a2/gallery/mufc8n78-9g5uk0.webp",
     "description": "Bhagawati Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5615,7 +5615,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-thorve-developers",
     "name": "Thorve Developers",
     "slug": "thorve-developers",
-    "logo": "",
+    "logo": "/images/builders/thorve-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0b425180-50fe-4279-8564-013467f49d00/gallery/mryn98yq-ex5s15.webp",
     "description": "Thorve Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5632,7 +5632,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-manggaldeep-group",
     "name": "Manggaldeep Group",
     "slug": "manggaldeep-group",
-    "logo": "",
+    "logo": "/images/builders/manggaldeep-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/024f288c-3946-4806-897f-57ab2e79ad6d/gallery/muxxc5h2-4aqyd.webp",
     "description": "Manggaldeep Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5649,7 +5649,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-garve-developers-is-a-2",
     "name": "Garve Developers Is A 2",
     "slug": "garve-developers-is-a-2",
-    "logo": "",
+    "logo": "/images/builders/garve-developers-is-a-2.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/340e4638-dc06-4c97-aac3-4a01555733ca/gallery/mvhtlfdp-amhhyv.webp",
     "description": "Garve Developers Is A 2 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5666,7 +5666,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-talreja-group",
     "name": "Talreja Group",
     "slug": "talreja-group",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvghowtz-4w3n1.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/10c3740f-6e27-4f29-8a05-d413d82016fd/gallery/mvghp3d6-fejg8r.webp",
     "description": "Talreja Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5683,7 +5683,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-shree-samarth-developers",
     "name": "Shree Samarth Developers",
     "slug": "shree-samarth-developers",
-    "logo": "",
+    "logo": "/images/builders/shree-samarth-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e2c03437-2fdf-4d51-8f6a-1f999e5b0898/gallery/ms4gar5v-dvjab2.webp",
     "description": "Shree Samarth Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5700,7 +5700,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-sentosa-developer",
     "name": "Sentosa Developer",
     "slug": "sentosa-developer",
-    "logo": "",
+    "logo": "/images/builders/sentosa-developer.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fdfe6b42-b23c-49e2-af72-c67e82aa3cd6/gallery/mryz8bwa-fst5ju.webp",
     "description": "Sentosa Developer is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5717,7 +5717,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-shankeshwar-homes",
     "name": "Shankeshwar Homes",
     "slug": "shankeshwar-homes",
-    "logo": "",
+    "logo": "/images/builders/shankeshwar-homes.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3191d2f5-e73c-4f44-87f2-f4979920665b/gallery/mrrhq70s-7agd8o.webp",
     "description": "Shankeshwar Homes is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5734,7 +5734,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-aakar-realties",
     "name": "Aakar Realties",
     "slug": "aakar-realties",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mrymhb02-am8r9d.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a51af485-34d8-4827-bd48-e3390c8ca16b/gallery/mseumjfb-biuhl1.webp",
     "description": "Aakar Realties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5751,7 +5751,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-shubh-group",
     "name": "Shubh Group",
     "slug": "shubh-group",
-    "logo": "",
+    "logo": "/images/builders/shubh-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ee0dc753-8401-47f8-9797-872e630c10f9/gallery/mtwpiwvp-a3qade.webp",
     "description": "Shubh Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5768,7 +5768,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-sky-developers",
     "name": "Sky Developers",
     "slug": "sky-developers",
-    "logo": "",
+    "logo": "/images/builders/sky-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/dde4a6ce-f1b5-4b32-84c1-e8514171ca50/gallery/mtmpxi80-38i0gv.webp",
     "description": "Sky Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5785,7 +5785,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vijayshree-developers",
     "name": "Vijayshree Developers",
     "slug": "vijayshree-developers",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mtfqmgty-fb39c9.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8e20ffc4-b52a-493b-9eea-ca1247cb0ced/gallery/mrymo1yh-4aw5fe.webp",
     "description": "Vijayshree Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5802,7 +5802,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-skyluxe-developers",
     "name": "Skyluxe Developers",
     "slug": "skyluxe-developers",
-    "logo": "",
+    "logo": "/images/builders/skyluxe-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/595b5fa2-9fc3-4b14-b19a-4df8b2c281e2/gallery/mumgvipb-edmpz0.webp",
     "description": "Skyluxe Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5819,7 +5819,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-solitaire-group",
     "name": "Solitaire Group",
     "slug": "solitaire-group",
-    "logo": "",
+    "logo": "/images/builders/solitaire-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9jw0-4e36f2.webp",
     "description": "Solitaire Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5836,7 +5836,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-smk-group-llp",
     "name": "SMK Group LLP",
     "slug": "smk-group-llp",
-    "logo": "",
+    "logo": "/images/builders/smk-group-llp.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3563ab94-43b1-420c-8d25-e772d40f62ff/gallery/mrtie0an-cv5gjo.webp",
     "description": "SMK Group LLP is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5853,7 +5853,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-wakad-developers",
     "name": "Wakad Developers",
     "slug": "wakad-developers",
-    "logo": "",
+    "logo": "/images/builders/wakad-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4e1672fd-e504-4a05-8484-f47d00154b01/gallery/mrvosil1-48m2vb.webp",
     "description": "Wakad Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5870,7 +5870,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-skyfinia-developers",
     "name": "Skyfinia Developers",
     "slug": "skyfinia-developers",
-    "logo": "",
+    "logo": "/images/builders/skyfinia-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a251bfc9-bd37-4064-9b75-7b765ac83df7/gallery/msyyiy6n-1ebx58.webp",
     "description": "Skyfinia Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5887,7 +5887,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-asian-sleek",
     "name": "Asian Sleek",
     "slug": "asian-sleek",
-    "logo": "",
+    "logo": "/images/builders/asian-sleek.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4f7bcab2-80fd-4317-b7bd-1c87cf827a62/gallery/mvhs3d3y-b0frjo.webp",
     "description": "Asian Sleek is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5904,7 +5904,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-trio-spaces",
     "name": "Trio Spaces",
     "slug": "trio-spaces",
-    "logo": "",
+    "logo": "/images/builders/trio-spaces.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a356658e-1a8c-47a5-a487-5f88c57b8d34/gallery/ms7khsm3-epqpr0.webp",
     "description": "Trio Spaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5921,7 +5921,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-tej-developers",
     "name": "Tej Developers",
     "slug": "tej-developers",
-    "logo": "",
+    "logo": "/images/builders/tej-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/302697b5-88a6-4d91-a6d9-fe1d449c9d0e/gallery/mtsispev-3abkwk.webp",
     "description": "Tej Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5938,7 +5938,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-wandering-developers",
     "name": "Wandering Developers",
     "slug": "wandering-developers",
-    "logo": "",
+    "logo": "/images/builders/wandering-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6c440e25-da90-4dac-9a80-663cf7c823f2/gallery/mszu5nrj-ci3yfe.webp",
     "description": "Wandering Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5955,7 +5955,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-wisdom-developers",
     "name": "Wisdom Developers",
     "slug": "wisdom-developers",
-    "logo": "",
+    "logo": "/images/builders/wisdom-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c4f74574-e06f-4d98-a51a-de126091a407/gallery/mrtgijji-erjfh.webp",
     "description": "Wisdom Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5972,7 +5972,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-westgate-developers",
     "name": "Westgate Developers",
     "slug": "westgate-developers",
-    "logo": "",
+    "logo": "/images/builders/westgate-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1c6c9e25-e990-4b1d-a2bf-5986069e44c2/gallery/ms4pedoq-81arj8.webp",
     "description": "Westgate Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -5989,7 +5989,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-wyce-developers",
     "name": "WYCE Developers",
     "slug": "wyce-developers",
-    "logo": "",
+    "logo": "/images/builders/wyce-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/55181032-9e3a-4450-b863-d94cca1464ba/gallery/mtvjk9dk-4oxftq.webp",
     "description": "WYCE Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6006,7 +6006,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-esson-landmarks",
     "name": "Esson Landmarks",
     "slug": "esson-landmarks",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvj3dwek-4x6jq6.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a7275a64-251d-464a-b954-49ee29daad0f/gallery/ms8v0n4s-g5u2h3.webp",
     "description": "Esson Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6023,7 +6023,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-10-developers",
     "name": "10 Developers",
     "slug": "10-developers",
-    "logo": "",
+    "logo": "/images/builders/10-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5b39be8d-439b-457e-9b64-9558de238ea0/gallery/msu92jcy-465ppd.webp",
     "description": "10 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6040,7 +6040,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-five-developers",
     "name": "Five Developers",
     "slug": "five-developers",
-    "logo": "",
+    "logo": "/images/builders/five-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/eafaa8b1-5214-4cd1-ba41-e1f3d0c56f66/gallery/mugv55mh-2mt28h.webp",
     "description": "Five Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6057,7 +6057,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-crystal-creations",
     "name": "Crystal Creations",
     "slug": "crystal-creations",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/ms7ia9a6-avci1y.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/331b44e7-ae13-463a-9108-d6c8613fd4b2/gallery/ms7if5d1-4j48k6.webp",
     "description": "Crystal Creations is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6074,7 +6074,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-dolphin-group",
     "name": "Dolphin Group",
     "slug": "dolphin-group",
-    "logo": "",
+    "logo": "/images/builders/dolphin-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/640cc48b-3d8a-48b7-91cc-3200bb865618/gallery/msvkg0kp-5jzt8d.webp",
     "description": "Dolphin Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6091,7 +6091,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-parks",
     "name": "Parks",
     "slug": "parks",
-    "logo": "",
+    "logo": "/images/builders/parks.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/225a2888-ce60-4dd0-b64b-f9b858f1c056/gallery/mtlherfg-egzjcd.webp",
     "description": "Parks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6108,7 +6108,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-alacarte-developers",
     "name": "Alacarte Developers",
     "slug": "alacarte-developers",
-    "logo": "",
+    "logo": "/images/builders/alacarte-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/39f072b4-5a09-418a-83fa-2072abaedb9a/gallery/mup91hoi-gbq5a6.webp",
     "description": "Alacarte Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6125,7 +6125,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-merlin-group",
     "name": "Merlin Group",
     "slug": "merlin-group",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/msac3749-arlg6t.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/aa651d02-b44e-4e3d-b6e3-6eefba383eb4/gallery/mrxtf0v5-6qdtni.webp",
     "description": "Merlin Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6142,7 +6142,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-mantra-properties",
     "name": "Mantra Properties",
     "slug": "mantra-properties",
-    "logo": "",
+    "logo": "/images/builders/mantra-properties.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b099037f-4fe0-4fb9-8bfd-94bc7b663dc4/gallery/mtob2l4o-7ivchz.webp",
     "description": "Mantra Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6159,7 +6159,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-miracle-group",
     "name": "Miracle Group",
     "slug": "miracle-group",
-    "logo": "",
+    "logo": "/images/builders/miracle-group.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c04a63cf-adc8-429e-84ea-0caad482b842/gallery/mrylyr5e-czchbz.webp",
     "description": "Miracle Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6176,7 +6176,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-vilas-javdekar-developer",
     "name": "Vilas Javdekar Developer",
     "slug": "vilas-javdekar-developer",
-    "logo": "",
+    "logo": "/images/builders/vilas-javdekar-developer.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6be5e194-4cd5-40ab-8d1e-0fa26861b6cd/gallery/mtr1pccg-dncfed.webp",
     "description": "Vilas Javdekar Developer is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6193,7 +6193,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-december-2027",
     "name": "December 2027",
     "slug": "december-2027",
-    "logo": "",
+    "logo": "/images/builders/december-2027.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cd14a38f-5090-486d-9541-03cbec7e8492/gallery/msd3jaic-e5vsvt.webp",
     "description": "December 2027 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6210,7 +6210,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-soham-shivam-developers",
     "name": "Soham Shivam Developers",
     "slug": "soham-shivam-developers",
-    "logo": "",
+    "logo": "/images/builders/soham-shivam-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b32492c8-62e0-4760-a1de-1288d4c6bdd0/gallery/mul4grn4-5nk7vr.webp",
     "description": "Soham Shivam Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6227,7 +6227,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-siddhashila-group",
     "name": "Siddhashila Group",
     "slug": "siddhashila-group",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mw9fbqjd-8rp1sp.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b5973498-c136-4310-b59d-b0e70df36099/gallery/msyx9itl-8lj1w.webp",
     "description": "Siddhashila Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6244,7 +6244,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-studio-developers",
     "name": "Studio Developers",
     "slug": "studio-developers",
-    "logo": "",
+    "logo": "/images/builders/studio-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/db3c6bb2-ce3e-44f1-8f64-4f2e1fa7b989/gallery/mtsckboq-dbxgec.webp",
     "description": "Studio Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6261,7 +6261,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-star-developers",
     "name": "STAR Developers",
     "slug": "star-developers",
-    "logo": "",
+    "logo": "/images/builders/star-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/285ced3a-49ef-4e26-b2a8-abb183f4aefd/gallery/ms04b125-eu2dm8.webp",
     "description": "STAR Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6278,7 +6278,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-muktai-builders-developers",
     "name": "MUKTAI BUILDERS & DEVELOPERS",
     "slug": "muktai-builders-developers",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mrribvwe-3pswwn.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ea7119ff-7a51-463c-8b39-8e4eb09a2d55/gallery/mt461bka-9jcyyl.webp",
     "description": "MUKTAI BUILDERS & DEVELOPERS is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6295,7 +6295,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-yoovie-developers",
     "name": "Yoovie Developers",
     "slug": "yoovie-developers",
-    "logo": "",
+    "logo": "/images/builders/yoovie-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7871c9e5-cd0c-4b67-ad8e-cd38f37221ae/gallery/mtfpgnqu-awhbem.webp",
     "description": "Yoovie Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6312,7 +6312,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-neco-developers",
     "name": "Neco Developers",
     "slug": "neco-developers",
-    "logo": "",
+    "logo": "/images/builders/neco-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3c62297e-cf76-40e6-be1b-9863a18f21a4/gallery/mvhqtpdg-2wwccl.webp",
     "description": "Neco Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6329,7 +6329,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-kate-promoters-and-developers",
     "name": "Kate Promoters and Developers",
     "slug": "kate-promoters-and-developers",
-    "logo": "",
+    "logo": "/images/builders/kate-promoters-and-developers.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3766f451-d050-4db0-a6f8-194ef4abaa3a/gallery/mvghrbu5-6gq1o0.webp",
     "description": "Kate Promoters and Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6346,7 +6346,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-pharande-spaces",
     "name": "Pharande Spaces",
     "slug": "pharande-spaces",
-    "logo": "",
+    "logo": "/images/builders/pharande-spaces.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/01d2e9f1-dad0-43fa-8906-61a24bfcd0dd/gallery/mvfc64td-5k9jp8.webp",
     "description": "Pharande Spaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6363,7 +6363,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-shaligram-buildcon",
     "name": "Shaligram Buildcon",
     "slug": "shaligram-buildcon",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mrvutyun-7v1c3k.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bed8b526-3c8c-426b-8e44-cf65c659dbbe/gallery/mvhovzr5-s99wh.webp",
     "description": "Shaligram Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6380,7 +6380,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-viraj-corp",
     "name": "Viraj Corp",
     "slug": "viraj-corp",
-    "logo": "",
+    "logo": "/images/builders/viraj-corp.svg",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bfe0548a-333b-47f4-bf68-d1bebe86d984/gallery/mvghqa3t-4dghew.webp",
     "description": "Viraj Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6397,7 +6397,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-saheel-properties",
     "name": "Saheel Properties",
     "slug": "saheel-properties",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvfbi57a-5iogdl.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/adc7420a-f087-4832-b5b6-aaff3c37a461/gallery/mvfbi877-8s23ib.webp",
     "description": "Saheel Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6414,7 +6414,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-avirat-developers",
     "name": "Avirat Developers",
     "slug": "avirat-developers",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvhmreub-cuhlng.gif?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/17fc8bdb-26b0-4047-9313-5e050676841b/gallery/mvghw0ci-9m4jzc.webp",
     "description": "Avirat Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6431,7 +6431,7 @@ export const BUILDERS: Builder[] = [
     "id": "b-adi-group",
     "name": "ADI Group",
     "slug": "adi-group",
-    "logo": "",
+    "logo": "https://punehome.in/storage/v1/render/image/public/project-media/developers/logos/mvhmn39n-2b0bg.webp?width=192&quality=75&resize=contain",
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e40babf9-1772-489e-a6cb-625300ca3252/gallery/mvhmmyfa-azmrba.webp",
     "description": "ADI Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
@@ -6449,7 +6449,7 @@ export const BUILDERS: Builder[] = [
     "name": "Paranjape Schemes",
     "slug": "paranjape-schemes",
     "logo": "/images/builders/paranjape.svg",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://www.pscl.in/wp-content/uploads/2025/10/ANK440_7834a_LR.webp",
     "description": "Founded in 1987 by Shrikant and Shashank Paranjape, Paranjape Schemes (Construction) Ltd (PSCL) is one of Maharashtra's most pioneering real estate developers with over 200 delivered projects, 20,000+ satisfied families, iconic mega townships like Blue Ridge (Hinjewadi) and Forest Trails (Bhugaon), and pioneer senior citizen living communities under the Athashri brand across Pune and Mumbai MMR.",
     "establishedYear": 1987,
     "totalProjects": 200,
@@ -6486,8 +6486,8 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/dllJJfjjSSZzKD4GqapaGnZYQXOspHGlmKMt9QUX.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/dllJJfjjSSZzKD4GqapaGnZYQXOspHGlmKMt9QUX.webp",
+    "image": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "lat": 18.563,
     "lng": 73.742,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
@@ -6576,7 +6576,7 @@ export const PROJECTS: Project[] = [
         "gstRate": 5,
         "stampDutyRate": 7,
         "registrationCharges": 30000,
-        "layoutImage": "https://keystoneliv.com/public/uploads/property/dllJJfjjSSZzKD4GqapaGnZYQXOspHGlmKMt9QUX.webp"
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       },
       {
         "id": "cfg-godrej-hillside-3-2",
@@ -6694,6 +6694,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": "902 sq.ft",
         "priceRange": "\u20b91.06 Cr"
       }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp",
+      "https://keystoneliv.com/public/uploads/property/5tGVdoBmlNYzErLGfVKOK1iX1OZIqyzJ17rTGkJ7.webp",
+      "https://keystoneliv.com/public/uploads/property/Fb2rGxFdFT1LLFje4Aj4P3GzmiJzikdzBYMoWc5d.webp"
     ]
   },
   {
@@ -19953,8 +19959,8 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2026",
-    "image": "https://keystoneliv.com/public/uploads/property/dllJJfjjSSZzKD4GqapaGnZYQXOspHGlmKMt9QUX.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/dllJJfjjSSZzKD4GqapaGnZYQXOspHGlmKMt9QUX.webp",
+    "image": "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp",
     "lat": 18.563,
     "lng": 73.742,
     "reraId": "P52100030580",
@@ -20091,6 +20097,12 @@ export const PROJECTS: Project[] = [
         "carpetArea": "1120 sq.ft",
         "priceRange": "\u20b91.18 Cr"
       }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp",
+      "https://keystoneliv.com/public/uploads/property/9mQcxr2kQwdxOjKHIxo2zEp9jrfIGuIrQfIHkK7o.webp",
+      "https://keystoneliv.com/public/uploads/property/Clv6QVczOiJD0bNhVQSdUoYvHCzVM92HasWLD3ET.webp",
+      "https://keystoneliv.com/public/uploads/property/Vrt23jt5LSfa41TChYsDPZdCGlEn8UCmlZ3CgxZH.webp"
     ]
   },
   {
@@ -24558,8 +24570,8 @@ export const PROJECTS: Project[] = [
     "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready to Move",
-    "image": "https://keystoneliv.com/public/uploads/property/dllJJfjjSSZzKD4GqapaGnZYQXOspHGlmKMt9QUX.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/dllJJfjjSSZzKD4GqapaGnZYQXOspHGlmKMt9QUX.webp",
+    "image": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
     "lat": 18.5625,
     "lng": 73.7415,
     "reraId": "P52100020331",
@@ -24699,6 +24711,12 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp"
       }
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+      "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+      "https://keystoneliv.com/public/uploads/property/DqZiV2LxEwtgObiiMdb3ecrNCjeh3UtIWNZLlTtx.webp",
+      "https://keystoneliv.com/public/uploads/property/CmDFE12nnFIgAUpMaBjxRl9fnigcnkgzhwmPsgEZ.webp"
     ]
   },
   {
@@ -31990,12 +32008,14 @@ export const PROJECTS: Project[] = [
     "status": "New Launch",
     "type": "Residential",
     "possessionDate": "Dec 2027",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/CmDFE12nnFIgAUpMaBjxRl9fnigcnkgzhwmPsgEZ.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/CmDFE12nnFIgAUpMaBjxRl9fnigcnkgzhwmPsgEZ.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Kohinoor Kaleido by Kohinoor Group is a premium residential development situated in the strategic corridor of Wagholi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100046027 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -32050,7 +32070,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Wagholi",
       "Kohinoor Group projects Pune"
     ],
-    "metaDescription": "Explore Kohinoor Kaleido in Wagholi, Pune by Kohinoor Group. Offering 2 BHK, 3 BHK starting at \u20b91.05 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Kohinoor Kaleido in Wagholi, Pune by Kohinoor Group. Offering 2 BHK, 3 BHK starting at \u20b91.05 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/CmDFE12nnFIgAUpMaBjxRl9fnigcnkgzhwmPsgEZ.webp",
+      "https://keystoneliv.com/public/uploads/property/AEV4Alkp45KgjGoLG3i2wOtoKOjfuY7T0aplVMNP.webp",
+      "https://keystoneliv.com/public/uploads/property/q5AHQmgzPmHHJpiGmkjETlcn8wnVNDWB11vSWkcy.webp",
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp"
+    ]
   },
   {
     "id": "p-topaz-towers-charholi",
@@ -32080,12 +32106,14 @@ export const PROJECTS: Project[] = [
     "status": "New Launch",
     "type": "Residential",
     "possessionDate": "Dec 2030",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/38488f61-3945-4d3a-8b5d-bba099e3e75e/gallery/ms3idi7c-b4lni4.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/38488f61-3945-4d3a-8b5d-bba099e3e75e/gallery/ms3idi7c-b4lni4.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Topaz Towers by Aakar Developers is a premium residential development situated in the strategic corridor of Charholi Budruk, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration PM1261012502712 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -32170,12 +32198,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2029",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/7R1KntHtZGpJcf1ID73ZhW6Bmbi6t69x1dDPXrCk.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/7R1KntHtZGpJcf1ID73ZhW6Bmbi6t69x1dDPXrCk.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Kartavya Srushti by Kartavya Udyog Vishwa is a premium residential development situated in the strategic corridor of Dhayari, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100080075 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -32230,7 +32260,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Dhayari",
       "Kartavya Udyog Vishwa projects Pune"
     ],
-    "metaDescription": "Explore Kartavya Srushti in Dhayari, Pune by Kartavya Udyog Vishwa. Offering 2 BHK starting at \u20b969.28 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Kartavya Srushti in Dhayari, Pune by Kartavya Udyog Vishwa. Offering 2 BHK starting at \u20b969.28 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/7R1KntHtZGpJcf1ID73ZhW6Bmbi6t69x1dDPXrCk.webp",
+      "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
+      "https://keystoneliv.com/public/uploads/property/QUSiXbX1yIv3u1F0efgnLHyJgKsJfu0DIDG1r7Wi.webp",
+      "https://keystoneliv.com/public/uploads/property/JRdpFkkMaBqWUV91UsxTA5PmT4jrWULe6bfbdGr3.webp"
+    ]
   },
   {
     "id": "p-aksha-ambar-dudulgaon",
@@ -32260,12 +32296,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2028",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Aksha Ambar by Aksha Group Builders is a premium residential development situated in the strategic corridor of Dudulgaon, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100077655 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -32320,7 +32358,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Dudulgaon",
       "Aksha Group Builders projects Pune"
     ],
-    "metaDescription": "Explore Aksha Ambar in Dudulgaon, Pune by Aksha Group Builders. Offering 2 BHK, 2.5 BHK starting at \u20b952.00 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Aksha Ambar in Dudulgaon, Pune by Aksha Group Builders. Offering 2 BHK, 2.5 BHK starting at \u20b952.00 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/leqFS0kMhJDAQ6ZdwEOxnajHj4VcaKZHhxS1hVk1.webp",
+      "https://keystoneliv.com/public/uploads/property/NnpqoFF2OBg3Qewfk5tD4GWzugUz51BlL7UtQrsU.webp",
+      "https://keystoneliv.com/public/uploads/property/EqFhQWfr3lRMA1nua2t6lHamZuSarVQj6Xo2TWu5.webp"
+    ]
   },
   {
     "id": "p-nirman-anamika-sadashiv-peth",
@@ -32350,12 +32394,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2028",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/8KKQNl9pXNBZ6numJWe8UNpGknzVelIS0Qg1KIWp.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/8KKQNl9pXNBZ6numJWe8UNpGknzVelIS0Qg1KIWp.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Nirman Anamika by Nirman Developers is a premium residential development situated in the strategic corridor of Sadashiv Peth, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100076906 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -32410,7 +32456,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Sadashiv Peth",
       "Nirman Developers projects Pune"
     ],
-    "metaDescription": "Explore Nirman Anamika in Sadashiv Peth, Pune by Nirman Developers. Offering 2 BHK, 3 BHK starting at \u20b91.99 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Nirman Anamika in Sadashiv Peth, Pune by Nirman Developers. Offering 2 BHK, 3 BHK starting at \u20b91.99 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/8KKQNl9pXNBZ6numJWe8UNpGknzVelIS0Qg1KIWp.webp",
+      "https://keystoneliv.com/public/uploads/property/HNvTc3nVkYmFjSbMvb2D2yLmiDCkAwa79zcs9svU.webp",
+      "https://keystoneliv.com/public/uploads/property/ozTB4XODdBQeqGDmSjJ9UEPdq2M8vHjJj5zZK3pB.webp",
+      "https://keystoneliv.com/public/uploads/property/pliB773ywyiq6gouzMfqh80mTXjNcrEm9jmjmD0R.webp"
+    ]
   },
   {
     "id": "p-aashirwad-homes-ravet",
@@ -32434,12 +32486,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2027",
-    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/CDMAPe6qKsbaiZoY5bJY1as78VedvW5RfxaRbaLD.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/CDMAPe6qKsbaiZoY5bJY1as78VedvW5RfxaRbaLD.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Aashirwad Homes by Arruj Group is a premium residential development situated in the strategic corridor of Ravet, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100021276 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -32494,7 +32548,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Ravet",
       "Arruj Group projects Pune"
     ],
-    "metaDescription": "Explore Aashirwad Homes in Ravet, Pune by Arruj Group. Offering 2 BHK starting at \u20b958.90 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Aashirwad Homes in Ravet, Pune by Arruj Group. Offering 2 BHK starting at \u20b958.90 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/CDMAPe6qKsbaiZoY5bJY1as78VedvW5RfxaRbaLD.webp",
+      "https://keystoneliv.com/public/uploads/property/kQtc9sF6Owjfz21mFq09aaMEMBhYacxWFpT43wfC.webp",
+      "https://keystoneliv.com/public/uploads/property/k9Cpqd4cLxkrt0r65YKq9o0IWCPpqcToOcSn1QD4.webp",
+      "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp"
+    ]
   },
   {
     "id": "p-33-central-avenue-tathawade",
@@ -32524,12 +32584,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2029",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/J9Ip37z2Wzgx196NQyLrRvd22LBOy1PXHkFuPfuN.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/J9Ip37z2Wzgx196NQyLrRvd22LBOy1PXHkFuPfuN.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "33 Central Avenue by Garve Group is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100056399 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -32584,7 +32646,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Tathawade",
       "Garve Group projects Pune"
     ],
-    "metaDescription": "Explore 33 Central Avenue in Tathawade, Pune by Garve Group. Offering 2 BHK, 3 BHK starting at \u20b994.61 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore 33 Central Avenue in Tathawade, Pune by Garve Group. Offering 2 BHK, 3 BHK starting at \u20b994.61 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/J9Ip37z2Wzgx196NQyLrRvd22LBOy1PXHkFuPfuN.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/xXL3bwTTQW80NCNFqMl5F3FP7Yu22pdeIS7r5Z39.webp",
+      "https://keystoneliv.com/public/uploads/property/jw5ukbRlHKoZR35S8lb9oHfirlSVu9uEbKjZ96Fr.webp"
+    ]
   },
   {
     "id": "p-sankalp-torezza-ravet",
@@ -32614,12 +32682,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2029",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/24e8b4ba-f85b-4d56-9714-067e8e838fb0/gallery/msabb9qm-mhpib.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24e8b4ba-f85b-4d56-9714-067e8e838fb0/gallery/msabb9qm-mhpib.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Sankalp Torezza by Sankalp Group is a premium residential development situated in the strategic corridor of Ravet, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration PM1260002600419 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -32674,7 +32744,14 @@ export const PROJECTS: Project[] = [
       "buy apartment in Ravet",
       "Sankalp Group projects Pune"
     ],
-    "metaDescription": "Explore Sankalp Torezza in Ravet, Pune by Sankalp Group. Offering 2 BHK, 3 BHK starting at \u20b978.00 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Sankalp Torezza in Ravet, Pune by Sankalp Group. Offering 2 BHK, 3 BHK starting at \u20b978.00 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24e8b4ba-f85b-4d56-9714-067e8e838fb0/gallery/msabb9qm-mhpib.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24e8b4ba-f85b-4d56-9714-067e8e838fb0/gallery/msabbbvy-2svjdu.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24e8b4ba-f85b-4d56-9714-067e8e838fb0/gallery/msabbduw-d2bv2q.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24e8b4ba-f85b-4d56-9714-067e8e838fb0/gallery/msabbfth-gcofou.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24e8b4ba-f85b-4d56-9714-067e8e838fb0/gallery/msabbhi7-b2egf3.webp"
+    ]
   },
   {
     "id": "p-dream-velmore-balewadi",
@@ -32704,12 +32781,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2032",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/5c5a2981-5ec1-47fb-9a15-d2f42062cb45/gallery/mulaihv9-5l1ozq.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5c5a2981-5ec1-47fb-9a15-d2f42062cb45/gallery/mulaihv9-5l1ozq.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Dream Velmore by Dream Works Realtors is a premium residential development situated in the strategic corridor of Balewadi, Pune. Offering thoughtfully engineered 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration PM1260002600744 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -32766,10 +32845,10 @@ export const PROJECTS: Project[] = [
     ],
     "metaDescription": "Explore Dream Velmore in Balewadi, Pune by Dream Works Realtors. Offering 3 BHK, 4 BHK starting at \u20b92.17 Cr. 100% zero brokerage through PROPSMART REALTY.",
     "images": [
-      "https://punehome.in/storage/v1/object/public/project-media/projects/744026f6-db29-45e5-b533-743fd246421f/gallery/mrqrqhov-d138ii.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/744026f6-db29-45e5-b533-743fd246421f/gallery/mrqrqjk6-bgqzi.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/744026f6-db29-45e5-b533-743fd246421f/gallery/mrqrqy58-bvs6cp.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/744026f6-db29-45e5-b533-743fd246421f/gallery/mrqrqzwx-3lh4gj.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5c5a2981-5ec1-47fb-9a15-d2f42062cb45/gallery/mulaihv9-5l1ozq.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5c5a2981-5ec1-47fb-9a15-d2f42062cb45/gallery/mulaij5w-4kj8hr.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5c5a2981-5ec1-47fb-9a15-d2f42062cb45/gallery/mulaikq9-5gj95s.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5c5a2981-5ec1-47fb-9a15-d2f42062cb45/gallery/mulainnh-14081f.webp"
     ]
   },
   {
@@ -32800,12 +32879,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Jul 2029",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/0138355c-d2d5-4b9a-a701-56c717c31a0d/gallery/mrwah579-5wfdf9.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0138355c-d2d5-4b9a-a701-56c717c31a0d/gallery/mrwah579-5wfdf9.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "One Pearl by Guddwill Spaces is a premium residential development situated in the strategic corridor of Punawale, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration PR1260002601216 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -32890,12 +32971,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2027",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/kLEnSzR22c9MFpgzW1q1VBKhcmnWujmwF6wocGF3.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/kLEnSzR22c9MFpgzW1q1VBKhcmnWujmwF6wocGF3.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "5 Racecourse by SKYi is a premium residential development situated in the strategic corridor of Wanowrie, Pune. Offering thoughtfully engineered 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100077439 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -32950,7 +33033,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Wanowrie",
       "SKYi projects Pune"
     ],
-    "metaDescription": "Explore 5 Racecourse in Wanowrie, Pune by SKYi. Offering 4 BHK starting at \u20b93.30 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore 5 Racecourse in Wanowrie, Pune by SKYi. Offering 4 BHK starting at \u20b93.30 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/kLEnSzR22c9MFpgzW1q1VBKhcmnWujmwF6wocGF3.webp",
+      "https://keystoneliv.com/public/uploads/property/hvefx7bXrk6FCEkGym0Gml4vZ9eOhBAuaWiOfohq.webp",
+      "https://keystoneliv.com/public/uploads/property/b8feIUVDt3lYstN0BMwcKjsjQarsPnZ4QBTS8zNj.webp",
+      "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp"
+    ]
   },
   {
     "id": "p-nyati-elan-west-wagholi",
@@ -32980,12 +33069,14 @@ export const PROJECTS: Project[] = [
     "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready to Move",
-    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/XuDMBetWz7JMao7EtAKipFvMdJLCxZvvdmU1XTf4.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/XuDMBetWz7JMao7EtAKipFvMdJLCxZvvdmU1XTf4.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Nyati Elan West by Nyati Group is a premium residential development situated in the strategic corridor of Wagholi, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100000843 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -33040,7 +33131,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Wagholi",
       "Nyati Group projects Pune"
     ],
-    "metaDescription": "Explore Nyati Elan West in Wagholi, Pune by Nyati Group. Offering 1 BHK, 2 BHK starting at \u20b947.01 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Nyati Elan West in Wagholi, Pune by Nyati Group. Offering 1 BHK, 2 BHK starting at \u20b947.01 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/XuDMBetWz7JMao7EtAKipFvMdJLCxZvvdmU1XTf4.webp",
+      "https://keystoneliv.com/public/uploads/property/ljCflOeKdGaCwzeaJCHwGzZzLQOn3TbJUc7voNB7.webp",
+      "https://keystoneliv.com/public/uploads/property/BdOHFAflcjgXwOB8Bd1Rh03LxMxYzglkJcavsSBS.webp",
+      "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp"
+    ]
   },
   {
     "id": "p-nyati-ekaant-dhayari",
@@ -33076,12 +33173,14 @@ export const PROJECTS: Project[] = [
     "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready to Move",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/V4wSzfgdN4fSren4jb95rT0vdd4KSV49tNN9ZgvF.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/V4wSzfgdN4fSren4jb95rT0vdd4KSV49tNN9ZgvF.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Nyati Ekaant by Nyati Group is a premium residential development situated in the strategic corridor of Dhayari, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100015942 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -33136,7 +33235,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Dhayari",
       "Nyati Group projects Pune"
     ],
-    "metaDescription": "Explore Nyati Ekaant in Dhayari, Pune by Nyati Group. Offering 1 BHK, 2 BHK, 3 BHK starting at \u20b945.00 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Nyati Ekaant in Dhayari, Pune by Nyati Group. Offering 1 BHK, 2 BHK, 3 BHK starting at \u20b945.00 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/V4wSzfgdN4fSren4jb95rT0vdd4KSV49tNN9ZgvF.webp",
+      "https://keystoneliv.com/public/uploads/property/HlZPHQBAei2owiayJmxJZhkdXYVI8emWvLduM451.webp",
+      "https://keystoneliv.com/public/uploads/property/PGlvfFmgy2VHokL2QsHGliY2jw1aMvsk3u0b9uB8.webp",
+      "https://keystoneliv.com/public/uploads/property/Ptw9XmFBU5IeYvADN8ruLftUvTCTToYOMifOkh2x.webp"
+    ]
   },
   {
     "id": "p-nirman-adi-yerwada",
@@ -33166,12 +33271,14 @@ export const PROJECTS: Project[] = [
     "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready to Move",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/3dehuUq2Po5NML9mJlmIQO5xPl9IF2CTVSuFPjDO.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3dehuUq2Po5NML9mJlmIQO5xPl9IF2CTVSuFPjDO.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Nirman Adi by Nirman Developers is a premium residential development situated in the strategic corridor of Yerwada, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100015896 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -33226,7 +33333,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Yerwada",
       "Nirman Developers projects Pune"
     ],
-    "metaDescription": "Explore Nirman Adi in Yerwada, Pune by Nirman Developers. Offering 2 BHK, 3 BHK starting at \u20b91.73 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Nirman Adi in Yerwada, Pune by Nirman Developers. Offering 2 BHK, 3 BHK starting at \u20b91.73 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/3dehuUq2Po5NML9mJlmIQO5xPl9IF2CTVSuFPjDO.webp",
+      "https://keystoneliv.com/public/uploads/property/Zer51XQI5ojyaQkJzALaQDh3PUsVuRYsoTIvuyGp.webp",
+      "https://keystoneliv.com/public/uploads/property/Vz9ORh5u4GK56Sv3npOGctyGF11WSrX1fY8kE3UC.webp",
+      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
+    ]
   },
   {
     "id": "p-nyati-emblem-parvati",
@@ -33250,12 +33363,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2027",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/dUBwkAaG7EfnFh6NDymuNR5UNLD1e3QTLxUcN08I.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/dUBwkAaG7EfnFh6NDymuNR5UNLD1e3QTLxUcN08I.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Nyati Emblem by Nyati Group is a premium residential development situated in the strategic corridor of Parvati, Pune. Offering thoughtfully engineered 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100011601 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -33310,7 +33425,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Parvati",
       "Nyati Group projects Pune"
     ],
-    "metaDescription": "Explore Nyati Emblem in Parvati, Pune by Nyati Group. Offering 4 BHK starting at \u20b93.20 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Nyati Emblem in Parvati, Pune by Nyati Group. Offering 4 BHK starting at \u20b93.20 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/dUBwkAaG7EfnFh6NDymuNR5UNLD1e3QTLxUcN08I.webp",
+      "https://keystoneliv.com/public/uploads/property/uqOD7mlgMLBjjrzWsFb4eCL82f0hldUzEuA03gyR.webp",
+      "https://keystoneliv.com/public/uploads/property/cfRu71vAvcCfj79N64dTM20dXnH55jXdd9LunD32.webp",
+      "https://keystoneliv.com/public/uploads/property/pFuOfY6ZtpCFIT2RdAIOSb2psuUgeLUKT5aP7Txd.webp"
+    ]
   },
   {
     "id": "p-saarrthi-skybizz-mahalunge",
@@ -33340,12 +33461,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Jul 2027",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/DHi0IYRMCmrf7yoxp0cK8Vp96P1ccxV3V6g85gdz.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/DHi0IYRMCmrf7yoxp0cK8Vp96P1ccxV3V6g85gdz.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Saarrthi Skybizz by Saarrthi Group is a premium residential development situated in the strategic corridor of Mahalunge, Pune. Offering thoughtfully engineered Studio Suite, 1 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100020680 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -33400,7 +33523,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Mahalunge",
       "Saarrthi Group projects Pune"
     ],
-    "metaDescription": "Explore Saarrthi Skybizz in Mahalunge, Pune by Saarrthi Group. Offering Studio Suite, 1 BHK starting at \u20b932.50 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Saarrthi Skybizz in Mahalunge, Pune by Saarrthi Group. Offering Studio Suite, 1 BHK starting at \u20b932.50 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/DHi0IYRMCmrf7yoxp0cK8Vp96P1ccxV3V6g85gdz.webp",
+      "https://keystoneliv.com/public/uploads/property/fx4tJjRmJedaJ69GSAzp9y1Po3iHhu7xv951qJNV.webp",
+      "https://keystoneliv.com/public/uploads/property/yDwMknCek35yZxmMXjayGU9f3YNISUbtB2byb3jE.webp",
+      "https://keystoneliv.com/public/uploads/property/AmV8a2CDk62VDd4gHjwZ5FxR4LQjjMFKM5NLCqsW.webp"
+    ]
   },
   {
     "id": "p-aksha-amulyam-moshi",
@@ -33430,12 +33559,14 @@ export const PROJECTS: Project[] = [
     "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready to Move",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/9pvXyW2GJ03250xBWLfGckCuaopvViEXcNd2j0GO.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/9pvXyW2GJ03250xBWLfGckCuaopvViEXcNd2j0GO.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Aksha Amulyam by Aksha Group Builders is a premium residential development situated in the strategic corridor of Moshi, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100013877 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -33490,7 +33621,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Moshi",
       "Aksha Group Builders projects Pune"
     ],
-    "metaDescription": "Explore Aksha Amulyam in Moshi, Pune by Aksha Group Builders. Offering 1 BHK, 2 BHK starting at \u20b925.02 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Aksha Amulyam in Moshi, Pune by Aksha Group Builders. Offering 1 BHK, 2 BHK starting at \u20b925.02 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/9pvXyW2GJ03250xBWLfGckCuaopvViEXcNd2j0GO.webp",
+      "https://keystoneliv.com/public/uploads/property/8jc5QT6quqef9ftDCKWF9whFNXYnqsn8HFcXlNK6.webp",
+      "https://keystoneliv.com/public/uploads/property/OAo4YmYPmmyE1TN8Y277HTfgyaoUnd0QkfD4TMnW.webp",
+      "https://keystoneliv.com/public/uploads/property/zmj4n4TECfiXjZQ6PK1OM0lDjNqeGFoqs5NMDueV.webp"
+    ]
   },
   {
     "id": "p-polaris-bavdhan",
@@ -33514,12 +33651,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2030",
-    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/7pu992x8lSATxJVYLOahMD6OwofO5QT9Pp2c33Xj.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/7pu992x8lSATxJVYLOahMD6OwofO5QT9Pp2c33Xj.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Polaris Bavdhan by Excellaa Realty is a premium residential development situated in the strategic corridor of Bavdhan, Pune. Offering thoughtfully engineered 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100011330 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -33574,7 +33713,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Bavdhan",
       "Excellaa Realty projects Pune"
     ],
-    "metaDescription": "Explore Polaris Bavdhan in Bavdhan, Pune by Excellaa Realty. Offering 4 BHK starting at \u20b92.52 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Polaris Bavdhan in Bavdhan, Pune by Excellaa Realty. Offering 4 BHK starting at \u20b92.52 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/7pu992x8lSATxJVYLOahMD6OwofO5QT9Pp2c33Xj.webp",
+      "https://keystoneliv.com/public/uploads/property/z1Cl4amxzGL9angDNIWfxgIYIvfKxamUuEWGUPd0.webp",
+      "https://keystoneliv.com/public/uploads/property/3nwgH4M3KYSuaKfXTtDhRqNLtwWRw8zijkrDpzRL.webp",
+      "https://keystoneliv.com/public/uploads/property/6muqAWdRxTJUTEwNXQRGeBfgVIluqwTW2aig5Gly.webp"
+    ]
   },
   {
     "id": "p-elina-lite-mohammed-wadi",
@@ -33598,12 +33743,14 @@ export const PROJECTS: Project[] = [
     "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready to Move",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Elina Lite by Chaphalkar Karandikar is a premium residential development situated in the strategic corridor of Mohammed Wadi, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100013855 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -33658,7 +33805,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Mohammed Wadi",
       "Chaphalkar Karandikar projects Pune"
     ],
-    "metaDescription": "Explore Elina Lite in Mohammed Wadi, Pune by Chaphalkar Karandikar. Offering 2 BHK starting at \u20b964.14 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Elina Lite in Mohammed Wadi, Pune by Chaphalkar Karandikar. Offering 2 BHK starting at \u20b964.14 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
+      "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
+      "https://keystoneliv.com/public/uploads/property/N8h0pFp4t9iPbyC01tcUgFFE2sNIrbMiZg3aekTp.webp",
+      "https://keystoneliv.com/public/uploads/property/ZB60bzT16gilDe2dmK9WOO14yoeSLG7CJOFpK5KQ.webp"
+    ]
   },
   {
     "id": "p-suryam-89-wagholi",
@@ -33688,12 +33841,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2029",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/erVeCsyBq9xP98CDIxaoBvpB9TucxbfYYskXd5u8.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/erVeCsyBq9xP98CDIxaoBvpB9TucxbfYYskXd5u8.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Suryam 89 by Uptitan Infra is a premium residential development situated in the strategic corridor of Wagholi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100013742 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -33748,7 +33903,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Wagholi",
       "Uptitan Infra projects Pune"
     ],
-    "metaDescription": "Explore Suryam 89 in Wagholi, Pune by Uptitan Infra. Offering 2 BHK, 3 BHK starting at \u20b950.22 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Suryam 89 in Wagholi, Pune by Uptitan Infra. Offering 2 BHK, 3 BHK starting at \u20b950.22 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/erVeCsyBq9xP98CDIxaoBvpB9TucxbfYYskXd5u8.webp",
+      "https://keystoneliv.com/public/uploads/property/po0ncOmSUgj95n9merVfb98wcEMwAyJXM6JuRxN4.webp",
+      "https://keystoneliv.com/public/uploads/property/FmsooXsys3CQEXObVELeVcFw0pG4tD91LIBWTvhT.webp",
+      "https://keystoneliv.com/public/uploads/property/PQOSV63FDT8y9apBXRIl6aZLDwOZYNUPLn6Axz9r.webp"
+    ]
   },
   {
     "id": "p-presidia-kondhwa",
@@ -33772,12 +33933,14 @@ export const PROJECTS: Project[] = [
     "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready to Move",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/DUlnXQzjx5Pmekfng8ii6PNlJHlAP8CA9oi4Rc27.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/DUlnXQzjx5Pmekfng8ii6PNlJHlAP8CA9oi4Rc27.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Presidia Kondhwa by Kundan Spaces is a premium residential development situated in the strategic corridor of Kondhwa, Pune. Offering thoughtfully engineered 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100015616 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -33832,7 +33995,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Kondhwa",
       "Kundan Spaces projects Pune"
     ],
-    "metaDescription": "Explore Presidia Kondhwa in Kondhwa, Pune by Kundan Spaces. Offering 3 BHK starting at \u20b91.45 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Presidia Kondhwa in Kondhwa, Pune by Kundan Spaces. Offering 3 BHK starting at \u20b91.45 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/DUlnXQzjx5Pmekfng8ii6PNlJHlAP8CA9oi4Rc27.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp",
+      "https://keystoneliv.com/public/uploads/property/aWnxy62MDO1QX60oMsN6OrORW8XJAf2mAMh9MAgQ.webp",
+      "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp"
+    ]
   },
   {
     "id": "p-9-jagdish-erandwane",
@@ -33856,12 +34025,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Jul 2027",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/2RHyNsHcYFRyG4DosoTGOT7S7A6JMuulvZb7D2kQ.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/2RHyNsHcYFRyG4DosoTGOT7S7A6JMuulvZb7D2kQ.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "9 Jagdish by Trisha Developers is a premium residential development situated in the strategic corridor of Erandwane, Pune. Offering thoughtfully engineered 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100078912 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -33916,7 +34087,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Erandwane",
       "Trisha Developers projects Pune"
     ],
-    "metaDescription": "Explore 9 Jagdish in Erandwane, Pune by Trisha Developers. Offering 3 BHK starting at \u20b93.23 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore 9 Jagdish in Erandwane, Pune by Trisha Developers. Offering 3 BHK starting at \u20b93.23 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/2RHyNsHcYFRyG4DosoTGOT7S7A6JMuulvZb7D2kQ.webp",
+      "https://keystoneliv.com/public/uploads/property/V81P09pIBB1Q3TvXBzhzsky9XZxJ856qFhhVs6Ai.webp",
+      "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+      "https://keystoneliv.com/public/uploads/property/YVe9jtDGWda8R0Ge3bKO03qEKIGzAJFW1G7BDEtw.webp"
+    ]
   },
   {
     "id": "p-shantiban-ii-kondhwa",
@@ -33946,12 +34123,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2031",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/8lAcBNDewOYfTjyKmGo4zq7iwXSRfAQb5i4Z406J.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/8lAcBNDewOYfTjyKmGo4zq7iwXSRfAQb5i4Z406J.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Shantiban II by A.K. Surana Developers is a premium residential development situated in the strategic corridor of Kondhwa, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100018206 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34006,7 +34185,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Kondhwa",
       "A.K. Surana Developers projects Pune"
     ],
-    "metaDescription": "Explore Shantiban II in Kondhwa, Pune by A.K. Surana Developers. Offering 2 BHK, 3 BHK starting at \u20b975.00 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Shantiban II in Kondhwa, Pune by A.K. Surana Developers. Offering 2 BHK, 3 BHK starting at \u20b975.00 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/8lAcBNDewOYfTjyKmGo4zq7iwXSRfAQb5i4Z406J.webp",
+      "https://keystoneliv.com/public/uploads/property/CU1K5TMPY5iB90KqfJVmfosGCK6HiAnidy5Rb9Xd.webp",
+      "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+      "https://keystoneliv.com/public/uploads/property/jbCsemSHSujdotJecRohojPLWmeJoue0QDRZzz4U.webp"
+    ]
   },
   {
     "id": "p-arvaana-balewadi",
@@ -34042,12 +34227,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2031",
-    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2ocq-dgorvp.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2ocq-dgorvp.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Arvaana Balewadi by Kundan Spaces is a premium residential development situated in the strategic corridor of Balewadi, Pune. Offering thoughtfully engineered 3.5 BHK, 4 BHK, 4.5 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100011312 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34102,7 +34289,15 @@ export const PROJECTS: Project[] = [
       "buy apartment in Balewadi",
       "Kundan Spaces projects Pune"
     ],
-    "metaDescription": "Explore Arvaana Balewadi in Balewadi, Pune by Kundan Spaces. Offering 3.5 BHK, 4 BHK, 4.5 BHK starting at \u20b92.85 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Arvaana Balewadi in Balewadi, Pune by Kundan Spaces. Offering 3.5 BHK, 4 BHK, 4.5 BHK starting at \u20b92.85 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2ocq-dgorvp.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2oej-40u8gr.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2oge-cb3pj4.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2oia-o47yz.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2okd-49qqvg.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2omb-e33qdv.webp"
+    ]
   },
   {
     "id": "p-sentosa-era-moshi",
@@ -34138,12 +34333,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2029",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/39828a25-8000-4ce8-8c69-6a34eb1a168e/gallery/msyr4mf8-fm0sz7.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/39828a25-8000-4ce8-8c69-6a34eb1a168e/gallery/msyr4mf8-fm0sz7.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Sentosa Era by Sentosa Developers is a premium residential development situated in the strategic corridor of Moshi, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100010803 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34228,12 +34425,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "May 2028",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/YH1pP1UAcemKGCEerJi9kTbgFzEbhLPsQgDgzJmR.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/YH1pP1UAcemKGCEerJi9kTbgFzEbhLPsQgDgzJmR.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Surekha Kothrud by Trisha Developers is a premium residential development situated in the strategic corridor of Kothrud, Pune. Offering thoughtfully engineered 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100014941 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34288,7 +34487,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Kothrud",
       "Trisha Developers projects Pune"
     ],
-    "metaDescription": "Explore Surekha Kothrud in Kothrud, Pune by Trisha Developers. Offering 3 BHK starting at \u20b92.10 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Surekha Kothrud in Kothrud, Pune by Trisha Developers. Offering 3 BHK starting at \u20b92.10 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/YH1pP1UAcemKGCEerJi9kTbgFzEbhLPsQgDgzJmR.webp",
+      "https://keystoneliv.com/public/uploads/property/pirypefnig5fwwJs1ZORGcWJCujCXhNjv6Pp3UFP.webp",
+      "https://keystoneliv.com/public/uploads/property/zoLAkypqIHabTujIT7jLRaHsLqSvtkc6H9LUm5nB.webp",
+      "https://keystoneliv.com/public/uploads/property/iQeFKSkfJMsMn9Q736Gsy56RUc1DUApUpYlXsjXI.webp"
+    ]
   },
   {
     "id": "p-kundan-eternia-ghorpadi",
@@ -34318,12 +34523,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2027",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/TZsdhaVnvOXVsKJ354KwYxoNAXi3JGPoJKcuFYvN.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/TZsdhaVnvOXVsKJ354KwYxoNAXi3JGPoJKcuFYvN.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Kundan Eternia by Kundan Spaces is a premium residential development situated in the strategic corridor of Ghorpadi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100015563 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34378,7 +34585,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Ghorpadi",
       "Kundan Spaces projects Pune"
     ],
-    "metaDescription": "Explore Kundan Eternia in Ghorpadi, Pune by Kundan Spaces. Offering 2 BHK, 3 BHK starting at \u20b91.01 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Kundan Eternia in Ghorpadi, Pune by Kundan Spaces. Offering 2 BHK, 3 BHK starting at \u20b91.01 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/TZsdhaVnvOXVsKJ354KwYxoNAXi3JGPoJKcuFYvN.webp",
+      "https://keystoneliv.com/public/uploads/property/e1Yisy3QN19cU13poeL9foZvCwjxU3tEAiuqtDxW.webp",
+      "https://keystoneliv.com/public/uploads/property/yiPGuOJ5Fhyx0YB3EzGkjiPFft7mIQsii4HFZdjW.webp",
+      "https://keystoneliv.com/public/uploads/property/b5oceIMtghaxSSAiO2E5Dt4oVI3a7Uc6uRakqvre.webp"
+    ]
   },
   {
     "id": "p-suvarnaban-shivaji-nagar",
@@ -34402,12 +34615,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Oct 2028",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/8L6yo8fke1Wz7a9c7D8pNIZ2pR09E2Yl5a6H2JkU.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/8L6yo8fke1Wz7a9c7D8pNIZ2pR09E2Yl5a6H2JkU.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Suvarnaban Shivaji Nagar by Trisha Developers is a premium residential development situated in the strategic corridor of Shivaji Nagar, Pune. Offering thoughtfully engineered 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100013740 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34462,7 +34677,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Shivaji Nagar",
       "Trisha Developers projects Pune"
     ],
-    "metaDescription": "Explore Suvarnaban Shivaji Nagar in Shivaji Nagar, Pune by Trisha Developers. Offering 3 BHK starting at \u20b93.54 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Suvarnaban Shivaji Nagar in Shivaji Nagar, Pune by Trisha Developers. Offering 3 BHK starting at \u20b93.54 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/8L6yo8fke1Wz7a9c7D8pNIZ2pR09E2Yl5a6H2JkU.webp",
+      "https://keystoneliv.com/public/uploads/property/nWQwPeaSVaBSmMahbWW0cXS3uJVKN70QzqslX4fM.webp",
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://keystoneliv.com/public/uploads/property/in85nexdwWHGTBugbmHouxJBznVFcjkEU4SOl2Qj.webp"
+    ]
   },
   {
     "id": "p-rbd-elina-legend-mohammed-wadi",
@@ -34492,12 +34713,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2032",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/pyfCcZQGbXLGoumWmHpNJZu7lOdvBE2m8hqD7GBs.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/pyfCcZQGbXLGoumWmHpNJZu7lOdvBE2m8hqD7GBs.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "RBD Elina Legend by Chaphalkar Karandikar is a premium residential development situated in the strategic corridor of Mohammed Wadi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100018054 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34552,7 +34775,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Mohammed Wadi",
       "Chaphalkar Karandikar projects Pune"
     ],
-    "metaDescription": "Explore RBD Elina Legend in Mohammed Wadi, Pune by Chaphalkar Karandikar. Offering 2 BHK, 3 BHK starting at \u20b999.82 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore RBD Elina Legend in Mohammed Wadi, Pune by Chaphalkar Karandikar. Offering 2 BHK, 3 BHK starting at \u20b999.82 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/pyfCcZQGbXLGoumWmHpNJZu7lOdvBE2m8hqD7GBs.webp",
+      "https://keystoneliv.com/public/uploads/property/aZDFJSOJKOLyvcMQp6Y7bsA73qTJkHiSzjiwwS9Q.webp",
+      "https://keystoneliv.com/public/uploads/property/TAsZoKbJdyjSNYsDTppGHd3eG82J2a61bC8y9CHD.webp",
+      "https://keystoneliv.com/public/uploads/property/APk42V9TjCaPnBVvOLDnR7iyoKZq3cs68aY7ykXZ.webp"
+    ]
   },
   {
     "id": "p-platinum-citylight-moshi",
@@ -34582,12 +34811,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2030",
-    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/48611d1f-ff42-4e50-b233-ff28ff267b56/gallery/mrs4g8oe-3soz7l.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/48611d1f-ff42-4e50-b233-ff28ff267b56/gallery/mrs4g8oe-3soz7l.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Platinum Citylight by Platinum Group is a premium residential development situated in the strategic corridor of Moshi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100015092 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34642,7 +34873,14 @@ export const PROJECTS: Project[] = [
       "buy apartment in Moshi",
       "Platinum Group projects Pune"
     ],
-    "metaDescription": "Explore Platinum Citylight in Moshi, Pune by Platinum Group. Offering 2 BHK, 3 BHK starting at \u20b954.29 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Platinum Citylight in Moshi, Pune by Platinum Group. Offering 2 BHK, 3 BHK starting at \u20b954.29 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/48611d1f-ff42-4e50-b233-ff28ff267b56/gallery/mrs4g8oe-3soz7l.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/48611d1f-ff42-4e50-b233-ff28ff267b56/gallery/mrs4gc8z-5k5j71.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/48611d1f-ff42-4e50-b233-ff28ff267b56/gallery/mrs4ggqo-fz846i.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/48611d1f-ff42-4e50-b233-ff28ff267b56/gallery/mrs4gkcg-a6qlme.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/48611d1f-ff42-4e50-b233-ff28ff267b56/gallery/mrs4goew-euh70h.webp"
+    ]
   },
   {
     "id": "p-amar-oasis-pashan",
@@ -34666,12 +34904,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Jul 2029",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/bJRlpzPdNm0DR1MkR1sH6rYnsTdUtDSgBdDHbkM5.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/bJRlpzPdNm0DR1MkR1sH6rYnsTdUtDSgBdDHbkM5.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Amar Oasis by Amar Builders is a premium residential development situated in the strategic corridor of Pashan, Pune. Offering thoughtfully engineered 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100014346 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34726,7 +34966,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Pashan",
       "Amar Builders projects Pune"
     ],
-    "metaDescription": "Explore Amar Oasis in Pashan, Pune by Amar Builders. Offering 4 BHK starting at \u20b97.00 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Amar Oasis in Pashan, Pune by Amar Builders. Offering 4 BHK starting at \u20b97.00 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/bJRlpzPdNm0DR1MkR1sH6rYnsTdUtDSgBdDHbkM5.webp",
+      "https://keystoneliv.com/public/uploads/property/1hrp8Z2H37hCLmuwIlHXP5eaxifc5wiCotUH5cVM.webp",
+      "https://keystoneliv.com/public/uploads/property/9oCa9AZdSciAEF6lPemC0vhHm2BvHEJKiFxNCHri.webp",
+      "https://keystoneliv.com/public/uploads/property/elwH47XcqSfm9Wr8ZOTnPUJV0L8hZ3Mzc0A6AnnL.webp"
+    ]
   },
   {
     "id": "p-gagan-klara-balewadi",
@@ -34756,12 +35002,14 @@ export const PROJECTS: Project[] = [
     "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready to Move",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Gagan Klara by Gagan Developers is a premium residential development situated in the strategic corridor of Balewadi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100010306 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34816,7 +35064,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Balewadi",
       "Gagan Developers projects Pune"
     ],
-    "metaDescription": "Explore Gagan Klara in Balewadi, Pune by Gagan Developers. Offering 2 BHK, 3 BHK starting at \u20b91.23 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Gagan Klara in Balewadi, Pune by Gagan Developers. Offering 2 BHK, 3 BHK starting at \u20b91.23 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/WXLSiuxx5fhXPZX1QpedbFnlyRpgRuoSXei0y7sC.webp",
+      "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+      "https://keystoneliv.com/public/uploads/property/Q39esXojW09bMJ6Mdrck23emKYk4oMPhiZEBA16j.webp"
+    ]
   },
   {
     "id": "p-wellwisher-abode-kondhwa",
@@ -34840,12 +35094,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2027",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/MePjpM2o9KQjJ6xTMr6aFlHFsoAzGOb15Qt42xOo.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/MePjpM2o9KQjJ6xTMr6aFlHFsoAzGOb15Qt42xOo.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Wellwisher Abode by Wellwisher Group is a premium residential development situated in the strategic corridor of Kondhwa, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100014352 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34900,7 +35156,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Kondhwa",
       "Wellwisher Group projects Pune"
     ],
-    "metaDescription": "Explore Wellwisher Abode in Kondhwa, Pune by Wellwisher Group. Offering 2 BHK starting at \u20b975.10 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Wellwisher Abode in Kondhwa, Pune by Wellwisher Group. Offering 2 BHK starting at \u20b975.10 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/MePjpM2o9KQjJ6xTMr6aFlHFsoAzGOb15Qt42xOo.webp",
+      "https://keystoneliv.com/public/uploads/property/EUGfJFJxGbOyjIhZSzCYMF3RNiNiqBdv63H9ECdy.webp",
+      "https://keystoneliv.com/public/uploads/property/9hVlJaZ6meEGYLipoMd0CHIZi7NEU4ceqU1F8rCu.webp",
+      "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
+    ]
   },
   {
     "id": "p-babar-classic-vista-kondhwa",
@@ -34924,12 +35186,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Jul 2031",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/nzNTueMEEy7klzyMvsAZKbQvi18BTc9IP4Lf94GE.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/nzNTueMEEy7klzyMvsAZKbQvi18BTc9IP4Lf94GE.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Babar Classic Vista by Classic Properties is a premium residential development situated in the strategic corridor of Kondhwa, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100010095 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -34984,7 +35248,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Kondhwa",
       "Classic Properties projects Pune"
     ],
-    "metaDescription": "Explore Babar Classic Vista in Kondhwa, Pune by Classic Properties. Offering 2 BHK starting at \u20b961.00 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Babar Classic Vista in Kondhwa, Pune by Classic Properties. Offering 2 BHK starting at \u20b961.00 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/nzNTueMEEy7klzyMvsAZKbQvi18BTc9IP4Lf94GE.webp",
+      "https://keystoneliv.com/public/uploads/property/0Z27YlfNSec1eITGBHLNBI0TyDkXT9a9CEJJh9g0.webp",
+      "https://keystoneliv.com/public/uploads/property/ATBSWRDRKSRmbyRoiopB8HwrRQIgzAkuoILwvdpl.webp",
+      "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp"
+    ]
   },
   {
     "id": "p-shree-shivtirth-erandwane",
@@ -35014,12 +35284,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Nov 2029",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Shree Shivtirth by Ranade Realtors is a premium residential development situated in the strategic corridor of Erandwane, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100018590 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -35074,7 +35346,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Erandwane",
       "Ranade Realtors projects Pune"
     ],
-    "metaDescription": "Explore Shree Shivtirth in Erandwane, Pune by Ranade Realtors. Offering 2 BHK, 3 BHK starting at \u20b91.45 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Shree Shivtirth in Erandwane, Pune by Ranade Realtors. Offering 2 BHK, 3 BHK starting at \u20b91.45 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp",
+      "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp",
+      "https://keystoneliv.com/public/uploads/property/Oz85QLYWtUPkHjRU5N2NHLOOg2Z4WBzI9bJT6qeD.webp",
+      "https://keystoneliv.com/public/uploads/property/qS0wzqMbjuPWrp8xgOFuPecPubkwlqnM7z4ThESz.webp"
+    ]
   },
   {
     "id": "p-gandharv-leela-hadapsar",
@@ -35104,12 +35382,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2031",
-    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/FI0pRYe4YtQiDClNaJlsXItZMlHcOGiWSdLu8YJw.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/FI0pRYe4YtQiDClNaJlsXItZMlHcOGiWSdLu8YJw.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Gandharv Leela by Gandharv Developers is a premium residential development situated in the strategic corridor of Hadapsar, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100018200 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -35164,7 +35444,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Hadapsar",
       "Gandharv Developers projects Pune"
     ],
-    "metaDescription": "Explore Gandharv Leela in Hadapsar, Pune by Gandharv Developers. Offering 2 BHK, 3 BHK starting at \u20b985.69 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Gandharv Leela in Hadapsar, Pune by Gandharv Developers. Offering 2 BHK, 3 BHK starting at \u20b985.69 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/FI0pRYe4YtQiDClNaJlsXItZMlHcOGiWSdLu8YJw.webp",
+      "https://keystoneliv.com/public/uploads/property/lGMpicIgBVZBLm3qEAG033NSla0IUbsJLAF3tVpF.webp",
+      "https://keystoneliv.com/public/uploads/property/wwDg59UNik44EYQehyqKPr8KZ3pmLXeQ3ZDmJVj2.webp",
+      "https://keystoneliv.com/public/uploads/property/f9GMlttRsqc66dOt6VQurFR4i48juAfzCiUaFmOs.webp"
+    ]
   },
   {
     "id": "p-prajakta-karve-nagar",
@@ -35200,12 +35486,14 @@ export const PROJECTS: Project[] = [
     "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready to Move",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/qARqJM3G0vCdoeKlLfAh7OECZd5lY3HUYD7T9pmW.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/qARqJM3G0vCdoeKlLfAh7OECZd5lY3HUYD7T9pmW.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Prajakta Karve Nagar by Gangotree Homes is a premium residential development situated in the strategic corridor of Karve Nagar, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100017626 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -35260,7 +35548,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Karve Nagar",
       "Gangotree Homes projects Pune"
     ],
-    "metaDescription": "Explore Prajakta Karve Nagar in Karve Nagar, Pune by Gangotree Homes. Offering 2 BHK, 2.5 BHK, 3 BHK starting at \u20b91.19 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Prajakta Karve Nagar in Karve Nagar, Pune by Gangotree Homes. Offering 2 BHK, 2.5 BHK, 3 BHK starting at \u20b91.19 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/qARqJM3G0vCdoeKlLfAh7OECZd5lY3HUYD7T9pmW.webp",
+      "https://keystoneliv.com/public/uploads/property/aU0av4R1IIxdmArOOo0urjB7axIHKZzbIOiGbl5G.webp",
+      "https://keystoneliv.com/public/uploads/property/AGux2KTqcK6w1EClyVamf2E28S9cCEnCxpkBfOoc.webp",
+      "https://keystoneliv.com/public/uploads/property/hktier2sHXP4K72r1KJuALKWEkO0q8C2EMl3ZeVO.webp"
+    ]
   },
   {
     "id": "p-pandit-mayflower-shivaji-nagar",
@@ -35290,12 +35584,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Oct 2027",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Pandit Mayflower by Pandit Javadekar is a premium residential development situated in the strategic corridor of Shivaji Nagar, Pune. Offering thoughtfully engineered 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100012432 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -35350,7 +35646,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Shivaji Nagar",
       "Pandit Javadekar projects Pune"
     ],
-    "metaDescription": "Explore Pandit Mayflower in Shivaji Nagar, Pune by Pandit Javadekar. Offering 3 BHK, 4 BHK starting at \u20b93.80 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Pandit Mayflower in Shivaji Nagar, Pune by Pandit Javadekar. Offering 3 BHK, 4 BHK starting at \u20b93.80 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
+      "https://keystoneliv.com/public/uploads/property/T2hW8rsrM5jiIRNVy8F3OvaLwxpanGya500Zymno.webp",
+      "https://keystoneliv.com/public/uploads/property/Yh0MhqcWjQpkHVPH3DjAEWr0zVrTSWadIZUjfemG.webp",
+      "https://keystoneliv.com/public/uploads/property/UHNyjEwyLNQy9PeMbK3JWfFARipTf9vfWKRwdV5z.webp"
+    ]
   },
   {
     "id": "p-placidia-akurdi",
@@ -35380,12 +35682,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2029",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/8b54ce6d-9ca9-420e-81ad-1050f00a9815/gallery/mtpqvqmz-2mbz0m.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b54ce6d-9ca9-420e-81ad-1050f00a9815/gallery/mtpqvqmz-2mbz0m.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Placidia Akurdi by Vision Group is a premium residential development situated in the strategic corridor of Akurdi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100016136 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -35440,7 +35744,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Akurdi",
       "Vision Group projects Pune"
     ],
-    "metaDescription": "Explore Placidia Akurdi in Akurdi, Pune by Vision Group. Offering 2 BHK, 3 BHK starting at \u20b982.00 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Placidia Akurdi in Akurdi, Pune by Vision Group. Offering 2 BHK, 3 BHK starting at \u20b982.00 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8b54ce6d-9ca9-420e-81ad-1050f00a9815/gallery/mtpqvqmz-2mbz0m.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8b54ce6d-9ca9-420e-81ad-1050f00a9815/gallery/mtpqvtqy-9j9ht9.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8b54ce6d-9ca9-420e-81ad-1050f00a9815/gallery/mtpqvvwh-4l2gsn.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8b54ce6d-9ca9-420e-81ad-1050f00a9815/gallery/mtpqvyhw-8y0l6d.webp"
+    ]
   },
   {
     "id": "p-shree-sonigara-ekam-ravet",
@@ -35470,12 +35780,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2029",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/C7tGVItVivBs5A9pu9JJNlJuIKchaxzhMmg9UhjV.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/C7tGVItVivBs5A9pu9JJNlJuIKchaxzhMmg9UhjV.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Shree Sonigara Ekam by Shree Sonigara Developers is a premium residential development situated in the strategic corridor of Ravet, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100015391 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -35530,7 +35842,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Ravet",
       "Shree Sonigara Developers projects Pune"
     ],
-    "metaDescription": "Explore Shree Sonigara Ekam in Ravet, Pune by Shree Sonigara Developers. Offering 2 BHK, 3 BHK starting at \u20b976.00 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Shree Sonigara Ekam in Ravet, Pune by Shree Sonigara Developers. Offering 2 BHK, 3 BHK starting at \u20b976.00 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/C7tGVItVivBs5A9pu9JJNlJuIKchaxzhMmg9UhjV.webp",
+      "https://keystoneliv.com/public/uploads/property/ASPT99t1jPi71AYCgeAfhAvxZA42TDK7ect7a9AC.webp",
+      "https://keystoneliv.com/public/uploads/property/UPzmG4euaO1BOdmqRNMXOBWt8x0Bj8yXV84daLnk.webp",
+      "https://keystoneliv.com/public/uploads/property/B8lLrgp8K9glD4SfUoFNPgGs2hgPvixeAczdfTfR.webp"
+    ]
   },
   {
     "id": "p-6-boulevard-tathawade",
@@ -35566,12 +35884,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2031",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/511c3f5e-0f12-4c0e-a7ae-6f693f308d8b/gallery/mrrpxnhx-8dgg0i.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/511c3f5e-0f12-4c0e-a7ae-6f693f308d8b/gallery/mrrpxnhx-8dgg0i.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "6 Boulevard by Namrata Group is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100016266 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -35662,12 +35982,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2030",
-    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/7TCmWAKkzKZL9nyvyDYsuMU5uJp9pN9T1g859POe.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/7TCmWAKkzKZL9nyvyDYsuMU5uJp9pN9T1g859POe.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Kimaya One by Kimaya Group is a premium residential development situated in the strategic corridor of Balewadi, Pune. Offering thoughtfully engineered 2 BHK, 4.5 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100012787 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -35722,7 +36044,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Balewadi",
       "Kimaya Group projects Pune"
     ],
-    "metaDescription": "Explore Kimaya One in Balewadi, Pune by Kimaya Group. Offering 2 BHK, 4.5 BHK starting at \u20b91.35 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Kimaya One in Balewadi, Pune by Kimaya Group. Offering 2 BHK, 4.5 BHK starting at \u20b91.35 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/7TCmWAKkzKZL9nyvyDYsuMU5uJp9pN9T1g859POe.webp",
+      "https://keystoneliv.com/public/uploads/property/gu9bQayoV6LdnMMIPWE4YCnur8rK2HqDUWUnOUJr.webp",
+      "https://keystoneliv.com/public/uploads/property/naU6Ftht3sLHPndXJ1BDOd0MBFugUyMu0B32FZyO.webp",
+      "https://keystoneliv.com/public/uploads/property/aMobBGd7Ut8Rx6KGpdkdEhct7heEo0dv5pyVzWik.webp"
+    ]
   },
   {
     "id": "p-krisala-aventis-tathawade",
@@ -35752,12 +36080,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Sept 2031",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/5B0NFyf2tlJWnCP759YniOd8I3OZlx9Rs0kgNfvg.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/5B0NFyf2tlJWnCP759YniOd8I3OZlx9Rs0kgNfvg.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Krisala Aventis by Krisala Developers is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100010109 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -35812,7 +36142,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Tathawade",
       "Krisala Developers projects Pune"
     ],
-    "metaDescription": "Explore Krisala Aventis in Tathawade, Pune by Krisala Developers. Offering 2 BHK, 3 BHK starting at \u20b977.92 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Krisala Aventis in Tathawade, Pune by Krisala Developers. Offering 2 BHK, 3 BHK starting at \u20b977.92 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/5B0NFyf2tlJWnCP759YniOd8I3OZlx9Rs0kgNfvg.webp",
+      "https://keystoneliv.com/public/uploads/property/430sCsigr3Ej6G1NbTk8XPOQtxzzglMt7g2T8AOD.webp",
+      "https://keystoneliv.com/public/uploads/property/GcpcnUI99erftS3CNypd2i5txdra0VlJzf8WCtWN.webp",
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp"
+    ]
   },
   {
     "id": "p-the-orchids-bavdhan",
@@ -35842,12 +36178,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2030",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/0BgGeUEWnpaENDzgtjJ9AphTNfjVqgQpmqF57pB9.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/0BgGeUEWnpaENDzgtjJ9AphTNfjVqgQpmqF57pB9.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "The Orchids Bavdhan by A.K. Surana Developers is a premium residential development situated in the strategic corridor of Bavdhan, Pune. Offering thoughtfully engineered 2 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100018857 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -35902,7 +36240,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Bavdhan",
       "A.K. Surana Developers projects Pune"
     ],
-    "metaDescription": "Explore The Orchids Bavdhan in Bavdhan, Pune by A.K. Surana Developers. Offering 2 BHK, 4 BHK starting at \u20b91.18 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore The Orchids Bavdhan in Bavdhan, Pune by A.K. Surana Developers. Offering 2 BHK, 4 BHK starting at \u20b91.18 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/0BgGeUEWnpaENDzgtjJ9AphTNfjVqgQpmqF57pB9.webp",
+      "https://keystoneliv.com/public/uploads/property/XGMa0APm2vdRMg166IyrD4znH90asS2Zm2efpcGP.webp",
+      "https://keystoneliv.com/public/uploads/property/ByYt4cju0mAa243xiYGkSFBnG4OPoJfO0NqnVL4K.webp",
+      "https://keystoneliv.com/public/uploads/property/Yr5BwDRbFNIiqwBjWtCMNhRsmIHKZenfXV5IfERK.webp"
+    ]
   },
   {
     "id": "p-54-flores-drive-hadapsar",
@@ -35926,12 +36270,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Oct 2029",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/3sc0FvlkSeRB8AoYR0SxcEtb6SinhQcIhFDRcaiY.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3sc0FvlkSeRB8AoYR0SxcEtb6SinhQcIhFDRcaiY.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "54 Flores Drive by Bhandari Associates is a premium residential development situated in the strategic corridor of Hadapsar, Pune. Offering thoughtfully engineered 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100017666 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -35986,7 +36332,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Hadapsar",
       "Bhandari Associates projects Pune"
     ],
-    "metaDescription": "Explore 54 Flores Drive in Hadapsar, Pune by Bhandari Associates. Offering 3 BHK starting at \u20b91.44 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore 54 Flores Drive in Hadapsar, Pune by Bhandari Associates. Offering 3 BHK starting at \u20b91.44 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/3sc0FvlkSeRB8AoYR0SxcEtb6SinhQcIhFDRcaiY.webp",
+      "https://keystoneliv.com/public/uploads/property/aePrJFSWXCrLzUuIElRa833tORaxTtYAjSNM78Sh.webp",
+      "https://keystoneliv.com/public/uploads/property/LlTxJHtDg73ynmCPMzwDQD1pDvn5dQpm7OIdijJ7.webp",
+      "https://keystoneliv.com/public/uploads/property/bS9eQ4haaMridWuxHQiTNBS2XRx3BSSXIqsk3oVh.webp"
+    ]
   },
   {
     "id": "p-leela-heights-wakad",
@@ -36016,12 +36368,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2030",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/LW8ofJLVdcWXF1ixxVLZJIS7lmzcBGIFY3WSZJ6X.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/LW8ofJLVdcWXF1ixxVLZJIS7lmzcBGIFY3WSZJ6X.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Leela Heights by Vishal Properties is a premium residential development situated in the strategic corridor of Wakad, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100011428 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -36076,7 +36430,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Wakad",
       "Vishal Properties projects Pune"
     ],
-    "metaDescription": "Explore Leela Heights in Wakad, Pune by Vishal Properties. Offering 2 BHK, 3 BHK starting at \u20b999.01 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Leela Heights in Wakad, Pune by Vishal Properties. Offering 2 BHK, 3 BHK starting at \u20b999.01 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/LW8ofJLVdcWXF1ixxVLZJIS7lmzcBGIFY3WSZJ6X.webp",
+      "https://keystoneliv.com/public/uploads/property/MYNRWw1OSwd2X1WWRiMv87vVJVGLKllnZ77rKHEk.webp",
+      "https://keystoneliv.com/public/uploads/property/EVDSKyNRMmSSf7oqrNNRpKJnAT7ktaXYDp3VM2Yf.webp",
+      "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp"
+    ]
   },
   {
     "id": "p-madhunirmal-kothrud",
@@ -36106,12 +36466,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Jan 2030",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/goBwy7cz2g5PqAH9tZTLyxfBkF71AqkrMWUZNNAw.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/goBwy7cz2g5PqAH9tZTLyxfBkF71AqkrMWUZNNAw.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Madhunirmal Kothrud by Trisha Developers is a premium residential development situated in the strategic corridor of Kothrud, Pune. Offering thoughtfully engineered 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100014847 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -36166,7 +36528,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Kothrud",
       "Trisha Developers projects Pune"
     ],
-    "metaDescription": "Explore Madhunirmal Kothrud in Kothrud, Pune by Trisha Developers. Offering 3 BHK, 4 BHK starting at \u20b92.65 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Madhunirmal Kothrud in Kothrud, Pune by Trisha Developers. Offering 3 BHK, 4 BHK starting at \u20b92.65 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/goBwy7cz2g5PqAH9tZTLyxfBkF71AqkrMWUZNNAw.webp",
+      "https://keystoneliv.com/public/uploads/property/Kc9WrFfiUHLEzOWKPwF0yAt4AFwu6yogpoLOfgi1.webp",
+      "https://keystoneliv.com/public/uploads/property/azNbmpmBCobhupU4s5tfh6nAZzKEPgYRISRlQhNa.webp",
+      "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
+    ]
   },
   {
     "id": "p-legacy-highpoint-punawale",
@@ -36190,12 +36558,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2030",
-    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1fer-18jcnd.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1fer-18jcnd.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Legacy Highpoint by Legacy Lifespaces is a premium residential development situated in the strategic corridor of Punawale, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100013513 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -36257,16 +36627,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1fib-9zjlkq.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1fk2-e2bvdv.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1flt-a7u3gb.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1fp0-8r97lr.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1fqu-cflry.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1fsp-8txw5m.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1fur-ga43xm.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1fwk-74f6ax.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1fyo-3meboz.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1g0i-ey4fsp.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1g2d-6a5t2x.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1g44-94lhrf.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1g5v-22bjg2.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/68600103-0e00-4d50-b745-6aaa0bb91a40/gallery/mvun1fp0-8r97lr.webp"
     ]
   },
   {
@@ -36297,12 +36658,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2028",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/dRkDonPR1eXndCLucTp17YruBhz2634DUGQ5X3YG.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/dRkDonPR1eXndCLucTp17YruBhz2634DUGQ5X3YG.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Nirman Shreyas by Nirman Developers is a premium residential development situated in the strategic corridor of Shivaji Nagar, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100013545 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -36357,7 +36720,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Shivaji Nagar",
       "Nirman Developers projects Pune"
     ],
-    "metaDescription": "Explore Nirman Shreyas in Shivaji Nagar, Pune by Nirman Developers. Offering 2 BHK, 3 BHK starting at \u20b92.10 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Nirman Shreyas in Shivaji Nagar, Pune by Nirman Developers. Offering 2 BHK, 3 BHK starting at \u20b92.10 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/dRkDonPR1eXndCLucTp17YruBhz2634DUGQ5X3YG.webp",
+      "https://keystoneliv.com/public/uploads/property/YTtsmyn6nPe5Hzq7tFVwCPJn8iJkuXEa1g8tpTMs.webp",
+      "https://keystoneliv.com/public/uploads/property/btjPpfNMHbOIxRQfCF21p9nMLhQHiuzRce3XKq9N.webp",
+      "https://keystoneliv.com/public/uploads/property/3heONbZszM6nV1D5cGGWNerwu18xb77gy1pOfeUA.webp"
+    ]
   },
   {
     "id": "p-mahalaxmi-elegance-undri",
@@ -36387,12 +36756,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Sept 2030",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/3eba92fd-037c-4c0d-8138-adda9e82f72b/gallery/mrpbbfni-ezvifz.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3eba92fd-037c-4c0d-8138-adda9e82f72b/gallery/mrpbbfni-ezvifz.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Mahalaxmi Elegance by Mahalaxmi Construction is a premium residential development situated in the strategic corridor of Undri, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100014258 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -36447,7 +36818,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Undri",
       "Mahalaxmi Construction projects Pune"
     ],
-    "metaDescription": "Explore Mahalaxmi Elegance in Undri, Pune by Mahalaxmi Construction. Offering 2 BHK, 3 BHK starting at \u20b961.01 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Mahalaxmi Elegance in Undri, Pune by Mahalaxmi Construction. Offering 2 BHK, 3 BHK starting at \u20b961.01 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/3eba92fd-037c-4c0d-8138-adda9e82f72b/gallery/mrpbbfni-ezvifz.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/3eba92fd-037c-4c0d-8138-adda9e82f72b/gallery/mrpbbitx-fw1t7y.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/3eba92fd-037c-4c0d-8138-adda9e82f72b/gallery/mrpbbl09-26jg0i.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/3eba92fd-037c-4c0d-8138-adda9e82f72b/gallery/mrpbboht-ankeer.webp"
+    ]
   },
   {
     "id": "p-visoka-keystone-tathawade",
@@ -36477,12 +36854,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2027",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/LRk6ujgc4OZvne3hIg9Oy1w5Ybq2LhGzE9FyFTTw.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/LRk6ujgc4OZvne3hIg9Oy1w5Ybq2LhGzE9FyFTTw.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Visoka Keystone by Visoka Developer is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100010944 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -36537,7 +36916,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Tathawade",
       "Visoka Developer projects Pune"
     ],
-    "metaDescription": "Explore Visoka Keystone in Tathawade, Pune by Visoka Developer. Offering 2 BHK, 3 BHK starting at \u20b973.30 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Visoka Keystone in Tathawade, Pune by Visoka Developer. Offering 2 BHK, 3 BHK starting at \u20b973.30 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/LRk6ujgc4OZvne3hIg9Oy1w5Ybq2LhGzE9FyFTTw.webp",
+      "https://keystoneliv.com/public/uploads/property/I5MMUKviSMXlXfrqof2dWrQiVvLepViAgf0WOxpJ.webp",
+      "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp",
+      "https://keystoneliv.com/public/uploads/property/P8QVGC64Hk3A8KQdGVAySetrgtwaNp3vYfH4zEou.webp"
+    ]
   },
   {
     "id": "p-sahyadri-plumeria-moshi",
@@ -36567,12 +36952,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2029",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/9QSvdpBVQcRA9ABgjNfHXdLD8GpbbzQXsW9OlEb7.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/9QSvdpBVQcRA9ABgjNfHXdLD8GpbbzQXsW9OlEb7.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Sahyadri Plumeria by Sahyadri Landmarks is a premium residential development situated in the strategic corridor of Moshi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100015630 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -36627,7 +37014,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Moshi",
       "Sahyadri Landmarks projects Pune"
     ],
-    "metaDescription": "Explore Sahyadri Plumeria in Moshi, Pune by Sahyadri Landmarks. Offering 2 BHK, 3 BHK starting at \u20b979.75 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Sahyadri Plumeria in Moshi, Pune by Sahyadri Landmarks. Offering 2 BHK, 3 BHK starting at \u20b979.75 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/9QSvdpBVQcRA9ABgjNfHXdLD8GpbbzQXsW9OlEb7.webp",
+      "https://keystoneliv.com/public/uploads/property/jgs1mOU4egapqUjeXah0vUaNx8ekQVg0pBq8ZQkR.webp",
+      "https://keystoneliv.com/public/uploads/property/SH7H8dxS80mn8MREYklIjIfomkd46PAdSgIPEBpM.webp",
+      "https://keystoneliv.com/public/uploads/property/NP2lL1RMSOai3XmYdaQdzhOJxWvDzVFYB2q9WRGl.webp"
+    ]
   },
   {
     "id": "p-laxmi-green-ambegaon",
@@ -36657,12 +37050,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Oct 2030",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Laxmi Green by Darsheel Group is a premium residential development situated in the strategic corridor of Ambegaon Budruk, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100016393 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -36717,7 +37112,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Ambegaon Budruk",
       "Darsheel Group projects Pune"
     ],
-    "metaDescription": "Explore Laxmi Green in Ambegaon Budruk, Pune by Darsheel Group. Offering 1 BHK, 2 BHK starting at \u20b946.70 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Laxmi Green in Ambegaon Budruk, Pune by Darsheel Group. Offering 1 BHK, 2 BHK starting at \u20b946.70 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
+      "https://keystoneliv.com/public/uploads/property/Mc9E5NBWOsI1NtldSLZmgKPoYKU0CWl7tF5vDeCQ.webp",
+      "https://keystoneliv.com/public/uploads/property/nmPzChK44V7G0iiNdq6UHi8c9Yqa7WJWDA6qDGUb.webp",
+      "https://keystoneliv.com/public/uploads/property/QujUjJZ0G5zvpoujbJlR7mziw17Whp3rqma1HfW4.webp"
+    ]
   },
   {
     "id": "p-parshwa-greens-moshi",
@@ -36747,12 +37148,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Mar 2027",
-    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/00789064-ebcf-4e95-99f3-6f00b908eae3/gallery/msob4dr4-28dyoq.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/00789064-ebcf-4e95-99f3-6f00b908eae3/gallery/msob4dr4-28dyoq.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Parshwa Greens by Parshwa Realty is a premium residential development situated in the strategic corridor of Moshi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100017016 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -36807,7 +37210,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Moshi",
       "Parshwa Realty projects Pune"
     ],
-    "metaDescription": "Explore Parshwa Greens in Moshi, Pune by Parshwa Realty. Offering 2 BHK, 3 BHK starting at \u20b946.54 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Parshwa Greens in Moshi, Pune by Parshwa Realty. Offering 2 BHK, 3 BHK starting at \u20b946.54 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/00789064-ebcf-4e95-99f3-6f00b908eae3/gallery/msob4dr4-28dyoq.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/00789064-ebcf-4e95-99f3-6f00b908eae3/gallery/msob4i1j-8d0n7t.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/00789064-ebcf-4e95-99f3-6f00b908eae3/gallery/msob4l1h-dxxyz0.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/00789064-ebcf-4e95-99f3-6f00b908eae3/gallery/msob4ott-ep2exd.webp"
+    ]
   },
   {
     "id": "p-celestial-city-ravet",
@@ -36837,12 +37246,14 @@ export const PROJECTS: Project[] = [
     "status": "Ready to Move",
     "type": "Residential",
     "possessionDate": "Ready to Move",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/H6VFHKV0W11g8lU1zZ673X0MpRc8hR1uyGujlBwz.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/H6VFHKV0W11g8lU1zZ673X0MpRc8hR1uyGujlBwz.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Celestial City by Rama Group is a premium residential development situated in the strategic corridor of Ravet, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100017814 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -36897,7 +37308,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Ravet",
       "Rama Group projects Pune"
     ],
-    "metaDescription": "Explore Celestial City in Ravet, Pune by Rama Group. Offering 2 BHK, 3 BHK starting at \u20b985.47 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Celestial City in Ravet, Pune by Rama Group. Offering 2 BHK, 3 BHK starting at \u20b985.47 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/H6VFHKV0W11g8lU1zZ673X0MpRc8hR1uyGujlBwz.webp",
+      "https://keystoneliv.com/public/uploads/property/tckPqBcVINZBVHdS5Bf2TEn7XG8BA2rNaM34RTIU.webp",
+      "https://keystoneliv.com/public/uploads/property/c9W9pcE1Zsuj3kbjYK3vVR94GONg6rObDY6jLi2f.webp",
+      "https://keystoneliv.com/public/uploads/property/OCn2152ubIWYsNscRoF5YYxsHbSz1zNbLdTEKCEn.webp"
+    ]
   },
   {
     "id": "p-nova-residency-mundhwa",
@@ -36939,12 +37356,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Apr 2029",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/uROGhbrnCt3JOwg4l6nWrWbJXNmwQf1k5AM7ItuC.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/uROGhbrnCt3JOwg4l6nWrWbJXNmwQf1k5AM7ItuC.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Nova Residency by Magarpatta Builders is a premium residential development situated in the strategic corridor of Mundhwa, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK, 3 BHK, 3.5 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100016649 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -36999,7 +37418,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Mundhwa",
       "Magarpatta Builders projects Pune"
     ],
-    "metaDescription": "Explore Nova Residency in Mundhwa, Pune by Magarpatta Builders. Offering 2 BHK, 2.5 BHK, 3 BHK, 3.5 BHK starting at \u20b91.15 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Nova Residency in Mundhwa, Pune by Magarpatta Builders. Offering 2 BHK, 2.5 BHK, 3 BHK, 3.5 BHK starting at \u20b91.15 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/uROGhbrnCt3JOwg4l6nWrWbJXNmwQf1k5AM7ItuC.webp",
+      "https://keystoneliv.com/public/uploads/property/NS4WdVkoynSB2vYI9ZOVKqtmDrrNMzNEok3Twc3f.webp",
+      "https://keystoneliv.com/public/uploads/property/3msy8g3YfuGeOTEPUH6aUTf87xT71BtV95I63SR5.webp",
+      "https://keystoneliv.com/public/uploads/property/aosfObh9Vvdv8aZgQlzOvwbck4sVAjkctSkrwgox.webp"
+    ]
   },
   {
     "id": "p-ganga-nakshatra-bibwewadi",
@@ -37029,12 +37454,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2028",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/9bazfJfHebPTWOPKZhvlI5uteXcmfF57aTBYkICe.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/9bazfJfHebPTWOPKZhvlI5uteXcmfF57aTBYkICe.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Ganga Nakshatra by Goel Ganga Developments is a premium residential development situated in the strategic corridor of Bibwewadi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100030456 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -37089,7 +37516,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Bibwewadi",
       "Goel Ganga Developments projects Pune"
     ],
-    "metaDescription": "Explore Ganga Nakshatra in Bibwewadi, Pune by Goel Ganga Developments. Offering 2 BHK, 3 BHK starting at \u20b91.58 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Ganga Nakshatra in Bibwewadi, Pune by Goel Ganga Developments. Offering 2 BHK, 3 BHK starting at \u20b91.58 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/9bazfJfHebPTWOPKZhvlI5uteXcmfF57aTBYkICe.webp",
+      "https://keystoneliv.com/public/uploads/property/G8iCil7CfCUQv3jH8sFJxdrhZovPC6sPFiRqwXjG.webp",
+      "https://keystoneliv.com/public/uploads/property/Jlp88hAaeNuplnxEs8TQo4teuwJ1SbAKL03dxJnu.webp",
+      "https://keystoneliv.com/public/uploads/property/56RUcH2FcTi4nhHkw0gG3jrlWip1SBX7GquQbPQ9.webp"
+    ]
   },
   {
     "id": "p-pristine-allure-kharadi",
@@ -37125,12 +37558,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2027",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/y23eQolQreeZxbOCvNAmA6XXJRnsVLTyeeJxCyN9.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/y23eQolQreeZxbOCvNAmA6XXJRnsVLTyeeJxCyN9.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Pristine Allure by Pristine Properties is a premium residential development situated in the strategic corridor of Kharadi, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100029871 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -37185,7 +37620,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Kharadi",
       "Pristine Properties projects Pune"
     ],
-    "metaDescription": "Explore Pristine Allure in Kharadi, Pune by Pristine Properties. Offering 2 BHK, 2.5 BHK, 3 BHK starting at \u20b91.01 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Pristine Allure in Kharadi, Pune by Pristine Properties. Offering 2 BHK, 2.5 BHK, 3 BHK starting at \u20b91.01 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/y23eQolQreeZxbOCvNAmA6XXJRnsVLTyeeJxCyN9.webp",
+      "https://keystoneliv.com/public/uploads/property/hBhWq7z67MCde6MvvhDvmu4lEKeJpH2zLkqJlrml.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://keystoneliv.com/public/uploads/property/iqVoBiHDpdvdvsAeUBS5ADhwZqAsUDAkhxfT9DhM.webp"
+    ]
   },
   {
     "id": "p-purva-silversands-mundhwa",
@@ -37227,12 +37668,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Oct 2026",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/k0DKtRzvGyo3jMbyF5lDnXQFFY421WAIwDkXgXvJ.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/k0DKtRzvGyo3jMbyF5lDnXQFFY421WAIwDkXgXvJ.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Purva Silversands by Puravankara Limited is a premium residential development situated in the strategic corridor of Mundhwa, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK, 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100000756 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -37287,7 +37730,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Mundhwa",
       "Puravankara Limited projects Pune"
     ],
-    "metaDescription": "Explore Purva Silversands in Mundhwa, Pune by Puravankara Limited. Offering 1 BHK, 2 BHK, 3 BHK, 4 BHK starting at \u20b91.37 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Purva Silversands in Mundhwa, Pune by Puravankara Limited. Offering 1 BHK, 2 BHK, 3 BHK, 4 BHK starting at \u20b91.37 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/k0DKtRzvGyo3jMbyF5lDnXQFFY421WAIwDkXgXvJ.webp",
+      "https://keystoneliv.com/public/uploads/property/pkJxGd1gHFGu7mmQK9QruOkJwCN6UjcR7yv24TqQ.webp",
+      "https://keystoneliv.com/public/uploads/property/ZFDoKn37rtVLsZOWJoU75TT8J0yMCPmXyqNMqFYh.webp",
+      "https://keystoneliv.com/public/uploads/property/yJYYgN6FjHg8otXKZFYokqMcDsDOaiin6tPyDHNW.webp"
+    ]
   },
   {
     "id": "p-ganga-vasant-hadapsar",
@@ -37317,12 +37766,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Jun 2028",
-    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/qXM8HRWxsHzEqzzkejOkuF5OA14I5dxYYMPiCfKC.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/qXM8HRWxsHzEqzzkejOkuF5OA14I5dxYYMPiCfKC.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Ganga Vasant by Goel Ganga Developments is a premium residential development situated in the strategic corridor of Hadapsar, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100031980 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -37377,7 +37828,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Hadapsar",
       "Goel Ganga Developments projects Pune"
     ],
-    "metaDescription": "Explore Ganga Vasant in Hadapsar, Pune by Goel Ganga Developments. Offering 1 BHK, 2 BHK starting at \u20b939.47 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Ganga Vasant in Hadapsar, Pune by Goel Ganga Developments. Offering 1 BHK, 2 BHK starting at \u20b939.47 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/qXM8HRWxsHzEqzzkejOkuF5OA14I5dxYYMPiCfKC.webp",
+      "https://keystoneliv.com/public/uploads/property/c5iyPCgaCqPe2H7UgjtMuIlxz0gkapjWv7U5nlzE.webp",
+      "https://keystoneliv.com/public/uploads/property/BvTZeUCeXNM68BIMHLlqJbvYdggPCaAGorJHvwi8.webp",
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
+    ]
   },
   {
     "id": "p-infini-jagtap-city-charholi",
@@ -37407,12 +37864,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "May 2028",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/GTXvNp63rizbi7PzyGamBctpuR6TT5eK393FsUXB.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/GTXvNp63rizbi7PzyGamBctpuR6TT5eK393FsUXB.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Infini Jagtap City by Infini Realty is a premium residential development situated in the strategic corridor of Charholi Budruk, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100028741 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -37467,7 +37926,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Charholi Budruk",
       "Infini Realty projects Pune"
     ],
-    "metaDescription": "Explore Infini Jagtap City in Charholi Budruk, Pune by Infini Realty. Offering 2 BHK, 3 BHK starting at \u20b966.60 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Infini Jagtap City in Charholi Budruk, Pune by Infini Realty. Offering 2 BHK, 3 BHK starting at \u20b966.60 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/GTXvNp63rizbi7PzyGamBctpuR6TT5eK393FsUXB.webp",
+      "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp",
+      "https://keystoneliv.com/public/uploads/property/irWHREpB4Bu9lyPddtSq6rmlhF56vKg7o60Jna7N.webp",
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+    ]
   },
   {
     "id": "p-shubh-veda-akurdi",
@@ -37503,12 +37968,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2030",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/a48893dc-9144-4adf-8e9d-3bf032384b7f/gallery/msetee1n-3f785q.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a48893dc-9144-4adf-8e9d-3bf032384b7f/gallery/msetee1n-3f785q.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Shubh Veda by Shubh Developers is a premium residential development situated in the strategic corridor of Akurdi, Pune. Offering thoughtfully engineered 3 BHK, 3.5 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100034562 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -37594,12 +38061,14 @@ export const PROJECTS: Project[] = [
     "status": "New Launch",
     "type": "Residential",
     "possessionDate": "Dec 2028",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/57ae4443-fc6d-4828-b85d-a2254d53429b/gallery/mwev2rpz-5yc0w5.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/57ae4443-fc6d-4828-b85d-a2254d53429b/gallery/mwev2rpz-5yc0w5.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Trio Sync by Sync Realty is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered Studio Suite homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100032114 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -37691,12 +38160,14 @@ export const PROJECTS: Project[] = [
     "status": "New Launch",
     "type": "Residential",
     "possessionDate": "Dec 2029",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/EFCbCMcwQX5lBHlxlb1G1NTULKb5MjiKSxeS3S9s.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/EFCbCMcwQX5lBHlxlb1G1NTULKb5MjiKSxeS3S9s.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Neopolis by Kolte-Patil Developers is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100033451 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -37751,7 +38222,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Tathawade",
       "Kolte-Patil Developers projects Pune"
     ],
-    "metaDescription": "Explore Neopolis in Tathawade, Pune by Kolte-Patil Developers. Offering 2 BHK, 3 BHK starting at \u20b978.30 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Neopolis in Tathawade, Pune by Kolte-Patil Developers. Offering 2 BHK, 3 BHK starting at \u20b978.30 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/EFCbCMcwQX5lBHlxlb1G1NTULKb5MjiKSxeS3S9s.webp",
+      "https://keystoneliv.com/public/uploads/property/tUBr7yI4J0rcf1m7F6WmNhcMFvrZvPOrpLkLA0xd.webp",
+      "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp",
+      "https://keystoneliv.com/public/uploads/property/5tGVdoBmlNYzErLGfVKOK1iX1OZIqyzJ17rTGkJ7.webp"
+    ]
   },
   {
     "id": "p-highness-wakad",
@@ -37781,12 +38258,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2028",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/ccb891cd-2a8e-4ea7-be32-f82930b0bf1e/gallery/mryv0mv8-f5iven.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ccb891cd-2a8e-4ea7-be32-f82930b0bf1e/gallery/mryv0mv8-f5iven.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Highness Wakad by Pristine Properties is a premium residential development situated in the strategic corridor of Wakad, Pune. Offering thoughtfully engineered 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100028911 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -37841,7 +38320,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Wakad",
       "Pristine Properties projects Pune"
     ],
-    "metaDescription": "Explore Highness Wakad in Wakad, Pune by Pristine Properties. Offering 3 BHK, 4 BHK starting at \u20b91.25 Cr. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Highness Wakad in Wakad, Pune by Pristine Properties. Offering 3 BHK, 4 BHK starting at \u20b91.25 Cr. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ccb891cd-2a8e-4ea7-be32-f82930b0bf1e/gallery/mryv0mv8-f5iven.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ccb891cd-2a8e-4ea7-be32-f82930b0bf1e/gallery/mryv0org-9s5idg.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ccb891cd-2a8e-4ea7-be32-f82930b0bf1e/gallery/mryv0qkh-cgnuqp.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ccb891cd-2a8e-4ea7-be32-f82930b0bf1e/gallery/mryv0sf4-ak1r2j.webp"
+    ]
   },
   {
     "id": "p-shubham-karoti-bavdhan",
@@ -37865,12 +38350,14 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "Dec 2027",
-    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-    "masterLayout": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://keystoneliv.com/public/uploads/property/Fb2rGxFdFT1LLFje4Aj4P3GzmiJzikdzBYMoWc5d.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/Fb2rGxFdFT1LLFje4Aj4P3GzmiJzikdzBYMoWc5d.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
     "description": "Shubham Karoti by Karoti Builders is a premium residential development situated in the strategic corridor of Bavdhan, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100025619 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
@@ -37925,7 +38412,13 @@ export const PROJECTS: Project[] = [
       "buy apartment in Bavdhan",
       "Karoti Builders projects Pune"
     ],
-    "metaDescription": "Explore Shubham Karoti in Bavdhan, Pune by Karoti Builders. Offering 2 BHK starting at \u20b972.61 L. 100% zero brokerage through PROPSMART REALTY."
+    "metaDescription": "Explore Shubham Karoti in Bavdhan, Pune by Karoti Builders. Offering 2 BHK starting at \u20b972.61 L. 100% zero brokerage through PROPSMART REALTY.",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/Fb2rGxFdFT1LLFje4Aj4P3GzmiJzikdzBYMoWc5d.webp",
+      "https://keystoneliv.com/public/uploads/property/9mQcxr2kQwdxOjKHIxo2zEp9jrfIGuIrQfIHkK7o.webp",
+      "https://keystoneliv.com/public/uploads/property/Clv6QVczOiJD0bNhVQSdUoYvHCzVM92HasWLD3ET.webp",
+      "https://keystoneliv.com/public/uploads/property/Vrt23jt5LSfa41TChYsDPZdCGlEn8UCmlZ3CgxZH.webp"
+    ]
   },
   {
     "id": "p-mahindra-rivenza",
@@ -38001,7 +38494,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012602102",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-tulip-infinity-solaria",
@@ -38072,7 +38572,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501882",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-supreme-villagio",
@@ -38152,7 +38659,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055048",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-24-kalpavriksha",
@@ -38223,7 +38737,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502854",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-arista",
@@ -38296,7 +38817,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055954",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-avani-amara",
@@ -38369,7 +38897,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501370",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-godrej-skyline",
@@ -38462,7 +38997,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002400007",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-raheja-vistas",
@@ -38539,7 +39081,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501597",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-privia-naimish",
@@ -38612,7 +39161,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078327",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-supreme-towers",
@@ -38701,7 +39257,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100056095",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-atlantis",
@@ -38781,7 +39344,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078626",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vision-ekaan",
@@ -38852,7 +39422,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601743",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-shreenidhi",
@@ -38923,7 +39500,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500378",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-santiago-skyworld-2-0",
@@ -39001,7 +39585,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kosha",
@@ -39076,7 +39667,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500453",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-hiranandani-krisala-township",
@@ -39147,7 +39745,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502438",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gaikwad-unico",
@@ -39217,7 +39822,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080562",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-reserve-mundhwa",
@@ -39305,7 +39917,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002400065",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-zenone",
@@ -39379,7 +39998,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100053350",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-venkatesh-vanaya",
@@ -39463,7 +40089,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012601304",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-petals-tathawade",
@@ -39544,7 +40177,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100051579",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-dream-delmont",
@@ -39634,7 +40274,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100054736",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sai-kripa-commercial",
@@ -39697,7 +40344,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002500965",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-aspire-puravankara",
@@ -39769,7 +40423,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100017650",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-pride-world-city-boston",
@@ -39837,7 +40498,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100049648",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-celestia-heights",
@@ -39911,7 +40579,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002602252",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-skyway-elite",
@@ -39984,7 +40659,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002601911",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vtp-codename-never-before-east",
@@ -40059,7 +40741,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-18-aangan",
@@ -40140,83 +40829,90 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501338",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
-        "id": "p-aarambh",
-        "title": "Aarambh",
-        "slug": "aarambh",
-        "builderId": "b-adi-realtors",
-        "location": "Balewadi",
-        "city": "Pune",
-        "priceRange": "\u20b999 L",
-        "exactPrice": "\u20b999 L",
-        "pricePerSqft": 12375,
-        "configurations": [
-            "2 BHK"
-        ],
-        "status": "Ready to Move",
-        "type": "Residential",
-        "possessionDate": "2027",
-        "image": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
-        "images": [
-            "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "description": "Adi Aarambh by Adi Realtors is a small boutique project in Balewadi, Pune: one tower with 12 residential units on about 0.14 acres, and around 7 storeys. The 2 BHKs are roughly 800 sq ft. The project is RERA registered (P52100079803), with possession scheduled for August 2026. That date has already passed, so check the current RERA status and the actual handover timeline before committing. Amenities look basic (water supply, power backup, covered parking), so the appeal is mainly the Balewadi location rather than lifestyle facilities",
-        "features": [
-            "CCTV Surveillance",
-            "Gymnasium",
-            "Rainwater Harvesting",
-            "Jogging Track",
-            "Power Backup",
-            "24x7 Security",
-            "Landscaped Garden",
-            "Covered Parking"
-        ],
-        "highlights": [
-            "MahaRERA: P52100079803",
-            "0% Brokerage & Direct Builder Booking",
-            "Balewadi Prime Residential Corridor",
-            "Sanctioned Developer Payment Schedule"
-        ],
-        "specs": [
-            {
-                "label": "Project Status",
-                "value": "Ready to Move"
-            },
-            {
-                "label": "MahaRERA ID",
-                "value": "P52100079803"
-            },
-            {
-                "label": "Direct Starting Price",
-                "value": "\u20b999 L"
-            },
-            {
-                "label": "Configurations",
-                "value": "2 BHK"
-            },
-            {
-                "label": "Possession Date",
-                "value": "2027"
-            },
-            {
-                "label": "Micro-Market",
-                "value": "Balewadi, Pune"
-            }
-        ],
-        "reraId": "P52100079803",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "heroImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-        ]
-    },
+    "id": "p-aarambh",
+    "title": "Aarambh",
+    "slug": "aarambh",
+    "builderId": "b-adi-realtors",
+    "location": "Balewadi",
+    "city": "Pune",
+    "priceRange": "\u20b999 L",
+    "exactPrice": "\u20b999 L",
+    "pricePerSqft": 12375,
+    "configurations": [
+      "2 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "2027",
+    "image": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp"
+    ],
+    "description": "Adi Aarambh by Adi Realtors is a small boutique project in Balewadi, Pune: one tower with 12 residential units on about 0.14 acres, and around 7 storeys. The 2 BHKs are roughly 800 sq ft. The project is RERA registered (P52100079803), with possession scheduled for August 2026. That date has already passed, so check the current RERA status and the actual handover timeline before committing. Amenities look basic (water supply, power backup, covered parking), so the appeal is mainly the Balewadi location rather than lifestyle facilities",
+    "features": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
+    ],
+    "highlights": [
+      "MahaRERA: P52100079803",
+      "0% Brokerage & Direct Builder Booking",
+      "Balewadi Prime Residential Corridor",
+      "Sanctioned Developer Payment Schedule"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100079803"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b999 L"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "2027"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Balewadi, Pune"
+      }
+    ],
+    "reraId": "P52100079803",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "heroImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+    ]
+  },
   {
     "id": "p-skyone-walhekarwadi",
     "title": "Skyone",
@@ -40286,7 +40982,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601495",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-pride-world-city-valencia",
@@ -40355,7 +41058,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002602441",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-pride-world-city-miami",
@@ -40431,7 +41141,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077670",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-palladio-presidential-towers",
@@ -40507,7 +41224,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002602526",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-tulip-infinity-evana-commercial",
@@ -40572,7 +41296,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078470",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vitthal-nirvana",
@@ -40637,7 +41368,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-rohan-harita",
@@ -40711,82 +41449,89 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052972",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
-        "id": "p-one-place",
-        "title": "One Place",
-        "slug": "one-place",
-        "builderId": "b-mittal-brothers-on-pan-card-club-road",
-        "location": "Baner",
-        "city": "Pune",
-        "priceRange": "\u20b91.32 Cr - \u20b91.70 Cr",
-        "exactPrice": "\u20b91.32 Cr",
-        "pricePerSqft": 33673,
-        "configurations": [
-            "Office"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "2027",
-        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "description": "One Place Baner (listed as New Unicon One Place) is a commercial development by Mittal Brothers on Pan Card Club Road, Baner, Pune. It offers 104 offices and 75 shops, so it suits small and mid-sized businesses more than large corporate occupiers. The surrounding area has restaurants, malls and medical centres, which covers day-to-day needs for staff and visitors. Baner itself is a well-established IT and business hub in Pune\u2019s western corridor with good road connectivity, and a later phase of the project (Phase III) is also listed under RERA. Listing sites give different details, so confirm the current RERA status, possession, pricing and rent with the developer or a broker before deciding.",
-        "features": [
-            "CCTV Surveillance",
-            "Rainwater Harvesting",
-            "Power Backup",
-            "24x7 Security",
-            "Landscaped Garden",
-            "Covered Parking",
-            "EV Charging"
-        ],
-        "highlights": [
-            "MahaRERA: P52100019584",
-            "0% Brokerage & Direct Builder Booking",
-            "Baner Prime Residential Corridor",
-            "Sanctioned Developer Payment Schedule"
-        ],
-        "specs": [
-            {
-                "label": "Project Status",
-                "value": "Under Construction"
-            },
-            {
-                "label": "MahaRERA ID",
-                "value": "P52100019584"
-            },
-            {
-                "label": "Direct Starting Price",
-                "value": "\u20b91.32 Cr"
-            },
-            {
-                "label": "Configurations",
-                "value": "Office"
-            },
-            {
-                "label": "Possession Date",
-                "value": "2027"
-            },
-            {
-                "label": "Micro-Market",
-                "value": "Baner, Pune"
-            }
-        ],
-        "reraId": "P52100019584",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=85",
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
-        ]
-    },
+    "id": "p-one-place",
+    "title": "One Place",
+    "slug": "one-place",
+    "builderId": "b-mittal-brothers-on-pan-card-club-road",
+    "location": "Baner",
+    "city": "Pune",
+    "priceRange": "\u20b91.32 Cr - \u20b91.70 Cr",
+    "exactPrice": "\u20b91.32 Cr",
+    "pricePerSqft": 33673,
+    "configurations": [
+      "Office"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "2027",
+    "image": "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp",
+      "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+      "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp"
+    ],
+    "description": "One Place Baner (listed as New Unicon One Place) is a commercial development by Mittal Brothers on Pan Card Club Road, Baner, Pune. It offers 104 offices and 75 shops, so it suits small and mid-sized businesses more than large corporate occupiers. The surrounding area has restaurants, malls and medical centres, which covers day-to-day needs for staff and visitors. Baner itself is a well-established IT and business hub in Pune\u2019s western corridor with good road connectivity, and a later phase of the project (Phase III) is also listed under RERA. Listing sites give different details, so confirm the current RERA status, possession, pricing and rent with the developer or a broker before deciding.",
+    "features": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
+    ],
+    "highlights": [
+      "MahaRERA: P52100019584",
+      "0% Brokerage & Direct Builder Booking",
+      "Baner Prime Residential Corridor",
+      "Sanctioned Developer Payment Schedule"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100019584"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b91.32 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "Office"
+      },
+      {
+        "label": "Possession Date",
+        "value": "2027"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Baner, Pune"
+      }
+    ],
+    "reraId": "P52100019584",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "heroImage": "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
+    ]
+  },
   {
     "id": "p-tej-one-fc-road",
     "title": "Tej One FC Road",
@@ -40854,7 +41599,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100035004",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-garve-the-cullinan",
@@ -40925,7 +41677,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078994",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-asap-tishya",
@@ -41003,7 +41762,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500977",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-excellaa-virtu",
@@ -41078,7 +41844,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100054268",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-excellaa-tott",
@@ -41149,7 +41922,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-vantage-wakad",
@@ -41218,7 +41998,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601066",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sukhwani-gemz",
@@ -41295,7 +42082,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601952",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-pristine-amore",
@@ -41373,7 +42167,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012600653",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-pristine-amore-highstreet",
@@ -41440,7 +42241,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012600653",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-que-101",
@@ -41517,7 +42325,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1261012602127",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-amorapolis",
@@ -41593,7 +42408,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-smruti-garden",
@@ -41666,7 +42488,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100081081",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-stalwart-business-enclave",
@@ -41745,7 +42574,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PC1260002600587",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-tej-midtown",
@@ -41823,7 +42659,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052300",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-38-daffodils",
@@ -41885,7 +42728,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500765",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-codename-vybe",
@@ -41953,7 +42803,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-mangalam-momento",
@@ -42031,7 +42888,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601445",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-godrej-skyline-commercial",
@@ -42099,7 +42963,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002400007",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-luxton-by-saheel-commercial",
@@ -42168,7 +43039,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002502043",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-arkaa-galaxy",
@@ -42240,7 +43118,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100045836",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-crown-highstreet",
@@ -42302,7 +43187,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012600416",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-serenopolis",
@@ -42378,7 +43270,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080004",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-city-one-panache-commercial",
@@ -42440,7 +43339,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600510",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-ace-ayodhya",
@@ -42512,7 +43418,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012600416",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kuber-antonia",
@@ -42586,7 +43499,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100035197",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-balaji-oriana-world",
@@ -42673,7 +43593,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080096",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-pride-world-city-montreal",
@@ -42748,7 +43675,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100053279",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-legacy-wakad-new-launch",
@@ -42819,7 +43753,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-55-twilight",
@@ -42886,7 +43827,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-pride-world-city-wellington",
@@ -42955,7 +43903,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052379",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-new-launch-highness-wakad",
@@ -43026,7 +43981,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502183",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-excellaa-polaris",
@@ -43110,7 +44072,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080233",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-krisala-riverside",
@@ -43175,7 +44144,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-santiago-moonrise",
@@ -43250,7 +44226,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080764",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-yoo-one",
@@ -43331,7 +44314,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1262022600430",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-codename-district-studio",
@@ -43395,7 +44385,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-k-pune-bavdhan",
@@ -43476,7 +44473,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077301",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vtp-codename-never-before-west",
@@ -43551,7 +44555,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-arvaana",
@@ -43624,7 +44635,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002600277",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vtop-velesta",
@@ -43701,7 +44719,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601596",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-18-magnitude",
@@ -43774,7 +44799,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052534",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-108-rohit-astera",
@@ -43846,7 +44878,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080292",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-privve",
@@ -43917,7 +44956,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600993",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-chandrarang-the-embercrest",
@@ -43990,7 +45036,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501760",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-tapovan-moshi",
@@ -44062,7 +45115,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002501333",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sai-kripa",
@@ -44145,7 +45205,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002500965",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sai-mehar",
@@ -44216,7 +45283,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502253",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-estofa-one-home",
@@ -44282,7 +45356,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-hiranandani",
@@ -44353,7 +45434,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gurukrupa",
@@ -44424,7 +45512,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-escala",
@@ -44492,7 +45587,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100045636",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vanaha-verdant",
@@ -44571,7 +45673,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500649",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kunal-manthan",
@@ -44651,7 +45760,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601428",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-anp-new-launch-wakad",
@@ -44721,7 +45837,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-mahalaxmi",
@@ -44794,7 +45917,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-nitaara-tower",
@@ -44865,7 +45995,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100050692",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-arkaay-towers",
@@ -44936,7 +46073,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002502454",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-arion",
@@ -45006,7 +46150,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012600090",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-silverise-skylight-commercial",
@@ -45077,7 +46228,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-new-launch-truespace-wakad",
@@ -45148,7 +46306,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002602057",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kings-grace",
@@ -45219,7 +46384,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002602278",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sukhwani-associates",
@@ -45290,7 +46462,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sky-meridian",
@@ -45361,7 +46540,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078224",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-milleflori",
@@ -45431,7 +46617,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600332",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-mahalaxmi-life-in-motion",
@@ -45506,7 +46699,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kamalraj-properties",
@@ -45577,7 +46777,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-divine-homes",
@@ -45648,7 +46855,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502389",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-vibe",
@@ -45719,7 +46933,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-westford-phase-2-pimple-saudagar",
@@ -45789,7 +47010,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sentosa-harico-diwaam",
@@ -45861,7 +47089,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502389",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-austin-aurus",
@@ -45932,7 +47167,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002601438",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-highness",
@@ -46003,7 +47245,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502183",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-ra-urbania",
@@ -46072,7 +47321,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100050429",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sky-world",
@@ -46142,7 +47398,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052484",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-eh-sky-tower",
@@ -46213,7 +47476,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501000",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-livience-unione",
@@ -46284,7 +47554,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501582",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-city-one-panache-2-0",
@@ -46353,7 +47630,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600510",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-amberwood",
@@ -46428,7 +47712,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055677",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-adhira-spaces",
@@ -46496,7 +47787,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-18-altitude",
@@ -46567,7 +47865,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100076759",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-arihant-sky-suites-tathwade",
@@ -46638,7 +47943,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080867",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-new-launch-the-arena-pimpri",
@@ -46712,7 +48024,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-51-meridian",
@@ -46780,7 +48099,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52000045602",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-arena",
@@ -46854,7 +48180,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-truespace-prima-altiora",
@@ -46925,7 +48258,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002602057",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-nexus-skydale",
@@ -47001,7 +48341,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055009",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-skylish-vaastuu",
@@ -47069,7 +48416,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079170",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kasturi-corner",
@@ -47139,7 +48493,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100017578",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-ashirwad-sapphire",
@@ -47209,7 +48570,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002501964",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sonigara-quorra",
@@ -47279,7 +48647,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501552",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-ambrosia-studios",
@@ -47349,7 +48724,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002501271",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-arise-capital",
@@ -47421,7 +48803,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PC1260002600906",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-jhamtani-commercial",
@@ -47491,7 +48880,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52000045602",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-rk-amore",
@@ -47562,7 +48958,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600597",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-mahakal-shivratna",
@@ -47625,7 +49028,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055201",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-merak-homes",
@@ -47696,7 +49106,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-austin-aurus-wakad",
@@ -47767,7 +49184,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002601438",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-marqis",
@@ -47840,7 +49264,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500290",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-elite-the-arc",
@@ -47912,7 +49343,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002503065",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-austin-realty",
@@ -47983,7 +49421,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002601438",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-v-one-heartland",
@@ -48054,7 +49499,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002501911",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-new-launch-austin-mamurdi",
@@ -48126,7 +49578,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002601545",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-opulent-tower",
@@ -48201,7 +49660,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077241",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-muktangan-kimaya",
@@ -48272,7 +49738,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600635",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-icon-oro",
@@ -48339,7 +49812,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100051935",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kohinoor-royale-towers",
@@ -48410,7 +49890,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501033",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-jhamtani-bizone",
@@ -48480,7 +49967,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PC1260002602029",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-avis-avante-wakad",
@@ -48552,7 +50046,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002502977",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vardhaman-skysymphony",
@@ -48623,7 +50124,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502323",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-millefiori-futuristic",
@@ -48694,7 +50202,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600332",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-nancy-hill-view",
@@ -48766,7 +50281,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079084",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-pebbles-business-bay",
@@ -48834,7 +50356,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-platinum",
@@ -48907,7 +50436,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-prime-west",
@@ -48976,7 +50512,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100026421",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-pk-ornate",
@@ -49046,7 +50589,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079941",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-avis-avante",
@@ -49117,7 +50667,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002502977",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-ravima-newton-homes",
@@ -49190,7 +50747,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012500528",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-rgs-forte-aspire",
@@ -49261,7 +50825,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002502211",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sai-serenity",
@@ -49331,7 +50902,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100018439",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-rohan-nitara",
@@ -49403,7 +50981,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012602175",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sai-stella",
@@ -49474,7 +51059,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002500576",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-ramsa-regio",
@@ -49545,7 +51137,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079330",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-rahul-aston",
@@ -49616,7 +51215,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100076854",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-shivam-residency",
@@ -49687,7 +51293,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052323",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sankla-west-world",
@@ -49758,7 +51371,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078839",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sai-canary",
@@ -49831,7 +51451,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100051845",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sankalp",
@@ -49903,7 +51530,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100056002",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-onkar-greens",
@@ -49974,7 +51608,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080686",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-bizzbay-commercial",
@@ -50044,7 +51685,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100022156",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sai-palladium",
@@ -50117,7 +51765,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002500985",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-renuka-panchatattva",
@@ -50187,7 +51842,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100048051",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-capital",
@@ -50254,7 +51916,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100032756",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-supreme-universe",
@@ -50325,7 +51994,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1261012502656",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-t-square",
@@ -50397,7 +52073,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055041",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-santiago-sunrise",
@@ -50468,7 +52151,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077792",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-terraces",
@@ -50539,7 +52229,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100004039",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-hamptonns",
@@ -50610,7 +52307,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600725",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-unicorn",
@@ -50681,7 +52385,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052724",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-westford-phase-2",
@@ -50753,7 +52464,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-codename-t-square",
@@ -50821,7 +52539,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-truspace-prima-altiora",
@@ -50892,7 +52617,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002602057",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-codename-manifest",
@@ -50963,7 +52695,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-tulip-infinity-avana",
@@ -51041,7 +52780,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100047662",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sukhwani-palmera-reserves",
@@ -51117,7 +52863,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601641",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-harivishva-dange-chowk",
@@ -51189,7 +52942,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052385",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-yashada",
@@ -51260,7 +53020,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vma-reserve",
@@ -51330,7 +53097,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100033654",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vj-town-center",
@@ -51401,7 +53175,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100028755",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-commercial-avis-avante",
@@ -51468,7 +53249,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002502977",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-miracle",
@@ -51538,7 +53326,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100030372",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-chandrarang-embercrest",
@@ -51609,7 +53404,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501760",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-mauli",
@@ -51679,7 +53481,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100024756",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-park-west-towers",
@@ -51749,7 +53558,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079597",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-maheshwaram-vrinda",
@@ -51826,7 +53642,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078935",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-codename-minibust-menlo",
@@ -51896,7 +53719,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601233",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-silverise-skylight",
@@ -51967,7 +53797,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-maheshwaram-majestic",
@@ -52040,7 +53877,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100032195",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gera-vroom",
@@ -52113,7 +53957,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012501648",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-geo-aristo",
@@ -52184,7 +54035,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002501783",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-supreme-rivana",
@@ -52255,7 +54113,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1261012502656",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kunal-the-canary",
@@ -52326,7 +54191,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100031557",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-alpine-21",
@@ -52398,7 +54270,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002600172",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-newton-homes-royale",
@@ -52476,7 +54355,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012500924",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-golden-hq",
@@ -52545,7 +54431,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-capri-commercial",
@@ -52614,7 +54507,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077412",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-grd-weone-121",
@@ -52684,7 +54584,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100049391",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gen1-baner",
@@ -52754,7 +54661,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100053948",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-crestline-realty",
@@ -52825,7 +54739,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100026833",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-aria",
@@ -52898,7 +54819,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080612",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-anp-memento",
@@ -52969,7 +54897,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100026219",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-ag-landmark",
@@ -53036,7 +54971,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100051063",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gt-codename-amore",
@@ -53107,7 +55049,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-heartland",
@@ -53178,7 +55127,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002501911",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-shaligram-walhekarwadi",
@@ -53247,7 +55203,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-anand-vihar",
@@ -53318,7 +55281,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077376",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vishnu-crown",
@@ -53385,7 +55355,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078604",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-yoo-pristine",
@@ -53460,7 +55437,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078555",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-nb-evo-plaza",
@@ -53530,7 +55514,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PC1261012500615",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-shankeshwar-kingsland-hinjewadi-phase-1",
@@ -53603,7 +55594,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012600728",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-anp-bizsquare",
@@ -53673,7 +55671,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055995",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-27-west",
@@ -53744,7 +55749,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100054731",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gk-chandrarang",
@@ -53816,7 +55828,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1261012501488",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-yashada-evo-residences",
@@ -53888,7 +55907,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012501027",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-eh-towers",
@@ -53960,7 +55986,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079038",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-45-eliite-heights",
@@ -54030,7 +56063,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-dream-glorious",
@@ -54102,7 +56142,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052727",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-73-park",
@@ -54173,7 +56220,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601181",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kohinoor-anantara",
@@ -54243,7 +56297,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501984",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-7-cosmos",
@@ -54313,7 +56374,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055958",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-45-west",
@@ -54380,7 +56448,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100051475",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-emerald-grove",
@@ -54451,7 +56526,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080431",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-eh-towers-commercial",
@@ -54515,7 +56597,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079038",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-arun-sanctum",
@@ -54590,7 +56679,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078503",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-audumbar-green",
@@ -54660,7 +56756,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100054752",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-aster-park-residences",
@@ -54731,7 +56834,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100028092",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-envogue-2-tayal-corp-group",
@@ -54804,7 +56914,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077680",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-yashada-evo-punawale",
@@ -54876,7 +56993,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012501027",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-aundh-renaissance",
@@ -54951,7 +57075,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100030465",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-elite-crown",
@@ -55022,7 +57153,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502244",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-audumbar-bliss",
@@ -55092,7 +57230,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055148",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gen1",
@@ -55161,7 +57306,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100053948",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-greens",
@@ -55231,7 +57383,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100053285",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gt-krushnakunj",
@@ -55302,7 +57461,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600363",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gk-sindhu-skies",
@@ -55376,7 +57542,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1261012501488",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-venkatesh-serenique",
@@ -55447,7 +57620,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1261012601412",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-empire-square",
@@ -55521,7 +57701,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100056031",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kimaya-muktangan",
@@ -55594,7 +57781,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600635",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-24-life-altaa",
@@ -55666,7 +57860,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078972",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-aswani-magnus",
@@ -55737,7 +57938,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012501489",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vezdaa-shop",
@@ -55805,7 +58013,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100047558",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kalp-one",
@@ -55878,7 +58093,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PC1260002400075",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-akshay-vista",
@@ -55949,7 +58171,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052741",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kesar-kalhaar",
@@ -56021,7 +58250,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100056224",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-udyam-residency",
@@ -56093,7 +58329,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079856",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-atrium-montaire",
@@ -56164,7 +58407,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502483",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-unite-runal-studios",
@@ -56234,7 +58484,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002502428",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vivanta-aaranya",
@@ -56304,7 +58561,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079508",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kisana-skies",
@@ -56375,7 +58639,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002500470",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-ajwani-prissa-pratham",
@@ -56450,7 +58721,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1261012501933",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-austin-avenue-commercial",
@@ -56518,7 +58796,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078743",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kohinoor-wakad-downtown",
@@ -56593,7 +58878,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500271",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kohinoor-satori",
@@ -56666,7 +58958,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100066472",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-koral-aeternaa",
@@ -56737,7 +59036,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077052",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-aurelia",
@@ -56812,7 +59118,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077244",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-24-wallstreet",
@@ -56882,7 +59195,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077499",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-64-meridien",
@@ -56953,7 +59273,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100049864",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kumar-parv",
@@ -57025,7 +59352,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055932",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-legacy-ekam",
@@ -57097,7 +59431,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002502297",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-icon-avanza",
@@ -57169,7 +59510,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079822",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-kk-capitol",
@@ -57239,7 +59587,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100066467",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-krisala-41-commune",
@@ -57310,7 +59665,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077945",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-mahindra-sanctum",
@@ -57381,7 +59743,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1264042600425",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-pk-canopus",
@@ -57452,7 +59821,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002501264",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-lenora",
@@ -57526,7 +59902,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500833",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gk-aria",
@@ -57597,7 +59980,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080612",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-apex-business-bay",
@@ -57667,7 +60057,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PC1260002501719",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-majestique-the-light",
@@ -57740,7 +60137,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002501445",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-meridian-studios",
@@ -57810,7 +60214,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600229",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-midori-towers",
@@ -57882,7 +60293,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100025516",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-avani-12th-avenue",
@@ -57952,7 +60370,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100033536",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-my-home",
@@ -58026,7 +60451,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100053997",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-aditya-vivaaz",
@@ -58097,7 +60529,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077137",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-meriton-heights",
@@ -58168,7 +60607,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100053019",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-meridian-square-tathwade",
@@ -58240,7 +60686,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079490",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-ar-amora",
@@ -58314,7 +60767,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078623",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-avishkar-ridhima-commercial-hinjewadi-phase-3",
@@ -58384,7 +60844,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052836",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gurukrupa-7-avenue",
@@ -58455,7 +60922,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002500602",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-om-mangalam-samruddhi",
@@ -58527,7 +61001,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500344",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-que-154",
@@ -58599,7 +61080,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012600298",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-one-platinum",
@@ -58670,7 +61158,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100035085",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-placidia",
@@ -58741,7 +61236,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600150",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-pleroma-greens",
@@ -58813,7 +61315,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080470",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-namrata-manifesta",
@@ -58884,7 +61393,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080124",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-palladio-presidential-suites",
@@ -58956,7 +61472,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502961",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-royal-morya-skydale",
@@ -59029,7 +61552,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055584",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-renuka-panchatattva-shop",
@@ -59100,7 +61630,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100048051",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-rutuja-enclave",
@@ -59171,7 +61708,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100076736",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-navyam",
@@ -59246,7 +61790,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100054888",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sai-signature",
@@ -59317,7 +61868,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100030759",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-rachana-bella-casa-royale",
@@ -59388,7 +61946,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100047308",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-rachana-privana",
@@ -59459,7 +62024,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600617",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-18-altitude-commercial",
@@ -59528,7 +62100,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100076759",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sai-vilasita",
@@ -59599,7 +62178,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002600085",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-nirvana-nothing-beyond",
@@ -59682,7 +62268,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100047528",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-bhagawati-chambers",
@@ -59752,7 +62345,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PC1260002601422",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-thorve-house",
@@ -59822,7 +62422,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500984",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-santiago-skytown",
@@ -59893,7 +62500,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077942",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sapphire-nest",
@@ -59966,7 +62580,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601768",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-nb-evo-highstreet",
@@ -60036,7 +62657,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012501027",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-jhamtani-ace-abode",
@@ -60108,7 +62736,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P521000341771",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-akshara-mayfair",
@@ -60201,7 +62836,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "MahaRERA Registered",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sky-sanctum",
@@ -60270,7 +62912,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079426",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-shree-raman-legacy",
@@ -60340,7 +62989,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078522",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sentosa-harico-divaam",
@@ -60411,7 +63067,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502389",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-tulip-infinity-evana",
@@ -60491,7 +63154,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078470",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-shankeshwar-kingsland",
@@ -60562,7 +63232,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012600728",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-shyni-gold-mangalam",
@@ -60634,7 +63311,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100047124",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-shubh-veda-commercial",
@@ -60702,7 +63386,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080358",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sentosa-edge",
@@ -60770,7 +63461,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002501839",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sky-eloria",
@@ -60841,7 +63539,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601664",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-silverise-grandsky",
@@ -60913,7 +63618,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1261012501491",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-signature-park",
@@ -60984,7 +63696,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100054229",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-skyluxe",
@@ -61058,7 +63777,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501099",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-solitaire",
@@ -61129,7 +63855,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100056306",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-smk-platinum",
@@ -61200,7 +63933,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600616",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-wakad-central-park",
@@ -61271,7 +64011,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079655",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-canary-sky-oasis",
@@ -61341,7 +64088,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012502867",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-benchmark",
@@ -61413,7 +64167,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100032247",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-skyfinia-harivishva",
@@ -61483,7 +64244,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052385",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-corniche",
@@ -61552,7 +64320,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078126",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-my-home-sanctuary",
@@ -61627,7 +64402,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012502725",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-majestique-evolvus",
@@ -61706,7 +64488,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100054253",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-rising-saniket",
@@ -61777,7 +64566,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100050643",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-trio-kaya",
@@ -61846,7 +64642,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601087",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-city-one-vieorra",
@@ -61917,7 +64720,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002600314",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-tej-elevia",
@@ -61989,7 +64799,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100018143",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-venkatesh-tresor",
@@ -62060,7 +64877,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501248",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-city-one-skyve",
@@ -62131,7 +64955,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100033011",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-wandering-winds",
@@ -62202,7 +65033,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500729",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-wisdom-skyverse",
@@ -62273,7 +65111,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078504",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-westgate-business-park",
@@ -62340,7 +65185,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PC1260002501605",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-commercial-merlin-elementa-2-0-tathewade",
@@ -62407,7 +65259,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100050199",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-wyce-exclucity",
@@ -62479,7 +65338,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077762",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-yashada-n-b-highstreet",
@@ -62553,7 +65419,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012501027",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-crestline-shreshth",
@@ -62626,7 +65499,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002501391",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-gaikwad-florio",
@@ -62698,7 +65578,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501412",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-esson-skyora",
@@ -62769,7 +65656,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012501520",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-10-elite-akasa-chandrarang",
@@ -62842,7 +65736,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077822",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-five-oaks",
@@ -62914,7 +65815,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500968",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-crystal-homes",
@@ -62985,7 +65893,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100053027",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-yoo-pristine-high-street",
@@ -63053,7 +65968,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078555",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-dolphin-palms",
@@ -63124,7 +66046,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100055197",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-antalya-next",
@@ -63202,7 +66131,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100066556",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-legacy-kairos",
@@ -63277,7 +66213,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100047901",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-alacarte-homes",
@@ -63348,7 +66291,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012600728",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-merlin-ventana-commercial",
@@ -63418,7 +66368,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100053687",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-mantra-meridian",
@@ -63492,7 +66449,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100045688",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-mantra-mistara",
@@ -63560,7 +66524,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012600816",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-miracle-imperio-towers",
@@ -63633,7 +66604,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079999",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-palladio-balewadi-central",
@@ -63704,7 +66682,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100051590",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-krisala-everland",
@@ -63778,7 +66763,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002500600",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-platinum-royale",
@@ -63851,7 +66843,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100031950",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-renuka-brzee",
@@ -63925,7 +66924,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501476",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-renuka-madhuban",
@@ -63995,7 +67001,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079444",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-new-launch-que-154",
@@ -64066,7 +67079,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012600298",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sky-tower",
@@ -64138,7 +67158,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100051495",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-soham-raman-stellar",
@@ -64209,7 +67236,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100049189",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sky-stories",
@@ -64281,7 +67315,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100056202",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-nirman-drive",
@@ -64350,7 +67391,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080004",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sentosa-elite",
@@ -64419,7 +67467,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052208",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-siddhashila-eevva",
@@ -64490,7 +67545,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002503079",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-studio-codename-emi",
@@ -64560,7 +67622,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077683",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-the-skylark",
@@ -64631,7 +67700,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100054899",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-star-solasta",
@@ -64701,7 +67777,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100047215",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-muktai",
@@ -64769,7 +67852,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100054215",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-yashada-evo",
@@ -64844,7 +67934,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1262022501492",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-yashada-earthsong",
@@ -64918,7 +68015,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079396",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-yoovie-homes",
@@ -64990,7 +68094,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100049608",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-rahul-altimus",
@@ -65063,7 +68174,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PC1260002501180",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-neco-park-central",
@@ -65155,7 +68273,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077542",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-tej-one",
@@ -65224,7 +68349,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1262022501416",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vtp-flamante",
@@ -65299,7 +68431,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100051826",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-hill-crest",
@@ -65376,7 +68515,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100045782",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-park-eden",
@@ -65455,7 +68601,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502005",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vtp-velvet-villas",
@@ -65530,7 +68683,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100031829",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-godrej-aqua-vista",
@@ -65608,7 +68768,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002500389",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vimal-twin-towers",
@@ -65677,7 +68844,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100054177",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-austin-ira",
@@ -65755,7 +68929,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002601545",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-sai-ratan",
@@ -65833,7 +69014,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002600399",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-l-axis",
@@ -65911,7 +69099,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077434",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-mantra-melange",
@@ -66000,7 +69195,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100079582",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-shaligram-ravet",
@@ -66073,7 +69275,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601415",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-codename-light",
@@ -66146,7 +69355,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1261012501453",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-mangalam-starview",
@@ -66226,7 +69442,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002601151",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-prime-pinnacle",
@@ -66298,7 +69521,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100077826",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-saheel-wakad-111",
@@ -66376,7 +69606,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PM1260002502043",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-panoreeva-greens",
@@ -66451,7 +69688,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100078744",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-elementis-oro",
@@ -66520,7 +69764,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002601161",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-unique-youtopia",
@@ -66600,7 +69851,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100080485",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-godrej-ivara",
@@ -66685,7 +69943,14 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002502426",
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
     "id": "p-vj-palladio-la-viento",
@@ -66762,1827 +70027,1809 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "PR1260002501182",
     "verificationStatus": "Verified",
-    "featured": false
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
   },
   {
-        "id": "p-paranjape-blue-ridge-promenade",
-        "title": "Paranjape Blue Ridge - The Promenade",
-        "slug": "paranjape-blue-ridge-promenade",
-        "builderId": "b-paranjape",
-        "location": "Hinjewadi",
-        "city": "Pune",
-        "priceRange": "\u20b91.80 Cr - \u20b92.50 Cr",
-        "exactPrice": "\u20b91.80 Cr",
-        "pricePerSqft": 13677,
-        "configurations": [
-            "3 BHK",
-            "4 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "December 2026",
-        "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.5793,
-        "lng": 73.7388,
-        "description": "The Promenade by Paranjape Schemes is a luxury waterfront high-rise development in the iconic 138-acre Blue Ridge Township, Hinjewadi Phase 1, Pune. Rising 32 storeys along the serene Mula riverfront, these limited-edition 3 and 4 BHK residences offer private elevator foyers, floor-to-ceiling glass balconies, Italian marble finishes, and unhindered river panoramas.\n\nResidents enjoy access to Blue Ridge's 9-hole golf course, private boat club & marina, multi-cuisine clubhouse, sports academy, and internal butterfly garden. Strategically located within walking distance of Pune's major IT SEZs, international schools, and the upcoming Hinjewadi Metro Line 3 station. Verified under MahaRERA P52100029952 with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "Riverfront Promenade",
-            "9-Hole Golf Course",
-            "Boat Club & Marina",
-            "Infinity Swimming Pool",
-            "Clubhouse",
-            "Gymnasium",
-            "Tennis & Squash Courts",
-            "24/7 Security"
-        ],
-        "amenities": [
-            "Riverfront Promenade",
-            "9-Hole Golf Course",
-            "Boat Club & Marina",
-            "Infinity Swimming Pool",
-            "Clubhouse",
-            "Gymnasium",
-            "Tennis & Squash Courts",
-            "24/7 Security"
-        ],
-        "specifications": [
-            {
-                "category": "Structure",
-                "detail": "Earthquake resistant RCC framed structure with Mivan aluminum formwork"
-            },
-            {
-                "category": "Flooring",
-                "detail": "Imported Italian marble in living and dining, wooden finish flooring in master suite"
-            },
-            {
-                "category": "Kitchen",
-                "detail": "Granite counter platform with stainless steel sink and piped gas provision"
-            },
-            {
-                "category": "Bathrooms",
-                "detail": "Grohe and Kohler sanitary fittings with glass shower cubicles and geysers"
-            }
-        ],
-        "metaDescription": "Buy 3 & 4 BHK in Paranjape Blue Ridge The Promenade, Hinjewadi Pune. Starts \u20b91.80 Cr. 100% Zero Brokerage. Verified MahaRERA P52100029952.",
-        "reraId": "P52100029952",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-            "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-promenade-3bhk",
-                "projectId": "p-paranjape-blue-ridge-promenade",
-                "name": "3 BHK Riverfront Grande",
-                "carpetArea": 1180,
-                "balconyArea": 110,
-                "bathrooms": 3,
-                "basePrice": 14500000,
-                "pricePerSqft": 12288,
-                "infraCharges": 350000,
-                "clubhouseCharges": 200000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            },
-            {
-                "id": "cfg-pscl-promenade-4bhk",
-                "projectId": "p-paranjape-blue-ridge-promenade",
-                "name": "4 BHK Imperial Golf Suite",
-                "carpetArea": 1680,
-                "balconyArea": 180,
-                "bathrooms": 4,
-                "basePrice": 22000000,
-                "pricePerSqft": 13095,
-                "infraCharges": 450000,
-                "clubhouseCharges": 250000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-blue-ridge-promenade",
+    "title": "Paranjape Blue Ridge - The Promenade",
+    "slug": "paranjape-blue-ridge-promenade",
+    "builderId": "b-paranjape",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b91.80 Cr - \u20b92.50 Cr",
+    "exactPrice": "\u20b91.80 Cr",
+    "pricePerSqft": 13677,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://www.pscl.in/wp-content/uploads/2025/10/ANK440_7834a_LR.webp",
+    "heroImage": "https://www.pscl.in/wp-content/uploads/2025/10/ANK440_7834a_LR.webp",
+    "lat": 18.5793,
+    "lng": 73.7388,
+    "description": "The Promenade by Paranjape Schemes is a luxury waterfront high-rise development in the iconic 138-acre Blue Ridge Township, Hinjewadi Phase 1, Pune. Rising 32 storeys along the serene Mula riverfront, these limited-edition 3 and 4 BHK residences offer private elevator foyers, floor-to-ceiling glass balconies, Italian marble finishes, and unhindered river panoramas.\n\nResidents enjoy access to Blue Ridge's 9-hole golf course, private boat club & marina, multi-cuisine clubhouse, sports academy, and internal butterfly garden. Strategically located within walking distance of Pune's major IT SEZs, international schools, and the upcoming Hinjewadi Metro Line 3 station. Verified under MahaRERA P52100029952 with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "Riverfront Promenade",
+      "9-Hole Golf Course",
+      "Boat Club & Marina",
+      "Infinity Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Tennis & Squash Courts",
+      "24/7 Security"
+    ],
+    "amenities": [
+      "Riverfront Promenade",
+      "9-Hole Golf Course",
+      "Boat Club & Marina",
+      "Infinity Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Tennis & Squash Courts",
+      "24/7 Security"
+    ],
+    "specifications": [
+      {
+        "category": "Structure",
+        "detail": "Earthquake resistant RCC framed structure with Mivan aluminum formwork"
+      },
+      {
+        "category": "Flooring",
+        "detail": "Imported Italian marble in living and dining, wooden finish flooring in master suite"
+      },
+      {
+        "category": "Kitchen",
+        "detail": "Granite counter platform with stainless steel sink and piped gas provision"
+      },
+      {
+        "category": "Bathrooms",
+        "detail": "Grohe and Kohler sanitary fittings with glass shower cubicles and geysers"
+      }
+    ],
+    "metaDescription": "Buy 3 & 4 BHK in Paranjape Blue Ridge The Promenade, Hinjewadi Pune. Starts \u20b91.80 Cr. 100% Zero Brokerage. Verified MahaRERA P52100029952.",
+    "reraId": "P52100029952",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://www.pscl.in/wp-content/uploads/2025/10/ANK440_7834a_LR.webp",
+      "https://keystoneliv.com/public/uploads/property/JRdpFkkMaBqWUV91UsxTA5PmT4jrWULe6bfbdGr3.webp",
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/leqFS0kMhJDAQ6ZdwEOxnajHj4VcaKZHhxS1hVk1.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-promenade-3bhk",
+        "projectId": "p-paranjape-blue-ridge-promenade",
+        "name": "3 BHK Riverfront Grande",
+        "carpetArea": 1180,
+        "balconyArea": 110,
+        "bathrooms": 3,
+        "basePrice": 14500000,
+        "pricePerSqft": 12288,
+        "infraCharges": 350000,
+        "clubhouseCharges": 200000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      },
+      {
+        "id": "cfg-pscl-promenade-4bhk",
+        "projectId": "p-paranjape-blue-ridge-promenade",
+        "name": "4 BHK Imperial Golf Suite",
+        "carpetArea": 1680,
+        "balconyArea": 180,
+        "bathrooms": 4,
+        "basePrice": 22000000,
+        "pricePerSqft": 13095,
+        "infraCharges": 450000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-blue-ridge-altius",
-        "title": "Paranjape Blue Ridge - The Altius",
-        "slug": "paranjape-blue-ridge-altius",
-        "builderId": "b-paranjape",
-        "location": "Hinjewadi",
-        "city": "Pune",
-        "priceRange": "\u20b91.95 Cr - \u20b94.00 Cr",
-        "exactPrice": "\u20b91.95 Cr",
-        "pricePerSqft": 14233,
-        "configurations": [
-            "3 BHK",
-            "4 BHK",
-            "5 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "December 2027",
-        "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.5785,
-        "lng": 73.7395,
-        "description": "The Altius (Tower 26) is the crown jewel architectural skyscraper within Paranjape Blue Ridge township in Hinjewadi, Pune. Soaring 36 storeys high, The Altius offers ultra-luxury 3, 4, and 5 BHK penthouses and grand residences designed for Pune's corporate leadership and global CXOs.\n\nEvery home features panoramic views of the 9-hole golf course and river valley, double-height sundecks, home automation, and private sky lounges. Verified under MahaRERA P52100078116 with official direct builder allotment via PROPSMART REALTY.",
-        "features": [
-            "Sky Lounge on 36th Floor",
-            "Golf Course Facing",
-            "Private Lift Lobbies",
-            "Olympic Lap Pool",
-            "Concierge Service",
-            "Banquet Lawn",
-            "Smart Home Automation"
-        ],
-        "amenities": [
-            "Sky Lounge on 36th Floor",
-            "Golf Course Facing",
-            "Private Lift Lobbies",
-            "Olympic Lap Pool",
-            "Concierge Service",
-            "Banquet Lawn",
-            "Smart Home Automation"
-        ],
-        "metaDescription": "Buy 3, 4, 5 BHK in Paranjape Blue Ridge The Altius, Hinjewadi Pune. Starts \u20b91.95 Cr. MahaRERA P52100078116. Direct builder inventory with 0% Brokerage.",
-        "reraId": "P52100078116",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-            "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-altius-3bhk",
-                "projectId": "p-paranjape-blue-ridge-altius",
-                "name": "3 BHK Sky Deck",
-                "carpetArea": 1320,
-                "balconyArea": 140,
-                "bathrooms": 3,
-                "basePrice": 16500000,
-                "pricePerSqft": 12500,
-                "infraCharges": 380000,
-                "clubhouseCharges": 200000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-            },
-            {
-                "id": "cfg-pscl-altius-4bhk",
-                "projectId": "p-paranjape-blue-ridge-altius",
-                "name": "4 BHK Imperial Sky Lounge",
-                "carpetArea": 1950,
-                "balconyArea": 210,
-                "bathrooms": 4,
-                "basePrice": 25500000,
-                "pricePerSqft": 13076,
-                "infraCharges": 480000,
-                "clubhouseCharges": 250000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-            },
-            {
-                "id": "cfg-pscl-altius-5bhk",
-                "projectId": "p-paranjape-blue-ridge-altius",
-                "name": "5 BHK Signature Duplex",
-                "carpetArea": 2850,
-                "balconyArea": 320,
-                "bathrooms": 5,
-                "basePrice": 38000000,
-                "pricePerSqft": 13333,
-                "infraCharges": 600000,
-                "clubhouseCharges": 350000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-blue-ridge-altius",
+    "title": "Paranjape Blue Ridge - The Altius",
+    "slug": "paranjape-blue-ridge-altius",
+    "builderId": "b-paranjape",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b91.95 Cr - \u20b94.00 Cr",
+    "exactPrice": "\u20b91.95 Cr",
+    "pricePerSqft": 14233,
+    "configurations": [
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://www.pscl.in/wp-content/uploads/2025/10/Altius-scaled.webp",
+    "heroImage": "https://www.pscl.in/wp-content/uploads/2025/10/Altius-scaled.webp",
+    "lat": 18.5785,
+    "lng": 73.7395,
+    "description": "The Altius (Tower 26) is the crown jewel architectural skyscraper within Paranjape Blue Ridge township in Hinjewadi, Pune. Soaring 36 storeys high, The Altius offers ultra-luxury 3, 4, and 5 BHK penthouses and grand residences designed for Pune's corporate leadership and global CXOs.\n\nEvery home features panoramic views of the 9-hole golf course and river valley, double-height sundecks, home automation, and private sky lounges. Verified under MahaRERA P52100078116 with official direct builder allotment via PROPSMART REALTY.",
+    "features": [
+      "Sky Lounge on 36th Floor",
+      "Golf Course Facing",
+      "Private Lift Lobbies",
+      "Olympic Lap Pool",
+      "Concierge Service",
+      "Banquet Lawn",
+      "Smart Home Automation"
+    ],
+    "amenities": [
+      "Sky Lounge on 36th Floor",
+      "Golf Course Facing",
+      "Private Lift Lobbies",
+      "Olympic Lap Pool",
+      "Concierge Service",
+      "Banquet Lawn",
+      "Smart Home Automation"
+    ],
+    "metaDescription": "Buy 3, 4, 5 BHK in Paranjape Blue Ridge The Altius, Hinjewadi Pune. Starts \u20b91.95 Cr. MahaRERA P52100078116. Direct builder inventory with 0% Brokerage.",
+    "reraId": "P52100078116",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://www.pscl.in/wp-content/uploads/2025/10/Altius-scaled.webp",
+      "https://keystoneliv.com/public/uploads/property/T2hW8rsrM5jiIRNVy8F3OvaLwxpanGya500Zymno.webp",
+      "https://keystoneliv.com/public/uploads/property/Mc9E5NBWOsI1NtldSLZmgKPoYKU0CWl7tF5vDeCQ.webp",
+      "https://keystoneliv.com/public/uploads/property/c9W9pcE1Zsuj3kbjYK3vVR94GONg6rObDY6jLi2f.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-altius-3bhk",
+        "projectId": "p-paranjape-blue-ridge-altius",
+        "name": "3 BHK Sky Deck",
+        "carpetArea": 1320,
+        "balconyArea": 140,
+        "bathrooms": 3,
+        "basePrice": 16500000,
+        "pricePerSqft": 12500,
+        "infraCharges": 380000,
+        "clubhouseCharges": 200000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+      },
+      {
+        "id": "cfg-pscl-altius-4bhk",
+        "projectId": "p-paranjape-blue-ridge-altius",
+        "name": "4 BHK Imperial Sky Lounge",
+        "carpetArea": 1950,
+        "balconyArea": 210,
+        "bathrooms": 4,
+        "basePrice": 25500000,
+        "pricePerSqft": 13076,
+        "infraCharges": 480000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      },
+      {
+        "id": "cfg-pscl-altius-5bhk",
+        "projectId": "p-paranjape-blue-ridge-altius",
+        "name": "5 BHK Signature Duplex",
+        "carpetArea": 2850,
+        "balconyArea": 320,
+        "bathrooms": 5,
+        "basePrice": 38000000,
+        "pricePerSqft": 13333,
+        "infraCharges": 600000,
+        "clubhouseCharges": 350000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-trident-towers",
-        "title": "Paranjape Trident Towers",
-        "slug": "paranjape-trident-towers",
-        "builderId": "b-paranjape",
-        "location": "Hinjewadi",
-        "city": "Pune",
-        "priceRange": "\u20b943.00 L - \u20b980.00 L",
-        "exactPrice": "\u20b943.00 L",
-        "pricePerSqft": 8750,
-        "configurations": [
-            "1 BHK",
-            "2 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "December 2026",
-        "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.584,
-        "lng": 73.746,
-        "description": "Trident Towers by Paranjape Schemes is a high-tech residential landmark located on the Hinjewadi-Wakad Link Road. Engineered with modern Mivan shuttering technology, these smart 1 & 2 BHK homes are crafted specifically for young IT and engineering professionals.\n\nFeaturing integrated work-from-home acoustic work pods, high-speed WiFi community hubs, a swimming pool, clubhouse, podium jogging loop, and 3-tier smart security. Located 3 minutes from Xion Mall and Hinjewadi Metro Station. Verified MahaRERA P52100029377 with 100% zero brokerage through PROPSMART REALTY.",
-        "features": [
-            "WFH Acoustic Work Pods",
-            "Podium Swimming Pool",
-            "Clubhouse",
-            "Gymnasium",
-            "Multi-tier Security",
-            "Children's Play Park",
-            "High Speed Elevators"
-        ],
-        "amenities": [
-            "WFH Acoustic Work Pods",
-            "Podium Swimming Pool",
-            "Clubhouse",
-            "Gymnasium",
-            "Multi-tier Security",
-            "Children's Play Park",
-            "High Speed Elevators"
-        ],
-        "metaDescription": "Buy 1 & 2 BHK in Paranjape Trident Towers, Hinjewadi Wakad Link Road. Starts \u20b943.00 L. MahaRERA P52100029377. 0% Brokerage with PROPSMART REALTY.",
-        "reraId": "P52100029377",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/QUSiXbX1yIv3u1F0efgnLHyJgKsJfu0DIDG1r7Wi.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-trident-1bhk",
-                "projectId": "p-paranjape-trident-towers",
-                "name": "1 BHK Smart Suite",
-                "carpetArea": 465,
-                "balconyArea": 40,
-                "bathrooms": 1,
-                "basePrice": 4600000,
-                "pricePerSqft": 9892,
-                "infraCharges": 120000,
-                "clubhouseCharges": 80000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
-            },
-            {
-                "id": "cfg-pscl-trident-2bhk",
-                "projectId": "p-paranjape-trident-towers",
-                "name": "2 BHK Optimum Comfort",
-                "carpetArea": 690,
-                "balconyArea": 65,
-                "bathrooms": 2,
-                "basePrice": 6900000,
-                "pricePerSqft": 10000,
-                "infraCharges": 180000,
-                "clubhouseCharges": 120000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-trident-towers",
+    "title": "Paranjape Trident Towers",
+    "slug": "paranjape-trident-towers",
+    "builderId": "b-paranjape",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b943.00 L - \u20b980.00 L",
+    "exactPrice": "\u20b943.00 L",
+    "pricePerSqft": 8750,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://www.pscl.in/wp-content/uploads/2025/10/Trident-Tower-scaled.webp",
+    "heroImage": "https://www.pscl.in/wp-content/uploads/2025/10/Trident-Tower-scaled.webp",
+    "lat": 18.584,
+    "lng": 73.746,
+    "description": "Trident Towers by Paranjape Schemes is a high-tech residential landmark located on the Hinjewadi-Wakad Link Road. Engineered with modern Mivan shuttering technology, these smart 1 & 2 BHK homes are crafted specifically for young IT and engineering professionals.\n\nFeaturing integrated work-from-home acoustic work pods, high-speed WiFi community hubs, a swimming pool, clubhouse, podium jogging loop, and 3-tier smart security. Located 3 minutes from Xion Mall and Hinjewadi Metro Station. Verified MahaRERA P52100029377 with 100% zero brokerage through PROPSMART REALTY.",
+    "features": [
+      "WFH Acoustic Work Pods",
+      "Podium Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Multi-tier Security",
+      "Children's Play Park",
+      "High Speed Elevators"
+    ],
+    "amenities": [
+      "WFH Acoustic Work Pods",
+      "Podium Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Multi-tier Security",
+      "Children's Play Park",
+      "High Speed Elevators"
+    ],
+    "metaDescription": "Buy 1 & 2 BHK in Paranjape Trident Towers, Hinjewadi Wakad Link Road. Starts \u20b943.00 L. MahaRERA P52100029377. 0% Brokerage with PROPSMART REALTY.",
+    "reraId": "P52100029377",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://www.pscl.in/wp-content/uploads/2025/10/Trident-Tower-scaled.webp",
+      "https://keystoneliv.com/public/uploads/property/c9W9pcE1Zsuj3kbjYK3vVR94GONg6rObDY6jLi2f.webp",
+      "https://keystoneliv.com/public/uploads/property/7R1KntHtZGpJcf1ID73ZhW6Bmbi6t69x1dDPXrCk.webp",
+      "https://keystoneliv.com/public/uploads/property/FI0pRYe4YtQiDClNaJlsXItZMlHcOGiWSdLu8YJw.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QUSiXbX1yIv3u1F0efgnLHyJgKsJfu0DIDG1r7Wi.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-trident-1bhk",
+        "projectId": "p-paranjape-trident-towers",
+        "name": "1 BHK Smart Suite",
+        "carpetArea": 465,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 4600000,
+        "pricePerSqft": 9892,
+        "infraCharges": 120000,
+        "clubhouseCharges": 80000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
+      },
+      {
+        "id": "cfg-pscl-trident-2bhk",
+        "projectId": "p-paranjape-trident-towers",
+        "name": "2 BHK Optimum Comfort",
+        "carpetArea": 690,
+        "balconyArea": 65,
+        "bathrooms": 2,
+        "basePrice": 6900000,
+        "pricePerSqft": 10000,
+        "infraCharges": 180000,
+        "clubhouseCharges": 120000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-forest-trails-highgardens",
-        "title": "Paranjape Forest Trails - Highgardens",
-        "slug": "paranjape-forest-trails-highgardens",
-        "builderId": "b-paranjape",
-        "location": "Bavdhan",
-        "city": "Pune",
-        "priceRange": "\u20b987.00 L - \u20b91.71 Cr",
-        "exactPrice": "\u20b987.00 L",
-        "pricePerSqft": 10480,
-        "configurations": [
-            "2 BHK",
-            "3 BHK",
-            "4 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "July 2028",
-        "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.514,
-        "lng": 73.748,
-        "description": "Highgardens is a premier hillside residential enclave inside the celebrated 190+ acre Forest Trails Township in Bhugaon, just minutes from Bavdhan and Chandani Chowk. Highgardens introduces private terrace garden residences that seamlessly blend indoor luxury with lush Sahyadri nature.\n\nResidents enjoy direct access to The Cliff Lifestyle & Sports Club, an international equestrian horse-riding academy, 34,000 mature trees, walking trails, and Sri Sri Ravishankar Vidya Mandir school located right inside the township. Verified MahaRERA P52100053310 with official direct builder sales via PROPSMART REALTY.",
-        "features": [
-            "Private Terrace Gardens",
-            "The Cliff Lifestyle Club",
-            "Equestrian Horse Riding Academy",
-            "Heated Swimming Pool",
-            "Tennis & Badminton Courts",
-            "On-campus School",
-            "Forest Trails Nature Walk"
-        ],
-        "amenities": [
-            "Private Terrace Gardens",
-            "The Cliff Lifestyle Club",
-            "Equestrian Horse Riding Academy",
-            "Heated Swimming Pool",
-            "Tennis & Badminton Courts",
-            "On-campus School",
-            "Forest Trails Nature Walk"
-        ],
-        "metaDescription": "Buy 2, 3, 4 BHK in Paranjape Forest Trails Highgardens, Bavdhan Bhugaon Pune. Starts \u20b987.00 L. MahaRERA P52100053310. 100% Zero Brokerage.",
-        "reraId": "P52100053310",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/LRk6ujgc4OZvne3hIg9Oy1w5Ybq2LhGzE9FyFTTw.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-            "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-highgardens-2bhk",
-                "projectId": "p-paranjape-forest-trails-highgardens",
-                "name": "2 BHK Nature Terrace",
-                "carpetArea": 725,
-                "balconyArea": 65,
-                "bathrooms": 2,
-                "basePrice": 7500000,
-                "pricePerSqft": 10344,
-                "infraCharges": 200000,
-                "clubhouseCharges": 150000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            },
-            {
-                "id": "cfg-pscl-highgardens-3bhk",
-                "projectId": "p-paranjape-forest-trails-highgardens",
-                "name": "3 BHK Valley Panorama",
-                "carpetArea": 1050,
-                "balconyArea": 110,
-                "bathrooms": 3,
-                "basePrice": 11500000,
-                "pricePerSqft": 10952,
-                "infraCharges": 300000,
-                "clubhouseCharges": 200000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            },
-            {
-                "id": "cfg-pscl-highgardens-4bhk",
-                "projectId": "p-paranjape-forest-trails-highgardens",
-                "name": "4 BHK Forest Penthouse",
-                "carpetArea": 1560,
-                "balconyArea": 190,
-                "bathrooms": 4,
-                "basePrice": 18500000,
-                "pricePerSqft": 11858,
-                "infraCharges": 420000,
-                "clubhouseCharges": 250000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-forest-trails-highgardens",
+    "title": "Paranjape Forest Trails - Highgardens",
+    "slug": "paranjape-forest-trails-highgardens",
+    "builderId": "b-paranjape",
+    "location": "Bavdhan",
+    "city": "Pune",
+    "priceRange": "\u20b987.00 L - \u20b91.71 Cr",
+    "exactPrice": "\u20b987.00 L",
+    "pricePerSqft": 10480,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "July 2028",
+    "image": "https://www.pscl.in/wp-content/uploads/2025/10/Highgardens-scaled.webp",
+    "heroImage": "https://www.pscl.in/wp-content/uploads/2025/10/Highgardens-scaled.webp",
+    "lat": 18.514,
+    "lng": 73.748,
+    "description": "Highgardens is a premier hillside residential enclave inside the celebrated 190+ acre Forest Trails Township in Bhugaon, just minutes from Bavdhan and Chandani Chowk. Highgardens introduces private terrace garden residences that seamlessly blend indoor luxury with lush Sahyadri nature.\n\nResidents enjoy direct access to The Cliff Lifestyle & Sports Club, an international equestrian horse-riding academy, 34,000 mature trees, walking trails, and Sri Sri Ravishankar Vidya Mandir school located right inside the township. Verified MahaRERA P52100053310 with official direct builder sales via PROPSMART REALTY.",
+    "features": [
+      "Private Terrace Gardens",
+      "The Cliff Lifestyle Club",
+      "Equestrian Horse Riding Academy",
+      "Heated Swimming Pool",
+      "Tennis & Badminton Courts",
+      "On-campus School",
+      "Forest Trails Nature Walk"
+    ],
+    "amenities": [
+      "Private Terrace Gardens",
+      "The Cliff Lifestyle Club",
+      "Equestrian Horse Riding Academy",
+      "Heated Swimming Pool",
+      "Tennis & Badminton Courts",
+      "On-campus School",
+      "Forest Trails Nature Walk"
+    ],
+    "metaDescription": "Buy 2, 3, 4 BHK in Paranjape Forest Trails Highgardens, Bavdhan Bhugaon Pune. Starts \u20b987.00 L. MahaRERA P52100053310. 100% Zero Brokerage.",
+    "reraId": "P52100053310",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://www.pscl.in/wp-content/uploads/2025/10/Highgardens-scaled.webp",
+      "https://keystoneliv.com/public/uploads/property/FI0pRYe4YtQiDClNaJlsXItZMlHcOGiWSdLu8YJw.webp",
+      "https://keystoneliv.com/public/uploads/property/irWHREpB4Bu9lyPddtSq6rmlhF56vKg7o60Jna7N.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/LRk6ujgc4OZvne3hIg9Oy1w5Ybq2LhGzE9FyFTTw.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-highgardens-2bhk",
+        "projectId": "p-paranjape-forest-trails-highgardens",
+        "name": "2 BHK Nature Terrace",
+        "carpetArea": 725,
+        "balconyArea": 65,
+        "bathrooms": 2,
+        "basePrice": 7500000,
+        "pricePerSqft": 10344,
+        "infraCharges": 200000,
+        "clubhouseCharges": 150000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      },
+      {
+        "id": "cfg-pscl-highgardens-3bhk",
+        "projectId": "p-paranjape-forest-trails-highgardens",
+        "name": "3 BHK Valley Panorama",
+        "carpetArea": 1050,
+        "balconyArea": 110,
+        "bathrooms": 3,
+        "basePrice": 11500000,
+        "pricePerSqft": 10952,
+        "infraCharges": 300000,
+        "clubhouseCharges": 200000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      },
+      {
+        "id": "cfg-pscl-highgardens-4bhk",
+        "projectId": "p-paranjape-forest-trails-highgardens",
+        "name": "4 BHK Forest Penthouse",
+        "carpetArea": 1560,
+        "balconyArea": 190,
+        "bathrooms": 4,
+        "basePrice": 18500000,
+        "pricePerSqft": 11858,
+        "infraCharges": 420000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-forest-trails-canopy",
-        "title": "Paranjape Forest Trails - The Canopy",
-        "slug": "paranjape-forest-trails-canopy",
-        "builderId": "b-paranjape",
-        "location": "Bavdhan",
-        "city": "Pune",
-        "priceRange": "\u20b983.00 L - \u20b91.21 Cr",
-        "exactPrice": "\u20b983.00 L",
-        "pricePerSqft": 9368,
-        "configurations": [
-            "2 BHK",
-            "3 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "December 2029",
-        "image": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.513,
-        "lng": 73.749,
-        "description": "The Canopy (Sector R48) is a 24-storey high-rise biophilic residential tower nestled inside the 190-acre Forest Trails Township in Bhugaon, minutes from Bavdhan, Pune. Designed to sit under the verdant canopy of 34,000+ forest trees, every apartment offers cross ventilation and unobstructed valley perspectives.\n\nEquipped with rooftop meditation decks, clubhouse, gym, and full membership to The Cliff sports facilities. Verified under MahaRERA registration P52100079518 with 0% brokerage via PROPSMART REALTY.",
-        "features": [
-            "Biophilic Architecture",
-            "Rooftop Yoga & Stargazing Deck",
-            "Access to The Cliff Club",
-            "Jogging Track",
-            "Gymnasium",
-            "Kids Adventure Area",
-            "EV Charging Station"
-        ],
-        "amenities": [
-            "Biophilic Architecture",
-            "Rooftop Yoga & Stargazing Deck",
-            "Access to The Cliff Club",
-            "Jogging Track",
-            "Gymnasium",
-            "Kids Adventure Area",
-            "EV Charging Station"
-        ],
-        "metaDescription": "Buy 2 & 3 BHK in Paranjape The Canopy at Forest Trails, Bavdhan Bhugaon Pune. Starts \u20b983.00 L. MahaRERA P52100079518. Zero Brokerage.",
-        "reraId": "P52100079518",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-canopy-2bhk",
-                "projectId": "p-paranjape-forest-trails-canopy",
-                "name": "2 BHK Canopy Greens",
-                "carpetArea": 710,
-                "balconyArea": 60,
-                "bathrooms": 2,
-                "basePrice": 6800000,
-                "pricePerSqft": 9577,
-                "infraCharges": 180000,
-                "clubhouseCharges": 120000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            },
-            {
-                "id": "cfg-pscl-canopy-3bhk",
-                "projectId": "p-paranjape-forest-trails-canopy",
-                "name": "3 BHK Canopy Royale",
-                "carpetArea": 1020,
-                "balconyArea": 105,
-                "bathrooms": 3,
-                "basePrice": 10500000,
-                "pricePerSqft": 10294,
-                "infraCharges": 280000,
-                "clubhouseCharges": 180000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-forest-trails-canopy",
+    "title": "Paranjape Forest Trails - The Canopy",
+    "slug": "paranjape-forest-trails-canopy",
+    "builderId": "b-paranjape",
+    "location": "Bavdhan",
+    "city": "Pune",
+    "priceRange": "\u20b983.00 L - \u20b91.21 Cr",
+    "exactPrice": "\u20b983.00 L",
+    "pricePerSqft": 9368,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2029",
+    "image": "https://www.pscl.in/wp-content/uploads/2025/10/Canopy-1-scaled.webp",
+    "heroImage": "https://www.pscl.in/wp-content/uploads/2025/10/Canopy-1-scaled.webp",
+    "lat": 18.513,
+    "lng": 73.749,
+    "description": "The Canopy (Sector R48) is a 24-storey high-rise biophilic residential tower nestled inside the 190-acre Forest Trails Township in Bhugaon, minutes from Bavdhan, Pune. Designed to sit under the verdant canopy of 34,000+ forest trees, every apartment offers cross ventilation and unobstructed valley perspectives.\n\nEquipped with rooftop meditation decks, clubhouse, gym, and full membership to The Cliff sports facilities. Verified under MahaRERA registration P52100079518 with 0% brokerage via PROPSMART REALTY.",
+    "features": [
+      "Biophilic Architecture",
+      "Rooftop Yoga & Stargazing Deck",
+      "Access to The Cliff Club",
+      "Jogging Track",
+      "Gymnasium",
+      "Kids Adventure Area",
+      "EV Charging Station"
+    ],
+    "amenities": [
+      "Biophilic Architecture",
+      "Rooftop Yoga & Stargazing Deck",
+      "Access to The Cliff Club",
+      "Jogging Track",
+      "Gymnasium",
+      "Kids Adventure Area",
+      "EV Charging Station"
+    ],
+    "metaDescription": "Buy 2 & 3 BHK in Paranjape The Canopy at Forest Trails, Bavdhan Bhugaon Pune. Starts \u20b983.00 L. MahaRERA P52100079518. Zero Brokerage.",
+    "reraId": "P52100079518",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://www.pscl.in/wp-content/uploads/2025/10/Canopy-1-scaled.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp",
+      "https://keystoneliv.com/public/uploads/property/b5oceIMtghaxSSAiO2E5Dt4oVI3a7Uc6uRakqvre.webp",
+      "https://keystoneliv.com/public/uploads/property/SH7H8dxS80mn8MREYklIjIfomkd46PAdSgIPEBpM.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-canopy-2bhk",
+        "projectId": "p-paranjape-forest-trails-canopy",
+        "name": "2 BHK Canopy Greens",
+        "carpetArea": 710,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 6800000,
+        "pricePerSqft": 9577,
+        "infraCharges": 180000,
+        "clubhouseCharges": 120000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      },
+      {
+        "id": "cfg-pscl-canopy-3bhk",
+        "projectId": "p-paranjape-forest-trails-canopy",
+        "name": "3 BHK Canopy Royale",
+        "carpetArea": 1020,
+        "balconyArea": 105,
+        "bathrooms": 3,
+        "basePrice": 10500000,
+        "pricePerSqft": 10294,
+        "infraCharges": 280000,
+        "clubhouseCharges": 180000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-rivolo-residences",
-        "title": "Paranjape Forest Trails - The Rivolo Residences",
-        "slug": "paranjape-rivolo-residences",
-        "builderId": "b-paranjape",
-        "location": "Bavdhan",
-        "city": "Pune",
-        "priceRange": "\u20b93.89 Cr - \u20b95.70 Cr",
-        "exactPrice": "\u20b93.89 Cr",
-        "pricePerSqft": 15500,
-        "configurations": [
-            "3 BHK",
-            "4 BHK",
-            "5 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "December 2027",
-        "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.511,
-        "lng": 73.745,
-        "description": "The Rivolo Residences represents the pinnacle of private villa luxury in Pune. Set upon high hill ridges inside the Forest Trails Township near Bavdhan, each standalone villa features a private garden, personal plunge pool provision, multi-tier entertainment terraces, and bespoke luxury interiors.\n\nPositioned in an exclusive gated cul-de-sac adjacent to the Forest Trails equestrian arena and The Cliff Club. Verified under MahaRERA registration P52100031560 with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "Private Hillside Villas",
-            "Personal Landscaped Gardens",
-            "Private Plunge Pool Provision",
-            "The Cliff Club Privileges",
-            "Equestrian Academy Access",
-            "Double-height Living Rooms"
-        ],
-        "amenities": [
-            "Private Hillside Villas",
-            "Personal Landscaped Gardens",
-            "Private Plunge Pool Provision",
-            "The Cliff Club Privileges",
-            "Equestrian Academy Access",
-            "Double-height Living Rooms"
-        ],
-        "metaDescription": "Luxury 3, 4, 5 BHK private villas in Paranjape The Rivolo Residences, Forest Trails Bavdhan. Starts \u20b93.89 Cr. MahaRERA P52100031560. 0% Brokerage.",
-        "reraId": "P52100031560",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/3dehuUq2Po5NML9mJlmIQO5xPl9IF2CTVSuFPjDO.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-            "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-            "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-rivolo-3bhk",
-                "projectId": "p-paranjape-rivolo-residences",
-                "name": "3 BHK Hillside Villa",
-                "carpetArea": 1650,
-                "balconyArea": 280,
-                "bathrooms": 3,
-                "basePrice": 22000000,
-                "pricePerSqft": 13333,
-                "infraCharges": 450000,
-                "clubhouseCharges": 250000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            },
-            {
-                "id": "cfg-pscl-rivolo-4bhk",
-                "projectId": "p-paranjape-rivolo-residences",
-                "name": "4 BHK Forest Villa",
-                "carpetArea": 2400,
-                "balconyArea": 380,
-                "bathrooms": 4,
-                "basePrice": 32000000,
-                "pricePerSqft": 13333,
-                "infraCharges": 600000,
-                "clubhouseCharges": 350000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-            },
-            {
-                "id": "cfg-pscl-rivolo-5bhk",
-                "projectId": "p-paranjape-rivolo-residences",
-                "name": "5 BHK Signature Hilltop Villa",
-                "carpetArea": 3450,
-                "balconyArea": 550,
-                "bathrooms": 5,
-                "basePrice": 48000000,
-                "pricePerSqft": 13913,
-                "infraCharges": 800000,
-                "clubhouseCharges": 500000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-rivolo-residences",
+    "title": "Paranjape Forest Trails - The Rivolo Residences",
+    "slug": "paranjape-rivolo-residences",
+    "builderId": "b-paranjape",
+    "location": "Bavdhan",
+    "city": "Pune",
+    "priceRange": "\u20b93.89 Cr - \u20b95.70 Cr",
+    "exactPrice": "\u20b93.89 Cr",
+    "pricePerSqft": 15500,
+    "configurations": [
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://keystoneliv.com/public/uploads/property/b5oceIMtghaxSSAiO2E5Dt4oVI3a7Uc6uRakqvre.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/b5oceIMtghaxSSAiO2E5Dt4oVI3a7Uc6uRakqvre.webp",
+    "lat": 18.511,
+    "lng": 73.745,
+    "description": "The Rivolo Residences represents the pinnacle of private villa luxury in Pune. Set upon high hill ridges inside the Forest Trails Township near Bavdhan, each standalone villa features a private garden, personal plunge pool provision, multi-tier entertainment terraces, and bespoke luxury interiors.\n\nPositioned in an exclusive gated cul-de-sac adjacent to the Forest Trails equestrian arena and The Cliff Club. Verified under MahaRERA registration P52100031560 with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "Private Hillside Villas",
+      "Personal Landscaped Gardens",
+      "Private Plunge Pool Provision",
+      "The Cliff Club Privileges",
+      "Equestrian Academy Access",
+      "Double-height Living Rooms"
+    ],
+    "amenities": [
+      "Private Hillside Villas",
+      "Personal Landscaped Gardens",
+      "Private Plunge Pool Provision",
+      "The Cliff Club Privileges",
+      "Equestrian Academy Access",
+      "Double-height Living Rooms"
+    ],
+    "metaDescription": "Luxury 3, 4, 5 BHK private villas in Paranjape The Rivolo Residences, Forest Trails Bavdhan. Starts \u20b93.89 Cr. MahaRERA P52100031560. 0% Brokerage.",
+    "reraId": "P52100031560",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/b5oceIMtghaxSSAiO2E5Dt4oVI3a7Uc6uRakqvre.webp",
+      "https://keystoneliv.com/public/uploads/property/SH7H8dxS80mn8MREYklIjIfomkd46PAdSgIPEBpM.webp",
+      "https://keystoneliv.com/public/uploads/property/yiPGuOJ5Fhyx0YB3EzGkjiPFft7mIQsii4HFZdjW.webp",
+      "https://keystoneliv.com/public/uploads/property/CU1K5TMPY5iB90KqfJVmfosGCK6HiAnidy5Rb9Xd.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/3dehuUq2Po5NML9mJlmIQO5xPl9IF2CTVSuFPjDO.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-rivolo-3bhk",
+        "projectId": "p-paranjape-rivolo-residences",
+        "name": "3 BHK Hillside Villa",
+        "carpetArea": 1650,
+        "balconyArea": 280,
+        "bathrooms": 3,
+        "basePrice": 22000000,
+        "pricePerSqft": 13333,
+        "infraCharges": 450000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      },
+      {
+        "id": "cfg-pscl-rivolo-4bhk",
+        "projectId": "p-paranjape-rivolo-residences",
+        "name": "4 BHK Forest Villa",
+        "carpetArea": 2400,
+        "balconyArea": 380,
+        "bathrooms": 4,
+        "basePrice": 32000000,
+        "pricePerSqft": 13333,
+        "infraCharges": 600000,
+        "clubhouseCharges": 350000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+      },
+      {
+        "id": "cfg-pscl-rivolo-5bhk",
+        "projectId": "p-paranjape-rivolo-residences",
+        "name": "5 BHK Signature Hilltop Villa",
+        "carpetArea": 3450,
+        "balconyArea": 550,
+        "bathrooms": 5,
+        "basePrice": 48000000,
+        "pricePerSqft": 13913,
+        "infraCharges": 800000,
+        "clubhouseCharges": 500000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-orchard-residences",
-        "title": "Paranjape Forest Trails - The Orchard Residences",
-        "slug": "paranjape-orchard-residences",
-        "builderId": "b-paranjape",
-        "location": "Bavdhan",
-        "city": "Pune",
-        "priceRange": "\u20b91.65 Cr - \u20b92.40 Cr",
-        "exactPrice": "\u20b91.65 Cr",
-        "pricePerSqft": 11500,
-        "configurations": [
-            "3 BHK",
-            "4 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "March 2029",
-        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.512,
-        "lng": 73.747,
-        "description": "The Orchard Residences (Sector R40) offers spacious low-density villaments and grand apartments overlooking fragrant mango and fruit groves in Forest Trails, Bhugaon near Bavdhan. Offering expansive carpet areas from 2,100 to 2,400+ sq. ft., these homes are crafted for discerning multi-generational families.\n\nVerified under MahaRERA registration P52100055710 with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "Orchard & Valley Views",
-            "Low-Density Villaments",
-            "Large Sundecks",
-            "The Cliff Club Access",
-            "Walking Trails",
-            "Tennis Courts",
-            "Multi-purpose Banquet"
-        ],
-        "amenities": [
-            "Orchard & Valley Views",
-            "Low-Density Villaments",
-            "Large Sundecks",
-            "The Cliff Club Access",
-            "Walking Trails",
-            "Tennis Courts",
-            "Multi-purpose Banquet"
-        ],
-        "metaDescription": "Buy 3 & 4 BHK in Paranjape The Orchard Residences, Forest Trails Bavdhan Pune. Starts \u20b91.65 Cr. MahaRERA P52100055710. 100% Zero Brokerage.",
-        "reraId": "P52100055710",
-        "verificationStatus": "Verified",
-        "featured": false,
-        "images": [
-            "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/Ptw9XmFBU5IeYvADN8ruLftUvTCTToYOMifOkh2x.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-            "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-orchard-3bhk",
-                "projectId": "p-paranjape-orchard-residences",
-                "name": "3 BHK Orchard Court",
-                "carpetArea": 1240,
-                "balconyArea": 130,
-                "bathrooms": 3,
-                "basePrice": 14000000,
-                "pricePerSqft": 11290,
-                "infraCharges": 350000,
-                "clubhouseCharges": 200000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            },
-            {
-                "id": "cfg-pscl-orchard-4bhk",
-                "projectId": "p-paranjape-orchard-residences",
-                "name": "4 BHK Orchard Manor",
-                "carpetArea": 1750,
-                "balconyArea": 210,
-                "bathrooms": 4,
-                "basePrice": 21000000,
-                "pricePerSqft": 12000,
-                "infraCharges": 450000,
-                "clubhouseCharges": 250000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-orchard-residences",
+    "title": "Paranjape Forest Trails - The Orchard Residences",
+    "slug": "paranjape-orchard-residences",
+    "builderId": "b-paranjape",
+    "location": "Bavdhan",
+    "city": "Pune",
+    "priceRange": "\u20b91.65 Cr - \u20b92.40 Cr",
+    "exactPrice": "\u20b91.65 Cr",
+    "pricePerSqft": 11500,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "March 2029",
+    "image": "https://keystoneliv.com/public/uploads/property/6muqAWdRxTJUTEwNXQRGeBfgVIluqwTW2aig5Gly.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/6muqAWdRxTJUTEwNXQRGeBfgVIluqwTW2aig5Gly.webp",
+    "lat": 18.512,
+    "lng": 73.747,
+    "description": "The Orchard Residences (Sector R40) offers spacious low-density villaments and grand apartments overlooking fragrant mango and fruit groves in Forest Trails, Bhugaon near Bavdhan. Offering expansive carpet areas from 2,100 to 2,400+ sq. ft., these homes are crafted for discerning multi-generational families.\n\nVerified under MahaRERA registration P52100055710 with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "Orchard & Valley Views",
+      "Low-Density Villaments",
+      "Large Sundecks",
+      "The Cliff Club Access",
+      "Walking Trails",
+      "Tennis Courts",
+      "Multi-purpose Banquet"
+    ],
+    "amenities": [
+      "Orchard & Valley Views",
+      "Low-Density Villaments",
+      "Large Sundecks",
+      "The Cliff Club Access",
+      "Walking Trails",
+      "Tennis Courts",
+      "Multi-purpose Banquet"
+    ],
+    "metaDescription": "Buy 3 & 4 BHK in Paranjape The Orchard Residences, Forest Trails Bavdhan Pune. Starts \u20b91.65 Cr. MahaRERA P52100055710. 100% Zero Brokerage.",
+    "reraId": "P52100055710",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/6muqAWdRxTJUTEwNXQRGeBfgVIluqwTW2aig5Gly.webp",
+      "https://keystoneliv.com/public/uploads/property/9pvXyW2GJ03250xBWLfGckCuaopvViEXcNd2j0GO.webp",
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
+      "https://keystoneliv.com/public/uploads/property/aU0av4R1IIxdmArOOo0urjB7axIHKZzbIOiGbl5G.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/Ptw9XmFBU5IeYvADN8ruLftUvTCTToYOMifOkh2x.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-orchard-3bhk",
+        "projectId": "p-paranjape-orchard-residences",
+        "name": "3 BHK Orchard Court",
+        "carpetArea": 1240,
+        "balconyArea": 130,
+        "bathrooms": 3,
+        "basePrice": 14000000,
+        "pricePerSqft": 11290,
+        "infraCharges": 350000,
+        "clubhouseCharges": 200000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      },
+      {
+        "id": "cfg-pscl-orchard-4bhk",
+        "projectId": "p-paranjape-orchard-residences",
+        "name": "4 BHK Orchard Manor",
+        "carpetArea": 1750,
+        "balconyArea": 210,
+        "bathrooms": 4,
+        "basePrice": 21000000,
+        "pricePerSqft": 12000,
+        "infraCharges": 450000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-athashri-b3",
-        "title": "Paranjape Athashri B3 - Forest Trails",
-        "slug": "paranjape-athashri-b3",
-        "builderId": "b-paranjape",
-        "location": "Bavdhan",
-        "city": "Pune",
-        "priceRange": "\u20b980.00 L - \u20b91.25 Cr",
-        "exactPrice": "\u20b980.00 L",
-        "pricePerSqft": 9200,
-        "configurations": [
-            "2 BHK",
-            "3 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "September 2029",
-        "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.515,
-        "lng": 73.746,
-        "description": "Athashri B3 is the newest landmark phase of Paranjape Schemes' globally acclaimed Athashri senior living brand, situated inside the Forest Trails Township in Bhugaon near Bavdhan, Pune. Specially conceptualized for senior citizens, it incorporates barrier-free anti-skid architectural design, emergency grab-bars, 24x7 doctor & paramedic on-campus response, and full-service community dining.\n\nResidents enjoy lively cultural clubs, yoga classes, physiotherapy centers, and peaceful green surroundings. Verified MahaRERA P52100077686 with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "24/7 On-campus Doctor & Nurse",
-            "Emergency Response Call Buttons",
-            "Senior-friendly Non-skid Flooring",
-            "Nutritious Community Dining Hall",
-            "Physiotherapy & Wellness Center",
-            "Library & Recreation Lounge",
-            "Wheelchair Accessible Paths"
-        ],
-        "amenities": [
-            "24/7 On-campus Doctor & Nurse",
-            "Emergency Response Call Buttons",
-            "Senior-friendly Non-skid Flooring",
-            "Nutritious Community Dining Hall",
-            "Physiotherapy & Wellness Center",
-            "Library & Recreation Lounge",
-            "Wheelchair Accessible Paths"
-        ],
-        "metaDescription": "Senior Living in Pune: Paranjape Athashri B3 at Forest Trails Bavdhan. Starts \u20b980.00 L. MahaRERA P52100077686. Direct builder partner PROPSMART REALTY.",
-        "reraId": "P52100077686",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/8KKQNl9pXNBZ6numJWe8UNpGknzVelIS0Qg1KIWp.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-athashri-b3-2bhk",
-                "projectId": "p-paranjape-athashri-b3",
-                "name": "2 BHK Senior Haven",
-                "carpetArea": 695,
-                "balconyArea": 60,
-                "bathrooms": 2,
-                "basePrice": 6200000,
-                "pricePerSqft": 8920,
-                "infraCharges": 180000,
-                "clubhouseCharges": 120000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            },
-            {
-                "id": "cfg-pscl-athashri-b3-3bhk",
-                "projectId": "p-paranjape-athashri-b3",
-                "name": "3 BHK Senior Grand",
-                "carpetArea": 980,
-                "balconyArea": 90,
-                "bathrooms": 3,
-                "basePrice": 9200000,
-                "pricePerSqft": 9387,
-                "infraCharges": 250000,
-                "clubhouseCharges": 180000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-athashri-b3",
+    "title": "Paranjape Athashri B3 - Forest Trails",
+    "slug": "paranjape-athashri-b3",
+    "builderId": "b-paranjape",
+    "location": "Bavdhan",
+    "city": "Pune",
+    "priceRange": "\u20b980.00 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b980.00 L",
+    "pricePerSqft": 9200,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "September 2029",
+    "image": "https://keystoneliv.com/public/uploads/property/UPzmG4euaO1BOdmqRNMXOBWt8x0Bj8yXV84daLnk.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/UPzmG4euaO1BOdmqRNMXOBWt8x0Bj8yXV84daLnk.webp",
+    "lat": 18.515,
+    "lng": 73.746,
+    "description": "Athashri B3 is the newest landmark phase of Paranjape Schemes' globally acclaimed Athashri senior living brand, situated inside the Forest Trails Township in Bhugaon near Bavdhan, Pune. Specially conceptualized for senior citizens, it incorporates barrier-free anti-skid architectural design, emergency grab-bars, 24x7 doctor & paramedic on-campus response, and full-service community dining.\n\nResidents enjoy lively cultural clubs, yoga classes, physiotherapy centers, and peaceful green surroundings. Verified MahaRERA P52100077686 with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "24/7 On-campus Doctor & Nurse",
+      "Emergency Response Call Buttons",
+      "Senior-friendly Non-skid Flooring",
+      "Nutritious Community Dining Hall",
+      "Physiotherapy & Wellness Center",
+      "Library & Recreation Lounge",
+      "Wheelchair Accessible Paths"
+    ],
+    "amenities": [
+      "24/7 On-campus Doctor & Nurse",
+      "Emergency Response Call Buttons",
+      "Senior-friendly Non-skid Flooring",
+      "Nutritious Community Dining Hall",
+      "Physiotherapy & Wellness Center",
+      "Library & Recreation Lounge",
+      "Wheelchair Accessible Paths"
+    ],
+    "metaDescription": "Senior Living in Pune: Paranjape Athashri B3 at Forest Trails Bavdhan. Starts \u20b980.00 L. MahaRERA P52100077686. Direct builder partner PROPSMART REALTY.",
+    "reraId": "P52100077686",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/UPzmG4euaO1BOdmqRNMXOBWt8x0Bj8yXV84daLnk.webp",
+      "https://keystoneliv.com/public/uploads/property/C7tGVItVivBs5A9pu9JJNlJuIKchaxzhMmg9UhjV.webp",
+      "https://keystoneliv.com/public/uploads/property/DHi0IYRMCmrf7yoxp0cK8Vp96P1ccxV3V6g85gdz.webp",
+      "https://keystoneliv.com/public/uploads/property/2RHyNsHcYFRyG4DosoTGOT7S7A6JMuulvZb7D2kQ.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/8KKQNl9pXNBZ6numJWe8UNpGknzVelIS0Qg1KIWp.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-athashri-b3-2bhk",
+        "projectId": "p-paranjape-athashri-b3",
+        "name": "2 BHK Senior Haven",
+        "carpetArea": 695,
+        "balconyArea": 60,
+        "bathrooms": 2,
+        "basePrice": 6200000,
+        "pricePerSqft": 8920,
+        "infraCharges": 180000,
+        "clubhouseCharges": 120000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      },
+      {
+        "id": "cfg-pscl-athashri-b3-3bhk",
+        "projectId": "p-paranjape-athashri-b3",
+        "name": "3 BHK Senior Grand",
+        "carpetArea": 980,
+        "balconyArea": 90,
+        "bathrooms": 3,
+        "basePrice": 9200000,
+        "pricePerSqft": 9387,
+        "infraCharges": 250000,
+        "clubhouseCharges": 180000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-athashri-baner",
-        "title": "Paranjape Athashri Baner",
-        "slug": "paranjape-athashri-baner",
-        "builderId": "b-paranjape",
-        "location": "Baner",
-        "city": "Pune",
-        "priceRange": "\u20b950.00 L - \u20b91.60 Cr",
-        "exactPrice": "\u20b950.00 L",
-        "pricePerSqft": 11500,
-        "configurations": [
-            "1 BHK",
-            "2 BHK"
-        ],
-        "status": "Ready to Move",
-        "type": "Residential",
-        "possessionDate": "Ready to Move",
-        "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.559,
-        "lng": 73.784,
-        "description": "Athashri Baner is Paranjape Schemes' iconic pioneer retirement community on Pan Card Club Road, Baner, Pune. Established as India's premier dedicated senior living habitat, Athashri Baner features specialized amenities like home-delivered meals, medical check-ups, housekeeping support, cultural clubs, and 24-hour security.\n\nLocated in prime Baner with seamless access to Balewadi High Street, top multi-specialty hospitals, and West Pune transit corridors. Verified MahaRERA P52100002667 with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "Assisted Living Services",
-            "Doctor on Call & Nursing Aid",
-            "Central Dining & Meal Delivery",
-            "Activity Hall & Indoor Games",
-            "Senior Safety Grab Rails",
-            "Gated Security & CCTV"
-        ],
-        "amenities": [
-            "Assisted Living Services",
-            "Doctor on Call & Nursing Aid",
-            "Central Dining & Meal Delivery",
-            "Activity Hall & Indoor Games",
-            "Senior Safety Grab Rails",
-            "Gated Security & CCTV"
-        ],
-        "metaDescription": "Buy 1 & 2 BHK in Paranjape Athashri Baner Pune. Ready to Move senior living homes from \u20b950.00 L. MahaRERA P52100002667. 0% Brokerage.",
-        "reraId": "P52100002667",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-verve-baner-sus-pune/Verve_Master_Plan_4b72183c9a.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-athashri-baner-1bhk",
-                "projectId": "p-paranjape-athashri-baner",
-                "name": "1 BHK Assisted Living",
-                "carpetArea": 510,
-                "balconyArea": 45,
-                "bathrooms": 1,
-                "basePrice": 5200000,
-                "pricePerSqft": 10196,
-                "infraCharges": 140000,
-                "clubhouseCharges": 100000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
-            },
-            {
-                "id": "cfg-pscl-athashri-baner-2bhk",
-                "projectId": "p-paranjape-athashri-baner",
-                "name": "2 BHK Senior Living Luxe",
-                "carpetArea": 740,
-                "balconyArea": 70,
-                "bathrooms": 2,
-                "basePrice": 7800000,
-                "pricePerSqft": 10540,
-                "infraCharges": 200000,
-                "clubhouseCharges": 140000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-athashri-baner",
+    "title": "Paranjape Athashri Baner",
+    "slug": "paranjape-athashri-baner",
+    "builderId": "b-paranjape",
+    "location": "Baner",
+    "city": "Pune",
+    "priceRange": "\u20b950.00 L - \u20b91.60 Cr",
+    "exactPrice": "\u20b950.00 L",
+    "pricePerSqft": 11500,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://keystoneliv.com/public/uploads/property/aMobBGd7Ut8Rx6KGpdkdEhct7heEo0dv5pyVzWik.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/aMobBGd7Ut8Rx6KGpdkdEhct7heEo0dv5pyVzWik.webp",
+    "lat": 18.559,
+    "lng": 73.784,
+    "description": "Athashri Baner is Paranjape Schemes' iconic pioneer retirement community on Pan Card Club Road, Baner, Pune. Established as India's premier dedicated senior living habitat, Athashri Baner features specialized amenities like home-delivered meals, medical check-ups, housekeeping support, cultural clubs, and 24-hour security.\n\nLocated in prime Baner with seamless access to Balewadi High Street, top multi-specialty hospitals, and West Pune transit corridors. Verified MahaRERA P52100002667 with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "Assisted Living Services",
+      "Doctor on Call & Nursing Aid",
+      "Central Dining & Meal Delivery",
+      "Activity Hall & Indoor Games",
+      "Senior Safety Grab Rails",
+      "Gated Security & CCTV"
+    ],
+    "amenities": [
+      "Assisted Living Services",
+      "Doctor on Call & Nursing Aid",
+      "Central Dining & Meal Delivery",
+      "Activity Hall & Indoor Games",
+      "Senior Safety Grab Rails",
+      "Gated Security & CCTV"
+    ],
+    "metaDescription": "Buy 1 & 2 BHK in Paranjape Athashri Baner Pune. Ready to Move senior living homes from \u20b950.00 L. MahaRERA P52100002667. 0% Brokerage.",
+    "reraId": "P52100002667",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/aMobBGd7Ut8Rx6KGpdkdEhct7heEo0dv5pyVzWik.webp",
+      "https://keystoneliv.com/public/uploads/property/tckPqBcVINZBVHdS5Bf2TEn7XG8BA2rNaM34RTIU.webp",
+      "https://keystoneliv.com/public/uploads/property/9hVlJaZ6meEGYLipoMd0CHIZi7NEU4ceqU1F8rCu.webp",
+      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
+    ],
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-verve-baner-sus-pune/Verve_Master_Plan_4b72183c9a.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-athashri-baner-1bhk",
+        "projectId": "p-paranjape-athashri-baner",
+        "name": "1 BHK Assisted Living",
+        "carpetArea": 510,
+        "balconyArea": 45,
+        "bathrooms": 1,
+        "basePrice": 5200000,
+        "pricePerSqft": 10196,
+        "infraCharges": 140000,
+        "clubhouseCharges": 100000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
+      },
+      {
+        "id": "cfg-pscl-athashri-baner-2bhk",
+        "projectId": "p-paranjape-athashri-baner",
+        "name": "2 BHK Senior Living Luxe",
+        "carpetArea": 740,
+        "balconyArea": 70,
+        "bathrooms": 2,
+        "basePrice": 7800000,
+        "pricePerSqft": 10540,
+        "infraCharges": 200000,
+        "clubhouseCharges": 140000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-happiness-hub",
-        "title": "Paranjape Happiness Hub",
-        "slug": "paranjape-happiness-hub",
-        "builderId": "b-paranjape",
-        "location": "Khed Shivapur",
-        "city": "Pune",
-        "priceRange": "\u20b917.00 L - \u20b945.00 L",
-        "exactPrice": "\u20b917.00 L",
-        "pricePerSqft": 5800,
-        "configurations": [
-            "1 BHK",
-            "2 BHK"
-        ],
-        "status": "Ready to Move",
-        "type": "Residential",
-        "possessionDate": "Ready to Move",
-        "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.324,
-        "lng": 73.864,
-        "description": "Happiness Hub by Paranjape Schemes is a sprawling 25-acre integrated affordable township situated on the Pune-Bengaluru Highway (NH-48) at Khed Shivapur, Varve Bk. Offering over 2,000 smart, budget-friendly 1 RK, 1 BHK, and 2 BHK residences, Happiness Hub brings township living within reach of first-time homebuyers.\n\nEquipped with a grand clubhouse, cricket pitch, temple, multi-purpose sports courts, senior citizen park, landscaped gardens, and EV charging stations. Verified under MahaRERA registration P52100000303 with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "25-Acre Gated Township",
-            "Grand Clubhouse & Gym",
-            "Cricket Pitch & Sports Court",
-            "Temple & Meditation Deck",
-            "Children's Play Arena",
-            "EV Charging Station",
-            "Commercial Shopping Plaza"
-        ],
-        "amenities": [
-            "25-Acre Gated Township",
-            "Grand Clubhouse & Gym",
-            "Cricket Pitch & Sports Court",
-            "Temple & Meditation Deck",
-            "Children's Play Arena",
-            "EV Charging Station",
-            "Commercial Shopping Plaza"
-        ],
-        "metaDescription": "Buy 1 & 2 BHK in Paranjape Happiness Hub, Khed Shivapur Pune. Ready homes start \u20b917.00 L. MahaRERA P52100000303. 100% Zero Brokerage.",
-        "reraId": "P52100000303",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-happiness-1bhk",
-                "projectId": "p-paranjape-happiness-hub",
-                "name": "1 BHK Joy Suite",
-                "carpetArea": 435,
-                "balconyArea": 35,
-                "bathrooms": 1,
-                "basePrice": 2450000,
-                "pricePerSqft": 5632,
-                "infraCharges": 80000,
-                "clubhouseCharges": 50000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
-            },
-            {
-                "id": "cfg-pscl-happiness-2bhk",
-                "projectId": "p-paranjape-happiness-hub",
-                "name": "2 BHK Bliss Suite",
-                "carpetArea": 630,
-                "balconyArea": 55,
-                "bathrooms": 2,
-                "basePrice": 3650000,
-                "pricePerSqft": 5793,
-                "infraCharges": 120000,
-                "clubhouseCharges": 80000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-happiness-hub",
+    "title": "Paranjape Happiness Hub",
+    "slug": "paranjape-happiness-hub",
+    "builderId": "b-paranjape",
+    "location": "Khed Shivapur",
+    "city": "Pune",
+    "priceRange": "\u20b917.00 L - \u20b945.00 L",
+    "exactPrice": "\u20b917.00 L",
+    "pricePerSqft": 5800,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "lat": 18.324,
+    "lng": 73.864,
+    "description": "Happiness Hub by Paranjape Schemes is a sprawling 25-acre integrated affordable township situated on the Pune-Bengaluru Highway (NH-48) at Khed Shivapur, Varve Bk. Offering over 2,000 smart, budget-friendly 1 RK, 1 BHK, and 2 BHK residences, Happiness Hub brings township living within reach of first-time homebuyers.\n\nEquipped with a grand clubhouse, cricket pitch, temple, multi-purpose sports courts, senior citizen park, landscaped gardens, and EV charging stations. Verified under MahaRERA registration P52100000303 with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "25-Acre Gated Township",
+      "Grand Clubhouse & Gym",
+      "Cricket Pitch & Sports Court",
+      "Temple & Meditation Deck",
+      "Children's Play Arena",
+      "EV Charging Station",
+      "Commercial Shopping Plaza"
+    ],
+    "amenities": [
+      "25-Acre Gated Township",
+      "Grand Clubhouse & Gym",
+      "Cricket Pitch & Sports Court",
+      "Temple & Meditation Deck",
+      "Children's Play Arena",
+      "EV Charging Station",
+      "Commercial Shopping Plaza"
+    ],
+    "metaDescription": "Buy 1 & 2 BHK in Paranjape Happiness Hub, Khed Shivapur Pune. Ready homes start \u20b917.00 L. MahaRERA P52100000303. 100% Zero Brokerage.",
+    "reraId": "P52100000303",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+      "https://keystoneliv.com/public/uploads/property/q5AHQmgzPmHHJpiGmkjETlcn8wnVNDWB11vSWkcy.webp",
+      "https://keystoneliv.com/public/uploads/property/MePjpM2o9KQjJ6xTMr6aFlHFsoAzGOb15Qt42xOo.webp",
+      "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-happiness-1bhk",
+        "projectId": "p-paranjape-happiness-hub",
+        "name": "1 BHK Joy Suite",
+        "carpetArea": 435,
+        "balconyArea": 35,
+        "bathrooms": 1,
+        "basePrice": 2450000,
+        "pricePerSqft": 5632,
+        "infraCharges": 80000,
+        "clubhouseCharges": 50000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
+      },
+      {
+        "id": "cfg-pscl-happiness-2bhk",
+        "projectId": "p-paranjape-happiness-hub",
+        "name": "2 BHK Bliss Suite",
+        "carpetArea": 630,
+        "balconyArea": 55,
+        "bathrooms": 2,
+        "basePrice": 3650000,
+        "pricePerSqft": 5793,
+        "infraCharges": 120000,
+        "clubhouseCharges": 80000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-swapna-samrat",
-        "title": "Paranjape Swapna Samrat",
-        "slug": "paranjape-swapna-samrat",
-        "builderId": "b-paranjape",
-        "location": "Karve Road",
-        "city": "Pune",
-        "priceRange": "\u20b92.13 Cr - \u20b93.43 Cr",
-        "exactPrice": "\u20b92.13 Cr",
-        "pricePerSqft": 21500,
-        "configurations": [
-            "2 BHK",
-            "3 BHK"
-        ],
-        "status": "Ready to Move",
-        "type": "Residential",
-        "possessionDate": "Ready to Move",
-        "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.508,
-        "lng": 73.834,
-        "description": "Swapna Samrat is a boutique luxury residential address by Paranjape Schemes on Karve Road, Khilarewadi in Erandwane, right in the heart of Pune. Offering an elite collection of spacious 2 & 3 BHK residences, Swapna Samrat places you minutes from Deccan Gymkhana, FC Road, and Pune's heritage cultural centers.\n\nFeaturing a rooftop swimming pool, landscaped party terrace, fitness gym, and advanced security systems. Verified under MahaRERA registration P52100000035 with 100% Zero Brokerage via PROPSMART REALTY.",
-        "features": [
-            "Rooftop Swimming Pool",
-            "Terrace Party Lawn",
-            "Fitness Gymnasium",
-            "Central Erandwane Location",
-            "High-speed Elevators",
-            "Covered Car Parking",
-            "24/7 CCTV Surveillance"
-        ],
-        "amenities": [
-            "Rooftop Swimming Pool",
-            "Terrace Party Lawn",
-            "Fitness Gymnasium",
-            "Central Erandwane Location",
-            "High-speed Elevators",
-            "Covered Car Parking",
-            "24/7 CCTV Surveillance"
-        ],
-        "metaDescription": "Buy luxury 2 & 3 BHK in Paranjape Swapna Samrat, Karve Road Erandwane Pune. Starts \u20b92.13 Cr. Ready to Move. MahaRERA P52100000035. 0% Brokerage.",
-        "reraId": "P52100000035",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-swapna-2bhk",
-                "projectId": "p-paranjape-swapna-samrat",
-                "name": "2 BHK Karve Prestige",
-                "carpetArea": 780,
-                "balconyArea": 70,
-                "bathrooms": 2,
-                "basePrice": 14500000,
-                "pricePerSqft": 18589,
-                "infraCharges": 350000,
-                "clubhouseCharges": 200000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            },
-            {
-                "id": "cfg-pscl-swapna-3bhk",
-                "projectId": "p-paranjape-swapna-samrat",
-                "name": "3 BHK Karve Grande",
-                "carpetArea": 1150,
-                "balconyArea": 120,
-                "bathrooms": 3,
-                "basePrice": 21500000,
-                "pricePerSqft": 18695,
-                "infraCharges": 450000,
-                "clubhouseCharges": 250000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-swapna-samrat",
+    "title": "Paranjape Swapna Samrat",
+    "slug": "paranjape-swapna-samrat",
+    "builderId": "b-paranjape",
+    "location": "Karve Road",
+    "city": "Pune",
+    "priceRange": "\u20b92.13 Cr - \u20b93.43 Cr",
+    "exactPrice": "\u20b92.13 Cr",
+    "pricePerSqft": 21500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://keystoneliv.com/public/uploads/property/BdOHFAflcjgXwOB8Bd1Rh03LxMxYzglkJcavsSBS.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/BdOHFAflcjgXwOB8Bd1Rh03LxMxYzglkJcavsSBS.webp",
+    "lat": 18.508,
+    "lng": 73.834,
+    "description": "Swapna Samrat is a boutique luxury residential address by Paranjape Schemes on Karve Road, Khilarewadi in Erandwane, right in the heart of Pune. Offering an elite collection of spacious 2 & 3 BHK residences, Swapna Samrat places you minutes from Deccan Gymkhana, FC Road, and Pune's heritage cultural centers.\n\nFeaturing a rooftop swimming pool, landscaped party terrace, fitness gym, and advanced security systems. Verified under MahaRERA registration P52100000035 with 100% Zero Brokerage via PROPSMART REALTY.",
+    "features": [
+      "Rooftop Swimming Pool",
+      "Terrace Party Lawn",
+      "Fitness Gymnasium",
+      "Central Erandwane Location",
+      "High-speed Elevators",
+      "Covered Car Parking",
+      "24/7 CCTV Surveillance"
+    ],
+    "amenities": [
+      "Rooftop Swimming Pool",
+      "Terrace Party Lawn",
+      "Fitness Gymnasium",
+      "Central Erandwane Location",
+      "High-speed Elevators",
+      "Covered Car Parking",
+      "24/7 CCTV Surveillance"
+    ],
+    "metaDescription": "Buy luxury 2 & 3 BHK in Paranjape Swapna Samrat, Karve Road Erandwane Pune. Starts \u20b92.13 Cr. Ready to Move. MahaRERA P52100000035. 0% Brokerage.",
+    "reraId": "P52100000035",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/BdOHFAflcjgXwOB8Bd1Rh03LxMxYzglkJcavsSBS.webp",
+      "https://keystoneliv.com/public/uploads/property/8lAcBNDewOYfTjyKmGo4zq7iwXSRfAQb5i4Z406J.webp",
+      "https://keystoneliv.com/public/uploads/property/naU6Ftht3sLHPndXJ1BDOd0MBFugUyMu0B32FZyO.webp",
+      "https://keystoneliv.com/public/uploads/property/PQOSV63FDT8y9apBXRIl6aZLDwOZYNUPLn6Axz9r.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-swapna-2bhk",
+        "projectId": "p-paranjape-swapna-samrat",
+        "name": "2 BHK Karve Prestige",
+        "carpetArea": 780,
+        "balconyArea": 70,
+        "bathrooms": 2,
+        "basePrice": 14500000,
+        "pricePerSqft": 18589,
+        "infraCharges": 350000,
+        "clubhouseCharges": 200000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      },
+      {
+        "id": "cfg-pscl-swapna-3bhk",
+        "projectId": "p-paranjape-swapna-samrat",
+        "name": "3 BHK Karve Grande",
+        "carpetArea": 1150,
+        "balconyArea": 120,
+        "bathrooms": 3,
+        "basePrice": 21500000,
+        "pricePerSqft": 18695,
+        "infraCharges": 450000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-gloria-grand",
-        "title": "Paranjape Gloria Grand",
-        "slug": "paranjape-gloria-grand",
-        "builderId": "b-paranjape",
-        "location": "Bavdhan",
-        "city": "Pune",
-        "priceRange": "\u20b961.00 L - \u20b91.39 Cr",
-        "exactPrice": "\u20b961.00 L",
-        "pricePerSqft": 9800,
-        "configurations": [
-            "2 BHK",
-            "3 BHK"
-        ],
-        "status": "Ready to Move",
-        "type": "Residential",
-        "possessionDate": "Ready to Move",
-        "image": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.517,
-        "lng": 73.771,
-        "description": "Gloria Grand by Paranjape Schemes is a premier completed residential township situated in Bavdhan, Pune. Offering comfortable 2 and 3 BHK family apartments, Gloria Grand is celebrated for its lush greenery, serene environment, and excellent connectivity to Paud Road, Kothrud, and the Mumbai-Bangalore Highway.\n\nEquipped with a grand clubhouse, swimming pool, kids playground, and multi-purpose sports courts. Verified under MahaRERA registration P52100001380 with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "Clubhouse & Gym",
-            "Swimming Pool",
-            "Children's Play Area",
-            "Landscaped Gardens",
-            "Power Backup",
-            "Covered Car Parking",
-            "Prime Bavdhan Location"
-        ],
-        "amenities": [
-            "Clubhouse & Gym",
-            "Swimming Pool",
-            "Children's Play Area",
-            "Landscaped Gardens",
-            "Power Backup",
-            "Covered Car Parking",
-            "Prime Bavdhan Location"
-        ],
-        "metaDescription": "Buy 2 & 3 BHK in Paranjape Gloria Grand, Bavdhan Pune. Starts \u20b961.00 L. Ready to Move. MahaRERA P52100001380. 0% Brokerage with PROPSMART REALTY.",
-        "reraId": "P52100001380",
-        "verificationStatus": "Verified",
-        "featured": false,
-        "images": [
-            "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/QUSiXbX1yIv3u1F0efgnLHyJgKsJfu0DIDG1r7Wi.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-gloria-2bhk",
-                "projectId": "p-paranjape-gloria-grand",
-                "name": "2 BHK Grand Vista",
-                "carpetArea": 735,
-                "balconyArea": 65,
-                "bathrooms": 2,
-                "basePrice": 8200000,
-                "pricePerSqft": 11156,
-                "infraCharges": 200000,
-                "clubhouseCharges": 140000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            },
-            {
-                "id": "cfg-pscl-gloria-3bhk",
-                "projectId": "p-paranjape-gloria-grand",
-                "name": "3 BHK Grandeur",
-                "carpetArea": 1080,
-                "balconyArea": 110,
-                "bathrooms": 3,
-                "basePrice": 12500000,
-                "pricePerSqft": 11574,
-                "infraCharges": 300000,
-                "clubhouseCharges": 200000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-gloria-grand",
+    "title": "Paranjape Gloria Grand",
+    "slug": "paranjape-gloria-grand",
+    "builderId": "b-paranjape",
+    "location": "Bavdhan",
+    "city": "Pune",
+    "priceRange": "\u20b961.00 L - \u20b91.39 Cr",
+    "exactPrice": "\u20b961.00 L",
+    "pricePerSqft": 9800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://keystoneliv.com/public/uploads/property/aosfObh9Vvdv8aZgQlzOvwbck4sVAjkctSkrwgox.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/aosfObh9Vvdv8aZgQlzOvwbck4sVAjkctSkrwgox.webp",
+    "lat": 18.517,
+    "lng": 73.771,
+    "description": "Gloria Grand by Paranjape Schemes is a premier completed residential township situated in Bavdhan, Pune. Offering comfortable 2 and 3 BHK family apartments, Gloria Grand is celebrated for its lush greenery, serene environment, and excellent connectivity to Paud Road, Kothrud, and the Mumbai-Bangalore Highway.\n\nEquipped with a grand clubhouse, swimming pool, kids playground, and multi-purpose sports courts. Verified under MahaRERA registration P52100001380 with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "Clubhouse & Gym",
+      "Swimming Pool",
+      "Children's Play Area",
+      "Landscaped Gardens",
+      "Power Backup",
+      "Covered Car Parking",
+      "Prime Bavdhan Location"
+    ],
+    "amenities": [
+      "Clubhouse & Gym",
+      "Swimming Pool",
+      "Children's Play Area",
+      "Landscaped Gardens",
+      "Power Backup",
+      "Covered Car Parking",
+      "Prime Bavdhan Location"
+    ],
+    "metaDescription": "Buy 2 & 3 BHK in Paranjape Gloria Grand, Bavdhan Pune. Starts \u20b961.00 L. Ready to Move. MahaRERA P52100001380. 0% Brokerage with PROPSMART REALTY.",
+    "reraId": "P52100001380",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/aosfObh9Vvdv8aZgQlzOvwbck4sVAjkctSkrwgox.webp",
+      "https://keystoneliv.com/public/uploads/property/Vz9ORh5u4GK56Sv3npOGctyGF11WSrX1fY8kE3UC.webp",
+      "https://keystoneliv.com/public/uploads/property/qARqJM3G0vCdoeKlLfAh7OECZd5lY3HUYD7T9pmW.webp",
+      "https://keystoneliv.com/public/uploads/property/jbCsemSHSujdotJecRohojPLWmeJoue0QDRZzz4U.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QUSiXbX1yIv3u1F0efgnLHyJgKsJfu0DIDG1r7Wi.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-gloria-2bhk",
+        "projectId": "p-paranjape-gloria-grand",
+        "name": "2 BHK Grand Vista",
+        "carpetArea": 735,
+        "balconyArea": 65,
+        "bathrooms": 2,
+        "basePrice": 8200000,
+        "pricePerSqft": 11156,
+        "infraCharges": 200000,
+        "clubhouseCharges": 140000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      },
+      {
+        "id": "cfg-pscl-gloria-3bhk",
+        "projectId": "p-paranjape-gloria-grand",
+        "name": "3 BHK Grandeur",
+        "carpetArea": 1080,
+        "balconyArea": 110,
+        "bathrooms": 3,
+        "basePrice": 12500000,
+        "pricePerSqft": 11574,
+        "infraCharges": 300000,
+        "clubhouseCharges": 200000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-athena-bandra",
-        "title": "Paranjape Athena",
-        "slug": "paranjape-athena-bandra",
-        "builderId": "b-paranjape",
-        "location": "Bandra East",
-        "city": "Mumbai",
-        "priceRange": "\u20b91.68 Cr - \u20b94.69 Cr",
-        "exactPrice": "\u20b91.68 Cr",
-        "pricePerSqft": 42500,
-        "configurations": [
-            "1 BHK",
-            "2 BHK",
-            "3 BHK",
-            "4 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "December 2027",
-        "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1600&q=85",
-        "lat": 19.0596,
-        "lng": 72.8522,
-        "description": "Paranjape Athena is a landmark luxury residential development in Bandra East, Mumbai. Situated near Teacher's Colony and the Western Express Highway, Athena places you moments from the Bandra-Kurla Complex (BKC) and the Bandra-Worli Sea Link.\n\nFeaturing boutique 1, 2, 3, and 4 BHK residences with rooftop infinity pool, sky deck, state-of-the-art gymnasium, and automated puzzle parking. Verified MahaRERA P51800023608 with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "Rooftop Infinity Pool",
-            "BKC Proximity (3 Mins)",
-            "Sky Deck Lounge",
-            "Designer Fitness Gym",
-            "Automated Puzzle Parking",
-            "Acoustic Glass Windows",
-            "24/7 Concierge"
-        ],
-        "amenities": [
-            "Rooftop Infinity Pool",
-            "BKC Proximity (3 Mins)",
-            "Sky Deck Lounge",
-            "Designer Fitness Gym",
-            "Automated Puzzle Parking",
-            "Acoustic Glass Windows",
-            "24/7 Concierge"
-        ],
-        "metaDescription": "Buy 1, 2, 3, 4 BHK in Paranjape Athena, Bandra East Mumbai near BKC. Starts \u20b91.68 Cr. MahaRERA P51800023608. 100% Zero Brokerage with PROPSMART REALTY.",
-        "reraId": "P51800023608",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-            "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-athena-1bhk",
-                "projectId": "p-paranjape-athena-bandra",
-                "name": "1 BHK BKC Executive",
-                "carpetArea": 460,
-                "balconyArea": 40,
-                "bathrooms": 1,
-                "basePrice": 12500000,
-                "pricePerSqft": 27173,
-                "infraCharges": 300000,
-                "clubhouseCharges": 200000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
-            },
-            {
-                "id": "cfg-pscl-athena-2bhk",
-                "projectId": "p-paranjape-athena-bandra",
-                "name": "2 BHK Bandra Elite",
-                "carpetArea": 750,
-                "balconyArea": 70,
-                "bathrooms": 2,
-                "basePrice": 21000000,
-                "pricePerSqft": 28000,
-                "infraCharges": 450000,
-                "clubhouseCharges": 250000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            },
-            {
-                "id": "cfg-pscl-athena-3bhk",
-                "projectId": "p-paranjape-athena-bandra",
-                "name": "3 BHK Sea-Link View",
-                "carpetArea": 1150,
-                "balconyArea": 120,
-                "bathrooms": 3,
-                "basePrice": 32500000,
-                "pricePerSqft": 28260,
-                "infraCharges": 600000,
-                "clubhouseCharges": 350000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            },
-            {
-                "id": "cfg-pscl-athena-4bhk",
-                "projectId": "p-paranjape-athena-bandra",
-                "name": "4 BHK Presidential Sky Suite",
-                "carpetArea": 1680,
-                "balconyArea": 200,
-                "bathrooms": 4,
-                "basePrice": 49000000,
-                "pricePerSqft": 29166,
-                "infraCharges": 800000,
-                "clubhouseCharges": 500000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-athena-bandra",
+    "title": "Paranjape Athena",
+    "slug": "paranjape-athena-bandra",
+    "builderId": "b-paranjape",
+    "location": "Bandra East",
+    "city": "Mumbai",
+    "priceRange": "\u20b91.68 Cr - \u20b94.69 Cr",
+    "exactPrice": "\u20b91.68 Cr",
+    "pricePerSqft": 42500,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://www.pscl.in/wp-content/uploads/2025/10/envato-labs-image-edit-1-scaled.webp",
+    "heroImage": "https://www.pscl.in/wp-content/uploads/2025/10/envato-labs-image-edit-1-scaled.webp",
+    "lat": 19.0596,
+    "lng": 72.8522,
+    "description": "Paranjape Athena is a landmark luxury residential development in Bandra East, Mumbai. Situated near Teacher's Colony and the Western Express Highway, Athena places you moments from the Bandra-Kurla Complex (BKC) and the Bandra-Worli Sea Link.\n\nFeaturing boutique 1, 2, 3, and 4 BHK residences with rooftop infinity pool, sky deck, state-of-the-art gymnasium, and automated puzzle parking. Verified MahaRERA P51800023608 with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "Rooftop Infinity Pool",
+      "BKC Proximity (3 Mins)",
+      "Sky Deck Lounge",
+      "Designer Fitness Gym",
+      "Automated Puzzle Parking",
+      "Acoustic Glass Windows",
+      "24/7 Concierge"
+    ],
+    "amenities": [
+      "Rooftop Infinity Pool",
+      "BKC Proximity (3 Mins)",
+      "Sky Deck Lounge",
+      "Designer Fitness Gym",
+      "Automated Puzzle Parking",
+      "Acoustic Glass Windows",
+      "24/7 Concierge"
+    ],
+    "metaDescription": "Buy 1, 2, 3, 4 BHK in Paranjape Athena, Bandra East Mumbai near BKC. Starts \u20b91.68 Cr. MahaRERA P51800023608. 100% Zero Brokerage with PROPSMART REALTY.",
+    "reraId": "P51800023608",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://www.pscl.in/wp-content/uploads/2025/10/envato-labs-image-edit-1-scaled.webp",
+      "https://keystoneliv.com/public/uploads/property/pyfCcZQGbXLGoumWmHpNJZu7lOdvBE2m8hqD7GBs.webp",
+      "https://keystoneliv.com/public/uploads/property/azNbmpmBCobhupU4s5tfh6nAZzKEPgYRISRlQhNa.webp",
+      "https://keystoneliv.com/public/uploads/property/f9GMlttRsqc66dOt6VQurFR4i48juAfzCiUaFmOs.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-athena-1bhk",
+        "projectId": "p-paranjape-athena-bandra",
+        "name": "1 BHK BKC Executive",
+        "carpetArea": 460,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 12500000,
+        "pricePerSqft": 27173,
+        "infraCharges": 300000,
+        "clubhouseCharges": 200000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
+      },
+      {
+        "id": "cfg-pscl-athena-2bhk",
+        "projectId": "p-paranjape-athena-bandra",
+        "name": "2 BHK Bandra Elite",
+        "carpetArea": 750,
+        "balconyArea": 70,
+        "bathrooms": 2,
+        "basePrice": 21000000,
+        "pricePerSqft": 28000,
+        "infraCharges": 450000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      },
+      {
+        "id": "cfg-pscl-athena-3bhk",
+        "projectId": "p-paranjape-athena-bandra",
+        "name": "3 BHK Sea-Link View",
+        "carpetArea": 1150,
+        "balconyArea": 120,
+        "bathrooms": 3,
+        "basePrice": 32500000,
+        "pricePerSqft": 28260,
+        "infraCharges": 600000,
+        "clubhouseCharges": 350000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      },
+      {
+        "id": "cfg-pscl-athena-4bhk",
+        "projectId": "p-paranjape-athena-bandra",
+        "name": "4 BHK Presidential Sky Suite",
+        "carpetArea": 1680,
+        "balconyArea": 200,
+        "bathrooms": 4,
+        "basePrice": 49000000,
+        "pricePerSqft": 29166,
+        "infraCharges": 800000,
+        "clubhouseCharges": 500000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-aspire-andheri",
-        "title": "Paranjape Aspire",
-        "slug": "paranjape-aspire-andheri",
-        "builderId": "b-paranjape",
-        "location": "Andheri West",
-        "city": "Mumbai",
-        "priceRange": "\u20b91.68 Cr - \u20b95.19 Cr",
-        "exactPrice": "\u20b92.20 Cr",
-        "pricePerSqft": 34800,
-        "configurations": [
-            "1 BHK",
-            "2 BHK",
-            "3 BHK",
-            "4 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "August 2027",
-        "image": "https://images.unsplash.com/photo-1515263487990-61b07816b324?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1515263487990-61b07816b324?auto=format&fit=crop&w=1600&q=85",
-        "lat": 19.129,
-        "lng": 72.827,
-        "description": "Paranjape Aspire is a 22-storey luxury high-rise tower located in SV Patel Nagar, 4 Bungalows, Andheri West, Mumbai. Offering meticulously designed 1, 2, 3, and 4 BHK residences with optimal space utilization, cross ventilation, and imported fittings.\n\nEquipped with a rooftop recreation deck, fitness center, automated tower parking, and 24-hour smart surveillance. Located 5 minutes from DN Nagar Metro Station and Lokhandwala market. Verified under MahaRERA registration P51800045731 with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "22-Storey High-Rise Tower",
-            "Rooftop Recreation Deck",
-            "Fitness Center",
-            "Automated Tower Parking",
-            "Metro Station Proximity (5 Mins)",
-            "Grand Entrance Lobby",
-            "CCTV Security"
-        ],
-        "amenities": [
-            "22-Storey High-Rise Tower",
-            "Rooftop Recreation Deck",
-            "Fitness Center",
-            "Automated Tower Parking",
-            "Metro Station Proximity (5 Mins)",
-            "Grand Entrance Lobby",
-            "CCTV Security"
-        ],
-        "metaDescription": "Buy 1, 2, 3 BHK in Paranjape Aspire, Andheri West Mumbai. Starts \u20b91.68 Cr. MahaRERA P51800045731. 100% Zero Brokerage with PROPSMART REALTY.",
-        "reraId": "P51800045731",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1515263487990-61b07816b324?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/LRk6ujgc4OZvne3hIg9Oy1w5Ybq2LhGzE9FyFTTw.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-            "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-aspire-1bhk",
-                "projectId": "p-paranjape-aspire-andheri",
-                "name": "1 BHK Andheri Smart",
-                "carpetArea": 445,
-                "balconyArea": 40,
-                "bathrooms": 1,
-                "basePrice": 11500000,
-                "pricePerSqft": 25842,
-                "infraCharges": 280000,
-                "clubhouseCharges": 180000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
-            },
-            {
-                "id": "cfg-pscl-aspire-2bhk",
-                "projectId": "p-paranjape-aspire-andheri",
-                "name": "2 BHK Lokhandwala Luxe",
-                "carpetArea": 725,
-                "balconyArea": 65,
-                "bathrooms": 2,
-                "basePrice": 18800000,
-                "pricePerSqft": 25931,
-                "infraCharges": 400000,
-                "clubhouseCharges": 220000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            },
-            {
-                "id": "cfg-pscl-aspire-3bhk",
-                "projectId": "p-paranjape-aspire-andheri",
-                "name": "3 BHK Horizon Deck",
-                "carpetArea": 1090,
-                "balconyArea": 110,
-                "bathrooms": 3,
-                "basePrice": 28500000,
-                "pricePerSqft": 26146,
-                "infraCharges": 550000,
-                "clubhouseCharges": 300000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            },
-            {
-                "id": "cfg-pscl-aspire-4bhk",
-                "projectId": "p-paranjape-aspire-andheri",
-                "name": "4 BHK Presidential Penthouse",
-                "carpetArea": 1620,
-                "balconyArea": 180,
-                "bathrooms": 4,
-                "basePrice": 42500000,
-                "pricePerSqft": 26234,
-                "infraCharges": 750000,
-                "clubhouseCharges": 450000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-aspire-andheri",
+    "title": "Paranjape Aspire",
+    "slug": "paranjape-aspire-andheri",
+    "builderId": "b-paranjape",
+    "location": "Andheri West",
+    "city": "Mumbai",
+    "priceRange": "\u20b91.68 Cr - \u20b95.19 Cr",
+    "exactPrice": "\u20b92.20 Cr",
+    "pricePerSqft": 34800,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "August 2027",
+    "image": "https://www.pscl.in/wp-content/uploads/2025/10/Aspire-scaled.webp",
+    "heroImage": "https://www.pscl.in/wp-content/uploads/2025/10/Aspire-scaled.webp",
+    "lat": 19.129,
+    "lng": 72.827,
+    "description": "Paranjape Aspire is a 22-storey luxury high-rise tower located in SV Patel Nagar, 4 Bungalows, Andheri West, Mumbai. Offering meticulously designed 1, 2, 3, and 4 BHK residences with optimal space utilization, cross ventilation, and imported fittings.\n\nEquipped with a rooftop recreation deck, fitness center, automated tower parking, and 24-hour smart surveillance. Located 5 minutes from DN Nagar Metro Station and Lokhandwala market. Verified under MahaRERA registration P51800045731 with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "22-Storey High-Rise Tower",
+      "Rooftop Recreation Deck",
+      "Fitness Center",
+      "Automated Tower Parking",
+      "Metro Station Proximity (5 Mins)",
+      "Grand Entrance Lobby",
+      "CCTV Security"
+    ],
+    "amenities": [
+      "22-Storey High-Rise Tower",
+      "Rooftop Recreation Deck",
+      "Fitness Center",
+      "Automated Tower Parking",
+      "Metro Station Proximity (5 Mins)",
+      "Grand Entrance Lobby",
+      "CCTV Security"
+    ],
+    "metaDescription": "Buy 1, 2, 3 BHK in Paranjape Aspire, Andheri West Mumbai. Starts \u20b91.68 Cr. MahaRERA P51800045731. 100% Zero Brokerage with PROPSMART REALTY.",
+    "reraId": "P51800045731",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://www.pscl.in/wp-content/uploads/2025/10/Aspire-scaled.webp",
+      "https://keystoneliv.com/public/uploads/property/f9GMlttRsqc66dOt6VQurFR4i48juAfzCiUaFmOs.webp",
+      "https://keystoneliv.com/public/uploads/property/nWQwPeaSVaBSmMahbWW0cXS3uJVKN70QzqslX4fM.webp",
+      "https://keystoneliv.com/public/uploads/property/aWnxy62MDO1QX60oMsN6OrORW8XJAf2mAMh9MAgQ.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/LRk6ujgc4OZvne3hIg9Oy1w5Ybq2LhGzE9FyFTTw.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-aspire-1bhk",
+        "projectId": "p-paranjape-aspire-andheri",
+        "name": "1 BHK Andheri Smart",
+        "carpetArea": 445,
+        "balconyArea": 40,
+        "bathrooms": 1,
+        "basePrice": 11500000,
+        "pricePerSqft": 25842,
+        "infraCharges": 280000,
+        "clubhouseCharges": 180000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
+      },
+      {
+        "id": "cfg-pscl-aspire-2bhk",
+        "projectId": "p-paranjape-aspire-andheri",
+        "name": "2 BHK Lokhandwala Luxe",
+        "carpetArea": 725,
+        "balconyArea": 65,
+        "bathrooms": 2,
+        "basePrice": 18800000,
+        "pricePerSqft": 25931,
+        "infraCharges": 400000,
+        "clubhouseCharges": 220000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      },
+      {
+        "id": "cfg-pscl-aspire-3bhk",
+        "projectId": "p-paranjape-aspire-andheri",
+        "name": "3 BHK Horizon Deck",
+        "carpetArea": 1090,
+        "balconyArea": 110,
+        "bathrooms": 3,
+        "basePrice": 28500000,
+        "pricePerSqft": 26146,
+        "infraCharges": 550000,
+        "clubhouseCharges": 300000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      },
+      {
+        "id": "cfg-pscl-aspire-4bhk",
+        "projectId": "p-paranjape-aspire-andheri",
+        "name": "4 BHK Presidential Penthouse",
+        "carpetArea": 1620,
+        "balconyArea": 180,
+        "bathrooms": 4,
+        "basePrice": 42500000,
+        "pricePerSqft": 26234,
+        "infraCharges": 750000,
+        "clubhouseCharges": 450000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-opulus-thane",
-        "title": "Paranjape Opulus",
-        "slug": "paranjape-opulus-thane",
-        "builderId": "b-paranjape",
-        "location": "Thane West",
-        "city": "Mumbai",
-        "priceRange": "\u20b91.04 Cr - \u20b92.26 Cr",
-        "exactPrice": "\u20b91.04 Cr",
-        "pricePerSqft": 23400,
-        "configurations": [
-            "2 BHK",
-            "3 BHK",
-            "4 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "September 2028",
-        "image": "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?auto=format&fit=crop&w=1600&q=85",
-        "lat": 19.227,
-        "lng": 72.973,
-        "description": "Paranjape Opulus is a grand 4.8-acre high-rise luxury residential community in Manpada near Hiranandani Meadows, off Pokhran Road No. 2, Thane West. Rising against the scenic Yeoor Hills backdrop, Opulus features 2, 3, and 4 BHK lifestyle apartments with panoramic nature views.\n\nBoasting a half-Olympic size swimming pool, grand clubhouse, co-working lounges, rooftop party lawn, badminton and squash courts, and multi-tier parking. Verified under MahaRERA registration P51700022773 with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "Half-Olympic Swimming Pool",
-            "Yeoor Hills Views",
-            "Grand Clubhouse & Gym",
-            "Co-Working Hub with WiFi",
-            "Badminton & Squash Courts",
-            "Viviana Mall Proximity",
-            "Rooftop Party Deck"
-        ],
-        "amenities": [
-            "Half-Olympic Swimming Pool",
-            "Yeoor Hills Views",
-            "Grand Clubhouse & Gym",
-            "Co-Working Hub with WiFi",
-            "Badminton & Squash Courts",
-            "Viviana Mall Proximity",
-            "Rooftop Party Deck"
-        ],
-        "metaDescription": "Buy 2, 3, 4 BHK in Paranjape Opulus, Manpada Pokhran Road Thane West. Starts \u20b91.04 Cr. MahaRERA P51700022773. 100% Zero Brokerage.",
-        "reraId": "P51700022773",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-            "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-opulus-2bhk",
-                "projectId": "p-paranjape-opulus-thane",
-                "name": "2 BHK Yeoor View",
-                "carpetArea": 715,
-                "balconyArea": 65,
-                "bathrooms": 2,
-                "basePrice": 12800000,
-                "pricePerSqft": 17902,
-                "infraCharges": 300000,
-                "clubhouseCharges": 180000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            },
-            {
-                "id": "cfg-pscl-opulus-3bhk",
-                "projectId": "p-paranjape-opulus-thane",
-                "name": "3 BHK Lake Vista",
-                "carpetArea": 1075,
-                "balconyArea": 110,
-                "bathrooms": 3,
-                "basePrice": 19500000,
-                "pricePerSqft": 18139,
-                "infraCharges": 420000,
-                "clubhouseCharges": 250000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            },
-            {
-                "id": "cfg-pscl-opulus-4bhk",
-                "projectId": "p-paranjape-opulus-thane",
-                "name": "4 BHK Imperial High",
-                "carpetArea": 1580,
-                "balconyArea": 180,
-                "bathrooms": 4,
-                "basePrice": 28800000,
-                "pricePerSqft": 18227,
-                "infraCharges": 580000,
-                "clubhouseCharges": 350000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-opulus-thane",
+    "title": "Paranjape Opulus",
+    "slug": "paranjape-opulus-thane",
+    "builderId": "b-paranjape",
+    "location": "Thane West",
+    "city": "Mumbai",
+    "priceRange": "\u20b91.04 Cr - \u20b92.26 Cr",
+    "exactPrice": "\u20b91.04 Cr",
+    "pricePerSqft": 23400,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "September 2028",
+    "image": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+    "lat": 19.227,
+    "lng": 72.973,
+    "description": "Paranjape Opulus is a grand 4.8-acre high-rise luxury residential community in Manpada near Hiranandani Meadows, off Pokhran Road No. 2, Thane West. Rising against the scenic Yeoor Hills backdrop, Opulus features 2, 3, and 4 BHK lifestyle apartments with panoramic nature views.\n\nBoasting a half-Olympic size swimming pool, grand clubhouse, co-working lounges, rooftop party lawn, badminton and squash courts, and multi-tier parking. Verified under MahaRERA registration P51700022773 with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "Half-Olympic Swimming Pool",
+      "Yeoor Hills Views",
+      "Grand Clubhouse & Gym",
+      "Co-Working Hub with WiFi",
+      "Badminton & Squash Courts",
+      "Viviana Mall Proximity",
+      "Rooftop Party Deck"
+    ],
+    "amenities": [
+      "Half-Olympic Swimming Pool",
+      "Yeoor Hills Views",
+      "Grand Clubhouse & Gym",
+      "Co-Working Hub with WiFi",
+      "Badminton & Squash Courts",
+      "Viviana Mall Proximity",
+      "Rooftop Party Deck"
+    ],
+    "metaDescription": "Buy 2, 3, 4 BHK in Paranjape Opulus, Manpada Pokhran Road Thane West. Starts \u20b91.04 Cr. MahaRERA P51700022773. 100% Zero Brokerage.",
+    "reraId": "P51700022773",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+      "https://keystoneliv.com/public/uploads/property/aWnxy62MDO1QX60oMsN6OrORW8XJAf2mAMh9MAgQ.webp",
+      "https://keystoneliv.com/public/uploads/property/iqVoBiHDpdvdvsAeUBS5ADhwZqAsUDAkhxfT9DhM.webp",
+      "https://keystoneliv.com/public/uploads/property/ByYt4cju0mAa243xiYGkSFBnG4OPoJfO0NqnVL4K.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-opulus-2bhk",
+        "projectId": "p-paranjape-opulus-thane",
+        "name": "2 BHK Yeoor View",
+        "carpetArea": 715,
+        "balconyArea": 65,
+        "bathrooms": 2,
+        "basePrice": 12800000,
+        "pricePerSqft": 17902,
+        "infraCharges": 300000,
+        "clubhouseCharges": 180000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      },
+      {
+        "id": "cfg-pscl-opulus-3bhk",
+        "projectId": "p-paranjape-opulus-thane",
+        "name": "3 BHK Lake Vista",
+        "carpetArea": 1075,
+        "balconyArea": 110,
+        "bathrooms": 3,
+        "basePrice": 19500000,
+        "pricePerSqft": 18139,
+        "infraCharges": 420000,
+        "clubhouseCharges": 250000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      },
+      {
+        "id": "cfg-pscl-opulus-4bhk",
+        "projectId": "p-paranjape-opulus-thane",
+        "name": "4 BHK Imperial High",
+        "carpetArea": 1580,
+        "balconyArea": 180,
+        "bathrooms": 4,
+        "basePrice": 28800000,
+        "pricePerSqft": 18227,
+        "infraCharges": 580000,
+        "clubhouseCharges": 350000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-shrivega-coastal",
-        "title": "Paranjape Shrivega",
-        "slug": "paranjape-shrivega-coastal",
-        "builderId": "b-paranjape",
-        "location": "Shrivardhan-Diveagar",
-        "city": "Alibaug",
-        "priceRange": "\u20b945.00 L - \u20b995.00 L",
-        "exactPrice": "\u20b945.00 L",
-        "pricePerSqft": 4200,
-        "configurations": [
-            "1 BHK",
-            "2 BHK"
-        ],
-        "status": "Under Construction",
-        "type": "Residential",
-        "possessionDate": "December 2026",
-        "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.063,
-        "lng": 73.024,
-        "description": "Paranjape Shrivega is a 39-acre gated seaside holiday villa and residential plot township situated along the picturesque Shrivardhan-Diveagar coastal highway at Shekhadi, Raigad, Maharashtra. Overlooking the azure Arabian Sea, Shrivega offers coastal cottages, second homes, and fully developed villa plots.\n\nAmenities include a cliffside infinity swimming pool, seaside cafe, barbecue bay, organic kitchen garden, and yoga retreat pavilions. Just 10 minutes from Diveagar and Harihareshwar beaches. Verified MahaRERA P52000050339 with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "39-Acre Gated Seaside Estate",
-            "Arabian Sea Views",
-            "Cliffside Infinity Pool",
-            "Seaside Cafe & BBQ Bay",
-            "Organic Kitchen Garden",
-            "Yoga & Wellness Pavilions",
-            "24/7 Gated Security"
-        ],
-        "amenities": [
-            "39-Acre Gated Seaside Estate",
-            "Arabian Sea Views",
-            "Cliffside Infinity Pool",
-            "Seaside Cafe & BBQ Bay",
-            "Organic Kitchen Garden",
-            "Yoga & Wellness Pavilions",
-            "24/7 Gated Security"
-        ],
-        "metaDescription": "Sea-facing villas & plots in Paranjape Shrivega, Shrivardhan Diveagar Coast. Starts \u20b945.00 L. MahaRERA P52000050339. 0% Brokerage.",
-        "reraId": "P52000050339",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-shrivega-1bhk",
-                "projectId": "p-paranjape-shrivega-coastal",
-                "name": "1 BHK Coastal Cottage",
-                "carpetArea": 475,
-                "balconyArea": 45,
-                "bathrooms": 1,
-                "basePrice": 3200000,
-                "pricePerSqft": 6736,
-                "infraCharges": 100000,
-                "clubhouseCharges": 60000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
-            },
-            {
-                "id": "cfg-pscl-shrivega-2bhk",
-                "projectId": "p-paranjape-shrivega-coastal",
-                "name": "2 BHK Beach Villa",
-                "carpetArea": 760,
-                "balconyArea": 80,
-                "bathrooms": 2,
-                "basePrice": 5100000,
-                "pricePerSqft": 6710,
-                "infraCharges": 150000,
-                "clubhouseCharges": 90000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-shrivega-coastal",
+    "title": "Paranjape Shrivega",
+    "slug": "paranjape-shrivega-coastal",
+    "builderId": "b-paranjape",
+    "location": "Shrivardhan-Diveagar",
+    "city": "Alibaug",
+    "priceRange": "\u20b945.00 L - \u20b995.00 L",
+    "exactPrice": "\u20b945.00 L",
+    "pricePerSqft": 4200,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://www.pscl.in/wp-content/uploads/2026/06/A-Weekend-at-Shrivega-What-Life-Actually-Looks-Like-in-a-Konkan-Vacation-Villa-2048x1115.png",
+    "heroImage": "https://www.pscl.in/wp-content/uploads/2026/06/A-Weekend-at-Shrivega-What-Life-Actually-Looks-Like-in-a-Konkan-Vacation-Villa-2048x1115.png",
+    "lat": 18.063,
+    "lng": 73.024,
+    "description": "Paranjape Shrivega is a 39-acre gated seaside holiday villa and residential plot township situated along the picturesque Shrivardhan-Diveagar coastal highway at Shekhadi, Raigad, Maharashtra. Overlooking the azure Arabian Sea, Shrivega offers coastal cottages, second homes, and fully developed villa plots.\n\nAmenities include a cliffside infinity swimming pool, seaside cafe, barbecue bay, organic kitchen garden, and yoga retreat pavilions. Just 10 minutes from Diveagar and Harihareshwar beaches. Verified MahaRERA P52000050339 with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "39-Acre Gated Seaside Estate",
+      "Arabian Sea Views",
+      "Cliffside Infinity Pool",
+      "Seaside Cafe & BBQ Bay",
+      "Organic Kitchen Garden",
+      "Yoga & Wellness Pavilions",
+      "24/7 Gated Security"
+    ],
+    "amenities": [
+      "39-Acre Gated Seaside Estate",
+      "Arabian Sea Views",
+      "Cliffside Infinity Pool",
+      "Seaside Cafe & BBQ Bay",
+      "Organic Kitchen Garden",
+      "Yoga & Wellness Pavilions",
+      "24/7 Gated Security"
+    ],
+    "metaDescription": "Sea-facing villas & plots in Paranjape Shrivega, Shrivardhan Diveagar Coast. Starts \u20b945.00 L. MahaRERA P52000050339. 0% Brokerage.",
+    "reraId": "P52000050339",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://www.pscl.in/wp-content/uploads/2026/06/A-Weekend-at-Shrivega-What-Life-Actually-Looks-Like-in-a-Konkan-Vacation-Villa-2048x1115.png",
+      "https://keystoneliv.com/public/uploads/property/ByYt4cju0mAa243xiYGkSFBnG4OPoJfO0NqnVL4K.webp",
+      "https://keystoneliv.com/public/uploads/property/J9Ip37z2Wzgx196NQyLrRvd22LBOy1PXHkFuPfuN.webp",
+      "https://keystoneliv.com/public/uploads/property/DqZiV2LxEwtgObiiMdb3ecrNCjeh3UtIWNZLlTtx.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-shrivega-1bhk",
+        "projectId": "p-paranjape-shrivega-coastal",
+        "name": "1 BHK Coastal Cottage",
+        "carpetArea": 475,
+        "balconyArea": 45,
+        "bathrooms": 1,
+        "basePrice": 3200000,
+        "pricePerSqft": 6736,
+        "infraCharges": 100000,
+        "clubhouseCharges": 60000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
+      },
+      {
+        "id": "cfg-pscl-shrivega-2bhk",
+        "projectId": "p-paranjape-shrivega-coastal",
+        "name": "2 BHK Beach Villa",
+        "carpetArea": 760,
+        "balconyArea": 80,
+        "bathrooms": 2,
+        "basePrice": 5100000,
+        "pricePerSqft": 6710,
+        "infraCharges": 150000,
+        "clubhouseCharges": 90000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-yuthika-baner",
-        "title": "Paranjape Yuthika",
-        "slug": "paranjape-yuthika-baner",
-        "builderId": "b-paranjape",
-        "location": "Baner",
-        "city": "Pune",
-        "priceRange": "\u20b997.00 L - \u20b91.94 Cr",
-        "exactPrice": "\u20b997.00 L",
-        "pricePerSqft": 11200,
-        "configurations": [
-            "2 BHK",
-            "3 BHK"
-        ],
-        "status": "Ready to Move",
-        "type": "Residential",
-        "possessionDate": "Ready to Move",
-        "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.558,
-        "lng": 73.782,
-        "description": "Paranjape Yuthika is a ready-to-move-in residential landmark in Veerbhadra Nagar, Baner, Pune. Built across extensive lush grounds, Yuthika offers 2 and 3 BHK family residences with dedicated club facilities, swimming pool, tennis court, and children's activity zones.\n\nOffering immediate possession in prime Baner with walking proximity to Baner High Street and direct highway access. Verified under MahaRERA registration with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "Ready to Move",
-            "Expansive Swimming Pool",
-            "Tennis & Basketball Courts",
-            "Modern Clubhouse",
-            "Landscaped Central Park",
-            "Children's Play Area",
-            "Covered Car Parking"
-        ],
-        "amenities": [
-            "Ready to Move",
-            "Expansive Swimming Pool",
-            "Tennis & Basketball Courts",
-            "Modern Clubhouse",
-            "Landscaped Central Park",
-            "Children's Play Area",
-            "Covered Car Parking"
-        ],
-        "metaDescription": "Buy 2 & 3 BHK in Paranjape Yuthika, Baner Pune. Ready to Move homes from \u20b997.00 L. 100% Zero Brokerage with PROPSMART REALTY.",
-        "reraId": "P52100000035",
-        "verificationStatus": "Verified",
-        "featured": false,
-        "images": [
-            "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-sierra-baner-sus-pune/Sierra_Master_Plan_6b71829c3a.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-            "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-yuthika-2bhk",
-                "projectId": "p-paranjape-yuthika-baner",
-                "name": "2 BHK Baner Prime",
-                "carpetArea": 810,
-                "balconyArea": 70,
-                "bathrooms": 2,
-                "basePrice": 9800000,
-                "pricePerSqft": 12098,
-                "infraCharges": 250000,
-                "clubhouseCharges": 150000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            },
-            {
-                "id": "cfg-pscl-yuthika-3bhk",
-                "projectId": "p-paranjape-yuthika-baner",
-                "name": "3 BHK Baner Grande",
-                "carpetArea": 1190,
-                "balconyArea": 120,
-                "bathrooms": 3,
-                "basePrice": 14500000,
-                "pricePerSqft": 12184,
-                "infraCharges": 350000,
-                "clubhouseCharges": 200000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            },
-            {
-                "id": "cfg-pscl-yuthika-4bhk",
-                "projectId": "p-paranjape-yuthika-baner",
-                "name": "4 BHK Royal Garden",
-                "carpetArea": 1720,
-                "balconyArea": 190,
-                "bathrooms": 4,
-                "basePrice": 21500000,
-                "pricePerSqft": 12500,
-                "infraCharges": 480000,
-                "clubhouseCharges": 280000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
-            }
-        ]
-    },
+    "id": "p-paranjape-yuthika-baner",
+    "title": "Paranjape Yuthika",
+    "slug": "paranjape-yuthika-baner",
+    "builderId": "b-paranjape",
+    "location": "Baner",
+    "city": "Pune",
+    "priceRange": "\u20b997.00 L - \u20b91.94 Cr",
+    "exactPrice": "\u20b997.00 L",
+    "pricePerSqft": 11200,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+    "lat": 18.558,
+    "lng": 73.782,
+    "description": "Paranjape Yuthika is a ready-to-move-in residential landmark in Veerbhadra Nagar, Baner, Pune. Built across extensive lush grounds, Yuthika offers 2 and 3 BHK family residences with dedicated club facilities, swimming pool, tennis court, and children's activity zones.\n\nOffering immediate possession in prime Baner with walking proximity to Baner High Street and direct highway access. Verified under MahaRERA registration with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "Ready to Move",
+      "Expansive Swimming Pool",
+      "Tennis & Basketball Courts",
+      "Modern Clubhouse",
+      "Landscaped Central Park",
+      "Children's Play Area",
+      "Covered Car Parking"
+    ],
+    "amenities": [
+      "Ready to Move",
+      "Expansive Swimming Pool",
+      "Tennis & Basketball Courts",
+      "Modern Clubhouse",
+      "Landscaped Central Park",
+      "Children's Play Area",
+      "Covered Car Parking"
+    ],
+    "metaDescription": "Buy 2 & 3 BHK in Paranjape Yuthika, Baner Pune. Ready to Move homes from \u20b997.00 L. 100% Zero Brokerage with PROPSMART REALTY.",
+    "reraId": "P52100000035",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+      "https://keystoneliv.com/public/uploads/property/DqZiV2LxEwtgObiiMdb3ecrNCjeh3UtIWNZLlTtx.webp",
+      "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp",
+      "https://keystoneliv.com/public/uploads/property/ATBSWRDRKSRmbyRoiopB8HwrRQIgzAkuoILwvdpl.webp"
+    ],
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-sierra-baner-sus-pune/Sierra_Master_Plan_6b71829c3a.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-yuthika-2bhk",
+        "projectId": "p-paranjape-yuthika-baner",
+        "name": "2 BHK Baner Prime",
+        "carpetArea": 810,
+        "balconyArea": 70,
+        "bathrooms": 2,
+        "basePrice": 9800000,
+        "pricePerSqft": 12098,
+        "infraCharges": 250000,
+        "clubhouseCharges": 150000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      },
+      {
+        "id": "cfg-pscl-yuthika-3bhk",
+        "projectId": "p-paranjape-yuthika-baner",
+        "name": "3 BHK Baner Grande",
+        "carpetArea": 1190,
+        "balconyArea": 120,
+        "bathrooms": 3,
+        "basePrice": 14500000,
+        "pricePerSqft": 12184,
+        "infraCharges": 350000,
+        "clubhouseCharges": 200000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      },
+      {
+        "id": "cfg-pscl-yuthika-4bhk",
+        "projectId": "p-paranjape-yuthika-baner",
+        "name": "4 BHK Royal Garden",
+        "carpetArea": 1720,
+        "balconyArea": 190,
+        "bathrooms": 4,
+        "basePrice": 21500000,
+        "pricePerSqft": 12500,
+        "infraCharges": 480000,
+        "clubhouseCharges": 280000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+      }
+    ]
+  },
   {
-        "id": "p-paranjape-blue-ridge-golf-island",
-        "title": "Paranjape Blue Ridge - Golf Island",
-        "slug": "paranjape-blue-ridge-golf-island",
-        "builderId": "b-paranjape",
-        "location": "Hinjewadi",
-        "city": "Pune",
-        "priceRange": "\u20b91.25 Cr - \u20b92.10 Cr",
-        "exactPrice": "\u20b91.25 Cr",
-        "pricePerSqft": 12200,
-        "configurations": [
-            "2 BHK",
-            "3 BHK"
-        ],
-        "status": "Ready to Move",
-        "type": "Residential",
-        "possessionDate": "Ready to Move",
-        "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-        "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1600&q=85",
-        "lat": 18.579,
-        "lng": 73.738,
-        "description": "Golf Island is an exclusive enclave within the 138-acre Paranjape Blue Ridge Township in Hinjewadi, Pune. Overlooking the pristine greens of the 9-hole executive golf course and river waters, Golf Island offers ready-to-move 2 & 3 BHK luxury golf residences.\n\nResidents enjoy full access to township amenities including the boat club, international school, SEZ towers, and health centers. Verified under MahaRERA registration with 100% Zero Brokerage through PROPSMART REALTY.",
-        "features": [
-            "Direct Golf Course Views",
-            "Riverfront Jogging Track",
-            "Access to Blue Ridge Marina",
-            "Grand Sports Complex",
-            "Ready to Move In",
-            "Multi-tier 24/7 Security"
-        ],
-        "amenities": [
-            "Direct Golf Course Views",
-            "Riverfront Jogging Track",
-            "Access to Blue Ridge Marina",
-            "Grand Sports Complex",
-            "Ready to Move In",
-            "Multi-tier 24/7 Security"
-        ],
-        "metaDescription": "Buy 2 & 3 BHK in Paranjape Blue Ridge Golf Island, Hinjewadi Pune. Ready to Move. Starts \u20b91.25 Cr. 100% Zero Brokerage.",
-        "reraId": "P52100000055",
-        "verificationStatus": "Verified",
-        "featured": true,
-        "images": [
-            "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-sierra-baner-sus-pune/Sierra_Master_Plan_6b71829c3a.webp",
-        "floorPlans": [
-            "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
-            "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-        ],
-        "advancedConfigurations": [
-            {
-                "id": "cfg-pscl-golf-2bhk",
-                "projectId": "p-paranjape-blue-ridge-golf-island",
-                "name": "2 BHK Fairway Greens",
-                "carpetArea": 765,
-                "balconyArea": 70,
-                "bathrooms": 2,
-                "basePrice": 8800000,
-                "pricePerSqft": 11503,
-                "infraCharges": 220000,
-                "clubhouseCharges": 150000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
-            },
-            {
-                "id": "cfg-pscl-golf-3bhk",
-                "projectId": "p-paranjape-blue-ridge-golf-island",
-                "name": "3 BHK Fairway Panorama",
-                "carpetArea": 1120,
-                "balconyArea": 120,
-                "bathrooms": 3,
-                "basePrice": 13500000,
-                "pricePerSqft": 12053,
-                "infraCharges": 320000,
-                "clubhouseCharges": 200000,
-                "gstRate": 5,
-                "stampDutyRate": 7,
-                "registrationCharges": 30000,
-                "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
-            }
-        ]
-    }
+    "id": "p-paranjape-blue-ridge-golf-island",
+    "title": "Paranjape Blue Ridge - Golf Island",
+    "slug": "paranjape-blue-ridge-golf-island",
+    "builderId": "b-paranjape",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b91.25 Cr - \u20b92.10 Cr",
+    "exactPrice": "\u20b91.25 Cr",
+    "pricePerSqft": 12200,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.pscl.in/wp-content/uploads/2025/10/ANK440_7834a_LR.webp",
+    "heroImage": "https://www.pscl.in/wp-content/uploads/2025/10/ANK440_7834a_LR.webp",
+    "lat": 18.579,
+    "lng": 73.738,
+    "description": "Golf Island is an exclusive enclave within the 138-acre Paranjape Blue Ridge Township in Hinjewadi, Pune. Overlooking the pristine greens of the 9-hole executive golf course and river waters, Golf Island offers ready-to-move 2 & 3 BHK luxury golf residences.\n\nResidents enjoy full access to township amenities including the boat club, international school, SEZ towers, and health centers. Verified under MahaRERA registration with 100% Zero Brokerage through PROPSMART REALTY.",
+    "features": [
+      "Direct Golf Course Views",
+      "Riverfront Jogging Track",
+      "Access to Blue Ridge Marina",
+      "Grand Sports Complex",
+      "Ready to Move In",
+      "Multi-tier 24/7 Security"
+    ],
+    "amenities": [
+      "Direct Golf Course Views",
+      "Riverfront Jogging Track",
+      "Access to Blue Ridge Marina",
+      "Grand Sports Complex",
+      "Ready to Move In",
+      "Multi-tier 24/7 Security"
+    ],
+    "metaDescription": "Buy 2 & 3 BHK in Paranjape Blue Ridge Golf Island, Hinjewadi Pune. Ready to Move. Starts \u20b91.25 Cr. 100% Zero Brokerage.",
+    "reraId": "P52100000055",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "images": [
+      "https://www.pscl.in/wp-content/uploads/2025/10/ANK440_7834a_LR.webp",
+      "https://keystoneliv.com/public/uploads/property/ATBSWRDRKSRmbyRoiopB8HwrRQIgzAkuoILwvdpl.webp",
+      "https://keystoneliv.com/public/uploads/property/iQeFKSkfJMsMn9Q736Gsy56RUc1DUApUpYlXsjXI.webp",
+      "https://keystoneliv.com/public/uploads/property/QUSiXbX1yIv3u1F0efgnLHyJgKsJfu0DIDG1r7Wi.webp"
+    ],
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-sierra-baner-sus-pune/Sierra_Master_Plan_6b71829c3a.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+    ],
+    "advancedConfigurations": [
+      {
+        "id": "cfg-pscl-golf-2bhk",
+        "projectId": "p-paranjape-blue-ridge-golf-island",
+        "name": "2 BHK Fairway Greens",
+        "carpetArea": 765,
+        "balconyArea": 70,
+        "bathrooms": 2,
+        "basePrice": 8800000,
+        "pricePerSqft": 11503,
+        "infraCharges": 220000,
+        "clubhouseCharges": 150000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      },
+      {
+        "id": "cfg-pscl-golf-3bhk",
+        "projectId": "p-paranjape-blue-ridge-golf-island",
+        "name": "3 BHK Fairway Panorama",
+        "carpetArea": 1120,
+        "balconyArea": 120,
+        "bathrooms": 3,
+        "basePrice": 13500000,
+        "pricePerSqft": 12053,
+        "infraCharges": 320000,
+        "clubhouseCharges": 200000,
+        "gstRate": 5,
+        "stampDutyRate": 7,
+        "registrationCharges": 30000,
+        "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ]
+  }
 ];

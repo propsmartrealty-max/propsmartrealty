@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
+  <defs>
+    <linearGradient id="grad-tulip-realty" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9B111E"/>
+      <stop offset="100%" stop-color="#6A040F"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Container -->
+  <rect width="380" height="110" rx="16" fill="#ffffff"/>
+
+  <!-- Developer Emblem -->
+  <g transform="translate(25, 22)">
+    
+        <rect x="0" y="0" width="66" height="66" rx="14" fill="url(#grad-tulip-realty)"/>
+        <polygon points="33,14 48,23 33,32 18,23" fill="#ffffff" opacity="0.95"/>
+        <polygon points="18,23 33,32 33,50 18,41" fill="#E2B714"/>
+        <polygon points="33,32 48,23 48,41 33,50" fill="#ffffff" opacity="0.75"/>
+        
+  </g>
+
+  <!-- Typography -->
+  <text x="106" y="48" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="24" font-weight="900" fill="#6A040F" letter-spacing="1">TULIP</text>
+  <text x="107" y="68" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="#E2B714" letter-spacing="2.5">TULIP REALTY • PUNE</text>
+  <text x="107" y="85" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="9" font-weight="600" fill="#64748B" letter-spacing="0.5">SIGNATURE RESIDENCES • DIRECT BUILDER</text>
+</svg>

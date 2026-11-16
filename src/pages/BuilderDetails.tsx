@@ -68,7 +68,7 @@ const BuilderDetails = () => {
             {/* Hero */}
             <div className="h-[300px] w-full relative">
                 <img
-                    src={builder.heroImage || 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=2000'}
+                    src={builder.heroImage || 'https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp'}
                     alt={builder.name}
                     className="w-full h-full object-cover"
                 />

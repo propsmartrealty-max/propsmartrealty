@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
+  <defs>
+    <linearGradient id="grad-reputed" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="grad-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Container -->
+  <rect width="380" height="110" rx="16" fill="#ffffff"/>
+
+  <!-- Developer Emblem: Architectural Crest -->
+  <g transform="translate(25, 22)">
+    <rect x="0" y="0" width="66" height="66" rx="14" fill="url(#grad-reputed)"/>
+    <path d="M 33 14 L 48 24 L 48 46 C 48 52 33 56 33 56 C 33 56 18 52 18 46 L 18 24 Z" fill="none" stroke="url(#grad-gold)" stroke-width="2.5"/>
+    <polygon points="33,20 42,27 42,44 33,48 24,44 24,27" fill="url(#grad-gold)" opacity="0.3"/>
+    <path d="M 28 35 L 32 39 L 38 31" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="106" y="48" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="24" font-weight="900" fill="#0F172A" letter-spacing="1">REPUTED BUILDER</text>
+  <text x="107" y="68" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="#D97706" letter-spacing="2">MAHARERA VERIFIED • PUNE</text>
+  <text x="107" y="85" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="9" font-weight="600" fill="#64748B" letter-spacing="0.5">DIRECT DEVELOPER SALES MANDATE</text>
+</svg>
