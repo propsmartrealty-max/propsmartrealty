@@ -97,8 +97,8 @@ const Home = () => {
         <div className="min-h-screen bg-slate-50/70 font-sans selection:bg-sky-500 selection:text-white relative">
             <WaterAmbientBackground variant="vibrant" />
             <SEO
-                title="PROPSMART REALTY - 100% Brokerage Free | Buy Directly with Builder in Pune & Maharashtra"
-                description="Buy directly from top builders in Pune, Mumbai, Thane, and Maharashtra with 100% zero brokerage. Official MahaRERA authorized sales partner (A031262401295). Browse luxury flats, apartments, and villas."
+                title="Propsmart Realty | 100% Brokerage Free Flats in Pune & Mumbai"
+                description="Buy directly from top Pune & Mumbai builders with 0% brokerage. Verified MahaRERA projects (A031262401295), floor plans, direct pricing & site visits."
                 canonical="https://propsmart.co.in/"
                 jsonLd={homeFaqJsonLd}
             />

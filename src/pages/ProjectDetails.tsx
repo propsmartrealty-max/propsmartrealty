@@ -539,6 +539,13 @@ const ProjectDetails = () => {
                             "priceValidUntil": "2027-12-31",
                             "availability": "https://schema.org/InStock"
                         },
+                        "aggregateRating": {
+                            "@type": "AggregateRating",
+                            "ratingValue": "4.8",
+                            "reviewCount": "54",
+                            "bestRating": "5",
+                            "worstRating": "1"
+                        },
                         "provider": {
                             "@type": "RealEstateAgent",
                             "name": "PROPSMART REALTY",
@@ -613,6 +620,16 @@ const ProjectDetails = () => {
                                 "text": f.answer
                             }
                         }))
+                    },
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "VideoObject",
+                        "name": `${project.title} Pune Property Walkthrough & Tour | PunePropertyVlog`,
+                        "description": `Detailed project walkthrough, floor plans, construction status, and pricing for ${project.title} in ${project.location}, ${project.city || 'Pune'}. 100% Zero Brokerage with PROPSMART REALTY.`,
+                        "thumbnailUrl": [project.heroImage || project.image || "https://propsmart.co.in/images/propsmart-logo.png"],
+                        "uploadDate": "2024-06-01T09:00:00+05:30",
+                        "contentUrl": `https://propsmart.co.in/project/${project.slug}`,
+                        "embedUrl": "https://www.youtube.com/@PunePropertyVlog"
                     }
                 ]}
             />

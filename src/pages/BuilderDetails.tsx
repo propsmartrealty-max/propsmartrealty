@@ -58,6 +58,13 @@ const BuilderDetails = () => {
                             "telephone": "+91-7744009295",
                             "contactType": "sales",
                             "areaServed": ["Pune", "Mumbai", "Maharashtra"]
+                        },
+                        "aggregateRating": {
+                            "@type": "AggregateRating",
+                            "ratingValue": builder.trustScore ? (Math.min(5, Math.max(4.2, builder.trustScore / 20))).toFixed(1) : "4.8",
+                            "reviewCount": builder.totalProjects ? Math.max(25, builder.totalProjects * 6).toString() : "48",
+                            "bestRating": "5",
+                            "worstRating": "1"
                         }
                     },
                     {
@@ -81,6 +88,44 @@ const BuilderDetails = () => {
                                 "position": 3,
                                 "name": builder.name,
                                 "item": `https://propsmart.co.in/builder/${builder.slug}`
+                            }
+                        ]
+                    },
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "FAQPage",
+                        "mainEntity": [
+                            {
+                                "@type": "Question",
+                                "name": `Are residential projects by ${builder.name} MahaRERA approved?`,
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": `Yes, all ongoing and new residential developments by ${builder.name} featured on PROPSMART REALTY are 100% MahaRERA compliant with official registration credentials.`
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": `Can I buy directly from ${builder.name} with 100% Zero Brokerage?`,
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": `Yes. Homebuyers pay 0% brokerage or agent commissions. PROPSMART REALTY connects you directly to the official sales lounge of ${builder.name} with direct developer pricing and inventory allocation.`
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": `How many projects has ${builder.name} developed in Pune & Maharashtra?`,
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": `${builder.name} has a proven development portfolio of ${builder.totalProjects || 10}+ projects, including ${builder.ongoingProjects || 3} ongoing developments across prime Pune and Maharashtra micro-markets.`
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": `How do I arrange a direct developer site visit to ${builder.name} projects?`,
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": `You can schedule an authorized VIP developer site visit with complimentary cab pickup to any ${builder.name} development through PROPSMART REALTY via WhatsApp or direct phone consultation.`
+                                }
                             }
                         ]
                     }

@@ -45,8 +45,29 @@ const PostProperty = () => {
     return (
         <div className="min-h-screen bg-slate-50 flex flex-col">
             <SEO
-                title="Post Your Property | PROPSMART REALTY"
-                description="Sell or Rent your property in Pune with PROPSMART REALTY. Free listing for owners."
+                title="Post Your Property - Free Owner & Builder Listing | PROPSMART REALTY"
+                description="List your residential or commercial property in Pune & Maharashtra with PROPSMART REALTY. 100% direct buyer reach with verified MahaRERA compliance."
+                canonical="https://propsmart.co.in/post-property"
+                jsonLd={[
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "BreadcrumbList",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Home",
+                                "item": "https://propsmart.co.in"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "Post Property",
+                                "item": "https://propsmart.co.in/post-property"
+                            }
+                        ]
+                    }
+                ]}
             />
             <PortalNavbar variant="colored" />
 

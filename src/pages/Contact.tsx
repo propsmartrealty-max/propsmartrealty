@@ -44,8 +44,43 @@ const Contact = () => {
         <div className="min-h-screen bg-slate-50 flex flex-col relative selection:bg-sky-500 selection:text-white">
             <WaterAmbientBackground />
             <SEO
-                title="Contact Us | PROPSMART REALTY"
-                description="Get in touch with PROPSMART REALTY for any queries regarding Pune Real Estate."
+                title="Contact Us - Free Site Visits & Direct Builder Consultation | PROPSMART REALTY"
+                description="Get in touch with PROPSMART REALTY for 100% zero brokerage property advisory, verified MahaRERA documentation, and authorized builder site visits in Pune & Mumbai."
+                canonical="https://propsmart.co.in/contact"
+                jsonLd={[
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "ContactPage",
+                        "name": "Contact PROPSMART REALTY",
+                        "url": "https://propsmart.co.in/contact",
+                        "description": "Schedule a direct developer site visit with zero brokerage through PROPSMART REALTY.",
+                        "mainEntity": {
+                            "@type": "RealEstateAgent",
+                            "name": "PROPSMART REALTY",
+                            "telephone": "+91-7744009295",
+                            "email": "contact@propsmart.co.in",
+                            "license": "A031262401295"
+                        }
+                    },
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "BreadcrumbList",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Home",
+                                "item": "https://propsmart.co.in"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "Contact Us",
+                                "item": "https://propsmart.co.in/contact"
+                            }
+                        ]
+                    }
+                ]}
             />
             <PortalNavbar variant="colored" />
 

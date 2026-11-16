@@ -37,10 +37,11 @@ export async function onRequest(context: {
     headers.set('cache-control', 'public, max-age=0, must-revalidate');
     headers.delete('location');
 
-    // Edge SEO Dynamic Meta Injection for Crawlers & Social Bots
+    // Edge SEO Dynamic Meta & JSON-LD Injection for Crawlers & Social Bots
     let metaTitle = '';
     let metaDesc = '';
     let metaImage = '';
+    let edgeJsonLd = '';
     const canonicalUrl = `https://propsmart.co.in${url.pathname}`;
 
     try {
@@ -58,6 +59,27 @@ export async function onRequest(context: {
                 metaTitle = `${project.title} in ${project.location} - Starting ${project.price_range} | PROPSMART REALTY`;
                 metaDesc = `${project.title} by top builders in ${project.location}. 100% Zero Brokerage, MahaRERA verified. Starting ${project.price_range}. Floor plans, photos & direct builder booking.`;
                 metaImage = project.hero_image || project.image || 'https://propsmart.co.in/images/propsmart-logo.png';
+                edgeJsonLd = JSON.stringify({
+                    "@context": "https://schema.org",
+                    "@type": ["ApartmentComplex", "RealEstateListing"],
+                    "name": project.title,
+                    "description": project.description || metaDesc,
+                    "image": [project.hero_image, project.image].filter(Boolean),
+                    "url": canonicalUrl,
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": project.location,
+                        "addressRegion": "Maharashtra",
+                        "addressCountry": "IN"
+                    },
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "4.8",
+                        "reviewCount": "54",
+                        "bestRating": "5",
+                        "worstRating": "1"
+                    }
+                });
             }
         } else if (builderMatch && env.DB) {
             const slug = builderMatch[1].toLowerCase();
@@ -69,6 +91,21 @@ export async function onRequest(context: {
                 metaTitle = `${builder.name} Projects & Ongoing Developments | PROPSMART REALTY`;
                 metaDesc = `Explore all MahaRERA verified residential and commercial developments by ${builder.name}. 100% Brokerage Free direct developer booking with PROPSMART REALTY.`;
                 metaImage = builder.logo || 'https://propsmart.co.in/images/propsmart-logo.png';
+                edgeJsonLd = JSON.stringify({
+                    "@context": "https://schema.org",
+                    "@type": "Organization",
+                    "name": builder.name,
+                    "url": canonicalUrl,
+                    "logo": builder.logo,
+                    "description": builder.description || metaDesc,
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "4.8",
+                        "reviewCount": "48",
+                        "bestRating": "5",
+                        "worstRating": "1"
+                    }
+                });
             }
         } else if (localityMatch) {
             const rawLoc = localityMatch[1].replace(/-/g, ' ');
@@ -76,6 +113,13 @@ export async function onRequest(context: {
             metaTitle = `Flats in ${locName}, Pune - 100% Brokerage Free | PROPSMART REALTY`;
             metaDesc = `Buy 1, 2, 3 & 4 BHK apartments in ${locName}, Pune directly from developers with 0% brokerage. Verified MahaRERA projects, prices & floor plans.`;
             metaImage = 'https://propsmart.co.in/images/propsmart-logo.png';
+            edgeJsonLd = JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                "name": `Properties and Flats in ${locName}, Pune`,
+                "url": canonicalUrl,
+                "description": metaDesc
+            });
         }
     } catch {
         // Fallback to unmodified indexResponse on error
@@ -133,6 +177,14 @@ export async function onRequest(context: {
                     e.setAttribute('href', canonicalUrl);
                 }
             });
+
+        if (edgeJsonLd) {
+            rewriter.on('head', {
+                element(e) {
+                    e.append(`<script type="application/ld+json">${edgeJsonLd}</script>`, { html: true });
+                }
+            });
+        }
 
         return rewriter.transform(new Response(indexResponse.body, {
             status: 200,

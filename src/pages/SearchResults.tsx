@@ -289,6 +289,9 @@ const SearchResults: React.FC<SearchResultsProps> = ({
         return [breadcrumb, itemList, faq];
     }, [filterLoc, activeCityOrLoc, effectiveLocationSlug, seoCanonical, sortedProjects, seoTitle, forcedConfig]);
 
+    const isGenericSearch = !canonicalPath && !effectiveLocationSlug && !isCityLanding;
+    const shouldNoIndex = isGenericSearch && Boolean(rawQuery || queryParams.get('sort') || queryParams.get('filter'));
+
     return (
         <div className="min-h-screen bg-slate-50/70 flex flex-col relative">
             <WaterAmbientBackground />
@@ -297,6 +300,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                 description={seoDesc}
                 canonical={seoCanonical}
                 jsonLd={searchJsonLd}
+                noIndex={shouldNoIndex}
             />
             <PortalNavbar variant="colored" />
 

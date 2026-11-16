@@ -11,6 +11,40 @@ const About = () => {
             <SEO
                 title="About Us - 100% Brokerage Free | PROPSMART REALTY"
                 description="Learn about PROPSMART REALTY - Pune's leading 100% Brokerage Free platform to buy directly from builders with authorized MahaRERA sales partnerships."
+                canonical="https://propsmart.co.in/about"
+                jsonLd={[
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "AboutPage",
+                        "name": "About PROPSMART REALTY",
+                        "url": "https://propsmart.co.in/about",
+                        "description": "PROPSMART REALTY is Pune's leading 100% Brokerage Free platform where homebuyers connect and buy directly with authorized builders.",
+                        "mainEntity": {
+                            "@type": "RealEstateAgent",
+                            "name": "PROPSMART REALTY",
+                            "license": "A031262401295",
+                            "telephone": "+91-7744009295"
+                        }
+                    },
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "BreadcrumbList",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Home",
+                                "item": "https://propsmart.co.in"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "About Us",
+                                "item": "https://propsmart.co.in/about"
+                            }
+                        ]
+                    }
+                ]}
             />
             <PortalNavbar variant="colored" />
 

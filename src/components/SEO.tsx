@@ -11,6 +11,7 @@ interface SEOProps {
     };
     jsonLd?: Record<string, any> | Array<Record<string, any>>;
     keywords?: string[];
+    noIndex?: boolean;
 }
 
 const DEFAULT_KEYWORDS = [
@@ -31,9 +32,9 @@ const DEFAULT_KEYWORDS = [
     'Kolte Patil Pune'
 ];
 
-const DEFAULT_OG_IMAGE = 'https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp';
+const DEFAULT_OG_IMAGE = 'https://propsmart.co.in/images/propsmart-logo.png';
 
-const SEO: React.FC<SEOProps> = ({ title, description, canonical, openGraph, jsonLd, keywords }) => {
+const SEO: React.FC<SEOProps> = ({ title, description, canonical, openGraph, jsonLd, keywords, noIndex }) => {
     const siteTitle = 'PROPSMART REALTY';
     const cleanTitle = title.replace(/\s*\|\s*(propsmart|Pune Property Vlog|Propsmart Realty)$/i, '');
     const fullTitle = cleanTitle.includes('PROPSMART REALTY') ? cleanTitle : `${cleanTitle} | ${siteTitle}`;
@@ -41,6 +42,9 @@ const SEO: React.FC<SEOProps> = ({ title, description, canonical, openGraph, jso
     const ogImage = openGraph?.image || DEFAULT_OG_IMAGE;
     const effectiveKeywords = keywords && keywords.length > 0 ? keywords : DEFAULT_KEYWORDS;
     const effectiveCanonical = canonical || 'https://propsmart.co.in/';
+    const robotsContent = noIndex
+        ? 'noindex, follow'
+        : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1';
 
     return (
         <Helmet>
@@ -49,9 +53,9 @@ const SEO: React.FC<SEOProps> = ({ title, description, canonical, openGraph, jso
             <meta name="description" content={description} />
             <meta name="keywords" content={effectiveKeywords.join(', ')} />
             <link rel="canonical" href={effectiveCanonical} />
-            <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-            <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-            <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+            <meta name="robots" content={robotsContent} />
+            <meta name="googlebot" content={robotsContent} />
+            <meta name="bingbot" content={robotsContent} />
 
             {/* Geotagging for Pune, Mumbai & Maharashtra Local Search Dominance */}
             <meta name="geo.region" content="IN-MH" />

@@ -73,7 +73,31 @@ const CompareProjects = () => {
 
     return (
         <div className="min-h-screen bg-slate-50 flex flex-col">
-            <SEO title="Compare Projects | PROPSMART REALTY" description="Compare top real estate projects in Pune side-by-side with PROPSMART REALTY." />
+            <SEO
+                title="Compare Projects Side-by-Side | PROPSMART REALTY"
+                description="Compare top real estate projects in Pune & Maharashtra side-by-side: prices, floor plans, carpet areas, RERA certificates, and amenities with PROPSMART REALTY."
+                canonical="https://propsmart.co.in/compare"
+                jsonLd={[
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "BreadcrumbList",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Home",
+                                "item": "https://propsmart.co.in"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "Compare Projects",
+                                "item": "https://propsmart.co.in/compare"
+                            }
+                        ]
+                    }
+                ]}
+            />
             <Navbar variant="colored" />
 
             <main className="flex-1 pt-28 pb-20 px-4 md:px-8 max-w-7xl mx-auto w-full">
