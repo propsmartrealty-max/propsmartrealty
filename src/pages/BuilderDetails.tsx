@@ -1,6 +1,6 @@
 
-import React from 'react';
-import { useParams, Link } from 'react-router-dom';
+import React, { useMemo } from 'react';
+import { useParams, Link, Navigate } from 'react-router-dom';
 import { useData } from '../context/DataContext';
 import PortalNavbar from '../components/Portal/Navbar';
 import Footer from '../components/Portal/Footer';
@@ -9,9 +9,22 @@ import { Building2, MapPin, Trophy } from 'lucide-react';
 import TrustScore from '../components/Portal/TrustScore';
 import { resolveBuilderLogo } from '../utils/builderUtils';
 
+const LEGACY_BUILDER_REDIRECTS: Record<string, string> = {
+    'kasturi-developers': '/builder/kasturi-housing',
+    'vilas-javdekar-developer': '/builder/vilas-javdekar-developers',
+    'pride-group': '/builder/pride-purple-group',
+    'the-renowned-architect-arco': '/directory?view=builders',
+    'architect-hafeez-contractor': '/directory?view=builders'
+};
+
 const BuilderDetails = () => {
     const { slug } = useParams<{ slug: string }>();
     const { builders, projects } = useData();
+
+    if (slug && LEGACY_BUILDER_REDIRECTS[slug]) {
+        return <Navigate to={LEGACY_BUILDER_REDIRECTS[slug]} replace />;
+    }
+
     const builder = builders.find(b => b.slug === slug);
 
     if (!builder) {
@@ -25,8 +38,17 @@ const BuilderDetails = () => {
         );
     }
 
-    // Robust filtering logic: check builderId against id OR name (for seeded data)
-    const builderProjects = projects.filter(p => p.builderId === builder.id || p.builderId === builder.name);
+    // Robust filtering logic: check builderId against id OR name, and cross-reference brands like Joyville
+    const builderProjects = useMemo(() => {
+        if (!builder) return [];
+        if (builder.id === 'b-shapoorji') {
+            return projects.filter(p => p.builderId === 'b-shapoorji' || p.builderId === 'b-joyville');
+        }
+        if (builder.id === 'b-joyville') {
+            return projects.filter(p => p.builderId === 'b-joyville' || p.title.toLowerCase().includes('joyville') || p.slug.toLowerCase().includes('joyville'));
+        }
+        return projects.filter(p => p.builderId === builder.id || p.builderId === builder.name);
+    }, [builder, projects]);
 
     return (
         <div className="min-h-screen bg-gray-50">

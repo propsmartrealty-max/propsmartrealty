@@ -78,3 +78,18 @@ UPDATE projects SET
   floor_plans = '["/images/projects/anp-autograph/floor-plan-2bhk.webp", "/images/projects/anp-autograph/floor-plan-3bhk.webp", "/images/projects/anp-autograph/floor-plan-4bhk.webp"]',
   updated_at = CURRENT_TIMESTAMP
 WHERE id = 'p-anp-autograph-punawale';
+
+-- 4. Authentic High-Res Media for Kolte Patil Life Republic Qrious
+UPDATE projects SET
+  image = '/images/projects/kolte-patil-life-republic/qrious-elevation.jpg',
+  hero_image = '/images/projects/kolte-patil-life-republic/qrious-elevation.jpg',
+  images = '["/images/projects/kolte-patil-life-republic/qrious-elevation.jpg", "/images/projects/kolte-patil-life-republic/qrious-clubhouse.jpg"]',
+  updated_at = CURRENT_TIMESTAMP
+WHERE id = 'p-kolte-patil-life-republic-qrious';
+
+-- 5. Wire Joyville Projects to Dedicated Joyville Brand Portfolio
+UPDATE projects SET builder_id = 'b-joyville', updated_at = CURRENT_TIMESTAMP
+WHERE id IN ('p-joyville-annexe', 'p-joyville-celestia', 'p-joyville-sensorium', 'p-joyville-virar-mumbai');
+
+-- 6. Clean Up Duplicate/Non-Builder Consortium Aliases
+DELETE FROM builders WHERE id IN ('b-the-renowned-architect-arco', 'b-architect-hafeez-contractor', 'b-pride-group', 'b-kasturi-developers', 'b-vilas-javdekar-developer');

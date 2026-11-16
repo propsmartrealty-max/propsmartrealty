@@ -28,6 +28,18 @@
 /developers                /directory?view=builders   301
 /developers/               /directory?view=builders   301
 
+# Legacy & Duplicate Builder Aliases
+/builder/kasturi-developers          /builder/kasturi-housing               301
+/builder/kasturi-developers/         /builder/kasturi-housing               301
+/builder/vilas-javdekar-developer    /builder/vilas-javdekar-developers     301
+/builder/vilas-javdekar-developer/   /builder/vilas-javdekar-developers     301
+/builder/pride-group                 /builder/pride-purple-group            301
+/builder/pride-group/                /builder/pride-purple-group            301
+/builder/the-renowned-architect-arco /directory?view=builders               301
+/builder/the-renowned-architect-arco/ /directory?view=builders              301
+/builder/architect-hafeez-contractor /directory?view=builders               301
+/builder/architect-hafeez-contractor/ /directory?view=builders              301
+
 # 2. Legacy Admin & Feeds
 /wp-login.php              /admin                     301
 /wp-admin                  /admin                     301
