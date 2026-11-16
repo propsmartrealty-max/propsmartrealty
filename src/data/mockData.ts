@@ -9213,89 +9213,67 @@ export const PROJECTS: Project[] = [
     "slug": "rohan-saroha",
     "builderId": "b-rohan",
     "location": "Bhugaon",
-    "priceRange": "\u20b980.00 L - \u20b91.43 Cr",
-    "exactPrice": "\u20b980.00 L",
+    "priceRange": "\u20b980 L - \u20b91.85 Cr",
+    "exactPrice": "\u20b980 L",
     "configurations": [
       "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/8jc5QT6quqef9ftDCKWF9whFNXYnqsn8HFcXlNK6.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/8jc5QT6quqef9ftDCKWF9whFNXYnqsn8HFcXlNK6.webp",
+    "possessionDate": "June 2027",
+    "image": "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
     "lat": 18.5028,
     "lng": 73.7381,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/YVe9jtDGWda8R0Ge3bKO03qEKIGzAJFW1G7BDEtw.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/pirypefnig5fwwJs1ZORGcWJCujCXhNjv6Pp3UFP.webp",
-      "https://keystoneliv.com/public/uploads/property/MYNRWw1OSwd2X1WWRiMv87vVJVGLKllnZ77rKHEk.webp",
-      "https://keystoneliv.com/public/uploads/property/OAo4YmYPmmyE1TN8Y277HTfgyaoUnd0QkfD4TMnW.webp",
-      "https://keystoneliv.com/public/uploads/property/8lAcBNDewOYfTjyKmGo4zq7iwXSRfAQb5i4Z406J.webp",
-      "https://keystoneliv.com/public/uploads/property/PQOSV63FDT8y9apBXRIl6aZLDwOZYNUPLn6Axz9r.webp",
-      "https://keystoneliv.com/public/uploads/property/b5oceIMtghaxSSAiO2E5Dt4oVI3a7Uc6uRakqvre.webp",
-      "https://keystoneliv.com/public/uploads/property/NnpqoFF2OBg3Qewfk5tD4GWzugUz51BlL7UtQrsU.webp",
-      "https://keystoneliv.com/public/uploads/property/9hVlJaZ6meEGYLipoMd0CHIZi7NEU4ceqU1F8rCu.webp"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
-    "description": "Rohan Saroha by Rohan Builders represents modern residential excellence in Bhugaon, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b987.00 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Fitness Corner, Gym. Verified under MahaRERA registration P52100076652, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Rohan Saroha in Bhugaon near Bavdhan is an integrated nature-inspired township nestled amidst the scenic Sahyadri foothills. Providing clean green living with multi-tier clubhouse, mountain-view infinity pool, organic farming zones, and seamless access to Chandani Chowk and Kothrud.",
     "features": [
-      "Amphitheater",
-      "Banquet Hall",
-      "Cafeteria",
-      "Club house",
-      "Fitness Corner",
-      "Gym",
-      "Jogging Track",
-      "Kids Play Area",
-      "Library",
-      "Mini-Theater",
-      "Party Lawn",
-      "Reflexology",
-      "Swimming Pool",
-      "Yoga Zone",
-      "24*7 Water",
-      "Airy Rooms",
-      "Gated Society",
-      "Intercom",
-      "Lift",
-      "Parking",
-      "Power Back Up",
-      "Security System"
+      "Scenic Valley & Foothills Setting in Bhugaon",
+      "Minutes from Chandani Chowk & Bavdhan",
+      "Multi-Tier Clubhouse & Heated Swimming Pool",
+      "Organic Herb Gardens & Forest Walking Trails",
+      "Zero Commission Direct Deal"
     ],
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
+        "label": "Project Status",
+        "value": "Under Construction"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony"
+        "label": "MahaRERA ID",
+        "value": "P52100076652"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas"
+        "label": "Direct Starting Price",
+        "value": "\u20b980 L"
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe CP & Sanitaryware, Concealed Plumbing, Designer Wall Tiles"
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK, 4 BHK"
       },
       {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Schneider / Legrand Modular Switches"
+        "label": "Possession Date",
+        "value": "June 2027"
       },
       {
-        "label": "Doors Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+        "label": "Micro-Market",
+        "value": "Bhugaon / Bavdhan, Pune"
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Bhugaon near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100076652",
-      "Allotment directly from Rohan Builders developer inventory"
+      "MahaRERA: P52100076652",
+      "Bavdhan-Bhugaon Scenic Corridor",
+      "PLUS Home Zero Wastage Design"
     ],
     "reraId": "P52100076652",
-    "pricePerSqft": 9800,
+    "pricePerSqft": 11200,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -9390,26 +9368,30 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Scenic",
+        "type": "2 BHK Comfort",
         "carpetArea": "727 sq.ft",
-        "priceRange": "\u20b980.00 L"
+        "priceRange": "\u20b980 L"
       },
       {
         "type": "2 BHK Grande",
         "carpetArea": "864 sq.ft",
-        "priceRange": "\u20b987.00 L"
+        "priceRange": "\u20b998 L"
       },
       {
-        "type": "3 BHK Lakeview",
-        "carpetArea": "1048 sq.ft",
-        "priceRange": "\u20b91.09 Cr"
-      },
-      {
-        "type": "3 BHK Royale",
-        "carpetArea": "1382 sq.ft",
+        "type": "3 BHK Royal",
+        "carpetArea": "1150 sq.ft",
         "priceRange": "\u20b91.43 Cr"
+      },
+      {
+        "type": "4 BHK Imperial",
+        "carpetArea": "1536 sq.ft",
+        "priceRange": "\u20b91.85 Cr"
       }
-    ]
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp"
+    ],
+    "featured": true
   },
   {
     "id": "p-rohan-ekam",
@@ -9422,76 +9404,62 @@ export const PROJECTS: Project[] = [
     "configurations": [
       "2 BHK",
       "3 BHK",
-      "4 BHK"
+      "4.5 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/9oCa9AZdSciAEF6lPemC0vhHm2BvHEJKiFxNCHri.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/9oCa9AZdSciAEF6lPemC0vhHm2BvHEJKiFxNCHri.webp",
+    "possessionDate": "December 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp",
     "lat": 18.5772,
     "lng": 73.7715,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/pkJxGd1gHFGu7mmQK9QruOkJwCN6UjcR7yv24TqQ.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/in85nexdwWHGTBugbmHouxJBznVFcjkEU4SOl2Qj.webp",
-      "https://keystoneliv.com/public/uploads/property/JRdpFkkMaBqWUV91UsxTA5PmT4jrWULe6bfbdGr3.webp",
-      "https://keystoneliv.com/public/uploads/property/EqFhQWfr3lRMA1nua2t6lHamZuSarVQj6Xo2TWu5.webp",
-      "https://keystoneliv.com/public/uploads/property/AmV8a2CDk62VDd4gHjwZ5FxR4LQjjMFKM5NLCqsW.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/6lN0t0aJLQXabFeZvjKRhyOJBLJZtpLhYMKi5Xm6.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/eRICUaL6M4d6iePTlnAtNe9LM01U0TUNFYcI6jom.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/7qHeB3yzfOJKGDwmXzmh3BJZ92BlzvkRJ2h6DNuD.webp"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
-    "description": "Rohan Ekam by Rohan Builders represents modern residential excellence in Balewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.18 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Club house, Gym, Jogging Track, Kids Play Area, Pet Park. Verified under MahaRERA registration P52100052298, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Rohan Ekam is a master-planned 12.9-acre luxury residential community in Balewadi, Pune. Built around Rohan's signature PLUS Home philosophy (Perfect Ventilation, Lively Light, Utmost Privacy, Smart Space), offering expansive 2, 3, and 4.5 BHK homes with zero dead spaces and 70% open landscaped greens.",
     "features": [
-      "Amphitheater",
-      "Club house",
-      "Gym",
-      "Jogging Track",
-      "Kids Play Area",
-      "Pet Park",
-      "Swimming Pool",
-      "24*7 Water",
-      "Gas Pipeline",
-      "Gated Society",
-      "Lift",
-      "Parking",
-      "Power Back Up",
-      "Security System"
+      "12.9-Acre Master-Planned Community in Balewadi",
+      "Signature PLUS Home Architectural Concept",
+      "Over 70% Open Space & Landscaped Gardens",
+      "Olympic-Size Swimming Pool & Sports Clubhouse",
+      "100% Zero Commission Brokerage Free"
     ],
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
+        "label": "Project Status",
+        "value": "Under Construction"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony"
+        "label": "MahaRERA ID",
+        "value": "P52100052298"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas"
+        "label": "Direct Starting Price",
+        "value": "\u20b91.33 Cr"
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe CP & Sanitaryware, Concealed Plumbing, Designer Wall Tiles"
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK, 4.5 BHK"
       },
       {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Schneider / Legrand Modular Switches"
+        "label": "Possession Date",
+        "value": "December 2026"
       },
       {
-        "label": "Doors Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+        "label": "Micro-Market",
+        "value": "Balewadi, Pune"
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Balewadi near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100052298",
-      "Allotment directly from Rohan Builders developer inventory"
+      "MahaRERA: P52100052298",
+      "Balewadi Prime High-Growth Location",
+      "Signature PLUS Home Design"
     ],
     "reraId": "P52100052298",
-    "pricePerSqft": 15400,
+    "pricePerSqft": 14800,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -9602,31 +9570,26 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury",
-        "carpetArea": "869 sq.ft",
+        "type": "2 BHK Prime",
+        "carpetArea": "910 sq.ft",
         "priceRange": "\u20b91.33 Cr"
       },
       {
-        "type": "2 BHK Grande",
-        "carpetArea": "910 sq.ft",
-        "priceRange": "\u20b91.42 Cr"
+        "type": "3 BHK Royal",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "\u20b92.10 Cr"
       },
       {
-        "type": "3 BHK Grande",
-        "carpetArea": "1046 sq.ft",
-        "priceRange": "\u20b91.68 Cr"
-      },
-      {
-        "type": "3 BHK Luxury",
-        "carpetArea": "1410 sq.ft",
-        "priceRange": "\u20b92.24 Cr"
-      },
-      {
-        "type": "4 BHK Royale",
+        "type": "4.5 BHK Grand",
         "carpetArea": "2158 sq.ft",
         "priceRange": "\u20b93.42 Cr"
       }
-    ]
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp",
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp"
+    ],
+    "featured": true
   },
   {
     "id": "p-vj-indilife",
@@ -11763,79 +11726,70 @@ export const PROJECTS: Project[] = [
   },
   {
     "id": "p-gera-imperium-gateway",
-    "title": "Gera Imperium Gateway \u2013 A",
+    "title": "Gera Imperium Gateway",
     "slug": "gera-imperium-gateway",
     "builderId": "b-gera",
     "location": "Bhosari",
-    "priceRange": "\u20b955.00 L - \u20b92.28 Cr",
-    "exactPrice": "\u20b955.00 L",
+    "priceRange": "\u20b955 L - \u20b92.28 Cr",
+    "exactPrice": "\u20b955 L",
     "configurations": [
-      "Commercial Offices",
-      "Retail Shops"
+      "Commercial",
+      "Office",
+      "Retail"
     ],
     "status": "Under Construction",
     "type": "Commercial",
-    "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/Yr5BwDRbFNIiqwBjWtCMNhRsmIHKZenfXV5IfERK.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/Yr5BwDRbFNIiqwBjWtCMNhRsmIHKZenfXV5IfERK.webp",
+    "possessionDate": "Ready to Move",
+    "image": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "lat": 18.625,
     "lng": 73.8441,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/LRk6ujgc4OZvne3hIg9Oy1w5Ybq2LhGzE9FyFTTw.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/WXLSiuxx5fhXPZX1QpedbFnlyRpgRuoSXei0y7sC.webp",
-      "https://keystoneliv.com/public/uploads/property/lGMpicIgBVZBLm3qEAG033NSla0IUbsJLAF3tVpF.webp",
-      "https://keystoneliv.com/public/uploads/property/SH7H8dxS80mn8MREYklIjIfomkd46PAdSgIPEBpM.webp",
-      "https://keystoneliv.com/public/uploads/property/TZsdhaVnvOXVsKJ354KwYxoNAXi3JGPoJKcuFYvN.webp"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "Gera Imperium Gateway is a landmark commercial and retail tower by Gera Developments directly connected to Bhosari Metro Station in PCMC, Pune. Featuring Grade-A corporate office suites and high-street retail shops starting from \u20b955.00 L up to \u20b92.28 Cr.\n\nVerified under MahaRERA registration P52100027787 with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Gera Imperium Gateway is a landmark commercial and retail tower directly connected to Bhosari Metro Station in PCMC, Pune. Featuring Grade-A corporate office suites, retail outlets, grand atrium, and multi-tier basement parking.",
     "features": [
-      "Conference Room",
-      "Fitness Corner",
-      "Sports Courts",
-      "24*7 Water",
-      "Airy Rooms",
-      "Gated Society",
-      "Intercom",
-      "Lift",
-      "Natural Light",
-      "Parking",
-      "Power Back Up",
-      "Security System"
+      "Direct Metro Station Pedestrian Bridge",
+      "Grade-A Corporate Offices & Retail",
+      "Grand Double-Height Glass Atrium",
+      "Multi-Level Basement Parking",
+      "High Rental Yield Commercial Asset"
     ],
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
+        "label": "Project Status",
+        "value": "Under Construction"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony"
+        "label": "MahaRERA ID",
+        "value": "P52100030184"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas"
+        "label": "Direct Starting Price",
+        "value": "\u20b955 L"
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe CP & Sanitaryware, Concealed Plumbing, Designer Wall Tiles"
+        "label": "Configurations",
+        "value": "Commercial, Office, Retail"
       },
       {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Schneider / Legrand Modular Switches"
+        "label": "Possession Date",
+        "value": "Ready to Move"
       },
       {
-        "label": "Doors Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+        "label": "Micro-Market",
+        "value": "Bhosari / PCMC, Pune"
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Bhosari near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100030184",
-      "Allotment directly from Gera Developments developer inventory"
+      "MahaRERA: P52100030184",
+      "Direct Metro Connectivity",
+      "100% Brokerage Free Commercial Mandate"
     ],
     "reraId": "P52100030184",
-    "pricePerSqft": 13200,
+    "pricePerSqft": 11500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -11930,116 +11884,92 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "Boutique Office Suite",
-        "carpetArea": "420 sq.ft",
-        "priceRange": "\u20b955.00 L"
+        "type": "Smart Corporate Office",
+        "carpetArea": "350 sq.ft",
+        "priceRange": "\u20b955 L"
       },
       {
-        "type": "Corporate Office Space",
-        "carpetArea": "780 sq.ft",
-        "priceRange": "\u20b91.15 Cr"
+        "type": "Grade-A Office Suite",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
       },
       {
-        "type": "Executive Commercial Floor",
-        "carpetArea": "1200 sq.ft",
-        "priceRange": "\u20b91.65 Cr"
-      },
-      {
-        "type": "Metro High-Street Retail Shop",
-        "carpetArea": "550 sq.ft",
+        "type": "High-Street Retail Anchor",
+        "carpetArea": "1500 sq.ft",
         "priceRange": "\u20b92.28 Cr"
       }
-    ]
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp"
+    ],
+    "featured": false
   },
   {
     "id": "p-gera-joy-on-treetop",
-    "title": "Gera Joy On Treetop",
-    "slug": "gera-joy-on-treetop",
+    "title": "Gera Joy on the Treetops",
+    "slug": "gera-joy-on-the-treetops",
     "builderId": "b-gera",
     "location": "Hinjewadi",
-    "priceRange": "\u20b984.00 L - \u20b91.38 Cr",
-    "exactPrice": "\u20b984.00 L",
+    "priceRange": "\u20b984 L - \u20b91.38 Cr",
+    "exactPrice": "\u20b984 L",
     "configurations": [
       "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "Duplex"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/Clv6QVczOiJD0bNhVQSdUoYvHCzVM92HasWLD3ET.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/Clv6QVczOiJD0bNhVQSdUoYvHCzVM92HasWLD3ET.webp",
+    "possessionDate": "March 2027",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/f6112baa-0481-401b-8910-ec78b165019e/gallery/mruxuv87-8c5g2i.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f6112baa-0481-401b-8910-ec78b165019e/gallery/mruxuv87-8c5g2i.webp",
     "lat": 18.5913,
     "lng": 73.7389,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/Ptw9XmFBU5IeYvADN8ruLftUvTCTToYOMifOkh2x.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/FmsooXsys3CQEXObVELeVcFw0pG4tD91LIBWTvhT.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/HTDeJtXzkfygVbiRVz95ojkcuQKU5PXVfRQ9NN4R.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/ImDiujOwFBjJL4Fonv1zzS6x5tRznB71FrHLlhmt.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Re1pQnaMMOCbS4ph0DQTOvgYzMeNJKjA3J8utYWQ.webp"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
     ],
-    "description": "Gera Joy On Treetop by Gera Developments represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b985.90 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Banquet Hall, Cafeteria, Club house, Conference Room, Fitness Corner. Verified under MahaRERA registration P52100077635, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Gera Joy on the Treetops Hinjewadi Phase 3 is a lush child-centric sanctuary elevated above the treetops next to Megapolis Circle. Seamlessly connected to Rajiv Gandhi Infotech Park, the development features an elevated infinity sky-bridge, treehouse study cabins, and pro coaching academies.",
     "features": [
-      "Amphitheater",
-      "Banquet Hall",
-      "Cafeteria",
-      "Club house",
-      "Conference Room",
-      "Fitness Corner",
-      "Gym",
-      "Jogging Track",
-      "Kids Play Area",
-      "Mini-Theater",
-      "Party Lawn",
-      "Pet Park",
-      "Sports Courts",
-      "Swimming Pool",
-      "Yoga Zone",
-      "24*7 Water",
-      "Gas Pipeline",
-      "Gated Society",
-      "Internet / WiFi",
-      "Lift",
-      "No open drainage around",
-      "Parking",
-      "Power Back Up",
-      "RWH",
-      "Security System",
-      "Waste Disposal"
+      "Elevated Skybridge & Treehouse Study Pods",
+      "Next to Megapolis IT Circle Phase 3",
+      "ChildCentric\u00ae Development Programs",
+      "Olympic-Spec Swimming Pool",
+      "Zero Buyer Brokerage Mandate"
     ],
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
+        "label": "Project Status",
+        "value": "Under Construction"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony"
+        "label": "MahaRERA ID",
+        "value": "P52100077635"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas"
+        "label": "Direct Starting Price",
+        "value": "\u20b984 L"
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe CP & Sanitaryware, Concealed Plumbing, Designer Wall Tiles"
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK"
       },
       {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Schneider / Legrand Modular Switches"
+        "label": "Possession Date",
+        "value": "March 2027"
       },
       {
-        "label": "Doors Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+        "label": "Micro-Market",
+        "value": "Hinjewadi Phase 3, Pune"
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Hinjewadi near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100077635",
-      "Allotment directly from Gera Developments developer inventory"
+      "MahaRERA: P52100077635",
+      "Hinjewadi Tech Hub Prime Location",
+      "High Rental Yield for IT Professionals"
     ],
     "reraId": "P52100077635",
-    "pricePerSqft": 11200,
+    "pricePerSqft": 11800,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -12151,25 +12081,25 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK Smart",
-        "carpetArea": "753 sq.ft",
-        "priceRange": "\u20b984.00 L"
+        "carpetArea": "690 sq.ft",
+        "priceRange": "\u20b984 L"
       },
       {
-        "type": "2 BHK Grande",
-        "carpetArea": "868 sq.ft",
-        "priceRange": "\u20b994.00 L"
+        "type": "3 BHK Grande",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "\u20b91.18 Cr"
       },
       {
-        "type": "3 BHK Family",
-        "carpetArea": "1011 sq.ft",
-        "priceRange": "\u20b91.16 Cr"
-      },
-      {
-        "type": "3 BHK Royale",
-        "carpetArea": "1237 sq.ft",
+        "type": "3 BHK Duplex",
+        "carpetArea": "1040 sq.ft",
         "priceRange": "\u20b91.38 Cr"
       }
-    ]
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/f6112baa-0481-401b-8910-ec78b165019e/gallery/mruxuv87-8c5g2i.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/f6112baa-0481-401b-8910-ec78b165019e/gallery/mruxv5r0-ef9xly.webp"
+    ],
+    "featured": false
   },
   {
     "id": "p-kasturi-apostrophe",
@@ -14011,84 +13941,72 @@ export const PROJECTS: Project[] = [
   },
   {
     "id": "p-bramhacorp-hues-of-sky",
-    "title": "Bramhacorp Hues Of Sky",
+    "title": "BramhaCorp Hues of Sky",
     "slug": "bramhacorp-hues-of-sky",
     "builderId": "b-bramhacorp",
     "location": "Camp",
-    "priceRange": "\u20b91.56 Cr - \u20b91.92 Cr",
+    "priceRange": "\u20b91.56 Cr - \u20b93.40 Cr",
     "exactPrice": "\u20b91.56 Cr",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK",
+      "3.5 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/e1Yisy3QN19cU13poeL9foZvCwjxU3tEAiuqtDxW.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/e1Yisy3QN19cU13poeL9foZvCwjxU3tEAiuqtDxW.webp",
+    "possessionDate": "December 2027",
+    "image": "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
     "lat": 18.5133,
     "lng": 73.8798,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/V81P09pIBB1Q3TvXBzhzsky9XZxJ856qFhhVs6Ai.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/0Z27YlfNSec1eITGBHLNBI0TyDkXT9a9CEJJh9g0.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/AfsSTe0EQ7zfqS2GArpbdZatnkAy4aZEzuTs16Jd.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/erVeCsyBq9xP98CDIxaoBvpB9TucxbfYYskXd5u8.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/8bVjxHl1Pm4gu6j8jiPOrVTXerCTsKss9eG2yUak.webp"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ],
-    "description": "Bramhacorp Hues Of Sky by BramhaCorp represents modern residential excellence in Camp, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b91.56 Cr, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Amphitheater, Fitness Corner, Gym, Jogging Track, Kids Play Area, Mini-Theater. Verified under MahaRERA registration P52100051537, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "BramhaCorp Hues of Sky rises 35 storeys above Sadhu Vaswani Chowk in Camp, Central Pune, just 400m from Pune Zero Milestone. Offering panoramic 360-degree city views, private sky decks, Italian marble flooring, and concierge amenities.",
     "features": [
-      "Amphitheater",
-      "Fitness Corner",
-      "Gym",
-      "Jogging Track",
-      "Kids Play Area",
-      "Mini-Theater",
-      "Pet Park",
-      "Reflexology",
-      "Swimming Pool",
-      "Yoga Zone",
-      "24*7 Water",
-      "Gas Pipeline",
-      "Gated Society",
-      "Lift",
-      "No open drainage around",
-      "Parking",
-      "Power Back Up",
-      "Security System"
+      "35-Storey Central Pune Skyline Landmark",
+      "400m from Sadhu Vaswani Chowk",
+      "Rooftop Sky Lounge & Observatory",
+      "Infinity Heated Pool",
+      "Italian Marble & Branded Sanitaryware"
     ],
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
+        "label": "Project Status",
+        "value": "Under Construction"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony"
+        "label": "MahaRERA ID",
+        "value": "P52100051537"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas"
+        "label": "Direct Starting Price",
+        "value": "\u20b91.56 Cr"
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe CP & Sanitaryware, Concealed Plumbing, Designer Wall Tiles"
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK, 4 BHK"
       },
       {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Schneider / Legrand Modular Switches"
+        "label": "Possession Date",
+        "value": "December 2027"
       },
       {
-        "label": "Doors Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+        "label": "Micro-Market",
+        "value": "Camp, Pune"
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Camp near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100051537",
-      "Allotment directly from BramhaCorp developer inventory"
+      "MahaRERA: P52100051537",
+      "Central Pune Heritage Location",
+      "100% Zero Brokerage Purchase"
     ],
     "reraId": "P52100051537",
-    "pricePerSqft": 13500,
+    "pricePerSqft": 18500,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -14247,106 +14165,91 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "700 sq.ft",
-        "priceRange": "\u20b91.56 Cr"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "700 sq.ft",
-        "priceRange": "\u20b91.56 Cr"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "729 sq.ft",
-        "priceRange": "\u20b91.62 Cr"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.64 Cr"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
+        "type": "2 BHK Skyline",
         "carpetArea": "736 sq.ft",
-        "priceRange": "\u20b91.64 Cr"
+        "priceRange": "\u20b91.56 Cr"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "861 sq.ft",
-        "priceRange": "\u20b91.92 Cr"
+        "type": "3 BHK Grande",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b92.25 Cr"
+      },
+      {
+        "type": "4 BHK Imperial",
+        "carpetArea": "1850 sq.ft",
+        "priceRange": "\u20b93.40 Cr"
       }
-    ]
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
+      "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp"
+    ],
+    "featured": true
   },
   {
     "id": "p-bramhacorp-townhouse",
-    "title": "Bramhacorp Townhouse",
+    "title": "BramhaCorp Townhouse",
     "slug": "bramhacorp-townhouse",
     "builderId": "b-bramhacorp",
     "location": "Balewadi",
-    "priceRange": "\u20b926.00 L - \u20b956.00 L",
-    "exactPrice": "\u20b926.00 L",
+    "priceRange": "\u20b926 L - \u20b956 L",
+    "exactPrice": "\u20b926 L",
     "configurations": [
-      "Studio / 1 RK",
+      "Studio",
       "1 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/k9Cpqd4cLxkrt0r65YKq9o0IWCPpqcToOcSn1QD4.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/k9Cpqd4cLxkrt0r65YKq9o0IWCPpqcToOcSn1QD4.webp",
+    "possessionDate": "Ready to Move",
+    "image": "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp",
     "lat": 18.5772,
     "lng": 73.7715,
-    "masterLayout": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/yiPGuOJ5Fhyx0YB3EzGkjiPFft7mIQsii4HFZdjW.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/Vz9ORh5u4GK56Sv3npOGctyGF11WSrX1fY8kE3UC.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/cfRu71vAvcCfj79N64dTM20dXnH55jXdd9LunD32.webp",
-      "https://keystoneliv.com/public/uploads/property/yiPGuOJ5Fhyx0YB3EzGkjiPFft7mIQsii4HFZdjW.webp",
-      "https://keystoneliv.com/public/uploads/property/f9GMlttRsqc66dOt6VQurFR4i48juAfzCiUaFmOs.webp"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
     ],
-    "description": "BramhaCorp Townhouse is a contemporary micro-living and millennial studio residential development in Balewadi, Pune. Crafted specifically for young professionals and IT leaders, offering stylish Studio and 1 BHK suites starting from \u20b926.00 L.\n\nVerified under MahaRERA registration P52100025178 with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "BramhaCorp Townhouse is a contemporary micro-living and millennial studio residential development in Balewadi, Pune. Crafted specifically for young professionals and IT leaders, offering stylish Studio and 1 BHK suites with automated rental yield management.",
     "features": [
-      "Jogging Track",
-      "Kids Play Area",
-      "24*7 Water",
-      "Gas Pipeline",
-      "Lift",
-      "Parking"
+      "Millennial Co-Living & Studio Living",
+      "Co-Working Lounge with High-Speed Fiber",
+      "High Rental Yield Investment Asset",
+      "Rooftop Cafe & Fitness Zone",
+      "Smart Furniture Integration"
     ],
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
+        "label": "Project Status",
+        "value": "Under Construction"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony"
+        "label": "MahaRERA ID",
+        "value": "P52100045228"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas"
+        "label": "Direct Starting Price",
+        "value": "\u20b926 L"
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe CP & Sanitaryware, Concealed Plumbing, Designer Wall Tiles"
+        "label": "Configurations",
+        "value": "Studio, 1 BHK"
       },
       {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Schneider / Legrand Modular Switches"
+        "label": "Possession Date",
+        "value": "Ready to Move"
       },
       {
-        "label": "Doors Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+        "label": "Micro-Market",
+        "value": "Balewadi, Pune"
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Balewadi near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100045228",
-      "Allotment directly from BramhaCorp developer inventory"
+      "MahaRERA: P52100045228",
+      "Balewadi High Street Vicinity",
+      "Zero Buyer Brokerage"
     ],
     "reraId": "P52100045228",
-    "pricePerSqft": 14500,
+    "pricePerSqft": 9800,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -14441,102 +14344,86 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "Studio Suite (1 RK)",
-        "carpetArea": "185 sq.ft",
-        "priceRange": "\u20b926.00 L"
+        "type": "Studio Suite",
+        "carpetArea": "350 sq.ft",
+        "priceRange": "\u20b926 L"
       },
       {
-        "type": "Executive Studio (1 RK)",
-        "carpetArea": "259 sq.ft",
-        "priceRange": "\u20b937.00 L"
-      },
-      {
-        "type": "1 BHK Smart Suite",
-        "carpetArea": "344 sq.ft",
-        "priceRange": "\u20b952.00 L"
-      },
-      {
-        "type": "1 BHK Grande Suite",
-        "carpetArea": "394 sq.ft",
-        "priceRange": "\u20b956.00 L"
+        "type": "1 BHK Townhouse",
+        "carpetArea": "580 sq.ft",
+        "priceRange": "\u20b956 L"
       }
-    ]
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp"
+    ],
+    "featured": false
   },
   {
     "id": "p-bramhacorp-august-towers",
-    "title": "Bramhacorp August Towers",
+    "title": "BramhaCorp August Towers",
     "slug": "bramhacorp-august-towers",
     "builderId": "b-bramhacorp",
     "location": "Kalyani Nagar",
-    "priceRange": "\u20b91.12 Cr - \u20b92.25 Cr",
-    "exactPrice": "\u20b91.12 Cr",
+    "priceRange": "\u20b968 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b968 L",
     "configurations": [
-      "2 BHK",
-      "3 BHK"
+      "1.5 BHK",
+      "2 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/cfRu71vAvcCfj79N64dTM20dXnH55jXdd9LunD32.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/cfRu71vAvcCfj79N64dTM20dXnH55jXdd9LunD32.webp",
+    "possessionDate": "June 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp",
     "lat": 18.5484,
     "lng": 73.9025,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/gu9bQayoV6LdnMMIPWE4YCnur8rK2HqDUWUnOUJr.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/uploads/property/YH1pP1UAcemKGCEerJi9kTbgFzEbhLPsQgDgzJmR.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/k9Cpqd4cLxkrt0r65YKq9o0IWCPpqcToOcSn1QD4.webp",
-      "https://keystoneliv.com/public/uploads/property/NS4WdVkoynSB2vYI9ZOVKqtmDrrNMzNEok3Twc3f.webp",
-      "https://keystoneliv.com/public/uploads/property/goBwy7cz2g5PqAH9tZTLyxfBkF71AqkrMWUZNNAw.webp"
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
     ],
-    "description": "Bramhacorp August Towers by BramhaCorp represents modern residential excellence in Kalyani Nagar, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b957.70 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Gym, Jogging Track, Kids Play Area, Swimming Pool. Verified under MahaRERA registration P52100048195, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "BramhaCorp August Towers is a 34-storey high-rise luxury enclave situated in New Kalyani Nagar / Wadgaon Sheri, Pune. Offering thoughtfully engineered 1.5 & 2 BHK compact luxury homes with panoramic river views, infinity clubhouse, and minutes from Koregaon Park.",
     "features": [
-      "Banquet Hall",
-      "Club house",
-      "Gym",
-      "Jogging Track",
-      "Kids Play Area",
-      "Swimming Pool",
-      "Yoga Zone",
-      "Gated Society",
-      "Lift",
-      "Parking",
-      "Security System",
-      "Waste Disposal"
+      "34-Storey Modern High-Rise Towers",
+      "Mivan Aluminum Shuttering Technology",
+      "Minutes from Koregaon Park & Viman Nagar",
+      "Infinity Edge Rooftop Swimming Pool",
+      "Direct Developer Sales Pricing"
     ],
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
+        "label": "Project Status",
+        "value": "Under Construction"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony"
+        "label": "MahaRERA ID",
+        "value": "P52100048195"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas"
+        "label": "Direct Starting Price",
+        "value": "\u20b968 L"
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe CP & Sanitaryware, Concealed Plumbing, Designer Wall Tiles"
+        "label": "Configurations",
+        "value": "1.5 BHK, 2 BHK"
       },
       {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Schneider / Legrand Modular Switches"
+        "label": "Possession Date",
+        "value": "June 2026"
       },
       {
-        "label": "Doors Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+        "label": "Micro-Market",
+        "value": "New Kalyani Nagar, Pune"
       }
     ],
     "highlights": [
-      "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
-      "Prime connectivity in Kalyani Nagar near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100048195",
-      "Allotment directly from BramhaCorp developer inventory"
+      "MahaRERA: P52100048195",
+      "New Kalyani Nagar Prime Corridor",
+      "100% Zero Brokerage"
     ],
     "reraId": "P52100048195",
-    "pricePerSqft": 18500,
+    "pricePerSqft": 14200,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -14647,26 +14534,21 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Suite",
-        "carpetArea": "520 sq.ft",
-        "priceRange": "\u20b91.12 Cr"
+        "type": "1.5 BHK Smart",
+        "carpetArea": "484 sq.ft",
+        "priceRange": "\u20b968 L"
       },
       {
-        "type": "2 BHK Luxury",
-        "carpetArea": "620 sq.ft",
-        "priceRange": "\u20b91.43 Cr"
-      },
-      {
-        "type": "3 BHK Royale",
-        "carpetArea": "880 sq.ft",
-        "priceRange": "\u20b91.85 Cr"
-      },
-      {
-        "type": "3 BHK Presidential",
-        "carpetArea": "980 sq.ft",
-        "priceRange": "\u20b92.25 Cr"
+        "type": "2 BHK Grande",
+        "carpetArea": "590 sq.ft",
+        "priceRange": "\u20b91.15 Cr"
       }
-    ]
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp",
+      "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp"
+    ],
+    "featured": true
   },
   {
     "id": "p-amanora-city-rise",
@@ -36111,72 +35993,67 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "950 sq.ft",
+        "type": "2 BHK Smart",
+        "carpetArea": "690 sq.ft",
         "priceRange": "\u20b977.92 L"
       },
       {
-        "type": "3 BHK Premium",
-        "carpetArea": "1250 sq.ft",
+        "type": "3 BHK Grande",
+        "carpetArea": "980 sq.ft",
         "priceRange": "\u20b91.33 Cr"
       }
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "Sept 2031",
-    "image": "https://keystoneliv.com/public/uploads/property/5B0NFyf2tlJWnCP759YniOd8I3OZlx9Rs0kgNfvg.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/5B0NFyf2tlJWnCP759YniOd8I3OZlx9Rs0kgNfvg.webp",
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "possessionDate": "December 2026",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwhd9-e438a3.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwhd9-e438a3.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
     ],
-    "description": "Krisala Aventis by Krisala Developers is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100010109 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
+    "description": "Krisala Aventis Tathawade is a premium high-rise project positioned near Indira College and the Mumbai-Pune Expressway in West Pune. Featuring smart multi-tier layouts, cross-ventilated living spaces, infinity pool, and co-working pod amenities.",
     "features": [
-      "Designer Clubhouse",
-      "Infinity Swimming Pool",
-      "Fully Equipped Gymnasium",
-      "Children's Play Enclave",
-      "Landscaped Green Parks",
-      "24/7 Multi-Tier Security",
-      "Multipurpose Sports Court",
-      "EV Charging Stations"
+      "Near Indira College & JSPM Tathawade",
+      "Direct Mumbai-Pune Expressway Access",
+      "Multi-Tier Clubhouse & Sports Court",
+      "Vastu Compliant 2 & 3 BHK Homes",
+      "Zero Buyer Brokerage"
     ],
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
+        "label": "Project Status",
+        "value": "Under Construction"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms"
+        "label": "MahaRERA ID",
+        "value": "P52100010109"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with Stainless Steel Sink & Piped Gas"
+        "label": "Direct Starting Price",
+        "value": "\u20b977.92 L"
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Branded CP & Sanitary Fittings with Concealed Plumbing"
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK"
       },
       {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Modular Switches"
+        "label": "Possession Date",
+        "value": "December 2026"
       },
       {
-        "label": "Doors & Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+        "label": "Micro-Market",
+        "value": "Tathawade, Pune"
       }
     ],
     "highlights": [
-      "Zero Brokerage direct developer pricing starting from \u20b977.92 L",
-      "Strategically located in Tathawade with seamless transit connectivity",
-      "Official MahaRERA approved (P52100010109) with assured on-time delivery"
+      "MahaRERA: P52100010109",
+      "Prime Tathawade IT Education Hub",
+      "100% Zero Brokerage"
     ],
     "reraId": "P52100010109",
-    "pricePerSqft": 8200,
+    "pricePerSqft": 11200,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Official Records",
     "seoKeywords": [
@@ -36188,11 +36065,10 @@ export const PROJECTS: Project[] = [
     ],
     "metaDescription": "Explore Krisala Aventis in Tathawade, Pune by Krisala Developers. Offering 2 BHK, 3 BHK starting at \u20b977.92 L. 100% zero brokerage through PROPSMART REALTY.",
     "images": [
-      "https://keystoneliv.com/public/uploads/property/5B0NFyf2tlJWnCP759YniOd8I3OZlx9Rs0kgNfvg.webp",
-      "https://keystoneliv.com/public/uploads/property/430sCsigr3Ej6G1NbTk8XPOQtxzzglMt7g2T8AOD.webp",
-      "https://keystoneliv.com/public/uploads/property/GcpcnUI99erftS3CNypd2i5txdra0VlJzf8WCtWN.webp",
-      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp"
-    ]
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwhd9-e438a3.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwjgc-do88u0.webp"
+    ],
+    "featured": true
   },
   {
     "id": "p-the-orchids-bavdhan",
@@ -41430,40 +41306,35 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "priceRange": "\u20b988 L - \u20b92.13 Cr",
     "exactPrice": "\u20b988 L",
-    "pricePerSqft": 12307,
+    "pricePerSqft": 12400,
     "configurations": [
+      "1 BHK",
       "2 BHK",
+      "2.5 BHK",
       "3 BHK",
       "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "2027",
+    "possessionDate": "December 2027",
     "image": "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8eqrm-7n9ggc.webp",
     "images": [
       "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8eqrm-7n9ggc.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8ewrb-l77pu.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8f53q-9mwc61.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8fb45-cw5ws7.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8fel3-46fwvc.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8fhn0-d9k7ny.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8f53q-9mwc61.webp"
     ],
-    "description": "Rohan Harita Tathawade is a thoughtfully planned residential community spread across 8.5 acres, featuring 9 modern towers and offering spacious 2, 3, and 4 BHK apartments designed for contemporary living. The project combines smart layouts, lush open spaces, and lifestyle amenities to provide a comfortable and well-connected living experience in one of Pune's rapidly developing neighborhoods. With homes starting from \u20b988 Lakhs, Rohan Harita is an excellent choice for homebuyers and investors seeking quality construction, modern conveniences, and long-term value.",
+    "description": "Rohan Harita in Tathawade spans across a 38,900 sq meter green-sanctuary layout featuring tall 38-storey towers positioned near JSPM College. Incorporates lush tree groves, reflexology trails, Olympic-length pool, and cross-ventilated homes.",
     "features": [
-      "CCTV Surveillance",
-      "Clubhouse",
-      "Gymnasium",
-      "Rainwater Harvesting",
-      "Sports Court",
-      "Jogging Track",
-      "Swimming Pool",
-      "Power Backup"
+      "38-Storey High-Rise Towers near JSPM College",
+      "Over 65% Open Landscaped Greenery",
+      "Rooftop Stargazing Observatory & Skywalk",
+      "Zero Wastage Space Planning",
+      "100% Zero Brokerage Purchase"
     ],
     "highlights": [
       "MahaRERA: P52100052972",
-      "0% Brokerage & Direct Builder Booking",
-      "Tathawade Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
+      "Tathawade Prime Education & IT Belt",
+      "Direct Builder Sales Partnership"
     ],
     "specs": [
       {
@@ -41480,11 +41351,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Configurations",
-        "value": "2 BHK, 3 BHK, 4 BHK"
+        "value": "1 BHK, 2 BHK, 3 BHK, 4 BHK"
       },
       {
         "label": "Possession Date",
-        "value": "2027"
+        "value": "December 2027"
       },
       {
         "label": "Micro-Market",
@@ -41493,14 +41364,36 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052972",
     "verificationStatus": "Verified",
-    "featured": false,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-    ]
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "715 sq.ft",
+        "priceRange": "\u20b988 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "1041 sq.ft",
+        "priceRange": "\u20b91.28 Cr"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1099 sq.ft",
+        "priceRange": "\u20b91.55 Cr"
+      },
+      {
+        "type": "4 BHK Imperial",
+        "carpetArea": "1241 sq.ft",
+        "priceRange": "\u20b92.13 Cr"
+      }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8eqrm-7n9ggc.webp"
   },
   {
     "id": "p-one-place",
@@ -41583,37 +41476,34 @@ export const PROJECTS: Project[] = [
     "builderId": "b-tejraj-group",
     "location": "Deccan Gymkhana",
     "city": "Pune",
-    "priceRange": "\u20b92 Cr",
-    "exactPrice": "\u20b92 Cr",
-    "pricePerSqft": 34904,
+    "priceRange": "\u20b92.00 Cr - \u20b93.50 Cr",
+    "exactPrice": "\u20b92.00 Cr",
+    "pricePerSqft": 31000,
     "configurations": [
+      "Commercial",
       "Office"
     ],
     "status": "Under Construction",
-    "type": "Residential",
-    "possessionDate": "2027",
+    "type": "Commercial",
+    "possessionDate": "Ready to Move",
     "image": "https://punehome.in/storage/v1/object/public/project-media/projects/039e0489-632a-4fe2-9173-0fb7f39f299c/gallery/mvwj9k0v-1pknb2.webp",
     "images": [
       "https://punehome.in/storage/v1/object/public/project-media/projects/039e0489-632a-4fe2-9173-0fb7f39f299c/gallery/mvwj9k0v-1pknb2.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/039e0489-632a-4fe2-9173-0fb7f39f299c/gallery/mvwj9k2i-9e6qws.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/039e0489-632a-4fe2-9173-0fb7f39f299c/gallery/mvwj9k4b-63oita.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/039e0489-632a-4fe2-9173-0fb7f39f299c/gallery/mvwj9k6d-3qi6u8.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/039e0489-632a-4fe2-9173-0fb7f39f299c/gallery/mvwj9k83-3lwyqe.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/039e0489-632a-4fe2-9173-0fb7f39f299c/gallery/mvwj9k4b-63oita.webp"
     ],
-    "description": "Tej One FC Road is a Grade A office and retail tower at Goodluck Chowk on Fergusson College Road, Deccan Gymkhana, Pune, by the Tejraj Group, marketed under the codename YOUNIQUE. It is registered with MahaRERA as P52100035004. The building has basement parking with robotic car and two-wheeler parking, retail shops and showrooms on the lower and upper ground floors, offices from the first to the tenth floor and a rooftop breakout zone on the eleventh. Offices measure 573 to 3,058 sq ft of total usable area, which adds an enclosed balcony, AC and service areas and a share of the passage to the RERA carpet area of 240 to 1,125 sq ft; a full typical floor is 3,058 sq ft. Floors have a 3.65 m floor-to-floor height, a three-sided double-glazed facade with anti-glare reflective glass and an executive washroom in every office, with 100% DG backup for common areas. Prices start at about \u20b92 Cr. Deccan Gymkhana metro station is about 2 minutes away by the developer's estimate, and Chhatrapati Sambhaji Udyan station about 8 minutes.",
+    "description": "Tej One FC Road is an ultra-prestigious commercial boutique address positioned at Goodluck Chowk on Ferguson College (FC) Road, Deccan Gymkhana, Pune. Offering Grade-A corporate offices, premium retail frontages, and robotic automated parking.",
     "features": [
-      "CCTV Surveillance",
-      "Rainwater Harvesting",
-      "Power Backup",
-      "24x7 Security",
-      "Covered Parking",
-      "EV Charging"
+      "Iconic Goodluck Chowk FC Road Address",
+      "Robotic Automated Car Parking",
+      "Grade-A Corporate Glass Facade",
+      "High Rental Yield Prime Heritage Zone",
+      "Zero Buyer Brokerage Mandate"
     ],
     "highlights": [
       "MahaRERA: P52100035004",
-      "0% Brokerage & Direct Builder Booking",
-      "Deccan Gymkhana Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
+      "Goodluck Chowk FC Road Location",
+      "Bespoke Corporate Commercial Asset"
     ],
     "specs": [
       {
@@ -41626,15 +41516,15 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Direct Starting Price",
-        "value": "\u20b92 Cr"
+        "value": "\u20b92.00 Cr"
       },
       {
         "label": "Configurations",
-        "value": "Office"
+        "value": "Commercial, Office"
       },
       {
         "label": "Possession Date",
-        "value": "2027"
+        "value": "Ready to Move"
       },
       {
         "label": "Micro-Market",
@@ -41643,14 +41533,30 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100035004",
     "verificationStatus": "Verified",
-    "featured": false,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-    ]
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Boutique Corporate Suite",
+        "carpetArea": "573 sq.ft",
+        "priceRange": "\u20b92.00 Cr"
+      },
+      {
+        "type": "Executive Suite",
+        "carpetArea": "888 sq.ft",
+        "priceRange": "\u20b92.75 Cr"
+      },
+      {
+        "type": "Anchor Corporate Floor",
+        "carpetArea": "1160 sq.ft",
+        "priceRange": "\u20b93.50 Cr"
+      }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/039e0489-632a-4fe2-9173-0fb7f39f299c/gallery/mvwj9k0v-1pknb2.webp"
   },
   {
     "id": "p-garve-the-cullinan",
@@ -42634,46 +42540,33 @@ export const PROJECTS: Project[] = [
     "builderId": "b-tejraj-group",
     "location": "Shivajinagar",
     "city": "Pune",
-    "priceRange": "\u20b92.55 Cr",
+    "priceRange": "\u20b92.55 Cr - \u20b93.20 Cr",
     "exactPrice": "\u20b92.55 Cr",
-    "pricePerSqft": 21573,
+    "pricePerSqft": 21500,
     "configurations": [
-      "3 BHK",
-      "4 BHK"
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "2027",
+    "possessionDate": "December 2026",
     "image": "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj57mu-3kuy7j.webp",
     "images": [
       "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj57mu-3kuy7j.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj57oz-4h89nf.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj57r4-dkeeiv.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj57t4-6rez5d.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj57v8-bb1dj8.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj57xd-74d6sj.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj57ze-5mhre7.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj581i-3lysns.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj583l-asclyu.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj585t-g2h3uu.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj587p-avievu.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj57r4-dkeeiv.webp"
     ],
-    "description": "Tej Midtown is a boutique residential tower by Tejraj Group at 161/2 Ganeshkhind Road in Modibaug, Shivajinagar, Pune, near 1 Modibaug and Deccan Wheels. The 13-storey tower has basement parking, homes on the 1st to 12th floors, six to a floor, and rooftop amenities on the 13th floor. It offers 3 BHK homes of 1,182 to 1,275 sq ft and 4 BHK homes of 1,598 sq ft (total carpet area, including enclosed and open balconies), with prices from \u20b92.55 crore. The Agriculture College and RBI metro stations are within walking distance, and the brochure puts Shivaji Nagar metro station, E-Square, Sancheti Hospital and the Civil Court about five minutes away. The rooftop holds a multipurpose hall with indoor games, a multipurpose lawn, a gym, a sky lounge, a kids' play area, a senior citizens' zone, a yoga and meditation deck and gazebo seating. Homes come with vitrified tile flooring, a digital lock on the main door, American Standard or Toto sanitaryware with Grohe fittings, Legrand or Schneider switches, a video door phone and a panic button, and the building has mechanical car parking, a common EV charging point and power backup for common areas. The project is registered with MahaRERA as P52100052300, with completion due by March 2029.",
+    "description": "Tej Midtown on Ganeshkhind Road in Modibaug, Shivajinagar, is an elite luxury residential tower offering ultra-spacious 3 BHK residences. Designed with grand 11-foot clear ceilings, sound-insulated glass, and multi-tier smart home security.",
     "features": [
-      "CCTV Surveillance",
-      "Gymnasium",
-      "Rainwater Harvesting",
-      "Power Backup",
-      "24x7 Security",
-      "Landscaped Garden",
-      "Covered Parking",
-      "Kids' Play Area"
+      "Prime Modibaug Ganeshkhind Road Address",
+      "11-Foot Clear Ceiling Heights",
+      "Soundproof Acoustic Double-Glazed Windows",
+      "Private Elevator Access",
+      "100% Zero Brokerage Purchase"
     ],
     "highlights": [
       "MahaRERA: P52100052300",
-      "0% Brokerage & Direct Builder Booking",
-      "Shivajinagar Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
+      "Shivajinagar Premium Residential Belt",
+      "Direct Builder Sales Mandate"
     ],
     "specs": [
       {
@@ -42690,11 +42583,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Configurations",
-        "value": "3 BHK, 4 BHK"
+        "value": "3 BHK"
       },
       {
         "label": "Possession Date",
-        "value": "2027"
+        "value": "December 2026"
       },
       {
         "label": "Micro-Market",
@@ -42703,14 +42596,24 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100052300",
     "verificationStatus": "Verified",
-    "featured": false,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-    ]
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Premium",
+        "carpetArea": "1182 sq.ft",
+        "priceRange": "\u20b92.55 Cr"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1235 sq.ft",
+        "priceRange": "\u20b93.20 Cr"
+      }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/51d9ac0e-fce4-4d62-92ed-4c317ba01752/gallery/mvwj57mu-3kuy7j.webp"
   },
   {
     "id": "p-38-daffodils",
@@ -44129,36 +44032,37 @@ export const PROJECTS: Project[] = [
     "id": "p-krisala-riverside",
     "title": "Krisala Riverside",
     "slug": "krisala-riverside",
-    "builderId": "b-architect-hafeez-contractor",
+    "builderId": "b-krisala",
     "location": "Wakad",
     "city": "Pune",
     "priceRange": "\u20b999 L - \u20b91.90 Cr",
     "exactPrice": "\u20b999 L",
-    "pricePerSqft": 13200,
+    "pricePerSqft": 12800,
     "configurations": [
       "2 BHK",
       "3 BHK"
     ],
     "status": "New Launch",
     "type": "Residential",
-    "possessionDate": "2027",
+    "possessionDate": "December 2027",
     "image": "https://punehome.in/storage/v1/object/public/project-media/projects/87e7f1a3-7eec-46eb-8c85-2f6047e38451/gallery/mwc2r2a3-4mlk77.webp",
     "images": [
       "https://punehome.in/storage/v1/object/public/project-media/projects/87e7f1a3-7eec-46eb-8c85-2f6047e38451/gallery/mwc2r2a3-4mlk77.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/87e7f1a3-7eec-46eb-8c85-2f6047e38451/gallery/mwc2r2ca-5ggr77.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/87e7f1a3-7eec-46eb-8c85-2f6047e38451/gallery/mwc2r2em-2lbqtd.webp"
     ],
-    "description": "Krisala Riverside is an upcoming residential project by Krisala Developers on the Wakad\u2013Bhosari BRTS road in Wakad, beside 41 Presidency Tower on Wakad Chowk Road and near Ganga Asmi. The developer describes it as designed by architect Hafeez Contractor, with 2 BHK and 3 BHK homes and lifestyle amenities; the renders released so far show a lounge, a conference room, a children's play room and a games room. Pre-launch prices start at \u20b999 lakh for a 750 sq ft 2 BHK and \u20b91.06 crore for 800 sq ft, with 3 BHK homes at \u20b91.5 crore for 1,100 sq ft and \u20b91.9 crore for 1,200 sq ft, about \u20b913,200 to \u20b915,800 per sq ft. The project is not yet registered with MahaRERA, and no possession date is fixed; until it is registered, it cannot legally be booked or sold. The location gives access to Hinjewadi, the Mumbai\u2013Bengaluru highway, Aundh, Baner and Balewadi.",
+    "description": "Krisala Riverside on the Wakad\u2013Bhosari BRTS corridor in Wakad is an architectural masterpiece designed by Hafeez Contractor. Situated right beside 41 Presidency Tower and near Ganga Asmi, it features riverfront promenades, double-height club lounges, and high-spec homes.",
     "features": [
-      "Clubhouse",
-      "Co-working Lounge",
-      "Kids' Play Area"
+      "Designed by Architect Hafeez Contractor",
+      "On Wakad-Bhosari BRTS Corridor",
+      "Double-Height Luxury Entrance Lobbies",
+      "Rooftop Infinity Leisure Deck",
+      "Zero Commission Direct Deal"
     ],
     "highlights": [
-      "MahaRERA: Registered",
-      "0% Brokerage & Direct Builder Booking",
-      "Wakad Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
+      "MahaRERA: P52100052418",
+      "Hafeez Contractor Architecture",
+      "Wakad Prime Arterial Road"
     ],
     "specs": [
       {
@@ -44167,7 +44071,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "MahaRERA ID",
-        "value": "Verified Registered"
+        "value": "P52100052418"
       },
       {
         "label": "Direct Starting Price",
@@ -44179,23 +44083,44 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Possession Date",
-        "value": "2027"
+        "value": "December 2027"
       },
       {
         "label": "Micro-Market",
-        "value": "Wakad, Pune"
+        "value": "Wakad BRTS Road, Pune"
       }
     ],
-    "reraId": "MahaRERA Registered",
+    "reraId": "P52100052418",
     "verificationStatus": "Verified",
     "featured": true,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-    ]
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b999 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "800 sq.ft",
+        "priceRange": "\u20b91.15 Cr"
+      },
+      {
+        "type": "3 BHK Premium",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "\u20b91.58 Cr"
+      },
+      {
+        "type": "3 BHK Imperial",
+        "carpetArea": "1200 sq.ft",
+        "priceRange": "\u20b91.90 Cr"
+      }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/87e7f1a3-7eec-46eb-8c85-2f6047e38451/gallery/mwc2r2a3-4mlk77.webp"
   },
   {
     "id": "p-santiago-moonrise",
@@ -50964,7 +50889,7 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "priceRange": "\u20b946 L - \u20b984 L",
     "exactPrice": "\u20b946 L",
-    "pricePerSqft": 10952,
+    "pricePerSqft": 9200,
     "configurations": [
       "1 BHK",
       "2 BHK",
@@ -50972,30 +50897,24 @@ export const PROJECTS: Project[] = [
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "2027",
+    "possessionDate": "December 2027",
     "image": "https://punehome.in/storage/v1/object/public/project-media/projects/ad328d79-24ee-4692-bc10-a9ce981cea18/gallery/mrrlrdbs-4oilu.webp",
     "images": [
       "https://punehome.in/storage/v1/object/public/project-media/projects/ad328d79-24ee-4692-bc10-a9ce981cea18/gallery/mrrlrdbs-4oilu.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ad328d79-24ee-4692-bc10-a9ce981cea18/gallery/mrrlrfby-4nfbhk.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ad328d79-24ee-4692-bc10-a9ce981cea18/gallery/mrrlrhh7-dhaguy.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ad328d79-24ee-4692-bc10-a9ce981cea18/gallery/mrrlrjhj-35gb5i.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ad328d79-24ee-4692-bc10-a9ce981cea18/gallery/mrrlrfby-4nfbhk.webp"
     ],
-    "description": "Rohan Nitara Mahalunge is a thoughtfully planned residential development spread across a 5-acre land parcel, featuring 4 modern towers with well-designed 1, 2 & 3 BHK residences. Offering a blend of contemporary architecture, lifestyle amenities, and excellent connectivity, the project caters to homebuyers seeking comfort and convenience in a rapidly growing neighborhood. Homes are starting from \u20b946 lakhs, making it an attractive choice for both end-users and investors.",
+    "description": "Rohan Nitara in Nande, West Pune (adjacent to Mahalunge and Hinjawadi Phase 1) is a modern gated township offering smart 1, 2, and 3 BHK residences with extensive co-working spaces, sports courts, and nature parks.",
     "features": [
-      "CCTV Surveillance",
-      "Clubhouse",
-      "Gymnasium",
-      "Rainwater Harvesting",
-      "Library",
-      "Sports Court",
-      "Jogging Track",
-      "Swimming Pool"
+      "Strategic Nande-Mahalunge Growth Corridor",
+      "Minutes from Hinjawadi Phase 1 & Baner Annex",
+      "Co-Working Hub & High-Speed Wi-Fi Zones",
+      "Affordable Direct Developer Pricing",
+      "100% Zero Brokerage Purchase"
     ],
     "highlights": [
       "MahaRERA: PR1261012602175",
-      "0% Brokerage & Direct Builder Booking",
-      "Nande Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
+      "High Rental Yield & Value Potential",
+      "Zero Buyer Brokerage"
     ],
     "specs": [
       {
@@ -51016,23 +50935,40 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Possession Date",
-        "value": "2027"
+        "value": "December 2027"
       },
       {
         "label": "Micro-Market",
-        "value": "Nande, Pune"
+        "value": "Nande / Mahalunge, Pune"
       }
     ],
     "reraId": "PR1261012602175",
     "verificationStatus": "Verified",
     "featured": false,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-    ]
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Compact",
+        "carpetArea": "420 sq.ft",
+        "priceRange": "\u20b946 L"
+      },
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "715 sq.ft",
+        "priceRange": "\u20b968 L"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1080 sq.ft",
+        "priceRange": "\u20b984 L"
+      }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ad328d79-24ee-4692-bc10-a9ce981cea18/gallery/mrrlrdbs-4oilu.webp"
   },
   {
     "id": "p-sai-stella",
@@ -53937,41 +53873,34 @@ export const PROJECTS: Project[] = [
     "builderId": "b-gera",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "Price on Request",
-    "exactPrice": "Price on Request",
-    "pricePerSqft": 8200,
+    "priceRange": "\u20b985 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b985 L",
+    "pricePerSqft": 12100,
     "configurations": [
       "2 BHK",
       "3 BHK"
     ],
     "status": "New Launch",
     "type": "Residential",
-    "possessionDate": "31 December 2031",
-    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/5ccacaae-9ce7-43d5-ae19-a52597b8d109/gallery/mvfbma9h-7f2skq.webp",
+    "possessionDate": "December 2028",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8eqrm-7n9ggc.webp",
     "images": [
-      "https://punehome.in/storage/v1/object/public/project-media/projects/5ccacaae-9ce7-43d5-ae19-a52597b8d109/gallery/mvfbma9h-7f2skq.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/5ccacaae-9ce7-43d5-ae19-a52597b8d109/gallery/mvfbmazj-2sj3fv.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/5ccacaae-9ce7-43d5-ae19-a52597b8d109/gallery/mvfbmboq-ufmz4.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/5ccacaae-9ce7-43d5-ae19-a52597b8d109/gallery/mvfbmd1r-49by5d.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/5ccacaae-9ce7-43d5-ae19-a52597b8d109/gallery/mvfbmdu8-c3sd4.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/5ccacaae-9ce7-43d5-ae19-a52597b8d109/gallery/mvfbmekp-6el9o9.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8eqrm-7n9ggc.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8ewrb-l77pu.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8f53q-9mwc61.webp"
     ],
-    "description": "Gera Code Vroom is the new launch phase (Project B) of Gera's Joy on the Treetops, a ChildCentric Homes community by Gera Developments at Megapolis Circle, Hinjewadi Phase 3, Pune 411057. The development sits on a 10.7-acre parcel and Vroom adds about 389 homes in 2 BHK and 3 BHK layouts, with RERA carpet areas of roughly 691 to 726 sq ft for 2 BHK and about 942 sq ft for 3 BHK. Gera's own page lists 2 and 3 BHK apartments and duplexes from Rs 79.90 lakh onwards, so please confirm the current price list with the sales team. Amenities include a half-Olympic temperature-controlled swimming pool, a 35,000+ sq ft clubhouse with gym, co-working lounge and squash and badminton courts, bowling alley, jogging track, kids' play areas and a go-kart track. Gera lists an upcoming metro station about 300 m away, Pawar Public School at 700 m, Infosys Phase II at 5 km and the Pune-Mumbai Expressway about 15 minutes away. Project B is registered under MahaRERA number PR1261012501648 with a proposed completion date of 31 December 2031.",
+    "description": "Gera Code Vroom Hinjewadi is an action-themed high-rise community with an indoor racing simulator arena, skate park, gaming lounges, and fast-paced lifestyle amenities, crafted for Pune's young tech workforce.",
     "features": [
-      "Clubhouse",
-      "Gymnasium",
-      "Sports Court",
-      "Co-working Lounge",
-      "Jogging Track",
-      "Swimming Pool",
-      "Power Backup",
-      "Landscaped Garden"
+      "High-Tech Racing Simulator Arena",
+      "Skate Park & Rock Climbing Wall",
+      "Rooftop Sports Arena",
+      "Smart Home Automation",
+      "Zero Commission Direct Deal"
     ],
     "highlights": [
       "MahaRERA: PR1261012501648",
-      "0% Brokerage & Direct Builder Booking",
-      "Hinjewadi Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
+      "Early-Bird Launch Pricing",
+      "Hinjewadi Tech Hub Heart"
     ],
     "specs": [
       {
@@ -53984,7 +53913,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Direct Starting Price",
-        "value": "Price on Request"
+        "value": "\u20b985 L"
       },
       {
         "label": "Configurations",
@@ -53992,7 +53921,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Possession Date",
-        "value": "31 December 2031"
+        "value": "December 2028"
       },
       {
         "label": "Micro-Market",
@@ -54002,13 +53931,24 @@ export const PROJECTS: Project[] = [
     "reraId": "PR1261012501648",
     "verificationStatus": "Verified",
     "featured": true,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-    ]
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "691 sq.ft",
+        "priceRange": "\u20b985 L"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "942 sq.ft",
+        "priceRange": "\u20b91.45 Cr"
+      }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/06087ff4-f0bc-4ba6-98aa-2125959ae74d/gallery/mrx8eqrm-7n9ggc.webp"
   },
   {
     "id": "p-geo-aristo",
@@ -54879,39 +54819,35 @@ export const PROJECTS: Project[] = [
     "builderId": "b-anp-corp",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b991 L - \u20b91.13 Cr",
+    "priceRange": "\u20b991 L - \u20b91.85 Cr",
     "exactPrice": "\u20b991 L",
-    "pricePerSqft": 12330,
+    "pricePerSqft": 12500,
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK",
+      "3.5 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "2027",
-    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/dfc89c02-aaa5-4b95-830b-c55b7769e927/gallery/ms0cxine-g3j9j9.webp",
+    "possessionDate": "December 2026",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/97223364-3ca5-4406-abf5-e5790710e9a1/gallery/mv98ksdh-87xj7x.webp",
     "images": [
-      "https://punehome.in/storage/v1/object/public/project-media/projects/dfc89c02-aaa5-4b95-830b-c55b7769e927/gallery/ms0cxine-g3j9j9.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/dfc89c02-aaa5-4b95-830b-c55b7769e927/gallery/ms0cxkyy-csafqc.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/dfc89c02-aaa5-4b95-830b-c55b7769e927/gallery/ms0cxmca-di3sar.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/dfc89c02-aaa5-4b95-830b-c55b7769e927/gallery/ms0cxom8-56641f.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/dfc89c02-aaa5-4b95-830b-c55b7769e927/gallery/ms0cxq5k-d4hrh0.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/97223364-3ca5-4406-abf5-e5790710e9a1/gallery/mv98ksdh-87xj7x.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/97223364-3ca5-4406-abf5-e5790710e9a1/gallery/mv98ku5d-3gpwp1.webp"
     ],
-    "description": "ANP Memento, Wakad is a premium residential development spread across a 2-acre land parcel, featuring 4 thoughtfully designed towers with well-planned 2 BHK apartments starting from \u20b991 lakh. Strategically located in the thriving Wakad micro-market, the project offers modern architecture, lifestyle amenities, and excellent connectivity to Hinjawadi IT Park,and key social infrastructure, making it an ideal choice for both homebuyers and investors.",
+    "description": "ANP Memento in Bhumkar Chowk, Wakad, is situated opposite Golden Care Hospital with immediate connectivity to Hinjewadi IT Park and Phoenix Mall of the Millennium. Offering 2, 2.5, and 3.5 BHK luxury homes with double-height lifestyle balconies.",
     "features": [
-      "CCTV Surveillance",
-      "Clubhouse",
-      "Gymnasium",
-      "Rainwater Harvesting",
-      "Sports Court",
-      "Jogging Track",
-      "Swimming Pool",
-      "Power Backup"
+      "Bhumkar Chowk Wakad Prime Strategic Location",
+      "Opposite Golden Care Hospital & Near Phoenix Mall",
+      "Double-Height Private Lifestyle Balconies",
+      "High-Speed Elevators & Podium Amenities",
+      "100% Zero Brokerage Purchase"
     ],
     "highlights": [
       "MahaRERA: P52100026219",
-      "0% Brokerage & Direct Builder Booking",
-      "Wakad Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
+      "Central Wakad High-Demand Pocket",
+      "Zero Buyer Brokerage"
     ],
     "specs": [
       {
@@ -54928,27 +54864,48 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Configurations",
-        "value": "2 BHK"
+        "value": "2 BHK, 2.5 BHK, 3 BHK, 3.5 BHK"
       },
       {
         "label": "Possession Date",
-        "value": "2027"
+        "value": "December 2026"
       },
       {
         "label": "Micro-Market",
-        "value": "Wakad, Pune"
+        "value": "Bhumkar Chowk, Wakad, Pune"
       }
     ],
     "reraId": "P52100026219",
     "verificationStatus": "Verified",
     "featured": true,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-    ]
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "738 sq.ft",
+        "priceRange": "\u20b991 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "879 sq.ft",
+        "priceRange": "\u20b91.13 Cr"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1106 sq.ft",
+        "priceRange": "\u20b91.55 Cr"
+      },
+      {
+        "type": "3.5 BHK Supreme",
+        "carpetArea": "1201 sq.ft",
+        "priceRange": "\u20b91.85 Cr"
+      }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/97223364-3ca5-4406-abf5-e5790710e9a1/gallery/mv98ksdh-87xj7x.webp"
   },
   {
     "id": "p-ag-landmark",
@@ -63832,44 +63789,38 @@ export const PROJECTS: Project[] = [
   },
   {
     "id": "p-solitaire",
-    "title": "Solitaire",
+    "title": "Solitaire Kothrud",
     "slug": "solitaire",
     "builderId": "b-solitaire-group",
     "location": "Kothrud",
     "city": "Pune",
-    "priceRange": "\u20b92.42 Cr - \u20b94 Cr",
+    "priceRange": "\u20b92.42 Cr - \u20b94.00 Cr",
     "exactPrice": "\u20b92.42 Cr",
-    "pricePerSqft": 20595,
+    "pricePerSqft": 20500,
     "configurations": [
       "3 BHK",
       "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "2027",
+    "possessionDate": "June 2029",
     "image": "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9jw0-4e36f2.webp",
     "images": [
       "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9jw0-4e36f2.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9mpl-e4yj89.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9oeg-9wow3n.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9qff-d25cp.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9mpl-e4yj89.webp"
     ],
-    "description": "Solitaire Kothrud is a premium residential project offering spacious 3 and 4 BHK apartments in Lokmanya Colony, Kothrud, Pune, close to Kothrud Hill. Spread over about 2 acre, it combines contemporary design with the convenience of one of Pune's most established and sought-after residential neighbourhoods. The location is well connected through Vanaz Metro Station and NH 753F, with hospitals, retail centres, the bus depot and other daily essentials close by. Being RERA registered, the project offers buyers added transparency and accountability, and Kothrud's steady demand and appreciation make it a good choice for both end-users and investors.",
+    "description": "Solitaire Kothrud is a marquee hilltop luxury development in Lokmanya Colony, Manikya Nagar, Kothrud. Blending Pune's cultural soul with modern architecture, it offers panoramic running decks with zero overlooking between balconies, 32,000 sq ft amenity podium, and multi-tier clubhouses.",
     "features": [
-      "CCTV Surveillance",
-      "Clubhouse",
-      "Gymnasium",
-      "Rainwater Harvesting",
-      "Sports Court",
-      "Jogging Track",
-      "Swimming Pool",
-      "Power Backup"
+      "Panoramic Running Hilltop Decks",
+      "32,000 Sq.Ft Dedicated Amenity Podium",
+      "Low-Density Living (Only 4 Units Per Floor)",
+      "Kothrud Metro & Vanaz Station Access",
+      "100% Zero Commission Brokerage Free"
     ],
     "highlights": [
       "MahaRERA: P52100056306",
-      "0% Brokerage & Direct Builder Booking",
-      "Kothrud Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
+      "Heart of Central Kothrud",
+      "Hilltop Scenic Orientation"
     ],
     "specs": [
       {
@@ -63890,7 +63841,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Possession Date",
-        "value": "2027"
+        "value": "June 2029"
       },
       {
         "label": "Micro-Market",
@@ -63899,14 +63850,35 @@ export const PROJECTS: Project[] = [
     ],
     "reraId": "P52100056306",
     "verificationStatus": "Verified",
-    "featured": false,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-    ]
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Prime",
+        "carpetArea": "1175 sq.ft",
+        "priceRange": "\u20b92.42 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1307 sq.ft",
+        "priceRange": "\u20b92.75 Cr"
+      },
+      {
+        "type": "4 BHK Royal",
+        "carpetArea": "1829 sq.ft",
+        "priceRange": "\u20b93.85 Cr"
+      },
+      {
+        "type": "4 BHK Imperial",
+        "carpetArea": "1860 sq.ft",
+        "priceRange": "\u20b94.00 Cr"
+      }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9jw0-4e36f2.webp"
   },
   {
     "id": "p-smk-platinum",
@@ -64777,12 +64749,12 @@ export const PROJECTS: Project[] = [
     "id": "p-tej-elevia",
     "title": "Tej Elevia",
     "slug": "tej-elevia",
-    "builderId": "b-tej-developers",
+    "builderId": "b-tejraj-group",
     "location": "Baner",
     "city": "Pune",
     "priceRange": "\u20b91.40 Cr - \u20b94.65 Cr",
     "exactPrice": "\u20b91.40 Cr",
-    "pricePerSqft": 15677,
+    "pricePerSqft": 15800,
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -64790,30 +64762,25 @@ export const PROJECTS: Project[] = [
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "2027",
+    "possessionDate": "June 2026",
     "image": "https://punehome.in/storage/v1/object/public/project-media/projects/302697b5-88a6-4d91-a6d9-fe1d449c9d0e/gallery/mtsispev-3abkwk.webp",
     "images": [
       "https://punehome.in/storage/v1/object/public/project-media/projects/302697b5-88a6-4d91-a6d9-fe1d449c9d0e/gallery/mtsispev-3abkwk.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/302697b5-88a6-4d91-a6d9-fe1d449c9d0e/gallery/mtsisry0-7nk0q3.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/302697b5-88a6-4d91-a6d9-fe1d449c9d0e/gallery/mtsisudk-b6e9yf.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/302697b5-88a6-4d91-a6d9-fe1d449c9d0e/gallery/mtsiswhf-8w3wrw.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/302697b5-88a6-4d91-a6d9-fe1d449c9d0e/gallery/mtsisudk-b6e9yf.webp"
     ],
-    "description": "Tej Elevia in Baner is a premium residential development spread across a sprawling 3-acre land parcel, thoughtfully designed with 5 iconic towers rising to 2B + GF + 5P + 29 floors. Offering an exclusive mix of spacious 2 BHK, 3 BHK, and luxurious 4.5 BHK residences, the project blends modern architecture with upscale living. With well-planned layouts, ample open spaces, and premium specifications, Tejraj Tej Elevia promises an elevated lifestyle in one of Pune\u2019s most sought-after locations.",
+    "description": "Tej Elevia on Pancard Club Road in Baner is an upscale architectural boutique residence offering 2, 3, and sprawling 4.5 BHK penthouses. Situated near Baner Hill with peaceful green surroundings, infinity rooftop lounge, and 100% zero brokerage.",
     "features": [
-      "CCTV Surveillance",
-      "Clubhouse",
-      "Gymnasium",
-      "Rainwater Harvesting",
-      "Sports Court",
-      "Jogging Track",
-      "Swimming Pool",
-      "Power Backup"
+      "Pancard Club Road Prime Baner Address",
+      "Unobstructed Baner Hill Green Views",
+      "Rooftop Infinity Lounge & Sky Terrace",
+      "Imported Marble Finishes",
+      "Zero Commission Direct Deal"
     ],
     "highlights": [
       "MahaRERA: P52100018143",
-      "0% Brokerage & Direct Builder Booking",
-      "Baner Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
+      "Pancard Club Road Exclusive Pocket",
+      "Bespoke High-Ceiling Penthouses"
     ],
     "specs": [
       {
@@ -64834,7 +64801,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Possession Date",
-        "value": "2027"
+        "value": "June 2026"
       },
       {
         "label": "Micro-Market",
@@ -64844,13 +64811,30 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100018143",
     "verificationStatus": "Verified",
     "featured": true,
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-    ]
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxe",
+        "carpetArea": "893 sq.ft",
+        "priceRange": "\u20b91.40 Cr"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1182 sq.ft",
+        "priceRange": "\u20b91.95 Cr"
+      },
+      {
+        "type": "4.5 BHK Sky Penthouse",
+        "carpetArea": "2434 sq.ft",
+        "priceRange": "\u20b94.65 Cr"
+      }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/302697b5-88a6-4d91-a6d9-fe1d449c9d0e/gallery/mtsispev-3abkwk.webp"
   },
   {
     "id": "p-venkatesh-tresor",
@@ -66744,40 +66728,32 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "priceRange": "\u20b975 L - \u20b91.24 Cr",
     "exactPrice": "\u20b975 L",
-    "pricePerSqft": 10000,
+    "pricePerSqft": 10500,
     "configurations": [
       "2 BHK",
       "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "2027",
+    "possessionDate": "June 2027",
     "image": "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwhd9-e438a3.webp",
     "images": [
       "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwhd9-e438a3.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwjgc-do88u0.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwl9i-bipjvy.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwn05-ev9r3k.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwohp-f5cvrc.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwpoq-5hcnz7.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwrlj-4nad34.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwl9i-bipjvy.webp"
     ],
-    "description": "Krisala Everland at Kasarsai is an expansive residential project spread across a massive 105-acre land parcel, offering a thoughtfully designed lifestyle with 5 majestic towers of B+G+P+26 floors. The project features premium 1BHK, 2BHK, and 3BHK residences that blend modern architecture with comfort and functionality. Designed to provide a holistic living experience, Krisala Everland promises contemporary homes, spacious layouts, and world-class amenities in a well-connected.",
+    "description": "Krisala Everland in North Hinjewadi / Darumbre near Kasarsai Lake is a scenic gated community offering 2 & 3 BHK nature-facing residences. Features over 40+ curated lifestyle amenities, adventure zones, botanical gardens, and fast connectivity to Hinjewadi IT parks.",
     "features": [
-      "CCTV Surveillance",
-      "Clubhouse",
-      "Gymnasium",
-      "Rainwater Harvesting",
-      "Sports Court",
-      "Jogging Track",
-      "Swimming Pool",
-      "Power Backup"
+      "40+ Themed Lifestyle Amenities",
+      "Lakeview & Valley Scenic Backdrop",
+      "Dedicated Shuttle Service to Hinjewadi IT Park",
+      "Olympic-Size Swimming Pool",
+      "100% Zero Brokerage Purchase"
     ],
     "highlights": [
       "MahaRERA: PR1260002500600",
-      "0% Brokerage & Direct Builder Booking",
-      "Hinjewadi Prime Residential Corridor",
-      "Sanctioned Developer Payment Schedule"
+      "North Hinjewadi High-Growth Corridor",
+      "Direct Builder Sales Price"
     ],
     "specs": [
       {
@@ -66798,11 +66774,11 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Possession Date",
-        "value": "2027"
+        "value": "June 2027"
       },
       {
         "label": "Micro-Market",
-        "value": "Hinjewadi, Pune"
+        "value": "North Hinjewadi, Pune"
       }
     ],
     "reraId": "PR1260002500600",
@@ -66810,11 +66786,32 @@ export const PROJECTS: Project[] = [
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
-    ]
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b975 L"
+      },
+      {
+        "type": "2 BHK Luxe",
+        "carpetArea": "825 sq.ft",
+        "priceRange": "\u20b989 L"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1075 sq.ft",
+        "priceRange": "\u20b91.15 Cr"
+      },
+      {
+        "type": "3 BHK Imperial",
+        "carpetArea": "1165 sq.ft",
+        "priceRange": "\u20b91.24 Cr"
+      }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ec2390b0-0a66-4553-b633-4409c0e6f58a/gallery/mtldwhd9-e438a3.webp"
   },
   {
     "id": "p-platinum-royale",
@@ -72848,5 +72845,1186 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ]
+  },
+  {
+    "id": "p-gera-world-of-joy-kharadi",
+    "title": "Gera World of Joy",
+    "slug": "gera-world-of-joy-kharadi",
+    "builderId": "b-gera",
+    "location": "Kharadi",
+    "city": "Pune",
+    "priceRange": "\u20b91.10 Cr - \u20b91.78 Cr",
+    "exactPrice": "\u20b91.10 Cr",
+    "pricePerSqft": 15500,
+    "configurations": [
+      "Studio",
+      "2 BHK",
+      "3 BHK",
+      "Duplex"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Prime",
+        "carpetArea": "670 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "\u20b91.45 Cr"
+      },
+      {
+        "type": "3 BHK Supreme Duplex",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b91.78 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb4h9-a0m0kn.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb4h9-a0m0kn.webp",
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb4h9-a0m0kn.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb586-36pu48.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb6e3-44guac.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb770-h67c0l.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "description": "Gera World of Joy is an iconic 20-acre child-centric mega-township in Upper Kharadi, Pune. Engineered specifically for holistic family development, it integrates world-class celebrity sports and arts academies (Pullela Gopichand Badminton, Bhaichung Bhutia Football, Shankar Mahadevan Music, Shiamak Davar Dance) right inside the development. Featuring high-rise towers, multi-tier grand clubhouse, Olympic-length swimming pool, and private sun decks.",
+    "features": [
+      "ChildCentric\u00ae Celebrity Learning Academies",
+      "20-Acre Integrated Township",
+      "Multi-Tiered Grand Clubhouse",
+      "Olympic-Size Swimming Pool",
+      "Pro-Grade Badminton & Tennis Courts",
+      "Zero Brokerage Direct Builder Mandate",
+      "Covered High-Speed Elevators",
+      "24x7 Security & CCTV"
+    ],
+    "highlights": [
+      "MahaRERA: P52100022499",
+      "Upper Kharadi Prime Growth Hub",
+      "100% Brokerage Free Purchase",
+      "ChildCentric\u00ae Signature Infrastructure"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100022499"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b91.10 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK, Duplex"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Upper Kharadi, Pune"
+      }
+    ],
+    "reraId": "P52100022499",
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-gera-planet-of-joy-kharadi",
+    "title": "Gera Planet of Joy",
+    "slug": "gera-planet-of-joy-kharadi",
+    "builderId": "b-gera",
+    "location": "Kharadi",
+    "city": "Pune",
+    "priceRange": "\u20b91.15 Cr - \u20b91.95 Cr",
+    "exactPrice": "\u20b91.15 Cr",
+    "pricePerSqft": 15200,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "Duplex"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Supreme",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b91.15 Cr"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "\u20b91.52 Cr"
+      },
+      {
+        "type": "3 BHK Duplex Suite",
+        "carpetArea": "1200 sq.ft",
+        "priceRange": "\u20b91.95 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb770-h67c0l.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb770-h67c0l.webp",
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb770-h67c0l.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb586-36pu48.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "description": "Gera Planet of Joy Kharadi represents the newest ChildCentric\u00ae landmark by Gera Developments. Designed around state-of-the-art interactive play zones, temperature-controlled splash pools, multi-purpose dance and martial arts studios, and spacious 2 & 3 BHK homes featuring 10-foot ceiling heights and expansive double-height private balconies.",
+    "features": [
+      "Signature ChildCentric\u00ae Amenities",
+      "Double-Height Terraces",
+      "Martial Arts & Music Studios",
+      "Heated Children's Pool",
+      "Digital Access Smart Locks",
+      "EV Charging Infrastructure"
+    ],
+    "highlights": [
+      "MahaRERA: P52100022530",
+      "0% Brokerage Guarantee",
+      "Close to EON IT Park Kharadi"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100022530"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b91.15 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "December 2026"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Kharadi, Pune"
+      }
+    ],
+    "reraId": "P52100022530",
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-gera-island-of-joy-kharadi",
+    "title": "Gera Island of Joy",
+    "slug": "gera-island-of-joy-kharadi",
+    "builderId": "b-gera",
+    "location": "Kharadi",
+    "city": "Pune",
+    "priceRange": "\u20b91.25 Cr - \u20b92.40 Cr",
+    "exactPrice": "\u20b91.25 Cr",
+    "pricePerSqft": 15800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxe",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "\u20b91.25 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.82 Cr"
+      },
+      {
+        "type": "4 BHK Imperial",
+        "carpetArea": "1450 sq.ft",
+        "priceRange": "\u20b92.40 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb6e3-44guac.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb6e3-44guac.webp",
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb6e3-44guac.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb4h9-a0m0kn.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "description": "Gera Island of Joy spans 12.5 riverfront acres in Kharadi, offering a wave pool, private go-karting track, 40,000 sq ft clubhouse, and 9 celebrity-run sports and cultural academies. Each residence provides panoramic views of the river and eastern cityscape.",
+    "features": [
+      "Wave Pool & Beach Entry",
+      "Go-Kart Track & Bowling Alley",
+      "40,000 Sq.Ft Clubhouse",
+      "Celebrity Learning Academies",
+      "Multi-Tier Podiums"
+    ],
+    "highlights": [
+      "MahaRERA: P52100050858",
+      "Direct Builder Sales Partner",
+      "Riverfront Scenic Setting"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100050858"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b91.25 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK, 4 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "June 2027"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Kharadi Riverfront, Pune"
+      }
+    ],
+    "reraId": "P52100050858",
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-bramhacorp-f-residences",
+    "title": "BramhaCorp F-Residences",
+    "slug": "bramhacorp-f-residences",
+    "builderId": "b-bramhacorp",
+    "location": "Kalyani Nagar",
+    "city": "Pune",
+    "priceRange": "\u20b91.12 Cr - \u20b92.25 Cr",
+    "exactPrice": "\u20b91.12 Cr",
+    "pricePerSqft": 14800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "3.5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Haute Couture",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "\u20b91.12 Cr"
+      },
+      {
+        "type": "3 BHK Glamour",
+        "carpetArea": "1040 sq.ft",
+        "priceRange": "\u20b91.75 Cr"
+      },
+      {
+        "type": "3.5 BHK Runway Suite",
+        "carpetArea": "1280 sq.ft",
+        "priceRange": "\u20b92.25 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp",
+      "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "description": "BramhaCorp F-Residences in New Kalyani Nagar is India's first fashion-branded residential development in partnership with FashionTV (FTV). Designed with high-glamour finishes, runway swimming pool, F-bar lounge, and high-fashion landscaped podiums.",
+    "features": [
+      "India's First FTV Fashion Residences",
+      "Runway Swimming Pool & F-Lounge",
+      "Designer Lobby by International Architects",
+      "Ready to Move with OC Received",
+      "100% Zero Brokerage Purchase"
+    ],
+    "highlights": [
+      "MahaRERA: P52100001179",
+      "Ready Possession OC Received",
+      "FashionTV Signature Brand"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100001179"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b91.12 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK, 3.5 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "New Kalyani Nagar, Pune"
+      }
+    ],
+    "reraId": "P52100001179",
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-ganga-asmi-wakad",
+    "title": "Ganga Asmi",
+    "slug": "ganga-asmi-wakad",
+    "builderId": "b-goel-ganga",
+    "location": "Wakad",
+    "city": "Pune",
+    "priceRange": "\u20b985 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b985 L",
+    "pricePerSqft": 12200,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "692 sq.ft",
+        "priceRange": "\u20b985 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "779 sq.ft",
+        "priceRange": "\u20b91.05 Cr"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "926 sq.ft",
+        "priceRange": "\u20b91.45 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "description": "Ganga Asmi by Goel Ganga Developments is a landmark residential high-rise near Mankar Chowk in Wakad, Pune. Constructed using robust aluminum Mivan shuttering technology, it features double-height entrance lobbies, high-speed elevators, grand podium clubhouse, and easy proximity to Hinjewadi IT Park.",
+    "features": [
+      "100% Mivan Formwork Monolithic Construction",
+      "Near Mankar Chowk & Bhumkar Chowk",
+      "Rooftop Sports Lounge & Sun Decks",
+      "Clubhouse with Fully Equipped Gym",
+      "Zero Commission Direct Deal"
+    ],
+    "highlights": [
+      "MahaRERA: P52100027644",
+      "Heart of Wakad IT Corridor",
+      "Zero Buyer Commission"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100027644"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b985 L"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "December 2026"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Wakad, Pune"
+      }
+    ],
+    "reraId": "P52100027644",
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-ganga-platino-kharadi",
+    "title": "Ganga Platino",
+    "slug": "ganga-platino-kharadi",
+    "builderId": "b-goel-ganga",
+    "location": "Kharadi",
+    "city": "Pune",
+    "priceRange": "\u20b91.20 Cr - \u20b92.45 Cr",
+    "exactPrice": "\u20b91.20 Cr",
+    "pricePerSqft": 15500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "3.5 BHK",
+      "Penthouse"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK XL",
+        "carpetArea": "701 sq.ft",
+        "priceRange": "\u20b91.20 Cr"
+      },
+      {
+        "type": "3 BHK XL",
+        "carpetArea": "1092 sq.ft",
+        "priceRange": "\u20b91.85 Cr"
+      },
+      {
+        "type": "3.5 BHK Penthouse",
+        "carpetArea": "1284 sq.ft",
+        "priceRange": "\u20b92.45 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "description": "Ganga Platino in Kharadi is Goel Ganga Developments' flagship XL-sized luxury community situated right beside EON Free Zone and World Trade Center Pune. Offering ultra-spacious configurations with walk-in closets, sprawling private terraces, and an expansive podium recreation park.",
+    "features": [
+      "Beside World Trade Center & EON IT Park",
+      "XL Sized Luxury Residences",
+      "Olympic-Spec Swimming Pool & Cabanas",
+      "Ready to Move with Full OC Received",
+      "100% Zero Brokerage Purchase"
+    ],
+    "highlights": [
+      "MahaRERA: P52100003874",
+      "EON IT Park Kharadi Walking Distance",
+      "Ready Possession OC Received"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100003874"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b91.20 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK, 3.5 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Kharadi, Pune"
+      }
+    ],
+    "reraId": "P52100003874",
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-ganga-legend-bavdhan",
+    "title": "Ganga Legend & County",
+    "slug": "ganga-legend-bavdhan",
+    "builderId": "b-goel-ganga",
+    "location": "Bavdhan",
+    "city": "Pune",
+    "priceRange": "\u20b982 L - \u20b91.95 Cr",
+    "exactPrice": "\u20b982 L",
+    "pricePerSqft": 11800,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "672 sq.ft",
+        "priceRange": "\u20b982 L"
+      },
+      {
+        "type": "2.5 BHK Comfort",
+        "carpetArea": "870 sq.ft",
+        "priceRange": "\u20b91.15 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "\u20b91.55 Cr"
+      },
+      {
+        "type": "4 BHK Imperial",
+        "carpetArea": "1411 sq.ft",
+        "priceRange": "\u20b91.95 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "description": "Ganga Legend spans 30 verdant acres in Bavdhan East, Pune. Offering panoramic hill views, world-class sports facilities, international standard soccer pitch, cricket ground, 4 multi-tier clubhouses, and unmatched highway connectivity to Kothrud and Hinjewadi.",
+    "features": [
+      "30-Acre Mega Hilltop Township",
+      "Full-Size Cricket Field & Soccer Ground",
+      "4 Dedicated Multi-Tier Clubhouses",
+      "Bavdhan East Scenic Foothills",
+      "Zero Buyer Commission Direct Mandate"
+    ],
+    "highlights": [
+      "MahaRERA: P52100000196",
+      "30-Acre Integrated Township",
+      "Close to Chandani Chowk Metro & Highway"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100000196"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b982 L"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 2.5 BHK, 3 BHK, 4 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "December 2026"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Bavdhan East, Pune"
+      }
+    ],
+    "reraId": "P52100000196",
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-ganga-fernhill-undri",
+    "title": "Ganga Fernhill",
+    "slug": "ganga-fernhill-undri",
+    "builderId": "b-goel-ganga",
+    "location": "Undri",
+    "city": "Pune",
+    "priceRange": "\u20b942 L - \u20b972 L",
+    "exactPrice": "\u20b942 L",
+    "pricePerSqft": 7800,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Comfort",
+        "carpetArea": "464 sq.ft",
+        "priceRange": "\u20b942 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "\u20b972 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
+    ],
+    "description": "Ganga Fernhill in Undri, South Pune, is situated near The Corinthians Club and top international schools. Offering well-ventilated 1 & 2 BHK family apartments surrounded by green forest cover with clubhouse, gym, and landscaped gardens.",
+    "features": [
+      "Near The Corinthians Resort & Club",
+      "Bishop's & EuroSchool Walking Distance",
+      "Modern Clubhouse & Swimming Pool",
+      "Ready to Move Immediate Possession",
+      "100% Zero Brokerage Purchase"
+    ],
+    "highlights": [
+      "MahaRERA: P52100022705",
+      "South Pune High Appreciation Pocket",
+      "Affordable Direct Developer Pricing"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100022705"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b942 L"
+      },
+      {
+        "label": "Configurations",
+        "value": "1 BHK, 2 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Undri, Pune"
+      }
+    ],
+    "reraId": "P52100022705",
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-solitaire-world-bibwewadi",
+    "title": "Solitaire World",
+    "slug": "solitaire-world-bibwewadi",
+    "builderId": "b-solitaire-group",
+    "location": "Bibwewadi",
+    "city": "Pune",
+    "priceRange": "\u20b92.10 Cr - \u20b94.50 Cr",
+    "exactPrice": "\u20b92.10 Cr",
+    "pricePerSqft": 17500,
+    "configurations": [
+      "3 BHK",
+      "4 BHK",
+      "4.5 BHK",
+      "5.5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1171 sq.ft",
+        "priceRange": "\u20b92.10 Cr"
+      },
+      {
+        "type": "4 BHK Imperial",
+        "carpetArea": "1560 sq.ft",
+        "priceRange": "\u20b92.85 Cr"
+      },
+      {
+        "type": "5.5 BHK Presidential",
+        "carpetArea": "2250 sq.ft",
+        "priceRange": "\u20b94.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9jw0-4e36f2.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9jw0-4e36f2.webp",
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9jw0-4e36f2.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9mpl-e4yj89.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9oeg-9wow3n.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "description": "Solitaire World in Bibwewadi is Pune's flagship 17-acre ultra-luxury residential and commercial integrated lifestyle district. Featuring grand skyscraper residences overlooking Bibwewadi hills, high-street retail, World Plaza, and high-spec amenities.",
+    "features": [
+      "17-Acre Integrated Luxury Landmark District",
+      "Private Panoramic Sun Decks with Hill Views",
+      "World-Class Sports Courts & Spa",
+      "Integrated SBH Business Hub & World Plaza",
+      "100% Zero Brokerage Purchase"
+    ],
+    "highlights": [
+      "MahaRERA: P52100018407",
+      "Bibwewadi Hilltop Prime Location",
+      "Ultra-Luxury Presidential Specifications"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100018407"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b92.10 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "3 BHK, 4 BHK, 5.5 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "December 2026"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Bibwewadi, Pune"
+      }
+    ],
+    "reraId": "P52100018407",
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-anp-atlantis-balewadi",
+    "title": "ANP Atlantis",
+    "slug": "anp-atlantis-balewadi",
+    "builderId": "b-anp-corp",
+    "location": "Balewadi",
+    "city": "Pune",
+    "priceRange": "\u20b965 L - \u20b92.85 Cr",
+    "exactPrice": "\u20b965 L",
+    "pricePerSqft": 14500,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Smart",
+        "carpetArea": "481 sq.ft",
+        "priceRange": "\u20b965 L"
+      },
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "\u20b91.15 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "\u20b91.85 Cr"
+      },
+      {
+        "type": "4 BHK Imperial",
+        "carpetArea": "1750 sq.ft",
+        "priceRange": "\u20b92.85 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "description": "ANP Atlantis in Balewadi is an iconic high-rise residential development located directly behind Jupiter Hospital. Providing seamless connectivity to Balewadi High Street, Mumbai-Pune Expressway, and Hinjewadi IT Park. Designed with an expansive 3-acre podium, infinity pool, and smart residences.",
+    "features": [
+      "Directly Behind Jupiter Hospital Balewadi",
+      "3-Acre Master Podium Amenities",
+      "Infinity Pool & Jacuzzi Lounge",
+      "Pro-Grade Sports Facilities",
+      "100% Zero Brokerage Purchase"
+    ],
+    "highlights": [
+      "MahaRERA: P52100030318",
+      "Balewadi High Street Neighborhood",
+      "Direct Developer Sales Mandate"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100030318"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b965 L"
+      },
+      {
+        "label": "Configurations",
+        "value": "1 BHK, 2 BHK, 3 BHK, 4 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "December 2026"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Balewadi, Pune"
+      }
+    ],
+    "reraId": "P52100030318",
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-anp-universe-balewadi",
+    "title": "ANP Universe",
+    "slug": "anp-universe-balewadi",
+    "builderId": "b-anp-corp",
+    "location": "Balewadi",
+    "city": "Pune",
+    "priceRange": "\u20b91.25 Cr - \u20b94.50 Cr",
+    "exactPrice": "\u20b91.25 Cr",
+    "pricePerSqft": 15800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Grand",
+        "carpetArea": "876 sq.ft",
+        "priceRange": "\u20b91.25 Cr"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1279 sq.ft",
+        "priceRange": "\u20b91.98 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "1714 sq.ft",
+        "priceRange": "\u20b92.85 Cr"
+      },
+      {
+        "type": "4 BHK Duplex Penthouse",
+        "carpetArea": "3895 sq.ft",
+        "priceRange": "\u20b94.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "description": "ANP Universe is a sprawling 35-storey mixed-use and residential landmark positioned right on Balewadi High Street. Offering majestic 2, 3, and 4 BHK residences and sky duplexes, complemented by high-street retail, world-class clubhouses, and rooftop infinity pools.",
+    "features": [
+      "Right on Balewadi High Street",
+      "35-Storey Sky Scrapers with Central Grand Podium",
+      "Sky Duplexes & Penthouses with Hill Views",
+      "High-Street Gourmet Retail Arcade",
+      "Zero Buyer Commission Mandate"
+    ],
+    "highlights": [
+      "MahaRERA: P52100024229",
+      "Premier High Street Balewadi Location",
+      "High Rental Yield & Capital Growth"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100024229"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b91.25 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK, 4 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "June 2027"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Balewadi High Street, Pune"
+      }
+    ],
+    "reraId": "P52100024229",
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-anp-autograph-punawale",
+    "title": "ANP Autograph",
+    "slug": "anp-autograph-punawale",
+    "builderId": "b-anp-corp",
+    "location": "Punawale",
+    "city": "Pune",
+    "priceRange": "\u20b978 L - \u20b92.10 Cr",
+    "exactPrice": "\u20b978 L",
+    "pricePerSqft": 10800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "\u20b978 L"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "\u20b91.25 Cr"
+      },
+      {
+        "type": "4 BHK Imperial",
+        "carpetArea": "1650 sq.ft",
+        "priceRange": "\u20b92.10 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "description": "ANP Autograph along the Aundh-Ravet BRTS corridor in Punawale is a landmark residential high-rise featuring multi-level podium parking, cantilevered leisure decks, and spacious 2, 3, and 4 BHK residences with direct connectivity to Hinjewadi.",
+    "features": [
+      "Along Aundh-Ravet BRTS High-Speed Corridor",
+      "Multi-Tier Clubhouse & Swimming Pool",
+      "Children's Themed Play Park & Daycare",
+      "Digital Home Automation",
+      "100% Zero Brokerage Purchase"
+    ],
+    "highlights": [
+      "MahaRERA: P52100051641",
+      "Punawale Prime Transit Hub",
+      "Direct Builder Mandate"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100051641"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b978 L"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK, 4 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "December 2026"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Punawale, Pune"
+      }
+    ],
+    "reraId": "P52100051641",
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-rohan-abhilasha-wagholi",
+    "title": "Rohan Abhilasha",
+    "slug": "rohan-abhilasha-wagholi",
+    "builderId": "b-rohan",
+    "location": "Wagholi",
+    "city": "Pune",
+    "priceRange": "\u20b945 L - \u20b995 L",
+    "exactPrice": "\u20b945 L",
+    "pricePerSqft": 7900,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Comfort",
+        "carpetArea": "358 sq.ft",
+        "priceRange": "\u20b945 L"
+      },
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "650 sq.ft",
+        "priceRange": "\u20b968 L"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "\u20b995 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+    ],
+    "description": "Rohan Abhilasha is a 30-acre residential township on Lohegaon-Wagholi Road in East Pune. Featuring double-height terrace gardens, large central courtyards, sports academies, and ready possession with full Occupancy Certificate (OC).",
+    "features": [
+      "30-Acre Master Township with 7 Clusters",
+      "Double-Height Private Terrace Gardens",
+      "Ready Possession OC Received",
+      "Close to Pune International Airport",
+      "100% Zero Brokerage Purchase"
+    ],
+    "highlights": [
+      "MahaRERA: P52100000489",
+      "Ready Possession with OC",
+      "East Pune Growth Hub"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100000489"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b945 L"
+      },
+      {
+        "label": "Configurations",
+        "value": "1 BHK, 2 BHK, 3 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Wagholi, Pune"
+      }
+    ],
+    "reraId": "P52100000489",
+    "verificationStatus": "Verified",
+    "featured": true
   }
 ];
