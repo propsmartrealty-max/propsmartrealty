@@ -1,15 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
-  <!-- Background Container -->
-  <rect width="380" height="110" rx="16" fill="#ffffff"/>
-
-  <!-- Authentic VJ Red Square Monogram -->
-  <g transform="translate(25, 22)">
-    <rect x="0" y="0" width="66" height="66" rx="12" fill="#E31E24"/>
-    <text x="33" y="46" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="32" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">VJ</text>
-  </g>
-
-  <!-- Typography -->
-  <text x="106" y="45" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="21" font-weight="800" fill="#1F2937" letter-spacing="0.5">VILAS JAVDEKAR</text>
-  <text x="107" y="65" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#4B5563" letter-spacing="2.5">DEVELOPERS • PUNE</text>
-  <text x="107" y="83" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" fill="#E31E24" letter-spacing="1.5">TRUST • DESIGN • DELIGHT</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 423 99" width="423" height="99">
+  <image href="/images/builders/vilas-javdekar-official.webp" width="423" height="99"/>
 </svg>

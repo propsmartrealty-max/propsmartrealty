@@ -1,22 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
-  <defs>
-    <linearGradient id="supreme-blue" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1E3A8A"/>
-      <stop offset="100%" stop-color="#0F172A"/>
-    </linearGradient>
-  </defs>
-  <!-- Background Container -->
-  <rect width="380" height="110" rx="16" fill="#ffffff"/>
-
-  <!-- Supreme Universal Architectural Monogram -->
-  <g transform="translate(25, 22)">
-    <rect x="0" y="0" width="66" height="66" rx="14" fill="url(#supreme-blue)"/>
-    <!-- Sculpted Platinum 'S' Ribbon -->
-    <path d="M 44 22 C 44 22 38 18 32 18 C 24 18 20 22 20 28 C 20 34 26 36 34 38 C 42 40 46 43 46 48 C 46 54 40 58 32 58 C 23 58 18 52 18 52 L 22 47 C 22 47 26 52 32 52 C 37 52 40 49 40 46 C 40 41 34 39 26 37 C 18 35 14 32 14 26 C 14 20 20 13 32 13 C 39 13 46 17 46 17 Z" fill="#ffffff"/>
-  </g>
-
-  <!-- Typography -->
-  <text x="106" y="48" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="25" font-weight="900" fill="#1E3A8A" letter-spacing="1">SUPREME</text>
-  <text x="107" y="68" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#64748B" letter-spacing="3">UNIVERSAL</text>
-  <text x="107" y="85" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="9" font-weight="600" fill="#94A3B8" letter-spacing="1">Luxury Landmarks • Koregaon Park & Baner</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 839 283" width="839" height="283">
+  <image href="/images/builders/supreme-universal-official.webp" width="839" height="283"/>
 </svg>

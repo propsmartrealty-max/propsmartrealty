@@ -1,17 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
-  <!-- Background Container -->
-  <rect width="380" height="110" rx="16" fill="#ffffff"/>
-
-  <!-- Kolte-Patil Authentic Double Chevron Crest -->
-  <g transform="translate(26, 22)">
-    <rect x="0" y="0" width="66" height="66" rx="14" fill="#1B365D"/>
-    <!-- Vibrant Amber Double Ribbon Symbol -->
-    <path d="M 20 18 L 34 33 L 20 48 L 27 48 L 41 33 L 27 18 Z" fill="#F39200"/>
-    <path d="M 32 18 L 46 33 L 32 48 L 39 48 L 53 33 L 39 18 Z" fill="#FFFFFF"/>
-  </g>
-
-  <!-- Typography -->
-  <text x="106" y="47" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="24" font-weight="800" fill="#1B365D" letter-spacing="0.5">KOLTE-PATIL</text>
-  <text x="107" y="66" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#5C768D" letter-spacing="2.5">DEVELOPERS LTD.</text>
-  <text x="107" y="84" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" fill="#F39200" letter-spacing="1">Creation, not construction</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" width="126" height="126">
+  <image href="/images/builders/kolte-patil-official.webp" width="126" height="126"/>
 </svg>
