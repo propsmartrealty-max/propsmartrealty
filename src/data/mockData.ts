@@ -9,7 +9,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "West Pune",
     "isFeatured": true,
     "image": "/images/localities/hinjewadi.svg",
-    "projectCount": 38,
+    "projectCount": 46,
     "avgPriceSqft": 7800,
     "appreciation_rate": 8.5,
     "tagline": "Pune Silicon Valley & Metro Line 3 Hub",
@@ -23,7 +23,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "West Pune",
     "isFeatured": true,
     "image": "/images/localities/baner.svg",
-    "projectCount": 30,
+    "projectCount": 31,
     "avgPriceSqft": 10500,
     "appreciation_rate": 9.2,
     "tagline": "High-Street Retail, Dining & Luxury High-Rises",
@@ -51,7 +51,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "West Pune",
     "isFeatured": true,
     "image": "/images/localities/wakad.svg",
-    "projectCount": 50,
+    "projectCount": 51,
     "avgPriceSqft": 8200,
     "appreciation_rate": 8.1,
     "tagline": "Expressway Gateway & Cosmopolitan Urban Hub",
@@ -65,7 +65,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "West Pune",
     "isFeatured": true,
     "image": "/images/localities/punawale.svg",
-    "projectCount": 38,
+    "projectCount": 41,
     "avgPriceSqft": 6900,
     "appreciation_rate": 8.4,
     "tagline": "High-Growth Expressway Corridor & Modern Townships",
@@ -79,7 +79,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "West Pune",
     "isFeatured": true,
     "image": "/images/localities/tathawade.svg",
-    "projectCount": 43,
+    "projectCount": 48,
     "avgPriceSqft": 7500,
     "appreciation_rate": 8.4,
     "tagline": "Prime Education Hub & Expressway Residential Corridor",
@@ -121,7 +121,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "West Pune",
     "isFeatured": true,
     "image": "/images/localities/bavdhan.svg",
-    "projectCount": 22,
+    "projectCount": 25,
     "avgPriceSqft": 8900,
     "appreciation_rate": 7.8,
     "tagline": "Scenic NDA Valley & Western Ring Road Corridor",
@@ -163,7 +163,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "West Pune",
     "isFeatured": false,
     "image": "/images/localities/ravet.svg",
-    "projectCount": 46,
+    "projectCount": 47,
     "avgPriceSqft": 7300,
     "appreciation_rate": 8.2,
     "tagline": "Expressway Gateway & BRTS Connectivity Hub",
@@ -387,7 +387,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "East Pune",
     "isFeatured": false,
     "image": "/images/localities/dhanori.svg",
-    "projectCount": 2,
+    "projectCount": 3,
     "avgPriceSqft": 6800,
     "appreciation_rate": 8.1,
     "tagline": "Airport Connectivity & Emerging Residential Corridor",
@@ -569,7 +569,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "South & Central",
     "isFeatured": false,
     "image": "/images/localities/sinhagad-road.svg",
-    "projectCount": 1,
+    "projectCount": 2,
     "avgPriceSqft": 7800,
     "appreciation_rate": 7.7,
     "tagline": "Mutha Riverfront & Sinhagad Fort Foothills",
@@ -1051,7 +1051,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "West Pune",
     "isFeatured": false,
     "image": "/images/localities/baner.svg",
-    "projectCount": 3,
+    "projectCount": 4,
     "avgPriceSqft": 8200,
     "appreciation_rate": 7.8,
     "tagline": "Emerging Residential Corridor",
@@ -1318,7 +1318,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "Mumbai Western Suburbs",
     "isFeatured": true,
     "image": "/images/localities/default-locality.svg",
-    "projectCount": 1,
+    "projectCount": 2,
     "avgPriceSqft": 34000,
     "appreciation_rate": 9.8,
     "tagline": "Lokhandwala, 4 Bungalows & Entertainment Capital",
@@ -1472,7 +1472,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "Central Mumbai",
     "isFeatured": true,
     "image": "/images/localities/default-locality.svg",
-    "projectCount": 1,
+    "projectCount": 2,
     "avgPriceSqft": 23500,
     "appreciation_rate": 8.7,
     "tagline": "GMLR Connectivity & Green Foothills",
@@ -1486,7 +1486,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "Central Mumbai",
     "isFeatured": true,
     "image": "/images/localities/default-locality.svg",
-    "projectCount": 1,
+    "projectCount": 2,
     "avgPriceSqft": 21000,
     "appreciation_rate": 8.9,
     "tagline": "Central Railway & JVLR Convergence",
@@ -101838,5 +101838,3889 @@ export const PROJECTS: Project[] = [
         "answer": "The development features world-class lifestyle amenities including Walk-to-work to Hinjewadi Phase 2 IT Hubs, Ready Possession Family Homes, Zero Brokerage Guarantee, multi-tier security systems, and high-speed elevators."
       }
     ]
+  },
+  {
+    "id": "p-runwal-forests-kanjurmarg",
+    "title": "Runwal Forests",
+    "slug": "runwal-forests-kanjurmarg",
+    "builderId": "b-runwal",
+    "location": "Kanjurmarg",
+    "city": "Mumbai",
+    "priceRange": "\u20b91.45 Cr - \u20b92.85 Cr",
+    "exactPrice": "\u20b91.45 Cr",
+    "pricePerSqft": 18800,
+    "configurations": [
+      "1.5 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1.5 BHK",
+        "carpetArea": "530 sq.ft",
+        "priceRange": "\u20b91.45 Cr"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "690 sq.ft",
+        "priceRange": "\u20b91.85 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "\u20b92.85 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "imageAlt": "Runwal Forests Architecture in Kanjurmarg, Mumbai",
+    "heroImageAlt": "Runwal Forests Luxury Elevation by Runwal Group",
+    "lat": 19.1312,
+    "lng": 72.9389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P51800000818",
+    "description": "Runwal Forests at Kanjurmarg West is an iconic 15-acre urban oasis featuring 10 residential towers overlooking lush forest greens, a 35,000 sq.ft clubhouse, and 100% zero brokerage through PROPSMART REALTY.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High-Street Retail & Transit Access"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Runwal Forests located?",
+        "answer": "Runwal Forests is strategically located in prime Kanjurmarg, Mumbai, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Runwal Forests?",
+        "answer": "Residences in Runwal Forests start from \u20b91.45 Cr - \u20b92.85 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Runwal Forests?",
+        "answer": "Runwal Forests offers spacious 1.5 BHK, 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Runwal Forests MahaRERA approved?",
+        "answer": "Yes, Runwal Forests is officially registered under MahaRERA with registration number P51800000818. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Runwal Forests?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-runwal-avenue-kanjurmarg",
+    "title": "Runwal Avenue",
+    "slug": "runwal-avenue-kanjurmarg",
+    "builderId": "b-runwal",
+    "location": "Kanjurmarg",
+    "city": "Mumbai",
+    "priceRange": "\u20b998.00 L - \u20b91.85 Cr",
+    "exactPrice": "\u20b998.00 L",
+    "pricePerSqft": 19200,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "380 sq.ft",
+        "priceRange": "\u20b998.00 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "595 sq.ft",
+        "priceRange": "\u20b91.55 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "imageAlt": "Runwal Avenue Architecture in Kanjurmarg, Mumbai",
+    "heroImageAlt": "Runwal Avenue Luxury Elevation by Runwal Group",
+    "lat": 19.1325,
+    "lng": 72.9405,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P51800026860",
+    "description": "Runwal Avenue at Kanjurmarg East represents high-street lifestyle living with Fifth Avenue retail galleria, landscaped sky amenities, and seamless suburban railway and metro connectivity.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High-Street Retail & Transit Access"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Runwal Avenue located?",
+        "answer": "Runwal Avenue is strategically located in prime Kanjurmarg, Mumbai, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Runwal Avenue?",
+        "answer": "Residences in Runwal Avenue start from \u20b998.00 L - \u20b91.85 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Runwal Avenue?",
+        "answer": "Runwal Avenue offers spacious 1 BHK, 2 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Runwal Avenue MahaRERA approved?",
+        "answer": "Yes, Runwal Avenue is officially registered under MahaRERA with registration number P51800026860. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Runwal Avenue?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-runwal-pinnacle-mulund",
+    "title": "Runwal Pinnacle",
+    "slug": "runwal-pinnacle-mulund",
+    "builderId": "b-runwal",
+    "location": "Mulund West",
+    "city": "Mumbai",
+    "priceRange": "\u20b91.85 Cr - \u20b93.65 Cr",
+    "exactPrice": "\u20b91.85 Cr",
+    "pricePerSqft": 22500,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "640 sq.ft",
+        "priceRange": "\u20b91.85 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "\u20b92.30 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "\u20b93.65 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2027",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "imageAlt": "Runwal Pinnacle Architecture in Mulund West, Mumbai",
+    "heroImageAlt": "Runwal Pinnacle Luxury Elevation by Runwal Group",
+    "lat": 19.1723,
+    "lng": 72.9489,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P51800021322",
+    "description": "Runwal Pinnacle in Mulund West stands tall as the tallest residential sky-tower in the central suburbs (67 storeys), offering breathtaking Sanjay Gandhi National Park views and rooftop sky-decks.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High-Street Retail & Transit Access"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Runwal Pinnacle located?",
+        "answer": "Runwal Pinnacle is strategically located in prime Mulund West, Mumbai, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Runwal Pinnacle?",
+        "answer": "Residences in Runwal Pinnacle start from \u20b91.85 Cr - \u20b93.65 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Runwal Pinnacle?",
+        "answer": "Runwal Pinnacle offers spacious 2 BHK, 2.5 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Runwal Pinnacle MahaRERA approved?",
+        "answer": "Yes, Runwal Pinnacle is officially registered under MahaRERA with registration number P51800021322. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Runwal Pinnacle?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-runwal-sanctuary-mulund",
+    "title": "Runwal Sanctuary",
+    "slug": "runwal-sanctuary-mulund",
+    "builderId": "b-runwal",
+    "location": "Mulund West",
+    "city": "Mumbai",
+    "priceRange": "\u20b91.65 Cr - \u20b93.10 Cr",
+    "exactPrice": "\u20b91.65 Cr",
+    "pricePerSqft": 21000,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "610 sq.ft",
+        "priceRange": "\u20b91.65 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b92.10 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "940 sq.ft",
+        "priceRange": "\u20b93.10 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "imageAlt": "Runwal Sanctuary Architecture in Mulund West, Mumbai",
+    "heroImageAlt": "Runwal Sanctuary Luxury Elevation by Runwal Group",
+    "lat": 19.1745,
+    "lng": 72.9465,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P51800027725",
+    "description": "Runwal Sanctuary Mulund West is an ultra-luxury hillside retreat adjoining green hill reserves, featuring 5 curated towers with multi-level podium amenities and zero brokerage booking.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High-Street Retail & Transit Access"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Runwal Sanctuary located?",
+        "answer": "Runwal Sanctuary is strategically located in prime Mulund West, Mumbai, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Runwal Sanctuary?",
+        "answer": "Residences in Runwal Sanctuary start from \u20b91.65 Cr - \u20b93.10 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Runwal Sanctuary?",
+        "answer": "Runwal Sanctuary offers spacious 2 BHK, 2.5 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Runwal Sanctuary MahaRERA approved?",
+        "answer": "Yes, Runwal Sanctuary is officially registered under MahaRERA with registration number P51800027725. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Runwal Sanctuary?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-runwal-gardens-dombivli",
+    "title": "Runwal Gardens",
+    "slug": "runwal-gardens-dombivli",
+    "builderId": "b-runwal",
+    "location": "Thane Extension, Kalyan-Bhiwandi Road",
+    "city": "Thane",
+    "priceRange": "\u20b942.00 L - \u20b988.00 L",
+    "exactPrice": "\u20b942.00 L",
+    "pricePerSqft": 7900,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "395 sq.ft",
+        "priceRange": "\u20b942.00 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "560 sq.ft",
+        "priceRange": "\u20b962.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "\u20b988.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "imageAlt": "Runwal Gardens Architecture in Thane Extension, Kalyan-Bhiwandi Road, Thane",
+    "heroImageAlt": "Runwal Gardens Luxury Elevation by Runwal Group",
+    "lat": 19.1989,
+    "lng": 73.0856,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P51700022699",
+    "description": "Runwal Gardens is a 115-acre self-sustaining integrated mega township on Kalyan-Shilphata Road with EuroSchool, multispecialty hospital, 11-acre central park, and 100+ lifestyle amenities.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High-Street Retail & Transit Access"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Runwal Gardens located?",
+        "answer": "Runwal Gardens is strategically located in prime Thane Extension, Kalyan-Bhiwandi Road, Thane, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Runwal Gardens?",
+        "answer": "Residences in Runwal Gardens start from \u20b942.00 L - \u20b988.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Runwal Gardens?",
+        "answer": "Runwal Gardens offers spacious 1 BHK, 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Runwal Gardens MahaRERA approved?",
+        "answer": "Yes, Runwal Gardens is officially registered under MahaRERA with registration number P51700022699. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Runwal Gardens?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-runwal-elegante-lokhandwala",
+    "title": "Runwal Elegante",
+    "slug": "runwal-elegante-lokhandwala",
+    "builderId": "b-runwal",
+    "location": "Andheri West",
+    "city": "Mumbai",
+    "priceRange": "\u20b95.20 Cr - \u20b99.80 Cr",
+    "exactPrice": "\u20b95.20 Cr",
+    "pricePerSqft": 38000,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1280 sq.ft",
+        "priceRange": "\u20b95.20 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1850 sq.ft",
+        "priceRange": "\u20b99.80 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "imageAlt": "Runwal Elegante Architecture in Andheri West, Mumbai",
+    "heroImageAlt": "Runwal Elegante Luxury Elevation by Runwal Group",
+    "lat": 19.1364,
+    "lng": 72.8277,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P51800001550",
+    "description": "Runwal Elegante in Lokhandwala, Andheri West is Bollywood royalty and elite celebrity residence featuring Mumbai\u2019s first rooftop Galileo sky-bridge suspended across three towers.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High-Street Retail & Transit Access"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Runwal Elegante located?",
+        "answer": "Runwal Elegante is strategically located in prime Andheri West, Mumbai, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Runwal Elegante?",
+        "answer": "Residences in Runwal Elegante start from \u20b95.20 Cr - \u20b99.80 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Runwal Elegante?",
+        "answer": "Runwal Elegante offers spacious 3 BHK, 4 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Runwal Elegante MahaRERA approved?",
+        "answer": "Yes, Runwal Elegante is officially registered under MahaRERA with registration number P51800001550. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Runwal Elegante?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-runwal-nirvana-parel",
+    "title": "Runwal Nirvana",
+    "slug": "runwal-nirvana-parel",
+    "builderId": "b-runwal",
+    "location": "Mahalaxmi",
+    "city": "Mumbai",
+    "priceRange": "\u20b93.15 Cr - \u20b95.85 Cr",
+    "exactPrice": "\u20b93.15 Cr",
+    "pricePerSqft": 34500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "\u20b93.15 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b95.85 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "imageAlt": "Runwal Nirvana Architecture in Mahalaxmi, Mumbai",
+    "heroImageAlt": "Runwal Nirvana Luxury Elevation by Runwal Group",
+    "lat": 19.0012,
+    "lng": 72.8345,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P51900030588",
+    "description": "Runwal Nirvana in South Central Mumbai offers panoramic Arabian Sea and eastern harbour views, 54 storeys of modern architecture, and direct connectivity to Lower Parel and BKC.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High-Street Retail & Transit Access"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Runwal Nirvana located?",
+        "answer": "Runwal Nirvana is strategically located in prime Mahalaxmi, Mumbai, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Runwal Nirvana?",
+        "answer": "Residences in Runwal Nirvana start from \u20b93.15 Cr - \u20b95.85 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Runwal Nirvana?",
+        "answer": "Runwal Nirvana offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Runwal Nirvana MahaRERA approved?",
+        "answer": "Yes, Runwal Nirvana is officially registered under MahaRERA with registration number P51900030588. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Runwal Nirvana?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-runwal-timeless-wadala",
+    "title": "Runwal Timeless",
+    "slug": "runwal-timeless-wadala",
+    "builderId": "b-runwal",
+    "location": "Wadala",
+    "city": "Mumbai",
+    "priceRange": "\u20b92.40 Cr - \u20b94.50 Cr",
+    "exactPrice": "\u20b92.40 Cr",
+    "pricePerSqft": 28500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "665 sq.ft",
+        "priceRange": "\u20b92.40 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "990 sq.ft",
+        "priceRange": "\u20b94.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2027",
+    "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "imageAlt": "Runwal Timeless Architecture in Wadala, Mumbai",
+    "heroImageAlt": "Runwal Timeless Luxury Elevation by Runwal Group",
+    "lat": 19.0189,
+    "lng": 72.8589,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P51900029707",
+    "description": "Runwal Timeless at Wadala East offers boutique luxury residences minutes from the Eastern Freeway, Monorail, and BKC connector with lifestyle podium amenities and direct builder mandate.",
+    "features": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High-Street Retail & Transit Access"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Runwal Timeless located?",
+        "answer": "Runwal Timeless is strategically located in prime Wadala, Mumbai, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Runwal Timeless?",
+        "answer": "Residences in Runwal Timeless start from \u20b92.40 Cr - \u20b94.50 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Runwal Timeless?",
+        "answer": "Runwal Timeless offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Runwal Timeless MahaRERA approved?",
+        "answer": "Yes, Runwal Timeless is officially registered under MahaRERA with registration number P51900029707. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Runwal Timeless?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-krisala-41-estera-punawale",
+    "title": "Krisala 41 Estera",
+    "slug": "krisala-41-estera-punawale",
+    "builderId": "b-krisala",
+    "location": "Punawale",
+    "city": "Pune",
+    "priceRange": "\u20b955.00 L - \u20b982.00 L",
+    "exactPrice": "\u20b955.00 L",
+    "pricePerSqft": 7400,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "715 sq.ft",
+        "priceRange": "\u20b955.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "945 sq.ft",
+        "priceRange": "\u20b982.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+      "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
+      "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp"
+    ],
+    "imageAlt": "Krisala 41 Estera High-Rise Architecture in Punawale, Pune",
+    "heroImageAlt": "Krisala 41 Estera Elevation by Krisala Developers",
+    "lat": 18.6256,
+    "lng": 73.7371,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100028712",
+    "description": "Krisala 41 Estera in Punawale offers thoughtfully planned 2 & 3 BHK residences with smart home automation, zero brokerage direct builder rates, and fast connectivity to Hinjewadi Phase 1.",
+    "features": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High Rental Yield IT Corridor"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Krisala 41 Estera located?",
+        "answer": "Krisala 41 Estera is strategically located in prime Punawale, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Krisala 41 Estera?",
+        "answer": "Residences in Krisala 41 Estera start from \u20b955.00 L - \u20b982.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Krisala 41 Estera?",
+        "answer": "Krisala 41 Estera offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Krisala 41 Estera MahaRERA approved?",
+        "answer": "Yes, Krisala 41 Estera is officially registered under MahaRERA with registration number P52100028712. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Krisala 41 Estera?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-krisala-41-elite-tathawade",
+    "title": "Krisala 41 Elite",
+    "slug": "krisala-41-elite-tathawade",
+    "builderId": "b-krisala",
+    "location": "Tathawade",
+    "city": "Pune",
+    "priceRange": "\u20b962.00 L - \u20b989.00 L",
+    "exactPrice": "\u20b962.00 L",
+    "pricePerSqft": 7800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "740 sq.ft",
+        "priceRange": "\u20b962.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "\u20b989.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Mar 2027",
+    "image": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
+      "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp",
+      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
+    ],
+    "imageAlt": "Krisala 41 Elite High-Rise Architecture in Tathawade, Pune",
+    "heroImageAlt": "Krisala 41 Elite Elevation by Krisala Developers",
+    "lat": 18.6186,
+    "lng": 73.7548,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100030145",
+    "description": "Krisala 41 Elite at Tathawade features premier high-rise towers near JSPM and Indira Institute with double-height designer entrance lobbies and 30+ lifestyle amenities.",
+    "features": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High Rental Yield IT Corridor"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Krisala 41 Elite located?",
+        "answer": "Krisala 41 Elite is strategically located in prime Tathawade, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Krisala 41 Elite?",
+        "answer": "Residences in Krisala 41 Elite start from \u20b962.00 L - \u20b989.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Krisala 41 Elite?",
+        "answer": "Krisala 41 Elite offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Krisala 41 Elite MahaRERA approved?",
+        "answer": "Yes, Krisala 41 Elite is officially registered under MahaRERA with registration number P52100030145. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Krisala 41 Elite?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-krisala-41-zircon-tathawade",
+    "title": "Krisala 41 Zircon",
+    "slug": "krisala-41-zircon-tathawade",
+    "builderId": "b-krisala",
+    "location": "Tathawade",
+    "city": "Pune",
+    "priceRange": "\u20b968.00 L - \u20b995.00 L",
+    "exactPrice": "\u20b968.00 L",
+    "pricePerSqft": 8100,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "765 sq.ft",
+        "priceRange": "\u20b968.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1020 sq.ft",
+        "priceRange": "\u20b995.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2027",
+    "image": "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp",
+      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp"
+    ],
+    "imageAlt": "Krisala 41 Zircon High-Rise Architecture in Tathawade, Pune",
+    "heroImageAlt": "Krisala 41 Zircon Elevation by Krisala Developers",
+    "lat": 18.6212,
+    "lng": 73.7565,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100032901",
+    "description": "Krisala 41 Zircon in Tathawade offers luxury high-rise homes with unhindered views, private balconies, and dedicated electric vehicle charging points on Mumbai-Pune expressway corridor.",
+    "features": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High Rental Yield IT Corridor"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Krisala 41 Zircon located?",
+        "answer": "Krisala 41 Zircon is strategically located in prime Tathawade, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Krisala 41 Zircon?",
+        "answer": "Residences in Krisala 41 Zircon start from \u20b968.00 L - \u20b995.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Krisala 41 Zircon?",
+        "answer": "Krisala 41 Zircon offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Krisala 41 Zircon MahaRERA approved?",
+        "answer": "Yes, Krisala 41 Zircon is officially registered under MahaRERA with registration number P52100032901. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Krisala 41 Zircon?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-krisala-41-evok-ravet",
+    "title": "Krisala 41 Evok",
+    "slug": "krisala-41-evok-ravet",
+    "builderId": "b-krisala",
+    "location": "Ravet",
+    "city": "Pune",
+    "priceRange": "\u20b958.00 L - \u20b986.00 L",
+    "exactPrice": "\u20b958.00 L",
+    "pricePerSqft": 7500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "725 sq.ft",
+        "priceRange": "\u20b958.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "960 sq.ft",
+        "priceRange": "\u20b986.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+    ],
+    "imageAlt": "Krisala 41 Evok High-Rise Architecture in Ravet, Pune",
+    "heroImageAlt": "Krisala 41 Evok Elevation by Krisala Developers",
+    "lat": 18.6496,
+    "lng": 73.7431,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100034520",
+    "description": "Krisala 41 Evok at Ravet is situated on the BRTS transit spine with seamless access to Akurdi railway station, Hinjewadi IT park, and premier PCMC schools.",
+    "features": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High Rental Yield IT Corridor"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Krisala 41 Evok located?",
+        "answer": "Krisala 41 Evok is strategically located in prime Ravet, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Krisala 41 Evok?",
+        "answer": "Residences in Krisala 41 Evok start from \u20b958.00 L - \u20b986.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Krisala 41 Evok?",
+        "answer": "Krisala 41 Evok offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Krisala 41 Evok MahaRERA approved?",
+        "answer": "Yes, Krisala 41 Evok is officially registered under MahaRERA with registration number P52100034520. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Krisala 41 Evok?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-krisala-41-plumeria-punawale",
+    "title": "Krisala 41 Plumeria",
+    "slug": "krisala-41-plumeria-punawale",
+    "builderId": "b-krisala",
+    "location": "Punawale",
+    "city": "Pune",
+    "priceRange": "\u20b952.00 L - \u20b976.00 L",
+    "exactPrice": "\u20b952.00 L",
+    "pricePerSqft": 7200,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "695 sq.ft",
+        "priceRange": "\u20b952.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "\u20b976.00 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp"
+    ],
+    "imageAlt": "Krisala 41 Plumeria High-Rise Architecture in Punawale, Pune",
+    "heroImageAlt": "Krisala 41 Plumeria Elevation by Krisala Developers",
+    "lat": 18.6278,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100022198",
+    "description": "Krisala 41 Plumeria in Punawale is an established gated residential community featuring ready-to-move and near-possession residences with full occupancy certificate and zero brokerage.",
+    "features": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High Rental Yield IT Corridor"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Krisala 41 Plumeria located?",
+        "answer": "Krisala 41 Plumeria is strategically located in prime Punawale, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Krisala 41 Plumeria?",
+        "answer": "Residences in Krisala 41 Plumeria start from \u20b952.00 L - \u20b976.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Krisala 41 Plumeria?",
+        "answer": "Krisala 41 Plumeria offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Krisala 41 Plumeria MahaRERA approved?",
+        "answer": "Yes, Krisala 41 Plumeria is officially registered under MahaRERA with registration number P52100022198. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Krisala 41 Plumeria?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-krisala-41-cosmo-tathawade",
+    "title": "Krisala 41 Cosmo",
+    "slug": "krisala-41-cosmo-tathawade",
+    "builderId": "b-krisala",
+    "location": "Tathawade",
+    "city": "Pune",
+    "priceRange": "\u20b964.00 L - \u20b992.00 L",
+    "exactPrice": "\u20b964.00 L",
+    "pricePerSqft": 7900,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "\u20b964.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "975 sq.ft",
+        "priceRange": "\u20b992.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
+      "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp"
+    ],
+    "imageAlt": "Krisala 41 Cosmo High-Rise Architecture in Tathawade, Pune",
+    "heroImageAlt": "Krisala 41 Cosmo Elevation by Krisala Developers",
+    "lat": 18.6195,
+    "lng": 73.7532,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100045120",
+    "description": "Krisala 41 Cosmo in Tathawade offers modern smart-living apartments with rooftop stargazing deck, infinity edge pool, and seamless expressway connectivity.",
+    "features": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High Rental Yield IT Corridor"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Krisala 41 Cosmo located?",
+        "answer": "Krisala 41 Cosmo is strategically located in prime Tathawade, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Krisala 41 Cosmo?",
+        "answer": "Residences in Krisala 41 Cosmo start from \u20b964.00 L - \u20b992.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Krisala 41 Cosmo?",
+        "answer": "Krisala 41 Cosmo offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Krisala 41 Cosmo MahaRERA approved?",
+        "answer": "Yes, Krisala 41 Cosmo is officially registered under MahaRERA with registration number P52100045120. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Krisala 41 Cosmo?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-krisala-41-valley-marunji",
+    "title": "Krisala 41 Valley",
+    "slug": "krisala-41-valley-marunji",
+    "builderId": "b-krisala",
+    "location": "Maan",
+    "city": "Pune",
+    "priceRange": "\u20b956.00 L - \u20b984.00 L",
+    "exactPrice": "\u20b956.00 L",
+    "pricePerSqft": 7300,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "\u20b956.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "930 sq.ft",
+        "priceRange": "\u20b984.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2027",
+    "image": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
+      "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+      "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
+    ],
+    "imageAlt": "Krisala 41 Valley High-Rise Architecture in Maan, Pune",
+    "heroImageAlt": "Krisala 41 Valley Elevation by Krisala Developers",
+    "lat": 18.5889,
+    "lng": 73.7123,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100047810",
+    "description": "Krisala 41 Valley in Marunji Hinjewadi features nature-enveloped hillside apartments with unhindered views, green walkways, and instant access to Phase 1 and Phase 2 tech campuses.",
+    "features": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High Rental Yield IT Corridor"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Krisala 41 Valley located?",
+        "answer": "Krisala 41 Valley is strategically located in prime Maan, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Krisala 41 Valley?",
+        "answer": "Residences in Krisala 41 Valley start from \u20b956.00 L - \u20b984.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Krisala 41 Valley?",
+        "answer": "Krisala 41 Valley offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Krisala 41 Valley MahaRERA approved?",
+        "answer": "Yes, Krisala 41 Valley is officially registered under MahaRERA with registration number P52100047810. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Krisala 41 Valley?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-krisala-41-crown-punawale",
+    "title": "Krisala 41 Crown",
+    "slug": "krisala-41-crown-punawale",
+    "builderId": "b-krisala",
+    "location": "Punawale",
+    "city": "Pune",
+    "priceRange": "\u20b961.00 L - \u20b989.00 L",
+    "exactPrice": "\u20b961.00 L",
+    "pricePerSqft": 7700,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "730 sq.ft",
+        "priceRange": "\u20b961.00 L"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "840 sq.ft",
+        "priceRange": "\u20b974.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "\u20b989.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+      "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+      "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp"
+    ],
+    "imageAlt": "Krisala 41 Crown High-Rise Architecture in Punawale, Pune",
+    "heroImageAlt": "Krisala 41 Crown Elevation by Krisala Developers",
+    "lat": 18.6265,
+    "lng": 73.7355,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100038910",
+    "description": "Krisala 41 Crown Punawale is an elite residential tower with multi-tier podium lifestyle zones, jogging tracks, and high rental return potential.",
+    "features": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High Rental Yield IT Corridor"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Krisala 41 Crown located?",
+        "answer": "Krisala 41 Crown is strategically located in prime Punawale, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Krisala 41 Crown?",
+        "answer": "Residences in Krisala 41 Crown start from \u20b961.00 L - \u20b989.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Krisala 41 Crown?",
+        "answer": "Krisala 41 Crown offers spacious 2 BHK, 2.5 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Krisala 41 Crown MahaRERA approved?",
+        "answer": "Yes, Krisala 41 Crown is officially registered under MahaRERA with registration number P52100038910. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Krisala 41 Crown?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-krisala-41-bellissimo-tathawade",
+    "title": "Krisala 41 Bellissimo",
+    "slug": "krisala-41-bellissimo-tathawade",
+    "builderId": "b-krisala",
+    "location": "Tathawade",
+    "city": "Pune",
+    "priceRange": "\u20b972.00 L - \u20b91.05 Cr",
+    "exactPrice": "\u20b972.00 L",
+    "pricePerSqft": 8300,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "770 sq.ft",
+        "priceRange": "\u20b972.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1060 sq.ft",
+        "priceRange": "\u20b91.05 Cr"
+      }
+    ],
+    "status": "New Launch",
+    "type": "Residential",
+    "possessionDate": "Dec 2028",
+    "image": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+      "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
+      "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp"
+    ],
+    "imageAlt": "Krisala 41 Bellissimo High-Rise Architecture in Tathawade, Pune",
+    "heroImageAlt": "Krisala 41 Bellissimo Elevation by Krisala Developers",
+    "lat": 18.6225,
+    "lng": 73.7578,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100051201",
+    "description": "Krisala 41 Bellissimo Tathawade is the marquee flagship new launch offering Italian-inspired architectural facades, expansive sky decks, and state-of-the-art sports clubhouse.",
+    "features": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "High Rental Yield IT Corridor"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Krisala 41 Bellissimo located?",
+        "answer": "Krisala 41 Bellissimo is strategically located in prime Tathawade, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Krisala 41 Bellissimo?",
+        "answer": "Residences in Krisala 41 Bellissimo start from \u20b972.00 L - \u20b91.05 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Krisala 41 Bellissimo?",
+        "answer": "Krisala 41 Bellissimo offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Krisala 41 Bellissimo MahaRERA approved?",
+        "answer": "Yes, Krisala 41 Bellissimo is officially registered under MahaRERA with registration number P52100051201. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Krisala 41 Bellissimo?",
+        "answer": "The development features world-class lifestyle amenities including Clubhouse, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-rohan-prathama-hinjewadi",
+    "title": "Rohan Prathama",
+    "slug": "rohan-prathama-hinjewadi",
+    "builderId": "b-rohan",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b939.00 L - \u20b958.00 L",
+    "exactPrice": "\u20b939.00 L",
+    "pricePerSqft": 7200,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "420 sq.ft",
+        "priceRange": "\u20b939.00 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "610 sq.ft",
+        "priceRange": "\u20b958.00 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+    ],
+    "imageAlt": "Rohan Prathama PLUS Home Architecture in Hinjewadi, Pune",
+    "heroImageAlt": "Rohan Prathama Elevation by Rohan Builders",
+    "lat": 18.5913,
+    "lng": 73.7389,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100017114",
+    "description": "Rohan Prathama in Hinjewadi Phase 1 is a signature PLUS Home project delivering zero wasted space, optimal natural cross-ventilation, and walk-to-work proximity for IT professionals.",
+    "features": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Pioneering PLUS Home Principles",
+      "Prime Pune Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Prathama located?",
+        "answer": "Rohan Prathama is strategically located in prime Hinjewadi, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Rohan Prathama?",
+        "answer": "Residences in Rohan Prathama start from \u20b939.00 L - \u20b958.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Rohan Prathama?",
+        "answer": "Rohan Prathama offers spacious 1 BHK, 2 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Rohan Prathama MahaRERA approved?",
+        "answer": "Yes, Rohan Prathama is officially registered under MahaRERA with registration number P52100017114. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Rohan Prathama?",
+        "answer": "The development features world-class lifestyle amenities including PLUS Home Design, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-rohan-ananta-tathawade",
+    "title": "Rohan Ananta",
+    "slug": "rohan-ananta-tathawade",
+    "builderId": "b-rohan",
+    "location": "Tathawade",
+    "city": "Pune",
+    "priceRange": "\u20b948.00 L - \u20b972.00 L",
+    "exactPrice": "\u20b948.00 L",
+    "pricePerSqft": 7600,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "465 sq.ft",
+        "priceRange": "\u20b948.00 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "685 sq.ft",
+        "priceRange": "\u20b972.00 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp"
+    ],
+    "imageAlt": "Rohan Ananta PLUS Home Architecture in Tathawade, Pune",
+    "heroImageAlt": "Rohan Ananta Elevation by Rohan Builders",
+    "lat": 18.6186,
+    "lng": 73.7548,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100000366",
+    "description": "Rohan Ananta Tathawade provides modern high-rise living with open green views, sports amenities, and immediate access to the Mumbai-Pune Expressway.",
+    "features": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Pioneering PLUS Home Principles",
+      "Prime Pune Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Ananta located?",
+        "answer": "Rohan Ananta is strategically located in prime Tathawade, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Rohan Ananta?",
+        "answer": "Residences in Rohan Ananta start from \u20b948.00 L - \u20b972.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Rohan Ananta?",
+        "answer": "Rohan Ananta offers spacious 1 BHK, 2 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Rohan Ananta MahaRERA approved?",
+        "answer": "Yes, Rohan Ananta is officially registered under MahaRERA with registration number P52100000366. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Rohan Ananta?",
+        "answer": "The development features world-class lifestyle amenities including PLUS Home Design, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-rohan-viti-bavdhan",
+    "title": "Rohan Viti",
+    "slug": "rohan-viti-bavdhan",
+    "builderId": "b-rohan",
+    "location": "Bavdhan",
+    "city": "Pune",
+    "priceRange": "\u20b988.00 L - \u20b91.65 Cr",
+    "exactPrice": "\u20b988.00 L",
+    "pricePerSqft": 9800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "\u20b988.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1080 sq.ft",
+        "priceRange": "\u20b91.25 Cr"
+      },
+      {
+        "type": "4 BHK Duplex",
+        "carpetArea": "1550 sq.ft",
+        "priceRange": "\u20b91.65 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
+      "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp"
+    ],
+    "imageAlt": "Rohan Viti PLUS Home Architecture in Bavdhan, Pune",
+    "heroImageAlt": "Rohan Viti Elevation by Rohan Builders",
+    "lat": 18.5158,
+    "lng": 73.7699,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100025983",
+    "description": "Rohan Viti at Bavdhan nestled against the scenic NDA hills provides master-crafted residences with expansive decks, biophilic elements, and swift access to Kothrud and Chandani Chowk.",
+    "features": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Pioneering PLUS Home Principles",
+      "Prime Pune Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Viti located?",
+        "answer": "Rohan Viti is strategically located in prime Bavdhan, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Rohan Viti?",
+        "answer": "Residences in Rohan Viti start from \u20b988.00 L - \u20b91.65 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Rohan Viti?",
+        "answer": "Rohan Viti offers spacious 2 BHK, 3 BHK, 4 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Rohan Viti MahaRERA approved?",
+        "answer": "Yes, Rohan Viti is officially registered under MahaRERA with registration number P52100025983. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Rohan Viti?",
+        "answer": "The development features world-class lifestyle amenities including PLUS Home Design, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-rohan-madhuban-bavdhan",
+    "title": "Rohan Madhuban",
+    "slug": "rohan-madhuban-bavdhan",
+    "builderId": "b-rohan",
+    "location": "Bavdhan",
+    "city": "Pune",
+    "priceRange": "\u20b995.00 L - \u20b91.75 Cr",
+    "exactPrice": "\u20b995.00 L",
+    "pricePerSqft": 9500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "820 sq.ft",
+        "priceRange": "\u20b995.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1180 sq.ft",
+        "priceRange": "\u20b91.75 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp",
+      "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+      "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
+    ],
+    "imageAlt": "Rohan Madhuban PLUS Home Architecture in Bavdhan, Pune",
+    "heroImageAlt": "Rohan Madhuban Elevation by Rohan Builders",
+    "lat": 18.5142,
+    "lng": 73.7681,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100002190",
+    "description": "Rohan Madhuban in Bavdhan is an award-winning residential enclave celebrated for low-density garden living, peaceful tree canopies, and superior construction quality.",
+    "features": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Pioneering PLUS Home Principles",
+      "Prime Pune Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Madhuban located?",
+        "answer": "Rohan Madhuban is strategically located in prime Bavdhan, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Rohan Madhuban?",
+        "answer": "Residences in Rohan Madhuban start from \u20b995.00 L - \u20b91.75 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Rohan Madhuban?",
+        "answer": "Rohan Madhuban offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Rohan Madhuban MahaRERA approved?",
+        "answer": "Yes, Rohan Madhuban is officially registered under MahaRERA with registration number P52100002190. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Rohan Madhuban?",
+        "answer": "The development features world-class lifestyle amenities including PLUS Home Design, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-rohan-mithila-viman-nagar",
+    "title": "Rohan Mithila",
+    "slug": "rohan-mithila-viman-nagar",
+    "builderId": "b-rohan",
+    "location": "Viman Nagar",
+    "city": "Pune",
+    "priceRange": "\u20b91.45 Cr - \u20b93.20 Cr",
+    "exactPrice": "\u20b91.45 Cr",
+    "pricePerSqft": 13500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "920 sq.ft",
+        "priceRange": "\u20b91.45 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1380 sq.ft",
+        "priceRange": "\u20b92.15 Cr"
+      },
+      {
+        "type": "4 BHK Luxury",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "\u20b93.20 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+      "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+      "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp"
+    ],
+    "imageAlt": "Rohan Mithila PLUS Home Architecture in Viman Nagar, Pune",
+    "heroImageAlt": "Rohan Mithila Elevation by Rohan Builders",
+    "lat": 18.5679,
+    "lng": 73.9143,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100001880",
+    "description": "Rohan Mithila in Viman Nagar is a benchmark luxury township opposite Symbiosis campus offering expansive landscaped greens, multiple clubhouses, and airport vicinity.",
+    "features": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Pioneering PLUS Home Principles",
+      "Prime Pune Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Mithila located?",
+        "answer": "Rohan Mithila is strategically located in prime Viman Nagar, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Rohan Mithila?",
+        "answer": "Residences in Rohan Mithila start from \u20b91.45 Cr - \u20b93.20 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Rohan Mithila?",
+        "answer": "Rohan Mithila offers spacious 2 BHK, 3 BHK, 4 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Rohan Mithila MahaRERA approved?",
+        "answer": "Yes, Rohan Mithila is officially registered under MahaRERA with registration number P52100001880. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Rohan Mithila?",
+        "answer": "The development features world-class lifestyle amenities including PLUS Home Design, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-rohan-kritika-sinhagad-road",
+    "title": "Rohan Kritika",
+    "slug": "rohan-kritika-sinhagad-road",
+    "builderId": "b-rohan",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "\u20b978.00 L - \u20b91.35 Cr",
+    "exactPrice": "\u20b978.00 L",
+    "pricePerSqft": 8800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "\u20b978.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1080 sq.ft",
+        "priceRange": "\u20b91.35 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+      "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
+      "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp"
+    ],
+    "imageAlt": "Rohan Kritika PLUS Home Architecture in Sinhagad Road, Pune",
+    "heroImageAlt": "Rohan Kritika Elevation by Rohan Builders",
+    "lat": 18.4712,
+    "lng": 73.8245,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100001221",
+    "description": "Rohan Kritika on Sinhagad Road delivers serene canal-side living with high ceilings, spacious living areas, and prompt connectivity to Swargate and Deccan.",
+    "features": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Pioneering PLUS Home Principles",
+      "Prime Pune Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Kritika located?",
+        "answer": "Rohan Kritika is strategically located in prime Sinhagad Road, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Rohan Kritika?",
+        "answer": "Residences in Rohan Kritika start from \u20b978.00 L - \u20b91.35 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Rohan Kritika?",
+        "answer": "Rohan Kritika offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Rohan Kritika MahaRERA approved?",
+        "answer": "Yes, Rohan Kritika is officially registered under MahaRERA with registration number P52100001221. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Rohan Kritika?",
+        "answer": "The development features world-class lifestyle amenities including PLUS Home Design, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-rohan-leher-baner",
+    "title": "Rohan Leher 2",
+    "slug": "rohan-leher-2-baner",
+    "builderId": "b-rohan",
+    "location": "Baner",
+    "city": "Pune",
+    "priceRange": "\u20b91.10 Cr - \u20b91.95 Cr",
+    "exactPrice": "\u20b91.10 Cr",
+    "pricePerSqft": 11800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "815 sq.ft",
+        "priceRange": "\u20b91.10 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1240 sq.ft",
+        "priceRange": "\u20b91.95 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
+      "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp",
+      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
+    ],
+    "imageAlt": "Rohan Leher 2 PLUS Home Architecture in Baner, Pune",
+    "heroImageAlt": "Rohan Leher 2 Elevation by Rohan Builders",
+    "lat": 18.559,
+    "lng": 73.7868,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100000789",
+    "description": "Rohan Leher 2 off Baner Road provides peaceful foothills living with zero overlooking windows, private terraces, and quick connectivity to Balewadi High Street.",
+    "features": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Pioneering PLUS Home Principles",
+      "Prime Pune Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Leher 2 located?",
+        "answer": "Rohan Leher 2 is strategically located in prime Baner, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Rohan Leher 2?",
+        "answer": "Residences in Rohan Leher 2 start from \u20b91.10 Cr - \u20b91.95 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Rohan Leher 2?",
+        "answer": "Rohan Leher 2 offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Rohan Leher 2 MahaRERA approved?",
+        "answer": "Yes, Rohan Leher 2 is officially registered under MahaRERA with registration number P52100000789. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Rohan Leher 2?",
+        "answer": "The development features world-class lifestyle amenities including PLUS Home Design, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-rohan-ishan-bavdhan",
+    "title": "Rohan Ishan",
+    "slug": "rohan-ishan-bavdhan",
+    "builderId": "b-rohan",
+    "location": "Bavdhan",
+    "city": "Pune",
+    "priceRange": "\u20b985.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b985.00 L",
+    "pricePerSqft": 9400,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "775 sq.ft",
+        "priceRange": "\u20b985.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "\u20b91.45 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp",
+      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp"
+    ],
+    "imageAlt": "Rohan Ishan PLUS Home Architecture in Bavdhan, Pune",
+    "heroImageAlt": "Rohan Ishan Elevation by Rohan Builders",
+    "lat": 18.5175,
+    "lng": 73.7712,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100001550",
+    "description": "Rohan Ishan in Bavdhan offers smart architecture with internal courtyards, natural illumination, and premium amenities on the Paud Road transit corridor.",
+    "features": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Pioneering PLUS Home Principles",
+      "Prime Pune Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Ishan located?",
+        "answer": "Rohan Ishan is strategically located in prime Bavdhan, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Rohan Ishan?",
+        "answer": "Residences in Rohan Ishan start from \u20b985.00 L - \u20b91.45 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Rohan Ishan?",
+        "answer": "Rohan Ishan offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Rohan Ishan MahaRERA approved?",
+        "answer": "Yes, Rohan Ishan is officially registered under MahaRERA with registration number P52100001550. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Rohan Ishan?",
+        "answer": "The development features world-class lifestyle amenities including PLUS Home Design, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-rohan-tarang-wakad",
+    "title": "Rohan Tarang",
+    "slug": "rohan-tarang-wakad",
+    "builderId": "b-rohan",
+    "location": "Wakad",
+    "city": "Pune",
+    "priceRange": "\u20b974.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b974.00 L",
+    "pricePerSqft": 8900,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "730 sq.ft",
+        "priceRange": "\u20b974.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1010 sq.ft",
+        "priceRange": "\u20b91.15 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+    ],
+    "imageAlt": "Rohan Tarang PLUS Home Architecture in Wakad, Pune",
+    "heroImageAlt": "Rohan Tarang Elevation by Rohan Builders",
+    "lat": 18.5987,
+    "lng": 73.7686,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100002014",
+    "description": "Rohan Tarang in Wakad is situated near Datta Mandir road offering excellent access to IT parks, Hinjewadi flyover, and premier schools with zero brokerage.",
+    "features": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Pioneering PLUS Home Principles",
+      "Prime Pune Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Tarang located?",
+        "answer": "Rohan Tarang is strategically located in prime Wakad, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Rohan Tarang?",
+        "answer": "Residences in Rohan Tarang start from \u20b974.00 L - \u20b91.15 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Rohan Tarang?",
+        "answer": "Rohan Tarang offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Rohan Tarang MahaRERA approved?",
+        "answer": "Yes, Rohan Tarang is officially registered under MahaRERA with registration number P52100002014. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Rohan Tarang?",
+        "answer": "The development features world-class lifestyle amenities including PLUS Home Design, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-rohan-tapovan-dhanori",
+    "title": "Rohan Tapovan",
+    "slug": "rohan-tapovan-dhanori",
+    "builderId": "b-rohan",
+    "location": "Dhanori",
+    "city": "Pune",
+    "priceRange": "\u20b965.00 L - \u20b998.00 L",
+    "exactPrice": "\u20b965.00 L",
+    "pricePerSqft": 7900,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "\u20b965.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "945 sq.ft",
+        "priceRange": "\u20b998.00 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+    "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+      "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp"
+    ],
+    "imageAlt": "Rohan Tapovan PLUS Home Architecture in Dhanori, Pune",
+    "heroImageAlt": "Rohan Tapovan Elevation by Rohan Builders",
+    "lat": 18.5866,
+    "lng": 73.8927,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100003412",
+    "description": "Rohan Tapovan in Dhanori delivers tranquil green living minutes from Viman Nagar, Pune International Airport, and Commerzone IT Park.",
+    "features": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Pioneering PLUS Home Principles",
+      "Prime Pune Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Rohan Tapovan located?",
+        "answer": "Rohan Tapovan is strategically located in prime Dhanori, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Rohan Tapovan?",
+        "answer": "Residences in Rohan Tapovan start from \u20b965.00 L - \u20b998.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Rohan Tapovan?",
+        "answer": "Rohan Tapovan offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Rohan Tapovan MahaRERA approved?",
+        "answer": "Yes, Rohan Tapovan is officially registered under MahaRERA with registration number P52100003412. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Rohan Tapovan?",
+        "answer": "The development features world-class lifestyle amenities including PLUS Home Design, Pool, Gym, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kolte-patil-life-republic-sector-r10",
+    "title": "Life Republic Sector R10",
+    "slug": "kolte-patil-life-republic-sector-r10",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b949.00 L - \u20b978.00 L",
+    "exactPrice": "\u20b949.00 L",
+    "pricePerSqft": 7100,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "450 sq.ft",
+        "priceRange": "\u20b949.00 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "690 sq.ft",
+        "priceRange": "\u20b964.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "\u20b978.00 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "/images/projects/kolte-patil-life-republic/qrious-elevation.jpg",
+    "heroImage": "/images/projects/kolte-patil-life-republic/qrious-elevation.jpg",
+    "images": [
+      "/images/projects/kolte-patil-life-republic/qrious-elevation.jpg",
+      "/images/projects/kolte-patil-life-republic/qrious-clubhouse.jpg",
+      "https://www.koltepatil.com/assets/uploads/overview/1736838615597289150.jpg"
+    ],
+    "imageAlt": "Life Republic Sector R10 Sector in Life Republic Township, Hinjewadi Pune",
+    "heroImageAlt": "Life Republic Sector R10 Architecture by Kolte-Patil Developers",
+    "lat": 18.5925,
+    "lng": 73.7375,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100024522",
+    "description": "Life Republic Sector R10 (Swagatam) is a serene gated residential cluster in the 390-acre township featuring expansive central courtyards, sports courts, and immediate school access.",
+    "features": [
+      "390-Acre Integrated Township",
+      "Anisha Global School",
+      "Township Botanical Park",
+      "Multi-Level Grand Clubhouses",
+      "Sports Arena & Cricket Ground",
+      "24/7 Multi-Tier Security",
+      "Township Shuttle Service"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "World-Class 390-Acre Township Infrastructure"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Life Republic Sector R10 located?",
+        "answer": "Life Republic Sector R10 is strategically located in prime Hinjewadi, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Life Republic Sector R10?",
+        "answer": "Residences in Life Republic Sector R10 start from \u20b949.00 L - \u20b978.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Life Republic Sector R10?",
+        "answer": "Life Republic Sector R10 offers spacious 1 BHK, 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Life Republic Sector R10 MahaRERA approved?",
+        "answer": "Yes, Life Republic Sector R10 is officially registered under MahaRERA with registration number P52100024522. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Life Republic Sector R10?",
+        "answer": "The development features world-class lifestyle amenities including Township Infrastructure, Anisha Global School, Sports Arena, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kolte-patil-life-republic-arezo",
+    "title": "Life Republic Arezo",
+    "slug": "kolte-patil-life-republic-arezo",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b958.00 L - \u20b979.00 L",
+    "exactPrice": "\u20b958.00 L",
+    "pricePerSqft": 7300,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "\u20b958.00 L"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "820 sq.ft",
+        "priceRange": "\u20b979.00 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "/images/projects/kolte-patil-life-republic/qrious-clubhouse.jpg",
+    "heroImage": "/images/projects/kolte-patil-life-republic/qrious-clubhouse.jpg",
+    "images": [
+      "/images/projects/kolte-patil-life-republic/qrious-clubhouse.jpg",
+      "https://www.koltepatil.com/assets/uploads/overview/1736838615597289150.jpg",
+      "https://www.koltepatil.com/assets/uploads/overview/17371057642004803003.jpg"
+    ],
+    "imageAlt": "Life Republic Arezo Sector in Life Republic Township, Hinjewadi Pune",
+    "heroImageAlt": "Life Republic Arezo Architecture by Kolte-Patil Developers",
+    "lat": 18.5938,
+    "lng": 73.7395,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100022119",
+    "description": "Life Republic Arezo Sector R11 offers thoughtfully crafted 2 & 2.5 BHK residences designed with Mediterranean styling, tranquil water bodies, and club amenities.",
+    "features": [
+      "390-Acre Integrated Township",
+      "Anisha Global School",
+      "Township Botanical Park",
+      "Multi-Level Grand Clubhouses",
+      "Sports Arena & Cricket Ground",
+      "24/7 Multi-Tier Security",
+      "Township Shuttle Service"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "World-Class 390-Acre Township Infrastructure"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Life Republic Arezo located?",
+        "answer": "Life Republic Arezo is strategically located in prime Hinjewadi, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Life Republic Arezo?",
+        "answer": "Residences in Life Republic Arezo start from \u20b958.00 L - \u20b979.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Life Republic Arezo?",
+        "answer": "Life Republic Arezo offers spacious 2 BHK, 2.5 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Life Republic Arezo MahaRERA approved?",
+        "answer": "Yes, Life Republic Arezo is officially registered under MahaRERA with registration number P52100022119. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Life Republic Arezo?",
+        "answer": "The development features world-class lifestyle amenities including Township Infrastructure, Anisha Global School, Sports Arena, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kolte-patil-life-republic-first-avenue",
+    "title": "Life Republic First Avenue",
+    "slug": "kolte-patil-life-republic-first-avenue",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b965.00 L - \u20b995.00 L",
+    "exactPrice": "\u20b965.00 L",
+    "pricePerSqft": 7500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "745 sq.ft",
+        "priceRange": "\u20b965.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1040 sq.ft",
+        "priceRange": "\u20b995.00 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1736838615597289150.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1736838615597289150.jpg",
+    "images": [
+      "https://www.koltepatil.com/assets/uploads/overview/1736838615597289150.jpg",
+      "https://www.koltepatil.com/assets/uploads/overview/17371057642004803003.jpg",
+      "https://www.koltepatil.com/assets/uploads/overview/17368380161318147602.jpg"
+    ],
+    "imageAlt": "Life Republic First Avenue Sector in Life Republic Township, Hinjewadi Pune",
+    "heroImageAlt": "Life Republic First Avenue Architecture by Kolte-Patil Developers",
+    "lat": 18.5905,
+    "lng": 73.7382,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100000450",
+    "description": "Life Republic First Avenue (Sector R1) is the flagship gateway sector of the Life Republic township with mature landscaping, full occupation, and active community life.",
+    "features": [
+      "390-Acre Integrated Township",
+      "Anisha Global School",
+      "Township Botanical Park",
+      "Multi-Level Grand Clubhouses",
+      "Sports Arena & Cricket Ground",
+      "24/7 Multi-Tier Security",
+      "Township Shuttle Service"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "World-Class 390-Acre Township Infrastructure"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Life Republic First Avenue located?",
+        "answer": "Life Republic First Avenue is strategically located in prime Hinjewadi, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Life Republic First Avenue?",
+        "answer": "Residences in Life Republic First Avenue start from \u20b965.00 L - \u20b995.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Life Republic First Avenue?",
+        "answer": "Life Republic First Avenue offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Life Republic First Avenue MahaRERA approved?",
+        "answer": "Yes, Life Republic First Avenue is officially registered under MahaRERA with registration number P52100000450. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Life Republic First Avenue?",
+        "answer": "The development features world-class lifestyle amenities including Township Infrastructure, Anisha Global School, Sports Arena, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kolte-patil-life-republic-itower",
+    "title": "Life Republic i-Tower Highline",
+    "slug": "kolte-patil-life-republic-itower",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b962.00 L - \u20b988.00 L",
+    "exactPrice": "\u20b962.00 L",
+    "pricePerSqft": 7400,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "725 sq.ft",
+        "priceRange": "\u20b962.00 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "\u20b988.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17371057642004803003.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17371057642004803003.jpg",
+    "images": [
+      "https://www.koltepatil.com/assets/uploads/overview/17371057642004803003.jpg",
+      "https://www.koltepatil.com/assets/uploads/overview/17368380161318147602.jpg",
+      "https://www.koltepatil.com/assets/uploads/overview/1756736086132321226.jpg"
+    ],
+    "imageAlt": "Life Republic i-Tower Highline Sector in Life Republic Township, Hinjewadi Pune",
+    "heroImageAlt": "Life Republic i-Tower Highline Architecture by Kolte-Patil Developers",
+    "lat": 18.5942,
+    "lng": 73.7408,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100026880",
+    "description": "Life Republic i-Tower Highline offers contemporary smart-home technology, panoramic views of the township reserve, and electric vehicle charging bays.",
+    "features": [
+      "390-Acre Integrated Township",
+      "Anisha Global School",
+      "Township Botanical Park",
+      "Multi-Level Grand Clubhouses",
+      "Sports Arena & Cricket Ground",
+      "24/7 Multi-Tier Security",
+      "Township Shuttle Service"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "World-Class 390-Acre Township Infrastructure"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Life Republic i-Tower Highline located?",
+        "answer": "Life Republic i-Tower Highline is strategically located in prime Hinjewadi, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Life Republic i-Tower Highline?",
+        "answer": "Residences in Life Republic i-Tower Highline start from \u20b962.00 L - \u20b988.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Life Republic i-Tower Highline?",
+        "answer": "Life Republic i-Tower Highline offers spacious 2 BHK, 3 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Life Republic i-Tower Highline MahaRERA approved?",
+        "answer": "Yes, Life Republic i-Tower Highline is officially registered under MahaRERA with registration number P52100026880. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Life Republic i-Tower Highline?",
+        "answer": "The development features world-class lifestyle amenities including Township Infrastructure, Anisha Global School, Sports Arena, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kolte-patil-life-republic-nora",
+    "title": "Life Republic Nora",
+    "slug": "kolte-patil-life-republic-nora",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b938.00 L - \u20b958.00 L",
+    "exactPrice": "\u20b938.00 L",
+    "pricePerSqft": 6900,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "385 sq.ft",
+        "priceRange": "\u20b938.00 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "575 sq.ft",
+        "priceRange": "\u20b958.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2027",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17368380161318147602.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17368380161318147602.jpg",
+    "images": [
+      "https://www.koltepatil.com/assets/uploads/overview/17368380161318147602.jpg",
+      "https://www.koltepatil.com/assets/uploads/overview/1756736086132321226.jpg",
+      "https://www.koltepatil.com/assets/uploads/overview/17742511611639045753.jpg"
+    ],
+    "imageAlt": "Life Republic Nora Sector in Life Republic Township, Hinjewadi Pune",
+    "heroImageAlt": "Life Republic Nora Architecture by Kolte-Patil Developers",
+    "lat": 18.5919,
+    "lng": 73.7362,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100029340",
+    "description": "Life Republic Nora represents affordable smart residences within the integrated 390-acre township, providing first-time homebuyers complete township privileges with zero brokerage.",
+    "features": [
+      "390-Acre Integrated Township",
+      "Anisha Global School",
+      "Township Botanical Park",
+      "Multi-Level Grand Clubhouses",
+      "Sports Arena & Cricket Ground",
+      "24/7 Multi-Tier Security",
+      "Township Shuttle Service"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "World-Class 390-Acre Township Infrastructure"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Life Republic Nora located?",
+        "answer": "Life Republic Nora is strategically located in prime Hinjewadi, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Life Republic Nora?",
+        "answer": "Residences in Life Republic Nora start from \u20b938.00 L - \u20b958.00 L with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Life Republic Nora?",
+        "answer": "Life Republic Nora offers spacious 1 BHK, 2 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Life Republic Nora MahaRERA approved?",
+        "answer": "Yes, Life Republic Nora is officially registered under MahaRERA with registration number P52100029340. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Life Republic Nora?",
+        "answer": "The development features world-class lifestyle amenities including Township Infrastructure, Anisha Global School, Sports Arena, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kolte-patil-life-republic-whispering-greens",
+    "title": "Life Republic Whispering Greens",
+    "slug": "kolte-patil-life-republic-whispering-greens",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b91.85 Cr - \u20b93.40 Cr",
+    "exactPrice": "\u20b91.85 Cr",
+    "pricePerSqft": 11500,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Luxury Villa",
+        "carpetArea": "1650 sq.ft",
+        "priceRange": "\u20b91.85 Cr"
+      },
+      {
+        "type": "4 BHK Signature Villa",
+        "carpetArea": "2450 sq.ft",
+        "priceRange": "\u20b93.40 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready Possession",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/1756736086132321226.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/1756736086132321226.jpg",
+    "images": [
+      "https://www.koltepatil.com/assets/uploads/overview/1756736086132321226.jpg",
+      "https://www.koltepatil.com/assets/uploads/overview/17742511611639045753.jpg",
+      "/images/projects/kolte-patil-life-republic/qrious-elevation.jpg"
+    ],
+    "imageAlt": "Life Republic Whispering Greens Sector in Life Republic Township, Hinjewadi Pune",
+    "heroImageAlt": "Life Republic Whispering Greens Architecture by Kolte-Patil Developers",
+    "lat": 18.5955,
+    "lng": 73.7425,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100001120",
+    "description": "Life Republic Whispering Greens is an exclusive luxury villa and row-house enclave nestled within private botanical gardens with private plunge pool and bespoke club concierge.",
+    "features": [
+      "390-Acre Integrated Township",
+      "Anisha Global School",
+      "Township Botanical Park",
+      "Multi-Level Grand Clubhouses",
+      "Sports Arena & Cricket Ground",
+      "24/7 Multi-Tier Security",
+      "Township Shuttle Service"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "World-Class 390-Acre Township Infrastructure"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Life Republic Whispering Greens located?",
+        "answer": "Life Republic Whispering Greens is strategically located in prime Hinjewadi, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Life Republic Whispering Greens?",
+        "answer": "Residences in Life Republic Whispering Greens start from \u20b91.85 Cr - \u20b93.40 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Life Republic Whispering Greens?",
+        "answer": "Life Republic Whispering Greens offers spacious 3 BHK, 4 BHK apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Life Republic Whispering Greens MahaRERA approved?",
+        "answer": "Yes, Life Republic Whispering Greens is officially registered under MahaRERA with registration number P52100001120. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Life Republic Whispering Greens?",
+        "answer": "The development features world-class lifestyle amenities including Township Infrastructure, Anisha Global School, Sports Arena, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kolte-patil-life-republic-oro-central",
+    "title": "Life Republic ORO Central",
+    "slug": "kolte-patil-life-republic-oro-central",
+    "builderId": "b-kolte-patil",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "\u20b945.00 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b945.00 L",
+    "pricePerSqft": 9500,
+    "configurations": [
+      "Retail Shop",
+      "Boutique Office"
+    ],
+    "configurationDetails": [
+      {
+        "type": "High-Street Retail Shop",
+        "carpetArea": "350 sq.ft",
+        "priceRange": "\u20b945.00 L"
+      },
+      {
+        "type": "Boutique Commercial Office",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "\u20b985.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Commercial",
+    "possessionDate": "Dec 2026",
+    "image": "https://www.koltepatil.com/assets/uploads/overview/17742511611639045753.jpg",
+    "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17742511611639045753.jpg",
+    "images": [
+      "https://www.koltepatil.com/assets/uploads/overview/17742511611639045753.jpg",
+      "/images/projects/kolte-patil-life-republic/qrious-elevation.jpg",
+      "/images/projects/kolte-patil-life-republic/qrious-clubhouse.jpg"
+    ],
+    "imageAlt": "Life Republic ORO Central Sector in Life Republic Township, Hinjewadi Pune",
+    "heroImageAlt": "Life Republic ORO Central Architecture by Kolte-Patil Developers",
+    "lat": 18.591,
+    "lng": 73.738,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/CcdgBfirliL7GgALW5z6Z6Ouyv3pmKyq6yDTYer6.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "reraId": "P52100031200",
+    "description": "Life Republic ORO Central is the high-street commercial and retail heart of the 390-acre township, providing bustling captive footfalls from 10,000+ resident families.",
+    "features": [
+      "390-Acre Integrated Township",
+      "Anisha Global School",
+      "Township Botanical Park",
+      "Multi-Level Grand Clubhouses",
+      "Sports Arena & Cricket Ground",
+      "24/7 Multi-Tier Security",
+      "Township Shuttle Service"
+    ],
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage through PROPSMART REALTY",
+      "Direct Developer Inventory Allocation",
+      "World-Class 390-Acre Township Infrastructure"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+      },
+      {
+        "label": "Bathrooms",
+        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Life Republic ORO Central located?",
+        "answer": "Life Republic ORO Central is strategically located in prime Hinjewadi, Pune, offering seamless connectivity to commercial centers, transit corridors, and essential social infrastructure."
+      },
+      {
+        "question": "What is the starting price for flats in Life Republic ORO Central?",
+        "answer": "Residences in Life Republic ORO Central start from \u20b945.00 L - \u20b91.25 Cr with zero brokerage and direct builder inventory allocation through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations are available in Life Republic ORO Central?",
+        "answer": "Life Republic ORO Central offers spacious Retail Shop, Boutique Office apartments designed for maximum carpet area efficiency and natural ventilation."
+      },
+      {
+        "question": "Is Life Republic ORO Central MahaRERA approved?",
+        "answer": "Yes, Life Republic ORO Central is officially registered under MahaRERA with registration number P52100031200. All approvals and certificates are verified."
+      },
+      {
+        "question": "What amenities are provided at Life Republic ORO Central?",
+        "answer": "The development features world-class lifestyle amenities including Township Infrastructure, Anisha Global School, Sports Arena, multi-tier security systems, and high-speed elevators."
+      }
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
   }
 ];
