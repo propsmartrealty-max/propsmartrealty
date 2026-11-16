@@ -27,8 +27,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 10500,
     "appreciation_rate": 9.2,
     "tagline": "High-Street Retail, Dining & Luxury High-Rises",
-    "projectCount": 43,
-    "count": 43,
+    "projectCount": 39,
+    "count": 39,
     "image": "/images/localities/baner.svg",
     "price": "₹10.5k/sq.ft",
     "description": "Prime Baner corridor in Pune featuring verified residential towers, high rental yields, and 9.2% annual capital appreciation."
@@ -121,7 +121,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "West Pune",
     "isFeatured": true,
     "avgPriceSqft": 9400,
-    "appreciation_rate": 8.0,
+    "appreciation_rate": 8,
     "tagline": "Scenic Pashan Lake & Western Bio-Park Reserve",
     "projectCount": 2,
     "count": 2,
@@ -265,7 +265,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "West Pune",
     "isFeatured": false,
     "avgPriceSqft": 7100,
-    "appreciation_rate": 8.0,
+    "appreciation_rate": 8,
     "tagline": "Baner Annexe & Western Ring Road Junction",
     "projectCount": 4,
     "count": 4,
@@ -475,8 +475,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 8400,
     "appreciation_rate": 7.8,
     "tagline": "East Pune Commercial Spine & Solapur Highway Junction",
-    "projectCount": 8,
-    "count": 8,
+    "projectCount": 7,
+    "count": 7,
     "image": "/images/localities/hadapsar.svg",
     "price": "₹8.4k/sq.ft",
     "description": "Prime Hadapsar corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
@@ -603,8 +603,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 6300,
     "appreciation_rate": 7.7,
     "tagline": "Green Farmsteads & Mega Integrated Townships",
-    "projectCount": 4,
-    "count": 4,
+    "projectCount": 1,
+    "count": 1,
     "image": "/images/localities/manjri.svg",
     "price": "₹6.3k/sq.ft",
     "description": "Prime Manjri corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
@@ -633,7 +633,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "East Pune",
     "isFeatured": false,
     "avgPriceSqft": 10200,
-    "appreciation_rate": 8.0,
+    "appreciation_rate": 8,
     "tagline": "Central Riverfront & Business Bay Tech Parks",
     "projectCount": 1,
     "count": 1,
@@ -825,7 +825,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "South & Central",
     "isFeatured": true,
     "avgPriceSqft": 13500,
-    "appreciation_rate": 8.0,
+    "appreciation_rate": 8,
     "tagline": "Pune Cantonment Heritage, MG Road & Colonial Clubs",
     "projectCount": 1,
     "count": 1,
@@ -985,7 +985,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "South & Central",
     "isFeatured": true,
     "avgPriceSqft": 7800,
-    "appreciation_rate": 8.0,
+    "appreciation_rate": 8,
     "tagline": "Mutha Riverfront Boulevard & Khadakwasla Gateway",
     "projectCount": 2,
     "count": 2,
@@ -1081,10 +1081,10 @@ export const LOCATIONS: Locality[] = [
     "zone": "North Pune (PCMC)",
     "isFeatured": true,
     "avgPriceSqft": 7800,
-    "appreciation_rate": 8.0,
+    "appreciation_rate": 8,
     "tagline": "Smart Twin City Municipal Hub & Industrial Powerhouse",
-    "projectCount": 21,
-    "count": 21,
+    "projectCount": 3,
+    "count": 3,
     "image": "/images/localities/pimpri-chinchwad.svg",
     "price": "₹7.8k/sq.ft",
     "description": "Prime Pimpri Chinchwad corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
@@ -1099,8 +1099,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 8200,
     "appreciation_rate": 7.9,
     "tagline": "Central PCMC Metro Corridor & Commercial Market",
-    "projectCount": 13,
-    "count": 13,
+    "projectCount": 10,
+    "count": 10,
     "image": "/images/localities/default-locality.svg",
     "price": "₹8.2k/sq.ft",
     "description": "Prime Pimpri corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
@@ -1115,8 +1115,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 8400,
     "appreciation_rate": 8.1,
     "tagline": "Established Civic Hub, Railway Junction & Auto Belts",
-    "projectCount": 11,
-    "count": 11,
+    "projectCount": 8,
+    "count": 8,
     "image": "/images/localities/default-locality.svg",
     "price": "₹8.4k/sq.ft",
     "description": "Prime Chinchwad corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
@@ -1147,8 +1147,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 6000,
     "appreciation_rate": 8.6,
     "tagline": "Fastest-Growing PCMC Node & Ring Road Corridor",
-    "projectCount": 11,
-    "count": 11,
+    "projectCount": 9,
+    "count": 9,
     "image": "/images/localities/charholi.svg",
     "price": "₹6.0k/sq.ft",
     "description": "Prime Charholi corridor in Pune featuring verified residential towers, high rental yields, and 8.6% annual capital appreciation."
@@ -1163,8 +1163,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 6200,
     "appreciation_rate": 8.5,
     "tagline": "Mega Township Developments off Pune-Nashik Highway",
-    "projectCount": 5,
-    "count": 5,
+    "projectCount": 2,
+    "count": 2,
     "image": "/images/localities/default-locality.svg",
     "price": "₹6.2k/sq.ft",
     "description": "Prime Charholi Budruk corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
@@ -1337,7 +1337,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "North Pune (PCMC)",
     "isFeatured": false,
     "avgPriceSqft": 5800,
-    "appreciation_rate": 8.0,
+    "appreciation_rate": 8,
     "tagline": "Indrayani Riverfront & Alandi Road Growth Node",
     "projectCount": 1,
     "count": 1,
@@ -1419,8 +1419,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 32000,
     "appreciation_rate": 8.3,
     "tagline": "Scenic Versova Beach, Seafront Cafes & Metro Terminal",
-    "projectCount": 1,
-    "count": 1,
+    "projectCount": 0,
+    "count": 0,
     "image": "/images/localities/default-locality.svg",
     "price": "₹32.0k/sq.ft",
     "description": "Prime Versova corridor in Mumbai featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
@@ -1481,7 +1481,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "Western Suburbs",
     "isFeatured": false,
     "avgPriceSqft": 24000,
-    "appreciation_rate": 8.0,
+    "appreciation_rate": 8,
     "tagline": "Lokhandwala Township & Western Express Highway",
     "projectCount": 1,
     "count": 1,
@@ -1529,7 +1529,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "Western Suburbs",
     "isFeatured": false,
     "avgPriceSqft": 26000,
-    "appreciation_rate": 8.0,
+    "appreciation_rate": 8,
     "tagline": "Domestic Airport Corridor & Western Expressway",
     "projectCount": 1,
     "count": 1,
@@ -1579,8 +1579,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 24500,
     "appreciation_rate": 8.4,
     "tagline": "Powai Extension & Gated High-Rise Communities",
-    "projectCount": 1,
-    "count": 1,
+    "projectCount": 0,
+    "count": 0,
     "image": "/images/localities/default-locality.svg",
     "price": "₹24.5k/sq.ft",
     "description": "Prime Chandivali corridor in Mumbai featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
@@ -1657,7 +1657,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "Central Mumbai",
     "isFeatured": false,
     "avgPriceSqft": 19500,
-    "appreciation_rate": 8.0,
+    "appreciation_rate": 8,
     "tagline": "LBS Marg Metro Line 4 & High-Value Towers",
     "projectCount": 1,
     "count": 1,
@@ -1899,8 +1899,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 7500,
     "appreciation_rate": 8.8,
     "tagline": "Lodha Integrated 200-Acre Forest Township Enclave",
-    "projectCount": 1,
-    "count": 1,
+    "projectCount": 3,
+    "count": 3,
     "image": "/images/localities/default-locality.svg",
     "price": "₹7.5k/sq.ft",
     "description": "Prime Upper Thane corridor in Thane featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
@@ -1915,8 +1915,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 6800,
     "appreciation_rate": 8.9,
     "tagline": "Runwal Gardens Belt & Airoli-Katai Freeway Gateway",
-    "projectCount": 2,
-    "count": 2,
+    "projectCount": 0,
+    "count": 0,
     "image": "/images/localities/default-locality.svg",
     "price": "₹6.8k/sq.ft",
     "description": "Prime Kalyan-Shilphata corridor in Thane featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
@@ -1947,8 +1947,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 12500,
     "appreciation_rate": 8.8,
     "tagline": "Planned Smart Metropolis, Palm Beach Road & Trans-Harbour Links",
-    "projectCount": 2,
-    "count": 2,
+    "projectCount": 1,
+    "count": 1,
     "image": "/images/localities/default-locality.svg",
     "price": "₹12.5k/sq.ft",
     "description": "Prime Navi Mumbai corridor in Navi Mumbai featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
@@ -1993,7 +1993,7 @@ export const LOCATIONS: Locality[] = [
     "zone": "Lonavala & Khandala",
     "isFeatured": false,
     "avgPriceSqft": 5200,
-    "appreciation_rate": 8.0,
+    "appreciation_rate": 8,
     "tagline": "Expressway Corridor, Imagicaa & Country Villa Plots",
     "projectCount": 2,
     "count": 2,
@@ -2113,14 +2113,15 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
     "description": "Godrej Properties brings the Godrej Group philosophy of innovation, sustainability, and excellence to the Pune real estate industry with iconic township and residential landmarks.",
     "establishedYear": 1990,
-    "totalProjects": 85,
+    "totalProjects": 23,
     "ongoingProjects": 5,
     "trustScore": 9.6,
     "isVerified": true,
     "locations": [
       "Mahalunge",
       "Hinjewadi"
-    ]
+    ],
+    "experience": 36
   },
   {
     "id": "b-kolte-patil",
@@ -2130,7 +2131,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.koltepatil.com/assets/uploads/overview/17630446171899594771.png",
     "description": "Kolte-Patil Developers Ltd. is a publicly listed premier real estate company with dominant presence across Pune and Mumbai. With over 30 years of excellence, Kolte-Patil is celebrated for iconic integrated townships like Life Republic in Hinjewadi and luxury landmarks under the prestigious 24K brand.",
     "establishedYear": 1991,
-    "totalProjects": 60,
+    "totalProjects": 27,
     "ongoingProjects": 26,
     "trustScore": 9.5,
     "isVerified": true,
@@ -2148,7 +2149,8 @@ export const BUILDERS: Builder[] = [
       "Goregaon West",
       "Santacruz East",
       "Navi Mumbai"
-    ]
+    ],
+    "experience": 35
   },
   {
     "id": "b-vtp",
@@ -2156,9 +2158,9 @@ export const BUILDERS: Builder[] = [
     "slug": "vtp-realty",
     "logo": "/images/builders/vtp-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
-    "description": "VTP Realty is Pune\u2019s leading real estate brand celebrated for Maximum Livable Area (MLA) homes, township developments, and high construction velocity across Kharadi, Hinjewadi, and Mahalunge.",
+    "description": "VTP Realty is Pune’s leading real estate brand celebrated for Maximum Livable Area (MLA) homes, township developments, and high construction velocity across Kharadi, Hinjewadi, and Mahalunge.",
     "establishedYear": 2011,
-    "totalProjects": 42,
+    "totalProjects": 26,
     "ongoingProjects": 5,
     "trustScore": 9.4,
     "isVerified": true,
@@ -2166,7 +2168,8 @@ export const BUILDERS: Builder[] = [
       "Hinjewadi",
       "Kharadi",
       "Bavdhan"
-    ]
+    ],
+    "experience": 15
   },
   {
     "id": "b-lodha",
@@ -2174,9 +2177,9 @@ export const BUILDERS: Builder[] = [
     "slug": "lodha-group",
     "logo": "/images/builders/lodha-official.svg",
     "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg",
-    "description": "Lodha Group (Macrotech Developers) is one of India\u2019s largest real estate developers delivering world-class residences, luxury amenities, and grand master-planned developments in Pune.",
+    "description": "Lodha Group (Macrotech Developers) is one of India’s largest real estate developers delivering world-class residences, luxury amenities, and grand master-planned developments in Pune.",
     "establishedYear": 1980,
-    "totalProjects": 90,
+    "totalProjects": 23,
     "ongoingProjects": 5,
     "trustScore": 9.6,
     "isVerified": true,
@@ -2184,7 +2187,8 @@ export const BUILDERS: Builder[] = [
       "Wagholi",
       "Hinjewadi",
       "Mohammed Wadi"
-    ]
+    ],
+    "experience": 46
   },
   {
     "id": "b-panchshil",
@@ -2192,15 +2196,16 @@ export const BUILDERS: Builder[] = [
     "slug": "panchshil-realty",
     "logo": "/images/builders/panchshil-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
-    "description": "Panchshil Realty is Pune\u2019s pinnacle of luxury real estate, introducing world brands including Trump Towers, YOO Pune, World Trade Center Pune, and EON Free Zone.",
+    "description": "Panchshil Realty is Pune’s pinnacle of luxury real estate, introducing world brands including Trump Towers, YOO Pune, World Trade Center Pune, and EON Free Zone.",
     "establishedYear": 2002,
-    "totalProjects": 35,
+    "totalProjects": 4,
     "ongoingProjects": 5,
     "trustScore": 9.8,
     "isVerified": true,
     "locations": [
       "Kharadi"
-    ]
+    ],
+    "experience": 24
   },
   {
     "id": "b-rohan",
@@ -2208,16 +2213,17 @@ export const BUILDERS: Builder[] = [
     "slug": "rohan-builders",
     "logo": "/images/builders/rohan-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
-    "description": "Rohan Builders is celebrated for pioneering the PLUS Home concept in Pune \u2014 focusing on Perfect Ventilation, Lively Light, Utmost Privacy, and Smart Space design.",
+    "description": "Rohan Builders is celebrated for pioneering the PLUS Home concept in Pune — focusing on Perfect Ventilation, Lively Light, Utmost Privacy, and Smart Space design.",
     "establishedYear": 1993,
-    "totalProjects": 48,
+    "totalProjects": 16,
     "ongoingProjects": 5,
     "trustScore": 9.3,
     "isVerified": true,
     "locations": [
       "Balewadi",
       "Bhugaon"
-    ]
+    ],
+    "experience": 33
   },
   {
     "id": "b-vilas-javdekar",
@@ -2227,7 +2233,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/tckPqBcVINZBVHdS5Bf2TEn7XG8BA2rNaM34RTIU.webp",
     "description": "Vilas Javdekar Developers stands for Trust and Design Excellence in Pune, known for the landmark Yashwin series and timely customer-centric delivery.",
     "establishedYear": 1981,
-    "totalProjects": 40,
+    "totalProjects": 19,
     "ongoingProjects": 5,
     "trustScore": 9.4,
     "isVerified": true,
@@ -2235,7 +2241,8 @@ export const BUILDERS: Builder[] = [
       "Pashan",
       "Kharadi",
       "Wagholi"
-    ]
+    ],
+    "experience": 45
   },
   {
     "id": "b-pride-purple",
@@ -2243,9 +2250,9 @@ export const BUILDERS: Builder[] = [
     "slug": "pride-purple-group",
     "logo": "/images/builders/pride-purple-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/pyfCcZQGbXLGoumWmHpNJZu7lOdvBE2m8hqD7GBs.webp",
-    "description": "Pride Purple Group has shaped Pune\u2019s skyline across Hinjewadi, Wakad, and Baner with over two decades of customer trust, commercial IT towers, and premium lifestyle communities.",
+    "description": "Pride Purple Group has shaped Pune’s skyline across Hinjewadi, Wakad, and Baner with over two decades of customer trust, commercial IT towers, and premium lifestyle communities.",
     "establishedYear": 2001,
-    "totalProjects": 38,
+    "totalProjects": 21,
     "ongoingProjects": 5,
     "trustScore": 9.2,
     "isVerified": true,
@@ -2253,7 +2260,8 @@ export const BUILDERS: Builder[] = [
       "Ravet",
       "Hinjewadi",
       "Pimpri Chinchwad"
-    ]
+    ],
+    "experience": 25
   },
   {
     "id": "b-nyati",
@@ -2263,7 +2271,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/CU1K5TMPY5iB90KqfJVmfosGCK6HiAnidy5Rb9Xd.webp",
     "description": "Nyati Group is an ISO-certified Pune developer committed to architectural grandeur, structural integrity, and contemporary lifestyle spaces across East and West Pune.",
     "establishedYear": 1996,
-    "totalProjects": 50,
+    "totalProjects": 7,
     "ongoingProjects": 5,
     "trustScore": 9.3,
     "isVerified": true,
@@ -2271,7 +2279,8 @@ export const BUILDERS: Builder[] = [
       "Wadgaon Sheri",
       "Baner",
       "Undri"
-    ]
+    ],
+    "experience": 30
   },
   {
     "id": "b-gera",
@@ -2279,16 +2288,17 @@ export const BUILDERS: Builder[] = [
     "slug": "gera-developments",
     "logo": "/images/builders/gera-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/Clv6QVczOiJD0bNhVQSdUoYvHCzVM92HasWLD3ET.webp",
-    "description": "Gera Developments is India\u2019s pioneer of ChildCentric\u00ae Homes with an unprecedented 7-Year Warranty, delivering landmark projects across Kharadi and Hinjewadi.",
+    "description": "Gera Developments is India’s pioneer of ChildCentric® Homes with an unprecedented 7-Year Warranty, delivering landmark projects across Kharadi and Hinjewadi.",
     "establishedYear": 1970,
-    "totalProjects": 55,
+    "totalProjects": 7,
     "ongoingProjects": 5,
     "trustScore": 9.5,
     "isVerified": true,
     "locations": [
       "Hinjewadi",
       "Bhosari"
-    ]
+    ],
+    "experience": 56
   },
   {
     "id": "b-kasturi",
@@ -2296,16 +2306,17 @@ export const BUILDERS: Builder[] = [
     "slug": "kasturi-housing",
     "logo": "/images/builders/kasturi.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
-    "description": "Kasturi Housing is Pune\u2019s premier bespoke luxury developer, famed for The Balmoral collection and minimalist architecture with global engineering standards.",
+    "description": "Kasturi Housing is Pune’s premier bespoke luxury developer, famed for The Balmoral collection and minimalist architecture with global engineering standards.",
     "establishedYear": 1999,
-    "totalProjects": 22,
+    "totalProjects": 11,
     "ongoingProjects": 5,
     "trustScore": 9.7,
     "isVerified": true,
     "locations": [
       "Hinjewadi",
       "Balewadi"
-    ]
+    ],
+    "experience": 27
   },
   {
     "id": "b-mahindra",
@@ -2313,9 +2324,9 @@ export const BUILDERS: Builder[] = [
     "slug": "mahindra-lifespaces",
     "logo": "/images/builders/mahindra-lifespaces-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/7R1KntHtZGpJcf1ID73ZhW6Bmbi6t69x1dDPXrCk.webp",
-    "description": "Mahindra Lifespace Developers brings Mahindra Group\u2019s trust and green building expertise to Pune with IGBC Net-Zero energy and sustainable homes.",
+    "description": "Mahindra Lifespace Developers brings Mahindra Group’s trust and green building expertise to Pune with IGBC Net-Zero energy and sustainable homes.",
     "establishedYear": 1994,
-    "totalProjects": 45,
+    "totalProjects": 5,
     "ongoingProjects": 5,
     "trustScore": 9.4,
     "isVerified": true,
@@ -2323,7 +2334,8 @@ export const BUILDERS: Builder[] = [
       "Tathawade",
       "Pimpri Chinchwad",
       "Kharadi"
-    ]
+    ],
+    "experience": 32
   },
   {
     "id": "b-kumar",
@@ -2333,7 +2345,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/ByYt4cju0mAa243xiYGkSFBnG4OPoJfO0NqnVL4K.webp",
     "description": "Kumar Properties has delivered over 35,000 happy families in Pune over five decades, establishing timeless communities across Baner, Hadapsar, and Mundhwa.",
     "establishedYear": 1966,
-    "totalProjects": 80,
+    "totalProjects": 3,
     "ongoingProjects": 5,
     "trustScore": 9.3,
     "isVerified": true,
@@ -2341,7 +2353,8 @@ export const BUILDERS: Builder[] = [
       "Baner",
       "Undri",
       "Hinjewadi"
-    ]
+    ],
+    "experience": 60
   },
   {
     "id": "b-bramhacorp",
@@ -2349,9 +2362,9 @@ export const BUILDERS: Builder[] = [
     "slug": "bramhacorp",
     "logo": "/images/builders/bramhacorp-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/e1Yisy3QN19cU13poeL9foZvCwjxU3tEAiuqtDxW.webp",
-    "description": "BramhaCorp is Pune\u2019s pioneer in bringing world hospitality and branded residences, including Sheraton Grand, Le Meridien, and F-Residences.",
+    "description": "BramhaCorp is Pune’s pioneer in bringing world hospitality and branded residences, including Sheraton Grand, Le Meridien, and F-Residences.",
     "establishedYear": 1982,
-    "totalProjects": 30,
+    "totalProjects": 4,
     "ongoingProjects": 5,
     "trustScore": 9.4,
     "isVerified": true,
@@ -2359,7 +2372,8 @@ export const BUILDERS: Builder[] = [
       "Camp",
       "Balewadi",
       "Kalyani Nagar"
-    ]
+    ],
+    "experience": 44
   },
   {
     "id": "b-amanora",
@@ -2367,15 +2381,16 @@ export const BUILDERS: Builder[] = [
     "slug": "amanora-park-town",
     "logo": "/images/builders/amanora.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
-    "description": "Amanora Park Town by City Corporation is Maharashtra\u2019s first accredited 400-acre smart township in Hadapsar Pune, featuring Gateway Towers and Future Towers.",
+    "description": "Amanora Park Town by City Corporation is Maharashtra’s first accredited 400-acre smart township in Hadapsar Pune, featuring Gateway Towers and Future Towers.",
     "establishedYear": 2007,
-    "totalProjects": 20,
+    "totalProjects": 2,
     "ongoingProjects": 5,
     "trustScore": 9.5,
     "isVerified": true,
     "locations": [
       "Kothrud"
-    ]
+    ],
+    "experience": 19
   },
   {
     "id": "b-joyville",
@@ -2385,7 +2400,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/leqFS0kMhJDAQ6ZdwEOxnajHj4VcaKZHhxS1hVk1.webp",
     "description": "Joyville is the aspirational residential housing platform by 150-year-old engineering titan Shapoorji Pallonji, creating biophilic homes in Hinjewadi and Hadapsar.",
     "establishedYear": 2016,
-    "totalProjects": 25,
+    "totalProjects": 4,
     "ongoingProjects": 5,
     "trustScore": 9.5,
     "isVerified": true,
@@ -2393,7 +2408,8 @@ export const BUILDERS: Builder[] = [
       "Hadapsar",
       "Shewalewadi",
       "Hinjewadi"
-    ]
+    ],
+    "experience": 10
   },
   {
     "id": "b-kohinoor",
@@ -2403,7 +2419,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/dRkDonPR1eXndCLucTp17YruBhz2634DUGQ5X3YG.webp",
     "description": "Kohinoor Group Pune is renowned for its Sada Sukhi Raho philosophy, delivering over 40 landmark projects across Kharadi, Hinjewadi, and Pimpri.",
     "establishedYear": 1983,
-    "totalProjects": 45,
+    "totalProjects": 23,
     "ongoingProjects": 5,
     "trustScore": 9.3,
     "isVerified": true,
@@ -2411,7 +2427,8 @@ export const BUILDERS: Builder[] = [
       "Kharadi",
       "Pimpri Chinchwad",
       "Hinjewadi"
-    ]
+    ],
+    "experience": 43
   },
   {
     "id": "b-kalpataru",
@@ -2419,16 +2436,17 @@ export const BUILDERS: Builder[] = [
     "slug": "kalpataru",
     "logo": "/images/builders/kalpataru-official.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp",
-    "description": "Kalpataru is one of India\u2019s most awarded real estate companies, creating luxury landmark gated estates in Baner and Bavdhan Pune.",
+    "description": "Kalpataru is one of India’s most awarded real estate companies, creating luxury landmark gated estates in Baner and Bavdhan Pune.",
     "establishedYear": 1969,
-    "totalProjects": 70,
+    "totalProjects": 4,
     "ongoingProjects": 5,
     "trustScore": 9.5,
     "isVerified": true,
     "locations": [
       "Baner",
       "Anand Nagar"
-    ]
+    ],
+    "experience": 57
   },
   {
     "id": "b-sobha",
@@ -2436,15 +2454,16 @@ export const BUILDERS: Builder[] = [
     "slug": "sobha-limited",
     "logo": "/images/builders/sobha-official.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp",
-    "description": "Sobha Limited is India\u2019s only backward integrated real estate giant, renowned for unparalleled German-standard build quality in Kothrud Pune.",
+    "description": "Sobha Limited is India’s only backward integrated real estate giant, renowned for unparalleled German-standard build quality in Kothrud Pune.",
     "establishedYear": 1995,
-    "totalProjects": 60,
+    "totalProjects": 2,
     "ongoingProjects": 5,
     "trustScore": 9.7,
     "isVerified": true,
     "locations": [
       "Kothrud"
-    ]
+    ],
+    "experience": 31
   },
   {
     "id": "b-tata",
@@ -2454,14 +2473,15 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg",
     "description": "Tata Housing represents the 150-year legacy of Tata Group, delivering master-planned sustainable community housing across Pune.",
     "establishedYear": 1984,
-    "totalProjects": 50,
+    "totalProjects": 2,
     "ongoingProjects": 5,
     "trustScore": 9.6,
     "isVerified": true,
     "locations": [
       "Ravet",
       "Talegaon Dabhade"
-    ]
+    ],
+    "experience": 42
   },
   {
     "id": "b-shapoorji",
@@ -2471,7 +2491,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/desktop/wildernest_desktop_banner.webp",
     "description": "Shapoorji Pallonji Real Estate (SPRE) is the 155+ year old real estate division of the Shapoorji Pallonji Group, delivering iconic landmarks, luxury high-rises, and master-planned townships across Pune and Mumbai.",
     "establishedYear": 1865,
-    "totalProjects": 65,
+    "totalProjects": 11,
     "ongoingProjects": 18,
     "trustScore": 9.8,
     "isVerified": true,
@@ -2488,7 +2508,8 @@ export const BUILDERS: Builder[] = [
       "Sewri",
       "Virar West",
       "Santacruz West"
-    ]
+    ],
+    "experience": 161
   },
   {
     "id": "b-puravankara",
@@ -2498,13 +2519,14 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
     "description": "Puravankara Limited is one of India's leading publicly listed real estate developers with over four decades of excellence across residential and commercial developments.",
     "establishedYear": 1975,
-    "totalProjects": 45,
+    "totalProjects": 2,
     "ongoingProjects": 18,
     "trustScore": 9.7,
     "isVerified": true,
     "locations": [
       "Mundhwa"
-    ]
+    ],
+    "experience": 51
   },
   {
     "id": "b-goel-ganga",
@@ -2514,14 +2536,15 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
     "description": "Goel Ganga Developments is a reputed Pune builder with landmark township and luxury developments across East, South, and Central Pune.",
     "establishedYear": 1983,
-    "totalProjects": 38,
+    "totalProjects": 6,
     "ongoingProjects": 12,
     "trustScore": 9.5,
     "isVerified": true,
     "locations": [
       "Bibwewadi",
       "Hadapsar"
-    ]
+    ],
+    "experience": 43
   },
   {
     "id": "b-rama",
@@ -2531,13 +2554,14 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp",
     "description": "Rama Group is a premier real estate conglomerate in PCMC and Pune, delivering mega residential townships with lifestyle amenities.",
     "establishedYear": 1991,
-    "totalProjects": 30,
+    "totalProjects": 1,
     "ongoingProjects": 10,
     "trustScore": 9.5,
     "isVerified": true,
     "locations": [
       "Ravet"
-    ]
+    ],
+    "experience": 35
   },
   {
     "id": "b-magarpatta",
@@ -2547,13 +2571,14 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
     "description": "Magarpatta Development is the pioneering creator of Magarpatta City and Nanded City, renowned for sustainable cyber cities and integrated townships.",
     "establishedYear": 1999,
-    "totalProjects": 25,
+    "totalProjects": 1,
     "ongoingProjects": 8,
     "trustScore": 9.8,
     "isVerified": true,
     "locations": [
       "Mundhwa"
-    ]
+    ],
+    "experience": 27
   },
   {
     "id": "b-kundan",
@@ -2563,7 +2588,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "description": "Kundan Spaces crafts bespoke luxury and boutique high-rise residences across Balewadi, Kondhwa, and Central Pune corridors.",
     "establishedYear": 2004,
-    "totalProjects": 22,
+    "totalProjects": 4,
     "ongoingProjects": 7,
     "trustScore": 9.4,
     "isVerified": true,
@@ -2571,7 +2596,8 @@ export const BUILDERS: Builder[] = [
       "Balewadi",
       "Kondhwa",
       "Ghorpadi"
-    ]
+    ],
+    "experience": 22
   },
   {
     "id": "b-namrata",
@@ -2581,13 +2607,14 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp",
     "description": "Namrata Group has shaped Talegaon, Tathawade, and PCMC with trusted residential communities and high-growth investment projects.",
     "establishedYear": 1993,
-    "totalProjects": 28,
+    "totalProjects": 2,
     "ongoingProjects": 9,
     "trustScore": 9.4,
     "isVerified": true,
     "locations": [
       "Tathawade"
-    ]
+    ],
+    "experience": 33
   },
   {
     "id": "b-krisala",
@@ -2597,13 +2624,14 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
     "description": "Krisala Developers is a fast-growing developer focused on premium residential living across Tathawade, Punawale, and West Pune IT corridors.",
     "establishedYear": 2011,
-    "totalProjects": 20,
+    "totalProjects": 12,
     "ongoingProjects": 6,
     "trustScore": 9.3,
     "isVerified": true,
     "locations": [
       "Tathawade"
-    ]
+    ],
+    "experience": 15
   },
   {
     "id": "b-amar",
@@ -2613,13 +2641,14 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp",
     "description": "Amar Builders is a symbol of ultra-luxury estates and premier Grade-A IT parks across Pashan, Kalyani Nagar, and Baner.",
     "establishedYear": 1978,
-    "totalProjects": 35,
+    "totalProjects": 1,
     "ongoingProjects": 8,
     "trustScore": 9.7,
     "isVerified": true,
     "locations": [
       "Pashan"
-    ]
+    ],
+    "experience": 48
   },
   {
     "id": "b-pandit-javadekar",
@@ -2629,13 +2658,14 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
     "description": "Pandit Javadekar specializes in signature boutique residences and architectural landmarks across Shivaji Nagar, Prabhat Road, and Erandwane.",
     "establishedYear": 2002,
-    "totalProjects": 24,
+    "totalProjects": 1,
     "ongoingProjects": 7,
     "trustScore": 9.6,
     "isVerified": true,
     "locations": [
       "Shivaji Nagar"
-    ]
+    ],
+    "experience": 24
   },
   {
     "id": "b-nirman",
@@ -2645,7 +2675,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp",
     "description": "Nirman Developers builds high-quality residential communities and redevelopment high-rises across central and prime Pune nodes.",
     "establishedYear": 1995,
-    "totalProjects": 26,
+    "totalProjects": 3,
     "ongoingProjects": 8,
     "trustScore": 9.5,
     "isVerified": true,
@@ -2653,7 +2683,8 @@ export const BUILDERS: Builder[] = [
       "Sadashiv Peth",
       "Yerwada",
       "Shivaji Nagar"
-    ]
+    ],
+    "experience": 31
   },
   {
     "id": "b-tulip-realty",
@@ -2663,7 +2694,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7e9be983-97fd-4deb-aced-9ee2824da745/gallery/mruxcc66-6m0qje.webp",
     "description": "Tulip Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2680,7 +2711,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
     "description": "Supreme Universal is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 5,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2697,7 +2728,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1a3387cb-9d2b-44cb-9935-98aa9db7d093/gallery/mttxavd9-66pajv.webp",
     "description": "Sathe Gandhi Builders is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2714,7 +2745,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6dc0c88-7cbe-43d4-9bc3-4158339ebef6/gallery/mvghnbi8-2g2sm4.webp",
     "description": "The Skies Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 16,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2731,7 +2762,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f64dd8a4-68e0-46c6-aebf-1d8e29be3e5e/gallery/mvtitxir-2deba1.webp",
     "description": "Avani Housing is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2748,7 +2779,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f6a3ff23-1594-4885-803c-779ac7881160/gallery/mvu15tc7-243ai.webp",
     "description": "K Raheja Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2765,7 +2796,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/52142406-0fa2-45cb-9d60-c8bb6404417c/gallery/mumd4yga-7wpi5s.webp",
     "description": "Privia Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2782,7 +2813,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7e61c95f-602f-4601-b133-9770abb853e7/gallery/mvtpn3uf-bwnu6a.webp",
     "description": "Kesar Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2799,7 +2830,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8c495758-2bab-434b-bfe8-b7dc50ffdca6/gallery/mumj9ack-3vho0m.webp",
     "description": "Vision Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2816,7 +2847,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3c41b097-0b1d-403a-aa12-8e604481316d/gallery/mtvftbrc-cmg6cv.webp",
     "description": "Shreenidhi Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2833,7 +2864,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2be1e665-b28e-4bf5-a42f-348a3a0fa8ff/gallery/mvu2wo4q-g2u1r4.webp",
     "description": "Santiago On Sector 7 Road is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2850,7 +2881,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1fb3b136-50b8-4324-8729-93f941e2b964/gallery/mvu3597y-eky877.webp",
     "description": "Konbil Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2867,7 +2898,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e90f1de0-1d98-411c-b4ef-e535dce471e7/gallery/mv54jco0-7zkd55.webp",
     "description": "Gaikwad Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2884,7 +2915,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/30617edf-80e6-434b-adbb-2f306acea067/gallery/mtgwb4eh-bqushf.webp",
     "description": "Zenone Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2901,7 +2932,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6dcdd53e-530b-446c-a6c8-123ef894a217/gallery/mvu457zd-a1y6oz.webp",
     "description": "Venkatesh Buildcon On Old Mundhwa Road is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2918,7 +2949,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b93ed04d-dde2-433f-bb89-694ae6959151/gallery/mvu4n4xe-3dqfkr.webp",
     "description": "Pashankar Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2935,7 +2966,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/efc5ccba-be62-4ab9-b3c3-5dd304d1bbc9/gallery/mvupv33n-92xe2v.webp",
     "description": "Dream Works Realtors is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2952,7 +2983,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/31cd26d0-3555-4bdf-8c1e-7a840afda71b/gallery/mvuiy6vl-a7nd8u.webp",
     "description": "Sai Nisarg Landmark is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 10,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2969,7 +3000,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1c2a076f-5560-471a-b74d-4b10d2c36256/gallery/mvu4lfz8-ec7cds.webp",
     "description": "Prapti Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -2986,7 +3017,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bb0d8689-c959-429c-9ab4-183d2095c8a6/gallery/mv0nnnmq-37o9ge.webp",
     "description": "Skyway Builder and Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3003,7 +3034,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3080c1b4-ff23-4ee0-8a58-455bad35d65d/gallery/mvhz2nod-wvqip.webp",
     "description": "VTP Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3020,7 +3051,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6bc773eb-7656-403b-99d7-978a3cfe26e6/gallery/mvu2ee0x-d824tw.webp",
     "description": "Four Pillars is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3037,7 +3068,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "description": "Adi Realtors is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3054,7 +3085,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bdc6357f-5214-4ad0-83d5-d0ed962f20b4/gallery/mvuq5ckd-f5ryas.webp",
     "description": "Nawani Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3071,7 +3102,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/765c8240-3fed-4d70-b271-5ecbd6547ee4/gallery/mvv5vy43-31pt59.webp",
     "description": "Palladio Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3088,7 +3119,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/934ae67a-4206-4655-b43b-e446319056a8/gallery/mvuqeigv-choo9y.webp",
     "description": "Vissionary Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3105,7 +3136,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
     "description": "Mittal Brothers On Pan Card Club Road is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3122,7 +3153,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/039e0489-632a-4fe2-9173-0fb7f39f299c/gallery/mvwj9k0v-1pknb2.webp",
     "description": "Tejraj Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3139,7 +3170,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/eb5f46da-c60b-4969-834b-26d3f953ba50/gallery/msw2inrx-2gkm3l.webp",
     "description": "Garve Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3156,7 +3187,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6f179efc-b2df-49a3-b42b-b7335719d627/gallery/mvwhgwmc-fz80rc.webp",
     "description": "ASAP Spaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3173,7 +3204,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1f3df788-7035-4e21-8487-a66424ab8f1f/gallery/mvwl1o7c-1x2u56.webp",
     "description": "Excellaa Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3190,7 +3221,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a92fc5ac-8421-4852-af64-88fdc835cc3c/gallery/mvv3umst-naexw.webp",
     "description": "Kuber Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3207,7 +3238,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a3cccdc6-45e5-43ed-9364-4fc12208ec47/gallery/mwbwzfz9-39rbi.webp",
     "description": "Prime Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3224,7 +3255,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9e955491-de5d-45c8-a1e5-b959ff896266/gallery/mwbxwt43-7q82bw.webp",
     "description": "Pristine Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3241,7 +3272,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fe3bba83-c3a1-4ebc-a7d3-38119f5f80bd/gallery/mwbxypu9-f14zae.webp",
     "description": "Uha London is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3258,7 +3289,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/991a2afa-8abc-43d8-a7a9-e2374e67d2b8/gallery/mwbvbhe8-d8o2s4.webp",
     "description": "Unique Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3275,7 +3306,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cd6d53c1-cdb6-454a-b6d2-2a4fc40a4a86/gallery/mwbydpc9-6l1q7t.webp",
     "description": "Krisna Nirmaan Skyscraper Llp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3292,7 +3323,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2b8f970d-6ab2-4a1b-99dd-e5ca6ba33dd0/gallery/ms4ksnxm-c0g7p.webp",
     "description": "Smruti Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3309,7 +3340,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/edbd80d8-4bc4-41bc-8999-809af0344a9d/gallery/mtzmqeli-5bffdg.webp",
     "description": "Stalwart Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3326,7 +3357,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/060d4b73-861b-4946-a14a-f4cdbd228afb/gallery/mwc04zj6-7e49ma.webp",
     "description": "38 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3343,7 +3374,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fe3ecf58-88a1-48db-8f0a-9127bff57588/gallery/mwc0rswd-7idamn.webp",
     "description": "Ranawat Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3360,7 +3391,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ee3d3709-ccba-444e-b44c-94c656b58362/gallery/mwbyso1b-ag04mv.webp",
     "description": "Mangalam Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3377,7 +3408,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bc16413d-ccb5-44a6-af16-228c1ca63cf9/gallery/mwc0gptg-11z3av.webp",
     "description": "Luxton Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3394,7 +3425,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qjyd-3efmmg.webp",
     "description": "Agarwal and Bhondve Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3411,7 +3442,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24ca7459-95bd-4594-85b9-4b2d720268ff/gallery/mwc1i5m1-1nxgpq.webp",
     "description": "Nirman Greens is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3428,7 +3459,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6afd9e53-566c-495c-8534-7ef6714229a9/gallery/mwbwamia-8f90y4.webp",
     "description": "City one is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 4,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3445,7 +3476,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f0b24c37-657e-4713-a35f-c1b0d9e96998/gallery/mrpbpbt9-5sv0q6.webp",
     "description": "Over 40 Curated Lifestyle Amenities is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3462,7 +3493,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e0bddd57-1189-435c-9a61-82e7913baff8/gallery/mvhn571w-66kq18.jpg",
     "description": "Balaji Builders is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3479,7 +3510,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8394e5dc-7d40-49e2-91d1-9e2213a3a9ed/gallery/mvcpkd09-iqw96.webp",
     "description": "Legacy Lifespaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3496,7 +3527,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/84580f53-f3be-4a1b-94b5-c387737e5da0/gallery/mwc182b1-6xmrng.webp",
     "description": "Blue Pearl Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3513,7 +3544,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/681ee323-40a2-43c6-aa6b-b1b628b41ded/gallery/mvv3sx8p-fro66f.webp",
     "description": "Three Lifts is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3530,7 +3561,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ccb891cd-2a8e-4ea7-be32-f82930b0bf1e/gallery/mryv0mv8-f5iven.webp",
     "description": "Binary infrastructures is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3547,7 +3578,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a29ec45e-adb5-4102-8301-1359013fc422/gallery/mwbu7slc-a0l7qs.webp",
     "description": "Santiago Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3564,7 +3595,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7544fa37-d446-4c0f-b468-f46524919acb/gallery/mwevqe85-503eob.webp",
     "description": "Dasscon Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3581,7 +3612,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3f30183c-dee9-474d-aa2e-283b5b964ca4/gallery/mwc1yu9z-32chh9.webp",
     "description": "A Lift And A Fire Lift is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3598,7 +3629,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxot5-2uipt2.webp",
     "description": "Tayal Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3615,7 +3646,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d19a8bbe-9e37-4dbf-a9fc-76590fd6a791/gallery/mvhz2yqd-eaboou.webp",
     "description": "Vtp Luxe is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3632,7 +3663,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e5f322d4-5af4-4386-95f4-9858807fdc3d/gallery/mwevqikj-7c7wfj.webp",
     "description": "VTOP Spaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3649,7 +3680,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e15cd083-ae07-4325-a450-25bf2e8a9fe5/gallery/mvgyqfx3-c7yqyo.webp",
     "description": "Gd Square Spaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3666,7 +3697,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/322d07a0-6385-4d77-8780-aeec2575abe7/gallery/msua2uw5-9cimze.webp",
     "description": "Rohit Infra is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3683,7 +3714,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrj96u-2995as.webp",
     "description": "Chandrarang Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3700,7 +3731,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkifz-70hrok.webp",
     "description": "Life Spaces Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3717,7 +3748,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/dbe6d4d7-22d8-411f-ac8e-0c297a741dec/gallery/mvj3dtph-e0p9h9.webp",
     "description": "Estofa Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3734,7 +3765,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/900844af-b054-425d-8239-3c454aa794b9/gallery/mu9zjkju-3xkdey.webp",
     "description": "Gurukrupa Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3751,7 +3782,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a5446ba3-bd84-43ba-9078-c482ca87653f/gallery/mwc2g7zr-3i7hkc.webp",
     "description": "Escala Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3768,7 +3799,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3f50d75f-ca48-494b-946f-240dd8c3adf7/gallery/mwewan2f-5n6nc0.webp",
     "description": "Shapoorji Pallonji is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3785,7 +3816,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/06e74847-186b-4b70-886e-b1e9e8ea59c6/gallery/mvjcr8zz-3mph1i.webp",
     "description": "Kunal Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3802,7 +3833,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6634267-49ad-49d9-957a-3053de1e1203/gallery/msqeqa47-83fc3u.webp",
     "description": "ANP Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 6,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3819,7 +3850,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3eba92fd-037c-4c0d-8138-adda9e82f72b/gallery/mrpbbfni-ezvifz.webp",
     "description": "Mahalaxmi Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3836,7 +3867,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5e68d5f1-9feb-47fa-b46b-8c8c37bfa3a8/gallery/msd5hqri-179i32.webp",
     "description": "Nitaara Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3853,7 +3884,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c8b7b2c5-d220-4557-b4d5-b02d2662c19c/gallery/mrqr33d9-b8r2m3.webp",
     "description": "Arkaay Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3870,7 +3901,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bc0ee393-91a5-411b-8c9e-15fc80797b1d/gallery/muwgu14e-36to9c.webp",
     "description": "Arion Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3887,7 +3918,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6225ea51-db39-4bd2-ba6c-36faf40655ef/gallery/mrwdlc7g-mk6mn.webp",
     "description": "SilveRise Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3904,7 +3935,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/91e54192-3706-40ab-9bdd-76ae599d129d/gallery/muckf6xb-53r7zr.webp",
     "description": "Truespace is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3921,7 +3952,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/92685a0d-2bbc-4399-bf68-87ff551065bc/gallery/mvfck3l0-9s42q5.webp",
     "description": "Krishna Rrealty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3938,7 +3969,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6634267-49ad-49d9-957a-3053de1e1203/gallery/msqeq4xg-4xkfh8.webp",
     "description": "Sukhwani associates is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3955,7 +3986,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/81c2c2a9-64be-4320-aa47-8f9e4cb5425d/gallery/mrs2cui8-5tomwi.webp",
     "description": "Mansion Creators is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3972,7 +4003,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b9096b94-5d0b-409b-9d81-f0ca2173d49f/gallery/mrpaw7gi-63m6i6.webp",
     "description": "Milleflori Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -3989,7 +4020,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/951a2bb9-e10c-48cb-9bf3-99c455c5e238/gallery/msfujbzj-706kdg.webp",
     "description": "Kamalraj Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4006,7 +4037,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/033577c7-cde6-4c1d-acfd-995991176460/gallery/mtifivk9-afc26n.webp",
     "description": "Drashti Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4023,7 +4054,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ef1e189a-9218-43da-94aa-9535701986cc/gallery/muk19zsp-fwwy3j.webp",
     "description": "Sentosa Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4040,7 +4071,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6a5fe380-4809-4829-b89d-7d8f4402804a/gallery/mtn4l78m-fntzk9.webp",
     "description": "Austin Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 4,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4057,7 +4088,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3302b32c-7d28-4e95-8ff5-6f646428c415/gallery/mvgyqu7b-6afjkz.webp",
     "description": "Croissance Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4074,7 +4105,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a411bc50-3b7f-4951-9ae1-80c0863adb52/gallery/mvgyrjr4-c3kus9.webp",
     "description": "Siyaram Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4091,7 +4122,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ade080ee-6bd8-4ea7-b8c7-66a937f7b80e/gallery/mttz63o6-30e3b.webp",
     "description": "EH Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4108,7 +4139,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6565c818-1762-439b-a08e-025169ea5272/gallery/mt7hxg5c-4j78qj.webp",
     "description": "Livience Lifespaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4125,7 +4156,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/98e067af-424f-4cb4-a951-e3cc6019bad3/gallery/mtgx35jy-ew6od9.webp",
     "description": "Amberwood Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4142,7 +4173,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e2fa3cf8-05e9-4bd2-8a98-ec971184f31d/gallery/mv3pw5ns-a4mo46.webp",
     "description": "Adhira Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4159,7 +4190,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/45de421c-44fe-4268-af50-b309ffa7f1b6/gallery/ms0bzxch-c98x7p.webp",
     "description": "December 2029 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4176,7 +4207,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/67b56909-af22-4dee-8b51-64b0d14c3288/gallery/mt09ixxo-1bh3bg.webp",
     "description": "Arihant Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4193,7 +4224,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1edaa53d-bf29-49fb-bbd4-a1388fd59928/gallery/ms4gyuat-d320b3.webp",
     "description": "New Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4210,7 +4241,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9b195edf-c20c-4111-994a-8f5bcf6ea104/gallery/mrysr25n-c3xe2z.webp",
     "description": "51 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4227,7 +4258,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3f5cde23-0711-4d66-bf8a-15b8ed16d1d3/gallery/mvgypv2r-3xk6hd.webp",
     "description": "Nexus Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4244,7 +4275,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f26fa0df-240e-434d-a8d3-5b906c62f914/gallery/mvgynds1-z2owo.webp",
     "description": "Skylish Bluediamond Innfrracon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4261,7 +4292,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cd8d7ef8-9ffe-45cc-8756-eb1507dd6c8b/gallery/mrrqryju-dmx6iw.webp",
     "description": "Ashirwad Enterprises is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4278,7 +4309,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b0cbcbc-bafa-4edd-8daf-bc0345a92fb0/gallery/ms4l9d4t-3a0rkn.webp",
     "description": "Sonigara Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4295,7 +4326,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3ef14a0a-4b80-4f76-b6f2-eab72a9ca5a4/gallery/msvcd541-6sf26n.webp",
     "description": "Ambrosia Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4312,7 +4343,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b90c69e-3eb1-4936-a613-d637d6da763d/gallery/mrwe0mp4-6rme71.webp",
     "description": "Arise Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4329,7 +4360,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a7c1e982-9ff3-48d5-a23e-a4b95472c926/gallery/mryun1xh-ejxjkp.webp",
     "description": "Jhamtani Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4346,7 +4377,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1a7ea786-7a45-4de8-94ff-cb7a5120e313/gallery/mrtjxzzr-c2zjv0.webp",
     "description": "RK Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4363,7 +4394,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/971a27a7-2ca1-49aa-ba47-7c19565a97c9/cover/mvgys14z-1gy57z.webp",
     "description": "Road is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4380,7 +4411,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f922d466-3cad-4f91-b178-a719f2d12f4a/gallery/mv3m472j-awlzz4.webp",
     "description": "Merak Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4397,7 +4428,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/17506f3d-4570-4491-940a-8e53076f3147/gallery/mrxe7nch-u35fu.webp",
     "description": "Elite Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4414,7 +4445,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/34e1a7a3-da32-4ff4-b128-2a4e7a4e4dba/gallery/ms389nk0-3rrvzk.webp",
     "description": "V Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4431,7 +4462,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/689e361f-8e73-4017-b516-a5938945476d/gallery/mrwc477v-dwfcec.webp",
     "description": "March 2027 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4448,7 +4479,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9ec7dd8e-663f-46ec-8417-95f0d3543de8/gallery/mtmr3mdh-7j4vb6.webp",
     "description": "Muktangan Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4465,7 +4496,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8f3a80d8-062b-4b96-abdd-8c9d4ace387c/gallery/mtwtazw8-padtx.webp",
     "description": "ICON Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4482,7 +4513,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5a8eacc1-bed9-4a3c-b415-2bbb35d962f2/gallery/mrytvdlm-9pl1vk.webp",
     "description": "AVIS Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4499,7 +4530,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cba33f94-0ced-4c4d-b487-943ecea5bfc6/gallery/msqd8hks-542thg.webp",
     "description": "Vardhaman Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4516,7 +4547,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/058bc5a5-6696-4f4b-a1a6-5cf87aa39ce5/gallery/mrtb5j80-eda8wv.webp",
     "description": "Millefiori Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4533,7 +4564,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ab9177c3-e72f-4a60-bf98-5daa9077dbae/gallery/mtshghnd-8wewuu.webp",
     "description": "Nancy Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4550,7 +4581,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ade9cb2c-2037-4201-8340-afe156a62f58/gallery/msg83yk3-esrzgm.webp",
     "description": "abhinav group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4567,7 +4598,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/48611d1f-ff42-4e50-b233-ff28ff267b56/gallery/mrs4g8oe-3soz7l.webp",
     "description": "Platinum Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4584,7 +4615,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/848b9e71-e076-4683-ba26-f19b8a4d9c19/cover/mtr83uon-1vi659.webp",
     "description": "Prime Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4601,7 +4632,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0b8cdabd-bf10-456b-990d-bb5003951810/gallery/mrqnwa0o-2i0li2.webp",
     "description": "PK Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4618,7 +4649,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a0614d4f-2ac7-4c8f-b396-4d3797eca4bf/gallery/mryvtd6h-kfk7m.webp",
     "description": "Ravima Ventures is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4635,7 +4666,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e9d4696f-89b3-4cd7-8770-7fd8b9e9059f/gallery/msek5hjv-9e6b5l.webp",
     "description": "RGS Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4652,7 +4683,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f3617d21-0df9-4450-b9bc-65424cd5106c/gallery/msyl37wy-am3g1o.webp",
     "description": "RamSa Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4669,7 +4700,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/787b453c-d317-43e5-bb50-f5264fa4899c/gallery/msykifjn-252gzg.jpg",
     "description": "Rahul Constructions is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4686,7 +4717,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/952b0965-d22a-4a32-9ac6-596edd404dfe/gallery/msyrrijj-58yi4p.webp",
     "description": "Preet Promoter is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4703,7 +4734,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2b32e733-dec7-4486-b4d7-e3db030fcc2f/gallery/mt8raaul-c6uyu2.webp",
     "description": "Sankla Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4720,7 +4751,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24e8b4ba-f85b-4d56-9714-067e8e838fb0/gallery/msabb9qm-mhpib.webp",
     "description": "Sankalp Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4737,7 +4768,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0cc7c1eb-b0b8-46a2-8135-af7b5aa30e87/gallery/msd1y5rp-5iy0o.webp",
     "description": "Onkar Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4754,7 +4785,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3dc1b420-f927-42eb-9b73-646a8b60bc78/gallery/mtzo6olh-8xlhqt.webp",
     "description": "Bizzbay Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4771,7 +4802,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6cd703f1-29fd-4e79-974a-f66e627b5887/gallery/mt8qcwcb-b9m2g4.webp",
     "description": "Renuka Construction is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4788,7 +4819,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24d6ae25-a0ce-448a-b1e0-802f910a6444/gallery/mua3kvmu-504b36.webp",
     "description": "T Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4805,7 +4836,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9b539eae-9101-4db6-8609-a0a1783bceab/gallery/munxv6ju-4rrct3.webp",
     "description": "Almal Is A 4 Bhk Residential Project is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4822,7 +4853,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24d6ae25-a0ce-448a-b1e0-802f910a6444/gallery/mua3l5m3-9a3h3s.webp",
     "description": "Codename Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4839,7 +4870,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc6xbx-17wr8.webp",
     "description": "Tulip Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4856,7 +4887,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b22d8088-0c22-4d3d-88c7-5bd8a10c0946/gallery/ms4e6rnl-d2myhz.webp",
     "description": "Harivishva Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4873,7 +4904,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/61ae461c-a73a-4c6f-9f18-8e1a8edf822e/gallery/msngjroc-84ytl0.webp",
     "description": "Yashada Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 6,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4890,7 +4921,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5113990c-0436-4a35-a9ac-b9802d21a448/gallery/mul2s7nm-3zipbp.webp",
     "description": "Feb 2026 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4907,7 +4938,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/99ce3d8b-3910-41f2-be36-1e991b80692b/gallery/mtfqrpaw-70lfh1.webp",
     "description": "VJ Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4924,7 +4955,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/654bbb43-a80a-4cdb-a564-7d86a52df17c/gallery/mrytnodb-2izrb9.webp",
     "description": "Commercial Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4941,7 +4972,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6bb8368-42c5-433d-a743-63e4ade9e95c/gallery/mrrkvfqh-9gxwsy.webp",
     "description": "Mauli Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4958,7 +4989,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b6f7d828-1abf-42f9-80d8-454090539be2/gallery/mrxttsfz-gamp1q.webp",
     "description": "Park Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4975,7 +5006,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7c15740e-3e56-49b7-86ad-3f50e9c2761e/gallery/mvfc1lsm-5ci80s.webp",
     "description": "The Developer is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -4992,7 +5023,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/92c3cc6d-744b-4bad-9224-d1afb435a8bc/gallery/mtmsfjnr-ccc5t0.webp",
     "description": "Maheshwaram Associates is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5009,7 +5040,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8f9b342d-2355-4f8e-8bc9-93fd2e8bf50e/gallery/msg76i9z-9ekdyn.webp",
     "description": "GEO Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5026,7 +5057,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/951faf40-6acb-4fef-abd1-f5ef5cb26a99/gallery/mrtjk1pm-am367u.webp",
     "description": "Kunal Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5043,7 +5074,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/34b209bd-d98f-40de-b735-24132e7edc0e/gallery/mrvu8nbp-9ls2yu.webp",
     "description": "ALPINE Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5060,7 +5091,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/79ad62b1-963d-43e6-92e9-7d2a50735dc5/gallery/mvhpt6ph-7h7vlt.webp",
     "description": "Newton Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5077,7 +5108,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/07f33567-595b-4aa8-943e-6640f90acc51/gallery/mupk5pl8-3ye1my.webp",
     "description": "Road And Rail is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5094,7 +5125,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/157b51b9-13b8-4ea8-851d-cb26fed69ee9/gallery/msg961nj-f6m04h.webp",
     "description": "NM Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5111,7 +5142,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c8016333-bd3a-410d-860f-c1949064dd27/gallery/msfqrm6d-8cvrt8.webp",
     "description": "GRD Infraprojects Private Limited is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5128,7 +5159,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/50692e8f-fea2-4b79-a477-99df56aa20c0/gallery/msw30lhj-begcd0.webp",
     "description": "Gen1 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5145,7 +5176,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c68d7f2b-2386-4496-b1b2-d96371a7e8a6/gallery/mv53wbs0-75nfjl.webp",
     "description": "Crestline Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5162,7 +5193,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6c3ce846-af1c-4745-8f05-deb747f088ea/gallery/ms7gja99-51tdna.webp",
     "description": "Aria Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5179,7 +5210,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6d10e688-5927-4ea8-a4da-a454a1bbf4b8/gallery/msueedbq-8ttwk2.webp",
     "description": "AG Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5196,7 +5227,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/54dda84e-2a5d-4efa-908f-94c7289ebc77/gallery/mv55qn45-5bsru4.webp",
     "description": "GT Associates Promotors and Builders is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5213,7 +5244,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/34e1a7a3-da32-4ff4-b128-2a4e7a4e4dba/gallery/ms389rem-3jwcao.webp",
     "description": "Heartland Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5230,7 +5261,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d81320d5-fca4-4200-b78a-05a80ba67291/gallery/mrs2rfde-8lfvg3.webp",
     "description": "Shaligram Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5247,7 +5278,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2d319d68-1122-4d25-a483-b35c34a06912/gallery/mt048rlf-7htves.webp",
     "description": "Anand Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5264,7 +5295,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8006af67-6771-4e1b-853e-d355aac1f967/cover/mujnikbe-bfyrin.webp",
     "description": "Vishnu Housing is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5281,7 +5312,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ff00cd0f-2bf2-4bfe-9b1b-b7d43a00338a/gallery/ms8px5jp-9zal2u.webp",
     "description": "Yoo Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5298,7 +5329,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e45d7774-0437-43fb-a011-5451a160d9e1/gallery/msdcgfv6-aseeac.webp",
     "description": "NB Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5315,7 +5346,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a00dca02-b2fb-496f-9534-57318a5788d3/gallery/mtbhu914-7t4d2x.webp",
     "description": "Shankeshwar Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5332,7 +5363,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b82f3be3-cd1a-4f2a-9003-0b7e915ec07c/gallery/mujgx5jd-b0arag.webp",
     "description": "Hubtown is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5349,7 +5380,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bdd4f5fd-7713-4265-a7b4-171214876d05/gallery/mrxsigfu-33l9ng.webp",
     "description": "GK Associates Promoters & Builders is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5366,7 +5397,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5fc193db-5c08-409c-895c-e105fdeae0fe/gallery/muxzxux8-a18boo.webp",
     "description": "45 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5383,7 +5414,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d24fbac3-1f80-4607-a825-09126356f890/gallery/mv0tn4pa-2z51de.webp",
     "description": "73 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5400,7 +5431,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2084d602-4687-43b2-ace1-2af77bde7e3d/gallery/mv6hzkmf-74n8dr.webp",
     "description": "Cosmos Urban Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5417,7 +5448,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3eaf88fb-9d78-4980-97b1-14bdbebeadc2/gallery/mtwr6asp-fb33pt.webp",
     "description": "Excellent Connectivity is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5434,7 +5465,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e4f4965c-c8a9-4daa-83c8-607c45dcadbb/gallery/mrqeru68-4lvvs7.webp",
     "description": "Emerald Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5451,7 +5482,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2e69a6e3-1ce7-4c98-9e0a-727349288117/gallery/mtgzn229-161b8j.webp",
     "description": "Arun Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5468,7 +5499,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d07d0848-f239-4259-9fe2-94296d231351/gallery/mt0abz0r-4xmjh9.webp",
     "description": "Audumbar Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5485,7 +5516,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/98204206-d13b-4b07-906b-eb11aaba666a/gallery/muxw567j-do2fjo.webp",
     "description": "Wakadkar Associate is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5502,7 +5533,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/40461eb8-5661-4748-b8ed-9686540b3bb5/gallery/mtps65l1-5mp9pf.webp",
     "description": "Aundh Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5519,7 +5550,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/00789064-ebcf-4e95-99f3-6f00b908eae3/gallery/msob4dr4-28dyoq.webp",
     "description": "MORYA GREENS is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5536,7 +5567,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a24b3a7c-640f-4663-8a56-e4d02d301816/gallery/mt77tevk-1m89vj.webp",
     "description": "Shree Venkatesh Buildcon and Vikram Developers and Promoters is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5553,7 +5584,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7c996bc2-4657-4119-98bb-bf6f970f32ae/gallery/muclj1z0-2wxgqe.webp",
     "description": "EMPIRE Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5570,7 +5601,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/05a9a4ed-6dd6-4bef-8166-7a05a2139000/gallery/mrriv5rg-eegsiq.webp",
     "description": "Kimaya Realities is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5587,7 +5618,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a32719e9-86a5-4d6e-9057-8e4205c1fd74/gallery/msudikp7-7w0uv1.webp",
     "description": "Kshitej Realtors is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5604,7 +5635,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f213716d-f8eb-4867-98dd-5db4e7362c9a/gallery/mrtirptb-w6pqk.webp",
     "description": "Aswani Associates is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5621,7 +5652,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/408d9399-8f79-4443-bbe5-c388dae06c81/gallery/mszpiyh6-31suah.webp",
     "description": "Vezdaa Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5638,7 +5669,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/271b55e4-1962-4221-8d1a-c0e975c2dcdd/gallery/ms32vmc7-3suj1m.webp",
     "description": "Kalp Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5655,7 +5686,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/881dd189-ee16-4cd3-bba5-c97887854b13/gallery/mt03if0h-2se7np.webp",
     "description": "Akshay Skyscrapers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5672,7 +5703,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5d62fa8a-eeaa-4f06-b87a-86eef01aa1a4/gallery/mruserwt-5ajriv.webp",
     "description": "Udyam Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5689,7 +5720,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1cacab48-57d0-4e31-8ad8-cb73542425ac/gallery/mrtj7na9-6a7qwb.webp",
     "description": "Atrium Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5706,7 +5737,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4050e2e5-684b-4d3b-9477-b5fbe03bebcb/gallery/ms37mbuy-4imre6.webp",
     "description": "Unite Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5723,7 +5754,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d3b9ccda-f53f-4ea0-82e8-c2fe0cce3faa/gallery/ms4qg7vw-3wf6fu.webp",
     "description": "Vivanta Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5740,7 +5771,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a1ac05b2-6c7e-48ac-bd00-48277dc98be5/gallery/mv6jrnt0-99g8id.webp",
     "description": "Kisana Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5757,7 +5788,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9caa7b33-d668-4189-b6bf-cf105a9ae1ed/gallery/mvf42mhg-2mrw30.webp",
     "description": "Ajwani Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5774,7 +5805,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0638891f-fbf6-45b3-aa47-ddc0801191c0/gallery/mtwogjei-fgrycg.webp",
     "description": "June 2027 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5791,7 +5822,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/11e66687-a63a-4a5f-b79c-573433564fb2/gallery/mrxkq96a-f6i5kz.webp",
     "description": "Koral Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5808,7 +5839,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8f242be2-cc75-49c7-b614-a46cdf840e6a/gallery/mvfbfp93-aec27h.webp",
     "description": "Shitole Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5825,7 +5856,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/97f88402-cebb-4a65-8e90-1404397d3b14/gallery/mszvnaf9-edbwq3.webp",
     "description": "24 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5842,7 +5873,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/62b6b3ff-c78a-4b7d-ad2b-fd5cd24f01e7/gallery/mv51tz1h-ahxao6.webp",
     "description": "Space Builders Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5859,7 +5890,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6db11a45-9947-4037-9561-15d5aeed339a/gallery/mtya4okq-muzq6.webp",
     "description": "Kumar Lifespaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5876,7 +5907,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ab609199-bd97-4a85-934a-6b91c59d2cb3/gallery/mt43zv2s-25hor4.webp",
     "description": "KK Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5893,7 +5924,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/79d0271e-267d-4ae7-9dfd-30eb2c6f9ccd/gallery/mtlfb0pf-36zkyk.webp",
     "description": "Zolo Homes is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5910,7 +5941,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1cf046a5-1b91-4fc2-ac07-26ec3e2f846e/gallery/mtlia5ly-7s8f2h.webp",
     "description": "Lenora Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5927,7 +5958,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/30cbdfff-e995-423b-b4d3-6728a30539b4/gallery/msxdvnj8-eewwqd.webp",
     "description": "Apex Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5944,7 +5975,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/99be1981-dbfd-4c59-aee3-ae6cf167810b/gallery/mtqzv5ky-ahx3zv.webp",
     "description": "Majestique Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5961,7 +5992,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/717b3806-d658-471f-959d-797f70e0653f/gallery/muuxj5u4-cwmsf4.webp",
     "description": "Amegh Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5978,7 +6009,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e48534a1-6f04-4a36-a0ee-4631131d8c22/gallery/ms8wdzi3-a4oka3.webp",
     "description": "Midori Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -5995,7 +6026,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/33dcd66b-17e3-45d1-9b85-289549670757/gallery/mtppx9v0-7fopcl.webp",
     "description": "Goyal Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6012,7 +6043,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6143bac3-2520-4813-be17-aba5d967132e/gallery/mt02ytg8-bkop0w.webp",
     "description": "Aditya Builders is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6029,7 +6060,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/16d4fb2e-a619-45d4-9fcc-42ab9cdb529d/gallery/mt8inz8k-7sp8ow.webp",
     "description": "Meriton Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6046,7 +6077,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f87b81f3-4e01-402e-8750-96439fbe8951/gallery/mruixyww-crr91p.webp",
     "description": "Np Lifespaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6063,7 +6094,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/534a4875-d314-4b58-9aaa-4cded5c22efd/gallery/mtgyun1i-84p9je.webp",
     "description": "AR Realty is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6080,7 +6111,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f3321588-9b93-4a63-b13b-08ab09924e6b/gallery/ms0dvbce-21vacz.webp",
     "description": "It Parks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6097,7 +6128,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/51014204-43f0-496a-847a-05447110109f/gallery/mt5m03g2-6kzuic.webp",
     "description": "A Reputed West is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6114,7 +6145,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bcd2a79a-b7f3-4413-89da-3597e847c5b9/gallery/ms4fg9g9-dvfnem.webp",
     "description": "Om Builders & Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6131,7 +6162,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a0f6cbc9-ffca-428e-9c11-b2767da64b4d/gallery/msxhob6a-dqdnv4.webp",
     "description": "QUE Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6148,7 +6179,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1d6b3128-b87a-4b5a-b287-87c39391c76a/gallery/mtbbd2ax-4t4hi.webp",
     "description": "Matrix Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6165,7 +6196,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b54ce6d-9ca9-420e-81ad-1050f00a9815/gallery/mtpqvqmz-2mbz0m.webp",
     "description": "Placidia Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6182,7 +6213,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b94c8e51-0894-4925-87fe-7eb0c22b2f97/gallery/mrwbewaa-bulh1v.webp",
     "description": "Pleroma Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6199,7 +6230,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/14bb74d4-520e-4469-b033-2667102b8521/gallery/mucnimxs-1lp6uw.webp",
     "description": "Royal Nisarg Ventures is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6216,7 +6247,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e3bf98e0-903d-4ad4-983e-142d2cfb4d3c/gallery/mrx8yzqf-e5khl8.webp",
     "description": "Rutuja Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6233,7 +6264,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b80dcfb1-9a8c-4126-8545-75666ce1fed6/gallery/mvfblt6r-667qht.webp",
     "description": "Kiwale Realty LLP is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6250,7 +6281,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d631a1fa-0e4b-42f8-af34-06f3e70167c2/gallery/mtsegmun-de8iyy.webp",
     "description": "Rachana Lifestyle is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6267,7 +6298,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f461243b-2436-450b-983e-e08a92b46022/gallery/mszuqely-b4tiyj.webp",
     "description": "18 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6284,7 +6315,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b7cc03c1-3f41-4ade-ac54-b92c9f8479a2/gallery/mufc8n78-9g5uk0.webp",
     "description": "Bhagawati Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6301,7 +6332,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0b425180-50fe-4279-8564-013467f49d00/gallery/mryn98yq-ex5s15.webp",
     "description": "Thorve Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6318,7 +6349,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/024f288c-3946-4806-897f-57ab2e79ad6d/gallery/muxxc5h2-4aqyd.webp",
     "description": "Manggaldeep Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6335,7 +6366,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/340e4638-dc06-4c97-aac3-4a01555733ca/gallery/mvhtlfdp-amhhyv.webp",
     "description": "Garve Developers Is A 2 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6352,7 +6383,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/10c3740f-6e27-4f29-8a05-d413d82016fd/gallery/mvghp3d6-fejg8r.webp",
     "description": "Talreja Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6369,7 +6400,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e2c03437-2fdf-4d51-8f6a-1f999e5b0898/gallery/ms4gar5v-dvjab2.webp",
     "description": "Shree Samarth Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6386,7 +6417,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fdfe6b42-b23c-49e2-af72-c67e82aa3cd6/gallery/mryz8bwa-fst5ju.webp",
     "description": "Sentosa Developer is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6403,7 +6434,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3191d2f5-e73c-4f44-87f2-f4979920665b/gallery/mrrhq70s-7agd8o.webp",
     "description": "Shankeshwar Homes is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6420,7 +6451,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a51af485-34d8-4827-bd48-e3390c8ca16b/gallery/mseumjfb-biuhl1.webp",
     "description": "Aakar Realties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6437,7 +6468,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ee0dc753-8401-47f8-9797-872e630c10f9/gallery/mtwpiwvp-a3qade.webp",
     "description": "Shubh Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6454,7 +6485,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/dde4a6ce-f1b5-4b32-84c1-e8514171ca50/gallery/mtmpxi80-38i0gv.webp",
     "description": "Sky Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6471,7 +6502,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8e20ffc4-b52a-493b-9eea-ca1247cb0ced/gallery/mrymo1yh-4aw5fe.webp",
     "description": "Vijayshree Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6488,7 +6519,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/595b5fa2-9fc3-4b14-b19a-4df8b2c281e2/gallery/mumgvipb-edmpz0.webp",
     "description": "Skyluxe Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6505,7 +6536,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/92874b6e-7084-4b41-b070-0b4a8f90a3b5/gallery/mupe9jw0-4e36f2.webp",
     "description": "Solitaire Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6522,7 +6553,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3563ab94-43b1-420c-8d25-e772d40f62ff/gallery/mrtie0an-cv5gjo.webp",
     "description": "SMK Group LLP is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6539,7 +6570,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4e1672fd-e504-4a05-8484-f47d00154b01/gallery/mrvosil1-48m2vb.webp",
     "description": "Wakad Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6556,7 +6587,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a251bfc9-bd37-4064-9b75-7b765ac83df7/gallery/msyyiy6n-1ebx58.webp",
     "description": "Skyfinia Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6573,7 +6604,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4f7bcab2-80fd-4317-b7bd-1c87cf827a62/gallery/mvhs3d3y-b0frjo.webp",
     "description": "Asian Sleek is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6590,7 +6621,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a356658e-1a8c-47a5-a487-5f88c57b8d34/gallery/ms7khsm3-epqpr0.webp",
     "description": "Trio Spaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6607,7 +6638,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/302697b5-88a6-4d91-a6d9-fe1d449c9d0e/gallery/mtsispev-3abkwk.webp",
     "description": "Tej Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6624,7 +6655,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6c440e25-da90-4dac-9a80-663cf7c823f2/gallery/mszu5nrj-ci3yfe.webp",
     "description": "Wandering Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6641,7 +6672,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c4f74574-e06f-4d98-a51a-de126091a407/gallery/mrtgijji-erjfh.webp",
     "description": "Wisdom Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6658,7 +6689,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1c6c9e25-e990-4b1d-a2bf-5986069e44c2/gallery/ms4pedoq-81arj8.webp",
     "description": "Westgate Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6675,7 +6706,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/55181032-9e3a-4450-b863-d94cca1464ba/gallery/mtvjk9dk-4oxftq.webp",
     "description": "WYCE Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6692,7 +6723,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a7275a64-251d-464a-b954-49ee29daad0f/gallery/ms8v0n4s-g5u2h3.webp",
     "description": "Esson Landmarks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6709,7 +6740,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5b39be8d-439b-457e-9b64-9558de238ea0/gallery/msu92jcy-465ppd.webp",
     "description": "10 Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6726,7 +6757,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/eafaa8b1-5214-4cd1-ba41-e1f3d0c56f66/gallery/mugv55mh-2mt28h.webp",
     "description": "Five Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6743,7 +6774,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/331b44e7-ae13-463a-9108-d6c8613fd4b2/gallery/ms7if5d1-4j48k6.webp",
     "description": "Crystal Creations is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6760,7 +6791,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/640cc48b-3d8a-48b7-91cc-3200bb865618/gallery/msvkg0kp-5jzt8d.webp",
     "description": "Dolphin Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6777,7 +6808,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/225a2888-ce60-4dd0-b64b-f9b858f1c056/gallery/mtlherfg-egzjcd.webp",
     "description": "Parks is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6794,7 +6825,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/39f072b4-5a09-418a-83fa-2072abaedb9a/gallery/mup91hoi-gbq5a6.webp",
     "description": "Alacarte Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6811,7 +6842,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/aa651d02-b44e-4e3d-b6e3-6eefba383eb4/gallery/mrxtf0v5-6qdtni.webp",
     "description": "Merlin Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6828,7 +6859,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b099037f-4fe0-4fb9-8bfd-94bc7b663dc4/gallery/mtob2l4o-7ivchz.webp",
     "description": "Mantra Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 3,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6845,7 +6876,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c04a63cf-adc8-429e-84ea-0caad482b842/gallery/mrylyr5e-czchbz.webp",
     "description": "Miracle Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6862,7 +6893,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cd14a38f-5090-486d-9541-03cbec7e8492/gallery/msd3jaic-e5vsvt.webp",
     "description": "December 2027 is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6879,7 +6910,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b32492c8-62e0-4760-a1de-1288d4c6bdd0/gallery/mul4grn4-5nk7vr.webp",
     "description": "Soham Shivam Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6896,7 +6927,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b5973498-c136-4310-b59d-b0e70df36099/gallery/msyx9itl-8lj1w.webp",
     "description": "Siddhashila Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6913,7 +6944,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/db3c6bb2-ce3e-44f1-8f64-4f2e1fa7b989/gallery/mtsckboq-dbxgec.webp",
     "description": "Studio Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6930,7 +6961,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/285ced3a-49ef-4e26-b2a8-abb183f4aefd/gallery/ms04b125-eu2dm8.webp",
     "description": "STAR Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6947,7 +6978,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ea7119ff-7a51-463c-8b39-8e4eb09a2d55/gallery/mt461bka-9jcyyl.webp",
     "description": "MUKTAI BUILDERS & DEVELOPERS is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6964,7 +6995,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7871c9e5-cd0c-4b67-ad8e-cd38f37221ae/gallery/mtfpgnqu-awhbem.webp",
     "description": "Yoovie Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6981,7 +7012,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3c62297e-cf76-40e6-be1b-9863a18f21a4/gallery/mvhqtpdg-2wwccl.webp",
     "description": "Neco Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -6998,7 +7029,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3766f451-d050-4db0-a6f8-194ef4abaa3a/gallery/mvghrbu5-6gq1o0.webp",
     "description": "Kate Promoters and Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -7015,7 +7046,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/01d2e9f1-dad0-43fa-8906-61a24bfcd0dd/gallery/mvfc64td-5k9jp8.webp",
     "description": "Pharande Spaces is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -7032,7 +7063,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bed8b526-3c8c-426b-8e44-cf65c659dbbe/gallery/mvhovzr5-s99wh.webp",
     "description": "Shaligram Buildcon is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -7049,7 +7080,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bfe0548a-333b-47f4-bf68-d1bebe86d984/gallery/mvghqa3t-4dghew.webp",
     "description": "Viraj Corp is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -7066,7 +7097,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/adc7420a-f087-4832-b5b6-aaff3c37a461/gallery/mvfbi877-8s23ib.webp",
     "description": "Saheel Properties is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -7083,7 +7114,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/17fc8bdb-26b0-4047-9313-5e050676841b/gallery/mvghw0ci-9m4jzc.webp",
     "description": "Avirat Developers is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -7100,7 +7131,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e40babf9-1772-489e-a6cb-625300ca3252/gallery/mvhmmyfa-azmrba.webp",
     "description": "ADI Group is a premier developer delivering landmark residential communities across Pune with MahaRERA regulatory compliance and trusted construction quality.",
     "establishedYear": 2005,
-    "totalProjects": 12,
+    "totalProjects": 1,
     "ongoingProjects": 3,
     "locations": [
       "Pune"
@@ -7117,7 +7148,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.pscl.in/wp-content/uploads/2025/10/ANK440_7834a_LR.webp",
     "description": "Founded in 1987 by Shrikant and Shashank Paranjape, Paranjape Schemes (Construction) Ltd (PSCL) is one of Maharashtra's most pioneering real estate developers with over 200 delivered projects, 20,000+ satisfied families, iconic mega townships like Blue Ridge (Hinjewadi) and Forest Trails (Bhugaon), and pioneer senior citizen living communities under the Athashri brand across Pune and Mumbai MMR.",
     "establishedYear": 1987,
-    "totalProjects": 200,
+    "totalProjects": 18,
     "ongoingProjects": 25,
     "trustScore": 9.7,
     "isVerified": true,
@@ -7131,7 +7162,8 @@ export const BUILDERS: Builder[] = [
       "Andheri West",
       "Thane West",
       "Shrivardhan-Diveagar"
-    ]
+    ],
+    "experience": 39
   },
   {
     "id": "b-hiranandani",
@@ -7141,7 +7173,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
     "description": "Hiranandani Group is one of India's most prestigious real estate conglomerates, renowned for pioneering integrated mega-townships like Hiranandani Gardens Powai and Hiranandani Estate Thane. Founded in 1978 by Dr. Niranjan Hiranandani, the group has transformed urban living across Maharashtra with neoclassical architecture, world-class social infrastructure, lush green environments, and impeccable engineering.",
     "establishedYear": 1978,
-    "totalProjects": 65,
+    "totalProjects": 13,
     "ongoingProjects": 18,
     "locations": [
       "Powai",
@@ -7164,7 +7196,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.dellaresorts.com/new-updated-image/enclave-villa-resort.webp",
     "description": "Della Townships and Luxury Villas, conceptualized and designed by visionary architect Jimmy Mistry, represents the pinnacle of experiential hillside living and ultra-luxury second homes in Maharashtra. Spread across scenic hill slopes in Kunegaon, Lonavala and Khandala, Della offers fully serviced bespoke villas integrated with 24x7 5-star resort hospitality, private heated pools, fine-dining restaurants, and India's premier adventure sports park.",
     "establishedYear": 1996,
-    "totalProjects": 14,
+    "totalProjects": 4,
     "ongoingProjects": 5,
     "locations": [
       "Kunegaon",
@@ -7186,7 +7218,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.oberoirealty.com/assets/images/home-banner-desktop.jpg",
     "description": "Oberoi Realty is one of India's preeminent ultra-luxury real estate developers, renowned for iconic skyline landmarks, five-star hospitality finishes, and impeccable engineering in Mumbai & Thane.",
     "establishedYear": 1980,
-    "totalProjects": 45,
+    "totalProjects": 3,
     "ongoingProjects": 8,
     "locations": [
       "Goregaon East",
@@ -7196,7 +7228,8 @@ export const BUILDERS: Builder[] = [
       "Worli"
     ],
     "trustScore": 98,
-    "isVerified": true
+    "isVerified": true,
+    "experience": 46
   },
   {
     "id": "b-runwal",
@@ -7207,7 +7240,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.runwal.com/images/banner.jpg",
     "description": "Established in 1978, Runwal Group has delivered over 50 landmark residential and retail developments across Mumbai, Thane, and MMR with a steadfast commitment to customer trust and lifestyle delivery.",
     "establishedYear": 1978,
-    "totalProjects": 65,
+    "totalProjects": 10,
     "ongoingProjects": 12,
     "locations": [
       "Kanjurmarg",
@@ -7217,7 +7250,8 @@ export const BUILDERS: Builder[] = [
       "Chembur"
     ],
     "trustScore": 94,
-    "isVerified": true
+    "isVerified": true,
+    "experience": 48
   },
   {
     "id": "b-raymond",
@@ -7228,7 +7262,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.raymondrealty.in/assets/images/banner.jpg",
     "description": "Raymond Realty brings the legendary 97-year trust of the Raymond Group into real estate, delivering pioneering design, expansive landscaped habitats, and precision engineering across Pokhran Road, Thane.",
     "establishedYear": 2019,
-    "totalProjects": 12,
+    "totalProjects": 2,
     "ongoingProjects": 6,
     "locations": [
       "Pokhran Road No. 1",
@@ -7237,7 +7271,8 @@ export const BUILDERS: Builder[] = [
       "Thane West"
     ],
     "trustScore": 95,
-    "isVerified": true
+    "isVerified": true,
+    "experience": 7
   },
   {
     "id": "b-rustomjee",
@@ -7248,7 +7283,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.rustomjee.com/images/banner.jpg",
     "description": "Rustomjee has transformed urban living across Mumbai and Thane with thoughtfully designed gated townships, commercial headquarters, and integrated mega-communities designed around family living.",
     "establishedYear": 1996,
-    "totalProjects": 40,
+    "totalProjects": 2,
     "ongoingProjects": 9,
     "locations": [
       "Majiwada",
@@ -7258,7 +7293,8 @@ export const BUILDERS: Builder[] = [
       "Thane West"
     ],
     "trustScore": 96,
-    "isVerified": true
+    "isVerified": true,
+    "experience": 30
   },
   {
     "id": "b-piramal",
@@ -7269,7 +7305,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.piramalrealty.com/images/banner.jpg",
     "description": "Piramal Realty, the real estate development arm of the Piramal Group, sets global benchmarks in architectural excellence, green sustainability, and gold-standard luxury across South Mumbai and Mulund.",
     "establishedYear": 2012,
-    "totalProjects": 18,
+    "totalProjects": 1,
     "ongoingProjects": 5,
     "locations": [
       "Mulund West",
@@ -7278,7 +7314,8 @@ export const BUILDERS: Builder[] = [
       "Thane"
     ],
     "trustScore": 97,
-    "isVerified": true
+    "isVerified": true,
+    "experience": 14
   },
   {
     "id": "b-dosti",
@@ -7289,7 +7326,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.dostirealty.com/images/banner.jpg",
     "description": "With over 4 decades of experience and more than 120 delivered properties, Dosti Realty is synonymous with value-driven community living, modern amenities, and timely delivery across Thane, Wadala, and Mumbai.",
     "establishedYear": 1980,
-    "totalProjects": 125,
+    "totalProjects": 2,
     "ongoingProjects": 14,
     "locations": [
       "Balkum",
@@ -7298,7 +7335,8 @@ export const BUILDERS: Builder[] = [
       "Thane West"
     ],
     "trustScore": 93,
-    "isVerified": true
+    "isVerified": true,
+    "experience": 46
   }
 ];
 
@@ -7532,6 +7570,24 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp",
       "https://keystoneliv.com/public/uploads/property/5tGVdoBmlNYzErLGfVKOK1iX1OZIqyzJ17rTGkJ7.webp",
       "https://keystoneliv.com/public/uploads/property/Fb2rGxFdFT1LLFje4Aj4P3GzmiJzikdzBYMoWc5d.webp"
+    ],
+    "heroImageAlt": "Godrej Hillside 3 by b-godrej in Mahalunge, Pune",
+    "imageAlt": "Godrej Hillside 3 Architecture in Mahalunge",
+    "amenities": [
+      "Amphitheater",
+      "Banquet Hall",
+      "Club house",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gated Society",
+      "Lift",
+      "Parking",
+      "Power Back Up"
     ]
   },
   {
@@ -7724,6 +7780,21 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+    ],
+    "heroImageAlt": "Godrej River Royale by b-godrej in Mahalunge, Pune",
+    "imageAlt": "Godrej River Royale Architecture in Mahalunge",
+    "amenities": [
+      "Banquet Hall",
+      "Cafeteria",
+      "Kids Play Area",
+      "Library",
+      "Sports Courts",
+      "Swimming Pool",
+      "24*7 Water",
+      "Lift",
+      "Parking",
+      "Power Back Up",
+      "Security System"
     ]
   },
   {
@@ -7919,6 +7990,29 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp"
+    ],
+    "heroImageAlt": "Godrej Eden Estate Phase 2 by b-godrej in Hinjewadi, Pune",
+    "imageAlt": "Godrej Eden Estate Phase 2 Architecture in Hinjewadi",
+    "amenities": [
+      "Banquet Hall",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Open Gym",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Internet / WiFi",
+      "Lift",
+      "Municipal Corporation",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "Security System",
+      "Waste Disposal"
     ]
   },
   {
@@ -8148,6 +8242,26 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
+    ],
+    "heroImageAlt": "VTP Bellissimo by b-vtp in Hinjewadi, Pune",
+    "imageAlt": "VTP Bellissimo Architecture in Hinjewadi",
+    "amenities": [
+      "Banquet Hall",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Open Gym",
+      "Party Lawn",
+      "Yoga Zone",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gas Pipeline",
+      "Lift",
+      "Parking",
+      "Power Back Up",
+      "Washroom"
     ]
   },
   {
@@ -8460,6 +8574,34 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/782f5dad-a73e-4f6f-82fd-84bc9d6e6e5c/gallery/mvhz61en-g22pgb.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/782f5dad-a73e-4f6f-82fd-84bc9d6e6e5c/gallery/mvhz627c-b3kjjy.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/782f5dad-a73e-4f6f-82fd-84bc9d6e6e5c/gallery/mvhz62ya-7449yf.webp"
+    ],
+    "heroImageAlt": "VTP Dolce Vita by b-vtp in Kharadi, Pune",
+    "imageAlt": "VTP Dolce Vita Architecture in Kharadi",
+    "amenities": [
+      "Banquet Hall",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jacuzzi",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Reflexology",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Natural Light",
+      "No open drainage around",
+      "Office Cabins",
+      "Parking",
+      "Power Back Up",
+      "Security System",
+      "Washroom",
+      "Waste Disposal"
     ]
   },
   {
@@ -8713,6 +8855,34 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp"
+    ],
+    "heroImageAlt": "VTP Naturescape by b-vtp in Bavdhan, Pune",
+    "imageAlt": "VTP Naturescape Architecture in Bavdhan",
+    "amenities": [
+      "Amphitheater",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Library",
+      "Open Gym",
+      "Party Lawn",
+      "Pet Park",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Low Density Society",
+      "Natural Light",
+      "No open drainage around",
+      "Parking",
+      "Pet Friendly",
+      "Power Back Up",
+      "RWH",
+      "Waste Disposal"
     ]
   },
   {
@@ -8981,6 +9151,40 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp"
+    ],
+    "heroImageAlt": "Lodha Giardino by b-lodha in Wagholi, Pune",
+    "imageAlt": "Lodha Giardino Architecture in Wagholi",
+    "amenities": [
+      "Amphitheater",
+      "Banquet Hall",
+      "Cafeteria",
+      "Club house",
+      "Conference Room",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Library",
+      "Open Gym",
+      "Party Lawn",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Escalator",
+      "Gas Pipeline",
+      "Gated Society",
+      "High Ceiling Height",
+      "Intercom",
+      "Lift",
+      "Modular Kitchen",
+      "Natural Light",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "RWH",
+      "Security System",
+      "Washroom"
     ]
   },
   {
@@ -9205,6 +9409,39 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp"
+    ],
+    "heroImageAlt": "Lodha Panache by b-lodha in Hinjewadi, Pune",
+    "imageAlt": "Lodha Panache Architecture in Hinjewadi",
+    "amenities": [
+      "Amphitheater",
+      "Banquet Hall",
+      "Cafeteria",
+      "Club house",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Library",
+      "Party Lawn",
+      "Pet Park",
+      "Reflexology",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "High Ceiling Height",
+      "Internet / WiFi",
+      "Lift",
+      "Low Density Society",
+      "No open drainage around",
+      "Parking",
+      "Pet Friendly",
+      "Power Back Up",
+      "RWH",
+      "Security System",
+      "Waste Disposal",
+      "Workstations"
     ]
   },
   {
@@ -9397,6 +9634,31 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/Jlp88hAaeNuplnxEs8TQo4teuwJ1SbAKL03dxJnu.webp"
+    ],
+    "heroImageAlt": "Lodha Bella Vita by b-lodha in Mohammed Wadi, Pune",
+    "imageAlt": "Lodha Bella Vita Architecture in Mohammed Wadi",
+    "amenities": [
+      "Amphitheater",
+      "Banquet Hall",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Low Density Society",
+      "Natural Light",
+      "No open drainage around",
+      "Parking",
+      "Pet Friendly",
+      "Power Back Up",
+      "Waste Disposal"
     ]
   },
   {
@@ -9609,6 +9871,29 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp"
+    ],
+    "heroImageAlt": "Panchshil Eon Waterfront by b-panchshil in Kharadi, Pune",
+    "imageAlt": "Panchshil Eon Waterfront Architecture in Kharadi",
+    "amenities": [
+      "Amphitheater",
+      "Banquet Hall",
+      "Cafeteria",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Lift",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "Security System"
     ]
   },
   {
@@ -9818,6 +10103,16 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
+    ],
+    "heroImageAlt": "Panchshil Towers by b-panchshil in Kharadi, Pune",
+    "imageAlt": "Panchshil Towers Architecture in Kharadi",
+    "amenities": [
+      "Gym",
+      "Swimming Pool",
+      "24*7 Water",
+      "Lift",
+      "Parking",
+      "Waste Disposal"
     ]
   },
   {
@@ -10023,6 +10318,28 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp"
+    ],
+    "heroImageAlt": "Rohan Ekam Balewadi by b-rohan in Balewadi, Pune",
+    "imageAlt": "Rohan Ekam Balewadi Architecture in Balewadi",
+    "amenities": [
+      "Banquet Hall",
+      "Cafeteria",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Parking",
+      "Power Back Up",
+      "Security System",
+      "Washroom",
+      "Waste Disposal"
     ]
   },
   {
@@ -10209,7 +10526,16 @@ export const PROJECTS: Project[] = [
     "images": [
       "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp"
     ],
-    "featured": true
+    "featured": true,
+    "heroImageAlt": "Rohan Saroha by b-rohan in Bhugaon, Pune",
+    "imageAlt": "Rohan Saroha Architecture in Bhugaon",
+    "amenities": [
+      "Scenic Valley & Foothills Setting in Bhugaon",
+      "Minutes from Chandani Chowk & Bavdhan",
+      "Multi-Tier Clubhouse & Heated Swimming Pool",
+      "Organic Herb Gardens & Forest Walking Trails",
+      "Zero Commission Direct Deal"
+    ]
   },
   {
     "id": "p-rohan-ekam",
@@ -10407,7 +10733,16 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp",
       "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp"
     ],
-    "featured": true
+    "featured": true,
+    "heroImageAlt": "Rohan Ekam by b-rohan in Balewadi, Pune",
+    "imageAlt": "Rohan Ekam Architecture in Balewadi",
+    "amenities": [
+      "12.9-Acre Master-Planned Community in Balewadi",
+      "Signature PLUS Home Architectural Concept",
+      "Over 70% Open Space & Landscaped Gardens",
+      "Olympic-Size Swimming Pool & Sports Clubhouse",
+      "100% Zero Commission Brokerage Free"
+    ]
   },
   {
     "id": "p-vj-indilife",
@@ -10617,6 +10952,37 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/tckPqBcVINZBVHdS5Bf2TEn7XG8BA2rNaM34RTIU.webp"
+    ],
+    "heroImageAlt": "VJ IndiLife by b-vilas-javdekar in Pashan, Pune",
+    "imageAlt": "VJ IndiLife Architecture in Pashan",
+    "amenities": [
+      "Amphitheater",
+      "Conference Room",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Open Gym",
+      "Party Lawn",
+      "Pet Park",
+      "Reflexology",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Intercom",
+      "Internet / WiFi",
+      "Lift",
+      "Low Density Society",
+      "Modular Kitchen",
+      "No open drainage around",
+      "Parking",
+      "Pet Friendly",
+      "Power Back Up",
+      "Security System",
+      "Washroom",
+      "Waste Disposal"
     ]
   },
   {
@@ -10827,6 +11193,29 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/Zer51XQI5ojyaQkJzALaQDh3PUsVuRYsoTIvuyGp.webp"
+    ],
+    "heroImageAlt": "VJ PKC Central by b-vilas-javdekar in Kharadi, Pune",
+    "imageAlt": "VJ PKC Central Architecture in Kharadi",
+    "amenities": [
+      "Amphitheater",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Air Conditioned",
+      "Gated Society",
+      "Lift",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "Security System",
+      "Washroom"
     ]
   },
   {
@@ -11053,6 +11442,39 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/nzNTueMEEy7klzyMvsAZKbQvi18BTc9IP4Lf94GE.webp"
+    ],
+    "heroImageAlt": "VJ Yashwin Enchante by b-vilas-javdekar in Wagholi, Pune",
+    "imageAlt": "VJ Yashwin Enchante Architecture in Wagholi",
+    "amenities": [
+      "Amphitheater",
+      "Banquet Hall",
+      "Cafeteria",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jacuzzi",
+      "Jogging Track",
+      "Kids Play Area",
+      "Library",
+      "Open Gym",
+      "Party Lawn",
+      "Pet Park",
+      "Reflexology",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Natural Light",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "RWH",
+      "Security System",
+      "Washroom",
+      "Waste Disposal"
     ]
   },
   {
@@ -11265,6 +11687,26 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/4526f2bd-9454-4e2a-8276-d4c20fb609dc/gallery/mttuql28-5sksl7.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/4526f2bd-9454-4e2a-8276-d4c20fb609dc/gallery/mttuqnli-afpehq.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/4526f2bd-9454-4e2a-8276-d4c20fb609dc/gallery/mttuqq6h-2lz1qy.webp"
+    ],
+    "heroImageAlt": "GT Pride by b-pride-purple in Ravet, Pune",
+    "imageAlt": "GT Pride Architecture in Ravet",
+    "amenities": [
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Sports Courts",
+      "Yoga Zone",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Low Density Society",
+      "No open drainage around",
+      "Parking",
+      "Waste Disposal"
     ]
   },
   {
@@ -11565,6 +12007,34 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/pyfCcZQGbXLGoumWmHpNJZu7lOdvBE2m8hqD7GBs.webp"
+    ],
+    "heroImageAlt": "Pride Park Connect by b-pride-purple in Hinjewadi, Pune",
+    "imageAlt": "Pride Park Connect Architecture in Hinjewadi",
+    "amenities": [
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Open Gym",
+      "Party Lawn",
+      "Pet Park",
+      "Reflexology",
+      "Sports Courts",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gated Society",
+      "High Ceiling Height",
+      "Intercom",
+      "Lift",
+      "Low Density Society",
+      "Municipal Corporation",
+      "Natural Light",
+      "Parking",
+      "Pet Friendly",
+      "Power Back Up",
+      "Waste Disposal",
+      "Workstations"
     ]
   },
   {
@@ -11762,6 +12232,30 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/bJRlpzPdNm0DR1MkR1sH6rYnsTdUtDSgBdDHbkM5.webp"
+    ],
+    "heroImageAlt": "Codename Pride Of Chinchwad by b-pride-purple in Pimpri Chinchwad, Pune",
+    "imageAlt": "Codename Pride Of Chinchwad Architecture in Pimpri Chinchwad",
+    "amenities": [
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Open Gym",
+      "Party Lawn",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gas Pipeline",
+      "Gas Stove",
+      "Intercom",
+      "Lift",
+      "Natural Light",
+      "No open drainage around",
+      "Parking",
+      "Security System",
+      "Washroom",
+      "Waste Disposal"
     ]
   },
   {
@@ -11953,6 +12447,20 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/irWHREpB4Bu9lyPddtSq6rmlhF56vKg7o60Jna7N.webp"
+    ],
+    "heroImageAlt": "Nyati Evoque by b-nyati in Wadgaon Sheri, Pune",
+    "imageAlt": "Nyati Evoque Architecture in Wadgaon Sheri",
+    "amenities": [
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Mini-Theater",
+      "Swimming Pool",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Lift",
+      "Parking",
+      "Security System"
     ]
   },
   {
@@ -12143,6 +12651,24 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/CU1K5TMPY5iB90KqfJVmfosGCK6HiAnidy5Rb9Xd.webp"
+    ],
+    "heroImageAlt": "Nyati Emerald by b-nyati in Baner, Pune",
+    "imageAlt": "Nyati Emerald Architecture in Baner",
+    "amenities": [
+      "Amphitheater",
+      "Club house",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Pet Park",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Lift",
+      "Parking",
+      "Power Back Up",
+      "Security System"
     ]
   },
   {
@@ -12335,6 +12861,26 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/q5AHQmgzPmHHJpiGmkjETlcn8wnVNDWB11vSWkcy.webp"
+    ],
+    "heroImageAlt": "Nyati Esteban 2 by b-nyati in Undri, Pune",
+    "imageAlt": "Nyati Esteban 2 Architecture in Undri",
+    "amenities": [
+      "Amphitheater",
+      "Club house",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Pet Park",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Lift",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "Security System"
     ]
   },
   {
@@ -12567,6 +13113,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/Vrt23jt5LSfa41TChYsDPZdCGlEn8UCmlZ3CgxZH.webp"
+    ],
+    "heroImageAlt": "Gera Hinjewadi Phase 3 – 0 by b-gera in Hinjewadi, Pune",
+    "imageAlt": "Gera Hinjewadi Phase 3 – 0 Architecture in Hinjewadi",
+    "amenities": [
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Internet / WiFi",
+      "Lift",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "Security System",
+      "Waste Disposal"
     ]
   },
   {
@@ -12747,7 +13314,16 @@ export const PROJECTS: Project[] = [
     "images": [
       "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp"
     ],
-    "featured": false
+    "featured": false,
+    "heroImageAlt": "Gera Imperium Gateway by b-gera in Bhosari, Pune",
+    "imageAlt": "Gera Imperium Gateway Architecture in Bhosari",
+    "amenities": [
+      "Direct Metro Station Pedestrian Bridge",
+      "Grade-A Corporate Offices & Retail",
+      "Grand Double-Height Glass Atrium",
+      "Multi-Level Basement Parking",
+      "High Rental Yield Commercial Asset"
+    ]
   },
   {
     "id": "p-gera-joy-on-treetop",
@@ -12944,7 +13520,16 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/f6112baa-0481-401b-8910-ec78b165019e/gallery/mruxuv87-8c5g2i.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/f6112baa-0481-401b-8910-ec78b165019e/gallery/mruxv5r0-ef9xly.webp"
     ],
-    "featured": false
+    "featured": false,
+    "heroImageAlt": "Gera Joy on the Treetops by b-gera in Hinjewadi, Pune",
+    "imageAlt": "Gera Joy on the Treetops Architecture in Hinjewadi",
+    "amenities": [
+      "Elevated Skybridge & Treehouse Study Pods",
+      "Next to Megapolis IT Circle Phase 3",
+      "ChildCentric® Development Programs",
+      "Olympic-Spec Swimming Pool",
+      "Zero Buyer Brokerage Mandate"
+    ]
   },
   {
     "id": "p-kasturi-apostrophe",
@@ -13135,6 +13720,31 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/Kc9WrFfiUHLEzOWKPwF0yAt4AFwu6yogpoLOfgi1.webp"
+    ],
+    "heroImageAlt": "Kasturi Apostrophe by b-kasturi in Hinjewadi, Pune",
+    "imageAlt": "Kasturi Apostrophe Architecture in Hinjewadi",
+    "amenities": [
+      "Banquet Hall",
+      "Cafeteria",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Pet Park",
+      "Sports Courts",
+      "Swimming Pool",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gas Pipeline",
+      "Gated Society",
+      "Lift",
+      "Natural Light",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "Security System",
+      "Waste Disposal"
     ]
   },
   {
@@ -13355,6 +13965,32 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/hktier2sHXP4K72r1KJuALKWEkO0q8C2EMl3ZeVO.webp"
+    ],
+    "heroImageAlt": "Kasturi Eon Homes by b-kasturi in Hinjewadi, Pune",
+    "imageAlt": "Kasturi Eon Homes Architecture in Hinjewadi",
+    "amenities": [
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Intercom",
+      "Internet / WiFi",
+      "Lift",
+      "Natural Light",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "RWH",
+      "Security System",
+      "Washroom",
+      "Waste Disposal"
     ]
   },
   {
@@ -13564,6 +14200,32 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp"
+    ],
+    "heroImageAlt": "Kasturi The Balmoral Towers by b-kasturi in Balewadi, Pune",
+    "imageAlt": "Kasturi The Balmoral Towers Architecture in Balewadi",
+    "amenities": [
+      "Amphitheater",
+      "Banquet Hall",
+      "Cafeteria",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gas Pipeline",
+      "Gated Society",
+      "Lift",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "Security System",
+      "Washroom"
     ]
   },
   {
@@ -13757,6 +14419,31 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/430sCsigr3Ej6G1NbTk8XPOQtxzzglMt7g2T8AOD.webp"
+    ],
+    "heroImageAlt": "Mahindra Happinest – D,E,F,G by b-mahindra in Tathawade, Pune",
+    "imageAlt": "Mahindra Happinest – D,E,F,G Architecture in Tathawade",
+    "amenities": [
+      "Banquet Hall",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Library",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gated Society",
+      "High Ceiling Height",
+      "Intercom",
+      "Lift",
+      "Low Density Society",
+      "No open drainage around",
+      "Pantry Area",
+      "Parking",
+      "Power Back Up",
+      "Waste Disposal"
     ]
   },
   {
@@ -13985,6 +14672,35 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/7R1KntHtZGpJcf1ID73ZhW6Bmbi6t69x1dDPXrCk.webp"
+    ],
+    "heroImageAlt": "Mahindra Citadel by b-mahindra in Pimpri Chinchwad, Pune",
+    "imageAlt": "Mahindra Citadel Architecture in Pimpri Chinchwad",
+    "amenities": [
+      "Amphitheater",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Library",
+      "Open Gym",
+      "Party Lawn",
+      "Pet Park",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Low Density Society",
+      "No open drainage around",
+      "Pantry Area",
+      "Parking",
+      "Pet Friendly",
+      "Power Back Up",
+      "Waste Disposal"
     ]
   },
   {
@@ -14205,6 +14921,33 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/3msy8g3YfuGeOTEPUH6aUTf87xT71BtV95I63SR5.webp"
+    ],
+    "heroImageAlt": "Mahindra Kharadi by b-mahindra in Kharadi, Pune",
+    "imageAlt": "Mahindra Kharadi Architecture in Kharadi",
+    "amenities": [
+      "Banquet Hall",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Open Gym",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gas Pipeline",
+      "Internet / WiFi",
+      "Lift",
+      "Municipal Corporation",
+      "Parking",
+      "Pet Friendly",
+      "Power Back Up",
+      "Private Garden/ Terrace",
+      "RWH",
+      "Security System",
+      "Waste Disposal"
     ]
   },
   {
@@ -14405,6 +15148,29 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/zoLAkypqIHabTujIT7jLRaHsLqSvtkc6H9LUm5nB.webp"
+    ],
+    "heroImageAlt": "Kumar Parth Tower by b-kumar in Baner, Pune",
+    "imageAlt": "Kumar Parth Tower Architecture in Baner",
+    "amenities": [
+      "Cafeteria",
+      "Fitness Corner",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Pet Park",
+      "Sports Courts",
+      "Swimming Pool",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gas Pipeline",
+      "Gas Stove",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Natural Light",
+      "Parking",
+      "Pet Friendly",
+      "Security System"
     ]
   },
   {
@@ -14618,6 +15384,26 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/ByYt4cju0mAa243xiYGkSFBnG4OPoJfO0NqnVL4K.webp"
+    ],
+    "heroImageAlt": "Kumar Palmspring Towers by b-kumar in Undri, Pune",
+    "imageAlt": "Kumar Palmspring Towers Architecture in Undri",
+    "amenities": [
+      "Banquet Hall",
+      "Cafeteria",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Swimming Pool",
+      "24*7 Water",
+      "Airy Rooms",
+      "FAN",
+      "Gas Pipeline",
+      "Gas Stove",
+      "Gated Society",
+      "Lift",
+      "Parking",
+      "Security System"
     ]
   },
   {
@@ -14809,6 +15595,31 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/9QSvdpBVQcRA9ABgjNfHXdLD8GpbbzQXsW9OlEb7.webp"
+    ],
+    "heroImageAlt": "Kumar Codename Centrestage – 0 by b-kumar in Hinjewadi, Pune",
+    "imageAlt": "Kumar Codename Centrestage – 0 Architecture in Hinjewadi",
+    "amenities": [
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Library",
+      "Party Lawn",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Internet / WiFi",
+      "Lift",
+      "Low Density Society",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "RWH",
+      "Security System"
     ]
   },
   {
@@ -15056,7 +15867,16 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp",
       "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp"
     ],
-    "featured": true
+    "featured": true,
+    "heroImageAlt": "BramhaCorp Hues of Sky by b-bramhacorp in Camp, Pune",
+    "imageAlt": "BramhaCorp Hues of Sky Architecture in Camp",
+    "amenities": [
+      "35-Storey Central Pune Skyline Landmark",
+      "400m from Sadhu Vaswani Chowk",
+      "Rooftop Sky Lounge & Observatory",
+      "Infinity Heated Pool",
+      "Italian Marble & Branded Sanitaryware"
+    ]
   },
   {
     "id": "p-bramhacorp-townhouse",
@@ -15229,7 +16049,16 @@ export const PROJECTS: Project[] = [
     "images": [
       "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp"
     ],
-    "featured": false
+    "featured": false,
+    "heroImageAlt": "BramhaCorp Townhouse by b-bramhacorp in Balewadi, Pune",
+    "imageAlt": "BramhaCorp Townhouse Architecture in Balewadi",
+    "amenities": [
+      "Millennial Co-Living & Studio Living",
+      "Co-Working Lounge with High-Speed Fiber",
+      "High Rental Yield Investment Asset",
+      "Rooftop Cafe & Fitness Zone",
+      "Smart Furniture Integration"
+    ]
   },
   {
     "id": "p-bramhacorp-august-towers",
@@ -15420,7 +16249,16 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp",
       "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp"
     ],
-    "featured": true
+    "featured": true,
+    "heroImageAlt": "BramhaCorp August Towers by b-bramhacorp in Kalyani Nagar, Pune",
+    "imageAlt": "BramhaCorp August Towers Architecture in Kalyani Nagar",
+    "amenities": [
+      "34-Storey Modern High-Rise Towers",
+      "Mivan Aluminum Shuttering Technology",
+      "Minutes from Koregaon Park & Viman Nagar",
+      "Infinity Edge Rooftop Swimming Pool",
+      "Direct Developer Sales Pricing"
+    ]
   },
   {
     "id": "p-amanora-city-rise",
@@ -15584,6 +16422,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Amanora City Rise?",
         "answer": "The development features world-class lifestyle amenities including Gym, Kids Play Area, Swimming Pool, Yoga Zone, Gated Society, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Amanora City Rise by b-amanora in Kothrud, Pune",
+    "imageAlt": "Amanora City Rise Architecture in Kothrud",
+    "amenities": [
+      "Gym",
+      "Kids Play Area",
+      "Swimming Pool",
+      "Yoga Zone",
+      "Gated Society",
+      "Security System"
     ]
   },
   {
@@ -15846,6 +16694,33 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/naU6Ftht3sLHPndXJ1BDOd0MBFugUyMu0B32FZyO.webp"
+    ],
+    "heroImageAlt": "Joyville Hadapsar Annexe by b-joyville in Hadapsar, Pune",
+    "imageAlt": "Joyville Hadapsar Annexe Architecture in Hadapsar",
+    "amenities": [
+      "Amphitheater",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Open Gym",
+      "Party Lawn",
+      "Pet Park",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gas Pipeline",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Low Density Society",
+      "No open drainage around",
+      "Parking",
+      "Pet Friendly",
+      "Waste Disposal"
     ]
   },
   {
@@ -16124,6 +16999,33 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/DHi0IYRMCmrf7yoxp0cK8Vp96P1ccxV3V6g85gdz.webp"
+    ],
+    "heroImageAlt": "Joyville Celestia by b-joyville in Shewalewadi, Pune",
+    "imageAlt": "Joyville Celestia Architecture in Shewalewadi",
+    "amenities": [
+      "Amphitheater",
+      "Banquet Hall",
+      "Cafeteria",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Sports Courts",
+      "Swimming Pool",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gas Pipeline",
+      "Gated Society",
+      "Intercom",
+      "Internet / WiFi",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "RWH",
+      "Security System",
+      "Waste Disposal",
+      "Water purifier"
     ]
   },
   {
@@ -16360,6 +17262,33 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/leqFS0kMhJDAQ6ZdwEOxnajHj4VcaKZHhxS1hVk1.webp"
+    ],
+    "heroImageAlt": "Joyville Sensorium by b-joyville in Hinjewadi, Pune",
+    "imageAlt": "Joyville Sensorium Architecture in Hinjewadi",
+    "amenities": [
+      "Banquet Hall",
+      "Cafeteria",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Pet Park",
+      "Swimming Pool",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gas Pipeline",
+      "Gas Stove",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Natural Light",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "Security System",
+      "Waste Disposal",
+      "Water purifier"
     ]
   },
   {
@@ -16661,6 +17590,35 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/azNbmpmBCobhupU4s5tfh6nAZzKEPgYRISRlQhNa.webp"
+    ],
+    "heroImageAlt": "Kohinoor Kharadi – 5 by b-kohinoor in Kharadi, Pune",
+    "imageAlt": "Kohinoor Kharadi – 5 Architecture in Kharadi",
+    "amenities": [
+      "Banquet Hall",
+      "Club house",
+      "Conference Room",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Open Gym",
+      "Party Lawn",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Internet / WiFi",
+      "Lift",
+      "Municipal Corporation",
+      "No open drainage around",
+      "Parking",
+      "Pet Friendly",
+      "Power Back Up",
+      "Private Garden/ Terrace",
+      "RWH",
+      "Security System",
+      "Waste Disposal"
     ]
   },
   {
@@ -16881,6 +17839,32 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/btjPpfNMHbOIxRQfCF21p9nMLhQHiuzRce3XKq9N.webp"
+    ],
+    "heroImageAlt": "Kohinoor Shangrila by b-kohinoor in Pimpri Chinchwad, Pune",
+    "imageAlt": "Kohinoor Shangrila Architecture in Pimpri Chinchwad",
+    "amenities": [
+      "Banquet Hall",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Open Gym",
+      "Pet Park",
+      "Sports Courts",
+      "Swimming Pool",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gas Pipeline",
+      "Gas Stove",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Natural Light",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "Security System",
+      "Washroom"
     ]
   },
   {
@@ -17159,6 +18143,30 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/ce817e1a-9486-4d36-bc59-070a9ff2026a/gallery/mv6lp1b2-b7k5mx.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/ce817e1a-9486-4d36-bc59-070a9ff2026a/gallery/mv6lp4s8-bzs2us.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/ce817e1a-9486-4d36-bc59-070a9ff2026a/gallery/mv6lp8e7-f7pfkq.webp"
+    ],
+    "heroImageAlt": "Kohinoor Central Park – 0 by b-kohinoor in Hinjewadi, Pune",
+    "imageAlt": "Kohinoor Central Park – 0 Architecture in Hinjewadi",
+    "amenities": [
+      "Banquet Hall",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Internet / WiFi",
+      "Lift",
+      "Low Density Society",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "RWH",
+      "Security System"
     ]
   },
   {
@@ -17337,6 +18345,38 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/Q39esXojW09bMJ6Mdrck23emKYk4oMPhiZEBA16j.webp"
+    ],
+    "heroImageAlt": "Kalpataru Jade Skyline – 5 by b-kalpataru in Baner, Pune",
+    "imageAlt": "Kalpataru Jade Skyline – 5 Architecture in Baner",
+    "amenities": [
+      "Amphitheater",
+      "Banquet Hall",
+      "Club house",
+      "Conference Room",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Library",
+      "Mini-Theater",
+      "Open Gym",
+      "Party Lawn",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Internet / WiFi",
+      "Lift",
+      "Natural Light",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "Private Garden/ Terrace",
+      "Security System",
+      "Washroom",
+      "Waste Disposal"
     ]
   },
   {
@@ -17536,6 +18576,28 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp"
+    ],
+    "heroImageAlt": "Kalpataru Jade Residences – Tower -H by b-kalpataru in Baner, Pune",
+    "imageAlt": "Kalpataru Jade Residences – Tower -H Architecture in Baner",
+    "amenities": [
+      "Cafeteria",
+      "Fitness Corner",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Party Lawn",
+      "Sports Courts",
+      "Swimming Pool",
+      "24*7 Water",
+      "Airy Rooms",
+      "Gas Pipeline",
+      "Gated Society",
+      "Intercom",
+      "Lift",
+      "Natural Light",
+      "Parking",
+      "Pet Friendly",
+      "Security System"
     ]
   },
   {
@@ -17740,6 +18802,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/ATBSWRDRKSRmbyRoiopB8HwrRQIgzAkuoILwvdpl.webp"
+    ],
+    "heroImageAlt": "Kalpataru Blossoms by b-kalpataru in Anand Nagar, Pune",
+    "imageAlt": "Kalpataru Blossoms Architecture in Anand Nagar",
+    "amenities": [
+      "Amphitheater",
+      "Club house",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Mini-Theater",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Lift",
+      "Parking",
+      "Security System"
     ]
   },
   {
@@ -17933,6 +19012,22 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/XuDMBetWz7JMao7EtAKipFvMdJLCxZvvdmU1XTf4.webp"
+    ],
+    "heroImageAlt": "Sobha Nesara by b-sobha in Kothrud, Pune",
+    "imageAlt": "Sobha Nesara Architecture in Kothrud",
+    "amenities": [
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Pet Park",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Lift",
+      "Parking",
+      "Power Back Up",
+      "Security System"
     ]
   },
   {
@@ -18138,6 +19233,34 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp"
+    ],
+    "heroImageAlt": "Sobha Nesara Block 3 by b-sobha in Kothrud, Pune",
+    "imageAlt": "Sobha Nesara Block 3 Architecture in Kothrud",
+    "amenities": [
+      "Amphitheater",
+      "Banquet Hall",
+      "Cafeteria",
+      "Club house",
+      "Fitness Corner",
+      "Gym",
+      "Jacuzzi",
+      "Jogging Track",
+      "Kids Play Area",
+      "Library",
+      "Open Gym",
+      "Party Lawn",
+      "Reflexology",
+      "Sports Courts",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Lift",
+      "No open drainage around",
+      "Parking",
+      "Power Back Up",
+      "Security System"
     ]
   },
   {
@@ -18339,6 +19462,19 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/9pvXyW2GJ03250xBWLfGckCuaopvViEXcNd2j0GO.webp"
+    ],
+    "heroImageAlt": "Prasiddhi Tatavam Residency by b-tata in Ravet, Pune",
+    "imageAlt": "Prasiddhi Tatavam Residency Architecture in Ravet",
+    "amenities": [
+      "Jogging Track",
+      "Kids Play Area",
+      "24*7 Water",
+      "Gas Pipeline",
+      "Gated Society",
+      "Lift",
+      "Parking",
+      "Power Back Up",
+      "Security System"
     ]
   },
   {
@@ -18521,6 +19657,22 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sense 66 By TATA Value Homes?",
         "answer": "The development features world-class lifestyle amenities including Banquet Hall, Club house, Gym, Jogging Track, Kids Play Area, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Sense 66 By TATA Value Homes by b-tata in Talegaon Dabhade, Pune",
+    "imageAlt": "Sense 66 By TATA Value Homes Architecture in Talegaon Dabhade",
+    "amenities": [
+      "Banquet Hall",
+      "Club house",
+      "Gym",
+      "Jogging Track",
+      "Kids Play Area",
+      "Swimming Pool",
+      "Yoga Zone",
+      "24*7 Water",
+      "Gated Society",
+      "Lift",
+      "Natural Light",
+      "Security System"
     ]
   },
   {
@@ -18528,7 +19680,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Camelot",
     "slug": "lodha-camelot-kharadi",
     "builderId": "b-lodha",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "priceRange": "₹1.50 Cr - ₹2.62 Cr",
     "exactPrice": "₹1.50 Cr",
     "configurations": [
@@ -18679,6 +19831,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg"
+    ],
+    "heroImageAlt": "Lodha Camelot by b-lodha in Kharadi, Pune, Pune",
+    "imageAlt": "Lodha Camelot Architecture in Kharadi, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -18686,7 +19859,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Altero",
     "slug": "lodha-altero-wakad",
     "builderId": "b-lodha",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "priceRange": "₹1.06 Cr - ₹1.62 Cr",
     "exactPrice": "₹1.06 Cr",
     "configurations": [
@@ -18837,6 +20010,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/1980265094_Lodha_Wakad_Website_Images_Spotlight_SC_1903x800px.jpg"
+    ],
+    "heroImageAlt": "Lodha Altero by b-lodha in Wakad, Pune, Pune",
+    "imageAlt": "Lodha Altero Architecture in Wakad, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -18844,7 +20038,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Estilo",
     "slug": "lodha-estilo-kharadi",
     "builderId": "b-lodha",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "priceRange": "₹1.74 Cr - ₹3.02 Cr",
     "exactPrice": "₹1.74 Cr",
     "configurations": [
@@ -18995,6 +20189,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Estilo_1903X800_0.jpg"
+    ],
+    "heroImageAlt": "Lodha Estilo by b-lodha in Kharadi, Pune, Pune",
+    "imageAlt": "Lodha Estilo Architecture in Kharadi, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -19002,7 +20217,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Belmondo",
     "slug": "lodha-belmondo",
     "builderId": "b-lodha",
-    "location": "Pune Expressway, Gahunje",
+    "location": "Gahunje",
     "priceRange": "₹1.15 Cr - ₹6.58 Cr",
     "exactPrice": "₹1.15 Cr",
     "configurations": [
@@ -19197,6 +20412,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg"
+    ],
+    "heroImageAlt": "Lodha Belmondo by b-lodha in Pune Expressway, Gahunje, Lonavala",
+    "imageAlt": "Lodha Belmondo Architecture in Pune Expressway, Gahunje",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -19204,7 +20440,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Magnus",
     "slug": "lodha-magnus-hinjewadi",
     "builderId": "b-lodha",
-    "location": "Hinjewadi Phase 1, Pune",
+    "location": "Hinjewadi",
     "priceRange": "₹1.27 Cr - ₹2.21 Cr",
     "exactPrice": "₹1.27 Cr",
     "configurations": [
@@ -19355,6 +20591,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Magnus_1903x800.jpg"
+    ],
+    "heroImageAlt": "Lodha Magnus by b-lodha in Hinjewadi Phase 1, Pune, Pune",
+    "imageAlt": "Lodha Magnus Architecture in Hinjewadi Phase 1, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -19362,7 +20619,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Massimo",
     "slug": "lodha-massimo-baner",
     "builderId": "b-lodha",
-    "location": "Baner, Pune",
+    "location": "Baner",
     "priceRange": "₹1.56 Cr - ₹2.73 Cr",
     "exactPrice": "₹1.56 Cr",
     "configurations": [
@@ -19513,6 +20770,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight%20v2.jpg"
+    ],
+    "heroImageAlt": "Lodha Massimo by b-lodha in Baner, Pune, Pune",
+    "imageAlt": "Lodha Massimo Architecture in Baner, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -19520,7 +20798,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha One",
     "slug": "lodha-one-bund-garden",
     "builderId": "b-lodha",
-    "location": "Bund Garden, Pune",
+    "location": "Bund Garden Road",
     "priceRange": "₹3.90 Cr - ₹7.30 Cr",
     "exactPrice": "₹3.90 Cr",
     "configurations": [
@@ -19693,6 +20971,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Desktop_Lodha-One_1903x800.jpg"
+    ],
+    "heroImageAlt": "Lodha One by b-lodha in Bund Garden, Pune, Pune",
+    "imageAlt": "Lodha One Architecture in Bund Garden, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -19700,7 +20999,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Palais",
     "slug": "lodha-palais-kothrud",
     "builderId": "b-lodha",
-    "location": "Kothrud, Pune",
+    "location": "Kothrud",
     "priceRange": "₹3.90 Cr - ₹6.20 Cr",
     "exactPrice": "₹3.90 Cr",
     "configurations": [
@@ -19851,6 +21150,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Kothrud_1903x800.jpg"
+    ],
+    "heroImageAlt": "Lodha Palais by b-lodha in Kothrud, Pune, Pune",
+    "imageAlt": "Lodha Palais Architecture in Kothrud, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -19858,7 +21178,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Sylvan",
     "slug": "lodha-sylvan-hinjewadi",
     "builderId": "b-lodha",
-    "location": "Hinjewadi Phase 3, Pune",
+    "location": "Hinjewadi",
     "priceRange": "₹86.50 L - ₹1.32 Cr",
     "exactPrice": "₹86.50 L",
     "configurations": [
@@ -20009,6 +21329,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/2519491749_Lodha-Hinjewadi-phase-3-_1903x800_Spotlight-Banner.jpg"
+    ],
+    "heroImageAlt": "Lodha Sylvan by b-lodha in Hinjewadi Phase 3, Pune, Pune",
+    "imageAlt": "Lodha Sylvan Architecture in Hinjewadi Phase 3, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -20016,7 +21357,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Elise",
     "slug": "lodha-elise-worli",
     "builderId": "b-lodha",
-    "location": "Worli, South Mumbai",
+    "location": "Worli",
     "priceRange": "₹4.80 Cr - ₹8.37 Cr",
     "exactPrice": "₹4.80 Cr",
     "configurations": [
@@ -20167,6 +21508,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg"
+    ],
+    "heroImageAlt": "Lodha Elise by b-lodha in Worli, South Mumbai, Mumbai",
+    "imageAlt": "Lodha Elise Architecture in Worli, South Mumbai",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -20174,7 +21536,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Altamount",
     "slug": "lodha-altamount",
     "builderId": "b-lodha",
-    "location": "Altamount Road, Billionaires Row, Mumbai",
+    "location": "Altamount Road",
     "priceRange": "₹18.75 Cr - ₹32.69 Cr",
     "exactPrice": "₹18.75 Cr",
     "configurations": [
@@ -20347,6 +21709,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Desktop_Lodha-Altamount_1903x800.jpg"
+    ],
+    "heroImageAlt": "Lodha Altamount by b-lodha in Altamount Road, Billionaires Row, Mumbai, Mumbai",
+    "imageAlt": "Lodha Altamount Architecture in Altamount Road, Billionaires Row, Mumbai",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -20354,7 +21737,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Bellevue",
     "slug": "lodha-bellevue-mahalaxmi",
     "builderId": "b-lodha",
-    "location": "Mahalaxmi, South Mumbai",
+    "location": "Mahalaxmi",
     "priceRange": "₹4.94 Cr - ₹8.60 Cr",
     "exactPrice": "₹4.94 Cr",
     "configurations": [
@@ -20505,6 +21888,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Bellevue_1903X800_0.jpg"
+    ],
+    "heroImageAlt": "Lodha Bellevue by b-lodha in Mahalaxmi, South Mumbai, Mumbai",
+    "imageAlt": "Lodha Bellevue Architecture in Mahalaxmi, South Mumbai",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -20512,7 +21916,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Amara",
     "slug": "lodha-amara-thane",
     "builderId": "b-lodha",
-    "location": "Kolshet Road, Thane (MMR)",
+    "location": "Kolshet Road",
     "priceRange": "₹79.00 L - ₹2.00 Cr",
     "exactPrice": "₹79.00 L",
     "configurations": [
@@ -20685,6 +22089,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_LodhaAmara_1903x800.webp"
+    ],
+    "heroImageAlt": "Lodha Amara by b-lodha in Kolshet Road, Thane (MMR), Thane",
+    "imageAlt": "Lodha Amara Architecture in Kolshet Road, Thane (MMR)",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -20692,7 +22117,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Upper Thane",
     "slug": "lodha-upper-thane",
     "builderId": "b-lodha",
-    "location": "Upper Thane / Anjur, Thane (MMR)",
+    "location": "Upper Thane",
     "priceRange": "₹54.50 L - ₹1.39 Cr",
     "exactPrice": "₹54.50 L",
     "configurations": [
@@ -20865,6 +22290,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Upper-Thane_1903x800_0.jpg"
+    ],
+    "heroImageAlt": "Lodha Upper Thane by b-lodha in Upper Thane / Anjur, Thane (MMR), Thane",
+    "imageAlt": "Lodha Upper Thane Architecture in Upper Thane / Anjur, Thane (MMR)",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -20872,7 +22318,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Meadows",
     "slug": "godrej-meadows-mahalunge",
     "builderId": "b-godrej",
-    "location": "Mahalunge, Pune",
+    "location": "Mahalunge",
     "priceRange": "₹77.00 L - ₹1.18 Cr",
     "exactPrice": "₹77.00 L",
     "configurations": [
@@ -21026,6 +22472,27 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/9mQcxr2kQwdxOjKHIxo2zEp9jrfIGuIrQfIHkK7o.webp",
       "https://keystoneliv.com/public/uploads/property/Clv6QVczOiJD0bNhVQSdUoYvHCzVM92HasWLD3ET.webp",
       "https://keystoneliv.com/public/uploads/property/Vrt23jt5LSfa41TChYsDPZdCGlEn8UCmlZ3CgxZH.webp"
+    ],
+    "heroImageAlt": "Godrej Meadows by b-godrej in Mahalunge, Pune, Pune",
+    "imageAlt": "Godrej Meadows Architecture in Mahalunge, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -21033,7 +22500,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Park Springs",
     "slug": "godrej-park-springs-manjari",
     "builderId": "b-godrej",
-    "location": "Manjari, Pune",
+    "location": "Manjri",
     "priceRange": "₹72.50 L - ₹1.10 Cr",
     "exactPrice": "₹72.50 L",
     "configurations": [
@@ -21184,6 +22651,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/EgT38KqPYprgM9Wjnx1V6CjquaUeL86nNYlo2aeD.webp"
+    ],
+    "heroImageAlt": "Godrej Park Springs by b-godrej in Manjari, Pune, Pune",
+    "imageAlt": "Godrej Park Springs Architecture in Manjari, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -21191,7 +22679,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Serene",
     "slug": "godrej-serene-mamurdi",
     "builderId": "b-godrej",
-    "location": "Mamurdi, Pune",
+    "location": "Mamurdi",
     "priceRange": "₹61.00 L - ₹93.50 L",
     "exactPrice": "₹61.00 L",
     "configurations": [
@@ -21342,6 +22830,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/2SJGpjlntwj2andtbjO1IYDUMhnUXKFgMYyBz9cO.webp"
+    ],
+    "heroImageAlt": "Godrej Serene by b-godrej in Mamurdi, Pune, Pune",
+    "imageAlt": "Godrej Serene Architecture in Mamurdi, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -21349,7 +22858,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Green Cove",
     "slug": "godrej-green-cove-mahalunge",
     "builderId": "b-godrej",
-    "location": "Mahalunge, Pune",
+    "location": "Mahalunge",
     "priceRange": "₹59.50 L - ₹1.51 Cr",
     "exactPrice": "₹59.50 L",
     "configurations": [
@@ -21522,6 +23031,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+    ],
+    "heroImageAlt": "Godrej Green Cove by b-godrej in Mahalunge, Pune, Pune",
+    "imageAlt": "Godrej Green Cove Architecture in Mahalunge, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -21529,7 +23059,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Park Greens",
     "slug": "godrej-park-greens-mamurdi",
     "builderId": "b-godrej",
-    "location": "Mamurdi, Pune",
+    "location": "Mamurdi",
     "priceRange": "₹60.50 L - ₹92.00 L",
     "exactPrice": "₹60.50 L",
     "configurations": [
@@ -21680,6 +23210,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp"
+    ],
+    "heroImageAlt": "Godrej Park Greens by b-godrej in Mamurdi, Pune, Pune",
+    "imageAlt": "Godrej Park Greens Architecture in Mamurdi, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -21687,7 +23238,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Hillview Estate",
     "slug": "godrej-hillview-estate-expressway",
     "builderId": "b-godrej",
-    "location": "Khalapur, Pune-Mumbai Expressway",
+    "location": "Khalapur",
     "priceRange": "₹1.17 Cr - ₹1.56 Cr",
     "exactPrice": "₹1.17 Cr",
     "configurations": [
@@ -21838,6 +23389,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg"
+    ],
+    "heroImageAlt": "Godrej Hillview Estate by b-godrej in Khalapur, Pune-Mumbai Expressway, Lonavala",
+    "imageAlt": "Godrej Hillview Estate Architecture in Khalapur, Pune-Mumbai Expressway",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -21845,7 +23417,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Nurture",
     "slug": "godrej-nurture-bhandup",
     "builderId": "b-godrej",
-    "location": "Bhandup West, Mumbai",
+    "location": "Bhandup West",
     "priceRange": "₹1.72 Cr - ₹2.62 Cr",
     "exactPrice": "₹1.72 Cr",
     "configurations": [
@@ -21996,6 +23568,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp"
+    ],
+    "heroImageAlt": "Godrej Nurture by b-godrej in Bhandup West, Mumbai, Mumbai",
+    "imageAlt": "Godrej Nurture Architecture in Bhandup West, Mumbai",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -22003,7 +23596,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Urban Park",
     "slug": "godrej-urban-park-chandivali",
     "builderId": "b-godrej",
-    "location": "Chandivali, Powai Extension, Mumbai",
+    "location": "Powai",
     "priceRange": "₹1.42 Cr - ₹3.62 Cr",
     "exactPrice": "₹1.42 Cr",
     "configurations": [
@@ -22176,6 +23769,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
+    ],
+    "heroImageAlt": "Godrej Urban Park by b-godrej in Chandivali, Powai Extension, Mumbai, Mumbai",
+    "imageAlt": "Godrej Urban Park Architecture in Chandivali, Powai Extension, Mumbai",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -22183,7 +23797,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Bandra Bay",
     "slug": "godrej-bandra-bay",
     "builderId": "b-godrej",
-    "location": "Bandra West, Mumbai",
+    "location": "Bandra West",
     "priceRange": "₹7.88 Cr - ₹25.68 Cr",
     "exactPrice": "₹7.88 Cr",
     "configurations": [
@@ -22356,6 +23970,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp"
+    ],
+    "heroImageAlt": "Godrej Bandra Bay by b-godrej in Bandra West, Mumbai, Mumbai",
+    "imageAlt": "Godrej Bandra Bay Architecture in Bandra West, Mumbai",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -22363,7 +23998,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej City Panvel",
     "slug": "golf-crest-godrej-city-panvel",
     "builderId": "b-godrej",
-    "location": "Panvel, Navi Mumbai",
+    "location": "Panvel",
     "priceRange": "₹55.50 L - ₹1.41 Cr",
     "exactPrice": "₹55.50 L",
     "configurations": [
@@ -22536,6 +24171,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp"
+    ],
+    "heroImageAlt": "Godrej City Panvel by b-godrej in Panvel, Navi Mumbai, Navi Mumbai",
+    "imageAlt": "Godrej City Panvel Architecture in Panvel, Navi Mumbai",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -22543,7 +24199,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Upavan",
     "slug": "godrej-upavan-thane-extension",
     "builderId": "b-godrej",
-    "location": "Thane Extension, Kalyan-Bhiwandi Road",
+    "location": "Upper Thane",
     "priceRange": "₹47.50 L - ₹79.00 L",
     "exactPrice": "₹47.50 L",
     "configurations": [
@@ -22694,6 +24350,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+    ],
+    "heroImageAlt": "Godrej Upavan by b-godrej in Thane Extension, Kalyan-Bhiwandi Road, Thane",
+    "imageAlt": "Godrej Upavan Architecture in Thane Extension, Kalyan-Bhiwandi Road",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -22701,7 +24378,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Prime",
     "slug": "godrej-prime-chembur",
     "builderId": "b-godrej",
-    "location": "Chembur, Central Mumbai",
+    "location": "Chembur",
     "priceRange": "₹1.78 Cr - ₹2.71 Cr",
     "exactPrice": "₹1.78 Cr",
     "configurations": [
@@ -22852,6 +24529,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp"
+    ],
+    "heroImageAlt": "Godrej Prime by b-godrej in Chembur, Central Mumbai, Mumbai",
+    "imageAlt": "Godrej Prime Architecture in Chembur, Central Mumbai",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -22859,7 +24557,7 @@ export const PROJECTS: Project[] = [
     "title": "Earth One by VTP Luxe",
     "slug": "earth-one-by-vtp-luxe-mahalunge",
     "builderId": "b-vtp",
-    "location": "Mahalunge, Pune",
+    "location": "Mahalunge",
     "city": "Pune",
     "priceRange": "₹86.50 L - ₹2.30 Cr",
     "exactPrice": "₹86.50 L",
@@ -23032,6 +24730,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
+    ],
+    "heroImageAlt": "Earth One by VTP Luxe by b-vtp in Mahalunge, Pune, Pune",
+    "imageAlt": "Earth One by VTP Luxe Architecture in Mahalunge, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -23039,7 +24758,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Monarque",
     "slug": "vtp-monarque-hinjawadi",
     "builderId": "b-vtp",
-    "location": "Hinjewadi Phase 1, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹77.00 L - ₹1.18 Cr",
     "exactPrice": "₹77.00 L",
@@ -23193,6 +24912,27 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/0f21e6d9-4412-4274-aea4-56073705b70e/gallery/mszqap6i-efnt8a.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/0f21e6d9-4412-4274-aea4-56073705b70e/gallery/mszqaraf-421zv9.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/0f21e6d9-4412-4274-aea4-56073705b70e/gallery/mszqatia-eimdh1.webp"
+    ],
+    "heroImageAlt": "VTP Monarque by b-vtp in Hinjewadi Phase 1, Pune, Pune",
+    "imageAlt": "VTP Monarque Architecture in Hinjewadi Phase 1, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -23200,7 +24940,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Aurelia",
     "slug": "vtp-aurelia-kharadi",
     "builderId": "b-vtp",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "city": "Pune",
     "priceRange": "₹79.50 L - ₹1.21 Cr",
     "exactPrice": "₹79.50 L",
@@ -23358,6 +25098,27 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/035b585d-b971-4564-b20f-ccecfbcad104/gallery/mvhz1qwz-oe25a.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/035b585d-b971-4564-b20f-ccecfbcad104/gallery/mvhz1ri6-98zilu.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/035b585d-b971-4564-b20f-ccecfbcad104/gallery/mvhz1s8g-3g6nd6.webp"
+    ],
+    "heroImageAlt": "VTP Aurelia by b-vtp in Kharadi, Pune, Pune",
+    "imageAlt": "VTP Aurelia Architecture in Kharadi, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -23365,7 +25126,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Altamira",
     "slug": "vtp-altamira-kharadi",
     "builderId": "b-vtp",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "city": "Pune",
     "priceRange": "₹78.00 L - ₹1.19 Cr",
     "exactPrice": "₹78.00 L",
@@ -23529,6 +25290,27 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/96ad69a2-d18d-4df8-b5e2-4099cda04d22/gallery/mvhyzcf7-53mno1.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/96ad69a2-d18d-4df8-b5e2-4099cda04d22/gallery/mvhyzd91-d30pii.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/96ad69a2-d18d-4df8-b5e2-4099cda04d22/gallery/mvhyze0p-10ogfq.webp"
+    ],
+    "heroImageAlt": "VTP Altamira by b-vtp in Kharadi, Pune, Pune",
+    "imageAlt": "VTP Altamira Architecture in Kharadi, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -23536,7 +25318,7 @@ export const PROJECTS: Project[] = [
     "title": "Velvet Villas by VTP Luxe",
     "slug": "velvet-villas-by-vtp-luxe-kharadi",
     "builderId": "b-vtp",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "city": "Pune",
     "priceRange": "₹4.87 Cr - ₹6.35 Cr",
     "exactPrice": "₹4.87 Cr",
@@ -23687,6 +25469,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/8jc5QT6quqef9ftDCKWF9whFNXYnqsn8HFcXlNK6.webp"
+    ],
+    "heroImageAlt": "Velvet Villas by VTP Luxe by b-vtp in Kharadi, Pune, Pune",
+    "imageAlt": "Velvet Villas by VTP Luxe Architecture in Kharadi, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -23694,7 +25497,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Volare",
     "slug": "vtp-volare-hinjawadi",
     "builderId": "b-vtp",
-    "location": "Hinjewadi Phase 1, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹75.00 L - ₹1.14 Cr",
     "exactPrice": "₹75.00 L",
@@ -23845,6 +25648,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
+    ],
+    "heroImageAlt": "VTP Volare by b-vtp in Hinjewadi Phase 1, Pune, Pune",
+    "imageAlt": "VTP Volare Architecture in Hinjewadi Phase 1, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -23852,7 +25676,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Verve",
     "slug": "vtp-verve-baner-sus",
     "builderId": "b-vtp",
-    "location": "Baner-Sus Road, Pune",
+    "location": "Sus",
     "city": "Pune",
     "priceRange": "₹82.50 L - ₹1.25 Cr",
     "exactPrice": "₹82.50 L",
@@ -24003,6 +25827,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp"
+    ],
+    "heroImageAlt": "VTP Verve by b-vtp in Baner-Sus Road, Pune, Pune",
+    "imageAlt": "VTP Verve Architecture in Baner-Sus Road, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -24010,7 +25855,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Cielo",
     "slug": "vtp-cielo-bavdhan",
     "builderId": "b-vtp",
-    "location": "Bavdhan, Pune",
+    "location": "Bavdhan",
     "city": "Pune",
     "priceRange": "₹84.50 L - ₹2.24 Cr",
     "exactPrice": "₹84.50 L",
@@ -24183,6 +26028,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp"
+    ],
+    "heroImageAlt": "VTP Cielo by b-vtp in Bavdhan, Pune, Pune",
+    "imageAlt": "VTP Cielo Architecture in Bavdhan, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -24190,7 +26056,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Euphoria",
     "slug": "vtp-euphoria-kharadi",
     "builderId": "b-vtp",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "city": "Pune",
     "priceRange": "₹43.00 L - ₹1.10 Cr",
     "exactPrice": "₹43.00 L",
@@ -24363,6 +26229,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/wwDg59UNik44EYQehyqKPr8KZ3pmLXeQ3ZDmJVj2.webp"
+    ],
+    "heroImageAlt": "VTP Euphoria by b-vtp in Kharadi, Pune, Pune",
+    "imageAlt": "VTP Euphoria Architecture in Kharadi, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -24370,7 +26257,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Sierra",
     "slug": "vtp-sierra-baner-sus",
     "builderId": "b-vtp",
-    "location": "Baner-Sus Road, Pune",
+    "location": "Sus",
     "city": "Pune",
     "priceRange": "₹80.00 L - ₹1.22 Cr",
     "exactPrice": "₹80.00 L",
@@ -24521,6 +26408,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp"
+    ],
+    "heroImageAlt": "VTP Sierra by b-vtp in Baner-Sus Road, Pune, Pune",
+    "imageAlt": "VTP Sierra Architecture in Baner-Sus Road, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -24528,7 +26436,7 @@ export const PROJECTS: Project[] = [
     "title": "Flamante by VTP Luxe",
     "slug": "flamante-by-vtp-luxe-kharadi",
     "builderId": "b-vtp",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "city": "Pune",
     "priceRange": "₹92.00 L - ₹2.44 Cr",
     "exactPrice": "₹92.00 L",
@@ -24701,6 +26609,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
+    ],
+    "heroImageAlt": "Flamante by VTP Luxe by b-vtp in Kharadi, Pune, Pune",
+    "imageAlt": "Flamante by VTP Luxe Architecture in Kharadi, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -24708,7 +26637,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Aethereus",
     "slug": "vtp-aethereus-mahalunge",
     "builderId": "b-vtp",
-    "location": "Mahalunge, Pune",
+    "location": "Mahalunge",
     "city": "Pune",
     "priceRange": "₹74.00 L - ₹1.13 Cr",
     "exactPrice": "₹74.00 L",
@@ -24859,6 +26788,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
+    ],
+    "heroImageAlt": "VTP Aethereus by b-vtp in Mahalunge, Pune, Pune",
+    "imageAlt": "VTP Aethereus Architecture in Mahalunge, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -24866,7 +26816,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Altitude",
     "slug": "vtp-altitude-wakad",
     "builderId": "b-vtp",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹50.50 L - ₹1.65 Cr",
     "exactPrice": "₹50.50 L",
@@ -25030,6 +26980,27 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/1a494375-ff0b-422f-9d1b-54ba091f43fc/gallery/ms0abcmp-b24wud.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/1a494375-ff0b-422f-9d1b-54ba091f43fc/gallery/ms0abekg-agix3z.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/1a494375-ff0b-422f-9d1b-54ba091f43fc/gallery/ms0abg6i-4w4rvk.webp"
+    ],
+    "heroImageAlt": "VTP Altitude by b-vtp in Wakad, Pune, Pune",
+    "imageAlt": "VTP Altitude Architecture in Wakad, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -25037,7 +27008,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Bellissimo",
     "slug": "vtp-bellissimo-hinjewadi",
     "builderId": "b-vtp",
-    "location": "Hinjewadi Phase 1, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹76.50 L - ₹1.17 Cr",
     "exactPrice": "₹76.50 L",
@@ -25188,6 +27159,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
+    ],
+    "heroImageAlt": "VTP Bellissimo by b-vtp in Hinjewadi Phase 1, Pune, Pune",
+    "imageAlt": "VTP Bellissimo Architecture in Hinjewadi Phase 1, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -25195,7 +27187,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Hilife",
     "slug": "vtp-hilife-wakad",
     "builderId": "b-vtp",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹81.00 L - ₹1.23 Cr",
     "exactPrice": "₹81.00 L",
@@ -25346,6 +27338,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/Zer51XQI5ojyaQkJzALaQDh3PUsVuRYsoTIvuyGp.webp"
+    ],
+    "heroImageAlt": "VTP Hilife by b-vtp in Wakad, Pune, Pune",
+    "imageAlt": "VTP Hilife Architecture in Wakad, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -25353,7 +27366,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Leonara",
     "slug": "vtp-leonara-mahalunge",
     "builderId": "b-vtp",
-    "location": "Mahalunge, Pune",
+    "location": "Mahalunge",
     "city": "Pune",
     "priceRange": "₹42.00 L - ₹1.06 Cr",
     "exactPrice": "₹42.00 L",
@@ -25526,6 +27539,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/BLW9Y5KiU8cRUE4rWhnOG6INo2o2q0WltwUg0EW9.webp"
+    ],
+    "heroImageAlt": "VTP Leonara by b-vtp in Mahalunge, Pune, Pune",
+    "imageAlt": "VTP Leonara Architecture in Mahalunge, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -25533,7 +27567,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Belair",
     "slug": "vtp-belair-mahalunge",
     "builderId": "b-vtp",
-    "location": "Mahalunge, Pune",
+    "location": "Mahalunge",
     "city": "Pune",
     "priceRange": "₹41.50 L - ₹1.05 Cr",
     "exactPrice": "₹41.50 L",
@@ -25709,6 +27743,27 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
       "https://keystoneliv.com/public/uploads/property/DqZiV2LxEwtgObiiMdb3ecrNCjeh3UtIWNZLlTtx.webp",
       "https://keystoneliv.com/public/uploads/property/CmDFE12nnFIgAUpMaBjxRl9fnigcnkgzhwmPsgEZ.webp"
+    ],
+    "heroImageAlt": "VTP Belair by b-vtp in Mahalunge, Pune, Pune",
+    "imageAlt": "VTP Belair Architecture in Mahalunge, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -25716,7 +27771,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Alpine",
     "slug": "vtp-alpine-mahalunge",
     "builderId": "b-vtp",
-    "location": "Mahalunge, Pune",
+    "location": "Mahalunge",
     "city": "Pune",
     "priceRange": "₹70.50 L - ₹1.07 Cr",
     "exactPrice": "₹70.50 L",
@@ -25867,6 +27922,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+    ],
+    "heroImageAlt": "VTP Alpine by b-vtp in Mahalunge, Pune, Pune",
+    "imageAlt": "VTP Alpine Architecture in Mahalunge, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -25874,7 +27950,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Cygnus",
     "slug": "vtp-cygnus-kharadi",
     "builderId": "b-vtp",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "city": "Pune",
     "priceRange": "₹73.00 L - ₹1.11 Cr",
     "exactPrice": "₹73.00 L",
@@ -26025,6 +28101,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/0XOU0FPWX7DDG0G0jsLZKZMg3GaWP9p33quYv3LM.webp"
+    ],
+    "heroImageAlt": "VTP Cygnus by b-vtp in Kharadi, Pune, Pune",
+    "imageAlt": "VTP Cygnus Architecture in Kharadi, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -26032,7 +28129,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Beaumonde",
     "slug": "vtp-beaumonde-kharadi",
     "builderId": "b-vtp",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "city": "Pune",
     "priceRange": "₹86.50 L - ₹1.32 Cr",
     "exactPrice": "₹86.50 L",
@@ -26183,6 +28280,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://keystoneliv.com/public/uploads/property/wwDg59UNik44EYQehyqKPr8KZ3pmLXeQ3ZDmJVj2.webp"
+    ],
+    "heroImageAlt": "VTP Beaumonde by b-vtp in Kharadi, Pune, Pune",
+    "imageAlt": "VTP Beaumonde Architecture in Kharadi, Pune",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -26190,7 +28308,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Villa Cerro",
     "slug": "lodha-villa-cerro-khopoli-lonavala",
     "builderId": "b-lodha",
-    "location": "Khopoli Foothills, Lonavala",
+    "location": "Khopoli Foothills",
     "city": "Lonavala",
     "priceRange": "₹5.25 Cr - ₹10.50 Cr",
     "exactPrice": "₹5.25 Cr",
@@ -26363,6 +28481,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg"
+    ],
+    "heroImageAlt": "Lodha Villa Cerro by b-lodha in Khopoli Foothills, Lonavala, Lonavala",
+    "imageAlt": "Lodha Villa Cerro Architecture in Khopoli Foothills, Lonavala",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -26370,7 +28509,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Woodside Estate",
     "slug": "godrej-woodside-estate-lonavala",
     "builderId": "b-godrej",
-    "location": "Khalapur, Lonavala Corridor",
+    "location": "Khalapur",
     "city": "Lonavala",
     "priceRange": "₹2.07 Cr - ₹2.76 Cr",
     "exactPrice": "₹2.07 Cr",
@@ -26521,6 +28660,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg"
+    ],
+    "heroImageAlt": "Godrej Woodside Estate by b-godrej in Khalapur, Lonavala Corridor, Lonavala",
+    "imageAlt": "Godrej Woodside Estate Architecture in Khalapur, Lonavala Corridor",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -26528,7 +28688,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Alibaug",
     "slug": "lodha-alibaug-coastal-villas",
     "builderId": "b-lodha",
-    "location": "Awas Beach, Alibaug",
+    "location": "Awas Beach",
     "city": "Alibaug",
     "priceRange": "₹6.89 Cr - ₹12.72 Cr",
     "exactPrice": "₹6.89 Cr",
@@ -26701,6 +28861,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg"
+    ],
+    "heroImageAlt": "Lodha Alibaug by b-lodha in Awas Beach, Alibaug, Alibaug",
+    "imageAlt": "Lodha Alibaug Architecture in Awas Beach, Alibaug",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -26708,7 +28889,7 @@ export const PROJECTS: Project[] = [
     "title": "Abhinandan Lodha Alibaug Reserve",
     "slug": "abhinandan-lodha-alibaug-reserve",
     "builderId": "b-lodha",
-    "location": "Mandwa Jetty Corridor, Alibaug",
+    "location": "Mandwa Jetty Corridor",
     "city": "Alibaug",
     "priceRange": "₹3.69 Cr - ₹6.05 Cr",
     "exactPrice": "₹3.69 Cr",
@@ -26859,6 +29040,27 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Estilo_1903X800_0.jpg"
+    ],
+    "heroImageAlt": "Abhinandan Lodha Alibaug Reserve by b-lodha in Mandwa Jetty Corridor, Alibaug, Alibaug",
+    "imageAlt": "Abhinandan Lodha Alibaug Reserve Architecture in Mandwa Jetty Corridor, Alibaug",
+    "verificationStatus": "Verified",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Kids Play Area",
+      "Jogging Track",
+      "Amphitheater",
+      "Indoor Games",
+      "Multipurpose Hall",
+      "Landscaped Gardens",
+      "24x7 Security",
+      "CCTV Surveillance",
+      "Intercom",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Solar Water Heating",
+      "Yoga Zone"
     ]
   },
   {
@@ -27026,7 +29228,24 @@ export const PROJECTS: Project[] = [
       "/images/projects/kolte-patil-life-republic/qrious-elevation.jpg",
       "/images/projects/kolte-patil-life-republic/qrious-clubhouse.jpg"
     ],
-    "logo": "/images/projects/kolte-patil-life-republic/logo.webp"
+    "logo": "/images/projects/kolte-patil-life-republic/logo.webp",
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
+    ]
   },
   {
     "id": "p-kolte-patil-life-republic-canvas",
@@ -27264,6 +29483,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/17284759001887960407.png"
       }
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -27458,6 +29694,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/16842453291490461123.jpg"
       }
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -27638,6 +29891,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/16880358561556615257.jpg"
       }
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -27781,6 +30051,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/1756736086132321226.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -27946,6 +30233,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/17742511611639045753.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -28111,6 +30415,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/1739969532664397379.png"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -28276,6 +30597,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/17377879311754578076.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -28441,6 +30779,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/15728530931548913611.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -28606,6 +30961,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/157121615478649281.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -28771,6 +31143,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/16915632221413240699.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -28958,6 +31347,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/15712055551076523637.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -29123,6 +31529,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/16582369311871863705.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -29288,6 +31711,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/1606749190359803451.png"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -29475,6 +31915,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/17847862141319131306.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -29665,6 +32122,23 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/c4f8b3c7-f1b2-4f16-8362-75454b9b631b/gallery/mrvtgpnx-9bg2iz.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/c4f8b3c7-f1b2-4f16-8362-75454b9b631b/gallery/mrvtgqq7-drneb7.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/c4f8b3c7-f1b2-4f16-8362-75454b9b631b/gallery/mrvtgrxz-ukb6c.webp"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -29830,6 +32304,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/1737032225375196551.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -30017,6 +32508,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/webp/canvas-new.png"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -30182,6 +32690,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/1737028466535989305.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -30325,6 +32850,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/17370989851070907963.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -30490,6 +33032,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/15713898601510210700.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -30677,6 +33236,23 @@ export const PROJECTS: Project[] = [
     ],
     "images": [
       "https://www.koltepatil.com/assets/uploads/overview/1736854599399690020.jpg"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -30684,7 +33260,7 @@ export const PROJECTS: Project[] = [
     "title": "Kolte Patil Serenova",
     "slug": "kolte-patil-serenova",
     "builderId": "b-kolte-patil",
-    "location": "Versova, Andheri West",
+    "location": "Andheri West",
     "city": "Mumbai",
     "priceRange": "₹2.75 Cr - ₹3.80 Cr",
     "exactPrice": "₹2.75 Cr",
@@ -30853,6 +33429,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/1761227063802632599.png"
       }
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -31070,6 +33663,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/17745428672075565255.jpg"
       }
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -31286,6 +33896,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/1676437419434225824.jpg"
       }
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -31484,6 +34111,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://www.koltepatil.com/assets/uploads/project_floor_plan/17345941231412469239.jpeg"
       }
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Landscaped Zen Gardens",
+      "Jogging & Cycling Track",
+      "Children's Adventure Play Area",
+      "Multipurpose Sports Court",
+      "Yoga & Meditation Deck",
+      "Indoor Games Arcade",
+      "Senior Citizen Gazebo",
+      "Amphitheatre",
+      "EV Charging Stations",
+      "24/7 Multi-Tier Security",
+      "High-Speed Elevators",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -31691,6 +34335,24 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shapoorji Pallonji Wildernest?",
         "answer": "The development features world-class lifestyle amenities including Infinity Edge Pool, Rooftop Pool in Villas, Central Mango Orchard, Open Podium Gym, Clubhouse, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Shapoorji Pallonji Wildernest by b-shapoorji in Shewalewadi, Pune",
+    "imageAlt": "Shapoorji Pallonji Wildernest Architecture in Shewalewadi",
+    "amenities": [
+      "Infinity Edge Pool",
+      "Rooftop Pool in Villas",
+      "Central Mango Orchard",
+      "Open Podium Gym",
+      "Clubhouse",
+      "Fireside Charcha Lounge",
+      "Cricket Pitch & Rink",
+      "Putting Golf",
+      "Jogging & Cycling Track",
+      "Amphitheatre",
+      "Mini Theatre",
+      "Co-Working Lounges",
+      "Kids Play Adventure Zone",
+      "Senior Citizen Plaza"
     ]
   },
   {
@@ -31838,6 +34500,20 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shapoorji Pallonji Vyomora?",
         "answer": "The development features world-class lifestyle amenities including Biophilic Architecture, Grand 3-Level Clubhouse, Digital Learning Dome, Miyawaki Forest Zone, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Shapoorji Pallonji Vyomora by b-shapoorji in Hinjewadi, Pune",
+    "imageAlt": "Shapoorji Pallonji Vyomora Architecture in Hinjewadi",
+    "amenities": [
+      "Biophilic Architecture",
+      "Grand 3-Level Clubhouse",
+      "Digital Learning Dome",
+      "Miyawaki Forest Zone",
+      "Swimming Pool",
+      "Gymnasium",
+      "Multipurpose Sports Courts",
+      "Jogging Trail",
+      "Kids Play Hub",
+      "EV Charging Infrastructure"
     ]
   },
   {
@@ -32001,6 +34677,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shapoorji Pallonji Vanaha Golfland?",
         "answer": "The development features world-class lifestyle amenities including 18-Hole Championship Golf Course Views, Vanaha Grand Clubhouse, Putting Greens, Temperature-Controlled Pool, Tennis & Squash Courts, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Shapoorji Pallonji Vanaha Golfland by b-shapoorji in Bavdhan, Pune",
+    "imageAlt": "Shapoorji Pallonji Vanaha Golfland Architecture in Bavdhan",
+    "amenities": [
+      "18-Hole Championship Golf Course Views",
+      "Vanaha Grand Clubhouse",
+      "Putting Greens",
+      "Temperature-Controlled Pool",
+      "Tennis & Squash Courts",
+      "Forest Trails & Zen Gardens",
+      "Banquet Hall",
+      "High-Speed Elevators"
     ]
   },
   {
@@ -32163,6 +34851,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shapoorji Pallonji Vanaha Springs?",
         "answer": "The development features world-class lifestyle amenities including Forest View Balconies, Clubhouse & Gym, Swimming Pool, Landscaped Gardens, Yoga Lawn, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Shapoorji Pallonji Vanaha Springs by b-shapoorji in Bavdhan, Pune",
+    "imageAlt": "Shapoorji Pallonji Vanaha Springs Architecture in Bavdhan",
+    "amenities": [
+      "Forest View Balconies",
+      "Clubhouse & Gym",
+      "Swimming Pool",
+      "Landscaped Gardens",
+      "Yoga Lawn",
+      "Jogging Track",
+      "24/7 Security"
     ]
   },
   {
@@ -32303,6 +35002,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shapoorji Pallonji BKC 28?",
         "answer": "The development features world-class lifestyle amenities including Rooftop Sky Lounge, Double-Height Designer Lobby, High-Tech Fitness Center, Automated Multi-Level Parking, Landscaped Terrace Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Shapoorji Pallonji BKC 28 by b-shapoorji in Bandra East, Mumbai",
+    "imageAlt": "Shapoorji Pallonji BKC 28 Architecture in Bandra East",
+    "amenities": [
+      "Rooftop Sky Lounge",
+      "Double-Height Designer Lobby",
+      "High-Tech Fitness Center",
+      "Automated Multi-Level Parking",
+      "Landscaped Terrace Garden",
+      "CCTV Surveillance & Video Door Phone",
+      "High-Speed Elevators"
     ]
   },
   {
@@ -32464,6 +35174,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Odyssey by Shapoorji Pallonji?",
         "answer": "The development features world-class lifestyle amenities including Unobstructed Arabian Sea & Queen's Necklace Views, Sea-Facing Infinity Pool, Private Elevator Foyer, Luxury Wellness Spa & Sauna, Valet Parking & High-Security Access, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "The Odyssey by Shapoorji Pallonji by b-shapoorji in Marine Drive, Mumbai",
+    "imageAlt": "The Odyssey by Shapoorji Pallonji Architecture in Marine Drive",
+    "amenities": [
+      "Unobstructed Arabian Sea & Queen's Necklace Views",
+      "Sea-Facing Infinity Pool",
+      "Private Elevator Foyer",
+      "Luxury Wellness Spa & Sauna",
+      "Valet Parking & High-Security Access",
+      "Concierge & Butler Services",
+      "Private Screening Room"
     ]
   },
   {
@@ -32625,6 +35346,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shapoorji Pallonji Vicinia?",
         "answer": "The development features world-class lifestyle amenities including 30,000 Sq.Ft Grand Clubhouse, Infinity Swimming Pool & Kids Pool, Squash & Indoor Badminton Courts, Gymnasium & Aerobics Studio, Landscaped Central Greens, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Shapoorji Pallonji Vicinia by b-shapoorji in Powai, Mumbai",
+    "imageAlt": "Shapoorji Pallonji Vicinia Architecture in Powai",
+    "amenities": [
+      "30,000 Sq.Ft Grand Clubhouse",
+      "Infinity Swimming Pool & Kids Pool",
+      "Squash & Indoor Badminton Courts",
+      "Gymnasium & Aerobics Studio",
+      "Landscaped Central Greens",
+      "Convenience Retail Plaza"
     ]
   },
   {
@@ -32788,6 +35519,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Northern Lights by Shapoorji Pallonji?",
         "answer": "The development features world-class lifestyle amenities including 60+ Curated Lifestyle Amenities, Rooftop Sky Lounge (Skyraa Tower), Heated Swimming Pool, Music & Performing Arts Studio, Multi-Level Fitness Center, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Northern Lights by Shapoorji Pallonji by b-shapoorji in Thane West, Thane",
+    "imageAlt": "Northern Lights by Shapoorji Pallonji Architecture in Thane West",
+    "amenities": [
+      "60+ Curated Lifestyle Amenities",
+      "Rooftop Sky Lounge (Skyraa Tower)",
+      "Heated Swimming Pool",
+      "Music & Performing Arts Studio",
+      "Multi-Level Fitness Center",
+      "Cricket Pitch & Badminton Courts",
+      "Vehicle-Free Podium Garden"
     ]
   },
   {
@@ -32950,6 +35692,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Minerva Mahalaxmi?",
         "answer": "The development features world-class lifestyle amenities including Unobstructed Mahalaxmi Racecourse & Sea Views, Triple-Height Air-Conditioned Grand Lobby, High-Altitude Observation Decks, Temperature-Controlled Swimming Pool, Squash & Multi-Purpose Sports Courts, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "The Minerva Mahalaxmi by b-shapoorji in Mahalaxmi, Mumbai",
+    "imageAlt": "The Minerva Mahalaxmi Architecture in Mahalaxmi",
+    "amenities": [
+      "Unobstructed Mahalaxmi Racecourse & Sea Views",
+      "Triple-Height Air-Conditioned Grand Lobby",
+      "High-Altitude Observation Decks",
+      "Temperature-Controlled Swimming Pool",
+      "Squash & Multi-Purpose Sports Courts",
+      "Automated Multi-Level Parking",
+      "Private Butler & Concierge Services"
     ]
   },
   {
@@ -33090,6 +35843,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Joyville Virar?",
         "answer": "The development features world-class lifestyle amenities including Grand Gated Township, Modern Clubhouse & Gym, Swimming Pool, Kids Play Park, Senior Citizen Seating, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Joyville Virar by b-joyville in Virar West, Mumbai",
+    "imageAlt": "Joyville Virar Architecture in Virar West",
+    "amenities": [
+      "Grand Gated Township",
+      "Modern Clubhouse & Gym",
+      "Swimming Pool",
+      "Kids Play Park",
+      "Senior Citizen Seating",
+      "Jogging Tracks",
+      "24x7 Multi-Tier Security"
     ]
   },
   {
@@ -33228,6 +35992,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Canvas Residences by Shapoorji Pallonji?",
         "answer": "The development features world-class lifestyle amenities including Arabian Sea Harbour & Flamingo Bay Views, Infinity Swimming Pool, Designer Clubhouse, Hi-Tech Fitness Center, Sky Deck Observatory, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "The Canvas Residences by Shapoorji Pallonji by b-shapoorji in Sewri, Mumbai",
+    "imageAlt": "The Canvas Residences by Shapoorji Pallonji Architecture in Sewri",
+    "amenities": [
+      "Arabian Sea Harbour & Flamingo Bay Views",
+      "Infinity Swimming Pool",
+      "Designer Clubhouse",
+      "Hi-Tech Fitness Center",
+      "Sky Deck Observatory",
+      "Immediate Access to Atal Setu MTHL"
     ]
   },
   {
@@ -33344,6 +36118,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Designate by Shapoorji Pallonji?",
         "answer": "The development features world-class lifestyle amenities including Only 2 Apartments per Floor (Maximum Privacy), Rooftop Sky Terrace & Lounge, Double-Height Grand Entrance Foyer, Private Elevator Access, Hi-Tech Security & Concierge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "The Designate by Shapoorji Pallonji by b-shapoorji in Santacruz West, Mumbai",
+    "imageAlt": "The Designate by Shapoorji Pallonji Architecture in Santacruz West",
+    "amenities": [
+      "Only 2 Apartments per Floor (Maximum Privacy)",
+      "Rooftop Sky Terrace & Lounge",
+      "Double-Height Grand Entrance Foyer",
+      "Private Elevator Access",
+      "Hi-Tech Security & Concierge",
+      "Multi-Tier Automated Parking"
     ]
   },
   {
@@ -33466,6 +36250,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Kaleido?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Kaleido by b-kohinoor in Wagholi, Pune",
+    "imageAlt": "Kohinoor Kaleido Architecture in Wagholi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -33588,6 +36384,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Topaz Towers?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Topaz Towers by b-reputed in Charholi Budruk, Pune",
+    "imageAlt": "Topaz Towers Architecture in Charholi Budruk",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -33704,6 +36512,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kartavya Srushti?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kartavya Srushti by b-reputed in Dhayari, Pune",
+    "imageAlt": "Kartavya Srushti Architecture in Dhayari",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -33826,6 +36646,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Aksha Ambar?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Aksha Ambar by b-reputed in Dudulgaon, Pune",
+    "imageAlt": "Aksha Ambar Architecture in Dudulgaon",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -33948,6 +36780,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nirman Anamika?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Nirman Anamika by b-nirman in Sadashiv Peth, Pune",
+    "imageAlt": "Nirman Anamika Architecture in Sadashiv Peth",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -34064,6 +36908,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Aashirwad Homes?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Aashirwad Homes by b-reputed in Ravet, Pune",
+    "imageAlt": "Aashirwad Homes Architecture in Ravet",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -34186,6 +37042,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 33 Central Avenue?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "33 Central Avenue by b-reputed in Tathawade, Pune",
+    "imageAlt": "33 Central Avenue Architecture in Tathawade",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -34309,6 +37177,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sankalp Torezza?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Sankalp Torezza by b-reputed in Ravet, Pune",
+    "imageAlt": "Sankalp Torezza Architecture in Ravet",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -34431,6 +37311,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Dream Velmore?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Dream Velmore by b-reputed in Balewadi, Pune",
+    "imageAlt": "Dream Velmore Architecture in Balewadi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -34553,6 +37445,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at One Pearl?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "One Pearl by b-reputed in Punawale, Pune",
+    "imageAlt": "One Pearl Architecture in Punawale",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -34669,6 +37573,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 5 Racecourse?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "5 Racecourse by b-reputed in Wanowrie, Pune",
+    "imageAlt": "5 Racecourse Architecture in Wanowrie",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -34791,6 +37707,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nyati Elan West?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Nyati Elan West by b-nyati in Wagholi, Pune",
+    "imageAlt": "Nyati Elan West Architecture in Wagholi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -34919,6 +37847,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nyati Ekaant?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Nyati Ekaant by b-nyati in Dhayari, Pune",
+    "imageAlt": "Nyati Ekaant Architecture in Dhayari",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -35041,6 +37981,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nirman Adi?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Nirman Adi by b-nirman in Yerwada, Pune",
+    "imageAlt": "Nirman Adi Architecture in Yerwada",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -35157,6 +38109,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nyati Emblem?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Nyati Emblem by b-nyati in Parvati, Pune",
+    "imageAlt": "Nyati Emblem Architecture in Parvati",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -35279,6 +38243,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Saarrthi Skybizz?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Saarrthi Skybizz by b-reputed in Mahalunge, Pune",
+    "imageAlt": "Saarrthi Skybizz Architecture in Mahalunge",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -35401,6 +38377,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Aksha Amulyam?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Aksha Amulyam by b-reputed in Moshi, Pune",
+    "imageAlt": "Aksha Amulyam Architecture in Moshi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -35517,6 +38505,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Polaris Bavdhan?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Polaris Bavdhan by b-reputed in Bavdhan, Pune",
+    "imageAlt": "Polaris Bavdhan Architecture in Bavdhan",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -35633,6 +38633,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Elina Lite?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Elina Lite by b-reputed in Mohammed Wadi, Pune",
+    "imageAlt": "Elina Lite Architecture in Mohammed Wadi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -35755,6 +38767,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Suryam 89?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Suryam 89 by b-reputed in Wagholi, Pune",
+    "imageAlt": "Suryam 89 Architecture in Wagholi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -35871,6 +38895,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Presidia Kondhwa?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Presidia Kondhwa by b-kundan in Kondhwa, Pune",
+    "imageAlt": "Presidia Kondhwa Architecture in Kondhwa",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -35987,6 +39023,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 9 Jagdish?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "9 Jagdish by b-reputed in Erandwane, Pune",
+    "imageAlt": "9 Jagdish Architecture in Erandwane",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -36109,6 +39157,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shantiban II?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Shantiban II by b-reputed in Kondhwa, Pune",
+    "imageAlt": "Shantiban II Architecture in Kondhwa",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -36239,6 +39299,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Arvaana Balewadi?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Arvaana Balewadi by b-kundan in Balewadi, Pune",
+    "imageAlt": "Arvaana Balewadi Architecture in Balewadi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -36367,6 +39439,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sentosa Era?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Sentosa Era by b-reputed in Moshi, Pune",
+    "imageAlt": "Sentosa Era Architecture in Moshi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -36483,6 +39567,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Surekha Kothrud?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Surekha Kothrud by b-reputed in Kothrud, Pune",
+    "imageAlt": "Surekha Kothrud Architecture in Kothrud",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -36605,6 +39701,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kundan Eternia?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kundan Eternia by b-kundan in Ghorpadi, Pune",
+    "imageAlt": "Kundan Eternia Architecture in Ghorpadi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -36721,6 +39829,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Suvarnaban Shivaji Nagar?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Suvarnaban Shivaji Nagar by b-reputed in Shivaji Nagar, Pune",
+    "imageAlt": "Suvarnaban Shivaji Nagar Architecture in Shivaji Nagar",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -36843,6 +39963,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at RBD Elina Legend?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "RBD Elina Legend by b-reputed in Mohammed Wadi, Pune",
+    "imageAlt": "RBD Elina Legend Architecture in Mohammed Wadi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -36966,6 +40098,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Platinum Citylight?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Platinum Citylight by b-reputed in Moshi, Pune",
+    "imageAlt": "Platinum Citylight Architecture in Moshi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -37082,6 +40226,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Amar Oasis?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Amar Oasis by b-amar in Pashan, Pune",
+    "imageAlt": "Amar Oasis Architecture in Pashan",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -37204,6 +40360,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gagan Klara?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Gagan Klara by b-reputed in Balewadi, Pune",
+    "imageAlt": "Gagan Klara Architecture in Balewadi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -37320,6 +40488,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Wellwisher Abode?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Wellwisher Abode by b-reputed in Kondhwa, Pune",
+    "imageAlt": "Wellwisher Abode Architecture in Kondhwa",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -37436,6 +40616,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Babar Classic Vista?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Babar Classic Vista by b-reputed in Kondhwa, Pune",
+    "imageAlt": "Babar Classic Vista Architecture in Kondhwa",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -37558,6 +40750,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shree Shivtirth?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Shree Shivtirth by b-reputed in Erandwane, Pune",
+    "imageAlt": "Shree Shivtirth Architecture in Erandwane",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -37680,6 +40884,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gandharv Leela?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Gandharv Leela by b-reputed in Hadapsar, Pune",
+    "imageAlt": "Gandharv Leela Architecture in Hadapsar",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -37808,6 +41024,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Prajakta Karve Nagar?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Prajakta Karve Nagar by b-reputed in Karve Nagar, Pune",
+    "imageAlt": "Prajakta Karve Nagar Architecture in Karve Nagar",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -37930,6 +41158,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pandit Mayflower?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Pandit Mayflower by b-pandit-javadekar in Shivaji Nagar, Pune",
+    "imageAlt": "Pandit Mayflower Architecture in Shivaji Nagar",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -38052,6 +41292,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Placidia Akurdi?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Placidia Akurdi by b-reputed in Akurdi, Pune",
+    "imageAlt": "Placidia Akurdi Architecture in Akurdi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -38174,6 +41426,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shree Sonigara Ekam?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Shree Sonigara Ekam by b-reputed in Ravet, Pune",
+    "imageAlt": "Shree Sonigara Ekam Architecture in Ravet",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -38302,6 +41566,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 6 Boulevard?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "6 Boulevard by b-namrata in Tathawade, Pune",
+    "imageAlt": "6 Boulevard Architecture in Tathawade",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -38424,6 +41700,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kimaya One?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kimaya One by b-reputed in Balewadi, Pune",
+    "imageAlt": "Kimaya One Architecture in Balewadi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -38540,6 +41828,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Krisala Aventis?",
         "answer": "The development features world-class lifestyle amenities including Near Indira College & JSPM Tathawade, Direct Mumbai-Pune Expressway Access, Multi-Tier Clubhouse & Sports Court, Vastu Compliant 2 & 3 BHK Homes, Zero Buyer Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Krisala Aventis by b-krisala in Tathawade, Pune",
+    "imageAlt": "Krisala Aventis Architecture in Tathawade",
+    "amenities": [
+      "Near Indira College & JSPM Tathawade",
+      "Direct Mumbai-Pune Expressway Access",
+      "Multi-Tier Clubhouse & Sports Court",
+      "Vastu Compliant 2 & 3 BHK Homes",
+      "Zero Buyer Brokerage"
     ]
   },
   {
@@ -38662,6 +41959,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Orchids Bavdhan?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "The Orchids Bavdhan by b-reputed in Bavdhan, Pune",
+    "imageAlt": "The Orchids Bavdhan Architecture in Bavdhan",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -38778,6 +42087,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 54 Flores Drive?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "54 Flores Drive by b-reputed in Hadapsar, Pune",
+    "imageAlt": "54 Flores Drive Architecture in Hadapsar",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -38900,6 +42221,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Leela Heights?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Leela Heights by b-reputed in Wakad, Pune",
+    "imageAlt": "Leela Heights Architecture in Wakad",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -39022,6 +42355,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Madhunirmal Kothrud?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Madhunirmal Kothrud by b-reputed in Kothrud, Pune",
+    "imageAlt": "Madhunirmal Kothrud Architecture in Kothrud",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -39140,6 +42485,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Legacy Highpoint?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Legacy Highpoint by b-reputed in Punawale, Pune",
+    "imageAlt": "Legacy Highpoint Architecture in Punawale",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -39262,6 +42619,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nirman Shreyas?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Nirman Shreyas by b-nirman in Shivaji Nagar, Pune",
+    "imageAlt": "Nirman Shreyas Architecture in Shivaji Nagar",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -39384,6 +42753,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mahalaxmi Elegance?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Mahalaxmi Elegance by b-reputed in Undri, Pune",
+    "imageAlt": "Mahalaxmi Elegance Architecture in Undri",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -39506,6 +42887,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Visoka Keystone?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Visoka Keystone by b-reputed in Tathawade, Pune",
+    "imageAlt": "Visoka Keystone Architecture in Tathawade",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -39628,6 +43021,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sahyadri Plumeria?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Sahyadri Plumeria by b-reputed in Moshi, Pune",
+    "imageAlt": "Sahyadri Plumeria Architecture in Moshi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -39750,6 +43155,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Laxmi Green?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Laxmi Green by b-reputed in Ambegaon Budruk, Pune",
+    "imageAlt": "Laxmi Green Architecture in Ambegaon Budruk",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -39872,6 +43289,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Parshwa Greens?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Parshwa Greens by b-reputed in Moshi, Pune",
+    "imageAlt": "Parshwa Greens Architecture in Moshi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -39994,6 +43423,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Celestial City?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Celestial City by b-rama in Ravet, Pune",
+    "imageAlt": "Celestial City Architecture in Ravet",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -40128,6 +43569,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nova Residency?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Nova Residency by b-magarpatta in Mundhwa, Pune",
+    "imageAlt": "Nova Residency Architecture in Mundhwa",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -40250,6 +43703,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Ganga Nakshatra?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Ganga Nakshatra by b-goel-ganga in Bibwewadi, Pune",
+    "imageAlt": "Ganga Nakshatra Architecture in Bibwewadi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -40378,6 +43843,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pristine Allure?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Pristine Allure by b-reputed in Kharadi, Pune",
+    "imageAlt": "Pristine Allure Architecture in Kharadi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -40512,6 +43989,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Purva Silversands?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Purva Silversands by b-puravankara in Mundhwa, Pune",
+    "imageAlt": "Purva Silversands Architecture in Mundhwa",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -40634,6 +44123,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Ganga Vasant?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Ganga Vasant by b-goel-ganga in Hadapsar, Pune",
+    "imageAlt": "Ganga Vasant Architecture in Hadapsar",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -40756,6 +44257,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Infini Jagtap City?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Infini Jagtap City by b-reputed in Charholi Budruk, Pune",
+    "imageAlt": "Infini Jagtap City Architecture in Charholi Budruk",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -40885,6 +44398,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shubh Veda?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Shubh Veda by b-reputed in Akurdi, Pune",
+    "imageAlt": "Shubh Veda Architecture in Akurdi",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -41002,6 +44527,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Trio Sync?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Trio Sync by b-reputed in Tathawade, Pune",
+    "imageAlt": "Trio Sync Architecture in Tathawade",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -41124,6 +44661,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Neopolis?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Neopolis by b-kolte-patil in Tathawade, Pune",
+    "imageAlt": "Neopolis Architecture in Tathawade",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -41246,6 +44795,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Highness Wakad?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Highness Wakad by b-reputed in Wakad, Pune",
+    "imageAlt": "Highness Wakad Architecture in Wakad",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -41362,6 +44923,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shubham Karoti?",
         "answer": "The development features world-class lifestyle amenities including Designer Clubhouse, Infinity Swimming Pool, Fully Equipped Gymnasium, Children's Play Enclave, Landscaped Green Parks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Shubham Karoti by b-reputed in Bavdhan, Pune",
+    "imageAlt": "Shubham Karoti Architecture in Bavdhan",
+    "amenities": [
+      "Designer Clubhouse",
+      "Infinity Swimming Pool",
+      "Fully Equipped Gymnasium",
+      "Children's Play Enclave",
+      "Landscaped Green Parks",
+      "24/7 Multi-Tier Security",
+      "Multipurpose Sports Court",
+      "EV Charging Stations"
     ]
   },
   {
@@ -41486,6 +45059,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mahindra Rivenza?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Library, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/85f1c6ec-62f7-4537-bf61-e5aa7d43887a/gallery/mvf38h2x-2l6xoo.webp",
+    "heroImageAlt": "Mahindra Rivenza by b-mahindra in Nande, Pune",
+    "imageAlt": "Mahindra Rivenza Architecture in Nande",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -41600,6 +45186,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Tulip Infinity Solaria?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7e9be983-97fd-4deb-aced-9ee2824da745/gallery/mruxcc66-6m0qje.webp",
+    "heroImageAlt": "Tulip Infinity Solaria by b-tulip-realty in Punawale, Pune",
+    "imageAlt": "Tulip Infinity Solaria Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -41718,6 +45317,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Supreme Villagio?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9bf131e2-193e-4b27-b4cf-f1b812dec769/gallery/mvtqm8n6-ek1abx.webp",
+    "heroImageAlt": "Supreme Villagio by b-supreme-universal in Somatane, Pune",
+    "imageAlt": "Supreme Villagio Architecture in Somatane",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "24x7 Security"
     ]
   },
   {
@@ -41827,6 +45439,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 24 Kalpavriksha?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1a3387cb-9d2b-44cb-9935-98aa9db7d093/gallery/mttxavd9-66pajv.webp",
+    "heroImageAlt": "24 Kalpavriksha by b-sathe-gandhi-builders in Aundh, Pune",
+    "imageAlt": "24 Kalpavriksha Architecture in Aundh",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -41943,6 +45568,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Arista?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Library, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6dc0c88-7cbe-43d4-9bc3-4158339ebef6/gallery/mvghnbi8-2g2sm4.webp",
+    "heroImageAlt": "The Arista by b-the-skies-group in Pimple Nilakh, Pune",
+    "imageAlt": "The Arista Architecture in Pimple Nilakh",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -42059,6 +45697,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Avani Amara?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f64dd8a4-68e0-46c6-aebf-1d8e29be3e5e/gallery/mvtitxir-2deba1.webp",
+    "heroImageAlt": "Avani Amara by b-avani-housing in Mundhwa, Pune",
+    "imageAlt": "Avani Amara Architecture in Mundhwa",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -42195,6 +45846,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Godrej Skyline?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Library, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/283be8d7-6cdf-4f53-bbba-1663780189d7/gallery/mvtc7kar-64xaj6.webp",
+    "heroImageAlt": "Godrej Skyline by b-godrej in Mundhwa, Pune",
+    "imageAlt": "Godrej Skyline Architecture in Mundhwa",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Landscaped Garden"
     ]
   },
   {
@@ -42320,6 +45984,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Raheja Vistas?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f6a3ff23-1594-4885-803c-779ac7881160/gallery/mvu15tc7-243ai.webp",
+    "heroImageAlt": "Raheja Vistas by b-k-raheja-corp in Mahalunge, Pune",
+    "imageAlt": "Raheja Vistas Architecture in Mahalunge",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -42436,6 +46113,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Privia Naimish?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/52142406-0fa2-45cb-9d60-c8bb6404417c/gallery/mumd4yga-7wpi5s.webp",
+    "heroImageAlt": "Privia Naimish by b-privia-group in Chikhali, Pune",
+    "imageAlt": "Privia Naimish Architecture in Chikhali",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -42578,6 +46268,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Supreme Towers?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4f10ec29-db39-45c9-839e-d1cfeaf743dc/gallery/mvtn2a5z-4zeh0n.webp",
+    "heroImageAlt": "Supreme Towers by b-supreme-universal in Mundhwa, Pune",
+    "imageAlt": "Supreme Towers Architecture in Mundhwa",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -42701,6 +46404,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Atlantis?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Swimming Pool, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7e61c95f-602f-4601-b133-9770abb853e7/gallery/mvtpn3uf-bwnu6a.webp",
+    "heroImageAlt": "Atlantis by b-kesar-group in Bhosari, Pune",
+    "imageAlt": "Atlantis Architecture in Bhosari",
+    "amenities": [
+      "Gymnasium",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -42810,6 +46526,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Vision Ekaan?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8c495758-2bab-434b-bfe8-b7dc50ffdca6/gallery/mumj9ack-3vho0m.webp",
+    "heroImageAlt": "Vision Ekaan by b-vision-group in Bhosari, Pune",
+    "imageAlt": "Vision Ekaan Architecture in Bhosari",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -42924,6 +46653,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shreenidhi?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3c41b097-0b1d-403a-aa12-8e604481316d/gallery/mtvftbrc-cmg6cv.webp",
+    "heroImageAlt": "Shreenidhi by b-shreenidhi-developers in Baner, Pune",
+    "imageAlt": "Shreenidhi Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -43040,6 +46782,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Santiago Skyworld 2.0?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Library, Co-working Lounge, Swimming Pool, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2be1e665-b28e-4bf5-a42f-348a3a0fa8ff/gallery/mvu2wo4q-g2u1r4.webp",
+    "heroImageAlt": "Santiago Skyworld 2.0 by b-santiago-on-sector-7-road in Bhosari, Pune",
+    "imageAlt": "Santiago Skyworld 2.0 Architecture in Bhosari",
+    "amenities": [
+      "Gymnasium",
+      "Library",
+      "Co-working Lounge",
+      "Swimming Pool",
+      "Covered Parking"
     ]
   },
   {
@@ -43153,6 +46905,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kosha?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Co-working Lounge, Swimming Pool, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1fb3b136-50b8-4324-8729-93f941e2b964/gallery/mvu3597y-eky877.webp",
+    "heroImageAlt": "Kosha by b-konbil-group in Koregaon Park, Pune",
+    "imageAlt": "Kosha Architecture in Koregaon Park",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Co-working Lounge",
+      "Swimming Pool",
+      "Power Backup",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Concierge"
     ]
   },
   {
@@ -43267,6 +47032,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani Krisala Township?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f6112baa-0481-401b-8910-ec78b165019e/gallery/mruxuv87-8c5g2i.webp",
+    "heroImageAlt": "Hiranandani Krisala Township by b-hiranandani in Darumbre, Pune",
+    "imageAlt": "Hiranandani Krisala Township Architecture in Darumbre",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -43375,6 +47153,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gaikwad Unico?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e90f1de0-1d98-411c-b4ef-e535dce471e7/gallery/mv54jco0-7zkd55.webp",
+    "heroImageAlt": "Gaikwad Unico by b-gaikwad-corp in Ravet, Pune",
+    "imageAlt": "Gaikwad Unico Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -43506,6 +47297,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Reserve?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bf83785b-7b34-4206-a1c4-1a538a8ce57a/gallery/mvu1aoaa-1tal46.webp",
+    "heroImageAlt": "The Reserve by b-the-skies-group in Mundhwa, Pune",
+    "imageAlt": "The Reserve Architecture in Mundhwa",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -43628,6 +47432,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Zenone?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/30617edf-80e6-434b-adbb-2f306acea067/gallery/mtgwb4eh-bqushf.webp",
+    "heroImageAlt": "Zenone by b-zenone-developers in Wakad, Pune",
+    "imageAlt": "Zenone Architecture in Wakad",
+    "amenities": [
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -43760,6 +47577,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Venkatesh Vanaya?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Library, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6dcdd53e-530b-446c-a6c8-123ef894a217/gallery/mvu457zd-a1y6oz.webp",
+    "heroImageAlt": "Venkatesh Vanaya by b-venkatesh-buildcon-on-old-mundhwa-road in Kharadi, Pune",
+    "imageAlt": "Venkatesh Vanaya Architecture in Kharadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -43889,6 +47719,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Petals?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Landscaped Garden, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b93ed04d-dde2-433f-bb89-694ae6959151/gallery/mvu4n4xe-3dqfkr.webp",
+    "heroImageAlt": "Petals by b-pashankar-developers in Tathawade, Pune",
+    "imageAlt": "Petals Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -44022,6 +47863,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Dream Delmont?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Rainwater Harvesting, Sports Court, Co-working Lounge, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/efc5ccba-be62-4ab9-b3c3-5dd304d1bbc9/gallery/mvupv33n-92xe2v.webp",
+    "heroImageAlt": "Dream Delmont by b-dream-works-realtors in Bavdhan, Pune",
+    "imageAlt": "Dream Delmont Architecture in Bavdhan",
+    "amenities": [
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Co-working Lounge",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -44123,6 +47977,12 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sai Kripa Commercial?",
         "answer": "The development features world-class lifestyle amenities including EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/31cd26d0-3555-4bdf-8c1e-7a840afda71b/gallery/mvuiy6vl-a7nd8u.webp",
+    "heroImageAlt": "Sai Kripa Commercial by b-sai-nisarg-landmark in Ravet, Pune",
+    "imageAlt": "Sai Kripa Commercial Architecture in Ravet",
+    "amenities": [
+      "EV Charging"
     ]
   },
   {
@@ -44238,6 +48098,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Purva Aspire?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b635d410-6c97-449e-9f8d-75ef5b27ddfe/gallery/mtsjumbe-34870y.webp",
+    "heroImageAlt": "Purva Aspire by b-puravankara in Bavdhan, Pune",
+    "imageAlt": "Purva Aspire Architecture in Bavdhan",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -44245,7 +48118,7 @@ export const PROJECTS: Project[] = [
     "title": "Pride World City Boston",
     "slug": "pride-world-city-boston",
     "builderId": "b-pride-purple",
-    "location": "Charoli",
+    "location": "Charholi",
     "city": "Pune",
     "priceRange": "₹72.99 L - ₹77.99 L",
     "exactPrice": "₹72.99 L",
@@ -44344,6 +48217,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pride World City Boston?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Jogging Track, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0345fcc0-f941-42e3-b0ca-79fe7ceba616/gallery/mvv3stv8-aigzir.webp",
+    "heroImageAlt": "Pride World City Boston by b-pride-purple in Charoli, Pune",
+    "imageAlt": "Pride World City Boston Architecture in Charoli",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -44466,6 +48351,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Celestia Heights?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Co-working Lounge, Jogging Track, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1c2a076f-5560-471a-b74d-4b10d2c36256/gallery/mvu4lfz8-ec7cds.webp",
+    "heroImageAlt": "Celestia Heights by b-prapti-buildcon in Punawale, Pune",
+    "imageAlt": "Celestia Heights Architecture in Punawale",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -44582,6 +48478,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Skyway Elite?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bb0d8689-c959-429c-9ab4-183d2095c8a6/gallery/mv0nnnmq-37o9ge.webp",
+    "heroImageAlt": "Skyway Elite by b-skyway-builder-and-developers in Akurdi, Pune",
+    "imageAlt": "Skyway Elite Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -44700,6 +48609,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VTP Codename Never Before East?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Swimming Pool, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3080c1b4-ff23-4ee0-8a58-455bad35d65d/gallery/mvhz2nod-wvqip.webp",
+    "heroImageAlt": "VTP Codename Never Before East by b-vtp-group in Manjari Khurd, Pune",
+    "imageAlt": "VTP Codename Never Before East Architecture in Manjari Khurd",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Swimming Pool",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -44819,6 +48741,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 18 Aangan?",
         "answer": "The development features world-class lifestyle amenities including Swimming Pool, Power Backup, 24x7 Security, Landscaped Garden, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6bc773eb-7656-403b-99d7-978a3cfe26e6/gallery/mvu2ee0x-d824tw.webp",
+    "heroImageAlt": "18 Aangan by b-four-pillars in Maan, Pune",
+    "imageAlt": "18 Aangan Architecture in Maan",
+    "amenities": [
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "EV Charging"
     ]
   },
   {
@@ -44925,6 +48859,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Aarambh?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Aarambh by b-adi-realtors in Balewadi, Pune",
+    "imageAlt": "Aarambh Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -45039,6 +48985,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Skyone?",
         "answer": "The development features world-class lifestyle amenities including Jogging Track, Power Backup, Landscaped Garden, Covered Parking, Kids' Play Area, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bdc6357f-5214-4ad0-83d5-d0ed962f20b4/gallery/mvuq5ckd-f5ryas.webp",
+    "heroImageAlt": "Skyone by b-nawani-developers in Walhekarwadi, Pune",
+    "imageAlt": "Skyone Architecture in Walhekarwadi",
+    "amenities": [
+      "Jogging Track",
+      "Power Backup",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -45046,7 +49003,7 @@ export const PROJECTS: Project[] = [
     "title": "Pride World City Valencia",
     "slug": "pride-world-city-valencia",
     "builderId": "b-pride-purple",
-    "location": "Charoli",
+    "location": "Charholi",
     "city": "Pune",
     "priceRange": "₹92.49 L - ₹1.23 Cr",
     "exactPrice": "₹92.49 L",
@@ -45151,6 +49108,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pride World City Valencia?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/05a6436f-a09f-4e07-b08c-56a0a8c5842b/gallery/mvv3sqqo-a3jvco.webp",
+    "heroImageAlt": "Pride World City Valencia by b-pride-purple in Charoli, Pune",
+    "imageAlt": "Pride World City Valencia Architecture in Charoli",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -45158,7 +49128,7 @@ export const PROJECTS: Project[] = [
     "title": "Pride World City Miami",
     "slug": "pride-world-city-miami",
     "builderId": "b-pride-purple",
-    "location": "Charoli",
+    "location": "Charholi",
     "city": "Pune",
     "priceRange": "₹91 L - ₹2.74 Cr",
     "exactPrice": "₹91 L",
@@ -45275,6 +49245,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pride World City Miami?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/04909256-14e7-4e23-86d1-a9759eb8e02c/gallery/mvv3sryq-g451jy.webp",
+    "heroImageAlt": "Pride World City Miami by b-pride-purple in Charoli, Pune",
+    "imageAlt": "Pride World City Miami Architecture in Charoli",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -45399,6 +49382,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Palladio Presidential Towers?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Library, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/765c8240-3fed-4d70-b271-5ecbd6547ee4/gallery/mvv5vy43-31pt59.webp",
+    "heroImageAlt": "Palladio Presidential Towers by b-palladio-developers in Hadapsar, Pune",
+    "imageAlt": "Palladio Presidential Towers Architecture in Hadapsar",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "24x7 Security"
     ]
   },
   {
@@ -45507,6 +49503,12 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Tulip Infinity Evana Commercial?",
         "answer": "The development features world-class lifestyle amenities including Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5709b783-9c9c-4c60-b4ed-4cef6de35826/gallery/mvwi01g5-1gw9fi.webp",
+    "heroImageAlt": "Tulip Infinity Evana Commercial by b-tulip-realty in Punawale, Pune",
+    "imageAlt": "Tulip Infinity Evana Commercial Architecture in Punawale",
+    "amenities": [
+      "Covered Parking"
     ]
   },
   {
@@ -45610,6 +49612,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Vitthal Nirvana?",
         "answer": "The development features world-class lifestyle amenities including Rainwater Harvesting, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/934ae67a-4206-4655-b43b-e446319056a8/gallery/mvuqeigv-choo9y.webp",
+    "heroImageAlt": "Vitthal Nirvana by b-vissionary-developers in Nigdi, Pune",
+    "imageAlt": "Vitthal Nirvana Architecture in Nigdi",
+    "amenities": [
+      "Rainwater Harvesting",
+      "Covered Parking"
     ]
   },
   {
@@ -45732,6 +49741,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Rohan Harita?",
         "answer": "The development features world-class lifestyle amenities including 38-Storey High-Rise Towers near JSPM College, Over 65% Open Landscaped Greenery, Rooftop Stargazing Observatory & Skywalk, Zero Wastage Space Planning, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Rohan Harita by b-rohan in Tathawade, Pune",
+    "imageAlt": "Rohan Harita Architecture in Tathawade",
+    "amenities": [
+      "38-Storey High-Rise Towers near JSPM College",
+      "Over 65% Open Landscaped Greenery",
+      "Rooftop Stargazing Observatory & Skywalk",
+      "Zero Wastage Space Planning",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -45837,6 +49855,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at One Place?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "One Place by b-mittal-brothers-on-pan-card-club-road in Baner, Pune",
+    "imageAlt": "One Place Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -45950,6 +49979,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Tej One FC Road?",
         "answer": "The development features world-class lifestyle amenities including Iconic Goodluck Chowk FC Road Address, Robotic Automated Car Parking, Grade-A Corporate Glass Facade, High Rental Yield Prime Heritage Zone, Zero Buyer Brokerage Mandate, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Tej One FC Road by b-tejraj-group in Deccan Gymkhana, Pune",
+    "imageAlt": "Tej One FC Road Architecture in Deccan Gymkhana",
+    "amenities": [
+      "Iconic Goodluck Chowk FC Road Address",
+      "Robotic Automated Car Parking",
+      "Grade-A Corporate Glass Facade",
+      "High Rental Yield Prime Heritage Zone",
+      "Zero Buyer Brokerage Mandate"
     ]
   },
   {
@@ -46064,6 +50102,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Garve the Cullinan?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/eb5f46da-c60b-4969-834b-26d3f953ba50/gallery/msw2inrx-2gkm3l.webp",
+    "heroImageAlt": "Garve the Cullinan by b-garve-group in Pimple Nilakh, Pune",
+    "imageAlt": "Garve the Cullinan Architecture in Pimple Nilakh",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Concierge",
+      "EV Charging"
     ]
   },
   {
@@ -46185,6 +50236,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at ASAP Tishya?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6f179efc-b2df-49a3-b42b-b7335719d627/gallery/mvwhgwmc-fz80rc.webp",
+    "heroImageAlt": "ASAP Tishya by b-asap-spaces in Aundh, Pune",
+    "imageAlt": "ASAP Tishya Architecture in Aundh",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "EV Charging"
     ]
   },
   {
@@ -46298,6 +50362,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Excellaa Virtu?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Co-working Lounge, Swimming Pool, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1f3df788-7035-4e21-8487-a66424ab8f1f/gallery/mvwl1o7c-1x2u56.webp",
+    "heroImageAlt": "Excellaa Virtu by b-excellaa-realty in Pimple Nilakh, Pune",
+    "imageAlt": "Excellaa Virtu Architecture in Pimple Nilakh",
+    "amenities": [
+      "Gymnasium",
+      "Co-working Lounge",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -46412,6 +50489,14 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Excellaa TOTT?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Swimming Pool, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3977a54a-a81a-4bb1-ba5d-bf1a6808e2ac/gallery/mvwmbtqx-aken1v.webp",
+    "heroImageAlt": "Excellaa TOTT by b-excellaa-realty in Maan, Pune",
+    "imageAlt": "Excellaa TOTT Architecture in Maan",
+    "amenities": [
+      "Clubhouse",
+      "Swimming Pool",
+      "Landscaped Garden"
     ]
   },
   {
@@ -46529,6 +50614,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Vantage?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Landscaped Garden, Covered Parking, Kids' Play Area, Yoga Deck, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a92fc5ac-8421-4852-af64-88fdc835cc3c/gallery/mvv3umst-naexw.webp",
+    "heroImageAlt": "The Vantage by b-kuber-properties in Wakad, Pune",
+    "imageAlt": "The Vantage Architecture in Wakad",
+    "amenities": [
+      "Gymnasium",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -46654,6 +50749,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sukhwani Gemzs?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a3cccdc6-45e5-43ed-9364-4fc12208ec47/gallery/mwbwzfz9-39rbi.webp",
+    "heroImageAlt": "Sukhwani Gemzs by b-prime-properties in Maan, Pune",
+    "imageAlt": "Sukhwani Gemzs Architecture in Maan",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -46785,6 +50893,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pristine Amore?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9e955491-de5d-45c8-a1e5-b959ff896266/gallery/mwbxwt43-7q82bw.webp",
+    "heroImageAlt": "Pristine Amore by b-pristine-properties in Kalyani Nagar, Pune",
+    "imageAlt": "Pristine Amore Architecture in Kalyani Nagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Co-working Lounge",
+      "Swimming Pool",
+      "Landscaped Garden"
     ]
   },
   {
@@ -46895,6 +51016,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pristine Amore Highstreet?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fe3bba83-c3a1-4ebc-a7d3-38119f5f80bd/gallery/mwbxypu9-f14zae.webp",
+    "heroImageAlt": "Pristine Amore Highstreet by b-uha-london in Kalyani Nagar, Pune",
+    "imageAlt": "Pristine Amore Highstreet Architecture in Kalyani Nagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting"
     ]
   },
   {
@@ -47025,6 +51153,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at QUE 101?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/991a2afa-8abc-43d8-a7a9-e2374e67d2b8/gallery/mwbvbhe8-d8o2s4.webp",
+    "heroImageAlt": "QUE 101 by b-unique-properties in Dhanori, Pune",
+    "imageAlt": "QUE 101 Architecture in Dhanori",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -47144,6 +51285,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Amorapolis?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Sports Court, Swimming Pool, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cd6d53c1-cdb6-454a-b6d2-2a4fc40a4a86/gallery/mwbydpc9-6l1q7t.webp",
+    "heroImageAlt": "Amorapolis by b-krisna-nirmaan-skyscraper-llp in Dhanori, Pune",
+    "imageAlt": "Amorapolis Architecture in Dhanori",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Sports Court",
+      "Swimming Pool",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -47260,6 +51413,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Smruti Garden?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2b8f970d-6ab2-4a1b-99dd-e5ca6ba33dd0/gallery/ms4ksnxm-c0g7p.webp",
+    "heroImageAlt": "Smruti Garden by b-smruti-developers in Kiwale, Pune",
+    "imageAlt": "Smruti Garden Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -47382,6 +51548,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Stalwart Business Enclave?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/edbd80d8-4bc4-41bc-8999-809af0344a9d/gallery/mtzmqeli-5bffdg.webp",
+    "heroImageAlt": "Stalwart Business Enclave by b-stalwart-developers in Baner, Pune",
+    "imageAlt": "Stalwart Business Enclave Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -47389,7 +51567,7 @@ export const PROJECTS: Project[] = [
     "title": "Tej Midtown",
     "slug": "tej-midtown",
     "builderId": "b-tejraj-group",
-    "location": "Shivajinagar",
+    "location": "Shivaji Nagar",
     "city": "Pune",
     "priceRange": "₹2.55 Cr - ₹3.20 Cr",
     "exactPrice": "₹2.55 Cr",
@@ -47488,6 +51666,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Tej Midtown?",
         "answer": "The development features world-class lifestyle amenities including Prime Modibaug Ganeshkhind Road Address, 11-Foot Clear Ceiling Heights, Soundproof Acoustic Double-Glazed Windows, Private Elevator Access, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Tej Midtown by b-tejraj-group in Shivajinagar, Pune",
+    "imageAlt": "Tej Midtown Architecture in Shivajinagar",
+    "amenities": [
+      "Prime Modibaug Ganeshkhind Road Address",
+      "11-Foot Clear Ceiling Heights",
+      "Soundproof Acoustic Double-Glazed Windows",
+      "Private Elevator Access",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -47588,6 +51775,12 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 38 Daffodils?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/060d4b73-861b-4946-a14a-f4cdbd228afb/gallery/mwc04zj6-7e49ma.webp",
+    "heroImageAlt": "38 Daffodils by b-38-developers in Baner, Pune",
+    "imageAlt": "38 Daffodils Architecture in Baner",
+    "amenities": [
+      "Gymnasium"
     ]
   },
   {
@@ -47699,6 +51892,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Codename Vybe?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fe3ecf58-88a1-48db-8f0a-9127bff57588/gallery/mwc0rswd-7idamn.webp",
+    "heroImageAlt": "Codename Vybe by b-ranawat-group in Anand Nagar, Pune",
+    "imageAlt": "Codename Vybe Architecture in Anand Nagar",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -47825,6 +52028,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mangalam Momento?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Sports Court, Swimming Pool, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ee3d3709-ccba-444e-b44c-94c656b58362/gallery/mwbyso1b-ag04mv.webp",
+    "heroImageAlt": "Mangalam Momento by b-mangalam-landmarks in Moshi, Pune",
+    "imageAlt": "Mangalam Momento Architecture in Moshi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -47931,6 +52147,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Godrej Skyline Commercial?",
         "answer": "The development features world-class lifestyle amenities including Covered Parking, EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/682acbe6-1523-4751-96d3-668325f5cf39/gallery/mwbzrrrt-b3tpsu.webp",
+    "heroImageAlt": "Godrej Skyline Commercial by b-godrej in Mundhwa, Pune",
+    "imageAlt": "Godrej Skyline Commercial Architecture in Mundhwa",
+    "amenities": [
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -48048,6 +52271,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Luxton by Saheel Commercial?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Swimming Pool, Landscaped Garden, Kids' Play Area, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bc16413d-ccb5-44a6-af16-228c1ca63cf9/gallery/mwc0gptg-11z3av.webp",
+    "heroImageAlt": "Luxton by Saheel Commercial by b-luxton-developers in Wakad, Pune",
+    "imageAlt": "Luxton by Saheel Commercial Architecture in Wakad",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -48163,6 +52396,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Arkaa Galaxy?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qjyd-3efmmg.webp",
+    "heroImageAlt": "Arkaa Galaxy by b-agarwal-and-bhondve-buildcon in Ravet, Pune",
+    "imageAlt": "Arkaa Galaxy Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -48268,6 +52514,12 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Crown Highstreet at Ace Ayodhya?",
         "answer": "The development features world-class lifestyle amenities including Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1a5ae56c-c292-41e3-bb5e-b67d61edcac1/gallery/mwc2713d-3srwqt.webp",
+    "heroImageAlt": "The Crown Highstreet at Ace Ayodhya by b-the-skies-group in Thergaon, Pune",
+    "imageAlt": "The Crown Highstreet at Ace Ayodhya Architecture in Thergaon",
+    "amenities": [
+      "Covered Parking"
     ]
   },
   {
@@ -48387,6 +52639,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Serenopolis?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24ca7459-95bd-4594-85b9-4b2d720268ff/gallery/mwc1i5m1-1nxgpq.webp",
+    "heroImageAlt": "Serenopolis by b-nirman-greens in Tathawade, Pune",
+    "imageAlt": "Serenopolis Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -48492,6 +52757,12 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at City One Panache Commercial?",
         "answer": "The development features world-class lifestyle amenities including Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6afd9e53-566c-495c-8534-7ef6714229a9/gallery/mwbwamia-8f90y4.webp",
+    "heroImageAlt": "City One Panache Commercial by b-city-one in Ravet, Pune",
+    "imageAlt": "City One Panache Commercial Architecture in Ravet",
+    "amenities": [
+      "Covered Parking"
     ]
   },
   {
@@ -48612,6 +52883,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Ace Ayodhya?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f0b24c37-657e-4713-a35f-c1b0d9e96998/gallery/mrpbpbt9-5sv0q6.webp",
+    "heroImageAlt": "Ace Ayodhya by b-over-40-curated-lifestyle-amenities in Thergaon, Pune",
+    "imageAlt": "Ace Ayodhya Architecture in Thergaon",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck",
+      "EV Charging"
     ]
   },
   {
@@ -48724,6 +53008,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kuber Antonia?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Co-working Lounge, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/904e6ae3-ea42-409c-b46e-8c879b2294b7/gallery/mvv4kyb7-21nuz.webp",
+    "heroImageAlt": "Kuber Antonia by b-kuber-properties in Wakad, Pune",
+    "imageAlt": "Kuber Antonia Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -48854,6 +53151,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Balaji Oriana World?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e0bddd57-1189-435c-9a61-82e7913baff8/gallery/mvhn571w-66kq18.jpg",
+    "heroImageAlt": "Balaji Oriana World by b-balaji-builders in Tathawade, Pune",
+    "imageAlt": "Balaji Oriana World Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "Landscaped Garden"
     ]
   },
   {
@@ -48861,7 +53171,7 @@ export const PROJECTS: Project[] = [
     "title": "Pride World City Montreal",
     "slug": "pride-world-city-montreal",
     "builderId": "b-pride-purple",
-    "location": "Charoli",
+    "location": "Charholi",
     "city": "Pune",
     "priceRange": "₹1.49 Cr - ₹2.08 Cr",
     "exactPrice": "₹1.49 Cr",
@@ -48972,6 +53282,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pride World City Montreal?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d9c0b86f-9488-44d4-ae7e-3a967766730a/gallery/mvv3sv7b-4lv9b6.webp",
+    "heroImageAlt": "Pride World City Montreal by b-pride-purple in Charoli, Pune",
+    "imageAlt": "Pride World City Montreal Architecture in Charoli",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Kids' Play Area",
+      "Amphitheatre"
     ]
   },
   {
@@ -49086,6 +53409,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Legacy Wakad New Launch?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8394e5dc-7d40-49e2-91d1-9e2213a3a9ed/gallery/mvcpkd09-iqw96.webp",
+    "heroImageAlt": "Legacy Wakad New Launch by b-legacy-lifespaces in Wakad, Pune",
+    "imageAlt": "Legacy Wakad New Launch Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -49191,6 +53527,12 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 55 Twilight?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/84580f53-f3be-4a1b-94b5-c387737e5da0/gallery/mwc182b1-6xmrng.webp",
+    "heroImageAlt": "55 Twilight by b-blue-pearl-group in Baner, Pune",
+    "imageAlt": "55 Twilight Architecture in Baner",
+    "amenities": [
+      "Gymnasium"
     ]
   },
   {
@@ -49198,7 +53540,7 @@ export const PROJECTS: Project[] = [
     "title": "Pride World City Wellington",
     "slug": "pride-world-city-wellington",
     "builderId": "b-three-lifts",
-    "location": "Charoli",
+    "location": "Charholi",
     "city": "Pune",
     "priceRange": "₹1.16 Cr - ₹1.26 Cr",
     "exactPrice": "₹1.16 Cr",
@@ -49298,6 +53640,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pride World City Wellington?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Sports Court, Swimming Pool, Landscaped Garden, Kids' Play Area, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/681ee323-40a2-43c6-aa6b-b1b628b41ded/gallery/mvv3sx8p-fro66f.webp",
+    "heroImageAlt": "Pride World City Wellington by b-three-lifts in Charoli, Pune",
+    "imageAlt": "Pride World City Wellington Architecture in Charoli",
+    "amenities": [
+      "Clubhouse",
+      "Sports Court",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -49412,6 +53764,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at New Launch Highness Wakad?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ccb891cd-2a8e-4ea7-be32-f82930b0bf1e/gallery/mryv0mv8-f5iven.webp",
+    "heroImageAlt": "New Launch Highness Wakad by b-binary-infrastructures in Wakad, Pune",
+    "imageAlt": "New Launch Highness Wakad Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -49539,6 +53904,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Excellaa Polaris?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Co-working Lounge, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6d2e5940-bda2-446e-8ec4-a961da61284a/gallery/mvwk6dct-8va6z1.webp",
+    "heroImageAlt": "Excellaa Polaris by b-excellaa-realty in Bavdhan, Pune",
+    "imageAlt": "Excellaa Polaris Architecture in Bavdhan",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Co-working Lounge",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -49657,6 +54035,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Krisala Riverside?",
         "answer": "The development features world-class lifestyle amenities including Designed by Architect Hafeez Contractor, On Wakad-Bhosari BRTS Corridor, Double-Height Luxury Entrance Lobbies, Rooftop Infinity Leisure Deck, Zero Commission Direct Deal, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Krisala Riverside by b-krisala in Wakad, Pune",
+    "imageAlt": "Krisala Riverside Architecture in Wakad",
+    "amenities": [
+      "Designed by Architect Hafeez Contractor",
+      "On Wakad-Bhosari BRTS Corridor",
+      "Double-Height Luxury Entrance Lobbies",
+      "Rooftop Infinity Leisure Deck",
+      "Zero Commission Direct Deal"
     ]
   },
   {
@@ -49770,6 +54157,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Santiago Moonrise?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Co-working Lounge, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a29ec45e-adb5-4102-8301-1359013fc422/gallery/mwbu7slc-a0l7qs.webp",
+    "heroImageAlt": "Santiago Moonrise by b-santiago-realty in Chikhali, Pune",
+    "imageAlt": "Santiago Moonrise Architecture in Chikhali",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -49894,6 +54294,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at YOO One?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7544fa37-d446-4c0f-b468-f46524919acb/gallery/mwevqe85-503eob.webp",
+    "heroImageAlt": "YOO One by b-dasscon-realty in NIBM, Pune",
+    "imageAlt": "YOO One Architecture in NIBM",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -49996,6 +54409,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Codename District Studio?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Swimming Pool, Landscaped Garden, Kids' Play Area, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3f30183c-dee9-474d-aa2e-283b5b964ca4/gallery/mwc1yu9z-32chh9.webp",
+    "heroImageAlt": "Codename District Studio by b-a-lift-and-a-fire-lift in Tathawade, Pune",
+    "imageAlt": "Codename District Studio Architecture in Tathawade",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -50120,6 +54543,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at K Pune?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Library, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxot5-2uipt2.webp",
+    "heroImageAlt": "K Pune by b-tayal-corp in Bavdhan, Pune",
+    "imageAlt": "K Pune Architecture in Bavdhan",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -50238,6 +54674,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VTP Codename Never Before West?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Swimming Pool, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d19a8bbe-9e37-4dbf-a9fc-76590fd6a791/gallery/mvhz2yqd-eaboou.webp",
+    "heroImageAlt": "VTP Codename Never Before West by b-vtp-luxe in Mahalunge, Pune",
+    "imageAlt": "VTP Codename Never Before West Architecture in Mahalunge",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Swimming Pool",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -50354,6 +54803,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Arvaana?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Co-working Lounge, Swimming Pool, Power Backup, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2ocq-dgorvp.webp",
+    "heroImageAlt": "Arvaana by b-kundan in Balewadi, Pune",
+    "imageAlt": "Arvaana Architecture in Balewadi",
+    "amenities": [
+      "Gymnasium",
+      "Co-working Lounge",
+      "Swimming Pool",
+      "Power Backup",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -50474,6 +54934,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VTOP Velesta?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e5f322d4-5af4-4386-95f4-9858807fdc3d/gallery/mwevqikj-7c7wfj.webp",
+    "heroImageAlt": "VTOP Velesta by b-vtop-spaces in Punawale, Pune",
+    "imageAlt": "VTOP Velesta Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -50590,6 +55063,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 18 Magnitude?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e15cd083-ae07-4325-a450-25bf2e8a9fe5/gallery/mvgyqfx3-c7yqyo.webp",
+    "heroImageAlt": "18 Magnitude by b-gd-square-spaces in Punawale, Pune",
+    "imageAlt": "18 Magnitude Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -50710,6 +55196,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 108 Rohit Astera?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/322d07a0-6385-4d77-8780-aeec2575abe7/gallery/msua2uw5-9cimze.webp",
+    "heroImageAlt": "108 Rohit Astera by b-rohit-infra in Punawale, Pune",
+    "imageAlt": "108 Rohit Astera Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -50824,6 +55323,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Privve?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e83f7e34-096e-4ee7-a9dc-3f56001b86df/gallery/mrpakm56-6a8ixm.webp",
+    "heroImageAlt": "The Privve by b-the-skies-group in Tathawade, Pune",
+    "imageAlt": "The Privve Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking"
     ]
   },
   {
@@ -50940,6 +55452,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Chandrarang The Embercrest?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrj96u-2995as.webp",
+    "heroImageAlt": "Chandrarang The Embercrest by b-chandrarang-group in Wakad, Pune",
+    "imageAlt": "Chandrarang The Embercrest Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -51055,6 +55580,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Tapovan?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Covered Parking, Kids' Play Area, Yoga Deck, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkifz-70hrok.webp",
+    "heroImageAlt": "Tapovan by b-life-spaces-realty in Moshi, Pune",
+    "imageAlt": "Tapovan Architecture in Moshi",
+    "amenities": [
+      "Gymnasium",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -51176,6 +55710,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sai Kripa?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Jogging Track, Landscaped Garden, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/609dca63-0f91-4e39-9c90-d3d97ab38d32/gallery/mvu255jt-g29cd4.webp",
+    "heroImageAlt": "Sai Kripa by b-sai-nisarg-landmark in Ravet, Pune",
+    "imageAlt": "Sai Kripa Architecture in Ravet",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Jogging Track",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck",
+      "EV Charging"
     ]
   },
   {
@@ -51285,6 +55832,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sai Mehar?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Jogging Track, Swimming Pool, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/53072ad6-018a-492a-886f-bd13cbab5610/gallery/mrujy6q6-5hjkck.webp",
+    "heroImageAlt": "Sai Mehar by b-sai-nisarg-landmark in Punawale, Pune",
+    "imageAlt": "Sai Mehar Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -51394,6 +55954,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Estofa One Home?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Power Backup, 24x7 Security, Landscaped Garden, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/dbe6d4d7-22d8-411f-ac8e-0c297a741dec/gallery/mvj3dtph-e0p9h9.webp",
+    "heroImageAlt": "Estofa One Home by b-estofa-realty in Hinjewadi, Pune",
+    "imageAlt": "Estofa One Home Architecture in Hinjewadi",
+    "amenities": [
+      "Clubhouse",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -51508,6 +56078,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6634267-49ad-49d9-957a-3053de1e1203/gallery/msqeqa47-83fc3u.webp",
+    "heroImageAlt": "Hiranandani by b-hiranandani in Darumbre, Pune",
+    "imageAlt": "Hiranandani Architecture in Darumbre",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -51622,6 +56205,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gurukrupa?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/900844af-b054-425d-8239-3c454aa794b9/gallery/mu9zjkju-3xkdey.webp",
+    "heroImageAlt": "Gurukrupa by b-gurukrupa-developers in Ravet, Pune",
+    "imageAlt": "Gurukrupa Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -51728,6 +56324,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Escala?",
         "answer": "The development features world-class lifestyle amenities including Rainwater Harvesting, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a5446ba3-bd84-43ba-9078-c482ca87653f/gallery/mwc2g7zr-3i7hkc.webp",
+    "heroImageAlt": "Escala by b-escala-developers in Kharadi, Pune",
+    "imageAlt": "Escala Architecture in Kharadi",
+    "amenities": [
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking"
     ]
   },
   {
@@ -51855,6 +56460,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Vanaha Verdant?",
         "answer": "The development features world-class lifestyle amenities including Sports Court, Co-working Lounge, Jogging Track, Swimming Pool, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3f50d75f-ca48-494b-946f-240dd8c3adf7/gallery/mwewan2f-5n6nc0.webp",
+    "heroImageAlt": "Vanaha Verdant by b-shapoorji-pallonji in Lavale, Pune",
+    "imageAlt": "Vanaha Verdant Architecture in Lavale",
+    "amenities": [
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -51983,6 +56601,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kunal Manthan?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Co-working Lounge, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/06e74847-186b-4b70-886e-b1e9e8ea59c6/gallery/mvjcr8zz-3mph1i.webp",
+    "heroImageAlt": "Kunal Manthan by b-kunal-landmarks in Rahatani, Pune",
+    "imageAlt": "Kunal Manthan Architecture in Rahatani",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -52091,6 +56722,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at ANP New launch wakad?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6634267-49ad-49d9-957a-3053de1e1203/gallery/msqeqa47-83fc3u.webp",
+    "heroImageAlt": "ANP New launch wakad by b-anp-corp in Wakad, Pune",
+    "imageAlt": "ANP New launch wakad Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -52217,6 +56861,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mahalaxmi?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3eba92fd-037c-4c0d-8138-adda9e82f72b/gallery/mrpbbfni-ezvifz.webp",
+    "heroImageAlt": "Mahalaxmi by b-mahalaxmi-group in Pimpri, Pune",
+    "imageAlt": "Mahalaxmi Architecture in Pimpri",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -52331,6 +56988,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nitaara Tower?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5e68d5f1-9feb-47fa-b46b-8c8c37bfa3a8/gallery/msd5hqri-179i32.webp",
+    "heroImageAlt": "Nitaara Tower by b-nitaara-developers in Nigdi, Pune",
+    "imageAlt": "Nitaara Tower Architecture in Nigdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -52445,6 +57115,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Arkaay Towers?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c8b7b2c5-d220-4557-b4d5-b02d2662c19c/gallery/mrqr33d9-b8r2m3.webp",
+    "heroImageAlt": "Arkaay Towers by b-arkaay-developers in Tathawade, Pune",
+    "imageAlt": "Arkaay Towers Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck",
+      "EV Charging"
     ]
   },
   {
@@ -52553,6 +57236,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Arion?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bc0ee393-91a5-411b-8c9e-15fc80797b1d/gallery/muwgu14e-36to9c.webp",
+    "heroImageAlt": "Arion by b-arion-developers in Balewadi, Pune",
+    "imageAlt": "Arion Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -52662,6 +57358,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Silverise Skylight Commercial?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6225ea51-db39-4bd2-ba6c-36faf40655ef/gallery/mrwdlc7g-mk6mn.webp",
+    "heroImageAlt": "Silverise Skylight Commercial by b-silverise-group in Pimpri, Pune",
+    "imageAlt": "Silverise Skylight Commercial Architecture in Pimpri",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area",
+      "EV Charging"
     ]
   },
   {
@@ -52776,6 +57485,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at New Launch Truespace Wakad?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/91e54192-3706-40ab-9bdd-76ae599d129d/gallery/muckf6xb-53r7zr.webp",
+    "heroImageAlt": "New Launch Truespace Wakad by b-truespace in Wakad, Pune",
+    "imageAlt": "New Launch Truespace Wakad Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking"
     ]
   },
   {
@@ -52890,6 +57612,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at King's Grace?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/92685a0d-2bbc-4399-bf68-87ff551065bc/gallery/mvfck3l0-9s42q5.webp",
+    "heroImageAlt": "King's Grace by b-krishna-rrealty in Rahatani, Pune",
+    "imageAlt": "King's Grace Architecture in Rahatani",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -53004,6 +57739,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sukhwani Associates?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6634267-49ad-49d9-957a-3053de1e1203/gallery/msqeq4xg-4xkfh8.webp",
+    "heroImageAlt": "Sukhwani Associates by b-sukhwani-associates in Kiwale, Pune",
+    "imageAlt": "Sukhwani Associates Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -53118,6 +57866,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sky Meridian?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/81c2c2a9-64be-4320-aa47-8f9e4cb5425d/gallery/mrs2cui8-5tomwi.webp",
+    "heroImageAlt": "Sky Meridian by b-mansion-creators in Tathawade, Pune",
+    "imageAlt": "Sky Meridian Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -53226,6 +57987,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Milleflori?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b9096b94-5d0b-409b-9d81-f0ca2173d49f/gallery/mrpaw7gi-63m6i6.webp",
+    "heroImageAlt": "Milleflori by b-milleflori-developers in Wakad, Pune",
+    "imageAlt": "Milleflori Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -53354,6 +58128,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mahalaxmi Life In Motion?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/69458041-7333-461d-9a82-308a5671c515/gallery/mrqoyin3-8aa94z.webp",
+    "heroImageAlt": "Mahalaxmi Life In Motion by b-mahalaxmi-group in Pimpri, Pune",
+    "imageAlt": "Mahalaxmi Life In Motion Architecture in Pimpri",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -53468,6 +58255,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kamalraj Properties?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/951a2bb9-e10c-48cb-9bf3-99c455c5e238/gallery/msfujbzj-706kdg.webp",
+    "heroImageAlt": "Kamalraj Properties by b-kamalraj-group in Ravet, Pune",
+    "imageAlt": "Kamalraj Properties Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -53582,6 +58382,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Divine Homes?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/033577c7-cde6-4c1d-acfd-995991176460/gallery/mtifivk9-afc26n.webp",
+    "heroImageAlt": "Divine Homes by b-drashti-developers in Ravet, Pune",
+    "imageAlt": "Divine Homes Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -53696,6 +58509,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Vibe?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/90f6e02c-6c6c-4f78-a13a-a7b3856dbe5f/gallery/mrp8obm8-ehbdn7.webp",
+    "heroImageAlt": "The Vibe by b-the-skies-group in Kiwale, Pune",
+    "imageAlt": "The Vibe Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking"
     ]
   },
   {
@@ -53809,6 +58635,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Westford Phase 2 Pimple Saudagar?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/462aef35-68f2-4172-8552-3c23f9291218/gallery/mspvvl6a-1cvccd.webp",
+    "heroImageAlt": "The Westford Phase 2 Pimple Saudagar by b-the-skies-group in Pimple Saudagar, Pune",
+    "imageAlt": "The Westford Phase 2 Pimple Saudagar Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -53924,6 +58763,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sentosa Harico Diwaam?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ef1e189a-9218-43da-94aa-9535701986cc/gallery/muk19zsp-fwwy3j.webp",
+    "heroImageAlt": "Sentosa Harico Diwaam by b-sentosa-landmarks in Kiwale, Pune",
+    "imageAlt": "Sentosa Harico Diwaam Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -54038,6 +58890,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Austin Aurus?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6a5fe380-4809-4829-b89d-7d8f4402804a/gallery/mtn4l78m-fntzk9.webp",
+    "heroImageAlt": "Austin Aurus by b-austin-realty in Wakad, Pune",
+    "imageAlt": "Austin Aurus Architecture in Wakad",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -54152,6 +59017,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Highness?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b7a173c4-5fd2-402d-9377-5fdea4264f3e/gallery/mt5keq9i-6jt6yu.webp",
+    "heroImageAlt": "Highness by b-binary-infrastructures in Wakad, Pune",
+    "imageAlt": "Highness Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -54264,6 +59142,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at RA Urbania?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3302b32c-7d28-4e95-8ff5-6f646428c415/gallery/mvgyqu7b-6afjkz.webp",
+    "heroImageAlt": "RA Urbania by b-croissance-buildcon in Ravet, Pune",
+    "imageAlt": "RA Urbania Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -54382,6 +59273,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sky World?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a411bc50-3b7f-4951-9ae1-80c0863adb52/gallery/mvgyrjr4-c3kus9.webp",
+    "heroImageAlt": "Sky World by b-siyaram-developers in Wakad, Pune",
+    "imageAlt": "Sky World Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -54496,6 +59400,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at EH Sky Tower?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ade080ee-6bd8-4ea7-b8c7-66a937f7b80e/gallery/mttz63o6-30e3b.webp",
+    "heroImageAlt": "EH Sky Tower by b-eh-developers in Bavdhan, Pune",
+    "imageAlt": "EH Sky Tower Architecture in Bavdhan",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -54610,6 +59527,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Livience Unione?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6565c818-1762-439b-a08e-025169ea5272/gallery/mt7hxg5c-4j78qj.webp",
+    "heroImageAlt": "Livience Unione by b-livience-lifespaces in Baner, Pune",
+    "imageAlt": "Livience Unione Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -54722,6 +59652,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at City One Panache 2.0?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Sports Court, Swimming Pool, Kids' Play Area, Yoga Deck, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24c463c6-f0f4-4e2f-9bd9-efb3b864ab1a/gallery/mwbw9wx3-byrg1y.webp",
+    "heroImageAlt": "City One Panache 2.0 by b-city-one in Ravet, Pune",
+    "imageAlt": "City One Panache 2.0 Architecture in Ravet",
+    "amenities": [
+      "Gymnasium",
+      "Sports Court",
+      "Swimming Pool",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -54845,6 +59785,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Amberwood?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/98e067af-424f-4cb4-a951-e3cc6019bad3/gallery/mtgx35jy-ew6od9.webp",
+    "heroImageAlt": "Amberwood by b-amberwood-developers in Rahatani, Pune",
+    "imageAlt": "Amberwood Architecture in Rahatani",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -54951,6 +59904,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Adhira Spaces?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Landscaped Garden, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e2fa3cf8-05e9-4bd2-8a98-ec971184f31d/gallery/mv3pw5ns-a4mo46.webp",
+    "heroImageAlt": "Adhira Spaces by b-adhira-developers in Punawale, Pune",
+    "imageAlt": "Adhira Spaces Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -55065,6 +60029,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 18 Altitude?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/45de421c-44fe-4268-af50-b309ffa7f1b6/gallery/ms0bzxch-c98x7p.webp",
+    "heroImageAlt": "18 Altitude by b-december-2029 in Walhekarwadi, Pune",
+    "imageAlt": "18 Altitude Architecture in Walhekarwadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -55179,6 +60156,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Arihant Sky Suites Tathwade?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/67b56909-af22-4dee-8b51-64b0d14c3288/gallery/mt09ixxo-1bh3bg.webp",
+    "heroImageAlt": "Arihant Sky Suites Tathwade by b-arihant-developers in Tathawade, Pune",
+    "imageAlt": "Arihant Sky Suites Tathwade Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -55306,6 +60296,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at New launch the Arena pimpri?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1edaa53d-bf29-49fb-bbd4-a1388fd59928/gallery/ms4gyuat-d320b3.webp",
+    "heroImageAlt": "New launch the Arena pimpri by b-new-developers in Pimpri, Pune",
+    "imageAlt": "New launch the Arena pimpri Architecture in Pimpri",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -55412,6 +60415,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 51 Meridian?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Landscaped Garden, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9b195edf-c20c-4111-994a-8f5bcf6ea104/gallery/mrysr25n-c3xe2z.webp",
+    "heroImageAlt": "51 Meridian by b-51-developers in Nigdi, Pune",
+    "imageAlt": "51 Meridian Architecture in Nigdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -55539,6 +60553,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Arena?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b5e9e221-ff42-4c33-8998-e12cd4689935/gallery/mrp9pp2f-68is5w.webp",
+    "heroImageAlt": "The Arena by b-mahalaxmi-group in Pimpri, Pune",
+    "imageAlt": "The Arena Architecture in Pimpri",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -55653,6 +60680,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Truespace Prima Altiora?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/91e54192-3706-40ab-9bdd-76ae599d129d/gallery/muckf6xb-53r7zr.webp",
+    "heroImageAlt": "Truespace Prima Altiora by b-truespace in Wakad, Pune",
+    "imageAlt": "Truespace Prima Altiora Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -55777,6 +60817,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nexus Skydale?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3f5cde23-0711-4d66-bf8a-15b8ed16d1d3/gallery/mvgypv2r-3xk6hd.webp",
+    "heroImageAlt": "Nexus Skydale by b-nexus-group in Punawale, Pune",
+    "imageAlt": "Nexus Skydale Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -55883,6 +60936,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Skylish Vaastuu?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f26fa0df-240e-434d-a8d3-5b906c62f914/gallery/mvgynds1-z2owo.webp",
+    "heroImageAlt": "Skylish Vaastuu by b-skylish-bluediamond-innfrracon in Pimpri, Pune",
+    "imageAlt": "Skylish Vaastuu Architecture in Pimpri",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -55991,6 +61057,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kasturi Corner?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5563c52c-c0af-49f1-a4cb-64afe9562e41/gallery/ms4etuwm-db78p6.webp",
+    "heroImageAlt": "Kasturi Corner by b-kasturi in Kiwale, Pune",
+    "imageAlt": "Kasturi Corner Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -56099,6 +61178,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Ashirwad Sapphire?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Library, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cd8d7ef8-9ffe-45cc-8756-eb1507dd6c8b/gallery/mrrqryju-dmx6iw.webp",
+    "heroImageAlt": "Ashirwad Sapphire by b-ashirwad-enterprises in Nigdi, Pune",
+    "imageAlt": "Ashirwad Sapphire Architecture in Nigdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Library",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -56212,6 +61304,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sonigara Quorra?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b0cbcbc-bafa-4edd-8daf-bc0345a92fb0/gallery/ms4l9d4t-3a0rkn.webp",
+    "heroImageAlt": "Sonigara Quorra by b-sonigara-corp in Tathawade, Pune",
+    "imageAlt": "Sonigara Quorra Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -56320,6 +61425,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Ambrosia Studios?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3ef14a0a-4b80-4f76-b6f2-eab72a9ca5a4/gallery/msvcd541-6sf26n.webp",
+    "heroImageAlt": "Ambrosia Studios by b-ambrosia-developers in Baner, Pune",
+    "imageAlt": "Ambrosia Studios Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Concierge"
     ]
   },
   {
@@ -56435,6 +61553,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Arise Capital?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b90c69e-3eb1-4936-a613-d637d6da763d/gallery/mrwe0mp4-6rme71.webp",
+    "heroImageAlt": "Arise Capital by b-arise-developers in Wakad, Pune",
+    "imageAlt": "Arise Capital Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -56543,6 +61674,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Jhamtani Commercial?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a7c1e982-9ff3-48d5-a23e-a4b95472c926/gallery/mryun1xh-ejxjkp.webp",
+    "heroImageAlt": "Jhamtani Commercial by b-jhamtani-group in Pimple Saudagar, Pune",
+    "imageAlt": "Jhamtani Commercial Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -56657,6 +61800,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at RK Amore?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1a7ea786-7a45-4de8-94ff-cb7a5120e313/gallery/mrtjxzzr-c2zjv0.webp",
+    "heroImageAlt": "RK Amore by b-rk-developers in Mamurdi, Pune",
+    "imageAlt": "RK Amore Architecture in Mamurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -56758,6 +61914,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mahakal Shivratna?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Kids' Play Area, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/971a27a7-2ca1-49aa-ba47-7c19565a97c9/cover/mvgys14z-1gy57z.webp",
+    "heroImageAlt": "Mahakal Shivratna by b-road in Ravet, Pune",
+    "imageAlt": "Mahakal Shivratna Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Kids' Play Area"
     ]
   },
   {
@@ -56872,6 +62037,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Merak Homes?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f922d466-3cad-4f91-b178-a719f2d12f4a/gallery/mv3m472j-awlzz4.webp",
+    "heroImageAlt": "Merak Homes by b-merak-developers in Hinjewadi, Pune",
+    "imageAlt": "Merak Homes Architecture in Hinjewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -56986,6 +62164,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Austin Aurus Wakad?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6a5fe380-4809-4829-b89d-7d8f4402804a/gallery/mtn4kk5q-ct94my.webp",
+    "heroImageAlt": "Austin Aurus Wakad by b-austin-realty in Wakad, Pune",
+    "imageAlt": "Austin Aurus Wakad Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -57097,6 +62288,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Marqis?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/55224d57-7e5c-4d5a-9c7e-7a0b1daccc14/gallery/mtodlxgq-2sr6af.webp",
+    "heroImageAlt": "Marqis by b-december-2029 in Balewadi, Pune",
+    "imageAlt": "Marqis Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -57212,6 +62416,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Elite The Arc?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/17506f3d-4570-4491-940a-8e53076f3147/gallery/mrxe7nch-u35fu.webp",
+    "heroImageAlt": "Elite The Arc by b-elite-group in Punawale, Pune",
+    "imageAlt": "Elite The Arc Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -57326,6 +62543,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Austin Realty?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6a5fe380-4809-4829-b89d-7d8f4402804a/gallery/mtn4l78m-fntzk9.webp",
+    "heroImageAlt": "Austin Realty by b-austin-realty in Wakad, Pune",
+    "imageAlt": "Austin Realty Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -57440,6 +62670,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at V One Heartland?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/34e1a7a3-da32-4ff4-b128-2a4e7a4e4dba/gallery/ms389nk0-3rrvzk.webp",
+    "heroImageAlt": "V One Heartland by b-v-developers in Akurdi, Pune",
+    "imageAlt": "V One Heartland Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -57560,6 +62803,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at New launch Austin Mamurdi?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6a5fe380-4809-4829-b89d-7d8f4402804a/gallery/mt6214si-4nnkhj.webp",
+    "heroImageAlt": "New launch Austin Mamurdi by b-new-developers in Mamurdi, Pune",
+    "imageAlt": "New launch Austin Mamurdi Architecture in Mamurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -57683,6 +62939,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at OPULENT TOWER?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Swimming Pool, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/689e361f-8e73-4017-b516-a5938945476d/gallery/mrwc477v-dwfcec.webp",
+    "heroImageAlt": "OPULENT TOWER by b-march-2027 in Ravet, Pune",
+    "imageAlt": "OPULENT TOWER Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -57797,6 +63066,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Muktangan Kimaya?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9ec7dd8e-663f-46ec-8417-95f0d3543de8/gallery/mtmr3mdh-7j4vb6.webp",
+    "heroImageAlt": "Muktangan Kimaya by b-muktangan-developers in Pimple Saudagar, Pune",
+    "imageAlt": "Muktangan Kimaya Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -57902,6 +63184,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Icon Oro?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Covered Parking, EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8f3a80d8-062b-4b96-abdd-8c9d4ace387c/gallery/mtwtazw8-padtx.webp",
+    "heroImageAlt": "Icon Oro by b-icon-group in Baner, Pune",
+    "imageAlt": "Icon Oro Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -58016,6 +63308,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Royale Towers?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e81265a5-251b-4a3a-a375-58d79aafeef5/gallery/mt8o8wcq-ezbdr1.webp",
+    "heroImageAlt": "Kohinoor Royale Towers by b-kohinoor in Hinjewadi, Pune",
+    "imageAlt": "Kohinoor Royale Towers Architecture in Hinjewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -58124,6 +63429,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Jhamtani Bizone?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fb493ea3-df9a-4887-8d15-b1323b52fc94/gallery/mrwf0i06-etbfp3.webp",
+    "heroImageAlt": "Jhamtani Bizone by b-jhamtani-group in Pimple Saudagar, Pune",
+    "imageAlt": "Jhamtani Bizone Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Concierge",
+      "EV Charging"
     ]
   },
   {
@@ -58239,6 +63557,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Avis Avante Wakad?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5a8eacc1-bed9-4a3c-b415-2bbb35d962f2/gallery/mrytvdlm-9pl1vk.webp",
+    "heroImageAlt": "Avis Avante Wakad by b-avis-group in Wakad, Pune",
+    "imageAlt": "Avis Avante Wakad Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -58353,6 +63684,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Vardhaman Skysymphony?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cba33f94-0ced-4c4d-b487-943ecea5bfc6/gallery/msqd8hks-542thg.webp",
+    "heroImageAlt": "Vardhaman Skysymphony by b-vardhaman-properties in Wakad, Pune",
+    "imageAlt": "Vardhaman Skysymphony Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -58462,6 +63806,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Millefiori Futuristic?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/058bc5a5-6696-4f4b-a1a6-5cf87aa39ce5/gallery/mrtb5j80-eda8wv.webp",
+    "heroImageAlt": "Millefiori Futuristic by b-millefiori-developers in Wakad, Pune",
+    "imageAlt": "Millefiori Futuristic Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -58577,6 +63934,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nancy Hill View?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ab9177c3-e72f-4a60-bf98-5daa9077dbae/gallery/mtshghnd-8wewuu.webp",
+    "heroImageAlt": "Nancy Hill View by b-nancy-developers in Baner, Pune",
+    "imageAlt": "Nancy Hill View Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -58688,6 +64058,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pebbles Business Bay?",
         "answer": "The development features world-class lifestyle amenities including Rainwater Harvesting, Co-working Lounge, Power Backup, Covered Parking, EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ade9cb2c-2037-4201-8340-afe156a62f58/gallery/msg83yk3-esrzgm.webp",
+    "heroImageAlt": "Pebbles Business Bay by b-abhinav-group in Wakad, Pune",
+    "imageAlt": "Pebbles Business Bay Architecture in Wakad",
+    "amenities": [
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -58809,6 +64189,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Platinum?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/48611d1f-ff42-4e50-b233-ff28ff267b56/gallery/mrs4g8oe-3soz7l.webp",
+    "heroImageAlt": "Platinum by b-platinum-buildcon in Punawale, Pune",
+    "imageAlt": "Platinum Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -58926,6 +64319,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Prime West?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/848b9e71-e076-4683-ba26-f19b8a4d9c19/cover/mtr83uon-1vi659.webp",
+    "heroImageAlt": "Prime West by b-prime-developers in Balewadi, Pune",
+    "imageAlt": "Prime West Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -59034,6 +64440,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at PK Ornate?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0b8cdabd-bf10-456b-990d-bb5003951810/gallery/mrqnwa0o-2i0li2.webp",
+    "heroImageAlt": "PK Ornate by b-pk-group in Pimple Saudagar, Pune",
+    "imageAlt": "PK Ornate Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck",
+      "EV Charging"
     ]
   },
   {
@@ -59148,6 +64567,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Avis Avante?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/59a3fa07-e84f-4588-b6b9-8a5951a67306/gallery/mticvg96-3pgse5.webp",
+    "heroImageAlt": "Avis Avante by b-avis-group in Wakad, Pune",
+    "imageAlt": "Avis Avante Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -59269,6 +64701,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Ravima Newton Homes?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a0614d4f-2ac7-4c8f-b396-4d3797eca4bf/gallery/mryvtd6h-kfk7m.webp",
+    "heroImageAlt": "Ravima Newton Homes by b-ravima-ventures in Walhekarwadi, Pune",
+    "imageAlt": "Ravima Newton Homes Architecture in Walhekarwadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -59383,6 +64828,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at RGS Forte Aspire?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e9d4696f-89b3-4cd7-8770-7fd8b9e9059f/gallery/msek5hjv-9e6b5l.webp",
+    "heroImageAlt": "RGS Forte Aspire by b-rgs-realty in Punawale, Pune",
+    "imageAlt": "RGS Forte Aspire Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -59491,6 +64949,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sai Serenity?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/951a2bb9-e10c-48cb-9bf3-99c455c5e238/gallery/msfuj5nq-1z015i.webp",
+    "heroImageAlt": "Sai Serenity by b-sai-nisarg-landmark in Kiwale, Pune",
+    "imageAlt": "Sai Serenity Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck",
+      "EV Charging"
     ]
   },
   {
@@ -59605,6 +65076,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Rohan Nitara?",
         "answer": "The development features world-class lifestyle amenities including Strategic Nande-Mahalunge Growth Corridor, Minutes from Hinjawadi Phase 1 & Baner Annex, Co-Working Hub & High-Speed Wi-Fi Zones, Affordable Direct Developer Pricing, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Rohan Nitara by b-rohan in Nande, Pune",
+    "imageAlt": "Rohan Nitara Architecture in Nande",
+    "amenities": [
+      "Strategic Nande-Mahalunge Growth Corridor",
+      "Minutes from Hinjawadi Phase 1 & Baner Annex",
+      "Co-Working Hub & High-Speed Wi-Fi Zones",
+      "Affordable Direct Developer Pricing",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -59719,6 +65199,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sai Stella?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a00d8b3f-65f4-4377-a526-3a3da8f11a71/gallery/ms35hryj-6p7el4.webp",
+    "heroImageAlt": "Sai Stella by b-sai-nisarg-landmark in Mamurdi, Pune",
+    "imageAlt": "Sai Stella Architecture in Mamurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -59833,6 +65326,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at RamSa Regio?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f3617d21-0df9-4450-b9bc-65424cd5106c/gallery/msyl37wy-am3g1o.webp",
+    "heroImageAlt": "RamSa Regio by b-ramsa-developers in Akurdi, Pune",
+    "imageAlt": "RamSa Regio Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -59942,6 +65448,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Rahul Aston?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/787b453c-d317-43e5-bb50-f5264fa4899c/gallery/msykifjn-252gzg.jpg",
+    "heroImageAlt": "Rahul Aston by b-rahul-constructions in Hinjewadi, Pune",
+    "imageAlt": "Rahul Aston Architecture in Hinjewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -60056,6 +65575,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shivam Residency?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/952b0965-d22a-4a32-9ac6-596edd404dfe/gallery/msyrrijj-58yi4p.webp",
+    "heroImageAlt": "Shivam Residency by b-preet-promoter in Ravet, Pune",
+    "imageAlt": "Shivam Residency Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -60170,6 +65702,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sankla West World?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2b32e733-dec7-4486-b4d7-e3db030fcc2f/gallery/mt8raaul-c6uyu2.webp",
+    "heroImageAlt": "Sankla West World by b-sankla-buildcon in Punawale, Pune",
+    "imageAlt": "Sankla West World Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -60291,6 +65836,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sai Canary?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/298a78c9-04ef-4f5d-b320-399b199526a8/gallery/mtsbgvnz-4lgd6l.webp",
+    "heroImageAlt": "Sai Canary by b-sai-nisarg-landmark in Balewadi, Pune",
+    "imageAlt": "Sai Canary Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -60406,6 +65964,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sankalp?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24e8b4ba-f85b-4d56-9714-067e8e838fb0/gallery/msabb9qm-mhpib.webp",
+    "heroImageAlt": "Sankalp by b-sankalp-group in Ravet, Pune",
+    "imageAlt": "Sankalp Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -60520,6 +66091,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Onkar Greens?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0cc7c1eb-b0b8-46a2-8135-af7b5aa30e87/gallery/msd1y5rp-5iy0o.webp",
+    "heroImageAlt": "Onkar Greens by b-onkar-developers in Sangavade, Pune",
+    "imageAlt": "Onkar Greens Architecture in Sangavade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -60633,6 +66217,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Bizzbay Commercial?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3dc1b420-f927-42eb-9b73-646a8b60bc78/gallery/mtzo6olh-8xlhqt.webp",
+    "heroImageAlt": "Bizzbay Commercial by b-bizzbay-developers in Tathawade, Pune",
+    "imageAlt": "Bizzbay Commercial Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -60749,6 +66345,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sai Palladium?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4dfb0df5-9e42-47df-981a-c50371618d7c/gallery/mrxbxnmq-3bfejt.webp",
+    "heroImageAlt": "Sai Palladium by b-sai-nisarg-landmark in Ravet, Pune",
+    "imageAlt": "Sai Palladium Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -60857,6 +66466,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Renuka Panchatattva?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Swimming Pool, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6cd703f1-29fd-4e79-974a-f66e627b5887/gallery/mt8qcwcb-b9m2g4.webp",
+    "heroImageAlt": "Renuka Panchatattva by b-renuka-construction in Tathawade, Pune",
+    "imageAlt": "Renuka Panchatattva Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -60962,6 +66584,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Capital?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Covered Parking, EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5f47e634-26df-4c2b-ab93-ad85cafe664f/gallery/mtwqllga-8hlwei.webp",
+    "heroImageAlt": "The Capital by b-the-skies-group in Akurdi, Pune",
+    "imageAlt": "The Capital Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -61076,6 +66708,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Supreme Universe?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2571c191-0455-40d1-8366-f3dfbbbb3d34/gallery/mt7g7oho-95ektc.webp",
+    "heroImageAlt": "Supreme Universe by b-supreme-universal in Punawale, Pune",
+    "imageAlt": "Supreme Universe Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -61196,6 +66841,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at T Square?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24d6ae25-a0ce-448a-b1e0-802f910a6444/gallery/mua3kvmu-504b36.webp",
+    "heroImageAlt": "T Square by b-t-developers in Tathawade, Pune",
+    "imageAlt": "T Square Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -61310,6 +66968,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Santiago Sunrise?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5ee883dd-7d70-442e-8d8a-f747c2418338/gallery/mvghm8cf-4dt4kg.webp",
+    "heroImageAlt": "Santiago Sunrise by b-santiago-realty in Aundh, Pune",
+    "imageAlt": "Santiago Sunrise Architecture in Aundh",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -61419,6 +67090,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Terraces?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9b539eae-9101-4db6-8609-a0a1783bceab/gallery/munxv6ju-4rrct3.webp",
+    "heroImageAlt": "The Terraces by b-almal-is-a-4-bhk-residential-project in Balewadi, Pune",
+    "imageAlt": "The Terraces Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -61533,6 +67217,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Hamptonns?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3f305272-e8dc-4741-a832-5bb4d16dd74b/gallery/msfsz4ue-b03co2.webp",
+    "heroImageAlt": "The Hamptonns by b-the-skies-group in Balewadi, Pune",
+    "imageAlt": "The Hamptonns Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -61647,6 +67344,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Unicorn?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d00f8f2f-83b3-4ad6-b485-fb180cfac8b5/gallery/mtfrrnnk-7o7fbn.webp",
+    "heroImageAlt": "The Unicorn by b-the-skies-group in Ravet, Pune",
+    "imageAlt": "The Unicorn Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -61762,6 +67472,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Westford Phase 2?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/92680e54-acee-43ea-aae2-f6ac90e698ca/gallery/mruyzsvq-33dxs0.webp",
+    "heroImageAlt": "The Westford Phase 2 by b-the-skies-group in Pimple Saudagar, Pune",
+    "imageAlt": "The Westford Phase 2 Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -61868,6 +67591,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Codename T Square?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Landscaped Garden, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24d6ae25-a0ce-448a-b1e0-802f910a6444/gallery/mua3l5m3-9a3h3s.webp",
+    "heroImageAlt": "Codename T Square by b-codename-developers in Tathawade, Pune",
+    "imageAlt": "Codename T Square Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -61982,6 +67716,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at TruSpace Prima Altiora?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/91e54192-3706-40ab-9bdd-76ae599d129d/gallery/muckf6xb-53r7zr.webp",
+    "heroImageAlt": "TruSpace Prima Altiora by b-truespace in Wakad, Pune",
+    "imageAlt": "TruSpace Prima Altiora Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -62096,6 +67843,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Codename Manifest?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/900844af-b054-425d-8239-3c454aa794b9/gallery/mu9zjdvl-1tu1bl.webp",
+    "heroImageAlt": "Codename Manifest by b-codename-developers in Ravet, Pune",
+    "imageAlt": "Codename Manifest Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -62222,6 +67982,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Tulip Infinity Avana?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Library, Sports Court, Co-working Lounge, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc6xbx-17wr8.webp",
+    "heroImageAlt": "Tulip Infinity Avana by b-tulip-group in Punawale, Pune",
+    "imageAlt": "Tulip Infinity Avana Architecture in Punawale",
+    "amenities": [
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -62341,6 +68114,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sukhwani Palmera Reserves?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ab077809-93b0-4f54-9449-8e1bb8b8e2f8/gallery/mtqwylhc-57ldp2.webp",
+    "heroImageAlt": "Sukhwani Palmera Reserves by b-sukhwani-associates in Kiwale, Pune",
+    "imageAlt": "Sukhwani Palmera Reserves Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -62456,6 +68242,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Harivishva Dange Chowk?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b22d8088-0c22-4d3d-88c7-5bd8a10c0946/gallery/ms4e6rnl-d2myhz.webp",
+    "heroImageAlt": "Harivishva Dange Chowk by b-harivishva-developers in Tathawade, Pune",
+    "imageAlt": "Harivishva Dange Chowk Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -62570,6 +68369,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashada?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/61ae461c-a73a-4c6f-9f18-8e1a8edf822e/gallery/msngjroc-84ytl0.webp",
+    "heroImageAlt": "Yashada by b-yashada-realty in Kiwale, Pune",
+    "imageAlt": "Yashada Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -62678,6 +68490,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VMA Reserve?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5113990c-0436-4a35-a9ac-b9802d21a448/gallery/mul2s7nm-3zipbp.webp",
+    "heroImageAlt": "VMA Reserve by b-feb-2026 in Punawale, Pune",
+    "imageAlt": "VMA Reserve Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -62787,6 +68612,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VJ Town Center?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Landscaped Garden, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/99ce3d8b-3910-41f2-be36-1e991b80692b/gallery/mtfqrpaw-70lfh1.webp",
+    "heroImageAlt": "VJ Town Center by b-vj-developers in Tathawade, Pune",
+    "imageAlt": "VJ Town Center Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -62892,6 +68728,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Commercial Avis Avante?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Covered Parking, EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/654bbb43-a80a-4cdb-a564-7d86a52df17c/gallery/mrytnodb-2izrb9.webp",
+    "heroImageAlt": "Commercial Avis Avante by b-commercial-developers in Wakad, Pune",
+    "imageAlt": "Commercial Avis Avante Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -63000,6 +68846,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Miracle?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/dc63bae4-ef24-4432-98a1-8d0ce0c42801/gallery/msfw6cff-75gzfp.webp",
+    "heroImageAlt": "The Miracle by b-the-skies-group in Pimple Saudagar, Pune",
+    "imageAlt": "The Miracle Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -63114,6 +68973,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Chandrarang Embercrest?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cf2b2fda-456d-4f33-9fc5-41d129bb3b27/gallery/mt5lbswj-2y1fxj.webp",
+    "heroImageAlt": "Chandrarang Embercrest by b-chandrarang-group in Wakad, Pune",
+    "imageAlt": "Chandrarang Embercrest Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -63222,6 +69094,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mauli?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a6bb8368-42c5-433d-a743-63e4ade9e95c/gallery/mrrkvfqh-9gxwsy.webp",
+    "heroImageAlt": "Mauli by b-mauli-developers in Baner, Pune",
+    "imageAlt": "Mauli Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -63335,6 +69220,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Park West Towers?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Co-working Lounge, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b6f7d828-1abf-42f9-80d8-454090539be2/gallery/mrxttsfz-gamp1q.webp",
+    "heroImageAlt": "Park West Towers by b-park-developers in Tathawade, Pune",
+    "imageAlt": "Park West Towers Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Concierge",
+      "EV Charging"
     ]
   },
   {
@@ -63455,6 +69352,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Maheshwaram Vrinda?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7c15740e-3e56-49b7-86ad-3f50e9c2761e/gallery/mvfc1lsm-5ci80s.webp",
+    "heroImageAlt": "Maheshwaram Vrinda by b-the-developer in Ravet, Pune",
+    "imageAlt": "Maheshwaram Vrinda Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -63563,6 +69473,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Codename Minibust Menlo?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Jogging Track, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9e7119a7-9047-4d4a-ab83-60c260b848dd/gallery/mujkypyu-8shtrm.webp",
+    "heroImageAlt": "Codename Minibust Menlo by b-codename-developers in Hinjewadi, Pune",
+    "imageAlt": "Codename Minibust Menlo Architecture in Hinjewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -63677,6 +69600,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Silverise Skylight?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/55e44635-4e82-4afc-a0df-0d0c5051be95/gallery/mrqtlytw-8n1fqh.webp",
+    "heroImageAlt": "Silverise Skylight by b-silverise-group in Pimpri, Pune",
+    "imageAlt": "Silverise Skylight Architecture in Pimpri",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -63793,6 +69729,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Maheshwaram Majestic?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/92c3cc6d-744b-4bad-9224-d1afb435a8bc/gallery/mtmsfjnr-ccc5t0.webp",
+    "heroImageAlt": "Maheshwaram Majestic by b-maheshwaram-associates in Ravet, Pune",
+    "imageAlt": "Maheshwaram Majestic Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -63901,6 +69850,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gera Code Vroom?",
         "answer": "The development features world-class lifestyle amenities including High-Tech Racing Simulator Arena, Skate Park & Rock Climbing Wall, Rooftop Sports Arena, Smart Home Automation, Zero Commission Direct Deal, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Gera Code Vroom by b-gera in Hinjewadi, Pune",
+    "imageAlt": "Gera Code Vroom Architecture in Hinjewadi",
+    "amenities": [
+      "High-Tech Racing Simulator Arena",
+      "Skate Park & Rock Climbing Wall",
+      "Rooftop Sports Arena",
+      "Smart Home Automation",
+      "Zero Commission Direct Deal"
     ]
   },
   {
@@ -64010,6 +69968,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at GEO ARISTO?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8f9b342d-2355-4f8e-8bc9-93fd2e8bf50e/gallery/msg76i9z-9ekdyn.webp",
+    "heroImageAlt": "GEO ARISTO by b-geo-developers in Ravet, Pune",
+    "imageAlt": "GEO ARISTO Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -64124,6 +70095,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Supreme Rivana?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2571c191-0455-40d1-8366-f3dfbbbb3d34/gallery/mt7g7hsz-g6ug3z.webp",
+    "heroImageAlt": "Supreme Rivana by b-supreme-universal in Punawale, Pune",
+    "imageAlt": "Supreme Rivana Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -64238,6 +70222,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kunal The Canary?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/951faf40-6acb-4fef-abd1-f5ef5cb26a99/gallery/mrtjk1pm-am367u.webp",
+    "heroImageAlt": "Kunal The Canary by b-kunal-group in Balewadi, Pune",
+    "imageAlt": "Kunal The Canary Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -64358,6 +70355,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at ALPINE 21?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/34b209bd-d98f-40de-b735-24132e7edc0e/gallery/mrvu8nbp-9ls2yu.webp",
+    "heroImageAlt": "ALPINE 21 by b-alpine-developers in Tathawade, Pune",
+    "imageAlt": "ALPINE 21 Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -64484,6 +70494,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Newton Homes Royale?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Library, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/79ad62b1-963d-43e6-92e9-7d2a50735dc5/gallery/mvhpt6ph-7h7vlt.webp",
+    "heroImageAlt": "Newton Homes Royale by b-newton-developers in Mundhwa, Pune",
+    "imageAlt": "Newton Homes Royale Architecture in Mundhwa",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -64591,6 +70614,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Golden HQ?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/07f33567-595b-4aa8-943e-6640f90acc51/gallery/mupk5pl8-3ye1my.webp",
+    "heroImageAlt": "Golden HQ by b-road-and-rail in Chinchwad, Pune",
+    "imageAlt": "Golden HQ Architecture in Chinchwad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -64698,6 +70733,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Capri Commercial?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/157b51b9-13b8-4ea8-851d-cb26fed69ee9/gallery/msg961nj-f6m04h.webp",
+    "heroImageAlt": "Capri Commercial by b-nm-corp in Ravet, Pune",
+    "imageAlt": "Capri Commercial Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -64806,6 +70853,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at GRD WeOne 121?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c8016333-bd3a-410d-860f-c1949064dd27/gallery/msfqrm6d-8cvrt8.webp",
+    "heroImageAlt": "GRD WeOne 121 by b-grd-infraprojects-private-limited in Wakad, Pune",
+    "imageAlt": "GRD WeOne 121 Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area",
+      "EV Charging"
     ]
   },
   {
@@ -64914,6 +70974,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gen1 Baner?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/50692e8f-fea2-4b79-a477-99df56aa20c0/gallery/msw30lhj-begcd0.webp",
+    "heroImageAlt": "Gen1 Baner by b-gen1-developers in Baner, Pune",
+    "imageAlt": "Gen1 Baner Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Concierge",
+      "EV Charging"
     ]
   },
   {
@@ -65028,6 +71101,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Crestline Realty?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c68d7f2b-2386-4496-b1b2-d96371a7e8a6/gallery/mv53wbs0-75nfjl.webp",
+    "heroImageAlt": "Crestline Realty by b-crestline-developers in Kiwale, Pune",
+    "imageAlt": "Crestline Realty Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -65144,6 +71230,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Aria?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6c3ce846-af1c-4745-8f05-deb747f088ea/gallery/ms7gja99-51tdna.webp",
+    "heroImageAlt": "Aria by b-aria-developers in Punawale, Pune",
+    "imageAlt": "Aria Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -65263,6 +71362,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at ANP Memento?",
         "answer": "The development features world-class lifestyle amenities including Bhumkar Chowk Wakad Prime Strategic Location, Opposite Golden Care Hospital & Near Phoenix Mall, Double-Height Private Lifestyle Balconies, High-Speed Elevators & Podium Amenities, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "ANP Memento by b-anp-corp in Wakad, Pune",
+    "imageAlt": "ANP Memento Architecture in Wakad",
+    "amenities": [
+      "Bhumkar Chowk Wakad Prime Strategic Location",
+      "Opposite Golden Care Hospital & Near Phoenix Mall",
+      "Double-Height Private Lifestyle Balconies",
+      "High-Speed Elevators & Podium Amenities",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -65368,6 +71476,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at AG Landmark?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Covered Parking, EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6d10e688-5927-4ea8-a4da-a454a1bbf4b8/gallery/msueedbq-8ttwk2.webp",
+    "heroImageAlt": "AG Landmark by b-ag-developers in Wakad, Pune",
+    "imageAlt": "AG Landmark Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -65482,6 +71600,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at GT Codename Amore?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/54dda84e-2a5d-4efa-908f-94c7289ebc77/gallery/mv55qn45-5bsru4.webp",
+    "heroImageAlt": "GT Codename Amore by b-gt-associates-promotors-and-builders in Kiwale, Pune",
+    "imageAlt": "GT Codename Amore Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -65596,6 +71727,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Heartland?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/34e1a7a3-da32-4ff4-b128-2a4e7a4e4dba/gallery/ms389rem-3jwcao.webp",
+    "heroImageAlt": "Heartland by b-heartland-developers in Akurdi, Pune",
+    "imageAlt": "Heartland Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -65708,6 +71852,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shaligram walhekarwadi?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d81320d5-fca4-4200-b78a-05a80ba67291/gallery/mrs2rfde-8lfvg3.webp",
+    "heroImageAlt": "Shaligram walhekarwadi by b-shaligram-group in Walhekarwadi, Pune",
+    "imageAlt": "Shaligram walhekarwadi Architecture in Walhekarwadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -65822,6 +71979,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Anand Vihar?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2d319d68-1122-4d25-a483-b35c34a06912/gallery/mt048rlf-7htves.webp",
+    "heroImageAlt": "Anand Vihar by b-anand-developers in Baner, Pune",
+    "imageAlt": "Anand Vihar Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -65927,6 +72097,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Vishnu Crown?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8006af67-6771-4e1b-853e-d355aac1f967/cover/mujnikbe-bfyrin.webp",
+    "heroImageAlt": "Vishnu Crown by b-vishnu-housing in Chinchwad, Pune",
+    "imageAlt": "Vishnu Crown Architecture in Chinchwad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -66055,6 +72238,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yoo Pristine?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ff00cd0f-2bf2-4bfe-9b1b-b7d43a00338a/gallery/ms8px5jp-9zal2u.webp",
+    "heroImageAlt": "Yoo Pristine by b-yoo-developers in Akurdi, Pune",
+    "imageAlt": "Yoo Pristine Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -66168,6 +72364,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at NB Evo Plaza?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e45d7774-0437-43fb-a011-5451a160d9e1/gallery/msdcgfv6-aseeac.webp",
+    "heroImageAlt": "NB Evo Plaza by b-nb-developers in Punawale, Pune",
+    "imageAlt": "NB Evo Plaza Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -66284,6 +72492,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shankeshwar kingsland Hinjewadi phase 1?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a00dca02-b2fb-496f-9534-57318a5788d3/gallery/mtbhu914-7t4d2x.webp",
+    "heroImageAlt": "Shankeshwar kingsland Hinjewadi phase 1 by b-shankeshwar-group in Hinjewadi, Pune",
+    "imageAlt": "Shankeshwar kingsland Hinjewadi phase 1 Architecture in Hinjewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -66397,6 +72618,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at ANP Bizsquare?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/958a62c8-0615-4615-b996-1fde7fb669af/gallery/msaa57vn-2rk7pd.webp",
+    "heroImageAlt": "ANP Bizsquare by b-anp-corp in Wakad, Pune",
+    "imageAlt": "ANP Bizsquare Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -66511,6 +72743,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 27 West?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b82f3be3-cd1a-4f2a-9003-0b7e915ec07c/gallery/mujgx5jd-b0arag.webp",
+    "heroImageAlt": "27 West by b-hubtown in Balewadi, Pune",
+    "imageAlt": "27 West Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -66631,6 +72875,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at GK Chandrarang?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bdd4f5fd-7713-4265-a7b4-171214876d05/gallery/mrxsigfu-33l9ng.webp",
+    "heroImageAlt": "GK Chandrarang by b-gk-associates-promoters-builders in Pimple Saudagar, Pune",
+    "imageAlt": "GK Chandrarang Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -66751,6 +73008,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashada Evo Residences?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/348d7c37-0495-4d40-a1b5-30f9a78beec7/gallery/msd78asb-g1ykfk.jfif",
+    "heroImageAlt": "Yashada Evo Residences by b-yashada-realty in Punawale, Pune",
+    "imageAlt": "Yashada Evo Residences Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -66866,6 +73136,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at EH Towers?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b2e1bb8-4a13-43a3-9800-49462b940cee/gallery/mtu0aq1a-186ixv.webp",
+    "heroImageAlt": "EH Towers by b-eh-developers in Tathawade, Pune",
+    "imageAlt": "EH Towers Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -66974,6 +73257,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 45 Eliite Heights?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5fc193db-5c08-409c-895c-e105fdeae0fe/gallery/muxzxux8-a18boo.webp",
+    "heroImageAlt": "45 Eliite Heights by b-45-developers in Nigdi, Pune",
+    "imageAlt": "45 Eliite Heights Architecture in Nigdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -67089,6 +73385,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Dream Glorious?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9cf01666-268a-40ee-ad5a-414dde765238/gallery/msvlscq7-py1uj.webp",
+    "heroImageAlt": "Dream Glorious by b-dream-works-realtors in Balewadi, Pune",
+    "imageAlt": "Dream Glorious Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -67203,6 +73512,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 73 PARK?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d24fbac3-1f80-4607-a825-09126356f890/gallery/mv0tn4pa-2z51de.webp",
+    "heroImageAlt": "73 PARK by b-73-developers in Kiwale, Pune",
+    "imageAlt": "73 PARK Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -67316,6 +73638,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Avantara?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c1ebbb5a-44d9-40d9-94ba-39a17afb7802/gallery/mvfc3lk5-cadxtj.webp",
+    "heroImageAlt": "Kohinoor Avantara by b-kohinoor in Wakad, Pune",
+    "imageAlt": "Kohinoor Avantara Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -67424,6 +73759,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 7 Cosmos?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2084d602-4687-43b2-ace1-2af77bde7e3d/gallery/mv6hzkmf-74n8dr.webp",
+    "heroImageAlt": "7 Cosmos by b-cosmos-urban-realty in Pimple Nilakh, Pune",
+    "imageAlt": "7 Cosmos Architecture in Pimple Nilakh",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -67529,6 +73877,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 45 West?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Covered Parking, EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3eaf88fb-9d78-4980-97b1-14bdbebeadc2/gallery/mtwr6asp-fb33pt.webp",
+    "heroImageAlt": "45 West by b-excellent-connectivity in Baner, Pune",
+    "imageAlt": "45 West Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -67643,6 +74001,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Emerald Grove?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e4f4965c-c8a9-4daa-83c8-607c45dcadbb/gallery/mrqeru68-4lvvs7.webp",
+    "heroImageAlt": "Emerald Grove by b-emerald-developers in Punawale, Pune",
+    "imageAlt": "Emerald Grove Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -67750,6 +74121,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at EH Towers Commercial?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2f5ab14e-ab29-40f3-941d-8b954612d18f/gallery/mwc3conf-7rrdfv.webp",
+    "heroImageAlt": "EH Towers Commercial by b-eh-developers in Tathawade, Pune",
+    "imageAlt": "EH Towers Commercial Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "Covered Parking"
     ]
   },
   {
@@ -67868,6 +74248,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Arun Sanctum?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/2e69a6e3-1ce7-4c98-9e0a-727349288117/gallery/mtgzn229-161b8j.webp",
+    "heroImageAlt": "Arun Sanctum by b-arun-developers in Ravet, Pune",
+    "imageAlt": "Arun Sanctum Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -67976,6 +74369,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Audumbar Green?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Jogging Track, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d07d0848-f239-4259-9fe2-94296d231351/gallery/mt0abz0r-4xmjh9.webp",
+    "heroImageAlt": "Audumbar Green by b-audumbar-developers in Tathawade, Pune",
+    "imageAlt": "Audumbar Green Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -68090,6 +74496,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Aster Park Residences?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/98204206-d13b-4b07-906b-eb11aaba666a/gallery/muxw567j-do2fjo.webp",
+    "heroImageAlt": "Aster Park Residences by b-wakadkar-associate in Jambe, Pune",
+    "imageAlt": "Aster Park Residences Architecture in Jambe",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -68211,6 +74630,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Envogue 2 Tayal Corp Group?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/30357ebb-f298-4eed-afbb-7e4997cfb66f/gallery/ms3hr3qh-4sa8b4.webp",
+    "heroImageAlt": "Envogue 2 Tayal Corp Group by b-tayal-corp in Akurdi, Pune",
+    "imageAlt": "Envogue 2 Tayal Corp Group Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -68331,6 +74763,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashada Evo Punawale?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d77cfecc-21b5-4006-bfce-56806917ccd9/gallery/msd6tg9s-d62pss.jfif",
+    "heroImageAlt": "Yashada Evo Punawale by b-yashada-realty in Punawale, Pune",
+    "imageAlt": "Yashada Evo Punawale Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -68449,6 +74894,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Aundh Renaissance?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/40461eb8-5661-4748-b8ed-9686540b3bb5/gallery/mtps65l1-5mp9pf.webp",
+    "heroImageAlt": "Aundh Renaissance by b-aundh-developers in Aundh, Pune",
+    "imageAlt": "Aundh Renaissance Architecture in Aundh",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -68558,6 +75016,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at ELITE CROWN?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fae4df65-8efa-4cef-9eab-2a2f0030f5cd/gallery/msvmy7ne-aweqbk.webp",
+    "heroImageAlt": "ELITE CROWN by b-elite-group in Ravet, Pune",
+    "imageAlt": "ELITE CROWN Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -68666,6 +75137,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Audumbar Bliss?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Library, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/94cdaac6-a885-494b-a748-bf298e510802/gallery/mrrjtb8m-f9i22h.webp",
+    "heroImageAlt": "Audumbar Bliss by b-audumbar-developers in Walhekarwadi, Pune",
+    "imageAlt": "Audumbar Bliss Architecture in Walhekarwadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -68773,6 +75257,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gen1?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c193cd1a-4c31-4aae-856c-6c23246f405f/gallery/mtws5lpc-addven.webp",
+    "heroImageAlt": "Gen1 by b-gen1-developers in Baner, Pune",
+    "imageAlt": "Gen1 Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -68881,6 +75377,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Greens?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/00789064-ebcf-4e95-99f3-6f00b908eae3/gallery/msob4dr4-28dyoq.webp",
+    "heroImageAlt": "Greens by b-morya-greens in Thergaon, Pune",
+    "imageAlt": "Greens Architecture in Thergaon",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -68995,6 +75504,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at GT Krushnakunj?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/349d4568-3e33-461e-b828-e9627e645788/gallery/mrth52j8-f1hev4.webp",
+    "heroImageAlt": "GT Krushnakunj by b-gt-associates-promotors-and-builders in Kiwale, Pune",
+    "imageAlt": "GT Krushnakunj Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -69117,6 +75639,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at GK Sindhu Skies?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5a2770a3-a583-4bb5-9fbc-00c337d46284/gallery/mrxjj8u9-aicy7r.webp",
+    "heroImageAlt": "GK Sindhu Skies by b-gk-associates-promoters-builders in Pimple Saudagar, Pune",
+    "imageAlt": "GK Sindhu Skies Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -69231,6 +75766,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Venkatesh Serenique?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a24b3a7c-640f-4663-8a56-e4d02d301816/gallery/mt77tevk-1m89vj.webp",
+    "heroImageAlt": "Venkatesh Serenique by b-shree-venkatesh-buildcon-and-vikram-developers-and-promoters in Bavdhan, Pune",
+    "imageAlt": "Venkatesh Serenique Architecture in Bavdhan",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -69358,6 +75906,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at EMPIRE SQUARE?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7c996bc2-4657-4119-98bb-bf6f970f32ae/gallery/muclj1z0-2wxgqe.webp",
+    "heroImageAlt": "EMPIRE SQUARE by b-empire-developers in Chinchwad, Pune",
+    "imageAlt": "EMPIRE SQUARE Architecture in Chinchwad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -69474,6 +76035,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kimaya Muktangan?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/05a9a4ed-6dd6-4bef-8166-7a05a2139000/gallery/mrriv5rg-eegsiq.webp",
+    "heroImageAlt": "Kimaya Muktangan by b-kimaya-realities in Pimple Saudagar, Pune",
+    "imageAlt": "Kimaya Muktangan Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -69589,6 +76163,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 24 Life Altaa?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a32719e9-86a5-4d6e-9057-8e4205c1fd74/gallery/msudikp7-7w0uv1.webp",
+    "heroImageAlt": "24 Life Altaa by b-kshitej-realtors in Punawale, Pune",
+    "imageAlt": "24 Life Altaa Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -69703,6 +76290,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Aswani Magnus?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f213716d-f8eb-4867-98dd-5db4e7362c9a/gallery/mrtirptb-w6pqk.webp",
+    "heroImageAlt": "Aswani Magnus by b-aswani-associates in Pimple Saudagar, Pune",
+    "imageAlt": "Aswani Magnus Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -69809,6 +76409,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Vezdaa Shop?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/408d9399-8f79-4443-bbe5-c388dae06c81/gallery/mszpiyh6-31suah.webp",
+    "heroImageAlt": "Vezdaa Shop by b-vezdaa-developers in Ravet, Pune",
+    "imageAlt": "Vezdaa Shop Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -69925,6 +76536,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kalp One?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/271b55e4-1962-4221-8d1a-c0e975c2dcdd/gallery/ms32vmc7-3suj1m.webp",
+    "heroImageAlt": "Kalp One by b-kalp-developers in Wakad, Pune",
+    "imageAlt": "Kalp One Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -70039,6 +76662,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Akshay Vista?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/881dd189-ee16-4cd3-bba5-c97887854b13/gallery/mt03if0h-2se7np.webp",
+    "heroImageAlt": "Akshay Vista by b-akshay-skyscrapers in Pimple Gurav, Pune",
+    "imageAlt": "Akshay Vista Architecture in Pimple Gurav",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -70149,6 +76785,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kesar Kalhaar?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4b48c125-aee6-4214-983e-def19b7d9c82/gallery/ms8rzg8r-esklc5.webp",
+    "heroImageAlt": "Kesar Kalhaar by b-kesar-group in Kiwale, Pune",
+    "imageAlt": "Kesar Kalhaar Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -70264,6 +76913,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Udyam Residency?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5d62fa8a-eeaa-4f06-b87a-86eef01aa1a4/gallery/mruserwt-5ajriv.webp",
+    "heroImageAlt": "Udyam Residency by b-udyam-developers in Chinchwad, Pune",
+    "imageAlt": "Udyam Residency Architecture in Chinchwad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -70378,6 +77040,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Atrium Montaire?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1cacab48-57d0-4e31-8ad8-cb73542425ac/gallery/mrtj7na9-6a7qwb.webp",
+    "heroImageAlt": "Atrium Montaire by b-atrium-landmarks in Balewadi, Pune",
+    "imageAlt": "Atrium Montaire Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -70486,6 +77161,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Unite Runal Studios?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4050e2e5-684b-4d3b-9477-b5fbe03bebcb/gallery/ms37mbuy-4imre6.webp",
+    "heroImageAlt": "Unite Runal Studios by b-unite-developers in Ravet, Pune",
+    "imageAlt": "Unite Runal Studios Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -70594,6 +77282,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Vivanta Aaranya?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d3b9ccda-f53f-4ea0-82e8-c2fe0cce3faa/gallery/ms4qg7vw-3wf6fu.webp",
+    "heroImageAlt": "Vivanta Aaranya by b-vivanta-developers in Ravet, Pune",
+    "imageAlt": "Vivanta Aaranya Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -70708,6 +77409,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kisana Skies?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a1ac05b2-6c7e-48ac-bd00-48277dc98be5/gallery/mv6jrnt0-99g8id.webp",
+    "heroImageAlt": "Kisana Skies by b-kisana-developers in Kiwale, Pune",
+    "imageAlt": "Kisana Skies Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -70826,6 +77540,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Ajwani Prissa Pratham?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9caa7b33-d668-4189-b6bf-cf105a9ae1ed/gallery/mvf42mhg-2mrw30.webp",
+    "heroImageAlt": "Ajwani Prissa Pratham by b-ajwani-developers in Wakad, Pune",
+    "imageAlt": "Ajwani Prissa Pratham Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -70932,6 +77659,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Austin Avenue Commercial?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0638891f-fbf6-45b3-aa47-ddc0801191c0/gallery/mtwogjei-fgrycg.webp",
+    "heroImageAlt": "Austin Avenue Commercial by b-june-2027 in Tathawade, Pune",
+    "imageAlt": "Austin Avenue Commercial Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -71050,6 +77788,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Downtown?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Co-working Lounge, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4179c154-ccad-4f97-8c34-322d3cb2f974/gallery/mvfbfbvh-9n7u0x.webp",
+    "heroImageAlt": "Kohinoor Downtown by b-kohinoor in Wakad, Pune",
+    "imageAlt": "Kohinoor Downtown Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -71171,6 +77922,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Satori?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4171187c-4154-4224-bb36-819a03add6a9/gallery/mtsfd6jj-45jf27.webp",
+    "heroImageAlt": "Kohinoor Satori by b-kohinoor in Mahalunge, Pune",
+    "imageAlt": "Kohinoor Satori Architecture in Mahalunge",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -71285,6 +78049,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Koral Aeternaa?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/11e66687-a63a-4a5f-b79c-573433564fb2/gallery/mrxkq96a-f6i5kz.webp",
+    "heroImageAlt": "Koral Aeternaa by b-koral-developers in Thergaon, Pune",
+    "imageAlt": "Koral Aeternaa Architecture in Thergaon",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -71398,6 +78175,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Aurelia?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8f242be2-cc75-49c7-b614-a46cdf840e6a/gallery/mvfbfp93-aec27h.webp",
+    "heroImageAlt": "Aurelia by b-shitole-properties in Rahatani, Pune",
+    "imageAlt": "Aurelia Architecture in Rahatani",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -71511,6 +78301,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 24 Wallstreet?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/97f88402-cebb-4a65-8e90-1404397d3b14/gallery/mszvnaf9-edbwq3.webp",
+    "heroImageAlt": "24 Wallstreet by b-24-developers in Pimpri, Pune",
+    "imageAlt": "24 Wallstreet Architecture in Pimpri",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -71625,6 +78427,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 64 Meridien?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/62b6b3ff-c78a-4b7d-ad2b-fd5cd24f01e7/gallery/mv51tz1h-ahxao6.webp",
+    "heroImageAlt": "64 Meridien by b-space-builders-group in Ravet, Pune",
+    "imageAlt": "64 Meridien Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -71745,6 +78560,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kumar Parv?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6db11a45-9947-4037-9561-15d5aeed339a/gallery/mtya4okq-muzq6.webp",
+    "heroImageAlt": "Kumar Parv by b-kumar-lifespaces in Moshi, Pune",
+    "imageAlt": "Kumar Parv Architecture in Moshi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -71855,6 +78683,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Legacy Ekam?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1fd2813d-44b4-4017-88f0-91e6a1715920/gallery/mtlgkhph-743mo.webp",
+    "heroImageAlt": "Legacy Ekam by b-legacy-lifespaces in Punawale, Pune",
+    "imageAlt": "Legacy Ekam Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -71970,6 +78811,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Icon Avanza?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c12ec222-dc55-4349-acc8-18f2a0e51f91/gallery/mrvvuv1e-2y93dz.webp",
+    "heroImageAlt": "Icon Avanza by b-icon-group in Balewadi, Pune",
+    "imageAlt": "Icon Avanza Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -72078,6 +78932,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at KK Capitol?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ab609199-bd97-4a85-934a-6b91c59d2cb3/gallery/mt43zv2s-25hor4.webp",
+    "heroImageAlt": "KK Capitol by b-kk-group in Rahatani, Pune",
+    "imageAlt": "KK Capitol Architecture in Rahatani",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -72187,6 +79054,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Krisala 41 Commune?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/79d0271e-267d-4ae7-9dfd-30eb2c6f9ccd/gallery/mtlfb0pf-36zkyk.webp",
+    "heroImageAlt": "Krisala 41 Commune by b-zolo-homes in Wakad, Pune",
+    "imageAlt": "Krisala 41 Commune Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -72301,6 +79180,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mahindra Sanctum?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bdf0844b-6e4c-4c42-b959-5fc854a10152/gallery/mt457qso-1yn085.webp",
+    "heroImageAlt": "Mahindra Sanctum by b-mahindra in Pimpri, Pune",
+    "imageAlt": "Mahindra Sanctum Architecture in Pimpri",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -72415,6 +79307,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at PK Canopus?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4088de45-e01b-4690-b4d2-aa6bba3ecd26/gallery/mrswcdcy-4qrara.webp",
+    "heroImageAlt": "PK Canopus by b-pk-group in Wakad, Pune",
+    "imageAlt": "PK Canopus Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -72532,6 +79437,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Lenora?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1cf046a5-1b91-4fc2-ac07-26ec3e2f846e/gallery/mtlia5ly-7s8f2h.webp",
+    "heroImageAlt": "Lenora by b-lenora-developers in Kiwale, Pune",
+    "imageAlt": "Lenora Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -72646,6 +79564,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at GK Aria?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/935a60b0-3773-4c76-91f4-71f50af39502/gallery/musmvjxl-84schw.webp",
+    "heroImageAlt": "GK Aria by b-gk-associates-promoters-builders in Punawale, Pune",
+    "imageAlt": "GK Aria Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -72759,6 +79690,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Apex Business Bay?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/30cbdfff-e995-423b-b4d3-6728a30539b4/gallery/msxdvnj8-eewwqd.webp",
+    "heroImageAlt": "Apex Business Bay by b-apex-developers in Chinchwad, Pune",
+    "imageAlt": "Apex Business Bay Architecture in Chinchwad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -72875,6 +79818,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Majestique The Light?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/99be1981-dbfd-4c59-aee3-ae6cf167810b/gallery/mtqzv5ky-ahx3zv.webp",
+    "heroImageAlt": "Majestique The Light by b-majestique-landmarks in Balewadi, Pune",
+    "imageAlt": "Majestique The Light Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -72983,6 +79939,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Meridian Studios?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/717b3806-d658-471f-959d-797f70e0653f/gallery/muuxj5u4-cwmsf4.webp",
+    "heroImageAlt": "Meridian Studios by b-amegh-group in Wakad, Pune",
+    "imageAlt": "Meridian Studios Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -73098,6 +80067,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Midori Towers?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e48534a1-6f04-4a36-a0ee-4631131d8c22/gallery/ms8wdzi3-a4oka3.webp",
+    "heroImageAlt": "Midori Towers by b-midori-developers in Pimple Nilakh, Pune",
+    "imageAlt": "Midori Towers Architecture in Pimple Nilakh",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -73206,6 +80188,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Avani 12th Avenue?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4935e56d-e052-4b3a-ba34-d00862501f24/gallery/mul82udy-fi5f8j.webp",
+    "heroImageAlt": "Avani 12th Avenue by b-avani-housing in Tathawade, Pune",
+    "imageAlt": "Avani 12th Avenue Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -73323,6 +80318,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at My Home?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/33dcd66b-17e3-45d1-9b85-289549670757/gallery/mtppx9v0-7fopcl.webp",
+    "heroImageAlt": "My Home by b-goyal-properties in Akurdi, Pune",
+    "imageAlt": "My Home Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -73437,6 +80445,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Aditya Vivaaz?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6143bac3-2520-4813-be17-aba5d967132e/gallery/mt02ytg8-bkop0w.webp",
+    "heroImageAlt": "Aditya Vivaaz by b-aditya-builders in Ravet, Pune",
+    "imageAlt": "Aditya Vivaaz Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking"
     ]
   },
   {
@@ -73551,6 +80572,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Meriton Heights?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/16d4fb2e-a619-45d4-9fcc-42ab9cdb529d/gallery/mt8inz8k-7sp8ow.webp",
+    "heroImageAlt": "Meriton Heights by b-meriton-developers in Mamurdi, Pune",
+    "imageAlt": "Meriton Heights Architecture in Mamurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -73666,6 +80700,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Meridian Square Tathwade?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f87b81f3-4e01-402e-8750-96439fbe8951/gallery/mruixyww-crr91p.webp",
+    "heroImageAlt": "Meridian Square Tathwade by b-np-lifespaces in Tathawade, Pune",
+    "imageAlt": "Meridian Square Tathwade Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -73783,6 +80830,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at AR AMORA?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/534a4875-d314-4b58-9aaa-4cded5c22efd/gallery/mtgyun1i-84p9je.webp",
+    "heroImageAlt": "AR AMORA by b-ar-realty in Wakad, Pune",
+    "imageAlt": "AR AMORA Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -73896,6 +80956,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Avishkar Ridhima Commercial Hinjewadi Phase 3?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f3321588-9b93-4a63-b13b-08ab09924e6b/gallery/ms0dvbce-21vacz.webp",
+    "heroImageAlt": "Avishkar Ridhima Commercial Hinjewadi Phase 3 by b-it-parks in Hinjewadi, Pune",
+    "imageAlt": "Avishkar Ridhima Commercial Hinjewadi Phase 3 Architecture in Hinjewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -74010,6 +81081,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gurukrupa 7 Avenue?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/51014204-43f0-496a-847a-05447110109f/gallery/mt5m03g2-6kzuic.webp",
+    "heroImageAlt": "Gurukrupa 7 Avenue by b-a-reputed-west in Kiwale, Pune",
+    "imageAlt": "Gurukrupa 7 Avenue Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -74125,6 +81209,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Om Mangalam Samruddhi?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bcd2a79a-b7f3-4413-89da-3597e847c5b9/gallery/ms4fg9g9-dvfnem.webp",
+    "heroImageAlt": "Om Mangalam Samruddhi by b-om-builders-developers in Kiwale, Pune",
+    "imageAlt": "Om Mangalam Samruddhi Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -74240,6 +81337,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at QUE 154?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a0f6cbc9-ffca-428e-9c11-b2767da64b4d/gallery/msxhob6a-dqdnv4.webp",
+    "heroImageAlt": "QUE 154 by b-que-developers in Punawale, Pune",
+    "imageAlt": "QUE 154 Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -74354,6 +81464,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at One Platinum?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1d6b3128-b87a-4b5a-b287-87c39391c76a/gallery/mtbbd2ax-4t4hi.webp",
+    "heroImageAlt": "One Platinum by b-matrix-developers in Akurdi, Pune",
+    "imageAlt": "One Platinum Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -74468,6 +81591,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Placidia?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b54ce6d-9ca9-420e-81ad-1050f00a9815/gallery/mtpqvqmz-2mbz0m.webp",
+    "heroImageAlt": "Placidia by b-placidia-developers in Akurdi, Pune",
+    "imageAlt": "Placidia Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -74578,6 +81714,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pleroma Greens?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b94c8e51-0894-4925-87fe-7eb0c22b2f97/gallery/mrwbewaa-bulh1v.webp",
+    "heroImageAlt": "Pleroma Greens by b-pleroma-developers in Tathawade, Pune",
+    "imageAlt": "Pleroma Greens Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -74692,6 +81841,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Namrata Manifesta?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Sports Court, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5180164f-67c6-4870-807d-e31d10fd8e6c/gallery/mt8jivvn-3ye4wp.webp",
+    "heroImageAlt": "Namrata Manifesta by b-namrata in Punawale, Pune",
+    "imageAlt": "Namrata Manifesta Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -74807,6 +81969,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Palladio Presidential Suites?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5778d8a9-63f9-4f8f-852c-9e4023889a4b/gallery/mtr7bqbg-71934n.webp",
+    "heroImageAlt": "Palladio Presidential Suites by b-palladio-developers in Balewadi, Pune",
+    "imageAlt": "Palladio Presidential Suites Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -74928,6 +82103,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Royal Morya Skydale?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/14bb74d4-520e-4469-b033-2667102b8521/gallery/mucnimxs-1lp6uw.webp",
+    "heroImageAlt": "Royal Morya Skydale by b-royal-nisarg-ventures in Thergaon, Pune",
+    "imageAlt": "Royal Morya Skydale Architecture in Thergaon",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -75042,6 +82230,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Renuka Panchatattva Shop?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ff2bc0e7-d077-4533-809c-8e519e3db515/gallery/msym0hgj-7owrte.webp",
+    "heroImageAlt": "Renuka Panchatattva Shop by b-renuka-construction in Tathawade, Pune",
+    "imageAlt": "Renuka Panchatattva Shop Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Concierge",
+      "EV Charging"
     ]
   },
   {
@@ -75151,6 +82352,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Rutuja Enclave?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e3bf98e0-903d-4ad4-983e-142d2cfb4d3c/gallery/mrx8yzqf-e5khl8.webp",
+    "heroImageAlt": "Rutuja Enclave by b-rutuja-developers in Nigdi, Pune",
+    "imageAlt": "Rutuja Enclave Architecture in Nigdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -75269,6 +82483,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Navyam?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b80dcfb1-9a8c-4126-8545-75666ce1fed6/gallery/mvfblt6r-667qht.webp",
+    "heroImageAlt": "Navyam by b-kiwale-realty-llp in Ravet, Pune",
+    "imageAlt": "Navyam Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -75383,6 +82610,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sai Signature?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9d4193f8-bf6a-446c-bcee-058e3d77e98f/gallery/msyq10so-1gcv76.webp",
+    "heroImageAlt": "Sai Signature by b-sai-nisarg-landmark in Mamurdi, Pune",
+    "imageAlt": "Sai Signature Architecture in Mamurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -75497,6 +82737,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Rachana Bella Casa Royale?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/d631a1fa-0e4b-42f8-af34-06f3e70167c2/gallery/mtsegmun-de8iyy.webp",
+    "heroImageAlt": "Rachana Bella Casa Royale by b-rachana-lifestyle in Baner, Pune",
+    "imageAlt": "Rachana Bella Casa Royale Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -75611,6 +82864,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Rachana Privana?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Swimming Pool, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/866b1390-a6d5-4181-9573-b1ad77c7629e/gallery/msxdcput-fx03fj.webp",
+    "heroImageAlt": "Rachana Privana by b-rachana-lifestyle in Moshi, Pune",
+    "imageAlt": "Rachana Privana Architecture in Moshi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -75718,6 +82984,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 18 Altitude Commercial?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/f461243b-2436-450b-983e-e08a92b46022/gallery/mszuqely-b4tiyj.webp",
+    "heroImageAlt": "18 Altitude Commercial by b-18-developers in Walhekarwadi, Pune",
+    "imageAlt": "18 Altitude Commercial Architecture in Walhekarwadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -75832,6 +83110,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sai Vilasita?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/924f81ae-24d2-4904-9d1a-1973b68d5c48/gallery/mt7345l4-638tmo.webp",
+    "heroImageAlt": "Sai Vilasita by b-sai-nisarg-landmark in Wakad, Pune",
+    "imageAlt": "Sai Vilasita Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -75953,6 +83244,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nirvana Nothing Beyond?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6a469bd5-0b64-456f-8384-8f3f67ea2ac4/gallery/mvu43szg-2yrh1i.webp",
+    "heroImageAlt": "Nirvana Nothing Beyond by b-nirman-greens in Baner, Pune",
+    "imageAlt": "Nirvana Nothing Beyond Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -76066,6 +83370,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Bhagawati Chambers?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b7cc03c1-3f41-4ade-ac54-b92c9f8479a2/gallery/mufc8n78-9g5uk0.webp",
+    "heroImageAlt": "Bhagawati Chambers by b-bhagawati-developers in Tathawade, Pune",
+    "imageAlt": "Bhagawati Chambers Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -76174,6 +83490,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Thorve House?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0b425180-50fe-4279-8564-013467f49d00/gallery/mryn98yq-ex5s15.webp",
+    "heroImageAlt": "Thorve House by b-thorve-developers in Balewadi, Pune",
+    "imageAlt": "Thorve House Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -76288,6 +83617,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Santiago Skytown?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Rainwater Harvesting, Swimming Pool, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/674895a1-e335-4531-b314-61ca6ac8c20e/gallery/msyql3ti-3a1xq7.webp",
+    "heroImageAlt": "Santiago Skytown by b-june-2027 in Kiwale, Pune",
+    "imageAlt": "Santiago Skytown Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -76414,6 +83756,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sapphire Nest?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/024f288c-3946-4806-897f-57ab2e79ad6d/gallery/muxxc5h2-4aqyd.webp",
+    "heroImageAlt": "Sapphire Nest by b-manggaldeep-group in Pimple Saudagar, Pune",
+    "imageAlt": "Sapphire Nest Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -76527,6 +83882,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at NB Evo Highstreet?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c0b41260-7975-4e4d-9645-a646df00ee15/gallery/msd7tgn3-4id07l.webp",
+    "heroImageAlt": "NB Evo Highstreet by b-nb-developers in Punawale, Pune",
+    "imageAlt": "NB Evo Highstreet Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -76642,6 +84009,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Jhamtani Ace Abode?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/954d77d4-ee97-472d-83ae-3e6b7abc2676/gallery/ms8y6dam-3q0psa.webp",
+    "heroImageAlt": "Jhamtani Ace Abode by b-jhamtani-group in Kiwale, Pune",
+    "imageAlt": "Jhamtani Ace Abode Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -76778,6 +84158,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Akshara Mayfair?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/340e4638-dc06-4c97-aac3-4a01555733ca/gallery/mvhtlfdp-amhhyv.webp",
+    "heroImageAlt": "Akshara Mayfair by b-garve-developers-is-a-2 in Tathawade, Pune",
+    "imageAlt": "Akshara Mayfair Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -76895,6 +84288,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sky Sanctum?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/10c3740f-6e27-4f29-8a05-d413d82016fd/gallery/mvghp3d6-fejg8r.webp",
+    "heroImageAlt": "Sky Sanctum by b-talreja-group in Wakad, Pune",
+    "imageAlt": "Sky Sanctum Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -77003,6 +84409,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shree Raman Legacy?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e2c03437-2fdf-4d51-8f6a-1f999e5b0898/gallery/ms4gar5v-dvjab2.webp",
+    "heroImageAlt": "Shree Raman Legacy by b-shree-samarth-developers in Tathawade, Pune",
+    "imageAlt": "Shree Raman Legacy Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -77117,6 +84536,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sentosa Harico Divaam?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fdfe6b42-b23c-49e2-af72-c67e82aa3cd6/gallery/mryz8bwa-fst5ju.webp",
+    "heroImageAlt": "Sentosa Harico Divaam by b-sentosa-developer in Kiwale, Pune",
+    "imageAlt": "Sentosa Harico Divaam Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -77245,6 +84677,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Tulip Infinity Evana?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/94e84ecd-6ac0-4293-b200-d9fd3d97d668/gallery/mvwi0031-16qxmt.webp",
+    "heroImageAlt": "Tulip Infinity Evana by b-tulip-realty in Punawale, Pune",
+    "imageAlt": "Tulip Infinity Evana Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -77359,6 +84804,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shankeshwar Kingsland?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3191d2f5-e73c-4f44-87f2-f4979920665b/gallery/mrrhq70s-7agd8o.webp",
+    "heroImageAlt": "Shankeshwar Kingsland by b-shankeshwar-homes in Hinjewadi, Pune",
+    "imageAlt": "Shankeshwar Kingsland Architecture in Hinjewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -77474,6 +84932,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shyni Gold Mangalam?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a51af485-34d8-4827-bd48-e3390c8ca16b/gallery/mseumjfb-biuhl1.webp",
+    "heroImageAlt": "Shyni Gold Mangalam by b-aakar-realties in Chinchwad, Pune",
+    "imageAlt": "Shyni Gold Mangalam Architecture in Chinchwad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -77580,6 +85051,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shubh Veda Commercial?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ee0dc753-8401-47f8-9797-872e630c10f9/gallery/mtwpiwvp-a3qade.webp",
+    "heroImageAlt": "Shubh Veda Commercial by b-shubh-group in Akurdi, Pune",
+    "imageAlt": "Shubh Veda Commercial Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -77691,6 +85173,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sentosa Edge?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/850377d9-38b6-4267-88da-eed7d19f924c/gallery/mvf42z4p-bwtdn0.webp",
+    "heroImageAlt": "Sentosa Edge by b-sentosa-developer in Punawale, Pune",
+    "imageAlt": "Sentosa Edge Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -77805,6 +85300,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sky Eloria?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/dde4a6ce-f1b5-4b32-84c1-e8514171ca50/gallery/mtmpxi80-38i0gv.webp",
+    "heroImageAlt": "Sky Eloria by b-sky-developers in Rahatani, Pune",
+    "imageAlt": "Sky Eloria Architecture in Rahatani",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -77920,6 +85428,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Silverise Grandsky?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/74b61822-240b-4498-a3f0-009d6c2690c1/gallery/ms4i92fd-62omcq.webp",
+    "heroImageAlt": "Silverise Grandsky by b-silverise-group in Moshi, Pune",
+    "imageAlt": "Silverise Grandsky Architecture in Moshi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -78029,6 +85550,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Signature Park?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8e20ffc4-b52a-493b-9eea-ca1247cb0ced/gallery/mrymo1yh-4aw5fe.webp",
+    "heroImageAlt": "Signature Park by b-vijayshree-developers in Hinjewadi, Pune",
+    "imageAlt": "Signature Park Architecture in Hinjewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -78151,6 +85685,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Skyluxe?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/595b5fa2-9fc3-4b14-b19a-4df8b2c281e2/gallery/mumgvipb-edmpz0.webp",
+    "heroImageAlt": "Skyluxe by b-skyluxe-developers in Chinchwad, Pune",
+    "imageAlt": "Skyluxe Architecture in Chinchwad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -78268,6 +85815,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Solitaire Kothrud?",
         "answer": "The development features world-class lifestyle amenities including Panoramic Running Hilltop Decks, 32,000 Sq.Ft Dedicated Amenity Podium, Low-Density Living (Only 4 Units Per Floor), Kothrud Metro & Vanaz Station Access, 100% Zero Commission Brokerage Free, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Solitaire Kothrud by b-solitaire-group in Kothrud, Pune",
+    "imageAlt": "Solitaire Kothrud Architecture in Kothrud",
+    "amenities": [
+      "Panoramic Running Hilltop Decks",
+      "32,000 Sq.Ft Dedicated Amenity Podium",
+      "Low-Density Living (Only 4 Units Per Floor)",
+      "Kothrud Metro & Vanaz Station Access",
+      "100% Zero Commission Brokerage Free"
     ]
   },
   {
@@ -78382,6 +85938,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at SMK Platinum?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3563ab94-43b1-420c-8d25-e772d40f62ff/gallery/mrtie0an-cv5gjo.webp",
+    "heroImageAlt": "SMK Platinum by b-smk-group-llp in Ravet, Pune",
+    "imageAlt": "SMK Platinum Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -78496,6 +86065,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Wakad Central Park?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4e1672fd-e504-4a05-8484-f47d00154b01/gallery/mrvosil1-48m2vb.webp",
+    "heroImageAlt": "Wakad Central Park by b-wakad-developers in Wakad, Pune",
+    "imageAlt": "Wakad Central Park Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -78604,6 +86186,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Canary Sky Oasis?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cc4e26bc-35b1-4c19-941f-27c6ff118dca/gallery/mspua4qc-71i5eb.webp",
+    "heroImageAlt": "The Canary Sky Oasis by b-the-skies-group in Balewadi, Pune",
+    "imageAlt": "The Canary Sky Oasis Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -78714,6 +86309,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at THE BENCHMARK?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4f8eb75a-4580-4d79-b647-b16b71421bfc/gallery/mrxd95fv-gbl8cu.webp",
+    "heroImageAlt": "THE BENCHMARK by b-the-skies-group in Pimple Saudagar, Pune",
+    "imageAlt": "THE BENCHMARK Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Concierge",
+      "EV Charging"
     ]
   },
   {
@@ -78827,6 +86435,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Skyfinia Harivishva?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a251bfc9-bd37-4064-9b75-7b765ac83df7/gallery/msyyiy6n-1ebx58.webp",
+    "heroImageAlt": "Skyfinia Harivishva by b-skyfinia-developers in Tathawade, Pune",
+    "imageAlt": "Skyfinia Harivishva Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -78934,6 +86555,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Corniche?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1c7c5a85-528a-46d8-b30d-c485844e84f2/gallery/mrweepdn-c6echt.webp",
+    "heroImageAlt": "The Corniche by b-the-skies-group in Tathawade, Pune",
+    "imageAlt": "The Corniche Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -79052,6 +86685,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at My Home Sanctuary?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Library, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a7b64a6e-86ac-40ef-887f-e964bd4a4fc8/gallery/mvf7bzjg-eiosdy.webp",
+    "heroImageAlt": "My Home Sanctuary by b-goyal-properties in Mamurdi, Pune",
+    "imageAlt": "My Home Sanctuary Architecture in Mamurdi",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Landscaped Garden"
     ]
   },
   {
@@ -79174,6 +86820,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Majestique Evolvus?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Library, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4f7bcab2-80fd-4317-b7bd-1c87cf827a62/gallery/mvhs3d3y-b0frjo.webp",
+    "heroImageAlt": "Majestique Evolvus by b-asian-sleek in Kharadi, Pune",
+    "imageAlt": "Majestique Evolvus Architecture in Kharadi",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "24x7 Security"
     ]
   },
   {
@@ -79288,6 +86947,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Rising Saniket?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5bd72d34-7b21-4c96-b268-ac085a0fb2f4/gallery/ms4omff3-1yj439.webp",
+    "heroImageAlt": "The Rising Saniket by b-the-skies-group in Ravet, Pune",
+    "imageAlt": "The Rising Saniket Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -79400,6 +87072,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Trio Kaya?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Swimming Pool, Landscaped Garden, Kids' Play Area, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a356658e-1a8c-47a5-a487-5f88c57b8d34/gallery/ms7khsm3-epqpr0.webp",
+    "heroImageAlt": "Trio Kaya by b-trio-spaces in Kiwale, Pune",
+    "imageAlt": "Trio Kaya Architecture in Kiwale",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -79514,6 +87196,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at City One Vieorra?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a1d6f95c-0f67-441f-832b-150270a81cb6/gallery/mssqovlc-fy6epl.webp",
+    "heroImageAlt": "City One Vieorra by b-city-one in Kiwale, Pune",
+    "imageAlt": "City One Vieorra Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -79629,6 +87324,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Tej Elevia?",
         "answer": "The development features world-class lifestyle amenities including Pancard Club Road Prime Baner Address, Unobstructed Baner Hill Green Views, Rooftop Infinity Lounge & Sky Terrace, Imported Marble Finishes, Zero Commission Direct Deal, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Tej Elevia by b-tejraj-group in Baner, Pune",
+    "imageAlt": "Tej Elevia Architecture in Baner",
+    "amenities": [
+      "Pancard Club Road Prime Baner Address",
+      "Unobstructed Baner Hill Green Views",
+      "Rooftop Infinity Lounge & Sky Terrace",
+      "Imported Marble Finishes",
+      "Zero Commission Direct Deal"
     ]
   },
   {
@@ -79738,6 +87442,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Venkatesh Tresor?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7f41be82-3e5d-4d72-bda6-c17c30fe2fad/gallery/mt6yao6c-183b5y.webp",
+    "heroImageAlt": "Venkatesh Tresor by b-shree-venkatesh-buildcon-and-vikram-developers-and-promoters in Baner, Pune",
+    "imageAlt": "Venkatesh Tresor Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -79847,6 +87564,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at City One SkyVe?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fe03e12d-2aad-4c07-9d88-bd606c7cb6f8/gallery/mv53bfjf-20gpz0.webp",
+    "heroImageAlt": "City One SkyVe by b-city-one in Kiwale, Pune",
+    "imageAlt": "City One SkyVe Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -79961,6 +87691,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Wandering Winds?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6c440e25-da90-4dac-9a80-663cf7c823f2/gallery/mszu5nrj-ci3yfe.webp",
+    "heroImageAlt": "Wandering Winds by b-wandering-developers in Baner, Pune",
+    "imageAlt": "Wandering Winds Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area",
+      "Yoga Deck"
     ]
   },
   {
@@ -80075,6 +87818,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Wisdom Skyverse?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c4f74574-e06f-4d98-a51a-de126091a407/gallery/mrtgijji-erjfh.webp",
+    "heroImageAlt": "Wisdom Skyverse by b-wisdom-developers in Pimpri, Pune",
+    "imageAlt": "Wisdom Skyverse Architecture in Pimpri",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -80180,6 +87936,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Westgate Business Park?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Covered Parking, EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1c6c9e25-e990-4b1d-a2bf-5986069e44c2/gallery/ms4pedoq-81arj8.webp",
+    "heroImageAlt": "Westgate Business Park by b-westgate-developers in Wakad, Pune",
+    "imageAlt": "Westgate Business Park Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -80285,6 +88051,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Commercial Merlin Elementa 2.0 Tathewade?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Covered Parking, EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/adfbdd38-6ed3-4277-93cc-8417b5e39e79/gallery/mryt8q6q-r46y4.webp",
+    "heroImageAlt": "Commercial Merlin Elementa 2.0 Tathewade by b-commercial-developers in Tathawade, Pune",
+    "imageAlt": "Commercial Merlin Elementa 2.0 Tathewade Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -80405,6 +88181,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at WYCE Exclucity?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/55181032-9e3a-4450-b863-d94cca1464ba/gallery/mtvjk9dk-4oxftq.webp",
+    "heroImageAlt": "WYCE Exclucity by b-wyce-developers in Bavdhan, Pune",
+    "imageAlt": "WYCE Exclucity Architecture in Bavdhan",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -80527,6 +88316,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashada N B Highstreet?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/51f65603-256b-41bb-8204-ef27e0261165/gallery/ms0bayst-2lpbug.webp",
+    "heroImageAlt": "Yashada N B Highstreet by b-yashada-realty in Punawale, Pune",
+    "imageAlt": "Yashada N B Highstreet Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track"
     ]
   },
   {
@@ -80643,6 +88445,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Crestline Shreshth?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/26d8558e-34ae-4eea-b584-6836954a9e61/gallery/mtie955e-bqb89r.webp",
+    "heroImageAlt": "Crestline Shreshth by b-crestline-developers in Kiwale, Pune",
+    "imageAlt": "Crestline Shreshth Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -80758,6 +88573,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gaikwad Florio?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Library, Sports Court, Co-working Lounge, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e998499a-1664-425d-b611-6c0259e6eb88/gallery/mvfc5nkj-gda9on.webp",
+    "heroImageAlt": "Gaikwad Florio by b-road in Punawale, Pune",
+    "imageAlt": "Gaikwad Florio Architecture in Punawale",
+    "amenities": [
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -80872,6 +88700,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Esson Skyora?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a7275a64-251d-464a-b954-49ee29daad0f/gallery/ms8v0n4s-g5u2h3.webp",
+    "heroImageAlt": "Esson Skyora by b-esson-landmarks in Bavdhan, Pune",
+    "imageAlt": "Esson Skyora Architecture in Bavdhan",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -80993,6 +88834,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at 10 Elite Akasa Chandrarang?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5b39be8d-439b-457e-9b64-9558de238ea0/gallery/msu92jcy-465ppd.webp",
+    "heroImageAlt": "10 Elite Akasa Chandrarang by b-10-developers in Pimple Gurav, Pune",
+    "imageAlt": "10 Elite Akasa Chandrarang Architecture in Pimple Gurav",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -81108,6 +88962,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Five Oaks?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/eafaa8b1-5214-4cd1-ba41-e1f3d0c56f66/gallery/mugv55mh-2mt28h.webp",
+    "heroImageAlt": "Five Oaks by b-five-developers in Rahatani, Pune",
+    "imageAlt": "Five Oaks Architecture in Rahatani",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -81222,6 +89089,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Crystal Homes?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/331b44e7-ae13-463a-9108-d6c8613fd4b2/gallery/ms7if5d1-4j48k6.webp",
+    "heroImageAlt": "Crystal Homes by b-crystal-creations in Ravet, Pune",
+    "imageAlt": "Crystal Homes Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -81333,6 +89213,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yoo Pristine High Street?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Covered Parking, EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/facf73b1-988c-497b-96c1-7766fb4719b7/gallery/ms8qb99l-5drtb2.webp",
+    "heroImageAlt": "Yoo Pristine High Street by b-yoo-developers in Akurdi, Pune",
+    "imageAlt": "Yoo Pristine High Street Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -81447,6 +89337,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Dolphin Palms?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/640cc48b-3d8a-48b7-91cc-3200bb865618/gallery/msvkg0kp-5jzt8d.webp",
+    "heroImageAlt": "Dolphin Palms by b-dolphin-group in Ravet, Pune",
+    "imageAlt": "Dolphin Palms Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -81573,6 +89476,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Antalya Next?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Swimming Pool, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/11d4b1b2-bce0-4f62-a40e-4137bedda4a7/gallery/mvfbg1ep-16nl8t.webp",
+    "heroImageAlt": "Antalya Next by b-estofa-realty in Tathawade, Pune",
+    "imageAlt": "Antalya Next Architecture in Tathawade",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -81696,6 +89612,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Legacy Kairos?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/225a2888-ce60-4dd0-b64b-f9b858f1c056/gallery/mtlherfg-egzjcd.webp",
+    "heroImageAlt": "Legacy Kairos by b-parks in Rahatani, Pune",
+    "imageAlt": "Legacy Kairos Architecture in Rahatani",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -81810,6 +89739,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Alacarte Homes?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/39f072b4-5a09-418a-83fa-2072abaedb9a/gallery/mup91hoi-gbq5a6.webp",
+    "heroImageAlt": "Alacarte Homes by b-alacarte-developers in Hinjewadi, Pune",
+    "imageAlt": "Alacarte Homes Architecture in Hinjewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -81918,6 +89860,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Merlin Ventana Commercial?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Co-working Lounge, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/aa651d02-b44e-4e3d-b6e3-6eefba383eb4/gallery/mrxtf0v5-6qdtni.webp",
+    "heroImageAlt": "Merlin Ventana Commercial by b-merlin-group in Baner, Pune",
+    "imageAlt": "Merlin Ventana Commercial Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "Concierge",
+      "EV Charging"
     ]
   },
   {
@@ -82040,6 +89995,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mantra Meridian?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b099037f-4fe0-4fb9-8bfd-94bc7b663dc4/gallery/mtob2l4o-7ivchz.webp",
+    "heroImageAlt": "Mantra Meridian by b-mantra-properties in Balewadi, Pune",
+    "imageAlt": "Mantra Meridian Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -82151,6 +90119,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mantra Mistara?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/24b3750c-74e9-4d15-9651-6165d58555e5/gallery/mvf7cwip-bln5z0.webp",
+    "heroImageAlt": "Mantra Mistara by b-mantra-properties in Baner, Pune",
+    "imageAlt": "Mantra Mistara Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -82267,6 +90248,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Miracle Imperio Towers?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c04a63cf-adc8-429e-84ea-0caad482b842/gallery/mrylyr5e-czchbz.webp",
+    "heroImageAlt": "Miracle Imperio Towers by b-miracle-group in Tathawade, Pune",
+    "imageAlt": "Miracle Imperio Towers Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -82381,6 +90375,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Palladio Balewadi Central?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/6be5e194-4cd5-40ab-8d1e-0fa26861b6cd/gallery/mtr1pccg-dncfed.webp",
+    "heroImageAlt": "Palladio Balewadi Central by b-vilas-javdekar in Balewadi, Pune",
+    "imageAlt": "Palladio Balewadi Central Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -82499,6 +90506,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Krisala Everland?",
         "answer": "The development features world-class lifestyle amenities including 40+ Themed Lifestyle Amenities, Lakeview & Valley Scenic Backdrop, Dedicated Shuttle Service to Hinjewadi IT Park, Olympic-Size Swimming Pool, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Krisala Everland by b-krisala in Hinjewadi, Pune",
+    "imageAlt": "Krisala Everland Architecture in Hinjewadi",
+    "amenities": [
+      "40+ Themed Lifestyle Amenities",
+      "Lakeview & Valley Scenic Backdrop",
+      "Dedicated Shuttle Service to Hinjewadi IT Park",
+      "Olympic-Size Swimming Pool",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -82615,6 +90631,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Platinum Royale?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/69ccb225-7d80-4787-8635-cfb02d44d6df/gallery/mtbd8257-1gyhd7.webp",
+    "heroImageAlt": "Platinum Royale by b-platinum-buildcon in Wakad, Pune",
+    "imageAlt": "Platinum Royale Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -82732,6 +90761,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Renuka Brzee?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/fcd59e60-a788-4739-b02a-fa7a4e4a06c8/gallery/mryx678y-g32sa0.webp",
+    "heroImageAlt": "Renuka Brzee by b-renuka-construction in Ravet, Pune",
+    "imageAlt": "Renuka Brzee Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -82840,6 +90882,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Renuka Madhuban?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/cd14a38f-5090-486d-9541-03cbec7e8492/gallery/msd3jaic-e5vsvt.webp",
+    "heroImageAlt": "Renuka Madhuban by b-december-2027 in Akurdi, Pune",
+    "imageAlt": "Renuka Madhuban Architecture in Akurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -82954,6 +91009,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at New Launch QUE 154?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a0f6cbc9-ffca-428e-9c11-b2767da64b4d/gallery/msxhoisw-2xqbd3.webp",
+    "heroImageAlt": "New Launch QUE 154 by b-new-developers in Punawale, Pune",
+    "imageAlt": "New Launch QUE 154 Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -83064,6 +91132,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sky Tower?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Jogging Track, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/8b4a46f8-228e-4ea2-ac64-4a409e811086/gallery/ms03n7li-bb5itz.webp",
+    "heroImageAlt": "Sky Tower by b-sky-developers in Moshi, Pune",
+    "imageAlt": "Sky Tower Architecture in Moshi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -83173,6 +91254,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Soham Raman Stellar?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b32492c8-62e0-4760-a1de-1288d4c6bdd0/gallery/mul4grn4-5nk7vr.webp",
+    "heroImageAlt": "Soham Raman Stellar by b-soham-shivam-developers in Tathawade, Pune",
+    "imageAlt": "Soham Raman Stellar Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -83283,6 +91377,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at SKY STORIES?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4bf9cd62-3145-4b49-a4f2-dc4b41bf7f2f/gallery/mtfocq9a-859405.webp",
+    "heroImageAlt": "SKY STORIES by b-sky-developers in Ravet, Pune",
+    "imageAlt": "SKY STORIES Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -83390,6 +91497,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nirman Drive?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/a69becef-69b8-4b75-96e1-73a4d0152037/gallery/mt8gqags-2hc62f.webp",
+    "heroImageAlt": "Nirman Drive by b-nirman-greens in Tathawade, Pune",
+    "imageAlt": "Nirman Drive Architecture in Tathawade",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -83502,6 +91620,17 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sentosa Elite?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Power Backup, 24x7 Security, Landscaped Garden, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ffee53f6-a989-4120-9d93-ed1f8bf7b90d/gallery/mtbf4y3k-2elmcm.webp",
+    "heroImageAlt": "Sentosa Elite by b-sentosa-developer in Wakad, Pune",
+    "imageAlt": "Sentosa Elite Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -83616,6 +91745,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Siddhashila Eevva?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b5973498-c136-4310-b59d-b0e70df36099/gallery/msyx9itl-8lj1w.webp",
+    "heroImageAlt": "Siddhashila Eevva by b-siddhashila-group in Punawale, Pune",
+    "imageAlt": "Siddhashila Eevva Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -83724,6 +91866,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Studio Codename EMI?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Library, Power Backup, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/db3c6bb2-ce3e-44f1-8f64-4f2e1fa7b989/gallery/mtsckboq-dbxgec.webp",
+    "heroImageAlt": "Studio Codename EMI by b-studio-developers in Balewadi, Pune",
+    "imageAlt": "Studio Codename EMI Architecture in Balewadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Library",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -83838,6 +91993,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The skyLark?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e318d63d-9129-4001-a542-221d6dc512df/gallery/mv6kv02o-1lb3zm.webp",
+    "heroImageAlt": "The skyLark by b-the-skies-group in Kiwale, Pune",
+    "imageAlt": "The skyLark Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -83946,6 +92114,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at STAR SOLASTA?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/285ced3a-49ef-4e26-b2a8-abb183f4aefd/gallery/ms04b125-eu2dm8.webp",
+    "heroImageAlt": "STAR SOLASTA by b-star-developers in Ravet, Pune",
+    "imageAlt": "STAR SOLASTA Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -84052,6 +92233,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Muktai?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Gymnasium, Rainwater Harvesting, Jogging Track, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ea7119ff-7a51-463c-8b39-8e4eb09a2d55/gallery/mt461bka-9jcyyl.webp",
+    "heroImageAlt": "Muktai by b-muktai-builders-developers in Ravet, Pune",
+    "imageAlt": "Muktai Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking"
     ]
   },
   {
@@ -84175,6 +92369,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashada Evo?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/128cc131-a7c5-4d30-9537-26a0206d696a/gallery/mrons4yx-bdbk3d.webp",
+    "heroImageAlt": "Yashada Evo by b-yashada-realty in Punawale, Pune",
+    "imageAlt": "Yashada Evo Architecture in Punawale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -84297,6 +92504,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashada Earthsong?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/0948c8e0-d497-47d6-81a2-098728e0d0f7/gallery/mruenbqs-41jikr.webp",
+    "heroImageAlt": "Yashada Earthsong by b-yashada-realty in Ravet, Pune",
+    "imageAlt": "Yashada Earthsong Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Sports Court",
+      "Jogging Track",
+      "Power Backup"
     ]
   },
   {
@@ -84407,6 +92627,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yoovie Homes?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7871c9e5-cd0c-4b67-ad8e-cd38f37221ae/gallery/mtfpgnqu-awhbem.webp",
+    "heroImageAlt": "Yoovie Homes by b-yoovie-developers in Baner, Pune",
+    "imageAlt": "Yoovie Homes Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -84523,6 +92756,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Rahul Altimus?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Sports Court, Co-working Lounge, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/b5236d63-4f77-4715-9807-55a151a88f96/gallery/ms365ffd-bvnqx8.webp",
+    "heroImageAlt": "Rahul Altimus by b-rahul-constructions in Baner, Pune",
+    "imageAlt": "Rahul Altimus Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Co-working Lounge",
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -84668,6 +92914,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Neco Park Central?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3c62297e-cf76-40e6-be1b-9863a18f21a4/gallery/mvhqtpdg-2wwccl.webp",
+    "heroImageAlt": "Neco Park Central by b-neco-developers in Kharadi, Pune",
+    "imageAlt": "Neco Park Central Architecture in Kharadi",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -84775,6 +93034,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Tej One Baner?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9b89ecb7-3a53-4303-a13c-abd308864b9d/gallery/mtznhj4w-n0ml0.webp",
+    "heroImageAlt": "Tej One Baner by b-tej-developers in Baner, Pune",
+    "imageAlt": "Tej One Baner Architecture in Baner",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "EV Charging"
     ]
   },
   {
@@ -84893,6 +93164,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VTP Flamante?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Co-working Lounge, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/890f823d-cfcf-45fe-930d-de268253086f/gallery/mvhz3d5m-ae6hxl.webp",
+    "heroImageAlt": "VTP Flamante by b-vtp in Manjari Khurd, Pune",
+    "imageAlt": "VTP Flamante Architecture in Manjari Khurd",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -85013,6 +93297,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at PK Hillcrest?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/ffa48e6f-5069-4aed-8dfe-6745fdfa4c6b/gallery/mvfc2w3y-8gi6u6.webp",
+    "heroImageAlt": "PK Hillcrest by b-pk-group in Pimple Saudagar, Pune",
+    "imageAlt": "PK Hillcrest Architecture in Pimple Saudagar",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Co-working Lounge",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -85135,6 +93432,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Park Eden?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Co-working Lounge, Jogging Track, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb4h9-a0m0kn.webp",
+    "heroImageAlt": "Park Eden by b-park-developers in Kharadi, Pune",
+    "imageAlt": "Park Eden Architecture in Kharadi",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "Landscaped Garden"
     ]
   },
   {
@@ -85253,6 +93563,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VTP Velvet Villas?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Swimming Pool, 24x7 Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/9c79e20a-0998-4a0c-8c95-e44548567e67/gallery/mvhz6j4n-a981is.webp",
+    "heroImageAlt": "VTP Velvet Villas by b-vtp-group in Manjari Khurd, Pune",
+    "imageAlt": "VTP Velvet Villas Architecture in Manjari Khurd",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Swimming Pool",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Kids' Play Area"
     ]
   },
   {
@@ -85374,6 +93696,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Godrej Aqua Vista?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Library, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/73ec855a-b670-4a04-954a-b91deaf3272d/gallery/mvjff0lj-11f9n6.webp",
+    "heroImageAlt": "Godrej Aqua Vista by b-godrej in Mundhwa, Pune",
+    "imageAlt": "Godrej Aqua Vista Architecture in Mundhwa",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "Landscaped Garden"
     ]
   },
   {
@@ -85486,6 +93821,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Vimal Twin Towers?",
         "answer": "The development features world-class lifestyle amenities including Rainwater Harvesting, Jogging Track, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3766f451-d050-4db0-a6f8-194ef4abaa3a/gallery/mvghrbu5-6gq1o0.webp",
+    "heroImageAlt": "Vimal Twin Towers by b-kate-promoters-and-developers in Pimple Saudagar, Pune",
+    "imageAlt": "Vimal Twin Towers Architecture in Pimple Saudagar",
+    "amenities": [
+      "Rainwater Harvesting",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -85612,6 +93959,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Austin Ira?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/7209ca11-27c7-4930-b99c-5a1a8035c2a9/gallery/mvjem7f5-2fs1d7.webp",
+    "heroImageAlt": "Austin Ira by b-austin-realty in Mamurdi, Pune",
+    "imageAlt": "Austin Ira Architecture in Mamurdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -85733,6 +94093,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Sai Ratan?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Landscaped Garden, Kids' Play Area, EV Charging, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/3266ed23-72ff-41aa-9c4b-6bcd594ab0c8/gallery/mvhthrdh-8tggr3.webp",
+    "heroImageAlt": "Sai Ratan by b-sai-nisarg-landmark in Ravet, Pune",
+    "imageAlt": "Sai Ratan Architecture in Ravet",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Landscaped Garden",
+      "Kids' Play Area",
+      "EV Charging"
     ]
   },
   {
@@ -85859,6 +94229,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at L Axis?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/01d2e9f1-dad0-43fa-8906-61a24bfcd0dd/gallery/mvfc64td-5k9jp8.webp",
+    "heroImageAlt": "L Axis by b-pharande-spaces in Moshi, Pune",
+    "imageAlt": "L Axis Architecture in Moshi",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -85991,6 +94374,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mantra Melange?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Library, Co-working Lounge, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/320265b2-aa9a-48cb-b5e9-150455175a36/gallery/mvjc0yi3-d2qb7x.webp",
+    "heroImageAlt": "Mantra Melange by b-mantra-properties in Kharadi, Pune",
+    "imageAlt": "Mantra Melange Architecture in Kharadi",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Co-working Lounge",
+      "Swimming Pool",
+      "Landscaped Garden",
+      "Kids' Play Area",
+      "Amphitheatre"
     ]
   },
   {
@@ -86107,6 +94503,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Shaligram The Mile?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bed8b526-3c8c-426b-8e44-cf65c659dbbe/gallery/mvhovzr5-s99wh.webp",
+    "heroImageAlt": "Shaligram The Mile by b-shaligram-buildcon in Ravet, Pune",
+    "imageAlt": "Shaligram The Mile Architecture in Ravet",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -86223,6 +94632,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Codename Light?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Library, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/1d95631a-ef8e-4793-b94f-12fd3ff1902a/gallery/mvjeyoq9-3nr91v.webp",
+    "heroImageAlt": "Codename Light by b-esson-landmarks in Mundhwa, Pune",
+    "imageAlt": "Codename Light Architecture in Mundhwa",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Library",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security"
     ]
   },
   {
@@ -86346,6 +94768,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Mangalam Starview?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/62c4f82a-4e0d-43ed-bb38-e8ccdf9df558/gallery/mvez09ey-de6zrx.webp",
+    "heroImageAlt": "Mangalam Starview by b-mangalam-landmarks in Kiwale, Pune",
+    "imageAlt": "Mangalam Starview Architecture in Kiwale",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -86461,6 +94896,14 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Prime Pinnacle?",
         "answer": "The development features world-class lifestyle amenities including Power Backup, 24x7 Security, Covered Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/bfe0548a-333b-47f4-bf68-d1bebe86d984/gallery/mvghqa3t-4dghew.webp",
+    "heroImageAlt": "Prime Pinnacle by b-viraj-corp in Wakad, Pune",
+    "imageAlt": "Prime Pinnacle Architecture in Wakad",
+    "amenities": [
+      "Power Backup",
+      "24x7 Security",
+      "Covered Parking"
     ]
   },
   {
@@ -86587,6 +95030,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Luxton by Saheel?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Library, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/adc7420a-f087-4832-b5b6-aaff3c37a461/gallery/mvfbi877-8s23ib.webp",
+    "heroImageAlt": "Luxton by Saheel by b-saheel-properties in Wakad, Pune",
+    "imageAlt": "Luxton by Saheel Architecture in Wakad",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Swimming Pool",
+      "Power Backup"
     ]
   },
   {
@@ -86700,6 +95156,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Panoreeva Greens?",
         "answer": "The development features world-class lifestyle amenities including Gymnasium, Jogging Track, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/17fc8bdb-26b0-4047-9313-5e050676841b/gallery/mvghw0ci-9m4jzc.webp",
+    "heroImageAlt": "Panoreeva Greens by b-avirat-developers in Chinchwad, Pune",
+    "imageAlt": "Panoreeva Greens Architecture in Chinchwad",
+    "amenities": [
+      "Gymnasium",
+      "Jogging Track",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Kids' Play Area",
+      "EV Charging"
     ]
   },
   {
@@ -86807,6 +95275,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Elementis ORO?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Rainwater Harvesting, Power Backup, 24x7 Security, Landscaped Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e40babf9-1772-489e-a6cb-625300ca3252/gallery/mvhmmyfa-azmrba.webp",
+    "heroImageAlt": "Elementis ORO by b-adi-group in Nigdi, Pune",
+    "imageAlt": "Elementis ORO Architecture in Nigdi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Rainwater Harvesting",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden",
+      "Covered Parking",
+      "Kids' Play Area"
     ]
   },
   {
@@ -86930,6 +95410,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Unique Youtopia?",
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/725beed8-203a-4b2b-83e9-ac91408cc883/gallery/mvjd8guz-31y41y.webp",
+    "heroImageAlt": "Unique Youtopia by b-unique-properties in Kharadi, Pune",
+    "imageAlt": "Unique Youtopia Architecture in Kharadi",
+    "amenities": [
+      "CCTV Surveillance",
+      "Clubhouse",
+      "Gymnasium",
+      "Rainwater Harvesting",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool"
     ]
   },
   {
@@ -87063,6 +95556,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Godrej Ivara?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Library, Sports Court, Co-working Lounge, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/5792a6e0-c6da-4bc5-ab9b-a5bf7c84fb5d/gallery/mvhqju3k-4r5zbd.webp",
+    "heroImageAlt": "Godrej Ivara by b-godrej in Kharadi, Pune",
+    "imageAlt": "Godrej Ivara Architecture in Kharadi",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Library",
+      "Sports Court",
+      "Co-working Lounge",
+      "Jogging Track",
+      "Swimming Pool",
+      "24x7 Security"
     ]
   },
   {
@@ -87188,6 +95694,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VJ Palladio La Viento?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse, Gymnasium, Sports Court, Jogging Track, Swimming Pool, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e1c8ac64-4e65-460a-84c8-460f12548757/gallery/mvf7dh1w-4kkjja.webp",
+    "heroImageAlt": "VJ Palladio La Viento by b-vilas-javdekar in Mahalunge, Pune",
+    "imageAlt": "VJ Palladio La Viento Architecture in Mahalunge",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Sports Court",
+      "Jogging Track",
+      "Swimming Pool",
+      "Power Backup",
+      "24x7 Security",
+      "Landscaped Garden"
     ]
   },
   {
@@ -87359,6 +95878,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Blue Ridge - The Promenade?",
         "answer": "The development features world-class lifestyle amenities including Riverfront Promenade, 9-Hole Golf Course, Boat Club & Marina, Infinity Swimming Pool, Clubhouse, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Blue Ridge - The Promenade by b-paranjape in Hinjewadi, Pune",
+    "imageAlt": "Paranjape Blue Ridge - The Promenade Architecture in Hinjewadi",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -87532,6 +96058,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Blue Ridge - The Altius?",
         "answer": "The development features world-class lifestyle amenities including Sky Lounge on 36th Floor, Golf Course Facing, Private Lift Lobbies, Olympic Lap Pool, Concierge Service, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Blue Ridge - The Altius by b-paranjape in Hinjewadi, Pune",
+    "imageAlt": "Paranjape Blue Ridge - The Altius Architecture in Hinjewadi",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -87682,6 +96215,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Trident Towers?",
         "answer": "The development features world-class lifestyle amenities including WFH Acoustic Work Pods, Podium Swimming Pool, Clubhouse, Gymnasium, Multi-tier Security, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Trident Towers by b-paranjape in Hinjewadi, Pune",
+    "imageAlt": "Paranjape Trident Towers Architecture in Hinjewadi",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -87855,6 +96395,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Forest Trails - Highgardens?",
         "answer": "The development features world-class lifestyle amenities including Private Terrace Gardens, The Cliff Lifestyle Club, Equestrian Horse Riding Academy, Heated Swimming Pool, Tennis & Badminton Courts, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Forest Trails - Highgardens by b-paranjape in Bavdhan, Pune",
+    "imageAlt": "Paranjape Forest Trails - Highgardens Architecture in Bavdhan",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -88005,6 +96552,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Forest Trails - The Canopy?",
         "answer": "The development features world-class lifestyle amenities including Biophilic Architecture, Rooftop Yoga & Stargazing Deck, Access to The Cliff Club, Jogging Track, Gymnasium, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Forest Trails - The Canopy by b-paranjape in Bavdhan, Pune",
+    "imageAlt": "Paranjape Forest Trails - The Canopy Architecture in Bavdhan",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -88176,6 +96730,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Forest Trails - The Rivolo Residences?",
         "answer": "The development features world-class lifestyle amenities including Private Hillside Villas, Personal Landscaped Gardens, Private Plunge Pool Provision, The Cliff Club Privileges, Equestrian Academy Access, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Forest Trails - The Rivolo Residences by b-paranjape in Bavdhan, Pune",
+    "imageAlt": "Paranjape Forest Trails - The Rivolo Residences Architecture in Bavdhan",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -88326,6 +96887,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Forest Trails - The Orchard Residences?",
         "answer": "The development features world-class lifestyle amenities including Orchard & Valley Views, Low-Density Villaments, Large Sundecks, The Cliff Club Access, Walking Trails, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Forest Trails - The Orchard Residences by b-paranjape in Bavdhan, Pune",
+    "imageAlt": "Paranjape Forest Trails - The Orchard Residences Architecture in Bavdhan",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -88476,6 +97044,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Athashri B3 - Forest Trails?",
         "answer": "The development features world-class lifestyle amenities including 24/7 On-campus Doctor & Nurse, Emergency Response Call Buttons, Senior-friendly Non-skid Flooring, Nutritious Community Dining Hall, Physiotherapy & Wellness Center, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Athashri B3 - Forest Trails by b-paranjape in Bavdhan, Pune",
+    "imageAlt": "Paranjape Athashri B3 - Forest Trails Architecture in Bavdhan",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -88624,6 +97199,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Athashri Baner?",
         "answer": "The development features world-class lifestyle amenities including Assisted Living Services, Doctor on Call & Nursing Aid, Central Dining & Meal Delivery, Activity Hall & Indoor Games, Senior Safety Grab Rails, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Athashri Baner by b-paranjape in Baner, Pune",
+    "imageAlt": "Paranjape Athashri Baner Architecture in Baner",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -88774,6 +97356,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Happiness Hub?",
         "answer": "The development features world-class lifestyle amenities including 25-Acre Gated Township, Grand Clubhouse & Gym, Cricket Pitch & Sports Court, Temple & Meditation Deck, Children's Play Arena, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Happiness Hub by b-paranjape in Khed Shivapur, Pune",
+    "imageAlt": "Paranjape Happiness Hub Architecture in Khed Shivapur",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -88924,6 +97513,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Swapna Samrat?",
         "answer": "The development features world-class lifestyle amenities including Rooftop Swimming Pool, Terrace Party Lawn, Fitness Gymnasium, Central Erandwane Location, High-speed Elevators, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Swapna Samrat by b-paranjape in Karve Road, Pune",
+    "imageAlt": "Paranjape Swapna Samrat Architecture in Karve Road",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -89074,6 +97670,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Gloria Grand?",
         "answer": "The development features world-class lifestyle amenities including Clubhouse & Gym, Swimming Pool, Children's Play Area, Landscaped Gardens, Power Backup, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Gloria Grand by b-paranjape in Bavdhan, Pune",
+    "imageAlt": "Paranjape Gloria Grand Architecture in Bavdhan",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -89270,6 +97873,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Athena?",
         "answer": "The development features world-class lifestyle amenities including Rooftop Infinity Pool, BKC Proximity (3 Mins), Sky Deck Lounge, Designer Fitness Gym, Automated Puzzle Parking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Athena by b-paranjape in Bandra East, Mumbai",
+    "imageAlt": "Paranjape Athena Architecture in Bandra East",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -89466,6 +98076,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Aspire?",
         "answer": "The development features world-class lifestyle amenities including 22-Storey High-Rise Tower, Rooftop Recreation Deck, Fitness Center, Automated Tower Parking, Metro Station Proximity (5 Mins), multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Aspire by b-paranjape in Andheri West, Mumbai",
+    "imageAlt": "Paranjape Aspire Architecture in Andheri West",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -89639,6 +98256,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Opulus?",
         "answer": "The development features world-class lifestyle amenities including Half-Olympic Swimming Pool, Yeoor Hills Views, Grand Clubhouse & Gym, Co-Working Hub with WiFi, Badminton & Squash Courts, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Opulus by b-paranjape in Thane West, Thane",
+    "imageAlt": "Paranjape Opulus Architecture in Thane West",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -89789,6 +98413,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Shrivega?",
         "answer": "The development features world-class lifestyle amenities including 39-Acre Gated Seaside Estate, Arabian Sea Views, Cliffside Infinity Pool, Seaside Cafe & BBQ Bay, Organic Kitchen Garden, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Shrivega by b-paranjape in Shrivardhan-Diveagar, Alibaug",
+    "imageAlt": "Paranjape Shrivega Architecture in Shrivardhan-Diveagar",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -89956,6 +98587,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Yuthika?",
         "answer": "The development features world-class lifestyle amenities including Ready to Move, Expansive Swimming Pool, Tennis & Basketball Courts, Modern Clubhouse, Landscaped Central Park, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Yuthika by b-paranjape in Baner, Pune",
+    "imageAlt": "Paranjape Yuthika Architecture in Baner",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -90104,6 +98742,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Paranjape Blue Ridge - Golf Island?",
         "answer": "The development features world-class lifestyle amenities including Direct Golf Course Views, Riverfront Jogging Track, Access to Blue Ridge Marina, Grand Sports Complex, Ready to Move In, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Paranjape Blue Ridge - Golf Island by b-paranjape in Hinjewadi, Pune",
+    "imageAlt": "Paranjape Blue Ridge - Golf Island Architecture in Hinjewadi",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -90215,6 +98860,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani Empress Hill?",
         "answer": "The development features world-class lifestyle amenities including Powai Lake Views, Sky Gymnasium, Infinity Pool, Clubhouse, 24x7 Valet, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+    "heroImageAlt": "Hiranandani Empress Hill by b-hiranandani in Powai, Mumbai",
+    "imageAlt": "Hiranandani Empress Hill Architecture in Powai",
+    "amenities": [
+      "Powai Lake Views",
+      "Sky Gymnasium",
+      "Infinity Pool",
+      "Clubhouse",
+      "24x7 Valet",
+      "Landscaped Podium",
+      "Banquet Hall",
+      "Tennis Court"
     ]
   },
   {
@@ -90320,6 +98978,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani Castle Rock?",
         "answer": "The development features world-class lifestyle amenities including Ready to Move, Clubhouse, Squash Court, Swimming Pool, French Windows, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+    "heroImageAlt": "Hiranandani Castle Rock by b-hiranandani in Powai, Mumbai",
+    "imageAlt": "Hiranandani Castle Rock Architecture in Powai",
+    "amenities": [
+      "Ready to Move",
+      "Clubhouse",
+      "Squash Court",
+      "Swimming Pool",
+      "French Windows",
+      "High-Street Retail",
+      "High-Speed Elevators",
+      "Children's Play Area"
     ]
   },
   {
@@ -90431,6 +99102,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani Regent Hill?",
         "answer": "The development features world-class lifestyle amenities including Air Conditioned Homes, Modular Kitchen, Gymnasium, Multipurpose Hall, Landscaped Courtyard, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.hiranandani.com/img/hira-gardens-powai/maple/maple-day-view.jpg",
+    "heroImageAlt": "Hiranandani Regent Hill by b-hiranandani in Powai, Mumbai",
+    "imageAlt": "Hiranandani Regent Hill Architecture in Powai",
+    "amenities": [
+      "Air Conditioned Homes",
+      "Modular Kitchen",
+      "Gymnasium",
+      "Multipurpose Hall",
+      "Landscaped Courtyard",
+      "Yoga Pavilion",
+      "24x7 Security",
+      "Jogging Track"
     ]
   },
   {
@@ -90547,6 +99231,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani Atlantis?",
         "answer": "The development features world-class lifestyle amenities including Lakefront Living, Olympic Swimming Pool, Grand Colonnade, Clubhouse, Banquet Hall, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+    "heroImageAlt": "Hiranandani Atlantis by b-hiranandani in Powai, Mumbai",
+    "imageAlt": "Hiranandani Atlantis Architecture in Powai",
+    "amenities": [
+      "Lakefront Living",
+      "Olympic Swimming Pool",
+      "Grand Colonnade",
+      "Clubhouse",
+      "Banquet Hall",
+      "Card Room",
+      "Billiards",
+      "Multi-Tier Security"
     ]
   },
   {
@@ -90669,6 +99366,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at One Hiranandani Park?",
         "answer": "The development features world-class lifestyle amenities including 21-Acre Botanical Garden, 6 Natural Water Bodies, Tennis Courts, Swimming Pools, Roman Statues, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg",
+    "heroImageAlt": "One Hiranandani Park by b-hiranandani in Ghodbunder Road, Thane",
+    "imageAlt": "One Hiranandani Park Architecture in Ghodbunder Road",
+    "amenities": [
+      "21-Acre Botanical Garden",
+      "6 Natural Water Bodies",
+      "Tennis Courts",
+      "Swimming Pools",
+      "Roman Statues",
+      "Squash Court",
+      "Clubhouse",
+      "Grand Foyers"
     ]
   },
   {
@@ -90785,6 +99495,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani Rodas Enclave?",
         "answer": "The development features world-class lifestyle amenities including Palatial 5 BHK Penthouses, Exclusive Club Rodas, Infinity Pool, Banquet Hall, Private Lawns, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg",
+    "heroImageAlt": "Hiranandani Rodas Enclave by b-hiranandani in Hiranandani Estate, Thane",
+    "imageAlt": "Hiranandani Rodas Enclave Architecture in Hiranandani Estate",
+    "amenities": [
+      "Palatial 5 BHK Penthouses",
+      "Exclusive Club Rodas",
+      "Infinity Pool",
+      "Banquet Hall",
+      "Private Lawns",
+      "Spa & Sauna",
+      "Concierge Desk",
+      "24x7 Security"
     ]
   },
   {
@@ -90895,6 +99618,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani Solitaire?",
         "answer": "The development features world-class lifestyle amenities including Compact Luxury, Gymnasium, Indoor Games, Landscaped Podium, Automated Elevators, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.hiranandani.com/img/hira-gardens-powai/maple/maple-day-view.jpg",
+    "heroImageAlt": "Hiranandani Solitaire by b-hiranandani in Hiranandani Estate, Thane",
+    "imageAlt": "Hiranandani Solitaire Architecture in Hiranandani Estate",
+    "amenities": [
+      "Compact Luxury",
+      "Gymnasium",
+      "Indoor Games",
+      "Landscaped Podium",
+      "Automated Elevators",
+      "Power Backup",
+      "24x7 Security",
+      "Township Amenities"
     ]
   },
   {
@@ -91011,6 +99747,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani Fortune City?",
         "answer": "The development features world-class lifestyle amenities including 600-Acre Mega Township, Sports Arena, Grand Clubhouse, International School, Healthcare Centre, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg",
+    "heroImageAlt": "Hiranandani Fortune City by b-hiranandani in Panvel, Navi Mumbai",
+    "imageAlt": "Hiranandani Fortune City Architecture in Panvel",
+    "amenities": [
+      "600-Acre Mega Township",
+      "Sports Arena",
+      "Grand Clubhouse",
+      "International School",
+      "Healthcare Centre",
+      "Retail Promenade",
+      "Jogging Trails",
+      "Forest Reserves"
     ]
   },
   {
@@ -91121,6 +99870,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani Castalia?",
         "answer": "The development features world-class lifestyle amenities including Rooftop Sky Lounge, Swimming Pool, Fitness Center, Children's Play Area, Double-Height Lobby, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+    "heroImageAlt": "Hiranandani Castalia by b-hiranandani in Kandivali West, Mumbai",
+    "imageAlt": "Hiranandani Castalia Architecture in Kandivali West",
+    "amenities": [
+      "Rooftop Sky Lounge",
+      "Swimming Pool",
+      "Fitness Center",
+      "Children's Play Area",
+      "Double-Height Lobby",
+      "Smart Home Automation",
+      "High-Speed Elevators",
+      "24x7 Security"
     ]
   },
   {
@@ -91239,6 +100001,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Della Luxury Villas?",
         "answer": "The development features world-class lifestyle amenities including Private Heated Pool, 24x7 5-Star Resort Hospitality, In-Villa Dining & Chef, Italian Marble Interiors, Adventure Park Access, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.dellaresorts.com/new-updated-image/enclave-villa-resort.webp",
+    "heroImageAlt": "Della Luxury Villas by b-della in Kunegaon, Lonavala",
+    "imageAlt": "Della Luxury Villas Architecture in Kunegaon",
+    "amenities": [
+      "Private Heated Pool",
+      "24x7 5-Star Resort Hospitality",
+      "In-Villa Dining & Chef",
+      "Italian Marble Interiors",
+      "Adventure Park Access",
+      "24-Hr Spa & Salon",
+      "Helipad Access",
+      "Rental Yield Program"
     ]
   },
   {
@@ -91350,6 +100125,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Della Enclave Hillside Estates?",
         "answer": "The development features world-class lifestyle amenities including 10,000+ Sq.Ft Palatial Villas, 20-Foot Double Height Living, Private Infinity Pool, Manicured Party Lawns, Bespoke Italian Interiors, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.dellaresorts.com/new-updated-image/garden-villa-resort.webp",
+    "heroImageAlt": "Della Enclave Hillside Estates by b-della in Kunegaon, Lonavala",
+    "imageAlt": "Della Enclave Hillside Estates Architecture in Kunegaon",
+    "amenities": [
+      "10,000+ Sq.Ft Palatial Villas",
+      "20-Foot Double Height Living",
+      "Private Infinity Pool",
+      "Manicured Party Lawns",
+      "Bespoke Italian Interiors",
+      "24-Hour Concierge",
+      "Helipad Connectivity",
+      "Gated Ultra-Luxury Enclave"
     ]
   },
   {
@@ -91460,6 +100248,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Della Sky Villas & Penthouses?",
         "answer": "The development features world-class lifestyle amenities including Open-to-Sky Jacuzzi Decks, Hilltop Valley Views, Resort Butler Service, Fine-Dining Access, Italian Marble Finishes, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.dellaresorts.com/new-images/della-gardensuites-banner.webp",
+    "heroImageAlt": "Della Sky Villas & Penthouses by b-della in Khandala, Lonavala",
+    "imageAlt": "Della Sky Villas & Penthouses Architecture in Khandala",
+    "amenities": [
+      "Open-to-Sky Jacuzzi Decks",
+      "Hilltop Valley Views",
+      "Resort Butler Service",
+      "Fine-Dining Access",
+      "Italian Marble Finishes",
+      "Secure Covered Parking",
+      "24x7 Security",
+      "Full Furnishing Option"
     ]
   },
   {
@@ -91570,6 +100371,19 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Della Adventure Townships & Resort Residences?",
         "answer": "The development features world-class lifestyle amenities including 100% Managed Rental Program, 50-Acre Adventure Township, Lifetime Club Membership, 7 Multi-Cuisine Restaurants, 24-Hr Spa & Wellness, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImage": "https://www.dellaresorts.com/new-images/property-gal5-v-l.webp",
+    "heroImageAlt": "Della Adventure Townships & Resort Residences by b-della in Kunegaon, Lonavala",
+    "imageAlt": "Della Adventure Townships & Resort Residences Architecture in Kunegaon",
+    "amenities": [
+      "100% Managed Rental Program",
+      "50-Acre Adventure Township",
+      "Lifetime Club Membership",
+      "7 Multi-Cuisine Restaurants",
+      "24-Hr Spa & Wellness",
+      "Swimming Pool",
+      "High-Return Investment",
+      "Concierge Service"
     ]
   },
   {
@@ -91690,6 +100504,18 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gera World of Joy?",
         "answer": "The development features world-class lifestyle amenities including ChildCentric® Celebrity Learning Academies, 20-Acre Integrated Township, Multi-Tiered Grand Clubhouse, Olympic-Size Swimming Pool, Pro-Grade Badminton & Tennis Courts, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Gera World of Joy by b-gera in Kharadi, Pune",
+    "imageAlt": "Gera World of Joy Architecture in Kharadi",
+    "amenities": [
+      "ChildCentric® Celebrity Learning Academies",
+      "20-Acre Integrated Township",
+      "Multi-Tiered Grand Clubhouse",
+      "Olympic-Size Swimming Pool",
+      "Pro-Grade Badminton & Tennis Courts",
+      "Zero Brokerage Direct Builder Mandate",
+      "Covered High-Speed Elevators",
+      "24x7 Security & CCTV"
     ]
   },
   {
@@ -91805,6 +100631,16 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gera Planet of Joy?",
         "answer": "The development features world-class lifestyle amenities including Signature ChildCentric® Amenities, Double-Height Terraces, Martial Arts & Music Studios, Heated Children's Pool, Digital Access Smart Locks, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Gera Planet of Joy by b-gera in Kharadi, Pune",
+    "imageAlt": "Gera Planet of Joy Architecture in Kharadi",
+    "amenities": [
+      "Signature ChildCentric® Amenities",
+      "Double-Height Terraces",
+      "Martial Arts & Music Studios",
+      "Heated Children's Pool",
+      "Digital Access Smart Locks",
+      "EV Charging Infrastructure"
     ]
   },
   {
@@ -91919,6 +100755,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Gera Island of Joy?",
         "answer": "The development features world-class lifestyle amenities including Wave Pool & Beach Entry, Go-Kart Track & Bowling Alley, 40,000 Sq.Ft Clubhouse, Celebrity Learning Academies, Multi-Tier Podiums, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Gera Island of Joy by b-gera in Kharadi, Pune",
+    "imageAlt": "Gera Island of Joy Architecture in Kharadi",
+    "amenities": [
+      "Wave Pool & Beach Entry",
+      "Go-Kart Track & Bowling Alley",
+      "40,000 Sq.Ft Clubhouse",
+      "Celebrity Learning Academies",
+      "Multi-Tier Podiums"
     ]
   },
   {
@@ -92032,6 +100877,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at BramhaCorp F-Residences?",
         "answer": "The development features world-class lifestyle amenities including India's First FTV Fashion Residences, Runway Swimming Pool & F-Lounge, Designer Lobby by International Architects, Ready to Move with OC Received, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "BramhaCorp F-Residences by b-bramhacorp in Kalyani Nagar, Pune",
+    "imageAlt": "BramhaCorp F-Residences Architecture in Kalyani Nagar",
+    "amenities": [
+      "India's First FTV Fashion Residences",
+      "Runway Swimming Pool & F-Lounge",
+      "Designer Lobby by International Architects",
+      "Ready to Move with OC Received",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -92144,6 +100998,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Ganga Asmi?",
         "answer": "The development features world-class lifestyle amenities including 100% Mivan Formwork Monolithic Construction, Near Mankar Chowk & Bhumkar Chowk, Rooftop Sports Lounge & Sun Decks, Clubhouse with Fully Equipped Gym, Zero Commission Direct Deal, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Ganga Asmi by b-goel-ganga in Wakad, Pune",
+    "imageAlt": "Ganga Asmi Architecture in Wakad",
+    "amenities": [
+      "100% Mivan Formwork Monolithic Construction",
+      "Near Mankar Chowk & Bhumkar Chowk",
+      "Rooftop Sports Lounge & Sun Decks",
+      "Clubhouse with Fully Equipped Gym",
+      "Zero Commission Direct Deal"
     ]
   },
   {
@@ -92259,6 +101122,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Ganga Platino?",
         "answer": "The development features world-class lifestyle amenities including Beside World Trade Center & EON IT Park, XL Sized Luxury Residences, Olympic-Spec Swimming Pool & Cabanas, Ready to Move with Full OC Received, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Ganga Platino by b-goel-ganga in Kharadi, Pune",
+    "imageAlt": "Ganga Platino Architecture in Kharadi",
+    "amenities": [
+      "Beside World Trade Center & EON IT Park",
+      "XL Sized Luxury Residences",
+      "Olympic-Spec Swimming Pool & Cabanas",
+      "Ready to Move with Full OC Received",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -92378,6 +101250,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Ganga Legend & County?",
         "answer": "The development features world-class lifestyle amenities including 30-Acre Mega Hilltop Township, Full-Size Cricket Field & Soccer Ground, 4 Dedicated Multi-Tier Clubhouses, Bavdhan East Scenic Foothills, Zero Buyer Commission Direct Mandate, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Ganga Legend & County by b-goel-ganga in Bavdhan, Pune",
+    "imageAlt": "Ganga Legend & County Architecture in Bavdhan",
+    "amenities": [
+      "30-Acre Mega Hilltop Township",
+      "Full-Size Cricket Field & Soccer Ground",
+      "4 Dedicated Multi-Tier Clubhouses",
+      "Bavdhan East Scenic Foothills",
+      "Zero Buyer Commission Direct Mandate"
     ]
   },
   {
@@ -92484,6 +101365,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Ganga Fernhill?",
         "answer": "The development features world-class lifestyle amenities including Near The Corinthians Resort & Club, Bishop's & EuroSchool Walking Distance, Modern Clubhouse & Swimming Pool, Ready to Move Immediate Possession, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Ganga Fernhill by b-goel-ganga in Undri, Pune",
+    "imageAlt": "Ganga Fernhill Architecture in Undri",
+    "amenities": [
+      "Near The Corinthians Resort & Club",
+      "Bishop's & EuroSchool Walking Distance",
+      "Modern Clubhouse & Swimming Pool",
+      "Ready to Move Immediate Possession",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -92599,6 +101489,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Solitaire World?",
         "answer": "The development features world-class lifestyle amenities including 17-Acre Integrated Luxury Landmark District, Private Panoramic Sun Decks with Hill Views, World-Class Sports Courts & Spa, Integrated SBH Business Hub & World Plaza, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Solitaire World by b-solitaire-group in Bibwewadi, Pune",
+    "imageAlt": "Solitaire World Architecture in Bibwewadi",
+    "amenities": [
+      "17-Acre Integrated Luxury Landmark District",
+      "Private Panoramic Sun Decks with Hill Views",
+      "World-Class Sports Courts & Spa",
+      "Integrated SBH Business Hub & World Plaza",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -92725,6 +101624,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at ANP Atlantis?",
         "answer": "The development features world-class lifestyle amenities including Directly Behind Jupiter Hospital Balewadi, 3-Acre Master Podium Amenities, Infinity Pool & Jacuzzi Lounge, Pro-Grade Sports Facilities, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "ANP Atlantis by b-anp-corp in Balewadi, Pune",
+    "imageAlt": "ANP Atlantis Architecture in Balewadi",
+    "amenities": [
+      "Directly Behind Jupiter Hospital Balewadi",
+      "3-Acre Master Podium Amenities",
+      "Infinity Pool & Jacuzzi Lounge",
+      "Pro-Grade Sports Facilities",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -92848,6 +101756,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at ANP Universe?",
         "answer": "The development features world-class lifestyle amenities including Right on Balewadi High Street, 35-Storey Sky Scrapers with Central Grand Podium, Sky Duplexes & Penthouses with Hill Views, High-Street Gourmet Retail Arcade, Zero Buyer Commission Mandate, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "ANP Universe by b-anp-corp in Balewadi, Pune",
+    "imageAlt": "ANP Universe Architecture in Balewadi",
+    "amenities": [
+      "Right on Balewadi High Street",
+      "35-Storey Sky Scrapers with Central Grand Podium",
+      "Sky Duplexes & Penthouses with Hill Views",
+      "High-Street Gourmet Retail Arcade",
+      "Zero Buyer Commission Mandate"
     ]
   },
   {
@@ -92964,6 +101881,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at ANP Autograph?",
         "answer": "The development features world-class lifestyle amenities including Along Aundh-Ravet BRTS High-Speed Corridor, Multi-Tier Clubhouse & Swimming Pool, Children's Themed Play Park & Daycare, Digital Home Automation, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "ANP Autograph by b-anp-corp in Punawale, Pune",
+    "imageAlt": "ANP Autograph Architecture in Punawale",
+    "amenities": [
+      "Along Aundh-Ravet BRTS High-Speed Corridor",
+      "Multi-Tier Clubhouse & Swimming Pool",
+      "Children's Themed Play Park & Daycare",
+      "Digital Home Automation",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -93077,6 +102003,15 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Rohan Abhilasha?",
         "answer": "The development features world-class lifestyle amenities including 30-Acre Master Township with 7 Clusters, Double-Height Private Terrace Gardens, Ready Possession OC Received, Close to Pune International Airport, 100% Zero Brokerage Purchase, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Rohan Abhilasha by b-rohan in Wagholi, Pune",
+    "imageAlt": "Rohan Abhilasha Architecture in Wagholi",
+    "amenities": [
+      "30-Acre Master Township with 7 Clusters",
+      "Double-Height Private Terrace Gardens",
+      "Ready Possession OC Received",
+      "Close to Pune International Airport",
+      "100% Zero Brokerage Purchase"
     ]
   },
   {
@@ -93084,7 +102019,7 @@ export const PROJECTS: Project[] = [
     "title": "Oberoi Forestville",
     "slug": "oberoi-forestville-kolshet",
     "builderId": "b-oberoi",
-    "location": "Kolshet Road, Thane",
+    "location": "Kolshet Road",
     "city": "Thane",
     "priceRange": "₹1.95 Cr - ₹3.80 Cr",
     "exactPrice": "₹1.95 Cr",
@@ -93203,6 +102138,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Oberoi Forestville?",
         "answer": "The development features world-class lifestyle amenities including Biophilic Landscape Architecture, Olympic-Length Swimming Pool, Grand 40,000 sq.ft Clubhouse, Tennis & Squash Courts, Yeoor Hills Views, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Oberoi Forestville by b-oberoi in Kolshet Road, Thane, Thane",
+    "imageAlt": "Oberoi Forestville Architecture in Kolshet Road, Thane",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -93210,7 +102152,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Amara",
     "slug": "lodha-amara-kolshet",
     "builderId": "b-lodha",
-    "location": "Kolshet Road, Thane",
+    "location": "Kolshet Road",
     "city": "Thane",
     "priceRange": "₹75 L - ₹2.25 Cr",
     "exactPrice": "₹75 L",
@@ -93329,6 +102271,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Lodha Amara?",
         "answer": "The development features world-class lifestyle amenities including 40-Acre Master Township, 50,000 sq.ft Clubhouse, FIFA Football Pitch, Private Cricket Ground, Ready to Move Options, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Lodha Amara by b-lodha in Kolshet Road, Thane, Thane",
+    "imageAlt": "Lodha Amara Architecture in Kolshet Road, Thane",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -93336,7 +102285,7 @@ export const PROJECTS: Project[] = [
     "title": "Raymond Ten X Habitat",
     "slug": "raymond-tenx-habitat-thane",
     "builderId": "b-raymond",
-    "location": "Pokhran Road, Thane",
+    "location": "Pokhran Road",
     "city": "Thane",
     "priceRange": "₹1.25 Cr - ₹2.40 Cr",
     "exactPrice": "₹1.25 Cr",
@@ -93445,6 +102394,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Raymond Ten X Habitat?",
         "answer": "The development features world-class lifestyle amenities including 50+ Lifestyle Amenities, 14-Acre Integrated Habitat, Central Forest Landscape, Proximity to Singhania School, Direct Developer Allocation, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Raymond Ten X Habitat by b-raymond in Pokhran Road, Thane, Thane",
+    "imageAlt": "Raymond Ten X Habitat Architecture in Pokhran Road, Thane",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -93452,7 +102408,7 @@ export const PROJECTS: Project[] = [
     "title": "The Address by GS",
     "slug": "the-address-by-gs-thane",
     "builderId": "b-raymond",
-    "location": "Pokhran Road, Thane",
+    "location": "Pokhran Road",
     "city": "Thane",
     "priceRange": "₹2.65 Cr - ₹5.40 Cr",
     "exactPrice": "₹2.65 Cr",
@@ -93568,6 +102524,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Address by GS?",
         "answer": "The development features world-class lifestyle amenities including Signature GS Luxury Suites, Double-Height Grand Lobbies, Skyline Infinity Pool, 3-Tier Signature Club, Yeoor Hills Panoramic Views, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "The Address by GS by b-raymond in Pokhran Road, Thane, Thane",
+    "imageAlt": "The Address by GS Architecture in Pokhran Road, Thane",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -93575,7 +102538,7 @@ export const PROJECTS: Project[] = [
     "title": "Hiranandani Estate - Pelican & Falcon",
     "slug": "hiranandani-estate-pelican-thane",
     "builderId": "b-hiranandani",
-    "location": "Ghodbunder Road, Thane",
+    "location": "Ghodbunder Road",
     "city": "Thane",
     "priceRange": "₹92 L - ₹3.10 Cr",
     "exactPrice": "₹92 L",
@@ -93692,6 +102655,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani Estate - Pelican & Falcon?",
         "answer": "The development features world-class lifestyle amenities including 250-Acre Neo-Classical Township, The Walk High-Street Boulevard, HCS International School on Campus, Hiranandani Hospital Proximity, Ready Possession, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Hiranandani Estate - Pelican & Falcon by b-hiranandani in Ghodbunder Road, Thane, Thane",
+    "imageAlt": "Hiranandani Estate - Pelican & Falcon Architecture in Ghodbunder Road, Thane",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -93699,7 +102669,7 @@ export const PROJECTS: Project[] = [
     "title": "Kalpataru Parkcity",
     "slug": "kalpataru-parkcity-thane",
     "builderId": "b-kalpataru",
-    "location": "Kolshet Road, Thane",
+    "location": "Kolshet Road",
     "city": "Thane",
     "priceRange": "₹1.15 Cr - ₹2.85 Cr",
     "exactPrice": "₹1.15 Cr",
@@ -93815,6 +102785,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kalpataru Parkcity?",
         "answer": "The development features world-class lifestyle amenities including 100+ Acre Mega Township, 20-Acre Grand Central Park Access, 405+ Lifestyle Amenities, Metro Line 4 Connectivity, Ready Possession Towers, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kalpataru Parkcity by b-kalpataru in Kolshet Road, Thane, Thane",
+    "imageAlt": "Kalpataru Parkcity Architecture in Kolshet Road, Thane",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -93822,7 +102799,7 @@ export const PROJECTS: Project[] = [
     "title": "Rustomjee Urbania",
     "slug": "rustomjee-urbania-majiwada",
     "builderId": "b-rustomjee",
-    "location": "Majiwada, Thane",
+    "location": "Majiwada",
     "city": "Thane",
     "priceRange": "₹1.20 Cr - ₹2.45 Cr",
     "exactPrice": "₹1.20 Cr",
@@ -93932,6 +102909,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Rustomjee Urbania?",
         "answer": "The development features world-class lifestyle amenities including 127-Acre Award-Winning Township, Rustomjee Cambridge School on-site, Leon's World Experiential Center, Immediate EEH Access, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Rustomjee Urbania by b-rustomjee in Majiwada, Thane, Thane",
+    "imageAlt": "Rustomjee Urbania Architecture in Majiwada, Thane",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -93939,7 +102923,7 @@ export const PROJECTS: Project[] = [
     "title": "Dosti West County",
     "slug": "dosti-west-county-balkum",
     "builderId": "b-dosti",
-    "location": "Balkum, Thane",
+    "location": "Balkum",
     "city": "Thane",
     "priceRange": "₹72 L - ₹1.75 Cr",
     "exactPrice": "₹72 L",
@@ -94056,6 +103040,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Dosti West County?",
         "answer": "The development features world-class lifestyle amenities including 100-Acre County Ecosystem, Dosti Club County, EuroKids & Shiamak Davar on Campus, Near Balkum Metro Station, Direct Builder Booking, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Dosti West County by b-dosti in Balkum, Thane, Thane",
+    "imageAlt": "Dosti West County Architecture in Balkum, Thane",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -94063,7 +103054,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Ascend",
     "slug": "godrej-ascend-kolshet",
     "builderId": "b-godrej",
-    "location": "Kolshet Road, Thane",
+    "location": "Kolshet Road",
     "city": "Thane",
     "priceRange": "₹89 L - ₹2.15 Cr",
     "exactPrice": "₹89 L",
@@ -94180,6 +103171,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Godrej Ascend?",
         "answer": "The development features world-class lifestyle amenities including Dual Grand Clubhouses, 40+ Lifestyle Amenities, Sky Sports Arena, Direct Kolshet Main Road Access, MahaRERA Registered, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Godrej Ascend by b-godrej in Kolshet Road, Thane, Thane",
+    "imageAlt": "Godrej Ascend Architecture in Kolshet Road, Thane",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -94187,7 +103185,7 @@ export const PROJECTS: Project[] = [
     "title": "Runwal 25 Hour Life",
     "slug": "runwal-25-hour-life-thane",
     "builderId": "b-runwal",
-    "location": "Manpada, Thane",
+    "location": "Manpada",
     "city": "Thane",
     "priceRange": "₹1.10 Cr - ₹2.30 Cr",
     "exactPrice": "₹1.10 Cr",
@@ -94297,6 +103295,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Runwal 25 Hour Life?",
         "answer": "The development features world-class lifestyle amenities including 21-Acre Urban Gated Enclave, 70+ Resort-Style Amenities, Adjacent to R-Mall Thane, Walk to Manpada Metro Station, Zero Buyer Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Runwal 25 Hour Life by b-runwal in Manpada, Thane, Thane",
+    "imageAlt": "Runwal 25 Hour Life Architecture in Manpada, Thane",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -94304,7 +103309,7 @@ export const PROJECTS: Project[] = [
     "title": "Oberoi Sky City",
     "slug": "oberoi-sky-city-borivali",
     "builderId": "b-oberoi",
-    "location": "Borivali East, Mumbai",
+    "location": "Borivali East",
     "city": "Mumbai",
     "priceRange": "₹3.20 Cr - ₹5.80 Cr",
     "exactPrice": "₹3.20 Cr",
@@ -94417,6 +103422,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Oberoi Sky City?",
         "answer": "The development features world-class lifestyle amenities including 25-Acre Integrated Luxury Development, Direct Skywalk to Metro Station, Western Express Highway Frontage, Sky City Mall on-site, Ready to Move Occupancy, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Oberoi Sky City by b-oberoi in Borivali East, Mumbai, Mumbai",
+    "imageAlt": "Oberoi Sky City Architecture in Borivali East, Mumbai",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -94424,7 +103436,7 @@ export const PROJECTS: Project[] = [
     "title": "Oberoi Elysian",
     "slug": "oberoi-elysian-goregaon",
     "builderId": "b-oberoi",
-    "location": "Goregaon East, Mumbai",
+    "location": "Goregaon East",
     "city": "Mumbai",
     "priceRange": "₹4.85 Cr - ₹8.50 Cr",
     "exactPrice": "₹4.85 Cr",
@@ -94534,6 +103546,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Oberoi Elysian?",
         "answer": "The development features world-class lifestyle amenities including Oberoi Garden City Master Township, Adjacent to Oberoi Mall & The Westin, Aarey Greenery Panoramic Views, High-Ceiling Luxury Residences, Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Oberoi Elysian by b-oberoi in Goregaon East, Mumbai, Mumbai",
+    "imageAlt": "Oberoi Elysian Architecture in Goregaon East, Mumbai",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -94541,7 +103560,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha World Towers",
     "slug": "lodha-world-towers-worli",
     "builderId": "b-lodha",
-    "location": "Worli, Mumbai",
+    "location": "Worli",
     "city": "Mumbai",
     "priceRange": "₹12.50 Cr - ₹35.00 Cr",
     "exactPrice": "₹12.50 Cr",
@@ -94657,6 +103676,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Lodha World Towers?",
         "answer": "The development features world-class lifestyle amenities including Global Architectural Icon, Interiors by Armani/Casa, Arabian Sea & Sea Link Panoramas, Private 5-Acre Gated Estate, Helipad & Private Screening Rooms, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Lodha World Towers by b-lodha in Worli, Mumbai, Mumbai",
+    "imageAlt": "Lodha World Towers Architecture in Worli, Mumbai",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -94664,7 +103690,7 @@ export const PROJECTS: Project[] = [
     "title": "Lodha Woods",
     "slug": "lodha-woods-kandivali",
     "builderId": "b-lodha",
-    "location": "Kandivali East, Mumbai",
+    "location": "Kandivali East",
     "city": "Mumbai",
     "priceRange": "₹2.10 Cr - ₹4.20 Cr",
     "exactPrice": "₹2.10 Cr",
@@ -94774,6 +103800,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Lodha Woods?",
         "answer": "The development features world-class lifestyle amenities including Sanjay Gandhi National Park Views, Organic Garden & Nature Trails, Walk to Akurli Metro Station, 25,000 sq.ft Central Clubhouse, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Lodha Woods by b-lodha in Kandivali East, Mumbai, Mumbai",
+    "imageAlt": "Lodha Woods Architecture in Kandivali East, Mumbai",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -94781,7 +103814,7 @@ export const PROJECTS: Project[] = [
     "title": "Hiranandani Gardens - Castle Rock",
     "slug": "hiranandani-gardens-castle-rock-powai",
     "builderId": "b-hiranandani",
-    "location": "Powai, Mumbai",
+    "location": "Powai",
     "city": "Mumbai",
     "priceRange": "₹2.85 Cr - ₹6.20 Cr",
     "exactPrice": "₹2.85 Cr",
@@ -94891,6 +103924,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Hiranandani Gardens - Castle Rock?",
         "answer": "The development features world-class lifestyle amenities including Mumbai's #1 Master Township, Powai Lake Panoramas, Neo-Classical Architectural Heritage, High-Street Dining & Galleria Mall, Ready to Move, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Hiranandani Gardens - Castle Rock by b-hiranandani in Powai, Mumbai, Mumbai",
+    "imageAlt": "Hiranandani Gardens - Castle Rock Architecture in Powai, Mumbai",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -94898,7 +103938,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej The Trees",
     "slug": "godrej-the-trees-vikhroli",
     "builderId": "b-godrej",
-    "location": "Vikhroli East, Mumbai",
+    "location": "Vikhroli East",
     "city": "Mumbai",
     "priceRange": "₹2.40 Cr - ₹5.80 Cr",
     "exactPrice": "₹2.40 Cr",
@@ -95017,6 +104057,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Godrej The Trees?",
         "answer": "The development features world-class lifestyle amenities including 34-Acre Sustainable Mixed-Use Township, Taj The Trees Luxury Hotel on Campus, Mangrove Ecosystem Preservation, Eastern Express Highway Frontage, Direct Developer Allocation, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Godrej The Trees by b-godrej in Vikhroli East, Mumbai, Mumbai",
+    "imageAlt": "Godrej The Trees Architecture in Vikhroli East, Mumbai",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -95024,7 +104071,7 @@ export const PROJECTS: Project[] = [
     "title": "Piramal Revanta",
     "slug": "piramal-revanta-mulund",
     "builderId": "b-piramal",
-    "location": "Mulund West, Mumbai",
+    "location": "Mulund West",
     "city": "Mumbai",
     "priceRange": "₹1.45 Cr - ₹3.40 Cr",
     "exactPrice": "₹1.45 Cr",
@@ -95141,6 +104188,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Piramal Revanta?",
         "answer": "The development features world-class lifestyle amenities including 8.4-Acre Gated Development, Overlooking National Park Greens, 50% Open Spaces, Immediate Goregaon-Mulund Link Road Access, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Piramal Revanta by b-piramal in Mulund West, Mumbai, Mumbai",
+    "imageAlt": "Piramal Revanta Architecture in Mulund West, Mumbai",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -95148,7 +104202,7 @@ export const PROJECTS: Project[] = [
     "title": "Rustomjee Seasons",
     "slug": "rustomjee-seasons-bkc",
     "builderId": "b-rustomjee",
-    "location": "Bandra East, Mumbai",
+    "location": "Bandra East",
     "city": "Mumbai",
     "priceRange": "₹6.20 Cr - ₹11.50 Cr",
     "exactPrice": "₹6.20 Cr",
@@ -95258,6 +104312,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Rustomjee Seasons?",
         "answer": "The development features world-class lifestyle amenities including Minutes from BKC Financial Center, Bespoke Alfresco Terrace, Private Cinema & Gaming Room, Ready Possession Luxury, Direct Builder Mandate, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Rustomjee Seasons by b-rustomjee in Bandra East, Mumbai, Mumbai",
+    "imageAlt": "Rustomjee Seasons Architecture in Bandra East, Mumbai",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -95265,7 +104326,7 @@ export const PROJECTS: Project[] = [
     "title": "Runwal Bliss",
     "slug": "runwal-bliss-kanjurmarg",
     "builderId": "b-runwal",
-    "location": "Kanjurmarg East, Mumbai",
+    "location": "Kanjurmarg",
     "city": "Mumbai",
     "priceRange": "₹1.35 Cr - ₹2.95 Cr",
     "exactPrice": "₹1.35 Cr",
@@ -95382,6 +104443,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Runwal Bliss?",
         "answer": "The development features world-class lifestyle amenities including Built Around 150-Yr Banyan Tree, Walk to Kanjurmarg Station & Metro, 3 Grand Clubhouses, Ready to Move Options, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Runwal Bliss by b-runwal in Kanjurmarg East, Mumbai, Mumbai",
+    "imageAlt": "Runwal Bliss Architecture in Kanjurmarg East, Mumbai",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -95389,7 +104457,7 @@ export const PROJECTS: Project[] = [
     "title": "Dosti Eastern Bay",
     "slug": "dosti-eastern-bay-wadala",
     "builderId": "b-dosti",
-    "location": "Wadala, Mumbai",
+    "location": "Wadala",
     "city": "Mumbai",
     "priceRange": "₹1.95 Cr - ₹4.50 Cr",
     "exactPrice": "₹1.95 Cr",
@@ -95506,6 +104574,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Dosti Eastern Bay?",
         "answer": "The development features world-class lifestyle amenities including Designed by Hafeez Contractor, Atal Setu & Sea Views, Minutes to Eastern Freeway & BKC, 50-Storey Architectural Towers, Zero Commission, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Dosti Eastern Bay by b-dosti in Wadala, Mumbai, Mumbai",
+    "imageAlt": "Dosti Eastern Bay Architecture in Wadala, Mumbai",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -95513,7 +104588,7 @@ export const PROJECTS: Project[] = [
     "title": "Trump Towers Pune",
     "slug": "trump-towers-kalyani-nagar-pune",
     "builderId": "b-panchshil",
-    "location": "Kalyani Nagar, Pune",
+    "location": "Kalyani Nagar",
     "city": "Pune",
     "priceRange": "₹14.50 Cr - ₹22.00 Cr",
     "exactPrice": "₹14.50 Cr",
@@ -95625,6 +104700,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Trump Towers Pune?",
         "answer": "The development features world-class lifestyle amenities including Twin 23-Storey Black Glass Monoliths, Single-Floor 4,400 sq.ft Residences, Interiors by Matteo Nunziati, Trump White-Glove Global Concierge, Private Art Gallery & Cigar Room, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Trump Towers Pune by b-panchshil in Kalyani Nagar, Pune, Pune",
+    "imageAlt": "Trump Towers Pune Architecture in Kalyani Nagar, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -95632,7 +104714,7 @@ export const PROJECTS: Project[] = [
     "title": "yoo pune by Philippe Starck",
     "slug": "yoo-pune-philippe-starck-hadapsar",
     "builderId": "b-panchshil",
-    "location": "Hadapsar, Pune",
+    "location": "Hadapsar",
     "city": "Pune",
     "priceRange": "₹8.50 Cr - ₹16.00 Cr",
     "exactPrice": "₹8.50 Cr",
@@ -95742,6 +104824,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at yoo pune by Philippe Starck?",
         "answer": "The development features world-class lifestyle amenities including 17-Acre Preserved Rainforest Enclave, Architecture by Philippe Starck, The Six Senses Spa On-Site, Tea Lounge & Cigar Room, Private Helipad Access, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "yoo pune by Philippe Starck by b-panchshil in Hadapsar, Pune, Pune",
+    "imageAlt": "yoo pune by Philippe Starck Architecture in Hadapsar, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -95749,7 +104838,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Earth One",
     "slug": "vtp-earth-one-mahalunge-baner-annex",
     "builderId": "b-vtp",
-    "location": "Mahalunge, Pune",
+    "location": "Mahalunge",
     "city": "Pune",
     "priceRange": "₹72 L - ₹2.35 Cr",
     "exactPrice": "₹72 L",
@@ -95877,6 +104966,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VTP Earth One?",
         "answer": "The development features world-class lifestyle amenities including 100+ Acre Blue Waters Master Township, Riverside Promenade & Cycling Tracks, MLA (Maximum Livable Area) Homes, 34-Storey Architectural High-Rises, Walk to Balewadi High Street, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "VTP Earth One by b-vtp in Mahalunge, Pune, Pune",
+    "imageAlt": "VTP Earth One Architecture in Mahalunge, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -95884,7 +104980,7 @@ export const PROJECTS: Project[] = [
     "title": "VTP Pegasus",
     "slug": "vtp-pegasus-new-kharadi-pune",
     "builderId": "b-vtp",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "city": "Pune",
     "priceRange": "₹55 L - ₹1.95 Cr",
     "exactPrice": "₹55 L",
@@ -96001,6 +105097,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VTP Pegasus?",
         "answer": "The development features world-class lifestyle amenities including 100+ Acre Integrated Township, 10 Mins to EON IT Park & WTC, 5 Themed Grand Clubhouses, Professional Sports Academies, Direct Developer Allocation, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "VTP Pegasus by b-vtp in Kharadi, Pune, Pune",
+    "imageAlt": "VTP Pegasus Architecture in Kharadi, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -96008,7 +105111,7 @@ export const PROJECTS: Project[] = [
     "title": "Godrej Woodsville",
     "slug": "godrej-woodsville-hinjewadi-phase-1",
     "builderId": "b-godrej",
-    "location": "Hinjewadi, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹68 L - ₹1.65 Cr",
     "exactPrice": "₹68 L",
@@ -96125,6 +105228,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Godrej Woodsville?",
         "answer": "The development features world-class lifestyle amenities including 400+ Trees on Campus, Walk to Hinjewadi Phase 1 Tech Campuses, Sky Lounge with Panoramic Views, Dedicated Work Pods, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Godrej Woodsville by b-godrej in Hinjewadi, Pune, Pune",
+    "imageAlt": "Godrej Woodsville Architecture in Hinjewadi, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -96132,7 +105242,7 @@ export const PROJECTS: Project[] = [
     "title": "Amanora Gateway Towers",
     "slug": "amanora-gateway-towers-hadapsar-pune",
     "builderId": "b-amanora",
-    "location": "Hadapsar, Pune",
+    "location": "Hadapsar",
     "city": "Pune",
     "priceRange": "₹1.85 Cr - ₹6.50 Cr",
     "exactPrice": "₹1.85 Cr",
@@ -96249,6 +105359,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Amanora Gateway Towers?",
         "answer": "The development features world-class lifestyle amenities including World's First Swarovski Tower, Private Sky Pools & Spas, 400-Acre Amanora Park Town Ecosystem, Central Green Spine & Lake, Ready Possession, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Amanora Gateway Towers by b-amanora in Hadapsar, Pune, Pune",
+    "imageAlt": "Amanora Gateway Towers Architecture in Hadapsar, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -96256,7 +105373,7 @@ export const PROJECTS: Project[] = [
     "title": "The Balmoral Riverside",
     "slug": "the-balmoral-riverside-balewadi-pune",
     "builderId": "b-kasturi",
-    "location": "Balewadi, Pune",
+    "location": "Balewadi",
     "city": "Pune",
     "priceRange": "₹2.45 Cr - ₹5.80 Cr",
     "exactPrice": "₹2.45 Cr",
@@ -96366,6 +105483,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Balmoral Riverside?",
         "answer": "The development features world-class lifestyle amenities including Boutique Riverfront Sanctuary, German Poggenpohl Kitchens, Floor-to-Ceiling Belgian Glass, Minutes to Balewadi High Street, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "The Balmoral Riverside by b-kasturi in Balewadi, Pune, Pune",
+    "imageAlt": "The Balmoral Riverside Architecture in Balewadi, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -96373,7 +105497,7 @@ export const PROJECTS: Project[] = [
     "title": "Yashwin Supernova",
     "slug": "yashwin-supernova-wakad-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹78 L - ₹1.75 Cr",
     "exactPrice": "₹78 L",
@@ -96488,6 +105612,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashwin Supernova?",
         "answer": "The development features world-class lifestyle amenities including Prime Bhumkar Chowk Wakad Location, VJ Signature Construction Warranty, Rooftop Sky Lounge, Zero Brokerage Guaranteed, MahaRERA Approved, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Yashwin Supernova by b-vilas-javdekar in Wakad, Pune, Pune",
+    "imageAlt": "Yashwin Supernova Architecture in Wakad, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -96495,7 +105626,7 @@ export const PROJECTS: Project[] = [
     "title": "Nyati Elysia",
     "slug": "nyati-elysia-kharadi-pune",
     "builderId": "b-nyati",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "city": "Pune",
     "priceRange": "₹95 L - ₹2.20 Cr",
     "exactPrice": "₹95 L",
@@ -96605,6 +105736,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Nyati Elysia?",
         "answer": "The development features world-class lifestyle amenities including Riverfront Gated Towers, Walk to EON IT Park & WTC, 28-Storey High-Rise Architecture, Ready to Move Occupancy, Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Nyati Elysia by b-nyati in Kharadi, Pune, Pune",
+    "imageAlt": "Nyati Elysia Architecture in Kharadi, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -96612,7 +105750,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Sportsville",
     "slug": "kohinoor-sportsville-hinjewadi-phase-1",
     "builderId": "b-kohinoor",
-    "location": "Hinjewadi, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹65 L - ₹1.45 Cr",
     "exactPrice": "₹65 L",
@@ -96729,6 +105867,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Sportsville?",
         "answer": "The development features world-class lifestyle amenities including Sports-Centric Residential Township, 5 Professional Sports Academies, Walk to Infosys & Wipro Campuses, Zero Buyer Brokerage, Sada Sukhi Raho Trust, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Sportsville by b-kohinoor in Hinjewadi, Pune, Pune",
+    "imageAlt": "Kohinoor Sportsville Architecture in Hinjewadi, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -96736,7 +105881,7 @@ export const PROJECTS: Project[] = [
     "title": "Supreme Estia",
     "slug": "supreme-estia-baner-pune",
     "builderId": "b-supreme-universal",
-    "location": "Baner, Pune",
+    "location": "Baner",
     "city": "Pune",
     "priceRange": "₹1.40 Cr - ₹3.20 Cr",
     "exactPrice": "₹1.40 Cr",
@@ -96853,6 +105998,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Supreme Estia?",
         "answer": "The development features world-class lifestyle amenities including Art Deco Architecture, 3 Grand Double-Height Clubhouses, 45,000 sq.ft Central Podium, Baner Hills Views, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Supreme Estia by b-supreme-universal in Baner, Pune, Pune",
+    "imageAlt": "Supreme Estia Architecture in Baner, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -96860,7 +106012,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Presidentia",
     "slug": "kohinoor-presidentia-sopan-baug-pune",
     "builderId": "b-kohinoor",
-    "location": "Sopan Baug, Pune",
+    "location": "Sopan Baug",
     "city": "Pune",
     "priceRange": "₹1.15 Cr - ₹2.40 Cr",
     "exactPrice": "₹1.15 Cr",
@@ -96977,6 +106129,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Presidentia?",
         "answer": "The development features world-class lifestyle amenities including Sopan Baug Annexe Prime Address, 10 Mins to Koregaon Park & MG Road, Double-Height Grand Club, Sada Sukhi Raho 5-Year Maintenance Assurance, Zero Buyer Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Presidentia by b-kohinoor in Sopan Baug, Pune, Pune",
+    "imageAlt": "Kohinoor Presidentia Architecture in Sopan Baug, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -96984,7 +106143,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Viva City",
     "slug": "kohinoor-viva-city-dhanori-pune",
     "builderId": "b-kohinoor",
-    "location": "Dhanori, Pune",
+    "location": "Dhanori",
     "city": "Pune",
     "priceRange": "₹58 L - ₹1.25 Cr",
     "exactPrice": "₹58 L",
@@ -97099,6 +106258,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Viva City?",
         "answer": "The development features world-class lifestyle amenities including 10 Mins to Pune International Airport, Proximity to Viman Nagar & Commerzone, 20+ Podium Amenities, Sada Sukhi Raho Philosophy, Direct Developer Allocation, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Viva City by b-kohinoor in Dhanori, Pune, Pune",
+    "imageAlt": "Kohinoor Viva City Architecture in Dhanori, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -97106,7 +106272,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Westview Reserve",
     "slug": "kohinoor-westview-reserve-punawale-pune",
     "builderId": "b-kohinoor",
-    "location": "Punawale, Pune",
+    "location": "Punawale",
     "city": "Pune",
     "priceRange": "₹64 L - ₹1.35 Cr",
     "exactPrice": "₹64 L",
@@ -97221,6 +106387,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Westview Reserve?",
         "answer": "The development features world-class lifestyle amenities including Nature-Centric 10-Acre Master Township, Expressway Gateway Access, Forest-Facing Balconies, Zero Buyer Brokerage, Sada Sukhi Raho Warranty, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Westview Reserve by b-kohinoor in Punawale, Pune, Pune",
+    "imageAlt": "Kohinoor Westview Reserve Architecture in Punawale, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -97228,7 +106401,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Sapphire",
     "slug": "kohinoor-sapphire-tathawade-pune",
     "builderId": "b-kohinoor",
-    "location": "Tathawade, Pune",
+    "location": "Tathawade",
     "city": "Pune",
     "priceRange": "₹62 L - ₹95 L",
     "exactPrice": "₹62 L",
@@ -97335,6 +106508,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Sapphire?",
         "answer": "The development features world-class lifestyle amenities including Ready to Move Occupancy, Wakad Annexe Prime Location, Near Top Educational Hubs, Branded Construction Quality, Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Sapphire by b-kohinoor in Tathawade, Pune, Pune",
+    "imageAlt": "Kohinoor Sapphire Architecture in Tathawade, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -97342,7 +106522,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Grandeur",
     "slug": "kohinoor-grandeur-ravet-pune",
     "builderId": "b-kohinoor",
-    "location": "Ravet, Pune",
+    "location": "Ravet",
     "city": "Pune",
     "priceRange": "₹59 L - ₹1.18 Cr",
     "exactPrice": "₹59 L",
@@ -97452,6 +106632,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Grandeur?",
         "answer": "The development features world-class lifestyle amenities including Expressway Starting Point, Ready Possession Homes, 3-Tier Gated Security, Near Akurdi Railway Station, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Grandeur by b-kohinoor in Ravet, Pune, Pune",
+    "imageAlt": "Kohinoor Grandeur Architecture in Ravet, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -97459,7 +106646,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Courtyard One",
     "slug": "kohinoor-courtyard-one-wakad-pune",
     "builderId": "b-kohinoor",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹76 L - ₹1.48 Cr",
     "exactPrice": "₹76 L",
@@ -97568,6 +106755,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Courtyard One?",
         "answer": "The development features world-class lifestyle amenities including Central Courtyard Architecture, Near Dange Chowk Wakad, Premium Clubhouse & Amenities, Zero Brokerage Guaranteed, MahaRERA Approved, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Courtyard One by b-kohinoor in Wakad, Pune, Pune",
+    "imageAlt": "Kohinoor Courtyard One Architecture in Wakad, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -97575,7 +106769,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Famville",
     "slug": "kohinoor-famville-hinjewadi-phase-2",
     "builderId": "b-kohinoor",
-    "location": "Hinjewadi, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹65 L - ₹1.35 Cr",
     "exactPrice": "₹65 L",
@@ -97690,6 +106884,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Famville?",
         "answer": "The development features world-class lifestyle amenities including Family-Centric Master Design, Walk to Wipro & Cognizant Phase 2, Multi-Tier Security & Crèche, Zero Commission, Sada Sukhi Raho Trust, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Famville by b-kohinoor in Hinjewadi, Pune, Pune",
+    "imageAlt": "Kohinoor Famville Architecture in Hinjewadi, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -97697,7 +106898,7 @@ export const PROJECTS: Project[] = [
     "title": "The Balmoral Hillside",
     "slug": "the-balmoral-hillside-baner-pune",
     "builderId": "b-kasturi",
-    "location": "Baner, Pune",
+    "location": "Baner",
     "city": "Pune",
     "priceRange": "₹3.10 Cr - ₹7.20 Cr",
     "exactPrice": "₹3.10 Cr",
@@ -97814,6 +107015,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Balmoral Hillside?",
         "answer": "The development features world-class lifestyle amenities including Baner Hills Bio-Reserve Frontage, Italian Marble & Floor-to-Ceiling Glass, Private High-Speed Elevators, 100% Zero Brokerage, Kasturi Signature Finishing, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "The Balmoral Hillside by b-kasturi in Baner, Pune, Pune",
+    "imageAlt": "The Balmoral Hillside Architecture in Baner, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -97821,7 +107029,7 @@ export const PROJECTS: Project[] = [
     "title": "The Balmoral Estate",
     "slug": "the-balmoral-estate-baner-pune",
     "builderId": "b-kasturi",
-    "location": "Baner, Pune",
+    "location": "Baner",
     "city": "Pune",
     "priceRange": "₹4.50 Cr - ₹9.50 Cr",
     "exactPrice": "₹4.50 Cr",
@@ -97929,6 +107137,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at The Balmoral Estate?",
         "answer": "The development features world-class lifestyle amenities including Single Floor Exclusive Residences, Private Plunge Pools, Italian Poggenpohl Kitchens, Ready Possession Luxury, Direct Builder Mandate, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "The Balmoral Estate by b-kasturi in Baner, Pune, Pune",
+    "imageAlt": "The Balmoral Estate Architecture in Baner, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -97936,7 +107151,7 @@ export const PROJECTS: Project[] = [
     "title": "Kasturi Zero One",
     "slug": "kasturi-zero-one-mundhwa-pune",
     "builderId": "b-kasturi",
-    "location": "Mundhwa, Pune",
+    "location": "Mundhwa",
     "city": "Pune",
     "priceRange": "₹95 L - ₹2.40 Cr",
     "exactPrice": "₹95 L",
@@ -98053,6 +107268,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kasturi Zero One?",
         "answer": "The development features world-class lifestyle amenities including Koregaon Park Annexe Address, High-Ceiling Loft Architecture, Rooftop Sky Deck, 100% Zero Brokerage, Ready Possession, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kasturi Zero One by b-kasturi in Mundhwa, Pune, Pune",
+    "imageAlt": "Kasturi Zero One Architecture in Mundhwa, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -98060,7 +107282,7 @@ export const PROJECTS: Project[] = [
     "title": "Park Titanium",
     "slug": "park-titanium-baner-pune",
     "builderId": "b-pride-purple",
-    "location": "Baner, Pune",
+    "location": "Baner",
     "city": "Pune",
     "priceRange": "₹1.95 Cr - ₹4.50 Cr",
     "exactPrice": "₹1.95 Cr",
@@ -98171,6 +107393,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Park Titanium?",
         "answer": "The development features world-class lifestyle amenities including Baner Landmark Luxury Community, Olympic-Length Swimming Pool, 30,000 sq.ft Grand Clubhouse, Direct Builder Mandate, Ready Possession, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Park Titanium by b-pride-purple in Baner, Pune, Pune",
+    "imageAlt": "Park Titanium Architecture in Baner, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -98178,7 +107407,7 @@ export const PROJECTS: Project[] = [
     "title": "Park Grandeur",
     "slug": "park-grandeur-baner-pune",
     "builderId": "b-pride-purple",
-    "location": "Baner, Pune",
+    "location": "Baner",
     "city": "Pune",
     "priceRange": "₹2.65 Cr - ₹5.80 Cr",
     "exactPrice": "₹2.65 Cr",
@@ -98288,6 +107517,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Park Grandeur?",
         "answer": "The development features world-class lifestyle amenities including Baner-Pashan Link Road Prime Spot, Italian Marble Finishing, Exclusive Low-Density Living, Ready Possession, Zero Commission, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Park Grandeur by b-pride-purple in Baner, Pune, Pune",
+    "imageAlt": "Park Grandeur Architecture in Baner, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -98295,7 +107531,7 @@ export const PROJECTS: Project[] = [
     "title": "Park Astra",
     "slug": "park-astra-hinjewadi-phase-1",
     "builderId": "b-pride-purple",
-    "location": "Hinjewadi, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹72 L - ₹1.45 Cr",
     "exactPrice": "₹72 L",
@@ -98410,6 +107646,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Park Astra?",
         "answer": "The development features world-class lifestyle amenities including Inside 60-Acre Park District, Walk to Quadron Business Park & Infosys, 30+ Resort-Style Amenities, 100% Zero Brokerage, MahaRERA Approved, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Park Astra by b-pride-purple in Hinjewadi, Pune, Pune",
+    "imageAlt": "Park Astra Architecture in Hinjewadi, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -98417,7 +107660,7 @@ export const PROJECTS: Project[] = [
     "title": "Park Xpress",
     "slug": "park-xpress-baner-pune",
     "builderId": "b-pride-purple",
-    "location": "Baner, Pune",
+    "location": "Baner",
     "city": "Pune",
     "priceRange": "₹1.10 Cr - ₹2.15 Cr",
     "exactPrice": "₹1.10 Cr",
@@ -98526,6 +107769,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Park Xpress?",
         "answer": "The development features world-class lifestyle amenities including Ready Possession Living, Baner Prime Location, Landscaped Podium, Zero Brokerage, MahaRERA Registered, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Park Xpress by b-pride-purple in Baner, Pune, Pune",
+    "imageAlt": "Park Xpress Architecture in Baner, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -98533,7 +107783,7 @@ export const PROJECTS: Project[] = [
     "title": "Pride World City - Kingsbury",
     "slug": "pride-world-city-kingsbury-charholi-pune",
     "builderId": "b-pride-purple",
-    "location": "Charholi, Pune",
+    "location": "Charholi",
     "city": "Pune",
     "priceRange": "₹65 L - ₹1.70 Cr",
     "exactPrice": "₹65 L",
@@ -98643,6 +107893,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pride World City - Kingsbury?",
         "answer": "The development features world-class lifestyle amenities including 400-Acre Pride World City Township, D.Y. Patil Knowledge City Nearby, Master Community Infrastructure, Ready to Move Occupancy, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Pride World City - Kingsbury by b-pride-purple in Charholi, Pune, Pune",
+    "imageAlt": "Pride World City - Kingsbury Architecture in Charholi, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -98650,7 +107907,7 @@ export const PROJECTS: Project[] = [
     "title": "Park Landmark",
     "slug": "park-landmark-bibwewadi-pune",
     "builderId": "b-pride-purple",
-    "location": "Bibwewadi, Pune",
+    "location": "Bibwewadi",
     "city": "Pune",
     "priceRange": "₹1.15 Cr - ₹2.35 Cr",
     "exactPrice": "₹1.15 Cr",
@@ -98759,6 +108016,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Park Landmark?",
         "answer": "The development features world-class lifestyle amenities including South Pune Prime Salisbury Park Corridor, Ready Possession Homes, Gated Security & Landscaping, Zero Brokerage, MahaRERA Approved, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Park Landmark by b-pride-purple in Bibwewadi, Pune, Pune",
+    "imageAlt": "Park Landmark Architecture in Bibwewadi, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -98766,7 +108030,7 @@ export const PROJECTS: Project[] = [
     "title": "Yashwin Orizzonte",
     "slug": "yashwin-orizzonte-kharadi-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Kharadi, Pune",
+    "location": "Kharadi",
     "city": "Pune",
     "priceRange": "₹85 L - ₹1.95 Cr",
     "exactPrice": "₹85 L",
@@ -98881,6 +108145,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashwin Orizzonte?",
         "answer": "The development features world-class lifestyle amenities including River-Facing High-Rise Towers, 5 Mins to EON IT Park & WTC Kharadi, VJ 7-Year Construction Warranty, Zero Buyer Brokerage, MahaRERA Approved, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Yashwin Orizzonte by b-vilas-javdekar in Kharadi, Pune, Pune",
+    "imageAlt": "Yashwin Orizzonte Architecture in Kharadi, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -98888,7 +108159,7 @@ export const PROJECTS: Project[] = [
     "title": "YashONE Hinjewadi",
     "slug": "yashone-hinjewadi-phase-1-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Hinjewadi, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹48 L - ₹1.15 Cr",
     "exactPrice": "₹48 L",
@@ -99005,6 +108276,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at YashONE Hinjewadi?",
         "answer": "The development features world-class lifestyle amenities including Walk-to-Work Hinjewadi Phase 1, Ready Possession Homes, 20+ Curated Amenities, VJ Trust & Transparent Delivery, Zero Commission, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "YashONE Hinjewadi by b-vilas-javdekar in Hinjewadi, Pune, Pune",
+    "imageAlt": "YashONE Hinjewadi Architecture in Hinjewadi, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -99012,7 +108290,7 @@ export const PROJECTS: Project[] = [
     "title": "YashONE Infinitee",
     "slug": "yashone-infinitee-punawale-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Punawale, Pune",
+    "location": "Punawale",
     "city": "Pune",
     "priceRange": "₹59 L - ₹1.28 Cr",
     "exactPrice": "₹59 L",
@@ -99127,6 +108405,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at YashONE Infinitee?",
         "answer": "The development features world-class lifestyle amenities including 40+ Curated Lifestyle Amenities, Expressway Corridor Connectivity, VJ Construction Warranty, Zero Buyer Brokerage, MahaRERA Approved, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "YashONE Infinitee by b-vilas-javdekar in Punawale, Pune, Pune",
+    "imageAlt": "YashONE Infinitee Architecture in Punawale, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -99134,7 +108419,7 @@ export const PROJECTS: Project[] = [
     "title": "YashONE Wakad Central",
     "slug": "yashone-wakad-central-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹74 L - ₹1.45 Cr",
     "exactPrice": "₹74 L",
@@ -99249,6 +108534,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at YashONE Wakad Central?",
         "answer": "The development features world-class lifestyle amenities including Wakad Central Prime Address, 25+ Lifestyle Amenities, VJ Brand Construction Quality, 100% Zero Brokerage, MahaRERA Registered, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "YashONE Wakad Central by b-vilas-javdekar in Wakad, Pune, Pune",
+    "imageAlt": "YashONE Wakad Central Architecture in Wakad, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -99256,7 +108548,7 @@ export const PROJECTS: Project[] = [
     "title": "VJ Palladio Tathawade",
     "slug": "vj-palladio-tathawade-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Tathawade, Pune",
+    "location": "Tathawade",
     "city": "Pune",
     "priceRange": "₹65 L - ₹1.35 Cr",
     "exactPrice": "₹65 L",
@@ -99371,6 +108663,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VJ Palladio Tathawade?",
         "answer": "The development features world-class lifestyle amenities including Italian Renaissance Inspired Architecture, Minutes to Dange Chowk & Hinjewadi, VJ Quality Guarantee, Zero Buyer Commission, MahaRERA Approved, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "VJ Palladio Tathawade by b-vilas-javdekar in Tathawade, Pune, Pune",
+    "imageAlt": "VJ Palladio Tathawade Architecture in Tathawade, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -99378,7 +108677,7 @@ export const PROJECTS: Project[] = [
     "title": "VJ Portia",
     "slug": "vj-portia-baner-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Baner, Pune",
+    "location": "Baner",
     "city": "Pune",
     "priceRange": "₹2.25 Cr - ₹4.50 Cr",
     "exactPrice": "₹2.25 Cr",
@@ -99488,6 +108787,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VJ Portia?",
         "answer": "The development features world-class lifestyle amenities including Ultra-Luxury Boutique Address in Baner, Low-Density Single Tower Privacy, Private Elevators & Decks, 100% Zero Brokerage, VJ Signature Excellence, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "VJ Portia by b-vilas-javdekar in Baner, Pune, Pune",
+    "imageAlt": "VJ Portia Architecture in Baner, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -99495,7 +108801,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Sapphire 2",
     "slug": "kohinoor-sapphire-2-tathawade-pune",
     "builderId": "b-kohinoor",
-    "location": "Tathawade, Pune",
+    "location": "Tathawade",
     "city": "Pune",
     "priceRange": "₹68 L - ₹1.05 Cr",
     "exactPrice": "₹68 L",
@@ -99607,6 +108913,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Sapphire 2?",
         "answer": "The development features world-class lifestyle amenities including Strategic Tathawade Location, Quick Expressway & Hinjewadi Access, 20+ Podium Amenities, Sada Sukhi Raho Assurance, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Sapphire 2 by b-kohinoor in Tathawade, Pune, Pune",
+    "imageAlt": "Kohinoor Sapphire 2 Architecture in Tathawade, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -99614,7 +108927,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Coral",
     "slug": "kohinoor-coral-hinjewadi-phase-3-pune",
     "builderId": "b-kohinoor",
-    "location": "Hinjewadi Phase 3, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹55 L - ₹75 L",
     "exactPrice": "₹55 L",
@@ -99721,6 +109034,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Coral?",
         "answer": "The development features world-class lifestyle amenities including Walking Distance to Hinjewadi Phase 3 IT Campuses, Ready Possession Apartments, High Rental Yield Corridor, Zero Buyer Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Coral by b-kohinoor in Hinjewadi Phase 3, Pune, Pune",
+    "imageAlt": "Kohinoor Coral Architecture in Hinjewadi Phase 3, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -99728,7 +109048,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Emerald",
     "slug": "kohinoor-emerald-sus-baner-annexe-pune",
     "builderId": "b-kohinoor",
-    "location": "Sus, Baner Annexe, Pune",
+    "location": "Sus",
     "city": "Pune",
     "priceRange": "₹75 L - ₹1.25 Cr",
     "exactPrice": "₹75 L",
@@ -99837,6 +109157,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Emerald?",
         "answer": "The development features world-class lifestyle amenities including Scenic Baner Hills Backdrop, 5 Mins to Baner & Highway, Modern Lifestyle Clubhouse, Sada Sukhi Raho Trust, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Emerald by b-kohinoor in Sus, Baner Annexe, Pune, Pune",
+    "imageAlt": "Kohinoor Emerald Architecture in Sus, Baner Annexe, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -99844,7 +109171,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Reina",
     "slug": "kohinoor-reina-kondhwa-pune",
     "builderId": "b-kohinoor",
-    "location": "Kondhwa, Pune",
+    "location": "Kondhwa",
     "city": "Pune",
     "priceRange": "₹60 L - ₹88 L",
     "exactPrice": "₹60 L",
@@ -99949,6 +109276,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Reina?",
         "answer": "The development features world-class lifestyle amenities including South Pune Prime Kondhwa Hub, Ready to Move Advantage, Established Community, Direct Developer Pricing, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Reina by b-kohinoor in Kondhwa, Pune, Pune",
+    "imageAlt": "Kohinoor Reina Architecture in Kondhwa, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -99956,7 +109290,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Tinsel County",
     "slug": "kohinoor-tinsel-county-hinjewadi-phase-2-pune",
     "builderId": "b-kohinoor",
-    "location": "Hinjewadi Phase 2, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹58 L - ₹78 L",
     "exactPrice": "₹58 L",
@@ -100060,6 +109394,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Tinsel County?",
         "answer": "The development features world-class lifestyle amenities including Hinjewadi Phase 2 Core Location, Ready Possession Homes, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Tinsel County by b-kohinoor in Hinjewadi Phase 2, Pune, Pune",
+    "imageAlt": "Kohinoor Tinsel County Architecture in Hinjewadi Phase 2, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -100067,7 +109408,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Tinsel Town",
     "slug": "kohinoor-tinsel-town-hinjewadi-phase-2-pune",
     "builderId": "b-kohinoor",
-    "location": "Hinjewadi Phase 2, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹65 L - ₹95 L",
     "exactPrice": "₹65 L",
@@ -100174,6 +109515,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Tinsel Town?",
         "answer": "The development features world-class lifestyle amenities including Hinjewadi IT Corridor, Gated Township Community, Zero Brokerage Sales, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Tinsel Town by b-kohinoor in Hinjewadi Phase 2, Pune, Pune",
+    "imageAlt": "Kohinoor Tinsel Town Architecture in Hinjewadi Phase 2, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -100181,7 +109529,7 @@ export const PROJECTS: Project[] = [
     "title": "Kohinoor Abhimaan",
     "slug": "kohinoor-abhimaan-talegaon-pune",
     "builderId": "b-kohinoor",
-    "location": "Talegaon Dabhade, Pune",
+    "location": "Talegaon Dabhade",
     "city": "Pune",
     "priceRange": "₹28 L - ₹48 L",
     "exactPrice": "₹28 L",
@@ -100290,6 +109638,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kohinoor Abhimaan?",
         "answer": "The development features world-class lifestyle amenities including 20+ Acre Master Planned Township, Opposite Old Mumbai-Pune Highway, Near Talegaon MIDC, Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kohinoor Abhimaan by b-kohinoor in Talegaon Dabhade, Pune, Pune",
+    "imageAlt": "Kohinoor Abhimaan Architecture in Talegaon Dabhade, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -100297,7 +109652,7 @@ export const PROJECTS: Project[] = [
     "title": "Kasturi Apostrophe Next",
     "slug": "kasturi-apostrophe-next-wakad-pune",
     "builderId": "b-kasturi",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹82 L - ₹1.35 Cr",
     "exactPrice": "₹82 L",
@@ -100405,6 +109760,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kasturi Apostrophe Next?",
         "answer": "The development features world-class lifestyle amenities including Signature Kasturi Minimalist Architecture, Prime Wakad Datta Mandir Road, Zero Brokerage Guarantee, Ready Possession, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kasturi Apostrophe Next by b-kasturi in Wakad, Pune, Pune",
+    "imageAlt": "Kasturi Apostrophe Next Architecture in Wakad, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -100412,7 +109774,7 @@ export const PROJECTS: Project[] = [
     "title": "Kasturi Legacy",
     "slug": "kasturi-legacy-model-colony-pune",
     "builderId": "b-kasturi",
-    "location": "Model Colony, Shivajinagar, Pune",
+    "location": "Shivaji Nagar",
     "city": "Pune",
     "priceRange": "₹3.80 Cr - ₹6.50 Cr",
     "exactPrice": "₹3.80 Cr",
@@ -100520,6 +109882,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kasturi Legacy?",
         "answer": "The development features world-class lifestyle amenities including Prestigious Model Colony Address, Ultra Low-Density Living, Italian Marble & Poggenpohl Kitchens, Zero Brokerage Authorized, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kasturi Legacy by b-kasturi in Model Colony, Shivajinagar, Pune, Pune",
+    "imageAlt": "Kasturi Legacy Architecture in Model Colony, Shivajinagar, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -100527,7 +109896,7 @@ export const PROJECTS: Project[] = [
     "title": "Kasturi Poona Club Privé",
     "slug": "kasturi-poona-club-prive-bund-garden-pune",
     "builderId": "b-kasturi",
-    "location": "Bund Garden Road, Pune",
+    "location": "Bund Garden Road",
     "city": "Pune",
     "priceRange": "₹5.50 Cr - ₹12.00 Cr",
     "exactPrice": "₹5.50 Cr",
@@ -100634,6 +110003,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Kasturi Poona Club Privé?",
         "answer": "The development features world-class lifestyle amenities including Bund Garden Riverfront Royal Setting, One Apartment Per Floor Option, Concierge by Global Luxury Operators, 100% Direct Developer Terms, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Kasturi Poona Club Privé by b-kasturi in Bund Garden Road, Pune, Pune",
+    "imageAlt": "Kasturi Poona Club Privé Architecture in Bund Garden Road, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -100641,7 +110017,7 @@ export const PROJECTS: Project[] = [
     "title": "Pride World City - Long Island",
     "slug": "pride-world-city-long-island-charholi-pune",
     "builderId": "b-pride-purple",
-    "location": "Charholi Budruk, Pune",
+    "location": "Charholi",
     "city": "Pune",
     "priceRange": "₹48 L - ₹1.15 Cr",
     "exactPrice": "₹48 L",
@@ -100756,6 +110132,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pride World City - Long Island?",
         "answer": "The development features world-class lifestyle amenities including 400-Acre Pride World City Township, Waterfront Promenade Views, Direct Access to Ring Road & Airport, Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Pride World City - Long Island by b-pride-purple in Charholi Budruk, Pune, Pune",
+    "imageAlt": "Pride World City - Long Island Architecture in Charholi Budruk, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -100763,7 +110146,7 @@ export const PROJECTS: Project[] = [
     "title": "Pride World City - Brooklyn",
     "slug": "pride-world-city-brooklyn-charholi-pune",
     "builderId": "b-pride-purple",
-    "location": "Charholi Budruk, Pune",
+    "location": "Charholi",
     "city": "Pune",
     "priceRange": "₹58 L - ₹1.25 Cr",
     "exactPrice": "₹58 L",
@@ -100872,6 +110255,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pride World City - Brooklyn?",
         "answer": "The development features world-class lifestyle amenities including New York Themed Architecture, 10 Mins to Pune International Airport, Integrated Township Ecosystem, Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Pride World City - Brooklyn by b-pride-purple in Charholi Budruk, Pune, Pune",
+    "imageAlt": "Pride World City - Brooklyn Architecture in Charholi Budruk, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -100879,7 +110269,7 @@ export const PROJECTS: Project[] = [
     "title": "Pride World City - Notting Hill",
     "slug": "pride-world-city-notting-hill-charholi-pune",
     "builderId": "b-pride-purple",
-    "location": "Charholi Budruk, Pune",
+    "location": "Charholi",
     "city": "Pune",
     "priceRange": "₹1.45 Cr - ₹2.80 Cr",
     "exactPrice": "₹1.45 Cr",
@@ -100988,6 +110378,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pride World City - Notting Hill?",
         "answer": "The development features world-class lifestyle amenities including Pride World City's Crown Jewel Enclave, Low-Density European Architecture, Private Jacuzzis & Expansive Terraces, Direct Builder Terms, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Pride World City - Notting Hill by b-pride-purple in Charholi Budruk, Pune, Pune",
+    "imageAlt": "Pride World City - Notting Hill Architecture in Charholi Budruk, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -100995,7 +110392,7 @@ export const PROJECTS: Project[] = [
     "title": "Park Turquoise",
     "slug": "park-turquoise-wakad-pune",
     "builderId": "b-pride-purple",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹78 L - ₹1.25 Cr",
     "exactPrice": "₹78 L",
@@ -101102,6 +110499,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Park Turquoise?",
         "answer": "The development features world-class lifestyle amenities including Heart of Wakad Location, Ready Possession Residential Landmark, Zero Brokerage Sales, Pride Purple Quality, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Park Turquoise by b-pride-purple in Wakad, Pune, Pune",
+    "imageAlt": "Park Turquoise Architecture in Wakad, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -101109,7 +110513,7 @@ export const PROJECTS: Project[] = [
     "title": "Park Ivory",
     "slug": "park-ivory-wakad-pune",
     "builderId": "b-pride-purple",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹85 L - ₹1.35 Cr",
     "exactPrice": "₹85 L",
@@ -101216,6 +110620,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Park Ivory?",
         "answer": "The development features world-class lifestyle amenities including Immediate Move-in Readiness, Walking Distance to Schools & Markets, 100% Zero Buyer Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Park Ivory by b-pride-purple in Wakad, Pune, Pune",
+    "imageAlt": "Park Ivory Architecture in Wakad, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -101223,7 +110634,7 @@ export const PROJECTS: Project[] = [
     "title": "Park Street",
     "slug": "park-street-wakad-pune",
     "builderId": "b-pride-purple",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹95 L - ₹2.10 Cr",
     "exactPrice": "₹95 L",
@@ -101339,6 +110750,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Park Street?",
         "answer": "The development features world-class lifestyle amenities including 30+ Acre Signature Wakad Township, Ready to Move In Community of 2000+ Families, Zero Brokerage Direct Sales, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Park Street by b-pride-purple in Wakad, Pune, Pune",
+    "imageAlt": "Park Street Architecture in Wakad, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -101346,7 +110764,7 @@ export const PROJECTS: Project[] = [
     "title": "Park Infinia",
     "slug": "park-infinia-phursungi-hadapsar-pune",
     "builderId": "b-pride-purple",
-    "location": "Phursungi, Hadapsar Annexe, Pune",
+    "location": "Phursungi",
     "city": "Pune",
     "priceRange": "₹42 L - ₹95 L",
     "exactPrice": "₹42 L",
@@ -101461,6 +110879,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Park Infinia?",
         "answer": "The development features world-class lifestyle amenities including 41-Acre Gated Township near SP Infocity, Rapid Access to Magarpatta & Solapur Highway, Zero Brokerage Sales Support, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Park Infinia by b-pride-purple in Phursungi, Hadapsar Annexe, Pune, Pune",
+    "imageAlt": "Park Infinia Architecture in Phursungi, Hadapsar Annexe, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -101468,7 +110893,7 @@ export const PROJECTS: Project[] = [
     "title": "Pride Park District",
     "slug": "pride-park-district-hinjewadi-phase-1-pune",
     "builderId": "b-pride-purple",
-    "location": "Hinjewadi Phase 1, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹72 L - ₹1.30 Cr",
     "exactPrice": "₹72 L",
@@ -101576,6 +111001,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Pride Park District?",
         "answer": "The development features world-class lifestyle amenities including 60-Acre Master Planned District in Hinjewadi Phase 1, Steps to Major IT Campuses & Metro Line 3, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Pride Park District by b-pride-purple in Hinjewadi Phase 1, Pune, Pune",
+    "imageAlt": "Pride Park District Architecture in Hinjewadi Phase 1, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -101583,7 +111015,7 @@ export const PROJECTS: Project[] = [
     "title": "Yashwin Anand",
     "slug": "yashwin-anand-sus-baner-annexe-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Sus, Baner Annexe, Pune",
+    "location": "Sus",
     "city": "Pune",
     "priceRange": "₹68 L - ₹1.15 Cr",
     "exactPrice": "₹68 L",
@@ -101691,6 +111123,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashwin Anand?",
         "answer": "The development features world-class lifestyle amenities including VJ Trust & Thoughtful Design, Quick Connectivity to Baner & Highway, Zero Brokerage Guaranteed, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Yashwin Anand by b-vilas-javdekar in Sus, Baner Annexe, Pune, Pune",
+    "imageAlt": "Yashwin Anand Architecture in Sus, Baner Annexe, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -101698,7 +111137,7 @@ export const PROJECTS: Project[] = [
     "title": "Yashwin Encore",
     "slug": "yashwin-encore-wakad-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹76 L - ₹1.32 Cr",
     "exactPrice": "₹76 L",
@@ -101806,6 +111245,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashwin Encore?",
         "answer": "The development features world-class lifestyle amenities including Ready Possession in Central Wakad, Trusted VJ Engineering Standards, Zero Brokerage Sales Support, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Yashwin Encore by b-vilas-javdekar in Wakad, Pune, Pune",
+    "imageAlt": "Yashwin Encore Architecture in Wakad, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -101813,7 +111259,7 @@ export const PROJECTS: Project[] = [
     "title": "YashONE Eternitee",
     "slug": "yashone-eternitee-hinjewadi-phase-1-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Hinjewadi Phase 1, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹58 L - ₹1.18 Cr",
     "exactPrice": "₹58 L",
@@ -101927,6 +111373,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at YashONE Eternitee?",
         "answer": "The development features world-class lifestyle amenities including Steps from Hinjewadi Phase 1 Tech Campuses, Metro Line 3 Connectivity, Zero Brokerage Direct Sales, VJ Signature Delivery, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "YashONE Eternitee by b-vilas-javdekar in Hinjewadi Phase 1, Pune, Pune",
+    "imageAlt": "YashONE Eternitee Architecture in Hinjewadi Phase 1, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -101934,7 +111387,7 @@ export const PROJECTS: Project[] = [
     "title": "Yashwin Sukham",
     "slug": "yashwin-sukham-warje-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Warje, Pune",
+    "location": "Warje",
     "city": "Pune",
     "priceRange": "₹62 L - ₹1.05 Cr",
     "exactPrice": "₹62 L",
@@ -102041,6 +111494,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashwin Sukham?",
         "answer": "The development features world-class lifestyle amenities including South-West Pune Prime Warje Hub, 5 Mins to Kothrud & Highway, Hillside Breeze & Views, Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Yashwin Sukham by b-vilas-javdekar in Warje, Pune, Pune",
+    "imageAlt": "Yashwin Sukham Architecture in Warje, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -102048,7 +111508,7 @@ export const PROJECTS: Project[] = [
     "title": "VJ Downtown",
     "slug": "vj-downtown-wakad-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹88 L - ₹1.75 Cr",
     "exactPrice": "₹88 L",
@@ -102163,6 +111623,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at VJ Downtown?",
         "answer": "The development features world-class lifestyle amenities including Wakad High Street Prime Junction, Integrated Commercial & Residential District, VJ Architectural Innovation, 100% Zero Brokerage, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "VJ Downtown by b-vilas-javdekar in Wakad, Pune, Pune",
+    "imageAlt": "VJ Downtown Architecture in Wakad, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -102170,7 +111637,7 @@ export const PROJECTS: Project[] = [
     "title": "Yashwin Nuovo Centro",
     "slug": "yashwin-nuovo-centro-wakad-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Wakad, Pune",
+    "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹75 L - ₹1.30 Cr",
     "exactPrice": "₹75 L",
@@ -102278,6 +111745,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashwin Nuovo Centro?",
         "answer": "The development features world-class lifestyle amenities including Italian Inspired Modern Architecture, Prime Datta Mandir Road Connectivity, Zero Brokerage Sales Support, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Yashwin Nuovo Centro by b-vilas-javdekar in Wakad, Pune, Pune",
+    "imageAlt": "Yashwin Nuovo Centro Architecture in Wakad, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -102285,7 +111759,7 @@ export const PROJECTS: Project[] = [
     "title": "Yashwin Hinjawadi",
     "slug": "yashwin-hinjawadi-phase-2-pune",
     "builderId": "b-vilas-javdekar",
-    "location": "Hinjewadi Phase 2, Pune",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "₹52 L - ₹98 L",
     "exactPrice": "₹52 L",
@@ -102398,6 +111872,13 @@ export const PROJECTS: Project[] = [
         "question": "What amenities are provided at Yashwin Hinjawadi?",
         "answer": "The development features world-class lifestyle amenities including Walk-to-work to Hinjewadi Phase 2 IT Hubs, Ready Possession Family Homes, Zero Brokerage Guarantee, multi-tier security systems, and high-speed elevators."
       }
+    ],
+    "heroImageAlt": "Yashwin Hinjawadi by b-vilas-javdekar in Hinjewadi Phase 2, Pune, Pune",
+    "imageAlt": "Yashwin Hinjawadi Architecture in Hinjewadi Phase 2, Pune",
+    "highlights": [
+      "MahaRERA Approved & Verified",
+      "100% Zero Brokerage Sales Partner",
+      "Direct Developer Inventory Allocation"
     ]
   },
   {
@@ -102517,7 +111998,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ]
   },
   {
     "id": "p-runwal-avenue-kanjurmarg",
@@ -102630,7 +112120,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ]
   },
   {
     "id": "p-runwal-pinnacle-mulund",
@@ -102748,7 +112247,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ]
   },
   {
     "id": "p-runwal-sanctuary-mulund",
@@ -102866,14 +112374,23 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ]
   },
   {
     "id": "p-runwal-gardens-dombivli",
     "title": "Runwal Gardens",
     "slug": "runwal-gardens-dombivli",
     "builderId": "b-runwal",
-    "location": "Thane Extension, Kalyan-Bhiwandi Road",
+    "location": "Upper Thane",
     "city": "Thane",
     "priceRange": "₹42.00 L - ₹88.00 L",
     "exactPrice": "₹42.00 L",
@@ -102984,7 +112501,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ]
   },
   {
     "id": "p-runwal-elegante-lokhandwala",
@@ -103096,7 +112622,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ]
   },
   {
     "id": "p-runwal-nirvana-parel",
@@ -103208,7 +112743,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ]
   },
   {
     "id": "p-runwal-timeless-wadala",
@@ -103320,7 +112864,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Infinity Swimming Pool",
+      "State-of-the-Art Gymnasium",
+      "Sky Lounge Deck",
+      "Children Play Arena",
+      "24/7 Multi-Tier Security",
+      "Covered Parking"
+    ]
   },
   {
     "id": "p-krisala-41-estera-punawale",
@@ -103433,7 +112986,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ]
   },
   {
     "id": "p-krisala-41-elite-tathawade",
@@ -103546,7 +113108,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ]
   },
   {
     "id": "p-krisala-41-zircon-tathawade",
@@ -103659,7 +113230,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ]
   },
   {
     "id": "p-krisala-41-evok-ravet",
@@ -103772,7 +113352,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ]
   },
   {
     "id": "p-krisala-41-plumeria-punawale",
@@ -103885,7 +113474,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ]
   },
   {
     "id": "p-krisala-41-cosmo-tathawade",
@@ -103998,7 +113596,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ]
   },
   {
     "id": "p-krisala-41-valley-marunji",
@@ -104111,7 +113718,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ]
   },
   {
     "id": "p-krisala-41-crown-punawale",
@@ -104230,7 +113846,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ]
   },
   {
     "id": "p-krisala-41-bellissimo-tathawade",
@@ -104343,7 +113968,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "24/7 Security",
+      "Indoor Games Arena"
+    ]
   },
   {
     "id": "p-rohan-prathama-hinjewadi",
@@ -104456,7 +114090,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ]
   },
   {
     "id": "p-rohan-ananta-tathawade",
@@ -104569,7 +114212,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ]
   },
   {
     "id": "p-rohan-viti-bavdhan",
@@ -104688,7 +114340,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ]
   },
   {
     "id": "p-rohan-madhuban-bavdhan",
@@ -104801,7 +114462,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ]
   },
   {
     "id": "p-rohan-mithila-viman-nagar",
@@ -104920,7 +114590,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ]
   },
   {
     "id": "p-rohan-kritika-sinhagad-road",
@@ -105033,7 +114712,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ]
   },
   {
     "id": "p-rohan-leher-baner",
@@ -105146,7 +114834,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ]
   },
   {
     "id": "p-rohan-ishan-bavdhan",
@@ -105259,7 +114956,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ]
   },
   {
     "id": "p-rohan-tarang-wakad",
@@ -105372,7 +115078,16 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ]
   },
   {
     "id": "p-rohan-tapovan-dhanori",
@@ -105485,6 +115200,15 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "featured": true
+    "featured": true,
+    "amenities": [
+      "PLUS Home Design",
+      "Clubhouse & Gymnasium",
+      "Swimming Pool",
+      "Landscaped Central Greens",
+      "Children Play Zone",
+      "24/7 Security",
+      "Solar Water Heating"
+    ]
   }
 ];

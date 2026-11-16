@@ -517,7 +517,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/baner.svg",
         "price": "₹10.5k/sq.ft",
         "avgPriceSqft": 10500,
-        "count": 43,
+        "count": 39,
         "appreciationRate": 9.2,
         "tagline": "High-Street Retail, Dining & Luxury High-Rises",
         "description": "Prime Baner corridor in Pune featuring verified residential towers, high rental yields, and 9.2% annual capital appreciation."
@@ -608,7 +608,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "price": "₹9.4k/sq.ft",
         "avgPriceSqft": 9400,
         "count": 2,
-        "appreciationRate": 8.0,
+        "appreciationRate": 8,
         "tagline": "Scenic Pashan Lake & Western Bio-Park Reserve",
         "description": "Prime Pashan corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
     },
@@ -743,7 +743,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "price": "₹7.1k/sq.ft",
         "avgPriceSqft": 7100,
         "count": 4,
-        "appreciationRate": 8.0,
+        "appreciationRate": 8,
         "tagline": "Baner Annexe & Western Ring Road Junction",
         "description": "Prime Sus corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
     },
@@ -937,7 +937,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/hadapsar.svg",
         "price": "₹8.4k/sq.ft",
         "avgPriceSqft": 8400,
-        "count": 8,
+        "count": 7,
         "appreciationRate": 7.8,
         "tagline": "East Pune Commercial Spine & Solapur Highway Junction",
         "description": "Prime Hadapsar corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
@@ -1057,7 +1057,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/manjri.svg",
         "price": "₹6.3k/sq.ft",
         "avgPriceSqft": 6300,
-        "count": 4,
+        "count": 1,
         "appreciationRate": 7.7,
         "tagline": "Green Farmsteads & Mega Integrated Townships",
         "description": "Prime Manjri corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
@@ -1088,7 +1088,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "price": "₹10.2k/sq.ft",
         "avgPriceSqft": 10200,
         "count": 1,
-        "appreciationRate": 8.0,
+        "appreciationRate": 8,
         "tagline": "Central Riverfront & Business Bay Tech Parks",
         "description": "Prime Yerwada corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
     },
@@ -1268,7 +1268,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "price": "₹13.5k/sq.ft",
         "avgPriceSqft": 13500,
         "count": 1,
-        "appreciationRate": 8.0,
+        "appreciationRate": 8,
         "tagline": "Pune Cantonment Heritage, MG Road & Colonial Clubs",
         "description": "Prime Camp corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
     },
@@ -1418,7 +1418,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "price": "₹7.8k/sq.ft",
         "avgPriceSqft": 7800,
         "count": 2,
-        "appreciationRate": 8.0,
+        "appreciationRate": 8,
         "tagline": "Mutha Riverfront Boulevard & Khadakwasla Gateway",
         "description": "Prime Sinhagad Road corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
     },
@@ -1507,8 +1507,8 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/pimpri-chinchwad.svg",
         "price": "₹7.8k/sq.ft",
         "avgPriceSqft": 7800,
-        "count": 21,
-        "appreciationRate": 8.0,
+        "count": 3,
+        "appreciationRate": 8,
         "tagline": "Smart Twin City Municipal Hub & Industrial Powerhouse",
         "description": "Prime Pimpri Chinchwad corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
     },
@@ -1522,7 +1522,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/default-locality.svg",
         "price": "₹8.2k/sq.ft",
         "avgPriceSqft": 8200,
-        "count": 13,
+        "count": 10,
         "appreciationRate": 7.9,
         "tagline": "Central PCMC Metro Corridor & Commercial Market",
         "description": "Prime Pimpri corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
@@ -1537,7 +1537,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/default-locality.svg",
         "price": "₹8.4k/sq.ft",
         "avgPriceSqft": 8400,
-        "count": 11,
+        "count": 8,
         "appreciationRate": 8.1,
         "tagline": "Established Civic Hub, Railway Junction & Auto Belts",
         "description": "Prime Chinchwad corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
@@ -1567,7 +1567,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/charholi.svg",
         "price": "₹6.0k/sq.ft",
         "avgPriceSqft": 6000,
-        "count": 11,
+        "count": 9,
         "appreciationRate": 8.6,
         "tagline": "Fastest-Growing PCMC Node & Ring Road Corridor",
         "description": "Prime Charholi corridor in Pune featuring verified residential towers, high rental yields, and 8.6% annual capital appreciation."
@@ -1582,7 +1582,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/default-locality.svg",
         "price": "₹6.2k/sq.ft",
         "avgPriceSqft": 6200,
-        "count": 5,
+        "count": 2,
         "appreciationRate": 8.5,
         "tagline": "Mega Township Developments off Pune-Nashik Highway",
         "description": "Prime Charholi Budruk corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
@@ -1748,7 +1748,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "price": "₹5.8k/sq.ft",
         "avgPriceSqft": 5800,
         "count": 1,
-        "appreciationRate": 8.0,
+        "appreciationRate": 8,
         "tagline": "Indrayani Riverfront & Alandi Road Growth Node",
         "description": "Prime Dudulgaon corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
     },
@@ -1822,7 +1822,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/default-locality.svg",
         "price": "₹32.0k/sq.ft",
         "avgPriceSqft": 32000,
-        "count": 1,
+        "count": 0,
         "appreciationRate": 8.3,
         "tagline": "Scenic Versova Beach, Seafront Cafes & Metro Terminal",
         "description": "Prime Versova corridor in Mumbai featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
@@ -1883,7 +1883,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "price": "₹24.0k/sq.ft",
         "avgPriceSqft": 24000,
         "count": 1,
-        "appreciationRate": 8.0,
+        "appreciationRate": 8,
         "tagline": "Lokhandwala Township & Western Express Highway",
         "description": "Prime Kandivali East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
     },
@@ -1928,7 +1928,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "price": "₹26.0k/sq.ft",
         "avgPriceSqft": 26000,
         "count": 1,
-        "appreciationRate": 8.0,
+        "appreciationRate": 8,
         "tagline": "Domestic Airport Corridor & Western Expressway",
         "description": "Prime Santacruz East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
     },
@@ -1972,7 +1972,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/default-locality.svg",
         "price": "₹24.5k/sq.ft",
         "avgPriceSqft": 24500,
-        "count": 1,
+        "count": 0,
         "appreciationRate": 8.4,
         "tagline": "Powai Extension & Gated High-Rise Communities",
         "description": "Prime Chandivali corridor in Mumbai featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
@@ -2048,7 +2048,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "price": "₹19.5k/sq.ft",
         "avgPriceSqft": 19500,
         "count": 1,
-        "appreciationRate": 8.0,
+        "appreciationRate": 8,
         "tagline": "LBS Marg Metro Line 4 & High-Value Towers",
         "description": "Prime Bhandup West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
     },
@@ -2272,7 +2272,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/default-locality.svg",
         "price": "₹7.5k/sq.ft",
         "avgPriceSqft": 7500,
-        "count": 1,
+        "count": 3,
         "appreciationRate": 8.8,
         "tagline": "Lodha Integrated 200-Acre Forest Township Enclave",
         "description": "Prime Upper Thane corridor in Thane featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
@@ -2287,7 +2287,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/default-locality.svg",
         "price": "₹6.8k/sq.ft",
         "avgPriceSqft": 6800,
-        "count": 2,
+        "count": 0,
         "appreciationRate": 8.9,
         "tagline": "Runwal Gardens Belt & Airoli-Katai Freeway Gateway",
         "description": "Prime Kalyan-Shilphata corridor in Thane featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
@@ -2317,7 +2317,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/default-locality.svg",
         "price": "₹12.5k/sq.ft",
         "avgPriceSqft": 12500,
-        "count": 2,
+        "count": 1,
         "appreciationRate": 8.8,
         "tagline": "Planned Smart Metropolis, Palm Beach Road & Trans-Harbour Links",
         "description": "Prime Navi Mumbai corridor in Navi Mumbai featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
@@ -2363,7 +2363,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "price": "₹5.2k/sq.ft",
         "avgPriceSqft": 5200,
         "count": 2,
-        "appreciationRate": 8.0,
+        "appreciationRate": 8,
         "tagline": "Expressway Corridor, Imagicaa & Country Villa Plots",
         "description": "Prime Khalapur corridor in Lonavala featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
     },

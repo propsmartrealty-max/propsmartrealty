@@ -139,11 +139,13 @@ export interface Locality {
   id: string;
   name: string;
   slug?: string;
-  city?: 'Pune' | 'Mumbai' | 'Lonavala' | 'Alibaug' | string;
+  city?: 'Pune' | 'Mumbai' | 'Thane' | 'Navi Mumbai' | 'Lonavala' | 'Alibaug' | string;
   zone?: 'West Pune' | 'East Pune' | 'South & Central' | 'North Pune (PCMC)' | string;
   isFeatured?: boolean;
   image?: string;
   projectCount?: number;
+  count?: number;
+  price?: string;
   avgPriceSqft?: number;
   appreciation_rate?: number;
   tagline?: string;
