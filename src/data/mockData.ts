@@ -38733,6 +38733,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "740 sq.ft",
+        "priceRange": "₹89 L - ₹1.11 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹1.25 Cr - ₹1.60 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1777 sq.ft",
+        "priceRange": "₹1.96 Cr - ₹2.49 Cr"
+      }
     ]
   },
   {
@@ -38811,6 +38828,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "694 sq.ft",
+        "priceRange": "₹82 L - ₹1.03 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1040 sq.ft",
+        "priceRange": "₹1.15 Cr - ₹1.48 Cr"
+      }
     ]
   },
   {
@@ -38898,6 +38927,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1638 sq.ft",
+        "priceRange": "₹6.36 Cr - ₹8.09 Cr"
+      }
     ]
   },
   {
@@ -38976,6 +39012,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1007 sq.ft",
+        "priceRange": "₹2.38 Cr - ₹3.06 Cr"
+      }
     ]
   },
   {
@@ -39056,6 +39099,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1000 sq.ft",
+        "priceRange": "₹2.62 Cr - ₹3.37 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1809 sq.ft",
+        "priceRange": "₹4.11 Cr - ₹5.24 Cr"
+      }
     ]
   },
   {
@@ -39136,6 +39191,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "739 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "999 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -39236,6 +39303,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1018 sq.ft",
+        "priceRange": "₹4.89 Cr - ₹6.28 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1640 sq.ft",
+        "priceRange": "₹7.68 Cr - ₹9.77 Cr"
+      }
     ]
   },
   {
@@ -39320,6 +39399,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "725 sq.ft",
+        "priceRange": "₹93 L - ₹1.16 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1022 sq.ft",
+        "priceRange": "₹1.30 Cr - ₹1.67 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1577 sq.ft",
+        "priceRange": "₹2.05 Cr - ₹2.60 Cr"
+      }
     ]
   },
   {
@@ -39400,6 +39496,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "716 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1009 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.53 Cr"
+      }
     ]
   },
   {
@@ -39496,6 +39604,28 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1079 sq.ft",
+        "priceRange": "₹4.62 Cr - ₹5.94 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1616 sq.ft",
+        "priceRange": "₹7.26 Cr - ₹9.24 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "1655 sq.ft",
+        "priceRange": "₹7.26 Cr - ₹9.24 Cr"
+      },
+      {
+        "type": "6 BHK",
+        "carpetArea": "733 sq.ft",
+        "priceRange": "₹3.30 Cr - ₹11.50 Cr"
+      }
     ]
   },
   {
@@ -39583,6 +39713,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1029 sq.ft",
+        "priceRange": "₹1.76 Cr - ₹2.27 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1577 sq.ft",
+        "priceRange": "₹2.77 Cr - ₹3.53 Cr"
+      }
     ]
   },
   {
@@ -39661,6 +39803,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "728 sq.ft",
+        "priceRange": "₹78 L - ₹98 L"
+      }
     ]
   },
   {
@@ -39739,6 +39888,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "752 sq.ft",
+        "priceRange": "₹99 L - ₹1.24 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1077 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.78 Cr"
+      }
     ]
   },
   {
@@ -39824,6 +39985,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1000 sq.ft",
+        "priceRange": "₹2.06 Cr - ₹2.65 Cr"
+      }
     ]
   },
   {
@@ -39906,6 +40074,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1552 sq.ft",
+        "priceRange": "₹13.00 Cr - ₹16.55 Cr"
+      }
     ]
   },
   {
@@ -39984,6 +40159,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "683 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1070 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -40061,6 +40248,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1098 sq.ft",
+        "priceRange": "₹1.40 Cr - ₹1.80 Cr"
+      }
     ]
   },
   {
@@ -40156,6 +40350,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1062 sq.ft",
+        "priceRange": "₹3.29 Cr - ₹4.23 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1741 sq.ft",
+        "priceRange": "₹5.17 Cr - ₹6.58 Cr"
+      }
     ]
   },
   {
@@ -40237,6 +40443,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹1.03 Cr - ₹1.29 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1080 sq.ft",
+        "priceRange": "₹1.44 Cr - ₹1.85 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "1561 sq.ft",
+        "priceRange": "₹2.27 Cr - ₹2.88 Cr"
+      }
     ]
   },
   {
@@ -40328,6 +40551,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "728 sq.ft",
+        "priceRange": "₹1.02 Cr - ₹1.28 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1000 sq.ft",
+        "priceRange": "₹1.43 Cr - ₹1.84 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1633 sq.ft",
+        "priceRange": "₹2.24 Cr - ₹2.86 Cr"
+      }
     ]
   },
   {
@@ -40416,6 +40656,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "453 sq.ft",
+        "priceRange": "₹42 L - ₹51 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "708 sq.ft",
+        "priceRange": "₹59 L - ₹74 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1043 sq.ft",
+        "priceRange": "₹83 L - ₹1.07 Cr"
+      }
     ]
   },
   {
@@ -40513,6 +40770,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "726 sq.ft",
+        "priceRange": "₹1.07 Cr - ₹1.34 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "995 sq.ft",
+        "priceRange": "₹1.50 Cr - ₹1.93 Cr"
+      }
     ]
   },
   {
@@ -40583,6 +40852,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Commercial",
+        "carpetArea": "579 sq.ft",
+        "priceRange": "₹1.33 Cr"
+      }
     ]
   },
   {
@@ -40662,6 +40938,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "688 sq.ft",
+        "priceRange": "₹1.18 Cr - ₹1.48 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1072 sq.ft",
+        "priceRange": "₹1.65 Cr - ₹2.12 Cr"
+      }
     ]
   },
   {
@@ -40737,6 +41025,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "704 sq.ft",
+        "priceRange": "₹73 L - ₹91 L"
+      }
     ]
   },
   {
@@ -40818,6 +41113,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "751 sq.ft",
+        "priceRange": "₹68 L - ₹85 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "989 sq.ft",
+        "priceRange": "₹95 L - ₹1.22 Cr"
+      },
+      {
+        "type": "Office",
+        "carpetArea": "656 sq.ft",
+        "priceRange": "₹67.98 L - ₹95.00 L"
+      }
     ]
   },
   {
@@ -40898,6 +41210,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "712 sq.ft",
+        "priceRange": "₹76 L - ₹95 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1037 sq.ft",
+        "priceRange": "₹1.06 Cr - ₹1.37 Cr"
+      }
     ]
   },
   {
@@ -40980,6 +41304,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1073 sq.ft",
+        "priceRange": "₹5.04 Cr - ₹6.48 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1786 sq.ft",
+        "priceRange": "₹7.92 Cr - ₹10.08 Cr"
+      }
     ]
   },
   {
@@ -41068,6 +41404,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1018 sq.ft",
+        "priceRange": "₹2.65 Cr - ₹3.40 Cr"
+      }
     ]
   },
   {
@@ -41143,6 +41486,13 @@ export const PROJECTS: Project[] = [
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "708 sq.ft",
+        "priceRange": "₹99 L - ₹1.24 Cr"
+      }
     ]
   },
   {
@@ -41221,6 +41571,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "714 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1000 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.53 Cr"
+      }
     ]
   },
   {
@@ -41297,6 +41659,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "741 sq.ft",
+        "priceRange": "₹92 L - ₹1.16 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1041 sq.ft",
+        "priceRange": "₹1.29 Cr - ₹1.66 Cr"
+      }
     ]
   },
   {
@@ -41380,6 +41754,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "748 sq.ft",
+        "priceRange": "₹91 L - ₹1.14 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1009 sq.ft",
+        "priceRange": "₹1.27 Cr - ₹1.64 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1651 sq.ft",
+        "priceRange": "₹2.00 Cr - ₹2.55 Cr"
+      }
     ]
   },
   {
@@ -41463,6 +41854,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "708 sq.ft",
+        "priceRange": "₹1.35 Cr - ₹1.69 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1072 sq.ft",
+        "priceRange": "₹1.89 Cr - ₹2.43 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1746 sq.ft",
+        "priceRange": "₹2.97 Cr - ₹3.78 Cr"
+      }
     ]
   },
   {
@@ -41535,6 +41943,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "599 sq.ft",
+        "priceRange": "₹20.50 L - ₹4.08 Cr"
+      },
+      {
+        "type": "Office",
+        "carpetArea": "584 sq.ft",
+        "priceRange": "₹20.50 L - ₹4.08 Cr"
+      }
     ]
   },
   {
@@ -41607,6 +42027,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1005 sq.ft",
+        "priceRange": "₹1.96 Cr - ₹2.52 Cr"
+      }
     ]
   },
   {
@@ -41779,6 +42206,13 @@ export const PROJECTS: Project[] = [
     "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "702 sq.ft",
+        "priceRange": "₹1.32 Cr - ₹1.70 Cr"
+      }
     ]
   },
   {
@@ -41946,6 +42380,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "706 sq.ft",
+        "priceRange": "₹68 L - ₹2.39 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "682 sq.ft",
+        "priceRange": "₹68 L - ₹2.39 Cr"
+      }
     ]
   },
   {
@@ -42031,6 +42477,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1004 sq.ft",
+        "priceRange": "₹4.62 Cr - ₹5.94 Cr"
+      },
+      {
+        "type": "4.5 BHK",
+        "carpetArea": "1551 sq.ft",
+        "priceRange": "₹7.26 Cr - ₹9.24 Cr"
+      }
     ]
   },
   {
@@ -42113,6 +42571,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1020 sq.ft",
+        "priceRange": "₹1.78 Cr - ₹2.29 Cr"
+      }
     ]
   },
   {
@@ -42191,6 +42656,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "690 sq.ft",
+        "priceRange": "₹89 L - ₹1.11 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1073 sq.ft",
+        "priceRange": "₹1.25 Cr - ₹1.60 Cr"
+      }
     ]
   },
   {
@@ -42267,6 +42744,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "746 sq.ft",
+        "priceRange": "₹1.07 Cr - ₹1.34 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1049 sq.ft",
+        "priceRange": "₹1.50 Cr - ₹1.93 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1691 sq.ft",
+        "priceRange": "₹2.35 Cr - ₹3.00 Cr"
+      }
     ]
   },
   {
@@ -42351,6 +42845,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "693 sq.ft",
+        "priceRange": "₹1.03 Cr - ₹1.29 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "740 sq.ft",
+        "priceRange": "₹1.03 Cr - ₹1.29 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1038 sq.ft",
+        "priceRange": "₹1.44 Cr - ₹1.85 Cr"
+      }
     ]
   },
   {
@@ -42436,6 +42947,28 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1097 sq.ft",
+        "priceRange": "₹5.95 Cr - ₹7.65 Cr"
+      },
+      {
+        "type": "4.5 BHK",
+        "carpetArea": "1831 sq.ft",
+        "priceRange": "₹9.35 Cr - ₹11.90 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "1825 sq.ft",
+        "priceRange": "₹9.35 Cr - ₹11.90 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1685 sq.ft",
+        "priceRange": "₹9.35 Cr - ₹11.90 Cr"
+      }
     ]
   },
   {
@@ -42510,6 +43043,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Showroom",
+        "carpetArea": "714 sq.ft",
+        "priceRange": "₹4.75 Cr - ₹23.56 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "630 sq.ft",
+        "priceRange": "₹4.75 Cr - ₹23.56 Cr"
+      }
     ]
   },
   {
@@ -42594,6 +43139,28 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "739 sq.ft",
+        "priceRange": "₹80 L - ₹1.00 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1102 sq.ft",
+        "priceRange": "₹1.12 Cr - ₹1.44 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1723 sq.ft",
+        "priceRange": "₹1.76 Cr - ₹2.24 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "1672 sq.ft",
+        "priceRange": "₹1.76 Cr - ₹2.24 Cr"
+      }
     ]
   },
   {
@@ -42677,6 +43244,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "753 sq.ft",
+        "priceRange": "₹68 L - ₹85 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1074 sq.ft",
+        "priceRange": "₹96 L - ₹1.23 Cr"
+      }
     ]
   },
   {
@@ -42757,6 +43336,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "716 sq.ft",
+        "priceRange": "₹76 L - ₹95 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1075 sq.ft",
+        "priceRange": "₹1.06 Cr - ₹1.37 Cr"
+      }
     ]
   },
   {
@@ -42843,6 +43434,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "717 sq.ft",
+        "priceRange": "₹2.03 Cr - ₹9.51 Cr"
+      },
+      {
+        "type": "Showroom",
+        "carpetArea": "618 sq.ft",
+        "priceRange": "₹2.03 Cr - ₹9.51 Cr"
+      }
     ]
   },
   {
@@ -42994,6 +43597,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Studio",
+        "carpetArea": "650 sq.ft",
+        "priceRange": "₹39.75 L"
+      }
     ]
   },
   {
@@ -43069,6 +43679,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1095 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1810 sq.ft",
+        "priceRange": "₹1.65 Cr - ₹2.10 Cr"
+      }
     ]
   },
   {
@@ -43154,6 +43776,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "742 sq.ft",
+        "priceRange": "₹70 L - ₹87 L"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "755 sq.ft",
+        "priceRange": "₹70 L - ₹87 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "985 sq.ft",
+        "priceRange": "₹97 L - ₹1.25 Cr"
+      }
     ]
   },
   {
@@ -43229,6 +43868,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "728 sq.ft",
+        "priceRange": "₹3.41 Cr - ₹7.57 Cr"
+      }
     ]
   },
   {
@@ -43305,6 +43951,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "678 sq.ft",
+        "priceRange": "₹1.95 Cr - ₹4.78 Cr"
+      },
+      {
+        "type": "Office",
+        "carpetArea": "556 sq.ft",
+        "priceRange": "₹1.95 Cr - ₹4.78 Cr"
+      },
+      {
+        "type": "Showroom",
+        "carpetArea": "724 sq.ft",
+        "priceRange": "₹1.95 Cr - ₹4.78 Cr"
+      }
     ]
   },
   {
@@ -43384,6 +44047,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "691 sq.ft",
+        "priceRange": "₹68 L - ₹86 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1033 sq.ft",
+        "priceRange": "₹96 L - ₹1.23 Cr"
+      }
     ]
   },
   {
@@ -43453,6 +44128,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "737 sq.ft",
+        "priceRange": "₹1.17 Cr - ₹3.79 Cr"
+      },
+      {
+        "type": "Showroom",
+        "carpetArea": "689 sq.ft",
+        "priceRange": "₹1.17 Cr - ₹3.79 Cr"
+      }
     ]
   },
   {
@@ -43536,6 +44223,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "758 sq.ft",
+        "priceRange": "₹81 L - ₹1.01 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1063 sq.ft",
+        "priceRange": "₹1.13 Cr - ₹1.45 Cr"
+      }
     ]
   },
   {
@@ -43605,6 +44304,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "697 sq.ft",
+        "priceRange": "₹80.59 L - ₹22.48 Cr"
+      },
+      {
+        "type": "Office",
+        "carpetArea": "623 sq.ft",
+        "priceRange": "₹80.59 L - ₹22.48 Cr"
+      }
     ]
   },
   {
@@ -43684,6 +44395,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "434 sq.ft",
+        "priceRange": "₹27 L - ₹33 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "697 sq.ft",
+        "priceRange": "₹39 L - ₹49 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "997 sq.ft",
+        "priceRange": "₹55 L - ₹70 L"
+      }
     ]
   },
   {
@@ -43765,6 +44493,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "690 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      }
     ]
   },
   {
@@ -43859,6 +44594,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "744 sq.ft",
+        "priceRange": "₹1.48 Cr - ₹1.85 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1045 sq.ft",
+        "priceRange": "₹2.07 Cr - ₹2.66 Cr"
+      }
     ]
   },
   {
@@ -43941,6 +44688,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1023 sq.ft",
+        "priceRange": "₹2.09 Cr - ₹2.68 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1600 sq.ft",
+        "priceRange": "₹3.28 Cr - ₹4.17 Cr"
+      }
     ]
   },
   {
@@ -44019,6 +44778,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "692 sq.ft",
+        "priceRange": "₹90 L - ₹1.13 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1023 sq.ft",
+        "priceRange": "₹1.26 Cr - ₹1.62 Cr"
+      }
     ]
   },
   {
@@ -44093,6 +44864,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Studio",
+        "carpetArea": "555 sq.ft",
+        "priceRange": "₹37.50 L"
+      }
     ]
   },
   {
@@ -44169,6 +44947,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1126 sq.ft",
+        "priceRange": "₹1.62 Cr - ₹2.09 Cr"
+      }
     ]
   },
   {
@@ -44247,6 +45032,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1077 sq.ft",
+        "priceRange": "₹1.69 Cr - ₹2.18 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1821 sq.ft",
+        "priceRange": "₹2.66 Cr - ₹3.39 Cr"
+      }
     ]
   },
   {
@@ -44338,6 +45135,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1632 sq.ft",
+        "priceRange": "₹5.70 Cr - ₹7.25 Cr"
+      },
+      {
+        "type": "4.5 BHK",
+        "carpetArea": "1777 sq.ft",
+        "priceRange": "₹5.70 Cr - ₹7.25 Cr"
+      }
     ]
   },
   {
@@ -44514,6 +45323,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "688 sq.ft",
+        "priceRange": "₹55 L - ₹69 L"
+      }
     ]
   },
   {
@@ -44602,6 +45418,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3.5 BHK",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "₹4.21 Cr - ₹5.42 Cr"
+      },
+      {
+        "type": "4.5 BHK",
+        "carpetArea": "1688 sq.ft",
+        "priceRange": "₹6.62 Cr - ₹8.43 Cr"
+      }
     ]
   },
   {
@@ -44673,6 +45501,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Studio",
+        "carpetArea": "646 sq.ft",
+        "priceRange": "₹26.36 L - ₹40.06 L"
+      }
     ]
   },
   {
@@ -44761,6 +45596,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1082 sq.ft",
+        "priceRange": "₹1.82 Cr - ₹2.34 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1840 sq.ft",
+        "priceRange": "₹2.86 Cr - ₹3.64 Cr"
+      }
     ]
   },
   {
@@ -44843,6 +45690,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1076 sq.ft",
+        "priceRange": "₹5.04 Cr - ₹6.48 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1656 sq.ft",
+        "priceRange": "₹7.92 Cr - ₹10.08 Cr"
+      }
     ]
   },
   {
@@ -44923,6 +45782,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1753 sq.ft",
+        "priceRange": "₹7.61 Cr - ₹9.69 Cr"
+      },
+      {
+        "type": "4.5 BHK",
+        "carpetArea": "1781 sq.ft",
+        "priceRange": "₹7.61 Cr - ₹9.69 Cr"
+      }
     ]
   },
   {
@@ -45007,6 +45878,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "753 sq.ft",
+        "priceRange": "₹81 L - ₹1.01 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1024 sq.ft",
+        "priceRange": "₹1.13 Cr - ₹1.46 Cr"
+      }
     ]
   },
   {
@@ -45087,6 +45970,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "746 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1000 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -45166,6 +46061,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "739 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1125 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.53 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1692 sq.ft",
+        "priceRange": "₹1.87 Cr - ₹2.38 Cr"
+      }
     ]
   },
   {
@@ -45244,6 +46156,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1097 sq.ft",
+        "priceRange": "₹2.42 Cr - ₹3.11 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1666 sq.ft",
+        "priceRange": "₹3.81 Cr - ₹4.84 Cr"
+      }
     ]
   },
   {
@@ -45324,6 +46248,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "992 sq.ft",
+        "priceRange": "₹2.59 Cr - ₹3.33 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1563 sq.ft",
+        "priceRange": "₹4.07 Cr - ₹5.18 Cr"
+      }
     ]
   },
   {
@@ -45403,6 +46339,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "722 sq.ft",
+        "priceRange": "₹53 L - ₹66 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "997 sq.ft",
+        "priceRange": "₹74 L - ₹95 L"
+      }
     ]
   },
   {
@@ -45493,6 +46441,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1028 sq.ft",
+        "priceRange": "₹1.48 Cr - ₹1.91 Cr"
+      }
     ]
   },
   {
@@ -45571,6 +46526,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "747 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      }
     ]
   },
   {
@@ -45644,6 +46606,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "430 sq.ft",
+        "priceRange": "₹41 L - ₹49 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "719 sq.ft",
+        "priceRange": "₹58 L - ₹73 L"
+      }
     ]
   },
   {
@@ -45722,6 +46696,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "744 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1067 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -45800,6 +46786,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "697 sq.ft",
+        "priceRange": "₹93 L - ₹1.17 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1093 sq.ft",
+        "priceRange": "₹1.31 Cr - ₹1.68 Cr"
+      }
     ]
   },
   {
@@ -45875,6 +46873,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "622 sq.ft",
+        "priceRange": "₹2.46 Cr - ₹4.48 Cr"
+      }
     ]
   },
   {
@@ -45961,6 +46966,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "748 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.31 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1019 sq.ft",
+        "priceRange": "₹1.47 Cr - ₹1.89 Cr"
+      },
+      {
+        "type": "Jodi",
+        "carpetArea": "601 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.55 Cr"
+      }
     ]
   },
   {
@@ -46048,6 +47070,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "741 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "685 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1029 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -46125,6 +47164,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1703 sq.ft",
+        "priceRange": "₹4.16 Cr - ₹5.29 Cr"
+      }
     ]
   },
   {
@@ -46205,6 +47251,28 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "721 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.50 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "749 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.50 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1052 sq.ft",
+        "priceRange": "₹1.68 Cr - ₹2.16 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1701 sq.ft",
+        "priceRange": "₹2.64 Cr - ₹3.36 Cr"
+      }
     ]
   },
   {
@@ -46283,6 +47351,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1043 sq.ft",
+        "priceRange": "₹2.59 Cr - ₹3.33 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1825 sq.ft",
+        "priceRange": "₹4.07 Cr - ₹5.18 Cr"
+      }
     ]
   },
   {
@@ -46361,6 +47441,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "723 sq.ft",
+        "priceRange": "₹96 L - ₹1.20 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1064 sq.ft",
+        "priceRange": "₹1.34 Cr - ₹1.73 Cr"
+      }
     ]
   },
   {
@@ -46438,6 +47530,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1020 sq.ft",
+        "priceRange": "₹2.52 Cr - ₹3.24 Cr"
+      }
     ]
   },
   {
@@ -46516,6 +47615,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "562 sq.ft",
+        "priceRange": "₹64 L - ₹2.73 Cr"
+      }
     ]
   },
   {
@@ -46594,6 +47700,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "734 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.31 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1020 sq.ft",
+        "priceRange": "₹1.47 Cr - ₹1.89 Cr"
+      }
     ]
   },
   {
@@ -46672,6 +47790,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "722 sq.ft",
+        "priceRange": "₹1.15 Cr - ₹1.44 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1118 sq.ft",
+        "priceRange": "₹1.61 Cr - ₹2.07 Cr"
+      }
     ]
   },
   {
@@ -46750,6 +47880,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "694 sq.ft",
+        "priceRange": "₹95 L - ₹1.19 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1062 sq.ft",
+        "priceRange": "₹1.33 Cr - ₹1.71 Cr"
+      }
     ]
   },
   {
@@ -46828,6 +47970,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "727 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1033 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -46905,6 +48059,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1015 sq.ft",
+        "priceRange": "₹2.67 Cr - ₹3.44 Cr"
+      }
     ]
   },
   {
@@ -46987,6 +48148,28 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "741 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.50 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "757 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.50 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1107 sq.ft",
+        "priceRange": "₹1.68 Cr - ₹2.16 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1695 sq.ft",
+        "priceRange": "₹2.64 Cr - ₹3.36 Cr"
+      }
     ]
   },
   {
@@ -47065,6 +48248,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "754 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1090 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -47143,6 +48338,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "738 sq.ft",
+        "priceRange": "₹71 L - ₹89 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1032 sq.ft",
+        "priceRange": "₹99 L - ₹1.28 Cr"
+      }
     ]
   },
   {
@@ -47221,6 +48428,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "719 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1023 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -47298,6 +48517,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1099 sq.ft",
+        "priceRange": "₹4.90 Cr - ₹6.30 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1580 sq.ft",
+        "priceRange": "₹7.70 Cr - ₹9.80 Cr"
+      }
     ]
   },
   {
@@ -47377,6 +48608,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "745 sq.ft",
+        "priceRange": "₹71 L - ₹89 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1012 sq.ft",
+        "priceRange": "₹99 L - ₹1.28 Cr"
+      }
     ]
   },
   {
@@ -47455,6 +48698,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1009 sq.ft",
+        "priceRange": "₹3.09 Cr - ₹3.98 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1665 sq.ft",
+        "priceRange": "₹4.86 Cr - ₹6.19 Cr"
+      }
     ]
   },
   {
@@ -47533,6 +48788,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1030 sq.ft",
+        "priceRange": "₹1.69 Cr - ₹2.18 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1790 sq.ft",
+        "priceRange": "₹2.66 Cr - ₹3.39 Cr"
+      }
     ]
   },
   {
@@ -47609,6 +48876,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "697 sq.ft",
+        "priceRange": "₹78 L - ₹98 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "982 sq.ft",
+        "priceRange": "₹1.09 Cr - ₹1.40 Cr"
+      }
     ]
   },
   {
@@ -47686,6 +48965,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 RK",
+        "carpetArea": "562 sq.ft",
+        "priceRange": "₹79.20 L - ₹1.51 Cr"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "709 sq.ft",
+        "priceRange": "₹79 L - ₹99 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1007 sq.ft",
+        "priceRange": "₹1.11 Cr - ₹1.43 Cr"
+      }
     ]
   },
   {
@@ -47764,6 +49060,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "999 sq.ft",
+        "priceRange": "₹2.00 Cr - ₹2.57 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1645 sq.ft",
+        "priceRange": "₹3.15 Cr - ₹4.00 Cr"
+      }
     ]
   },
   {
@@ -47842,6 +49150,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1019 sq.ft",
+        "priceRange": "₹3.36 Cr - ₹4.32 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1803 sq.ft",
+        "priceRange": "₹5.28 Cr - ₹6.72 Cr"
+      }
     ]
   },
   {
@@ -47918,6 +49238,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1077 sq.ft",
+        "priceRange": "₹2.16 Cr - ₹2.77 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1655 sq.ft",
+        "priceRange": "₹3.39 Cr - ₹4.31 Cr"
+      }
     ]
   },
   {
@@ -48000,6 +49332,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "746 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.31 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "982 sq.ft",
+        "priceRange": "₹1.47 Cr - ₹1.89 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1571 sq.ft",
+        "priceRange": "₹2.31 Cr - ₹2.94 Cr"
+      }
     ]
   },
   {
@@ -48075,6 +49424,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "625 sq.ft",
+        "priceRange": "₹1.63 Cr - ₹2.28 Cr"
+      }
     ]
   },
   {
@@ -48153,6 +49509,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "724 sq.ft",
+        "priceRange": "₹1.00 Cr - ₹1.25 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1075 sq.ft",
+        "priceRange": "₹1.40 Cr - ₹1.80 Cr"
+      }
     ]
   },
   {
@@ -48231,6 +49599,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "714 sq.ft",
+        "priceRange": "₹94 L - ₹1.18 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "₹1.32 Cr - ₹1.69 Cr"
+      }
     ]
   },
   {
@@ -48312,6 +49692,28 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.50 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.50 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1027 sq.ft",
+        "priceRange": "₹1.68 Cr - ₹2.16 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1685 sq.ft",
+        "priceRange": "₹2.64 Cr - ₹3.36 Cr"
+      }
     ]
   },
   {
@@ -48387,6 +49789,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "651 sq.ft",
+        "priceRange": "₹67 L - ₹1.70 Cr"
+      }
     ]
   },
   {
@@ -48468,6 +49877,28 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "749 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.50 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "723 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.50 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1053 sq.ft",
+        "priceRange": "₹1.68 Cr - ₹2.16 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1598 sq.ft",
+        "priceRange": "₹2.64 Cr - ₹3.36 Cr"
+      }
     ]
   },
   {
@@ -48546,6 +49977,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "712 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.31 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1090 sq.ft",
+        "priceRange": "₹1.47 Cr - ₹1.89 Cr"
+      }
     ]
   },
   {
@@ -48629,6 +50072,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "732 sq.ft",
+        "priceRange": "₹74 L - ₹92 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1008 sq.ft",
+        "priceRange": "₹1.03 Cr - ₹1.33 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1819 sq.ft",
+        "priceRange": "₹1.63 Cr - ₹2.07 Cr"
+      }
     ]
   },
   {
@@ -48704,6 +50164,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "713 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      }
     ]
   },
   {
@@ -48781,6 +50248,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "581 sq.ft",
+        "priceRange": "₹1 Cr - ₹1.80 Cr"
+      }
     ]
   },
   {
@@ -48858,6 +50332,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1712 sq.ft",
+        "priceRange": "₹7.48 Cr - ₹9.52 Cr"
+      }
     ]
   },
   {
@@ -48935,6 +50416,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1051 sq.ft",
+        "priceRange": "₹2.10 Cr - ₹2.70 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1658 sq.ft",
+        "priceRange": "₹3.30 Cr - ₹4.20 Cr"
+      }
     ]
   },
   {
@@ -49012,6 +50505,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Studio",
+        "carpetArea": "718 sq.ft",
+        "priceRange": "₹32 L - ₹36 L"
+      }
     ]
   },
   {
@@ -49091,6 +50591,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "551 sq.ft",
+        "priceRange": "₹1.90 Cr"
+      },
+      {
+        "type": "Showroom",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹1.90 Cr"
+      }
     ]
   },
   {
@@ -49168,6 +50680,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "605 sq.ft",
+        "priceRange": "₹97 L - ₹1.60 Cr"
+      }
     ]
   },
   {
@@ -49246,6 +50765,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "691 sq.ft",
+        "priceRange": "₹66 L - ₹83 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1021 sq.ft",
+        "priceRange": "₹92 L - ₹1.19 Cr"
+      }
     ]
   },
   {
@@ -49316,6 +50847,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "714 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      }
     ]
   },
   {
@@ -49394,6 +50932,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "708 sq.ft",
+        "priceRange": "₹78 L - ₹98 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "997 sq.ft",
+        "priceRange": "₹1.09 Cr - ₹1.40 Cr"
+      }
     ]
   },
   {
@@ -49472,6 +51022,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1047 sq.ft",
+        "priceRange": "₹3.09 Cr - ₹3.98 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1646 sq.ft",
+        "priceRange": "₹4.86 Cr - ₹6.19 Cr"
+      }
     ]
   },
   {
@@ -49552,6 +51114,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1122 sq.ft",
+        "priceRange": "₹2.66 Cr - ₹3.42 Cr"
+      }
     ]
   },
   {
@@ -49631,6 +51200,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "736 sq.ft",
+        "priceRange": "₹82 L - ₹1.02 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1025 sq.ft",
+        "priceRange": "₹1.14 Cr - ₹1.47 Cr"
+      }
     ]
   },
   {
@@ -49709,6 +51290,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1034 sq.ft",
+        "priceRange": "₹3.09 Cr - ₹3.98 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1622 sq.ft",
+        "priceRange": "₹4.86 Cr - ₹6.19 Cr"
+      }
     ]
   },
   {
@@ -49787,6 +51380,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1113 sq.ft",
+        "priceRange": "₹1.68 Cr - ₹2.16 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1733 sq.ft",
+        "priceRange": "₹2.64 Cr - ₹3.36 Cr"
+      }
     ]
   },
   {
@@ -49866,6 +51471,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "424 sq.ft",
+        "priceRange": "₹30 L - ₹37 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "₹43 L - ₹54 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1006 sq.ft",
+        "priceRange": "₹60 L - ₹77 L"
+      }
     ]
   },
   {
@@ -49948,6 +51570,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "733 sq.ft",
+        "priceRange": "₹78 L - ₹98 L"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "746 sq.ft",
+        "priceRange": "₹78 L - ₹98 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1090 sq.ft",
+        "priceRange": "₹1.09 Cr - ₹1.40 Cr"
+      }
     ]
   },
   {
@@ -50026,6 +51665,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "756 sq.ft",
+        "priceRange": "₹1.35 Cr - ₹1.69 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1098 sq.ft",
+        "priceRange": "₹1.89 Cr - ₹2.43 Cr"
+      }
     ]
   },
   {
@@ -50100,6 +51751,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "656 sq.ft",
+        "priceRange": "₹1.70 Cr - ₹8.88 Cr"
+      }
     ]
   },
   {
@@ -50178,6 +51836,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "₹96 L - ₹1.20 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1061 sq.ft",
+        "priceRange": "₹1.34 Cr - ₹1.73 Cr"
+      }
     ]
   },
   {
@@ -50255,6 +51925,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "669 sq.ft",
+        "priceRange": "₹97 L - ₹1.91 Cr"
+      }
     ]
   },
   {
@@ -50334,6 +52011,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "714 sq.ft",
+        "priceRange": "₹86 L - ₹1.08 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.55 Cr"
+      }
     ]
   },
   {
@@ -50412,6 +52101,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "753 sq.ft",
+        "priceRange": "₹99 L - ₹1.24 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1002 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.78 Cr"
+      }
     ]
   },
   {
@@ -50490,6 +52191,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1022 sq.ft",
+        "priceRange": "₹2.67 Cr - ₹3.44 Cr"
+      }
     ]
   },
   {
@@ -50569,6 +52277,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "992 sq.ft",
+        "priceRange": "₹2.53 Cr - ₹3.26 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1599 sq.ft",
+        "priceRange": "₹3.98 Cr - ₹5.07 Cr"
+      }
     ]
   },
   {
@@ -50644,6 +52364,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "598 sq.ft",
+        "priceRange": "₹99 L - ₹1.99 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "623 sq.ft",
+        "priceRange": "₹99 L - ₹1.99 Cr"
+      }
     ]
   },
   {
@@ -50724,6 +52456,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "759 sq.ft",
+        "priceRange": "₹99 L - ₹1.24 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1005 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.78 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1603 sq.ft",
+        "priceRange": "₹2.18 Cr - ₹2.77 Cr"
+      }
     ]
   },
   {
@@ -50800,6 +52549,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "719 sq.ft",
+        "priceRange": "₹1.10 Cr - ₹1.38 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "996 sq.ft",
+        "priceRange": "₹1.54 Cr - ₹1.98 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1669 sq.ft",
+        "priceRange": "₹2.42 Cr - ₹3.08 Cr"
+      }
     ]
   },
   {
@@ -50877,6 +52643,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "701 sq.ft",
+        "priceRange": "₹95 L - ₹1.19 Cr"
+      }
     ]
   },
   {
@@ -50955,6 +52728,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "686 sq.ft",
+        "priceRange": "₹86 L - ₹1.08 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1012 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.55 Cr"
+      }
     ]
   },
   {
@@ -51035,6 +52820,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹93 L - ₹1.16 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1066 sq.ft",
+        "priceRange": "₹1.30 Cr - ₹1.67 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1807 sq.ft",
+        "priceRange": "₹2.05 Cr - ₹2.60 Cr"
+      }
     ]
   },
   {
@@ -51113,6 +52915,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1045 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.78 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1581 sq.ft",
+        "priceRange": "₹2.18 Cr - ₹2.77 Cr"
+      }
     ]
   },
   {
@@ -51190,6 +53004,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "747 sq.ft",
+        "priceRange": "₹62 L - ₹78 L"
+      }
     ]
   },
   {
@@ -51358,6 +53179,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "696 sq.ft",
+        "priceRange": "₹65 L - ₹81 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1073 sq.ft",
+        "priceRange": "₹91 L - ₹1.17 Cr"
+      }
     ]
   },
   {
@@ -51436,6 +53269,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "748 sq.ft",
+        "priceRange": "₹84 L - ₹1.05 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "985 sq.ft",
+        "priceRange": "₹1.18 Cr - ₹1.51 Cr"
+      }
     ]
   },
   {
@@ -51514,6 +53359,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1047 sq.ft",
+        "priceRange": "₹1.86 Cr - ₹2.39 Cr"
+      }
     ]
   },
   {
@@ -51592,6 +53444,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "726 sq.ft",
+        "priceRange": "₹84 L - ₹1.05 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1055 sq.ft",
+        "priceRange": "₹1.18 Cr - ₹1.51 Cr"
+      }
     ]
   },
   {
@@ -51670,6 +53534,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "729 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1127 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.53 Cr"
+      }
     ]
   },
   {
@@ -51750,6 +53626,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "721 sq.ft",
+        "priceRange": "₹1.27 Cr - ₹1.59 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1094 sq.ft",
+        "priceRange": "₹1.78 Cr - ₹2.29 Cr"
+      },
+      {
+        "type": "3.5 BHK",
+        "carpetArea": "1042 sq.ft",
+        "priceRange": "₹1.78 Cr - ₹2.29 Cr"
+      }
     ]
   },
   {
@@ -51829,6 +53722,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "754 sq.ft",
+        "priceRange": "₹82 L - ₹1.03 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1021 sq.ft",
+        "priceRange": "₹1.15 Cr - ₹1.48 Cr"
+      }
     ]
   },
   {
@@ -51907,6 +53812,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "459 sq.ft",
+        "priceRange": "₹28 L - ₹34 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "685 sq.ft",
+        "priceRange": "₹40 L - ₹50 L"
+      }
     ]
   },
   {
@@ -51984,6 +53901,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "568 sq.ft",
+        "priceRange": "₹84 L - ₹2.04 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "738 sq.ft",
+        "priceRange": "₹84 L - ₹2.04 Cr"
+      }
     ]
   },
   {
@@ -52064,6 +53993,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1005 sq.ft",
+        "priceRange": "₹2.09 Cr - ₹2.68 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1631 sq.ft",
+        "priceRange": "₹3.28 Cr - ₹4.17 Cr"
+      }
     ]
   },
   {
@@ -52141,6 +54082,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "988 sq.ft",
+        "priceRange": "₹1.82 Cr - ₹2.34 Cr"
+      }
     ]
   },
   {
@@ -52215,6 +54163,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "719 sq.ft",
+        "priceRange": "₹65 L"
+      }
     ]
   },
   {
@@ -52293,6 +54248,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "757 sq.ft",
+        "priceRange": "₹92 L - ₹1.15 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1064 sq.ft",
+        "priceRange": "₹1.29 Cr - ₹1.66 Cr"
+      }
     ]
   },
   {
@@ -52372,6 +54339,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "752 sq.ft",
+        "priceRange": "₹1.10 Cr - ₹1.38 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1069 sq.ft",
+        "priceRange": "₹1.54 Cr - ₹1.98 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1600 sq.ft",
+        "priceRange": "₹2.42 Cr - ₹3.08 Cr"
+      }
     ]
   },
   {
@@ -52450,6 +54434,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "728 sq.ft",
+        "priceRange": "₹80 L - ₹1.00 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1072 sq.ft",
+        "priceRange": "₹1.12 Cr - ₹1.44 Cr"
+      }
     ]
   },
   {
@@ -52528,6 +54524,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1760 sq.ft",
+        "priceRange": "₹12.50 Cr - ₹15.90 Cr"
+      }
     ]
   },
   {
@@ -52606,6 +54609,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1054 sq.ft",
+        "priceRange": "₹2.94 Cr - ₹3.78 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1648 sq.ft",
+        "priceRange": "₹4.62 Cr - ₹5.88 Cr"
+      }
     ]
   },
   {
@@ -52684,6 +54699,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "686 sq.ft",
+        "priceRange": "₹74 L - ₹93 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1062 sq.ft",
+        "priceRange": "₹1.04 Cr - ₹1.33 Cr"
+      }
     ]
   },
   {
@@ -52763,6 +54790,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1014 sq.ft",
+        "priceRange": "₹4.90 Cr - ₹6.30 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1685 sq.ft",
+        "priceRange": "₹7.70 Cr - ₹9.80 Cr"
+      }
     ]
   },
   {
@@ -52838,6 +54877,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Showroom",
+        "carpetArea": "714 sq.ft",
+        "priceRange": "₹1.90 Cr - ₹8 Cr"
+      }
     ]
   },
   {
@@ -52916,6 +54962,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "747 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.31 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1042 sq.ft",
+        "priceRange": "₹1.47 Cr - ₹1.89 Cr"
+      }
     ]
   },
   {
@@ -52994,6 +55052,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "686 sq.ft",
+        "priceRange": "₹93 L - ₹1.17 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1068 sq.ft",
+        "priceRange": "₹1.31 Cr - ₹1.68 Cr"
+      }
     ]
   },
   {
@@ -53079,6 +55149,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "736 sq.ft",
+        "priceRange": "₹1.04 Cr - ₹1.30 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1003 sq.ft",
+        "priceRange": "₹1.46 Cr - ₹1.87 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1826 sq.ft",
+        "priceRange": "₹2.29 Cr - ₹2.91 Cr"
+      }
     ]
   },
   {
@@ -53162,6 +55249,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹95 L - ₹1.19 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1036 sq.ft",
+        "priceRange": "₹1.33 Cr - ₹1.71 Cr"
+      }
     ]
   },
   {
@@ -53241,6 +55340,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "738 sq.ft",
+        "priceRange": "₹87 L - ₹1.09 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1098 sq.ft",
+        "priceRange": "₹1.22 Cr - ₹1.57 Cr"
+      }
     ]
   },
   {
@@ -53319,6 +55430,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "707 sq.ft",
+        "priceRange": "₹77 L - ₹96 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "₹1.08 Cr - ₹1.39 Cr"
+      }
     ]
   },
   {
@@ -53396,6 +55519,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "730 sq.ft",
+        "priceRange": "₹79 L - ₹99 L"
+      }
     ]
   },
   {
@@ -53474,6 +55604,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "644 sq.ft",
+        "priceRange": "₹2.58 Cr - ₹4.52 Cr"
+      }
     ]
   },
   {
@@ -53548,6 +55685,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "699 sq.ft",
+        "priceRange": "₹1.35 Cr - ₹3.10 Cr"
+      }
     ]
   },
   {
@@ -53625,6 +55769,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1025 sq.ft",
+        "priceRange": "₹2.24 Cr - ₹2.88 Cr"
+      }
     ]
   },
   {
@@ -53703,6 +55854,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "₹2.59 Cr - ₹3.33 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1550 sq.ft",
+        "priceRange": "₹4.07 Cr - ₹5.18 Cr"
+      }
     ]
   },
   {
@@ -53780,6 +55943,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "744 sq.ft",
+        "priceRange": "₹96 L - ₹1.20 Cr"
+      }
     ]
   },
   {
@@ -53857,6 +56027,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹64 L - ₹6.88 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "747 sq.ft",
+        "priceRange": "₹64 L - ₹6.88 Cr"
+      }
     ]
   },
   {
@@ -53941,6 +56123,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "739 sq.ft",
+        "priceRange": "₹87 L - ₹1.09 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "991 sq.ft",
+        "priceRange": "₹1.22 Cr - ₹1.56 Cr"
+      }
     ]
   },
   {
@@ -54018,6 +56212,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Studio",
+        "carpetArea": "718 sq.ft",
+        "priceRange": "₹33 L"
+      }
     ]
   },
   {
@@ -54096,6 +56297,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "685 sq.ft",
+        "priceRange": "₹99 L - ₹1.24 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1127 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.78 Cr"
+      }
     ]
   },
   {
@@ -54176,6 +56389,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "₹79 L - ₹99 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "998 sq.ft",
+        "priceRange": "₹1.11 Cr - ₹1.42 Cr"
+      }
     ]
   },
   {
@@ -54338,6 +56563,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1101 sq.ft",
+        "priceRange": "₹1.53 Cr - ₹1.96 Cr"
+      }
     ]
   },
   {
@@ -54416,6 +56648,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "723 sq.ft",
+        "priceRange": "₹92 L - ₹1.15 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1121 sq.ft",
+        "priceRange": "₹1.29 Cr - ₹1.66 Cr"
+      }
     ]
   },
   {
@@ -54494,6 +56738,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1025 sq.ft",
+        "priceRange": "₹2.53 Cr - ₹3.26 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1661 sq.ft",
+        "priceRange": "₹3.98 Cr - ₹5.07 Cr"
+      }
     ]
   },
   {
@@ -54573,6 +56829,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "682 sq.ft",
+        "priceRange": "₹89 L - ₹1.11 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "694 sq.ft",
+        "priceRange": "₹89 L - ₹1.11 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "988 sq.ft",
+        "priceRange": "₹1.25 Cr - ₹1.60 Cr"
+      }
     ]
   },
   {
@@ -54658,6 +56931,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "708 sq.ft",
+        "priceRange": "₹93 L - ₹1.16 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "699 sq.ft",
+        "priceRange": "₹93 L - ₹1.16 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1009 sq.ft",
+        "priceRange": "₹1.30 Cr - ₹1.67 Cr"
+      }
     ]
   },
   {
@@ -54734,6 +57024,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "568 sq.ft",
+        "priceRange": "₹1.20 Cr"
+      }
     ]
   },
   {
@@ -54810,6 +57107,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "593 sq.ft",
+        "priceRange": "₹60 L - ₹83 L"
+      }
     ]
   },
   {
@@ -54887,6 +57191,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Studio",
+        "carpetArea": "562 sq.ft",
+        "priceRange": "₹42 L"
+      }
     ]
   },
   {
@@ -54964,6 +57275,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "609 sq.ft",
+        "priceRange": "₹47 L - ₹1.84 Cr"
+      }
     ]
   },
   {
@@ -55042,6 +57360,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "682 sq.ft",
+        "priceRange": "₹77 L - ₹96 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1108 sq.ft",
+        "priceRange": "₹1.08 Cr - ₹1.38 Cr"
+      }
     ]
   },
   {
@@ -55122,6 +57452,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "702 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1036 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.53 Cr"
+      }
     ]
   },
   {
@@ -55291,6 +57633,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "586 sq.ft",
+        "priceRange": "₹24 L - ₹32 L"
+      }
     ]
   },
   {
@@ -55369,6 +57718,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "728 sq.ft",
+        "priceRange": "₹71 L - ₹89 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1036 sq.ft",
+        "priceRange": "₹99 L - ₹1.28 Cr"
+      }
     ]
   },
   {
@@ -55447,6 +57808,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "984 sq.ft",
+        "priceRange": "₹1.68 Cr - ₹2.16 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1581 sq.ft",
+        "priceRange": "₹2.64 Cr - ₹3.36 Cr"
+      }
     ]
   },
   {
@@ -55523,6 +57896,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "733 sq.ft",
+        "priceRange": "₹88 L - ₹1.10 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1095 sq.ft",
+        "priceRange": "₹1.23 Cr - ₹1.58 Cr"
+      }
     ]
   },
   {
@@ -55601,6 +57986,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "714 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.31 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1091 sq.ft",
+        "priceRange": "₹1.47 Cr - ₹1.89 Cr"
+      }
     ]
   },
   {
@@ -55675,6 +58072,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "997 sq.ft",
+        "priceRange": "₹1.68 Cr - ₹2.16 Cr"
+      }
     ]
   },
   {
@@ -55757,6 +58161,28 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "726 sq.ft",
+        "priceRange": "₹1.15 Cr - ₹1.44 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "701 sq.ft",
+        "priceRange": "₹1.15 Cr - ₹1.44 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1042 sq.ft",
+        "priceRange": "₹1.61 Cr - ₹2.07 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1594 sq.ft",
+        "priceRange": "₹2.53 Cr - ₹3.22 Cr"
+      }
     ]
   },
   {
@@ -55834,6 +58260,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "641 sq.ft",
+        "priceRange": "₹52 L - ₹4.75 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "556 sq.ft",
+        "priceRange": "₹52 L - ₹4.75 Cr"
+      }
     ]
   },
   {
@@ -55914,6 +58352,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "713 sq.ft",
+        "priceRange": "₹99 L - ₹1.24 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1010 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.78 Cr"
+      }
     ]
   },
   {
@@ -55991,6 +58441,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "724 sq.ft",
+        "priceRange": "₹63 L - ₹1.52 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "564 sq.ft",
+        "priceRange": "₹63 L - ₹1.52 Cr"
+      }
     ]
   },
   {
@@ -56069,6 +58531,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "612 sq.ft",
+        "priceRange": "₹6 Cr - ₹13 Cr"
+      },
+      {
+        "type": "Showroom",
+        "carpetArea": "638 sq.ft",
+        "priceRange": "₹6 Cr - ₹13 Cr"
+      }
     ]
   },
   {
@@ -56148,6 +58622,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "682 sq.ft",
+        "priceRange": "₹1.30 Cr - ₹1.63 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1098 sq.ft",
+        "priceRange": "₹1.82 Cr - ₹2.34 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1664 sq.ft",
+        "priceRange": "₹2.86 Cr - ₹3.64 Cr"
+      }
     ]
   },
   {
@@ -56227,6 +58718,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "732 sq.ft",
+        "priceRange": "₹94 L - ₹1.18 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1006 sq.ft",
+        "priceRange": "₹1.32 Cr - ₹1.69 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1565 sq.ft",
+        "priceRange": "₹2.07 Cr - ₹2.63 Cr"
+      }
     ]
   },
   {
@@ -56306,6 +58814,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "756 sq.ft",
+        "priceRange": "₹78 L - ₹98 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "985 sq.ft",
+        "priceRange": "₹1.09 Cr - ₹1.40 Cr"
+      }
     ]
   },
   {
@@ -56383,6 +58903,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1053 sq.ft",
+        "priceRange": "₹2.35 Cr - ₹3.02 Cr"
+      }
     ]
   },
   {
@@ -56462,6 +58989,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "702 sq.ft",
+        "priceRange": "₹1.14 Cr - ₹1.42 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1075 sq.ft",
+        "priceRange": "₹1.60 Cr - ₹2.05 Cr"
+      }
     ]
   },
   {
@@ -56540,6 +59079,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "423 sq.ft",
+        "priceRange": "₹38 L - ₹46 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "713 sq.ft",
+        "priceRange": "₹54 L - ₹68 L"
+      }
     ]
   },
   {
@@ -56617,6 +59168,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "693 sq.ft",
+        "priceRange": "₹90 L - ₹1.12 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1085 sq.ft",
+        "priceRange": "₹1.26 Cr - ₹1.62 Cr"
+      }
     ]
   },
   {
@@ -56694,6 +59257,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "992 sq.ft",
+        "priceRange": "₹2.32 Cr - ₹2.99 Cr"
+      }
     ]
   },
   {
@@ -56768,6 +59338,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "599 sq.ft",
+        "priceRange": "₹1 Cr - ₹3.85 Cr"
+      }
     ]
   },
   {
@@ -56846,6 +59423,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "722 sq.ft",
+        "priceRange": "₹38 L - ₹48 L"
+      },
+      {
+        "type": "1 BHK",
+        "carpetArea": "446 sq.ft",
+        "priceRange": "₹27 L - ₹32 L"
+      }
     ]
   },
   {
@@ -56917,6 +59506,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "569 sq.ft",
+        "priceRange": "₹25.02 L - ₹10.89 Cr"
+      },
+      {
+        "type": "Office",
+        "carpetArea": "746 sq.ft",
+        "priceRange": "₹25.02 L - ₹10.89 Cr"
+      }
     ]
   },
   {
@@ -56999,6 +59600,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "731 sq.ft",
+        "priceRange": "₹81 L - ₹1.01 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1048 sq.ft",
+        "priceRange": "₹1.13 Cr - ₹1.46 Cr"
+      }
     ]
   },
   {
@@ -57076,6 +59689,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "748 sq.ft",
+        "priceRange": "₹64 L - ₹80 L"
+      }
     ]
   },
   {
@@ -57154,6 +59774,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "471 sq.ft",
+        "priceRange": "₹29 L - ₹35 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "733 sq.ft",
+        "priceRange": "₹41 L - ₹51 L"
+      }
     ]
   },
   {
@@ -57234,6 +59866,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "742 sq.ft",
+        "priceRange": "₹1.17 Cr - ₹1.46 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1122 sq.ft",
+        "priceRange": "₹1.64 Cr - ₹2.11 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1757 sq.ft",
+        "priceRange": "₹2.57 Cr - ₹3.28 Cr"
+      }
     ]
   },
   {
@@ -57313,6 +59962,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "₹94 L - ₹1.18 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "990 sq.ft",
+        "priceRange": "₹1.32 Cr - ₹1.69 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1787 sq.ft",
+        "priceRange": "₹2.07 Cr - ₹2.63 Cr"
+      }
     ]
   },
   {
@@ -57395,6 +60061,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "987 sq.ft",
+        "priceRange": "₹2.72 Cr - ₹3.49 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1553 sq.ft",
+        "priceRange": "₹4.27 Cr - ₹5.43 Cr"
+      }
     ]
   },
   {
@@ -57473,6 +60151,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "733 sq.ft",
+        "priceRange": "₹56 L - ₹70 L"
+      }
     ]
   },
   {
@@ -57550,6 +60235,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "739 sq.ft",
+        "priceRange": "₹69 L - ₹86 L"
+      }
     ]
   },
   {
@@ -57626,6 +60318,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "661 sq.ft",
+        "priceRange": "₹47 L - ₹1.84 Cr"
+      }
     ]
   },
   {
@@ -57703,6 +60402,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1091 sq.ft",
+        "priceRange": "₹1.74 Cr - ₹2.23 Cr"
+      }
     ]
   },
   {
@@ -57781,6 +60487,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "682 sq.ft",
+        "priceRange": "₹71 L - ₹89 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "997 sq.ft",
+        "priceRange": "₹99 L - ₹1.28 Cr"
+      }
     ]
   },
   {
@@ -57862,6 +60580,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "742 sq.ft",
+        "priceRange": "₹1.30 Cr - ₹1.63 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1124 sq.ft",
+        "priceRange": "₹1.82 Cr - ₹2.34 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1600 sq.ft",
+        "priceRange": "₹2.86 Cr - ₹3.64 Cr"
+      }
     ]
   },
   {
@@ -57940,6 +60675,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "698 sq.ft",
+        "priceRange": "₹1.07 Cr - ₹1.34 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1093 sq.ft",
+        "priceRange": "₹1.50 Cr - ₹1.93 Cr"
+      }
     ]
   },
   {
@@ -58021,6 +60768,28 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹1.24 Cr - ₹1.55 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "686 sq.ft",
+        "priceRange": "₹1.24 Cr - ₹1.55 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1073 sq.ft",
+        "priceRange": "₹1.74 Cr - ₹2.23 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1662 sq.ft",
+        "priceRange": "₹2.73 Cr - ₹3.47 Cr"
+      }
     ]
   },
   {
@@ -58101,6 +60870,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "724 sq.ft",
+        "priceRange": "₹1.35 Cr - ₹1.69 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1102 sq.ft",
+        "priceRange": "₹1.89 Cr - ₹2.43 Cr"
+      }
     ]
   },
   {
@@ -58180,6 +60961,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "702 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1126 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -58258,6 +61051,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1073 sq.ft",
+        "priceRange": "₹2.65 Cr - ₹3.40 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1762 sq.ft",
+        "priceRange": "₹4.16 Cr - ₹5.29 Cr"
+      }
     ]
   },
   {
@@ -58333,6 +61138,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "697 sq.ft",
+        "priceRange": "₹1.33 Cr - ₹3.47 Cr"
+      }
     ]
   },
   {
@@ -58413,6 +61225,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "708 sq.ft",
+        "priceRange": "₹1.28 Cr - ₹3.90 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "609 sq.ft",
+        "priceRange": "₹1.28 Cr - ₹3.90 Cr"
+      }
     ]
   },
   {
@@ -58491,6 +61315,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "746 sq.ft",
+        "priceRange": "₹1.04 Cr - ₹1.30 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1072 sq.ft",
+        "priceRange": "₹1.46 Cr - ₹1.87 Cr"
+      }
     ]
   },
   {
@@ -58570,6 +61406,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "5 BHK",
+        "carpetArea": "1615 sq.ft",
+        "priceRange": "₹6.60 Cr - ₹8.40 Cr"
+      }
     ]
   },
   {
@@ -58649,6 +61492,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "689 sq.ft",
+        "priceRange": "₹82 L - ₹1.03 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1122 sq.ft",
+        "priceRange": "₹1.15 Cr - ₹1.48 Cr"
+      }
     ]
   },
   {
@@ -58727,6 +61582,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1096 sq.ft",
+        "priceRange": "₹2.24 Cr - ₹2.88 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1789 sq.ft",
+        "priceRange": "₹3.52 Cr - ₹4.48 Cr"
+      }
     ]
   },
   {
@@ -58804,6 +61671,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Studio",
+        "carpetArea": "731 sq.ft",
+        "priceRange": "₹29 L"
+      }
     ]
   },
   {
@@ -58881,6 +61755,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "5 BHK",
+        "carpetArea": "1688 sq.ft",
+        "priceRange": "₹8.14 Cr - ₹10.36 Cr"
+      }
     ]
   },
   {
@@ -58959,6 +61840,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "422 sq.ft",
+        "priceRange": "₹38 L - ₹46 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "743 sq.ft",
+        "priceRange": "₹54 L - ₹68 L"
+      }
     ]
   },
   {
@@ -59041,6 +61934,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "698 sq.ft",
+        "priceRange": "₹1.12 Cr - ₹1.40 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1061 sq.ft",
+        "priceRange": "₹1.57 Cr - ₹2.02 Cr"
+      }
     ]
   },
   {
@@ -59116,6 +62021,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "724 sq.ft",
+        "priceRange": "₹1.10 Cr - ₹3 Cr"
+      }
     ]
   },
   {
@@ -59198,6 +62110,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "₹1.18 Cr - ₹1.48 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹1.65 Cr - ₹2.12 Cr"
+      }
     ]
   },
   {
@@ -59278,6 +62202,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1073 sq.ft",
+        "priceRange": "₹1.96 Cr - ₹2.52 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1807 sq.ft",
+        "priceRange": "₹3.08 Cr - ₹3.92 Cr"
+      },
+      {
+        "type": "4.5 BHK",
+        "carpetArea": "1831 sq.ft",
+        "priceRange": "₹3.08 Cr - ₹3.92 Cr"
+      }
     ]
   },
   {
@@ -59356,6 +62297,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "728 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1017 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.53 Cr"
+      }
     ]
   },
   {
@@ -59438,6 +62391,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1068 sq.ft",
+        "priceRange": "₹1.75 Cr - ₹2.25 Cr"
+      }
     ]
   },
   {
@@ -59515,6 +62475,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "575 sq.ft",
+        "priceRange": "₹1.16 Cr - ₹6 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "696 sq.ft",
+        "priceRange": "₹1.16 Cr - ₹6 Cr"
+      }
     ]
   },
   {
@@ -59593,6 +62565,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "734 sq.ft",
+        "priceRange": "₹59 L - ₹74 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1055 sq.ft",
+        "priceRange": "₹83 L - ₹1.06 Cr"
+      }
     ]
   },
   {
@@ -59672,6 +62656,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "747 sq.ft",
+        "priceRange": "₹96 L - ₹1.20 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "688 sq.ft",
+        "priceRange": "₹96 L - ₹1.20 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "981 sq.ft",
+        "priceRange": "₹1.34 Cr - ₹1.73 Cr"
+      }
     ]
   },
   {
@@ -59751,6 +62752,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "714 sq.ft",
+        "priceRange": "₹88 L - ₹1.10 Cr"
+      }
     ]
   },
   {
@@ -59830,6 +62838,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "723 sq.ft",
+        "priceRange": "₹1.45 Cr - ₹1.81 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "982 sq.ft",
+        "priceRange": "₹2.03 Cr - ₹2.61 Cr"
+      }
     ]
   },
   {
@@ -59907,6 +62927,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "701 sq.ft",
+        "priceRange": "₹87 L - ₹1.09 Cr"
+      }
     ]
   },
   {
@@ -59985,6 +63012,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "638 sq.ft",
+        "priceRange": "₹27 L - ₹40 L"
+      }
     ]
   },
   {
@@ -60063,6 +63097,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "719 sq.ft",
+        "priceRange": "₹1.00 Cr - ₹1.25 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1098 sq.ft",
+        "priceRange": "₹1.40 Cr - ₹1.80 Cr"
+      }
     ]
   },
   {
@@ -60141,6 +63187,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1021 sq.ft",
+        "priceRange": "₹2.45 Cr - ₹3.15 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1693 sq.ft",
+        "priceRange": "₹3.85 Cr - ₹4.90 Cr"
+      }
     ]
   },
   {
@@ -60222,6 +63280,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "714 sq.ft",
+        "priceRange": "₹67 L - ₹84 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "981 sq.ft",
+        "priceRange": "₹94 L - ₹1.21 Cr"
+      }
     ]
   },
   {
@@ -60300,6 +63370,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1021 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.53 Cr"
+      }
     ]
   },
   {
@@ -60377,6 +63459,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "600 sq.ft",
+        "priceRange": "₹1.30 Cr - ₹2.50 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "681 sq.ft",
+        "priceRange": "₹1.30 Cr - ₹2.50 Cr"
+      }
     ]
   },
   {
@@ -60457,6 +63551,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1041 sq.ft",
+        "priceRange": "₹2.32 Cr - ₹2.99 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1709 sq.ft",
+        "priceRange": "₹3.65 Cr - ₹4.65 Cr"
+      }
     ]
   },
   {
@@ -60534,6 +63640,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Studio",
+        "carpetArea": "722 sq.ft",
+        "priceRange": "₹36 L"
+      }
     ]
   },
   {
@@ -60613,6 +63726,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "698 sq.ft",
+        "priceRange": "₹99 L - ₹1.24 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1075 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.78 Cr"
+      }
     ]
   },
   {
@@ -60690,6 +63815,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1053 sq.ft",
+        "priceRange": "₹1.61 Cr - ₹2.07 Cr"
+      }
     ]
   },
   {
@@ -60771,6 +63903,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "756 sq.ft",
+        "priceRange": "₹96 L - ₹1.20 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "991 sq.ft",
+        "priceRange": "₹1.34 Cr - ₹1.73 Cr"
+      }
     ]
   },
   {
@@ -60849,6 +63993,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "698 sq.ft",
+        "priceRange": "₹86 L - ₹1.08 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1099 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.55 Cr"
+      }
     ]
   },
   {
@@ -60927,6 +64083,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "684 sq.ft",
+        "priceRange": "₹79 L - ₹99 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1088 sq.ft",
+        "priceRange": "₹1.11 Cr - ₹1.42 Cr"
+      }
     ]
   },
   {
@@ -61006,6 +64174,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "752 sq.ft",
+        "priceRange": "₹76 L - ₹95 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1034 sq.ft",
+        "priceRange": "₹1.06 Cr - ₹1.36 Cr"
+      }
     ]
   },
   {
@@ -61087,6 +64267,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "722 sq.ft",
+        "priceRange": "₹78 L - ₹98 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1072 sq.ft",
+        "priceRange": "₹1.09 Cr - ₹1.40 Cr"
+      }
     ]
   },
   {
@@ -61164,6 +64356,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "615 sq.ft",
+        "priceRange": "₹50 L - ₹1.52 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "647 sq.ft",
+        "priceRange": "₹50 L - ₹1.52 Cr"
+      }
     ]
   },
   {
@@ -61242,6 +64446,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "721 sq.ft",
+        "priceRange": "₹59 L - ₹74 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1071 sq.ft",
+        "priceRange": "₹83 L - ₹1.06 Cr"
+      }
     ]
   },
   {
@@ -61321,6 +64537,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "745 sq.ft",
+        "priceRange": "₹74 L - ₹93 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1004 sq.ft",
+        "priceRange": "₹1.04 Cr - ₹1.33 Cr"
+      }
     ]
   },
   {
@@ -61400,6 +64628,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "738 sq.ft",
+        "priceRange": "₹86 L - ₹1.08 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1039 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.55 Cr"
+      }
     ]
   },
   {
@@ -61478,6 +64718,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "717 sq.ft",
+        "priceRange": "₹95 L - ₹1.19 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1090 sq.ft",
+        "priceRange": "₹1.33 Cr - ₹1.71 Cr"
+      }
     ]
   },
   {
@@ -61556,6 +64808,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "745 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1119 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.53 Cr"
+      }
     ]
   },
   {
@@ -61635,6 +64899,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "697 sq.ft",
+        "priceRange": "₹76 L - ₹95 L"
+      }
     ]
   },
   {
@@ -61713,6 +64984,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "719 sq.ft",
+        "priceRange": "₹76 L - ₹95 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1104 sq.ft",
+        "priceRange": "₹1.06 Cr - ₹1.37 Cr"
+      }
     ]
   },
   {
@@ -61792,6 +65075,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1115 sq.ft",
+        "priceRange": "₹2.38 Cr - ₹3.06 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1568 sq.ft",
+        "priceRange": "₹3.74 Cr - ₹4.76 Cr"
+      }
     ]
   },
   {
@@ -61872,6 +65167,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1125 sq.ft",
+        "priceRange": "₹2.48 Cr - ₹3.19 Cr"
+      },
+      {
+        "type": "3.5 BHK",
+        "carpetArea": "1003 sq.ft",
+        "priceRange": "₹2.48 Cr - ₹3.19 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1837 sq.ft",
+        "priceRange": "₹3.89 Cr - ₹4.96 Cr"
+      }
     ]
   },
   {
@@ -61950,6 +65262,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹65 L - ₹4.28 Cr"
+      },
+      {
+        "type": "Office",
+        "carpetArea": "586 sq.ft",
+        "priceRange": "₹65 L - ₹4.28 Cr"
+      }
     ]
   },
   {
@@ -62028,6 +65352,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "731 sq.ft",
+        "priceRange": "₹53 L - ₹66 L"
+      }
     ]
   },
   {
@@ -62110,6 +65441,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "751 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.53 Cr"
+      }
     ]
   },
   {
@@ -62188,6 +65531,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "689 sq.ft",
+        "priceRange": "₹65 L - ₹81 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1070 sq.ft",
+        "priceRange": "₹91 L - ₹1.17 Cr"
+      }
     ]
   },
   {
@@ -62266,6 +65621,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "695 sq.ft",
+        "priceRange": "₹1.10 Cr - ₹1.38 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1036 sq.ft",
+        "priceRange": "₹1.54 Cr - ₹1.98 Cr"
+      }
     ]
   },
   {
@@ -62344,6 +65711,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1116 sq.ft",
+        "priceRange": "₹1.51 Cr - ₹1.94 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1738 sq.ft",
+        "priceRange": "₹2.38 Cr - ₹3.02 Cr"
+      }
     ]
   },
   {
@@ -62420,6 +65799,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "713 sq.ft",
+        "priceRange": "₹53 L - ₹99 L"
+      }
     ]
   },
   {
@@ -62498,6 +65884,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "732 sq.ft",
+        "priceRange": "₹90 L - ₹1.13 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1118 sq.ft",
+        "priceRange": "₹1.26 Cr - ₹1.62 Cr"
+      }
     ]
   },
   {
@@ -62588,6 +65986,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1615 sq.ft",
+        "priceRange": "₹12.34 Cr - ₹15.71 Cr"
+      }
     ]
   },
   {
@@ -62665,6 +66070,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "675 sq.ft",
+        "priceRange": "₹1.11 Cr - ₹6.80 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "633 sq.ft",
+        "priceRange": "₹1.11 Cr - ₹6.80 Cr"
+      }
     ]
   },
   {
@@ -62742,6 +66159,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "700 sq.ft",
+        "priceRange": "₹1.10 Cr - ₹1.38 Cr"
+      }
     ]
   },
   {
@@ -62820,6 +66244,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "719 sq.ft",
+        "priceRange": "₹77 L - ₹96 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1053 sq.ft",
+        "priceRange": "₹1.08 Cr - ₹1.39 Cr"
+      }
     ]
   },
   {
@@ -62900,6 +66336,28 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "697 sq.ft",
+        "priceRange": "₹1.28 Cr - ₹1.60 Cr"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "704 sq.ft",
+        "priceRange": "₹1.28 Cr - ₹1.60 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1069 sq.ft",
+        "priceRange": "₹1.79 Cr - ₹2.30 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1734 sq.ft",
+        "priceRange": "₹2.82 Cr - ₹3.58 Cr"
+      }
     ]
   },
   {
@@ -62977,6 +66435,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "633 sq.ft",
+        "priceRange": "₹73 L - ₹7.19 Cr"
+      },
+      {
+        "type": "Showroom",
+        "carpetArea": "646 sq.ft",
+        "priceRange": "₹73 L - ₹7.19 Cr"
+      }
     ]
   },
   {
@@ -63056,6 +66526,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "756 sq.ft",
+        "priceRange": "₹57 L - ₹71 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1026 sq.ft",
+        "priceRange": "₹80 L - ₹1.03 Cr"
+      }
     ]
   },
   {
@@ -63156,6 +66638,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "693 sq.ft",
+        "priceRange": "₹91 L - ₹1.14 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1082 sq.ft",
+        "priceRange": "₹1.27 Cr - ₹1.64 Cr"
+      }
     ]
   },
   {
@@ -63232,6 +66726,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "755 sq.ft",
+        "priceRange": "₹99 L - ₹1.24 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "985 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.78 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1768 sq.ft",
+        "priceRange": "₹2.18 Cr - ₹2.77 Cr"
+      }
     ]
   },
   {
@@ -63309,6 +66820,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "982 sq.ft",
+        "priceRange": "₹1.37 Cr - ₹1.76 Cr"
+      }
     ]
   },
   {
@@ -63387,6 +66905,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "744 sq.ft",
+        "priceRange": "₹71 L - ₹89 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1087 sq.ft",
+        "priceRange": "₹99 L - ₹1.28 Cr"
+      }
     ]
   },
   {
@@ -63474,6 +67004,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "707 sq.ft",
+        "priceRange": "₹1.35 Cr - ₹1.69 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1101 sq.ft",
+        "priceRange": "₹1.89 Cr - ₹2.43 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1838 sq.ft",
+        "priceRange": "₹2.97 Cr - ₹3.78 Cr"
+      }
     ]
   },
   {
@@ -63552,6 +67099,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "737 sq.ft",
+        "priceRange": "₹99 L - ₹1.24 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1105 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.78 Cr"
+      }
     ]
   },
   {
@@ -63631,6 +67190,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "698 sq.ft",
+        "priceRange": "₹77 L - ₹96 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1125 sq.ft",
+        "priceRange": "₹1.07 Cr - ₹1.38 Cr"
+      }
     ]
   },
   {
@@ -63706,6 +67277,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "646 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹3.20 Cr"
+      }
     ]
   },
   {
@@ -63781,6 +67359,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "756 sq.ft",
+        "priceRange": "₹86 L - ₹1.07 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "989 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.54 Cr"
+      }
     ]
   },
   {
@@ -63859,6 +67449,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "687 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.31 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1068 sq.ft",
+        "priceRange": "₹1.47 Cr - ₹1.89 Cr"
+      }
     ]
   },
   {
@@ -63938,6 +67540,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "₹1.30 Cr - ₹1.63 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1018 sq.ft",
+        "priceRange": "₹1.82 Cr - ₹2.34 Cr"
+      }
     ]
   },
   {
@@ -64016,6 +67630,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "736 sq.ft",
+        "priceRange": "₹67 L - ₹84 L"
+      }
     ]
   },
   {
@@ -64097,6 +67718,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "739 sq.ft",
+        "priceRange": "₹90 L - ₹1.12 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1023 sq.ft",
+        "priceRange": "₹1.26 Cr - ₹1.62 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1693 sq.ft",
+        "priceRange": "₹1.98 Cr - ₹2.52 Cr"
+      }
     ]
   },
   {
@@ -64268,6 +67906,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "430 sq.ft",
+        "priceRange": "₹36 L - ₹43 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "729 sq.ft",
+        "priceRange": "₹51 L - ₹64 L"
+      }
     ]
   },
   {
@@ -64346,6 +67996,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "746 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.74 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1046 sq.ft",
+        "priceRange": "₹1.95 Cr - ₹2.50 Cr"
+      }
     ]
   },
   {
@@ -64423,6 +68085,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1064 sq.ft",
+        "priceRange": "₹2.72 Cr - ₹3.49 Cr"
+      }
     ]
   },
   {
@@ -64502,6 +68171,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "633 sq.ft",
+        "priceRange": "₹79 L - ₹1.99 Cr"
+      }
     ]
   },
   {
@@ -64579,6 +68255,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "685 sq.ft",
+        "priceRange": "₹97 L - ₹1.21 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1033 sq.ft",
+        "priceRange": "₹1.36 Cr - ₹1.75 Cr"
+      }
     ]
   },
   {
@@ -64655,6 +68343,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "614 sq.ft",
+        "priceRange": "₹1 Cr - ₹2.70 Cr"
+      }
     ]
   },
   {
@@ -64737,6 +68432,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "693 sq.ft",
+        "priceRange": "₹67 L - ₹84 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1124 sq.ft",
+        "priceRange": "₹94 L - ₹1.21 Cr"
+      }
     ]
   },
   {
@@ -64823,6 +68530,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "999 sq.ft",
+        "priceRange": "₹2.58 Cr - ₹3.31 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1686 sq.ft",
+        "priceRange": "₹4.05 Cr - ₹5.15 Cr"
+      }
     ]
   },
   {
@@ -64901,6 +68620,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "728 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "981 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -64977,6 +68708,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "686 sq.ft",
+        "priceRange": "₹61 L - ₹76 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1000 sq.ft",
+        "priceRange": "₹85 L - ₹1.10 Cr"
+      }
     ]
   },
   {
@@ -65055,6 +68798,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "696 sq.ft",
+        "priceRange": "₹65 L - ₹81 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1125 sq.ft",
+        "priceRange": "₹91 L - ₹1.17 Cr"
+      }
     ]
   },
   {
@@ -65224,6 +68979,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4.5 BHK",
+        "carpetArea": "1822 sq.ft",
+        "priceRange": "₹18.92 Cr - ₹24.08 Cr"
+      }
     ]
   },
   {
@@ -65302,6 +69064,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "994 sq.ft",
+        "priceRange": "₹1.29 Cr - ₹1.66 Cr"
+      }
     ]
   },
   {
@@ -65380,6 +69149,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "426 sq.ft",
+        "priceRange": "₹46 L - ₹55 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "749 sq.ft",
+        "priceRange": "₹65 L - ₹81 L"
+      }
     ]
   },
   {
@@ -65458,6 +69239,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "714 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.50 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1047 sq.ft",
+        "priceRange": "₹1.68 Cr - ₹2.16 Cr"
+      }
     ]
   },
   {
@@ -65532,6 +69325,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "749 sq.ft",
+        "priceRange": "₹1.99 Cr - ₹3.34 Cr"
+      }
     ]
   },
   {
@@ -65606,6 +69406,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "559 sq.ft",
+        "priceRange": "₹1.60 Cr - ₹5.50 Cr"
+      }
     ]
   },
   {
@@ -65685,6 +69492,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "732 sq.ft",
+        "priceRange": "₹1.11 Cr - ₹1.39 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1099 sq.ft",
+        "priceRange": "₹1.55 Cr - ₹2.00 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1601 sq.ft",
+        "priceRange": "₹2.44 Cr - ₹3.11 Cr"
+      }
     ]
   },
   {
@@ -65766,6 +69590,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "724 sq.ft",
+        "priceRange": "₹94 L - ₹1.18 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1015 sq.ft",
+        "priceRange": "₹1.32 Cr - ₹1.69 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1665 sq.ft",
+        "priceRange": "₹2.07 Cr - ₹2.63 Cr"
+      }
     ]
   },
   {
@@ -65846,6 +69687,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "683 sq.ft",
+        "priceRange": "₹77 L - ₹96 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1010 sq.ft",
+        "priceRange": "₹1.08 Cr - ₹1.38 Cr"
+      }
     ]
   },
   {
@@ -65925,6 +69778,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "701 sq.ft",
+        "priceRange": "₹88 L - ₹1.10 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1033 sq.ft",
+        "priceRange": "₹1.23 Cr - ₹1.58 Cr"
+      }
     ]
   },
   {
@@ -66003,6 +69868,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "752 sq.ft",
+        "priceRange": "₹1.14 Cr - ₹1.42 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1078 sq.ft",
+        "priceRange": "₹1.60 Cr - ₹2.05 Cr"
+      }
     ]
   },
   {
@@ -66083,6 +69960,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "728 sq.ft",
+        "priceRange": "₹1.15 Cr - ₹1.44 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1031 sq.ft",
+        "priceRange": "₹1.61 Cr - ₹2.07 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1826 sq.ft",
+        "priceRange": "₹2.53 Cr - ₹3.22 Cr"
+      }
     ]
   },
   {
@@ -66162,6 +70056,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1009 sq.ft",
+        "priceRange": "₹2.70 Cr - ₹3.47 Cr"
+      },
+      {
+        "type": "4.5 BHK",
+        "carpetArea": "1773 sq.ft",
+        "priceRange": "₹4.25 Cr - ₹5.40 Cr"
+      }
     ]
   },
   {
@@ -66240,6 +70146,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "693 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "983 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -66315,6 +70233,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "655 sq.ft",
+        "priceRange": "₹1.99 Cr - ₹7.50 Cr"
+      },
+      {
+        "type": "Showroom",
+        "carpetArea": "679 sq.ft",
+        "priceRange": "₹1.99 Cr - ₹7.50 Cr"
+      }
     ]
   },
   {
@@ -66393,6 +70323,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "753 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1025 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -66478,6 +70420,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "695 sq.ft",
+        "priceRange": "₹1.00 Cr - ₹1.25 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1029 sq.ft",
+        "priceRange": "₹1.40 Cr - ₹1.80 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1792 sq.ft",
+        "priceRange": "₹2.20 Cr - ₹2.80 Cr"
+      }
     ]
   },
   {
@@ -66560,6 +70519,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "723 sq.ft",
+        "priceRange": "₹90 L - ₹1.13 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "₹1.26 Cr - ₹1.62 Cr"
+      },
+      {
+        "type": "3.5 BHK",
+        "carpetArea": "1046 sq.ft",
+        "priceRange": "₹1.26 Cr - ₹1.62 Cr"
+      }
     ]
   },
   {
@@ -66638,6 +70614,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "702 sq.ft",
+        "priceRange": "₹99 L - ₹1.24 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1084 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.78 Cr"
+      }
     ]
   },
   {
@@ -66715,6 +70703,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "574 sq.ft",
+        "priceRange": "₹1.99 Cr - ₹14.66 Cr"
+      }
     ]
   },
   {
@@ -66796,6 +70791,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "699 sq.ft",
+        "priceRange": "₹1.26 Cr - ₹1.58 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "993 sq.ft",
+        "priceRange": "₹1.76 Cr - ₹2.27 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1815 sq.ft",
+        "priceRange": "₹2.77 Cr - ₹3.53 Cr"
+      }
     ]
   },
   {
@@ -66871,6 +70883,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "744 sq.ft",
+        "priceRange": "₹74 L - ₹93 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1110 sq.ft",
+        "priceRange": "₹1.04 Cr - ₹1.33 Cr"
+      }
     ]
   },
   {
@@ -66951,6 +70975,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "744 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1003 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.53 Cr"
+      }
     ]
   },
   {
@@ -67029,6 +71065,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹2.11 Cr - ₹2.72 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1774 sq.ft",
+        "priceRange": "₹3.32 Cr - ₹4.23 Cr"
+      }
     ]
   },
   {
@@ -67203,6 +71251,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "426 sq.ft",
+        "priceRange": "₹53 L - ₹64 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "693 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      }
     ]
   },
   {
@@ -67284,6 +71344,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "714 sq.ft",
+        "priceRange": "₹85 L - ₹1.06 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1008 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.53 Cr"
+      }
     ]
   },
   {
@@ -67361,6 +71433,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "711 sq.ft",
+        "priceRange": "₹79 L - ₹99 L"
+      }
     ]
   },
   {
@@ -67439,6 +71518,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹86 L - ₹1.08 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1059 sq.ft",
+        "priceRange": "₹1.20 Cr - ₹1.55 Cr"
+      }
     ]
   },
   {
@@ -67518,6 +71609,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1124 sq.ft",
+        "priceRange": "₹1.72 Cr - ₹2.21 Cr"
+      }
     ]
   },
   {
@@ -67596,6 +71694,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "716 sq.ft",
+        "priceRange": "₹89 L - ₹1.11 Cr"
+      }
     ]
   },
   {
@@ -67675,6 +71780,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1018 sq.ft",
+        "priceRange": "₹1.40 Cr - ₹1.80 Cr"
+      }
     ]
   },
   {
@@ -67751,6 +71863,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Shop",
+        "carpetArea": "639 sq.ft",
+        "priceRange": "₹36 L - ₹50 L"
+      }
     ]
   },
   {
@@ -67827,6 +71946,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "649 sq.ft",
+        "priceRange": "₹44 L - ₹1.57 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹44 L - ₹1.57 Cr"
+      }
     ]
   },
   {
@@ -67905,6 +72036,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "717 sq.ft",
+        "priceRange": "₹81 L - ₹1.01 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1014 sq.ft",
+        "priceRange": "₹1.13 Cr - ₹1.46 Cr"
+      }
     ]
   },
   {
@@ -67982,6 +72125,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Studio",
+        "carpetArea": "620 sq.ft",
+        "priceRange": "₹32 L - ₹36 L"
+      }
     ]
   },
   {
@@ -68060,6 +72210,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "687 sq.ft",
+        "priceRange": "₹64 L - ₹80 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1125 sq.ft",
+        "priceRange": "₹90 L - ₹1.15 Cr"
+      }
     ]
   },
   {
@@ -68137,6 +72299,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1093 sq.ft",
+        "priceRange": "₹1.40 Cr - ₹1.79 Cr"
+      }
     ]
   },
   {
@@ -68212,6 +72381,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "707 sq.ft",
+        "priceRange": "₹79 L - ₹99 L"
+      }
     ]
   },
   {
@@ -68294,6 +72470,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "705 sq.ft",
+        "priceRange": "₹94 L - ₹1.18 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1001 sq.ft",
+        "priceRange": "₹1.32 Cr - ₹1.69 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1798 sq.ft",
+        "priceRange": "₹2.07 Cr - ₹2.63 Cr"
+      }
     ]
   },
   {
@@ -68375,6 +72568,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "712 sq.ft",
+        "priceRange": "₹1.04 Cr - ₹1.30 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1065 sq.ft",
+        "priceRange": "₹1.46 Cr - ₹1.87 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1662 sq.ft",
+        "priceRange": "₹2.29 Cr - ₹2.91 Cr"
+      }
     ]
   },
   {
@@ -68454,6 +72664,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "5 BHK",
+        "carpetArea": "1832 sq.ft",
+        "priceRange": "₹33.00 Cr - ₹42.00 Cr"
+      }
     ]
   },
   {
@@ -68534,6 +72751,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "685 sq.ft",
+        "priceRange": "₹1 Cr - ₹4 Cr"
+      },
+      {
+        "type": "Shop",
+        "carpetArea": "552 sq.ft",
+        "priceRange": "₹1 Cr - ₹4 Cr"
+      }
     ]
   },
   {
@@ -68633,6 +72862,28 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "702 sq.ft",
+        "priceRange": "₹1.19 Cr - ₹1.49 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1079 sq.ft",
+        "priceRange": "₹1.67 Cr - ₹2.14 Cr"
+      },
+      {
+        "type": "3.5 BHK",
+        "carpetArea": "1127 sq.ft",
+        "priceRange": "₹1.67 Cr - ₹2.14 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1784 sq.ft",
+        "priceRange": "₹2.62 Cr - ₹3.33 Cr"
+      }
     ]
   },
   {
@@ -68709,6 +72960,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Office",
+        "carpetArea": "671 sq.ft",
+        "priceRange": "₹2 Cr - ₹3 Cr"
+      }
     ]
   },
   {
@@ -68791,6 +73049,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "711 sq.ft",
+        "priceRange": "₹1.30 Cr - ₹1.63 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1669 sq.ft",
+        "priceRange": "₹2.86 Cr - ₹3.64 Cr"
+      }
     ]
   },
   {
@@ -68875,6 +73145,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1054 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1677 sq.ft",
+        "priceRange": "₹1.65 Cr - ₹2.10 Cr"
+      }
     ]
   },
   {
@@ -68961,6 +73243,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1065 sq.ft",
+        "priceRange": "₹2.79 Cr - ₹3.58 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1627 sq.ft",
+        "priceRange": "₹4.38 Cr - ₹5.57 Cr"
+      }
     ]
   },
   {
@@ -69043,6 +73337,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1079 sq.ft",
+        "priceRange": "₹8.68 Cr - ₹11.16 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "1573 sq.ft",
+        "priceRange": "₹13.64 Cr - ₹17.36 Cr"
+      }
     ]
   },
   {
@@ -69128,6 +73434,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "682 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1111 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -69204,6 +73522,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "740 sq.ft",
+        "priceRange": "₹75 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1043 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
     ]
   },
   {
@@ -69289,6 +73619,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "455 sq.ft",
+        "priceRange": "₹30 L - ₹37 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "746 sq.ft",
+        "priceRange": "₹43 L - ₹54 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "997 sq.ft",
+        "priceRange": "₹60 L - ₹77 L"
+      }
     ]
   },
   {
@@ -69374,6 +73721,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "681 sq.ft",
+        "priceRange": "₹77 L - ₹96 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1046 sq.ft",
+        "priceRange": "₹1.08 Cr - ₹1.39 Cr"
+      }
     ]
   },
   {
@@ -69459,6 +73818,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "734 sq.ft",
+        "priceRange": "₹1.09 Cr - ₹1.36 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1017 sq.ft",
+        "priceRange": "₹1.53 Cr - ₹1.96 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1597 sq.ft",
+        "priceRange": "₹2.40 Cr - ₹3.05 Cr"
+      }
     ]
   },
   {
@@ -69555,6 +73931,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "702 sq.ft",
+        "priceRange": "₹1.22 Cr - ₹1.53 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "981 sq.ft",
+        "priceRange": "₹1.71 Cr - ₹2.20 Cr"
+      }
     ]
   },
   {
@@ -69635,6 +74023,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1036 sq.ft",
+        "priceRange": "₹1.93 Cr - ₹2.48 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1636 sq.ft",
+        "priceRange": "₹3.04 Cr - ₹3.86 Cr"
+      }
     ]
   },
   {
@@ -69715,6 +74115,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "728 sq.ft",
+        "priceRange": "₹93 L - ₹1.16 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1003 sq.ft",
+        "priceRange": "₹1.30 Cr - ₹1.67 Cr"
+      }
     ]
   },
   {
@@ -69802,6 +74214,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "745 sq.ft",
+        "priceRange": "₹80 L - ₹1.00 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1065 sq.ft",
+        "priceRange": "₹1.12 Cr - ₹1.44 Cr"
+      }
     ]
   },
   {
@@ -69881,6 +74305,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Smart Office",
+        "carpetArea": "722 sq.ft",
+        "priceRange": "₹68 L - ₹2.23 Cr"
+      },
+      {
+        "type": "Premium Office",
+        "carpetArea": "719 sq.ft",
+        "priceRange": "₹68 L - ₹2.23 Cr"
+      }
     ]
   },
   {
@@ -69966,6 +74402,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "683 sq.ft",
+        "priceRange": "₹1.06 Cr - ₹1.33 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1128 sq.ft",
+        "priceRange": "₹1.48 Cr - ₹1.91 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1731 sq.ft",
+        "priceRange": "₹2.33 Cr - ₹2.97 Cr"
+      }
     ]
   },
   {
@@ -70048,6 +74501,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1074 sq.ft",
+        "priceRange": "₹1.40 Cr - ₹1.80 Cr"
+      }
     ]
   },
   {
@@ -70124,6 +74584,13 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1125 sq.ft",
+        "priceRange": "₹2.10 Cr - ₹2.70 Cr"
+      }
     ]
   },
   {
@@ -70211,6 +74678,18 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "₹1.01 Cr - ₹1.26 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1051 sq.ft",
+        "priceRange": "₹1.41 Cr - ₹1.82 Cr"
+      }
     ]
   },
   {
@@ -70303,6 +74782,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "754 sq.ft",
+        "priceRange": "₹1.29 Cr - ₹1.61 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1073 sq.ft",
+        "priceRange": "₹1.81 Cr - ₹2.32 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1560 sq.ft",
+        "priceRange": "₹2.84 Cr - ₹3.61 Cr"
+      }
     ]
   },
   {
@@ -70387,6 +74883,23 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "713 sq.ft",
+        "priceRange": "₹99 L - ₹1.24 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1013 sq.ft",
+        "priceRange": "₹1.39 Cr - ₹1.78 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1848 sq.ft",
+        "priceRange": "₹2.18 Cr - ₹2.77 Cr"
+      }
     ]
   },
   {
@@ -70498,6 +75011,18 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "985 sq.ft",
+        "priceRange": "₹2.52 Cr - ₹3.24 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1590 sq.ft",
+        "priceRange": "₹3.96 Cr - ₹5.04 Cr"
+      }
     ]
   },
   {
@@ -70606,6 +75131,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1079 sq.ft",
+        "priceRange": "₹2.73 Cr - ₹3.51 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1643 sq.ft",
+        "priceRange": "₹4.29 Cr - ₹5.46 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "1610 sq.ft",
+        "priceRange": "₹4.29 Cr - ₹5.46 Cr"
+      }
     ]
   },
   {
@@ -70695,6 +75237,18 @@ export const PROJECTS: Project[] = [
         "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "443 sq.ft",
+        "priceRange": "₹30 L - ₹37 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "729 sq.ft",
+        "priceRange": "₹43 L - ₹54 L"
       }
     ]
   },
@@ -70804,6 +75358,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "718 sq.ft",
+        "priceRange": "₹87 L - ₹1.09 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1036 sq.ft",
+        "priceRange": "₹1.22 Cr - ₹1.57 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1744 sq.ft",
+        "priceRange": "₹1.91 Cr - ₹2.44 Cr"
+      }
     ]
   },
   {
@@ -70893,6 +75464,18 @@ export const PROJECTS: Project[] = [
         "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "740 sq.ft",
+        "priceRange": "₹83 L - ₹1.04 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1067 sq.ft",
+        "priceRange": "₹1.16 Cr - ₹1.49 Cr"
       }
     ]
   },
@@ -71000,6 +75583,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1018 sq.ft",
+        "priceRange": "₹5.45 Cr - ₹7.00 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1621 sq.ft",
+        "priceRange": "₹8.56 Cr - ₹10.89 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "1725 sq.ft",
+        "priceRange": "₹8.56 Cr - ₹10.89 Cr"
+      }
     ]
   },
   {
@@ -71089,6 +75689,18 @@ export const PROJECTS: Project[] = [
         "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1094 sq.ft",
+        "priceRange": "₹2.31 Cr - ₹2.97 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1773 sq.ft",
+        "priceRange": "₹3.63 Cr - ₹4.62 Cr"
       }
     ]
   },
@@ -71180,6 +75792,18 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "743 sq.ft",
+        "priceRange": "₹80 L - ₹1.00 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1126 sq.ft",
+        "priceRange": "₹1.12 Cr - ₹1.44 Cr"
+      }
     ]
   },
   {
@@ -71267,6 +75891,18 @@ export const PROJECTS: Project[] = [
         "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "456 sq.ft",
+        "priceRange": "₹35 L - ₹43 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "733 sq.ft",
+        "priceRange": "₹50 L - ₹63 L"
       }
     ]
   },
@@ -71358,6 +75994,18 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "442 sq.ft",
+        "priceRange": "₹12 L - ₹14 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "752 sq.ft",
+        "priceRange": "₹17 L - ₹21 L"
+      }
     ]
   },
   {
@@ -71448,6 +76096,18 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "690 sq.ft",
+        "priceRange": "₹2.13 Cr - ₹2.66 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1022 sq.ft",
+        "priceRange": "₹2.98 Cr - ₹3.83 Cr"
+      }
     ]
   },
   {
@@ -71537,6 +76197,18 @@ export const PROJECTS: Project[] = [
         "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "754 sq.ft",
+        "priceRange": "₹61 L - ₹76 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1071 sq.ft",
+        "priceRange": "₹85 L - ₹1.10 Cr"
       }
     ]
   },
@@ -71664,6 +76336,28 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "417 sq.ft",
+        "priceRange": "₹1.18 Cr - ₹1.43 Cr"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "661 sq.ft",
+        "priceRange": "₹1.68 Cr - ₹2.10 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1023 sq.ft",
+        "priceRange": "₹2.35 Cr - ₹3.02 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1848 sq.ft",
+        "priceRange": "₹3.70 Cr - ₹4.70 Cr"
+      }
     ]
   },
   {
@@ -71790,6 +76484,28 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "424 sq.ft",
+        "priceRange": "₹1.54 Cr - ₹1.87 Cr"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "667 sq.ft",
+        "priceRange": "₹2.20 Cr - ₹2.75 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1012 sq.ft",
+        "priceRange": "₹3.08 Cr - ₹3.96 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1996 sq.ft",
+        "priceRange": "₹4.84 Cr - ₹6.16 Cr"
+      }
     ]
   },
   {
@@ -71898,6 +76614,23 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "716 sq.ft",
+        "priceRange": "₹1.04 Cr - ₹1.30 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1000 sq.ft",
+        "priceRange": "₹1.46 Cr - ₹1.87 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1974 sq.ft",
+        "priceRange": "₹2.29 Cr - ₹2.91 Cr"
+      }
     ]
   },
   {
@@ -71987,6 +76720,18 @@ export const PROJECTS: Project[] = [
         "stampDutyRate": 7,
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp"
+      }
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "469 sq.ft",
+        "priceRange": "₹31 L - ₹38 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "697 sq.ft",
+        "priceRange": "₹45 L - ₹56 L"
       }
     ]
   },
@@ -72095,6 +76840,18 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "752 sq.ft",
+        "priceRange": "₹97 L - ₹1.21 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1009 sq.ft",
+        "priceRange": "₹1.36 Cr - ₹1.75 Cr"
+      }
     ]
   },
   {
@@ -72183,6 +76940,18 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       }
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "701 sq.ft",
+        "priceRange": "₹1.25 Cr - ₹1.56 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "₹1.75 Cr - ₹2.25 Cr"
+      }
     ]
   },
   {
@@ -72258,6 +77027,18 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1040 sq.ft",
+        "priceRange": "₹8.32 Cr - ₹10.69 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1843 sq.ft",
+        "priceRange": "₹13.07 Cr - ₹16.63 Cr"
+      }
     ]
   },
   {
@@ -72332,6 +77113,13 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹4.20 Cr - ₹5.25 Cr"
+      }
     ]
   },
   {
@@ -72407,6 +77195,18 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "426 sq.ft",
+        "priceRange": "₹1.22 Cr - ₹1.49 Cr"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "691 sq.ft",
+        "priceRange": "₹1.75 Cr - ₹2.19 Cr"
+      }
     ]
   },
   {
@@ -72482,6 +77282,23 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "694 sq.ft",
+        "priceRange": "₹4.50 Cr - ₹5.63 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1124 sq.ft",
+        "priceRange": "₹6.30 Cr - ₹8.10 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1914 sq.ft",
+        "priceRange": "₹9.90 Cr - ₹12.60 Cr"
+      }
     ]
   },
   {
@@ -72558,6 +77375,28 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "444 sq.ft",
+        "priceRange": "₹88 L - ₹1.06 Cr"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "708 sq.ft",
+        "priceRange": "₹1.25 Cr - ₹1.56 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1076 sq.ft",
+        "priceRange": "₹1.75 Cr - ₹2.25 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1827 sq.ft",
+        "priceRange": "₹2.75 Cr - ₹3.50 Cr"
+      }
     ]
   },
   {
@@ -72633,6 +77472,23 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "₹6.09 Cr - ₹7.83 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1703 sq.ft",
+        "priceRange": "₹9.57 Cr - ₹12.18 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "1813 sq.ft",
+        "priceRange": "₹9.57 Cr - ₹12.18 Cr"
+      }
     ]
   },
   {
@@ -72707,6 +77563,18 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "462 sq.ft",
+        "priceRange": "₹46 L - ₹55 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "703 sq.ft",
+        "priceRange": "₹65 L - ₹81 L"
+      }
     ]
   },
   {
@@ -72782,6 +77650,23 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK",
+        "carpetArea": "428 sq.ft",
+        "priceRange": "₹43 L - ₹53 L"
+      },
+      {
+        "type": "2 BHK",
+        "carpetArea": "661 sq.ft",
+        "priceRange": "₹62 L - ₹78 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1092 sq.ft",
+        "priceRange": "₹87 L - ₹1.12 Cr"
+      }
     ]
   },
   {
@@ -72856,6 +77741,18 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "733 sq.ft",
+        "priceRange": "₹2.65 Cr - ₹3.31 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1085 sq.ft",
+        "priceRange": "₹3.71 Cr - ₹4.77 Cr"
+      }
     ]
   },
   {
@@ -72933,6 +77830,23 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1079 sq.ft",
+        "priceRange": "₹4.83 Cr - ₹6.21 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1881 sq.ft",
+        "priceRange": "₹7.59 Cr - ₹9.66 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "1930 sq.ft",
+        "priceRange": "₹7.59 Cr - ₹9.66 Cr"
+      }
     ]
   },
   {
@@ -73008,6 +77922,18 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK",
+        "carpetArea": "1868 sq.ft",
+        "priceRange": "₹14.30 Cr - ₹18.20 Cr"
+      },
+      {
+        "type": "5 BHK",
+        "carpetArea": "2044 sq.ft",
+        "priceRange": "₹14.30 Cr - ₹18.20 Cr"
+      }
     ]
   },
   {
@@ -73082,6 +78008,18 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK",
+        "carpetArea": "1015 sq.ft",
+        "priceRange": "₹4.13 Cr - ₹5.31 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1702 sq.ft",
+        "priceRange": "₹6.49 Cr - ₹8.26 Cr"
+      }
     ]
   },
   {
@@ -73156,6 +78094,18 @@ export const PROJECTS: Project[] = [
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
       "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "738 sq.ft",
+        "priceRange": "₹2.15 Cr - ₹2.69 Cr"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1018 sq.ft",
+        "priceRange": "₹3.01 Cr - ₹3.87 Cr"
+      }
     ]
   },
   {
@@ -75690,6 +80640,755 @@ export const PROJECTS: Project[] = [
       "HDFC Bank",
       "ICICI Bank",
       "Bank of Baroda"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-trump-towers-pune",
+    "title": "Trump Towers Pune",
+    "slug": "trump-towers-kalyani-nagar-pune",
+    "builderId": "b-panchshil",
+    "location": "Kalyani Nagar, Pune",
+    "city": "Pune",
+    "priceRange": "₹14.50 Cr - ₹22.00 Cr",
+    "exactPrice": "₹14.50 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "4.5 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4.5 BHK Single Floor Residence",
+        "carpetArea": "4400 sq.ft",
+        "priceRange": "₹14.50 Cr - ₹17.50 Cr"
+      },
+      {
+        "type": "5 BHK Ultra Penthouse",
+        "carpetArea": "6100 sq.ft",
+        "priceRange": "₹19.00 Cr - ₹22.00 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.5482,
+    "lng": 73.9022,
+    "reraId": "P52100000378",
+    "description": "Trump Towers Pune in Kalyani Nagar is Maharashtra's most exclusive ultra-luxury residential address. Developed by Panchshil Realty, these twin 23-storey black glass monoliths feature single-floor residences with interiors by Matteo Nunziati, 24/7 Trump white-glove concierge, private art gallery, and direct developer pricing with zero brokerage.",
+    "features": [
+      "Twin 23-Storey Black Glass Monoliths",
+      "Single-Floor 4,400 sq.ft Residences",
+      "Interiors by Matteo Nunziati",
+      "Trump White-Glove Global Concierge",
+      "Private Art Gallery & Cigar Room",
+      "100% Zero Brokerage"
+    ],
+    "amenities": [
+      "Trump Spa by Six Senses",
+      "Outdoor Lap Pool",
+      "Private Fitness Studio",
+      "Business Center",
+      "Valet & 24x7 Multi-Tier Security"
+    ],
+    "totalAcres": "2.5 Acres",
+    "totalFloors": "23 Floors",
+    "approvedBanks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "Standard Chartered",
+      "ICICI Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-yoo-pune-hadapsar",
+    "title": "yoo pune by Philippe Starck",
+    "slug": "yoo-pune-philippe-starck-hadapsar",
+    "builderId": "b-panchshil",
+    "location": "Hadapsar, Pune",
+    "city": "Pune",
+    "priceRange": "₹8.50 Cr - ₹16.00 Cr",
+    "exactPrice": "₹8.50 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "4.5 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4.5 BHK Forest Suite",
+        "carpetArea": "3850 sq.ft",
+        "priceRange": "₹8.50 Cr - ₹11.20 Cr"
+      },
+      {
+        "type": "5 BHK Sky Villa",
+        "carpetArea": "5400 sq.ft",
+        "priceRange": "₹13.50 Cr - ₹16.00 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.514,
+    "lng": 73.929,
+    "reraId": "P52100000412",
+    "description": "yoo pune is India's first yoo-branded luxury residential enclave, masterminded by world-renowned French designer Philippe Starck and Panchshil Realty. Nestled inside a 17-acre historic rainforest, offering palatial 4.5 & 5 BHK bespoke sky villas with direct developer allocation and zero buyer brokerage.",
+    "features": [
+      "17-Acre Preserved Rainforest Enclave",
+      "Architecture by Philippe Starck",
+      "The Six Senses Spa On-Site",
+      "Tea Lounge & Cigar Room",
+      "Private Helipad Access"
+    ],
+    "amenities": [
+      "Six Senses Sanctuary",
+      "Heated Swimming Pool",
+      "Tennis & Squash Arena",
+      "Fine Dining Lounge",
+      "Chauffeur Quarters"
+    ],
+    "totalAcres": "17 Acres",
+    "totalFloors": "21 Floors",
+    "approvedBanks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "ICICI Bank",
+      "HSBC"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-vtp-earth-one-mahalunge",
+    "title": "VTP Earth One",
+    "slug": "vtp-earth-one-mahalunge-baner-annex",
+    "builderId": "b-vtp",
+    "location": "Mahalunge, Pune",
+    "city": "Pune",
+    "priceRange": "₹72 L - ₹2.35 Cr",
+    "exactPrice": "₹72 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Simplex",
+        "carpetArea": "685 sq.ft",
+        "priceRange": "₹72 L - ₹88 L"
+      },
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "₹84 L - ₹98 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "₹1.25 Cr - ₹1.45 Cr"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1180 sq.ft",
+        "priceRange": "₹1.55 Cr - ₹1.85 Cr"
+      },
+      {
+        "type": "4 BHK Royal",
+        "carpetArea": "1520 sq.ft",
+        "priceRange": "₹1.95 Cr - ₹2.35 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.5685,
+    "lng": 73.746,
+    "reraId": "P52100045763",
+    "description": "VTP Earth One is the flagship riverside township in Mahalunge, Baner Annex. Spanning 100+ acres along the Mula River, featuring 34+ storey glass-facade skyscrapers, Maximum Usable Area (MLA) designs, and direct connection to Baner and Hinjewadi IT Park with 100% Zero Brokerage.",
+    "features": [
+      "100+ Acre Blue Waters Master Township",
+      "Riverside Promenade & Cycling Tracks",
+      "MLA (Maximum Livable Area) Homes",
+      "34-Storey Architectural High-Rises",
+      "Walk to Balewadi High Street"
+    ],
+    "amenities": [
+      "Olympic Pool",
+      "Riverside Club",
+      "Futsal Court",
+      "Cricket Practice Net",
+      "Kids Aqua Park"
+    ],
+    "totalAcres": "100 Acres",
+    "totalFloors": "34 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-vtp-pegasus-new-kharadi",
+    "title": "VTP Pegasus",
+    "slug": "vtp-pegasus-new-kharadi-pune",
+    "builderId": "b-vtp",
+    "location": "Kharadi, Pune",
+    "city": "Pune",
+    "priceRange": "₹55 L - ₹1.95 Cr",
+    "exactPrice": "₹55 L",
+    "priceType": "L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Smart",
+        "carpetArea": "450 sq.ft",
+        "priceRange": "₹55 L - ₹65 L"
+      },
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "670 sq.ft",
+        "priceRange": "₹82 L - ₹98 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "960 sq.ft",
+        "priceRange": "₹1.35 Cr - ₹1.95 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2027",
+    "image": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.552,
+    "lng": 73.968,
+    "reraId": "P52100026783",
+    "description": "VTP Pegasus is East Pune's premier 100+ acre mega township located in New Kharadi. Offering modern 1, 2, and 3 BHK smart apartments with five grand themed clubhouses, international sports academies, and direct 10-minute access to EON IT Park and World Trade Center.",
+    "features": [
+      "100+ Acre Integrated Township",
+      "10 Mins to EON IT Park & WTC",
+      "5 Themed Grand Clubhouses",
+      "Professional Sports Academies",
+      "Direct Developer Allocation"
+    ],
+    "amenities": [
+      "Swimming Pools",
+      "Cricket Ground",
+      "Tennis Courts",
+      "Badminton Stadium",
+      "Co-Working Hub"
+    ],
+    "totalAcres": "100 Acres",
+    "totalFloors": "32 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Kotak Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-godrej-woodsville-hinjewadi",
+    "title": "Godrej Woodsville",
+    "slug": "godrej-woodsville-hinjewadi-phase-1",
+    "builderId": "b-godrej",
+    "location": "Hinjewadi, Pune",
+    "city": "Pune",
+    "priceRange": "₹68 L - ₹1.65 Cr",
+    "exactPrice": "₹68 L",
+    "priceType": "L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Comfort",
+        "carpetArea": "460 sq.ft",
+        "priceRange": "₹68 L - ₹78 L"
+      },
+      {
+        "type": "2 BHK Elegance",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹98 L - ₹1.18 Cr"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "975 sq.ft",
+        "priceRange": "₹1.38 Cr - ₹1.65 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Mar 2026",
+    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.591,
+    "lng": 73.738,
+    "reraId": "P52100031590",
+    "description": "Godrej Woodsville at Hinjewadi Phase 1 is a nature-inspired luxury residential community featuring 400+ trees, sky lounge, and state-of-the-art work-from-home facilities. Located right at the gateway of Hinjewadi with instant connectivity to Pune-Bangalore Highway.",
+    "features": [
+      "400+ Trees on Campus",
+      "Walk to Hinjewadi Phase 1 Tech Campuses",
+      "Sky Lounge with Panoramic Views",
+      "Dedicated Work Pods",
+      "100% Zero Brokerage"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Sky Lounge",
+      "Indoor Games",
+      "Jogging Track",
+      "Gymnasium"
+    ],
+    "totalAcres": "4.5 Acres",
+    "totalFloors": "30 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-amanora-gateway-towers-hadapsar",
+    "title": "Amanora Gateway Towers",
+    "slug": "amanora-gateway-towers-hadapsar-pune",
+    "builderId": "b-amanora",
+    "location": "Hadapsar, Pune",
+    "city": "Pune",
+    "priceRange": "₹1.85 Cr - ₹6.50 Cr",
+    "exactPrice": "₹1.85 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Swarovski Suite",
+        "carpetArea": "820 sq.ft",
+        "priceRange": "₹1.85 Cr - ₹2.25 Cr"
+      },
+      {
+        "type": "3 BHK Swarovski Grand",
+        "carpetArea": "1250 sq.ft",
+        "priceRange": "₹2.95 Cr - ₹3.60 Cr"
+      },
+      {
+        "type": "4 BHK Sky Villa",
+        "carpetArea": "2100 sq.ft",
+        "priceRange": "₹5.20 Cr - ₹6.50 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.517,
+    "lng": 73.936,
+    "reraId": "P52100000282",
+    "description": "Amanora Gateway Towers at Amanora Park Town is the world's first residential tower adorned with crystals from Swarovski. Standing 45 storeys high inside a 400-acre township, offering private sky pools, world-class spas, and ready possession with 0% brokerage.",
+    "features": [
+      "World's First Swarovski Tower",
+      "Private Sky Pools & Spas",
+      "400-Acre Amanora Park Town Ecosystem",
+      "Central Green Spine & Lake",
+      "Ready Possession"
+    ],
+    "amenities": [
+      "Sky Pool",
+      "Swarovski Lounge",
+      "Helipad",
+      "Fitness Hub",
+      "Concierge Service"
+    ],
+    "totalAcres": "400 Acres",
+    "totalFloors": "45 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-balmoral-riverside-balewadi",
+    "title": "The Balmoral Riverside",
+    "slug": "the-balmoral-riverside-balewadi-pune",
+    "builderId": "b-kasturi",
+    "location": "Balewadi, Pune",
+    "city": "Pune",
+    "priceRange": "₹2.45 Cr - ₹5.80 Cr",
+    "exactPrice": "₹2.45 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Luxury Suite",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹2.45 Cr - ₹3.10 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "2150 sq.ft",
+        "priceRange": "₹4.20 Cr - ₹5.80 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.579,
+    "lng": 73.782,
+    "reraId": "P52100028914",
+    "description": "The Balmoral Riverside by Kasturi Housing is a boutique riverfront ultra-luxury sanctuary in Balewadi. Overlooking the Mula River with German Poggenpohl kitchens, floor-to-ceiling glass facades, and bespoke single-tower privacy.",
+    "features": [
+      "Boutique Riverfront Sanctuary",
+      "German Poggenpohl Kitchens",
+      "Floor-to-Ceiling Belgian Glass",
+      "Minutes to Balewadi High Street",
+      "100% Zero Brokerage"
+    ],
+    "amenities": [
+      "Infinity River Pool",
+      "Private Clubhouse",
+      "Zen Meditation Deck",
+      "Spa Sanctuary",
+      "Banquet Suite"
+    ],
+    "totalAcres": "4 Acres",
+    "totalFloors": "32 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Standard Chartered"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-yashwin-supernova-wakad",
+    "title": "Yashwin Supernova",
+    "slug": "yashwin-supernova-wakad-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "₹78 L - ₹1.75 Cr",
+    "exactPrice": "₹78 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "685 sq.ft",
+        "priceRange": "₹78 L - ₹94 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "765 sq.ft",
+        "priceRange": "₹92 L - ₹1.08 Cr"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1020 sq.ft",
+        "priceRange": "₹1.35 Cr - ₹1.75 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2026",
+    "image": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.5995,
+    "lng": 73.768,
+    "reraId": "P52100030882",
+    "description": "Yashwin Supernova by Vilas Javdekar Developers is Wakad's most ambitious residential tower. Situated near Bhumkar Chowk with 40+ lifestyle amenities, sky terrace, and direct developer booking with 0% brokerage.",
+    "features": [
+      "Prime Bhumkar Chowk Wakad Location",
+      "VJ Signature Construction Warranty",
+      "Rooftop Sky Lounge",
+      "Zero Brokerage Guaranteed",
+      "MahaRERA Approved"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Sky Lounge",
+      "Children Activity Park",
+      "Gymnasium",
+      "Indoor Badminton"
+    ],
+    "totalAcres": "5 Acres",
+    "totalFloors": "28 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of Maharashtra"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-nyati-elysia-kharadi",
+    "title": "Nyati Elysia",
+    "slug": "nyati-elysia-kharadi-pune",
+    "builderId": "b-nyati",
+    "location": "Kharadi, Pune",
+    "city": "Pune",
+    "priceRange": "₹95 L - ₹2.20 Cr",
+    "exactPrice": "₹95 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "740 sq.ft",
+        "priceRange": "₹95 L - ₹1.18 Cr"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1080 sq.ft",
+        "priceRange": "₹1.55 Cr - ₹2.20 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.548,
+    "lng": 73.948,
+    "reraId": "P52100000851",
+    "description": "Nyati Elysia is a premier residential high-rise landmark overlooking the river in Kharadi, Pune. Featuring 28-storey architectural towers, 30+ luxury amenities, and walking distance to EON Free Zone and World Trade Center.",
+    "features": [
+      "Riverfront Gated Towers",
+      "Walk to EON IT Park & WTC",
+      "28-Storey High-Rise Architecture",
+      "Ready to Move Occupancy",
+      "Zero Brokerage"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Swimming Pool",
+      "Multipurpose Court",
+      "Gymnasium",
+      "Kids Play Zone"
+    ],
+    "totalAcres": "7 Acres",
+    "totalFloors": "28 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kohinoor-sportsville-hinjewadi",
+    "title": "Kohinoor Sportsville",
+    "slug": "kohinoor-sportsville-hinjewadi-phase-1",
+    "builderId": "b-kohinoor",
+    "location": "Hinjewadi, Pune",
+    "city": "Pune",
+    "priceRange": "₹65 L - ₹1.45 Cr",
+    "exactPrice": "₹65 L",
+    "priceType": "L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Sports Edition",
+        "carpetArea": "430 sq.ft",
+        "priceRange": "₹65 L - ₹74 L"
+      },
+      {
+        "type": "2 BHK Podium",
+        "carpetArea": "705 sq.ft",
+        "priceRange": "₹88 L - ₹1.08 Cr"
+      },
+      {
+        "type": "3 BHK Arena",
+        "carpetArea": "965 sq.ft",
+        "priceRange": "₹1.22 Cr - ₹1.45 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.588,
+    "lng": 73.729,
+    "reraId": "P52100029651",
+    "description": "Kohinoor Sportsville at Hinjewadi Phase 1 is a premium sports-centric residential township. Featuring 5 sports academies, Olympic-sized swimming pool, tennis and basketball courts, and immediate access to Infosys, Wipro, and TCS campuses.",
+    "features": [
+      "Sports-Centric Residential Township",
+      "5 Professional Sports Academies",
+      "Walk to Infosys & Wipro Campuses",
+      "Zero Buyer Brokerage",
+      "Sada Sukhi Raho Trust"
+    ],
+    "amenities": [
+      "Olympic Pool",
+      "Tennis Academy",
+      "Basketball Arena",
+      "Gymnasium",
+      "Sports Cafe"
+    ],
+    "totalAcres": "6 Acres",
+    "totalFloors": "25 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of India"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-supreme-estia-baner",
+    "title": "Supreme Estia",
+    "slug": "supreme-estia-baner-pune",
+    "builderId": "b-supreme-universal",
+    "location": "Baner, Pune",
+    "city": "Pune",
+    "priceRange": "₹1.40 Cr - ₹3.20 Cr",
+    "exactPrice": "₹1.40 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Art Deco",
+        "carpetArea": "785 sq.ft",
+        "priceRange": "₹1.40 Cr - ₹1.68 Cr"
+      },
+      {
+        "type": "3 BHK Horizon",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "₹2.15 Cr - ₹2.65 Cr"
+      },
+      {
+        "type": "4 BHK Signature",
+        "carpetArea": "1560 sq.ft",
+        "priceRange": "₹2.85 Cr - ₹3.20 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.562,
+    "lng": 73.784,
+    "reraId": "P52100024783",
+    "description": "Supreme Estia by Supreme Universal in Baner is an Art Deco architectural masterpiece. Featuring 3 grand double-height clubhouses, 45,000 sq.ft of central green podium, and bespoke luxury apartments overlooking Baner hills.",
+    "features": [
+      "Art Deco Architecture",
+      "3 Grand Double-Height Clubhouses",
+      "45,000 sq.ft Central Podium",
+      "Baner Hills Views",
+      "100% Zero Brokerage"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Squash Court",
+      "Private Theater",
+      "Yoga Deck"
+    ],
+    "totalAcres": "5 Acres",
+    "totalFloors": "30 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Kotak Mahindra Bank"
     ],
     "verificationStatus": "Verified",
     "featured": true
