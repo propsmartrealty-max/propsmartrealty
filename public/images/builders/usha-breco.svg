@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <rect width="200" height="60" rx="10" fill="#7c2d12" />
+  <circle cx="32" cy="30" r="18" fill="#fb923c" opacity="0.25" />
+  <text x="32" y="36" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="900" fill="#fb923c" text-anchor="middle">UB</text>
+  <text x="60" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="800" fill="#ffffff" letter-spacing="0.5">Usha Breco Realty</text>
+</svg>

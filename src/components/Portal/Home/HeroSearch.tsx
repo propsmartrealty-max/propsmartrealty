@@ -81,12 +81,13 @@ const TABS = [
 ];
 
 const HERO_CITIES = [
-    { id: 'Pune', label: 'Pune', badge: '680 Projects' },
-    { id: 'Mumbai', label: 'Mumbai', badge: '41 Projects' },
+    { id: 'Pune', label: 'Pune', badge: '689 Projects' },
+    { id: 'Mumbai', label: 'Mumbai', badge: '58 Projects' },
     { id: 'Thane', label: 'Thane', badge: '19 Projects' },
-    { id: 'Lonavala', label: 'Lonavala', badge: '8 Projects' },
+    { id: 'Lonavala', label: 'Lonavala', badge: '17 Projects' },
+    { id: 'Karjat', label: 'Karjat', badge: '14 Projects' },
+    { id: 'Alibaug', label: 'Alibaug', badge: '13 Projects' },
     { id: 'Navi Mumbai', label: 'Navi Mumbai', badge: '3 Projects' },
-    { id: 'Alibaug', label: 'Alibaug', badge: '3 Projects' },
 ];
 
 const CITY_HERO_LOCALITIES: Record<string, string[]> = {
@@ -95,7 +96,8 @@ const CITY_HERO_LOCALITIES: Record<string, string[]> = {
     'Thane': ['Kolshet Road', 'Pokhran Road', 'Majiwada', 'Ghodbunder Road', 'Balkum', 'Manpada', 'Hiranandani Estate', 'Thane West', 'Upper Thane'],
     'Navi Mumbai': ['Panvel', 'Navi Mumbai Central'],
     'Lonavala': ['Khandala', 'Kunegaon', 'Khalapur', 'Khopoli Foothills', 'Gahunje'],
-    'Alibaug': ['Mandwa Jetty Corridor', 'Awas Beach', 'Shrivardhan-Diveagar']
+    'Alibaug': ['Mandwa Jetty Corridor', 'Awas Beach', 'Kihim Beach', 'Alibaug Town', 'Sasawane Beach'],
+    'Karjat': ['Karjat Central', 'Karjat-Neral Foothills', 'Kashele', 'Chowk', 'Vavanje']
 };
 
 const HeroSearch = () => {

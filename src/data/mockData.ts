@@ -11,8 +11,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 7800,
     "appreciation_rate": 8.5,
     "tagline": "Pune Silicon Valley & Metro Line 3 Hub",
-    "projectCount": 55,
-    "count": 55,
+    "projectCount": 57,
+    "count": 57,
     "image": "/images/localities/hinjewadi.svg",
     "price": "₹7.8k/sq.ft",
     "description": "Prime Hinjewadi corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
@@ -1099,8 +1099,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 8200,
     "appreciation_rate": 7.9,
     "tagline": "Central PCMC Metro Corridor & Commercial Market",
-    "projectCount": 10,
-    "count": 10,
+    "projectCount": 15,
+    "count": 15,
     "image": "/images/localities/default-locality.svg",
     "price": "₹8.2k/sq.ft",
     "description": "Prime Pimpri corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
@@ -1403,8 +1403,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 34000,
     "appreciation_rate": 8.6,
     "tagline": "Lokhandwala, Media City & Metro Line 1 & 2 Interchange",
-    "projectCount": 3,
-    "count": 3,
+    "projectCount": 4,
+    "count": 4,
     "image": "/images/localities/default-locality.svg",
     "price": "₹34.0k/sq.ft",
     "description": "Prime Andheri West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.6% annual capital appreciation."
@@ -1451,8 +1451,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 27500,
     "appreciation_rate": 8.5,
     "tagline": "Film City, Oberoi Mall & Aarey Forest Skyline",
-    "projectCount": 1,
-    "count": 1,
+    "projectCount": 3,
+    "count": 3,
     "image": "/images/localities/default-locality.svg",
     "price": "₹27.5k/sq.ft",
     "description": "Prime Goregaon East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
@@ -1483,8 +1483,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 24000,
     "appreciation_rate": 8,
     "tagline": "Lokhandwala Township & Western Express Highway",
-    "projectCount": 1,
-    "count": 1,
+    "projectCount": 3,
+    "count": 3,
     "image": "/images/localities/default-locality.svg",
     "price": "₹24.0k/sq.ft",
     "description": "Prime Kandivali East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
@@ -1579,8 +1579,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 24500,
     "appreciation_rate": 8.4,
     "tagline": "Powai Extension & Gated High-Rise Communities",
-    "projectCount": 0,
-    "count": 0,
+    "projectCount": 1,
+    "count": 1,
     "image": "/images/localities/default-locality.svg",
     "price": "₹24.5k/sq.ft",
     "description": "Prime Chandivali corridor in Mumbai featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
@@ -1659,8 +1659,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 19500,
     "appreciation_rate": 8,
     "tagline": "LBS Marg Metro Line 4 & High-Value Towers",
-    "projectCount": 1,
-    "count": 1,
+    "projectCount": 2,
+    "count": 2,
     "image": "/images/localities/default-locality.svg",
     "price": "₹19.5k/sq.ft",
     "description": "Prime Bhandup West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
@@ -1723,8 +1723,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 36000,
     "appreciation_rate": 9.5,
     "tagline": "Mumbai Trans Harbour Link (Atal Setu) Landing Point",
-    "projectCount": 1,
-    "count": 1,
+    "projectCount": 3,
+    "count": 3,
     "image": "/images/localities/default-locality.svg",
     "price": "₹36.0k/sq.ft",
     "description": "Prime Sewri corridor in Mumbai featuring verified residential towers, high rental yields, and 9.5% annual capital appreciation."
@@ -1963,8 +1963,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 12000,
     "appreciation_rate": 7.8,
     "tagline": "Duke's Nose Vistas & Colonial Hill-Station Mansions",
-    "projectCount": 1,
-    "count": 1,
+    "projectCount": 7,
+    "count": 7,
     "image": "/images/localities/default-locality.svg",
     "price": "₹12.0k/sq.ft",
     "description": "Prime Khandala corridor in Lonavala featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
@@ -1979,8 +1979,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 13500,
     "appreciation_rate": 8.2,
     "tagline": "Della Resorts Enclave & Ultra-Luxury Gated Hill Villas",
-    "projectCount": 3,
-    "count": 3,
+    "projectCount": 4,
+    "count": 4,
     "image": "/images/localities/default-locality.svg",
     "price": "₹13.5k/sq.ft",
     "description": "Prime Kunegaon corridor in Lonavala featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
@@ -2027,8 +2027,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 6500,
     "appreciation_rate": 7.9,
     "tagline": "Lodha Belmondo Golf Enclave & Expressway Gateway",
-    "projectCount": 1,
-    "count": 1,
+    "projectCount": 3,
+    "count": 3,
     "image": "/images/localities/default-locality.svg",
     "price": "₹6.5k/sq.ft",
     "description": "Prime Gahunje corridor in Lonavala featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
@@ -2043,8 +2043,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 18000,
     "appreciation_rate": 9.5,
     "tagline": "Speedboat Ferry Terminal to Gateway of India & Celebrity Villas",
-    "projectCount": 1,
-    "count": 1,
+    "projectCount": 4,
+    "count": 4,
     "image": "/images/localities/default-locality.svg",
     "price": "₹18.0k/sq.ft",
     "description": "Prime Mandwa Jetty Corridor corridor in Alibaug featuring verified residential towers, high rental yields, and 9.5% annual capital appreciation."
@@ -2059,8 +2059,8 @@ export const LOCATIONS: Locality[] = [
     "avgPriceSqft": 16000,
     "appreciation_rate": 9.1,
     "tagline": "Serene Casuarina Grove Beaches & Private Beachfront Estates",
-    "projectCount": 1,
-    "count": 1,
+    "projectCount": 3,
+    "count": 3,
     "image": "/images/localities/default-locality.svg",
     "price": "₹16.0k/sq.ft",
     "description": "Prime Awas Beach corridor in Alibaug featuring verified residential towers, high rental yields, and 9.1% annual capital appreciation."
@@ -2080,6 +2080,310 @@ export const LOCATIONS: Locality[] = [
     "image": "/images/localities/default-locality.svg",
     "price": "₹4.2k/sq.ft",
     "description": "Prime Shrivardhan-Diveagar corridor in Alibaug featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
+  },
+  {
+    "id": "kihim-beach",
+    "name": "Kihim Beach",
+    "slug": "kihim-beach",
+    "city": "Alibaug",
+    "zone": "Coastal Alibaug",
+    "isFeatured": true,
+    "avgPriceSqft": 14500,
+    "appreciation_rate": 9.4,
+    "tagline": "Dense Coconut & Betel Nut Palm Beach Residences",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹14.5k/sq.ft",
+    "description": "Prestigious Kihim shoreline corridor known for private beachfront villas and immediate connectivity to Mandwa speedboats.",
+    "projectCount": 2,
+    "count": 2
+  },
+  {
+    "id": "alibaug-town",
+    "name": "Alibaug Town",
+    "slug": "alibaug-town",
+    "city": "Alibaug",
+    "zone": "Coastal Alibaug",
+    "isFeatured": false,
+    "avgPriceSqft": 9800,
+    "appreciation_rate": 8.2,
+    "tagline": "District Capital, Varsoli Beach & Civil Infrastructure",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹9.8k/sq.ft",
+    "description": "Commercial and administrative core of Alibaug with verified luxury apartments and coastal residences near Varsoli beach.",
+    "projectCount": 1,
+    "count": 1
+  },
+  {
+    "id": "sasawane-beach",
+    "name": "Sasawane Beach",
+    "slug": "sasawane-beach",
+    "city": "Alibaug",
+    "zone": "Coastal Alibaug",
+    "isFeatured": true,
+    "avgPriceSqft": 18500,
+    "appreciation_rate": 9.8,
+    "tagline": "Billionaires Row of Alibaug & Private Jetty Mansions",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹18.5k/sq.ft",
+    "description": "Ultra-prime coastal strip in Alibaug housing India's top industrialist estates, sculpture gardens, and private helipads.",
+    "projectCount": 1,
+    "count": 1
+  },
+  {
+    "id": "zirad-chondi",
+    "name": "Zirad-Chondi",
+    "slug": "zirad-chondi",
+    "city": "Alibaug",
+    "zone": "Coastal Alibaug",
+    "isFeatured": true,
+    "avgPriceSqft": 12500,
+    "appreciation_rate": 9,
+    "tagline": "Gourmet Dining, Boutique Resorts & Gated Villa Communities",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹12.5k/sq.ft",
+    "description": "The lifestyle heart of Alibaug featuring high-end gourmet delis, art galleries, and secure gated villa estates.",
+    "projectCount": 1,
+    "count": 1
+  },
+  {
+    "id": "tungarli-valvan",
+    "name": "Tungarli-Valvan",
+    "slug": "tungarli-valvan",
+    "city": "Lonavala",
+    "zone": "Scenic Lonavala",
+    "isFeatured": true,
+    "avgPriceSqft": 11500,
+    "appreciation_rate": 8.7,
+    "tagline": "Highland Lakeviews & Hill Station Second Homes",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹11.5k/sq.ft",
+    "description": "Tranquil hillside belt overlooking Valvan Dam and Tungarli Lake with premium gated villa enclaves.",
+    "projectCount": 1,
+    "count": 1
+  },
+  {
+    "id": "lonavala-town",
+    "name": "Lonavala Town",
+    "slug": "lonavala-town",
+    "city": "Lonavala",
+    "zone": "Scenic Lonavala",
+    "isFeatured": false,
+    "avgPriceSqft": 10200,
+    "appreciation_rate": 8.1,
+    "tagline": "Hill Station Core, Transit & Luxury Apartments",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹10.2k/sq.ft",
+    "description": "Central Lonavala offering railway connectivity, iconic bakeries, and year-round holiday home rentals.",
+    "projectCount": 0,
+    "count": 0
+  },
+  {
+    "id": "kamshet-lakefront",
+    "name": "Kamshet Lakefront",
+    "slug": "kamshet-lakefront",
+    "city": "Lonavala",
+    "zone": "Scenic Lonavala",
+    "isFeatured": true,
+    "avgPriceSqft": 8500,
+    "appreciation_rate": 9.3,
+    "tagline": "Paragliding Capital & Serene Pawna-Indrayani Lakefront Estates",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹8.5k/sq.ft",
+    "description": "Picturesque Western Ghats valley between Lonavala and Pune celebrated for paragliding and lake-view second homes.",
+    "projectCount": 1,
+    "count": 1
+  },
+  {
+    "id": "karjat-central",
+    "name": "Karjat Central",
+    "slug": "karjat-central",
+    "city": "Karjat",
+    "zone": "Central Karjat",
+    "isFeatured": true,
+    "avgPriceSqft": 5200,
+    "appreciation_rate": 9.5,
+    "tagline": "Railway Junction, Riverfront Living & Educational Hub",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹5.2k/sq.ft",
+    "description": "Core Karjat micro-market with direct suburban local train connectivity to Mumbai CSMT and Panvel link.",
+    "projectCount": 4,
+    "count": 4
+  },
+  {
+    "id": "karjat-neral-foothills",
+    "name": "Karjat-Neral Foothills",
+    "slug": "karjat-neral-foothills",
+    "city": "Karjat",
+    "zone": "Scenic Karjat Foothills",
+    "isFeatured": true,
+    "avgPriceSqft": 4800,
+    "appreciation_rate": 9.2,
+    "tagline": "Matheran Eco-Sensitive Foothills & Resort Townships",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹4.8k/sq.ft",
+    "description": "Pristine nature enclave at the base of Matheran hill station featuring lush green weekend villas and plotted communities.",
+    "projectCount": 2,
+    "count": 2
+  },
+  {
+    "id": "kashele-bhimashankar",
+    "name": "Kashele",
+    "slug": "kashele",
+    "city": "Karjat",
+    "zone": "Scenic Karjat Foothills",
+    "isFeatured": true,
+    "avgPriceSqft": 4200,
+    "appreciation_rate": 8.8,
+    "tagline": "Bhimashankar Wildlife Corridor & Riverfront Farmhouses",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹4.2k/sq.ft",
+    "description": "Green biodiversity hotspot along the river basin popular for luxury farmhouses and eco-resort residences.",
+    "projectCount": 2,
+    "count": 2
+  },
+  {
+    "id": "chowk-morbe-lake",
+    "name": "Chowk",
+    "slug": "chowk",
+    "city": "Karjat",
+    "zone": "Expressway & Lake Corridor",
+    "isFeatured": true,
+    "avgPriceSqft": 5900,
+    "appreciation_rate": 10.2,
+    "tagline": "Mumbai-Pune Expressway Junction & Morbe Dam Corridor",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹5.9k/sq.ft",
+    "description": "High-growth strategic corridor connecting Karjat directly to Navi Mumbai International Airport and Atal Setu (MTHL).",
+    "projectCount": 5,
+    "count": 5
+  },
+  {
+    "id": "vavanje-expressway",
+    "name": "Vavanje",
+    "slug": "vavanje",
+    "city": "Karjat",
+    "zone": "Expressway & Lake Corridor",
+    "isFeatured": false,
+    "avgPriceSqft": 4500,
+    "appreciation_rate": 8.9,
+    "tagline": "Township Corridor & Riverside Second Home Developments",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹4.5k/sq.ft",
+    "description": "Emerging township corridor bordering Panvel and Karjat with integrated self-sufficient township projects.",
+    "projectCount": 1,
+    "count": 1
+  },
+  {
+    "id": "kalyan-bhiwandi-road",
+    "name": "Kalyan-Bhiwandi Road",
+    "slug": "kalyan-bhiwandi-road",
+    "city": "Mumbai",
+    "zone": "MMR Extension",
+    "isFeatured": false,
+    "avgPriceSqft": 6800,
+    "appreciation_rate": 8.5,
+    "tagline": "Metro Line 5 Logistics & Integrated Townships",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹6.8k/sq.ft",
+    "description": "Fast-developing MMR growth node anchored by Metro Line 5 and major industrial-logistics corridors.",
+    "projectCount": 1,
+    "count": 1
+  },
+  {
+    "id": "boisar",
+    "name": "Boisar",
+    "slug": "boisar",
+    "city": "Mumbai",
+    "zone": "MMR Extension",
+    "isFeatured": false,
+    "avgPriceSqft": 3800,
+    "appreciation_rate": 7.6,
+    "tagline": "MIDC Industrial Hub & Bullet Train Corridor",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹3.8k/sq.ft",
+    "description": "Affordable housing industrial growth corridor on the Western Railway and upcoming Mumbai-Ahmedabad Bullet Train route.",
+    "projectCount": 1,
+    "count": 1
+  },
+  {
+    "id": "palghar",
+    "name": "Palghar",
+    "slug": "palghar",
+    "city": "Mumbai",
+    "zone": "MMR Extension",
+    "isFeatured": false,
+    "avgPriceSqft": 4200,
+    "appreciation_rate": 7.9,
+    "tagline": "District Headquarters & Coastal Green Belt",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹4.2k/sq.ft",
+    "description": "Administrative district center with suburban local connectivity and value-driven residential master communities.",
+    "projectCount": 1,
+    "count": 1
+  },
+  {
+    "id": "byculla",
+    "name": "Byculla",
+    "slug": "byculla",
+    "city": "Mumbai",
+    "zone": "South Mumbai",
+    "isFeatured": true,
+    "avgPriceSqft": 38000,
+    "appreciation_rate": 9.1,
+    "tagline": "Heritage South Mumbai & Botanical Garden High-Rises",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹38.0k/sq.ft",
+    "description": "Historic South Mumbai precinct overlooking Rani Baug zoo gardens and the Mumbai Harbour Eastern Freeway.",
+    "projectCount": 1,
+    "count": 1
+  },
+  {
+    "id": "parel",
+    "name": "Parel",
+    "slug": "parel",
+    "city": "Mumbai",
+    "zone": "Central Suburbs",
+    "isFeatured": true,
+    "avgPriceSqft": 42000,
+    "appreciation_rate": 8.8,
+    "tagline": "Corporate Headquarters & Luxury Skyline Enclave",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹42.0k/sq.ft",
+    "description": "Premier financial district and luxury residential cluster in Central Mumbai with ultra-tall skyscraper towers.",
+    "projectCount": 1,
+    "count": 1
+  },
+  {
+    "id": "lower-parel",
+    "name": "Lower Parel",
+    "slug": "lower-parel",
+    "city": "Mumbai",
+    "zone": "Central Suburbs",
+    "isFeatured": true,
+    "avgPriceSqft": 46000,
+    "appreciation_rate": 9,
+    "tagline": "High Street Phoenix, Michelin Dining & Skyscraper Residences",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹46.0k/sq.ft",
+    "description": "The luxury lifestyle and commercial epicenter of Mumbai with premier corporate parks and ultra-exclusive residences.",
+    "projectCount": 2,
+    "count": 2
+  },
+  {
+    "id": "kurla-west",
+    "name": "Kurla West",
+    "slug": "kurla-west",
+    "city": "Mumbai",
+    "zone": "Central Suburbs",
+    "isFeatured": false,
+    "avgPriceSqft": 21000,
+    "appreciation_rate": 8.4,
+    "tagline": "BKC Annexe & Strategic Transit Interchange",
+    "image": "/images/localities/default-locality.svg",
+    "price": "₹21.0k/sq.ft",
+    "description": "Centrally located urban hub immediately adjacent to Bandra-Kurla Complex (BKC) and Phoenix Marketcity.",
+    "projectCount": 1,
+    "count": 1
   }
 ];
 
@@ -2113,7 +2417,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
     "description": "Godrej Properties brings the Godrej Group philosophy of innovation, sustainability, and excellence to the Pune real estate industry with iconic township and residential landmarks.",
     "establishedYear": 1990,
-    "totalProjects": 23,
+    "totalProjects": 25,
     "ongoingProjects": 5,
     "trustScore": 9.6,
     "isVerified": true,
@@ -2179,7 +2483,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg",
     "description": "Lodha Group (Macrotech Developers) is one of India’s largest real estate developers delivering world-class residences, luxury amenities, and grand master-planned developments in Pune.",
     "establishedYear": 1980,
-    "totalProjects": 23,
+    "totalProjects": 25,
     "ongoingProjects": 5,
     "trustScore": 9.6,
     "isVerified": true,
@@ -2215,7 +2519,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
     "description": "Rohan Builders is celebrated for pioneering the PLUS Home concept in Pune — focusing on Perfect Ventilation, Lively Light, Utmost Privacy, and Smart Space design.",
     "establishedYear": 1993,
-    "totalProjects": 16,
+    "totalProjects": 18,
     "ongoingProjects": 5,
     "trustScore": 9.3,
     "isVerified": true,
@@ -2326,7 +2630,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/7R1KntHtZGpJcf1ID73ZhW6Bmbi6t69x1dDPXrCk.webp",
     "description": "Mahindra Lifespace Developers brings Mahindra Group’s trust and green building expertise to Pune with IGBC Net-Zero energy and sustainable homes.",
     "establishedYear": 1994,
-    "totalProjects": 5,
+    "totalProjects": 20,
     "ongoingProjects": 5,
     "trustScore": 9.4,
     "isVerified": true,
@@ -2438,7 +2742,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp",
     "description": "Kalpataru is one of India’s most awarded real estate companies, creating luxury landmark gated estates in Baner and Bavdhan Pune.",
     "establishedYear": 1969,
-    "totalProjects": 4,
+    "totalProjects": 5,
     "ongoingProjects": 5,
     "trustScore": 9.5,
     "isVerified": true,
@@ -2456,7 +2760,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp",
     "description": "Sobha Limited is India’s only backward integrated real estate giant, renowned for unparalleled German-standard build quality in Kothrud Pune.",
     "establishedYear": 1995,
-    "totalProjects": 2,
+    "totalProjects": 3,
     "ongoingProjects": 5,
     "trustScore": 9.7,
     "isVerified": true,
@@ -2473,7 +2777,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg",
     "description": "Tata Housing represents the 150-year legacy of Tata Group, delivering master-planned sustainable community housing across Pune.",
     "establishedYear": 1984,
-    "totalProjects": 2,
+    "totalProjects": 3,
     "ongoingProjects": 5,
     "trustScore": 9.6,
     "isVerified": true,
@@ -7173,7 +7477,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
     "description": "Hiranandani Group is one of India's most prestigious real estate conglomerates, renowned for pioneering integrated mega-townships like Hiranandani Gardens Powai and Hiranandani Estate Thane. Founded in 1978 by Dr. Niranjan Hiranandani, the group has transformed urban living across Maharashtra with neoclassical architecture, world-class social infrastructure, lush green environments, and impeccable engineering.",
     "establishedYear": 1978,
-    "totalProjects": 13,
+    "totalProjects": 15,
     "ongoingProjects": 18,
     "locations": [
       "Powai",
@@ -7240,7 +7544,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.runwal.com/images/banner.jpg",
     "description": "Established in 1978, Runwal Group has delivered over 50 landmark residential and retail developments across Mumbai, Thane, and MMR with a steadfast commitment to customer trust and lifestyle delivery.",
     "establishedYear": 1978,
-    "totalProjects": 10,
+    "totalProjects": 12,
     "ongoingProjects": 12,
     "locations": [
       "Kanjurmarg",
@@ -7305,7 +7609,7 @@ export const BUILDERS: Builder[] = [
     "heroImage": "https://www.piramalrealty.com/images/banner.jpg",
     "description": "Piramal Realty, the real estate development arm of the Piramal Group, sets global benchmarks in architectural excellence, green sustainability, and gold-standard luxury across South Mumbai and Mulund.",
     "establishedYear": 2012,
-    "totalProjects": 1,
+    "totalProjects": 2,
     "ongoingProjects": 5,
     "locations": [
       "Mulund West",
@@ -7337,6 +7641,236 @@ export const BUILDERS: Builder[] = [
     "trustScore": 93,
     "isVerified": true,
     "experience": 46
+  },
+  {
+    "id": "b-peninsula-land",
+    "name": "Peninsula Land Ltd",
+    "slug": "peninsula-land",
+    "logo": "/images/builders/peninsula-land.svg",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1600&q=80",
+    "description": "Peninsula Land Ltd (Ashok Piramal Group) is one of India's foremost corporate real estate developers, pioneering landmark towers like Ashok Towers and Peninsula Business Park in Mumbai, luxury second homes in Lonavala & Alibaug, and master townships in Pune.",
+    "establishedYear": 1871,
+    "experience": 155,
+    "totalProjects": 16,
+    "ongoingProjects": 6,
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Lonavala",
+      "Alibaug",
+      "Karjat"
+    ],
+    "trustScore": 4.8,
+    "isVerified": true
+  },
+  {
+    "id": "b-wadhwa",
+    "name": "The Wadhwa Group",
+    "slug": "wadhwa-group",
+    "logo": "/images/builders/wadhwa-group.svg",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
+    "description": "With over 5 decades of trusted heritage, The Wadhwa Group is acclaimed for its proprietary 'Ventilit' design philosophy emphasizing optimal sunlight and cross-ventilation across Mumbai, Navi Mumbai, and Karjat.",
+    "establishedYear": 1969,
+    "experience": 57,
+    "totalProjects": 2,
+    "ongoingProjects": 5,
+    "locations": [
+      "Mumbai",
+      "Navi Mumbai",
+      "Karjat"
+    ],
+    "trustScore": 4.8,
+    "isVerified": true
+  },
+  {
+    "id": "b-pushpam",
+    "name": "Pushpam Group",
+    "slug": "pushpam-group",
+    "logo": "/images/builders/pushpam-group.svg",
+    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1600&q=80",
+    "description": "Pushpam Group specializes in managed luxury resort homes and weekend holiday communities offering assured rental returns and lifestyle amenities in Karjat and Maharashtra's green belt.",
+    "establishedYear": 2012,
+    "experience": 14,
+    "totalProjects": 1,
+    "ongoingProjects": 2,
+    "locations": [
+      "Karjat"
+    ],
+    "trustScore": 4.6,
+    "isVerified": true
+  },
+  {
+    "id": "b-usha-breco",
+    "name": "Usha Breco Realty",
+    "slug": "usha-breco",
+    "logo": "/images/builders/usha-breco.svg",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1600&q=80",
+    "description": "Usha Breco Realty is the real estate development arm of Usha Martin Group, delivering hillside second home communities and scenic villa developments in Karjat.",
+    "establishedYear": 2008,
+    "experience": 18,
+    "totalProjects": 1,
+    "ongoingProjects": 1,
+    "locations": [
+      "Karjat"
+    ],
+    "trustScore": 4.6,
+    "isVerified": true
+  },
+  {
+    "id": "b-nirvana-realty",
+    "name": "Nirvana Realty",
+    "slug": "nirvana-realty",
+    "logo": "/images/builders/nirvana-realty.svg",
+    "heroImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=80",
+    "description": "Pioneers of thematic weekend home communities in Maharashtra, Nirvana Realty develops riverfront and forest villa estates in Karjat and Wada.",
+    "establishedYear": 2006,
+    "experience": 20,
+    "totalProjects": 1,
+    "ongoingProjects": 2,
+    "locations": [
+      "Karjat"
+    ],
+    "trustScore": 4.6,
+    "isVerified": true
+  },
+  {
+    "id": "b-isprava",
+    "name": "Isprava Luxury Villas",
+    "slug": "isprava",
+    "logo": "/images/builders/isprava.svg",
+    "heroImage": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1600&q=80",
+    "description": "Isprava is India's leading luxury home company, crafting bespoke, fully furnished Portuguese and Mediterranean style private villas across Alibaug, Goa, and Coonoor.",
+    "establishedYear": 2016,
+    "experience": 10,
+    "totalProjects": 1,
+    "ongoingProjects": 4,
+    "locations": [
+      "Alibaug"
+    ],
+    "trustScore": 4.9,
+    "isVerified": true
+  },
+  {
+    "id": "b-xrbia",
+    "name": "Xrbia Developers",
+    "slug": "xrbia",
+    "logo": "/images/builders/xrbia.svg",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1600&q=80",
+    "description": "Xrbia Developers develops large-scale smart master-planned townships with compact, efficient homes and riverfront green spaces across Karjat, Hinjewadi, and Talegaon.",
+    "establishedYear": 2012,
+    "experience": 14,
+    "totalProjects": 1,
+    "ongoingProjects": 3,
+    "locations": [
+      "Karjat",
+      "Pune"
+    ],
+    "trustScore": 4.5,
+    "isVerified": true
+  },
+  {
+    "id": "b-sunstone",
+    "name": "Sunstone Developers",
+    "slug": "sunstone",
+    "logo": "/images/builders/sunstone.svg",
+    "heroImage": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1600&q=80",
+    "description": "Sunstone Developers crafts boutique coastal residences, beach apartments, and private courtyard villas in Alibaug and Maharashtra's coastal belt.",
+    "establishedYear": 2015,
+    "experience": 11,
+    "totalProjects": 1,
+    "ongoingProjects": 2,
+    "locations": [
+      "Alibaug"
+    ],
+    "trustScore": 4.6,
+    "isVerified": true
+  },
+  {
+    "id": "b-penta-realty",
+    "name": "Penta Realty",
+    "slug": "penta-realty",
+    "logo": "/images/builders/penta-realty.svg",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1600&q=80",
+    "description": "Penta Realty develops nature-integrated residential townships and hill-view second homes in the Karjat-Neral corridor.",
+    "establishedYear": 2014,
+    "experience": 12,
+    "totalProjects": 1,
+    "ongoingProjects": 1,
+    "locations": [
+      "Karjat"
+    ],
+    "trustScore": 4.5,
+    "isVerified": true
+  },
+  {
+    "id": "b-canvas-alibaug",
+    "name": "The Canvas Alibaug",
+    "slug": "canvas-alibaug",
+    "logo": "/images/builders/canvas-alibaug.svg",
+    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1600&q=80",
+    "description": "The Canvas Alibaug develops exclusive private pool villas with curated concierge services and tropical landscaping in Zirad, Alibaug.",
+    "establishedYear": 2018,
+    "experience": 8,
+    "totalProjects": 1,
+    "ongoingProjects": 1,
+    "locations": [
+      "Alibaug"
+    ],
+    "trustScore": 4.7,
+    "isVerified": true
+  },
+  {
+    "id": "b-saffronstays",
+    "name": "SaffronStays Estates",
+    "slug": "saffronstays",
+    "logo": "/images/builders/saffronstays.svg",
+    "heroImage": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=80",
+    "description": "SaffronStays Estates curates luxury private vacation homes and serviced estates across Alibaug, Lonavala, and Karjat with world-class hospitality.",
+    "establishedYear": 2015,
+    "experience": 11,
+    "totalProjects": 1,
+    "ongoingProjects": 2,
+    "locations": [
+      "Alibaug",
+      "Lonavala",
+      "Karjat"
+    ],
+    "trustScore": 4.8,
+    "isVerified": true
+  },
+  {
+    "id": "b-epitome",
+    "name": "Epitome Developers",
+    "slug": "epitome",
+    "logo": "/images/builders/epitome.svg",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1600&q=80",
+    "description": "Epitome Developers creates premium waterfront estates, gated bayview residences, and bespoke beach homes in Mandwa and coastal Alibaug.",
+    "establishedYear": 2011,
+    "experience": 15,
+    "totalProjects": 1,
+    "ongoingProjects": 2,
+    "locations": [
+      "Alibaug"
+    ],
+    "trustScore": 4.6,
+    "isVerified": true
+  },
+  {
+    "id": "b-alibaug-developers",
+    "name": "Alibaug Luxury Estates",
+    "slug": "alibaug-developers",
+    "logo": "/images/builders/alibaug-developers.svg",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
+    "description": "Alibaug Luxury Estates develops gated residential enclaves, boutique apartments, and coastal plots in Alibaug Town and Varsoli.",
+    "establishedYear": 2010,
+    "experience": 16,
+    "totalProjects": 1,
+    "ongoingProjects": 2,
+    "locations": [
+      "Alibaug"
+    ],
+    "trustScore": 4.6,
+    "isVerified": true
   }
 ];
 
@@ -116092,5 +116626,7190 @@ export const PROJECTS: Project[] = [
       "24/7 Security",
       "Solar Water Heating"
     ]
+  },
+  {
+    "id": "p-mahindra-nestwalk-pimpri",
+    "title": "Mahindra Nestwalk",
+    "slug": "mahindra-nestwalk",
+    "builderId": "b-mahindra",
+    "location": "Pimpri",
+    "city": "Pune",
+    "priceRange": "₹82.00 L - ₹1.45 Cr",
+    "exactPrice": "₹82.00 L",
+    "pricePerSqft": 9800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹82.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "765 sq.ft",
+        "priceRange": "₹92.00 L"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "990 sq.ft",
+        "priceRange": "₹1.25 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "₹1.45 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Nestwalk Pimpri",
+    "lat": 18.6279,
+    "lng": 73.8009,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100052341",
+    "description": "Mahindra Nestwalk in Pimpri, Pune offers IGBC certified sustainable 2 & 3 BHK residences with expansive green central courtyards and direct connectivity to the Old Pune-Mumbai Highway and metro.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Nestwalk?",
+        "answer": "Mahindra Nestwalk is officially registered under MahaRERA registration number P52100052341. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Nestwalk?",
+        "answer": "Mahindra Nestwalk offers 2 BHK, 3 BHK residences with carpet areas spanning from 680 sq.ft to 1150 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Nestwalk?",
+        "answer": "Starting direct price for Mahindra Nestwalk is ₹82.00 L, with configuration price range extending up to ₹82.00 L - ₹1.45 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Nestwalk?",
+        "answer": "Mahindra Nestwalk is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-centralis-pimpri",
+    "title": "Mahindra Centralis",
+    "slug": "mahindra-centralis",
+    "builderId": "b-mahindra",
+    "location": "Pimpri",
+    "city": "Pune",
+    "priceRange": "₹65.00 L - ₹1.15 Cr",
+    "exactPrice": "₹65.00 L",
+    "pricePerSqft": 9400,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Urban",
+        "carpetArea": "460 sq.ft",
+        "priceRange": "₹65.00 L"
+      },
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹88.00 L"
+      },
+      {
+        "type": "2 BHK Royale",
+        "carpetArea": "790 sq.ft",
+        "priceRange": "₹1.15 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Centralis Pimpri",
+    "lat": 18.6265,
+    "lng": 73.8021,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100019234",
+    "description": "Mahindra Centralis is an iconic high-rise development in Pimpri, featuring 4 elegant towers surrounding a grand central landscaped podium with premium lifestyle amenities.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Centralis?",
+        "answer": "Mahindra Centralis is officially registered under MahaRERA registration number P52100019234. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Centralis?",
+        "answer": "Mahindra Centralis offers 1 BHK, 2 BHK residences with carpet areas spanning from 460 sq.ft to 790 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Centralis?",
+        "answer": "Starting direct price for Mahindra Centralis is ₹65.00 L, with configuration price range extending up to ₹65.00 L - ₹1.15 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Centralis?",
+        "answer": "Mahindra Centralis is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-antheia-pimpri",
+    "title": "Mahindra Antheia",
+    "slug": "mahindra-antheia",
+    "builderId": "b-mahindra",
+    "location": "Pimpri",
+    "city": "Pune",
+    "priceRange": "₹78.00 L - ₹1.65 Cr",
+    "exactPrice": "₹78.00 L",
+    "pricePerSqft": 9600,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Suite",
+        "carpetArea": "480 sq.ft",
+        "priceRange": "₹78.00 L"
+      },
+      {
+        "type": "2 BHK Classic",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹95.00 L"
+      },
+      {
+        "type": "3 BHK Elegance",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹1.40 Cr"
+      },
+      {
+        "type": "3 BHK Penthouse",
+        "carpetArea": "1280 sq.ft",
+        "priceRange": "₹1.65 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Antheia Pimpri",
+    "lat": 18.6291,
+    "lng": 73.8035,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100000219",
+    "description": "Mahindra Antheia spans 16 sprawling acres in Pimpri, delivering luxury high-rises with floodlit tennis courts, Olympic-size swimming pool, and dedicated clubhouse.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Antheia?",
+        "answer": "Mahindra Antheia is officially registered under MahaRERA registration number P52100000219. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Antheia?",
+        "answer": "Mahindra Antheia offers 1 BHK, 2 BHK, 3 BHK residences with carpet areas spanning from 480 sq.ft to 1280 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Antheia?",
+        "answer": "Starting direct price for Mahindra Antheia is ₹78.00 L, with configuration price range extending up to ₹78.00 L - ₹1.65 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Antheia?",
+        "answer": "Mahindra Antheia is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-royale-pcmc",
+    "title": "Mahindra Royale",
+    "slug": "mahindra-royale",
+    "builderId": "b-mahindra",
+    "location": "Pimpri",
+    "city": "Pune",
+    "priceRange": "₹85.00 L - ₹1.55 Cr",
+    "exactPrice": "₹85.00 L",
+    "pricePerSqft": 9200,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Deluxe",
+        "carpetArea": "740 sq.ft",
+        "priceRange": "₹85.00 L"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "₹1.35 Cr"
+      },
+      {
+        "type": "3 BHK Imperial",
+        "carpetArea": "1250 sq.ft",
+        "priceRange": "₹1.55 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Royale Pimpri",
+    "lat": 18.631,
+    "lng": 73.8042,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100000452",
+    "description": "Mahindra Royale offers royal living in the heart of PCMC with palatial cross-ventilated residences, clubhouse, squash court, and beautifully maintained grounds.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Royale?",
+        "answer": "Mahindra Royale is officially registered under MahaRERA registration number P52100000452. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Royale?",
+        "answer": "Mahindra Royale offers 2 BHK, 3 BHK residences with carpet areas spanning from 740 sq.ft to 1250 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Royale?",
+        "answer": "Starting direct price for Mahindra Royale is ₹85.00 L, with configuration price range extending up to ₹85.00 L - ₹1.55 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Royale?",
+        "answer": "Mahindra Royale is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-woods-pimpri",
+    "title": "Mahindra Woods",
+    "slug": "mahindra-woods",
+    "builderId": "b-mahindra",
+    "location": "Pimpri",
+    "city": "Pune",
+    "priceRange": "₹80.00 L - ₹1.35 Cr",
+    "exactPrice": "₹80.00 L",
+    "pricePerSqft": 9100,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹80.00 L"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1020 sq.ft",
+        "priceRange": "₹1.18 Cr"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1180 sq.ft",
+        "priceRange": "₹1.35 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Woods Pimpri",
+    "lat": 18.6285,
+    "lng": 73.8015,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100000678",
+    "description": "Mahindra Woods in Pimpri delivers nature-centric living with dense tree canopies, multi-tier security, and immediate access to IT parks and highway links.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Woods?",
+        "answer": "Mahindra Woods is officially registered under MahaRERA registration number P52100000678. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Woods?",
+        "answer": "Mahindra Woods offers 2 BHK, 3 BHK residences with carpet areas spanning from 710 sq.ft to 1180 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Woods?",
+        "answer": "Starting direct price for Mahindra Woods is ₹80.00 L, with configuration price range extending up to ₹80.00 L - ₹1.35 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Woods?",
+        "answer": "Mahindra Woods is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-alcove-chandivali",
+    "title": "Mahindra Alcove",
+    "slug": "mahindra-alcove",
+    "builderId": "b-mahindra",
+    "location": "Chandivali",
+    "city": "Mumbai",
+    "priceRange": "₹1.55 Cr - ₹3.10 Cr",
+    "exactPrice": "₹1.55 Cr",
+    "pricePerSqft": 22800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Compact",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹1.55 Cr"
+      },
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "770 sq.ft",
+        "priceRange": "₹1.85 Cr"
+      },
+      {
+        "type": "3 BHK Elegance",
+        "carpetArea": "1040 sq.ft",
+        "priceRange": "₹2.65 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1220 sq.ft",
+        "priceRange": "₹3.10 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Alcove Chandivali",
+    "lat": 19.1128,
+    "lng": 72.8954,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51800022572",
+    "description": "Mahindra Alcove in Chandivali (Powai Annexe) is an eco-luxury residential enclave featuring Miyawaki urban forests, rooftop jogging tracks, and EV charging stations.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Alcove?",
+        "answer": "Mahindra Alcove is officially registered under MahaRERA registration number P51800022572. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Alcove?",
+        "answer": "Mahindra Alcove offers 2 BHK, 3 BHK residences with carpet areas spanning from 680 sq.ft to 1220 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Alcove?",
+        "answer": "Starting direct price for Mahindra Alcove is ₹1.55 Cr, with configuration price range extending up to ₹1.55 Cr - ₹3.10 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Alcove?",
+        "answer": "Mahindra Alcove is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-vicino-andheri",
+    "title": "Mahindra Vicino",
+    "slug": "mahindra-vicino",
+    "builderId": "b-mahindra",
+    "location": "Andheri West",
+    "city": "Mumbai",
+    "priceRange": "₹1.95 Cr - ₹3.80 Cr",
+    "exactPrice": "₹1.95 Cr",
+    "pricePerSqft": 25400,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Urban",
+        "carpetArea": "460 sq.ft",
+        "priceRange": "₹1.95 Cr"
+      },
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹2.45 Cr"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "₹3.80 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Vicino Andheri West",
+    "lat": 19.1197,
+    "lng": 72.8464,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51800022034",
+    "description": "Mahindra Vicino in Andheri offers boutique, biophilic homes with French windows, automated smart climate controls, and proximity to Western Express Highway and Metro Line 1.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Vicino?",
+        "answer": "Mahindra Vicino is officially registered under MahaRERA registration number P51800022034. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Vicino?",
+        "answer": "Mahindra Vicino offers 1 BHK, 2 BHK, 3 BHK residences with carpet areas spanning from 460 sq.ft to 1100 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Vicino?",
+        "answer": "Starting direct price for Mahindra Vicino is ₹1.95 Cr, with configuration price range extending up to ₹1.95 Cr - ₹3.80 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Vicino?",
+        "answer": "Mahindra Vicino is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-roots-kandivali",
+    "title": "Mahindra Roots",
+    "slug": "mahindra-roots",
+    "builderId": "b-mahindra",
+    "location": "Kandivali East",
+    "city": "Mumbai",
+    "priceRange": "₹1.45 Cr - ₹2.35 Cr",
+    "exactPrice": "₹1.45 Cr",
+    "pricePerSqft": 21500,
+    "configurations": [
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "650 sq.ft",
+        "priceRange": "₹1.45 Cr"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "₹1.85 Cr"
+      },
+      {
+        "type": "2 BHK Royale",
+        "carpetArea": "840 sq.ft",
+        "priceRange": "₹2.35 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Roots Kandivali East",
+    "lat": 19.2045,
+    "lng": 72.8687,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51800016833",
+    "description": "Mahindra Roots in Kandivali East represents contemporary urban living with unobstructed views of Sanjay Gandhi National Park and 35+ curated lifestyle amenities.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Roots?",
+        "answer": "Mahindra Roots is officially registered under MahaRERA registration number P51800016833. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Roots?",
+        "answer": "Mahindra Roots offers 2 BHK residences with carpet areas spanning from 650 sq.ft to 840 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Roots?",
+        "answer": "Starting direct price for Mahindra Roots is ₹1.45 Cr, with configuration price range extending up to ₹1.45 Cr - ₹2.35 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Roots?",
+        "answer": "Mahindra Roots is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-vista-kandivali",
+    "title": "Mahindra Vista",
+    "slug": "mahindra-vista",
+    "builderId": "b-mahindra",
+    "location": "Kandivali East",
+    "city": "Mumbai",
+    "priceRange": "₹1.50 Cr - ₹3.40 Cr",
+    "exactPrice": "₹1.50 Cr",
+    "pricePerSqft": 22000,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Urban",
+        "carpetArea": "450 sq.ft",
+        "priceRange": "₹1.50 Cr"
+      },
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹1.95 Cr"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1020 sq.ft",
+        "priceRange": "₹2.80 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "1380 sq.ft",
+        "priceRange": "₹3.40 Cr"
+      }
+    ],
+    "status": "New Launch",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Vista Kandivali East",
+    "lat": 19.2088,
+    "lng": 72.871,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51800054619",
+    "description": "Mahindra Vista is a 7.7-acre flagship master community in Kandivali East featuring biophilic architectural towers, bi-level clubhouses, and zero vehicular movement podium.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Vista?",
+        "answer": "Mahindra Vista is officially registered under MahaRERA registration number P51800054619. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Vista?",
+        "answer": "Mahindra Vista offers 1 BHK, 2 BHK, 3 BHK, 4 BHK residences with carpet areas spanning from 450 sq.ft to 1380 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Vista?",
+        "answer": "Starting direct price for Mahindra Vista is ₹1.50 Cr, with configuration price range extending up to ₹1.50 Cr - ₹3.40 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Vista?",
+        "answer": "Mahindra Vista is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-iris-malad",
+    "title": "Mahindra Iris",
+    "slug": "mahindra-iris",
+    "builderId": "b-mahindra",
+    "location": "Goregaon East",
+    "city": "Mumbai",
+    "priceRange": "₹1.80 Cr - ₹2.75 Cr",
+    "exactPrice": "₹1.80 Cr",
+    "pricePerSqft": 23200,
+    "configurations": [
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "₹1.80 Cr"
+      },
+      {
+        "type": "2 BHK Royale",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "₹2.75 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Iris Goregaon East",
+    "lat": 19.1865,
+    "lng": 72.8489,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51800000891",
+    "description": "Mahindra Iris offers boutique luxury living with private sundecks, landscaped sensory gardens, and swift access to Link Road and S.V. Road.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Iris?",
+        "answer": "Mahindra Iris is officially registered under MahaRERA registration number P51800000891. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Iris?",
+        "answer": "Mahindra Iris offers 2 BHK residences with carpet areas spanning from 760 sq.ft to 890 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Iris?",
+        "answer": "Starting direct price for Mahindra Iris is ₹1.80 Cr, with configuration price range extending up to ₹1.80 Cr - ₹2.75 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Iris?",
+        "answer": "Mahindra Iris is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-eminente-goregaon",
+    "title": "Mahindra Eminente",
+    "slug": "mahindra-eminente",
+    "builderId": "b-mahindra",
+    "location": "Goregaon East",
+    "city": "Mumbai",
+    "priceRange": "₹2.20 Cr - ₹4.50 Cr",
+    "exactPrice": "₹2.20 Cr",
+    "pricePerSqft": 24500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Elite",
+        "carpetArea": "850 sq.ft",
+        "priceRange": "₹2.20 Cr"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1280 sq.ft",
+        "priceRange": "₹3.40 Cr"
+      },
+      {
+        "type": "4 BHK Royal Penthouse",
+        "carpetArea": "1750 sq.ft",
+        "priceRange": "₹4.50 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Eminente Goregaon East",
+    "lat": 19.1645,
+    "lng": 72.8598,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51800000954",
+    "description": "Mahindra Eminente in Goregaon West is an ultra-luxury landmark featuring double-height entrance lobbies, heated indoor pools, and skyline viewing decks.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Eminente?",
+        "answer": "Mahindra Eminente is officially registered under MahaRERA registration number P51800000954. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Eminente?",
+        "answer": "Mahindra Eminente offers 2 BHK, 3 BHK, 4 BHK residences with carpet areas spanning from 850 sq.ft to 1750 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Eminente?",
+        "answer": "Starting direct price for Mahindra Eminente is ₹2.20 Cr, with configuration price range extending up to ₹2.20 Cr - ₹4.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Eminente?",
+        "answer": "Mahindra Eminente is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-splendour-bhandup",
+    "title": "Mahindra Splendour",
+    "slug": "mahindra-splendour",
+    "builderId": "b-mahindra",
+    "location": "Bhandup West",
+    "city": "Mumbai",
+    "priceRange": "₹1.35 Cr - ₹2.90 Cr",
+    "exactPrice": "₹1.35 Cr",
+    "pricePerSqft": 19800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Classic",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹1.35 Cr"
+      },
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "790 sq.ft",
+        "priceRange": "₹1.75 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "₹2.90 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Splendour Bhandup West",
+    "lat": 19.1512,
+    "lng": 72.9345,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51800000341",
+    "description": "Mahindra Splendour on LBS Marg, Bhandup West, spans 15 acres of lush landscaped expanses with clubhouse, multi-sport courts, and seamless highway access.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Splendour?",
+        "answer": "Mahindra Splendour is officially registered under MahaRERA registration number P51800000341. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Splendour?",
+        "answer": "Mahindra Splendour offers 2 BHK, 3 BHK residences with carpet areas spanning from 680 sq.ft to 1150 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Splendour?",
+        "answer": "Starting direct price for Mahindra Splendour is ₹1.35 Cr, with configuration price range extending up to ₹1.35 Cr - ₹2.90 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Splendour?",
+        "answer": "Mahindra Splendour is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-happinest-kalyan",
+    "title": "Mahindra Happinest Kalyan",
+    "slug": "mahindra-happinest-kalyan",
+    "builderId": "b-mahindra",
+    "location": "Kalyan-Bhiwandi Road",
+    "city": "Mumbai",
+    "priceRange": "₹36.00 L - ₹68.00 L",
+    "exactPrice": "₹36.00 L",
+    "pricePerSqft": 6800,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Smart",
+        "carpetArea": "420 sq.ft",
+        "priceRange": "₹36.00 L"
+      },
+      {
+        "type": "2 BHK Family",
+        "carpetArea": "620 sq.ft",
+        "priceRange": "₹54.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹68.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Happinest Kalyan Kalyan-Bhiwandi Road",
+    "lat": 19.2612,
+    "lng": 73.1124,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51700022981",
+    "description": "Mahindra Happinest Kalyan is an integrated 9-acre township with 50+ amenities, cricket pitch, amphitheater, and direct access to upcoming Metro Line 5.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Happinest Kalyan?",
+        "answer": "Mahindra Happinest Kalyan is officially registered under MahaRERA registration number P51700022981. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Happinest Kalyan?",
+        "answer": "Mahindra Happinest Kalyan offers 1 BHK, 2 BHK residences with carpet areas spanning from 420 sq.ft to 710 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Happinest Kalyan?",
+        "answer": "Starting direct price for Mahindra Happinest Kalyan is ₹36.00 L, with configuration price range extending up to ₹36.00 L - ₹68.00 L."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Happinest Kalyan?",
+        "answer": "Mahindra Happinest Kalyan is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-happinest-boisar",
+    "title": "Mahindra Happinest Boisar",
+    "slug": "mahindra-happinest-boisar",
+    "builderId": "b-mahindra",
+    "location": "Boisar",
+    "city": "Mumbai",
+    "priceRange": "₹19.50 L - ₹38.00 L",
+    "exactPrice": "₹19.50 L",
+    "pricePerSqft": 3900,
+    "configurations": [
+      "1 RK",
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 RK Studio",
+        "carpetArea": "280 sq.ft",
+        "priceRange": "₹19.50 L"
+      },
+      {
+        "type": "1 BHK Comfort",
+        "carpetArea": "390 sq.ft",
+        "priceRange": "₹26.00 L"
+      },
+      {
+        "type": "2 BHK Family",
+        "carpetArea": "580 sq.ft",
+        "priceRange": "₹38.00 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Happinest Boisar Boisar",
+    "lat": 19.8021,
+    "lng": 72.7534,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P99000000412",
+    "description": "Mahindra Happinest Boisar offers modern, affordable living with private gardens, dedicated medical clinic, commercial retail arcade, and children play zones.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Happinest Boisar?",
+        "answer": "Mahindra Happinest Boisar is officially registered under MahaRERA registration number P99000000412. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Happinest Boisar?",
+        "answer": "Mahindra Happinest Boisar offers 1 RK, 1 BHK, 2 BHK residences with carpet areas spanning from 280 sq.ft to 580 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Happinest Boisar?",
+        "answer": "Starting direct price for Mahindra Happinest Boisar is ₹19.50 L, with configuration price range extending up to ₹19.50 L - ₹38.00 L."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Happinest Boisar?",
+        "answer": "Mahindra Happinest Boisar is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-mahindra-happinest-palghar",
+    "title": "Mahindra Happinest Palghar",
+    "slug": "mahindra-happinest-palghar",
+    "builderId": "b-mahindra",
+    "location": "Palghar",
+    "city": "Mumbai",
+    "priceRange": "₹22.00 L - ₹42.00 L",
+    "exactPrice": "₹22.00 L",
+    "pricePerSqft": 4200,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Urban",
+        "carpetArea": "380 sq.ft",
+        "priceRange": "₹22.00 L"
+      },
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "560 sq.ft",
+        "priceRange": "₹34.00 L"
+      },
+      {
+        "type": "2 BHK Deluxe",
+        "carpetArea": "640 sq.ft",
+        "priceRange": "₹42.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Mahindra Happinest Palghar Palghar",
+    "lat": 19.6967,
+    "lng": 72.7654,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P99000025419",
+    "description": "Mahindra Happinest Palghar features master-planned low-rise residences with energy-efficient LED street lighting, rainwater harvesting, and lush community gardens.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Mahindra Happinest Palghar?",
+        "answer": "Mahindra Happinest Palghar is officially registered under MahaRERA registration number P99000025419. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Mahindra Happinest Palghar?",
+        "answer": "Mahindra Happinest Palghar offers 1 BHK, 2 BHK residences with carpet areas spanning from 380 sq.ft to 640 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Mahindra Happinest Palghar?",
+        "answer": "Starting direct price for Mahindra Happinest Palghar is ₹22.00 L, with configuration price range extending up to ₹22.00 L - ₹42.00 L."
+      },
+      {
+        "question": "What is the possession timeline for Mahindra Happinest Palghar?",
+        "answer": "Mahindra Happinest Palghar is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-salsette-27",
+    "title": "Peninsula Salsette 27",
+    "slug": "peninsula-salsette-27",
+    "builderId": "b-peninsula-land",
+    "location": "Byculla",
+    "city": "Mumbai",
+    "priceRange": "₹4.85 Cr - ₹9.50 Cr",
+    "exactPrice": "₹4.85 Cr",
+    "pricePerSqft": 39500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "₹4.85 Cr"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹6.80 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "1850 sq.ft",
+        "priceRange": "₹9.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Peninsula Salsette 27 Byculla",
+    "lat": 18.9754,
+    "lng": 72.8365,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51900000642",
+    "description": "Peninsula Salsette 27 is an ultra-exclusive skyscraper landmark in Byculla, South Mumbai, offering panoramic vistas of the Arabian Sea, Victoria Gardens, and Eastern Harbour.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Peninsula Salsette 27?",
+        "answer": "Peninsula Salsette 27 is officially registered under MahaRERA registration number P51900000642. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Peninsula Salsette 27?",
+        "answer": "Peninsula Salsette 27 offers 2 BHK, 3 BHK, 4 BHK residences with carpet areas spanning from 890 sq.ft to 1850 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Peninsula Salsette 27?",
+        "answer": "Starting direct price for Peninsula Salsette 27 is ₹4.85 Cr, with configuration price range extending up to ₹4.85 Cr - ₹9.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Peninsula Salsette 27?",
+        "answer": "Peninsula Salsette 27 is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-celestia-spaces",
+    "title": "Celestia Spaces",
+    "slug": "celestia-spaces",
+    "builderId": "b-peninsula-land",
+    "location": "Sewri",
+    "city": "Mumbai",
+    "priceRange": "₹3.60 Cr - ₹6.80 Cr",
+    "exactPrice": "₹3.60 Cr",
+    "pricePerSqft": 36000,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Sea View",
+        "carpetArea": "840 sq.ft",
+        "priceRange": "₹3.60 Cr"
+      },
+      {
+        "type": "3 BHK Royal Bay View",
+        "carpetArea": "1280 sq.ft",
+        "priceRange": "₹5.40 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1450 sq.ft",
+        "priceRange": "₹6.80 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Celestia Spaces Sewri",
+    "lat": 18.9987,
+    "lng": 72.8541,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51900005421",
+    "description": "Celestia Spaces in Sewri offers unmatched luxury with uninterrupted views of the Mumbai Harbour, flamingos sanctuary, and Atal Setu (MTHL) connectivity.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Celestia Spaces?",
+        "answer": "Celestia Spaces is officially registered under MahaRERA registration number P51900005421. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Celestia Spaces?",
+        "answer": "Celestia Spaces offers 2 BHK, 3 BHK residences with carpet areas spanning from 840 sq.ft to 1450 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Celestia Spaces?",
+        "answer": "Starting direct price for Celestia Spaces is ₹3.60 Cr, with configuration price range extending up to ₹3.60 Cr - ₹6.80 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Celestia Spaces?",
+        "answer": "Celestia Spaces is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-ashok-towers",
+    "title": "Ashok Towers",
+    "slug": "ashok-towers",
+    "builderId": "b-peninsula-land",
+    "location": "Parel",
+    "city": "Mumbai",
+    "priceRange": "₹4.50 Cr - ₹12.00 Cr",
+    "exactPrice": "₹4.50 Cr",
+    "pricePerSqft": 43000,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "950 sq.ft",
+        "priceRange": "₹4.50 Cr"
+      },
+      {
+        "type": "3 BHK Grand Suite",
+        "carpetArea": "1420 sq.ft",
+        "priceRange": "₹6.90 Cr"
+      },
+      {
+        "type": "4 BHK Royal Penthouse",
+        "carpetArea": "2150 sq.ft",
+        "priceRange": "₹10.50 Cr"
+      },
+      {
+        "type": "5 BHK Sky Mansion",
+        "carpetArea": "2800 sq.ft",
+        "priceRange": "₹12.00 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Ashok Towers Parel",
+    "lat": 19.0012,
+    "lng": 72.8423,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51900000101",
+    "description": "Ashok Towers in Parel is one of Mumbai's most iconic luxury gated residential communities, spanning 18 acres with Olympic-class sports facilities and clubhouse.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Ashok Towers?",
+        "answer": "Ashok Towers is officially registered under MahaRERA registration number P51900000101. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Ashok Towers?",
+        "answer": "Ashok Towers offers 2 BHK, 3 BHK, 4 BHK, 5 BHK residences with carpet areas spanning from 950 sq.ft to 2800 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Ashok Towers?",
+        "answer": "Starting direct price for Ashok Towers is ₹4.50 Cr, with configuration price range extending up to ₹4.50 Cr - ₹12.00 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Ashok Towers?",
+        "answer": "Ashok Towers is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-ashok-gardens",
+    "title": "Ashok Gardens",
+    "slug": "ashok-gardens",
+    "builderId": "b-peninsula-land",
+    "location": "Sewri",
+    "city": "Mumbai",
+    "priceRange": "₹3.90 Cr - ₹7.80 Cr",
+    "exactPrice": "₹3.90 Cr",
+    "pricePerSqft": 37500,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "910 sq.ft",
+        "priceRange": "₹3.90 Cr"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1380 sq.ft",
+        "priceRange": "₹5.80 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "1850 sq.ft",
+        "priceRange": "₹7.80 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Ashok Gardens Sewri",
+    "lat": 18.9954,
+    "lng": 72.8512,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51900000115",
+    "description": "Ashok Gardens in Sewri features 12 acres of tranquil landscaped grounds, grand swimming pool, private squash courts, and sea-facing sundecks.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Ashok Gardens?",
+        "answer": "Ashok Gardens is officially registered under MahaRERA registration number P51900000115. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Ashok Gardens?",
+        "answer": "Ashok Gardens offers 2 BHK, 3 BHK, 4 BHK residences with carpet areas spanning from 910 sq.ft to 1850 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Ashok Gardens?",
+        "answer": "Starting direct price for Ashok Gardens is ₹3.90 Cr, with configuration price range extending up to ₹3.90 Cr - ₹7.80 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Ashok Gardens?",
+        "answer": "Ashok Gardens is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-spenta",
+    "title": "Peninsula Spenta",
+    "slug": "peninsula-spenta",
+    "builderId": "b-peninsula-land",
+    "location": "Lower Parel",
+    "city": "Mumbai",
+    "priceRange": "₹5.50 Cr - ₹11.50 Cr",
+    "exactPrice": "₹5.50 Cr",
+    "pricePerSqft": 47000,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Sky Suite",
+        "carpetArea": "1480 sq.ft",
+        "priceRange": "₹5.50 Cr"
+      },
+      {
+        "type": "4 BHK Penthouse",
+        "carpetArea": "2200 sq.ft",
+        "priceRange": "₹11.50 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Peninsula Spenta Lower Parel",
+    "lat": 18.9945,
+    "lng": 72.8291,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51900000287",
+    "description": "Peninsula Spenta in Lower Parel delivers bespoke ultra-luxury residences situated inside the iconic Mathuradas Mill compound alongside Mumbai's finest dining establishments.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Peninsula Spenta?",
+        "answer": "Peninsula Spenta is officially registered under MahaRERA registration number P51900000287. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Peninsula Spenta?",
+        "answer": "Peninsula Spenta offers 3 BHK, 4 BHK residences with carpet areas spanning from 1480 sq.ft to 2200 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Peninsula Spenta?",
+        "answer": "Starting direct price for Peninsula Spenta is ₹5.50 Cr, with configuration price range extending up to ₹5.50 Cr - ₹11.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Peninsula Spenta?",
+        "answer": "Peninsula Spenta is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-park-heights",
+    "title": "Peninsula Park Heights",
+    "slug": "peninsula-park-heights",
+    "builderId": "b-peninsula-land",
+    "location": "Lower Parel",
+    "city": "Mumbai",
+    "priceRange": "₹6.20 Cr - ₹14.00 Cr",
+    "exactPrice": "₹6.20 Cr",
+    "pricePerSqft": 48500,
+    "configurations": [
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Elite",
+        "carpetArea": "1550 sq.ft",
+        "priceRange": "₹6.20 Cr"
+      },
+      {
+        "type": "4 BHK Imperial",
+        "carpetArea": "2350 sq.ft",
+        "priceRange": "₹10.50 Cr"
+      },
+      {
+        "type": "5 BHK Duplex Palace",
+        "carpetArea": "3100 sq.ft",
+        "priceRange": "₹14.00 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Peninsula Park Heights Lower Parel",
+    "lat": 18.9961,
+    "lng": 72.8278,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51900000305",
+    "description": "Peninsula Park Heights is an ultra-exclusive private residential tower adjoining Peninsula Business Park, curated for corporate leaders and high-net-worth investors.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Peninsula Park Heights?",
+        "answer": "Peninsula Park Heights is officially registered under MahaRERA registration number P51900000305. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Peninsula Park Heights?",
+        "answer": "Peninsula Park Heights offers 3 BHK, 4 BHK, 5 BHK residences with carpet areas spanning from 1550 sq.ft to 3100 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Peninsula Park Heights?",
+        "answer": "Starting direct price for Peninsula Park Heights is ₹6.20 Cr, with configuration price range extending up to ₹6.20 Cr - ₹14.00 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Peninsula Park Heights?",
+        "answer": "Peninsula Park Heights is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-technopark",
+    "title": "Peninsula Technopark",
+    "slug": "peninsula-technopark",
+    "builderId": "b-peninsula-land",
+    "location": "Kurla West",
+    "city": "Mumbai",
+    "priceRange": "₹1.40 Cr - ₹3.20 Cr",
+    "exactPrice": "₹1.40 Cr",
+    "pricePerSqft": 21000,
+    "configurations": [
+      "Commercial Office",
+      "Executive Suite"
+    ],
+    "configurationDetails": [
+      {
+        "type": "650 sq.ft Office Suite",
+        "carpetArea": "650 sq.ft",
+        "priceRange": "₹1.40 Cr"
+      },
+      {
+        "type": "1,200 sq.ft Corporate Floor",
+        "carpetArea": "1200 sq.ft",
+        "priceRange": "₹2.50 Cr"
+      },
+      {
+        "type": "1,550 sq.ft Executive Wing",
+        "carpetArea": "1550 sq.ft",
+        "priceRange": "₹3.20 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Commercial",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Peninsula Technopark Kurla West",
+    "lat": 19.0712,
+    "lng": 72.8821,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P51800000490",
+    "description": "Peninsula Technopark in Kurla West offers grade-A corporate offices and tech suites right off BKC with high rental yields and institutional maintenance.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Peninsula Technopark?",
+        "answer": "Peninsula Technopark is officially registered under MahaRERA registration number P51800000490. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Peninsula Technopark?",
+        "answer": "Peninsula Technopark offers Commercial Office, Executive Suite residences with carpet areas spanning from 650 sq.ft to 1550 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Peninsula Technopark?",
+        "answer": "Starting direct price for Peninsula Technopark is ₹1.40 Cr, with configuration price range extending up to ₹1.40 Cr - ₹3.20 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Peninsula Technopark?",
+        "answer": "Peninsula Technopark is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-ashok-meadows",
+    "title": "Ashok Meadows",
+    "slug": "ashok-meadows",
+    "builderId": "b-peninsula-land",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "₹88.00 L - ₹1.75 Cr",
+    "exactPrice": "₹88.00 L",
+    "pricePerSqft": 8800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "765 sq.ft",
+        "priceRange": "₹88.00 L"
+      },
+      {
+        "type": "2.5 BHK Royale",
+        "carpetArea": "910 sq.ft",
+        "priceRange": "₹1.10 Cr"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "₹1.45 Cr"
+      },
+      {
+        "type": "3 BHK Duplex",
+        "carpetArea": "1380 sq.ft",
+        "priceRange": "₹1.75 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Ashok Meadows Hinjewadi",
+    "lat": 18.5912,
+    "lng": 73.7421,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100000889",
+    "description": "Ashok Meadows in Hinjewadi Phase 1, Pune is a prestigious 15-acre resort-style residential community with infinity edge pool, floodlit tennis courts, and grand clubhouse.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Ashok Meadows?",
+        "answer": "Ashok Meadows is officially registered under MahaRERA registration number P52100000889. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Ashok Meadows?",
+        "answer": "Ashok Meadows offers 2 BHK, 3 BHK residences with carpet areas spanning from 765 sq.ft to 1380 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Ashok Meadows?",
+        "answer": "Starting direct price for Ashok Meadows is ₹88.00 L, with configuration price range extending up to ₹88.00 L - ₹1.75 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Ashok Meadows?",
+        "answer": "Ashok Meadows is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-ashok-astoria",
+    "title": "Ashok Astoria",
+    "slug": "ashok-astoria",
+    "builderId": "b-peninsula-land",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "priceRange": "₹75.00 L - ₹1.35 Cr",
+    "exactPrice": "₹75.00 L",
+    "pricePerSqft": 8600,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "690 sq.ft",
+        "priceRange": "₹75.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "₹92.00 L"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹1.35 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Ashok Astoria Hinjewadi",
+    "lat": 18.5935,
+    "lng": 73.745,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100001045",
+    "description": "Ashok Astoria in Hinjewadi offers boutique architectural residences with landscaped podium gardens, indoor games lounge, and direct access to IT hubs.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Ashok Astoria?",
+        "answer": "Ashok Astoria is officially registered under MahaRERA registration number P52100001045. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Ashok Astoria?",
+        "answer": "Ashok Astoria offers 2 BHK, 3 BHK residences with carpet areas spanning from 690 sq.ft to 1050 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Ashok Astoria?",
+        "answer": "Starting direct price for Ashok Astoria is ₹75.00 L, with configuration price range extending up to ₹75.00 L - ₹1.35 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Ashok Astoria?",
+        "answer": "Ashok Astoria is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-address-one",
+    "title": "Peninsula Address One",
+    "slug": "peninsula-address-one",
+    "builderId": "b-peninsula-land",
+    "location": "Gahunje",
+    "city": "Pune",
+    "priceRange": "₹38.00 L - ₹85.00 L",
+    "exactPrice": "₹38.00 L",
+    "pricePerSqft": 6900,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Urban",
+        "carpetArea": "440 sq.ft",
+        "priceRange": "₹38.00 L"
+      },
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "640 sq.ft",
+        "priceRange": "₹56.00 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "₹85.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Peninsula Address One Gahunje",
+    "lat": 18.6723,
+    "lng": 73.7012,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100019561",
+    "description": "Peninsula Address One in Gahunje is a 50-acre gated township adjoining MCA International Cricket Stadium and Mumbai-Pune Expressway with open recreational grounds.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Peninsula Address One?",
+        "answer": "Peninsula Address One is officially registered under MahaRERA registration number P52100019561. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Peninsula Address One?",
+        "answer": "Peninsula Address One offers 1 BHK, 2 BHK, 3 BHK residences with carpet areas spanning from 440 sq.ft to 890 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Peninsula Address One?",
+        "answer": "Starting direct price for Peninsula Address One is ₹38.00 L, with configuration price range extending up to ₹38.00 L - ₹85.00 L."
+      },
+      {
+        "question": "What is the possession timeline for Peninsula Address One?",
+        "answer": "Peninsula Address One is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-address-one-phase-2",
+    "title": "Peninsula Address One Phase 2",
+    "slug": "peninsula-address-one-phase-2",
+    "builderId": "b-peninsula-land",
+    "location": "Gahunje",
+    "city": "Pune",
+    "priceRange": "₹42.00 L - ₹95.00 L",
+    "exactPrice": "₹42.00 L",
+    "pricePerSqft": 7100,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Smart",
+        "carpetArea": "460 sq.ft",
+        "priceRange": "₹42.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹62.00 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "950 sq.ft",
+        "priceRange": "₹95.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Peninsula Address One Phase 2 Gahunje",
+    "lat": 18.6735,
+    "lng": 73.7025,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100026789",
+    "description": "Phase 2 of Peninsula Address One features upgraded lifestyle towers with rooftop gazebos, dedicated sports academy, and landscaped cycling tracks.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Peninsula Address One Phase 2?",
+        "answer": "Peninsula Address One Phase 2 is officially registered under MahaRERA registration number P52100026789. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Peninsula Address One Phase 2?",
+        "answer": "Peninsula Address One Phase 2 offers 1 BHK, 2 BHK, 3 BHK residences with carpet areas spanning from 460 sq.ft to 950 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Peninsula Address One Phase 2?",
+        "answer": "Starting direct price for Peninsula Address One Phase 2 is ₹42.00 L, with configuration price range extending up to ₹42.00 L - ₹95.00 L."
+      },
+      {
+        "question": "What is the possession timeline for Peninsula Address One Phase 2?",
+        "answer": "Peninsula Address One Phase 2 is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-ashok-nirvaan",
+    "title": "Peninsula Ashok Nirvaan",
+    "slug": "peninsula-ashok-nirvaan",
+    "builderId": "b-peninsula-land",
+    "location": "Khandala",
+    "city": "Lonavala",
+    "priceRange": "₹4.50 Cr - ₹9.80 Cr",
+    "exactPrice": "₹4.50 Cr",
+    "pricePerSqft": 18500,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa",
+      "5 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Hillside Villa",
+        "carpetArea": "2450 sq.ft",
+        "priceRange": "₹4.50 Cr"
+      },
+      {
+        "type": "4 BHK Royal Villa with Pool",
+        "carpetArea": "3200 sq.ft",
+        "priceRange": "₹7.20 Cr"
+      },
+      {
+        "type": "5 BHK Signature Estate",
+        "carpetArea": "4200 sq.ft",
+        "priceRange": "₹9.80 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Peninsula Ashok Nirvaan Khandala",
+    "lat": 18.7512,
+    "lng": 73.3765,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100000781",
+    "description": "Peninsula Ashok Nirvaan in Khandala is an elite private villa community offering bespoke second homes with private infinity pools and sweeping views of Duke's Nose.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Peninsula Ashok Nirvaan?",
+        "answer": "Peninsula Ashok Nirvaan is officially registered under MahaRERA registration number P52100000781. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Peninsula Ashok Nirvaan?",
+        "answer": "Peninsula Ashok Nirvaan offers 3 BHK Villa, 4 BHK Villa, 5 BHK Villa residences with carpet areas spanning from 2450 sq.ft to 4200 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Peninsula Ashok Nirvaan?",
+        "answer": "Starting direct price for Peninsula Ashok Nirvaan is ₹4.50 Cr, with configuration price range extending up to ₹4.50 Cr - ₹9.80 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Peninsula Ashok Nirvaan?",
+        "answer": "Peninsula Ashok Nirvaan is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-valley-vista",
+    "title": "Peninsula Valley Vista",
+    "slug": "peninsula-valley-vista",
+    "builderId": "b-peninsula-land",
+    "location": "Khandala",
+    "city": "Lonavala",
+    "priceRange": "₹2.80 Cr - ₹5.40 Cr",
+    "exactPrice": "₹2.80 Cr",
+    "pricePerSqft": 16000,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Hill View Suite",
+        "carpetArea": "1550 sq.ft",
+        "priceRange": "₹2.80 Cr"
+      },
+      {
+        "type": "4 BHK Valley Penthouse",
+        "carpetArea": "2100 sq.ft",
+        "priceRange": "₹5.40 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Peninsula Valley Vista Khandala",
+    "lat": 18.7545,
+    "lng": 73.3789,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100015421",
+    "description": "Peninsula Valley Vista offers luxury holiday condominiums nestled in the misty valleys of Khandala Foothills with heated pool and wellness spa.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Peninsula Valley Vista?",
+        "answer": "Peninsula Valley Vista is officially registered under MahaRERA registration number P52100015421. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Peninsula Valley Vista?",
+        "answer": "Peninsula Valley Vista offers 3 BHK, 4 BHK residences with carpet areas spanning from 1550 sq.ft to 2100 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Peninsula Valley Vista?",
+        "answer": "Starting direct price for Peninsula Valley Vista is ₹2.80 Cr, with configuration price range extending up to ₹2.80 Cr - ₹5.40 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Peninsula Valley Vista?",
+        "answer": "Peninsula Valley Vista is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-alibaug-coastal",
+    "title": "Peninsula Alibaug Coastal Estates",
+    "slug": "peninsula-alibaug-coastal",
+    "builderId": "b-peninsula-land",
+    "location": "Mandwa Jetty Corridor",
+    "city": "Alibaug",
+    "priceRange": "₹3.50 Cr - ₹8.50 Cr",
+    "exactPrice": "₹3.50 Cr",
+    "pricePerSqft": 17500,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Beach Villa",
+        "carpetArea": "2100 sq.ft",
+        "priceRange": "₹3.50 Cr"
+      },
+      {
+        "type": "4 BHK Coastal Mansion",
+        "carpetArea": "3400 sq.ft",
+        "priceRange": "₹8.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Peninsula Alibaug Coastal Estates Mandwa Jetty Corridor",
+    "lat": 18.7845,
+    "lng": 72.8421,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000034125",
+    "description": "Peninsula Alibaug Coastal Estates delivers serene tropical villa living within minutes of Mandwa Jetty, featuring sprawling landscaped lawns and private swimming pools.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Peninsula Alibaug Coastal Estates?",
+        "answer": "Peninsula Alibaug Coastal Estates is officially registered under MahaRERA registration number P52000034125. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Peninsula Alibaug Coastal Estates?",
+        "answer": "Peninsula Alibaug Coastal Estates offers 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 2100 sq.ft to 3400 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Peninsula Alibaug Coastal Estates?",
+        "answer": "Starting direct price for Peninsula Alibaug Coastal Estates is ₹3.50 Cr, with configuration price range extending up to ₹3.50 Cr - ₹8.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Peninsula Alibaug Coastal Estates?",
+        "answer": "Peninsula Alibaug Coastal Estates is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-palm-grove",
+    "title": "Peninsula Palm Grove Villas",
+    "slug": "peninsula-palm-grove",
+    "builderId": "b-peninsula-land",
+    "location": "Awas Beach",
+    "city": "Alibaug",
+    "priceRange": "₹4.20 Cr - ₹9.20 Cr",
+    "exactPrice": "₹4.20 Cr",
+    "pricePerSqft": 18200,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Palm Courtyard Villa",
+        "carpetArea": "2350 sq.ft",
+        "priceRange": "₹4.20 Cr"
+      },
+      {
+        "type": "4 BHK Beachfront Villa",
+        "carpetArea": "3600 sq.ft",
+        "priceRange": "₹9.20 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Peninsula Palm Grove Villas Awas Beach",
+    "lat": 18.7912,
+    "lng": 72.8512,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000045129",
+    "description": "Peninsula Palm Grove Villas in Awas Beach offers secluded luxury surrounded by casuarina groves and virgin beaches with personalized butler services.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Peninsula Palm Grove Villas?",
+        "answer": "Peninsula Palm Grove Villas is officially registered under MahaRERA registration number P52000045129. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Peninsula Palm Grove Villas?",
+        "answer": "Peninsula Palm Grove Villas offers 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 2350 sq.ft to 3600 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Peninsula Palm Grove Villas?",
+        "answer": "Starting direct price for Peninsula Palm Grove Villas is ₹4.20 Cr, with configuration price range extending up to ₹4.20 Cr - ₹9.20 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Peninsula Palm Grove Villas?",
+        "answer": "Peninsula Palm Grove Villas is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-peninsula-karjat-riverwoods",
+    "title": "Peninsula Karjat Riverwoods",
+    "slug": "peninsula-karjat-riverwoods",
+    "builderId": "b-peninsula-land",
+    "location": "Karjat Central",
+    "city": "Karjat",
+    "priceRange": "₹65.00 L - ₹1.75 Cr",
+    "exactPrice": "₹65.00 L",
+    "pricePerSqft": 5800,
+    "configurations": [
+      "2 BHK Villa",
+      "3 BHK Villa",
+      "Villa Plot"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1,500 sq.ft Villa Plot",
+        "carpetArea": "1500 sq.ft",
+        "priceRange": "₹65.00 L"
+      },
+      {
+        "type": "2 BHK Riverfront Villa",
+        "carpetArea": "1250 sq.ft",
+        "priceRange": "₹1.15 Cr"
+      },
+      {
+        "type": "3 BHK Luxury Villa",
+        "carpetArea": "1850 sq.ft",
+        "priceRange": "₹1.75 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Peninsula Karjat Riverwoods Karjat Central",
+    "lat": 18.9123,
+    "lng": 73.3245,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000048912",
+    "description": "Peninsula Karjat Riverwoods is a 25-acre riverside retreat in Karjat featuring gated luxury villas and villa plots with organic orchards and sports club.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Peninsula Karjat Riverwoods?",
+        "answer": "Peninsula Karjat Riverwoods is officially registered under MahaRERA registration number P52000048912. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Peninsula Karjat Riverwoods?",
+        "answer": "Peninsula Karjat Riverwoods offers 2 BHK Villa, 3 BHK Villa, Villa Plot residences with carpet areas spanning from 1500 sq.ft to 1850 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Peninsula Karjat Riverwoods?",
+        "answer": "Starting direct price for Peninsula Karjat Riverwoods is ₹65.00 L, with configuration price range extending up to ₹65.00 L - ₹1.75 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Peninsula Karjat Riverwoods?",
+        "answer": "Peninsula Karjat Riverwoods is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-lodha-hoabl-alibaug-reserve",
+    "title": "The House of Abhinandan Lodha Alibaug Reserve",
+    "slug": "hoabl-alibaug-reserve",
+    "builderId": "b-lodha",
+    "location": "Mandwa Jetty Corridor",
+    "city": "Alibaug",
+    "priceRange": "₹1.85 Cr - ₹4.50 Cr",
+    "exactPrice": "₹1.85 Cr",
+    "pricePerSqft": 15500,
+    "configurations": [
+      "Villa Plot",
+      "Estate Plot"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1,800 sq.ft Reserve Plot",
+        "carpetArea": "1800 sq.ft",
+        "priceRange": "₹1.85 Cr"
+      },
+      {
+        "type": "2,500 sq.ft Signature Plot",
+        "carpetArea": "2500 sq.ft",
+        "priceRange": "₹2.65 Cr"
+      },
+      {
+        "type": "4,000 sq.ft Imperial Estate Plot",
+        "carpetArea": "4000 sq.ft",
+        "priceRange": "₹4.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Plot",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "The House of Abhinandan Lodha Alibaug Reserve Mandwa Jetty Corridor",
+    "lat": 18.7889,
+    "lng": 72.8465,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000051289",
+    "description": "The House of Abhinandan Lodha (HoABL) Alibaug Reserve offers branded 5-star plotted villa land near Mandwa Jetty with international club amenities managed by luxury hoteliers.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for The House of Abhinandan Lodha Alibaug Reserve?",
+        "answer": "The House of Abhinandan Lodha Alibaug Reserve is officially registered under MahaRERA registration number P52000051289. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at The House of Abhinandan Lodha Alibaug Reserve?",
+        "answer": "The House of Abhinandan Lodha Alibaug Reserve offers Villa Plot, Estate Plot residences with carpet areas spanning from 1800 sq.ft to 4000 sq.ft."
+      },
+      {
+        "question": "What is the starting price for The House of Abhinandan Lodha Alibaug Reserve?",
+        "answer": "Starting direct price for The House of Abhinandan Lodha Alibaug Reserve is ₹1.85 Cr, with configuration price range extending up to ₹1.85 Cr - ₹4.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for The House of Abhinandan Lodha Alibaug Reserve?",
+        "answer": "The House of Abhinandan Lodha Alibaug Reserve is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-hiranandani-sands-alibaug",
+    "title": "Hiranandani Sands",
+    "slug": "hiranandani-sands",
+    "builderId": "b-hiranandani",
+    "location": "Kihim Beach",
+    "city": "Alibaug",
+    "priceRange": "₹2.10 Cr - ₹5.80 Cr",
+    "exactPrice": "₹2.10 Cr",
+    "pricePerSqft": 16500,
+    "configurations": [
+      "2 BHK Villa",
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Coastal Villa",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹2.10 Cr"
+      },
+      {
+        "type": "3 BHK Beach Villa",
+        "carpetArea": "1850 sq.ft",
+        "priceRange": "₹3.40 Cr"
+      },
+      {
+        "type": "4 BHK Royal Beachside Estate",
+        "carpetArea": "2600 sq.ft",
+        "priceRange": "₹5.80 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Hiranandani Sands Kihim Beach",
+    "lat": 18.7345,
+    "lng": 72.8712,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000049812",
+    "description": "Hiranandani Sands by Hiranandani Communities brings classical neoclassical architecture and lush green boulevard landscaping to Kihim Beach, Alibaug.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Hiranandani Sands?",
+        "answer": "Hiranandani Sands is officially registered under MahaRERA registration number P52000049812. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Hiranandani Sands?",
+        "answer": "Hiranandani Sands offers 2 BHK Villa, 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 1350 sq.ft to 2600 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Hiranandani Sands?",
+        "answer": "Starting direct price for Hiranandani Sands is ₹2.10 Cr, with configuration price range extending up to ₹2.10 Cr - ₹5.80 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Hiranandani Sands?",
+        "answer": "Hiranandani Sands is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-isprava-villas-alibaug",
+    "title": "Villas by Isprava Alibaug",
+    "slug": "villas-by-isprava-alibaug",
+    "builderId": "b-isprava",
+    "location": "Sasawane Beach",
+    "city": "Alibaug",
+    "priceRange": "₹6.50 Cr - ₹16.00 Cr",
+    "exactPrice": "₹6.50 Cr",
+    "pricePerSqft": 22000,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa",
+      "5 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Portuguese Villa",
+        "carpetArea": "2800 sq.ft",
+        "priceRange": "₹6.50 Cr"
+      },
+      {
+        "type": "4 BHK Heritage Villa with Pool",
+        "carpetArea": "3900 sq.ft",
+        "priceRange": "₹10.50 Cr"
+      },
+      {
+        "type": "5 BHK Signature Beachfront Palace",
+        "carpetArea": "5500 sq.ft",
+        "priceRange": "₹16.00 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Villas by Isprava Alibaug Sasawane Beach",
+    "lat": 18.8012,
+    "lng": 72.8398,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000038912",
+    "description": "Villas by Isprava in Sasawane are bespoke luxury residences curated with antique furnishings, private heated pools, expansive courtyards, and dedicated property management.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Villas by Isprava Alibaug?",
+        "answer": "Villas by Isprava Alibaug is officially registered under MahaRERA registration number P52000038912. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Villas by Isprava Alibaug?",
+        "answer": "Villas by Isprava Alibaug offers 3 BHK Villa, 4 BHK Villa, 5 BHK Villa residences with carpet areas spanning from 2800 sq.ft to 5500 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Villas by Isprava Alibaug?",
+        "answer": "Starting direct price for Villas by Isprava Alibaug is ₹6.50 Cr, with configuration price range extending up to ₹6.50 Cr - ₹16.00 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Villas by Isprava Alibaug?",
+        "answer": "Villas by Isprava Alibaug is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-sunstone-awas-beach",
+    "title": "Sunstone Awas Beach Residences",
+    "slug": "sunstone-awas-beach",
+    "builderId": "b-sunstone",
+    "location": "Awas Beach",
+    "city": "Alibaug",
+    "priceRange": "₹1.65 Cr - ₹3.80 Cr",
+    "exactPrice": "₹1.65 Cr",
+    "pricePerSqft": 14200,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Beach View",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "₹1.65 Cr"
+      },
+      {
+        "type": "3 BHK Sunset Suite",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹2.75 Cr"
+      },
+      {
+        "type": "3 BHK Penthouse",
+        "carpetArea": "1650 sq.ft",
+        "priceRange": "₹3.80 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Sunstone Awas Beach Residences Awas Beach",
+    "lat": 18.7945,
+    "lng": 72.8567,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000028914",
+    "description": "Sunstone Awas Beach Residences offers low-rise coastal apartments with sea-facing balconies and private beach access path in tranquil Awas.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Sunstone Awas Beach Residences?",
+        "answer": "Sunstone Awas Beach Residences is officially registered under MahaRERA registration number P52000028914. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Sunstone Awas Beach Residences?",
+        "answer": "Sunstone Awas Beach Residences offers 2 BHK, 3 BHK residences with carpet areas spanning from 890 sq.ft to 1650 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Sunstone Awas Beach Residences?",
+        "answer": "Starting direct price for Sunstone Awas Beach Residences is ₹1.65 Cr, with configuration price range extending up to ₹1.65 Cr - ₹3.80 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Sunstone Awas Beach Residences?",
+        "answer": "Sunstone Awas Beach Residences is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-canvas-alibaug-villas",
+    "title": "The Canvas Alibaug Private Pool Villas",
+    "slug": "the-canvas-alibaug-villas",
+    "builderId": "b-canvas-alibaug",
+    "location": "Zirad-Chondi",
+    "city": "Alibaug",
+    "priceRange": "₹3.20 Cr - ₹6.50 Cr",
+    "exactPrice": "₹3.20 Cr",
+    "pricePerSqft": 15800,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Pool Villa",
+        "carpetArea": "2150 sq.ft",
+        "priceRange": "₹3.20 Cr"
+      },
+      {
+        "type": "4 BHK Luxury Estate",
+        "carpetArea": "3200 sq.ft",
+        "priceRange": "₹6.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "The Canvas Alibaug Private Pool Villas Zirad-Chondi",
+    "lat": 18.7456,
+    "lng": 72.8912,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000046123",
+    "description": "The Canvas Alibaug in Zirad features contemporary minimalist architecture, private plunge pools, and open-to-sky shower pavilions near Chondi market.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for The Canvas Alibaug Private Pool Villas?",
+        "answer": "The Canvas Alibaug Private Pool Villas is officially registered under MahaRERA registration number P52000046123. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at The Canvas Alibaug Private Pool Villas?",
+        "answer": "The Canvas Alibaug Private Pool Villas offers 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 2150 sq.ft to 3200 sq.ft."
+      },
+      {
+        "question": "What is the starting price for The Canvas Alibaug Private Pool Villas?",
+        "answer": "Starting direct price for The Canvas Alibaug Private Pool Villas is ₹3.20 Cr, with configuration price range extending up to ₹3.20 Cr - ₹6.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for The Canvas Alibaug Private Pool Villas?",
+        "answer": "The Canvas Alibaug Private Pool Villas is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-saffronstays-alibaug-estates",
+    "title": "SaffronStays Riverfront Villas Alibaug",
+    "slug": "saffronstays-alibaug-estates",
+    "builderId": "b-saffronstays",
+    "location": "Kihim Beach",
+    "city": "Alibaug",
+    "priceRange": "₹3.80 Cr - ₹7.20 Cr",
+    "exactPrice": "₹3.80 Cr",
+    "pricePerSqft": 16200,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Waterfront Villa",
+        "carpetArea": "2200 sq.ft",
+        "priceRange": "₹3.80 Cr"
+      },
+      {
+        "type": "4 BHK Garden Mansion",
+        "carpetArea": "3400 sq.ft",
+        "priceRange": "₹7.20 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "SaffronStays Riverfront Villas Alibaug Kihim Beach",
+    "lat": 18.7398,
+    "lng": 72.8754,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000039812",
+    "description": "SaffronStays Riverfront Villas in Kihim offers luxury serviced second homes with assured rental returns and dedicated hospitality management.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for SaffronStays Riverfront Villas Alibaug?",
+        "answer": "SaffronStays Riverfront Villas Alibaug is officially registered under MahaRERA registration number P52000039812. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at SaffronStays Riverfront Villas Alibaug?",
+        "answer": "SaffronStays Riverfront Villas Alibaug offers 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 2200 sq.ft to 3400 sq.ft."
+      },
+      {
+        "question": "What is the starting price for SaffronStays Riverfront Villas Alibaug?",
+        "answer": "Starting direct price for SaffronStays Riverfront Villas Alibaug is ₹3.80 Cr, with configuration price range extending up to ₹3.80 Cr - ₹7.20 Cr."
+      },
+      {
+        "question": "What is the possession timeline for SaffronStays Riverfront Villas Alibaug?",
+        "answer": "SaffronStays Riverfront Villas Alibaug is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-alibaug-palms-varsoli",
+    "title": "Alibaug Palms Luxury Estates",
+    "slug": "alibaug-palms-luxury-estates",
+    "builderId": "b-alibaug-developers",
+    "location": "Alibaug Town",
+    "city": "Alibaug",
+    "priceRange": "₹85.00 L - ₹2.10 Cr",
+    "exactPrice": "₹85.00 L",
+    "pricePerSqft": 9800,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Urban",
+        "carpetArea": "520 sq.ft",
+        "priceRange": "₹85.00 L"
+      },
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "₹1.25 Cr"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "₹2.10 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Alibaug Palms Luxury Estates Alibaug Town",
+    "lat": 18.6543,
+    "lng": 72.8812,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000031245",
+    "description": "Alibaug Palms in Varsoli / Alibaug Town offers verified residential apartments walking distance from the beach and civil infrastructure.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Alibaug Palms Luxury Estates?",
+        "answer": "Alibaug Palms Luxury Estates is officially registered under MahaRERA registration number P52000031245. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Alibaug Palms Luxury Estates?",
+        "answer": "Alibaug Palms Luxury Estates offers 1 BHK, 2 BHK, 3 BHK residences with carpet areas spanning from 520 sq.ft to 1150 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Alibaug Palms Luxury Estates?",
+        "answer": "Starting direct price for Alibaug Palms Luxury Estates is ₹85.00 L, with configuration price range extending up to ₹85.00 L - ₹2.10 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Alibaug Palms Luxury Estates?",
+        "answer": "Alibaug Palms Luxury Estates is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-epitome-alibaug-bayview",
+    "title": "Epitome Alibaug Bayview Estates",
+    "slug": "epitome-alibaug-bayview",
+    "builderId": "b-epitome",
+    "location": "Mandwa Jetty Corridor",
+    "city": "Alibaug",
+    "priceRange": "₹4.10 Cr - ₹8.90 Cr",
+    "exactPrice": "₹4.10 Cr",
+    "pricePerSqft": 17800,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Bay View Villa",
+        "carpetArea": "2300 sq.ft",
+        "priceRange": "₹4.10 Cr"
+      },
+      {
+        "type": "4 BHK Signature Estate",
+        "carpetArea": "3600 sq.ft",
+        "priceRange": "₹8.90 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Epitome Alibaug Bayview Estates Mandwa Jetty Corridor",
+    "lat": 18.7812,
+    "lng": 72.8456,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000042189",
+    "description": "Epitome Alibaug Bayview Estates features private elevated ocean-view villas on the Mandwa ridge with infinity pools overlooking Mumbai's southern skyline.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Epitome Alibaug Bayview Estates?",
+        "answer": "Epitome Alibaug Bayview Estates is officially registered under MahaRERA registration number P52000042189. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Epitome Alibaug Bayview Estates?",
+        "answer": "Epitome Alibaug Bayview Estates offers 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 2300 sq.ft to 3600 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Epitome Alibaug Bayview Estates?",
+        "answer": "Starting direct price for Epitome Alibaug Bayview Estates is ₹4.10 Cr, with configuration price range extending up to ₹4.10 Cr - ₹8.90 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Epitome Alibaug Bayview Estates?",
+        "answer": "Epitome Alibaug Bayview Estates is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-tata-prive-khandala",
+    "title": "Tata Prive",
+    "slug": "tata-prive",
+    "builderId": "b-tata",
+    "location": "Khandala",
+    "city": "Lonavala",
+    "priceRange": "₹3.80 Cr - ₹8.50 Cr",
+    "exactPrice": "₹3.80 Cr",
+    "pricePerSqft": 17500,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Hillside Villa",
+        "carpetArea": "2200 sq.ft",
+        "priceRange": "₹3.80 Cr"
+      },
+      {
+        "type": "4 BHK Royal Forest Villa",
+        "carpetArea": "3400 sq.ft",
+        "priceRange": "₹8.50 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Tata Prive Khandala",
+    "lat": 18.7567,
+    "lng": 73.3712,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100001245",
+    "description": "Tata Prive in Khandala Foothills is a gated sanctuary of hillside villas designed by international architects, set amidst 20 acres of pristine greenery.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Tata Prive?",
+        "answer": "Tata Prive is officially registered under MahaRERA registration number P52100001245. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Tata Prive?",
+        "answer": "Tata Prive offers 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 2200 sq.ft to 3400 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Tata Prive?",
+        "answer": "Starting direct price for Tata Prive is ₹3.80 Cr, with configuration price range extending up to ₹3.80 Cr - ₹8.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Tata Prive?",
+        "answer": "Tata Prive is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-piramal-lonavala-horizon",
+    "title": "Piramal Lonavala Horizon",
+    "slug": "piramal-lonavala-horizon",
+    "builderId": "b-piramal",
+    "location": "Khandala",
+    "city": "Lonavala",
+    "priceRange": "₹2.90 Cr - ₹6.20 Cr",
+    "exactPrice": "₹2.90 Cr",
+    "pricePerSqft": 16800,
+    "configurations": [
+      "2 BHK Villa",
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Valley Villa",
+        "carpetArea": "1450 sq.ft",
+        "priceRange": "₹2.90 Cr"
+      },
+      {
+        "type": "3 BHK Grand Hillside Villa",
+        "carpetArea": "2100 sq.ft",
+        "priceRange": "₹4.40 Cr"
+      },
+      {
+        "type": "4 BHK Presidential Retreat",
+        "carpetArea": "2950 sq.ft",
+        "priceRange": "₹6.20 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Piramal Lonavala Horizon Khandala",
+    "lat": 18.7589,
+    "lng": 73.3745,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100028912",
+    "description": "Piramal Lonavala Horizon brings Piramal Realty's gold-standard craftsmanship to the Khandala ridge with private verandas and mountain view decks.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Piramal Lonavala Horizon?",
+        "answer": "Piramal Lonavala Horizon is officially registered under MahaRERA registration number P52100028912. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Piramal Lonavala Horizon?",
+        "answer": "Piramal Lonavala Horizon offers 2 BHK Villa, 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 1450 sq.ft to 2950 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Piramal Lonavala Horizon?",
+        "answer": "Starting direct price for Piramal Lonavala Horizon is ₹2.90 Cr, with configuration price range extending up to ₹2.90 Cr - ₹6.20 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Piramal Lonavala Horizon?",
+        "answer": "Piramal Lonavala Horizon is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-kalpataru-waterfront-lonavala",
+    "title": "Kalpataru Waterfront Lonavala",
+    "slug": "kalpataru-waterfront-lonavala",
+    "builderId": "b-kalpataru",
+    "location": "Kamshet Lakefront",
+    "city": "Lonavala",
+    "priceRange": "₹1.45 Cr - ₹3.10 Cr",
+    "exactPrice": "₹1.45 Cr",
+    "pricePerSqft": 9800,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Lakefront Suite",
+        "carpetArea": "920 sq.ft",
+        "priceRange": "₹1.45 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹2.25 Cr"
+      },
+      {
+        "type": "3 BHK Lake Villa",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "₹3.10 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Kalpataru Waterfront Lonavala Kamshet Lakefront",
+    "lat": 18.7345,
+    "lng": 73.5412,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100031289",
+    "description": "Kalpataru Waterfront in Kamshet offers lakeside second homes with private kayaking club, lakeside boardwalk, and panoramic valley views.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Kalpataru Waterfront Lonavala?",
+        "answer": "Kalpataru Waterfront Lonavala is officially registered under MahaRERA registration number P52100031289. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Kalpataru Waterfront Lonavala?",
+        "answer": "Kalpataru Waterfront Lonavala offers 2 BHK, 3 BHK, Villa residences with carpet areas spanning from 920 sq.ft to 1950 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Kalpataru Waterfront Lonavala?",
+        "answer": "Starting direct price for Kalpataru Waterfront Lonavala is ₹1.45 Cr, with configuration price range extending up to ₹1.45 Cr - ₹3.10 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Kalpataru Waterfront Lonavala?",
+        "answer": "Kalpataru Waterfront Lonavala is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-runwal-khandala-heights",
+    "title": "Runwal Khandala Heights",
+    "slug": "runwal-khandala-heights",
+    "builderId": "b-runwal",
+    "location": "Khandala",
+    "city": "Lonavala",
+    "priceRange": "₹2.40 Cr - ₹5.80 Cr",
+    "exactPrice": "₹2.40 Cr",
+    "pricePerSqft": 15900,
+    "configurations": [
+      "2 BHK Villa",
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Forest Chalet",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹2.40 Cr"
+      },
+      {
+        "type": "3 BHK Valley Villa",
+        "carpetArea": "1950 sq.ft",
+        "priceRange": "₹3.90 Cr"
+      },
+      {
+        "type": "4 BHK Mountain Estate",
+        "carpetArea": "2750 sq.ft",
+        "priceRange": "₹5.80 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Runwal Khandala Heights Khandala",
+    "lat": 18.7523,
+    "lng": 73.3798,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100024512",
+    "description": "Runwal Khandala Heights offers secluded hillside villas surrounded by private waterfalls, meditation pavilions, and temperature-controlled pools.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Runwal Khandala Heights?",
+        "answer": "Runwal Khandala Heights is officially registered under MahaRERA registration number P52100024512. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Runwal Khandala Heights?",
+        "answer": "Runwal Khandala Heights offers 2 BHK Villa, 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 1350 sq.ft to 2750 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Runwal Khandala Heights?",
+        "answer": "Starting direct price for Runwal Khandala Heights is ₹2.40 Cr, with configuration price range extending up to ₹2.40 Cr - ₹5.80 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Runwal Khandala Heights?",
+        "answer": "Runwal Khandala Heights is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-rohan-ananta-lonavala-villas",
+    "title": "Rohan Ananta Lonavala Villas",
+    "slug": "rohan-ananta-lonavala-villas",
+    "builderId": "b-rohan",
+    "location": "Tungarli-Valvan",
+    "city": "Lonavala",
+    "priceRange": "₹1.85 Cr - ₹4.10 Cr",
+    "exactPrice": "₹1.85 Cr",
+    "pricePerSqft": 12800,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK PLUS Home Villa",
+        "carpetArea": "1650 sq.ft",
+        "priceRange": "₹1.85 Cr"
+      },
+      {
+        "type": "4 BHK Luxury Villa",
+        "carpetArea": "2450 sq.ft",
+        "priceRange": "₹4.10 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Rohan Ananta Lonavala Villas Tungarli-Valvan",
+    "lat": 18.7612,
+    "lng": 73.4123,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100035612",
+    "description": "Rohan Ananta Lonavala Villas in Tungarli features Rohan's proprietary PLUS Home architecture (Perfect Ventilation, Lively Light, Utmost Privacy, Smart Space).",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Rohan Ananta Lonavala Villas?",
+        "answer": "Rohan Ananta Lonavala Villas is officially registered under MahaRERA registration number P52100035612. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Rohan Ananta Lonavala Villas?",
+        "answer": "Rohan Ananta Lonavala Villas offers 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 1650 sq.ft to 2450 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Rohan Ananta Lonavala Villas?",
+        "answer": "Starting direct price for Rohan Ananta Lonavala Villas is ₹1.85 Cr, with configuration price range extending up to ₹1.85 Cr - ₹4.10 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Rohan Ananta Lonavala Villas?",
+        "answer": "Rohan Ananta Lonavala Villas is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-supreme-lonavala-cloud",
+    "title": "Supreme Lonavala Cloud Estates",
+    "slug": "supreme-lonavala-cloud",
+    "builderId": "b-supreme-universal",
+    "location": "Kunegaon",
+    "city": "Lonavala",
+    "priceRange": "₹3.40 Cr - ₹7.50 Cr",
+    "exactPrice": "₹3.40 Cr",
+    "pricePerSqft": 17200,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Cloud Villa",
+        "carpetArea": "2100 sq.ft",
+        "priceRange": "₹3.40 Cr"
+      },
+      {
+        "type": "4 BHK Royal Horizon Villa",
+        "carpetArea": "3200 sq.ft",
+        "priceRange": "₹7.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Supreme Lonavala Cloud Estates Kunegaon",
+    "lat": 18.7489,
+    "lng": 73.3856,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100039812",
+    "description": "Supreme Lonavala Cloud Estates in Kunegaon delivers ultra-luxury cantilevered mountain villas overlooking the Sahyadri ranges with private heated jacuzzis.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Supreme Lonavala Cloud Estates?",
+        "answer": "Supreme Lonavala Cloud Estates is officially registered under MahaRERA registration number P52100039812. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Supreme Lonavala Cloud Estates?",
+        "answer": "Supreme Lonavala Cloud Estates offers 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 2100 sq.ft to 3200 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Supreme Lonavala Cloud Estates?",
+        "answer": "Starting direct price for Supreme Lonavala Cloud Estates is ₹3.40 Cr, with configuration price range extending up to ₹3.40 Cr - ₹7.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Supreme Lonavala Cloud Estates?",
+        "answer": "Supreme Lonavala Cloud Estates is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-sobha-sahyadri-whispers",
+    "title": "Sobha Sahyadri Whispers",
+    "slug": "sobha-sahyadri-whispers",
+    "builderId": "b-sobha",
+    "location": "Khandala",
+    "city": "Lonavala",
+    "priceRange": "₹4.20 Cr - ₹9.50 Cr",
+    "exactPrice": "₹4.20 Cr",
+    "pricePerSqft": 18900,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa",
+      "5 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK German Engineered Villa",
+        "carpetArea": "2350 sq.ft",
+        "priceRange": "₹4.20 Cr"
+      },
+      {
+        "type": "4 BHK Grand Estate",
+        "carpetArea": "3400 sq.ft",
+        "priceRange": "₹7.50 Cr"
+      },
+      {
+        "type": "5 BHK Signature Mansion",
+        "carpetArea": "4600 sq.ft",
+        "priceRange": "₹9.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Sobha Sahyadri Whispers Khandala",
+    "lat": 18.7534,
+    "lng": 73.3723,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52100041289",
+    "description": "Sobha Sahyadri Whispers brings Sobha's renowned backward integration and impeccable German engineering to luxury second homes in Khandala.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Sobha Sahyadri Whispers?",
+        "answer": "Sobha Sahyadri Whispers is officially registered under MahaRERA registration number P52100041289. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Sobha Sahyadri Whispers?",
+        "answer": "Sobha Sahyadri Whispers offers 3 BHK Villa, 4 BHK Villa, 5 BHK Villa residences with carpet areas spanning from 2350 sq.ft to 4600 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Sobha Sahyadri Whispers?",
+        "answer": "Starting direct price for Sobha Sahyadri Whispers is ₹4.20 Cr, with configuration price range extending up to ₹4.20 Cr - ₹9.50 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Sobha Sahyadri Whispers?",
+        "answer": "Sobha Sahyadri Whispers is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-godrej-retreat-karjat",
+    "title": "Godrej Retreat Karjat",
+    "slug": "godrej-retreat-karjat",
+    "builderId": "b-godrej",
+    "location": "Chowk",
+    "city": "Karjat",
+    "priceRange": "₹75.00 L - ₹1.95 Cr",
+    "exactPrice": "₹75.00 L",
+    "pricePerSqft": 5900,
+    "configurations": [
+      "Resort Plot",
+      "Villa Plot",
+      "Estate Plot"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1,200 sq.ft Resort Plot",
+        "carpetArea": "1200 sq.ft",
+        "priceRange": "₹75.00 L"
+      },
+      {
+        "type": "1,800 sq.ft Villa Plot",
+        "carpetArea": "1800 sq.ft",
+        "priceRange": "₹1.15 Cr"
+      },
+      {
+        "type": "2,500 sq.ft Estate Plot",
+        "carpetArea": "2500 sq.ft",
+        "priceRange": "₹1.95 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Plot",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Godrej Retreat Karjat Chowk",
+    "lat": 18.9234,
+    "lng": 73.2845,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000049123",
+    "description": "Godrej Retreat Karjat is an expansive resort-themed plotted development by Godrej Properties near Chowk and Morbe Dam with 100+ wellness and leisure amenities.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Godrej Retreat Karjat?",
+        "answer": "Godrej Retreat Karjat is officially registered under MahaRERA registration number P52000049123. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Godrej Retreat Karjat?",
+        "answer": "Godrej Retreat Karjat offers Resort Plot, Villa Plot, Estate Plot residences with carpet areas spanning from 1200 sq.ft to 2500 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Godrej Retreat Karjat?",
+        "answer": "Starting direct price for Godrej Retreat Karjat is ₹75.00 L, with configuration price range extending up to ₹75.00 L - ₹1.95 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Godrej Retreat Karjat?",
+        "answer": "Godrej Retreat Karjat is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-godrej-hillside-reserve-karjat",
+    "title": "Godrej Hillside Reserve Karjat",
+    "slug": "godrej-hillside-reserve-karjat",
+    "builderId": "b-godrej",
+    "location": "Karjat-Neral Foothills",
+    "city": "Karjat",
+    "priceRange": "₹68.00 L - ₹1.60 Cr",
+    "exactPrice": "₹68.00 L",
+    "pricePerSqft": 5600,
+    "configurations": [
+      "Plotted Villa Land",
+      "Hill View Plot"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1,200 sq.ft Hill View Plot",
+        "carpetArea": "1200 sq.ft",
+        "priceRange": "₹68.00 L"
+      },
+      {
+        "type": "1,600 sq.ft Nature Plot",
+        "carpetArea": "1600 sq.ft",
+        "priceRange": "₹92.00 L"
+      },
+      {
+        "type": "2,400 sq.ft Reserve Plot",
+        "carpetArea": "2400 sq.ft",
+        "priceRange": "₹1.60 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Plot",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Godrej Hillside Reserve Karjat Karjat-Neral Foothills",
+    "lat": 18.9456,
+    "lng": 73.3123,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000052341",
+    "description": "Godrej Hillside Reserve in Karjat-Neral foothills offers branded luxury land parcels situated against the backdrop of the Matheran hills.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Godrej Hillside Reserve Karjat?",
+        "answer": "Godrej Hillside Reserve Karjat is officially registered under MahaRERA registration number P52000052341. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Godrej Hillside Reserve Karjat?",
+        "answer": "Godrej Hillside Reserve Karjat offers Plotted Villa Land, Hill View Plot residences with carpet areas spanning from 1200 sq.ft to 2400 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Godrej Hillside Reserve Karjat?",
+        "answer": "Starting direct price for Godrej Hillside Reserve Karjat is ₹68.00 L, with configuration price range extending up to ₹68.00 L - ₹1.60 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Godrej Hillside Reserve Karjat?",
+        "answer": "Godrej Hillside Reserve Karjat is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-wadhwa-wise-city-karjat",
+    "title": "Wadhwa Wise City Karjat Corridor",
+    "slug": "wadhwa-wise-city-karjat",
+    "builderId": "b-wadhwa",
+    "location": "Chowk",
+    "city": "Karjat",
+    "priceRange": "₹38.00 L - ₹85.00 L",
+    "exactPrice": "₹38.00 L",
+    "pricePerSqft": 5800,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "Townhouse"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Smart",
+        "carpetArea": "440 sq.ft",
+        "priceRange": "₹38.00 L"
+      },
+      {
+        "type": "2 BHK Family",
+        "carpetArea": "640 sq.ft",
+        "priceRange": "₹58.00 L"
+      },
+      {
+        "type": "Townhouse Residence",
+        "carpetArea": "950 sq.ft",
+        "priceRange": "₹85.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Wadhwa Wise City Karjat Corridor Chowk",
+    "lat": 18.9289,
+    "lng": 73.2798,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000019234",
+    "description": "Wadhwa Wise City is a 138-acre mega-integrated township in the Chowk-Karjat corridor offering healthcare, ICSE school, commercial retail, and green living.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Wadhwa Wise City Karjat Corridor?",
+        "answer": "Wadhwa Wise City Karjat Corridor is officially registered under MahaRERA registration number P52000019234. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Wadhwa Wise City Karjat Corridor?",
+        "answer": "Wadhwa Wise City Karjat Corridor offers 1 BHK, 2 BHK, Townhouse residences with carpet areas spanning from 440 sq.ft to 950 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Wadhwa Wise City Karjat Corridor?",
+        "answer": "Starting direct price for Wadhwa Wise City Karjat Corridor is ₹38.00 L, with configuration price range extending up to ₹38.00 L - ₹85.00 L."
+      },
+      {
+        "question": "What is the possession timeline for Wadhwa Wise City Karjat Corridor?",
+        "answer": "Wadhwa Wise City Karjat Corridor is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-wadhwa-magnolia-villas-karjat",
+    "title": "Wadhwa Magnolia Villas Karjat",
+    "slug": "wadhwa-magnolia-villas-karjat",
+    "builderId": "b-wadhwa",
+    "location": "Chowk",
+    "city": "Karjat",
+    "priceRange": "₹1.10 Cr - ₹2.40 Cr",
+    "exactPrice": "₹1.10 Cr",
+    "pricePerSqft": 6800,
+    "configurations": [
+      "3 BHK Villa",
+      "4 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Magnolia Villa",
+        "carpetArea": "1650 sq.ft",
+        "priceRange": "₹1.10 Cr"
+      },
+      {
+        "type": "4 BHK Royal Villa",
+        "carpetArea": "2400 sq.ft",
+        "priceRange": "₹2.40 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Wadhwa Magnolia Villas Karjat Chowk",
+    "lat": 18.9312,
+    "lng": 73.2821,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000028912",
+    "description": "Wadhwa Magnolia Villas offers exclusive independent villas inside Wadhwa Wise City with private front lawns, private parking, and luxury clubhouse access.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Wadhwa Magnolia Villas Karjat?",
+        "answer": "Wadhwa Magnolia Villas Karjat is officially registered under MahaRERA registration number P52000028912. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Wadhwa Magnolia Villas Karjat?",
+        "answer": "Wadhwa Magnolia Villas Karjat offers 3 BHK Villa, 4 BHK Villa residences with carpet areas spanning from 1650 sq.ft to 2400 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Wadhwa Magnolia Villas Karjat?",
+        "answer": "Starting direct price for Wadhwa Magnolia Villas Karjat is ₹1.10 Cr, with configuration price range extending up to ₹1.10 Cr - ₹2.40 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Wadhwa Magnolia Villas Karjat?",
+        "answer": "Wadhwa Magnolia Villas Karjat is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-pushpam-sanskruti-karjat",
+    "title": "Pushpam Sanskruti Resort Homes",
+    "slug": "pushpam-sanskruti-karjat",
+    "builderId": "b-pushpam",
+    "location": "Karjat Central",
+    "city": "Karjat",
+    "priceRange": "₹45.00 L - ₹1.25 Cr",
+    "exactPrice": "₹45.00 L",
+    "pricePerSqft": 5200,
+    "configurations": [
+      "1 BHK Villa Suite",
+      "2 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Resort Suite",
+        "carpetArea": "580 sq.ft",
+        "priceRange": "₹45.00 L"
+      },
+      {
+        "type": "2 BHK Private Pool Villa",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "₹92.00 L"
+      },
+      {
+        "type": "3 BHK Grand Villa",
+        "carpetArea": "1550 sq.ft",
+        "priceRange": "₹1.25 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Pushpam Sanskruti Resort Homes Karjat Central",
+    "lat": 18.9156,
+    "lng": 73.3312,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000018912",
+    "description": "Pushpam Sanskruti is a fully operational resort home community in Karjat featuring managed rental programs, multi-cuisine restaurants, and water park.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Pushpam Sanskruti Resort Homes?",
+        "answer": "Pushpam Sanskruti Resort Homes is officially registered under MahaRERA registration number P52000018912. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Pushpam Sanskruti Resort Homes?",
+        "answer": "Pushpam Sanskruti Resort Homes offers 1 BHK Villa Suite, 2 BHK Villa residences with carpet areas spanning from 580 sq.ft to 1550 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Pushpam Sanskruti Resort Homes?",
+        "answer": "Starting direct price for Pushpam Sanskruti Resort Homes is ₹45.00 L, with configuration price range extending up to ₹45.00 L - ₹1.25 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Pushpam Sanskruti Resort Homes?",
+        "answer": "Pushpam Sanskruti Resort Homes is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-usha-breco-karjat-hillview",
+    "title": "Usha Breco Karjat Hill View",
+    "slug": "usha-breco-karjat-hillview",
+    "builderId": "b-usha-breco",
+    "location": "Kashele",
+    "city": "Karjat",
+    "priceRange": "₹52.00 L - ₹1.45 Cr",
+    "exactPrice": "₹52.00 L",
+    "pricePerSqft": 4900,
+    "configurations": [
+      "2 BHK Villa",
+      "3 BHK Villa",
+      "Plotted Land"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1,500 sq.ft Hillside Plot",
+        "carpetArea": "1500 sq.ft",
+        "priceRange": "₹52.00 L"
+      },
+      {
+        "type": "2 BHK Country Villa",
+        "carpetArea": "1200 sq.ft",
+        "priceRange": "₹88.00 L"
+      },
+      {
+        "type": "3 BHK Nature Estate",
+        "carpetArea": "1750 sq.ft",
+        "priceRange": "₹1.45 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Usha Breco Karjat Hill View Kashele",
+    "lat": 18.9812,
+    "lng": 73.4123,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000031245",
+    "description": "Usha Breco Karjat Hill View is nestled along the Kashele-Bhimashankar nature highway offering hillside second homes with organic farming plots.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Usha Breco Karjat Hill View?",
+        "answer": "Usha Breco Karjat Hill View is officially registered under MahaRERA registration number P52000031245. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Usha Breco Karjat Hill View?",
+        "answer": "Usha Breco Karjat Hill View offers 2 BHK Villa, 3 BHK Villa, Plotted Land residences with carpet areas spanning from 1500 sq.ft to 1750 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Usha Breco Karjat Hill View?",
+        "answer": "Starting direct price for Usha Breco Karjat Hill View is ₹52.00 L, with configuration price range extending up to ₹52.00 L - ₹1.45 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Usha Breco Karjat Hill View?",
+        "answer": "Usha Breco Karjat Hill View is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-nirvana-riverwoods-karjat",
+    "title": "Nirvana Riverwoods Villas",
+    "slug": "nirvana-riverwoods-karjat",
+    "builderId": "b-nirvana-realty",
+    "location": "Karjat Central",
+    "city": "Karjat",
+    "priceRange": "₹72.00 L - ₹1.85 Cr",
+    "exactPrice": "₹72.00 L",
+    "pricePerSqft": 5400,
+    "configurations": [
+      "2 BHK Villa",
+      "3 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Riverside Villa",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹72.00 L"
+      },
+      {
+        "type": "3 BHK Riverfront Palace",
+        "carpetArea": "2100 sq.ft",
+        "priceRange": "₹1.85 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Nirvana Riverwoods Villas Karjat Central",
+    "lat": 18.9089,
+    "lng": 73.3278,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000024512",
+    "description": "Nirvana Riverwoods in Karjat offers direct riverfront villas with private fishing docks, riverside gazebos, and serene mountain backdrop.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Nirvana Riverwoods Villas?",
+        "answer": "Nirvana Riverwoods Villas is officially registered under MahaRERA registration number P52000024512. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Nirvana Riverwoods Villas?",
+        "answer": "Nirvana Riverwoods Villas offers 2 BHK Villa, 3 BHK Villa residences with carpet areas spanning from 1350 sq.ft to 2100 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Nirvana Riverwoods Villas?",
+        "answer": "Starting direct price for Nirvana Riverwoods Villas is ₹72.00 L, with configuration price range extending up to ₹72.00 L - ₹1.85 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Nirvana Riverwoods Villas?",
+        "answer": "Nirvana Riverwoods Villas is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-penta-karjat-green-valley",
+    "title": "Penta Karjat Green Valley",
+    "slug": "penta-karjat-green-valley",
+    "builderId": "b-penta-realty",
+    "location": "Karjat-Neral Foothills",
+    "city": "Karjat",
+    "priceRange": "₹32.00 L - ₹75.00 L",
+    "exactPrice": "₹32.00 L",
+    "pricePerSqft": 4600,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "Villa Plot"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Green Suite",
+        "carpetArea": "450 sq.ft",
+        "priceRange": "₹32.00 L"
+      },
+      {
+        "type": "2 BHK Valley Apartment",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹48.00 L"
+      },
+      {
+        "type": "1,200 sq.ft Plotted Villa",
+        "carpetArea": "1200 sq.ft",
+        "priceRange": "₹75.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Penta Karjat Green Valley Karjat-Neral Foothills",
+    "lat": 18.9512,
+    "lng": 73.3089,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000036789",
+    "description": "Penta Karjat Green Valley offers affordable holiday homes and weekend villa plots with panoramic valley views of the Matheran mountain range.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Penta Karjat Green Valley?",
+        "answer": "Penta Karjat Green Valley is officially registered under MahaRERA registration number P52000036789. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Penta Karjat Green Valley?",
+        "answer": "Penta Karjat Green Valley offers 1 BHK, 2 BHK, Villa Plot residences with carpet areas spanning from 450 sq.ft to 1200 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Penta Karjat Green Valley?",
+        "answer": "Starting direct price for Penta Karjat Green Valley is ₹32.00 L, with configuration price range extending up to ₹32.00 L - ₹75.00 L."
+      },
+      {
+        "question": "What is the possession timeline for Penta Karjat Green Valley?",
+        "answer": "Penta Karjat Green Valley is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-xrbia-karjat-riverfront",
+    "title": "Xrbia Karjat Riverfront",
+    "slug": "xrbia-karjat-riverfront",
+    "builderId": "b-xrbia",
+    "location": "Vavanje",
+    "city": "Karjat",
+    "priceRange": "₹24.00 L - ₹48.00 L",
+    "exactPrice": "₹24.00 L",
+    "pricePerSqft": 4500,
+    "configurations": [
+      "1 RK",
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 RK Studio",
+        "carpetArea": "320 sq.ft",
+        "priceRange": "₹24.00 L"
+      },
+      {
+        "type": "1 BHK Smart",
+        "carpetArea": "460 sq.ft",
+        "priceRange": "₹33.00 L"
+      },
+      {
+        "type": "2 BHK Family",
+        "carpetArea": "650 sq.ft",
+        "priceRange": "₹48.00 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Xrbia Karjat Riverfront Vavanje",
+    "lat": 18.9189,
+    "lng": 73.2512,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000015612",
+    "description": "Xrbia Karjat Riverfront is a self-contained smart township in Vavanje offering riverside boardwalks, convenience shopping, and round-the-clock security.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Xrbia Karjat Riverfront?",
+        "answer": "Xrbia Karjat Riverfront is officially registered under MahaRERA registration number P52000015612. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Xrbia Karjat Riverfront?",
+        "answer": "Xrbia Karjat Riverfront offers 1 RK, 1 BHK, 2 BHK residences with carpet areas spanning from 320 sq.ft to 650 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Xrbia Karjat Riverfront?",
+        "answer": "Starting direct price for Xrbia Karjat Riverfront is ₹24.00 L, with configuration price range extending up to ₹24.00 L - ₹48.00 L."
+      },
+      {
+        "question": "What is the possession timeline for Xrbia Karjat Riverfront?",
+        "answer": "Xrbia Karjat Riverfront is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-hiranandani-karjat-fortune",
+    "title": "Hiranandani Karjat Fortune City Link",
+    "slug": "hiranandani-karjat-fortune",
+    "builderId": "b-hiranandani",
+    "location": "Chowk",
+    "city": "Karjat",
+    "priceRange": "₹65.00 L - ₹1.80 Cr",
+    "exactPrice": "₹65.00 L",
+    "pricePerSqft": 6400,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Classical",
+        "carpetArea": "520 sq.ft",
+        "priceRange": "₹65.00 L"
+      },
+      {
+        "type": "2 BHK Imperial",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "₹98.00 L"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "₹1.80 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Hiranandani Karjat Fortune City Link Chowk",
+    "lat": 18.9345,
+    "lng": 73.2756,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000041289",
+    "description": "Hiranandani Karjat Fortune City Link offers signature Hiranandani architecture with Roman arches, extensive open green spaces, and upcoming airport access.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Hiranandani Karjat Fortune City Link?",
+        "answer": "Hiranandani Karjat Fortune City Link is officially registered under MahaRERA registration number P52000041289. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Hiranandani Karjat Fortune City Link?",
+        "answer": "Hiranandani Karjat Fortune City Link offers 1 BHK, 2 BHK, 3 BHK residences with carpet areas spanning from 520 sq.ft to 1150 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Hiranandani Karjat Fortune City Link?",
+        "answer": "Starting direct price for Hiranandani Karjat Fortune City Link is ₹65.00 L, with configuration price range extending up to ₹65.00 L - ₹1.80 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Hiranandani Karjat Fortune City Link?",
+        "answer": "Hiranandani Karjat Fortune City Link is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-rohan-karjat-country-homes",
+    "title": "Rohan Karjat Country Homes",
+    "slug": "rohan-karjat-country-homes",
+    "builderId": "b-rohan",
+    "location": "Kashele",
+    "city": "Karjat",
+    "priceRange": "₹58.00 L - ₹1.40 Cr",
+    "exactPrice": "₹58.00 L",
+    "pricePerSqft": 4800,
+    "configurations": [
+      "2 BHK Villa",
+      "3 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK PLUS Villa",
+        "carpetArea": "1200 sq.ft",
+        "priceRange": "₹58.00 L"
+      },
+      {
+        "type": "3 BHK Country Manor",
+        "carpetArea": "1750 sq.ft",
+        "priceRange": "₹1.40 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Rohan Karjat Country Homes Kashele",
+    "lat": 18.9756,
+    "lng": 73.4089,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000048912",
+    "description": "Rohan Karjat Country Homes in Kashele provides zero-wastage open-concept country villas with private courtyards, vegetable patches, and mountain views.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Rohan Karjat Country Homes?",
+        "answer": "Rohan Karjat Country Homes is officially registered under MahaRERA registration number P52000048912. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Rohan Karjat Country Homes?",
+        "answer": "Rohan Karjat Country Homes offers 2 BHK Villa, 3 BHK Villa residences with carpet areas spanning from 1200 sq.ft to 1750 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Rohan Karjat Country Homes?",
+        "answer": "Starting direct price for Rohan Karjat Country Homes is ₹58.00 L, with configuration price range extending up to ₹58.00 L - ₹1.40 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Rohan Karjat Country Homes?",
+        "answer": "Rohan Karjat Country Homes is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-runwal-karjat-bliss",
+    "title": "Runwal Karjat Bliss",
+    "slug": "runwal-karjat-bliss",
+    "builderId": "b-runwal",
+    "location": "Karjat Central",
+    "city": "Karjat",
+    "priceRange": "₹35.00 L - ₹78.00 L",
+    "exactPrice": "₹35.00 L",
+    "pricePerSqft": 5100,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Cozy",
+        "carpetArea": "460 sq.ft",
+        "priceRange": "₹35.00 L"
+      },
+      {
+        "type": "2 BHK Bliss",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹54.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "790 sq.ft",
+        "priceRange": "₹78.00 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Runwal Karjat Bliss Karjat Central",
+    "lat": 18.9178,
+    "lng": 73.3289,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000035612",
+    "description": "Runwal Karjat Bliss offers peaceful nature living in Central Karjat with infinity edge pool, gymnasium, meditation lawn, and kid's adventure area.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Runwal Karjat Bliss?",
+        "answer": "Runwal Karjat Bliss is officially registered under MahaRERA registration number P52000035612. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Runwal Karjat Bliss?",
+        "answer": "Runwal Karjat Bliss offers 1 BHK, 2 BHK residences with carpet areas spanning from 460 sq.ft to 790 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Runwal Karjat Bliss?",
+        "answer": "Starting direct price for Runwal Karjat Bliss is ₹35.00 L, with configuration price range extending up to ₹35.00 L - ₹78.00 L."
+      },
+      {
+        "question": "What is the possession timeline for Runwal Karjat Bliss?",
+        "answer": "Runwal Karjat Bliss is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
+  },
+  {
+    "id": "p-lodha-karjat-crown-estates",
+    "title": "Lodha Karjat Crown Estates",
+    "slug": "lodha-karjat-crown-estates",
+    "builderId": "b-lodha",
+    "location": "Chowk",
+    "city": "Karjat",
+    "priceRange": "₹85.00 L - ₹2.25 Cr",
+    "exactPrice": "₹85.00 L",
+    "pricePerSqft": 6500,
+    "configurations": [
+      "Villa Plot",
+      "Estate Plot",
+      "3 BHK Villa"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1,500 sq.ft Crown Plot",
+        "carpetArea": "1500 sq.ft",
+        "priceRange": "₹85.00 L"
+      },
+      {
+        "type": "2,200 sq.ft Imperial Plot",
+        "carpetArea": "2200 sq.ft",
+        "priceRange": "₹1.45 Cr"
+      },
+      {
+        "type": "3 BHK Designer Villa",
+        "carpetArea": "1850 sq.ft",
+        "priceRange": "₹2.25 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImageAlt": "Lodha Karjat Crown Estates Chowk",
+    "lat": 18.9267,
+    "lng": 73.2812,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
+      "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
+    ],
+    "reraId": "P52000054129",
+    "description": "Lodha Karjat Crown Estates is an ultra-exclusive gated enclave in Chowk offering curated villa plots and designer holiday villas with 5-star club privileges.",
+    "features": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "amenities": [
+      "Clubhouse with Gymnasium",
+      "Swimming Pool & Kids Splash Zone",
+      "Landscaped Courtyard Gardens",
+      "24x7 Multi-Tier Security & CCTV",
+      "Children Play Area",
+      "Jogging & Strolling Track"
+    ],
+    "highlights": [
+      "100% Zero Brokerage Partner",
+      "MahaRERA Certified Development",
+      "Prime Transit Connectivity",
+      "Superior Construction Standards"
+    ],
+    "specs": [
+      {
+        "label": "Structure",
+        "value": "Earthquake resistant RCC framed structure conforming to IS code"
+      },
+      {
+        "label": "Flooring",
+        "value": "800x800mm premium glazed vitrified tiles in living, dining & bedrooms"
+      },
+      {
+        "label": "Kitchen",
+        "value": "Granite platform with stainless steel sink & glazed ceramic tile dado"
+      },
+      {
+        "label": "Toilets",
+        "value": "Premium sanitaryware & CP fittings (Kohler / Jaquar or equivalent)"
+      },
+      {
+        "label": "Electrical",
+        "value": "Concealed copper wiring with modular switches (Schneider / Legrand)"
+      },
+      {
+        "label": "Doors & Windows",
+        "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the MahaRERA registration number for Lodha Karjat Crown Estates?",
+        "answer": "Lodha Karjat Crown Estates is officially registered under MahaRERA registration number P52000054129. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+      },
+      {
+        "question": "What unit configurations and carpet areas are offered at Lodha Karjat Crown Estates?",
+        "answer": "Lodha Karjat Crown Estates offers Villa Plot, Estate Plot, 3 BHK Villa residences with carpet areas spanning from 1500 sq.ft to 1850 sq.ft."
+      },
+      {
+        "question": "What is the starting price for Lodha Karjat Crown Estates?",
+        "answer": "Starting direct price for Lodha Karjat Crown Estates is ₹85.00 L, with configuration price range extending up to ₹85.00 L - ₹2.25 Cr."
+      },
+      {
+        "question": "What is the possession timeline for Lodha Karjat Crown Estates?",
+        "answer": "Lodha Karjat Crown Estates is scheduled for handover by undefined. Site visits and legal document checks can be booked directly."
+      }
+    ],
+    "verificationStatus": "Verified"
   }
 ];

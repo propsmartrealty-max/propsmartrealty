@@ -330,7 +330,8 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                             { id: 'Thane', label: 'Thane' },
                             { id: 'Navi Mumbai', label: 'Navi Mumbai' },
                             { id: 'Lonavala', label: 'Lonavala' },
-                            { id: 'Alibaug', label: 'Alibaug' }
+                            { id: 'Alibaug', label: 'Alibaug' },
+                            { id: 'Karjat', label: 'Karjat' }
                         ].map((c) => {
                             const active = selectedCity === c.id;
                             return (

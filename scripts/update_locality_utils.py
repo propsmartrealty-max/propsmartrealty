@@ -118,7 +118,8 @@ export const SUPPORTED_CITIES = [
     'Thane',
     'Navi Mumbai',
     'Lonavala',
-    'Alibaug'
+    'Alibaug',
+    'Karjat'
 ] as const;
 
 export type SupportedCity = typeof SUPPORTED_CITIES[number];
@@ -204,6 +205,19 @@ export const CITY_CONFIG: Record<string, CityMetadata> = {{
         zones: [
             {{ id: 'featured', label: '⭐ Featured Beach Corridors' }},
             {{ id: 'all', label: 'All Alibaug Coastal Belts' }}
+        ]
+    }},
+    'Karjat': {{
+        name: 'Karjat',
+        icon: '🌄',
+        tagline: 'Scenic Foothills, Riverfront Villas & Investment Townships',
+        subtext: 'Bhimashankar foothills, Chowk-Morbe Lake & Mumbai-Pune connectivity corridor',
+        zones: [
+            {{ id: 'featured', label: '⭐ Featured Corridors' }},
+            {{ id: 'central', label: 'Karjat Central & Station Corridor' }},
+            {{ id: 'foothills', label: 'Karjat-Neral & Kashele Foothills' }},
+            {{ id: 'expressway', label: 'Chowk & Expressway Link' }},
+            {{ id: 'all', label: 'All Karjat Corridors' }}
         ]
     }}
 }};

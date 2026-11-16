@@ -60,7 +60,7 @@ export interface Project {
   slug: string;
   builderId: string;
   location: string;
-  city?: 'Pune' | 'Mumbai' | 'Lonavala' | 'Alibaug' | string;
+  city?: 'Pune' | 'Mumbai' | 'Thane' | 'Navi Mumbai' | 'Lonavala' | 'Alibaug' | 'Karjat' | string;
   priceRange: string;
   configurations: string[]; // e.g. "2 BHK", "3 BHK"
   configurationDetails?: { // Richer details for carpet area
@@ -139,7 +139,7 @@ export interface Locality {
   id: string;
   name: string;
   slug?: string;
-  city?: 'Pune' | 'Mumbai' | 'Thane' | 'Navi Mumbai' | 'Lonavala' | 'Alibaug' | string;
+  city?: 'Pune' | 'Mumbai' | 'Thane' | 'Navi Mumbai' | 'Lonavala' | 'Alibaug' | 'Karjat' | string;
   zone?: 'West Pune' | 'East Pune' | 'South & Central' | 'North Pune (PCMC)' | string;
   isFeatured?: boolean;
   image?: string;
