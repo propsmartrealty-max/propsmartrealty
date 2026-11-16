@@ -14,6 +14,7 @@ const ELITE_BUILDER_KEYS = [
     'kolte-patil',
     'vtp',
     'lodha',
+    'paranjape',
     'kasturi',
     'sobha',
     'tata',
@@ -51,17 +52,17 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
         }
 
         // 2. Fill remaining from verified builders
-        if (eliteMatches.length < 11) {
+        if (eliteMatches.length < 12) {
             for (const b of builders) {
                 if (!seenIds.has(b.id)) {
                     eliteMatches.push(b);
                     seenIds.add(b.id);
-                    if (eliteMatches.length >= 11) break;
+                    if (eliteMatches.length >= 12) break;
                 }
             }
         }
 
-        return eliteMatches.slice(0, 11);
+        return eliteMatches.slice(0, 12);
     }, [builders]);
 
     return (

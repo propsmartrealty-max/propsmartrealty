@@ -16,7 +16,7 @@ export const CITIES_CONFIG = [
         icon: Building2,
         accent: 'from-blue-600 to-indigo-700',
         tagBg: 'bg-blue-50 text-blue-700 border-blue-200',
-        description: 'VTP, Kolte-Patil, Godrej, Lodha, Rohan & Pride Purple townships across Hinjewadi, Kharadi, Baner, Wakad, Mahalunge & Bavdhan.',
+        description: 'VTP, Kolte-Patil, Godrej, Lodha, Paranjape Schemes, Rohan & Pride Purple townships across Hinjewadi, Kharadi, Baner, Wakad, Mahalunge & Bavdhan.',
         startingPrice: '₹54 L'
     },
     {
@@ -26,7 +26,7 @@ export const CITIES_CONFIG = [
         icon: Building2,
         accent: 'from-purple-600 to-indigo-800',
         tagBg: 'bg-purple-50 text-purple-700 border-purple-200',
-        description: 'Iconic sea-facing & urban towers by Lodha & Godrej across Worli, Mahalaxmi, Altamount Road, Bandra, Powai, and Thane.',
+        description: 'Iconic sea-facing & urban towers by Lodha, Godrej & Paranjape Schemes across Worli, Bandra, Andheri, Powai, and Thane.',
         startingPrice: '₹42 L'
     },
     {
