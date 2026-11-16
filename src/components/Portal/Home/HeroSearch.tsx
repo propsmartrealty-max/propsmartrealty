@@ -81,11 +81,22 @@ const TABS = [
 ];
 
 const HERO_CITIES = [
-    { id: 'Pune', label: 'Pune', badge: '576 Projects' },
-    { id: 'Mumbai', label: 'Mumbai', badge: '23 Projects' },
-    { id: 'Lonavala', label: 'Lonavala', badge: '4 Projects' },
-    { id: 'Alibaug', label: 'Alibaug', badge: '2 Projects' },
+    { id: 'Pune', label: 'Pune', badge: '687 Projects' },
+    { id: 'Mumbai', label: 'Mumbai', badge: '41 Projects' },
+    { id: 'Thane', label: 'Thane', badge: '19 Projects' },
+    { id: 'Lonavala', label: 'Lonavala', badge: '8 Projects' },
+    { id: 'Navi Mumbai', label: 'Navi Mumbai', badge: '3 Projects' },
+    { id: 'Alibaug', label: 'Alibaug', badge: '3 Projects' },
 ];
+
+const CITY_HERO_LOCALITIES: Record<string, string[]> = {
+    'Pune': ['Hinjewadi', 'Baner', 'Wakad', 'Balewadi', 'Punawale', 'Tathawade', 'Kharadi', 'Aundh', 'Pashan', 'Bhugaon', 'Bavdhan', 'Kothrud'],
+    'Mumbai': ['Bandra West', 'Powai', 'Worli', 'Andheri West', 'Mulund West', 'Goregaon East', 'Borivali East', 'Kanjurmarg', 'Wadala', 'Chembur', 'Mahalaxmi', 'Versova'],
+    'Thane': ['Kolshet Road', 'Pokhran Road', 'Majiwada', 'Ghodbunder Road', 'Balkum', 'Manpada', 'Hiranandani Estate', 'Thane West', 'Upper Thane'],
+    'Navi Mumbai': ['Panvel', 'Navi Mumbai Central'],
+    'Lonavala': ['Khandala', 'Kunegaon', 'Khalapur', 'Khopoli Foothills', 'Gahunje'],
+    'Alibaug': ['Mandwa Jetty Corridor', 'Awas Beach', 'Shrivardhan-Diveagar']
+};
 
 const HeroSearch = () => {
     const navigate = useNavigate();
@@ -333,11 +344,11 @@ const HeroSearch = () => {
                                 {showSuggestions && (
                                     <div className="absolute top-[calc(100%+20px)] left-[-20px] right-[-20px] glass-panel rounded-3xl shadow-2xl border border-white/80 p-4 z-50 animate-in fade-in duration-200">
                                         <h4 className="font-sans font-extrabold text-xs text-sky-700 px-3 py-1 uppercase tracking-wider flex items-center justify-between">
-                                            <span>Featured Prime Localities</span>
-                                            <span className="text-[10px] text-sky-600 font-bold lowercase">★ prime corridors</span>
+                                            <span>Prime {selectedCity} Corridors</span>
+                                            <span className="text-[10px] text-sky-600 font-bold lowercase">★ top micro-markets</span>
                                         </h4>
                                         <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 mt-2">
-                                            {['Hinjewadi', 'Baner', 'Wakad', 'Balewadi', 'Punawale', 'Tathawade', 'Kharadi', 'Aundh', 'Pashan', 'Bhugaon', 'Bavdhan', 'Kothrud'].map(loc => (
+                                            {(CITY_HERO_LOCALITIES[selectedCity] || CITY_HERO_LOCALITIES['Pune']).map(loc => (
                                                 <div
                                                     key={loc}
                                                     className="px-3 py-2 hover:bg-sky-50/80 hover:text-sky-700 rounded-xl cursor-pointer flex items-center gap-2.5 transition-colors border border-transparent hover:border-sky-200"

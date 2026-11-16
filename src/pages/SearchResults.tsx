@@ -327,6 +327,8 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                             { id: 'All', label: 'All Cities' },
                             { id: 'Pune', label: 'Pune' },
                             { id: 'Mumbai', label: 'Mumbai' },
+                            { id: 'Thane', label: 'Thane' },
+                            { id: 'Navi Mumbai', label: 'Navi Mumbai' },
                             { id: 'Lonavala', label: 'Lonavala' },
                             { id: 'Alibaug', label: 'Alibaug' }
                         ].map((c) => {
@@ -556,13 +558,20 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                             <div className="mb-6 bg-white p-3.5 rounded-2xl border border-slate-200/80 shadow-sm">
                                 <div className="flex items-center gap-2 mb-2 text-xs font-sans font-extrabold text-slate-400 uppercase tracking-wider">
                                     <Sparkles className="w-3.5 h-3.5 text-amber-500" />
-                                    Explore Prime Featured Pune Corridors
+                                    Explore Prime Featured {selectedCity !== 'All' ? selectedCity : 'Maharashtra'} Corridors
                                 </div>
                                 <div className="flex flex-wrap gap-2">
-                                    {PROPSMART_LOCALITIES.filter(l => l.isFeatured).slice(0, 12).map(loc => (
+                                    {(selectedCity === 'All' 
+                                        ? PROPSMART_LOCALITIES.filter(l => l.isFeatured).slice(0, 14)
+                                        : (() => {
+                                            const list = PROPSMART_LOCALITIES.filter(l => l.city.toLowerCase() === selectedCity.toLowerCase());
+                                            const feat = list.filter(l => l.isFeatured);
+                                            return (feat.length > 0 ? feat : list).slice(0, 14);
+                                        })()
+                                    ).map(loc => (
                                         <Link
                                             key={loc.name}
-                                            to={`/search?location=${encodeURIComponent(loc.name)}`}
+                                            to={`/search?city=${encodeURIComponent(loc.city)}&location=${encodeURIComponent(loc.name)}`}
                                             className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-50 border border-slate-200 hover:bg-brand-50 hover:border-brand-300 transition-all shadow-xs group"
                                         >
                                             <img

@@ -206,8 +206,8 @@ async function run() {
                 : `${BASE_URL}${loc.image_url || loc.imageUrl}`;
             sitemapLocalitiesXml += `    <image:image>
       <image:loc>${escapeXml(locImg)}</image:loc>
-      <image:title>Flats &amp; Properties in ${escapeXml(loc.name)}, Pune</image:title>
-      <image:caption>Verified residential properties and projects in ${escapeXml(loc.name)} - 100% Brokerage Free</image:caption>
+      <image:title>Flats &amp; Properties in ${escapeXml(loc.name)}, ${escapeXml(loc.city || 'Pune')}</image:title>
+      <image:caption>Verified residential properties and projects in ${escapeXml(loc.name)}, ${escapeXml(loc.city || 'Pune')} - 100% Brokerage Free</image:caption>
     </image:image>
 `;
         }

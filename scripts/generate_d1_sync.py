@@ -13,7 +13,7 @@ b_match = re.search(r'export const BUILDERS: Builder\[\] = (\[[\s\S]*?\]);\n\nex
 builders = json.loads(b_match.group(1))
 
 p_match = re.search(r'export const PROJECTS: Project\[\] = (\[[\s\S]*?\]);\n?$', content)
-projects = json.loads(p_match.group(1))
+projects = json.loads(p_match.group(1), strict=False)
 
 def esc(val):
     if val is None:
@@ -41,16 +41,22 @@ out.append("DELETE FROM builders;")
 out.append("DELETE FROM localities;\n")
 
 # 2. Insert Localities
-out.append("-- 2. Insert Localities (107)")
+out.append(f"-- 2. Insert Localities ({len(locations)})")
 for loc in locations:
     l_id = esc(loc.get('id') or loc['name'].lower().replace(' ', '-'))
     l_name = esc(loc['name'])
+    l_slug = esc(loc.get('slug') or loc['name'].lower().replace(' ', '-'))
+    l_city = esc(loc.get('city') or 'Pune')
+    l_zone = esc(loc.get('zone') or 'West Pune')
+    l_is_feat = '1' if loc.get('isFeatured') else '0'
+    l_proj_cnt = esc(loc.get('projectCount') or 0)
     l_rate = esc(loc.get('avgPriceSqft') or 8500)
     l_appr = esc(loc.get('appreciation_rate') or 8.0)
     l_img = esc(loc.get('image') or f"/images/localities/{loc['name'].lower().replace(' ', '-')}.svg")
+    l_tag = esc(loc.get('tagline') or 'High Growth Corridor')
     l_desc = esc(loc.get('description') or f"Prime residential corridor in {loc['name']} with high capital appreciation.")
     
-    out.append(f"INSERT INTO localities (id, name, avg_price_sqft, appreciation_rate, image_url, description) VALUES ({l_id}, {l_name}, {l_rate}, {l_appr}, {l_img}, {l_desc});")
+    out.append(f"INSERT INTO localities (id, name, slug, city, zone, is_featured, project_count, avg_price_sqft, appreciation_rate, image_url, tagline, description) VALUES ({l_id}, {l_name}, {l_slug}, {l_city}, {l_zone}, {l_is_feat}, {l_proj_cnt}, {l_rate}, {l_appr}, {l_img}, {l_tag}, {l_desc});")
 
 out.append("\n-- 3. Insert Builders (303)")
 for b in builders:

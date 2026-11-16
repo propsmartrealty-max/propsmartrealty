@@ -1,21 +1,25 @@
-
-import React from 'react';
+import React, { useState, useMemo } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { useData } from '../context/DataContext';
-// import { LOCATIONS } from '../data/mockData';
 import PortalNavbar from '../components/Portal/Navbar';
 import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
-import { CheckCircle2, ShieldCheck, MapPin, Sparkles } from 'lucide-react';
+import { CheckCircle2, ShieldCheck, MapPin, Sparkles, Building2, Layers } from 'lucide-react';
 import LocalityCard from '../components/Portal/LocalityCard';
-import { getLocalityImageUrl, PROPSMART_LOCALITIES } from '../utils/localityUtils';
+import { 
+    getLocalityImageUrl, 
+    PROPSMART_LOCALITIES, 
+    SUPPORTED_CITIES, 
+    CITY_CONFIG, 
+    getFeaturedLocalitiesByCity, 
+    getLocalitiesByCity 
+} from '../utils/localityUtils';
 import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
 import { resolveBuilderLogo } from '../utils/builderUtils';
-
 import PropertyCard from '../components/Portal/PropertyCard';
 
 const BuildersGrid = ({ builders }: { builders: any[] }) => {
-    const [erroredImages, setErroredImages] = React.useState<Record<string, boolean>>({});
+    const [erroredImages, setErroredImages] = useState<Record<string, boolean>>({});
 
     const handleImageError = (builderId: string) => {
         setErroredImages(prev => ({ ...prev, [builderId]: true }));
@@ -78,11 +82,30 @@ const BuildersGrid = ({ builders }: { builders: any[] }) => {
 
 const Directory = () => {
     const { projects, builders } = useData();
-    const [searchParams] = useSearchParams();
+    const [searchParams, setSearchParams] = useSearchParams();
     const view = searchParams.get('view') || 'projects'; // 'projects' | 'builders'
+    const cityParam = searchParams.get('city') || 'All';
+
+    const [selectedCity, setSelectedCity] = useState<string>(cityParam);
+
+    // Sync selectedCity when URL city param changes
+    React.useEffect(() => {
+        if (cityParam) setSelectedCity(cityParam);
+    }, [cityParam]);
+
+    const handleCityChange = (city: string) => {
+        setSelectedCity(city);
+        const nextParams = new URLSearchParams(searchParams);
+        if (city === 'All') {
+            nextParams.delete('city');
+        } else {
+            nextParams.set('city', city);
+        }
+        setSearchParams(nextParams);
+    };
 
     // Filter out test data and invalid entries
-    const validProjects = React.useMemo(() => {
+    const validProjects = useMemo(() => {
         return projects.filter(p =>
             p.title &&
             !p.title.toLowerCase().includes('test') &&
@@ -90,29 +113,46 @@ const Directory = () => {
         );
     }, [projects]);
 
-    // Derive locations dynamically from valid projects
-    const locations = React.useMemo(() => {
-        const locs: Record<string, number> = {};
-        validProjects.forEach(p => {
-            if (p.location) {
-                const l = p.location.trim();
-                locs[l] = (locs[l] || 0) + 1;
-            }
+    // Filter projects by city
+    const filteredProjects = useMemo(() => {
+        if (selectedCity === 'All') return validProjects;
+        return validProjects.filter(p => (p.city || 'Pune').toLowerCase() === selectedCity.toLowerCase());
+    }, [validProjects, selectedCity]);
+
+    // Featured localities for active city
+    const featuredLocalities = useMemo(() => {
+        if (selectedCity === 'All') {
+            return PROPSMART_LOCALITIES.filter(l => l.isFeatured).slice(0, 12);
+        }
+        return getFeaturedLocalitiesByCity(selectedCity, 12);
+    }, [selectedCity]);
+
+    // Micro-locations grouped by city
+    const cityWiseLocations = useMemo(() => {
+        const groups: Record<string, { name: string; count: number; image: string; slug: string }[]> = {};
+        
+        SUPPORTED_CITIES.forEach(c => {
+            const cityProjs = validProjects.filter(p => (p.city || 'Pune').toLowerCase() === c.toLowerCase());
+            const locCounts: Record<string, number> = {};
+            cityProjs.forEach(p => {
+                const loc = p.location ? p.location.trim() : c;
+                locCounts[loc] = (locCounts[loc] || 0) + 1;
+            });
+
+            groups[c] = Object.entries(locCounts)
+                .sort((a, b) => b[1] - a[1])
+                .map(([name, count]) => ({
+                    name,
+                    count,
+                    image: getLocalityImageUrl(name),
+                    slug: name.toLowerCase().replace(/\s+/g, '-')
+                }));
         });
-        return Object.entries(locs).sort((a, b) => b[1] - a[1]).map(([name, count]) => ({ name, count, id: name }));
+
+        return groups;
     }, [validProjects]);
 
-    const getInitials = (name: string) => {
-        return name
-            .split(' ')
-            .map(word => word[0])
-            .join('')
-            .substring(0, 2)
-            .toUpperCase();
-    };
-
-
-    const directoryJsonLd = React.useMemo(() => [
+    const directoryJsonLd = useMemo(() => [
         {
             "@context": "https://schema.org",
             "@type": "BreadcrumbList",
@@ -134,19 +174,23 @@ const Directory = () => {
         {
             "@context": "https://schema.org",
             "@type": "CollectionPage",
-            "name": view === 'builders' ? "Top Real Estate Developers & Builders in Pune & Maharashtra" : "Residential Property Projects Directory - Pune & Maharashtra",
-            "url": `https://propsmart.co.in/directory${view === 'builders' ? '?view=builders' : ''}`,
-            "description": "Complete directory of verified residential projects, luxury apartments, and accredited developers across Pune and Maharashtra with 100% zero brokerage."
+            "name": view === 'builders' 
+                ? "Top Real Estate Developers & Builders in Pune & Maharashtra" 
+                : `${selectedCity === 'All' ? 'Maharashtra' : selectedCity} Real Estate Directory - Verified Residential Projects`,
+            "url": `https://propsmart.co.in/directory${view === 'builders' ? '?view=builders' : (selectedCity !== 'All' ? `?city=${selectedCity}` : '')}`,
+            "description": "Complete directory of verified residential projects, luxury apartments, and accredited developers across Pune, Mumbai, Thane, and Maharashtra with 100% zero brokerage."
         }
-    ], [view]);
+    ], [view, selectedCity]);
 
     return (
         <div className="min-h-screen bg-slate-50 relative selection:bg-sky-500 selection:text-white">
             <WaterAmbientBackground />
             <SEO
-                title={view === 'builders' ? "Top Real Estate Builders in Pune & Maharashtra - Buy Directly | PROPSMART REALTY" : "All Property Projects in Pune & Maharashtra - 100% Brokerage Free | PROPSMART REALTY"}
-                description="Browse our complete directory of verified real estate projects and 300+ accredited builders across Pune, Mumbai, and Maharashtra. Buy directly from developers with 100% zero brokerage."
-                canonical={`https://propsmart.co.in/directory${view === 'builders' ? '?view=builders' : ''}`}
+                title={view === 'builders' 
+                    ? "Top Real Estate Builders in Pune & Maharashtra - Buy Directly | PROPSMART REALTY" 
+                    : `${selectedCity === 'All' ? 'Maharashtra' : selectedCity} Property Directory - 100% Brokerage Free | PROPSMART REALTY`}
+                description={`Browse our complete directory of verified real estate projects and 300+ accredited builders across ${selectedCity === 'All' ? 'Pune, Mumbai, Thane & Maharashtra' : selectedCity}. Buy directly from developers with 100% zero brokerage.`}
+                canonical={`https://propsmart.co.in/directory${view === 'builders' ? '?view=builders' : (selectedCity !== 'All' ? `?city=${selectedCity}` : '')}`}
                 jsonLd={directoryJsonLd}
             />
             <PortalNavbar variant="colored" />
@@ -158,20 +202,30 @@ const Directory = () => {
                     </div>
                 </div>
                 <div className="flex flex-col md:flex-row items-baseline justify-between mb-8 gap-4">
-                    <h1 className="text-3xl font-extrabold text-slate-900 tracking-tight">
-                        {view === 'builders' ? 'Pune Real Estate Developers' : 'Pune Real Estate Directory'}
-                    </h1>
+                    <div>
+                        <h1 className="text-3xl font-extrabold text-slate-900 tracking-tight">
+                            {view === 'builders' 
+                                ? 'Top Real Estate Developers' 
+                                : `${selectedCity === 'All' ? 'Maharashtra' : selectedCity} Real Estate Directory`}
+                        </h1>
+                        <p className="font-sans text-xs md:text-sm text-slate-500 mt-1">
+                            {view === 'builders'
+                                ? '300+ Accredited developers with verified MahaRERA track records'
+                                : `${filteredProjects.length} verified projects with zero brokerage and direct developer pricing`
+                            }
+                        </p>
+                    </div>
 
                     {/* View Switcher/Tabs */}
                     <div className="flex gap-2 p-1 bg-white/70 backdrop-blur-xl border border-white/80 rounded-2xl shadow-glass-sm">
                         <Link
-                            to="/directory?view=projects"
+                            to={`/directory?view=projects${selectedCity !== 'All' ? `&city=${selectedCity}` : ''}`}
                             className={`px-5 py-2.5 rounded-xl font-sans font-bold text-sm transition-all duration-300 ${view !== 'builders' ? 'water-btn text-white shadow-md' : 'text-slate-600 hover:text-sky-600 hover:bg-white/60'}`}
                         >
-                            Projects ({validProjects.length})
+                            Projects ({filteredProjects.length})
                         </Link>
                         <Link
-                            to="/directory?view=builders"
+                            to={`/directory?view=builders${selectedCity !== 'All' ? `&city=${selectedCity}` : ''}`}
                             className={`px-5 py-2.5 rounded-xl font-sans font-bold text-sm transition-all duration-300 ${view === 'builders' ? 'water-btn text-white shadow-md' : 'text-slate-600 hover:text-sky-600 hover:bg-white/60'}`}
                         >
                             Builders ({builders.length})
@@ -195,57 +249,163 @@ const Directory = () => {
                 ) : (
                     /* Projects View */
                     <>
-                        {/* 1. Highlighted Locality Cards Section - Distinct images & uniform bold typography */}
+                        {/* City Segregation Bar */}
+                        <div className="glass-panel p-3.5 rounded-3xl border border-white/80 shadow-[0_8px_32px_rgba(14,165,233,0.06)] mb-8 flex flex-wrap items-center gap-2">
+                            <span className="text-[11px] font-black text-slate-400 uppercase tracking-wider px-2">City Filter:</span>
+                            <button
+                                onClick={() => handleCityChange('All')}
+                                className={`px-4 py-2 rounded-2xl text-xs font-bold transition-all ${
+                                    selectedCity === 'All'
+                                        ? 'bg-slate-900 text-white shadow-md'
+                                        : 'bg-white text-slate-700 hover:bg-slate-100 border border-slate-200/70'
+                                }`}
+                            >
+                                All Cities ({validProjects.length})
+                            </button>
+                            {SUPPORTED_CITIES.map((c) => {
+                                const cityCount = validProjects.filter(p => (p.city || 'Pune').toLowerCase() === c.toLowerCase()).length;
+                                const isSelected = selectedCity.toLowerCase() === c.toLowerCase();
+                                const meta = CITY_CONFIG[c];
+                                return (
+                                    <button
+                                        key={c}
+                                        onClick={() => handleCityChange(c)}
+                                        className={`inline-flex items-center gap-1.5 px-4 py-2 rounded-2xl text-xs font-bold transition-all ${
+                                            isSelected
+                                                ? 'bg-slate-900 text-white shadow-md'
+                                                : 'bg-white text-slate-700 hover:bg-slate-100 border border-slate-200/70'
+                                        }`}
+                                    >
+                                        <span>{meta?.icon || '📍'}</span>
+                                        <span>{c}</span>
+                                        <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${isSelected ? 'bg-white/20 text-white' : 'bg-slate-100 text-slate-500'}`}>
+                                            {cityCount}
+                                        </span>
+                                    </button>
+                                );
+                            })}
+                        </div>
+
+                        {/* 1. Highlighted Locality Cards Section */}
                         <section className="mb-12">
                             <div className="flex items-center justify-between mb-5">
                                 <div>
                                     <h3 className="font-sans font-extrabold text-2xl text-slate-900 tracking-tight flex items-center gap-2">
                                         <Sparkles className="w-5 h-5 text-amber-500" />
-                                        Prime Featured Pune Localities
+                                        Prime Featured {selectedCity === 'All' ? 'Maharashtra' : selectedCity} Corridors
                                     </h3>
-                                    <p className="font-sans text-xs md:text-sm text-slate-500 mt-0.5">Explore key investment zones across West, East, South & PCMC corridors</p>
+                                    <p className="font-sans text-xs md:text-sm text-slate-500 mt-0.5">
+                                        Top real estate investment micro-markets in {selectedCity === 'All' ? 'Pune, Mumbai, Thane & Maharashtra' : selectedCity}
+                                    </p>
                                 </div>
                             </div>
                             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-6 gap-4">
-                                {PROPSMART_LOCALITIES.filter(l => l.isFeatured).slice(0, 12).map(loc => (
-                                    <LocalityCard key={loc.name} locality={loc} />
+                                {featuredLocalities.map(loc => (
+                                    <LocalityCard key={loc.id || loc.name} locality={loc} />
                                 ))}
                             </div>
                         </section>
 
-                        {/* 2. Standardized Location Filter Tabs/Pills */}
+                        {/* 2. City-Wise Segregated Micro-Markets Filter Strip */}
                         <section className="mb-10">
-                            <div className="flex items-center gap-2 mb-3">
+                            <div className="flex items-center gap-2 mb-4">
                                 <MapPin className="w-4 h-4 text-brand-600" />
-                                <span className="font-sans font-extrabold text-xs uppercase tracking-wider text-slate-400">Filter By Location</span>
+                                <span className="font-sans font-extrabold text-xs uppercase tracking-wider text-slate-400">
+                                    Browse Micro-Markets ({selectedCity === 'All' ? 'All Cities' : selectedCity})
+                                </span>
                             </div>
-                            <div className="flex flex-wrap gap-2.5">
-                                {locations.map(loc => (
-                                    <Link
-                                        key={loc.id}
-                                        to={`/search?location=${encodeURIComponent(loc.name)}`}
-                                        className="inline-flex items-center gap-2 px-3.5 py-2 glass-pill hover:border-sky-300 hover:shadow-md transition-all group"
-                                    >
-                                        <img
-                                            src={getLocalityImageUrl(loc.name)}
-                                            alt=""
-                                            className="w-5 h-5 rounded-full object-cover border border-slate-200 group-hover:scale-110 transition-transform"
-                                        />
-                                        <span className="font-sans font-bold text-sm tracking-tight text-slate-800 group-hover:text-sky-600 transition-colors">
-                                            {loc.name}
-                                        </span>
-                                        <span className="font-sans font-bold text-xs bg-sky-50 text-sky-700 px-2 py-0.5 rounded-full group-hover:bg-sky-600 group-hover:text-white transition-colors">
-                                            {loc.count}
-                                        </span>
-                                    </Link>
-                                ))}
-                            </div>
+
+                            {selectedCity === 'All' ? (
+                                /* Segregated citywise sections when 'All' is selected */
+                                <div className="space-y-6">
+                                    {SUPPORTED_CITIES.map((c) => {
+                                        const locs = cityWiseLocations[c] || [];
+                                        if (locs.length === 0) return null;
+                                        const meta = CITY_CONFIG[c];
+                                        return (
+                                            <div key={c} className="p-5 rounded-3xl bg-white border border-slate-200/80 shadow-xs">
+                                                <div className="flex items-center justify-between mb-3 border-b border-slate-100 pb-2">
+                                                    <div className="flex items-center gap-2">
+                                                        <span className="text-lg">{meta?.icon || '📍'}</span>
+                                                        <h4 className="font-sans font-extrabold text-base text-slate-900">
+                                                            {c} Micro-Markets ({locs.length} Localities)
+                                                        </h4>
+                                                    </div>
+                                                    <button
+                                                        onClick={() => handleCityChange(c)}
+                                                        className="text-xs font-bold text-sky-600 hover:text-sky-700"
+                                                    >
+                                                        Filter to {c} →
+                                                    </button>
+                                                </div>
+                                                <div className="flex flex-wrap gap-2">
+                                                    {locs.map(loc => (
+                                                        <Link
+                                                            key={loc.name}
+                                                            to={`/search?city=${encodeURIComponent(c)}&location=${encodeURIComponent(loc.name)}`}
+                                                            className="inline-flex items-center gap-1.5 px-3 py-1.5 glass-pill hover:border-sky-300 hover:shadow-xs transition-all group"
+                                                        >
+                                                            <img
+                                                                src={loc.image}
+                                                                alt=""
+                                                                className="w-4 h-4 rounded-full object-cover border border-slate-200 group-hover:scale-110 transition-transform"
+                                                            />
+                                                            <span className="font-sans font-bold text-xs tracking-tight text-slate-800 group-hover:text-sky-600 transition-colors">
+                                                                {loc.name}
+                                                            </span>
+                                                            <span className="font-sans font-bold text-[10px] bg-sky-50 text-sky-700 px-1.5 py-0.2 rounded-full group-hover:bg-sky-600 group-hover:text-white transition-colors">
+                                                                {loc.count}
+                                                            </span>
+                                                        </Link>
+                                                    ))}
+                                                </div>
+                                            </div>
+                                        );
+                                    })}
+                                </div>
+                            ) : (
+                                /* Selected City's Micro-Markets */
+                                <div className="p-5 rounded-3xl bg-white border border-slate-200/80 shadow-xs">
+                                    <div className="flex items-center gap-2 mb-3 border-b border-slate-100 pb-2">
+                                        <span className="text-lg">{CITY_CONFIG[selectedCity]?.icon || '📍'}</span>
+                                        <h4 className="font-sans font-extrabold text-base text-slate-900">
+                                            {selectedCity} Micro-Markets ({cityWiseLocations[selectedCity]?.length || 0} Localities)
+                                        </h4>
+                                    </div>
+                                    <div className="flex flex-wrap gap-2.5">
+                                        {(cityWiseLocations[selectedCity] || []).map(loc => (
+                                            <Link
+                                                key={loc.name}
+                                                to={`/search?city=${encodeURIComponent(selectedCity)}&location=${encodeURIComponent(loc.name)}`}
+                                                className="inline-flex items-center gap-2 px-3.5 py-2 glass-pill hover:border-sky-300 hover:shadow-md transition-all group"
+                                            >
+                                                <img
+                                                    src={loc.image}
+                                                    alt=""
+                                                    className="w-5 h-5 rounded-full object-cover border border-slate-200 group-hover:scale-110 transition-transform"
+                                                />
+                                                <span className="font-sans font-bold text-sm tracking-tight text-slate-800 group-hover:text-sky-600 transition-colors">
+                                                    {loc.name}
+                                                </span>
+                                                <span className="font-sans font-bold text-xs bg-sky-50 text-sky-700 px-2 py-0.5 rounded-full group-hover:bg-sky-600 group-hover:text-white transition-colors">
+                                                    {loc.count}
+                                                </span>
+                                            </Link>
+                                        ))}
+                                    </div>
+                                </div>
+                            )}
                         </section>
 
                         {/* 3. Projects Grid */}
                         <section>
+                            <div className="flex items-center justify-between mb-4">
+                                <h3 className="font-sans font-extrabold text-xl text-slate-900">
+                                    Verified Projects {selectedCity !== 'All' ? `in ${selectedCity}` : 'Across Maharashtra'} ({filteredProjects.length})
+                                </h3>
+                            </div>
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-                                {validProjects.map(project => (
+                                {filteredProjects.map(project => (
                                     <PropertyCard key={project.id} project={project} variant="grid" />
                                 ))}
                             </div>

@@ -300,9 +300,17 @@ const ProjectForm = () => {
                                 <div className="flex gap-2">
                                     <select name="location" value={formData.location} onChange={handleChange} required className="w-full px-4 py-2 border rounded-lg">
                                         <option value="">Select Locality</option>
-                                        {localities.map(l => (
-                                            <option key={l.id} value={l.name}>{l.name}</option>
-                                        ))}
+                                        {['Pune', 'Mumbai', 'Thane', 'Navi Mumbai', 'Lonavala', 'Alibaug'].map(c => {
+                                            const cityLocs = localities.filter(l => (l.city || 'Pune').toLowerCase() === c.toLowerCase());
+                                            if (cityLocs.length === 0) return null;
+                                            return (
+                                                <optgroup key={c} label={`── ${c} ──`}>
+                                                    {cityLocs.map(l => (
+                                                        <option key={l.id} value={l.name}>{l.name} ({l.zone || c})</option>
+                                                    ))}
+                                                </optgroup>
+                                            );
+                                        })}
                                     </select>
                                     <button type="button" onClick={() => navigate('/admin/localities')} title="Manage Localities" className="bg-slate-100 hover:bg-slate-200 p-2 rounded-lg">
                                         <Wand2 className="w-5 h-5 text-slate-600" />

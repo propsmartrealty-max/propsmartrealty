@@ -57,13 +57,16 @@ const PSeoMarketGuide: React.FC<PSeoMarketGuideProps> = ({
 
     // Micro-market related corridors for deep internal link mesh
     const relatedLocalities = React.useMemo(() => {
+        const targetCity = matchedLocality?.city || cityName || 'Pune';
         if (matchedLocality) {
-            return PROPSMART_LOCALITIES
-                .filter(l => l.name !== matchedLocality.name && (l.zone === matchedLocality.zone || l.city === matchedLocality.city))
-                .slice(0, 8);
+            const sameZone = PROPSMART_LOCALITIES.filter(l => l.name !== matchedLocality.name && l.city === targetCity && l.zone === matchedLocality.zone);
+            const sameCity = PROPSMART_LOCALITIES.filter(l => l.name !== matchedLocality.name && l.city === targetCity && l.zone !== matchedLocality.zone);
+            return [...sameZone, ...sameCity].slice(0, 8);
         }
-        return PROPSMART_LOCALITIES.slice(0, 8);
-    }, [matchedLocality]);
+        return PROPSMART_LOCALITIES
+            .filter(l => l.city.toLowerCase() === targetCity.toLowerCase())
+            .slice(0, 8);
+    }, [matchedLocality, cityName]);
 
     return (
         <section className="mt-12 mb-8 bg-white/90 backdrop-blur-xl rounded-3xl border border-slate-200/80 shadow-[0_8px_30px_rgba(14,165,233,0.06)] overflow-hidden">
