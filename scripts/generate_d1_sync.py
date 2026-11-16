@@ -100,8 +100,9 @@ for p in projects:
     p_rera = esc(p.get('reraId') or 'Verified')
     p_rate = esc(p.get('pricePerSqft') or 8500)
     p_ver = esc(p.get('verificationStatus') or 'Verified')
+    p_city = esc(p.get('city') or 'Pune')
 
-    out.append(f"INSERT INTO projects (id, title, slug, builder_id, location, price_range, exact_price, configurations, status, type, possession_date, image, hero_image, master_layout, floor_plans, description, features, specs, highlights, rera_id, price_per_sqft, verification_status) VALUES ({p_id}, {p_title}, {p_slug}, {p_b_id}, {p_loc}, {p_prange}, {p_exact}, {p_cfgs}, {p_status}, {p_type}, {p_pos}, {p_img}, {p_hero}, {p_layout}, {p_fps}, {p_desc}, {p_feats}, {p_specs}, {p_high}, {p_rera}, {p_rate}, {p_ver});")
+    out.append(f"INSERT INTO projects (id, title, slug, builder_id, location, price_range, exact_price, configurations, status, type, possession_date, image, hero_image, master_layout, floor_plans, description, features, specs, highlights, rera_id, price_per_sqft, verification_status, city) VALUES ({p_id}, {p_title}, {p_slug}, {p_b_id}, {p_loc}, {p_prange}, {p_exact}, {p_cfgs}, {p_status}, {p_type}, {p_pos}, {p_img}, {p_hero}, {p_layout}, {p_fps}, {p_desc}, {p_feats}, {p_specs}, {p_high}, {p_rera}, {p_rate}, {p_ver}, {p_city});")
 
 out.append("\n-- 5. Rebuild Full-Text Search Index")
 out.append("DELETE FROM projects_fts;")
