@@ -11,10 +11,10 @@ database_name = "propsmart-d1"
 database_id = "71bf05aa-03b7-4db2-8377-6000f5b1151a"
 migrations_dir = "migrations"
 
-# Cloudflare R2 Object Storage (Enable in dashboard to activate)
-# [[r2_buckets]]
-# binding = "ASSETS_BUCKET"
-# bucket_name = "propsmart-assets"
+# Cloudflare R2 Object Storage
+[[r2_buckets]]
+binding = "ASSETS_BUCKET"
+bucket_name = "propsmart-assets"
 
 # Cloudflare Smart Placement (Auto-optimizes edge compute location for D1 queries)
 [placement]

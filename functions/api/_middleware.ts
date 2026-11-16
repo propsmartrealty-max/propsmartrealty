@@ -7,6 +7,7 @@ export interface Env {
     ADMIN_SECRET?: string;
     TURNSTILE_SECRET_KEY?: string;
     CORS_ALLOW_ORIGIN?: string;
+    LEAD_NOTIFICATION_WEBHOOK?: string;
 }
 
 export const ADMIN_SECRET_DEFAULT = 'propsmart_realty_cf_edge_secret_key_2026';

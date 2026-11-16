@@ -59,6 +59,8 @@ const Footer = () => {
                             <li><Link to="/about" className="hover:text-brand-400 transition-colors">About Us</Link></li>
                             <li><Link to="/contact" className="hover:text-brand-400 transition-colors">Contact</Link></li>
                             <li><Link to="/post-property" className="hover:text-brand-400 transition-colors">Post Property</Link></li>
+                            <li><Link to="/privacy-policy" className="hover:text-brand-400 transition-colors">Privacy Policy</Link></li>
+                            <li><Link to="/terms" className="hover:text-brand-400 transition-colors">Terms of Service</Link></li>
                         </ul>
                     </div>
                     <div>
@@ -126,6 +128,13 @@ const Footer = () => {
 
                 <div className="pt-4 text-center text-xs text-gray-500 space-y-2">
                     <p>© 2026 PROPSMART REALTY. All rights reserved.</p>
+                    <div className="flex flex-wrap items-center justify-center gap-3 text-xs text-slate-400">
+                        <Link to="/privacy-policy" className="hover:text-emerald-400 transition-colors">Privacy Policy</Link>
+                        <span>•</span>
+                        <Link to="/terms" className="hover:text-emerald-400 transition-colors">Terms of Service</Link>
+                        <span>•</span>
+                        <Link to="/disclaimer" className="hover:text-emerald-400 transition-colors">MahaRERA Disclaimer</Link>
+                    </div>
                     <p className="italic text-[11px] opacity-75 max-w-4xl mx-auto leading-relaxed">
                         Disclaimer: PROPSMART REALTY is a registered real estate agent under MahaRERA (Reg. No. A031262401295).
                         All projects and properties listed on this platform are RERA registered. Prices, floor plans, and availability mentioned are indicative and subject to change by the respective developers.

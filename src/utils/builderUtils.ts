@@ -490,6 +490,8 @@ export const VERIFIED_BUILDER_LOGOS: Record<string, string> = {
     "it-parks": "/images/builders/it-parks.svg",
     "b-a-reputed-west": "/images/builders/a-reputed-west.svg",
     "a-reputed-west": "/images/builders/a-reputed-west.svg",
+    "b-reputed": "/images/builders/a-reputed-west.svg",
+    "reputed-builder": "/images/builders/a-reputed-west.svg",
     "b-om-builders-developers": "/images/builders/om-builders-developers.svg",
     "om-builders-developers": "/images/builders/om-builders-developers.svg",
     "b-que-developers": "/images/builders/que-developers.svg",

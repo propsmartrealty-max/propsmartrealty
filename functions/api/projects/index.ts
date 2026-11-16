@@ -5,7 +5,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     try {
         const url = new URL(context.request.url);
         const page = Math.max(1, parseInt(url.searchParams.get('page') || '1'));
-        const limit = Math.min(250, Math.max(1, parseInt(url.searchParams.get('limit') || '10')));
+        const limit = Math.min(1000, Math.max(1, parseInt(url.searchParams.get('limit') || '10')));
         const offset = (page - 1) * limit;
 
         const location = url.searchParams.get('location');

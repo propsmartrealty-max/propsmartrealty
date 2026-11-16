@@ -502,7 +502,7 @@ const ProjectDetails = () => {
                 jsonLd={[
                     {
                         "@context": "https://schema.org",
-                        "@type": "ApartmentComplex",
+                        "@type": ["ApartmentComplex", "RealEstateListing"],
                         "name": project.title,
                         "alternateName": [
                             `${project.title} ${project.location}`,
@@ -536,7 +536,8 @@ const ProjectDetails = () => {
                             "lowPrice": resolvedConfigs[0]?.basePrice || 6000000,
                             "highPrice": resolvedConfigs[resolvedConfigs.length - 1]?.basePrice || 25000000,
                             "offerCount": resolvedConfigs.length || safeConfigurations.length,
-                            "priceValidUntil": "2027-12-31"
+                            "priceValidUntil": "2027-12-31",
+                            "availability": "https://schema.org/InStock"
                         },
                         "provider": {
                             "@type": "RealEstateAgent",
@@ -560,7 +561,7 @@ const ProjectDetails = () => {
                                 "@type": "ListItem",
                                 "position": 2,
                                 "name": project.city || "Pune",
-                                "item": "https://propsmart.co.in/search?q=" + encodeURIComponent(project.city || "Pune")
+                                "item": "https://propsmart.co.in/" + encodeURIComponent((project.city || "pune").toLowerCase().trim())
                             },
                             {
                                 "@type": "ListItem",

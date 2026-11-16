@@ -134,7 +134,7 @@ export const api = {
     projects: {
         all: async () => {
             try {
-                const res = await fetch('/api/projects?limit=250');
+                const res = await fetch('/api/projects?limit=1000');
                 const contentType = res.headers.get('content-type') || '';
                 if (!res.ok || !contentType.includes('application/json')) {
                     throw new Error(`Invalid response (${res.status}): ${contentType}`);

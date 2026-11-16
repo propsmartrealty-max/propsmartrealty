@@ -1,0 +1,33 @@
+{
+  "name": "PROPSMART REALTY - 100% Brokerage Free Real Estate",
+  "short_name": "Propsmart",
+  "description": "Maharashtra's leading 100% Brokerage Free real estate platform with official MahaRERA authorized builder partners.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#CE813D",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-IN",
+  "categories": ["business", "lifestyle", "productivity"],
+  "icons": [
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/propsmart-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -15,6 +15,9 @@ const Directory = React.lazy(() => import('./pages/Directory'));
 const PostProperty = React.lazy(() => import('./pages/PostProperty'));
 const About = React.lazy(() => import('./pages/About'));
 const Contact = React.lazy(() => import('./pages/Contact'));
+const PrivacyPolicy = React.lazy(() => import('./pages/PrivacyPolicy'));
+const Terms = React.lazy(() => import('./pages/Terms'));
+const Disclaimer = React.lazy(() => import('./pages/Disclaimer'));
 
 // Admin Pages
 const AdminLogin = React.lazy(() => import('./pages/admin/Login'));
@@ -269,6 +272,11 @@ function App() {
                                     <Route path="/post-property" element={<PostProperty />} />
                                     <Route path="/about" element={<About />} />
                                     <Route path="/contact" element={<Contact />} />
+                                    <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+                                    <Route path="/privacy" element={<PrivacyPolicy />} />
+                                    <Route path="/terms" element={<Terms />} />
+                                    <Route path="/terms-of-service" element={<Terms />} />
+                                    <Route path="/disclaimer" element={<Disclaimer />} />
 
                                     {/* Public Admin Route */}
                                     <Route path="/admin" element={<AdminLogin />} />

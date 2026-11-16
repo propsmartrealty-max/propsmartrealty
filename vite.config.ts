@@ -41,7 +41,7 @@ function cloudflareDevApiPlugin(): Plugin {
         // 2. Projects List Endpoint
         if (pathname === '/api/projects' && req.method === 'GET') {
           const page = Math.max(1, parseInt(url.searchParams.get('page') || '1'));
-          const limit = Math.min(100, Math.max(1, parseInt(url.searchParams.get('limit') || '10')));
+          const limit = Math.min(1000, Math.max(1, parseInt(url.searchParams.get('limit') || '10')));
           const location = url.searchParams.get('location')?.toLowerCase().trim();
           const q = (url.searchParams.get('q') || url.searchParams.get('query'))?.toLowerCase().trim();
           const type = url.searchParams.get('type')?.toLowerCase().trim();
@@ -205,13 +205,25 @@ export default defineConfig(({ mode }) => {
       }
     },
     build: {
-      chunkSizeWarningLimit: 1000,
+      chunkSizeWarningLimit: 2000,
       rollupOptions: {
         output: {
-          manualChunks: {
-            vendor: ['react', 'react-dom', 'react-router-dom', 'framer-motion'],
-            maps: ['leaflet', 'react-leaflet', 'react-leaflet-cluster'],
-            ui: ['lucide-react', 'clsx', 'tailwind-merge']
+          manualChunks(id) {
+            if (id.includes('src/data/mockData.ts')) {
+              return 'mockData';
+            }
+            if (id.includes('node_modules/react/') || id.includes('node_modules/react-dom/') || id.includes('node_modules/react-router')) {
+              return 'vendor-react';
+            }
+            if (id.includes('node_modules/framer-motion')) {
+              return 'vendor-motion';
+            }
+            if (id.includes('node_modules/leaflet') || id.includes('node_modules/react-leaflet')) {
+              return 'maps';
+            }
+            if (id.includes('node_modules/lucide-react')) {
+              return 'icons';
+            }
           }
         }
       }

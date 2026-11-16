@@ -1356,6 +1356,27 @@ export const LOCATIONS: Locality[] = [
 
 export const BUILDERS: Builder[] = [
   {
+    "id": "b-reputed",
+    "name": "Reputed Builder",
+    "slug": "reputed-builder",
+    "logo": "/images/builders/a-reputed-west.svg",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/51014204-43f0-496a-847a-05447110109f/gallery/mt5m03g2-6kzuic.webp",
+    "description": "Reputed Developers and Consortiums delivering quality residential and commercial landmarks across prime growth corridors in Pune and Maharashtra.",
+    "establishedYear": 2005,
+    "totalProjects": 46,
+    "ongoingProjects": 12,
+    "trustScore": 9.4,
+    "isVerified": true,
+    "experience": 20,
+    "locations": [
+      "Pune",
+      "Charholi Budruk",
+      "Wakad",
+      "Hinjewadi",
+      "Kharadi"
+    ]
+  },
+  {
     "id": "b-godrej",
     "name": "Godrej Properties",
     "slug": "godrej-properties",

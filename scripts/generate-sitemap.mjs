@@ -86,7 +86,10 @@ async function run() {
         { url: '/compare', changefreq: 'weekly', priority: '0.7' },
         { url: '/about', changefreq: 'monthly', priority: '0.6' },
         { url: '/contact', changefreq: 'monthly', priority: '0.6' },
-        { url: '/post-property', changefreq: 'monthly', priority: '0.6' }
+        { url: '/post-property', changefreq: 'monthly', priority: '0.6' },
+        { url: '/privacy-policy', changefreq: 'monthly', priority: '0.5' },
+        { url: '/terms', changefreq: 'monthly', priority: '0.5' },
+        { url: '/disclaimer', changefreq: 'monthly', priority: '0.5' }
     ];
 
     let sitemapMainXml = `<?xml version="1.0" encoding="UTF-8"?>

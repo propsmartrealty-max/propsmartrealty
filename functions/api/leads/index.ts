@@ -86,6 +86,26 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
             userAgent
         ).run();
 
+        // Dispatch instant sales alert if webhook is configured
+        if (context.env.LEAD_NOTIFICATION_WEBHOOK && typeof (context as any).waitUntil === 'function') {
+            (context as any).waitUntil(
+                fetch(context.env.LEAD_NOTIFICATION_WEBHOOK, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        event: 'NEW_LEAD',
+                        id,
+                        name: body.name.trim(),
+                        mobile: body.mobile.trim(),
+                        email: body.email ? body.email.trim() : null,
+                        project: body.projectId || body.location || 'General Inquiry',
+                        source: 'PROPSMART_PORTAL',
+                        timestamp: new Date().toISOString()
+                    })
+                }).catch(() => {})
+            );
+        }
+
         return jsonResponse({
             success: true,
             id,

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <defs>
+    <linearGradient id="sky-satara-road" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111827" />
+      <stop offset="45%" stop-color="#14532d" />
+      <stop offset="85%" stop-color="#15803d" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+
+    <radialGradient id="celestial-satara-road" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4ade80" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#4ade80" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#4ade80" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="tower1-satara-road" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+
+    <linearGradient id="tower2-satara-road" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#334155" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+
+    <linearGradient id="glass-satara-road" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4ade80" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#4ade80" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Sky Background -->
+  <rect width="800" height="1000" fill="url(#sky-satara-road)" />
+
+  <!-- Celestial Glow Spot -->
+  <circle cx="400" cy="280" r="260" fill="url(#celestial-satara-road)" />
+
+  <!-- Background Mountain Silhouettes -->
+  <path d="M-100,650 Q100,520 300,600 T700,530 T950,650 L950,1000 L-100,1000 Z" fill="#090d16" opacity="0.7" />
+  <path d="M-50,680 Q150,580 450,650 T900,610 L900,1000 L-50,1000 Z" fill="#0c1322" opacity="0.9" />
+
+  <!-- Skyline High-Rise Towers -->
+  <!-- Tower Left Background -->
+  <rect x="120" y="420" width="110" height="580" rx="6" fill="url(#tower1-satara-road)" />
+  <rect x="135" y="450" width="80" height="480" rx="3" fill="url(#glass-satara-road)" />
+
+  <!-- Tower Far Left -->
+  <rect x="40" y="520" width="90" height="480" rx="4" fill="url(#tower2-satara-road)" />
+
+  <!-- Tower Center Primary Hero -->
+  <rect x="290" y="280" width="220" height="720" rx="8" fill="url(#tower2-satara-road)" />
+  <!-- Architectural Spire / Finial -->
+  <polygon points="400,210 395,280 405,280" fill="#4ade80" />
+  <rect x="315" y="320" width="170" height="600" rx="4" fill="url(#glass-satara-road)" />
+
+  <!-- Center Floor Division Grids -->
+  <line x1="315" y1="380" x2="485" y2="380" stroke="#4ade80" stroke-width="1.5" opacity="0.5" />
+  <line x1="315" y1="440" x2="485" y2="440" stroke="#4ade80" stroke-width="1.5" opacity="0.5" />
+  <line x1="315" y1="500" x2="485" y2="500" stroke="#4ade80" stroke-width="1.5" opacity="0.5" />
+  <line x1="315" y1="560" x2="485" y2="560" stroke="#4ade80" stroke-width="1.5" opacity="0.5" />
+  <line x1="315" y1="620" x2="485" y2="620" stroke="#4ade80" stroke-width="1.5" opacity="0.5" />
+  <line x1="315" y1="680" x2="485" y2="680" stroke="#4ade80" stroke-width="1.5" opacity="0.5" />
+
+  <!-- Tower Right Medium -->
+  <rect x="550" y="380" width="130" height="620" rx="6" fill="url(#tower1-satara-road)" />
+  <rect x="570" y="410" width="90" height="520" rx="3" fill="url(#glass-satara-road)" />
+
+  <!-- Tower Far Right -->
+  <rect x="670" y="480" width="95" height="520" rx="4" fill="url(#tower2-satara-road)" />
+
+  <!-- Elevated Metro / Highway Transit Viaduct -->
+  <path d="M-20,780 Q400,740 820,780" stroke="#38bdf8" stroke-width="8" fill="none" opacity="0.8" />
+  <path d="M-20,794 Q400,754 820,794" stroke="#0284c7" stroke-width="14" fill="none" opacity="0.6" />
+  <!-- Transit Pier Columns -->
+  <rect x="180" y="770" width="24" height="230" fill="#1e293b" />
+  <rect x="390" y="750" width="24" height="250" fill="#1e293b" />
+  <rect x="600" y="770" width="24" height="230" fill="#1e293b" />
+
+  <!-- Foreground Ambient Vignette -->
+  <rect y="700" width="800" height="300" fill="url(#sky-satara-road)" opacity="0.45" />
+
+  <!-- Locality Typography & Branding -->
+  <g transform="translate(400, 880)" text-anchor="middle">
+    <text y="0" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="42" font-weight="800" fill="#ffffff" letter-spacing="1.5">Satara Road</text>
+    <text y="34" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="18" font-weight="600" fill="#4ade80" letter-spacing="4">SOUTH PUNE • PUNE</text>
+  </g>
+</svg>

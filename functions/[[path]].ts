@@ -1,5 +1,13 @@
 // Cloudflare Pages Single Page Application (SPA) 200 OK Fallback Router
-export async function onRequest(context: { request: Request; env: { ASSETS: { fetch: (req: Request | string) => Promise<Response> } }; next: () => Promise<Response> }) {
+// With Edge Dynamic SEO & Social Meta Tag Rewriter
+export async function onRequest(context: { 
+    request: Request; 
+    env: { 
+        ASSETS: { fetch: (req: Request | string) => Promise<Response> };
+        DB?: D1Database;
+    }; 
+    next: () => Promise<Response> 
+}) {
     const { request, env } = context;
     const url = new URL(request.url);
 
@@ -15,7 +23,6 @@ export async function onRequest(context: { request: Request; env: { ASSETS: { fe
     }
 
     // Do NOT serve index.html for missing static files (.svg, .png, .jpg, .webp, .css, .js, .ico, .xml)
-    // This prevents <img> tags from receiving HTML and breaking image fallbacks
     const isStaticAsset = /\.[a-zA-Z0-9]+$/.test(url.pathname);
     if (isStaticAsset) {
         return assetResponse;
@@ -29,6 +36,110 @@ export async function onRequest(context: { request: Request; env: { ASSETS: { fe
     headers.set('content-type', 'text/html; charset=utf-8');
     headers.set('cache-control', 'public, max-age=0, must-revalidate');
     headers.delete('location');
+
+    // Edge SEO Dynamic Meta Injection for Crawlers & Social Bots
+    let metaTitle = '';
+    let metaDesc = '';
+    let metaImage = '';
+    const canonicalUrl = `https://propsmart.co.in${url.pathname}`;
+
+    try {
+        const projectMatch = url.pathname.match(/^\/(?:project|projects|property)\/([a-z0-9-]+)$/i);
+        const builderMatch = url.pathname.match(/^\/(?:builder|builders)\/([a-z0-9-]+)$/i);
+        const localityMatch = url.pathname.match(/^\/flats-in-([a-z0-9-]+)$/i);
+
+        if (projectMatch && env.DB) {
+            const slug = projectMatch[1].toLowerCase();
+            const project = await env.DB.prepare(
+                'SELECT title, location, price_range, image, hero_image, description FROM projects WHERE slug = ? OR id = ? LIMIT 1'
+            ).bind(slug, slug).first<any>();
+
+            if (project) {
+                metaTitle = `${project.title} in ${project.location} - Starting ${project.price_range} | PROPSMART REALTY`;
+                metaDesc = `${project.title} by top builders in ${project.location}. 100% Zero Brokerage, MahaRERA verified. Starting ${project.price_range}. Floor plans, photos & direct builder booking.`;
+                metaImage = project.hero_image || project.image || 'https://propsmart.co.in/images/propsmart-logo.png';
+            }
+        } else if (builderMatch && env.DB) {
+            const slug = builderMatch[1].toLowerCase();
+            const builder = await env.DB.prepare(
+                'SELECT name, logo, description FROM builders WHERE slug = ? OR id = ? LIMIT 1'
+            ).bind(slug, slug).first<any>();
+
+            if (builder) {
+                metaTitle = `${builder.name} Projects & Ongoing Developments | PROPSMART REALTY`;
+                metaDesc = `Explore all MahaRERA verified residential and commercial developments by ${builder.name}. 100% Brokerage Free direct developer booking with PROPSMART REALTY.`;
+                metaImage = builder.logo || 'https://propsmart.co.in/images/propsmart-logo.png';
+            }
+        } else if (localityMatch) {
+            const rawLoc = localityMatch[1].replace(/-/g, ' ');
+            const locName = rawLoc.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+            metaTitle = `Flats in ${locName}, Pune - 100% Brokerage Free | PROPSMART REALTY`;
+            metaDesc = `Buy 1, 2, 3 & 4 BHK apartments in ${locName}, Pune directly from developers with 0% brokerage. Verified MahaRERA projects, prices & floor plans.`;
+            metaImage = 'https://propsmart.co.in/images/propsmart-logo.png';
+        }
+    } catch {
+        // Fallback to unmodified indexResponse on error
+    }
+
+    if (metaTitle && typeof HTMLRewriter !== 'undefined') {
+        const rewriter = new HTMLRewriter()
+            .on('title', {
+                element(e) {
+                    e.setInnerContent(metaTitle);
+                }
+            })
+            .on('meta[name="description"]', {
+                element(e) {
+                    e.setAttribute('content', metaDesc);
+                }
+            })
+            .on('meta[property="og:title"]', {
+                element(e) {
+                    e.setAttribute('content', metaTitle);
+                }
+            })
+            .on('meta[property="og:description"]', {
+                element(e) {
+                    e.setAttribute('content', metaDesc);
+                }
+            })
+            .on('meta[property="og:image"]', {
+                element(e) {
+                    e.setAttribute('content', metaImage);
+                }
+            })
+            .on('meta[property="og:url"]', {
+                element(e) {
+                    e.setAttribute('content', canonicalUrl);
+                }
+            })
+            .on('meta[name="twitter:title"]', {
+                element(e) {
+                    e.setAttribute('content', metaTitle);
+                }
+            })
+            .on('meta[name="twitter:description"]', {
+                element(e) {
+                    e.setAttribute('content', metaDesc);
+                }
+            })
+            .on('meta[name="twitter:image"]', {
+                element(e) {
+                    e.setAttribute('content', metaImage);
+                }
+            })
+            .on('link[rel="canonical"]', {
+                element(e) {
+                    e.setAttribute('href', canonicalUrl);
+                }
+            });
+
+        return rewriter.transform(new Response(indexResponse.body, {
+            status: 200,
+            statusText: 'OK',
+            headers
+        }));
+    }
 
     return new Response(indexResponse.body, {
         status: 200,
