@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="100%" height="100%">
+  <rect width="320" height="80" fill="#032B43" rx="8"/>
+  <g transform="translate(20, 18)">
+    <path d="M6,38 L6,8 L22,8 C30,8 36,13 36,20 C36,26 31,31 23,32 L36,38 L25,38 L15,31 L15,38 Z M15,24 L21,24 C25,24 28,22 28,19 C28,15 25,14 21,14 L15,14 Z" fill="#E84855"/>
+    <text x="44" y="27" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF" letter-spacing="2">RUNWAL</text>
+    <text x="46" y="41" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, sans-serif" font-size="10" font-weight="600" fill="#F9A03F" letter-spacing="4">SINCE 1978</text>
+  </g>
+</svg>

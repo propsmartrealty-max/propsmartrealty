@@ -3,10 +3,16 @@ import { Link } from 'react-router-dom';
 import { Home, Search, ArrowLeft } from 'lucide-react';
 import PortalNavbar from '../components/Portal/Navbar';
 import Footer from '../components/Portal/Footer';
+import SEO from '../components/SEO';
 
 const NotFound = () => {
     return (
         <div className="min-h-screen bg-slate-50 font-sans flex flex-col">
+            <SEO
+                title="404 - Page Not Found | PROPSMART REALTY"
+                description="The requested real estate property, builder, or page could not be found on PROPSMART REALTY."
+                noIndex={true}
+            />
             <PortalNavbar variant="colored" />
 
             <div className="flex-1 flex items-center justify-center p-4 pt-28 pb-12">

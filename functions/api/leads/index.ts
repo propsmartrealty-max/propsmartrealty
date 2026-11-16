@@ -48,16 +48,28 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
         const userAgent = context.request.headers.get('User-Agent') || '';
         const turnstileToken = context.request.headers.get('cf-turnstile-token') || body.turnstileToken;
 
-        // If Turnstile secret is configured, verify bot defense
-        if (context.env.TURNSTILE_SECRET_KEY && turnstileToken) {
+        // If Turnstile secret is configured, enforce bot defense
+        if (context.env.TURNSTILE_SECRET_KEY) {
+            if (!turnstileToken) {
+                return jsonResponse({ error: 'Security verification token required. Please refresh.' }, 403);
+            }
             const isHuman = await verifyTurnstile(turnstileToken, clientIp, context.env);
             if (!isHuman) {
                 return jsonResponse({ error: 'Security challenge failed. Please refresh and try again.' }, 403);
             }
         }
 
-        if (!body.name || !body.mobile) {
-            return jsonResponse({ error: 'Name and mobile number are required.' }, 400);
+        const rawMobile = (body.mobile || '').toString().trim().replace(/[\s-]/g, '');
+        const rawName = (body.name || '').toString().trim();
+
+        if (!rawName || !rawMobile) {
+            return jsonResponse({ error: 'Name and valid mobile number are required.' }, 400);
+        }
+
+        // Indian 10-digit mobile number validation (+91 / 91 / 0 optional prefix)
+        const isIndianMobile = /^(?:\+91|91|0)?[6-9]\d{9}$/.test(rawMobile);
+        if (!isIndianMobile) {
+            return jsonResponse({ error: 'Please enter a valid 10-digit mobile number.' }, 400);
         }
 
         const id = `lead-${Date.now().toString(36)}-${Math.random().toString(36).substring(2, 6)}`;
