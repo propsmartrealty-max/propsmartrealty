@@ -236,15 +236,18 @@ const CompareProjects = () => {
                                 <tr>
                                     <td className="p-4 pl-6 font-bold text-slate-600 bg-slate-50 border-r border-b border-slate-100">Carpet Area</td>
                                     {selectedProjects.map(project => {
-                                        const areas = project.advancedConfigurations?.map((c: any) => c.carpetArea) || [];
+                                        const areas = (project.configurationDetails || []).map((c: any) => {
+                                            const match = c.carpetArea?.match(/([0-9,]+)/);
+                                            return match ? parseInt(match[1].replace(/,/g, '')) : null;
+                                        }).filter((a): a is number => a !== null && a > 0);
                                         const minArea = areas.length ? Math.min(...areas) : 0;
                                         const maxArea = areas.length ? Math.max(...areas) : 0;
-                                        const range = minArea === maxArea ? `${minArea} sqft` : `${minArea} - ${maxArea} sqft`;
+                                        const range = minArea === maxArea ? `${minArea.toLocaleString('en-IN')} sqft` : `${minArea.toLocaleString('en-IN')} - ${maxArea.toLocaleString('en-IN')} sqft`;
 
                                         return (
                                             <td key={project.id} className="p-4 pl-6 border-r border-b border-slate-100 text-sm font-semibold text-slate-700">
                                                 {areas.length > 0 ? (
-                                                    range
+                                                    <span className="font-bold text-slate-900">{range}</span>
                                                 ) : (
                                                     <span className="text-slate-400 italic">Contact for details</span>
                                                 )}

@@ -292,13 +292,11 @@ const ProjectDetails = () => {
 
     // Resolve rich unit configurations:
     const resolvedConfigs: ProjectConfiguration[] = useMemo(() => {
+        if (!project) return [];
+
         if (project?.advancedConfigurations && project.advancedConfigurations.length > 0) {
             return project.advancedConfigurations;
         }
-
-        if (!project) return [];
-
-        const declared = safeConfigurations;
 
         const extractNum = (str: string) => {
             if (!str) return 8000000;
@@ -306,11 +304,49 @@ const ProjectDetails = () => {
             const num = parseFloat(clean);
             if (isNaN(num)) return 8000000;
             if (str.includes('Cr')) return num * 10000000;
-            if (str.includes('L')) return num * 100000;
+            if (str.includes('L') || str.includes('Lac') || str.includes('Lakh')) return num * 100000;
             return num > 100000 ? num : num * 100000;
         };
 
         const baseVal = extractNum(project.exactPrice || (project.priceRange ? project.priceRange.split('-')[0] : ''));
+
+        // 1. Priority: Genuine configurationDetails stored on project
+        if (project.configurationDetails && project.configurationDetails.length > 0) {
+            return project.configurationDetails.map((cd, idx) => {
+                const carpetMatch = cd.carpetArea?.match(/([0-9,]+)/);
+                const carpet = carpetMatch ? parseInt(carpetMatch[1].replace(/,/g, '')) : 750;
+                const balcony = Math.round(carpet * 0.08);
+                const bhkMatch = cd.type.match(/(\d+)\s*BHK/i);
+                const bhkNum = bhkMatch ? parseInt(bhkMatch[1]) : (idx + 2);
+
+                const priceStr = cd.priceRange || '';
+                let unitBasePrice = extractNum(priceStr);
+                if (!unitBasePrice || (unitBasePrice === 8000000 && !priceStr.includes('80'))) {
+                    const rate = project.pricePerSqft || 8500;
+                    unitBasePrice = carpet * rate;
+                }
+                const rate = project.pricePerSqft || Math.round(unitBasePrice / (carpet || 1));
+
+                return {
+                    id: `cfg-${project.slug}-${idx + 1}`,
+                    projectId: project.id,
+                    name: cd.type,
+                    carpetArea: carpet,
+                    balconyArea: balcony,
+                    bathrooms: bhkNum,
+                    basePrice: unitBasePrice,
+                    pricePerSqft: rate,
+                    infraCharges: Math.round(unitBasePrice * 0.03),
+                    clubhouseCharges: Math.round(unitBasePrice * 0.02),
+                    gstRate: 5.0,
+                    stampDutyRate: 7.0,
+                    registrationCharges: 30000,
+                    layoutImage: safeFloorPlans[idx % (safeFloorPlans.length || 1)] || project.image
+                };
+            });
+        }
+
+        const declared = safeConfigurations;
 
         return declared.map((confStr, idx) => {
             const bhkMatch = confStr.match(/(\d+)\s*BHK/i);

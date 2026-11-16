@@ -14,7 +14,8 @@ import {
     Castle, 
     Sparkles, 
     Calendar,
-    ArrowRight
+    ArrowRight,
+    Maximize2
 } from 'lucide-react';
 import { Project } from '../../types';
 import { useData } from '../../context/DataContext';
@@ -72,8 +73,27 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
     const qrUrl = getProjectQRCodeUrl(project.slug || project.id, project.reraId);
     const mahaReraLink = getMahaRERAVerificationUrl(project.reraId);
 
-    // Clean, formatted price display
-    const formattedPrice = project.exactPrice || project.priceRange || 'Price on Request';
+    // Clean, transparent price display
+    const hasPriceRange = Boolean(project.priceRange && project.priceRange.includes(' - '));
+    const displayPrice = hasPriceRange ? project.priceRange : (project.exactPrice || project.priceRange || 'Price on Request');
+    const startingSubtitle = hasPriceRange && project.exactPrice && project.exactPrice !== project.priceRange
+        ? `Starts from ${project.exactPrice}`
+        : null;
+
+    // Derived authentic Carpet Area sizing range
+    const carpetAreaRange = useMemo(() => {
+        if (!project.configurationDetails || project.configurationDetails.length === 0) return null;
+        const areas = project.configurationDetails
+            .map(c => {
+                const match = c.carpetArea?.match(/([0-9,]+)/);
+                return match ? parseInt(match[1].replace(/,/g, '')) : null;
+            })
+            .filter((a): a is number => a !== null && a > 0);
+        if (areas.length === 0) return null;
+        const min = Math.min(...areas);
+        const max = Math.max(...areas);
+        return min === max ? `${min.toLocaleString('en-IN')} sq.ft` : `${min.toLocaleString('en-IN')} - ${max.toLocaleString('en-IN')} sq.ft`;
+    }, [project.configurationDetails]);
 
     // Direct WhatsApp message pre-filled with project details
     const whatsAppMessage = getProjectWhatsAppMessage(
@@ -230,8 +250,17 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                     {/* Dedicated Direct Starting Price Row (Prominent, High Contrast, 100% Collision-Free) */}
                     <div className="mt-3 p-2.5 rounded-xl bg-slate-50/90 border border-slate-200/70 flex items-baseline justify-between gap-2 shadow-2xs">
                         <div className="min-w-0">
-                            <span className="text-[9.5px] uppercase font-black tracking-wider text-slate-400 block leading-tight">Starting Direct Price</span>
-                            <p className="text-lg sm:text-xl font-black text-slate-900 tracking-tight leading-tight truncate">{formattedPrice}</p>
+                            <span className="text-[9.5px] uppercase font-black tracking-wider text-slate-400 block leading-tight">
+                                {hasPriceRange ? 'Direct Builder Price' : 'Starting Direct Price'}
+                            </span>
+                            <p className="text-base sm:text-lg font-black text-slate-900 tracking-tight leading-tight truncate">
+                                {displayPrice}
+                            </p>
+                            {startingSubtitle && (
+                                <span className="text-[10px] text-emerald-700 font-bold block mt-0.5 truncate">
+                                    {startingSubtitle}
+                                </span>
+                            )}
                         </div>
                         {project.pricePerSqft && (
                             <span className="text-[10.5px] font-bold text-sky-700 bg-sky-100/80 px-2 py-0.5 rounded-md border border-sky-200/70 shrink-0">
@@ -240,12 +269,20 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         )}
                     </div>
 
-                    {/* Configurations Chips */}
-                    <div className="mt-3 flex flex-wrap gap-1.5">
-                        {(project.configurations || []).slice(0, isGrid ? 3 : 5).map((conf, i) => (
+                    {/* Sizing & Configurations Row */}
+                    <div className="mt-3 flex flex-wrap items-center gap-1.5">
+                        {carpetAreaRange && (
+                            <span 
+                                className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-emerald-50/90 border border-emerald-200/80 text-[10.5px] font-black text-emerald-800 shadow-2xs shrink-0" 
+                                title="RERA Carpet Area Sizing"
+                            >
+                                <Maximize2 className="w-3 h-3 text-emerald-600" /> {carpetAreaRange}
+                            </span>
+                        )}
+                        {(project.configurations || []).slice(0, isGrid ? 2 : 4).map((conf, i) => (
                             <span 
                                 key={i} 
-                                className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-sky-50/80 border border-sky-200/70 text-[10.5px] font-bold text-slate-700 shadow-2xs group-hover:border-sky-300 transition-all"
+                                className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-sky-50/80 border border-sky-200/70 text-[10.5px] font-bold text-slate-700 shadow-2xs group-hover:border-sky-300 transition-all shrink-0"
                             >
                                 <Home className="w-3 h-3 text-sky-500" /> {conf}
                             </span>
