@@ -502,7 +502,7 @@ export const PROPSMART_LOCALITIES: LocalityItem[] = [
         "image": "/images/localities/hinjewadi.svg",
         "price": "₹7.8k/sq.ft",
         "avgPriceSqft": 7800,
-        "count": 62,
+        "count": 55,
         "appreciationRate": 8.5,
         "tagline": "Pune Silicon Valley & Metro Line 3 Hub",
         "description": "Prime Hinjewadi corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."

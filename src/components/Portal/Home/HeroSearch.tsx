@@ -81,7 +81,7 @@ const TABS = [
 ];
 
 const HERO_CITIES = [
-    { id: 'Pune', label: 'Pune', badge: '687 Projects' },
+    { id: 'Pune', label: 'Pune', badge: '680 Projects' },
     { id: 'Mumbai', label: 'Mumbai', badge: '41 Projects' },
     { id: 'Thane', label: 'Thane', badge: '19 Projects' },
     { id: 'Lonavala', label: 'Lonavala', badge: '8 Projects' },
