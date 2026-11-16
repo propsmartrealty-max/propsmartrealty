@@ -83,7 +83,7 @@ export const CASE_STUDIES: CaseStudy[] = [
     challenge: 'Stagnant sales for 14 months with over 60 units unsold.',
     strategy: 'Implemented AI-Lead Scoring to prioritize high-intent backlogged leads.',
     results: { absorption: '85% Growth', revenue: '₹75Cr', timeline: '7 Months' },
-    image: 'https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80&w=800'
+    image: 'https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp'
   },
   {
     id: '2',
@@ -91,7 +91,7 @@ export const CASE_STUDIES: CaseStudy[] = [
     challenge: 'Inefficient marketing spend with poor lead-to-visit ratios.',
     strategy: 'Dynamic AI-ad placement and automated WhatsApp site-visit scheduling.',
     results: { absorption: 'Launch Record', revenue: '₹140Cr', timeline: '12 Months' },
-    image: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=800'
+    image: 'https://keystoneliv.com/public/uploads/property/yqjKj9jMh7r2Y9g6e0jM1w8h.webp'
   },
   {
     id: '3',
@@ -99,6 +99,6 @@ export const CASE_STUDIES: CaseStudy[] = [
     challenge: 'Inventory blockage in 3BHK premium segments due to competitor price cuts.',
     strategy: 'Value-based positioning shift and CP-exclusive rapid liquidation partnership.',
     results: { absorption: 'Sold Out', revenue: '₹210Cr', timeline: '15 Months' },
-    image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=800'
+    image: 'https://keystoneliv.com/public/uploads/property/a8Lh3kP9mQ1vX7zW2sF4tN6y.webp'
   }
 ];

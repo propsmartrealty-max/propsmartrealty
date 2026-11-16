@@ -52,12 +52,40 @@ import { Toaster } from 'react-hot-toast';
 // Dynamic Locality SEO Route & 404 Fallback Handler
 const DynamicLocalityOrNotFound = () => {
     const location = useLocation();
-    const pathname = location.pathname;
+    const pathname = location.pathname.toLowerCase().replace(/\/$/, '');
 
-    if (pathname.startsWith('/flats-in-')) {
-        const slug = pathname.replace('/flats-in-', '').split('/')[0];
-        if (slug) {
-            return <SearchResults forcedLocationSlug={slug} />;
+    // City shortcuts: /pune, /mumbai, /thane, /navi-mumbai, /lonavala, /alibaug, /maharashtra
+    const cityMap: Record<string, string> = {
+        '/pune': 'Pune',
+        '/mumbai': 'Mumbai',
+        '/thane': 'Thane',
+        '/navi-mumbai': 'Navi Mumbai',
+        '/lonavala': 'Lonavala',
+        '/alibaug': 'Alibaug',
+        '/maharashtra': 'All',
+        '/properties-in-pune': 'Pune',
+        '/properties-in-mumbai': 'Mumbai',
+        '/properties-in-thane': 'Thane',
+        '/properties-in-navi-mumbai': 'Navi Mumbai',
+        '/properties-in-maharashtra': 'All',
+        '/flats-in-pune': 'Pune',
+        '/flats-in-mumbai': 'Mumbai',
+        '/flats-in-thane': 'Thane',
+        '/flats-in-navi-mumbai': 'Navi Mumbai'
+    };
+
+    if (cityMap[pathname]) {
+        return <SearchResults forcedCity={cityMap[pathname]} />;
+    }
+
+    // Dynamic Locality Prefixes
+    const localityPrefixes = ['/flats-in-', '/properties-in-', '/apartments-in-', '/projects-in-'];
+    for (const prefix of localityPrefixes) {
+        if (pathname.startsWith(prefix)) {
+            const slug = pathname.replace(prefix, '').split('/')[0];
+            if (slug) {
+                return <SearchResults forcedLocationSlug={slug} />;
+            }
         }
     }
 
@@ -79,6 +107,17 @@ function App() {
                                     <Route path="/" element={<Home />} />
                                     <Route path="/search" element={<SearchResults />} />
                                     <Route path="/directory" element={<Directory />} />
+
+                                    {/* City & Regional Landing Routes */}
+                                    <Route path="/pune" element={<SearchResults forcedCity="Pune" />} />
+                                    <Route path="/mumbai" element={<SearchResults forcedCity="Mumbai" />} />
+                                    <Route path="/thane" element={<SearchResults forcedCity="Thane" />} />
+                                    <Route path="/navi-mumbai" element={<SearchResults forcedCity="Navi Mumbai" />} />
+                                    <Route path="/properties-in-pune" element={<SearchResults forcedCity="Pune" />} />
+                                    <Route path="/properties-in-mumbai" element={<SearchResults forcedCity="Mumbai" />} />
+                                    <Route path="/properties-in-maharashtra" element={<SearchResults forcedCity="All" />} />
+                                    <Route path="/flats-in-pune" element={<SearchResults forcedCity="Pune" />} />
+                                    <Route path="/flats-in-mumbai" element={<SearchResults forcedCity="Mumbai" />} />
                                     <Route path="/flats-in/:locationSlug" element={<SearchResults />} />
                                     <Route path="/flats-in-:locationSlug" element={<SearchResults />} />
                                     <Route path="/project/:slug" element={<ProjectDetails />} />

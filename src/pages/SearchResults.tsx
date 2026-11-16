@@ -17,9 +17,10 @@ import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground'
 
 interface SearchResultsProps {
     forcedLocationSlug?: string;
+    forcedCity?: string;
 }
 
-const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => {
+const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug, forcedCity }) => {
     const { search } = useLocation();
     const routeParams = useParams<{ locationSlug: string }>();
     const effectiveLocationSlug = forcedLocationSlug || routeParams.locationSlug;
@@ -27,7 +28,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
 
     const rawQuery = queryParams.get('q') || queryParams.get('query') || '';
     const rawLocationParam = queryParams.get('location') || '';
-    const rawCityParam = queryParams.get('city') || '';
+    const rawCityParam = queryParams.get('city') || forcedCity || '';
 
     // Parse location from slug (e.g. 'baner-annex' -> 'Baner Annex') or param
     const derivedLocation = effectiveLocationSlug
@@ -49,7 +50,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
     const [page, setPage] = React.useState(1);
 
     // Local State for filters
-    const [selectedCity, setSelectedCity] = React.useState<string>(rawCityParam || 'All');
+    const [selectedCity, setSelectedCity] = React.useState<string>(forcedCity || rawCityParam || 'All');
     const [selectedBudgets, setSelectedBudgets] = React.useState<string[]>([]);
     const [selectedTypes, setSelectedTypes] = React.useState<string[]>([]);
     const [selectedConfigs, setSelectedConfigs] = React.useState<string[]>([]);
@@ -57,12 +58,14 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
     const [viewMode, setViewMode] = React.useState<'grid' | 'list' | 'map'>('grid');
     const [sortBy, setSortBy] = React.useState<'featured' | 'price-asc' | 'price-desc' | 'newest'>('featured');
 
-    // Sync selectedCity when URL city param changes
+    // Sync selectedCity when URL city param or forcedCity changes
     React.useEffect(() => {
-        if (rawCityParam) {
+        if (forcedCity) {
+            setSelectedCity(forcedCity);
+        } else if (rawCityParam) {
             setSelectedCity(rawCityParam);
         }
-    }, [rawCityParam]);
+    }, [forcedCity, rawCityParam]);
 
     // Reset page to 1 when search or location changes
     React.useEffect(() => {
@@ -126,16 +129,107 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug }) => 
     };
 
     const activeCityOrLoc = filterLoc || (selectedCity !== 'All' ? selectedCity : 'Pune');
+    const isCityLanding = !filterLoc && selectedCity !== 'All';
+    const seoTitle = effectiveLocationSlug
+        ? `Flats in ${filterLoc} Pune | 100% Brokerage Free | Buy Directly with Builder`
+        : isCityLanding
+            ? `Properties in ${selectedCity} | Luxury Apartments & Flats | 100% Brokerage Free`
+            : `Properties in ${activeCityOrLoc} - Search Results | PROPSMART REALTY`;
+
+    const seoDesc = effectiveLocationSlug
+        ? `Looking for flats in ${filterLoc}, Pune? Explore top verified new launch projects, developer pricing, and RERA floor plans. 100% Zero Brokerage on PROPSMART REALTY.`
+        : isCityLanding
+            ? `Explore luxury residential properties and flats in ${selectedCity}, Maharashtra. Direct builder pricing, verified floor plans, 100% zero brokerage.`
+            : `Browse verified real estate listings in ${activeCityOrLoc} with zero brokerage and direct builder pricing.`;
+
+    const seoCanonical = effectiveLocationSlug
+        ? `https://propsmart.co.in/flats-in-${effectiveLocationSlug}`
+        : isCityLanding
+            ? `https://propsmart.co.in/properties-in-${selectedCity.toLowerCase()}`
+            : 'https://propsmart.co.in/search';
+
+    const searchJsonLd = React.useMemo(() => {
+        const breadcrumb = {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://propsmart.co.in"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Properties",
+                    "item": "https://propsmart.co.in/directory"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": effectiveLocationSlug ? `Flats in ${filterLoc}` : `Properties in ${activeCityOrLoc}`,
+                    "item": seoCanonical
+                }
+            ]
+        };
+
+        const itemList = {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            "name": `Properties in ${filterLoc || activeCityOrLoc}`,
+            "numberOfItems": sortedProjects.length,
+            "itemListElement": sortedProjects.slice(0, 10).map((p, idx) => ({
+                "@type": "ListItem",
+                "position": idx + 1,
+                "url": `https://propsmart.co.in/project/${p.slug}`,
+                "name": p.title,
+                "image": p.image || p.heroImage
+            }))
+        };
+
+        const faq = {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": `Are properties in ${filterLoc || activeCityOrLoc} 100% brokerage free on PROPSMART REALTY?`,
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": `Yes, all properties listed in ${filterLoc || activeCityOrLoc} are offered with 100% zero brokerage. Homebuyers purchase directly through official authorized developer sales partnerships under MahaRERA registration A031262401295.`
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": `What is the average price range for flats in ${filterLoc || activeCityOrLoc}?`,
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": `Properties in ${filterLoc || activeCityOrLoc} range from modern 1 & 2 BHK apartments starting around ₹45 Lac to premium 3 & 4 BHK luxury residences exceeding ₹2.5 Cr+, depending on configuration and carpet area.`
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": `How can I arrange a direct developer site visit in ${filterLoc || activeCityOrLoc}?`,
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": `You can schedule an authorized direct builder site visit with complimentary cab pickup through PROPSMART REALTY via WhatsApp or instant lead submission.`
+                    }
+                }
+            ]
+        };
+
+        return [breadcrumb, itemList, faq];
+    }, [filterLoc, activeCityOrLoc, effectiveLocationSlug, seoCanonical, sortedProjects]);
 
     return (
         <div className="min-h-screen bg-slate-50/70 flex flex-col relative">
             <WaterAmbientBackground />
             <SEO
-                title={effectiveLocationSlug ? `Flats in ${filterLoc} | New Projects & Prices` : `Properties in ${activeCityOrLoc} - Search Results`}
-                description={effectiveLocationSlug
-                    ? `Looking for flats in ${filterLoc}? Explore top verified new launch projects, pricing, and floor plans in ${filterLoc}.`
-                    : `Browse verified real estate listings in ${activeCityOrLoc} with zero brokerage and direct builder pricing.`}
-                canonical={effectiveLocationSlug ? `https://propsmart.co.in/flats-in-${effectiveLocationSlug}` : undefined}
+                title={seoTitle}
+                description={seoDesc}
+                canonical={seoCanonical}
+                jsonLd={searchJsonLd}
             />
             <PortalNavbar variant="colored" />
 

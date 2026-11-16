@@ -71,13 +71,22 @@ async function run() {
     // -------------------------------------------------------------
     const staticPages = [
         { url: '/', changefreq: 'daily', priority: '1.0' },
-        { url: '/directory', changefreq: 'daily', priority: '0.9' },
-        { url: '/search', changefreq: 'daily', priority: '0.85' },
+        { url: '/directory', changefreq: 'daily', priority: '0.95' },
+        { url: '/search', changefreq: 'daily', priority: '0.9' },
+        { url: '/pune', changefreq: 'daily', priority: '0.95' },
+        { url: '/mumbai', changefreq: 'daily', priority: '0.95' },
+        { url: '/thane', changefreq: 'daily', priority: '0.9' },
+        { url: '/navi-mumbai', changefreq: 'daily', priority: '0.9' },
+        { url: '/properties-in-pune', changefreq: 'daily', priority: '0.95' },
+        { url: '/properties-in-mumbai', changefreq: 'daily', priority: '0.95' },
+        { url: '/properties-in-maharashtra', changefreq: 'daily', priority: '0.95' },
+        { url: '/flats-in-pune', changefreq: 'daily', priority: '0.95' },
+        { url: '/flats-in-mumbai', changefreq: 'daily', priority: '0.95' },
+        { url: '/flats-in-thane', changefreq: 'daily', priority: '0.9' },
         { url: '/compare', changefreq: 'weekly', priority: '0.7' },
         { url: '/about', changefreq: 'monthly', priority: '0.6' },
         { url: '/contact', changefreq: 'monthly', priority: '0.6' },
-        { url: '/post-property', changefreq: 'monthly', priority: '0.6' },
-        { url: '/pune', changefreq: 'daily', priority: '0.9' }
+        { url: '/post-property', changefreq: 'monthly', priority: '0.6' }
     ];
 
     let sitemapMainXml = `<?xml version="1.0" encoding="UTF-8"?>
@@ -173,10 +182,11 @@ async function run() {
     writeFileSync(resolve('./public/sitemap-builders.xml'), sitemapBuildersXml.trim());
 
     // -------------------------------------------------------------
-    // FILE 4: sitemap-localities.xml (All Pune Micro-market Landing Pages)
+    // FILE 4: sitemap-localities.xml (All Pune & Maharashtra Micro-market Landing Pages)
     // -------------------------------------------------------------
     let sitemapLocalitiesXml = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 `;
     for (const loc of locations) {
         const locSlug = loc.name.toLowerCase().trim().replace(/\s+/g, '-');
@@ -184,9 +194,21 @@ async function run() {
         sitemapLocalitiesXml += `  <url>
     <loc>${locUrl}</loc>
     <lastmod>${lastmod}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+`;
+        if (loc.image_url || loc.imageUrl) {
+            const locImg = (loc.image_url || loc.imageUrl).startsWith('http')
+                ? (loc.image_url || loc.imageUrl)
+                : `${BASE_URL}${loc.image_url || loc.imageUrl}`;
+            sitemapLocalitiesXml += `    <image:image>
+      <image:loc>${escapeXml(locImg)}</image:loc>
+      <image:title>Flats &amp; Properties in ${escapeXml(loc.name)}, Pune</image:title>
+      <image:caption>Verified residential properties and projects in ${escapeXml(loc.name)} - 100% Brokerage Free</image:caption>
+    </image:image>
+`;
+        }
+        sitemapLocalitiesXml += `  </url>
 `;
     }
     sitemapLocalitiesXml += `</urlset>`;

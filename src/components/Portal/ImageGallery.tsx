@@ -10,7 +10,7 @@ const ImageGallery: React.FC<ImageGalleryProps> = ({ images }) => {
     // Use array of images, if only one provided, ensure resilient fallback
     const galleryImages = images && images.length > 0 
         ? images 
-        : ['https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80'];
+        : ['https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp'];
 
     const [isOpen, setIsOpen] = useState(false);
     const [currentIndex, setCurrentIndex] = useState(0);

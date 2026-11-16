@@ -84,11 +84,20 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
     const whatsAppUrl = getWhatsAppUrl(whatsAppMessage);
 
     return (
-        <div className={`group glass-card water-card-hover water-shimmer rounded-[1.75rem] overflow-hidden transition-all duration-500 border border-white/80 shadow-[0_4px_24px_rgba(14,165,233,0.06)] hover:border-sky-300 hover:shadow-[0_16px_45px_rgba(14,165,233,0.16)] flex ${
-            isGrid 
-                ? 'flex-col h-full bg-white/70 backdrop-blur-md' 
-                : 'flex-col md:flex-row min-h-[250px] md:h-auto bg-white/70 backdrop-blur-md'
-        }`}>
+        <article 
+            itemScope 
+            itemType="https://schema.org/ApartmentComplex"
+            className={`group glass-card water-card-hover water-shimmer rounded-[1.75rem] overflow-hidden transition-all duration-500 border border-white/80 shadow-[0_4px_24px_rgba(14,165,233,0.06)] hover:border-sky-300 hover:shadow-[0_16px_45px_rgba(14,165,233,0.16)] flex ${
+                isGrid 
+                    ? 'flex-col h-full bg-white/70 backdrop-blur-md' 
+                    : 'flex-col md:flex-row min-h-[250px] md:h-auto bg-white/70 backdrop-blur-md'
+            }`}
+        >
+            {/* Google SERP Semantic Metadata */}
+            <meta itemProp="name" content={project.title} />
+            <meta itemProp="url" content={`https://propsmart.co.in/project/${projectSlug}`} />
+            <meta itemProp="image" content={imgSrc} />
+            <meta itemProp="description" content={`${project.title} by ${builderName} in ${project.location}, ${project.city || 'Pune'} - 100% Brokerage Free.`} />
 
             {/* ================= Image Section ================= */}
             <div className={`relative overflow-hidden shrink-0 ${
@@ -96,10 +105,12 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                     ? 'w-full aspect-[16/10]' 
                     : 'w-full md:w-72 md:min-w-[280px] lg:w-80 lg:min-w-[300px] aspect-[16/10] md:aspect-auto'
             } bg-slate-900`}>
-                <Link to={projectLink} className="block h-full w-full">
+                <Link to={projectLink} className="block h-full w-full" title={project.title} aria-label={`${project.title} in ${project.location}`}>
                     <img
                         src={imgSrc}
                         alt={project.title}
+                        width="600"
+                        height="375"
                         className="w-full h-full object-cover group-hover:scale-108 transition-transform duration-700 ease-out"
                         loading="lazy"
                         onError={() => {
@@ -193,22 +204,22 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                 <div>
                     {/* Header: Developer Byline, Title & Location (Full Width, Zero Collisions) */}
                     <div>
-                        <div className="text-[10px] sm:text-[10.5px] uppercase font-black tracking-wider text-sky-600 truncate mb-1">
-                            {builderName}
+                        <div itemProp="brand" itemScope itemType="https://schema.org/Brand" className="text-[10px] sm:text-[10.5px] uppercase font-black tracking-wider text-sky-600 truncate mb-1">
+                            <span itemProp="name">{builderName}</span>
                         </div>
-                        <Link to={projectLink} className="block group/title">
-                            <h3 className={`font-sans font-black text-slate-900 leading-snug group-hover/title:text-sky-600 transition-colors ${
+                        <Link to={projectLink} className="block group/title" title={project.title} aria-label={project.title} itemProp="url">
+                            <h3 itemProp="name" className={`font-sans font-black text-slate-900 leading-snug group-hover/title:text-sky-600 transition-colors ${
                                 isGrid ? 'text-base sm:text-lg line-clamp-1' : 'text-lg md:text-xl line-clamp-2'
                             }`} title={project.title}>
                                 {project.title}
                             </h3>
                         </Link>
-                        <div className="flex items-center gap-1.5 text-slate-500 text-xs sm:text-sm mt-1">
+                        <div itemProp="address" itemScope itemType="https://schema.org/PostalAddress" className="flex items-center gap-1.5 text-slate-500 text-xs sm:text-sm mt-1">
                             <MapPin className="w-3.5 h-3.5 flex-shrink-0 text-sky-500" />
-                            <span className="truncate font-sans font-semibold text-slate-600 text-xs sm:text-sm">
+                            <span itemProp="addressLocality" className="truncate font-sans font-semibold text-slate-600 text-xs sm:text-sm">
                                 {project.location}
                                 {project.city && project.city !== 'Pune' && (
-                                    <span className="ml-1.5 inline-flex items-center text-[10px] font-bold px-1.5 py-0.2 rounded bg-sky-100 text-sky-800">
+                                    <span itemProp="addressRegion" className="ml-1.5 inline-flex items-center text-[10px] font-bold px-1.5 py-0.2 rounded bg-sky-100 text-sky-800">
                                         {project.city}
                                     </span>
                                 )}
@@ -414,7 +425,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                     </div>
                 </div>
             )}
-        </div>
+        </article>
     );
 };
 

@@ -54,12 +54,53 @@ const Home = () => {
         );
     }
 
+    const homeFaqJsonLd = React.useMemo(() => ({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How does 100% Zero Brokerage work on PROPSMART REALTY?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "PROPSMART REALTY holds official authorized direct sales mandates with top real estate developers across Pune, Mumbai, and Maharashtra. As direct developer sales partners, homebuyers pay 0% brokerage or commission while receiving direct builder pricing and exclusive launch offers."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is PROPSMART REALTY MahaRERA registered?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, PROPSMART REALTY is fully registered and compliant with MahaRERA under Agent Registration Number A031262401295. All projects and developer partnerships listed on the portal are verified against official MahaRERA standards."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which top builders and developers are partnered on the portal?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The platform features 300+ accredited developers including Godrej Properties, Lodha Group, VTP Realty, Kolte Patil, Rohan Builders, Paranjape Schemes, Gera Developments, Kalpataru, Shapoorji Pallonji, Pride Group, and Amanora."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I buy properties in Mumbai and other Maharashtra cities?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, PROPSMART REALTY showcases luxury apartments, high-rises, and villas across Pune, Mumbai, Thane, Navi Mumbai, Lonavala, and Alibaug with dedicated micro-market advisory and direct builder pricing."
+                }
+            }
+        ]
+    }), []);
+
     return (
         <div className="min-h-screen bg-slate-50/70 font-sans selection:bg-sky-500 selection:text-white relative">
             <WaterAmbientBackground variant="vibrant" />
             <SEO
-                title="PROPSMART REALTY - 100% Brokerage Free | Buy Directly with Builder in Pune"
-                description="Buy directly from top builders in Pune with 100% zero brokerage. PROPSMART REALTY is your trusted MahaRERA registered direct developer sales partner platform."
+                title="PROPSMART REALTY - 100% Brokerage Free | Buy Directly with Builder in Pune & Maharashtra"
+                description="Buy directly from top builders in Pune, Mumbai, Thane, and Maharashtra with 100% zero brokerage. Official MahaRERA authorized sales partner (A031262401295). Browse luxury flats, apartments, and villas."
+                canonical="https://propsmart.co.in/"
+                jsonLd={homeFaqJsonLd}
             />
 
             <PortalNavbar />

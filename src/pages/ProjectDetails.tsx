@@ -445,11 +445,10 @@ const ProjectDetails = () => {
         );
     }
 
-    // Builder defined at the top
-    // Dynamic SEO Generator... (Reuse logic)
-    const seoTitle = project.title + " " + project.location + " | " + safeConfigurations.join(', ') + " | Price " + (project.exactPrice || project.priceRange || 'On Request');
-    // ... rest of logic
-    const seoDesc = project.metaDescription || ("Buy " + safeConfigurations.join(' & ') + " at " + project.title + ", " + project.location + ". " + (project.reraId ? "RERA Verified: " + project.reraId + ". " : "") + "Starting from " + (project.exactPrice || project.priceRange || 'On Request') + ". Brochure, Floor Plans & Price Sheet.");
+    const cityName = project.city || 'Pune';
+    const builderLabel = builder?.name ? ` by ${builder.name}` : '';
+    const seoTitle = `${project.title}, ${project.location} - 100% Brokerage Free | PROPSMART REALTY`;
+    const seoDesc = project.metaDescription || `${project.title}${builderLabel} in ${project.location}, ${cityName}. Direct builder inventory, 100% zero brokerage, official MahaRERA (${project.reraId || 'Verified'}), verified floor plans, pricing & instant site visit booking.`;
 
     const getTabClass = (section: string) => {
         const base = "py-4 px-2 font-semibold text-sm uppercase tracking-wider border-b-2 transition-colors whitespace-nowrap";
@@ -484,6 +483,11 @@ const ProjectDetails = () => {
                         "@context": "https://schema.org",
                         "@type": "ApartmentComplex",
                         "name": project.title,
+                        "alternateName": [
+                            `${project.title} ${project.location}`,
+                            `${project.title} ${cityName}`,
+                            `${project.title} by ${builder?.name || 'Developer'}`
+                        ],
                         "image": [project.image, project.heroImage, ...safeFloorPlans].filter(Boolean),
                         "description": project.description || displayDescription,
                         "address": {
@@ -534,14 +538,14 @@ const ProjectDetails = () => {
                             {
                                 "@type": "ListItem",
                                 "position": 2,
-                                "name": "Pune",
-                                "item": "https://propsmart.co.in/search?q=Pune"
+                                "name": project.city || "Pune",
+                                "item": "https://propsmart.co.in/search?q=" + encodeURIComponent(project.city || "Pune")
                             },
                             {
                                 "@type": "ListItem",
                                 "position": 3,
                                 "name": project.location,
-                                "item": "https://propsmart.co.in/search?q=" + encodeURIComponent(project.location)
+                                "item": "https://propsmart.co.in/flats-in-" + encodeURIComponent(project.location.toLowerCase().trim().replace(/\s+/g, '-'))
                             },
                             {
                                 "@type": "ListItem",

@@ -112,12 +112,42 @@ const Directory = () => {
     };
 
 
+    const directoryJsonLd = React.useMemo(() => [
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://propsmart.co.in"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": view === 'builders' ? "Real Estate Developers" : "Property Directory",
+                    "item": `https://propsmart.co.in/directory${view === 'builders' ? '?view=builders' : ''}`
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            "name": view === 'builders' ? "Top Real Estate Developers & Builders in Pune & Maharashtra" : "Residential Property Projects Directory - Pune & Maharashtra",
+            "url": `https://propsmart.co.in/directory${view === 'builders' ? '?view=builders' : ''}`,
+            "description": "Complete directory of verified residential projects, luxury apartments, and accredited developers across Pune and Maharashtra with 100% zero brokerage."
+        }
+    ], [view]);
+
     return (
         <div className="min-h-screen bg-slate-50 relative selection:bg-sky-500 selection:text-white">
             <WaterAmbientBackground />
             <SEO
-                title={view === 'builders' ? "Top Builders in Pune - Buy Directly | PROPSMART REALTY" : "All Property Projects in Pune - 100% Brokerage Free | PROPSMART REALTY"}
-                description="Browse our complete directory of real estate projects and builders in Pune. Buy directly from developers with 100% zero brokerage."
+                title={view === 'builders' ? "Top Real Estate Builders in Pune & Maharashtra - Buy Directly | PROPSMART REALTY" : "All Property Projects in Pune & Maharashtra - 100% Brokerage Free | PROPSMART REALTY"}
+                description="Browse our complete directory of verified real estate projects and 300+ accredited builders across Pune, Mumbai, and Maharashtra. Buy directly from developers with 100% zero brokerage."
+                canonical={`https://propsmart.co.in/directory${view === 'builders' ? '?view=builders' : ''}`}
+                jsonLd={directoryJsonLd}
             />
             <PortalNavbar variant="colored" />
 

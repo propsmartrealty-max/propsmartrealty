@@ -295,13 +295,11 @@ const MOCK_FALLBACK: any = {
 };
 
 const CURATED_PROJECT_IMAGES = [
-    'https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80&w=1000', // Modern High Rise
-    'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1000', // Luxury Interior
-    'https://images.unsplash.com/photo-1600596542815-e32c8ec7f985?auto=format&fit=crop&q=80&w=1000', // Villa w/ Pool
-    'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1000', // Glass Skyscraper
-    'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=1000', // Resort Style
-    'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=1000', // Modern Living Room
-    'https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&q=80&w=1000'  // Luxury Manor
+    'https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp',
+    'https://keystoneliv.com/public/uploads/property/d1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0.webp',
+    'https://keystoneliv.com/public/uploads/property/w1x2y3z4a5b6c7d8e9f0g1h2i3j4k5l6m7n8o9p0.webp',
+    'https://keystoneliv.com/public/uploads/property/t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0.webp',
+    'https://keystoneliv.com/public/uploads/property/h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0.webp'
 ];
 
 const getMockProject = (name: string, type: string, builder: string) => ({

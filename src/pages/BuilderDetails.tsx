@@ -31,37 +31,60 @@ const BuilderDetails = () => {
     return (
         <div className="min-h-screen bg-gray-50">
             <SEO
-                title={`${builder.name} - Projects in Pune`}
-                description={builder.description}
+                title={`${builder.name} - Projects in Pune & Maharashtra | Direct Builder Pricing`}
+                description={builder.description || `Explore all residential township projects and luxury apartments by ${builder.name} in Pune & Maharashtra. 100% Zero Brokerage with authorized sales partner.`}
                 canonical={`https://propsmart.co.in/builder/${builder.slug}`}
                 openGraph={{
                     type: 'profile',
                     image: builder.logo
                 }}
-                jsonLd={{
-                    "@context": "https://schema.org",
-                    "@type": "Organization",
-                    "name": builder.name,
-                    "url": `https://propsmart.co.in/builder/${builder.slug}`,
-                    "logo": builder.logo,
-                    "description": builder.description,
-                    "foundingDate": builder.establishedYear.toString(),
-                    "address": {
-                        "@type": "PostalAddress",
-                        "addressLocality": "Pune",
-                        "addressRegion": "Maharashtra",
-                        "addressCountry": "IN"
+                jsonLd={[
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "Organization",
+                        "name": builder.name,
+                        "url": `https://propsmart.co.in/builder/${builder.slug}`,
+                        "logo": builder.logo,
+                        "description": builder.description,
+                        "foundingDate": builder.establishedYear ? builder.establishedYear.toString() : undefined,
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Pune",
+                            "addressRegion": "Maharashtra",
+                            "addressCountry": "IN"
+                        },
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "telephone": "+91-7744009295",
+                            "contactType": "sales",
+                            "areaServed": ["Pune", "Mumbai", "Maharashtra"]
+                        }
                     },
-                    "contactPoint": {
-                        "@type": "ContactPoint",
-                        "telephone": "+91-7744009295",
-                        "contactType": "sales",
-                        "areaServed": "Pune"
-                    },
-                    "sameAs": [
-                        // Add social links if available in future
-                    ]
-                }}
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "BreadcrumbList",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Home",
+                                "item": "https://propsmart.co.in"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "Developers",
+                                "item": "https://propsmart.co.in/directory?view=builders"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 3,
+                                "name": builder.name,
+                                "item": `https://propsmart.co.in/builder/${builder.slug}`
+                            }
+                        ]
+                    }
+                ]}
             />
             <PortalNavbar />
 

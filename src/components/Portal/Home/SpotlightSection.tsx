@@ -59,11 +59,20 @@ const SpotlightSection: React.FC<SpotlightSectionProps> = ({ projects }) => {
                         <Link
                             to={`/project/${project.slug}`}
                             key={project.id}
+                            title={project.title}
+                            aria-label={`${project.title} in ${project.location}, ${project.city || 'Pune'}`}
+                            itemScope
+                            itemType="https://schema.org/ApartmentComplex"
                             className="group relative rounded-3xl overflow-hidden aspect-[4/5] shadow-xl hover:shadow-2xl transition-all duration-500 hover:-translate-y-2 border border-slate-200/80 bg-slate-900"
                         >
+                            <meta itemProp="name" content={project.title} />
+                            <meta itemProp="url" content={`https://propsmart.co.in/project/${project.slug}`} />
                             <img
                                 src={project.image}
                                 alt={project.title}
+                                width="400"
+                                height="500"
+                                loading="lazy"
                                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
                                 onError={(e) => {
                                     e.currentTarget.src = '/images/placeholder-property.svg';
@@ -87,7 +96,7 @@ const SpotlightSection: React.FC<SpotlightSectionProps> = ({ projects }) => {
 
                             {/* Bottom Content Area */}
                             <div className="absolute bottom-0 left-0 p-6 w-full text-white z-10">
-                                <h3 className="text-2xl font-black mb-1.5 drop-shadow-md group-hover:text-amber-300 transition-colors line-clamp-1">
+                                <h3 itemProp="name" className="text-2xl font-black mb-1.5 drop-shadow-md group-hover:text-amber-300 transition-colors line-clamp-1" title={project.title}>
                                     {project.title}
                                 </h3>
                                 <p className="font-sans font-bold text-sm text-slate-300 mb-3 flex items-center gap-1.5">
