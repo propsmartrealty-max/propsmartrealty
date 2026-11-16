@@ -40956,7 +40956,7 @@ export const PROJECTS: Project[] = [
     "id": "p-pride-world-city-boston",
     "title": "Pride World City Boston",
     "slug": "pride-world-city-boston",
-    "builderId": "b-pride-group",
+    "builderId": "b-pride-purple",
     "location": "Charoli",
     "city": "Pune",
     "priceRange": "₹72.99 L - ₹77.99 L",
@@ -41589,7 +41589,7 @@ export const PROJECTS: Project[] = [
     "id": "p-pride-world-city-valencia",
     "title": "Pride World City Valencia",
     "slug": "pride-world-city-valencia",
-    "builderId": "b-pride-group",
+    "builderId": "b-pride-purple",
     "location": "Charoli",
     "city": "Pune",
     "priceRange": "₹92.49 L - ₹1.23 Cr",
@@ -41677,7 +41677,7 @@ export const PROJECTS: Project[] = [
     "id": "p-pride-world-city-miami",
     "title": "Pride World City Miami",
     "slug": "pride-world-city-miami",
-    "builderId": "b-pride-group",
+    "builderId": "b-pride-purple",
     "location": "Charoli",
     "city": "Pune",
     "priceRange": "₹91 L - ₹2.74 Cr",
@@ -44612,7 +44612,7 @@ export const PROJECTS: Project[] = [
     "id": "p-pride-world-city-montreal",
     "title": "Pride World City Montreal",
     "slug": "pride-world-city-montreal",
-    "builderId": "b-pride-group",
+    "builderId": "b-pride-purple",
     "location": "Charoli",
     "city": "Pune",
     "priceRange": "₹1.49 Cr - ₹2.08 Cr",
@@ -50177,7 +50177,7 @@ export const PROJECTS: Project[] = [
     "id": "p-kasturi-corner",
     "title": "Kasturi Corner",
     "slug": "kasturi-corner",
-    "builderId": "b-kasturi-developers",
+    "builderId": "b-kasturi",
     "location": "Kiwale",
     "city": "Pune",
     "priceRange": "₹1 Cr - ₹1.80 Cr",
@@ -70993,7 +70993,7 @@ export const PROJECTS: Project[] = [
     "id": "p-palladio-balewadi-central",
     "title": "Palladio Balewadi Central",
     "slug": "palladio-balewadi-central",
-    "builderId": "b-vilas-javdekar-developer",
+    "builderId": "b-vilas-javdekar",
     "location": "Balewadi",
     "city": "Pune",
     "priceRange": "₹1.51 Cr - ₹2.30 Cr",
@@ -74805,7 +74805,7 @@ export const PROJECTS: Project[] = [
     "id": "p-vj-palladio-la-viento",
     "title": "VJ Palladio La Viento",
     "slug": "vj-palladio-la-viento",
-    "builderId": "b-vilas-javdekar-developer",
+    "builderId": "b-vilas-javdekar",
     "location": "Mahalunge",
     "city": "Pune",
     "priceRange": "₹99.07 L - ₹1.52 Cr",
@@ -81392,5 +81392,3012 @@ export const PROJECTS: Project[] = [
     ],
     "verificationStatus": "Verified",
     "featured": true
+  },
+  {
+    "id": "p-kohinoor-presidentia-sopan-baug",
+    "title": "Kohinoor Presidentia",
+    "slug": "kohinoor-presidentia-sopan-baug-pune",
+    "builderId": "b-kohinoor",
+    "location": "Sopan Baug, Pune",
+    "city": "Pune",
+    "priceRange": "₹1.15 Cr - ₹2.40 Cr",
+    "exactPrice": "₹1.15 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "765 sq.ft",
+        "priceRange": "₹1.15 Cr - ₹1.35 Cr"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1055 sq.ft",
+        "priceRange": "₹1.65 Cr - ₹1.95 Cr"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1230 sq.ft",
+        "priceRange": "₹2.05 Cr - ₹2.40 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.528,
+    "lng": 73.901,
+    "reraId": "P52100029314",
+    "description": "Kohinoor Presidentia at Sopan Baug Annexe, B.T. Kawade Road is an exclusive high-rise enclave. Featuring 15+ lifestyle amenities, panoramic views of the Pune Cantonment greenery, and rapid 10-minute access to Koregaon Park and Magarpatta City with 100% Zero Brokerage.",
+    "features": [
+      "Sopan Baug Annexe Prime Address",
+      "10 Mins to Koregaon Park & MG Road",
+      "Double-Height Grand Club",
+      "Sada Sukhi Raho 5-Year Maintenance Assurance",
+      "Zero Buyer Brokerage"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Yoga Lawn",
+      "Children Play Zone",
+      "Gymnasium",
+      "24x7 Security"
+    ],
+    "totalAcres": "4.5 Acres",
+    "totalFloors": "22 Floors",
+    "approvedBanks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kohinoor-viva-city-dhanori",
+    "title": "Kohinoor Viva City",
+    "slug": "kohinoor-viva-city-dhanori-pune",
+    "builderId": "b-kohinoor",
+    "location": "Dhanori, Pune",
+    "city": "Pune",
+    "priceRange": "₹58 L - ₹1.25 Cr",
+    "exactPrice": "₹58 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹58 L - ₹72 L"
+      },
+      {
+        "type": "2 BHK Grand",
+        "carpetArea": "745 sq.ft",
+        "priceRange": "₹68 L - ₹82 L"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "₹95 L - ₹1.25 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Mar 2026",
+    "image": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.598,
+    "lng": 73.899,
+    "reraId": "P52100031852",
+    "description": "Kohinoor Viva City at Dhanori is East Pune's most dynamic family township. Offering 2 & 3 BHK homes with 20+ lifestyle amenities, direct connectivity to Pune International Airport, Viman Nagar, and Commerzone IT Park.",
+    "features": [
+      "10 Mins to Pune International Airport",
+      "Proximity to Viman Nagar & Commerzone",
+      "20+ Podium Amenities",
+      "Sada Sukhi Raho Philosophy",
+      "Direct Developer Allocation"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Senior Citizens Katta",
+      "Kids Activity Park",
+      "Multipurpose Court",
+      "Gymnasium"
+    ],
+    "totalAcres": "5.5 Acres",
+    "totalFloors": "18 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of Baroda"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kohinoor-westview-reserve-punawale",
+    "title": "Kohinoor Westview Reserve",
+    "slug": "kohinoor-westview-reserve-punawale-pune",
+    "builderId": "b-kohinoor",
+    "location": "Punawale, Pune",
+    "city": "Pune",
+    "priceRange": "₹64 L - ₹1.35 Cr",
+    "exactPrice": "₹64 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Nature View",
+        "carpetArea": "705 sq.ft",
+        "priceRange": "₹64 L - ₹78 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "770 sq.ft",
+        "priceRange": "₹74 L - ₹88 L"
+      },
+      {
+        "type": "3 BHK Forest Suite",
+        "carpetArea": "995 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.35 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2026",
+    "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.631,
+    "lng": 73.742,
+    "reraId": "P52100048589",
+    "description": "Kohinoor Westview Reserve in Punawale, West Pune is nestled against forest greens. Spanning 10+ acres with boardwalk trails, reflexology paths, and minutes from Pune-Mumbai Expressway and Hinjewadi IT hub.",
+    "features": [
+      "Nature-Centric 10-Acre Master Township",
+      "Expressway Gateway Access",
+      "Forest-Facing Balconies",
+      "Zero Buyer Brokerage",
+      "Sada Sukhi Raho Warranty"
+    ],
+    "amenities": [
+      "Forest Boardwalk",
+      "Clubhouse",
+      "Infinity Edge Pool",
+      "Open Gym",
+      "Tennis Court"
+    ],
+    "totalAcres": "10 Acres",
+    "totalFloors": "24 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kohinoor-sapphire-tathawade",
+    "title": "Kohinoor Sapphire",
+    "slug": "kohinoor-sapphire-tathawade-pune",
+    "builderId": "b-kohinoor",
+    "location": "Tathawade, Pune",
+    "city": "Pune",
+    "priceRange": "₹62 L - ₹95 L",
+    "exactPrice": "₹62 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "665 sq.ft",
+        "priceRange": "₹62 L - ₹75 L"
+      },
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "735 sq.ft",
+        "priceRange": "₹76 L - ₹95 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.618,
+    "lng": 73.754,
+    "reraId": "P52100022354",
+    "description": "Kohinoor Sapphire at Tathawade, Wakad Annex is a landmark ready-to-move residential community. Located near JSPM and Indira College with rapid access to Hinjewadi Phase 1.",
+    "features": [
+      "Ready to Move Occupancy",
+      "Wakad Annexe Prime Location",
+      "Near Top Educational Hubs",
+      "Branded Construction Quality",
+      "Zero Brokerage"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Party Lawn",
+      "Indoor Games",
+      "Gymnasium"
+    ],
+    "totalAcres": "4 Acres",
+    "totalFloors": "18 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kohinoor-grandeur-ravet",
+    "title": "Kohinoor Grandeur",
+    "slug": "kohinoor-grandeur-ravet-pune",
+    "builderId": "b-kohinoor",
+    "location": "Ravet, Pune",
+    "city": "Pune",
+    "priceRange": "₹59 L - ₹1.18 Cr",
+    "exactPrice": "₹59 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹59 L - ₹74 L"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "960 sq.ft",
+        "priceRange": "₹92 L - ₹1.18 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.648,
+    "lng": 73.746,
+    "reraId": "P52100000862",
+    "description": "Kohinoor Grandeur at Ravet is situated right off the Pune-Mumbai Expressway. Offering ready-possession 2 & 3 BHK residences with direct developer pricing and zero brokerage.",
+    "features": [
+      "Expressway Starting Point",
+      "Ready Possession Homes",
+      "3-Tier Gated Security",
+      "Near Akurdi Railway Station",
+      "100% Zero Brokerage"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Swimming Pool",
+      "Kids Park",
+      "Jogging Track",
+      "Gym"
+    ],
+    "totalAcres": "3.5 Acres",
+    "totalFloors": "15 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kohinoor-courtyard-one-wakad",
+    "title": "Kohinoor Courtyard One",
+    "slug": "kohinoor-courtyard-one-wakad-pune",
+    "builderId": "b-kohinoor",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "₹76 L - ₹1.48 Cr",
+    "exactPrice": "₹76 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Elegant",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹76 L - ₹94 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "990 sq.ft",
+        "priceRange": "₹1.18 Cr - ₹1.48 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2026",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.604,
+    "lng": 73.766,
+    "reraId": "P52100032541",
+    "description": "Kohinoor Courtyard One at Wakad is designed around expansive central open courtyards. Near Dange Chowk with direct connectivity to Hinjewadi IT Park.",
+    "features": [
+      "Central Courtyard Architecture",
+      "Near Dange Chowk Wakad",
+      "Premium Clubhouse & Amenities",
+      "Zero Brokerage Guaranteed",
+      "MahaRERA Approved"
+    ],
+    "amenities": [
+      "Courtyard Amphitheater",
+      "Swimming Pool",
+      "Fitness Hub",
+      "Yoga Deck",
+      "Children Play Arena"
+    ],
+    "totalAcres": "4 Acres",
+    "totalFloors": "21 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kohinoor-famville-hinjewadi",
+    "title": "Kohinoor Famville",
+    "slug": "kohinoor-famville-hinjewadi-phase-2",
+    "builderId": "b-kohinoor",
+    "location": "Hinjewadi, Pune",
+    "city": "Pune",
+    "priceRange": "₹65 L - ₹1.35 Cr",
+    "exactPrice": "₹65 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Family Comfort",
+        "carpetArea": "695 sq.ft",
+        "priceRange": "₹65 L - ₹79 L"
+      },
+      {
+        "type": "2 BHK Grand",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "₹76 L - ₹92 L"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "975 sq.ft",
+        "priceRange": "₹1.10 Cr - ₹1.35 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Mar 2027",
+    "image": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.594,
+    "lng": 73.719,
+    "reraId": "P52100047582",
+    "description": "Kohinoor Famville at Hinjewadi Phase 2 is engineered specifically around multi-generational family living. Featuring child-centric sports and senior citizen recreation zones.",
+    "features": [
+      "Family-Centric Master Design",
+      "Walk to Wipro & Cognizant Phase 2",
+      "Multi-Tier Security & Crèche",
+      "Zero Commission",
+      "Sada Sukhi Raho Trust"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Crèche & Daycare",
+      "Senior Living Pavilion",
+      "Gymnasium",
+      "Banquet Lawn"
+    ],
+    "totalAcres": "5 Acres",
+    "totalFloors": "22 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kasturi-balmoral-hillside-baner",
+    "title": "The Balmoral Hillside",
+    "slug": "the-balmoral-hillside-baner-pune",
+    "builderId": "b-kasturi",
+    "location": "Baner, Pune",
+    "city": "Pune",
+    "priceRange": "₹3.10 Cr - ₹7.20 Cr",
+    "exactPrice": "₹3.10 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Hillside Residence",
+        "carpetArea": "1550 sq.ft",
+        "priceRange": "₹3.10 Cr - ₹3.85 Cr"
+      },
+      {
+        "type": "4 BHK Panoramic Suite",
+        "carpetArea": "2350 sq.ft",
+        "priceRange": "₹4.80 Cr - ₹5.60 Cr"
+      },
+      {
+        "type": "5 BHK Sky Villa",
+        "carpetArea": "3600 sq.ft",
+        "priceRange": "₹6.40 Cr - ₹7.20 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.557,
+    "lng": 73.778,
+    "reraId": "P52100034189",
+    "description": "The Balmoral Hillside by Kasturi Housing is an ultra-luxury hillside enclave nestled against the Baner hills bio-reserve. Featuring floor-to-ceiling glass, Italian marble, and bespoke private sky terraces with zero buyer brokerage.",
+    "features": [
+      "Baner Hills Bio-Reserve Frontage",
+      "Italian Marble & Floor-to-Ceiling Glass",
+      "Private High-Speed Elevators",
+      "100% Zero Brokerage",
+      "Kasturi Signature Finishing"
+    ],
+    "amenities": [
+      "Infinity Sky Pool",
+      "Private Wine Cellar",
+      "Concierge Service",
+      "Spa Sanctuary",
+      "Private Theater"
+    ],
+    "totalAcres": "4.2 Acres",
+    "totalFloors": "35 Floors",
+    "approvedBanks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Standard Chartered"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kasturi-the-balmoral-estate-baner",
+    "title": "The Balmoral Estate",
+    "slug": "the-balmoral-estate-baner-pune",
+    "builderId": "b-kasturi",
+    "location": "Baner, Pune",
+    "city": "Pune",
+    "priceRange": "₹4.50 Cr - ₹9.50 Cr",
+    "exactPrice": "₹4.50 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK Royal Suite",
+        "carpetArea": "2600 sq.ft",
+        "priceRange": "₹4.50 Cr - ₹5.80 Cr"
+      },
+      {
+        "type": "5 BHK Imperial Estate",
+        "carpetArea": "4200 sq.ft",
+        "priceRange": "₹7.50 Cr - ₹9.50 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.559,
+    "lng": 73.781,
+    "reraId": "P52100000492",
+    "description": "The Balmoral Estate in Baner represents the zenith of Kasturi Housing's architectural mastery. Offering palatial, single-floor residences with panoramic views, private plunge pools, and 24/7 concierge service.",
+    "features": [
+      "Single Floor Exclusive Residences",
+      "Private Plunge Pools",
+      "Italian Poggenpohl Kitchens",
+      "Ready Possession Luxury",
+      "Direct Builder Mandate"
+    ],
+    "amenities": [
+      "Temperature Controlled Pool",
+      "Private Clubhouse",
+      "Gymnasium",
+      "Billiards Lounge",
+      "Valet Parking"
+    ],
+    "totalAcres": "3 Acres",
+    "totalFloors": "20 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "Standard Chartered"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kasturi-zero-one-mundhwa",
+    "title": "Kasturi Zero One",
+    "slug": "kasturi-zero-one-mundhwa-pune",
+    "builderId": "b-kasturi",
+    "location": "Mundhwa, Pune",
+    "city": "Pune",
+    "priceRange": "₹95 L - ₹2.40 Cr",
+    "exactPrice": "₹95 L",
+    "priceType": "L",
+    "configurations": [
+      "1.5 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1.5 BHK SOHO Suite",
+        "carpetArea": "580 sq.ft",
+        "priceRange": "₹95 L - ₹1.15 Cr"
+      },
+      {
+        "type": "2 BHK Urban Loft",
+        "carpetArea": "790 sq.ft",
+        "priceRange": "₹1.40 Cr - ₹1.75 Cr"
+      },
+      {
+        "type": "3 BHK Grand Loft",
+        "carpetArea": "1150 sq.ft",
+        "priceRange": "₹1.95 Cr - ₹2.40 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.536,
+    "lng": 73.921,
+    "reraId": "P52100000725",
+    "description": "Kasturi Zero One at Mundhwa, Koregaon Park Annexe is a contemporary SOHO and residential concept. Featuring international loft architecture, high ceilings, rooftop infinity deck, and 2-minute connectivity to Koregaon Park.",
+    "features": [
+      "Koregaon Park Annexe Address",
+      "High-Ceiling Loft Architecture",
+      "Rooftop Sky Deck",
+      "100% Zero Brokerage",
+      "Ready Possession"
+    ],
+    "amenities": [
+      "Rooftop Pool",
+      "Co-Working Lounge",
+      "Fitness Hub",
+      "Cafe",
+      "Concierge"
+    ],
+    "totalAcres": "3 Acres",
+    "totalFloors": "18 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-pride-purple-park-titanium-baner",
+    "title": "Park Titanium",
+    "slug": "park-titanium-baner-pune",
+    "builderId": "b-pride-purple",
+    "location": "Baner, Pune",
+    "city": "Pune",
+    "priceRange": "₹1.95 Cr - ₹4.50 Cr",
+    "exactPrice": "₹1.95 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹1.95 Cr - ₹2.55 Cr"
+      },
+      {
+        "type": "4 BHK Royal Suite",
+        "carpetArea": "1980 sq.ft",
+        "priceRange": "₹3.20 Cr - ₹4.50 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.558,
+    "lng": 73.783,
+    "reraId": "P52100000688",
+    "description": "Park Titanium by Pride Purple Group in Baner is one of Pune's most celebrated ready luxury communities. Featuring an Olympic-length swimming pool, 30,000 sq.ft grand clubhouse, and walking distance to Baner High Street with zero brokerage.",
+    "features": [
+      "Baner Landmark Luxury Community",
+      "Olympic-Length Swimming Pool",
+      "30,000 sq.ft Grand Clubhouse",
+      "Direct Builder Mandate",
+      "Ready Possession"
+    ],
+    "amenities": [
+      "Olympic Pool",
+      "Clubhouse",
+      "Tennis Courts",
+      "Badminton Arena",
+      "Banquet Hall",
+      "Jogging Track"
+    ],
+    "totalAcres": "12 Acres",
+    "totalFloors": "22 Floors",
+    "approvedBanks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-pride-purple-park-grandeur-baner",
+    "title": "Park Grandeur",
+    "slug": "park-grandeur-baner-pune",
+    "builderId": "b-pride-purple",
+    "location": "Baner, Pune",
+    "city": "Pune",
+    "priceRange": "₹2.65 Cr - ₹5.80 Cr",
+    "exactPrice": "₹2.65 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Grandeur",
+        "carpetArea": "1520 sq.ft",
+        "priceRange": "₹2.65 Cr - ₹3.40 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "2250 sq.ft",
+        "priceRange": "₹4.50 Cr - ₹5.80 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.554,
+    "lng": 73.786,
+    "reraId": "P52100000781",
+    "description": "Park Grandeur on Baner-Pashan Link Road represents the epitome of Pride Purple luxury. Offering spacious 3 & 4 BHK residences with floor-to-ceiling glass, Italian marble flooring, and ready-to-move occupancy.",
+    "features": [
+      "Baner-Pashan Link Road Prime Spot",
+      "Italian Marble Finishing",
+      "Exclusive Low-Density Living",
+      "Ready Possession",
+      "Zero Commission"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Squash Court",
+      "Private Screening Room",
+      "Steam & Sauna"
+    ],
+    "totalAcres": "5 Acres",
+    "totalFloors": "18 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Standard Chartered"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-pride-purple-park-astra-hinjewadi",
+    "title": "Park Astra",
+    "slug": "park-astra-hinjewadi-phase-1",
+    "builderId": "b-pride-purple",
+    "location": "Hinjewadi, Pune",
+    "city": "Pune",
+    "priceRange": "₹72 L - ₹1.45 Cr",
+    "exactPrice": "₹72 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹72 L - ₹88 L"
+      },
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "765 sq.ft",
+        "priceRange": "₹85 L - ₹98 L"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "990 sq.ft",
+        "priceRange": "₹1.18 Cr - ₹1.45 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2026",
+    "image": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.591,
+    "lng": 73.728,
+    "reraId": "P52100030248",
+    "description": "Park Astra is an integral part of Pride Purple's 60-acre Park District in Hinjewadi Phase 1. Designed for modern tech professionals with 30+ amenities, podium sports arena, and direct walking distance to Infosys and Quadron Business Park.",
+    "features": [
+      "Inside 60-Acre Park District",
+      "Walk to Quadron Business Park & Infosys",
+      "30+ Resort-Style Amenities",
+      "100% Zero Brokerage",
+      "MahaRERA Approved"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Cricket Bowling Machine Net",
+      "Gymnasium",
+      "Co-Working Space",
+      "Amphitheater"
+    ],
+    "totalAcres": "60 Acres District",
+    "totalFloors": "28 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-pride-purple-park-xpress-baner",
+    "title": "Park Xpress",
+    "slug": "park-xpress-baner-pune",
+    "builderId": "b-pride-purple",
+    "location": "Baner, Pune",
+    "city": "Pune",
+    "priceRange": "₹1.10 Cr - ₹2.15 Cr",
+    "exactPrice": "₹1.10 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹1.10 Cr - ₹1.35 Cr"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹1.65 Cr - ₹2.15 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.556,
+    "lng": 73.787,
+    "reraId": "P52100000645",
+    "description": "Park Xpress in Baner offers ready-to-move cosmopolitan apartments close to Mumbai-Pune highway bypass. Featuring landscaped gardens, clubhouse, and ready possession with direct developer inventory.",
+    "features": [
+      "Ready Possession Living",
+      "Baner Prime Location",
+      "Landscaped Podium",
+      "Zero Brokerage",
+      "MahaRERA Registered"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Party Lawn",
+      "Gymnasium",
+      "Kids Play Area"
+    ],
+    "totalAcres": "6 Acres",
+    "totalFloors": "18 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-pride-world-city-kingsbury-charholi",
+    "title": "Pride World City - Kingsbury",
+    "slug": "pride-world-city-kingsbury-charholi-pune",
+    "builderId": "b-pride-purple",
+    "location": "Charholi, Pune",
+    "city": "Pune",
+    "priceRange": "₹65 L - ₹1.70 Cr",
+    "exactPrice": "₹65 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Classic",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹65 L - ₹82 L"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1015 sq.ft",
+        "priceRange": "₹1.15 Cr - ₹1.70 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.627,
+    "lng": 73.885,
+    "reraId": "P52100001889",
+    "description": "Kingsbury at Pride World City, Charholi is part of a 400-acre mega township. Featuring schools, shopping plazas, sports arenas, and ready-to-move 2 & 3 BHK residences with direct developer pricing and zero brokerage.",
+    "features": [
+      "400-Acre Pride World City Township",
+      "D.Y. Patil Knowledge City Nearby",
+      "Master Community Infrastructure",
+      "Ready to Move Occupancy",
+      "100% Zero Brokerage"
+    ],
+    "amenities": [
+      "Olympic Pool",
+      "Clubhouse",
+      "Lake Promenade",
+      "Tennis Courts",
+      "24x7 Gated Security"
+    ],
+    "totalAcres": "400 Acres",
+    "totalFloors": "22 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of Baroda"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-pride-purple-park-landmark-bibwewadi",
+    "title": "Park Landmark",
+    "slug": "park-landmark-bibwewadi-pune",
+    "builderId": "b-pride-purple",
+    "location": "Bibwewadi, Pune",
+    "city": "Pune",
+    "priceRange": "₹1.15 Cr - ₹2.35 Cr",
+    "exactPrice": "₹1.15 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "₹1.15 Cr - ₹1.45 Cr"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1080 sq.ft",
+        "priceRange": "₹1.75 Cr - ₹2.35 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.476,
+    "lng": 73.864,
+    "reraId": "P52100000512",
+    "description": "Park Landmark at Bibwewadi, South Pune is a ready luxury landmark near Salisbury Park and Market Yard. Featuring tranquil landscaped gardens, clubhouse, and ready possession with 0% brokerage.",
+    "features": [
+      "South Pune Prime Salisbury Park Corridor",
+      "Ready Possession Homes",
+      "Gated Security & Landscaping",
+      "Zero Brokerage",
+      "MahaRERA Approved"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Party Hall",
+      "Gymnasium",
+      "Kids Play Area"
+    ],
+    "totalAcres": "4.5 Acres",
+    "totalFloors": "16 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-vj-yashwin-orizzonte-kharadi",
+    "title": "Yashwin Orizzonte",
+    "slug": "yashwin-orizzonte-kharadi-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Kharadi, Pune",
+    "city": "Pune",
+    "priceRange": "₹85 L - ₹1.95 Cr",
+    "exactPrice": "₹85 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "690 sq.ft",
+        "priceRange": "₹85 L - ₹98 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "770 sq.ft",
+        "priceRange": "₹96 L - ₹1.15 Cr"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1025 sq.ft",
+        "priceRange": "₹1.45 Cr - ₹1.95 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.553,
+    "lng": 73.951,
+    "reraId": "P52100032598",
+    "description": "Yashwin Orizzonte by Vilas Javdekar in Kharadi overlooks the river. Featuring 30+ lifestyle amenities, VJ signature construction warranty, and direct 5-minute access to EON IT Park and World Trade Center with 100% Zero Brokerage.",
+    "features": [
+      "River-Facing High-Rise Towers",
+      "5 Mins to EON IT Park & WTC Kharadi",
+      "VJ 7-Year Construction Warranty",
+      "Zero Buyer Brokerage",
+      "MahaRERA Approved"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Sky Lounge",
+      "Indoor Badminton",
+      "Gymnasium",
+      "Kids Play Park"
+    ],
+    "totalAcres": "5.5 Acres",
+    "totalFloors": "29 Floors",
+    "approvedBanks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-vj-yashone-hinjewadi",
+    "title": "YashONE Hinjewadi",
+    "slug": "yashone-hinjewadi-phase-1-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Hinjewadi, Pune",
+    "city": "Pune",
+    "priceRange": "₹48 L - ₹1.15 Cr",
+    "exactPrice": "₹48 L",
+    "priceType": "L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Smart",
+        "carpetArea": "440 sq.ft",
+        "priceRange": "₹48 L - ₹58 L"
+      },
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹68 L - ₹82 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "910 sq.ft",
+        "priceRange": "₹95 L - ₹1.15 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.592,
+    "lng": 73.731,
+    "reraId": "P52100020145",
+    "description": "YashONE Hinjewadi by Vilas Javdekar is a vibrant community in Hinjewadi Phase 1. Offering smart 1, 2, & 3 BHK ready homes with 20+ amenities, walk-to-work convenience for IT professionals, and zero brokerage.",
+    "features": [
+      "Walk-to-Work Hinjewadi Phase 1",
+      "Ready Possession Homes",
+      "20+ Curated Amenities",
+      "VJ Trust & Transparent Delivery",
+      "Zero Commission"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Party Lawn",
+      "Fitness Center",
+      "Children Play Arena"
+    ],
+    "totalAcres": "6 Acres",
+    "totalFloors": "22 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of Maharashtra"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-vj-yashone-infinitee-punawale",
+    "title": "YashONE Infinitee",
+    "slug": "yashone-infinitee-punawale-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Punawale, Pune",
+    "city": "Pune",
+    "priceRange": "₹59 L - ₹1.28 Cr",
+    "exactPrice": "₹59 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "685 sq.ft",
+        "priceRange": "₹59 L - ₹74 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "755 sq.ft",
+        "priceRange": "₹72 L - ₹88 L"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "970 sq.ft",
+        "priceRange": "₹1.05 Cr - ₹1.28 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Mar 2026",
+    "image": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.628,
+    "lng": 73.746,
+    "reraId": "P52100030284",
+    "description": "YashONE Infinitee in Punawale, West Pune offers infinite lifestyle possibilities with 40+ amenities, sprawling landscaped podium, and instant access to Hinjewadi and Pune-Bangalore Highway.",
+    "features": [
+      "40+ Curated Lifestyle Amenities",
+      "Expressway Corridor Connectivity",
+      "VJ Construction Warranty",
+      "Zero Buyer Brokerage",
+      "MahaRERA Approved"
+    ],
+    "amenities": [
+      "Olympic-Length Pool",
+      "Gymnasium",
+      "Multipurpose Hall",
+      "Sports Court",
+      "Yoga Pavilion"
+    ],
+    "totalAcres": "10 Acres",
+    "totalFloors": "24 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-vj-yashone-wakad-central",
+    "title": "YashONE Wakad Central",
+    "slug": "yashone-wakad-central-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "₹74 L - ₹1.45 Cr",
+    "exactPrice": "₹74 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "690 sq.ft",
+        "priceRange": "₹74 L - ₹89 L"
+      },
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "₹86 L - ₹1.02 Cr"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "990 sq.ft",
+        "priceRange": "₹1.18 Cr - ₹1.45 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.601,
+    "lng": 73.762,
+    "reraId": "P52100031841",
+    "description": "YashONE Wakad Central is situated right in the center of Wakad near Datta Mandir road. Offering 2 & 3 BHK homes with 25+ lifestyle amenities and direct developer booking.",
+    "features": [
+      "Wakad Central Prime Address",
+      "25+ Lifestyle Amenities",
+      "VJ Brand Construction Quality",
+      "100% Zero Brokerage",
+      "MahaRERA Registered"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Party Lawn",
+      "Gymnasium",
+      "Kids Play Area"
+    ],
+    "totalAcres": "4.5 Acres",
+    "totalFloors": "22 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of Baroda"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-vj-palladio-tathawade",
+    "title": "VJ Palladio Tathawade",
+    "slug": "vj-palladio-tathawade-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Tathawade, Pune",
+    "city": "Pune",
+    "priceRange": "₹65 L - ₹1.35 Cr",
+    "exactPrice": "₹65 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹65 L - ₹79 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "₹76 L - ₹92 L"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "₹1.10 Cr - ₹1.35 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2026",
+    "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.622,
+    "lng": 73.751,
+    "reraId": "P52100030452",
+    "description": "VJ Palladio in Tathawade offers Italian-inspired architecture and lifestyle amenities right off the Mumbai-Pune Expressway. Features spacious 2 & 3 BHK residences with direct developer pricing.",
+    "features": [
+      "Italian Renaissance Inspired Architecture",
+      "Minutes to Dange Chowk & Hinjewadi",
+      "VJ Quality Guarantee",
+      "Zero Buyer Commission",
+      "MahaRERA Approved"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Italian Garden",
+      "Fitness Center",
+      "Tennis Court"
+    ],
+    "totalAcres": "5 Acres",
+    "totalFloors": "21 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-vj-portia-baner",
+    "title": "VJ Portia",
+    "slug": "vj-portia-baner-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Baner, Pune",
+    "city": "Pune",
+    "priceRange": "₹2.25 Cr - ₹4.50 Cr",
+    "exactPrice": "₹2.25 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "3 BHK",
+      "4.5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹2.25 Cr - ₹2.85 Cr"
+      },
+      {
+        "type": "4.5 BHK Presidential",
+        "carpetArea": "2100 sq.ft",
+        "priceRange": "₹3.60 Cr - ₹4.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.561,
+    "lng": 73.787,
+    "reraId": "P52100045218",
+    "description": "VJ Portia is Vilas Javdekar's ultra-luxury boutique landmark in Baner. Designed for high net-worth individuals with single-tower privacy, expansive decks, Italian marble, and bespoke concierge.",
+    "features": [
+      "Ultra-Luxury Boutique Address in Baner",
+      "Low-Density Single Tower Privacy",
+      "Private Elevators & Decks",
+      "100% Zero Brokerage",
+      "VJ Signature Excellence"
+    ],
+    "amenities": [
+      "Rooftop Infinity Pool",
+      "Sky Lounge",
+      "Bespoke Gym",
+      "Banquet Hall",
+      "Concierge"
+    ],
+    "totalAcres": "2.5 Acres",
+    "totalFloors": "25 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Standard Chartered"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kohinoor-sapphire-2-tathawade",
+    "title": "Kohinoor Sapphire 2",
+    "slug": "kohinoor-sapphire-2-tathawade-pune",
+    "builderId": "b-kohinoor",
+    "location": "Tathawade, Pune",
+    "city": "Pune",
+    "priceRange": "₹68 L - ₹1.05 Cr",
+    "exactPrice": "₹68 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "685 sq.ft",
+        "priceRange": "₹68 L - ₹78 L"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "945 sq.ft",
+        "priceRange": "₹92 L - ₹1.05 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.6185,
+    "lng": 73.7538,
+    "reraId": "P52100030588",
+    "description": "Kohinoor Sapphire 2 at Tathawade offers well-planned 2 and 3 BHK residences situated near Mumbai-Pune Expressway and Hinjewadi IT Park. Backed by the 5 Pillars of Sada Sukhi Raho.",
+    "features": [
+      "Strategic Tathawade Location",
+      "Quick Expressway & Hinjewadi Access",
+      "20+ Podium Amenities",
+      "Sada Sukhi Raho Assurance",
+      "100% Zero Brokerage"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gymnasium",
+      "Children Play Area",
+      "Landscaped Garden",
+      "24x7 Security"
+    ],
+    "totalAcres": "4.0 Acres",
+    "totalFloors": "18 Floors",
+    "approvedBanks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-kohinoor-coral-hinjewadi",
+    "title": "Kohinoor Coral",
+    "slug": "kohinoor-coral-hinjewadi-phase-3-pune",
+    "builderId": "b-kohinoor",
+    "location": "Hinjewadi Phase 3, Pune",
+    "city": "Pune",
+    "priceRange": "₹55 L - ₹75 L",
+    "exactPrice": "₹55 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Compact",
+        "carpetArea": "585 sq.ft",
+        "priceRange": "₹55 L - ₹65 L"
+      },
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "635 sq.ft",
+        "priceRange": "₹65 L - ₹75 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.578,
+    "lng": 73.689,
+    "reraId": "P52100021279",
+    "description": "Kohinoor Coral is strategically nestled in Hinjewadi Phase 3, minutes away from Infosys, TCS, and Tech Mahindra. High rental yields, ready social infrastructure, and lifetime security.",
+    "features": [
+      "Walking Distance to Hinjewadi Phase 3 IT Campuses",
+      "Ready Possession Apartments",
+      "High Rental Yield Corridor",
+      "Zero Buyer Brokerage"
+    ],
+    "amenities": [
+      "Fitness Center",
+      "Multi-purpose Hall",
+      "Children Play Park",
+      "Senior Citizen Sitout",
+      "Power Backup"
+    ],
+    "totalAcres": "3.2 Acres",
+    "totalFloors": "14 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of Baroda"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-kohinoor-emerald-sus-baner",
+    "title": "Kohinoor Emerald",
+    "slug": "kohinoor-emerald-sus-baner-annexe-pune",
+    "builderId": "b-kohinoor",
+    "location": "Sus, Baner Annexe, Pune",
+    "city": "Pune",
+    "priceRange": "₹75 L - ₹1.25 Cr",
+    "exactPrice": "₹75 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹75 L - ₹88 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹1.10 Cr - ₹1.25 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.548,
+    "lng": 73.754,
+    "reraId": "P52100032666",
+    "description": "Kohinoor Emerald at Sus - Baner Annexe offers seamless connectivity to Mumbai-Bengaluru Highway and Hinjewadi IT Park while preserving scenic green hill views.",
+    "features": [
+      "Scenic Baner Hills Backdrop",
+      "5 Mins to Baner & Highway",
+      "Modern Lifestyle Clubhouse",
+      "Sada Sukhi Raho Trust"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Gymnasium",
+      "Rooftop Sitout",
+      "Indoor Games",
+      "Jogging Track"
+    ],
+    "totalAcres": "4.5 Acres",
+    "totalFloors": "16 Floors",
+    "approvedBanks": [
+      "HDFC Bank",
+      "ICICI Bank",
+      "SBI",
+      "Kotak Mahindra Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-kohinoor-reina-kondhwa",
+    "title": "Kohinoor Reina",
+    "slug": "kohinoor-reina-kondhwa-pune",
+    "builderId": "b-kohinoor",
+    "location": "Kondhwa, Pune",
+    "city": "Pune",
+    "priceRange": "₹60 L - ₹88 L",
+    "exactPrice": "₹60 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "690 sq.ft",
+        "priceRange": "₹60 L - ₹72 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "780 sq.ft",
+        "priceRange": "₹74 L - ₹88 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.472,
+    "lng": 73.893,
+    "reraId": "P52100025178",
+    "description": "Kohinoor Reina in South Pune's Kondhwa offers premium finished 2 BHK homes with quick connectivity to Camp, NIBM, and Market Yard.",
+    "features": [
+      "South Pune Prime Kondhwa Hub",
+      "Ready to Move Advantage",
+      "Established Community",
+      "Direct Developer Pricing"
+    ],
+    "amenities": [
+      "Gymnasium",
+      "Multipurpose Hall",
+      "Children Play Area",
+      "24x7 Security"
+    ],
+    "totalAcres": "2.5 Acres",
+    "totalFloors": "12 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "Bank of Maharashtra"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-kohinoor-tinsel-county-hinjewadi",
+    "title": "Kohinoor Tinsel County",
+    "slug": "kohinoor-tinsel-county-hinjewadi-phase-2-pune",
+    "builderId": "b-kohinoor",
+    "location": "Hinjewadi Phase 2, Pune",
+    "city": "Pune",
+    "priceRange": "₹58 L - ₹78 L",
+    "exactPrice": "₹58 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Cozy",
+        "carpetArea": "610 sq.ft",
+        "priceRange": "₹58 L - ₹68 L"
+      },
+      {
+        "type": "2 BHK Elite",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹69 L - ₹78 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.586,
+    "lng": 73.712,
+    "reraId": "P52100000854",
+    "description": "Kohinoor Tinsel County in Hinjewadi Phase 2 is an established gated society tailored for tech professionals. Exceptional rental demand and immediate move-in readiness.",
+    "features": [
+      "Hinjewadi Phase 2 Core Location",
+      "Ready Possession Homes",
+      "100% Zero Brokerage"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Landscaped Garden",
+      "Kids Play Area"
+    ],
+    "totalAcres": "3.5 Acres",
+    "totalFloors": "14 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-kohinoor-tinsel-town-hinjewadi",
+    "title": "Kohinoor Tinsel Town",
+    "slug": "kohinoor-tinsel-town-hinjewadi-phase-2-pune",
+    "builderId": "b-kohinoor",
+    "location": "Hinjewadi Phase 2, Pune",
+    "city": "Pune",
+    "priceRange": "₹65 L - ₹95 L",
+    "exactPrice": "₹65 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Classic",
+        "carpetArea": "650 sq.ft",
+        "priceRange": "₹65 L - ₹76 L"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "₹85 L - ₹95 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.5875,
+    "lng": 73.714,
+    "reraId": "P52100001090",
+    "description": "Kohinoor Tinsel Town at Hinjewadi Phase 2 provides spacious 2 and 3 BHK family residences with expansive open greens and clubhouse facilities.",
+    "features": [
+      "Hinjewadi IT Corridor",
+      "Gated Township Community",
+      "Zero Brokerage Sales"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gym",
+      "Play Area"
+    ],
+    "totalAcres": "5.0 Acres",
+    "totalFloors": "15 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-kohinoor-abhimaan-talegaon",
+    "title": "Kohinoor Abhimaan",
+    "slug": "kohinoor-abhimaan-talegaon-pune",
+    "builderId": "b-kohinoor",
+    "location": "Talegaon Dabhade, Pune",
+    "city": "Pune",
+    "priceRange": "₹28 L - ₹48 L",
+    "exactPrice": "₹28 L",
+    "priceType": "L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Township",
+        "carpetArea": "420 sq.ft",
+        "priceRange": "₹28 L - ₹34 L"
+      },
+      {
+        "type": "2 BHK Township",
+        "carpetArea": "640 sq.ft",
+        "priceRange": "₹40 L - ₹48 L"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.73,
+    "lng": 73.68,
+    "reraId": "P52100032115",
+    "description": "Kohinoor Abhimaan in Talegaon Dabhade is a mega-township offering modern 1 and 2 BHK affordable homes surrounded by pleasant green hills and clean mountain air.",
+    "features": [
+      "20+ Acre Master Planned Township",
+      "Opposite Old Mumbai-Pune Highway",
+      "Near Talegaon MIDC",
+      "Zero Brokerage"
+    ],
+    "amenities": [
+      "Grand Clubhouse",
+      "Swimming Pool",
+      "Cricket Pitch",
+      "Skating Rink",
+      "Gardens"
+    ],
+    "totalAcres": "22.0 Acres",
+    "totalFloors": "14 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of Baroda"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-kasturi-apostrophe-next-wakad",
+    "title": "Kasturi Apostrophe Next",
+    "slug": "kasturi-apostrophe-next-wakad-pune",
+    "builderId": "b-kasturi",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "₹82 L - ₹1.35 Cr",
+    "exactPrice": "₹82 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "785 sq.ft",
+        "priceRange": "₹82 L - ₹98 L"
+      },
+      {
+        "type": "3 BHK Bespoke",
+        "carpetArea": "1120 sq.ft",
+        "priceRange": "₹1.18 Cr - ₹1.35 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.598,
+    "lng": 73.765,
+    "reraId": "P52100018590",
+    "description": "Kasturi Apostrophe Next in Wakad represents minimalist European design principles. Featuring Italian marble flooring, soundproof German double-glazed windows, and pristine finishing.",
+    "features": [
+      "Signature Kasturi Minimalist Architecture",
+      "Prime Wakad Datta Mandir Road",
+      "Zero Brokerage Guarantee",
+      "Ready Possession"
+    ],
+    "amenities": [
+      "Bespoke Fitness Studio",
+      "Rooftop Lounge",
+      "Children Play Space",
+      "24x7 Valet & Concierge"
+    ],
+    "totalAcres": "2.8 Acres",
+    "totalFloors": "16 Floors",
+    "approvedBanks": [
+      "HDFC Bank",
+      "ICICI Bank",
+      "SBI",
+      "Kotak Mahindra Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-kasturi-legacy-model-colony",
+    "title": "Kasturi Legacy",
+    "slug": "kasturi-legacy-model-colony-pune",
+    "builderId": "b-kasturi",
+    "location": "Model Colony, Shivajinagar, Pune",
+    "city": "Pune",
+    "priceRange": "₹3.80 Cr - ₹6.50 Cr",
+    "exactPrice": "₹3.80 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1650 sq.ft",
+        "priceRange": "₹3.80 Cr - ₹4.50 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "2450 sq.ft",
+        "priceRange": "₹5.50 Cr - ₹6.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.536,
+    "lng": 73.834,
+    "reraId": "P52100002100",
+    "description": "Kasturi Legacy is an ultra-exclusive residential landmark in Model Colony, Shivajinagar. Designed for discerning families seeking an old-Pune heritage address with world-class engineering.",
+    "features": [
+      "Prestigious Model Colony Address",
+      "Ultra Low-Density Living",
+      "Italian Marble & Poggenpohl Kitchens",
+      "Zero Brokerage Authorized"
+    ],
+    "amenities": [
+      "Private Lap Pool",
+      "Sky Lounge",
+      "Bespoke Gym",
+      "High-Security Access"
+    ],
+    "totalAcres": "1.5 Acres",
+    "totalFloors": "12 Floors",
+    "approvedBanks": [
+      "Standard Chartered",
+      "HDFC Bank",
+      "ICICI Bank",
+      "SBI"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-kasturi-poona-club-prive",
+    "title": "Kasturi Poona Club Privé",
+    "slug": "kasturi-poona-club-prive-bund-garden-pune",
+    "builderId": "b-kasturi",
+    "location": "Bund Garden Road, Pune",
+    "city": "Pune",
+    "priceRange": "₹5.50 Cr - ₹12.00 Cr",
+    "exactPrice": "₹5.50 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK Ultra-Luxe",
+        "carpetArea": "2800 sq.ft",
+        "priceRange": "₹5.50 Cr - ₹7.20 Cr"
+      },
+      {
+        "type": "5 BHK Penthouse Suite",
+        "carpetArea": "4500 sq.ft",
+        "priceRange": "₹9.50 Cr - ₹12.00 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2027",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.539,
+    "lng": 73.882,
+    "reraId": "P52100020110",
+    "description": "Kasturi Poona Club Privé near Bund Garden is one of Pune's most expensive residential addresses. Overlooking the river and premier club greenery, it redefines royal living in Pune.",
+    "features": [
+      "Bund Garden Riverfront Royal Setting",
+      "One Apartment Per Floor Option",
+      "Concierge by Global Luxury Operators",
+      "100% Direct Developer Terms"
+    ],
+    "amenities": [
+      "Temperature Controlled Pool",
+      "Wine Cellar & Tasting Lounge",
+      "Private Cinema",
+      "Helipad Access Facility"
+    ],
+    "totalAcres": "2.0 Acres",
+    "totalFloors": "18 Floors",
+    "approvedBanks": [
+      "Standard Chartered",
+      "Citibank/Axis",
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-pride-world-city-long-island-charholi",
+    "title": "Pride World City - Long Island",
+    "slug": "pride-world-city-long-island-charholi-pune",
+    "builderId": "b-pride-purple",
+    "location": "Charholi Budruk, Pune",
+    "city": "Pune",
+    "priceRange": "₹48 L - ₹1.15 Cr",
+    "exactPrice": "₹48 L",
+    "priceType": "L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Modern",
+        "carpetArea": "450 sq.ft",
+        "priceRange": "₹48 L - ₹55 L"
+      },
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "710 sq.ft",
+        "priceRange": "₹68 L - ₹82 L"
+      },
+      {
+        "type": "3 BHK Family",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "₹95 L - ₹1.15 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.621,
+    "lng": 73.896,
+    "reraId": "P52100019643",
+    "description": "Long Island at the 400-acre Pride World City mega-township in Charholi provides waterfront lifestyle apartments with access to world-class sports arenas, schools, and parks.",
+    "features": [
+      "400-Acre Pride World City Township",
+      "Waterfront Promenade Views",
+      "Direct Access to Ring Road & Airport",
+      "Zero Brokerage"
+    ],
+    "amenities": [
+      "Township Club",
+      "Olympic Size Pool",
+      "School & Clinic in Campus",
+      "Retail High Street"
+    ],
+    "totalAcres": "8.0 Acres",
+    "totalFloors": "22 Floors",
+    "approvedBanks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-pride-world-city-brooklyn-charholi",
+    "title": "Pride World City - Brooklyn",
+    "slug": "pride-world-city-brooklyn-charholi-pune",
+    "builderId": "b-pride-purple",
+    "location": "Charholi Budruk, Pune",
+    "city": "Pune",
+    "priceRange": "₹58 L - ₹1.25 Cr",
+    "exactPrice": "₹58 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "690 sq.ft",
+        "priceRange": "₹58 L - ₹75 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1050 sq.ft",
+        "priceRange": "₹98 L - ₹1.25 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2026",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.6225,
+    "lng": 73.8975,
+    "reraId": "P52100020689",
+    "description": "Brooklyn at Pride World City takes inspiration from New York brownstone urbanity with tree-lined pedestrian boulevards, cafes, and rooftop recreational amenities.",
+    "features": [
+      "New York Themed Architecture",
+      "10 Mins to Pune International Airport",
+      "Integrated Township Ecosystem",
+      "Zero Brokerage"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Skate Park",
+      "Amphitheatre",
+      "Gymnasium",
+      "Kids Play Area"
+    ],
+    "totalAcres": "6.5 Acres",
+    "totalFloors": "20 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of Maharashtra"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-pride-world-city-notting-hill-charholi",
+    "title": "Pride World City - Notting Hill",
+    "slug": "pride-world-city-notting-hill-charholi-pune",
+    "builderId": "b-pride-purple",
+    "location": "Charholi Budruk, Pune",
+    "city": "Pune",
+    "priceRange": "₹1.45 Cr - ₹2.80 Cr",
+    "exactPrice": "₹1.45 Cr",
+    "priceType": "Cr",
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹1.45 Cr - ₹1.85 Cr"
+      },
+      {
+        "type": "4 BHK Villa Suite",
+        "carpetArea": "2250 sq.ft",
+        "priceRange": "₹2.25 Cr - ₹2.80 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.6235,
+    "lng": 73.899,
+    "reraId": "P52100001815",
+    "description": "Notting Hill is Pride World City's ultra-premium enclave of luxury cluster apartments and townhomes. British-inspired Victorian design with sprawling manicured lawns.",
+    "features": [
+      "Pride World City's Crown Jewel Enclave",
+      "Low-Density European Architecture",
+      "Private Jacuzzis & Expansive Terraces",
+      "Direct Builder Terms"
+    ],
+    "amenities": [
+      "Private Club",
+      "Heated Pool",
+      "Tennis Court",
+      "Banquet Hall",
+      "Concierge"
+    ],
+    "totalAcres": "10.0 Acres",
+    "totalFloors": "16 Floors",
+    "approvedBanks": [
+      "HDFC Bank",
+      "ICICI Bank",
+      "SBI",
+      "Standard Chartered"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-park-turquoise-wakad",
+    "title": "Park Turquoise",
+    "slug": "park-turquoise-wakad-pune",
+    "builderId": "b-pride-purple",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "₹78 L - ₹1.25 Cr",
+    "exactPrice": "₹78 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "750 sq.ft",
+        "priceRange": "₹78 L - ₹92 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "₹1.10 Cr - ₹1.25 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.599,
+    "lng": 73.768,
+    "reraId": "P52100001925",
+    "description": "Park Turquoise by Pride Purple in Wakad is an established residential community with mature landscaping, clubhouse, and unmatched proximity to Hinjewadi Phase 1.",
+    "features": [
+      "Heart of Wakad Location",
+      "Ready Possession Residential Landmark",
+      "Zero Brokerage Sales",
+      "Pride Purple Quality"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Gymnasium",
+      "Clubhouse",
+      "Children Play Park"
+    ],
+    "totalAcres": "4.0 Acres",
+    "totalFloors": "12 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-park-ivory-wakad",
+    "title": "Park Ivory",
+    "slug": "park-ivory-wakad-pune",
+    "builderId": "b-pride-purple",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "₹85 L - ₹1.35 Cr",
+    "exactPrice": "₹85 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Elite",
+        "carpetArea": "820 sq.ft",
+        "priceRange": "₹85 L - ₹98 L"
+      },
+      {
+        "type": "3 BHK Royale",
+        "carpetArea": "1180 sq.ft",
+        "priceRange": "₹1.18 Cr - ₹1.35 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.601,
+    "lng": 73.7695,
+    "reraId": "P52100002340",
+    "description": "Park Ivory is Pride Purple's iconic ready-to-move enclave in Wakad. Spacious layouts, dedicated covered parking, and prime connectivity to Pune-Bangalore highway.",
+    "features": [
+      "Immediate Move-in Readiness",
+      "Walking Distance to Schools & Markets",
+      "100% Zero Buyer Brokerage"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Landscaped Gardens",
+      "Security Intercom"
+    ],
+    "totalAcres": "3.5 Acres",
+    "totalFloors": "12 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-park-street-wakad",
+    "title": "Park Street",
+    "slug": "park-street-wakad-pune",
+    "builderId": "b-pride-purple",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "₹95 L - ₹2.10 Cr",
+    "exactPrice": "₹95 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "950 sq.ft",
+        "priceRange": "₹95 L - ₹1.15 Cr"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1350 sq.ft",
+        "priceRange": "₹1.45 Cr - ₹1.70 Cr"
+      },
+      {
+        "type": "4 BHK Royal Suite",
+        "carpetArea": "1850 sq.ft",
+        "priceRange": "₹1.85 Cr - ₹2.10 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.596,
+    "lng": 73.762,
+    "reraId": "P52100000450",
+    "description": "Park Street is Wakad's most recognizable integrated township by Pride Purple. Spread over 30+ acres, it includes parks, commercial shops, schools, and extensive sports facilities.",
+    "features": [
+      "30+ Acre Signature Wakad Township",
+      "Ready to Move In Community of 2000+ Families",
+      "Zero Brokerage Direct Sales"
+    ],
+    "amenities": [
+      "Olympic Size Pool",
+      "Clubhouse",
+      "Tennis Courts",
+      "Commercial Shopping Plaza",
+      "Jogging Track"
+    ],
+    "totalAcres": "30.0 Acres",
+    "totalFloors": "14 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-park-infinia-phursungi",
+    "title": "Park Infinia",
+    "slug": "park-infinia-phursungi-hadapsar-pune",
+    "builderId": "b-pride-purple",
+    "location": "Phursungi, Hadapsar Annexe, Pune",
+    "city": "Pune",
+    "priceRange": "₹42 L - ₹95 L",
+    "exactPrice": "₹42 L",
+    "priceType": "L",
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Smart",
+        "carpetArea": "430 sq.ft",
+        "priceRange": "₹42 L - ₹48 L"
+      },
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹62 L - ₹75 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1020 sq.ft",
+        "priceRange": "₹82 L - ₹95 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.478,
+    "lng": 73.965,
+    "reraId": "P52100000892",
+    "description": "Park Infinia by Pride Purple is an expansive 41-acre township at Phursungi, Hadapsar Annexe. Near SP Infocity IT Park and Magarpatta City with ready amenities.",
+    "features": [
+      "41-Acre Gated Township near SP Infocity",
+      "Rapid Access to Magarpatta & Solapur Highway",
+      "Zero Brokerage Sales Support"
+    ],
+    "amenities": [
+      "Cricket Ground",
+      "Swimming Pool",
+      "Clubhouse",
+      "Children Adventure Park",
+      "Gymnasium"
+    ],
+    "totalAcres": "41.0 Acres",
+    "totalFloors": "14 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of Baroda"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-pride-park-district-hinjewadi",
+    "title": "Pride Park District",
+    "slug": "pride-park-district-hinjewadi-phase-1-pune",
+    "builderId": "b-pride-purple",
+    "location": "Hinjewadi Phase 1, Pune",
+    "city": "Pune",
+    "priceRange": "₹72 L - ₹1.30 Cr",
+    "exactPrice": "₹72 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹72 L - ₹86 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1080 sq.ft",
+        "priceRange": "₹1.10 Cr - ₹1.30 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.592,
+    "lng": 73.742,
+    "reraId": "P52100031120",
+    "description": "Pride Park District in Hinjewadi Phase 1 is a 60-acre master planned development that brings together premium residences, retail boulevards, and landscaped urban parks.",
+    "features": [
+      "60-Acre Master Planned District in Hinjewadi Phase 1",
+      "Steps to Major IT Campuses & Metro Line 3",
+      "100% Zero Brokerage"
+    ],
+    "amenities": [
+      "Grand Central Clubhouse",
+      "Infinity Edge Pool",
+      "Tennis Courts",
+      "Co-working Lounges",
+      "Indoor Games"
+    ],
+    "totalAcres": "60.0 Acres",
+    "totalFloors": "24 Floors",
+    "approvedBanks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-vj-yashwin-anand-sus",
+    "title": "Yashwin Anand",
+    "slug": "yashwin-anand-sus-baner-annexe-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Sus, Baner Annexe, Pune",
+    "city": "Pune",
+    "priceRange": "₹68 L - ₹1.15 Cr",
+    "exactPrice": "₹68 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹68 L - ₹82 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1020 sq.ft",
+        "priceRange": "₹98 L - ₹1.15 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.549,
+    "lng": 73.755,
+    "reraId": "P52100024501",
+    "description": "Yashwin Anand by Vilas Javdekar in Sus offers thoughtful 2 and 3 BHK homes designed around VJ's principles of maximum space efficiency, sunlight, and cross ventilation.",
+    "features": [
+      "VJ Trust & Thoughtful Design",
+      "Quick Connectivity to Baner & Highway",
+      "Zero Brokerage Guaranteed"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Landscaped Gardens",
+      "Children Play Park",
+      "Senior Sitout"
+    ],
+    "totalAcres": "3.5 Acres",
+    "totalFloors": "15 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-vj-yashwin-encore-wakad",
+    "title": "Yashwin Encore",
+    "slug": "yashwin-encore-wakad-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "₹76 L - ₹1.32 Cr",
+    "exactPrice": "₹76 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "730 sq.ft",
+        "priceRange": "₹76 L - ₹90 L"
+      },
+      {
+        "type": "3 BHK Royal",
+        "carpetArea": "1090 sq.ft",
+        "priceRange": "₹1.12 Cr - ₹1.32 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.6025,
+    "lng": 73.766,
+    "reraId": "P52100019550",
+    "description": "Yashwin Encore in Wakad is an acclaimed ready-to-move community featuring contemporary architecture, indoor badminton court, and lush podium gardens.",
+    "features": [
+      "Ready Possession in Central Wakad",
+      "Trusted VJ Engineering Standards",
+      "Zero Brokerage Sales Support"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Indoor Badminton Court",
+      "Gymnasium",
+      "Kids Play Area",
+      "Clubhouse"
+    ],
+    "totalAcres": "4.2 Acres",
+    "totalFloors": "16 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Kotak Mahindra Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-vj-yashone-eternitee-hinjewadi",
+    "title": "YashONE Eternitee",
+    "slug": "yashone-eternitee-hinjewadi-phase-1-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Hinjewadi Phase 1, Pune",
+    "city": "Pune",
+    "priceRange": "₹58 L - ₹1.18 Cr",
+    "exactPrice": "₹58 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "580 sq.ft",
+        "priceRange": "₹58 L - ₹72 L"
+      },
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹72 L - ₹86 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "950 sq.ft",
+        "priceRange": "₹98 L - ₹1.18 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.591,
+    "lng": 73.738,
+    "reraId": "P52100026850",
+    "description": "YashONE Eternitee in Hinjewadi Phase 1 by Vilas Javdekar brings together modern tech-enabled residences, 30+ lifestyle amenities, and zero-minute commute to key IT parks.",
+    "features": [
+      "Steps from Hinjewadi Phase 1 Tech Campuses",
+      "Metro Line 3 Connectivity",
+      "Zero Brokerage Direct Sales",
+      "VJ Signature Delivery"
+    ],
+    "amenities": [
+      "Rooftop Infinity Edge Pool",
+      "Fitness Studio",
+      "Co-working Space",
+      "Indoor Games",
+      "Sky Lounge"
+    ],
+    "totalAcres": "5.5 Acres",
+    "totalFloors": "22 Floors",
+    "approvedBanks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-vj-yashwin-sukham-warje",
+    "title": "Yashwin Sukham",
+    "slug": "yashwin-sukham-warje-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Warje, Pune",
+    "city": "Pune",
+    "priceRange": "₹62 L - ₹1.05 Cr",
+    "exactPrice": "₹62 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Compact",
+        "carpetArea": "620 sq.ft",
+        "priceRange": "₹62 L - ₹74 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "920 sq.ft",
+        "priceRange": "₹88 L - ₹1.05 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Jun 2026",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.482,
+    "lng": 73.801,
+    "reraId": "P52100030219",
+    "description": "Yashwin Sukham in Warje offers serene hilltop living with unmatched connectivity to Kothrud, Deccan, and Mumbai-Bangalore Highway.",
+    "features": [
+      "South-West Pune Prime Warje Hub",
+      "5 Mins to Kothrud & Highway",
+      "Hillside Breeze & Views",
+      "Zero Brokerage"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium",
+      "Landscape Garden",
+      "Children Play Zone"
+    ],
+    "totalAcres": "3.0 Acres",
+    "totalFloors": "14 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "Bank of Maharashtra"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-vj-downtown-wakad",
+    "title": "VJ Downtown",
+    "slug": "vj-downtown-wakad-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "₹88 L - ₹1.75 Cr",
+    "exactPrice": "₹88 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "850 sq.ft",
+        "priceRange": "₹88 L - ₹1.05 Cr"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1250 sq.ft",
+        "priceRange": "₹1.35 Cr - ₹1.55 Cr"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "1650 sq.ft",
+        "priceRange": "₹1.60 Cr - ₹1.75 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.5995,
+    "lng": 73.7645,
+    "reraId": "P52100034500",
+    "description": "VJ Downtown in Wakad is an integrated mixed-use destination combining luxury residences with upscale shopping boulevards and high-street entertainment.",
+    "features": [
+      "Wakad High Street Prime Junction",
+      "Integrated Commercial & Residential District",
+      "VJ Architectural Innovation",
+      "100% Zero Brokerage"
+    ],
+    "amenities": [
+      "Rooftop Sky Pool",
+      "Sky Lounge",
+      "State-of-the-art Gym",
+      "Boutique Retail Galleria"
+    ],
+    "totalAcres": "4.8 Acres",
+    "totalFloors": "24 Floors",
+    "approvedBanks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": true
+  },
+  {
+    "id": "p-vj-yashwin-nuovo-centro-wakad",
+    "title": "Yashwin Nuovo Centro",
+    "slug": "yashwin-nuovo-centro-wakad-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Wakad, Pune",
+    "city": "Pune",
+    "priceRange": "₹75 L - ₹1.30 Cr",
+    "exactPrice": "₹75 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "720 sq.ft",
+        "priceRange": "₹75 L - ₹89 L"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1080 sq.ft",
+        "priceRange": "₹1.12 Cr - ₹1.30 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.6015,
+    "lng": 73.7675,
+    "reraId": "P52100021890",
+    "description": "Yashwin Nuovo Centro by Vilas Javdekar in Wakad offers Italian-inspired urban lifestyle with expansive sunlit rooms, central courtyards, and rooftop recreation.",
+    "features": [
+      "Italian Inspired Modern Architecture",
+      "Prime Datta Mandir Road Connectivity",
+      "Zero Brokerage Sales Support"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Fitness Center",
+      "Co-working Studio",
+      "Children Play Space"
+    ],
+    "totalAcres": "3.8 Acres",
+    "totalFloors": "18 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
+  },
+  {
+    "id": "p-vj-yashwin-hinjawadi-phase-2",
+    "title": "Yashwin Hinjawadi",
+    "slug": "yashwin-hinjawadi-phase-2-pune",
+    "builderId": "b-vilas-javdekar",
+    "location": "Hinjewadi Phase 2, Pune",
+    "city": "Pune",
+    "priceRange": "₹52 L - ₹98 L",
+    "exactPrice": "₹52 L",
+    "priceType": "L",
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Compact",
+        "carpetArea": "540 sq.ft",
+        "priceRange": "₹52 L - ₹65 L"
+      },
+      {
+        "type": "2 BHK Regular",
+        "carpetArea": "680 sq.ft",
+        "priceRange": "₹68 L - ₹80 L"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "860 sq.ft",
+        "priceRange": "₹85 L - ₹98 L"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "lat": 18.5865,
+    "lng": 73.7155,
+    "reraId": "P52100000412",
+    "description": "Yashwin Hinjawadi in Phase 2 is an established gated society featuring high rental demand, immediate possession, and proximity to Wipro and Infosys.",
+    "features": [
+      "Walk-to-work to Hinjewadi Phase 2 IT Hubs",
+      "Ready Possession Family Homes",
+      "Zero Brokerage Guarantee"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Landscaped Garden",
+      "Kids Play Area",
+      "24x7 Security"
+    ],
+    "totalAcres": "4.0 Acres",
+    "totalFloors": "12 Floors",
+    "approvedBanks": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of Maharashtra"
+    ],
+    "verificationStatus": "Verified",
+    "featured": false
   }
 ];
