@@ -73700,17 +73700,23 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "December 2026",
-    "image": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
+    "image": "/images/projects/anp-atlantis/elevation.webp",
+    "heroImage": "/images/projects/anp-atlantis/elevation.webp",
     "images": [
-      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp"
+      "/images/projects/anp-atlantis/elevation.webp",
+      "/images/projects/anp-atlantis/entrance-gate.webp",
+      "/images/projects/anp-atlantis/swimming-pool.webp",
+      "/images/projects/anp-atlantis/clubhouse-lawn.webp",
+      "/images/projects/anp-atlantis/podium-amenities.webp",
+      "/images/projects/anp-atlantis/living-room.webp",
+      "/images/projects/anp-atlantis/master-bedroom.webp",
+      "/images/projects/anp-atlantis/balcony-view.webp"
     ],
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "masterLayout": "/images/projects/anp-atlantis/master-layout.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp",
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      "/images/projects/anp-atlantis/floor-plan-2bhk.webp",
+      "/images/projects/anp-atlantis/floor-plan-3bhk.webp",
+      "/images/projects/anp-atlantis/floor-plan-4bhk.webp"
     ],
     "description": "ANP Atlantis in Balewadi is an iconic high-rise residential development located directly behind Jupiter Hospital. Providing seamless connectivity to Balewadi High Street, Mumbai-Pune Expressway, and Hinjewadi IT Park. Designed with an expansive 3-acre podium, infinity pool, and smart residences.",
     "features": [
@@ -73795,16 +73801,21 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "June 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "image": "/images/projects/anp-universe/elevation.webp",
+    "heroImage": "/images/projects/anp-universe/elevation.webp",
     "images": [
-      "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp"
+      "/images/projects/anp-universe/elevation.webp",
+      "/images/projects/anp-universe/entrance-gate.webp",
+      "/images/projects/anp-universe/club-universe.webp",
+      "/images/projects/anp-universe/infinity-pool.webp",
+      "/images/projects/anp-universe/landscaped-greens.webp",
+      "/images/projects/anp-universe/riverfront-aerial.webp",
+      "/images/projects/anp-universe/entrance-roundabout.webp"
     ],
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "masterLayout": "/images/projects/anp-universe/master-layout.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      "/images/projects/anp-universe/floor-plan-3bhk.webp",
+      "/images/projects/anp-universe/floor-plan-4bhk.webp"
     ],
     "description": "ANP Universe is a sprawling 35-storey mixed-use and residential landmark positioned right on Balewadi High Street. Offering majestic 2, 3, and 4 BHK residences and sky duplexes, complemented by high-street retail, world-class clubhouses, and rooftop infinity pools.",
     "features": [
@@ -73884,16 +73895,19 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "December 2026",
-    "image": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
+    "image": "/images/projects/anp-autograph/elevation.webp",
+    "heroImage": "/images/projects/anp-autograph/elevation.webp",
     "images": [
-      "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp"
+      "/images/projects/anp-autograph/elevation.webp",
+      "/images/projects/anp-autograph/entrance-gate.webp",
+      "/images/projects/anp-autograph/panoramic-towers.webp",
+      "/images/projects/anp-autograph/podium-amenities.webp"
     ],
-    "masterLayout": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "masterLayout": "/images/projects/anp-autograph/master-layout.webp",
     "floorPlans": [
-      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/neQCNkziS5bgoqGRmAb7yybVwaAKDFIUsnKt9779.webp",
-      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+      "/images/projects/anp-autograph/floor-plan-2bhk.webp",
+      "/images/projects/anp-autograph/floor-plan-3bhk.webp",
+      "/images/projects/anp-autograph/floor-plan-4bhk.webp"
     ],
     "description": "ANP Autograph along the Aundh-Ravet BRTS corridor in Punawale is a landmark residential high-rise featuring multi-level podium parking, cantilevered leisure decks, and spacious 2, 3, and 4 BHK residences with direct connectivity to Hinjewadi.",
     "features": [

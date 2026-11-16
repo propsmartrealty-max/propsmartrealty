@@ -42,18 +42,6 @@ const Home = () => {
         p.slug.includes('river-royale')
     );
 
-    if (error) {
-        return (
-            <div className="min-h-screen bg-slate-50 flex flex-col">
-                <PortalNavbar />
-                <div className="flex-1 flex items-center justify-center">
-                    <ErrorState message={error.message || 'An error occurred'} onRetry={refreshData} />
-                </div>
-                <Footer />
-            </div>
-        );
-    }
-
     const homeFaqJsonLd = React.useMemo(() => ({
         "@context": "https://schema.org",
         "@type": "FAQPage",
@@ -92,6 +80,18 @@ const Home = () => {
             }
         ]
     }), []);
+
+    if (error) {
+        return (
+            <div className="min-h-screen bg-slate-50 flex flex-col">
+                <PortalNavbar />
+                <div className="flex-1 flex items-center justify-center">
+                    <ErrorState message={error.message || 'An error occurred'} onRetry={refreshData} />
+                </div>
+                <Footer />
+            </div>
+        );
+    }
 
     return (
         <div className="min-h-screen bg-slate-50/70 font-sans selection:bg-sky-500 selection:text-white relative">

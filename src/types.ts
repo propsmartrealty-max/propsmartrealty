@@ -88,11 +88,16 @@ export interface Project {
   metaDescription?: string; // Optimized meta description for CTR
   description: string;
   features: string[];
+  amenities?: string[];
   featured?: boolean;
   highlights?: string[]; // Key selling points like "3-Side Open", "Vastu Compliant"
-  specs: {
+  specs?: {
     label: string;
     value: string;
+  }[];
+  specifications?: {
+    category: string;
+    detail: string;
   }[];
   // Phase 2: Advanced Data
   verificationStatus?: 'Pending' | 'Verified' | 'Rejected';

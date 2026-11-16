@@ -4,7 +4,7 @@ import { Env, jsonResponse } from './_middleware';
 export const onRequestGet: PagesFunction<Env> = async (context) => {
     const startTime = Date.now();
     let dbStatus = 'unconfigured';
-    let stats = {
+    const stats = {
         projects: 0,
         builders: 0,
         localities: 0,
