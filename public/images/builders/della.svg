@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="dellaGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE082" />
+      <stop offset="40%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#997300" />
+    </linearGradient>
+    <linearGradient id="dellaDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E1E1E" />
+      <stop offset="100%" stop-color="#0A0A0A" />
+    </linearGradient>
+  </defs>
+
+  <!-- Luxury Monogram Crest -->
+  <g transform="translate(25, 20)">
+    <!-- Hexagonal Diamond Shield -->
+    <polygon points="60,10 110,38 110,82 60,110 10,82 10,38" fill="url(#dellaDark)" stroke="url(#dellaGold)" stroke-width="2.5" />
+    <polygon points="60,18 102,42 102,78 60,102 18,78 18,42" fill="none" stroke="url(#dellaGold)" stroke-width="0.8" opacity="0.6" />
+
+    <!-- Stylized 'D' Monogram with Architectural Diamond Wings -->
+    <path d="M 45 35 L 68 35 C 82 35 90 45 90 60 C 90 75 82 85 68 85 L 45 85 Z M 55 46 L 55 74 L 67 74 C 74 74 79 69 79 60 C 79 51 74 46 67 46 Z" fill="url(#dellaGold)" />
+    
+    <!-- Top 5-Star Crown -->
+    <polygon points="60,24 62,29 67,29 63,32 65,37 60,34 55,37 57,32 53,29 58,29" fill="#FFFFFF" />
+  </g>
+
+  <!-- Typography: DELLA TOWNSHIPS -->
+  <text x="165" y="65" font-family="'Cinzel', 'Playfair Display', 'Didot', serif" font-size="40" font-weight="900" fill="#0F172A" letter-spacing="6">
+    DELLA
+  </text>
+  
+  <text x="167" y="93" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="12.5" font-weight="800" fill="#B45309" letter-spacing="4">
+    TOWNSHIPS &amp; LUXURY VILLAS
+  </text>
+
+  <!-- Divider Line -->
+  <line x1="167" y1="106" x2="480" y2="106" stroke="url(#dellaGold)" stroke-width="1.5" />
+
+  <!-- Subtitle: JIMMY MISTRY DESIGN ARCHITECTURE -->
+  <text x="167" y="124" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="700" fill="#64748B" letter-spacing="2">
+    BY JIMMY MISTRY • ESTD 1996 • LONAVALA • KHANDALA
+  </text>
+</svg>

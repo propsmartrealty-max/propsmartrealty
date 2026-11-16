@@ -6467,6 +6467,50 @@ export const BUILDERS: Builder[] = [
       "Thane West",
       "Shrivardhan-Diveagar"
     ]
+  },
+  {
+    "id": "b-hiranandani",
+    "name": "Hiranandani Group",
+    "slug": "hiranandani-group",
+    "logo": "/images/builders/hiranandani.svg",
+    "heroImage": "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+    "description": "Hiranandani Group is one of India's most prestigious real estate conglomerates, renowned for pioneering integrated mega-townships like Hiranandani Gardens Powai and Hiranandani Estate Thane. Founded in 1978 by Dr. Niranjan Hiranandani, the group has transformed urban living across Maharashtra with neoclassical architecture, world-class social infrastructure, lush green environments, and impeccable engineering.",
+    "establishedYear": 1978,
+    "totalProjects": 65,
+    "ongoingProjects": 18,
+    "locations": [
+      "Powai",
+      "Thane",
+      "Panvel",
+      "Kandivali",
+      "Chembur",
+      "Pune"
+    ],
+    "experience": 46,
+    "trustScore": 4.9,
+    "isVerified": true,
+    "mobile": "+91-7744009295"
+  },
+  {
+    "id": "b-della",
+    "name": "Della Townships",
+    "slug": "della-townships",
+    "logo": "/images/builders/della.svg",
+    "heroImage": "https://www.dellaresorts.com/new-updated-image/enclave-villa-resort.webp",
+    "description": "Della Townships and Luxury Villas, conceptualized and designed by visionary architect Jimmy Mistry, represents the pinnacle of experiential hillside living and ultra-luxury second homes in Maharashtra. Spread across scenic hill slopes in Kunegaon, Lonavala and Khandala, Della offers fully serviced bespoke villas integrated with 24x7 5-star resort hospitality, private heated pools, fine-dining restaurants, and India's premier adventure sports park.",
+    "establishedYear": 1996,
+    "totalProjects": 14,
+    "ongoingProjects": 5,
+    "locations": [
+      "Kunegaon",
+      "Lonavala",
+      "Khandala",
+      "Sahyadri Hills"
+    ],
+    "experience": 28,
+    "trustScore": 4.9,
+    "isVerified": true,
+    "mobile": "+91-7744009295"
   }
 ];
 
@@ -39680,7 +39724,7 @@ export const PROJECTS: Project[] = [
     "id": "p-hiranandani-krisala-township",
     "title": "Hiranandani Krisala Township",
     "slug": "hiranandani-krisala-township",
-    "builderId": "b-the-renowned-architect-arco",
+    "builderId": "b-hiranandani",
     "location": "Darumbre",
     "city": "Pune",
     "priceRange": "\u20b975 L - \u20b91.12 Cr",
@@ -45369,7 +45413,7 @@ export const PROJECTS: Project[] = [
     "id": "p-hiranandani",
     "title": "Hiranandani",
     "slug": "hiranandani",
-    "builderId": "b-the-renowned-architect-arco",
+    "builderId": "b-hiranandani",
     "location": "Darumbre",
     "city": "Pune",
     "priceRange": "\u20b975 L - \u20b91.12 Cr",
@@ -71830,6 +71874,979 @@ export const PROJECTS: Project[] = [
         "registrationCharges": 30000,
         "layoutImage": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/dS3PCn4Zmfevi02ZqMfIVLhUbyT8IDY8hkxIqqzj.webp"
       }
+    ]
+  },
+  {
+    "id": "p-hiranandani-empress-hill-powai",
+    "title": "Hiranandani Empress Hill",
+    "slug": "hiranandani-empress-hill-powai",
+    "builderId": "b-hiranandani",
+    "location": "Powai",
+    "city": "Mumbai",
+    "priceRange": "\u20b95.94 Cr - \u20b910.45 Cr",
+    "exactPrice": "\u20b95.94 Cr",
+    "pricePerSqft": 48000,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+    "images": [
+      "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+      "https://www.hiranandani.com/img/hira-gardens-powai/maple/maple-day-view.jpg",
+      "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg"
+    ],
+    "description": "Hiranandani Empress Hill is an ultra-luxury residential landmark within the iconic Hiranandani Gardens, Powai. Offering bespoke 3 & 4 BHK balcony residences overlooking the serene Powai Lake, it blends neoclassical architecture with contemporary grandeur. Residents enjoy exclusive access to a sky gym, landscaped podiums, grand double-height lobbies, and the world-class ecosystem of Powai.",
+    "features": [
+      "Powai Lake Views",
+      "Sky Gymnasium",
+      "Infinity Pool",
+      "Clubhouse",
+      "24x7 Valet",
+      "Landscaped Podium",
+      "Banquet Hall",
+      "Tennis Court"
+    ],
+    "highlights": [
+      "MahaRERA: P51800052633",
+      "0% Brokerage & Direct Builder Sales Mandate",
+      "Inside Prestigious Hiranandani Gardens Powai",
+      "Balcony Residences Overlooking Central Greens"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P51800052633"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b95.94 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "3 BHK, 4 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Dec 2026"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Powai, Mumbai"
+      }
+    ],
+    "reraId": "P51800052633",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-hiranandani-castle-rock-powai",
+    "title": "Hiranandani Castle Rock",
+    "slug": "hiranandani-castle-rock-powai",
+    "builderId": "b-hiranandani",
+    "location": "Powai",
+    "city": "Mumbai",
+    "priceRange": "\u20b94.20 Cr - \u20b94.85 Cr",
+    "exactPrice": "\u20b94.20 Cr",
+    "pricePerSqft": 52000,
+    "configurations": [
+      "2 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+    "images": [
+      "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+      "https://www.hiranandani.com/qr/all/castle-rock.jpg",
+      "https://www.hiranandani.com/img/hira-gardens-powai/maple/maple-day-view.jpg"
+    ],
+    "description": "Hiranandani Castle Rock in Powai features elegant 2 BHK neoclassical residences set amid manicured European gardens. Ready-to-move and fully serviced by the Hiranandani township infrastructure, Castle Rock offers cross-ventilated homes with French windows, clubhouse, swimming pool, squash court, and immediate proximity to high-street cafes.",
+    "features": [
+      "Ready to Move",
+      "Clubhouse",
+      "Squash Court",
+      "Swimming Pool",
+      "French Windows",
+      "High-Street Retail",
+      "High-Speed Elevators",
+      "Children's Play Area"
+    ],
+    "highlights": [
+      "MahaRERA: P51800000408",
+      "0% Brokerage & Direct Builder Resale Allocation",
+      "Immediate OC Received Ready Homes",
+      "Central Hiranandani Gardens Location"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P51800000408"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b94.20 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Powai, Mumbai"
+      }
+    ],
+    "reraId": "P51800000408",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-hiranandani-regent-hill-powai",
+    "title": "Hiranandani Regent Hill",
+    "slug": "hiranandani-regent-hill-powai",
+    "builderId": "b-hiranandani",
+    "location": "Powai",
+    "city": "Mumbai",
+    "priceRange": "\u20b91.75 Cr - \u20b92.65 Cr",
+    "exactPrice": "\u20b91.75 Cr",
+    "pricePerSqft": 46000,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.hiranandani.com/img/hira-gardens-powai/maple/maple-day-view.jpg",
+    "images": [
+      "https://www.hiranandani.com/img/hira-gardens-powai/maple/maple-day-view.jpg",
+      "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+      "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg"
+    ],
+    "description": "Hiranandani Regent Hill offers smart luxury 1 & 2 BHK air-conditioned apartments designed for discerning urban professionals and investors. Situated within Hiranandani Gardens Powai, residents enjoy seamless access to corporate parks, top-tier schools, healthcare, and a host of lifestyle amenities.",
+    "features": [
+      "Air Conditioned Homes",
+      "Modular Kitchen",
+      "Gymnasium",
+      "Multipurpose Hall",
+      "Landscaped Courtyard",
+      "Yoga Pavilion",
+      "24x7 Security",
+      "Jogging Track"
+    ],
+    "highlights": [
+      "MahaRERA: P51800018620",
+      "0% Brokerage & Direct Builder Booking",
+      "High Rental Yield Corridor Powai",
+      "Ready to Move In Luxury"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P51800018620"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b91.75 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "1 BHK, 2 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Powai, Mumbai"
+      }
+    ],
+    "reraId": "P51800018620",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-hiranandani-atlantis-powai",
+    "title": "Hiranandani Atlantis",
+    "slug": "hiranandani-atlantis-powai",
+    "builderId": "b-hiranandani",
+    "location": "Powai",
+    "city": "Mumbai",
+    "priceRange": "\u20b94.50 Cr - \u20b99.20 Cr",
+    "exactPrice": "\u20b94.50 Cr",
+    "pricePerSqft": 50000,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+    "images": [
+      "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+      "https://www.hiranandani.com/img/hira-gardens-powai/maple/maple-day-view.jpg"
+    ],
+    "description": "Hiranandani Atlantis is a signature twin-tower development in Powai offering expansive 2, 3 and 4 BHK luxury residences. Built with Roman architectural pediments and soaring columns, Atlantis commands unobstructed panoramas of the Powai lake and green hills.",
+    "features": [
+      "Lakefront Living",
+      "Olympic Swimming Pool",
+      "Grand Colonnade",
+      "Clubhouse",
+      "Banquet Hall",
+      "Card Room",
+      "Billiards",
+      "Multi-Tier Security"
+    ],
+    "highlights": [
+      "MahaRERA: P51800000154",
+      "0% Brokerage Direct Developer Partnership",
+      "Ready To Move In Landmark",
+      "Powai Golden Mile"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P51800000154"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b94.50 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK, 4 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Powai, Mumbai"
+      }
+    ],
+    "reraId": "P51800000154",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-one-hiranandani-park-thane",
+    "title": "One Hiranandani Park",
+    "slug": "one-hiranandani-park-thane",
+    "builderId": "b-hiranandani",
+    "location": "Ghodbunder Road",
+    "city": "Thane",
+    "priceRange": "\u20b91.25 Cr - \u20b96.50 Cr",
+    "exactPrice": "\u20b91.25 Cr",
+    "pricePerSqft": 28000,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg",
+    "images": [
+      "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg",
+      "https://www.hiranandani.com/img/hira-gardens-powai/maple/maple-day-view.jpg"
+    ],
+    "description": "One Hiranandani Park on Ghodbunder Road, Thane, spans 21 acres of botanical gardens with 8 magnificent high-rise towers. Offering 1, 2, 3, and 4 BHK residences, the estate features 6 natural water bodies, Olympic-sized swimming pools, tennis courts, and grand European courtyards.",
+    "features": [
+      "21-Acre Botanical Garden",
+      "6 Natural Water Bodies",
+      "Tennis Courts",
+      "Swimming Pools",
+      "Roman Statues",
+      "Squash Court",
+      "Clubhouse",
+      "Grand Foyers"
+    ],
+    "highlights": [
+      "MahaRERA: P51700000089",
+      "0% Brokerage & Direct Builder Sales Mandate",
+      "Ready to Move in Thane Landmark",
+      "Prime Ghodbunder Road Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P51700000089"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b91.25 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "1 BHK, 2 BHK, 3 BHK, 4 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Ghodbunder Road, Thane"
+      }
+    ],
+    "reraId": "P51700000089",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-hiranandani-rodas-enclave-thane",
+    "title": "Hiranandani Rodas Enclave",
+    "slug": "hiranandani-rodas-enclave-thane",
+    "builderId": "b-hiranandani",
+    "location": "Hiranandani Estate",
+    "city": "Thane",
+    "priceRange": "\u20b94.35 Cr - \u20b910.80 Cr",
+    "exactPrice": "\u20b94.35 Cr",
+    "pricePerSqft": 35000,
+    "configurations": [
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg",
+    "images": [
+      "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg",
+      "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg"
+    ],
+    "description": "Rodas Enclave represents the pinnacle of luxury living within the 250-acre Hiranandani Estate, Thane. Comprising palatial 3, 4 and 5 BHK residences and penthouses, it boasts a 5-star clubhouse, infinity pools, private landscaped gardens, and immediate access to The Walk High Street.",
+    "features": [
+      "Palatial 5 BHK Penthouses",
+      "Exclusive Club Rodas",
+      "Infinity Pool",
+      "Banquet Hall",
+      "Private Lawns",
+      "Spa & Sauna",
+      "Concierge Desk",
+      "24x7 Security"
+    ],
+    "highlights": [
+      "MahaRERA: P51700000146",
+      "0% Brokerage & Direct Builder Sales Mandate",
+      "Crown Jewel of Hiranandani Estate Thane",
+      "Ready Possession with OC"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P51700000146"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b94.35 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "3 BHK, 4 BHK, 5 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Hiranandani Estate, Thane"
+      }
+    ],
+    "reraId": "P51700000146",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-hiranandani-solitaire-thane",
+    "title": "Hiranandani Solitaire",
+    "slug": "hiranandani-solitaire-thane",
+    "builderId": "b-hiranandani",
+    "location": "Hiranandani Estate",
+    "city": "Thane",
+    "priceRange": "\u20b965 L - \u20b91.18 Cr",
+    "exactPrice": "\u20b965 L",
+    "pricePerSqft": 22000,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.hiranandani.com/img/hira-gardens-powai/maple/maple-day-view.jpg",
+    "images": [
+      "https://www.hiranandani.com/img/hira-gardens-powai/maple/maple-day-view.jpg",
+      "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg"
+    ],
+    "description": "Hiranandani Solitaire offers boutique studio and 1 BHK apartments situated in the vibrant heart of Hiranandani Estate, Thane. Designed for young tech professionals and investors seeking high rental yields, Solitaire provides full access to the township's retail and sporting hubs.",
+    "features": [
+      "Compact Luxury",
+      "Gymnasium",
+      "Indoor Games",
+      "Landscaped Podium",
+      "Automated Elevators",
+      "Power Backup",
+      "24x7 Security",
+      "Township Amenities"
+    ],
+    "highlights": [
+      "MahaRERA: P51700000197",
+      "0% Brokerage & Direct Builder Sales Mandate",
+      "High Rental Demand near TCS Olympus",
+      "Ready to Move In"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P51700000197"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b965 L"
+      },
+      {
+        "label": "Configurations",
+        "value": "1 BHK, 2 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Hiranandani Estate, Thane"
+      }
+    ],
+    "reraId": "P51700000197",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-hiranandani-fortune-city-panvel",
+    "title": "Hiranandani Fortune City",
+    "slug": "hiranandani-fortune-city-panvel",
+    "builderId": "b-hiranandani",
+    "location": "Panvel",
+    "city": "Navi Mumbai",
+    "priceRange": "\u20b962 L - \u20b91.85 Cr",
+    "exactPrice": "\u20b962 L",
+    "pricePerSqft": 11500,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2026",
+    "image": "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg",
+    "images": [
+      "https://www.hiranandani.com/img/gallery/gallery-ohp/01.jpg",
+      "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg"
+    ],
+    "description": "Hiranandani Fortune City is a sprawling 600-acre mega-township in Panvel, Navi Mumbai, strategically located along the Mumbai-Pune Expressway and adjacent to the Navi Mumbai International Airport corridor. Featuring sectors like Arden and Flora, the township hosts international schools, multispecialty healthcare, and nature reserves.",
+    "features": [
+      "600-Acre Mega Township",
+      "Sports Arena",
+      "Grand Clubhouse",
+      "International School",
+      "Healthcare Centre",
+      "Retail Promenade",
+      "Jogging Trails",
+      "Forest Reserves"
+    ],
+    "highlights": [
+      "MahaRERA: P52000000657",
+      "0% Brokerage & Direct Builder Sales Mandate",
+      "10 Minutes from Navi Mumbai International Airport",
+      "High Appreciation Corridor"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52000000657"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b962 L"
+      },
+      {
+        "label": "Configurations",
+        "value": "1 BHK, 2 BHK, 3 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Dec 2026"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Panvel, Navi Mumbai"
+      }
+    ],
+    "reraId": "P52000000657",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-hiranandani-castalia-kandivali",
+    "title": "Hiranandani Castalia",
+    "slug": "hiranandani-castalia-kandivali",
+    "builderId": "b-hiranandani",
+    "location": "Kandivali West",
+    "city": "Mumbai",
+    "priceRange": "\u20b92.65 Cr - \u20b94.50 Cr",
+    "exactPrice": "\u20b92.65 Cr",
+    "pricePerSqft": 36000,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "Dec 2027",
+    "image": "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+    "images": [
+      "https://www.hiranandani.com/img/gallery/gallery-powai-castle-rock-a/01.jpg",
+      "https://www.hiranandani.com/img/hira-gardens-powai/maple/maple-day-view.jpg"
+    ],
+    "description": "Hiranandani Castalia in Kandivali West is a premium high-rise tower offering 2 and 3 BHK neoclassical residences. Boasting double-height entrance lobbies, rooftop amenities, swimming pool, and rapid transit access via the Western Express Highway and Metro Line 2A.",
+    "features": [
+      "Rooftop Sky Lounge",
+      "Swimming Pool",
+      "Fitness Center",
+      "Children's Play Area",
+      "Double-Height Lobby",
+      "Smart Home Automation",
+      "High-Speed Elevators",
+      "24x7 Security"
+    ],
+    "highlights": [
+      "MahaRERA: P51800031614",
+      "0% Brokerage & Direct Builder Sales Mandate",
+      "Kandivali West Prime Location",
+      "Metro Line 2A Connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Under Construction"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P51800031614"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b92.65 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Dec 2027"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Kandivali West, Mumbai"
+      }
+    ],
+    "reraId": "P51800031614",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-della-luxury-villas-lonavala",
+    "title": "Della Luxury Villas",
+    "slug": "della-luxury-villas-lonavala",
+    "builderId": "b-della",
+    "location": "Kunegaon",
+    "city": "Lonavala",
+    "priceRange": "\u20b93.45 Cr - \u20b97.80 Cr",
+    "exactPrice": "\u20b93.45 Cr",
+    "pricePerSqft": 24000,
+    "configurations": [
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.dellaresorts.com/new-updated-image/enclave-villa-resort.webp",
+    "images": [
+      "https://www.dellaresorts.com/new-updated-image/enclave-villa-resort.webp",
+      "https://www.dellaresorts.com/new-updated-image/garden-villa-resort.webp",
+      "https://www.dellaresorts.com/new-images/della-gardensuites-banner.webp",
+      "https://www.dellaresorts.com/new-images/property-gal5-v-l.webp"
+    ],
+    "description": "Della Luxury Villas in Kunegaon, Lonavala, conceptualized and designed by visionary architect Jimmy Mistry, offers signature 3, 4 and 5 BHK hillside private-pool villas. Overlooking the Sahyadri valleys and fully serviced with 24x7 5-star Della Resort hospitality, in-villa dining, bespoke Italian interiors, and unlimited access to Della Adventure Park.",
+    "features": [
+      "Private Heated Pool",
+      "24x7 5-Star Resort Hospitality",
+      "In-Villa Dining & Chef",
+      "Italian Marble Interiors",
+      "Adventure Park Access",
+      "24-Hr Spa & Salon",
+      "Helipad Access",
+      "Rental Yield Program"
+    ],
+    "highlights": [
+      "MahaRERA: P52100006680",
+      "0% Brokerage & Direct Builder Mandate",
+      "Jimmy Mistry Signature Architecture",
+      "Ready Possession Luxury Hillside Living"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100006680"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b93.45 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "3 BHK, 4 BHK, 5 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Kunegaon, Lonavala"
+      }
+    ],
+    "reraId": "P52100006680",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-della-enclave-hillside-estates",
+    "title": "Della Enclave Hillside Estates",
+    "slug": "della-enclave-hillside-estates",
+    "builderId": "b-della",
+    "location": "Kunegaon",
+    "city": "Lonavala",
+    "priceRange": "\u20b96.50 Cr - \u20b916.50 Cr",
+    "exactPrice": "\u20b96.50 Cr",
+    "pricePerSqft": 28000,
+    "configurations": [
+      "4 BHK",
+      "5 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.dellaresorts.com/new-updated-image/garden-villa-resort.webp",
+    "images": [
+      "https://www.dellaresorts.com/new-updated-image/garden-villa-resort.webp",
+      "https://www.dellaresorts.com/new-updated-image/enclave-villa-resort.webp",
+      "https://www.dellaresorts.com/new-images/property-gal5-v-l.webp"
+    ],
+    "description": "Della Enclave Hillside Estates is an exclusive collection of palatial 10,000+ sq.ft custom hillside villas in Lonavala. Featuring 20-foot soaring double-height ceilings, private infinity swimming pools facing the Sahyadri mountains, manicured party lawns, and bespoke Della Luxury Products furnishings.",
+    "features": [
+      "10,000+ Sq.Ft Palatial Villas",
+      "20-Foot Double Height Living",
+      "Private Infinity Pool",
+      "Manicured Party Lawns",
+      "Bespoke Italian Interiors",
+      "24-Hour Concierge",
+      "Helipad Connectivity",
+      "Gated Ultra-Luxury Enclave"
+    ],
+    "highlights": [
+      "MahaRERA: P52100014285",
+      "0% Brokerage & Direct Builder Sales Mandate",
+      "Ultra-HNW Second Home Haven",
+      "Ready Possession"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100014285"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b96.50 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "4 BHK, 5 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Kunegaon, Lonavala"
+      }
+    ],
+    "reraId": "P52100014285",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-della-sky-villas-khandala",
+    "title": "Della Sky Villas & Penthouses",
+    "slug": "della-sky-villas-khandala",
+    "builderId": "b-della",
+    "location": "Khandala",
+    "city": "Lonavala",
+    "priceRange": "\u20b92.95 Cr - \u20b95.40 Cr",
+    "exactPrice": "\u20b92.95 Cr",
+    "pricePerSqft": 22000,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.dellaresorts.com/new-images/della-gardensuites-banner.webp",
+    "images": [
+      "https://www.dellaresorts.com/new-images/della-gardensuites-banner.webp",
+      "https://www.dellaresorts.com/new-updated-image/enclave-villa-resort.webp"
+    ],
+    "description": "Della Sky Villas & Penthouses on Old Khandala Road offer boutique hilltop living with open-to-sky jacuzzi decks and panoramic valley views. Designed by Jimmy Mistry, each residence combines resort amenities with private luxury living.",
+    "features": [
+      "Open-to-Sky Jacuzzi Decks",
+      "Hilltop Valley Views",
+      "Resort Butler Service",
+      "Fine-Dining Access",
+      "Italian Marble Finishes",
+      "Secure Covered Parking",
+      "24x7 Security",
+      "Full Furnishing Option"
+    ],
+    "highlights": [
+      "MahaRERA: P52100008892",
+      "0% Brokerage & Direct Builder Sales Mandate",
+      "Khandala Hilltop Prime Location",
+      "High Rental Demand Resort Living"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100008892"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b92.95 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "3 BHK, 4 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Khandala, Lonavala"
+      }
+    ],
+    "reraId": "P52100008892",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
+    ]
+  },
+  {
+    "id": "p-della-adventure-township-residences",
+    "title": "Della Adventure Townships & Resort Residences",
+    "slug": "della-adventure-township-residences",
+    "builderId": "b-della",
+    "location": "Kunegaon",
+    "city": "Lonavala",
+    "priceRange": "\u20b92.15 Cr - \u20b94.10 Cr",
+    "exactPrice": "\u20b92.15 Cr",
+    "pricePerSqft": 20000,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://www.dellaresorts.com/new-images/property-gal5-v-l.webp",
+    "images": [
+      "https://www.dellaresorts.com/new-images/property-gal5-v-l.webp",
+      "https://www.dellaresorts.com/new-updated-image/garden-villa-resort.webp"
+    ],
+    "description": "Integrated within the 50-acre Della mixed-use experiential township in Kunegaon, Lonavala, these resort residences offer 2 and 3 BHK holiday suites with an automated rental yield program managed by Della Resorts. Homeowners enjoy lifetime privileges across all Della hospitality and adventure venues.",
+    "features": [
+      "100% Managed Rental Program",
+      "50-Acre Adventure Township",
+      "Lifetime Club Membership",
+      "7 Multi-Cuisine Restaurants",
+      "24-Hr Spa & Wellness",
+      "Swimming Pool",
+      "High-Return Investment",
+      "Concierge Service"
+    ],
+    "highlights": [
+      "MahaRERA: P52100009411",
+      "0% Brokerage & Direct Builder Sales Mandate",
+      "Complete Resort Care & Maintenance",
+      "Ready to Move"
+    ],
+    "specs": [
+      {
+        "label": "Project Status",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100009411"
+      },
+      {
+        "label": "Direct Starting Price",
+        "value": "\u20b92.15 Cr"
+      },
+      {
+        "label": "Configurations",
+        "value": "2 BHK, 3 BHK"
+      },
+      {
+        "label": "Possession Date",
+        "value": "Ready to Move"
+      },
+      {
+        "label": "Micro-Market",
+        "value": "Kunegaon, Lonavala"
+      }
+    ],
+    "reraId": "P52100009411",
+    "verificationStatus": "Verified",
+    "featured": true,
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
+      "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp"
     ]
   }
 ];

@@ -5,6 +5,15 @@
  */
 
 export const VERIFIED_BUILDER_LOGOS: Record<string, string> = {
+    "b-hiranandani": "/images/builders/hiranandani.svg",
+    "hiranandani-group": "/images/builders/hiranandani.svg",
+    "hiranandani-communities": "/images/builders/hiranandani.svg",
+    "hiranandani": "/images/builders/hiranandani.svg",
+    "b-della": "/images/builders/della.svg",
+    "della-townships": "/images/builders/della.svg",
+    "della-group": "/images/builders/della.svg",
+    "della-luxury-villas": "/images/builders/della.svg",
+    "della": "/images/builders/della.svg",
     "b-godrej": "/images/builders/godrej.svg",
     "godrej-properties": "/images/builders/godrej.svg",
     "b-kolte-patil": "/images/builders/kolte-patil.svg",

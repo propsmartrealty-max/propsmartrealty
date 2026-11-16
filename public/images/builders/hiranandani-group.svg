@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="goldHira" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4D03F" />
+      <stop offset="50%" stop-color="#C5A059" />
+      <stop offset="100%" stop-color="#8E6E2E" />
+    </linearGradient>
+    <linearGradient id="navyHira" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A192F" />
+      <stop offset="100%" stop-color="#1E3A8A" />
+    </linearGradient>
+  </defs>
+
+  <!-- Neoclassical Pediment & Emblem -->
+  <g transform="translate(20, 20)">
+    <!-- Shield / Seal Circle -->
+    <circle cx="60" cy="60" r="54" fill="url(#navyHira)" stroke="url(#goldHira)" stroke-width="3" />
+    <circle cx="60" cy="60" r="48" fill="none" stroke="url(#goldHira)" stroke-width="1" stroke-dasharray="3 2" />
+
+    <!-- Neoclassical Roman Pediment Roof -->
+    <path d="M 36 42 L 60 26 L 84 42 Z" fill="url(#goldHira)" />
+    <!-- Entablature -->
+    <rect x="34" y="42" width="52" height="4" fill="url(#goldHira)" rx="1" />
+    
+    <!-- Roman Columns (Pillars) -->
+    <rect x="38" y="48" width="4.5" height="30" fill="url(#goldHira)" rx="0.5" />
+    <rect x="49" y="48" width="4.5" height="30" fill="url(#goldHira)" rx="0.5" />
+    <rect x="66.5" y="48" width="4.5" height="30" fill="url(#goldHira)" rx="0.5" />
+    <rect x="77.5" y="48" width="4.5" height="30" fill="url(#goldHira)" rx="0.5" />
+
+    <!-- Column Bases / Plinth -->
+    <rect x="34" y="80" width="52" height="4" fill="url(#goldHira)" rx="1" />
+    <rect x="31" y="84" width="58" height="3" fill="url(#goldHira)" rx="1" />
+
+    <!-- Center Monogram 'H' -->
+    <text x="60" y="70" font-family="'Cinzel', 'Times New Roman', serif" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">H</text>
+  </g>
+
+  <!-- Typography: HIRANANDANI GROUP -->
+  <text x="160" y="66" font-family="'Cinzel', 'Trajan Pro', 'Georgia', serif" font-size="34" font-weight="900" fill="#0A192F" letter-spacing="3.5">
+    HIRANANDANI
+  </text>
+  
+  <text x="162" y="94" font-family="'Plus Jakarta Sans', 'Montserrat', sans-serif" font-size="13" font-weight="800" fill="#C5A059" letter-spacing="4.5">
+    COMMUNITIES &amp; TOWNSHIPS
+  </text>
+
+  <!-- Divider Line -->
+  <line x1="162" y1="108" x2="475" y2="108" stroke="url(#goldHira)" stroke-width="1.5" />
+
+  <!-- Footnote -->
+  <text x="162" y="125" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5" font-weight="700" fill="#64748B" letter-spacing="1.5">
+    ESTABLISHED 1978 • POWAI • THANE • PANVEL • PUNE
+  </text>
+</svg>
