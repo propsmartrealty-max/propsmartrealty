@@ -14,13 +14,39 @@ import { PROJECTS } from '../data/mockData';
 import PriceTrendChart from '../components/Portal/MarketIntelligence/PriceTrendChart';
 import { getLocalityImageUrl, PROPSMART_LOCALITIES } from '../utils/localityUtils';
 import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
+import PSeoMarketGuide from '../components/Portal/MarketIntelligence/PSeoMarketGuide';
 
-interface SearchResultsProps {
+export interface SearchResultsProps {
     forcedLocationSlug?: string;
     forcedCity?: string;
+    forcedConfig?: string;
+    forcedStatus?: string;
+    forcedBudgetLabel?: string;
+    forcedMaxBudget?: number;
+    forcedMinBudget?: number;
+    forcedBuilderSlug?: string;
+    forcedBuilderName?: string;
+    forcedType?: string;
+    pSeoTitle?: string;
+    pSeoDesc?: string;
+    canonicalPath?: string;
 }
 
-const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug, forcedCity }) => {
+const SearchResults: React.FC<SearchResultsProps> = ({ 
+    forcedLocationSlug, 
+    forcedCity,
+    forcedConfig,
+    forcedStatus,
+    forcedBudgetLabel,
+    forcedMaxBudget,
+    forcedMinBudget,
+    forcedBuilderSlug,
+    forcedBuilderName,
+    forcedType,
+    pSeoTitle,
+    pSeoDesc,
+    canonicalPath
+}) => {
     const { search } = useLocation();
     const routeParams = useParams<{ locationSlug: string }>();
     const effectiveLocationSlug = forcedLocationSlug || routeParams.locationSlug;
@@ -37,7 +63,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug, force
 
     const filterLoc = derivedLocation;
     const filterQuery = rawQuery;
-    const filterType = queryParams.get('type') || '';
+    const filterType = forcedType || queryParams.get('type') || '';
 
     // Phase 5: Get Locality Data for Market Intelligence
     const { localities } = useData();
@@ -51,9 +77,9 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug, force
 
     // Local State for filters
     const [selectedCity, setSelectedCity] = React.useState<string>(forcedCity || rawCityParam || 'All');
-    const [selectedBudgets, setSelectedBudgets] = React.useState<string[]>([]);
-    const [selectedTypes, setSelectedTypes] = React.useState<string[]>([]);
-    const [selectedConfigs, setSelectedConfigs] = React.useState<string[]>([]);
+    const [selectedBudgets, setSelectedBudgets] = React.useState<string[]>(forcedBudgetLabel ? [forcedBudgetLabel] : []);
+    const [selectedTypes, setSelectedTypes] = React.useState<string[]>(forcedType ? [forcedType] : []);
+    const [selectedConfigs, setSelectedConfigs] = React.useState<string[]>(forcedConfig ? [forcedConfig] : []);
     const [showFilters, setShowFilters] = React.useState(false);
     const [viewMode, setViewMode] = React.useState<'grid' | 'list' | 'map'>('grid');
     const [sortBy, setSortBy] = React.useState<'featured' | 'price-asc' | 'price-desc' | 'newest'>('featured');
@@ -83,19 +109,21 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug, force
                 : (filterType === 'buy' || filterType === 'rent') ? 'Residential'
                     : '';
 
-    const statusFilter = filterType === 'new-launch' ? 'New Launch' : '';
+    const effectiveStatus = forcedStatus || (filterType === 'new-launch' ? 'New Launch' : '');
 
     // React Query for Server-Side Search
     const { data, isLoading, error, refetch } = useQuery({
-        queryKey: ['projects', 'search', page, filterLoc, filterQuery, selectedCity, typeFilter, statusFilter, selectedBudgets.join(','), selectedConfigs.join(',')],
+        queryKey: ['projects', 'search', page, filterLoc, filterQuery, selectedCity, typeFilter, effectiveStatus, selectedBudgets.join(','), selectedConfigs.join(','), forcedBuilderSlug, forcedConfig],
         queryFn: () => api.projects.list(page, {
             query: filterQuery,
             location: filterLoc,
             city: selectedCity !== 'All' ? selectedCity : undefined,
             type: typeFilter,
-            status: statusFilter,
+            status: effectiveStatus,
             budget: selectedBudgets,
-            configurations: selectedConfigs
+            configurations: selectedConfigs.length > 0 ? selectedConfigs : (forcedConfig ? [forcedConfig] : undefined),
+            builderSlug: forcedBuilderSlug,
+            builderName: forcedBuilderName
         }),
         placeholderData: (previousData) => previousData,
     });
@@ -128,25 +156,64 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug, force
         setPage(1);
     };
 
-    const activeCityOrLoc = filterLoc || (selectedCity !== 'All' ? selectedCity : 'Pune');
+    const activeCity = selectedCity !== 'All' ? selectedCity : 'Pune';
+    const activeCityOrLoc = filterLoc || activeCity;
     const isCityLanding = !filterLoc && selectedCity !== 'All';
-    const seoTitle = effectiveLocationSlug
-        ? `Flats in ${filterLoc} Pune | 100% Brokerage Free | Buy Directly with Builder`
-        : isCityLanding
-            ? `Properties in ${selectedCity} | Luxury Apartments & Flats | 100% Brokerage Free`
-            : `Properties in ${activeCityOrLoc} - Search Results | PROPSMART REALTY`;
 
-    const seoDesc = effectiveLocationSlug
-        ? `Looking for flats in ${filterLoc}, Pune? Explore top verified new launch projects, developer pricing, and RERA floor plans. 100% Zero Brokerage on PROPSMART REALTY.`
-        : isCityLanding
-            ? `Explore luxury residential properties and flats in ${selectedCity}, Maharashtra. Direct builder pricing, verified floor plans, 100% zero brokerage.`
-            : `Browse verified real estate listings in ${activeCityOrLoc} with zero brokerage and direct builder pricing.`;
+    // Formatted builder name
+    const builderDisplayName = React.useMemo(() => {
+        if (forcedBuilderName) return forcedBuilderName;
+        if (!forcedBuilderSlug) return '';
+        return forcedBuilderSlug
+            .replace(/^b-/, '')
+            .split('-')
+            .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+            .join(' ');
+    }, [forcedBuilderName, forcedBuilderSlug]);
 
-    const seoCanonical = effectiveLocationSlug
-        ? `https://propsmart.co.in/flats-in-${effectiveLocationSlug}`
-        : isCityLanding
-            ? `https://propsmart.co.in/properties-in-${selectedCity.toLowerCase()}`
-            : 'https://propsmart.co.in/search';
+    const seoTitle = pSeoTitle || (
+        forcedConfig
+            ? (filterLoc 
+                ? `${forcedConfig} Flats in ${filterLoc}, ${activeCity} - 100% Brokerage Free | PROPSMART REALTY`
+                : `${forcedConfig} Flats in ${activeCity} | Verified Direct Builder Projects - 100% Brokerage Free`)
+            : forcedStatus
+                ? (filterLoc
+                    ? `${forcedStatus} Flats in ${filterLoc}, ${activeCity} - 0% Brokerage | PROPSMART REALTY`
+                    : `${forcedStatus} Projects in ${activeCity} | Direct Builder Sales - 100% Brokerage Free`)
+                : forcedBudgetLabel
+                    ? `Flats Under ${forcedBudgetLabel.replace('< ', '₹')} in ${activeCityOrLoc} - 100% Brokerage Free | PROPSMART REALTY`
+                    : forcedBuilderSlug
+                        ? `${builderDisplayName} Projects in ${activeCityOrLoc} - Direct Builder Sales | PROPSMART REALTY`
+                        : effectiveLocationSlug
+                            ? `Flats in ${filterLoc} Pune | 100% Brokerage Free | Buy Directly with Builder`
+                            : isCityLanding
+                                ? `Properties in ${selectedCity} | Luxury Apartments & Flats | 100% Brokerage Free`
+                                : `Properties in ${activeCityOrLoc} - Search Results | PROPSMART REALTY`
+    );
+
+    const seoDesc = pSeoDesc || (
+        forcedConfig
+            ? `Explore verified ${forcedConfig} flats in ${filterLoc || activeCityOrLoc}. Direct developer inventory with 100% zero brokerage, sanctioned MahaRERA floor plans & transparent pricing.`
+            : forcedStatus
+                ? `Looking for ${forcedStatus.toLowerCase()} flats in ${filterLoc || activeCityOrLoc}? Direct builder rates, ready possession options, sanctioned floor plans, 100% zero brokerage.`
+                : forcedBudgetLabel
+                    ? `Find premium flats under ${forcedBudgetLabel} in ${filterLoc || activeCityOrLoc}. Direct builder mandates, zero buyer commission, verified MahaRERA certifications.`
+                    : forcedBuilderSlug
+                        ? `Explore residential projects by ${builderDisplayName} in ${filterLoc || activeCityOrLoc}. Direct developer sales partnership, 100% zero brokerage, guaranteed price schemes.`
+                        : effectiveLocationSlug
+                            ? `Looking for flats in ${filterLoc}, Pune? Explore top verified new launch projects, developer pricing, and RERA floor plans. 100% Zero Brokerage on PROPSMART REALTY.`
+                            : isCityLanding
+                                ? `Explore luxury residential properties and flats in ${selectedCity}, Maharashtra. Direct builder pricing, verified floor plans, 100% zero brokerage.`
+                                : `Browse verified real estate listings in ${activeCityOrLoc} with zero brokerage and direct builder pricing.`
+    );
+
+    const seoCanonical = canonicalPath
+        ? `https://propsmart.co.in${canonicalPath}`
+        : effectiveLocationSlug
+            ? `https://propsmart.co.in/flats-in-${effectiveLocationSlug}`
+            : isCityLanding
+                ? `https://propsmart.co.in/properties-in-${selectedCity.toLowerCase()}`
+                : 'https://propsmart.co.in/search';
 
     const searchJsonLd = React.useMemo(() => {
         const breadcrumb = {
@@ -168,7 +235,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug, force
                 {
                     "@type": "ListItem",
                     "position": 3,
-                    "name": effectiveLocationSlug ? `Flats in ${filterLoc}` : `Properties in ${activeCityOrLoc}`,
+                    "name": seoTitle.split(' - ')[0].split(' | ')[0],
                     "item": seoCanonical
                 }
             ]
@@ -202,10 +269,10 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug, force
                 },
                 {
                     "@type": "Question",
-                    "name": `What is the average price range for flats in ${filterLoc || activeCityOrLoc}?`,
+                    "name": `What is the average price range for ${forcedConfig ? `${forcedConfig} flats` : 'properties'} in ${filterLoc || activeCityOrLoc}?`,
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": `Properties in ${filterLoc || activeCityOrLoc} range from modern 1 & 2 BHK apartments starting around ₹45 Lac to premium 3 & 4 BHK luxury residences exceeding ₹2.5 Cr+, depending on configuration and carpet area.`
+                        "text": `Properties in ${filterLoc || activeCityOrLoc} range from modern apartments starting around ₹45 Lac to premium luxury residences exceeding ₹2.5 Cr+, depending on configuration, developer prestige, and carpet area.`
                     }
                 },
                 {
@@ -220,7 +287,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug, force
         };
 
         return [breadcrumb, itemList, faq];
-    }, [filterLoc, activeCityOrLoc, effectiveLocationSlug, seoCanonical, sortedProjects]);
+    }, [filterLoc, activeCityOrLoc, effectiveLocationSlug, seoCanonical, sortedProjects, seoTitle, forcedConfig]);
 
     return (
         <div className="min-h-screen bg-slate-50/70 flex flex-col relative">
@@ -693,6 +760,17 @@ const SearchResults: React.FC<SearchResultsProps> = ({ forcedLocationSlug, force
                         )}
                     </div>
                 </div>
+
+                {/* Programmatic SEO Market Intelligence & Link Mesh */}
+                <PSeoMarketGuide 
+                    localityName={filterLoc}
+                    cityName={selectedCity !== 'All' ? selectedCity : 'Pune'}
+                    config={forcedConfig}
+                    status={forcedStatus}
+                    budgetLabel={forcedBudgetLabel}
+                    builderName={forcedBuilderName || (forcedBuilderSlug ? builderDisplayName : undefined)}
+                    projectCount={data?.count ?? sortedProjects.length}
+                />
             </div >
             <Footer />
         </div >

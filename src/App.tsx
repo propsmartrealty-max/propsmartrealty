@@ -49,18 +49,38 @@ const queryClient = new QueryClient();
 
 import { Toaster } from 'react-hot-toast';
 
-// Dynamic Locality SEO Route & 404 Fallback Handler
+// Dynamic Locality & Programmatic SEO Route & 404 Fallback Handler
+const CITY_SLUG_MAP: Record<string, string> = {
+    'pune': 'Pune',
+    'mumbai': 'Mumbai',
+    'thane': 'Thane',
+    'navi-mumbai': 'Navi Mumbai',
+    'lonavala': 'Lonavala',
+    'khandala': 'Lonavala',
+    'alibaug': 'Alibaug',
+    'maharashtra': 'All'
+};
+
+const resolveTarget = (rawSlug: string) => {
+    const slug = rawSlug.toLowerCase().trim();
+    if (CITY_SLUG_MAP[slug]) {
+        return { city: CITY_SLUG_MAP[slug], locationSlug: undefined };
+    }
+    return { city: undefined, locationSlug: slug };
+};
+
 const DynamicLocalityOrNotFound = () => {
     const location = useLocation();
     const pathname = location.pathname.toLowerCase().replace(/\/$/, '');
 
-    // City shortcuts: /pune, /mumbai, /thane, /navi-mumbai, /lonavala, /alibaug, /maharashtra
+    // 1. City & Regional Exact Match Shortcuts
     const cityMap: Record<string, string> = {
         '/pune': 'Pune',
         '/mumbai': 'Mumbai',
         '/thane': 'Thane',
         '/navi-mumbai': 'Navi Mumbai',
         '/lonavala': 'Lonavala',
+        '/khandala': 'Lonavala',
         '/alibaug': 'Alibaug',
         '/maharashtra': 'All',
         '/properties-in-pune': 'Pune',
@@ -75,18 +95,136 @@ const DynamicLocalityOrNotFound = () => {
     };
 
     if (cityMap[pathname]) {
-        return <SearchResults forcedCity={cityMap[pathname]} />;
+        return <SearchResults forcedCity={cityMap[pathname]} canonicalPath={pathname} />;
     }
 
-    // Dynamic Locality Prefixes
+    // 2. Programmatic SEO: Configurations x Locality/City (/1-bhk-flats-in-:slug, /2-bhk-flats-in-:slug, etc.)
+    const configMatch = pathname.match(/^\/([1-5])-bhk-flats-in-([a-z0-9-]+)$/);
+    if (configMatch) {
+        const config = `${configMatch[1]} BHK`;
+        const target = resolveTarget(configMatch[2]);
+        return (
+            <SearchResults 
+                forcedConfig={config} 
+                forcedCity={target.city} 
+                forcedLocationSlug={target.locationSlug} 
+                canonicalPath={pathname} 
+            />
+        );
+    }
+
+    // 3. Programmatic SEO: Luxury Villas & Row Houses (/villas-in-:slug, /luxury-villas-in-:slug)
+    const villaMatch = pathname.match(/^\/(?:luxury-)?villas-in-([a-z0-9-]+)$/) || pathname.match(/^\/row-houses-in-([a-z0-9-]+)$/);
+    if (villaMatch) {
+        const target = resolveTarget(villaMatch[1]);
+        return (
+            <SearchResults 
+                forcedConfig="Villa" 
+                forcedType="Plot" 
+                forcedCity={target.city} 
+                forcedLocationSlug={target.locationSlug} 
+                canonicalPath={pathname} 
+            />
+        );
+    }
+
+    // 4. Programmatic SEO: Penthouses (/penthouses-in-:slug)
+    const penthouseMatch = pathname.match(/^\/penthouses-in-([a-z0-9-]+)$/);
+    if (penthouseMatch) {
+        const target = resolveTarget(penthouseMatch[1]);
+        return (
+            <SearchResults 
+                forcedConfig="Penthouse" 
+                forcedCity={target.city} 
+                forcedLocationSlug={target.locationSlug} 
+                canonicalPath={pathname} 
+            />
+        );
+    }
+
+    // 5. Programmatic SEO: Status x Locality/City (/ready-to-move-flats-in-*, /new-launch-projects-in-*, etc.)
+    const statusMatch = pathname.match(/^\/(ready-to-move-flats|ready-possession-flats|new-launch-projects|upcoming-projects|under-construction-projects)-in-([a-z0-9-]+)$/);
+    if (statusMatch) {
+        const rawStatus = statusMatch[1];
+        const status = rawStatus.startsWith('ready') 
+            ? 'Ready to Move' 
+            : (rawStatus.startsWith('new') || rawStatus.startsWith('upcoming')) 
+                ? 'New Launch' 
+                : 'Under Construction';
+        const target = resolveTarget(statusMatch[2]);
+        return (
+            <SearchResults 
+                forcedStatus={status} 
+                forcedCity={target.city} 
+                forcedLocationSlug={target.locationSlug} 
+                canonicalPath={pathname} 
+            />
+        );
+    }
+
+    // 6. Programmatic SEO: Budget x City/Locality (/flats-under-50-lakhs-in-*, /flats-under-1-crore-in-*, etc.)
+    const budgetMatch = pathname.match(/^\/flats-under-([0-9]+(?:-[0-9]+)?)-(lakhs|lakh|crore|cr)-in-([a-z0-9-]+)$/);
+    if (budgetMatch) {
+        const amount = budgetMatch[1];
+        const unit = budgetMatch[2];
+        const label = unit.startsWith('cr') ? `< ${amount} Cr` : `< ${amount} L`;
+        const target = resolveTarget(budgetMatch[3]);
+        return (
+            <SearchResults 
+                forcedBudgetLabel={label} 
+                forcedCity={target.city} 
+                forcedLocationSlug={target.locationSlug} 
+                canonicalPath={pathname} 
+            />
+        );
+    }
+
+    const luxuryMatch = pathname.match(/^\/luxury-flats-in-([a-z0-9-]+)$/);
+    if (luxuryMatch) {
+        const target = resolveTarget(luxuryMatch[1]);
+        return (
+            <SearchResults 
+                forcedBudgetLabel="> 2 Cr" 
+                forcedCity={target.city} 
+                forcedLocationSlug={target.locationSlug} 
+                canonicalPath={pathname} 
+            />
+        );
+    }
+
+    // 7. Standard Locality Prefixes (/flats-in-*, /properties-in-*, /apartments-in-*, /projects-in-*)
     const localityPrefixes = ['/flats-in-', '/properties-in-', '/apartments-in-', '/projects-in-'];
     for (const prefix of localityPrefixes) {
         if (pathname.startsWith(prefix)) {
             const slug = pathname.replace(prefix, '').split('/')[0];
             if (slug) {
-                return <SearchResults forcedLocationSlug={slug} />;
+                const target = resolveTarget(slug);
+                return (
+                    <SearchResults 
+                        forcedCity={target.city} 
+                        forcedLocationSlug={target.locationSlug} 
+                        canonicalPath={pathname} 
+                    />
+                );
             }
         }
+    }
+
+    // 8. Programmatic SEO: Developer x Locality/City (/:builderSlug-projects-in-:slug, /:builderSlug-villas-in-:slug)
+    const builderMatch = pathname.match(/^\/([a-z0-9-]+)-(?:projects|villas|apartments|townships|flats)-in-([a-z0-9-]+)$/);
+    if (builderMatch) {
+        const builderSlug = builderMatch[1];
+        const target = resolveTarget(builderMatch[2]);
+        const isVilla = pathname.includes('-villas-in-');
+        return (
+            <SearchResults 
+                forcedBuilderSlug={builderSlug} 
+                forcedConfig={isVilla ? 'Villa' : undefined} 
+                forcedCity={target.city} 
+                forcedLocationSlug={target.locationSlug} 
+                canonicalPath={pathname} 
+            />
+        );
     }
 
     return <NotFound />;

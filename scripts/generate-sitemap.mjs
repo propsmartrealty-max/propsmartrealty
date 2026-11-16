@@ -215,7 +215,204 @@ async function run() {
     writeFileSync(resolve('./public/sitemap-localities.xml'), sitemapLocalitiesXml.trim());
 
     // -------------------------------------------------------------
-    // FILE 5: sitemap.xml (Root Sitemap Index for Search Engines)
+    // FILE 5: sitemap-pseo-configurations.xml (Programmatic Configurations Matrix)
+    // -------------------------------------------------------------
+    const targetCities = ['pune', 'mumbai', 'thane', 'navi-mumbai', 'lonavala', 'alibaug'];
+    const configPrefixes = [
+        '1-bhk-flats-in',
+        '2-bhk-flats-in',
+        '3-bhk-flats-in',
+        '4-bhk-flats-in',
+        'villas-in',
+        'luxury-villas-in',
+        'penthouses-in'
+    ];
+
+    let sitemapPseoConfigXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+`;
+    let configCount = 0;
+    // Configurations x Cities
+    for (const prefix of configPrefixes) {
+        for (const city of targetCities) {
+            configCount++;
+            sitemapPseoConfigXml += `  <url>
+    <loc>${BASE_URL}/${prefix}-${city}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+`;
+        }
+    }
+
+    // Configurations x Localities
+    for (const loc of locations) {
+        const locSlug = loc.name.toLowerCase().trim().replace(/\s+/g, '-');
+        for (const prefix of ['1-bhk-flats-in', '2-bhk-flats-in', '3-bhk-flats-in', '4-bhk-flats-in', 'villas-in']) {
+            configCount++;
+            sitemapPseoConfigXml += `  <url>
+    <loc>${BASE_URL}/${prefix}-${escapeXml(locSlug)}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+`;
+        }
+    }
+    sitemapPseoConfigXml += `</urlset>`;
+    writeFileSync(resolve('./public/sitemap-pseo-configurations.xml'), sitemapPseoConfigXml.trim());
+
+    // -------------------------------------------------------------
+    // FILE 6: sitemap-pseo-status.xml (Ready-to-Move & New Launches Matrix)
+    // -------------------------------------------------------------
+    const statusPrefixes = [
+        'ready-to-move-flats-in',
+        'new-launch-projects-in',
+        'under-construction-projects-in'
+    ];
+
+    let sitemapPseoStatusXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+`;
+    let statusCount = 0;
+    for (const prefix of statusPrefixes) {
+        for (const city of targetCities) {
+            statusCount++;
+            sitemapPseoStatusXml += `  <url>
+    <loc>${BASE_URL}/${prefix}-${city}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+`;
+        }
+        for (const loc of locations) {
+            const locSlug = loc.name.toLowerCase().trim().replace(/\s+/g, '-');
+            statusCount++;
+            sitemapPseoStatusXml += `  <url>
+    <loc>${BASE_URL}/${prefix}-${escapeXml(locSlug)}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+`;
+        }
+    }
+    sitemapPseoStatusXml += `</urlset>`;
+    writeFileSync(resolve('./public/sitemap-pseo-status.xml'), sitemapPseoStatusXml.trim());
+
+    // -------------------------------------------------------------
+    // FILE 7: sitemap-pseo-budget.xml (Budget Brackets Matrix)
+    // -------------------------------------------------------------
+    const budgetPrefixes = [
+        'flats-under-50-lakhs-in',
+        'flats-under-60-lakhs-in',
+        'flats-under-75-lakhs-in',
+        'flats-under-1-crore-in',
+        'flats-under-1.5-crore-in',
+        'flats-under-2-crore-in',
+        'luxury-flats-in'
+    ];
+
+    let sitemapPseoBudgetXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+`;
+    let budgetCount = 0;
+    for (const prefix of budgetPrefixes) {
+        for (const city of targetCities) {
+            budgetCount++;
+            sitemapPseoBudgetXml += `  <url>
+    <loc>${BASE_URL}/${prefix}-${city}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.88</priority>
+  </url>
+`;
+        }
+        // Top 20 localities for budget
+        for (const loc of locations.slice(0, 20)) {
+            const locSlug = loc.name.toLowerCase().trim().replace(/\s+/g, '-');
+            budgetCount++;
+            sitemapPseoBudgetXml += `  <url>
+    <loc>${BASE_URL}/${prefix}-${escapeXml(locSlug)}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+`;
+        }
+    }
+    sitemapPseoBudgetXml += `</urlset>`;
+    writeFileSync(resolve('./public/sitemap-pseo-budget.xml'), sitemapPseoBudgetXml.trim());
+
+    // -------------------------------------------------------------
+    // FILE 8: sitemap-pseo-builders.xml (Top Developers x Corridors Matrix)
+    // -------------------------------------------------------------
+    const topBuilderSlugs = [
+        'godrej-properties',
+        'hiranandani-group',
+        'della-townships',
+        'vtp-realty',
+        'kolte-patil',
+        'lodha-group',
+        'panchshil-realty',
+        'rohan-builders',
+        'vilas-javdekar-developers',
+        'pride-purple-group',
+        'nyati-group',
+        'gera-developments',
+        'kasturi-housing',
+        'mahindra-lifespaces',
+        'kumar-properties',
+        'bramhacorp',
+        'amanora-park-town',
+        'kohinoor-group',
+        'kalpataru',
+        'sobha-limited',
+        'tata-housing',
+        'shapoorji-pallonji-real-estate',
+        'puravankara',
+        'goel-ganga',
+        'rama-group',
+        'magarpatta',
+        'kundan-spaces',
+        'paranjape-schemes'
+    ];
+
+    let sitemapPseoBuildersXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+`;
+    let builderPseoCount = 0;
+    for (const bSlug of topBuilderSlugs) {
+        // Builder x Cities
+        for (const city of ['pune', 'mumbai', 'thane', 'lonavala']) {
+            builderPseoCount++;
+            sitemapPseoBuildersXml += `  <url>
+    <loc>${BASE_URL}/${bSlug}-projects-in-${city}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+`;
+        }
+        // Della villas specifically
+        if (bSlug === 'della-townships') {
+            builderPseoCount++;
+            sitemapPseoBuildersXml += `  <url>
+    <loc>${BASE_URL}/della-townships-villas-in-lonavala</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+`;
+        }
+    }
+    sitemapPseoBuildersXml += `</urlset>`;
+    writeFileSync(resolve('./public/sitemap-pseo-builders.xml'), sitemapPseoBuildersXml.trim());
+
+    // -------------------------------------------------------------
+    // FILE 9: sitemap.xml (Root Sitemap Index for Search Engines)
     // -------------------------------------------------------------
     const sitemapIndexXml = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -233,6 +430,22 @@ async function run() {
   </sitemap>
   <sitemap>
     <loc>${BASE_URL}/sitemap-localities.xml</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${BASE_URL}/sitemap-pseo-configurations.xml</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${BASE_URL}/sitemap-pseo-status.xml</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${BASE_URL}/sitemap-pseo-budget.xml</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${BASE_URL}/sitemap-pseo-builders.xml</loc>
     <lastmod>${lastmod}</lastmod>
   </sitemap>
 </sitemapindex>
@@ -277,8 +490,12 @@ ${pImg ? `      <enclosure url="${escapeXml(pImg)}" type="image/webp" />` : ''}
     console.log(`   - Projects:         public/sitemap-projects.xml (${projects.length} URLs with Image Sitemaps)`);
     console.log(`   - Builders:         public/sitemap-builders.xml (${builders.length} URLs with Logos)`);
     console.log(`   - Localities:       public/sitemap-localities.xml (${locations.length} URLs with /flats-in-*)`);
+    console.log(`   - pSEO Configs:     public/sitemap-pseo-configurations.xml (${configCount} URLs)`);
+    console.log(`   - pSEO Status:      public/sitemap-pseo-status.xml (${statusCount} URLs)`);
+    console.log(`   - pSEO Budget:      public/sitemap-pseo-budget.xml (${budgetCount} URLs)`);
+    console.log(`   - pSEO Builders:    public/sitemap-pseo-builders.xml (${builderPseoCount} URLs)`);
     console.log(`   - Property RSS:     public/feed.xml (30 fresh projects)`);
-    console.log(`   Total URLs Indexed: ${staticPages.length + projects.length + builders.length + locations.length}`);
+    console.log(`   Total URLs Indexed: ${staticPages.length + projects.length + builders.length + locations.length + configCount + statusCount + budgetCount + builderPseoCount}`);
 }
 
 run().catch(console.error);

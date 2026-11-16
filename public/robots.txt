@@ -159,6 +159,10 @@ Sitemap: https://propsmart.co.in/sitemap-main.xml
 Sitemap: https://propsmart.co.in/sitemap-projects.xml
 Sitemap: https://propsmart.co.in/sitemap-builders.xml
 Sitemap: https://propsmart.co.in/sitemap-localities.xml
+Sitemap: https://propsmart.co.in/sitemap-pseo-configurations.xml
+Sitemap: https://propsmart.co.in/sitemap-pseo-status.xml
+Sitemap: https://propsmart.co.in/sitemap-pseo-budget.xml
+Sitemap: https://propsmart.co.in/sitemap-pseo-builders.xml
 
 # Fresh Property RSS Feed
 Sitemap: https://propsmart.co.in/feed.xml

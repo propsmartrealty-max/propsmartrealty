@@ -14,6 +14,8 @@ export interface ProjectFilters {
     status?: string;
     configurations?: string[];
     budget?: string[];
+    builderSlug?: string;
+    builderName?: string;
 }
 
 function filterProjectsLocally(page: number, filters: ProjectFilters = {}) {
@@ -21,6 +23,25 @@ function filterProjectsLocally(page: number, filters: ProjectFilters = {}) {
 
     if (filters.city && filters.city.trim() && filters.city.toLowerCase() !== 'all') {
         list = list.filter(p => (p.city || 'Pune').toLowerCase() === filters.city!.toLowerCase().trim());
+    }
+
+    if (filters.builderSlug && filters.builderSlug.trim()) {
+        const bSlug = filters.builderSlug.toLowerCase().trim().replace(/^b-/, '');
+        list = list.filter(p => 
+            p.builderId.toLowerCase().replace(/^b-/, '') === bSlug ||
+            p.builderId.toLowerCase().includes(bSlug) ||
+            p.slug.toLowerCase().includes(bSlug) ||
+            p.title.toLowerCase().includes(bSlug.replace(/-/g, ' '))
+        );
+    }
+
+    if (filters.builderName && filters.builderName.trim()) {
+        const bName = filters.builderName.toLowerCase().trim();
+        list = list.filter(p => 
+            p.title.toLowerCase().includes(bName) ||
+            p.slug.toLowerCase().includes(bName.replace(/\s+/g, '-')) ||
+            (p.description && p.description.toLowerCase().includes(bName))
+        );
     }
 
     const searchKeyword = (filters.query || filters.location || '').toLowerCase().trim();
@@ -42,20 +63,57 @@ function filterProjectsLocally(page: number, filters: ProjectFilters = {}) {
     }
 
     if (filters.status && filters.status.trim()) {
-        list = list.filter(p => p.status.toLowerCase() === filters.status!.toLowerCase());
+        const s = filters.status.toLowerCase().trim();
+        list = list.filter(p => {
+            const pStatus = (p.status || '').toLowerCase();
+            if (s === 'ready to move') {
+                return pStatus.includes('ready') || pStatus.includes('completed');
+            }
+            if (s === 'new launch') {
+                return pStatus.includes('new') || pStatus.includes('launch');
+            }
+            if (s === 'under construction') {
+                return pStatus.includes('under') || pStatus.includes('construction') || pStatus.includes('ongoing');
+            }
+            return pStatus === s;
+        });
     }
 
     if (filters.configurations && filters.configurations.length > 0) {
-        list = list.filter(p => filters.configurations!.some(c => p.configurations.includes(c)));
+        list = list.filter(p => filters.configurations!.some(c => {
+            const cLower = c.toLowerCase().trim();
+            if (cLower === 'villa' || cLower === 'villas') {
+                return (p.type && p.type.toLowerCase().includes('villa')) || 
+                       (p.type && p.type.toLowerCase().includes('plot')) ||
+                       p.title.toLowerCase().includes('villa') || 
+                       (p.description && p.description.toLowerCase().includes('villa'));
+            }
+            if (cLower === 'penthouse' || cLower === 'penthouses') {
+                return p.title.toLowerCase().includes('penthouse') || 
+                       (p.description && p.description.toLowerCase().includes('penthouse'));
+            }
+            return p.configurations && p.configurations.includes(c);
+        }));
     }
 
     if (filters.budget && filters.budget.length > 0) {
         list = list.filter(p => {
-            const price = p.priceRange;
-            if (filters.budget!.includes('50L') && (price.includes('4') || price.includes('50L') || price.includes('45L') || price.includes('52L'))) return true;
-            if (filters.budget!.includes('1Cr') && (price.includes('6') || price.includes('7') || price.includes('8') || price.includes('9') || price.includes('1Cr') || price.includes('1.2Cr') || price.includes('1.25Cr') || price.includes('1.35Cr'))) return true;
-            if (filters.budget!.includes('1.5Cr') && (price.includes('1.1') || price.includes('1.2') || price.includes('1.3') || price.includes('1.4') || price.includes('1.5Cr'))) return true;
-            if (filters.budget!.includes('2Cr+') && (price.includes('1.8Cr') || price.includes('1.95Cr') || price.includes('2.') || price.includes('3.') || price.includes('4.') || price.includes('5.'))) return true;
+            const price = (p.priceRange || p.exactPrice || '').toLowerCase();
+            for (const b of filters.budget!) {
+                const bLower = b.toLowerCase();
+                if (bLower === '< 50 l' || bLower === 'under-50' || bLower === '< 60 l' || bLower === '50l') {
+                    if (price.includes('3') || price.includes('4') || price.includes('50') || price.includes('45') || price.includes('52') || price.includes('lakh') || price.includes('lac')) return true;
+                }
+                if (bLower === '60 l - 1 cr' || bLower === '50-100' || bLower === '< 75 l' || bLower === '< 1 cr' || bLower === '1cr') {
+                    if (price.includes('6') || price.includes('7') || price.includes('8') || price.includes('9') || price.includes('1cr') || price.includes('1.') || price.includes('lakh') || price.includes('lac')) return true;
+                }
+                if (bLower === '1 cr - 2 cr' || bLower === '100-200' || bLower === '< 1.5 cr' || bLower === '< 2 cr' || bLower === '1.5cr') {
+                    if (price.includes('1.') || price.includes('2.0') || price.includes('2 cr') || price.includes('cr')) return true;
+                }
+                if (bLower === '> 2 cr' || bLower === 'above-200' || bLower === '2cr+' || bLower === 'luxury') {
+                    if (price.includes('2.') || price.includes('3.') || price.includes('4.') || price.includes('5.') || price.includes('6.') || price.includes('7.') || price.includes('8.') || price.includes('9.') || price.includes('10.')) return true;
+                }
+            }
             return false;
         });
     }
@@ -104,8 +162,8 @@ export const api = {
         },
 
         list: async (page = 1, filters: ProjectFilters = {}) => {
-            // When filtering by city, use direct client dataset filter for 100% accurate city counts
-            if (filters.city && filters.city !== 'All') {
+            // When filtering by city or specific builder, use direct client dataset filter for 100% accurate results
+            if ((filters.city && filters.city !== 'All') || filters.builderSlug || filters.builderName) {
                 return filterProjectsLocally(page, filters);
             }
 
