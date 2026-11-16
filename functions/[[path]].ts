@@ -8,9 +8,9 @@ export async function onRequest(context: { request: Request; env: { ASSETS: { fe
         return context.next();
     }
 
-    // Try fetching the exact static asset (e.g. sitemaps, static files)
+    // Try fetching the exact static asset or redirect
     const assetResponse = await env.ASSETS.fetch(request);
-    if (assetResponse.status !== 404) {
+    if (assetResponse.status === 200 || assetResponse.status === 304 || (assetResponse.status >= 300 && assetResponse.status < 400)) {
         return assetResponse;
     }
 
@@ -22,12 +22,13 @@ export async function onRequest(context: { request: Request; env: { ASSETS: { fe
     }
 
     // Path did not match a static file: serve index.html with HTTP 200 OK for SPA client routing
-    const indexUrl = new URL('/index.html', request.url);
+    const indexUrl = new URL('/', request.url);
     const indexResponse = await env.ASSETS.fetch(new Request(indexUrl.toString(), request));
 
     const headers = new Headers(indexResponse.headers);
     headers.set('content-type', 'text/html; charset=utf-8');
     headers.set('cache-control', 'public, max-age=0, must-revalidate');
+    headers.delete('location');
 
     return new Response(indexResponse.body, {
         status: 200,

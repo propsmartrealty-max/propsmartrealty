@@ -210,7 +210,7 @@ const ProjectDetails = () => {
         title: string;
         subtitle?: string;
         specs?: { label: string; value: string }[];
-        type: 'floor-plan' | 'master-layout';
+        type: 'floor-plan' | 'master-layout' | 'gallery';
     } | null>(null);
     const [zoomLevel, setZoomLevel] = useState<number>(1);
 
@@ -268,6 +268,27 @@ const ProjectDetails = () => {
         }
         return ['2 BHK', '3 BHK'];
     }, [project?.configurations]);
+
+    const safeGalleryImages: string[] = useMemo(() => {
+        const imgs = project?.images;
+        let list: string[] = [];
+        if (Array.isArray(imgs)) {
+            list = [...imgs];
+        } else if (typeof imgs === 'string') {
+            try {
+                const parsed = JSON.parse(imgs);
+                if (Array.isArray(parsed)) list = parsed;
+                else list = [imgs];
+            } catch {
+                list = [imgs];
+            }
+        }
+        const hero = project?.heroImage || project?.image;
+        if (hero && !list.includes(hero)) {
+            list = [hero, ...list];
+        }
+        return list.filter(u => typeof u === 'string' && u.trim().length > 0 && !u.includes('placeholder-property'));
+    }, [project?.images, project?.heroImage, project?.image]);
 
     // Resolve rich unit configurations:
     const resolvedConfigs: ProjectConfiguration[] = useMemo(() => {
@@ -709,6 +730,7 @@ const ProjectDetails = () => {
                         {[
                             { id: 'rera-passport', label: 'RERA Passport' },
                             { id: 'overview', label: 'Overview' },
+                            ...(safeGalleryImages.length > 0 ? [{ id: 'gallery', label: 'Photo Gallery' }] : []),
                             { id: 'construction', label: 'Timeline' },
                             ...(project.masterLayout ? [{ id: 'master-layout', label: 'Master Layout' }] : []),
                             { id: 'carpet-area', label: 'Carpet Area' },
@@ -831,6 +853,69 @@ const ProjectDetails = () => {
                             </div>
                         </div>
                     </section>
+
+                    {/* Authentic Architectural Photo Gallery */}
+                    {safeGalleryImages.length > 0 && (
+                        <section id="gallery" className="glass-panel rounded-3xl p-6 sm:p-8 border border-white/80 shadow-[0_8px_32px_rgba(14,165,233,0.06)] scroll-mt-40">
+                            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6">
+                                <div>
+                                    <span className="text-[11px] font-extrabold uppercase tracking-widest text-sky-700 bg-sky-50 border border-sky-200 px-3 py-1 rounded-full inline-block mb-2">
+                                        Authentic Project Imagery • Architectural Elevations
+                                    </span>
+                                    <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+                                        Project Gallery & Exterior Views
+                                    </h2>
+                                    <p className="text-xs sm:text-sm text-slate-600 mt-1">
+                                        High-resolution authentic elevation renders, landscaped courtyards, grand entrance lobbies, and modern amenities for {project.title}.
+                                    </p>
+                                </div>
+                                <span className="text-xs font-bold text-slate-500 bg-slate-100 px-3 py-1 rounded-full border border-slate-200 self-start sm:self-auto">
+                                    {safeGalleryImages.length} High-Res {safeGalleryImages.length === 1 ? 'Asset' : 'Assets'}
+                                </span>
+                            </div>
+
+                            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                                {safeGalleryImages.map((imgUrl, idx) => (
+                                    <div
+                                        key={idx}
+                                        onClick={() => {
+                                            setZoomLevel(1);
+                                            setLightboxImage({
+                                                url: imgUrl,
+                                                title: `${project.title} - View ${idx + 1}`,
+                                                subtitle: `${project.location}, ${project.city || 'Pune'} | MahaRERA: ${project.reraId}`,
+                                                specs: [
+                                                    { label: 'View Type', value: idx === 0 ? 'Primary Elevation' : 'Architectural Facade' },
+                                                    { label: 'Resolution', value: 'High Definition WebP' },
+                                                    { label: 'Developer', value: builder?.name || 'Direct Authorized Partner' }
+                                                ],
+                                                type: 'gallery'
+                                            });
+                                        }}
+                                        className="group relative rounded-2xl overflow-hidden bg-slate-900 aspect-[16/10] cursor-zoom-in border border-slate-200/60 shadow-sm hover:shadow-lg transition-all"
+                                    >
+                                        <img
+                                            src={getOptimizedImageUrl(imgUrl, 800)}
+                                            alt={`${project.title} gallery view ${idx + 1}`}
+                                            loading="lazy"
+                                            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                                            onError={(e) => {
+                                                e.currentTarget.src = '/images/placeholder-property.svg';
+                                            }}
+                                        />
+                                        <div className="absolute inset-0 bg-gradient-to-t from-slate-950/70 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-end justify-between p-3.5 text-white">
+                                            <span className="text-xs font-bold flex items-center gap-1.5">
+                                                <Maximize2 className="w-3.5 h-3.5 text-sky-400" /> Click to enlarge
+                                            </span>
+                                            <span className="text-[10px] font-mono bg-white/20 px-2 py-0.5 rounded backdrop-blur-sm">
+                                                Photo {idx + 1}
+                                            </span>
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        </section>
+                    )}
 
                     {/* Construction Milestone Stepper Infographic */}
                     <div id="construction" className="scroll-mt-40">
@@ -1739,7 +1824,7 @@ const ProjectDetails = () => {
                         <div className="min-w-0">
                             <div className="flex items-center gap-2 flex-wrap">
                                 <span className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-wider bg-brand-500/20 text-brand-400 border border-brand-500/30">
-                                    {lightboxImage.type === 'master-layout' ? 'Master Township Plan' : 'RERA Sanctioned Floor Plan'}
+                                    {lightboxImage.type === 'master-layout' ? 'Master Township Plan' : lightboxImage.type === 'gallery' ? 'Architectural Project Gallery' : 'RERA Sanctioned Floor Plan'}
                                 </span>
                                 <span className="text-xs text-slate-400 font-mono">MahaRERA: {project.reraId}</span>
                             </div>

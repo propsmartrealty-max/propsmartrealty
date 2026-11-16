@@ -8,7 +8,6 @@
 /home                      /                          301
 /home/                     /                          301
 /index.php                 /                          301
-/index.html                /                          301
 /about-us                  /about                     301
 /about-us/                 /about                     301
 /contact-us                /contact                   301
@@ -44,7 +43,4 @@
 # 3. Wildcard / Splat Fallbacks (Placed at bottom for maximum evaluation speed)
 /listings/*                /directory                 301
 /wp-content/*              /                          301
-
-# 4. SPA Fallback (Ensures direct navigation, deep links & browser reloads return HTTP 200 OK)
-/*                         /index.html                200
 

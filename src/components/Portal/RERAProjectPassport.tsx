@@ -85,6 +85,9 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
                             <img
                                 src={meta.qrCodeUrl}
                                 alt={`MahaRERA QR Code for ${title}`}
+                                onError={(e) => {
+                                    e.currentTarget.src = '/images/qr/propsmart-agent-qr.svg';
+                                }}
                                 className="w-full h-full object-contain"
                             />
                             
@@ -236,6 +239,9 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
                             <img
                                 src={meta.qrCodeUrl}
                                 alt={`Enlarged MahaRERA QR Code for ${title}`}
+                                onError={(e) => {
+                                    e.currentTarget.src = '/images/qr/propsmart-agent-qr.svg';
+                                }}
                                 className="w-full h-full object-contain"
                             />
                         </div>

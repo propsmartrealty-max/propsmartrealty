@@ -72887,8 +72887,7 @@ export const PROJECTS: Project[] = [
     "images": [
       "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb4h9-a0m0kn.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb586-36pu48.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb6e3-44guac.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb770-h67c0l.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb6e3-44guac.webp"
     ],
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
@@ -72978,11 +72977,12 @@ export const PROJECTS: Project[] = [
     "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "December 2026",
-    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb770-h67c0l.webp",
-    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb770-h67c0l.webp",
+    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb4h9-a0m0kn.webp",
+    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb4h9-a0m0kn.webp",
     "images": [
-      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb770-h67c0l.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb586-36pu48.webp"
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb4h9-a0m0kn.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb586-36pu48.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/c075f3f3-c6d1-4e1a-a6bf-00961c082c2b/gallery/mvjeb6e3-44guac.webp"
     ],
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
