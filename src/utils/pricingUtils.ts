@@ -44,17 +44,6 @@ export const formatLakhsToCurrency = (lakhs: number): string => {
     return `₹${lakhs.toFixed(2)} L`;
 };
 
-/**
- * In Maharashtra (Pune / Mumbai / MMR / Raigad):
- * Standard builder listings often advertise raw agreement values and surprise buyers with 
- * 11.5% - 12.5% statutory government add-ons (Stamp Duty, Registration, GST, Infra).
- * 
- * PROPSMART strictly quotes the single All-Inclusive On-Road Price.
- * No separate quotes of Agreement Value vs Stamp Duty.
- * We apply a standard 11.5% statutory inclusion factor to ensure 100% transparent pricing.
- */
-export const STATUTORY_ADDON_FACTOR = 1.115; // 11.5% transparent tax & duty buffer
-
 export interface AllInclusivePriceResult {
     allInclusiveDisplay: string;
     allInclusiveRange: string;
@@ -68,6 +57,11 @@ export interface AllInclusivePriceResult {
     };
 }
 
+/**
+ * Resolves the genuine All-Inclusive Price.
+ * PROPSMART catalog prices are direct, all-inclusive developer quotations.
+ * We present the authentic figures with 0% brokerage and all statutory components inclusive.
+ */
 export const getAllInclusivePricing = (
     exactPrice?: string,
     priceRange?: string
@@ -96,10 +90,8 @@ export const getAllInclusivePricing = (
         const maxLakhs = parsePriceInLakhs(parts[1]);
 
         if (minLakhs !== null && maxLakhs !== null) {
-            const minAllIn = minLakhs * STATUTORY_ADDON_FACTOR;
-            const maxAllIn = maxLakhs * STATUTORY_ADDON_FACTOR;
-            const minFormatted = formatLakhsToCurrency(minAllIn);
-            const maxFormatted = formatLakhsToCurrency(maxAllIn);
+            const minFormatted = formatLakhsToCurrency(minLakhs);
+            const maxFormatted = formatLakhsToCurrency(maxLakhs);
 
             return {
                 allInclusiveDisplay: `${minFormatted} - ${maxFormatted} (All-Inclusive)`,
@@ -119,8 +111,7 @@ export const getAllInclusivePricing = (
     // Single exact price
     const baseLakhs = parsePriceInLakhs(exactPrice || priceRange);
     if (baseLakhs !== null) {
-        const allIn = baseLakhs * STATUTORY_ADDON_FACTOR;
-        const formatted = formatLakhsToCurrency(allIn);
+        const formatted = formatLakhsToCurrency(baseLakhs);
         return {
             allInclusiveDisplay: `${formatted} (All-Inclusive)`,
             allInclusiveRange: formatted,

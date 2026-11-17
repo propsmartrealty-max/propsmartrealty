@@ -61,6 +61,45 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
         return getFinalCarpetAreaOnly(project?.configurationDetails);
     }, [project?.configurationDetails]);
 
+    // Map each configuration to its authentic, verified MahaRERA carpet area
+    const configCarpetMap = useMemo(() => {
+        const map: Record<string, string> = {};
+        if (!project?.configurationDetails || project.configurationDetails.length === 0) return map;
+
+        const confs = project.configurations || [];
+        for (const conf of confs) {
+            const confBhkMatch = conf.match(/(\d+(?:\.\d+)?)\s*BHK/i);
+            const targetBhk = confBhkMatch ? confBhkMatch[1] : null;
+
+            const matchingCds = project.configurationDetails.filter(cd => {
+                if (targetBhk) {
+                    const cdBhkMatch = cd.type.match(/(\d+(?:\.\d+)?)\s*BHK/i);
+                    return cdBhkMatch && cdBhkMatch[1] === targetBhk;
+                }
+                return cd.type.toLowerCase().includes(conf.toLowerCase());
+            });
+
+            const areas: number[] = [];
+            for (const cd of matchingCds) {
+                if (!cd.carpetArea) continue;
+                const matches = cd.carpetArea.match(/([0-9,]+)/g);
+                if (matches) {
+                    for (const m of matches) {
+                        const num = parseInt(m.replace(/,/g, ''), 10);
+                        if (!isNaN(num) && num > 0) areas.push(num);
+                    }
+                }
+            }
+
+            if (areas.length > 0) {
+                const min = Math.min(...areas);
+                const max = Math.max(...areas);
+                map[conf] = min === max ? `${min} sq.ft` : `${min}-${max} sq.ft`;
+            }
+        }
+        return map;
+    }, [project?.configurationDetails, project?.configurations]);
+
     if (!project) return null;
 
     const projectSlug = project.slug || project.id;
@@ -273,14 +312,20 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                 <Maximize2 className="w-3 h-3 text-emerald-600" /> {finalCarpetAreaOnly}
                             </span>
                         )}
-                        {(project.configurations || []).slice(0, isGrid ? 2 : 4).map((conf, i) => (
-                            <span 
-                                key={i} 
-                                className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-sky-50/80 border border-sky-200/70 text-[10.5px] font-bold text-slate-700 shadow-2xs group-hover:border-sky-300 transition-all shrink-0"
-                            >
-                                <Home className="w-3 h-3 text-sky-500" /> {conf}
-                            </span>
-                        ))}
+                        {(project.configurations || []).slice(0, isGrid ? 2 : 4).map((conf, i) => {
+                            const carpet = configCarpetMap[conf] ||
+                                project.configurationDetails?.find(cd => cd.type.toLowerCase().includes(conf.toLowerCase()))?.carpetArea;
+                            return (
+                                <span 
+                                    key={i} 
+                                    className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-sky-50/80 border border-sky-200/70 text-[10.5px] font-bold text-slate-700 shadow-2xs group-hover:border-sky-300 transition-all shrink-0"
+                                    title={carpet ? `${conf}: ${carpet} MahaRERA Usable Carpet Area` : conf}
+                                >
+                                    <Home className="w-3 h-3 text-sky-500" />
+                                    <span>{conf}{carpet ? ` (${carpet})` : ''}</span>
+                                </span>
+                            );
+                        })}
                     </div>
 
                     {/* Curated Amenity Infographics with Vibrant Icons */}

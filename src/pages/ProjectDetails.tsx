@@ -228,14 +228,7 @@ const ProjectDetails = () => {
     };
 
     const calculateAllInclusive = (conf: ProjectConfiguration) => {
-        const base = Number(conf.basePrice) || 0;
-        const infra = Number(conf.infraCharges) || 0;
-        const clubhouse = Number(conf.clubhouseCharges) || 0;
-        const agreementValue = base + infra + clubhouse;
-        const stampDuty = agreementValue * ((conf.stampDutyRate || 7) / 100);
-        const gst = agreementValue * ((conf.gstRate || 5) / 100);
-        const registration = Number(conf.registrationCharges) || 30000;
-        return agreementValue + stampDuty + gst + registration;
+        return Number(conf.basePrice) || 0;
     };
 
     // Safely normalized arrays (protects against JSON-stringified SQLite columns from D1)
@@ -1093,6 +1086,9 @@ const ProjectDetails = () => {
                     <div id="carpet-area" className="scroll-mt-40">
                         <CarpetAreaInfographic
                             configurations={Array.isArray(project.configurations) ? project.configurations : []}
+                            configurationDetails={project.configurationDetails}
+                            projectTitle={project.title}
+                            reraId={project.reraId}
                         />
                     </div>
 

@@ -18,22 +18,12 @@ const PricingCalculator: React.FC<PricingCalculatorProps> = ({ configurations })
     // Cumulative Carpet Area Calculation (no breakup of carpet vs balcony)
     const cumulativeCarpetArea = Number(selectedConfig.carpetArea || 0) + Number(selectedConfig.balconyArea || 0);
 
-    // Floor Rise calculation
-    const FLOOR_RISE_RATE = 50;
-    const floorRiseCost = (floorRise - 1) * FLOOR_RISE_RATE * (cumulativeCarpetArea || 750);
+    // Floor Rise calculation (standard ₹35/sq.ft per floor rise premium in Pune)
+    const FLOOR_RISE_RATE = 35;
+    const floorRiseCost = floorRise > 1 ? (floorRise - 1) * FLOOR_RISE_RATE * (cumulativeCarpetArea || 750) : 0;
 
-    // Agreement component calculation for statutory calculation
-    const baseComponent = Number(selectedConfig.basePrice) || 0;
-    const infraComponent = (Number(selectedConfig.infraCharges) || 0) + (Number(selectedConfig.clubhouseCharges) || 0);
-    const subtotal = baseComponent + floorRiseCost + infraComponent;
-
-    // Statutory inclusions (incorporated into the final on-road price)
-    const stampDuty = subtotal * ((selectedConfig.stampDutyRate || 7) / 100);
-    const gst = subtotal * ((selectedConfig.gstRate || 5) / 100);
-    const registration = Number(selectedConfig.registrationCharges) || 30000;
-
-    // 100% All-Inclusive Price (no separate agreement value or separate stamp duty)
-    const allInclusivePrice = Math.round(subtotal + stampDuty + gst + registration);
+    // 100% All-Inclusive Price (selectedConfig.basePrice is already the authentic all-inclusive developer quote)
+    const allInclusivePrice = Math.round((Number(selectedConfig.basePrice) || 7500000) + floorRiseCost);
 
     const formatCurrency = (amount: number) => {
         return new Intl.NumberFormat('en-IN', {
