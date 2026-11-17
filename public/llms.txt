@@ -92,7 +92,7 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 - **[Krisala Aventis](https://propsmart.co.in/project/krisala-aventis-tathawade)**: Tathawade, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹77.92 L - ₹1.33 Cr | MahaRERA: `P52100010109`
 - **[Avani Amara](https://propsmart.co.in/project/avani-amara)**: Mundhwa, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹75.00 L - ₹1.30 Cr | MahaRERA: `P52100061370`
 - **[Godrej Skyline](https://propsmart.co.in/project/godrej-skyline)**: Mundhwa, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹3.49 Cr - ₹6.09 Cr | MahaRERA: `P52100030007`
-- **[Supreme Towers](https://propsmart.co.in/project/supreme-towers)**: Mundhwa, Pune | Typologies: 3 BHK, 4 BHK, 5 BHK, 6 BHK | Price: ₹3.30 Cr - ₹11.50 Cr | MahaRERA: `P52100056095`
+- **[Supreme Towers](https://propsmart.co.in/project/supreme-towers)**: Mundhwa, Pune | Typologies: 3 BHK, 4 BHK, 5 BHK, 6 BHK, Duplex Sky Villa | Price: ₹3.30 Cr - ₹11.50 Cr | MahaRERA: `P52100056095`
 - **[Shreenidhi](https://propsmart.co.in/project/shreenidhi)**: Baner, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹99.00 L - ₹1.37 Cr | MahaRERA: `P52100060378`
 - **[The Reserve](https://propsmart.co.in/project/the-reserve-mundhwa)**: Mundhwa, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.35 Cr - ₹5.35 Cr | MahaRERA: `P52100049211`
 - **[Zenone](https://propsmart.co.in/project/zenone)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK, 5 BHK | Price: ₹1.03 Cr - ₹3.56 Cr | MahaRERA: `P52100053350`

@@ -52,6 +52,7 @@ export interface Builder {
   trustScore?: number;
   isVerified?: boolean;
   mobile?: string;
+  website?: string;
 }
 
 export interface Project {
@@ -84,6 +85,7 @@ export interface Project {
   exactPrice?: string; // Kept as string to match existing usage, or number? The error said number but file had string. Let's check usage.
   priceType?: 'L' | 'Cr' | 'K';
   reraId?: string;
+  website?: string;
   seoKeywords?: string[]; // High-ranking keywords for Google SERP
   metaDescription?: string; // Optimized meta description for CTR
   description: string;

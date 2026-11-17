@@ -14,7 +14,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 57,
     "count": 57,
     "image": "/images/localities/hinjewadi.svg",
-    "price": "\u20b97.8k/sq.ft",
+    "price": "₹7.8k/sq.ft",
     "description": "Prime Hinjewadi corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -30,7 +30,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 39,
     "count": 39,
     "image": "/images/localities/baner.svg",
-    "price": "\u20b910.5k/sq.ft",
+    "price": "₹10.5k/sq.ft",
     "description": "Prime Baner corridor in Pune featuring verified residential towers, high rental yields, and 9.2% annual capital appreciation."
   },
   {
@@ -46,7 +46,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 31,
     "count": 31,
     "image": "/images/localities/balewadi.svg",
-    "price": "\u20b99.8k/sq.ft",
+    "price": "₹9.8k/sq.ft",
     "description": "Prime Balewadi corridor in Pune featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
   },
   {
@@ -62,7 +62,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 64,
     "count": 64,
     "image": "/images/localities/wakad.svg",
-    "price": "\u20b98.2k/sq.ft",
+    "price": "₹8.2k/sq.ft",
     "description": "Prime Wakad corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -78,7 +78,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 43,
     "count": 43,
     "image": "/images/localities/punawale.svg",
-    "price": "\u20b96.9k/sq.ft",
+    "price": "₹6.9k/sq.ft",
     "description": "Prime Punawale corridor in Pune featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -94,7 +94,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 51,
     "count": 51,
     "image": "/images/localities/tathawade.svg",
-    "price": "\u20b97.5k/sq.ft",
+    "price": "₹7.5k/sq.ft",
     "description": "Prime Tathawade corridor in Pune featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -110,7 +110,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/aundh.svg",
-    "price": "\u20b912.8k/sq.ft",
+    "price": "₹12.8k/sq.ft",
     "description": "Prime Aundh corridor in Pune featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
   },
   {
@@ -126,7 +126,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/pashan.svg",
-    "price": "\u20b99.4k/sq.ft",
+    "price": "₹9.4k/sq.ft",
     "description": "Prime Pashan corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -142,7 +142,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 26,
     "count": 26,
     "image": "/images/localities/bavdhan.svg",
-    "price": "\u20b98.9k/sq.ft",
+    "price": "₹8.9k/sq.ft",
     "description": "Prime Bavdhan corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -158,7 +158,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 15,
     "count": 15,
     "image": "/images/localities/mahalunge.svg",
-    "price": "\u20b97.2k/sq.ft",
+    "price": "₹7.2k/sq.ft",
     "description": "Prime Mahalunge corridor in Pune featuring verified residential towers, high rental yields, and 10.1% annual capital appreciation."
   },
   {
@@ -174,7 +174,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/bhugaon.svg",
-    "price": "\u20b97.6k/sq.ft",
+    "price": "₹7.6k/sq.ft",
     "description": "Prime Bhugaon corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -190,7 +190,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 48,
     "count": 48,
     "image": "/images/localities/ravet.svg",
-    "price": "\u20b97.3k/sq.ft",
+    "price": "₹7.3k/sq.ft",
     "description": "Prime Ravet corridor in Pune featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -206,7 +206,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 9,
     "count": 9,
     "image": "/images/localities/mamurdi.svg",
-    "price": "\u20b96.8k/sq.ft",
+    "price": "₹6.8k/sq.ft",
     "description": "Prime Mamurdi corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -222,7 +222,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 27,
     "count": 27,
     "image": "/images/localities/kiwale.svg",
-    "price": "\u20b96.5k/sq.ft",
+    "price": "₹6.5k/sq.ft",
     "description": "Prime Kiwale corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -238,7 +238,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 9,
     "count": 9,
     "image": "/images/localities/pimple-nilakh.svg",
-    "price": "\u20b99.2k/sq.ft",
+    "price": "₹9.2k/sq.ft",
     "description": "Prime Pimple Nilakh corridor in Pune featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -254,7 +254,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 15,
     "count": 15,
     "image": "/images/localities/pimple-saudagar.svg",
-    "price": "\u20b98.4k/sq.ft",
+    "price": "₹8.4k/sq.ft",
     "description": "Prime Pimple Saudagar corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -270,7 +270,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/sus.svg",
-    "price": "\u20b97.1k/sq.ft",
+    "price": "₹7.1k/sq.ft",
     "description": "Prime Sus corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -286,7 +286,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/pirangut.svg",
-    "price": "\u20b95.4k/sq.ft",
+    "price": "₹5.4k/sq.ft",
     "description": "Prime Pirangut corridor in Pune featuring verified residential towers, high rental yields, and 7.2% annual capital appreciation."
   },
   {
@@ -302,7 +302,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.8k/sq.ft",
+    "price": "₹6.8k/sq.ft",
     "description": "Prime Lavale corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -318,7 +318,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.5k/sq.ft",
+    "price": "₹6.5k/sq.ft",
     "description": "Prime Nande corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -334,7 +334,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.9k/sq.ft",
+    "price": "₹6.9k/sq.ft",
     "description": "Prime Maan corridor in Pune featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -350,7 +350,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.4k/sq.ft",
+    "price": "₹6.4k/sq.ft",
     "description": "Prime Jambe corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -366,7 +366,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.2k/sq.ft",
+    "price": "₹6.2k/sq.ft",
     "description": "Prime Sangavade corridor in Pune featuring verified residential towers, high rental yields, and 7.4% annual capital appreciation."
   },
   {
@@ -382,7 +382,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b95.9k/sq.ft",
+    "price": "₹5.9k/sq.ft",
     "description": "Prime Somatane corridor in Pune featuring verified residential towers, high rental yields, and 7.3% annual capital appreciation."
   },
   {
@@ -398,7 +398,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 31,
     "count": 31,
     "image": "/images/localities/kharadi.svg",
-    "price": "\u20b99.6k/sq.ft",
+    "price": "₹9.6k/sq.ft",
     "description": "Prime Kharadi corridor in Pune featuring verified residential towers, high rental yields, and 9.5% annual capital appreciation."
   },
   {
@@ -414,7 +414,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/viman-nagar.svg",
-    "price": "\u20b911.8k/sq.ft",
+    "price": "₹11.8k/sq.ft",
     "description": "Prime Viman Nagar corridor in Pune featuring verified residential towers, high rental yields, and 8.7% annual capital appreciation."
   },
   {
@@ -430,7 +430,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/kalyani-nagar.svg",
-    "price": "\u20b914.2k/sq.ft",
+    "price": "₹14.2k/sq.ft",
     "description": "Prime Kalyani Nagar corridor in Pune featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -446,7 +446,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/koregaon-park.svg",
-    "price": "\u20b915.8k/sq.ft",
+    "price": "₹15.8k/sq.ft",
     "description": "Prime Koregaon Park corridor in Pune featuring verified residential towers, high rental yields, and 8.6% annual capital appreciation."
   },
   {
@@ -462,7 +462,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/magarpatta-city.svg",
-    "price": "\u20b99.4k/sq.ft",
+    "price": "₹9.4k/sq.ft",
     "description": "Prime Magarpatta City corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -478,7 +478,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 7,
     "count": 7,
     "image": "/images/localities/hadapsar.svg",
-    "price": "\u20b98.4k/sq.ft",
+    "price": "₹8.4k/sq.ft",
     "description": "Prime Hadapsar corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -494,7 +494,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 8,
     "count": 8,
     "image": "/images/localities/wagholi.svg",
-    "price": "\u20b96.4k/sq.ft",
+    "price": "₹6.4k/sq.ft",
     "description": "Prime Wagholi corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -510,7 +510,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/keshavnagar.svg",
-    "price": "\u20b97.9k/sq.ft",
+    "price": "₹7.9k/sq.ft",
     "description": "Prime Keshav Nagar corridor in Pune featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -526,7 +526,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 11,
     "count": 11,
     "image": "/images/localities/mundhwa.svg",
-    "price": "\u20b99.1k/sq.ft",
+    "price": "₹9.1k/sq.ft",
     "description": "Prime Mundhwa corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -542,7 +542,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/dhanori.svg",
-    "price": "\u20b96.8k/sq.ft",
+    "price": "₹6.8k/sq.ft",
     "description": "Prime Dhanori corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -558,7 +558,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/lohegaon.svg",
-    "price": "\u20b96.1k/sq.ft",
+    "price": "₹6.1k/sq.ft",
     "description": "Prime Lohegaon corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -574,7 +574,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/wadgaon-sheri.svg",
-    "price": "\u20b98.7k/sq.ft",
+    "price": "₹8.7k/sq.ft",
     "description": "Prime Wadgaon Sheri corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -590,7 +590,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/shewalewadi.svg",
-    "price": "\u20b96.7k/sq.ft",
+    "price": "₹6.7k/sq.ft",
     "description": "Prime Shewalewadi corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -606,7 +606,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/manjri.svg",
-    "price": "\u20b96.3k/sq.ft",
+    "price": "₹6.3k/sq.ft",
     "description": "Prime Manjri corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -622,7 +622,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.4k/sq.ft",
+    "price": "₹6.4k/sq.ft",
     "description": "Prime Manjari Khurd corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -638,7 +638,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b910.2k/sq.ft",
+    "price": "₹10.2k/sq.ft",
     "description": "Prime Yerwada corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -654,7 +654,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b99.8k/sq.ft",
+    "price": "₹9.8k/sq.ft",
     "description": "Prime Ghorpadi corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -670,7 +670,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.2k/sq.ft",
+    "price": "₹6.2k/sq.ft",
     "description": "Prime Phursungi corridor in Pune featuring verified residential towers, high rental yields, and 7.4% annual capital appreciation."
   },
   {
@@ -686,7 +686,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 7,
     "count": 7,
     "image": "/images/localities/kothrud.svg",
-    "price": "\u20b912.8k/sq.ft",
+    "price": "₹12.8k/sq.ft",
     "description": "Prime Kothrud corridor in Pune featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
   },
   {
@@ -702,7 +702,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/senapati-bapat-road.svg",
-    "price": "\u20b916.5k/sq.ft",
+    "price": "₹16.5k/sq.ft",
     "description": "Prime Senapati Bapat Road corridor in Pune featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -718,7 +718,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b917.5k/sq.ft",
+    "price": "₹17.5k/sq.ft",
     "description": "Prime Deccan Gymkhana corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -734,7 +734,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/shivaji-nagar.svg",
-    "price": "\u20b916.5k/sq.ft",
+    "price": "₹16.5k/sq.ft",
     "description": "Prime Shivaji Nagar corridor in Pune featuring verified residential towers, high rental yields, and 8.7% annual capital appreciation."
   },
   {
@@ -750,7 +750,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b915.5k/sq.ft",
+    "price": "₹15.5k/sq.ft",
     "description": "Prime Erandwane corridor in Pune featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -766,7 +766,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b911.5k/sq.ft",
+    "price": "₹11.5k/sq.ft",
     "description": "Prime Karve Nagar corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -782,7 +782,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b914.0k/sq.ft",
+    "price": "₹14.0k/sq.ft",
     "description": "Prime Karve Road corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -798,7 +798,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b914.5k/sq.ft",
+    "price": "₹14.5k/sq.ft",
     "description": "Prime Sadashiv Peth corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -814,7 +814,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b912.8k/sq.ft",
+    "price": "₹12.8k/sq.ft",
     "description": "Prime Parvati corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -830,7 +830,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/camp.svg",
-    "price": "\u20b913.5k/sq.ft",
+    "price": "₹13.5k/sq.ft",
     "description": "Prime Camp corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -846,7 +846,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b914.8k/sq.ft",
+    "price": "₹14.8k/sq.ft",
     "description": "Prime Sopan Baug corridor in Pune featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -862,7 +862,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b916.2k/sq.ft",
+    "price": "₹16.2k/sq.ft",
     "description": "Prime Bund Garden Road corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -878,7 +878,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/nibm.svg",
-    "price": "\u20b98.9k/sq.ft",
+    "price": "₹8.9k/sq.ft",
     "description": "Prime NIBM Road corridor in Pune featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -894,7 +894,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/mohammed-wadi.svg",
-    "price": "\u20b97.4k/sq.ft",
+    "price": "₹7.4k/sq.ft",
     "description": "Prime Mohammed Wadi corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -910,7 +910,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/undri.svg",
-    "price": "\u20b96.6k/sq.ft",
+    "price": "₹6.6k/sq.ft",
     "description": "Prime Undri corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -926,7 +926,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/kondhwa.svg",
-    "price": "\u20b97.1k/sq.ft",
+    "price": "₹7.1k/sq.ft",
     "description": "Prime Kondhwa corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -942,7 +942,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/wanowrie.svg",
-    "price": "\u20b99.3k/sq.ft",
+    "price": "₹9.3k/sq.ft",
     "description": "Prime Wanowrie corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -958,7 +958,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/katraj.svg",
-    "price": "\u20b96.9k/sq.ft",
+    "price": "₹6.9k/sq.ft",
     "description": "Prime Katraj corridor in Pune featuring verified residential towers, high rental yields, and 7.4% annual capital appreciation."
   },
   {
@@ -974,7 +974,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.4k/sq.ft",
+    "price": "₹6.4k/sq.ft",
     "description": "Prime Dhayari corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -990,7 +990,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/sinhagad-road.svg",
-    "price": "\u20b97.8k/sq.ft",
+    "price": "₹7.8k/sq.ft",
     "description": "Prime Sinhagad Road corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1006,7 +1006,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/bibwewadi.svg",
-    "price": "\u20b910.5k/sq.ft",
+    "price": "₹10.5k/sq.ft",
     "description": "Prime Bibwewadi corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -1022,7 +1022,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.5k/sq.ft",
+    "price": "₹6.5k/sq.ft",
     "description": "Prime Ambegaon Budruk corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -1038,7 +1038,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b98.2k/sq.ft",
+    "price": "₹8.2k/sq.ft",
     "description": "Prime Anand Nagar corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -1054,7 +1054,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b98.4k/sq.ft",
+    "price": "₹8.4k/sq.ft",
     "description": "Prime Warje corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -1070,7 +1070,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b95.8k/sq.ft",
+    "price": "₹5.8k/sq.ft",
     "description": "Prime Khed Shivapur corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -1086,7 +1086,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/pimpri-chinchwad.svg",
-    "price": "\u20b97.8k/sq.ft",
+    "price": "₹7.8k/sq.ft",
     "description": "Prime Pimpri Chinchwad corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1102,7 +1102,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 15,
     "count": 15,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b98.2k/sq.ft",
+    "price": "₹8.2k/sq.ft",
     "description": "Prime Pimpri corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -1118,7 +1118,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 8,
     "count": 8,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b98.4k/sq.ft",
+    "price": "₹8.4k/sq.ft",
     "description": "Prime Chinchwad corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -1134,7 +1134,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 12,
     "count": 12,
     "image": "/images/localities/moshi.svg",
-    "price": "\u20b96.2k/sq.ft",
+    "price": "₹6.2k/sq.ft",
     "description": "Prime Moshi corridor in Pune featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -1150,7 +1150,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 9,
     "count": 9,
     "image": "/images/localities/charholi.svg",
-    "price": "\u20b96.0k/sq.ft",
+    "price": "₹6.0k/sq.ft",
     "description": "Prime Charholi corridor in Pune featuring verified residential towers, high rental yields, and 8.6% annual capital appreciation."
   },
   {
@@ -1166,7 +1166,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.2k/sq.ft",
+    "price": "₹6.2k/sq.ft",
     "description": "Prime Charholi Budruk corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -1182,7 +1182,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/chakan.svg",
-    "price": "\u20b95.2k/sq.ft",
+    "price": "₹5.2k/sq.ft",
     "description": "Prime Chakan corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -1198,7 +1198,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/bhosari.svg",
-    "price": "\u20b96.5k/sq.ft",
+    "price": "₹6.5k/sq.ft",
     "description": "Prime Bhosari corridor in Pune featuring verified residential towers, high rental yields, and 7.2% annual capital appreciation."
   },
   {
@@ -1214,7 +1214,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/talegaon-dabhade.svg",
-    "price": "\u20b94.9k/sq.ft",
+    "price": "₹4.9k/sq.ft",
     "description": "Prime Talegaon Dabhade corridor in Pune featuring verified residential towers, high rental yields, and 7.1% annual capital appreciation."
   },
   {
@@ -1230,7 +1230,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 15,
     "count": 15,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b97.6k/sq.ft",
+    "price": "₹7.6k/sq.ft",
     "description": "Prime Akurdi corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -1246,7 +1246,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 7,
     "count": 7,
     "image": "/images/localities/nigdi.svg",
-    "price": "\u20b97.9k/sq.ft",
+    "price": "₹7.9k/sq.ft",
     "description": "Prime Nigdi corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -1262,7 +1262,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b97.5k/sq.ft",
+    "price": "₹7.5k/sq.ft",
     "description": "Prime Thergaon corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -1278,7 +1278,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 8,
     "count": 8,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b97.9k/sq.ft",
+    "price": "₹7.9k/sq.ft",
     "description": "Prime Rahatani corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -1294,7 +1294,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b98.1k/sq.ft",
+    "price": "₹8.1k/sq.ft",
     "description": "Prime Pimple Gurav corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -1310,7 +1310,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 6,
     "count": 6,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b97.1k/sq.ft",
+    "price": "₹7.1k/sq.ft",
     "description": "Prime Walhekarwadi corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -1326,7 +1326,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b95.8k/sq.ft",
+    "price": "₹5.8k/sq.ft",
     "description": "Prime Chikhali corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -1342,7 +1342,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b95.8k/sq.ft",
+    "price": "₹5.8k/sq.ft",
     "description": "Prime Dudulgaon corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1358,7 +1358,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b95.7k/sq.ft",
+    "price": "₹5.7k/sq.ft",
     "description": "Prime Darumbre corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -1374,7 +1374,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b955.0k/sq.ft",
+    "price": "₹55.0k/sq.ft",
     "description": "Prime Bandra West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
   },
   {
@@ -1390,7 +1390,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b944.0k/sq.ft",
+    "price": "₹44.0k/sq.ft",
     "description": "Prime Bandra East corridor in Mumbai featuring verified residential towers, high rental yields, and 9.4% annual capital appreciation."
   },
   {
@@ -1406,7 +1406,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b934.0k/sq.ft",
+    "price": "₹34.0k/sq.ft",
     "description": "Prime Andheri West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.6% annual capital appreciation."
   },
   {
@@ -1422,7 +1422,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b932.0k/sq.ft",
+    "price": "₹32.0k/sq.ft",
     "description": "Prime Versova corridor in Mumbai featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -1438,7 +1438,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b928.5k/sq.ft",
+    "price": "₹28.5k/sq.ft",
     "description": "Prime Goregaon West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -1454,7 +1454,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b927.5k/sq.ft",
+    "price": "₹27.5k/sq.ft",
     "description": "Prime Goregaon East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -1470,7 +1470,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b925.0k/sq.ft",
+    "price": "₹25.0k/sq.ft",
     "description": "Prime Borivali East corridor in Mumbai featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -1486,7 +1486,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b924.0k/sq.ft",
+    "price": "₹24.0k/sq.ft",
     "description": "Prime Kandivali East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1502,7 +1502,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b923.5k/sq.ft",
+    "price": "₹23.5k/sq.ft",
     "description": "Prime Kandivali West corridor in Mumbai featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -1518,7 +1518,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b942.0k/sq.ft",
+    "price": "₹42.0k/sq.ft",
     "description": "Prime Santacruz West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -1534,7 +1534,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b926.0k/sq.ft",
+    "price": "₹26.0k/sq.ft",
     "description": "Prime Santacruz East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1550,7 +1550,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.5k/sq.ft",
+    "price": "₹6.5k/sq.ft",
     "description": "Prime Virar West corridor in Mumbai featuring verified residential towers, high rental yields, and 7.4% annual capital appreciation."
   },
   {
@@ -1566,7 +1566,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 7,
     "count": 7,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b927.0k/sq.ft",
+    "price": "₹27.0k/sq.ft",
     "description": "Prime Powai corridor in Mumbai featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
   },
   {
@@ -1582,7 +1582,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b924.5k/sq.ft",
+    "price": "₹24.5k/sq.ft",
     "description": "Prime Chandivali corridor in Mumbai featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -1598,7 +1598,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b921.0k/sq.ft",
+    "price": "₹21.0k/sq.ft",
     "description": "Prime Kanjurmarg corridor in Mumbai featuring verified residential towers, high rental yields, and 9.1% annual capital appreciation."
   },
   {
@@ -1614,7 +1614,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b923.5k/sq.ft",
+    "price": "₹23.5k/sq.ft",
     "description": "Prime Mulund West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -1630,7 +1630,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b925.5k/sq.ft",
+    "price": "₹25.5k/sq.ft",
     "description": "Prime Vikhroli East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -1646,7 +1646,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b926.5k/sq.ft",
+    "price": "₹26.5k/sq.ft",
     "description": "Prime Chembur corridor in Mumbai featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -1662,7 +1662,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b919.5k/sq.ft",
+    "price": "₹19.5k/sq.ft",
     "description": "Prime Bhandup West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1678,7 +1678,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b952.0k/sq.ft",
+    "price": "₹52.0k/sq.ft",
     "description": "Prime Worli corridor in Mumbai featuring verified residential towers, high rental yields, and 9.6% annual capital appreciation."
   },
   {
@@ -1694,7 +1694,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b948.0k/sq.ft",
+    "price": "₹48.0k/sq.ft",
     "description": "Prime Mahalaxmi corridor in Mumbai featuring verified residential towers, high rental yields, and 9.2% annual capital appreciation."
   },
   {
@@ -1710,7 +1710,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b926.0k/sq.ft",
+    "price": "₹26.0k/sq.ft",
     "description": "Prime Wadala corridor in Mumbai featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
   },
   {
@@ -1726,7 +1726,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b936.0k/sq.ft",
+    "price": "₹36.0k/sq.ft",
     "description": "Prime Sewri corridor in Mumbai featuring verified residential towers, high rental yields, and 9.5% annual capital appreciation."
   },
   {
@@ -1738,11 +1738,11 @@ export const LOCATIONS: Locality[] = [
     "isFeatured": true,
     "avgPriceSqft": 75000,
     "appreciation_rate": 7.5,
-    "tagline": "Queen\u2019s Necklace & World-Renowned Art Deco Promenade",
+    "tagline": "Queen’s Necklace & World-Renowned Art Deco Promenade",
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b975.0k/sq.ft",
+    "price": "₹75.0k/sq.ft",
     "description": "Prime Marine Drive corridor in Mumbai featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -1754,11 +1754,11 @@ export const LOCATIONS: Locality[] = [
     "isFeatured": false,
     "avgPriceSqft": 95000,
     "appreciation_rate": 7.2,
-    "tagline": "Billionaires\u2019 Row & Consular Residential Enclaves",
+    "tagline": "Billionaires’ Row & Consular Residential Enclaves",
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b995.0k/sq.ft",
+    "price": "₹95.0k/sq.ft",
     "description": "Prime Altamount Road corridor in Mumbai featuring verified residential towers, high rental yields, and 7.2% annual capital appreciation."
   },
   {
@@ -1774,7 +1774,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b914.5k/sq.ft",
+    "price": "₹14.5k/sq.ft",
     "description": "Prime Kolshet Road corridor in Thane featuring verified residential towers, high rental yields, and 8.7% annual capital appreciation."
   },
   {
@@ -1790,7 +1790,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b920.5k/sq.ft",
+    "price": "₹20.5k/sq.ft",
     "description": "Prime Pokhran Road corridor in Thane featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
   },
   {
@@ -1806,7 +1806,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b912.8k/sq.ft",
+    "price": "₹12.8k/sq.ft",
     "description": "Prime Ghodbunder Road corridor in Thane featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -1822,7 +1822,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b916.2k/sq.ft",
+    "price": "₹16.2k/sq.ft",
     "description": "Prime Majiwada corridor in Thane featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -1838,7 +1838,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b913.2k/sq.ft",
+    "price": "₹13.2k/sq.ft",
     "description": "Prime Balkum corridor in Thane featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -1854,7 +1854,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b915.5k/sq.ft",
+    "price": "₹15.5k/sq.ft",
     "description": "Prime Manpada corridor in Thane featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -1870,7 +1870,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b917.5k/sq.ft",
+    "price": "₹17.5k/sq.ft",
     "description": "Prime Hiranandani Estate corridor in Thane featuring verified residential towers, high rental yields, and 8.6% annual capital appreciation."
   },
   {
@@ -1886,7 +1886,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b916.5k/sq.ft",
+    "price": "₹16.5k/sq.ft",
     "description": "Prime Thane West corridor in Thane featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -1902,7 +1902,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b97.5k/sq.ft",
+    "price": "₹7.5k/sq.ft",
     "description": "Prime Upper Thane corridor in Thane featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
   },
   {
@@ -1918,7 +1918,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.8k/sq.ft",
+    "price": "₹6.8k/sq.ft",
     "description": "Prime Kalyan-Shilphata corridor in Thane featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
   },
   {
@@ -1934,7 +1934,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b98.2k/sq.ft",
+    "price": "₹8.2k/sq.ft",
     "description": "Prime Panvel corridor in Navi Mumbai featuring verified residential towers, high rental yields, and 9.4% annual capital appreciation."
   },
   {
@@ -1950,7 +1950,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b912.5k/sq.ft",
+    "price": "₹12.5k/sq.ft",
     "description": "Prime Navi Mumbai corridor in Navi Mumbai featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
   },
   {
@@ -1966,7 +1966,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 7,
     "count": 7,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b912.0k/sq.ft",
+    "price": "₹12.0k/sq.ft",
     "description": "Prime Khandala corridor in Lonavala featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -1982,7 +1982,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b913.5k/sq.ft",
+    "price": "₹13.5k/sq.ft",
     "description": "Prime Kunegaon corridor in Lonavala featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -1998,7 +1998,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b95.2k/sq.ft",
+    "price": "₹5.2k/sq.ft",
     "description": "Prime Khalapur corridor in Lonavala featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -2014,7 +2014,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b95.5k/sq.ft",
+    "price": "₹5.5k/sq.ft",
     "description": "Prime Khopoli Foothills corridor in Lonavala featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -2030,7 +2030,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.5k/sq.ft",
+    "price": "₹6.5k/sq.ft",
     "description": "Prime Gahunje corridor in Lonavala featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -2046,7 +2046,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b918.0k/sq.ft",
+    "price": "₹18.0k/sq.ft",
     "description": "Prime Mandwa Jetty Corridor corridor in Alibaug featuring verified residential towers, high rental yields, and 9.5% annual capital appreciation."
   },
   {
@@ -2062,7 +2062,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b916.0k/sq.ft",
+    "price": "₹16.0k/sq.ft",
     "description": "Prime Awas Beach corridor in Alibaug featuring verified residential towers, high rental yields, and 9.1% annual capital appreciation."
   },
   {
@@ -2078,7 +2078,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b94.2k/sq.ft",
+    "price": "₹4.2k/sq.ft",
     "description": "Prime Shrivardhan-Diveagar corridor in Alibaug featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -2092,7 +2092,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.4,
     "tagline": "Dense Coconut & Betel Nut Palm Beach Residences",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b914.5k/sq.ft",
+    "price": "₹14.5k/sq.ft",
     "description": "Prestigious Kihim shoreline corridor known for private beachfront villas and immediate connectivity to Mandwa speedboats.",
     "projectCount": 2,
     "count": 2
@@ -2108,7 +2108,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.2,
     "tagline": "District Capital, Varsoli Beach & Civil Infrastructure",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b99.8k/sq.ft",
+    "price": "₹9.8k/sq.ft",
     "description": "Commercial and administrative core of Alibaug with verified luxury apartments and coastal residences near Varsoli beach.",
     "projectCount": 1,
     "count": 1
@@ -2124,7 +2124,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.8,
     "tagline": "Billionaires Row of Alibaug & Private Jetty Mansions",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b918.5k/sq.ft",
+    "price": "₹18.5k/sq.ft",
     "description": "Ultra-prime coastal strip in Alibaug housing India's top industrialist estates, sculpture gardens, and private helipads.",
     "projectCount": 1,
     "count": 1
@@ -2140,7 +2140,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9,
     "tagline": "Gourmet Dining, Boutique Resorts & Gated Villa Communities",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b912.5k/sq.ft",
+    "price": "₹12.5k/sq.ft",
     "description": "The lifestyle heart of Alibaug featuring high-end gourmet delis, art galleries, and secure gated villa estates.",
     "projectCount": 1,
     "count": 1
@@ -2156,7 +2156,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.7,
     "tagline": "Highland Lakeviews & Hill Station Second Homes",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b911.5k/sq.ft",
+    "price": "₹11.5k/sq.ft",
     "description": "Tranquil hillside belt overlooking Valvan Dam and Tungarli Lake with premium gated villa enclaves.",
     "projectCount": 1,
     "count": 1
@@ -2172,7 +2172,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.1,
     "tagline": "Hill Station Core, Transit & Luxury Apartments",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b910.2k/sq.ft",
+    "price": "₹10.2k/sq.ft",
     "description": "Central Lonavala offering railway connectivity, iconic bakeries, and year-round holiday home rentals.",
     "projectCount": 0,
     "count": 0
@@ -2188,7 +2188,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.3,
     "tagline": "Paragliding Capital & Serene Pawna-Indrayani Lakefront Estates",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b98.5k/sq.ft",
+    "price": "₹8.5k/sq.ft",
     "description": "Picturesque Western Ghats valley between Lonavala and Pune celebrated for paragliding and lake-view second homes.",
     "projectCount": 1,
     "count": 1
@@ -2204,7 +2204,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.5,
     "tagline": "Railway Junction, Riverfront Living & Educational Hub",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b95.2k/sq.ft",
+    "price": "₹5.2k/sq.ft",
     "description": "Core Karjat micro-market with direct suburban local train connectivity to Mumbai CSMT and Panvel link.",
     "projectCount": 4,
     "count": 4
@@ -2220,7 +2220,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.2,
     "tagline": "Matheran Eco-Sensitive Foothills & Resort Townships",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b94.8k/sq.ft",
+    "price": "₹4.8k/sq.ft",
     "description": "Pristine nature enclave at the base of Matheran hill station featuring lush green weekend villas and plotted communities.",
     "projectCount": 2,
     "count": 2
@@ -2236,7 +2236,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.8,
     "tagline": "Bhimashankar Wildlife Corridor & Riverfront Farmhouses",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b94.2k/sq.ft",
+    "price": "₹4.2k/sq.ft",
     "description": "Green biodiversity hotspot along the river basin popular for luxury farmhouses and eco-resort residences.",
     "projectCount": 2,
     "count": 2
@@ -2252,7 +2252,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 10.2,
     "tagline": "Mumbai-Pune Expressway Junction & Morbe Dam Corridor",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b95.9k/sq.ft",
+    "price": "₹5.9k/sq.ft",
     "description": "High-growth strategic corridor connecting Karjat directly to Navi Mumbai International Airport and Atal Setu (MTHL).",
     "projectCount": 5,
     "count": 5
@@ -2268,7 +2268,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.9,
     "tagline": "Township Corridor & Riverside Second Home Developments",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b94.5k/sq.ft",
+    "price": "₹4.5k/sq.ft",
     "description": "Emerging township corridor bordering Panvel and Karjat with integrated self-sufficient township projects.",
     "projectCount": 1,
     "count": 1
@@ -2284,7 +2284,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.5,
     "tagline": "Metro Line 5 Logistics & Integrated Townships",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b96.8k/sq.ft",
+    "price": "₹6.8k/sq.ft",
     "description": "Fast-developing MMR growth node anchored by Metro Line 5 and major industrial-logistics corridors.",
     "projectCount": 1,
     "count": 1
@@ -2300,7 +2300,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 7.6,
     "tagline": "MIDC Industrial Hub & Bullet Train Corridor",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b93.8k/sq.ft",
+    "price": "₹3.8k/sq.ft",
     "description": "Affordable housing industrial growth corridor on the Western Railway and upcoming Mumbai-Ahmedabad Bullet Train route.",
     "projectCount": 1,
     "count": 1
@@ -2316,7 +2316,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 7.9,
     "tagline": "District Headquarters & Coastal Green Belt",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b94.2k/sq.ft",
+    "price": "₹4.2k/sq.ft",
     "description": "Administrative district center with suburban local connectivity and value-driven residential master communities.",
     "projectCount": 1,
     "count": 1
@@ -2332,7 +2332,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.1,
     "tagline": "Heritage South Mumbai & Botanical Garden High-Rises",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b938.0k/sq.ft",
+    "price": "₹38.0k/sq.ft",
     "description": "Historic South Mumbai precinct overlooking Rani Baug zoo gardens and the Mumbai Harbour Eastern Freeway.",
     "projectCount": 1,
     "count": 1
@@ -2348,7 +2348,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.8,
     "tagline": "Corporate Headquarters & Luxury Skyline Enclave",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b942.0k/sq.ft",
+    "price": "₹42.0k/sq.ft",
     "description": "Premier financial district and luxury residential cluster in Central Mumbai with ultra-tall skyscraper towers.",
     "projectCount": 1,
     "count": 1
@@ -2364,7 +2364,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9,
     "tagline": "High Street Phoenix, Michelin Dining & Skyscraper Residences",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b946.0k/sq.ft",
+    "price": "₹46.0k/sq.ft",
     "description": "The luxury lifestyle and commercial epicenter of Mumbai with premier corporate parks and ultra-exclusive residences.",
     "projectCount": 2,
     "count": 2
@@ -2380,7 +2380,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.4,
     "tagline": "BKC Annexe & Strategic Transit Interchange",
     "image": "/images/localities/default-locality.svg",
-    "price": "\u20b921.0k/sq.ft",
+    "price": "₹21.0k/sq.ft",
     "description": "Centrally located urban hub immediately adjacent to Bandra-Kurla Complex (BKC) and Phoenix Marketcity.",
     "projectCount": 1,
     "count": 1
@@ -2467,7 +2467,8 @@ export const BUILDERS: Builder[] = [
       "Mahalunge",
       "Hinjewadi"
     ],
-    "experience": 36
+    "experience": 36,
+    "website": "https://www.godrejproperties.com/"
   },
   {
     "id": "b-kolte-patil",
@@ -2496,7 +2497,8 @@ export const BUILDERS: Builder[] = [
       "Santacruz East",
       "Navi Mumbai"
     ],
-    "experience": 35
+    "experience": 35,
+    "website": "https://www.koltepatil.com/"
   },
   {
     "id": "b-vtp",
@@ -2504,7 +2506,7 @@ export const BUILDERS: Builder[] = [
     "slug": "vtp-realty",
     "logo": "/images/builders/vtp-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
-    "description": "VTP Realty is Pune\u2019s leading real estate brand celebrated for Maximum Livable Area (MLA) homes, township developments, and high construction velocity across Kharadi, Hinjewadi, and Mahalunge.",
+    "description": "VTP Realty is Pune’s leading real estate brand celebrated for Maximum Livable Area (MLA) homes, township developments, and high construction velocity across Kharadi, Hinjewadi, and Mahalunge.",
     "establishedYear": 2011,
     "totalProjects": 26,
     "ongoingProjects": 5,
@@ -2515,7 +2517,8 @@ export const BUILDERS: Builder[] = [
       "Kharadi",
       "Bavdhan"
     ],
-    "experience": 15
+    "experience": 15,
+    "website": "https://vtprealty.com"
   },
   {
     "id": "b-lodha",
@@ -2523,7 +2526,7 @@ export const BUILDERS: Builder[] = [
     "slug": "lodha-group",
     "logo": "/images/builders/lodha-official.svg",
     "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg",
-    "description": "Lodha Group (Macrotech Developers) is one of India\u2019s largest real estate developers delivering world-class residences, luxury amenities, and grand master-planned developments in Pune.",
+    "description": "Lodha Group (Macrotech Developers) is one of India’s largest real estate developers delivering world-class residences, luxury amenities, and grand master-planned developments in Pune.",
     "establishedYear": 1980,
     "totalProjects": 25,
     "ongoingProjects": 5,
@@ -2534,7 +2537,8 @@ export const BUILDERS: Builder[] = [
       "Hinjewadi",
       "Mohammed Wadi"
     ],
-    "experience": 46
+    "experience": 46,
+    "website": "https://www.lodhagroup.in"
   },
   {
     "id": "b-panchshil",
@@ -2542,7 +2546,7 @@ export const BUILDERS: Builder[] = [
     "slug": "panchshil-realty",
     "logo": "/images/builders/panchshil-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
-    "description": "Panchshil Realty is Pune\u2019s pinnacle of luxury real estate, introducing world brands including Trump Towers, YOO Pune, World Trade Center Pune, and EON Free Zone.",
+    "description": "Panchshil Realty is Pune’s pinnacle of luxury real estate, introducing world brands including Trump Towers, YOO Pune, World Trade Center Pune, and EON Free Zone.",
     "establishedYear": 2002,
     "totalProjects": 4,
     "ongoingProjects": 5,
@@ -2551,7 +2555,8 @@ export const BUILDERS: Builder[] = [
     "locations": [
       "Kharadi"
     ],
-    "experience": 24
+    "experience": 24,
+    "website": "https://www.pscl.in/"
   },
   {
     "id": "b-rohan",
@@ -2559,7 +2564,7 @@ export const BUILDERS: Builder[] = [
     "slug": "rohan-builders",
     "logo": "/images/builders/rohan-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
-    "description": "Rohan Builders is celebrated for pioneering the PLUS Home concept in Pune \u2014 focusing on Perfect Ventilation, Lively Light, Utmost Privacy, and Smart Space design.",
+    "description": "Rohan Builders is celebrated for pioneering the PLUS Home concept in Pune — focusing on Perfect Ventilation, Lively Light, Utmost Privacy, and Smart Space design.",
     "establishedYear": 1993,
     "totalProjects": 18,
     "ongoingProjects": 5,
@@ -2569,7 +2574,8 @@ export const BUILDERS: Builder[] = [
       "Balewadi",
       "Bhugaon"
     ],
-    "experience": 33
+    "experience": 33,
+    "website": "https://rohanbuilders.com"
   },
   {
     "id": "b-vilas-javdekar",
@@ -2588,7 +2594,8 @@ export const BUILDERS: Builder[] = [
       "Kharadi",
       "Wagholi"
     ],
-    "experience": 45
+    "experience": 45,
+    "website": "https://javdekars.com"
   },
   {
     "id": "b-pride-purple",
@@ -2596,7 +2603,7 @@ export const BUILDERS: Builder[] = [
     "slug": "pride-purple-group",
     "logo": "/images/builders/pride-purple-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/pyfCcZQGbXLGoumWmHpNJZu7lOdvBE2m8hqD7GBs.webp",
-    "description": "Pride Purple Group has shaped Pune\u2019s skyline across Hinjewadi, Wakad, and Baner with over two decades of customer trust, commercial IT towers, and premium lifestyle communities.",
+    "description": "Pride Purple Group has shaped Pune’s skyline across Hinjewadi, Wakad, and Baner with over two decades of customer trust, commercial IT towers, and premium lifestyle communities.",
     "establishedYear": 2001,
     "totalProjects": 21,
     "ongoingProjects": 5,
@@ -2607,7 +2614,8 @@ export const BUILDERS: Builder[] = [
       "Hinjewadi",
       "Pimpri Chinchwad"
     ],
-    "experience": 25
+    "experience": 25,
+    "website": "https://www.pridepurpleproperties.com"
   },
   {
     "id": "b-nyati",
@@ -2626,7 +2634,8 @@ export const BUILDERS: Builder[] = [
       "Baner",
       "Undri"
     ],
-    "experience": 30
+    "experience": 30,
+    "website": "https://www.nyatigroup.com"
   },
   {
     "id": "b-gera",
@@ -2634,7 +2643,7 @@ export const BUILDERS: Builder[] = [
     "slug": "gera-developments",
     "logo": "/images/builders/gera-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/Clv6QVczOiJD0bNhVQSdUoYvHCzVM92HasWLD3ET.webp",
-    "description": "Gera Developments is India\u2019s pioneer of ChildCentric\u00ae Homes with an unprecedented 7-Year Warranty, delivering landmark projects across Kharadi and Hinjewadi.",
+    "description": "Gera Developments is India’s pioneer of ChildCentric® Homes with an unprecedented 7-Year Warranty, delivering landmark projects across Kharadi and Hinjewadi.",
     "establishedYear": 1970,
     "totalProjects": 7,
     "ongoingProjects": 5,
@@ -2644,7 +2653,8 @@ export const BUILDERS: Builder[] = [
       "Hinjewadi",
       "Bhosari"
     ],
-    "experience": 56
+    "experience": 56,
+    "website": "https://gera.in/"
   },
   {
     "id": "b-kasturi",
@@ -2652,7 +2662,7 @@ export const BUILDERS: Builder[] = [
     "slug": "kasturi-housing",
     "logo": "/images/builders/kasturi.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
-    "description": "Kasturi Housing is Pune\u2019s premier bespoke luxury developer, famed for The Balmoral collection and minimalist architecture with global engineering standards.",
+    "description": "Kasturi Housing is Pune’s premier bespoke luxury developer, famed for The Balmoral collection and minimalist architecture with global engineering standards.",
     "establishedYear": 1999,
     "totalProjects": 11,
     "ongoingProjects": 5,
@@ -2662,7 +2672,8 @@ export const BUILDERS: Builder[] = [
       "Hinjewadi",
       "Balewadi"
     ],
-    "experience": 27
+    "experience": 27,
+    "website": "https://kasturi.com"
   },
   {
     "id": "b-mahindra",
@@ -2670,7 +2681,7 @@ export const BUILDERS: Builder[] = [
     "slug": "mahindra-lifespaces",
     "logo": "/images/builders/mahindra-lifespaces-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/7R1KntHtZGpJcf1ID73ZhW6Bmbi6t69x1dDPXrCk.webp",
-    "description": "Mahindra Lifespace Developers brings Mahindra Group\u2019s trust and green building expertise to Pune with IGBC Net-Zero energy and sustainable homes.",
+    "description": "Mahindra Lifespace Developers brings Mahindra Group’s trust and green building expertise to Pune with IGBC Net-Zero energy and sustainable homes.",
     "establishedYear": 1994,
     "totalProjects": 20,
     "ongoingProjects": 5,
@@ -2681,7 +2692,8 @@ export const BUILDERS: Builder[] = [
       "Pimpri Chinchwad",
       "Kharadi"
     ],
-    "experience": 32
+    "experience": 32,
+    "website": "https://www.mahindralifespaces.com"
   },
   {
     "id": "b-kumar",
@@ -2700,7 +2712,8 @@ export const BUILDERS: Builder[] = [
       "Undri",
       "Hinjewadi"
     ],
-    "experience": 60
+    "experience": 60,
+    "website": "https://www.kumarworld.com"
   },
   {
     "id": "b-bramhacorp",
@@ -2708,7 +2721,7 @@ export const BUILDERS: Builder[] = [
     "slug": "bramhacorp",
     "logo": "/images/builders/bramhacorp-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/e1Yisy3QN19cU13poeL9foZvCwjxU3tEAiuqtDxW.webp",
-    "description": "BramhaCorp is Pune\u2019s pioneer in bringing world hospitality and branded residences, including Sheraton Grand, Le Meridien, and F-Residences.",
+    "description": "BramhaCorp is Pune’s pioneer in bringing world hospitality and branded residences, including Sheraton Grand, Le Meridien, and F-Residences.",
     "establishedYear": 1982,
     "totalProjects": 4,
     "ongoingProjects": 5,
@@ -2719,7 +2732,8 @@ export const BUILDERS: Builder[] = [
       "Balewadi",
       "Kalyani Nagar"
     ],
-    "experience": 44
+    "experience": 44,
+    "website": "https://www.bramhacorp.in"
   },
   {
     "id": "b-amanora",
@@ -2727,7 +2741,7 @@ export const BUILDERS: Builder[] = [
     "slug": "amanora-park-town",
     "logo": "/images/builders/amanora.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
-    "description": "Amanora Park Town by City Corporation is Maharashtra\u2019s first accredited 400-acre smart township in Hadapsar Pune, featuring Gateway Towers and Future Towers.",
+    "description": "Amanora Park Town by City Corporation is Maharashtra’s first accredited 400-acre smart township in Hadapsar Pune, featuring Gateway Towers and Future Towers.",
     "establishedYear": 2007,
     "totalProjects": 2,
     "ongoingProjects": 5,
@@ -2736,7 +2750,8 @@ export const BUILDERS: Builder[] = [
     "locations": [
       "Kothrud"
     ],
-    "experience": 19
+    "experience": 19,
+    "website": "https://amanora.com"
   },
   {
     "id": "b-joyville",
@@ -2755,7 +2770,8 @@ export const BUILDERS: Builder[] = [
       "Shewalewadi",
       "Hinjewadi"
     ],
-    "experience": 10
+    "experience": 10,
+    "website": "https://www.joyvillehomes.com"
   },
   {
     "id": "b-kohinoor",
@@ -2782,7 +2798,8 @@ export const BUILDERS: Builder[] = [
       "Mundhwa",
       "Pimpri Chinchwad"
     ],
-    "experience": 43
+    "experience": 43,
+    "website": "https://iamkohinoor.com/"
   },
   {
     "id": "b-kalpataru",
@@ -2790,7 +2807,7 @@ export const BUILDERS: Builder[] = [
     "slug": "kalpataru",
     "logo": "/images/builders/kalpataru-official.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp",
-    "description": "Kalpataru is one of India\u2019s most awarded real estate companies, creating luxury landmark gated estates in Baner and Bavdhan Pune.",
+    "description": "Kalpataru is one of India’s most awarded real estate companies, creating luxury landmark gated estates in Baner and Bavdhan Pune.",
     "establishedYear": 1969,
     "totalProjects": 5,
     "ongoingProjects": 5,
@@ -2800,7 +2817,8 @@ export const BUILDERS: Builder[] = [
       "Baner",
       "Anand Nagar"
     ],
-    "experience": 57
+    "experience": 57,
+    "website": "https://www.kalpataru.com"
   },
   {
     "id": "b-sobha",
@@ -2808,7 +2826,7 @@ export const BUILDERS: Builder[] = [
     "slug": "sobha-limited",
     "logo": "/images/builders/sobha-official.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp",
-    "description": "Sobha Limited is India\u2019s only backward integrated real estate giant, renowned for unparalleled German-standard build quality in Kothrud Pune.",
+    "description": "Sobha Limited is India’s only backward integrated real estate giant, renowned for unparalleled German-standard build quality in Kothrud Pune.",
     "establishedYear": 1995,
     "totalProjects": 3,
     "ongoingProjects": 5,
@@ -2817,7 +2835,8 @@ export const BUILDERS: Builder[] = [
     "locations": [
       "Kothrud"
     ],
-    "experience": 31
+    "experience": 31,
+    "website": "https://www.sobha.com"
   },
   {
     "id": "b-tata",
@@ -2835,7 +2854,8 @@ export const BUILDERS: Builder[] = [
       "Ravet",
       "Talegaon Dabhade"
     ],
-    "experience": 42
+    "experience": 42,
+    "website": "https://www.tatahousings.com"
   },
   {
     "id": "b-shapoorji",
@@ -2863,7 +2883,8 @@ export const BUILDERS: Builder[] = [
       "Virar West",
       "Santacruz West"
     ],
-    "experience": 161
+    "experience": 161,
+    "website": "https://www.shapoorjipallonji.com"
   },
   {
     "id": "b-puravankara",
@@ -2880,7 +2901,8 @@ export const BUILDERS: Builder[] = [
     "locations": [
       "Mundhwa"
     ],
-    "experience": 51
+    "experience": 51,
+    "website": "https://www.puravankara.com"
   },
   {
     "id": "b-goel-ganga",
@@ -2985,7 +3007,8 @@ export const BUILDERS: Builder[] = [
     "locations": [
       "Tathawade"
     ],
-    "experience": 15
+    "experience": 15,
+    "website": "https://krisala.com/"
   },
   {
     "id": "b-amar",
@@ -3074,7 +3097,8 @@ export const BUILDERS: Builder[] = [
     ],
     "experience": 42,
     "trustScore": 9.8,
-    "isVerified": true
+    "isVerified": true,
+    "website": "https://supremeuniversal.in/"
   },
   {
     "id": "b-sathe-gandhi-builders",
@@ -7222,7 +7246,8 @@ export const BUILDERS: Builder[] = [
     ],
     "experience": 20,
     "trustScore": 9.5,
-    "isVerified": true
+    "isVerified": true,
+    "website": "https://mantraproperties.in"
   },
   {
     "id": "b-miracle-group",
@@ -7409,7 +7434,8 @@ export const BUILDERS: Builder[] = [
     ],
     "experience": 20,
     "trustScore": 9.5,
-    "isVerified": true
+    "isVerified": true,
+    "website": "https://pharandespaces.com"
   },
   {
     "id": "b-shaligram-buildcon",
@@ -7460,7 +7486,8 @@ export const BUILDERS: Builder[] = [
     ],
     "experience": 20,
     "trustScore": 9.5,
-    "isVerified": true
+    "isVerified": true,
+    "website": "https://saheelproperties.com"
   },
   {
     "id": "b-avirat-developers",
@@ -7519,7 +7546,8 @@ export const BUILDERS: Builder[] = [
       "Thane West",
       "Shrivardhan-Diveagar"
     ],
-    "experience": 39
+    "experience": 39,
+    "website": "https://paranjape.com"
   },
   {
     "id": "b-hiranandani",
@@ -7542,7 +7570,8 @@ export const BUILDERS: Builder[] = [
     "experience": 46,
     "trustScore": 4.9,
     "isVerified": true,
-    "mobile": "+91-7744009295"
+    "mobile": "+91-7744009295",
+    "website": "https://www.hiranandani.com"
   },
   {
     "id": "b-della",
@@ -7585,7 +7614,8 @@ export const BUILDERS: Builder[] = [
     ],
     "trustScore": 98,
     "isVerified": true,
-    "experience": 46
+    "experience": 46,
+    "website": "https://www.oberoirealty.com"
   },
   {
     "id": "b-runwal",
@@ -7616,7 +7646,8 @@ export const BUILDERS: Builder[] = [
     ],
     "trustScore": 94,
     "isVerified": true,
-    "experience": 48
+    "experience": 48,
+    "website": "https://runwalgroup.in"
   },
   {
     "id": "b-raymond",
@@ -7637,7 +7668,8 @@ export const BUILDERS: Builder[] = [
     ],
     "trustScore": 95,
     "isVerified": true,
-    "experience": 7
+    "experience": 7,
+    "website": "https://raymondrealty.in"
   },
   {
     "id": "b-rustomjee",
@@ -7659,7 +7691,8 @@ export const BUILDERS: Builder[] = [
     ],
     "trustScore": 96,
     "isVerified": true,
-    "experience": 30
+    "experience": 30,
+    "website": "https://www.rustomjee.com"
   },
   {
     "id": "b-piramal",
@@ -7680,7 +7713,8 @@ export const BUILDERS: Builder[] = [
     ],
     "trustScore": 97,
     "isVerified": true,
-    "experience": 14
+    "experience": 14,
+    "website": "https://www.piramalrealty.com"
   },
   {
     "id": "b-dosti",
@@ -7701,7 +7735,8 @@ export const BUILDERS: Builder[] = [
     ],
     "trustScore": 93,
     "isVerified": true,
-    "experience": 46
+    "experience": 46,
+    "website": "https://www.dostirealty.com"
   },
   {
     "id": "b-peninsula-land",
@@ -7741,7 +7776,8 @@ export const BUILDERS: Builder[] = [
       "Karjat"
     ],
     "trustScore": 4.8,
-    "isVerified": true
+    "isVerified": true,
+    "website": "https://www.thewadhwagroup.com"
   },
   {
     "id": "b-pushpam",
@@ -30849,7 +30885,8 @@ export const PROJECTS: Project[] = [
       "24/7 Multi-Tier Security",
       "High-Speed Elevators",
       "Rainwater Harvesting"
-    ]
+    ],
+    "website": "https://liferepublic.in/"
   },
   {
     "id": "p-kolte-patil-life-republic-canvas",
@@ -31108,7 +31145,8 @@ export const PROJECTS: Project[] = [
       "24/7 Multi-Tier Security",
       "High-Speed Elevators",
       "Rainwater Harvesting"
-    ]
+    ],
+    "website": "https://liferepublic.in/"
   },
   {
     "id": "p-kolte-patil-life-republic-aros",
@@ -31323,7 +31361,8 @@ export const PROJECTS: Project[] = [
       "24/7 Multi-Tier Security",
       "High-Speed Elevators",
       "Rainwater Harvesting"
-    ]
+    ],
+    "website": "https://liferepublic.in/"
   },
   {
     "id": "p-kolte-patil-life-republic-atmos",
@@ -31524,7 +31563,8 @@ export const PROJECTS: Project[] = [
       "24/7 Multi-Tier Security",
       "High-Speed Elevators",
       "Rainwater Harvesting"
-    ]
+    ],
+    "website": "https://liferepublic.in/"
   },
   {
     "id": "p-kolte-patil-life-republic-duet",
@@ -31693,7 +31733,8 @@ export const PROJECTS: Project[] = [
       "24/7 Multi-Tier Security",
       "High-Speed Elevators",
       "Rainwater Harvesting"
-    ]
+    ],
+    "website": "https://liferepublic.in/"
   },
   {
     "id": "p-kolte-patil-life-republic-echoes",
@@ -31884,7 +31925,8 @@ export const PROJECTS: Project[] = [
       "24/7 Multi-Tier Security",
       "High-Speed Elevators",
       "Rainwater Harvesting"
-    ]
+    ],
+    "website": "https://liferepublic.in/"
   },
   {
     "id": "p-kolte-patil-24k-espada-at-life-republic",
@@ -32075,7 +32117,8 @@ export const PROJECTS: Project[] = [
       "24/7 Multi-Tier Security",
       "High-Speed Elevators",
       "Rainwater Harvesting"
-    ]
+    ],
+    "website": "https://liferepublic.in/"
   },
   {
     "id": "p-kolte-patil-universe-at-life-republic",
@@ -32266,7 +32309,8 @@ export const PROJECTS: Project[] = [
       "24/7 Multi-Tier Security",
       "High-Speed Elevators",
       "Rainwater Harvesting"
-    ]
+    ],
+    "website": "https://liferepublic.in/"
   },
   {
     "id": "p-kolte-patil-oro-avenue-at-life-republic",
@@ -32457,7 +32501,8 @@ export const PROJECTS: Project[] = [
       "24/7 Multi-Tier Security",
       "High-Speed Elevators",
       "Rainwater Harvesting"
-    ]
+    ],
+    "website": "https://liferepublic.in/"
   },
   {
     "id": "p-kolte-patil-24k-atria",
@@ -38117,7 +38162,11 @@ export const PROJECTS: Project[] = [
     "metaDescription": "Explore Kohinoor Kaleido in Wagholi, Pune by Kohinoor Group. Offering 2 BHK, 3 BHK starting at ₹1.05 Cr. 100% zero brokerage through PROPSMART REALTY.",
     "images": [
       "https://iamkohinoor.com//media/69ef0da9cd1ec_kaleidooverviewimage.jpg",
-      "https://iamkohinoor.com//media/6953f5304cce8_rerakaleidophase2.jpg"
+      "https://iamkohinoor.com//media/6953f5304cce8_rerakaleidophase2.jpg",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6a5fe380-4809-4829-b89d-7d8f4402804a/gallery/mtn4l5lz-ejiaje.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6a5fe380-4809-4829-b89d-7d8f4402804a/gallery/mtn4l3ev-1yyfdb.webp",
+      "https://keystoneliv.com/public/uploads/property/hktier2sHXP4K72r1KJuALKWEkO0q8C2EMl3ZeVO.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/99ce3d8b-3910-41f2-be36-1e991b80692b/gallery/mtfqrpaw-70lfh1.webp"
     ],
     "lat": 18.58,
     "lng": 73.98,
@@ -48356,7 +48405,8 @@ export const PROJECTS: Project[] = [
       "3 BHK",
       "4 BHK",
       "5 BHK",
-      "6 BHK"
+      "6 BHK",
+      "Duplex Sky Villa"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -48428,7 +48478,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "733 - 1,655 sq.ft"
+        "value": "1,292 - 4,356 sq.ft"
       }
     ],
     "reraId": "P52100056095",
@@ -48443,23 +48493,28 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
-        "carpetArea": "1079 sq.ft",
+        "type": "3 BHK Luxury Residence",
+        "carpetArea": "1292 sq.ft",
         "priceRange": "₹3.30 Cr"
       },
       {
-        "type": "4 BHK",
-        "carpetArea": "1616 sq.ft",
-        "priceRange": "₹7.26 Cr - ₹9.24 Cr"
+        "type": "4 BHK Horizon Suite",
+        "carpetArea": "1937 sq.ft",
+        "priceRange": "₹5.16 Cr"
       },
       {
-        "type": "5 BHK",
-        "carpetArea": "1655 sq.ft",
-        "priceRange": "₹7.26 Cr - ₹9.24 Cr"
+        "type": "5 BHK Sky Palace",
+        "carpetArea": "2626 sq.ft",
+        "priceRange": "₹6.50 Cr"
       },
       {
-        "type": "6 BHK",
-        "carpetArea": "733 sq.ft",
+        "type": "6 BHK Sky Palace",
+        "carpetArea": "2854 sq.ft",
+        "priceRange": "₹7.00 Cr"
+      },
+      {
+        "type": "4 BHK Duplex Sky Villa",
+        "carpetArea": "4356 sq.ft",
         "priceRange": "₹11.50 Cr"
       }
     ],
@@ -66117,7 +66172,10 @@ export const PROJECTS: Project[] = [
     "images": [
       "https://iamkohinoor.com//media/6a05bee56c1ca_royaletowers.jpg",
       "https://iamkohinoor.com//media/6954b6c8b0c58_0190-blueridgehinjewadi-ext08.jpg",
-      "https://iamkohinoor.com//media/6954b6e57b8b1_state-of-the-art-gym-0190-blueridgehinjewadi-21.jpg"
+      "https://iamkohinoor.com//media/6954b6e57b8b1_state-of-the-art-gym-0190-blueridgehinjewadi-21.jpg",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6d2e5940-bda2-446e-8ec4-a961da61284a/gallery/mvwk6dmb-1z8ag4.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6d2e5940-bda2-446e-8ec4-a961da61284a/gallery/mvwk6doh-5yv62f.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6d2e5940-bda2-446e-8ec4-a961da61284a/gallery/mvwk6dqw-dtf0sw.webp"
     ],
     "description": "Kohinoor Royale Towers in Hinjewadi Phase 1 features 2 exclusive high-rise towers across 3 acres. Designed for modern tech professionals with zero transit to prime IT campuses.",
     "features": [
@@ -82472,7 +82530,7 @@ export const PROJECTS: Project[] = [
     "id": "p-krisala-41-commune",
     "title": "Krisala 41 Commune",
     "slug": "krisala-41-commune",
-    "builderId": "b-zolo-homes",
+    "builderId": "b-krisala",
     "location": "Wakad",
     "city": "Pune",
     "priceRange": "₹27.00 L - ₹40.00 L",
@@ -82583,7 +82641,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/79d0271e-267d-4ae7-9dfd-30eb2c6f9ccd/gallery/mtlfb0pf-36zkyk.webp",
-    "heroImageAlt": "Krisala 41 Commune by b-zolo-homes in Wakad, Pune",
+    "heroImageAlt": "Krisala 41 Commune by Krisala Developers in Wakad, Pune",
     "imageAlt": "Krisala 41 Commune Architecture in Wakad",
     "amenities": [
       "CCTV Surveillance",
@@ -111158,7 +111216,10 @@ export const PROJECTS: Project[] = [
     "images": [
       "https://iamkohinoor.com//media/696b17018afa9_kohinoorwestviewreserve.jpg",
       "https://iamkohinoor.com//media/68565fe8e89c0_frame1100377344.webp",
-      "https://iamkohinoor.com//media/6850552909d16_amenities-3(1).webp"
+      "https://iamkohinoor.com//media/6850552909d16_amenities-3(1).webp",
+      "https://www.koltepatil.com/assets/uploads/overview/1756736086132321226.jpg",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/17506f3d-4570-4491-940a-8e53076f3147/gallery/mrxe7pm3-9aembe.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/17506f3d-4570-4491-940a-8e53076f3147/gallery/mrxe7nch-u35fu.webp"
     ],
     "lat": 18.6315,
     "lng": 73.746,
@@ -114652,7 +114713,11 @@ export const PROJECTS: Project[] = [
     "heroImage": "https://iamkohinoor.com//media/695b79f557d47_abhimaan.jpg",
     "images": [
       "https://iamkohinoor.com//media/695b79f557d47_abhimaan.jpg",
-      "https://iamkohinoor.com//media/68517d348d271_kohinoor_abhimaan_homes_09.webp"
+      "https://iamkohinoor.com//media/68517d348d271_kohinoor_abhimaan_homes_09.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/a6bb8368-42c5-433d-a743-63e4ade9e95c/gallery/mrrkvj9p-c4xp4l.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/a6bb8368-42c5-433d-a743-63e4ade9e95c/gallery/mrrkvhit-g3yzd0.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/a6bb8368-42c5-433d-a743-63e4ade9e95c/gallery/mrrkvfqh-9gxwsy.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/cf2b2fda-456d-4f33-9fc5-41d129bb3b27/gallery/mt5lbzny-chvkhg.webp"
     ],
     "lat": 18.73,
     "lng": 73.68,
@@ -131394,7 +131459,12 @@ export const PROJECTS: Project[] = [
       "High-Speed Elevators",
       "Parking"
     ],
-    "verificationStatus": "Verified"
+    "verificationStatus": "Verified",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1676437496513882194.jpg",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1776692151219414725.jpeg"
+    ]
   },
   {
     "id": "p-kohinoor-woodshire",
@@ -131489,7 +131559,13 @@ export const PROJECTS: Project[] = [
       "High-Speed Elevators",
       "Parking"
     ],
-    "verificationStatus": "Verified"
+    "verificationStatus": "Verified",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/MePjpM2o9KQjJ6xTMr6aFlHFsoAzGOb15Qt42xOo.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/17745428111780275412.jpg",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/17284659391446479583.jpg",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1676437419434225824.jpg"
+    ]
   },
   {
     "id": "p-kohinoor-boulevard-towers",
@@ -131589,7 +131665,14 @@ export const PROJECTS: Project[] = [
       "High-Speed Elevators",
       "Parking"
     ],
-    "verificationStatus": "Verified"
+    "verificationStatus": "Verified",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-aethereus-high-street-mahalunge-pune/Aethereus_Master_Plan_3b81729c1a.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/yiPGuOJ5Fhyx0YB3EzGkjiPFft7mIQsii4HFZdjW.webp",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1676437496754730563.jpg",
+      "https://keystoneliv.com/public/uploads/property/DqZiV2LxEwtgObiiMdb3ecrNCjeh3UtIWNZLlTtx.webp",
+      "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp"
+    ]
   },
   {
     "id": "p-kohinoor-viva-pixel",
@@ -131680,7 +131763,13 @@ export const PROJECTS: Project[] = [
       "High-Speed Elevators",
       "Parking"
     ],
-    "verificationStatus": "Verified"
+    "verificationStatus": "Verified",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/B8lLrgp8K9glD4SfUoFNPgGs2hgPvixeAczdfTfR.webp",
+      "https://keystoneliv.com/public/uploads/property/image (40).webp",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/17612270411126752854.png"
+    ]
   },
   {
     "id": "p-kohinoor-regalia-towers",
@@ -131762,7 +131851,12 @@ export const PROJECTS: Project[] = [
       "High-Speed Elevators",
       "Parking"
     ],
-    "verificationStatus": "Verified"
+    "verificationStatus": "Verified",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nmPzChK44V7G0iiNdq6UHi8c9Yqa7WJWDA6qDGUb.webp",
+    "floorPlans": [
+      "/images/projects/anp-autograph/floor-plan-4bhk.webp",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/16760094211897237858.jpg"
+    ]
   },
   {
     "id": "p-kohinoor-avantara",
@@ -131799,7 +131893,9 @@ export const PROJECTS: Project[] = [
       "https://iamkohinoor.com//media/69e86f63d908b_anantara_podium_view_post_davantara.jpg",
       "https://iamkohinoor.com//media/69c767e56e170_anantara_podium_view_final_highres.jpg",
       "https://iamkohinoor.com//media/69c767989acd0_25032026_post_highres.jpg",
-      "https://iamkohinoor.com//media/69c767c715ba7_25032026_v2_post_highres.jpg"
+      "https://iamkohinoor.com//media/69c767c715ba7_25032026_v2_post_highres.jpg",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9e955491-de5d-45c8-a1e5-b959ff896266/gallery/mwbxwtdw-gbt67r.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9e955491-de5d-45c8-a1e5-b959ff896266/gallery/mwbxwtbt-c7e8op.webp"
     ],
     "lat": 18.5987,
     "lng": 73.766,
@@ -131843,7 +131939,12 @@ export const PROJECTS: Project[] = [
       "High-Speed Elevators",
       "Parking"
     ],
-    "verificationStatus": "Verified"
+    "verificationStatus": "Verified",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/c5iyPCgaCqPe2H7UgjtMuIlxz0gkapjWv7U5nlzE.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/iqVoBiHDpdvdvsAeUBS5ADhwZqAsUDAkhxfT9DhM.webp",
+      "https://keystoneliv.com/public/uploads/property/V4wSzfgdN4fSren4jb95rT0vdd4KSV49tNN9ZgvF.webp"
+    ]
   },
   {
     "id": "p-kohinoor-business-tower-mundhwa",
@@ -131929,7 +132030,12 @@ export const PROJECTS: Project[] = [
       "High-Speed Elevators",
       "Parking"
     ],
-    "verificationStatus": "Verified"
+    "verificationStatus": "Verified",
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-monarque-hinjawadi-pune/Monarque_Master_Plan_27199f1f86.webp",
+    "floorPlans": [
+      "/images/projects/anp-atlantis/floor-plan-4bhk.webp",
+      "https://keystoneliv.com/public/uploads/property/3PxeuRrw4eYgQ0cWzgG2Kgbdw4BwwSRi226tv5os.webp"
+    ]
   },
   {
     "id": "p-kohinoor-business-tower-baner",
@@ -131966,7 +132072,9 @@ export const PROJECTS: Project[] = [
       "https://iamkohinoor.com//media/687f8a62e4396_kbt-baner-ocerview.webp",
       "https://iamkohinoor.com//media/68565d63793fa_frame1100377336.webp",
       "https://iamkohinoor.com//media/6853b4bf2f7a1_gallery1.webp",
-      "https://iamkohinoor.com//media/6853b4cc600e0_gallery2.webp"
+      "https://iamkohinoor.com//media/6853b4cc600e0_gallery2.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5d62fa8a-eeaa-4f06-b87a-86eef01aa1a4/gallery/mrusev4s-3a7o6m.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5d62fa8a-eeaa-4f06-b87a-86eef01aa1a4/gallery/mruserwt-5ajriv.webp"
     ],
     "lat": 18.559,
     "lng": 73.7868,
@@ -132014,7 +132122,12 @@ export const PROJECTS: Project[] = [
       "High-Speed Elevators",
       "Parking"
     ],
-    "verificationStatus": "Verified"
+    "verificationStatus": "Verified",
+    "masterLayout": "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/gallery/1.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
+      "https://keystoneliv.com/public/uploads/property/image (38).webp"
+    ]
   },
   {
     "id": "p-kohinoor-world-tower-pimpri",
@@ -132051,7 +132164,9 @@ export const PROJECTS: Project[] = [
       "https://iamkohinoor.com//media/69ce1ae2a6408_newproject.jpg",
       "https://iamkohinoor.com//media/6852272db3112_1.webp",
       "https://iamkohinoor.com//media/68522737a1f70_2.webp",
-      "https://iamkohinoor.com//media/68522741b5256_3.webp"
+      "https://iamkohinoor.com//media/68522741b5256_3.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/3266ed23-72ff-41aa-9c4b-6bcd594ab0c8/gallery/mvhths9u-dvexpu.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/3266ed23-72ff-41aa-9c4b-6bcd594ab0c8/gallery/mvhthrdh-8tggr3.webp"
     ],
     "lat": 18.6279,
     "lng": 73.8009,
@@ -132099,7 +132214,12 @@ export const PROJECTS: Project[] = [
       "High-Speed Elevators",
       "Parking"
     ],
-    "verificationStatus": "Verified"
+    "verificationStatus": "Verified",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/MePjpM2o9KQjJ6xTMr6aFlHFsoAzGOb15Qt42xOo.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/GcpcnUI99erftS3CNypd2i5txdra0VlJzf8WCtWN.webp",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1676009421784696928.jpg"
+    ]
   },
   {
     "id": "p-kohinoor-world-tower-phase-2",
@@ -132131,7 +132251,9 @@ export const PROJECTS: Project[] = [
       "https://iamkohinoor.com//media/687f7ce625f53_kwt-pimpri-ph2.webp",
       "https://iamkohinoor.com//media/685553e5752b9_1.webp",
       "https://iamkohinoor.com//media/685553ef1f4cf_2.webp",
-      "https://iamkohinoor.com//media/685553f6b70d4_3.webp"
+      "https://iamkohinoor.com//media/685553f6b70d4_3.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5778d8a9-63f9-4f8f-852c-9e4023889a4b/gallery/mtr7bsex-f8i2om.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5778d8a9-63f9-4f8f-852c-9e4023889a4b/gallery/mtr7bqbg-71934n.webp"
     ],
     "lat": 18.6279,
     "lng": 73.8009,
@@ -132179,7 +132301,12 @@ export const PROJECTS: Project[] = [
       "High-Speed Elevators",
       "Parking"
     ],
-    "verificationStatus": "Verified"
+    "verificationStatus": "Verified",
+    "masterLayout": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/vX15hcMcA7HmLsjKOvGMFWIWDMSWoPEmMPAAVkXy.webp",
+    "floorPlans": [
+      "/images/projects/anp-autograph/floor-plan-3bhk.webp",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1728465957455076846.jpg"
+    ]
   },
   {
     "id": "p-runwal-7-mahalaxmi",
@@ -132251,6 +132378,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "820 - 1,980 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/iqVoBiHDpdvdvsAeUBS5ADhwZqAsUDAkhxfT9DhM.webp",
+      "https://keystoneliv.com/public/uploads/property/qS0wzqMbjuPWrp8xgOFuPecPubkwlqnM7z4ThESz.webp",
+      "/images/projects/anp-atlantis/floor-plan-4bhk.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/340e4638-dc06-4c97-aac3-4a01555733ca/gallery/mvhtlm6y-9l1hz.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/340e4638-dc06-4c97-aac3-4a01555733ca/gallery/mvhugdo4-orjrr.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/340e4638-dc06-4c97-aac3-4a01555733ca/gallery/mvhugfb8-4xw6e.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/340e4638-dc06-4c97-aac3-4a01555733ca/gallery/mvhugg9n-eoh78a.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/3c62297e-cf76-40e6-be1b-9863a18f21a4/gallery/mvhqtquw-ckd7y.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/3c62297e-cf76-40e6-be1b-9863a18f21a4/gallery/mvhqtrm0-bkub3k.webp"
     ]
   },
   {
@@ -132322,6 +132463,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "485 - 945 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1676437291248393030.jpg",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1734594038194008006.jpeg",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1676437373724578468.jpg"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/fae4df65-8efa-4cef-9eab-2a2f0030f5cd/gallery/msvmybaw-2px88j.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/fae4df65-8efa-4cef-9eab-2a2f0030f5cd/gallery/msvmyd1x-f3i7mo.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/fae4df65-8efa-4cef-9eab-2a2f0030f5cd/gallery/msvmyf0g-62nk8.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/94cdaac6-a885-494b-a748-bf298e510802/gallery/mrrjtb8m-f9i22h.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/94cdaac6-a885-494b-a748-bf298e510802/gallery/mrrjtd37-351or4.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/94cdaac6-a885-494b-a748-bf298e510802/gallery/mrrjteku-7jvmko.webp"
     ]
   },
   {
@@ -132393,6 +132548,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "660 - 1,040 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/9mQcxr2kQwdxOjKHIxo2zEp9jrfIGuIrQfIHkK7o.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/16880362671836935383.jpg",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1774543325351788579.jpg",
+      "https://keystoneliv.com/public/uploads/property/image (81).webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/b93ed04d-dde2-433f-bb89-694ae6959151/gallery/mvu4n5sr-fizmlq.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/b93ed04d-dde2-433f-bb89-694ae6959151/gallery/mvu4n5qn-beafnu.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/b93ed04d-dde2-433f-bb89-694ae6959151/gallery/mvu4n5oj-84f8tv.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/b93ed04d-dde2-433f-bb89-694ae6959151/gallery/mvu4n5lv-49elwa.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/b93ed04d-dde2-433f-bb89-694ae6959151/gallery/mvu4n5jz-ahn9g1.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/b93ed04d-dde2-433f-bb89-694ae6959151/gallery/mvu4n5i4-b5vpcv.webp"
     ]
   },
   {
@@ -132464,6 +132633,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "720 - 1,480 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/3nwgH4M3KYSuaKfXTtDhRqNLtwWRw8zijkrDpzRL.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Ptw9XmFBU5IeYvADN8ruLftUvTCTToYOMifOkh2x.webp",
+      "https://keystoneliv.com/public/uploads/property/QujUjJZ0G5zvpoujbJlR7mziw17Whp3rqma1HfW4.webp",
+      "https://keystoneliv.com/public/uploads/property/image - 2026-06-02T151842.182.webp"
+    ],
+    "images": [
+      "https://www.koltepatil.com/assets/uploads/gallery/1684241568996197317.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/base_image/1684241548785931673.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/16842415481089302225.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/base_image/1684241525814659846.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/16842415251760300342.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/base_image/16842415041723146111.jpg"
     ]
   },
   {
@@ -132529,6 +132712,19 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "1,150 - 1,620 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/9mQcxr2kQwdxOjKHIxo2zEp9jrfIGuIrQfIHkK7o.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp",
+      "https://keystoneliv.com/public/uploads/property/uROGhbrnCt3JOwg4l6nWrWbJXNmwQf1k5AM7ItuC.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/94e84ecd-6ac0-4293-b200-d9fd3d97d668/gallery/mvwi00fz-9u7bws.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/94e84ecd-6ac0-4293-b200-d9fd3d97d668/gallery/mvwi00dr-ekl423.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/94e84ecd-6ac0-4293-b200-d9fd3d97d668/gallery/mvwi00bk-cdfcdf.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/94e84ecd-6ac0-4293-b200-d9fd3d97d668/gallery/mvwi009a-dpz9ey.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/320265b2-aa9a-48cb-b5e9-150455175a36/gallery/mvjc11fo-7e1exs.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/fdfe6b42-b23c-49e2-af72-c67e82aa3cd6/gallery/mryz8ev2-5i0ybn.webp"
     ]
   },
   {
@@ -132600,6 +132796,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "550 - 4,500 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/image (40).webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp",
+      "https://keystoneliv.com/public/uploads/property/zozJl3E2HhxQbEpe9Q90xFiPbJv4yhBg3pHXhqC9.png",
+      "https://keystoneliv.com/public/uploads/property/EUGfJFJxGbOyjIhZSzCYMF3RNiNiqBdv63H9ECdy.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/94e84ecd-6ac0-4293-b200-d9fd3d97d668/gallery/mvwi00fz-9u7bws.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/94e84ecd-6ac0-4293-b200-d9fd3d97d668/gallery/mvwi00i3-gan29m.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/94e84ecd-6ac0-4293-b200-d9fd3d97d668/gallery/mvwi00k8-t2g0g.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/94e84ecd-6ac0-4293-b200-d9fd3d97d668/gallery/mvwi00q8-evxq7g.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/a51af485-34d8-4827-bd48-e3390c8ca16b/gallery/mseumv13-2iq8hk.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ee0dc753-8401-47f8-9797-872e630c10f9/gallery/mtwpiwvp-a3qade.webp"
     ]
   },
   {
@@ -132670,6 +132880,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "380 - 2,800 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1676437419434225824.jpg",
+      "https://keystoneliv.com/public/uploads/property/image (85).webp",
+      "https://keystoneliv.com/public/uploads/property/JRdpFkkMaBqWUV91UsxTA5PmT4jrWULe6bfbdGr3.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/b5973498-c136-4310-b59d-b0e70df36099/gallery/msyx9l6b-2f6zfj.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/b5973498-c136-4310-b59d-b0e70df36099/gallery/msyx9mnz-e1k144.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/b5973498-c136-4310-b59d-b0e70df36099/gallery/msyx9oj5-d2on0k.webp",
+      "https://www.lodhagroup.com/sites/default/files/projects/banner/1980265094_Lodha_Wakad_Website_Images_Spotlight_SC_1903x800px.jpg",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ffee53f6-a989-4120-9d93-ed1f8bf7b90d/gallery/mtbf53lq-bgrcg1.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ffee53f6-a989-4120-9d93-ed1f8bf7b90d/gallery/mtbf4y3k-2elmcm.webp"
     ]
   },
   {
@@ -132741,6 +132965,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "760 - 1,720 sq.ft"
       }
+    ],
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/8KKQNl9pXNBZ6numJWe8UNpGknzVelIS0Qg1KIWp.webp",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Ti87vi13I6M0IRd0wREubyKxdc8T4Nkn8g7wE844.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/a7b64a6e-86ac-40ef-887f-e964bd4a4fc8/gallery/mvf7c15s-5mugnn.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/a7b64a6e-86ac-40ef-887f-e964bd4a4fc8/gallery/mvf7c1th-1vr9a4.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/a7b64a6e-86ac-40ef-887f-e964bd4a4fc8/gallery/mvf7c2i0-4ckirr.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/a7b64a6e-86ac-40ef-887f-e964bd4a4fc8/gallery/mvf7c7id-dtjw30.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/a7b64a6e-86ac-40ef-887f-e964bd4a4fc8/gallery/mvf7c8wf-ak2xt2.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/a7b64a6e-86ac-40ef-887f-e964bd4a4fc8/gallery/mvf7ca96-5alwql.webp"
     ]
   },
   {
@@ -132812,6 +133050,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "1,350 - 3,450 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/f9GMlttRsqc66dOt6VQurFR4i48juAfzCiUaFmOs.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/image (95).webp",
+      "https://keystoneliv.com/public/uploads/property/3sc0FvlkSeRB8AoYR0SxcEtb6SinhQcIhFDRcaiY.webp",
+      "https://keystoneliv.com/public/uploads/property/8y0bsfk2BnzfvvWUEvZvcnihuUcAp0sSkh93J6zo.png"
+    ],
+    "images": [
+      "https://www.koltepatil.com/assets/uploads/gallery/17338983251742897581.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/base_image/17338091271842769035.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/1733809428213575422.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/base_image/17338988181791350586.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/1733898818522730005.jpg",
+      "https://www.koltepatil.com/assets/uploads/gallery/base_image/1733898900568547215.jpg"
     ]
   },
   {
@@ -132882,6 +133134,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "250 - 2,400 sq.ft"
       }
+    ],
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-altamira-kharadi-pune/Altamira_Master_Plan_166b88523c.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1774955201963424212.png",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/17284759001651037730.png",
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/j6Wb9cOhThHs5G5EODyVRF8nmtjnP9T0wBWO4MqP.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/fcd59e60-a788-4739-b02a-fa7a4e4a06c8/gallery/mryx678y-g32sa0.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/69ccb225-7d80-4787-8635-cfb02d44d6df/gallery/mtbd8bdd-7f569z.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/69ccb225-7d80-4787-8635-cfb02d44d6df/gallery/mtbd897i-5zt23s.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/69ccb225-7d80-4787-8635-cfb02d44d6df/gallery/mtbd87m3-3x8dej.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/69ccb225-7d80-4787-8635-cfb02d44d6df/gallery/mtbd86a5-er2azm.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/69ccb225-7d80-4787-8635-cfb02d44d6df/gallery/mtbd843w-e7zt8h.webp"
     ]
   },
   {
@@ -132953,6 +133219,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "2,450 - 5,800 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/jw5ukbRlHKoZR35S8lb9oHfirlSVu9uEbKjZ96Fr.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/16842408651386924750.jpg",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1676437496513882194.jpg"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/1cacab48-57d0-4e31-8ad8-cb73542425ac/gallery/mrtj7oq7-9tv6ah.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/1cacab48-57d0-4e31-8ad8-cb73542425ac/gallery/mrtj7qdx-2c9doc.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/1cacab48-57d0-4e31-8ad8-cb73542425ac/gallery/mrtj7rul-3ospvu.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4050e2e5-684b-4d3b-9477-b5fbe03bebcb/gallery/ms37mbuy-4imre6.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4050e2e5-684b-4d3b-9477-b5fbe03bebcb/gallery/ms37mefn-3feigo.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4050e2e5-684b-4d3b-9477-b5fbe03bebcb/gallery/ms37mj1m-4t6he.webp"
     ]
   },
   {
@@ -133024,6 +133304,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "1,420 - 3,600 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/elwH47XcqSfm9Wr8ZOTnPUJV0L8hZ3Mzc0A6AnnL.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/17745432931171436448.jpg",
+      "https://keystoneliv.com/public/uploads/property/tUBr7yI4J0rcf1m7F6WmNhcMFvrZvPOrpLkLA0xd.webp",
+      "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/floorplans/4bhk-3.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ab9177c3-e72f-4a60-bf98-5daa9077dbae/gallery/mtshgtdl-jeuap.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ade9cb2c-2037-4201-8340-afe156a62f58/gallery/msg83yk3-esrzgm.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ade9cb2c-2037-4201-8340-afe156a62f58/gallery/msg840ai-40k4qv.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ade9cb2c-2037-4201-8340-afe156a62f58/gallery/msg84547-6nni9i.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ade9cb2c-2037-4201-8340-afe156a62f58/gallery/mu8rcqh0-fnigju.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/848b9e71-e076-4683-ba26-f19b8a4d9c19/cover/mtr83uon-1vi659.webp"
     ]
   },
   {
@@ -133094,6 +133388,19 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "710 - 1,340 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/c9W9pcE1Zsuj3kbjYK3vVR94GONg6rObDY6jLi2f.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1774955201963424212.png",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/1684240908401913809.jpg"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrjay8-e3x301.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrjcxh-bsym2n.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrjf2i-fzgfl1.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrjgo3-fpeytx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrjibi-b5rchd.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkifz-70hrok.webp"
     ]
   },
   {
@@ -133165,6 +133472,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "440 - 980 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/kLEnSzR22c9MFpgzW1q1VBKhcmnWujmwF6wocGF3.webp",
+      "https://keystoneliv.com/public/uploads/property/hBhWq7z67MCde6MvvhDvmu4lEKeJpH2zLkqJlrml.webp",
+      "https://keystoneliv.com/public/uploads/property/NP2lL1RMSOai3XmYdaQdzhOJxWvDzVFYB2q9WRGl.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxp6t-8rnxew.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxp8q-af7au1.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxpao-f5mpj2.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxpck-3xdh1i.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxpej-8ww2b.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxpgr-c4dyml.webp"
     ]
   },
   {
@@ -133235,6 +133556,19 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "610 - 980 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/aWnxy62MDO1QX60oMsN6OrORW8XJAf2mAMh9MAgQ.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/xbbi8BCVsBCZzTjFyouxPMWqZ8HZFkhR4L7m1EyR.webp",
+      "https://keystoneliv.com/public/uploads/property/H6VFHKV0W11g8lU1zZ673X0MpRc8hR1uyGujlBwz.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qjyd-3efmmg.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qk0c-c625wb.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qk27-civs6r.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qk49-fnx9t2.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qk68-2gzdxm.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkisp-8jfjpx.webp"
     ]
   },
   {
@@ -133306,6 +133640,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "420 - 880 sq.ft"
       }
+    ],
+    "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-monarque-hinjawadi-pune/Monarque_Master_Plan_27199f1f86.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/16880362411012606642.jpg",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/16764372401249816501.jpg",
+      "https://keystoneliv.com/public/uploads/property/evR9QMKWYPJ7mfXswMgWcM03r9vtzVYrhTLN1Yn2.png"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrj96u-2995as.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrjay8-e3x301.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrjcxh-bsym2n.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrjf2i-fzgfl1.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrjgo3-fpeytx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ef1f4368-50f7-47d6-9f9c-54729ba24adf/gallery/mrrrjibi-b5rchd.webp"
     ]
   },
   {
@@ -133377,6 +133725,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "720 - 1,480 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/AEV4Alkp45KgjGoLG3i2wOtoKOjfuY7T0aplVMNP.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1774543293933333687.jpg",
+      "https://keystoneliv.com/public/uploads/property/N8h0pFp4t9iPbyC01tcUgFFE2sNIrbMiZg3aekTp.webp",
+      "/images/projects/anp-autograph/floor-plan-4bhk.webp"
+    ],
+    "images": [
+      "https://keystoneliv.com/public/uploads/property/56RUcH2FcTi4nhHkw0gG3jrlWip1SBX7GquQbPQ9.webp",
+      "https://keystoneliv.com/public/uploads/property/y23eQolQreeZxbOCvNAmA6XXJRnsVLTyeeJxCyN9.webp",
+      "https://keystoneliv.com/public/uploads/property/hBhWq7z67MCde6MvvhDvmu4lEKeJpH2zLkqJlrml.webp",
+      "https://keystoneliv.com/public/uploads/property/9pvXyW2GJ03250xBWLfGckCuaopvViEXcNd2j0GO.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/26d8558e-34ae-4eea-b584-6836954a9e61/gallery/mtie955e-bqb89r.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/51f65603-256b-41bb-8204-ef27e0261165/gallery/ms0bb9aq-fm55wx.webp"
     ]
   },
   {
@@ -133447,6 +133809,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "340 - 1,800 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/pkJxGd1gHFGu7mmQK9QruOkJwCN6UjcR7yv24TqQ.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1774955181630535411.jpeg",
+      "https://keystoneliv.com/public/uploads/property/image - 2026-05-28T164722.576.webp",
+      "https://keystoneliv.com/public/uploads/property/aosfObh9Vvdv8aZgQlzOvwbck4sVAjkctSkrwgox.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/b099037f-4fe0-4fb9-8bfd-94bc7b663dc4/gallery/mtob2l4o-7ivchz.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/e45d7774-0437-43fb-a011-5451a160d9e1/gallery/msdcgljz-dttpqx.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/e45d7774-0437-43fb-a011-5451a160d9e1/gallery/msdcgjuf-5ymdmb.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/e45d7774-0437-43fb-a011-5451a160d9e1/gallery/msdcghvy-9hownw.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/e45d7774-0437-43fb-a011-5451a160d9e1/gallery/msdcgfv6-aseeac.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/ff00cd0f-2bf2-4bfe-9b1b-b7d43a00338a/gallery/ms8pxjs3-dixnqn.webp"
     ]
   },
   {
@@ -133517,6 +133893,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "480 - 3,200 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/pkJxGd1gHFGu7mmQK9QruOkJwCN6UjcR7yv24TqQ.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/TAsZoKbJdyjSNYsDTppGHd3eG82J2a61bC8y9CHD.webp",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/17284659891506445855.jpg",
+      "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/98e067af-424f-4cb4-a951-e3cc6019bad3/gallery/mtgx35jy-ew6od9.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24c463c6-f0f4-4e2f-9bd9-efb3b864ab1a/gallery/mwbw9x58-75b7av.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24c463c6-f0f4-4e2f-9bd9-efb3b864ab1a/gallery/mwbw9x34-dohwei.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24c463c6-f0f4-4e2f-9bd9-efb3b864ab1a/gallery/mwbw9x0w-b1ys1b.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24c463c6-f0f4-4e2f-9bd9-efb3b864ab1a/gallery/mwbw9wz1-d50fhj.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/24c463c6-f0f4-4e2f-9bd9-efb3b864ab1a/gallery/mwbw9wx3-byrg1y.webp"
     ]
   },
   {
@@ -133582,6 +133972,19 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "3,200 - 5,500 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/MePjpM2o9KQjJ6xTMr6aFlHFsoAzGOb15Qt42xOo.webp",
+    "floorPlans": [
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/16764376981463833531.jpg",
+      "https://keystoneliv.com/public/uploads/property/image - 2026-05-28T164722.576.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6a469bd5-0b64-456f-8384-8f3f67ea2ac4/gallery/mvu43tr6-cilqfw.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/6a469bd5-0b64-456f-8384-8f3f67ea2ac4/gallery/mvu43tuu-967cpw.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8b0cbcbc-bafa-4edd-8daf-bc0345a92fb0/gallery/ms4l9h04-5jtxgc.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8b0cbcbc-bafa-4edd-8daf-bc0345a92fb0/gallery/ms4l9fbj-7bldtl.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/8b0cbcbc-bafa-4edd-8daf-bc0345a92fb0/gallery/ms4l9d4t-3a0rkn.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/cd8d7ef8-9ffe-45cc-8756-eb1507dd6c8b/gallery/mrrqs3wk-c9kybq.webp"
     ]
   },
   {
@@ -133647,6 +134050,19 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "650 - 940 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/Ptw9XmFBU5IeYvADN8ruLftUvTCTToYOMifOkh2x.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/YP4OQJPcaC2gOy7ZO0ZJZzsACXg8fiey3I7EZTMD.png",
+      "https://keystoneliv.com/public/uploads/property/JRdpFkkMaBqWUV91UsxTA5PmT4jrWULe6bfbdGr3.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/96ad69a2-d18d-4df8-b5e2-4099cda04d22/gallery/mvhyz75c-el5la7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/96ad69a2-d18d-4df8-b5e2-4099cda04d22/gallery/mvhyz7q5-yl4vg.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/96ad69a2-d18d-4df8-b5e2-4099cda04d22/gallery/mvhyz8gy-2ddvbt.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/96ad69a2-d18d-4df8-b5e2-4099cda04d22/gallery/mvhyz97s-7ybccr.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/96ad69a2-d18d-4df8-b5e2-4099cda04d22/gallery/mvhyz9zc-58vvn0.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/96ad69a2-d18d-4df8-b5e2-4099cda04d22/gallery/mvhyzapw-f2wpqz.webp"
     ]
   },
   {
@@ -133712,6 +134128,19 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "690 - 1,020 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/jw5ukbRlHKoZR35S8lb9oHfirlSVu9uEbKjZ96Fr.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp",
+      "https://keystoneliv.com/public/uploads/property/uROGhbrnCt3JOwg4l6nWrWbJXNmwQf1k5AM7ItuC.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4f10ec29-db39-45c9-839e-d1cfeaf743dc/gallery/mvtn2b98-w35bs.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4f10ec29-db39-45c9-839e-d1cfeaf743dc/gallery/mvtn2b6y-2ip98h.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4f10ec29-db39-45c9-839e-d1cfeaf743dc/gallery/mvtn2b4t-adietu.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4f10ec29-db39-45c9-839e-d1cfeaf743dc/gallery/mvtn2b2o-g4bwhw.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4f10ec29-db39-45c9-839e-d1cfeaf743dc/gallery/mvtn2b0j-98r3ht.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/4f10ec29-db39-45c9-839e-d1cfeaf743dc/gallery/mvtn2ayh-caof8j.webp"
     ]
   },
   {
@@ -133783,6 +134212,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "580 - 950 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/AEV4Alkp45KgjGoLG3i2wOtoKOjfuY7T0aplVMNP.webp",
+    "floorPlans": [
+      "/images/projects/anp-autograph/floor-plan-2bhk.webp",
+      "https://keystoneliv.com/public/uploads/property/image (86).webp",
+      "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1676437496513882194.jpg"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5792a6e0-c6da-4bc5-ab9b-a5bf7c84fb5d/gallery/mvhr9j1b-2c2zwd.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5792a6e0-c6da-4bc5-ab9b-a5bf7c84fb5d/gallery/mvhr9kim-co7x1m.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5792a6e0-c6da-4bc5-ab9b-a5bf7c84fb5d/gallery/mvhr9n9x-68kz8n.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5792a6e0-c6da-4bc5-ab9b-a5bf7c84fb5d/gallery/mvhr9o16-92jedj.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/5792a6e0-c6da-4bc5-ab9b-a5bf7c84fb5d/gallery/mvhr9oyf-87mx1i.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/e1c8ac64-4e65-460a-84c8-460f12548757/gallery/mvf7dh1w-4kkjja.webp"
     ]
   },
   {
@@ -133854,6 +134297,20 @@ export const PROJECTS: Project[] = [
         "label": "Carpet Range",
         "value": "685 - 1,350 sq.ft"
       }
+    ],
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/APk42V9TjCaPnBVvOLDnR7iyoKZq3cs68aY7ykXZ.webp",
+    "floorPlans": [
+      "https://keystoneliv.com/public/uploads/property/DUlnXQzjx5Pmekfng8ii6PNlJHlAP8CA9oi4Rc27.webp",
+      "https://keystoneliv.com/public/uploads/property/hBhWq7z67MCde6MvvhDvmu4lEKeJpH2zLkqJlrml.webp",
+      "https://keystoneliv.com/public/uploads/property/NP2lL1RMSOai3XmYdaQdzhOJxWvDzVFYB2q9WRGl.webp"
+    ],
+    "images": [
+      "https://punehome.in/storage/v1/object/public/project-media/projects/1edaa53d-bf29-49fb-bbd4-a1388fd59928/gallery/ms4gyuat-d320b3.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/1edaa53d-bf29-49fb-bbd4-a1388fd59928/gallery/ms4gyxdm-89qccm.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/1edaa53d-bf29-49fb-bbd4-a1388fd59928/gallery/ms4gz0b6-5c64yh.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/1edaa53d-bf29-49fb-bbd4-a1388fd59928/gallery/ms4gz70g-90qt6f.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/1edaa53d-bf29-49fb-bbd4-a1388fd59928/gallery/ms4gz8xs-22kab7.webp",
+      "https://punehome.in/storage/v1/object/public/project-media/projects/9b195edf-c20c-4111-994a-8f5bcf6ea104/gallery/mrysr25n-c3xe2z.webp"
     ]
   }
 ];

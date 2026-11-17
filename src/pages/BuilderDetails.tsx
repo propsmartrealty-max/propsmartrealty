@@ -5,7 +5,7 @@ import { useData } from '../context/DataContext';
 import PortalNavbar from '../components/Portal/Navbar';
 import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
-import { Building2, MapPin, Trophy } from 'lucide-react';
+import { Building2, MapPin, Trophy, ExternalLink } from 'lucide-react';
 import TrustScore from '../components/Portal/TrustScore';
 import { resolveBuilderLogo } from '../utils/builderUtils';
 import { getResilientFallbackImage } from '../utils/imageUtils';
@@ -72,6 +72,7 @@ const BuilderDetails = () => {
                         "url": `https://propsmart.co.in/builder/${builder.slug}`,
                         "logo": builder.logo,
                         "description": builder.description,
+                        "sameAs": builder.website ? [builder.website] : undefined,
                         "foundingDate": builder.establishedYear ? builder.establishedYear.toString() : undefined,
                         "address": {
                             "@type": "PostalAddress",
@@ -201,11 +202,24 @@ const BuilderDetails = () => {
                                 )}
                             </div>
                             <p className="text-gray-300 max-w-2xl">{builder.description}</p>
-                            {builder.mobile && (
-                                <a href={`tel:${builder.mobile}`} className="inline-block mt-4 bg-white/10 hover:bg-white/20 backdrop-blur text-white font-semibold px-4 py-2 rounded-lg transition-colors border border-white/20">
-                                    Developer Sales Desk: {builder.mobile}
-                                </a>
-                            )}
+                            <div className="flex flex-wrap items-center gap-3 mt-4">
+                                {builder.mobile && (
+                                    <a href={`tel:${builder.mobile}`} className="inline-block bg-white/10 hover:bg-white/20 backdrop-blur text-white font-semibold px-4 py-2 rounded-lg transition-colors border border-white/20">
+                                        Developer Sales Desk: {builder.mobile}
+                                    </a>
+                                )}
+                                {builder.website && (
+                                    <a 
+                                        href={builder.website} 
+                                        target="_blank" 
+                                        rel="noopener noreferrer" 
+                                        className="inline-flex items-center gap-1.5 bg-white/10 hover:bg-white/20 backdrop-blur text-white font-semibold px-4 py-2 rounded-lg transition-colors border border-white/20 hover:border-sky-400"
+                                    >
+                                        <ExternalLink className="w-4 h-4 text-sky-400" />
+                                        <span>Official Website</span>
+                                    </a>
+                                )}
+                            </div>
                         </div>
                     </div>
                 </div>

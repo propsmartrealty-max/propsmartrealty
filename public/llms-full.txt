@@ -717,7 +717,7 @@ This document contains the complete, unabridged real estate database of verified
 | Godrej Skyline | Mundhwa | 3 BHK, 4 BHK | ₹3.49 Cr - ₹6.09 Cr | Under Construction | `P52100030007` | https://propsmart.co.in/project/godrej-skyline |
 | Raheja Vistas | Mahalunge | 2 BHK, 3 BHK, 4 BHK | ₹93.00 L - ₹2.80 Cr | Under Construction | `P52100061597` | https://propsmart.co.in/project/raheja-vistas |
 | Privia Naimish | Chikhali | 2 BHK, 3 BHK | ₹85.00 L - ₹1.50 Cr | Under Construction | `P52100078327` | https://propsmart.co.in/project/privia-naimish |
-| Supreme Towers | Mundhwa | 3 BHK, 4 BHK, 5 BHK, 6 BHK | ₹3.30 Cr - ₹11.50 Cr | Under Construction | `P52100056095` | https://propsmart.co.in/project/supreme-towers |
+| Supreme Towers | Mundhwa | 3 BHK, 4 BHK, 5 BHK, 6 BHK, Duplex Sky Villa | ₹3.30 Cr - ₹11.50 Cr | Under Construction | `P52100056095` | https://propsmart.co.in/project/supreme-towers |
 | Atlantis | Bhosari | 3 BHK, 4 BHK | ₹1.26 Cr - ₹2.01 Cr | Under Construction | `P52100078626` | https://propsmart.co.in/project/atlantis |
 | Vision Ekaan | Bhosari | 2 BHK | ₹78.00 L - ₹87.00 L | Under Construction | `P52100021743` | https://propsmart.co.in/project/vision-ekaan |
 | Shreenidhi | Baner | 2 BHK, 3 BHK | ₹99.00 L - ₹1.37 Cr | Under Construction | `P52100060378` | https://propsmart.co.in/project/shreenidhi |

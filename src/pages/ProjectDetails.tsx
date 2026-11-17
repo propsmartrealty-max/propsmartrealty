@@ -1516,11 +1516,23 @@ const ProjectDetails = () => {
                                         </div>
                                         <ArrowRight className="w-4 h-4 text-brand-600" />
                                     </div>
-                                    {builder && (
-                                        <Link to={"/builder/" + builder.slug} className="inline-flex items-center gap-2 text-blue-600 font-semibold hover:underline mt-2">
-                                            View Builder Profile <ArrowRight className="w-4 h-4" />
-                                        </Link>
-                                    )}
+                                    <div className="flex flex-wrap items-center gap-4 mt-3">
+                                        {builder && (
+                                            <Link to={"/builder/" + builder.slug} className="inline-flex items-center gap-1.5 text-blue-600 font-semibold hover:underline text-sm">
+                                                View Builder Profile <ArrowRight className="w-4 h-4" />
+                                            </Link>
+                                        )}
+                                        {(project.website || builder?.website) && (
+                                            <a 
+                                                href={project.website || builder?.website} 
+                                                target="_blank" 
+                                                rel="noopener noreferrer" 
+                                                className="inline-flex items-center gap-1.5 text-slate-600 hover:text-blue-600 font-medium text-sm hover:underline"
+                                            >
+                                                <span>Official Developer Portal</span> <ExternalLink className="w-3.5 h-3.5" />
+                                            </a>
+                                        )}
+                                    </div>
                                 </div>
                             </div>
                         </div>
