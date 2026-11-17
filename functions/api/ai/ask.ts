@@ -24,7 +24,7 @@ Keep responses under 3 paragraphs with bullet points for key facts.`;
                 ? `Context: User is asking about "${projectTitle}". User question: "${query}"`
                 : query;
 
-            const aiResponse: any = await context.env.AI.run('@cf/meta/llama-3.1-8b-instruct', {
+            const aiResponse: any = await context.env.AI.run('@cf/meta/llama-3.1-8b-instruct-fp8', {
                 messages: [
                     { role: 'system', content: systemPrompt },
                     { role: 'user', content: prompt }
