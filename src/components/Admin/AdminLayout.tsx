@@ -2,7 +2,7 @@
 import React from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import PropsmartLogo from '../Portal/PropsmartLogo';
-import { LayoutDashboard, Building2, HardHat, LogOut, Layout, MapPin, Phone, Image as ImageIcon } from 'lucide-react';
+import { LayoutDashboard, Building2, HardHat, LogOut, Layout, MapPin, Phone, Image as ImageIcon, ShieldCheck } from 'lucide-react';
 
 import { cloudflare } from '../../services/cloudflare';
 
@@ -27,6 +27,7 @@ const AdminLayout: React.FC<{ children: React.ReactNode, title: string }> = ({ c
         { icon: ImageIcon, label: 'Media Library', path: '/admin/media' },
         { icon: MapPin, label: 'Localities', path: '/admin/localities' },
         { icon: Phone, label: 'Leads', path: '/admin/leads' },
+        { icon: ShieldCheck, label: 'RERA Intelligence', path: '/admin/rera-intelligence' },
         { icon: LayoutDashboard, label: 'AI Seeder', path: '/admin/seed' },
     ];
 

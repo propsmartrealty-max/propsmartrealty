@@ -31,6 +31,7 @@ const AdminLocalities = React.lazy(() => import('./pages/admin/Localities'));
 const AdminLeads = React.lazy(() => import('./pages/admin/Leads'));
 const AdminSeedData = React.lazy(() => import('./pages/admin/SeedData'));
 const AdminMedia = React.lazy(() => import('./pages/admin/MediaGallery'));
+const AdminRERAIntelligence = React.lazy(() => import('./pages/admin/RERAIntelligence'));
 const CompareProjects = React.lazy(() => import('./pages/CompareProjects'));
 const MahaRERAVerification = React.lazy(() => import('./pages/MahaRERAVerification'));
 
@@ -300,6 +301,7 @@ function App() {
                                         <Route path="/admin/media" element={<AdminMedia />} />
 
                                         <Route path="/admin/leads" element={<AdminLeads />} />
+                                        <Route path="/admin/rera-intelligence" element={<AdminRERAIntelligence />} />
                                         <Route path="/admin/seed" element={<AdminSeedData />} />
                                     </Route>
 
