@@ -86,9 +86,15 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
             <div className="p-6 md:p-8 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center bg-slate-50/50">
                 {/* Column 1: Scan-Ready Authentic QR Code (4 cols) */}
                 <div className="lg:col-span-4 bg-white p-6 rounded-2xl border border-slate-200/80 shadow-sm flex flex-col items-center text-center">
-                    <div className="relative group cursor-pointer" onClick={() => setShowEnlargedQR(true)}>
+                    <a
+                        href={verificationUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        title={`Click to open official MahaRERA project record for ${title} (${reraId})`}
+                        className="relative group cursor-pointer block hover:scale-[1.02] transition-transform"
+                    >
                         {/* QR Code Container */}
-                        <div className="w-48 h-48 sm:w-52 sm:h-52 p-3 bg-white rounded-2xl border-2 border-slate-900 shadow-md relative overflow-hidden transition-all group-hover:shadow-xl group-hover:scale-[1.02]">
+                        <div className="w-48 h-48 sm:w-52 sm:h-52 p-3 bg-white rounded-2xl border-2 border-slate-900 shadow-md relative overflow-hidden transition-all group-hover:shadow-xl">
                             <img
                                 src={meta.qrCodeUrl}
                                 alt={`MahaRERA QR Code for ${title}`}
@@ -102,14 +108,15 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
                             <div className="absolute inset-x-0 h-1 bg-gradient-to-r from-transparent via-emerald-500 to-transparent shadow-[0_0_8px_#10b981] animate-pulse" style={{ top: '48%' }} />
                         </div>
 
-                        <div className="absolute bottom-2 inset-x-2 bg-slate-900/90 backdrop-blur-md text-white py-1 rounded-lg text-[10px] font-bold opacity-0 group-hover:opacity-100 transition-opacity">
-                            Click to Enlarge QR
+                        <div className="absolute bottom-2 inset-x-2 bg-slate-900/90 backdrop-blur-md text-white py-1.5 rounded-lg text-[10px] font-bold opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center gap-1">
+                            <span>Open MahaRERA Official Page</span>
+                            <ExternalLink className="w-3 h-3 text-emerald-400" />
                         </div>
-                    </div>
+                    </a>
 
                     <div className="mt-4 flex items-center justify-center gap-1.5 text-xs text-slate-500 font-semibold">
                         <QrCode className="w-4 h-4 text-emerald-600" />
-                        <span>Scan with any camera to verify</span>
+                        <span>Click or scan with camera to open MahaRERA</span>
                     </div>
 
                     {/* Copy RERA ID Bar */}
@@ -242,7 +249,13 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
                         <h3 className="text-xl font-black text-slate-900">{title}</h3>
                         <p className="text-xs text-slate-500 mt-1 mb-6">Scan to verify official MahaRERA certificate</p>
 
-                        <div className="w-64 h-64 mx-auto p-4 bg-white rounded-2xl border-4 border-slate-900 shadow-xl mb-4">
+                        <a
+                            href={verificationUrl}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            title={`Click to open official MahaRERA project page for ${title}`}
+                            className="w-64 h-64 mx-auto p-4 bg-white rounded-2xl border-4 border-slate-900 shadow-xl mb-4 block group relative hover:scale-[1.02] transition-all cursor-pointer"
+                        >
                             <img
                                 src={meta.qrCodeUrl}
                                 alt={`Enlarged MahaRERA QR Code for ${title}`}
@@ -251,7 +264,11 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
                                 }}
                                 className="w-full h-full object-contain"
                             />
-                        </div>
+                            <div className="absolute inset-0 bg-slate-950/70 opacity-0 group-hover:opacity-100 transition-opacity rounded-xl flex flex-col items-center justify-center text-white p-2">
+                                <ExternalLink className="w-6 h-6 text-emerald-400 mb-1" />
+                                <span className="text-xs font-black uppercase tracking-wider text-center">Click to open MahaRERA portal</span>
+                            </div>
+                        </a>
 
                         <div className="text-sm font-black font-mono text-slate-800 mb-6 bg-slate-100 py-2 rounded-xl border border-slate-200">
                             {reraId}

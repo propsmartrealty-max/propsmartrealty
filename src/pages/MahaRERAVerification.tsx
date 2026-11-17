@@ -382,7 +382,13 @@ const MahaRERAVerification: React.FC = () => {
                                         Mandated by MahaRERA Order No. 46/2023. Scan with any camera to verify official registration certificate.
                                     </p>
 
-                                    <div className="w-56 h-56 mx-auto p-3 bg-white rounded-2xl border-4 border-slate-950 shadow-xl mb-4 flex items-center justify-center">
+                                    <a
+                                        href={result.officialPortalUrl}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        title={`Click to open official MahaRERA project record for ${result.sanitized}`}
+                                        className="w-56 h-56 mx-auto p-3 bg-white rounded-2xl border-4 border-slate-950 shadow-xl mb-4 flex items-center justify-center group relative hover:scale-[1.03] transition-all block cursor-pointer"
+                                    >
                                         <img
                                             src={result.qrCodeUrl}
                                             alt={`MahaRERA QR Code for ${result.sanitized}`}
@@ -391,7 +397,11 @@ const MahaRERAVerification: React.FC = () => {
                                             }}
                                             className="w-full h-full object-contain"
                                         />
-                                    </div>
+                                        <div className="absolute inset-0 bg-slate-950/70 opacity-0 group-hover:opacity-100 transition-opacity rounded-xl flex flex-col items-center justify-center text-white p-2">
+                                            <ExternalLink className="w-6 h-6 text-emerald-400 mb-1" />
+                                            <span className="text-[11px] font-black uppercase tracking-wider text-center">Click to open MahaRERA portal</span>
+                                        </div>
+                                    </a>
 
                                     <div className="text-xs font-mono font-black text-emerald-400 mb-6 bg-slate-950 py-2 rounded-xl border border-white/10">
                                         {result.sanitized}

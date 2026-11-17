@@ -124,7 +124,13 @@ const MahaRERAVerifyModal: React.FC<MahaRERAVerifyModalProps> = ({
 
                     {/* QR Code and Verification Strip */}
                     <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 items-center">
-                        <div className="sm:col-span-1 bg-white p-2.5 rounded-2xl border-2 border-slate-950 flex flex-col items-center justify-center shadow-md">
+                        <a
+                            href={result.officialPortalUrl}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            title={`Click to open official MahaRERA project record for ${result.sanitized}`}
+                            className="sm:col-span-1 bg-white p-2.5 rounded-2xl border-2 border-slate-950 flex flex-col items-center justify-center shadow-md group relative hover:scale-[1.03] transition-all cursor-pointer block"
+                        >
                             <img
                                 src={result.qrCodeUrl}
                                 alt={`MahaRERA QR for ${result.sanitized}`}
@@ -133,8 +139,10 @@ const MahaRERAVerifyModal: React.FC<MahaRERAVerifyModalProps> = ({
                                 }}
                                 className="w-28 h-28 object-contain"
                             />
-                            <span className="text-[9px] text-slate-600 font-bold mt-1">MahaRERA QR (Order 46)</span>
-                        </div>
+                            <span className="text-[9px] text-slate-600 font-bold mt-1 group-hover:text-emerald-700 flex items-center gap-0.5">
+                                Open Portal ↗
+                            </span>
+                        </a>
 
                         <div className="sm:col-span-2 space-y-2 text-xs">
                             <div className="p-2.5 rounded-xl bg-white/5 border border-white/10 space-y-1">

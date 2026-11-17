@@ -420,7 +420,13 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         <h4 className="font-black text-slate-900 text-base leading-tight mb-1">{project.title}</h4>
                         <p className="text-[11px] text-slate-500 mb-4">Official MahaRERA Regulatory QR Code</p>
 
-                        <div className="w-48 h-48 mx-auto p-2.5 bg-white rounded-2xl border-2 border-slate-900 shadow-md mb-4 relative">
+                        <a 
+                            href={mahaReraLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            title={`Click to open official MahaRERA project verification for ${project.title}`}
+                            className="w-48 h-48 mx-auto p-2.5 bg-white rounded-2xl border-2 border-slate-900 shadow-md mb-4 relative block group hover:scale-[1.03] transition-all cursor-pointer"
+                        >
                             <img
                                 src={qrUrl}
                                 alt={`MahaRERA QR for ${project.title}`}
@@ -429,7 +435,11 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                 }}
                                 className="w-full h-full object-contain"
                             />
-                        </div>
+                            <div className="absolute inset-0 bg-slate-950/70 opacity-0 group-hover:opacity-100 transition-opacity rounded-xl flex flex-col items-center justify-center text-white p-2">
+                                <ExternalLink className="w-5 h-5 text-emerald-400 mb-1" />
+                                <span className="text-[10px] font-black uppercase tracking-wider text-center">Click to open MahaRERA portal</span>
+                            </div>
+                        </a>
 
                         <div className="text-xs font-mono font-black text-slate-800 bg-slate-50 py-1.5 rounded-lg border border-slate-200/80 mb-4">
                             {project.reraId || 'MahaRERA Registered'}
