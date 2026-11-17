@@ -9,6 +9,7 @@
 
 import { PROJECTS } from '../data/mockData';
 import { Project } from '../types';
+import { generateLegiScoreDossier, LegiScoreDueDiligenceDossier } from '../services/legiscoreService';
 
 export const MAHARERA_DISTRICT_CODES: Record<string, string> = {
     '505': 'Nagpur',
@@ -79,6 +80,7 @@ export interface MahaRERAVerificationResult {
         purpose: string;
         whatToVerify: string;
     }[];
+    legiScoreDossier?: LegiScoreDueDiligenceDossier;
 }
 
 /**
@@ -182,7 +184,8 @@ export const validateMahaRERANumber = (input?: string): MahaRERAVerificationResu
             matchedProject: matched,
             statusLabel: matched ? `Verified: ${matched.title}` : 'Valid MahaRERA 2.0 Project Format',
             regulatoryBadge: 'MahaRERA 2.0 Certified Project',
-            verificationChecklist: getProjectVerificationChecklist(matched)
+            verificationChecklist: getProjectVerificationChecklist(matched),
+            legiScoreDossier: generateLegiScoreDossier(sanitized, matched)
         };
     }
 
@@ -209,7 +212,8 @@ export const validateMahaRERANumber = (input?: string): MahaRERAVerificationResu
             matchedProject: matched,
             statusLabel: matched ? `Verified: ${matched.title}` : `Valid MahaRERA Project (${districtName})`,
             regulatoryBadge: 'Officially Sanctioned & Approved',
-            verificationChecklist: getProjectVerificationChecklist(matched)
+            verificationChecklist: getProjectVerificationChecklist(matched),
+            legiScoreDossier: generateLegiScoreDossier(sanitized, matched)
         };
     }
 

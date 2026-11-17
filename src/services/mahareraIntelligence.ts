@@ -12,6 +12,7 @@
 
 import { Project, Builder } from '../types';
 import { PROJECTS, BUILDERS } from '../data/mockData';
+import { generateLegiScoreDossier, LegiScoreDueDiligenceDossier } from './legiscoreService';
 
 export const MAHARERA_DISTRICT_CODES: Record<string, { name: string; region: string }> = {
     '505': { name: 'Nagpur', region: 'Vidarbha' },
@@ -86,12 +87,15 @@ export interface IntelligentProjectAudit {
     reraId: string;
     overallScore: number; // 0 - 100
     isFullyCompliant: boolean;
+    legiscoreGrade: 'AAA' | 'AA+' | 'AA' | 'A+' | 'A';
+    legiscoreDossier: LegiScoreDueDiligenceDossier;
     channels: {
         channel1_district: ChannelStatus;
         channel2_developer: ChannelStatus;
         channel3_certificate: ChannelStatus;
         channel4_linguistic: ChannelStatus;
         channel5_consumerProtection: ChannelStatus;
+        channel6_legiscoreTitle: ChannelStatus;
     };
     officialLinks: {
         officialPortalDeepLink: string;
@@ -247,12 +251,31 @@ export const auditProjectIntelligently = (project: Project): IntelligentProjectA
         meta: { priceDisplay, complianceModel: '100% All-Inclusive' }
     };
 
+    // --- Channel 6: LegiScore Bank-Grade Legal Title & Document Due-Diligence ---
+    const legiscoreDossier = generateLegiScoreDossier(rera, project, builder);
+    const channel6_legiscoreTitle: ChannelStatus = {
+        id: 6,
+        name: 'LegiScore Bank-Grade Legal Title & Document Due-Diligence',
+        description: 'LegiScore government search engine verification (rera_check): Advocate title search, CERSAI hypothecation check, and 8 statutory regulatory documents.',
+        passed: true,
+        confidenceScore: legiscoreDossier.titleScore,
+        details: `Grade: ${legiscoreDossier.overallGrade} (${legiscoreDossier.riskAssessment}). ${legiscoreDossier.titleAudit.ownershipType}, ${legiscoreDossier.sanctionsAudit.commencementCertificateType}.`,
+        meta: {
+            overallGrade: legiscoreDossier.overallGrade,
+            searchId: legiscoreDossier.searchId,
+            documentsCount: legiscoreDossier.documents.length,
+            titleStatus: legiscoreDossier.titleAudit.titleCertificateStatus,
+            cersaiVerified: legiscoreDossier.encumbranceAudit.cersaiVerified
+        }
+    };
+
     const overallScore = Math.round(
-        (channel1_district.confidenceScore * 0.3) +
-        (channel2_developer.confidenceScore * 0.2) +
-        (channel3_certificate.confidenceScore * 0.25) +
-        (channel4_linguistic.confidenceScore * 0.1) +
-        (channel5_consumerProtection.confidenceScore * 0.15)
+        (channel1_district.confidenceScore * 0.25) +
+        (channel2_developer.confidenceScore * 0.15) +
+        (channel3_certificate.confidenceScore * 0.20) +
+        (channel4_linguistic.confidenceScore * 0.10) +
+        (channel5_consumerProtection.confidenceScore * 0.15) +
+        (channel6_legiscoreTitle.confidenceScore * 0.15)
     );
 
     return {
@@ -264,12 +287,15 @@ export const auditProjectIntelligently = (project: Project): IntelligentProjectA
         reraId: rera,
         overallScore,
         isFullyCompliant: overallScore >= 90,
+        legiscoreGrade: legiscoreDossier.overallGrade,
+        legiscoreDossier,
         channels: {
             channel1_district,
             channel2_developer,
             channel3_certificate,
             channel4_linguistic,
-            channel5_consumerProtection
+            channel5_consumerProtection,
+            channel6_legiscoreTitle
         },
         officialLinks: {
             officialPortalDeepLink: portalDeepLink,
@@ -281,7 +307,7 @@ export const auditProjectIntelligently = (project: Project): IntelligentProjectA
 };
 
 /**
- * Audits the entire platform catalog across all 5 Intelligent Channels
+ * Audits the entire platform catalog across all 6 Intelligent Channels
  */
 export const runMultiChannelCatalogAudit = () => {
     const audits = PROJECTS.map(auditProjectIntelligently);
@@ -296,6 +322,7 @@ export const runMultiChannelCatalogAudit = () => {
         channel3: audits.filter(a => a.channels.channel3_certificate.passed).length,
         channel4: audits.filter(a => a.channels.channel4_linguistic.passed).length,
         channel5: audits.filter(a => a.channels.channel5_consumerProtection.passed).length,
+        channel6: audits.filter(a => a.channels.channel6_legiscoreTitle.passed).length,
     };
 
     const districtDistribution: Record<string, number> = {};

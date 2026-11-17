@@ -5,6 +5,7 @@
   "channel3_qr_hyperlinked": 870,
   "channel4_ai_linguistic_aligned": 870,
   "channel5_pricing_compliant": 870,
+  "channel6_legiscore_title_valid": 870,
   "fullyCompliant": 870,
   "districtDistribution": {
     "Pune": 720,
@@ -27,6 +28,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -41,6 +44,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -55,6 +60,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -69,6 +76,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -83,6 +92,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -97,6 +108,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -111,6 +124,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -125,6 +140,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -139,6 +156,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -153,6 +172,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -167,6 +188,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -181,6 +204,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -195,6 +220,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -209,6 +236,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -223,6 +252,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -237,6 +268,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -251,6 +284,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -265,6 +300,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -279,6 +316,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -293,6 +332,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -307,6 +348,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -321,6 +364,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -335,6 +380,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -349,6 +396,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -363,6 +412,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -377,6 +428,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -391,6 +444,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -405,6 +460,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -419,6 +476,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -433,6 +492,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -447,6 +508,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -461,6 +524,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -475,6 +540,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -489,6 +556,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -503,6 +572,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -517,6 +588,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -531,6 +604,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -545,6 +620,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -559,6 +636,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -573,6 +652,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -587,6 +668,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -601,6 +684,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -615,6 +700,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -629,6 +716,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -643,6 +732,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -657,6 +748,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -671,6 +764,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -685,6 +780,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -699,6 +796,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -713,6 +812,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -727,6 +828,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -741,6 +844,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -755,6 +860,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -769,6 +876,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -783,6 +892,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -797,6 +908,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -811,6 +924,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -825,6 +940,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -839,6 +956,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -853,6 +972,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -867,6 +988,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -881,6 +1004,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -895,6 +1020,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -909,6 +1036,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -923,6 +1052,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -937,6 +1068,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -951,6 +1084,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -965,6 +1100,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -979,6 +1116,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -993,6 +1132,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1007,6 +1148,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1021,6 +1164,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1035,6 +1180,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1049,6 +1196,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1063,6 +1212,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1077,6 +1228,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1091,6 +1244,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1105,6 +1260,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1119,6 +1276,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1133,6 +1292,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1147,6 +1308,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1161,6 +1324,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1175,6 +1340,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1189,6 +1356,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1203,6 +1372,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1217,6 +1388,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1231,6 +1404,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1245,6 +1420,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1259,6 +1436,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1273,6 +1452,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1287,6 +1468,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1301,6 +1484,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1315,6 +1500,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1329,6 +1516,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1343,6 +1532,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1357,6 +1548,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1371,6 +1564,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1385,6 +1580,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1399,6 +1596,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1413,6 +1612,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1427,6 +1628,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1441,6 +1644,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1455,6 +1660,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1469,6 +1676,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1483,6 +1692,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1497,6 +1708,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1511,6 +1724,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1525,6 +1740,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1539,6 +1756,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1553,6 +1772,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1567,6 +1788,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1581,6 +1804,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1595,6 +1820,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1609,6 +1836,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1623,6 +1852,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1637,6 +1868,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1651,6 +1884,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1665,6 +1900,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1679,6 +1916,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1693,6 +1932,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1707,6 +1948,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1721,6 +1964,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1735,6 +1980,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1749,6 +1996,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1763,6 +2012,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1777,6 +2028,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1791,6 +2044,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1805,6 +2060,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1819,6 +2076,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1833,6 +2092,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1847,6 +2108,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1861,6 +2124,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1875,6 +2140,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1889,6 +2156,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1903,6 +2172,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1917,6 +2188,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1931,6 +2204,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1945,6 +2220,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1959,6 +2236,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1973,6 +2252,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -1987,6 +2268,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2001,6 +2284,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2015,6 +2300,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2029,6 +2316,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2043,6 +2332,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2057,6 +2348,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2071,6 +2364,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2085,6 +2380,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2099,6 +2396,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2113,6 +2412,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2127,6 +2428,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2141,6 +2444,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2155,6 +2460,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2169,6 +2476,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2183,6 +2492,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2197,6 +2508,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2211,6 +2524,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2225,6 +2540,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2239,6 +2556,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2253,6 +2572,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2267,6 +2588,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2281,6 +2604,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2295,6 +2620,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2309,6 +2636,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2323,6 +2652,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2337,6 +2668,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2351,6 +2684,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2365,6 +2700,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2379,6 +2716,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2393,6 +2732,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2407,6 +2748,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2421,6 +2764,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2435,6 +2780,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2449,6 +2796,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2463,6 +2812,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2477,6 +2828,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2491,6 +2844,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2505,6 +2860,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2519,6 +2876,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2533,6 +2892,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2547,6 +2908,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2561,6 +2924,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2575,6 +2940,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2589,6 +2956,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2603,6 +2972,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2617,6 +2988,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2631,6 +3004,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2645,6 +3020,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2659,6 +3036,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2673,6 +3052,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2687,6 +3068,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2701,6 +3084,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2715,6 +3100,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2729,6 +3116,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2743,6 +3132,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2757,6 +3148,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2771,6 +3164,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2785,6 +3180,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2799,6 +3196,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2813,6 +3212,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2827,6 +3228,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2841,6 +3244,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2855,6 +3260,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2869,6 +3276,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2883,6 +3292,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2897,6 +3308,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2911,6 +3324,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2925,6 +3340,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2939,6 +3356,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2953,6 +3372,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2967,6 +3388,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2981,6 +3404,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -2995,6 +3420,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3009,6 +3436,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3023,6 +3452,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3037,6 +3468,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3051,6 +3484,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3065,6 +3500,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3079,6 +3516,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3093,6 +3532,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3107,6 +3548,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3121,6 +3564,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3135,6 +3580,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3149,6 +3596,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3163,6 +3612,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3177,6 +3628,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3191,6 +3644,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3205,6 +3660,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3219,6 +3676,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3233,6 +3692,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3247,6 +3708,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3261,6 +3724,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3275,6 +3740,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3289,6 +3756,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3303,6 +3772,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3317,6 +3788,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3331,6 +3804,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3345,6 +3820,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3359,6 +3836,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3373,6 +3852,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3387,6 +3868,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3401,6 +3884,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3415,6 +3900,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3429,6 +3916,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3443,6 +3932,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3457,6 +3948,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3471,6 +3964,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3485,6 +3980,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3499,6 +3996,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3513,6 +4012,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3527,6 +4028,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3541,6 +4044,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3555,6 +4060,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3569,6 +4076,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3583,6 +4092,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3597,6 +4108,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3611,6 +4124,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3625,6 +4140,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3639,6 +4156,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3653,6 +4172,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3667,6 +4188,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3681,6 +4204,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3695,6 +4220,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3709,6 +4236,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3723,6 +4252,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3737,6 +4268,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3751,6 +4284,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3765,6 +4300,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3779,6 +4316,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3793,6 +4332,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3807,6 +4348,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3821,6 +4364,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3835,6 +4380,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3849,6 +4396,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3863,6 +4412,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3877,6 +4428,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3891,6 +4444,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3905,6 +4460,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3919,6 +4476,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3933,6 +4492,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3947,6 +4508,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3961,6 +4524,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3975,6 +4540,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -3989,6 +4556,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4003,6 +4572,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4017,6 +4588,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4031,6 +4604,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4045,6 +4620,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4059,6 +4636,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4073,6 +4652,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4087,6 +4668,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4101,6 +4684,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4115,6 +4700,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4129,6 +4716,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4143,6 +4732,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4157,6 +4748,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4171,6 +4764,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4185,6 +4780,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4199,6 +4796,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4213,6 +4812,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4227,6 +4828,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4241,6 +4844,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4255,6 +4860,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4269,6 +4876,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4283,6 +4892,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4297,6 +4908,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4311,6 +4924,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4325,6 +4940,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4339,6 +4956,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4353,6 +4972,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4367,6 +4988,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4381,6 +5004,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4395,6 +5020,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4409,6 +5036,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4423,6 +5052,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4437,6 +5068,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4451,6 +5084,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4465,6 +5100,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4479,6 +5116,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4493,6 +5132,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4507,6 +5148,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4521,6 +5164,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4535,6 +5180,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4549,6 +5196,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4563,6 +5212,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4577,6 +5228,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4591,6 +5244,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4605,6 +5260,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4619,6 +5276,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4633,6 +5292,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4647,6 +5308,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4661,6 +5324,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4675,6 +5340,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4689,6 +5356,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4703,6 +5372,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4717,6 +5388,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4731,6 +5404,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4745,6 +5420,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4759,6 +5436,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4773,6 +5452,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4787,6 +5468,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4801,6 +5484,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4815,6 +5500,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4829,6 +5516,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4843,6 +5532,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4857,6 +5548,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4871,6 +5564,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4885,6 +5580,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4899,6 +5596,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4913,6 +5612,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4927,6 +5628,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4941,6 +5644,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4955,6 +5660,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4969,6 +5676,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4983,6 +5692,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -4997,6 +5708,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5011,6 +5724,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5025,6 +5740,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5039,6 +5756,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5053,6 +5772,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5067,6 +5788,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5081,6 +5804,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5095,6 +5820,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5109,6 +5836,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5123,6 +5852,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5137,6 +5868,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5151,6 +5884,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5165,6 +5900,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5179,6 +5916,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5193,6 +5932,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5207,6 +5948,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5221,6 +5964,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5235,6 +5980,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5249,6 +5996,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5263,6 +6012,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5277,6 +6028,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5291,6 +6044,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5305,6 +6060,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5319,6 +6076,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5333,6 +6092,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5347,6 +6108,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5361,6 +6124,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5375,6 +6140,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5389,6 +6156,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5403,6 +6172,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5417,6 +6188,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5431,6 +6204,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5445,6 +6220,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5459,6 +6236,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5473,6 +6252,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5487,6 +6268,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5501,6 +6284,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5515,6 +6300,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5529,6 +6316,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5543,6 +6332,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5557,6 +6348,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5571,6 +6364,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5585,6 +6380,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5599,6 +6396,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5613,6 +6412,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5627,6 +6428,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5641,6 +6444,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5655,6 +6460,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5669,6 +6476,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5683,6 +6492,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5697,6 +6508,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5711,6 +6524,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5725,6 +6540,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5739,6 +6556,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5753,6 +6572,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5767,6 +6588,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5781,6 +6604,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5795,6 +6620,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5809,6 +6636,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5823,6 +6652,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5837,6 +6668,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5851,6 +6684,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5865,6 +6700,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5879,6 +6716,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5893,6 +6732,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5907,6 +6748,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5921,6 +6764,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5935,6 +6780,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5949,6 +6796,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5963,6 +6812,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5977,6 +6828,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -5991,6 +6844,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6005,6 +6860,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6019,6 +6876,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6033,6 +6892,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6047,6 +6908,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6061,6 +6924,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6075,6 +6940,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6089,6 +6956,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6103,6 +6972,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6117,6 +6988,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6131,6 +7004,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6145,6 +7020,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6159,6 +7036,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6173,6 +7052,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6187,6 +7068,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6201,6 +7084,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6215,6 +7100,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6229,6 +7116,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6243,6 +7132,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6257,6 +7148,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6271,6 +7164,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6285,6 +7180,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6299,6 +7196,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6313,6 +7212,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6327,6 +7228,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6341,6 +7244,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6355,6 +7260,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6369,6 +7276,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6383,6 +7292,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6397,6 +7308,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6411,6 +7324,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6425,6 +7340,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6439,6 +7356,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6453,6 +7372,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6467,6 +7388,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6481,6 +7404,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6495,6 +7420,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6509,6 +7436,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6523,6 +7452,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6537,6 +7468,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6551,6 +7484,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6565,6 +7500,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6579,6 +7516,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6593,6 +7532,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6607,6 +7548,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6621,6 +7564,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6635,6 +7580,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6649,6 +7596,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6663,6 +7612,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6677,6 +7628,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6691,6 +7644,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6705,6 +7660,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6719,6 +7676,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6733,6 +7692,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6747,6 +7708,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6761,6 +7724,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6775,6 +7740,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6789,6 +7756,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6803,6 +7772,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6817,6 +7788,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6831,6 +7804,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6845,6 +7820,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6859,6 +7836,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6873,6 +7852,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6887,6 +7868,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6901,6 +7884,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6915,6 +7900,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6929,6 +7916,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6943,6 +7932,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6957,6 +7948,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6971,6 +7964,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6985,6 +7980,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -6999,6 +7996,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7013,6 +8012,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7027,6 +8028,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7041,6 +8044,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7055,6 +8060,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7069,6 +8076,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7083,6 +8092,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7097,6 +8108,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7111,6 +8124,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7125,6 +8140,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7139,6 +8156,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7153,6 +8172,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7167,6 +8188,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7181,6 +8204,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7195,6 +8220,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7209,6 +8236,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7223,6 +8252,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7237,6 +8268,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7251,6 +8284,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7265,6 +8300,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7279,6 +8316,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7293,6 +8332,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7307,6 +8348,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7321,6 +8364,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7335,6 +8380,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7349,6 +8396,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7363,6 +8412,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7377,6 +8428,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7391,6 +8444,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7405,6 +8460,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7419,6 +8476,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7433,6 +8492,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7447,6 +8508,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7461,6 +8524,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7475,6 +8540,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7489,6 +8556,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7503,6 +8572,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7517,6 +8588,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7531,6 +8604,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7545,6 +8620,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7559,6 +8636,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7573,6 +8652,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7587,6 +8668,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7601,6 +8684,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7615,6 +8700,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7629,6 +8716,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7643,6 +8732,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7657,6 +8748,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7671,6 +8764,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7685,6 +8780,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7699,6 +8796,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7713,6 +8812,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7727,6 +8828,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7741,6 +8844,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7755,6 +8860,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7769,6 +8876,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7783,6 +8892,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7797,6 +8908,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7811,6 +8924,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7825,6 +8940,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7839,6 +8956,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7853,6 +8972,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7867,6 +8988,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7881,6 +9004,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7895,6 +9020,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7909,6 +9036,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7923,6 +9052,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7937,6 +9068,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7951,6 +9084,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7965,6 +9100,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7979,6 +9116,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -7993,6 +9132,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8007,6 +9148,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8021,6 +9164,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8035,6 +9180,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8049,6 +9196,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8063,6 +9212,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8077,6 +9228,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8091,6 +9244,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8105,6 +9260,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8119,6 +9276,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8133,6 +9292,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8147,6 +9308,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8161,6 +9324,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8175,6 +9340,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8189,6 +9356,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8203,6 +9372,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8217,6 +9388,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8231,6 +9404,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8245,6 +9420,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8259,6 +9436,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8273,6 +9452,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8287,6 +9468,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8301,6 +9484,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8315,6 +9500,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8329,6 +9516,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8343,6 +9532,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8357,6 +9548,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8371,6 +9564,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8385,6 +9580,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8399,6 +9596,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8413,6 +9612,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8427,6 +9628,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8441,6 +9644,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8455,6 +9660,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8469,6 +9676,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8483,6 +9692,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8497,6 +9708,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8511,6 +9724,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8525,6 +9740,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8539,6 +9756,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8553,6 +9772,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8567,6 +9788,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8581,6 +9804,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8595,6 +9820,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8609,6 +9836,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8623,6 +9852,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8637,6 +9868,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8651,6 +9884,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8665,6 +9900,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8679,6 +9916,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8693,6 +9932,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8707,6 +9948,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8721,6 +9964,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8735,6 +9980,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8749,6 +9996,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8763,6 +10012,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8777,6 +10028,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8791,6 +10044,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8805,6 +10060,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8819,6 +10076,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8833,6 +10092,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8847,6 +10108,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8861,6 +10124,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8875,6 +10140,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8889,6 +10156,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8903,6 +10172,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8917,6 +10188,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8931,6 +10204,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8945,6 +10220,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8959,6 +10236,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8973,6 +10252,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -8987,6 +10268,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9001,6 +10284,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9015,6 +10300,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9029,6 +10316,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9043,6 +10332,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9057,6 +10348,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9071,6 +10364,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9085,6 +10380,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9099,6 +10396,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9113,6 +10412,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9127,6 +10428,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9141,6 +10444,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9155,6 +10460,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9169,6 +10476,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9183,6 +10492,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9197,6 +10508,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9211,6 +10524,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9225,6 +10540,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9239,6 +10556,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9253,6 +10572,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9267,6 +10588,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9281,6 +10604,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9295,6 +10620,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9309,6 +10636,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9323,6 +10652,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9337,6 +10668,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9351,6 +10684,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9365,6 +10700,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9379,6 +10716,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9393,6 +10732,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9407,6 +10748,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9421,6 +10764,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9435,6 +10780,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9449,6 +10796,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9463,6 +10812,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9477,6 +10828,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9491,6 +10844,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9505,6 +10860,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9519,6 +10876,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9533,6 +10892,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9547,6 +10908,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9561,6 +10924,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9575,6 +10940,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9589,6 +10956,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9603,6 +10972,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9617,6 +10988,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9631,6 +11004,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9645,6 +11020,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9659,6 +11036,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9673,6 +11052,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9687,6 +11068,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9701,6 +11084,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9715,6 +11100,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9729,6 +11116,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9743,6 +11132,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9757,6 +11148,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9771,6 +11164,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9785,6 +11180,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9799,6 +11196,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9813,6 +11212,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9827,6 +11228,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9841,6 +11244,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9855,6 +11260,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9869,6 +11276,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9883,6 +11292,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9897,6 +11308,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9911,6 +11324,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9925,6 +11340,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9939,6 +11356,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9953,6 +11372,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9967,6 +11388,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9981,6 +11404,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -9995,6 +11420,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10009,6 +11436,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10023,6 +11452,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10037,6 +11468,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10051,6 +11484,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10065,6 +11500,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10079,6 +11516,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10093,6 +11532,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10107,6 +11548,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10121,6 +11564,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10135,6 +11580,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10149,6 +11596,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10163,6 +11612,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10177,6 +11628,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10191,6 +11644,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10205,6 +11660,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10219,6 +11676,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10233,6 +11692,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10247,6 +11708,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10261,6 +11724,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10275,6 +11740,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10289,6 +11756,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10303,6 +11772,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10317,6 +11788,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10331,6 +11804,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10345,6 +11820,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10359,6 +11836,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10373,6 +11852,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10387,6 +11868,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10401,6 +11884,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10415,6 +11900,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10429,6 +11916,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10443,6 +11932,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10457,6 +11948,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10471,6 +11964,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10485,6 +11980,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10499,6 +11996,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10513,6 +12012,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10527,6 +12028,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10541,6 +12044,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10555,6 +12060,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10569,6 +12076,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10583,6 +12092,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10597,6 +12108,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10611,6 +12124,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10625,6 +12140,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10639,6 +12156,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10653,6 +12172,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10667,6 +12188,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10681,6 +12204,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10695,6 +12220,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10709,6 +12236,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10723,6 +12252,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10737,6 +12268,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10751,6 +12284,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10765,6 +12300,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10779,6 +12316,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10793,6 +12332,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10807,6 +12348,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10821,6 +12364,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10835,6 +12380,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10849,6 +12396,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10863,6 +12412,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10877,6 +12428,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10891,6 +12444,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10905,6 +12460,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10919,6 +12476,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10933,6 +12492,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10947,6 +12508,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10961,6 +12524,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10975,6 +12540,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -10989,6 +12556,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11003,6 +12572,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11017,6 +12588,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11031,6 +12604,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11045,6 +12620,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11059,6 +12636,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11073,6 +12652,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11087,6 +12668,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11101,6 +12684,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11115,6 +12700,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11129,6 +12716,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11143,6 +12732,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11157,6 +12748,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11171,6 +12764,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11185,6 +12780,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11199,6 +12796,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11213,6 +12812,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11227,6 +12828,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11241,6 +12844,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11255,6 +12860,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11269,6 +12876,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11283,6 +12892,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11297,6 +12908,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11311,6 +12924,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11325,6 +12940,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11339,6 +12956,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11353,6 +12972,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11367,6 +12988,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11381,6 +13004,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11395,6 +13020,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11409,6 +13036,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11423,6 +13052,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11437,6 +13068,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11451,6 +13084,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11465,6 +13100,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11479,6 +13116,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11493,6 +13132,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11507,6 +13148,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11521,6 +13164,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11535,6 +13180,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11549,6 +13196,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11563,6 +13212,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11577,6 +13228,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11591,6 +13244,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11605,6 +13260,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11619,6 +13276,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11633,6 +13292,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11647,6 +13308,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11661,6 +13324,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11675,6 +13340,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11689,6 +13356,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11703,6 +13372,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11717,6 +13388,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11731,6 +13404,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11745,6 +13420,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11759,6 +13436,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11773,6 +13452,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11787,6 +13468,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11801,6 +13484,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11815,6 +13500,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11829,6 +13516,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11843,6 +13532,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11857,6 +13548,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11871,6 +13564,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11885,6 +13580,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11899,6 +13596,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11913,6 +13612,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11927,6 +13628,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11941,6 +13644,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11955,6 +13660,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11969,6 +13676,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11983,6 +13692,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -11997,6 +13708,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12011,6 +13724,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12025,6 +13740,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12039,6 +13756,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12053,6 +13772,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12067,6 +13788,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12081,6 +13804,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12095,6 +13820,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12109,6 +13836,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12123,6 +13852,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12137,6 +13868,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12151,6 +13884,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12165,6 +13900,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12179,6 +13916,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     },
     {
@@ -12193,6 +13932,8 @@
       "c3_qr": true,
       "c4_ai_locality": true,
       "c5_pricing": true,
+      "c6_legiscore_title": true,
+      "legiscore_grade": "AAA",
       "compliant": true
     }
   ]
