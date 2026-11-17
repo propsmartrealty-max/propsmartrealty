@@ -15,13 +15,14 @@ import {
     Sparkles, 
     Calendar,
     ArrowRight,
-    Maximize2
+    Maximize2,
+    Heart
 } from 'lucide-react';
 import { Project } from '../../types';
 import { useData } from '../../context/DataContext';
 import DealBadge from './DealBadge';
 import LeadForm from './LeadForm';
-import { getOptimizedImageUrl, getResilientFallbackImage } from '../../utils/imageUtils';
+import { getOptimizedImageUrl, getResilientFallbackImage, getImageSrcSet, getLqipPlaceholder } from '../../utils/imageUtils';
 import { getProjectQRCodeUrl, getMahaRERAVerificationUrl } from '../../utils/qrUtils';
 import { getProjectWhatsAppMessage, getWhatsAppUrl } from '../../utils/whatsappUtils';
 import { getAllInclusivePricing, getFinalCarpetAreaOnly } from '../../utils/pricingUtils';
@@ -32,7 +33,8 @@ interface PropertyCardProps {
 }
 
 const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }) => {
-    const { localities = [], builders = [], compareList = [], addToCompare, removeFromCompare } = useData();
+    const { localities = [], builders = [], compareList = [], addToCompare, removeFromCompare, toggleFavorite, isFavorite } = useData();
+    const isFav = isFavorite ? isFavorite(project.id) : false;
     const [imgSrc, setImgSrc] = useState(() => project?.image ? getOptimizedImageUrl(project.image, 600) : getResilientFallbackImage(project?.id || 'propsmart'));
     const [showLeadForm, setShowLeadForm] = useState(false);
     const [showQRModal, setShowQRModal] = useState(false);
@@ -156,12 +158,18 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                 <Link to={projectLink} className="block h-full w-full" title={project.title} aria-label={`${project.title} in ${project.location}`}>
                     <img
                         src={imgSrc}
+                        srcSet={getImageSrcSet(imgSrc)}
+                        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                         alt={project.title}
                         width="600"
                         height="375"
                         referrerPolicy="no-referrer"
                         className="w-full h-full object-cover group-hover:scale-108 transition-transform duration-700 ease-out"
                         loading="lazy"
+                        style={{
+                            backgroundImage: `url("${getLqipPlaceholder(project.title)}")`,
+                            backgroundSize: 'cover'
+                        }}
                         onError={() => {
                             setImgSrc(getResilientFallbackImage(project.id));
                         }}
@@ -180,6 +188,25 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                     </div>
 
                     <div className="flex items-center gap-1.5 shrink-0 pointer-events-auto">
+                        {/* Heart / Shortlist Button */}
+                        <button
+                            type="button"
+                            onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                if (toggleFavorite) toggleFavorite(project.id);
+                            }}
+                            className={`p-1.5 rounded-lg backdrop-blur-md border transition-all shadow-md hover:scale-110 active:scale-95 ${
+                                isFav
+                                    ? 'bg-rose-500 text-white border-rose-400 shadow-rose-500/30'
+                                    : 'bg-slate-950/70 text-white/90 border-white/20 hover:bg-rose-600 hover:text-white'
+                            }`}
+                            title={isFav ? "Remove from Shortlist" : "Save to Shortlist"}
+                            aria-label={isFav ? "Remove from Shortlist" : "Save to Shortlist"}
+                        >
+                            <Heart className={`w-3.5 h-3.5 ${isFav ? 'fill-current text-white' : 'stroke-[2.2]'}`} />
+                        </button>
+
                         {project.reraId && (
                             <button
                                 type="button"

@@ -26,6 +26,12 @@ interface DataContextType {
     removeFromCompare: (id: string) => void;
     clearCompare: () => void;
 
+    // Shortlist / Favorites Logic
+    favorites: string[];
+    toggleFavorite: (id: string) => void;
+    isFavorite: (id: string) => boolean;
+    clearFavorites: () => void;
+
     refreshData: () => void;
 }
 
@@ -64,6 +70,40 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
         setCompareList([]);
         localStorage.removeItem('propsmart_compare');
     };
+
+    // Favorites / Shortlist State (LocalStorage Persisted)
+    const [favorites, setFavorites] = React.useState<string[]>(() => {
+        try {
+            const saved = localStorage.getItem('propsmart_favorites');
+            return saved ? JSON.parse(saved) : [];
+        } catch {
+            return [];
+        }
+    });
+
+    const toggleFavorite = React.useCallback((id: string) => {
+        setFavorites(prev => {
+            const exists = prev.includes(id);
+            const newList = exists ? prev.filter(item => item !== id) : [...prev, id];
+            try {
+                localStorage.setItem('propsmart_favorites', JSON.stringify(newList));
+            } catch (e) {
+                console.error(e);
+            }
+            return newList;
+        });
+    }, []);
+
+    const isFavorite = React.useCallback((id: string) => favorites.includes(id), [favorites]);
+
+    const clearFavorites = React.useCallback(() => {
+        setFavorites([]);
+        try {
+            localStorage.removeItem('propsmart_favorites');
+        } catch (e) {
+            console.error(e);
+        }
+    }, []);
 
     // Fetch initial data (load full inventory so all project cards, detail routes, and rails resolve instantly)
     const projectsQuery = useQuery({
@@ -196,6 +236,11 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
             removeFromCompare,
             clearCompare,
 
+            favorites,
+            toggleFavorite,
+            isFavorite,
+            clearFavorites,
+
             addProject: (p: Project) => addProjectMutation.mutateAsync(p),
             updateProject: (id: string, u: Partial<Project>) => updateProjectMutation.mutateAsync({ id, updates: u }),
             deleteProject: (id: string) => deleteProjectMutation.mutateAsync(id),
@@ -213,7 +258,11 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
         buildersQuery.data,
         localitiesQuery.data,
         projectsQuery.isLoading,
-        compareList
+        compareList,
+        favorites,
+        toggleFavorite,
+        isFavorite,
+        clearFavorites
     ]);
 
     return (

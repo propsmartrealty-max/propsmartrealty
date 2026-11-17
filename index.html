@@ -292,6 +292,14 @@
 <body class="bg-slate-50 text-slate-900">
   <div id="root"></div>
   <script type="module" src="/src/index.tsx"></script>
+  <!-- Progressive Web App Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator && (window.location.protocol === 'https:' || window.location.hostname === 'localhost')) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/sw.js').catch(function() {});
+      });
+    }
+  </script>
   <!-- Cloudflare Web Analytics (RUM) -->
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e0a2142b372a4b348b4214b3ab35ce62"}'></script>
   <!-- End Cloudflare Web Analytics -->

@@ -1,5 +1,5 @@
 
-import { Home, Building2, Key, Rocket, MapPin, Users, Calculator, FileText, Phone, ShieldCheck } from 'lucide-react';
+import { Home, Building2, Key, Rocket, MapPin, Users, Calculator, FileText, Phone, ShieldCheck, Heart } from 'lucide-react';
 
 export interface NavItem {
     name: string;
@@ -31,6 +31,11 @@ export const NAVIGATION_CONFIG: NavItem[] = [
         name: 'New Projects',
         path: '/search?type=new-launch',
         icon: Rocket
+    },
+    {
+        name: 'Shortlist',
+        path: '/shortlist',
+        icon: Heart
     },
     {
         name: 'Verify RERA',

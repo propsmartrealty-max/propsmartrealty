@@ -1,12 +1,12 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Home, Search, ShieldCheck, Scale, MessageCircle } from 'lucide-react';
+import { Home, Search, Heart, Scale, MessageCircle } from 'lucide-react';
 import { useData } from '../../context/DataContext';
 import { getWhatsAppUrl } from '../../utils/whatsappUtils';
 
 export const MobileBottomNav: React.FC = () => {
     const location = useLocation();
-    const { compareList = [] } = useData();
+    const { compareList = [], favorites = [] } = useData();
     const pathname = location.pathname.toLowerCase();
 
     // Hide Mobile Bottom Nav on Admin routes and Project Details (which has its own dedicated CTA bar)
@@ -26,8 +26,8 @@ export const MobileBottomNav: React.FC = () => {
                            pathname === '/thane' || 
                            pathname === '/navi-mumbai' ||
                            pathname === '/directory';
+    const isShortlistActive = pathname === '/shortlist' || pathname === '/saved';
     const isCompareActive = pathname === '/compare';
-    const isReraActive = pathname.startsWith('/verify-rera') || pathname.startsWith('/maharera-verification');
 
     return (
         <aside 
@@ -71,7 +71,30 @@ export const MobileBottomNav: React.FC = () => {
                     </span>
                 </Link>
 
-                {/* 3. Compare (with Live Badge) */}
+                {/* 3. Shortlist (with Live Badge) */}
+                <Link
+                    to="/shortlist"
+                    className={`relative flex flex-col items-center justify-center py-1 px-2.5 rounded-2xl transition-all duration-200 active:scale-90 ${
+                        isShortlistActive
+                            ? 'text-rose-600'
+                            : 'text-slate-500 hover:text-slate-900'
+                    }`}
+                    aria-label={`Shortlisted Projects (${favorites.length} saved)`}
+                >
+                    <div className={`p-1.5 rounded-xl relative transition-colors ${isShortlistActive ? 'bg-rose-50 shadow-2xs' : ''}`}>
+                        <Heart className={`w-5 h-5 ${isShortlistActive ? 'stroke-[2.5] fill-rose-500 text-rose-500' : 'stroke-2'}`} />
+                        {favorites.length > 0 && (
+                            <span className="absolute -top-1 -right-1 bg-rose-500 text-white font-black text-[9px] w-4 h-4 rounded-full flex items-center justify-center shadow-xs animate-in zoom-in-50 duration-200">
+                                {favorites.length}
+                            </span>
+                        )}
+                    </div>
+                    <span className={`text-[10px] mt-0.5 tracking-tight ${isShortlistActive ? 'font-black text-rose-700' : 'font-semibold'}`}>
+                        Shortlist
+                    </span>
+                </Link>
+
+                {/* 4. Compare (with Live Badge) */}
                 <Link
                     to="/compare"
                     className={`relative flex flex-col items-center justify-center py-1 px-2.5 rounded-2xl transition-all duration-200 active:scale-90 ${
@@ -91,24 +114,6 @@ export const MobileBottomNav: React.FC = () => {
                     </div>
                     <span className={`text-[10px] mt-0.5 tracking-tight ${isCompareActive ? 'font-black text-sky-700' : 'font-semibold'}`}>
                         Compare
-                    </span>
-                </Link>
-
-                {/* 4. MahaRERA Verification */}
-                <Link
-                    to="/verify-rera"
-                    className={`flex flex-col items-center justify-center py-1 px-2.5 rounded-2xl transition-all duration-200 active:scale-90 ${
-                        isReraActive
-                            ? 'text-emerald-600'
-                            : 'text-slate-500 hover:text-slate-900'
-                    }`}
-                    aria-label="Verify MahaRERA"
-                >
-                    <div className={`p-1.5 rounded-xl transition-colors ${isReraActive ? 'bg-emerald-50 shadow-2xs' : ''}`}>
-                        <ShieldCheck className={`w-5 h-5 ${isReraActive ? 'stroke-[2.5] text-emerald-600' : 'stroke-2'}`} />
-                    </div>
-                    <span className={`text-[10px] mt-0.5 tracking-tight ${isReraActive ? 'font-black text-emerald-700' : 'font-semibold'}`}>
-                        RERA
                     </span>
                 </Link>
 

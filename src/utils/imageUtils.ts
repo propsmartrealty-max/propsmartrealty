@@ -77,6 +77,24 @@ export const getOptimizedImageUrl = (
     }
 };
 
+export const getImageSrcSet = (
+    url: string | undefined | null,
+    widths: number[] = [400, 800, 1200]
+): string => {
+    if (!url) return '';
+    return widths
+        .map(w => `${getOptimizedImageUrl(url, w)} ${w}w`)
+        .join(', ');
+};
+
+/**
+ * Ultra-lightweight inline SVG shimmer / blur placeholder to prevent CLS
+ */
+export const getLqipPlaceholder = (title: string = 'Propsmart'): string => {
+    const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" width="100%" height="100%"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0f172a"/><stop offset="50%" stop-color="#1e293b"/><stop offset="100%" stop-color="#0f172a"/></linearGradient></defs><rect width="400" height="250" fill="url(#g)"/><circle cx="200" cy="125" r="40" fill="#38bdf8" opacity="0.1"/></svg>`;
+    return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
+};
+
 export const getBlurHash = (_url: string) => {
     return "L6PZfSi_.AyE_3t7t7R**0o#DgR4";
 };

@@ -35,6 +35,7 @@ const AdminMedia = React.lazy(() => import('./pages/admin/MediaGallery'));
 const AdminRERAIntelligence = React.lazy(() => import('./pages/admin/RERAIntelligence'));
 const CompareProjects = React.lazy(() => import('./pages/CompareProjects'));
 const MahaRERAVerification = React.lazy(() => import('./pages/MahaRERAVerification'));
+const Shortlist = React.lazy(() => import('./pages/Shortlist'));
 
 const LoadingFallback = () => (
     <div className="h-screen w-full flex items-center justify-center">
@@ -276,6 +277,8 @@ function App() {
                                     <Route path="/verify-rera/:reraId" element={<MahaRERAVerification />} />
                                     <Route path="/maharera-verification" element={<MahaRERAVerification />} />
                                     <Route path="/compare" element={<CompareProjects />} />
+                                    <Route path="/shortlist" element={<Shortlist />} />
+                                    <Route path="/saved" element={<Shortlist />} />
                                     <Route path="/post-property" element={<PostProperty />} />
                                     <Route path="/about" element={<About />} />
                                     <Route path="/contact" element={<Contact />} />

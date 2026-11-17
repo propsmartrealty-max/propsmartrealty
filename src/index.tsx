@@ -4,8 +4,10 @@ import App from './App';
 import './index.css';
 
 import ErrorBoundary from './components/ErrorBoundary';
+import { initWebVitalsTelemetry } from './utils/telemetry';
 
 const init = () => {
+  initWebVitalsTelemetry();
   const container = document.getElementById('root');
   if (!container) {
     console.error("Failed to find root element");

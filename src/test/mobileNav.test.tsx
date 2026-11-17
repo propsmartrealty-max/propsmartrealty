@@ -8,6 +8,7 @@ describe('MobileBottomNav Component', () => {
     // Mock DataContext hook
     vi.spyOn(DataContext, 'useData').mockReturnValue({
         compareList: ['p-1', 'p-2'],
+        favorites: ['p-1'],
         projects: [],
         builders: [],
         localities: [],
@@ -18,6 +19,9 @@ describe('MobileBottomNav Component', () => {
         addToCompare: vi.fn(),
         removeFromCompare: vi.fn(),
         clearCompare: vi.fn(),
+        toggleFavorite: vi.fn(),
+        isFavorite: vi.fn(),
+        clearFavorites: vi.fn(),
     } as any);
 
     it('renders all 5 core mobile navigation tabs on buyer pages', () => {
@@ -29,10 +33,11 @@ describe('MobileBottomNav Component', () => {
 
         expect(screen.getByLabelText('Home')).toBeInTheDocument();
         expect(screen.getByLabelText('Search Properties')).toBeInTheDocument();
+        expect(screen.getByLabelText('Shortlisted Projects (1 saved)')).toBeInTheDocument();
         expect(screen.getByLabelText('Compare Projects (2 selected)')).toBeInTheDocument();
-        expect(screen.getByLabelText('Verify MahaRERA')).toBeInTheDocument();
         expect(screen.getByLabelText('Chat on WhatsApp')).toBeInTheDocument();
         expect(screen.getByText('2')).toBeInTheDocument(); // Compare count badge
+        expect(screen.getByText('1')).toBeInTheDocument(); // Shortlist count badge
     });
 
     it('hides MobileBottomNav on Admin routes', () => {

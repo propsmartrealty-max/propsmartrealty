@@ -3,6 +3,7 @@ import { mapProjectFromDb, mapBuilderFromDb } from '../utils/mapper';
 import { BUILDERS } from '../data/mockData';
 import { PROJECT_SUMMARIES } from '../data/projectSummaries';
 import { parsePriceRangeInLakhs } from '../utils/pricingUtils';
+import { calculateFuzzyScore } from '../utils/fuzzySearch';
 
 const PAGE_SIZE = 10;
 
@@ -46,15 +47,23 @@ function filterProjectsLocally(page: number, filters: ProjectFilters = {}) {
         );
     }
 
-    const searchKeyword = (filters.query || filters.location || '').toLowerCase().trim();
+    const searchKeyword = (filters.query || filters.location || '').trim();
     if (searchKeyword) {
-        list = list.filter(p => 
-            p.location.toLowerCase().includes(searchKeyword) || 
-            p.title.toLowerCase().includes(searchKeyword) ||
-            p.slug.toLowerCase().includes(searchKeyword) ||
-            p.builderId.toLowerCase().includes(searchKeyword) ||
-            (p.description && p.description.toLowerCase().includes(searchKeyword))
-        );
+        list = list.filter(p => {
+            const keys = [
+                p.location,
+                p.title,
+                p.slug.replace(/-/g, ' '),
+                p.builderId,
+                p.city || ''
+            ];
+            // Fast direct substring match
+            if (keys.some(k => k && k.toLowerCase().includes(searchKeyword.toLowerCase()))) {
+                return true;
+            }
+            // Typo-tolerant fuzzy match (e.g. "hinjawadi" -> Hinjewadi, "gojrej" -> Godrej)
+            return keys.some(k => k && calculateFuzzyScore(searchKeyword, k) >= 0.70);
+        });
     }
 
     if (filters.type && filters.type.trim()) {
