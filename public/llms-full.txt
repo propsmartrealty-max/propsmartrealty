@@ -1,7 +1,7 @@
 # PROPSMART REALTY — Complete Real Estate Knowledge Corpus
 > Domain: https://propsmart.co.in
 > MahaRERA Agent Registration: A031262401295
-> Total Verified Projects: 856
+> Total Verified Projects: 870
 > Total Verified Builders: 316
 > Total Localities: 152
 
@@ -12,7 +12,7 @@ This document contains the complete, unabridged real estate database of verified
 # TABLE OF CONTENTS
 1. Localities & Corridor Rates
 2. Leading Real Estate Developers
-3. Complete Verified Projects Catalog (856 Projects)
+3. Complete Verified Projects Catalog (870 Projects)
 
 ---
 
@@ -477,7 +477,7 @@ This document contains the complete, unabridged real estate database of verified
 | Hiranandani Group | 1978 | 15 | 4.9/10 | https://propsmart.co.in/builder/hiranandani-group |
 | Della Townships | 1996 | 4 | 4.9/10 | https://propsmart.co.in/builder/della-townships |
 | Oberoi Realty | 1980 | 3 | 98/10 | https://propsmart.co.in/builder/oberoi-realty |
-| Runwal Group | 1978 | 22 | 94/10 | https://propsmart.co.in/builder/runwal-group |
+| Runwal Group | 1978 | 36 | 94/10 | https://propsmart.co.in/builder/runwal-group |
 | Raymond Realty | 2019 | 2 | 95/10 | https://propsmart.co.in/builder/raymond-realty |
 | Rustomjee | 1996 | 2 | 96/10 | https://propsmart.co.in/builder/rustomjee |
 | Piramal Realty | 2012 | 2 | 97/10 | https://propsmart.co.in/builder/piramal-realty |
@@ -498,7 +498,7 @@ This document contains the complete, unabridged real estate database of verified
 
 ---
 
-# 3. COMPLETE VERIFIED PROJECTS CATALOG (856 Projects)
+# 3. COMPLETE VERIFIED PROJECTS CATALOG (870 Projects)
 
 | Project Name | Locality | Typologies | Price Range (All-Inclusive) | Status | MahaRERA ID | URL |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -1358,3 +1358,17 @@ This document contains the complete, unabridged real estate database of verified
 | Runwal Greens | Mulund West | 2 BHK, 3 BHK, 4 BHK | ₹2.20 Cr - ₹5.80 Cr | Ready To Move | `P51800000341` | https://propsmart.co.in/project/runwal-greens-mulund |
 | Runwal Reserve | Worli | 3 BHK, 4 BHK, 5 BHK Duplex | ₹7.50 Cr - ₹22.00 Cr | Under Construction | `P51900000287` | https://propsmart.co.in/project/runwal-reserve-worli |
 | R Mall by Runwal | Mulund West | Retail Shops, F&B Anchor Stores, Showrooms | ₹1.50 Cr - ₹15.00 Cr | Ready To Move | `P51800000490` | https://propsmart.co.in/project/r-mall-by-runwal-mulund |
+| Runwal Malabar | Malabar Hill | 4 BHK, 5 BHK, Signature Penthouse | ₹18.00 Cr - ₹45.00 Cr | Under Construction | `P51900035190` | https://propsmart.co.in/project/runwal-malabar-hill |
+| Runwal Raaya | Worli | 3 BHK, 4 BHK, 5 BHK | ₹8.90 Cr - ₹24.00 Cr | Under Construction | `P51900080218` | https://propsmart.co.in/project/runwal-raaya-worli |
+| Runwal Rare | Andheri West | 2 BHK, 3 BHK | ₹2.45 Cr - ₹4.80 Cr | Under Construction | `P51800034594` | https://propsmart.co.in/project/runwal-rare-andheri |
+| Runwal Auris | Chembur | 1 BHK, 2 BHK, 3 BHK | ₹1.65 Cr - ₹3.40 Cr | New Launch | `P51800055792` | https://propsmart.co.in/project/runwal-auris-chembur |
+| Runwal Zenith | Balkum | 2 BHK, 3 BHK | ₹88.00 L - ₹1.85 Cr | Under Construction | `P51700046734` | https://propsmart.co.in/project/runwal-zenith-thane |
+| Runwal Lands End | Kolshet | 1 BHK, 2 BHK, 3 BHK | ₹75.00 L - ₹1.70 Cr | Under Construction | `P51700033799` | https://propsmart.co.in/project/runwal-lands-end-thane |
+| Runwal One | Majiwada | 2 BHK, 3 BHK, 4 BHK | ₹1.35 Cr - ₹3.10 Cr | Under Construction | `P51700053696` | https://propsmart.co.in/project/runwal-one-thane |
+| R Square Mulund | Mulund West | Boutique Offices, Corporate Suites, Retail Showrooms | ₹95.00 L - ₹6.50 Cr | Ready To Move | `P51800021450` | https://propsmart.co.in/project/r-square-mulund |
+| R Square Andheri | Andheri East | Grade-A Offices, IT Workspaces, Corporate Suites | ₹1.45 Cr - ₹9.80 Cr | Ready To Move | `P51800021980` | https://propsmart.co.in/project/r-square-andheri |
+| The Residence by Runwal | Napean Sea Road | 4 BHK, 5 BHK Duplex | ₹25.00 Cr - ₹65.00 Cr | Ready To Move | `P51900008345` | https://propsmart.co.in/project/the-residence-napean-sea-road |
+| Runwal Elina | Andheri East | 2 BHK, 3 BHK | ₹1.40 Cr - ₹2.80 Cr | Ready To Move | `P51800001433` | https://propsmart.co.in/project/runwal-elina-sakinaka |
+| Runwal Orchard Residency | Ghatkopar West | 2 BHK, 3 BHK | ₹1.55 Cr - ₹3.20 Cr | Ready To Move | `P51800001443` | https://propsmart.co.in/project/runwal-orchard-residency-ghatkopar |
+| Runwal Eirene | Balkum | 2 BHK, 2.5 BHK, 3 BHK | ₹82.00 L - ₹1.75 Cr | Ready To Move | `P51700000125` | https://propsmart.co.in/project/runwal-eirene-thane |
+| Runwal The Central Park | Pimpri-Chinchwad | 2 BHK, 3 BHK, 4 BHK | ₹72.00 L - ₹1.55 Cr | Under Construction | `P52100032101` | https://propsmart.co.in/project/runwal-the-central-park-pune |
