@@ -1,5 +1,9 @@
 import { readFileSync } from 'fs';
-import { resolve } from 'path';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 const HOST = 'propsmart.co.in';
 const BASE_URL = `https://${HOST}`;
@@ -9,7 +13,7 @@ const KEY_LOCATION = `${BASE_URL}/${KEY}.txt`;
 async function submitIndexNow() {
     console.log("⚡ Submitting all URLs to IndexNow (Bing, Yandex, Seznam, Naver)...");
 
-    const mockDataPath = resolve('./src/data/mockData.ts');
+    const mockDataPath = resolve(__dirname, '../src/data/mockData.ts');
     const mockDataContent = readFileSync(mockDataPath, 'utf-8');
 
     // Extract all URLs
