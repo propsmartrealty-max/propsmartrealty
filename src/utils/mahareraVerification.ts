@@ -92,8 +92,8 @@ export const sanitizeMahaRERANumber = (raw?: string): string => {
     if (!raw || typeof raw !== 'string') return '';
     return raw
         .trim()
-        .replace(/^(?:maharera|rera|registration|number|id|no)[\s:\-#]*/gi, '')
-        .replace(/[\s\-\/\:\#\.\,\;\(\)\[\]]+/g, '')
+        .replace(/^(?:maharera|rera|registration|number|id|no)[\s:#-]*/gi, '')
+        .replace(/[\s/#.,;()[\]-]+/g, '')
         .toUpperCase();
 };
 

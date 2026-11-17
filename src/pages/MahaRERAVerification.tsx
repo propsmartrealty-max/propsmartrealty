@@ -42,11 +42,21 @@ import SEO from '../components/SEO';
 
 const MahaRERAVerification: React.FC = () => {
     const [searchParams, setSearchParams] = useSearchParams();
-    const initialQuery = searchParams.get('id') || searchParams.get('rera') || searchParams.get('q') || 'P52100050939';
+    const queryParam = searchParams.get('id') || searchParams.get('rera') || searchParams.get('q') || '';
+    const initialQuery = queryParam || 'P52100050939';
 
     const [inputVal, setInputVal] = useState(initialQuery);
+    const [prevQuery, setPrevQuery] = useState(queryParam);
     const [copied, setCopied] = useState(false);
     const [showQRCodeModal, setShowQRCodeModal] = useState(false);
+
+    // Sync input when URL param changes (React official render-phase adjustment)
+    if (queryParam !== prevQuery) {
+        setPrevQuery(queryParam);
+        if (queryParam) {
+            setInputVal(queryParam);
+        }
+    }
 
     // Run verification validation
     const result: MahaRERAVerificationResult = useMemo(() => {
@@ -54,14 +64,6 @@ const MahaRERAVerification: React.FC = () => {
     }, [inputVal]);
 
     const popularProjects = useMemo(() => getPopularVerifiedProjects(6), []);
-
-    // Sync input when URL param changes
-    useEffect(() => {
-        const paramId = searchParams.get('id') || searchParams.get('rera') || searchParams.get('q');
-        if (paramId && paramId !== inputVal) {
-            setInputVal(paramId);
-        }
-    }, [searchParams]);
 
     const handleSelectQuery = (val: string) => {
         setInputVal(val);

@@ -273,7 +273,7 @@ const ProjectDetails = () => {
     const allInclusivePricing = useMemo(() => {
         if (!project) return null;
         return getAllInclusivePricing(project.exactPrice, project.priceRange);
-    }, [project?.exactPrice, project?.priceRange]);
+    }, [project]);
 
     const safeGalleryImages: string[] = useMemo(() => {
         const imgs = project?.images;

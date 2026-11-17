@@ -23,22 +23,9 @@ const BuilderDetails = () => {
     const { slug } = useParams<{ slug: string }>();
     const { builders, projects } = useData();
 
-    if (slug && LEGACY_BUILDER_REDIRECTS[slug]) {
-        return <Navigate to={LEGACY_BUILDER_REDIRECTS[slug]} replace />;
-    }
-
-    const builder = builders.find(b => b.slug === slug);
-
-    if (!builder) {
-        return (
-            <div className="min-h-screen flex items-center justify-center">
-                <div className="text-center">
-                    <h2 className="text-2xl font-bold mb-2">Builder Not Found</h2>
-                    <Link to="/" className="text-blue-600 hover:underline">Return Home</Link>
-                </div>
-            </div>
-        );
-    }
+    const builder = useMemo(() => {
+        return builders.find(b => b.slug === slug);
+    }, [builders, slug]);
 
     // Robust filtering logic: check builderId against id OR name, and cross-reference brands like Joyville
     const builderProjects = useMemo(() => {
@@ -51,6 +38,21 @@ const BuilderDetails = () => {
         }
         return projects.filter(p => p.builderId === builder.id || p.builderId === builder.name);
     }, [builder, projects]);
+
+    if (slug && LEGACY_BUILDER_REDIRECTS[slug]) {
+        return <Navigate to={LEGACY_BUILDER_REDIRECTS[slug]} replace />;
+    }
+
+    if (!builder) {
+        return (
+            <div className="min-h-screen flex items-center justify-center">
+                <div className="text-center">
+                    <h2 className="text-2xl font-bold mb-2">Builder Not Found</h2>
+                    <Link to="/" className="text-blue-600 hover:underline">Return Home</Link>
+                </div>
+            </div>
+        );
+    }
 
     return (
         <div className="min-h-screen bg-gray-50">

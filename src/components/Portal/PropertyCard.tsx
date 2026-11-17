@@ -51,6 +51,16 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
         return builders.find(b => b.id === project.builderId);
     }, [builders, project?.builderId]);
 
+    // Honest, All-Inclusive Price calculation (Government Taxes, Stamp Duty & Reg. Included)
+    const pricing = useMemo(() => {
+        return getAllInclusivePricing(project?.exactPrice, project?.priceRange);
+    }, [project?.exactPrice, project?.priceRange]);
+
+    // Total and Final Carpet Area Only (MahaRERA Usable)
+    const finalCarpetAreaOnly = useMemo(() => {
+        return getFinalCarpetAreaOnly(project?.configurationDetails);
+    }, [project?.configurationDetails]);
+
     if (!project) return null;
 
     const projectSlug = project.slug || project.id;
@@ -73,16 +83,6 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
 
     const qrUrl = getProjectQRCodeUrl(project.slug || project.id, project.reraId);
     const mahaReraLink = getMahaRERAVerificationUrl(project.reraId);
-
-    // Honest, All-Inclusive Price calculation (Government Taxes, Stamp Duty & Reg. Included)
-    const pricing = useMemo(() => {
-        return getAllInclusivePricing(project.exactPrice, project.priceRange);
-    }, [project.exactPrice, project.priceRange]);
-
-    // Total and Final Carpet Area Only (MahaRERA Usable)
-    const finalCarpetAreaOnly = useMemo(() => {
-        return getFinalCarpetAreaOnly(project.configurationDetails);
-    }, [project.configurationDetails]);
 
     // Direct WhatsApp message pre-filled with project details
     const whatsAppMessage = getProjectWhatsAppMessage(
