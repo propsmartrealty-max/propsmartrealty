@@ -21,9 +21,10 @@ import { Project } from '../../types';
 import { useData } from '../../context/DataContext';
 import DealBadge from './DealBadge';
 import LeadForm from './LeadForm';
-import { getOptimizedImageUrl } from '../../utils/imageUtils';
+import { getOptimizedImageUrl, getResilientFallbackImage } from '../../utils/imageUtils';
 import { getProjectQRCodeUrl, getMahaRERAVerificationUrl } from '../../utils/qrUtils';
 import { getProjectWhatsAppMessage, getWhatsAppUrl } from '../../utils/whatsappUtils';
+import { getAllInclusivePricing, getFinalCarpetAreaOnly } from '../../utils/pricingUtils';
 
 interface PropertyCardProps {
     project: Project;
@@ -32,7 +33,7 @@ interface PropertyCardProps {
 
 const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }) => {
     const { localities = [], builders = [], compareList = [], addToCompare, removeFromCompare } = useData();
-    const [imgSrc, setImgSrc] = useState(() => project?.image ? getOptimizedImageUrl(project.image, 600) : '/images/placeholder-property.svg');
+    const [imgSrc, setImgSrc] = useState(() => project?.image ? getOptimizedImageUrl(project.image, 600) : getResilientFallbackImage(project?.id || 'propsmart'));
     const [showLeadForm, setShowLeadForm] = useState(false);
     const [showQRModal, setShowQRModal] = useState(false);
 
@@ -40,7 +41,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
         if (project?.image) {
             setImgSrc(getOptimizedImageUrl(project.image, 600));
         } else {
-            setImgSrc('/images/placeholder-property.svg');
+            setImgSrc(getResilientFallbackImage(project?.id || 'propsmart'));
         }
     }, [project?.id, project?.image]);
 
@@ -73,26 +74,14 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
     const qrUrl = getProjectQRCodeUrl(project.slug || project.id, project.reraId);
     const mahaReraLink = getMahaRERAVerificationUrl(project.reraId);
 
-    // Clean, transparent price display
-    const hasPriceRange = Boolean(project.priceRange && project.priceRange.includes(' - '));
-    const displayPrice = hasPriceRange ? project.priceRange : (project.exactPrice || project.priceRange || 'Price on Request');
-    const startingSubtitle = hasPriceRange && project.exactPrice && project.exactPrice !== project.priceRange
-        ? `Starts from ${project.exactPrice}`
-        : null;
+    // Honest, All-Inclusive Price calculation (Government Taxes, Stamp Duty & Reg. Included)
+    const pricing = useMemo(() => {
+        return getAllInclusivePricing(project.exactPrice, project.priceRange);
+    }, [project.exactPrice, project.priceRange]);
 
-    // Derived authentic Carpet Area sizing range
-    const carpetAreaRange = useMemo(() => {
-        if (!project.configurationDetails || project.configurationDetails.length === 0) return null;
-        const areas = project.configurationDetails
-            .map(c => {
-                const match = c.carpetArea?.match(/([0-9,]+)/);
-                return match ? parseInt(match[1].replace(/,/g, '')) : null;
-            })
-            .filter((a): a is number => a !== null && a > 0);
-        if (areas.length === 0) return null;
-        const min = Math.min(...areas);
-        const max = Math.max(...areas);
-        return min === max ? `${min.toLocaleString('en-IN')} sq.ft` : `${min.toLocaleString('en-IN')} - ${max.toLocaleString('en-IN')} sq.ft`;
+    // Total and Final Carpet Area Only (MahaRERA Usable)
+    const finalCarpetAreaOnly = useMemo(() => {
+        return getFinalCarpetAreaOnly(project.configurationDetails);
     }, [project.configurationDetails]);
 
     // Direct WhatsApp message pre-filled with project details
@@ -131,10 +120,11 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         alt={project.title}
                         width="600"
                         height="375"
+                        referrerPolicy="no-referrer"
                         className="w-full h-full object-cover group-hover:scale-108 transition-transform duration-700 ease-out"
                         loading="lazy"
                         onError={() => {
-                            setImgSrc('/images/placeholder-property.svg');
+                            setImgSrc(getResilientFallbackImage(project.id));
                         }}
                     />
                     {/* Gradient Overlay for Text Readability */}
@@ -247,20 +237,24 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         </div>
                     </div>
 
-                    {/* Dedicated Direct Starting Price Row (Prominent, High Contrast, 100% Collision-Free) */}
+                    {/* Dedicated All-Inclusive Price Row (Prominent, High Contrast, 100% Collision-Free) */}
                     <div className="mt-3 p-2.5 rounded-xl bg-slate-50/90 border border-slate-200/70 flex items-baseline justify-between gap-2 shadow-2xs">
                         <div className="min-w-0">
-                            <span className="text-[9.5px] uppercase font-black tracking-wider text-slate-400 block leading-tight">
-                                {hasPriceRange ? 'Direct Builder Price' : 'Starting Direct Price'}
+                            <span className="text-[9.5px] uppercase font-black tracking-wider text-emerald-700 flex items-center gap-1 leading-tight">
+                                <ShieldCheck className="w-3 h-3 text-emerald-600" />
+                                All-Inclusive Price
                             </span>
                             <p className="text-base sm:text-lg font-black text-slate-900 tracking-tight leading-tight truncate">
-                                {displayPrice}
+                                {pricing.allInclusiveDisplay}
                             </p>
-                            {startingSubtitle && (
+                            {pricing.isRange && (
                                 <span className="text-[10px] text-emerald-700 font-bold block mt-0.5 truncate">
-                                    {startingSubtitle}
+                                    {pricing.startingAllInclusive}
                                 </span>
                             )}
+                            <span className="text-[9px] text-slate-400 font-semibold block mt-0.5">
+                                Taxes, Stamp Duty & Registration Included • 0% Brokerage
+                            </span>
                         </div>
                         {project.pricePerSqft && (
                             <span className="text-[10.5px] font-bold text-sky-700 bg-sky-100/80 px-2 py-0.5 rounded-md border border-sky-200/70 shrink-0">
@@ -269,14 +263,14 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         )}
                     </div>
 
-                    {/* Sizing & Configurations Row */}
+                    {/* Final Carpet Area Only & Configurations Row */}
                     <div className="mt-3 flex flex-wrap items-center gap-1.5">
-                        {carpetAreaRange && (
+                        {finalCarpetAreaOnly && (
                             <span 
                                 className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-emerald-50/90 border border-emerald-200/80 text-[10.5px] font-black text-emerald-800 shadow-2xs shrink-0" 
-                                title="RERA Carpet Area Sizing"
+                                title="Total & Final Carpet Area Only (MahaRERA Usable)"
                             >
-                                <Maximize2 className="w-3 h-3 text-emerald-600" /> {carpetAreaRange}
+                                <Maximize2 className="w-3 h-3 text-emerald-600" /> {finalCarpetAreaOnly}
                             </span>
                         )}
                         {(project.configurations || []).slice(0, isGrid ? 2 : 4).map((conf, i) => (

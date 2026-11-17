@@ -1,25 +1,56 @@
 /**
  * Image optimization & resilient fallback utility for PROPSMART REALTY.
+ * Ensures zero broken images and authentic luxury architectural visual representation.
  */
 
-export const PLACEHOLDER_PROPERTY = '/images/placeholder-property.svg';
+export const RESILIENT_ARCHITECTURAL_FALLBACKS: string[] = [
+    "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1515263487990-61b07816b324?auto=format&fit=crop&w=1200&q=80"
+];
+
+export const getResilientFallbackImage = (seed: string = 'propsmart', index: number = 0): string => {
+    let hash = 0;
+    const str = `${seed}-${index}`;
+    for (let i = 0; i < str.length; i++) {
+        hash = (hash << 5) - hash + str.charCodeAt(i);
+        hash |= 0;
+    }
+    const safeIdx = Math.abs(hash) % RESILIENT_ARCHITECTURAL_FALLBACKS.length;
+    return RESILIENT_ARCHITECTURAL_FALLBACKS[safeIdx];
+};
+
+export const PLACEHOLDER_PROPERTY = RESILIENT_ARCHITECTURAL_FALLBACKS[0];
 export const PLACEHOLDER_BUILDER = '';
 
 export const getOptimizedImageUrl = (
     url: string | undefined | null,
     width: number = 800,
     quality: number = 80,
-    fallback: string = PLACEHOLDER_PROPERTY
+    fallback?: string
 ): string => {
+    const defaultFallback = fallback || RESILIENT_ARCHITECTURAL_FALLBACKS[0];
+
     if (!url || typeof url !== 'string' || url.trim() === '') {
-        return fallback;
+        return defaultFallback;
     }
 
     const trimmed = url.trim();
 
-    // Prevent broken external placeholders
-    if (trimmed.includes('placehold.co') || trimmed.includes('via.placeholder.com')) {
-        return fallback;
+    // Prevent broken external placeholders or placeholder SVGs that look like blanks
+    if (
+        trimmed.includes('placehold.co') || 
+        trimmed.includes('via.placeholder.com') ||
+        trimmed.includes('placeholder-property.svg')
+    ) {
+        return getResilientFallbackImage(trimmed);
     }
 
     // Local assets or blobs
@@ -42,7 +73,7 @@ export const getOptimizedImageUrl = (
 
         return trimmed;
     } catch {
-        return fallback;
+        return defaultFallback;
     }
 };
 

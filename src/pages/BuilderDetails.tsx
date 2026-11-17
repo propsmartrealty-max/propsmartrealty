@@ -8,6 +8,8 @@ import SEO from '../components/SEO';
 import { Building2, MapPin, Trophy } from 'lucide-react';
 import TrustScore from '../components/Portal/TrustScore';
 import { resolveBuilderLogo } from '../utils/builderUtils';
+import { getResilientFallbackImage } from '../utils/imageUtils';
+import { getAllInclusivePricing } from '../utils/pricingUtils';
 
 const LEGACY_BUILDER_REDIRECTS: Record<string, string> = {
     'kasturi-developers': '/builder/kasturi-housing',
@@ -258,11 +260,12 @@ const BuilderDetails = () => {
                         >
                             <div className="relative h-48 overflow-hidden">
                                 <img
-                                    src={project.image}
+                                    src={project.image || getResilientFallbackImage(project.id)}
                                     alt={project.title}
+                                    referrerPolicy="no-referrer"
                                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                                     onError={(e) => {
-                                        e.currentTarget.src = '/images/placeholder-property.svg';
+                                        e.currentTarget.src = getResilientFallbackImage(project.id);
                                     }}
                                 />
                                 <div className="absolute top-4 left-4">
@@ -283,8 +286,8 @@ const BuilderDetails = () => {
 
                                 <div className="flex items-center justify-between pt-4 border-t border-gray-100">
                                     <div>
-                                        <p className="text-xs text-gray-500 uppercase tracking-wide">Starting</p>
-                                        <p className="font-bold text-slate-900">{project.exactPrice || project.priceRange || 'On Request'}</p>
+                                        <p className="text-[10px] text-emerald-700 font-bold uppercase tracking-wide">All-Inclusive Price</p>
+                                        <p className="font-bold text-slate-900 text-sm">{getAllInclusivePricing(project.exactPrice, project.priceRange).allInclusiveDisplay}</p>
                                     </div>
                                     <div className="text-right">
                                         <p className="text-xs text-gray-500 uppercase tracking-wide">Configuration</p>

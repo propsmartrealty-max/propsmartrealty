@@ -23,7 +23,8 @@ import PricingCalculator from '../components/Portal/Project/PricingCalculator';
 import { DetailSkeleton, ErrorState } from '../components/UI/LoadingSkeleton';
 import DealBadge from '../components/Portal/DealBadge';
 import PriceTrendChart from '../components/Portal/MarketIntelligence/PriceTrendChart';
-import { getOptimizedImageUrl } from '../utils/imageUtils';
+import { getOptimizedImageUrl, getResilientFallbackImage } from '../utils/imageUtils';
+import { getAllInclusivePricing, getFinalCarpetAreaOnly } from '../utils/pricingUtils';
 import { openWhatsApp, getProjectWhatsAppMessage } from '../utils/whatsappUtils';
 import RERAProjectPassport from '../components/Portal/RERAProjectPassport';
 import ConstructionTimeline from '../components/Portal/Infographics/ConstructionTimeline';
@@ -268,6 +269,11 @@ const ProjectDetails = () => {
         }
         return ['2 BHK', '3 BHK'];
     }, [project?.configurations]);
+
+    const allInclusivePricing = useMemo(() => {
+        if (!project) return null;
+        return getAllInclusivePricing(project.exactPrice, project.priceRange);
+    }, [project?.exactPrice, project?.priceRange]);
 
     const safeGalleryImages: string[] = useMemo(() => {
         const imgs = project?.images;
@@ -687,10 +693,11 @@ const ProjectDetails = () => {
                 <img
                     src={getOptimizedImageUrl(project.image, 1200)}
                     alt={project.title}
+                    referrerPolicy="no-referrer"
                     {...({ fetchpriority: 'high' } as any)}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000 ease-out"
                     onError={(e) => {
-                        e.currentTarget.src = '/images/placeholder-property.svg';
+                        e.currentTarget.src = getResilientFallbackImage(project.id);
                     }}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-transparent opacity-90" />
@@ -743,10 +750,15 @@ const ProjectDetails = () => {
                                 <span className="font-sans font-bold">{project.location}, {project.city || 'Pune'}</span>
                             </div>
                         </div>
-                        <div className="flex flex-col md:items-end gap-2 shrink-0">
-                            <p className="text-xs text-sky-300 uppercase tracking-widest font-black">Starting Price</p>
-                            <p className="text-3xl md:text-4xl font-black text-white mb-1">{project.exactPrice || project.priceRange}</p>
-                            <div className="flex gap-2.5">
+                        <div className="flex flex-col md:items-end gap-1.5 shrink-0">
+                            <span className="text-[10px] text-emerald-400 uppercase tracking-widest font-black flex items-center gap-1">
+                                <ShieldCheck className="w-3.5 h-3.5" /> All-Inclusive Price
+                            </span>
+                            <p className="text-2xl md:text-4xl font-black text-white tracking-tight">{allInclusivePricing?.allInclusiveDisplay || project.exactPrice || project.priceRange}</p>
+                            <span className="text-[10.5px] text-emerald-300 font-semibold bg-emerald-950/60 px-2.5 py-0.5 rounded-full border border-emerald-500/30">
+                                0% Brokerage • Govt. Taxes &amp; Stamp Duty Included
+                            </span>
+                            <div className="flex gap-2.5 mt-1">
                                 <button className="water-btn bg-white/15 hover:bg-white/30 backdrop-blur-md p-2.5 rounded-full transition-all border border-white/25 text-white" title="Share Project">
                                     <Share2 className="w-4 h-4" />
                                 </button>
@@ -952,9 +964,10 @@ const ProjectDetails = () => {
                                             src={getOptimizedImageUrl(imgUrl, 800)}
                                             alt={`${project.title} gallery view ${idx + 1}`}
                                             loading="lazy"
+                                            referrerPolicy="no-referrer"
                                             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                                             onError={(e) => {
-                                                e.currentTarget.src = '/images/placeholder-property.svg';
+                                                e.currentTarget.src = getResilientFallbackImage(project.id, idx);
                                             }}
                                         />
                                         <div className="absolute inset-0 bg-gradient-to-t from-slate-950/70 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-end justify-between p-3.5 text-white">
@@ -1146,8 +1159,9 @@ const ProjectDetails = () => {
                                                     alt={`${plan.title} - ${project.title}`}
                                                     loading="lazy"
                                                     decoding="async"
+                                                    referrerPolicy="no-referrer"
                                                     onError={(e) => {
-                                                        e.currentTarget.src = '/images/placeholder-property.svg';
+                                                        e.currentTarget.src = getResilientFallbackImage(project.id, i);
                                                     }}
                                                     className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
                                                 />
@@ -1618,8 +1632,9 @@ const ProjectDetails = () => {
                                                 src={p.image}
                                                 alt={p.title}
                                                 loading="lazy"
+                                                referrerPolicy="no-referrer"
                                                 onError={(e) => {
-                                                    e.currentTarget.src = '/images/placeholder-property.svg';
+                                                    e.currentTarget.src = getResilientFallbackImage(p.id);
                                                 }}
                                                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
                                             />
@@ -1954,8 +1969,9 @@ const ProjectDetails = () => {
                             <img
                                 src={lightboxImage.url}
                                 alt={lightboxImage.title}
+                                referrerPolicy="no-referrer"
                                 onError={(e) => {
-                                    e.currentTarget.src = '/images/placeholder-property.svg';
+                                    e.currentTarget.src = getResilientFallbackImage(project.id);
                                 }}
                                 className="max-w-full max-h-[70vh] object-contain rounded-xl shadow-2xl bg-white/5 border border-white/10"
                             />

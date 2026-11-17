@@ -66,7 +66,9 @@ async function submitIndexNow() {
     const endpoints = [
         'https://api.indexnow.org/indexnow',
         'https://www.bing.com/indexnow',
-        'https://yandex.com/indexnow'
+        'https://yandex.com/indexnow',
+        'https://search.seznam.cz/indexnow',
+        'https://indexnow.naver.com/indexnow'
     ];
 
     for (const endpoint of endpoints) {
@@ -83,6 +85,22 @@ async function submitIndexNow() {
             console.log(`Response from ${endpoint}: HTTP ${res.status} (${res.statusText || 'OK'})`);
         } catch (err) {
             console.warn(`Submission failed for ${endpoint}:`, err.message);
+        }
+    }
+
+    // Ping Google & Bing Sitemap Crawlers
+    const sitemapPings = [
+        `https://www.google.com/ping?sitemap=${encodeURIComponent(`${BASE_URL}/sitemap.xml`)}`,
+        `https://www.bing.com/ping?sitemap=${encodeURIComponent(`${BASE_URL}/sitemap.xml`)}`
+    ];
+
+    for (const pingUrl of sitemapPings) {
+        try {
+            console.log(`Pinging search engine sitemap: ${pingUrl}...`);
+            const pRes = await fetch(pingUrl);
+            console.log(`Sitemap ping response: HTTP ${pRes.status}`);
+        } catch (pErr) {
+            console.warn(`Sitemap ping notice: ${pErr.message}`);
         }
     }
 

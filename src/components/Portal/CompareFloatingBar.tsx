@@ -3,6 +3,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { X, ArrowRight, ChevronDown, ChevronUp } from 'lucide-react';
 import { useData } from '../../context/DataContext';
+import { getResilientFallbackImage } from '../../utils/imageUtils';
 
 const CompareFloatingBar: React.FC = () => {
     const { compareList, removeFromCompare, clearCompare, projects } = useData();
@@ -46,10 +47,11 @@ const CompareFloatingBar: React.FC = () => {
                                     </button>
                                     <div className="w-full aspect-square rounded-lg overflow-hidden border border-slate-200">
                                         <img
-                                            src={project.image || '/images/placeholder-property.svg'}
+                                            src={project.image || getResilientFallbackImage(project.id)}
                                             alt={project.title}
+                                            referrerPolicy="no-referrer"
                                             onError={(e) => {
-                                                e.currentTarget.src = '/images/placeholder-property.svg';
+                                                e.currentTarget.src = getResilientFallbackImage(project.id);
                                             }}
                                             className="w-full h-full object-cover"
                                         />

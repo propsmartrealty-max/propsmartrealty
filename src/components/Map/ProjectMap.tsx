@@ -4,8 +4,10 @@ import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet';
 import { Project } from '../../types';
 import L from 'leaflet';
 import { Link } from 'react-router-dom';
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, ShieldCheck } from 'lucide-react';
 import MarkerClusterGroup from 'react-leaflet-cluster';
+import { getResilientFallbackImage } from '../../utils/imageUtils';
+import { getAllInclusivePricing } from '../../utils/pricingUtils';
 
 // Fix Leaflet Icon
 delete (L.Icon.Default.prototype as any)._getIconUrl;
@@ -64,15 +66,19 @@ const ProjectMap: React.FC<ProjectMapProps> = ({ projects }) => {
                                     <Link to={`/project/${project.slug || project.id}`} className="block group">
                                         <div className="relative aspect-video rounded-t-lg overflow-hidden">
                                             <img
-                                                src={project.image || '/images/placeholder-property.svg'}
+                                                src={project.image || getResilientFallbackImage(project.id)}
                                                 alt={project.title}
+                                                referrerPolicy="no-referrer"
                                                 onError={(e) => {
-                                                    e.currentTarget.src = '/images/placeholder-property.svg';
+                                                    e.currentTarget.src = getResilientFallbackImage(project.id);
                                                 }}
                                                 className="w-full h-full object-cover group-hover:scale-105 transition-transform"
                                             />
-                                            <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-3 pt-8">
-                                                <p className="text-white font-bold text-lg leading-tight">{project.exactPrice || project.priceRange}</p>
+                                            <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/90 via-black/50 to-transparent p-3 pt-6">
+                                                <span className="text-[9px] text-emerald-300 font-bold uppercase tracking-wider block">All-Inclusive</span>
+                                                <p className="text-white font-black text-base leading-tight truncate">
+                                                    {getAllInclusivePricing(project.exactPrice, project.priceRange).allInclusiveDisplay}
+                                                </p>
                                             </div>
                                         </div>
                                         <div className="p-3 bg-white rounded-b-lg">

@@ -7,6 +7,8 @@ import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
 import { useData } from '../context/DataContext';
 import { openWhatsApp } from '../utils/whatsappUtils';
+import { getResilientFallbackImage } from '../utils/imageUtils';
+import { getAllInclusivePricing } from '../utils/pricingUtils';
 
 const CompareProjects = () => {
     const navigate = useNavigate();
@@ -138,10 +140,11 @@ const CompareProjects = () => {
                                             <Link to={`/project/${project.slug || project.id}`} className="block mb-4">
                                                 <div className="aspect-video rounded-lg overflow-hidden mb-3 border border-slate-100">
                                                     <img 
-                                                        src={project.image || '/images/placeholder-property.svg'} 
+                                                        src={project.image || getResilientFallbackImage(project.id)} 
                                                         alt={project.title} 
+                                                        referrerPolicy="no-referrer"
                                                         onError={(e) => {
-                                                            e.currentTarget.src = '/images/placeholder-property.svg';
+                                                            e.currentTarget.src = getResilientFallbackImage(project.id);
                                                         }}
                                                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
                                                     />
@@ -173,19 +176,23 @@ const CompareProjects = () => {
                                 </tr>
                             </thead>
                             <tbody>
-                                {/* Price */}
+                                {/* All-Inclusive Price */}
                                 <tr>
-                                    <td className="p-4 pl-6 font-bold text-slate-600 bg-slate-50 border-r border-b border-slate-100">Price</td>
-                                    {selectedProjects.map(project => (
-                                        <td key={project.id} className="p-4 pl-6 border-r border-b border-slate-100">
-                                            <span className="text-xl font-bold text-brand-600">{project.exactPrice || project.priceRange}</span>
-                                            <div className="text-xs text-slate-500 mt-1">
-                                                Base: {project.advancedConfigurations?.[0]?.basePrice 
-                                                    ? `₹${project.advancedConfigurations[0].basePrice.toLocaleString('en-IN')}` 
-                                                    : (project.exactPrice || 'On Request')}
-                                            </div>
-                                        </td>
-                                    ))}
+                                    <td className="p-4 pl-6 font-bold text-slate-600 bg-slate-50 border-r border-b border-slate-100">
+                                        All-Inclusive Price
+                                        <span className="block text-[10px] text-emerald-600 font-semibold">Taxes &amp; Reg Included</span>
+                                    </td>
+                                    {selectedProjects.map(project => {
+                                        const pricing = getAllInclusivePricing(project.exactPrice, project.priceRange);
+                                        return (
+                                            <td key={project.id} className="p-4 pl-6 border-r border-b border-slate-100">
+                                                <span className="text-lg font-black text-slate-900">{pricing.allInclusiveDisplay}</span>
+                                                <div className="text-[11px] text-emerald-700 font-bold mt-1">
+                                                    0% Brokerage • Govt. Taxes Included
+                                                </div>
+                                            </td>
+                                        );
+                                    })}
                                     {selectedProjects.length < 3 && <td className="border-b border-slate-100 bg-slate-50/50"></td>}
                                 </tr>
 
@@ -232,9 +239,12 @@ const CompareProjects = () => {
                                     {selectedProjects.length < 3 && <td className="border-b border-slate-100 bg-slate-50/50"></td>}
                                 </tr>
 
-                                {/* Carpet Area */}
+                                {/* Total Final Carpet Area Only */}
                                 <tr>
-                                    <td className="p-4 pl-6 font-bold text-slate-600 bg-slate-50 border-r border-b border-slate-100">Carpet Area</td>
+                                    <td className="p-4 pl-6 font-bold text-slate-600 bg-slate-50 border-r border-b border-slate-100">
+                                        Final Carpet Area
+                                        <span className="block text-[10px] text-emerald-600 font-semibold">MahaRERA Usable Only</span>
+                                    </td>
                                     {selectedProjects.map(project => {
                                         const areas = (project.configurationDetails || []).map((c: any) => {
                                             const match = c.carpetArea?.match(/([0-9,]+)/);
@@ -242,12 +252,12 @@ const CompareProjects = () => {
                                         }).filter((a): a is number => a !== null && a > 0);
                                         const minArea = areas.length ? Math.min(...areas) : 0;
                                         const maxArea = areas.length ? Math.max(...areas) : 0;
-                                        const range = minArea === maxArea ? `${minArea.toLocaleString('en-IN')} sqft` : `${minArea.toLocaleString('en-IN')} - ${maxArea.toLocaleString('en-IN')} sqft`;
+                                        const range = minArea === maxArea ? `${minArea.toLocaleString('en-IN')} sq.ft` : `${minArea.toLocaleString('en-IN')} - ${maxArea.toLocaleString('en-IN')} sq.ft`;
 
                                         return (
                                             <td key={project.id} className="p-4 pl-6 border-r border-b border-slate-100 text-sm font-semibold text-slate-700">
                                                 {areas.length > 0 ? (
-                                                    <span className="font-bold text-slate-900">{range}</span>
+                                                    <span className="font-extrabold text-slate-900">{range} (RERA Usable)</span>
                                                 ) : (
                                                     <span className="text-slate-400 italic">Contact for details</span>
                                                 )}

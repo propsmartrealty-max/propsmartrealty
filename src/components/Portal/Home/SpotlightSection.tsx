@@ -3,6 +3,7 @@ import { ArrowRight, Star, MapPin, Building2, Sparkles } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { Project } from '../../../types';
 import { useData } from '../../../context/DataContext';
+import { getResilientFallbackImage } from '../../../utils/imageUtils';
 
 interface SpotlightSectionProps {
     projects: Project[];
@@ -73,9 +74,10 @@ const SpotlightSection: React.FC<SpotlightSectionProps> = ({ projects }) => {
                                 width="400"
                                 height="500"
                                 loading="lazy"
+                                referrerPolicy="no-referrer"
                                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
                                 onError={(e) => {
-                                    e.currentTarget.src = '/images/placeholder-property.svg';
+                                    e.currentTarget.src = getResilientFallbackImage(project.id);
                                 }}
                             />
                             {/* Deep Contrast Ambient Vignette */}
