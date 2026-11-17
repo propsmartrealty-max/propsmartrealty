@@ -8088,7 +8088,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Godrej Hillside 3?",
-        "answer": "Prices at Godrej Hillside 3 range from \u20b9 81.00 Lac \u2013 1.06 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Godrej Hillside 3 range from \u20b9 81.00 Lac \u2013 1.06 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Godrej Hillside 3?",
@@ -8304,7 +8304,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Godrej River Royale?",
-        "answer": "Prices at Godrej River Royale range from \u20b9 2.60 Cr \u2013 3.60 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Godrej River Royale range from \u20b9 2.60 Cr \u2013 3.60 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Godrej River Royale?",
@@ -8524,7 +8524,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Godrej Eden Estate Phase 2?",
-        "answer": "Prices at Godrej Eden Estate Phase 2 range from \u20b9 2.39 Cr \u2013 3.04 Cr (agreement value). Homes are available as 1 BHK Plot."
+        "answer": "Prices at Godrej Eden Estate Phase 2 range from \u20b9 2.39 Cr \u2013 3.04 Cr (final all-inclusive price). Homes are available as 1 BHK Plot."
       },
       {
         "question": "Which configurations are available at Godrej Eden Estate Phase 2?",
@@ -8776,7 +8776,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VTP Bellissimo?",
-        "answer": "Prices at VTP Bellissimo range from \u20b9 84.00 Lac \u2013 93.00 Lac (agreement value). Homes are available as 2 BHK."
+        "answer": "Prices at VTP Bellissimo range from \u20b9 84.00 Lac \u2013 93.00 Lac (final all-inclusive price). Homes are available as 2 BHK."
       },
       {
         "question": "Which configurations are available at VTP Bellissimo?",
@@ -9106,7 +9106,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VTP Dolce Vita?",
-        "answer": "Prices at VTP Dolce Vita range from \u20b9 77.65 Lac \u2013 2.07 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at VTP Dolce Vita range from \u20b9 77.65 Lac \u2013 2.07 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at VTP Dolce Vita?",
@@ -9394,7 +9394,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VTP Naturescape?",
-        "answer": "Prices at VTP Naturescape range from \u20b9 88.00 Lac \u2013 2.43 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at VTP Naturescape range from \u20b9 88.00 Lac \u2013 2.43 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at VTP Naturescape?",
@@ -9689,7 +9689,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Lodha Giardino?",
-        "answer": "Prices at Lodha Giardino range from \u20b9 95.83 Lac \u2013 2.57 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Lodha Giardino range from \u20b9 95.83 Lac \u2013 2.57 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Lodha Giardino?",
@@ -9963,7 +9963,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Lodha Panache?",
-        "answer": "Prices at Lodha Panache range from \u20b9 1.15 Cr \u2013 2.80 Cr (agreement value). Homes are available as 2, 3, 4, 5 BHK."
+        "answer": "Prices at Lodha Panache range from \u20b9 1.15 Cr \u2013 2.80 Cr (final all-inclusive price). Homes are available as 2, 3, 4, 5 BHK."
       },
       {
         "question": "Which configurations are available at Lodha Panache?",
@@ -10198,7 +10198,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Lodha Bella Vita?",
-        "answer": "Prices at Lodha Bella Vita range from \u20b9 1.05 Cr \u2013 1.67 Cr (agreement value). Homes are available as 2, 3, 3.5 BHK."
+        "answer": "Prices at Lodha Bella Vita range from \u20b9 1.05 Cr \u2013 1.67 Cr (final all-inclusive price). Homes are available as 2, 3, 3.5 BHK."
       },
       {
         "question": "Which configurations are available at Lodha Bella Vita?",
@@ -10435,7 +10435,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Panchshil Eon Waterfront?",
-        "answer": "Prices at Panchshil Eon Waterfront range from \u20b9 4.90 Cr \u2013 6.58 Cr (agreement value). Homes are available as 4 BHK."
+        "answer": "Prices at Panchshil Eon Waterfront range from \u20b9 4.90 Cr \u2013 6.58 Cr (final all-inclusive price). Homes are available as 4 BHK."
       },
       {
         "question": "Which configurations are available at Panchshil Eon Waterfront?",
@@ -10662,7 +10662,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Panchshil Towers?",
-        "answer": "Prices at Panchshil Towers range from \u20b9 4.25 Cr \u2013 8.50 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Panchshil Towers range from \u20b9 4.25 Cr \u2013 8.50 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Panchshil Towers?",
@@ -10882,7 +10882,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Rohan Ekam Balewadi?",
-        "answer": "Prices at Rohan Ekam Balewadi range from \u20b9 1.33 Cr \u2013 3.28 Cr (agreement value). Homes are available as 2, 3, 4, 4.5 BHK."
+        "answer": "Prices at Rohan Ekam Balewadi range from \u20b9 1.33 Cr \u2013 3.28 Cr (final all-inclusive price). Homes are available as 2, 3, 4, 4.5 BHK."
       },
       {
         "question": "Which configurations are available at Rohan Ekam Balewadi?",
@@ -11099,7 +11099,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Rohan Saroha?",
-        "answer": "Prices at Rohan Saroha range from \u20b9 87.00 Lac \u2013 1.66 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Rohan Saroha range from \u20b9 87.00 Lac \u2013 1.66 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Rohan Saroha?",
@@ -11315,7 +11315,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Rohan Ekam Balewadi?",
-        "answer": "Prices at Rohan Ekam Balewadi range from \u20b9 1.33 Cr \u2013 3.28 Cr (agreement value). Homes are available as 2, 3, 4, 4.5 BHK."
+        "answer": "Prices at Rohan Ekam Balewadi range from \u20b9 1.33 Cr \u2013 3.28 Cr (final all-inclusive price). Homes are available as 2, 3, 4, 4.5 BHK."
       },
       {
         "question": "Which configurations are available at Rohan Ekam Balewadi?",
@@ -11535,7 +11535,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VJ IndiLife?",
-        "answer": "Prices at VJ IndiLife range from \u20b9 25.95 Lac \u2013 48.50 Lac (agreement value). Homes are available as Studio BHK."
+        "answer": "Prices at VJ IndiLife range from \u20b9 25.95 Lac \u2013 48.50 Lac (final all-inclusive price). Homes are available as Studio BHK."
       },
       {
         "question": "Which configurations are available at VJ IndiLife?",
@@ -11786,7 +11786,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VJ PKC Central?",
-        "answer": "Prices at VJ PKC Central range from \u20b9 1.10 Cr \u2013 1.90 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at VJ PKC Central range from \u20b9 1.10 Cr \u2013 1.90 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at VJ PKC Central?",
@@ -12035,7 +12035,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VJ Yashwin Enchante?",
-        "answer": "Prices at VJ Yashwin Enchante range from \u20b9 77.06 Lac \u2013 2.14 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at VJ Yashwin Enchante range from \u20b9 77.06 Lac \u2013 2.14 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at VJ Yashwin Enchante?",
@@ -12287,7 +12287,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of GT Pride?",
-        "answer": "Prices at GT Pride range from \u20b9 53.00 Lac \u2013 78.00 Lac (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at GT Pride range from \u20b9 53.00 Lac \u2013 78.00 Lac (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at GT Pride?",
@@ -12592,7 +12592,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Pride Park Connect?",
-        "answer": "Prices at Pride Park Connect range from \u20b9 66.85 Lac \u2013 1.12 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Pride Park Connect range from \u20b9 66.85 Lac \u2013 1.12 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Pride Park Connect?",
@@ -12841,7 +12841,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Codename Pride Of Chinchwad?",
-        "answer": "Prices at Codename Pride Of Chinchwad range from \u20b9 1.49 Cr \u2013 2.18 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Codename Pride Of Chinchwad range from \u20b9 1.49 Cr \u2013 2.18 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Codename Pride Of Chinchwad?",
@@ -13057,7 +13057,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Nyati Evoque?",
-        "answer": "Prices at Nyati Evoque range from \u20b9 3.57 Cr \u2013 4.33 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Nyati Evoque range from \u20b9 3.57 Cr \u2013 4.33 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Nyati Evoque?",
@@ -13271,7 +13271,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Nyati Emerald?",
-        "answer": "Prices at Nyati Emerald range from \u20b9 1.18 Cr \u2013 1.65 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Nyati Emerald range from \u20b9 1.18 Cr \u2013 1.65 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Nyati Emerald?",
@@ -13486,7 +13486,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Nyati Esteban 2?",
-        "answer": "Prices at Nyati Esteban 2 range from \u20b9 84.00 Lac \u2013 1.22 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Nyati Esteban 2 range from \u20b9 84.00 Lac \u2013 1.22 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Nyati Esteban 2?",
@@ -13738,7 +13738,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Gera Hinjewadi Phase 3 \u2013 0?",
-        "answer": "Prices at Gera Hinjewadi Phase 3 \u2013 0 range from \u20b9 83.40 Lac \u2013 1.47 Cr (agreement value). Homes are available as 2, 3 BHK, Duplex."
+        "answer": "Prices at Gera Hinjewadi Phase 3 \u2013 0 range from \u20b9 83.40 Lac \u2013 1.47 Cr (final all-inclusive price). Homes are available as 2, 3 BHK, Duplex."
       },
       {
         "question": "Which configurations are available at Gera Hinjewadi Phase 3 \u2013 0?",
@@ -13948,7 +13948,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Gera Imperium Gateway \u2013 A?",
-        "answer": "Prices at Gera Imperium Gateway \u2013 A range from \u20b9 65.64 Lac \u2013 3.50 Cr (agreement value). Homes are available as Commercial Office."
+        "answer": "Prices at Gera Imperium Gateway \u2013 A range from \u20b9 65.64 Lac \u2013 3.50 Cr (final all-inclusive price). Homes are available as Commercial Office."
       },
       {
         "question": "Which configurations are available at Gera Imperium Gateway \u2013 A?",
@@ -14158,7 +14158,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Gera Joy On Treetop?",
-        "answer": "Prices at Gera Joy On Treetop range from \u20b9 85.90 Lac \u2013 1.38 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Gera Joy On Treetop range from \u20b9 85.90 Lac \u2013 1.38 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Gera Joy On Treetop?",
@@ -14369,7 +14369,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kasturi Apostrophe?",
-        "answer": "Prices at Kasturi Apostrophe range from \u20b9 88.00 Lac (agreement value). Homes are available as 2 BHK."
+        "answer": "Prices at Kasturi Apostrophe range from \u20b9 88.00 Lac (final all-inclusive price). Homes are available as 2 BHK."
       },
       {
         "question": "Which configurations are available at Kasturi Apostrophe?",
@@ -14609,7 +14609,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kasturi Eon Homes?",
-        "answer": "Prices at Kasturi Eon Homes range from \u20b9 1.10 Cr \u2013 1.79 Cr (agreement value). Homes are available as 2, 2.5, 3 BHK."
+        "answer": "Prices at Kasturi Eon Homes range from \u20b9 1.10 Cr \u2013 1.79 Cr (final all-inclusive price). Homes are available as 2, 2.5, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kasturi Eon Homes?",
@@ -14844,7 +14844,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kasturi The Balmoral Towers?",
-        "answer": "Prices at Kasturi The Balmoral Towers range from \u20b9 2.03 Cr \u2013 7.51 Cr (agreement value). Homes are available as 3, 4, 4.5, 5.5 BHK."
+        "answer": "Prices at Kasturi The Balmoral Towers range from \u20b9 2.03 Cr \u2013 7.51 Cr (final all-inclusive price). Homes are available as 3, 4, 4.5, 5.5 BHK."
       },
       {
         "question": "Which configurations are available at Kasturi The Balmoral Towers?",
@@ -15083,7 +15083,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Mahindra Happinest \u2013 D,E,F,G?",
-        "answer": "Prices at Mahindra Happinest \u2013 D,E,F,G range from \u20b9 45.00 Lac (agreement value). Homes are available as 1 BHK."
+        "answer": "Prices at Mahindra Happinest \u2013 D,E,F,G range from \u20b9 45.00 Lac (final all-inclusive price). Homes are available as 1 BHK."
       },
       {
         "question": "Which configurations are available at Mahindra Happinest \u2013 D,E,F,G?",
@@ -15326,7 +15326,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Mahindra Citadel?",
-        "answer": "Prices at Mahindra Citadel range from \u20b9 88.00 Lac \u2013 1.21 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Mahindra Citadel range from \u20b9 88.00 Lac \u2013 1.21 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Mahindra Citadel?",
@@ -15585,7 +15585,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Mahindra Kharadi?",
-        "answer": "Prices at Mahindra Kharadi range from \u20b9 98.00 Lac \u2013 2.12 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Mahindra Kharadi range from \u20b9 98.00 Lac \u2013 2.12 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Mahindra Kharadi?",
@@ -15817,7 +15817,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kumar Parth Tower?",
-        "answer": "Prices at Kumar Parth Tower range from \u20b9 1.04 Cr \u2013 1.90 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Kumar Parth Tower range from \u20b9 1.04 Cr \u2013 1.90 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Kumar Parth Tower?",
@@ -16058,7 +16058,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kumar Palmspring Towers?",
-        "answer": "Prices at Kumar Palmspring Towers range from \u20b9 82.38 Lac \u2013 1.19 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Kumar Palmspring Towers range from \u20b9 82.38 Lac \u2013 1.19 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kumar Palmspring Towers?",
@@ -16284,7 +16284,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kumar Codename Centrestage \u2013 0?",
-        "answer": "Prices at Kumar Codename Centrestage \u2013 0 range from \u20b9 64.00 Lac (agreement value). Homes are available as 2 BHK."
+        "answer": "Prices at Kumar Codename Centrestage \u2013 0 range from \u20b9 64.00 Lac (final all-inclusive price). Homes are available as 2 BHK."
       },
       {
         "question": "Which configurations are available at Kumar Codename Centrestage \u2013 0?",
@@ -16554,7 +16554,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Bramhacorp Hues Of Sky?",
-        "answer": "Prices at Bramhacorp Hues Of Sky range from \u20b9 1.56 Cr \u2013 4.17 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Bramhacorp Hues Of Sky range from \u20b9 1.56 Cr \u2013 4.17 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Bramhacorp Hues Of Sky?",
@@ -16751,7 +16751,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Bramhacorp Townhouse?",
-        "answer": "Prices at Bramhacorp Townhouse range from \u20b9 35.00 Lac (agreement value). Homes are available as 1, 1 RK BHK."
+        "answer": "Prices at Bramhacorp Townhouse range from \u20b9 35.00 Lac (final all-inclusive price). Homes are available as 1, 1 RK BHK."
       },
       {
         "question": "Which configurations are available at Bramhacorp Townhouse?",
@@ -16955,7 +16955,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Bramhacorp August Towers?",
-        "answer": "Prices at Bramhacorp August Towers range from \u20b9 57.70 Lac \u2013 57.90 Lac (agreement value). Homes are available as 2 BHK."
+        "answer": "Prices at Bramhacorp August Towers range from \u20b9 57.70 Lac \u2013 57.90 Lac (final all-inclusive price). Homes are available as 2 BHK."
       },
       {
         "question": "Which configurations are available at Bramhacorp August Towers?",
@@ -17396,7 +17396,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Joyville annexe?",
-        "answer": "Prices at Joyville annexe range from \u20b9 46.00 Lac \u2013 1.30 Cr (agreement value). Homes are available as 1, 2, 3 BHK."
+        "answer": "Prices at Joyville annexe range from \u20b9 46.00 Lac \u2013 1.30 Cr (final all-inclusive price). Homes are available as 1, 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Joyville annexe?",
@@ -17701,7 +17701,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Joyville Celestia?",
-        "answer": "Prices at Joyville Celestia range from \u20b9 77.00 Lac \u2013 1.76 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Joyville Celestia range from \u20b9 77.00 Lac \u2013 1.76 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Joyville Celestia?",
@@ -17979,7 +17979,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Joyville Sensorium?",
-        "answer": "Prices at Joyville Sensorium range from \u20b9 90.00 Lac \u2013 2.33 Cr (agreement value). Homes are available as 2, 3, 5, 4 BHK."
+        "answer": "Prices at Joyville Sensorium range from \u20b9 90.00 Lac \u2013 2.33 Cr (final all-inclusive price). Homes are available as 2, 3, 5, 4 BHK."
       },
       {
         "question": "Which configurations are available at Joyville Sensorium?",
@@ -18297,7 +18297,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kohinoor Kharadi \u2013 5?",
-        "answer": "Prices at Kohinoor Kharadi \u2013 5 range from \u20b9 99.00 Lac \u2013 1.42 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Kohinoor Kharadi \u2013 5 range from \u20b9 99.00 Lac \u2013 1.42 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kohinoor Kharadi \u2013 5?",
@@ -18566,7 +18566,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kohinoor Shangrila?",
-        "answer": "Prices at Kohinoor Shangrila range from \u20b9 95.53 Lac \u2013 1.45 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Kohinoor Shangrila range from \u20b9 95.53 Lac \u2013 1.45 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kohinoor Shangrila?",
@@ -18854,7 +18854,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kohinoor Central Park \u2013 0?",
-        "answer": "Prices at Kohinoor Central Park \u2013 0 range from \u20b9 80.50 Lac \u2013 1.18 Cr (agreement value). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Kohinoor Central Park \u2013 0 range from \u20b9 80.50 Lac \u2013 1.18 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kohinoor Central Park \u2013 0?",
@@ -19054,7 +19054,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kalpataru Jade Skyline \u2013 5?",
-        "answer": "Prices at Kalpataru Jade Skyline \u2013 5 range from \u20b9 1.84 Cr (agreement value). Homes are available as 3, 2 BHK."
+        "answer": "Prices at Kalpataru Jade Skyline \u2013 5 range from \u20b9 1.84 Cr (final all-inclusive price). Homes are available as 3, 2 BHK."
       },
       {
         "question": "Which configurations are available at Kalpataru Jade Skyline \u2013 5?",
@@ -19275,7 +19275,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kalpataru Jade Residences \u2013 Tower -H?",
-        "answer": "Prices at Kalpataru Jade Residences \u2013 Tower -H range from \u20b9 3.09 Cr \u2013 4.59 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Kalpataru Jade Residences \u2013 Tower -H range from \u20b9 3.09 Cr \u2013 4.59 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Kalpataru Jade Residences \u2013 Tower -H?",
@@ -19511,7 +19511,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kalpataru Blossoms?",
-        "answer": "Prices at Kalpataru Blossoms range from \u20b9 1.56 Cr \u2013 5.25 Cr (agreement value). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Kalpataru Blossoms range from \u20b9 1.56 Cr \u2013 5.25 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Kalpataru Blossoms?",
@@ -19721,7 +19721,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Sobha Nesara?",
-        "answer": "Prices at Sobha Nesara range from \u20b9 2.77 Cr \u2013 4.76 Cr (agreement value). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Sobha Nesara range from \u20b9 2.77 Cr \u2013 4.76 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Sobha Nesara?",
@@ -19947,7 +19947,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Sobha Nesara Block 3?",
-        "answer": "Prices at Sobha Nesara Block 3 range from \u20b9 2.81 Cr \u2013 4.10 Cr (agreement value). Homes are available as 3, 3.5, 4, 4.5 BHK."
+        "answer": "Prices at Sobha Nesara Block 3 range from \u20b9 2.81 Cr \u2013 4.10 Cr (final all-inclusive price). Homes are available as 3, 3.5, 4, 4.5 BHK."
       },
       {
         "question": "Which configurations are available at Sobha Nesara Block 3?",
@@ -20186,7 +20186,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Prasiddhi Tatavam Residency?",
-        "answer": "Prices at Prasiddhi Tatavam Residency range from \u20b9 57.96 Lac \u2013 1.39 Cr (agreement value). Homes are available as 1, 2, 3 BHK."
+        "answer": "Prices at Prasiddhi Tatavam Residency range from \u20b9 57.96 Lac \u2013 1.39 Cr (final all-inclusive price). Homes are available as 1, 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Prasiddhi Tatavam Residency?",
@@ -47069,7 +47069,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/f6a3ff23-1594-4885-803c-779ac7881160/gallery/mvu15tsq-b2h8ww.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/f6a3ff23-1594-4885-803c-779ac7881160/gallery/mvu15tvp-e5pmtb.webp"
     ],
-    "description": "Raheja Vistas is a 7.5-acre residential project by K Raheja Corp Homes near Mahalunge Circle in Mahalunge, West Pune, about 1.5 km from Hinjewadi. It is part of K Raheja Corp's integrated township across Mahalunge, Maan and Hinjewadi, which gives residents access to a 7.5-acre landscaped central park, a riverside promenade and a high-street retail zone in the making, with Global Indian International School inside the township. Seven towers of G+2+24 floors hold 7 or 8 homes per floor, each tower with 4 lifts, in a neoclassical design by principal architects RSP Design Consultants (India), and about 75% of the land is left open. The 2 BHK homes measure about 680, 765 and 911 sq ft and start at \u20b993 lakh, \u20b91.10 crore and \u20b91.30 crore; the 3 BHK homes measure about 1,111 and 1,298 sq ft, from \u20b91.60 crore and \u20b91.95 crore, with a 1,472 sq ft 3 BHK duplex from \u20b92.25 crore; and the 4 BHK homes measure about 1,360, 1,530 and 1,824 sq ft, from \u20b91.90 crore, \u20b92.20 crore and \u20b92.80 crore. Areas are RERA carpet plus balcony, and prices are all-inclusive starting prices for the first floor; maintenance, floor rise and preferential location charges are extra. More than 40 amenities are spread over 2.6 acres on the podium and ground level, with two clubhouses: a half-Olympic pool with a kids' pool and jacuzzi, a gym, an indoor sports arena, two squash courts, a badminton court, pickleball and futsal courts, cricket nets, a skating rink, golf putting, cycling and jogging tracks, a spa, an indoor yoga space and yoga deck, a stargazing deck, an amphitheatre, an outdoor cinema, outdoor working pods, a banquet hall, guest rooms, a rooftop party lounge, a cr\u00e8che and a pet park. Homes are Vaastu compliant, with decks, video door phones and kitchen smoke detectors, and the towers have air-conditioned lobbies, CCTV, controlled access, fire protection and DG backup in the common areas. Solar panels, rainwater harvesting and full wastewater treatment are planned, and the project has applied for IGBC Gold pre-certification. Delhi Public School is 350 m away and Global Indian International School 700 m, Baner about 4 km, the Mumbai-Pune Expressway 3.8 km and Wakad 6.6 km. Towers 1 and 2 are registered with MahaRERA as PR1260002501597 by the promoter KRC Queens Private Limited, with possession committed by the developer for December 2029; the registration's completion date is 31 July 2031.",
+    "description": "Raheja Vistas is a 7.5-acre residential project by K Raheja Corp Homes near Mahalunge Circle in Mahalunge, West Pune, about 1.5 km from Hinjewadi. It is part of K Raheja Corp's integrated township across Mahalunge, Maan and Hinjewadi, which gives residents access to a 7.5-acre landscaped central park, a riverside promenade and a high-street retail zone in the making, with Global Indian International School inside the township. Seven towers of G+2+24 floors hold 7 or 8 homes per floor, each tower with 4 lifts, in a neoclassical design by principal architects RSP Design Consultants (India), and about 75% of the land is left open. The 2 BHK homes measure about 680, 765 and 911 sq ft and start at \u20b993 lakh, \u20b91.10 crore and \u20b91.30 crore; the 3 BHK homes measure about 1,111 and 1,298 sq ft, from \u20b91.60 crore and \u20b91.95 crore, with a 1,472 sq ft 3 BHK duplex from \u20b92.25 crore; and the 4 BHK homes measure about 1,360, 1,530 and 1,824 sq ft, from \u20b91.90 crore, \u20b92.20 crore and \u20b92.80 crore. Areas are cumulative total carpet area, and prices are final all-inclusive starting prices for the first floor; maintenance, floor rise and preferential location charges are extra. More than 40 amenities are spread over 2.6 acres on the podium and ground level, with two clubhouses: a half-Olympic pool with a kids' pool and jacuzzi, a gym, an indoor sports arena, two squash courts, a badminton court, pickleball and futsal courts, cricket nets, a skating rink, golf putting, cycling and jogging tracks, a spa, an indoor yoga space and yoga deck, a stargazing deck, an amphitheatre, an outdoor cinema, outdoor working pods, a banquet hall, guest rooms, a rooftop party lounge, a cr\u00e8che and a pet park. Homes are Vaastu compliant, with decks, video door phones and kitchen smoke detectors, and the towers have air-conditioned lobbies, CCTV, controlled access, fire protection and DG backup in the common areas. Solar panels, rainwater harvesting and full wastewater treatment are planned, and the project has applied for IGBC Gold pre-certification. Delhi Public School is 350 m away and Global Indian International School 700 m, Baner about 4 km, the Mumbai-Pune Expressway 3.8 km and Wakad 6.6 km. Towers 1 and 2 are registered with MahaRERA as PR1260002501597 by the promoter KRC Queens Private Limited, with possession committed by the developer for December 2029; the registration's completion date is 31 July 2031.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -47491,7 +47491,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/7e61c95f-602f-4601-b133-9770abb853e7/gallery/mvtpn4j6-7skvvo.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/7e61c95f-602f-4601-b133-9770abb853e7/gallery/mvtpn4ld-9tjsc5.webp"
     ],
-    "description": "Atlantis is a residential and retail project in Sector 7, Pradhikaran, Indrayani Nagar, Bhosari, developed by Kesar Group with Tulsi Promoters India and Atharva Buildcon. Above shops on the ground, mezzanine and part of the first floor, it offers 3 and 4 BHK homes that the developer calls villaments, with a typical floor of two 4 BHK and six 3 BHK homes. The 3 BHK homes measure about 1,123 sq ft and the 4 BHK homes about 1,460 sq ft, and the first floor has 3 BHK garden flats of about 1,869 and 1,911 sq ft that come with large private terraces. Agreement values start at \u20b91.26 crore for a 3 BHK, \u20b91.63 crore for a 4 BHK and \u20b91.96 crore for a garden flat; with stamp duty, registration and GST, the total packages are about \u20b91.41 crore, \u20b91.83 crore and \u20b92.20 crore. Every 3 BHK gets two covered car parks and every 4 BHK three. The more than 25 amenities include a swimming pool with an infinity edge and a kids' pool, a multifunctional gym, a barbecue lounge, indoor games and a multipurpose hall, and a rooftop with a stargazing deck, party deck, yoga deck, exercise station, senior citizens' seating court and children's play area. Homes have 800 x 1200 mm tiles throughout, a digital smart lock on the main door, Jaquar or Kohler fittings, AC points in the living room and master bedroom and three-track aluminium sliding windows, and the common areas run on solar panels with generator backup for the lifts. The project is close to the Nashik-Pune highway, Bhosari MIDC, the PIECC exhibition centre and Talawade IT Park, and is registered with MahaRERA (P52100078626).",
+    "description": "Atlantis is a residential and retail project in Sector 7, Pradhikaran, Indrayani Nagar, Bhosari, developed by Kesar Group with Tulsi Promoters India and Atharva Buildcon. Above shops on the ground, mezzanine and part of the first floor, it offers 3 and 4 BHK homes that the developer calls villaments, with a typical floor of two 4 BHK and six 3 BHK homes. The 3 BHK homes measure about 1,123 sq ft and the 4 BHK homes about 1,460 sq ft, and the first floor has 3 BHK garden flats of about 1,869 and 1,911 sq ft that come with large private terraces. Final all-inclusive prices start at \u20b91.26 crore for a 3 BHK, \u20b91.63 crore for a 4 BHK and \u20b91.96 crore for a garden flat; with stamp duty, registration and GST, the total packages are about \u20b91.41 crore, \u20b91.83 crore and \u20b92.20 crore. Every 3 BHK gets two covered car parks and every 4 BHK three. The more than 25 amenities include a swimming pool with an infinity edge and a kids' pool, a multifunctional gym, a barbecue lounge, indoor games and a multipurpose hall, and a rooftop with a stargazing deck, party deck, yoga deck, exercise station, senior citizens' seating court and children's play area. Homes have 800 x 1200 mm tiles throughout, a digital smart lock on the main door, Jaquar or Kohler fittings, AC points in the living room and master bedroom and three-track aluminium sliding windows, and the common areas run on solar panels with generator backup for the lifts. The project is close to the Nashik-Pune highway, Bhosari MIDC, the PIECC exhibition centre and Talawade IT Park, and is registered with MahaRERA (P52100078626).",
     "features": [
       "Gymnasium",
       "Swimming Pool",
@@ -47877,7 +47877,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/2be1e665-b28e-4bf5-a42f-348a3a0fa8ff/gallery/mvu2wowg-6hgugu.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/2be1e665-b28e-4bf5-a42f-348a3a0fa8ff/gallery/mvu2woyc-dbp93x.webp"
     ],
-    "description": "Santiago Skyworld 2.0 is a new 12-storey residential tower with ground-floor shops by Santiago on Sector 7 Road, Indrayani Nagar, Bhosari, in the Pradhikaran area of Pimpri-Chinchwad, and the second Skyworld project after Santiago Skyworld on Spine Road. It has only six homes per floor, all 3 BHK, which the developer calls 3 bed suites: homes of 1,332, 1,348 and 1,375 sq ft from \u20b91.47 crore agreement value, and garden flats of 1,471 to 1,956 sq ft from \u20b91.59 crore. Every home has three balconies plus a separate dry balcony, a private aangan at the entrance, a spacious designer kitchen and Vastu-compliant planning, and comes with two covered car parks. The building has two high-speed branded lifts and a wide staircase, a first-floor amenity level with a swimming pool, an indoor gym, indoor games, a library and a co-working space, and rooftop amenities with open views. The ground-floor commercial shops suit retail, showrooms and offices. The developer gives travel times of about 2 minutes to shopping malls, 5 minutes to COEP University, the PCMC court, Star Bazaar, schools, colleges and hospitals, and 10 minutes to more than ten hotels, with Spine Road and the highways close by; it also points to an upcoming IIM campus and metro station about 5 minutes away. Possession is planned for December 2028. The gallery shows artist's impressions from the developer's Santiago Skyworld brochure.",
+    "description": "Santiago Skyworld 2.0 is a new 12-storey residential tower with ground-floor shops by Santiago on Sector 7 Road, Indrayani Nagar, Bhosari, in the Pradhikaran area of Pimpri-Chinchwad, and the second Skyworld project after Santiago Skyworld on Spine Road. It has only six homes per floor, all 3 BHK, which the developer calls 3 bed suites: homes of 1,332, 1,348 and 1,375 sq ft from \u20b91.47 crore final all-inclusive price, and garden flats of 1,471 to 1,956 sq ft from \u20b91.59 crore. Every home has three balconies plus a separate dry balcony, a private aangan at the entrance, a spacious designer kitchen and Vastu-compliant planning, and comes with two covered car parks. The building has two high-speed branded lifts and a wide staircase, a first-floor amenity level with a swimming pool, an indoor gym, indoor games, a library and a co-working space, and rooftop amenities with open views. The ground-floor commercial shops suit retail, showrooms and offices. The developer gives travel times of about 2 minutes to shopping malls, 5 minutes to COEP University, the PCMC court, Star Bazaar, schools, colleges and hospitals, and 10 minutes to more than ten hotels, with Spine Road and the highways close by; it also points to an upcoming IIM campus and metro station about 5 minutes away. Possession is planned for December 2028. The gallery shows artist's impressions from the developer's Santiago Skyworld brochure.",
     "features": [
       "Gymnasium",
       "Library",
@@ -47999,7 +47999,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/1fb3b136-50b8-4324-8729-93f941e2b964/gallery/mvu359m8-8s9lgs.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/1fb3b136-50b8-4324-8729-93f941e2b964/gallery/mvu359o6-e2ze42.webp"
     ],
-    "description": "Kosha is a luxury tower of 4.5 BHK homes on South Main Road, Koregaon Park, near Blossom Boulevard, by Konbil Group and Chandra Prabha Developers through Hydepark Developers LLP. With only four residences per floor and 3.9-metre floor-to-ceiling heights, it offers three kinds of home, each with four bedrooms and a house-help room: 4.5 BHK residences of about 2,257 to 2,943 sq ft of carpet area with long sit-outs; garden residences on the first floor with private gardens, quoted at about 3,582 to 4,398 sq ft; and duplex sky villas on the 20th and 21st floors with open-to-sky gardens and terraces, quoted at about 4,372 to 5,423 sq ft. On the current price sheet, bare-shell homes start at \u20b95.91 crore for a 2,257 sq ft residence, \u20b99.83 crore for a garden residence and \u20b912.85 crore for a sky villa (agreement value, before GST, stamp duty and registration). Amenities spread across three levels include a swimming pool with a poolside deck, a gym, sauna, yoga deck, caf\u00e9, business centre, banquet hall, card room, senior citizens' garden and landscaped recreation spaces, and a 360-degree skywalk around the building, with a grand entrance lobby and concierge. The tower has four levels of covered parking, high-speed elevators, slab-to-slab aluminium windows with high-performance glass, DG backup for the entire apartment, a BMS and control room, CCTV, access control at each common entrance, automatic biometric door locks and sprinklers and smoke detectors in every home. German Bakery, Osho Garden and Malaka Spice are within five minutes, The Westin, Conrad, Marriott Suites and Kalyani Nagar within ten, Poona Club and the Symbiosis institutes within fifteen, and Magarpatta, Hadapsar IT Park and The Bishop's School within twenty. The project is registered with MahaRERA as PR1260002500453.",
+    "description": "Kosha is a luxury tower of 4.5 BHK homes on South Main Road, Koregaon Park, near Blossom Boulevard, by Konbil Group and Chandra Prabha Developers through Hydepark Developers LLP. With only four residences per floor and 3.9-metre floor-to-ceiling heights, it offers three kinds of home, each with four bedrooms and a house-help room: 4.5 BHK residences of about 2,257 to 2,943 sq ft of carpet area with long sit-outs; garden residences on the first floor with private gardens, quoted at about 3,582 to 4,398 sq ft; and duplex sky villas on the 20th and 21st floors with open-to-sky gardens and terraces, quoted at about 4,372 to 5,423 sq ft. On the current price sheet, bare-shell homes start at \u20b95.91 crore for a 2,257 sq ft residence, \u20b99.83 crore for a garden residence and \u20b912.85 crore for a sky villa (final all-inclusive price including GST, stamp duty and registration). Amenities spread across three levels include a swimming pool with a poolside deck, a gym, sauna, yoga deck, caf\u00e9, business centre, banquet hall, card room, senior citizens' garden and landscaped recreation spaces, and a 360-degree skywalk around the building, with a grand entrance lobby and concierge. The tower has four levels of covered parking, high-speed elevators, slab-to-slab aluminium windows with high-performance glass, DG backup for the entire apartment, a BMS and control room, CCTV, access control at each common entrance, automatic biometric door locks and sprinklers and smoke detectors in every home. German Bakery, Osho Garden and Malaka Spice are within five minutes, The Westin, Conrad, Marriott Suites and Kalyani Nagar within ten, Poona Club and the Symbiosis institutes within fifteen, and Magarpatta, Hadapsar IT Park and The Bishop's School within twenty. The project is registered with MahaRERA as PR1260002500453.",
     "features": [
       "CCTV Surveillance",
       "Gymnasium",
@@ -48664,7 +48664,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/6dcdd53e-530b-446c-a6c8-123ef894a217/gallery/mvu458u5-2mmnxs.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/6dcdd53e-530b-446c-a6c8-123ef894a217/gallery/mvu458wh-du4755.webp"
     ],
-    "description": "Venkatesh Vanaya is a 10-acre residential project by Venkatesh Buildcon on Old Mundhwa Road, near Oxygen Park in Kharadi, with 4, 3 and 2 BHK homes in 21-storey towers above four levels of parking. The 2 BHK homes have about 777 to 849 sq ft of total carpet area and start at \u20b91.02 crore, the 3 BHK homes about 1,107 to 1,203 sq ft from \u20b91.43 crore, and the 4 BHK homes in wing D about 1,732 to 1,944 sq ft, including 3 BHK plus service-quarter layouts; areas include balconies and dry balconies, and prices are lump-sum agreement values, with stamp duty, GST, registration, floor rise and preferential location charges extra. More than 25 amenities are planned around a tropical landscape: a swimming pool with a kids' pool, a clubhouse, gym, yoga room, meditation studio, Zumba and aerobics room, co-working lounge, business centre, reading lounge, cr\u00e8che, indoor games, multipurpose hall, hobby and art zone and acoustic room, with a multipurpose court, box cricket, pickleball court, outdoor gym, amphitheatre, party lawn, multipurpose lawn with a stage, kids' play area, jogging track, acupressure pathway and senior citizens' sit-out outside. Homes have 600 x 1200 mm or 800 x 800 mm vitrified flooring, aluminium or UPVC sliding windows with mosquito nets, a digital lock on the main door, Jaquar or Kohler fittings, concealed copper wiring with AC points in the living room and all bedrooms, a video door phone and Kone or Otis lifts, and the towers are built with aluminium formwork. E-Space IT Park is 1.7 km away, Zensar 2.2 km, EON IT Park and Panchshil Tech Park 3.5 km and the World Trade Centre 3.6 km, with Phoenix Avenue of Stars 2.8 km, Ramwadi metro station 3.3 km and Pune airport 6.1 km. Four phases are registered with MahaRERA: PR1261012601304 (wings K and L), PR1261012601206 (wings I and J), PR1261012601229 (wing H) and PR1261012601264 (wing D); the promoter is SVBPL Homes Pvt. Ltd.",
+    "description": "Venkatesh Vanaya is a 10-acre residential project by Venkatesh Buildcon on Old Mundhwa Road, near Oxygen Park in Kharadi, with 4, 3 and 2 BHK homes in 21-storey towers above four levels of parking. The 2 BHK homes have about 777 to 849 sq ft of total carpet area and start at \u20b91.02 crore, the 3 BHK homes about 1,107 to 1,203 sq ft from \u20b91.43 crore, and the 4 BHK homes in wing D about 1,732 to 1,944 sq ft, including 3 BHK plus service-quarter layouts; areas include balconies and dry balconies, and prices are final all-inclusive prices including stamp duty, GST, registration, and floor rise preferential location charges extra. More than 25 amenities are planned around a tropical landscape: a swimming pool with a kids' pool, a clubhouse, gym, yoga room, meditation studio, Zumba and aerobics room, co-working lounge, business centre, reading lounge, cr\u00e8che, indoor games, multipurpose hall, hobby and art zone and acoustic room, with a multipurpose court, box cricket, pickleball court, outdoor gym, amphitheatre, party lawn, multipurpose lawn with a stage, kids' play area, jogging track, acupressure pathway and senior citizens' sit-out outside. Homes have 600 x 1200 mm or 800 x 800 mm vitrified flooring, aluminium or UPVC sliding windows with mosquito nets, a digital lock on the main door, Jaquar or Kohler fittings, concealed copper wiring with AC points in the living room and all bedrooms, a video door phone and Kone or Otis lifts, and the towers are built with aluminium formwork. E-Space IT Park is 1.7 km away, Zensar 2.2 km, EON IT Park and Panchshil Tech Park 3.5 km and the World Trade Centre 3.6 km, with Phoenix Avenue of Stars 2.8 km, Ramwadi metro station 3.3 km and Pune airport 6.1 km. Four phases are registered with MahaRERA: PR1261012601304 (wings K and L), PR1261012601206 (wings I and J), PR1261012601229 (wing H) and PR1261012601264 (wing D); the promoter is SVBPL Homes Pvt. Ltd.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -48953,7 +48953,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/efc5ccba-be62-4ab9-b3c3-5dd304d1bbc9/gallery/mvupv49j-5808ow.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/efc5ccba-be62-4ab9-b3c3-5dd304d1bbc9/gallery/mvupv4bj-cdpqay.webp"
     ],
-    "description": "Dream Delmont is a residential project by Dream Works Realtors in Bavdhan Budruk, Pune, near Arihant College and about two minutes from Chandni Chowk. It has five towers of up to 24 floors on about 4 acres, with four homes on each floor. It offers 2 BHK homes of 825 sq ft from \u20b91.07 crore and 3 BHK homes of 1,110 sq ft from \u20b91.53 crore (all-in prices), where the areas are carpet plus balcony (731 and 1,003 sq ft of carpet). About 40,000 sq ft is given to landscaping and amenities: a swimming pool with an infinity edge, a star-gazing deck, an outdoor movie lounge, an amphitheatre with a stage, a BBQ lounge and al-fresco dining, an orchard and herb garden, a temple, a meditation court, yoga and outdoor exercise stations, a gym, a multipurpose court and a podium kids' play area. Homes get 800 x 1600 mm vitrified flooring, uPVC windows, Grohe or equivalent bathroom fittings and a video door phone. The Mumbai-Bengaluru highway is about a minute away and Kothrud about seven minutes, according to the developer. The project is registered with MahaRERA as P52100054736, with a RERA completion date of March 2029.",
+    "description": "Dream Delmont is a residential project by Dream Works Realtors in Bavdhan Budruk, Pune, near Arihant College and about two minutes from Chandni Chowk. It has five towers of up to 24 floors on about 4 acres, with four homes on each floor. It offers 2 BHK homes of 825 sq ft from \u20b91.07 crore and 3 BHK homes of 1,110 sq ft from \u20b91.53 crore (all-in prices), where the areas are cumulative total usable carpet area. About 40,000 sq ft is given to landscaping and amenities: a swimming pool with an infinity edge, a star-gazing deck, an outdoor movie lounge, an amphitheatre with a stage, a BBQ lounge and al-fresco dining, an orchard and herb garden, a temple, a meditation court, yoga and outdoor exercise stations, a gym, a multipurpose court and a podium kids' play area. Homes get 800 x 1600 mm vitrified flooring, uPVC windows, Grohe or equivalent bathroom fittings and a video door phone. The Mumbai-Bengaluru highway is about a minute away and Kothrud about seven minutes, according to the developer. The project is registered with MahaRERA as P52100054736, with a RERA completion date of March 2029.",
     "features": [
       "Gymnasium",
       "Rainwater Harvesting",
@@ -49079,7 +49079,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/17506f3d-4570-4491-940a-8e53076f3147/gallery/mrxe7usm-2dn5pa.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/34e1a7a3-da32-4ff4-b128-2a4e7a4e4dba/gallery/ms389nk0-3rrvzk.webp"
     ],
-    "description": "Sai Kripa Commercial is the retail floor of Sai Kripa, Krishna Rama Developer's building on Plot No. 415, Sector 29, Ganesh Nagar, Ravet, in the Pradhikaran area of Pimpri-Chinchwad. Eight shops, numbered 01 to 08, line the ground floor behind glass shopfronts facing a 10.5 m road, with 5 m driveways down both sides of the building. Each shop is a 40 ft deep, 10 ft wide unit, and the developer's cost sheet gives its size as 555 sq ft. The developer pitches the shops at caf\u00e9s, boutiques, pharmacies and everyday essentials. Footfall comes from students at PCCOE and the D. Y. Patil schools and colleges, families in Pradhikaran's residential sectors (the developer cites more than 6,000 homes nearby), commuters using Akurdi railway station and the 36 households in the 3 BHK homes upstairs, which are sold separately as Sai Kripa. PCCOE, D. Y. Patil Dnyanshanti School, DMart Ravet, Global Hospital and Akurdi railway station are about 5 minutes away, the old Mumbai-Pune highway and NH-48 about 10 and Chinchwad station about 12. The building has high-speed lifts, an EV charging point and solar power generation. A shop is \u20b91.33 crore agreement value, or \u20b91.49 crore including 5% GST, 7% stamp duty and registration. Possession is planned for December 2030 (RERA completion date April 2031). MahaRERA PM1260002500965.",
+    "description": "Sai Kripa Commercial is the retail floor of Sai Kripa, Krishna Rama Developer's building on Plot No. 415, Sector 29, Ganesh Nagar, Ravet, in the Pradhikaran area of Pimpri-Chinchwad. Eight shops, numbered 01 to 08, line the ground floor behind glass shopfronts facing a 10.5 m road, with 5 m driveways down both sides of the building. Each shop is a 40 ft deep, 10 ft wide unit, and the developer's cost sheet gives its size as 555 sq ft. The developer pitches the shops at caf\u00e9s, boutiques, pharmacies and everyday essentials. Footfall comes from students at PCCOE and the D. Y. Patil schools and colleges, families in Pradhikaran's residential sectors (the developer cites more than 6,000 homes nearby), commuters using Akurdi railway station and the 36 households in the 3 BHK homes upstairs, which are sold separately as Sai Kripa. PCCOE, D. Y. Patil Dnyanshanti School, DMart Ravet, Global Hospital and Akurdi railway station are about 5 minutes away, the old Mumbai-Pune highway and NH-48 about 10 and Chinchwad station about 12. The building has high-speed lifts, an EV charging point and solar power generation. A shop is \u20b91.33 crore final all-inclusive price, or \u20b91.49 crore including 5% GST, 7% stamp duty and registration. Possession is planned for December 2030 (RERA completion date April 2031). MahaRERA PM1260002500965.",
     "features": [
       "EV Charging"
     ],
@@ -49438,7 +49438,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/1c2a076f-5560-471a-b74d-4b10d2c36256/gallery/mvu4lgbh-fx9vid.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/1c2a076f-5560-471a-b74d-4b10d2c36256/gallery/mvu4lgdj-8mo1f0.webp"
     ],
-    "description": "Celestia Heights is a residential project by Prapti Buildcon on Kate Wasti Road in Punawale, beside the Kate Wasti forest, with two towers of two basements, ground and 14 storeys. It offers 2 BHK homes of about 747 to 782 sq ft from \u20b968 lakh and 3 BHK homes of about 1,044 to 1,049 sq ft from \u20b995 lakh (agreement value; about \u20b976 to \u20b980 lakh and \u20b91.07 crore with stamp duty, GST and registration), with an aangan at the entrance of each 3 BHK, two 4th-floor 3 BHK garden homes with private gardens of about 404 and 422 sq ft, and two 527 sq ft 1 BHK homes on the refuge floors. Commercial offices of about 400 to 700 sq ft on the 1st and 2nd floors start at \u20b990 lakh. Areas are RERA carpet plus balcony. Amenities include a clubhouse with a gym, hobby room and business centre, a billiards lounge and indoor games, a lawn sitting area, gazebo seating and a barbecue area, and on the top terrace a kids' play area, sand pit, acupressure pathway, viewing deck, stargazing zone and walking and jogging track. The site is about a kilometre from Laxmi Chowk and about two from Wipro Circle and Hinjewadi Phase 1, close to the 65 m ring road, Life Republic and the Mumbai-Bengaluru highway at the Punawale underpass. The project is registered with MahaRERA as PM1260002602252, with possession expected in 2030.",
+    "description": "Celestia Heights is a residential project by Prapti Buildcon on Kate Wasti Road in Punawale, beside the Kate Wasti forest, with two towers of two basements, ground and 14 storeys. It offers 2 BHK homes of about 747 to 782 sq ft from \u20b968 lakh and 3 BHK homes of about 1,044 to 1,049 sq ft from \u20b995 lakh (final all-inclusive price; about \u20b976 to \u20b980 lakh and \u20b91.07 crore with stamp duty, GST and registration), with an aangan at the entrance of each 3 BHK, two 4th-floor 3 BHK garden homes with private gardens of about 404 and 422 sq ft, and two 527 sq ft 1 BHK homes on the refuge floors. Commercial offices of about 400 to 700 sq ft on the 1st and 2nd floors start at \u20b990 lakh. Areas are cumulative total usable carpet area. Amenities include a clubhouse with a gym, hobby room and business centre, a billiards lounge and indoor games, a lawn sitting area, gazebo seating and a barbecue area, and on the top terrace a kids' play area, sand pit, acupressure pathway, viewing deck, stargazing zone and walking and jogging track. The site is about a kilometre from Laxmi Chowk and about two from Wipro Circle and Hinjewadi Phase 1, close to the 65 m ring road, Life Republic and the Mumbai-Bengaluru highway at the Punawale underpass. The project is registered with MahaRERA as PM1260002602252, with possession expected in 2030.",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -50703,7 +50703,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/934ae67a-4206-4655-b43b-e446319056a8/gallery/mvuqeimm-8l4g8l.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/934ae67a-4206-4655-b43b-e446319056a8/gallery/mvuqeion-fj325b.webp"
     ],
-    "description": "Vitthal Nirvana is a residential project by Vissionary Developers on Plot 12, Sector 24, Nigdi Pradhikaran, near Geeta Pavbhaji and opposite Axis Bank, on a 24 m wide road. It is a seven-storey building with just 14 three-bedroom homes, two on each floor, above covered car parking on the ground floor. The two 3 BHK layouts have carpet areas of about 1,052 and 1,086 sq ft and cost \u20b91.40 crore and \u20b91.44 crore (agreement value), or about \u20b91.57 crore and \u20b91.62 crore with stamp duty, GST and registration. The rooftop has a gazebo, a senior citizens' sitting area, a barbecue corner and a small stage and screening area. Homes get 4 x 2 ft vitrified flooring, three-track aluminium sliding windows with granite sills, Cera or Jaguar bathroom fittings, Legrand or L&T switches, a video door phone and glass railings on the balconies, and the building has an Otis lift with battery backup and rainwater harvesting.",
+    "description": "Vitthal Nirvana is a residential project by Vissionary Developers on Plot 12, Sector 24, Nigdi Pradhikaran, near Geeta Pavbhaji and opposite Axis Bank, on a 24 m wide road. It is a seven-storey building with just 14 three-bedroom homes, two on each floor, above covered car parking on the ground floor. The two 3 BHK layouts have carpet areas of about 1,052 and 1,086 sq ft and cost \u20b91.40 crore and \u20b91.44 crore (final all-inclusive price), or about \u20b91.57 crore and \u20b91.62 crore with stamp duty, GST and registration. The rooftop has a gazebo, a senior citizens' sitting area, a barbecue corner and a small stage and screening area. Homes get 4 x 2 ft vitrified flooring, three-track aluminium sliding windows with granite sills, Cera or Jaguar bathroom fittings, Legrand or L&T switches, a video door phone and glass railings on the balconies, and the building has an Otis lift with battery backup and rainwater harvesting.",
     "features": [
       "Rainwater Harvesting",
       "Covered Parking"
@@ -51331,7 +51331,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/6f179efc-b2df-49a3-b42b-b7335719d627/gallery/mvwhgx4k-rh7tj.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/6f179efc-b2df-49a3-b42b-b7335719d627/gallery/mvwhgx7g-eeqfvw.webp"
     ],
-    "description": "ASAP Tishya, branded \"Tishya \u2013 The Beginning\", is a boutique residential tower by ASAP Spaces on Ashiyana Park Lane No. 2 in Aundh, Pune, near Baner Road. It holds just 12 homes on six residential floors, two to a floor: six 3 BHK homes of 1,667 sq ft total carpet area (2,251 sq ft saleable) and six 4.5 BHK homes of 2,183 sq ft total carpet area (2,947 sq ft saleable), where the half is a servant room with its own toilet. On the current price sheet, agreement values start at \u20b93.30 crore for a 3 BHK and \u20b94.21 crore for a 4.5 BHK, with two car parks for a 3 BHK and three for a 4.5 BHK. Homes get Italian marble in the living, dining, kitchen and bathrooms, wooden flooring in the bedrooms, ROCA sanitaryware with GESSI fittings, Tostem aluminium windows, heat-pump hot water, a smart main-door lock with video calling and pre-wired CAT 6A and fibre conduits. The ground floor has a main lobby, a kids' play area, a party lawn and a multipurpose lounge, and the project adds a BBQ and caf\u00e9 zone, a gym, sky lounges and green zones on each residential floor, a car-wash bay, EV charging provision and solar power for common areas. The tower is designed by VDA Designs, and the brochure gives its MahaRERA registration as PR1260002500977.",
+    "description": "ASAP Tishya, branded \"Tishya \u2013 The Beginning\", is a boutique residential tower by ASAP Spaces on Ashiyana Park Lane No. 2 in Aundh, Pune, near Baner Road. It holds just 12 homes on six residential floors, two to a floor: six 3 BHK homes of 1,667 sq ft total carpet area (2,251 sq ft saleable) and six 4.5 BHK homes of 2,183 sq ft total carpet area (2,947 sq ft saleable), where the half is a servant room with its own toilet. On the current price sheet, final all-inclusive prices start at \u20b93.30 crore for a 3 BHK and \u20b94.21 crore for a 4.5 BHK, with two car parks for a 3 BHK and three for a 4.5 BHK. Homes get Italian marble in the living, dining, kitchen and bathrooms, wooden flooring in the bedrooms, ROCA sanitaryware with GESSI fittings, Tostem aluminium windows, heat-pump hot water, a smart main-door lock with video calling and pre-wired CAT 6A and fibre conduits. The ground floor has a main lobby, a kids' play area, a party lawn and a multipurpose lounge, and the project adds a BBQ and caf\u00e9 zone, a gym, sky lounges and green zones on each residential floor, a car-wash bay, EV charging provision and solar power for common areas. The tower is designed by VDA Designs, and the brochure gives its MahaRERA registration as PR1260002500977.",
     "features": [
       "CCTV Surveillance",
       "Gymnasium",
@@ -51460,7 +51460,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/1f3df788-7035-4e21-8487-a66424ab8f1f/gallery/mvwl1on9-40qjn3.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/1f3df788-7035-4e21-8487-a66424ab8f1f/gallery/mvwl1opg-g44546.webp"
     ],
-    "description": "Excellaa Virtu is a nearly complete project of exclusive 3 BHK homes on Jagtap Dairy Road in Vishal Nagar, Pimple Nilakh, Pune, by Excellaa Realty as part of its Gold Collection. It is registered with MahaRERA as P52100054268, and both the RERA date and the developer's commitment for possession are December 2026. The building has two wings joined at the centre in a butterfly plan, with eight homes on each floor, two lifts and two staircases. Homes come in two sizes: 1,005 sq ft (932 sq ft carpet plus a 74 sq ft balcony) and 1,091 sq ft (1,027 plus 64). Both layouts have two master suites with attached bathrooms, a walk-in wardrobe, a private patio off the living and dining room, an L-shaped kitchen and AC points in every bedroom. Agreement values are \u20b91.27 Cr and \u20b91.37 Cr, or about \u20b91.42 Cr and \u20b91.54 Cr with stamp duty, registration and GST. The roof holds 25 amenities, including a climatised pool with a kids' pool and deck, a glass-walled gym, a bonfire sky lounge, a sky lawn, an amphitheatre, a fenced junior play area, indoor games, working pods and herbal and aromatic gardens.",
+    "description": "Excellaa Virtu is a nearly complete project of exclusive 3 BHK homes on Jagtap Dairy Road in Vishal Nagar, Pimple Nilakh, Pune, by Excellaa Realty as part of its Gold Collection. It is registered with MahaRERA as P52100054268, and both the RERA date and the developer's commitment for possession are December 2026. The building has two wings joined at the centre in a butterfly plan, with eight homes on each floor, two lifts and two staircases. Homes come in two sizes: 1,005 sq ft (932 sq ft carpet plus a 74 sq ft balcony) and 1,091 sq ft (1,027 plus 64). Both layouts have two master suites with attached bathrooms, a walk-in wardrobe, a private patio off the living and dining room, an L-shaped kitchen and AC points in every bedroom. Final all-inclusive prices are \u20b91.27 Cr and \u20b91.37 Cr, or about \u20b91.42 Cr and \u20b91.54 Cr with stamp duty, registration and GST. The roof holds 25 amenities, including a climatised pool with a kids' pool and deck, a glass-walled gym, a bonfire sky lounge, a sky lawn, an amphitheatre, a fenced junior play area, indoor games, working pods and herbal and aromatic gardens.",
     "features": [
       "Gymnasium",
       "Co-working Lounge",
@@ -51707,7 +51707,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/dde4a6ce-f1b5-4b32-84c1-e8514171ca50/gallery/mtmpxi80-38i0gv.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/850377d9-38b6-4267-88da-eed7d19f924c/gallery/mvf42z4p-bwtdn0.webp"
     ],
-    "description": "The Vantage is a residential and commercial project by Kuber Properties in Wakad, behind Hotel Tip Top International near the Mumbai-Bengaluru highway, on an 18 m access road towards Bhumkar Wasti Road. The architect's master plan shows four residential towers of two basements, a podium and 13 floors, and a commercial building with retail at the entrance. It offers 2 BHK homes of 857 sq ft from \u20b91.08 crore and 3 BHK homes of 1,198 sq ft at \u20b91.48 crore, plus duplex homes on the 12th and 13th floors: 3 BHK duplexes of 1,639 sq ft at \u20b92.17 crore and 4 BHK duplexes of 2,050 sq ft at \u20b92.69 crore. Prices are agreement values including infrastructure charges (about \u20b91.21 crore to \u20b93.01 crore with stamp duty, GST and registration), and areas are usable area, RERA carpet plus balcony. The terrace amenity floor has a children's play area, an open gym and yoga deck, a senior citizens' plaza, a lawn and a party lawn, gazebos, a sand pit, a BBQ area, a sit-out and a stargazing deck, and 10% of the site is kept as open space on the ground. The project is registered with MahaRERA as PR1260002601066.",
+    "description": "The Vantage is a residential and commercial project by Kuber Properties in Wakad, behind Hotel Tip Top International near the Mumbai-Bengaluru highway, on an 18 m access road towards Bhumkar Wasti Road. The architect's master plan shows four residential towers of two basements, a podium and 13 floors, and a commercial building with retail at the entrance. It offers 2 BHK homes of 857 sq ft from \u20b91.08 crore and 3 BHK homes of 1,198 sq ft at \u20b91.48 crore, plus duplex homes on the 12th and 13th floors: 3 BHK duplexes of 1,639 sq ft at \u20b92.17 crore and 4 BHK duplexes of 2,050 sq ft at \u20b92.69 crore. Prices are final all-inclusive prices including infrastructure charges and statutory dues (about \u20b91.21 crore to \u20b93.01 crore with stamp duty, GST and registration), and areas are cumulative total usable carpet area. The terrace amenity floor has a children's play area, an open gym and yoga deck, a senior citizens' plaza, a lawn and a party lawn, gazebos, a sand pit, a BBQ area, a sit-out and a stargazing deck, and 10% of the site is kept as open space on the ground. The project is registered with MahaRERA as PR1260002601066.",
     "features": [
       "Gymnasium",
       "Landscaped Garden",
@@ -52234,7 +52234,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/991a2afa-8abc-43d8-a7a9-e2374e67d2b8/gallery/mwbvbhrv-e17cva.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/991a2afa-8abc-43d8-a7a9-e2374e67d2b8/gallery/mwbvbhtr-uok2k.webp"
     ],
-    "description": "QUE 101 is a 12-acre residential community by Unique Properties on Bharat Mata Road in Dhanori, north-east Pune, about 6 km from Pune airport. Phase I is registered with MahaRERA as PM1261012602127 (promoter ANNR Unique Realty LLP). The master plan shows 12 towers, A to L, around a 40,000 sq ft central park, with 21,000 sq ft of semi-covered and indoor amenities and a retail street along the main road. Homes include 2 BHK flats of 828 to 838 sq ft and 3 BHK flats of 963 to 1,110 sq ft, second-floor homes with private terraces, duplexes of 3, 4 and 5 BHK from 1,370 to 2,049 sq ft on the ground and upper-ground floors, and 3 BHK row houses of 2,201 and 2,210 sq ft with front and back yards (all total areas). Agreement values on the November 2026 cost sheets start at \u20b980.03 lakh for a 2 BHK, \u20b991.94 lakh for a 3 BHK flat, \u20b91.58 crore for a duplex and \u20b92.76 crore for a row house. The amenity list runs to more than 65 items, including a clubhouse with an air-conditioned gym, swimming and kids' pools, pickleball and half-basketball courts, a pet park, co-working and business lounges, podcast and creator studios, a mini theatre, a salon and spa, and an ice-bath recovery zone. Homes get 600 x 1200 mm vitrified tiles, biometric main-door locks, glass balcony railings, a video door phone and AC points in the living room and main bedroom. Possession is planned for December 2028.",
+    "description": "QUE 101 is a 12-acre residential community by Unique Properties on Bharat Mata Road in Dhanori, north-east Pune, about 6 km from Pune airport. Phase I is registered with MahaRERA as PM1261012602127 (promoter ANNR Unique Realty LLP). The master plan shows 12 towers, A to L, around a 40,000 sq ft central park, with 21,000 sq ft of semi-covered and indoor amenities and a retail street along the main road. Homes include 2 BHK flats of 828 to 838 sq ft and 3 BHK flats of 963 to 1,110 sq ft, second-floor homes with private terraces, duplexes of 3, 4 and 5 BHK from 1,370 to 2,049 sq ft on the ground and upper-ground floors, and 3 BHK row houses of 2,201 and 2,210 sq ft with front and back yards (all total areas). Final all-inclusive prices on the November 2026 cost sheets start at \u20b980.03 lakh for a 2 BHK, \u20b991.94 lakh for a 3 BHK flat, \u20b91.58 crore for a duplex and \u20b92.76 crore for a row house. The amenity list runs to more than 65 items, including a clubhouse with an air-conditioned gym, swimming and kids' pools, pickleball and half-basketball courts, a pet park, co-working and business lounges, podcast and creator studios, a mini theatre, a salon and spa, and an ice-bath recovery zone. Homes get 600 x 1200 mm vitrified tiles, biometric main-door locks, glass balcony railings, a video door phone and AC points in the living room and main bedroom. Possession is planned for December 2028.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -52377,7 +52377,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/cd6d53c1-cdb6-454a-b6d2-2a4fc40a4a86/gallery/mwbydptb-561y23.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/cd6d53c1-cdb6-454a-b6d2-2a4fc40a4a86/gallery/mwbydpve-96ynpd.webp"
     ],
-    "description": "Amorapolis is a Nirman Greens residential community at Survey No. 12, Dhanori, Pune 411015, built in phases by Krisna Nirmaan Skyscraper LLP. Its earlier wings are registered with MahaRERA, and the newest, Wing I, is now on sale. Wing I's typical floor plan has six homes a floor: two 2 BHK homes of 698 sq ft and four 3 BHK homes of 1,012 sq ft, each the carpet area plus an open balcony. The launch cost sheet also lists a 2 BHK Grand of 825 sq ft, which is not on the typical floor plan. Agreement values are \u20b968.39 lakh for the 698 sq ft 2 BHK, \u20b980.85 lakh for the 825 sq ft 2 BHK and \u20b999.19 lakh for the 3 BHK; with 7% stamp duty, 5% GST and \u20b931,000 registration, the totals come to \u20b976.91 lakh, \u20b990.86 lakh and \u20b91.11 crore. The 2 BHK has a 15'6\" x 16' living and dining room and a sit-out; the 3 BHK has a 16'6\" x 16'6\" living and dining room, a kitchen with a utility area, a sit-out and a balcony. The developer's renders show a clubhouse with a swimming pool, a basketball court, a children's play area, landscaped gardens with an open-air stage, and a gated entrance, and it lists a surveillance system and 24x7 security. It places the project about 5 to 7 km from Pune International Airport and 6 to 8 km from Kharadi IT Park. Ask for Wing I's MahaRERA registration and possession date before booking.",
+    "description": "Amorapolis is a Nirman Greens residential community at Survey No. 12, Dhanori, Pune 411015, built in phases by Krisna Nirmaan Skyscraper LLP. Its earlier wings are registered with MahaRERA, and the newest, Wing I, is now on sale. Wing I's typical floor plan has six homes a floor: two 2 BHK homes of 698 sq ft and four 3 BHK homes of 1,012 sq ft, each the carpet area plus an open balcony. The launch cost sheet also lists a 2 BHK Grand of 825 sq ft, which is not on the typical floor plan. Final all-inclusive prices are \u20b968.39 lakh for the 698 sq ft 2 BHK, \u20b980.85 lakh for the 825 sq ft 2 BHK and \u20b999.19 lakh for the 3 BHK; with 7% stamp duty, 5% GST and \u20b931,000 registration, the totals come to \u20b976.91 lakh, \u20b990.86 lakh and \u20b91.11 crore. The 2 BHK has a 15'6\" x 16' living and dining room and a sit-out; the 3 BHK has a 16'6\" x 16'6\" living and dining room, a kitchen with a utility area, a sit-out and a balcony. The developer's renders show a clubhouse with a swimming pool, a basketball court, a children's play area, landscaped gardens with an open-air stage, and a gated entrance, and it lists a surveillance system and 24x7 security. It places the project about 5 to 7 km from Pune International Airport and 6 to 8 km from Kharadi IT Park. Ask for Wing I's MahaRERA registration and possession date before booking.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -52636,7 +52636,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/edbd80d8-4bc4-41bc-8999-809af0344a9d/floorplans/mvhwty3u-eacdtp.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/edbd80d8-4bc4-41bc-8999-809af0344a9d/floorplans/mvhwtyw9-615q1s.webp"
     ],
-    "description": "Stalwart Business Enclave by Kiran Creators & Developers is a 12-storey commercial landmark on the Aundh\u2013Baner Link Road in Baner, near Jupiter Hospital, with premium corporate offices and exclusive showrooms for corporates, IT and consulting firms, doctors, CAs, lawyers, architects and brands. Offices range from about 995 to 3,515 sq ft (and larger combined spaces up to about 7,000 sq ft), and the ground floor has a premium showroom of 1,718 sq ft with a 22-ft double height and mezzanine and strong road frontage. The building has a grand double-height entrance lobby, tall ceilings, breakout zones and three dedicated parking levels (B1, B2 and lower ground) with ample two-wheeler parking and smooth entry and exit. The address links directly to Aundh, Balewadi, Pashan, Hinjawadi and the Mumbai\u2013Bengaluru Highway, minutes from Balewadi High Street and the Baner commercial belt, with an expected rental yield of 8\u20139%. All-inclusive prices start from \u20b92.03 Cr for an office and \u20b99.51 Cr for the showroom; the booking amount is 10% of the agreement value. Possession is planned for December 2028. MahaRERA PC1260002600587.",
+    "description": "Stalwart Business Enclave by Kiran Creators & Developers is a 12-storey commercial landmark on the Aundh\u2013Baner Link Road in Baner, near Jupiter Hospital, with premium corporate offices and exclusive showrooms for corporates, IT and consulting firms, doctors, CAs, lawyers, architects and brands. Offices range from about 995 to 3,515 sq ft (and larger combined spaces up to about 7,000 sq ft), and the ground floor has a premium showroom of 1,718 sq ft with a 22-ft double height and mezzanine and strong road frontage. The building has a grand double-height entrance lobby, tall ceilings, breakout zones and three dedicated parking levels (B1, B2 and lower ground) with ample two-wheeler parking and smooth entry and exit. The address links directly to Aundh, Balewadi, Pashan, Hinjawadi and the Mumbai\u2013Bengaluru Highway, minutes from Balewadi High Street and the Baner commercial belt, with an expected rental yield of 8\u20139%. All-inclusive prices start from \u20b92.03 Cr for an office and \u20b99.51 Cr for the showroom; the booking amount is 10% of the total property value. Possession is planned for December 2028. MahaRERA PC1260002600587.",
     "features": [
       "CCTV Surveillance",
       "Rainwater Harvesting",
@@ -53245,7 +53245,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/682acbe6-1523-4751-96d3-668325f5cf39/gallery/mwbzrs2p-4pqed1.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/682acbe6-1523-4751-96d3-668325f5cf39/gallery/mwbzrs4r-1wgfo5.webp"
     ],
-    "description": "Godrej Skyline Commercial is the high-street retail podium of Godrej Skyline, the Godrej Properties project on Ghorpadi\u2013Mundhwa Road in Koregaon Park Annexe, Mundhwa, registered with MahaRERA as PM1260002400007. The shops sit at the base of the residential towers, along a 30 m DP road and an 18 m DP road, with more than 150 feet of retail frontage, an entrance lobby with marble flooring and a loading and unloading bay for goods. Ground-floor shops have a mezzanine within an 8.4 m (27.5 ft) floor-to-floor height; the first retail floor is 4.2 m high. The current inventory lists 13 shops: eight on the ground floor, of 750 to 1,203 sq ft of RERA carpet including the mezzanine, at agreement values of \u20b94.24 crore to \u20b96.80 crore, and five on the first retail floor, of 808 to 1,551 sq ft, at \u20b93.41 crore to \u20b97.57 crore. That works out to about \u20b951,650 to \u20b956,560 per sq ft on the ground floor and \u20b942,200 to \u20b949,400 on the first floor. Shops get vitrified flooring, toughened glass doors, a glass facade with allotted signage space, a centralised AC provision and a high-speed internet provision, with basement parking for cars and scooters and EV provision. Possession is planned for November 2029.",
+    "description": "Godrej Skyline Commercial is the high-street retail podium of Godrej Skyline, the Godrej Properties project on Ghorpadi\u2013Mundhwa Road in Koregaon Park Annexe, Mundhwa, registered with MahaRERA as PM1260002400007. The shops sit at the base of the residential towers, along a 30 m DP road and an 18 m DP road, with more than 150 feet of retail frontage, an entrance lobby with marble flooring and a loading and unloading bay for goods. Ground-floor shops have a mezzanine within an 8.4 m (27.5 ft) floor-to-floor height; the first retail floor is 4.2 m high. The current inventory lists 13 shops: eight on the ground floor, of 750 to 1,203 sq ft of RERA carpet including the mezzanine, at final all-inclusive prices of \u20b94.24 crore to \u20b96.80 crore, and five on the first retail floor, of 808 to 1,551 sq ft, at \u20b93.41 crore to \u20b97.57 crore. That works out to about \u20b951,650 to \u20b956,560 per sq ft on the ground floor and \u20b942,200 to \u20b949,400 on the first floor. Shops get vitrified flooring, toughened glass doors, a glass facade with allotted signage space, a centralised AC provision and a high-speed internet provision, with basement parking for cars and scooters and EV provision. Possession is planned for November 2029.",
     "features": [
       "Covered Parking",
       "EV Charging"
@@ -53486,7 +53486,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qk49-fnx9t2.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qk68-2gzdxm.webp"
     ],
-    "description": "Arkaa Galaxy is a residential project by Agarwal and Bhondve Buildcon LLP in Ravet, behind the PCMC water tank near Chandrabhaga Corner Lane. It is registered with MahaRERA as P52100045836, with completion proposed for April 2029. On a 3,000 sq m plot, two towers rise 14 storeys above a ground floor and two parking levels, with separate entry and exit gates, and are joined at the top by a connected rooftop of about 3,500 sq ft holding a lawn, a party and play area, an open theatre, a jogging area, an open fitness area and a lounge. The brochure counts 108 2 BHK homes in Wings A and B. The current cost sheet lists 2 BHK homes of 745, 754 and 781 sq ft at agreement values of \u20b968.46 lakh, \u20b969.19 lakh and \u20b971.69 lakh, and a single 1,273 sq ft 3 BHK (B-702) at \u20b91.17 crore. Every flat gets an inverter backup, and the building has DG backup for the lifts and common areas, CCTV, a video door phone, solar water heating, rainwater harvesting and an organic waste converter. Homes have vitrified tiles throughout, a granite kitchen platform, aluminium sliding windows with mosquito mesh, a folding door to the living-room balcony and AC provision in the living room and master bedroom.",
+    "description": "Arkaa Galaxy is a residential project by Agarwal and Bhondve Buildcon LLP in Ravet, behind the PCMC water tank near Chandrabhaga Corner Lane. It is registered with MahaRERA as P52100045836, with completion proposed for April 2029. On a 3,000 sq m plot, two towers rise 14 storeys above a ground floor and two parking levels, with separate entry and exit gates, and are joined at the top by a connected rooftop of about 3,500 sq ft holding a lawn, a party and play area, an open theatre, a jogging area, an open fitness area and a lounge. The brochure counts 108 2 BHK homes in Wings A and B. The current cost sheet lists 2 BHK homes of 745, 754 and 781 sq ft at final all-inclusive prices of \u20b968.46 lakh, \u20b969.19 lakh and \u20b971.69 lakh, and a single 1,273 sq ft 3 BHK (B-702) at \u20b91.17 crore. Every flat gets an inverter backup, and the building has DG backup for the lifts and common areas, CCTV, a video door phone, solar water heating, rainwater harvesting and an organic waste converter. Homes have vitrified tiles throughout, a granite kitchen platform, aluminium sliding windows with mosquito mesh, a folding door to the living-room balcony and AC provision in the living room and master bedroom.",
     "features": [
       "CCTV Surveillance",
       "Gymnasium",
@@ -53613,7 +53613,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkiy5-96mu5o.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkj0w-46ufr8.webp"
     ],
-    "description": "The Crown Highstreet is the retail podium of Ace Ayodhya, the four-tower residential project by Jhamtani Group and Shree Venkateshwara Group on the 45-metre Aundh\u2013Ravet BRTS road near Dange Chowk, Thergaon. It is registered with the homes under MahaRERA PR1261012600416, with Ace Venkateshwara Realty as the promoter. The high street has 22 shops on the ground floor and 22 on the first, of 355 to 1,147 sq ft of carpet, plus seven showrooms of 1,983 to 5,678 sq ft over both floors, facing a high-street plaza along a 12-metre road. Agreement values on the current cost sheets work out to \u20b937,500 per sq ft on the ground floor and \u20b933,000 on the first: from \u20b91.33 crore for a 355 sq ft ground-floor shop and \u20b91.17 crore for the same size upstairs, up to \u20b94.30 crore for a 1,147 sq ft ground-floor shop. Showroom prices are on request. The renders show a colonnaded concourse beneath the towers, and the plans show lift lobbies and a commercial ramp to the basement. Possession is planned for December 2030.",
+    "description": "The Crown Highstreet is the retail podium of Ace Ayodhya, the four-tower residential project by Jhamtani Group and Shree Venkateshwara Group on the 45-metre Aundh\u2013Ravet BRTS road near Dange Chowk, Thergaon. It is registered with the homes under MahaRERA PR1261012600416, with Ace Venkateshwara Realty as the promoter. The high street has 22 shops on the ground floor and 22 on the first, of 355 to 1,147 sq ft of carpet, plus seven showrooms of 1,983 to 5,678 sq ft over both floors, facing a high-street plaza along a 12-metre road. Final all-inclusive prices on the current cost sheets work out to \u20b937,500 per sq ft on the ground floor and \u20b933,000 on the first: from \u20b91.33 crore for a 355 sq ft ground-floor shop and \u20b91.17 crore for the same size upstairs, up to \u20b94.30 crore for a 1,147 sq ft ground-floor shop. Showroom prices are on request. The renders show a colonnaded concourse beneath the towers, and the plans show lift lobbies and a commercial ramp to the basement. Possession is planned for December 2030.",
     "features": [
       "Covered Parking"
     ],
@@ -54104,7 +54104,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/904e6ae3-ea42-409c-b46e-8c879b2294b7/gallery/mvv4kyna-ao946s.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/904e6ae3-ea42-409c-b46e-8c879b2294b7/gallery/mvv4kyp8-ovbi4.webp"
     ],
-    "description": "Kuber Antonia is a residential project by Kuber Properties, with Bhandare Associates as joint-venture partner, behind Hotel Tip Top International and beside Yashwin Encore in Wakad, close to Bhumkar Chowk and the Mumbai-Bengaluru highway. It offers only 2 BHK homes of 730 sq ft (637 sq ft of RERA carpet plus 93 sq ft of balconies), five to a typical floor with two lifts. On the B building cost sheet, a 2 BHK costs \u20b984.56 lakh as agreement value, including \u20b95.25 lakh of infrastructure charges, or about \u20b995 lakh with stamp duty, GST and registration. Each home has a 16'0\" x 10'6\" living and dining room with a balcony, an 8'0\" x 10'4\" kitchen with a dry balcony, a 14'0\" x 10'6\" master bedroom with its own bathroom and balcony, a 10'0\" x 10'0\" second bedroom and a second bathroom. At ground level there are a clubhouse with the Power Club co-working space, a swimming pool, a jacuzzi, a jogging track, a barbecue zone, a deck, a party lawn and pergolas, and the rooftop deck, more than 100 feet above the ground, adds a yoga and meditation area, an open gym, board games, gazebos, a party lawn, a children's play area and a senior citizens' sit-out. Homes come with 800 x 800 mm vitrified flooring, American Standard sanitaryware and Grohe fittings, split AC points in the living room and both bedrooms, a video door phone, solar hot water and 24x7 security with CCTV. The project is registered with MahaRERA as P52100035197, with possession planned for April 2027.",
+    "description": "Kuber Antonia is a residential project by Kuber Properties, with Bhandare Associates as joint-venture partner, behind Hotel Tip Top International and beside Yashwin Encore in Wakad, close to Bhumkar Chowk and the Mumbai-Bengaluru highway. It offers only 2 BHK homes of 730 sq ft (637 sq ft of RERA carpet plus 93 sq ft of balconies), five to a typical floor with two lifts. On the B building cost sheet, a 2 BHK costs \u20b984.56 lakh as final all-inclusive price, including \u20b95.25 lakh of infrastructure charges, or about \u20b995 lakh with stamp duty, GST and registration. Each home has a 16'0\" x 10'6\" living and dining room with a balcony, an 8'0\" x 10'4\" kitchen with a dry balcony, a 14'0\" x 10'6\" master bedroom with its own bathroom and balcony, a 10'0\" x 10'0\" second bedroom and a second bathroom. At ground level there are a clubhouse with the Power Club co-working space, a swimming pool, a jacuzzi, a jogging track, a barbecue zone, a deck, a party lawn and pergolas, and the rooftop deck, more than 100 feet above the ground, adds a yoga and meditation area, an open gym, board games, gazebos, a party lawn, a children's play area and a senior citizens' sit-out. Homes come with 800 x 800 mm vitrified flooring, American Standard sanitaryware and Grohe fittings, split AC points in the living room and both bedrooms, a video door phone, solar hot water and 24x7 security with CCTV. The project is registered with MahaRERA as P52100035197, with possession planned for April 2027.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -55375,7 +55375,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/7544fa37-d446-4c0f-b468-f46524919acb/gallery/mwevqeya-3gja4v.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/7544fa37-d446-4c0f-b468-f46524919acb/gallery/mwevqf06-adcvbe.webp"
     ],
-    "description": "YOO One is a luxury residential project at NIBM, Pune, by Dasscon Realty, the luxury development arm of the construction company Tricon, with interiors by Sussanne Khan for YOO, the international design brand. The 6.75-acre development looks over about 200 acres of reserved forest. This listing covers Tower 2, Serenity: a 21-storey tower with four homes on each floor, registered with MahaRERA as PR1262022600430 (YOO One Phase II), with a RERA completion date of April 2030. Serenity has 3.5 BHK homes of 1,689 and 1,694 sq ft from \u20b93.01 Cr and 4.5 BHK homes of 2,103 and 2,333 sq ft from \u20b93.69 Cr, all inclusive; sizes are RERA carpet plus balcony. Every home has a servant's room with its own toilet and a utility balcony, a living and dining room opening onto a private deck, floor-to-ceiling windows and a 3.375 m floor-to-floor height, and the forest-facing bedrooms look over the reserve. Buyers get space for a VRF/VRV air-conditioning system, a fingerprint digital lock and freedom to personalise their interiors, plus two car parks per home. The amenities include a 1.5-acre rooftop with a restaurant, sky bar, infinity-edge pool, spa, indoor and outdoor gyms and an amphitheatre; about an acre of podium amenities with pickleball and multipurpose courts, a mini golf course and a kids' play area; and an 8,500 sq ft clubhouse. A show flat is ready to visit.",
+    "description": "YOO One is a luxury residential project at NIBM, Pune, by Dasscon Realty, the luxury development arm of the construction company Tricon, with interiors by Sussanne Khan for YOO, the international design brand. The 6.75-acre development looks over about 200 acres of reserved forest. This listing covers Tower 2, Serenity: a 21-storey tower with four homes on each floor, registered with MahaRERA as PR1262022600430 (YOO One Phase II), with a RERA completion date of April 2030. Serenity has 3.5 BHK homes of 1,689 and 1,694 sq ft from \u20b93.01 Cr and 4.5 BHK homes of 2,103 and 2,333 sq ft from \u20b93.69 Cr, all inclusive; sizes are cumulative total usable carpet area. Every home has a servant's room with its own toilet and a utility balcony, a living and dining room opening onto a private deck, floor-to-ceiling windows and a 3.375 m floor-to-floor height, and the forest-facing bedrooms look over the reserve. Buyers get space for a VRF/VRV air-conditioning system, a fingerprint digital lock and freedom to personalise their interiors, plus two car parks per home. The amenities include a 1.5-acre rooftop with a restaurant, sky bar, infinity-edge pool, spa, indoor and outdoor gyms and an amphitheatre; about an acre of podium amenities with pickleball and multipurpose courts, a mini golf course and a kids' play area; and an 8,500 sq ft clubhouse. A show flat is ready to visit.",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -55501,7 +55501,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp",
       "https://keystoneliv.com/public/uploads/property/Q39esXojW09bMJ6Mdrck23emKYk4oMPhiZEBA16j.webp"
     ],
-    "description": "Codename District Studio, sold as Smarto Tower, is a building of studio apartments in Pune. Each typical floor has nine studios along a 1.5 m passage, served by a lift and a fire lift, and the cost sheet lists nine studio types from 202 to 307 sq ft of carpet. Each studio has a room of about 10'6\" wide and 14'7\" to 18' long, a toilet, a kitchenette counter and a small balcony. Agreement values run from \u20b926.36 lakh for the 202 sq ft studio to \u20b940.06 lakh for 307 sq ft. With 7% stamp duty, 1% GST and \u20b931,000 registration, the totals are \u20b928.78 lakh to \u20b943.58 lakh; GST is charged at the 1% affordable-housing rate because each studio is small and priced under \u20b945 lakh. The cost sheet we have was valid until 30 October 2026, so ask for the current one. The material does not give the site address, a MahaRERA registration number or a possession date; get all three before paying anything.",
+    "description": "Codename District Studio, sold as Smarto Tower, is a building of studio apartments in Pune. Each typical floor has nine studios along a 1.5 m passage, served by a lift and a fire lift, and the cost sheet lists nine studio types from 202 to 307 sq ft of carpet. Each studio has a room of about 10'6\" wide and 14'7\" to 18' long, a toilet, a kitchenette counter and a small balcony. Final all-inclusive prices run from \u20b926.36 lakh for the 202 sq ft studio to \u20b940.06 lakh for 307 sq ft. With 7% stamp duty, 1% GST and \u20b931,000 registration, the totals are \u20b928.78 lakh to \u20b943.58 lakh; GST is charged at the 1% affordable-housing rate because each studio is small and priced under \u20b945 lakh. The cost sheet we have was valid until 30 October 2026, so ask for the current one. The material does not give the site address, a MahaRERA registration number or a possession date; get all three before paying anything.",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -55629,7 +55629,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxpik-7gnm7q.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxpkf-abmj9p.webp"
     ],
-    "description": "K Pune is a residential project by Tayal Corp under its K Better Homes brand at Sr. No. 45/1 and 45/2, Bavdhan, about 1.7 km from Chandni Chowk. Spread over 10 acres, it has seven towers of 21 storeys, a high street of 62 showrooms and landscape design by Landscape Tectonix of Bangkok. Phase II (buildings C, D and E) is registered with MahaRERA as P52100077301, with VMC Landmark Realty LLP as the promoter and a proposed completion date of 31 July 2029; Phase I is registered as P52100047630. The current cost sheet lists 3 BHK homes of 1,116 sq ft in buildings C and D and 1,251 and 1,361 sq ft in building E, and 4 BHK homes of 1,708 sq ft in building E, sizes that include the balconies. Agreement values start at \u20b91.30 crore for a 1,116 sq ft 3 BHK and \u20b91.975 crore for the 4 BHK, rising by \u20b950,000 for each higher floor band. Amenities include a two-level cascading pool with a leisure pool, a clubhouse with a multipurpose hall and cr\u00e8che, a multi-sport court, a kids' play area, a step amphitheatre, terrace gardens, a co-working space, a reading space, a games zone and a sports and wellness area, with four levels of car parking. Homes get an Aluform structure, gypsum-finished walls, UPVC windows with mosquito mesh, solar-heated water and AC points in the living room and master bedroom.",
+    "description": "K Pune is a residential project by Tayal Corp under its K Better Homes brand at Sr. No. 45/1 and 45/2, Bavdhan, about 1.7 km from Chandni Chowk. Spread over 10 acres, it has seven towers of 21 storeys, a high street of 62 showrooms and landscape design by Landscape Tectonix of Bangkok. Phase II (buildings C, D and E) is registered with MahaRERA as P52100077301, with VMC Landmark Realty LLP as the promoter and a proposed completion date of 31 July 2029; Phase I is registered as P52100047630. The current cost sheet lists 3 BHK homes of 1,116 sq ft in buildings C and D and 1,251 and 1,361 sq ft in building E, and 4 BHK homes of 1,708 sq ft in building E, sizes that include the balconies. Final all-inclusive prices start at \u20b91.30 crore for a 1,116 sq ft 3 BHK and \u20b91.975 crore for the 4 BHK, rising by \u20b950,000 for each higher floor band. Amenities include a two-level cascading pool with a leisure pool, a clubhouse with a multipurpose hall and cr\u00e8che, a multi-sport court, a kids' play area, a step amphitheatre, terrace gardens, a co-working space, a reading space, a games zone and a sports and wellness area, with four levels of car parking. Homes get an Aluform structure, gypsum-finished walls, UPVC windows with mosquito mesh, solar-heated water and AC points in the living room and master bedroom.",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -55887,7 +55887,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2oob-6p8mi8.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2oq8-d7mbyi.webp"
     ],
-    "description": "Arvaana is a single residential tower in Balewadi, Pune, by Kundan Spaces, with only two homes on each floor. The tower rises three basements, a ground floor and 33 floors on a plot of about one acre, for 66 homes in all, and is open on the east and west sides. It is registered with MahaRERA as PR1260002600277, and the developer gives possession as December 2030. There are two home types. The 4.5 BHK homes measure 2,235 to 2,269 sq ft of total carpet area and have four bedrooms, a double-height family room, a sit-out, a servant's room with its own toilet, a dry balcony and a store. The 4 BHK homes, 2,147 and 2,160 sq ft, have the same four bedrooms with a double-height sit-out in place of the family room. Floors are 11 ft high, each typical floor is served by four lifts, power backup covers the whole building and every home gets three car parks. Agreement values start at \u20b93.46 Cr for the 4 BHK and \u20b93.60 Cr for the 4.5 BHK; with stamp duty, registration and GST the packages are about \u20b93.87 Cr to \u20b94.09 Cr. The amenity floor at the top holds a temperature-controlled covered pool with a kids' pool, a mini theatre, a co-working room, an indoor games room and a green lounge, and the roof has a party deck and a viewing deck. The site is on a 30 m road, about two minutes from Balewadi High Street, with Baner, Aundh, Pimpri-Chinchwad and the Mumbai-Bengaluru highway close by.",
+    "description": "Arvaana is a single residential tower in Balewadi, Pune, by Kundan Spaces, with only two homes on each floor. The tower rises three basements, a ground floor and 33 floors on a plot of about one acre, for 66 homes in all, and is open on the east and west sides. It is registered with MahaRERA as PR1260002600277, and the developer gives possession as December 2030. There are two home types. The 4.5 BHK homes measure 2,235 to 2,269 sq ft of total carpet area and have four bedrooms, a double-height family room, a sit-out, a servant's room with its own toilet, a dry balcony and a store. The 4 BHK homes, 2,147 and 2,160 sq ft, have the same four bedrooms with a double-height sit-out in place of the family room. Floors are 11 ft high, each typical floor is served by four lifts, power backup covers the whole building and every home gets three car parks. Final all-inclusive prices start at \u20b93.46 Cr for the 4 BHK and \u20b93.60 Cr for the 4.5 BHK; with stamp duty, registration and GST the packages are about \u20b93.87 Cr to \u20b94.09 Cr. The amenity floor at the top holds a temperature-controlled covered pool with a kids' pool, a mini theatre, a co-working room, an indoor games room and a green lounge, and the roof has a party deck and a viewing deck. The site is on a 30 m road, about two minutes from Balewadi High Street, with Baner, Aundh, Pimpri-Chinchwad and the Mumbai-Bengaluru highway close by.",
     "features": [
       "Gymnasium",
       "Co-working Lounge",
@@ -56659,7 +56659,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkiy5-96mu5o.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkj0w-46ufr8.webp"
     ],
-    "description": "Tapovan is a residential tower by Life Spaces Realty at Gat No. 253 on the Moshi\u2013Alandi Road, near Vedshree Tapovan in Moshi, registered with MahaRERA as PM1260002501333 with a proposed completion date of 30 April 2029. It is a mixed-use building: shops on the ground floor and offices on the second, with 2 BHK and 3 BHK homes from the 1st to the 14th floor and refuge floors at the 7th and 12th. The 2 BHK homes measure 722 to 739 sq ft and cost \u20b953.01 lakh to \u20b954.16 lakh, and the 3 BHK homes measure 896 to 924 sq ft and cost \u20b966.44 lakh to \u20b968.95 lakh, as agreement values. The rooftop has a children's play area, a toddlers' play area, an open gym, a yoga deck, a party area, a gazebo and senior citizens' sit-outs, a sunset deck and an acupressure walkway. The tower has a road-facing elevation with toughened glass, and homes get an earthquake-resistant RCC frame with AAC block walls, vitrified tiles throughout, a black pearl granite kitchen counter with a stainless steel sink, sliding aluminium windows with mosquito nets, solar hot water in the master bathroom and an AC point in the master bedroom. By the brochure, MIT College and the Shri Gajanan Maharaj temple are 5 minutes away, Moshi bus stop 8 minutes, and Alandi and DMart 10 minutes.",
+    "description": "Tapovan is a residential tower by Life Spaces Realty at Gat No. 253 on the Moshi\u2013Alandi Road, near Vedshree Tapovan in Moshi, registered with MahaRERA as PM1260002501333 with a proposed completion date of 30 April 2029. It is a mixed-use building: shops on the ground floor and offices on the second, with 2 BHK and 3 BHK homes from the 1st to the 14th floor and refuge floors at the 7th and 12th. The 2 BHK homes measure 722 to 739 sq ft and cost \u20b953.01 lakh to \u20b954.16 lakh, and the 3 BHK homes measure 896 to 924 sq ft and cost \u20b966.44 lakh to \u20b968.95 lakh, as final all-inclusive prices. The rooftop has a children's play area, a toddlers' play area, an open gym, a yoga deck, a party area, a gazebo and senior citizens' sit-outs, a sunset deck and an acupressure walkway. The tower has a road-facing elevation with toughened glass, and homes get an earthquake-resistant RCC frame with AAC block walls, vitrified tiles throughout, a black pearl granite kitchen counter with a stainless steel sink, sliding aluminium windows with mosquito nets, solar hot water in the master bathroom and an AC point in the master bedroom. By the brochure, MIT College and the Shri Gajanan Maharaj temple are 5 minutes away, Moshi bus stop 8 minutes, and Alandi and DMart 10 minutes.",
     "features": [
       "Gymnasium",
       "Covered Parking",
@@ -56788,7 +56788,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/609dca63-0f91-4e39-9c90-d3d97ab38d32/gallery/mvu256gg-9ab1m9.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/609dca63-0f91-4e39-9c90-d3d97ab38d32/gallery/mvu256i8-23ijv3.webp"
     ],
-    "description": "Sai Kripa by Krishna Rama Developer is a boutique residential building on Plot No. 415, Sector 29, Ganesh Nagar, Ravet, in the Pradhikaran area of Pimpri-Chinchwad, facing a 10.5 m road. Six residential floors hold just 36 homes, all 3 BHK and six to a floor: 1,053 sq ft homes (938 sq ft carpet plus 115 sq ft of balconies) and 1,085 sq ft homes (970 sq ft carpet plus 115 sq ft of balconies). Every home has three bedrooms, two of them with attached toilets, a living room opening onto a 12 ft balcony, a dining area and a kitchen with a dry balcony; the first-floor homes also open onto terraces. The rooftop is given over to amenities: a gym, a lawn, a yoga deck, a jogging track around the edge, a kids' play area, an indoor games room and club house, and a multipurpose hall with a pantry and stage. Homes come with a 35 mm main door with a biometric lock, a video door bell, UPVC windows and balcony doors, 600 x 1200 mm vitrified tiles, Jaquar or Hindware fittings, geyser provision in every bathroom and AC provision in the living room and all bedrooms, and the building has high-speed lifts, an EV charging point and solar power generation. The eight shops on the ground floor are listed separately as Sai Kripa Commercial. D. Y. Patil Dnyanshanti School, PCCOE, DMart Ravet, Global Hospital, Akurdi railway station and the Pradhikaran gardens are about 5 minutes away, Chinchwad station about 12 and the old Mumbai-Pune highway and NH-48 about 10. Agreement values start from \u20b91.06 crore for a 3 BHK (about \u20b91.19 crore including GST, stamp duty and registration). Possession is planned for December 2030 (RERA completion date April 2031). MahaRERA PM1260002500965.",
+    "description": "Sai Kripa by Krishna Rama Developer is a boutique residential building on Plot No. 415, Sector 29, Ganesh Nagar, Ravet, in the Pradhikaran area of Pimpri-Chinchwad, facing a 10.5 m road. Six residential floors hold just 36 homes, all 3 BHK and six to a floor: 1,053 sq ft homes (938 sq ft carpet plus 115 sq ft of balconies) and 1,085 sq ft homes (970 sq ft carpet plus 115 sq ft of balconies). Every home has three bedrooms, two of them with attached toilets, a living room opening onto a 12 ft balcony, a dining area and a kitchen with a dry balcony; the first-floor homes also open onto terraces. The rooftop is given over to amenities: a gym, a lawn, a yoga deck, a jogging track around the edge, a kids' play area, an indoor games room and club house, and a multipurpose hall with a pantry and stage. Homes come with a 35 mm main door with a biometric lock, a video door bell, UPVC windows and balcony doors, 600 x 1200 mm vitrified tiles, Jaquar or Hindware fittings, geyser provision in every bathroom and AC provision in the living room and all bedrooms, and the building has high-speed lifts, an EV charging point and solar power generation. The eight shops on the ground floor are listed separately as Sai Kripa Commercial. D. Y. Patil Dnyanshanti School, PCCOE, DMart Ravet, Global Hospital, Akurdi railway station and the Pradhikaran gardens are about 5 minutes away, Chinchwad station about 12 and the old Mumbai-Pune highway and NH-48 about 10. Final all-inclusive prices start from \u20b91.06 crore for a 3 BHK (about \u20b91.19 crore including GST, stamp duty and registration). Possession is planned for December 2030 (RERA completion date April 2031). MahaRERA PM1260002500965.",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -57028,7 +57028,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/6f179efc-b2df-49a3-b42b-b7335719d627/gallery/mvwhgx0f-5agc9m.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/6f179efc-b2df-49a3-b42b-b7335719d627/gallery/mvwhgwyj-30ap6p.webp"
     ],
-    "description": "Estofa One Home is a pre-launch residential project by Estofa Realty, a Goyal & Planedge initiative, near Kasturi Chowk in Hinjawadi, Pune. It is planned as a single tower of 24 floors above two basements and a stilt level, with a recreational floor and a G+1 clubhouse set in landscaped open space. The project is built around compact 1 BHK suites of 416 sq ft total carpet area (386 sq ft RERA carpet plus a 30 sq ft balcony), each with a living and dining room, kitchen, bedroom, two toilets and a balcony. A limited series of combined 2 BHK flats joins two suites into one 839 sq ft home with a walk-in wardrobe and a 20-foot balcony. Pre-launch prices start at \u20b958 lakh for a 1 BHK suite (\u20b958\u201360 lakh), and the combined 2 BHK flats are priced at about \u20b91\u20131.06 crore. The location suits IT professionals and investors looking for rental demand: Shivaji Chowk metro station is about 2 minutes away, Infosys, Wipro and IBM about 5 minutes, and D-Mart, Xion Mall and Grand Highstreet within 3\u20134 minutes. The project is not yet RERA registered; the registration number and possession date will be added once they are announced.",
+    "description": "Estofa One Home is a pre-launch residential project by Estofa Realty, a Goyal & Planedge initiative, near Kasturi Chowk in Hinjawadi, Pune. It is planned as a single tower of 24 floors above two basements and a stilt level, with a recreational floor and a G+1 clubhouse set in landscaped open space. The project is built around compact 1 BHK suites of 416 sq ft total carpet area (416 sq ft cumulative total carpet area), each with a living and dining room, kitchen, bedroom, two toilets and a balcony. A limited series of combined 2 BHK flats joins two suites into one 839 sq ft home with a walk-in wardrobe and a 20-foot balcony. Pre-launch prices start at \u20b958 lakh for a 1 BHK suite (\u20b958\u201360 lakh), and the combined 2 BHK flats are priced at about \u20b91\u20131.06 crore. The location suits IT professionals and investors looking for rental demand: Shivaji Chowk metro station is about 2 minutes away, Infosys, Wipro and IBM about 5 minutes, and D-Mart, Xion Mall and Grand Highstreet within 3\u20134 minutes. The project is not yet RERA registered; the registration number and possession date will be added once they are announced.",
     "features": [
       "Clubhouse",
       "Power Backup",
@@ -58695,7 +58695,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/a6dc0c88-7cbe-43d4-9bc3-4158339ebef6/gallery/mvghnc3y-3uy8yq.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/a6dc0c88-7cbe-43d4-9bc3-4158339ebef6/gallery/mvghnbi8-2g2sm4.webp"
     ],
-    "description": "King's Grace by Krishna Rrealty is a new residential address in Rahatani, near Kokane Chowk on the Pimple Saudagar\u2013Rahatani border in Pimpri-Chinchwad. It has two wings: B wing with 2 BHK homes of 781 and 809 sq ft, and A wing with 3 BHK homes of 1,095 to 1,148 sq ft (usable area, i.e. carpet plus balcony and terrace; RERA carpet 704\u20131,009 sq ft). Showrooms sit at ground level and parking is on two basement levels, with one covered car park for every home. The 3 BHK homes on the typical floors include a walk-in wardrobe, and the building has a gym and a kids' play area. Sparsh Hospital, Synergy Heart Institute and SNBP International School are about 1 km away, Kokane Chowk and Shivar Chowk within 1.5 km, the Aundh\u2013Ravet BRTS road about 2 km and Wakad about 4 km, with Hinjewadi Phase 1 about 7 km away. Agreement values start from \u20b91.15 Cr for a 2 BHK (\u20b914,700 per sq ft of usable area) on a construction-linked payment plan with a \u20b95 lakh booking amount. MahaRERA PR1260002602278; RERA completion date December 2029.",
+    "description": "King's Grace by Krishna Rrealty is a new residential address in Rahatani, near Kokane Chowk on the Pimple Saudagar\u2013Rahatani border in Pimpri-Chinchwad. It has two wings: B wing with 2 BHK homes of 781 and 809 sq ft, and A wing with 3 BHK homes of 1,095 to 1,148 sq ft (usable area, i.e. carpet plus balcony and terrace; RERA carpet 704\u20131,009 sq ft). Showrooms sit at ground level and parking is on two basement levels, with one covered car park for every home. The 3 BHK homes on the typical floors include a walk-in wardrobe, and the building has a gym and a kids' play area. Sparsh Hospital, Synergy Heart Institute and SNBP International School are about 1 km away, Kokane Chowk and Shivar Chowk within 1.5 km, the Aundh\u2013Ravet BRTS road about 2 km and Wakad about 4 km, with Hinjewadi Phase 1 about 7 km away. Final all-inclusive prices start from \u20b91.15 Cr for a 2 BHK (\u20b914,700 per sq ft of usable area) on a construction-linked payment plan with a \u20b95 lakh booking amount. MahaRERA PR1260002602278; RERA completion date December 2029.",
     "features": [
       "CCTV Surveillance",
       "Gymnasium",
@@ -71583,7 +71583,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/79ad62b1-963d-43e6-92e9-7d2a50735dc5/gallery/mvhptcrp-7spsaf.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/79ad62b1-963d-43e6-92e9-7d2a50735dc5/gallery/mvhptdgh-awu2f9.webp"
     ],
-    "description": "Newton Homes Royale by Ravima Ventures is a new launch on the Hadapsar\u2013Magarpatta Road side of Mundhwa, next to the Kharadi\u2013Hadapsar Bypass Road in East Pune. On a 2-acre plot, two 23-storey towers hold 226 homes \u2013 2, 2.5 and 3 BHK residences of 796 to 1,072 sq ft carpet area, plus combined 4 BHK homes \u2013 with five corner homes on every floor and four levels of podium parking. Homes are planned with zero passage wastage, and every home gets a smart digital door lock, a video door phone and app-based security alerts. The structure is an Aluform and AAC block hybrid with an earthquake-resistant RCC frame. More than 50 lifestyle amenities are spread over four levels: a ground level with a pickleball court, a multipurpose sports court and a children's play zone; a 23rd-floor terrace of about 12,000 sq ft with a swimming pool, jacuzzi, kids' pool, adventure park, stargazing zone, amphitheatre and party lawn; and 4,500 sq ft of indoor centres \u2013 the Newton Creativity Center, a recreational center, a business center with co-working, a fitness center with gym, spa and yoga studio, and a community center with banquet hall. Magarpatta City, Amanora and Seasons malls are about 5 minutes away, Koregaon Park about 10 minutes, EON IT Park about 15 minutes, and the upcoming Hadapsar Railway Metro station about 5 minutes. Agreement values start from \u20b992.5 Lakh for a 2 BHK (about \u20b91.04 Cr including GST, stamp duty and registration), with one covered car park included. MahaRERA PR1261012500924.",
+    "description": "Newton Homes Royale by Ravima Ventures is a new launch on the Hadapsar\u2013Magarpatta Road side of Mundhwa, next to the Kharadi\u2013Hadapsar Bypass Road in East Pune. On a 2-acre plot, two 23-storey towers hold 226 homes \u2013 2, 2.5 and 3 BHK residences of 796 to 1,072 sq ft carpet area, plus combined 4 BHK homes \u2013 with five corner homes on every floor and four levels of podium parking. Homes are planned with zero passage wastage, and every home gets a smart digital door lock, a video door phone and app-based security alerts. The structure is an Aluform and AAC block hybrid with an earthquake-resistant RCC frame. More than 50 lifestyle amenities are spread over four levels: a ground level with a pickleball court, a multipurpose sports court and a children's play zone; a 23rd-floor terrace of about 12,000 sq ft with a swimming pool, jacuzzi, kids' pool, adventure park, stargazing zone, amphitheatre and party lawn; and 4,500 sq ft of indoor centres \u2013 the Newton Creativity Center, a recreational center, a business center with co-working, a fitness center with gym, spa and yoga studio, and a community center with banquet hall. Magarpatta City, Amanora and Seasons malls are about 5 minutes away, Koregaon Park about 10 minutes, EON IT Park about 15 minutes, and the upcoming Hadapsar Railway Metro station about 5 minutes. Final all-inclusive prices start from \u20b992.5 Lakh for a 2 BHK (about \u20b91.04 Cr including GST, stamp duty and registration), with one covered car park included. MahaRERA PR1261012500924.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -75239,7 +75239,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc75u9-85j08m.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc74yk-ag8xbh.webp"
     ],
-    "description": "EH Towers Commercial is the shops-and-offices wing of EH Towers, the mixed-use project by Engineers Horizon on the Mumbai\u2013Pune bypass (NH-48) in Jeevan Nagar, Tathawade. It is registered with MahaRERA as P52100079038, with EH Reality LLP as the promoter. Above three basement parking levels, the ground floor has seven double-height shops, six of them with a mezzanine, facing the highway; the first floor has ten shops and the second twenty. Offices fill the 3rd to 8th floors, 25 to a typical floor, from 119 to 677 sq ft, some with attached washrooms. A restaurant unit of 3,127 sq ft with a formed terrace sits on the 7th floor, and a second restaurant unit opens onto terrace seating on the 8th. The current cost sheet prices offices at \u20b914,000 per sq ft of saleable area and shops at \u20b918,000 on the second floor, \u20b925,000 on the first and \u20b935,000 on the ground, with saleable area 1.5 times the carpet. Agreement values start at \u20b925.0 lakh for a 119 sq ft office and \u20b928.8 lakh for a 107 sq ft second-floor shop. The brochure lists lifts and escalators, a separate service entry, sprinklers and fire alarms, CCTV in common areas, generator backup, a common washroom on each floor, rainwater harvesting and an STP. Possession is planned for December 2027.",
+    "description": "EH Towers Commercial is the shops-and-offices wing of EH Towers, the mixed-use project by Engineers Horizon on the Mumbai\u2013Pune bypass (NH-48) in Jeevan Nagar, Tathawade. It is registered with MahaRERA as P52100079038, with EH Reality LLP as the promoter. Above three basement parking levels, the ground floor has seven double-height shops, six of them with a mezzanine, facing the highway; the first floor has ten shops and the second twenty. Offices fill the 3rd to 8th floors, 25 to a typical floor, from 119 to 677 sq ft, some with attached washrooms. A restaurant unit of 3,127 sq ft with a formed terrace sits on the 7th floor, and a second restaurant unit opens onto terrace seating on the 8th. The current cost sheet prices offices at \u20b914,000 per sq ft of saleable area and shops at \u20b918,000 on the second floor, \u20b925,000 on the first and \u20b935,000 on the ground, with saleable area 1.5 times the carpet. Final all-inclusive prices start at \u20b925.0 lakh for a 119 sq ft office and \u20b928.8 lakh for a 107 sq ft second-floor shop. The brochure lists lifts and escalators, a separate service entry, sprinklers and fire alarms, CCTV in common areas, generator backup, a common washroom on each floor, rainwater harvesting and an STP. Possession is planned for December 2027.",
     "features": [
       "CCTV Surveillance",
       "Rainwater Harvesting",
@@ -94023,7 +94023,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/3c62297e-cf76-40e6-be1b-9863a18f21a4/gallery/mvhqu1fe-emz5m0.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/3c62297e-cf76-40e6-be1b-9863a18f21a4/gallery/mvhqu27c-4748yu.webp"
     ],
-    "description": "Neco Park Central by Vasupujya Corporation is an IGBC Platinum pre-certified residential project off Old Mundhwa Road in Kharadi, East Pune, behind BG Tatva Society and near Bollywood Multiplex. The site sits in one of the greenest pockets of Kharadi, beside Oxygen Park, a public playground and reserved gardens, within PMC limits and about 400 m from the proposed 30 m DP road. On a land parcel of about 2.5 acres, three wings rise 18 storeys above three levels of parking, with 2, 3, 3.5 and 4 BHK homes of 849 to 1,865 sq ft (carpet plus balcony) and a 60 ft entrance boulevard. Amenities are spread over three levels: a clubhouse with party lawn, amphitheatre, cricket/football ground, badminton/basketball court, outdoor gym, jogging track, children's play area, pet zone and senior citizens' sit-out at ground level; a podium with a swimming pool and baby pool, landscaped lawn, gymnasium, yoga and meditation room, indoor games room, co-working space and toddlers' creche; and a rooftop community lounge. Green features include solar hot water, rooftop solar PV for common areas, rainwater harvesting, an STP that recycles water for flushing and gardening, and heat-insulating glass. Homes come with a smart lock on the main door, a video door phone, 600 x 1200 mm vitrified tiles, Jaquar/Kohler-class fittings and AC provision in every bedroom and the living room. Four proposed metro stations lie within about 2 km, and the IT parks of Kharadi, Viman Nagar, Yerwada, Mundhwa and Magarpatta are about 10 minutes away. All-inclusive prices start at \u20b91.19 Cr for a 2 BHK with one car park. MahaRERA P52100077542.",
+    "description": "Neco Park Central by Vasupujya Corporation is an IGBC Platinum pre-certified residential project off Old Mundhwa Road in Kharadi, East Pune, behind BG Tatva Society and near Bollywood Multiplex. The site sits in one of the greenest pockets of Kharadi, beside Oxygen Park, a public playground and reserved gardens, within PMC limits and about 400 m from the proposed 30 m DP road. On a land parcel of about 2.5 acres, three wings rise 18 storeys above three levels of parking, with 2, 3, 3.5 and 4 BHK homes of 849 to 1,865 sq ft (cumulative total carpet area) and a 60 ft entrance boulevard. Amenities are spread over three levels: a clubhouse with party lawn, amphitheatre, cricket/football ground, badminton/basketball court, outdoor gym, jogging track, children's play area, pet zone and senior citizens' sit-out at ground level; a podium with a swimming pool and baby pool, landscaped lawn, gymnasium, yoga and meditation room, indoor games room, co-working space and toddlers' creche; and a rooftop community lounge. Green features include solar hot water, rooftop solar PV for common areas, rainwater harvesting, an STP that recycles water for flushing and gardening, and heat-insulating glass. Homes come with a smart lock on the main door, a video door phone, 600 x 1200 mm vitrified tiles, Jaquar/Kohler-class fittings and AC provision in every bedroom and the living room. Four proposed metro stations lie within about 2 km, and the IT parks of Kharadi, Viman Nagar, Yerwada, Mundhwa and Magarpatta are about 10 minutes away. All-inclusive prices start at \u20b91.19 Cr for a 2 BHK with one car park. MahaRERA P52100077542.",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -95209,7 +95209,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/3266ed23-72ff-41aa-9c4b-6bcd594ab0c8/gallery/mvhti26l-976i46.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/3266ed23-72ff-41aa-9c4b-6bcd594ab0c8/gallery/mvhti32p-2fncet.webp"
     ],
-    "description": "Sai Ratan is a new mixed-use project in Sector 29, Ravet Pradhikaran, by Sai Associates with Krishna Rama Developer and Ratan Homes. Its terracotta-and-grey building has 21 double-height shops with mezzanines along a 10.5 m road and three residential wings (A, B and C) above \u2013 102 homes in all: 2 BHK of 777 sq ft and 3 BHK of 1,020 sq ft (carpet plus balcony). Amenities include a gymnasium, indoor games room, banquet hall, rooftop party lawn, landscaped rooftop sit-outs and a children's play area. Homes get a 35 mm main door with a biometric lock, a video door bell, UPVC windows and balcony doors, 600 x 1200 mm vitrified tiles, Jaquar/Hindware fittings, geysers in every bathroom and AC provision in the living room and all bedrooms; the building has EV charging and solar power. D. Y. Patil Dnyanshanti School, PCCOE, DMart Ravet, Global Hospital and Akurdi railway station are about 5 minutes away, with the old Mumbai\u2013Pune Highway and NH-48 about 10 minutes. Agreement values start from \u20b977 L for a 2 BHK (about \u20b986.5 L including GST, stamp duty and registration). MahaRERA PM1260002600399.",
+    "description": "Sai Ratan is a new mixed-use project in Sector 29, Ravet Pradhikaran, by Sai Associates with Krishna Rama Developer and Ratan Homes. Its terracotta-and-grey building has 21 double-height shops with mezzanines along a 10.5 m road and three residential wings (A, B and C) above \u2013 102 homes in all: 2 BHK of 777 sq ft and 3 BHK of 1,020 sq ft (cumulative total carpet area). Amenities include a gymnasium, indoor games room, banquet hall, rooftop party lawn, landscaped rooftop sit-outs and a children's play area. Homes get a 35 mm main door with a biometric lock, a video door bell, UPVC windows and balcony doors, 600 x 1200 mm vitrified tiles, Jaquar/Hindware fittings, geysers in every bathroom and AC provision in the living room and all bedrooms; the building has EV charging and solar power. D. Y. Patil Dnyanshanti School, PCCOE, DMart Ravet, Global Hospital and Akurdi railway station are about 5 minutes away, with the old Mumbai\u2013Pune Highway and NH-48 about 10 minutes. Final all-inclusive prices start from \u20b977 L for a 2 BHK (about \u20b986.5 L including GST, stamp duty and registration). MahaRERA PM1260002600399.",
     "features": [
       "Clubhouse",
       "Gymnasium",

@@ -46,14 +46,12 @@ export const formatLakhsToCurrency = (lakhs: number): string => {
 
 /**
  * In Maharashtra (Pune / Mumbai / MMR / Raigad):
- * Base Agreement Value excludes:
- * - Stamp Duty (6% to 7% with Metro Cess)
- * - Registration Charges (₹30,000 flat)
- * - GST (5% for standard residential, 1% affordable, 0% OC ready)
- * - Development & Society / Electrical Infra (~1.5% or ₹1.5L - ₹2.5L)
+ * Standard builder listings often advertise raw agreement values and surprise buyers with 
+ * 11.5% - 12.5% statutory government add-ons (Stamp Duty, Registration, GST, Infra).
  * 
- * Total statutory government and possession add-ons = ~11.5% to 12.5%.
- * We compute a standardized 11.5% statutory add-on to present honest All-Inclusive Pricing.
+ * PROPSMART strictly quotes the single Final All-Inclusive On-Road Price.
+ * No separate quotes of Agreement Value vs Stamp Duty.
+ * We apply a standard 11.5% statutory inclusion factor to ensure 100% transparent pricing.
  */
 export const STATUTORY_ADDON_FACTOR = 1.115; // 11.5% transparent tax & duty buffer
 
@@ -63,9 +61,9 @@ export interface AllInclusivePriceResult {
     startingAllInclusive: string;
     isRange: boolean;
     breakdown: {
-        agreementValue: string;
-        stampDutyAndReg: string;
-        gstAndInfra: string;
+        allInclusivePrice: string;
+        statutoryInclusions: string;
+        brokerage: string;
         totalAllInclusive: string;
     };
 }
@@ -79,14 +77,14 @@ export const getAllInclusivePricing = (
 
     if (rawRange.toLowerCase().includes('request') || rawRange.toLowerCase().includes('call')) {
         return {
-            allInclusiveDisplay: 'Price on Request (All-Inclusive Terms)',
+            allInclusiveDisplay: 'Price on Request (Final All-Inclusive)',
             allInclusiveRange: 'Price on Request',
             startingAllInclusive: 'Price on Request',
             isRange: false,
             breakdown: {
-                agreementValue: 'On Request',
-                stampDutyAndReg: 'Govt. Mandated (6-7%)',
-                gstAndInfra: '5% GST Included',
+                allInclusivePrice: 'On Request',
+                statutoryInclusions: 'All Taxes & Duties Included',
+                brokerage: '0% Brokerage',
                 totalAllInclusive: 'Price on Request'
             }
         };
@@ -104,14 +102,14 @@ export const getAllInclusivePricing = (
             const maxFormatted = formatLakhsToCurrency(maxAllIn);
 
             return {
-                allInclusiveDisplay: `${minFormatted} - ${maxFormatted} All-Inclusive`,
+                allInclusiveDisplay: `${minFormatted} - ${maxFormatted} Final Price`,
                 allInclusiveRange: `${minFormatted} - ${maxFormatted}`,
-                startingAllInclusive: `Starts from ${minFormatted} All-Inclusive`,
+                startingAllInclusive: `Starts from ${minFormatted} (Final All-Inclusive)`,
                 isRange: true,
                 breakdown: {
-                    agreementValue: priceRange,
-                    stampDutyAndReg: '6-7% Stamp Duty & ₹30k Reg Included',
-                    gstAndInfra: 'GST + Society/Infra Included',
+                    allInclusivePrice: `${minFormatted} - ${maxFormatted}`,
+                    statutoryInclusions: 'All Statutory Taxes, Stamp Duty & Reg. Included',
+                    brokerage: '0% Direct Mandate Brokerage',
                     totalAllInclusive: `${minFormatted} - ${maxFormatted}`
                 }
             };
@@ -124,36 +122,36 @@ export const getAllInclusivePricing = (
         const allIn = baseLakhs * STATUTORY_ADDON_FACTOR;
         const formatted = formatLakhsToCurrency(allIn);
         return {
-            allInclusiveDisplay: `${formatted} All-Inclusive`,
+            allInclusiveDisplay: `${formatted} Final Price`,
             allInclusiveRange: formatted,
-            startingAllInclusive: `${formatted} All-Inclusive`,
+            startingAllInclusive: `${formatted} (Final All-Inclusive)`,
             isRange: false,
             breakdown: {
-                agreementValue: exactPrice || priceRange || formatted,
-                stampDutyAndReg: '6-7% Stamp Duty & Reg Included',
-                gstAndInfra: 'GST & Infra Included',
+                allInclusivePrice: formatted,
+                statutoryInclusions: 'All Statutory Taxes, Stamp Duty & Reg. Included',
+                brokerage: '0% Direct Mandate Brokerage',
                 totalAllInclusive: formatted
             }
         };
     }
 
     return {
-        allInclusiveDisplay: `${rawRange} (All-Inclusive)`,
+        allInclusiveDisplay: `${rawRange} (Final Price)`,
         allInclusiveRange: rawRange,
         startingAllInclusive: rawRange,
         isRange: false,
         breakdown: {
-            agreementValue: rawRange,
-            stampDutyAndReg: 'Included',
-            gstAndInfra: 'Included',
+            allInclusivePrice: rawRange,
+            statutoryInclusions: 'All Inclusive',
+            brokerage: '0% Brokerage',
             totalAllInclusive: rawRange
         }
     };
 };
 
 /**
- * Returns strictly the Final Usable RERA Carpet Area.
- * Completely strips out and bans any inflated super-built-up / saleable area figures.
+ * Returns strictly the Cumulative Total Usable Carpet Area.
+ * Completely strips out separate balcony/terrace breakdowns and inflated super-built-up figures.
  */
 export const getFinalCarpetAreaOnly = (
     configurationDetails?: { type: string; carpetArea: string; priceRange?: string }[]
@@ -173,7 +171,7 @@ export const getFinalCarpetAreaOnly = (
     const max = Math.max(...areas);
 
     if (min === max) {
-        return `${min.toLocaleString('en-IN')} sq.ft (Final RERA Usable)`;
+        return `${min.toLocaleString('en-IN')} sq.ft Total Carpet Area`;
     }
-    return `${min.toLocaleString('en-IN')} - ${max.toLocaleString('en-IN')} sq.ft (Final RERA Usable)`;
+    return `${min.toLocaleString('en-IN')} - ${max.toLocaleString('en-IN')} sq.ft Total Carpet Area`;
 };
