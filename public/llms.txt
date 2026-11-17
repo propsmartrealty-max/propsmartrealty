@@ -85,7 +85,7 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 
 ## Featured Flagship Projects
 - **[Rohan Saroha](https://propsmart.co.in/project/rohan-saroha)**: Bhugaon, Pune | Typologies: 2 BHK, 3 BHK, 4 BHK | Price: ₹80.00 L - ₹1.85 Cr | MahaRERA: `P52100076652`
-- **[Rohan Ekam](https://propsmart.co.in/project/rohan-ekam)**: Balewadi, Pune | Typologies: 2 BHK, 3 BHK, 4.5 BHK | Price: ₹1.33 Cr - ₹3.42 Cr | MahaRERA: `P52100052298`
+- **[Rohan Ekam](https://propsmart.co.in/project/rohan-ekam)**: Balewadi, Pune | Typologies: 2 BHK, 3 BHK, 4.5 BHK | Price: ₹1.33 Cr - ₹3.42 Cr | MahaRERA: `P52100053912`
 - **[BramhaCorp Hues of Sky](https://propsmart.co.in/project/bramhacorp-hues-of-sky)**: Camp, Pune | Typologies: 2 BHK, 3 BHK, 3.5 BHK, 4 BHK | Price: ₹1.56 Cr - ₹3.40 Cr | MahaRERA: `P52100051537`
 - **[BramhaCorp August Towers](https://propsmart.co.in/project/bramhacorp-august-towers)**: Kalyani Nagar, Pune | Typologies: 1.5 BHK, 2 BHK | Price: ₹68.00 L - ₹1.15 Cr | MahaRERA: `P52100048195`
 - **[Kohinoor Central Park](https://propsmart.co.in/project/kohinoor-central-park)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹72 L - ₹1.15 Cr | MahaRERA: `P52100056358`
@@ -94,7 +94,7 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 - **[Godrej Skyline](https://propsmart.co.in/project/godrej-skyline)**: Mundhwa, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹3.49 Cr - ₹6.09 Cr | MahaRERA: `P52100030007`
 - **[Supreme Towers](https://propsmart.co.in/project/supreme-towers)**: Mundhwa, Pune | Typologies: 3 BHK, 4 BHK, 5 BHK, 6 BHK | Price: ₹3.30 Cr - ₹11.50 Cr | MahaRERA: `P52100056095`
 - **[Shreenidhi](https://propsmart.co.in/project/shreenidhi)**: Baner, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹99.00 L - ₹1.37 Cr | MahaRERA: `P52100060378`
-- **[The Reserve](https://propsmart.co.in/project/the-reserve-mundhwa)**: Mundhwa, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.35 Cr - ₹5.35 Cr | MahaRERA: `P52100030065`
+- **[The Reserve](https://propsmart.co.in/project/the-reserve-mundhwa)**: Mundhwa, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.35 Cr - ₹5.35 Cr | MahaRERA: `P52100049211`
 - **[Zenone](https://propsmart.co.in/project/zenone)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK, 5 BHK | Price: ₹1.03 Cr - ₹3.56 Cr | MahaRERA: `P52100053350`
 - **[Venkatesh Vanaya](https://propsmart.co.in/project/venkatesh-vanaya)**: Kharadi, Pune | Typologies: 2 BHK, 3 BHK, 4 BHK | Price: ₹1.02 Cr - ₹1.43 Cr | MahaRERA: `P52100061304`
 - **[Dream Delmont](https://propsmart.co.in/project/dream-delmont)**: Bavdhan, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.07 Cr - ₹1.53 Cr | MahaRERA: `P52100054736`
@@ -107,12 +107,12 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 - **[Stalwart Business Enclave](https://propsmart.co.in/project/stalwart-business-enclave)**: Baner, Pune | Typologies: Office, Showroom | Price: ₹2.03 Cr - ₹9.51 Cr | MahaRERA: `P52100020587`
 - **[Tej Midtown](https://propsmart.co.in/project/tej-midtown)**: Shivaji Nagar, Pune | Typologies: 3 BHK | Price: ₹2.55 Cr - ₹3.20 Cr | MahaRERA: `P52100052300`
 - **[38 Daffodils](https://propsmart.co.in/project/38-daffodils)**: Baner, Pune | Typologies: Studio | Price: ₹39.75 L | MahaRERA: `P52100060765`
-- **[Godrej Skyline Commercial](https://propsmart.co.in/project/godrej-skyline-commercial)**: Mundhwa, Pune | Typologies: Shop | Price: ₹3.41 Cr - ₹7.57 Cr | MahaRERA: `P52100030007`
-- **[Luxton by Saheel Commercial](https://propsmart.co.in/project/luxton-by-saheel-commercial)**: Wakad, Pune | Typologies: Shop, Office, Showroom | Price: ₹1.95 Cr - ₹4.78 Cr | MahaRERA: `P52100062043`
+- **[Godrej Skyline Commercial](https://propsmart.co.in/project/godrej-skyline-commercial)**: Mundhwa, Pune | Typologies: Shop | Price: ₹3.41 Cr - ₹7.57 Cr | MahaRERA: `P52100030008`
+- **[Luxton by Saheel Commercial](https://propsmart.co.in/project/luxton-by-saheel-commercial)**: Wakad, Pune | Typologies: Shop, Office, Showroom | Price: ₹1.95 Cr - ₹4.78 Cr | MahaRERA: `P52100062044`
 - **[Kuber Antonia](https://propsmart.co.in/project/kuber-antonia)**: Wakad, Pune | Typologies: 2 BHK | Price: ₹84.56 L | MahaRERA: `P52100035197`
 - **[Legacy Wakad New Launch](https://propsmart.co.in/project/legacy-wakad-new-launch)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹90.00 L - ₹1.40 Cr | MahaRERA: `P52100038920`
 - **[55 Twilight](https://propsmart.co.in/project/55-twilight)**: Baner, Pune | Typologies: Studio | Price: ₹37.50 L | MahaRERA: `P52100042180`
-- **[New Launch Highness Wakad](https://propsmart.co.in/project/new-launch-highness-wakad)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.21 Cr - ₹2.09 Cr | MahaRERA: `P52100062183`
+- **[New Launch Highness Wakad](https://propsmart.co.in/project/new-launch-highness-wakad)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.21 Cr - ₹2.09 Cr | MahaRERA: `P52100062184`
 - **[Excellaa Polaris](https://propsmart.co.in/project/excellaa-polaris)**: Bavdhan, Pune | Typologies: 4 BHK, 4.5 BHK | Price: ₹2.59 Cr - ₹3.10 Cr | MahaRERA: `P52100080233`
 - **[Krisala Riverside](https://propsmart.co.in/project/krisala-riverside)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹99.00 L - ₹1.90 Cr | MahaRERA: `P52100052418`
 - **[K Pune](https://propsmart.co.in/project/k-pune-bavdhan)**: Bavdhan, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.30 Cr - ₹1.98 Cr | MahaRERA: `P52100077301`
@@ -122,7 +122,7 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 - **[Escala](https://propsmart.co.in/project/escala)**: Kharadi, Pune | Typologies: Office | Price: ₹2.46 Cr - ₹4.48 Cr | MahaRERA: `P52100045636`
 - **[ANP New launch wakad](https://propsmart.co.in/project/anp-new-launch-wakad)**: Wakad, Pune | Typologies: 4 BHK | Price: ₹1.89 Cr - ₹2.20 Cr | MahaRERA: `P52100027160`
 - **[Arion](https://propsmart.co.in/project/arion)**: Balewadi, Pune | Typologies: 3 BHK | Price: ₹1.80 Cr - ₹1.90 Cr | MahaRERA: `P52100060090`
-- **[New Launch Truespace Wakad](https://propsmart.co.in/project/new-launch-truespace-wakad)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.05 Cr - ₹1.50 Cr | MahaRERA: `P52100022057`
+- **[New Launch Truespace Wakad](https://propsmart.co.in/project/new-launch-truespace-wakad)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.05 Cr - ₹1.50 Cr | MahaRERA: `P52100022059`
 - **[Milleflori](https://propsmart.co.in/project/milleflori)**: Wakad, Pune | Typologies: 3 BHK | Price: ₹1.91 Cr - ₹2.29 Cr | MahaRERA: `P52100020332`
 - **[Austin Aurus](https://propsmart.co.in/project/austin-aurus)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.21 Cr - ₹3.09 Cr | MahaRERA: `P52100021438`
 - **[Highness](https://propsmart.co.in/project/highness)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.21 Cr - ₹2.09 Cr | MahaRERA: `P52100062183`
@@ -133,25 +133,25 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 - **[Ambrosia Studios](https://propsmart.co.in/project/ambrosia-studios)**: Baner, Pune | Typologies: Studio | Price: ₹32.00 L - ₹36.00 L | MahaRERA: `P52100061271`
 - **[Arise Capital](https://propsmart.co.in/project/arise-capital)**: Wakad, Pune | Typologies: Office, Showroom | Price: ₹1.90 Cr | MahaRERA: `P52100020906`
 - **[Merak Homes](https://propsmart.co.in/project/merak-homes)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹78.00 L - ₹1.00 Cr | MahaRERA: `P52100034019`
-- **[Austin Aurus Wakad](https://propsmart.co.in/project/austin-aurus-wakad)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.21 Cr - ₹3.09 Cr | MahaRERA: `P52100021438`
+- **[Austin Aurus Wakad](https://propsmart.co.in/project/austin-aurus-wakad)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.21 Cr - ₹3.09 Cr | MahaRERA: `P52100021439`
 - **[Marqis](https://propsmart.co.in/project/marqis)**: Balewadi, Pune | Typologies: 3 BHK | Price: ₹1.90 Cr - ₹1.95 Cr | MahaRERA: `P52100060290`
-- **[Austin Realty](https://propsmart.co.in/project/austin-realty)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.21 Cr - ₹3.09 Cr | MahaRERA: `P52100021438`
+- **[Austin Realty](https://propsmart.co.in/project/austin-realty)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.21 Cr - ₹3.09 Cr | MahaRERA: `P52100021440`
 - **[Icon Oro](https://propsmart.co.in/project/icon-oro)**: Baner, Pune | Typologies: Office | Price: ₹1.70 Cr - ₹8.88 Cr | MahaRERA: `P52100051935`
 - **[Kohinoor Royale Towers](https://propsmart.co.in/project/kohinoor-royale-towers)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹76 L - ₹1.18 Cr | MahaRERA: `P52100061033`
 - **[Avis Avante Wakad](https://propsmart.co.in/project/avis-avante-wakad)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹86.00 L - ₹94.00 L | MahaRERA: `P52100062977`
 - **[Vardhaman Skysymphony](https://propsmart.co.in/project/vardhaman-skysymphony)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹99.00 L - ₹1.40 Cr | MahaRERA: `P52100062323`
-- **[Millefiori Futuristic](https://propsmart.co.in/project/millefiori-futuristic)**: Wakad, Pune | Typologies: 3 BHK | Price: ₹1.91 Cr - ₹2.29 Cr | MahaRERA: `P52100020332`
+- **[Millefiori Futuristic](https://propsmart.co.in/project/millefiori-futuristic)**: Wakad, Pune | Typologies: 3 BHK | Price: ₹1.91 Cr - ₹2.29 Cr | MahaRERA: `P52100020333`
 - **[Nancy Hill View](https://propsmart.co.in/project/nancy-hill-view)**: Baner, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.81 Cr - ₹2.55 Cr | MahaRERA: `P52100079084`
 - **[Pebbles Business Bay](https://propsmart.co.in/project/pebbles-business-bay)**: Wakad, Pune | Typologies: Office, Shop | Price: ₹99.00 L - ₹1.99 Cr | MahaRERA: `P52100071416`
 - **[Prime West](https://propsmart.co.in/project/prime-west)**: Balewadi, Pune | Typologies: 2 BHK, 3 BHK, 4 BHK | Price: ₹1.10 Cr - ₹1.80 Cr | MahaRERA: `P52100026421`
-- **[Avis Avante](https://propsmart.co.in/project/avis-avante)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹86.00 L - ₹94.00 L | MahaRERA: `P52100062977`
+- **[Avis Avante](https://propsmart.co.in/project/avis-avante)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹86.00 L - ₹94.00 L | MahaRERA: `P52100062978`
 - **[Rahul Aston](https://propsmart.co.in/project/rahul-aston)**: Hinjewadi, Pune | Typologies: 3 BHK | Price: ₹1.33 Cr | MahaRERA: `P52100076854`
 - **[Sai Canary](https://propsmart.co.in/project/sai-canary)**: Balewadi, Pune | Typologies: 2 BHK, 3 BHK, 3.5 BHK | Price: ₹1.27 Cr - ₹2.44 Cr | MahaRERA: `P52100051845`
 - **[The Terraces](https://propsmart.co.in/project/the-terraces)**: Balewadi, Pune | Typologies: 4 BHK | Price: ₹5.68 Cr - ₹7.61 Cr | MahaRERA: `P52100004039`
 - **[The Hamptonns](https://propsmart.co.in/project/the-hamptonns)**: Balewadi, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.10 Cr - ₹3.05 Cr | MahaRERA: `P52100020725`
-- **[TruSpace Prima Altiora](https://propsmart.co.in/project/truspace-prima-altiora)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.05 Cr - ₹1.50 Cr | MahaRERA: `P52100022057`
-- **[Commercial Avis Avante](https://propsmart.co.in/project/commercial-avis-avante)**: Wakad, Pune | Typologies: Shop | Price: ₹1.35 Cr - ₹3.10 Cr | MahaRERA: `P52100062977`
-- **[Chandrarang Embercrest](https://propsmart.co.in/project/chandrarang-embercrest)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.85 Cr - ₹2.80 Cr | MahaRERA: `P52100061760`
+- **[TruSpace Prima Altiora](https://propsmart.co.in/project/truspace-prima-altiora)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.05 Cr - ₹1.50 Cr | MahaRERA: `P52100022058`
+- **[Commercial Avis Avante](https://propsmart.co.in/project/commercial-avis-avante)**: Wakad, Pune | Typologies: Shop | Price: ₹1.35 Cr - ₹3.10 Cr | MahaRERA: `P52100062979`
+- **[Chandrarang Embercrest](https://propsmart.co.in/project/chandrarang-embercrest)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.85 Cr - ₹2.80 Cr | MahaRERA: `P52100061761`
 - **[Mauli](https://propsmart.co.in/project/mauli)**: Baner, Pune | Typologies: 2 BHK | Price: ₹96.00 L - ₹99.00 L | MahaRERA: `P52100024756`
 - **[Codename Minibust Menlo](https://propsmart.co.in/project/codename-minibust-menlo)**: Hinjewadi, Pune | Typologies: Studio | Price: ₹33.00 L | MahaRERA: `P52100021233`
 - **[Gera Code Vroom](https://propsmart.co.in/project/gera-vroom)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹85.00 L - ₹1.45 Cr | MahaRERA: `P52100031648`
@@ -166,15 +166,15 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 - **[ANP Bizsquare](https://propsmart.co.in/project/anp-bizsquare)**: Wakad, Pune | Typologies: Office, Shop | Price: ₹63.00 L - ₹1.52 Cr | MahaRERA: `P52100055995`
 - **[27 West](https://propsmart.co.in/project/27-west)**: Balewadi, Pune | Typologies: Office, Showroom | Price: ₹6.00 Cr - ₹13.00 Cr | MahaRERA: `P52100054731`
 - **[Dream Glorious](https://propsmart.co.in/project/dream-glorious)**: Balewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.14 Cr - ₹1.68 Cr | MahaRERA: `P52100052727`
-- **[Kohinoor Avantara](https://propsmart.co.in/project/kohinoor-anantara)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹89.90 L - ₹1.20 Cr | MahaRERA: `P52100061984`
+- **[Kohinoor Avantara](https://propsmart.co.in/project/kohinoor-anantara)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹89.90 L - ₹1.20 Cr | MahaRERA: `P52100061985`
 - **[45 West](https://propsmart.co.in/project/45-west)**: Baner, Pune | Typologies: Office | Price: ₹1.00 Cr - ₹3.85 Cr | MahaRERA: `P52100051475`
-- **[Gen1](https://propsmart.co.in/project/gen1)**: Baner, Pune | Typologies: Office | Price: ₹47.00 L - ₹1.84 Cr | MahaRERA: `P52100053948`
+- **[Gen1](https://propsmart.co.in/project/gen1)**: Baner, Pune | Typologies: Office | Price: ₹47.00 L - ₹1.84 Cr | MahaRERA: `P52100053949`
 - **[Venkatesh Serenique](https://propsmart.co.in/project/venkatesh-serenique)**: Bavdhan, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.07 Cr - ₹2.15 Cr | MahaRERA: `P52100061412`
 - **[Kalp One](https://propsmart.co.in/project/kalp-one)**: Wakad, Pune | Typologies: Office, Shop | Price: ₹1.28 Cr - ₹3.90 Cr | MahaRERA: `P52100030075`
 - **[Atrium Montaire](https://propsmart.co.in/project/atrium-montaire)**: Balewadi, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.60 Cr - ₹2.50 Cr | MahaRERA: `P52100062483`
 - **[Ajwani Prissa Pratham](https://propsmart.co.in/project/ajwani-prissa-pratham)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.12 Cr - ₹1.70 Cr | MahaRERA: `P52100031933`
 - **[Kohinoor Downtown](https://propsmart.co.in/project/kohinoor-wakad-downtown)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.18 Cr - ₹1.65 Cr | MahaRERA: `P52100060271`
-- **[Kohinoor Satori](https://propsmart.co.in/project/kohinoor-satori)**: Mahalunge, Pune | Typologies: 3 BHK, 4 BHK, 4.5 BHK | Price: ₹1.48 Cr - ₹3.35 Cr | MahaRERA: `P52100066472`
+- **[Kohinoor Satori](https://propsmart.co.in/project/kohinoor-satori)**: Mahalunge, Pune | Typologies: 3 BHK, 4 BHK, 4.5 BHK | Price: ₹1.48 Cr - ₹3.35 Cr | MahaRERA: `P52100077437`
 - **[Icon Avanza](https://propsmart.co.in/project/icon-avanza)**: Balewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.45 Cr - ₹2.16 Cr | MahaRERA: `P52100079822`
 - **[Krisala 41 Commune](https://propsmart.co.in/project/krisala-41-commune)**: Wakad, Pune | Typologies: Shop | Price: ₹27.00 L - ₹40.00 L | MahaRERA: `P52100077945`
 - **[PK Canopus](https://propsmart.co.in/project/pk-canopus)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.75 Cr - ₹2.55 Cr | MahaRERA: `P52100061264`
@@ -188,7 +188,7 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 - **[Nirvana Nothing Beyond](https://propsmart.co.in/project/nirvana-nothing-beyond)**: Baner, Pune | Typologies: 4 BHK | Price: ₹5.61 Cr - ₹6.91 Cr | MahaRERA: `P52100047528`
 - **[Thorve House](https://propsmart.co.in/project/thorve-house)**: Balewadi, Pune | Typologies: 2 BHK | Price: ₹1.10 Cr - ₹1.15 Cr | MahaRERA: `P52100060984`
 - **[Sky Sanctum](https://propsmart.co.in/project/sky-sanctum)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK, 4 BHK | Price: ₹99.00 L - ₹2.20 Cr | MahaRERA: `P52100079426`
-- **[Shankeshwar Kingsland](https://propsmart.co.in/project/shankeshwar-kingsland)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹99.00 L - ₹1.62 Cr | MahaRERA: `P52100060728`
+- **[Shankeshwar Kingsland](https://propsmart.co.in/project/shankeshwar-kingsland)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹99.00 L - ₹1.62 Cr | MahaRERA: `P52100060731`
 - **[Signature Park](https://propsmart.co.in/project/signature-park)**: Hinjewadi, Pune | Typologies: 2 BHK | Price: ₹67.00 L - ₹71.00 L | MahaRERA: `P52100054229`
 - **[Solitaire Kothrud](https://propsmart.co.in/project/solitaire)**: Kothrud, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.42 Cr - ₹4.00 Cr | MahaRERA: `P52100056306`
 - **[Wakad Central Park](https://propsmart.co.in/project/wakad-central-park)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.39 Cr - ₹1.90 Cr | MahaRERA: `P52100079655`
@@ -200,7 +200,7 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 - **[Westgate Business Park](https://propsmart.co.in/project/westgate-business-park)**: Wakad, Pune | Typologies: Shop | Price: ₹1.99 Cr - ₹3.34 Cr | MahaRERA: `P52100061605`
 - **[WYCE Exclucity](https://propsmart.co.in/project/wyce-exclucity)**: Bavdhan, Pune | Typologies: 2 BHK, 3 BHK, 4 BHK | Price: ₹1.11 Cr - ₹2.82 Cr | MahaRERA: `P52100077762`
 - **[Esson Skyora](https://propsmart.co.in/project/esson-skyora)**: Bavdhan, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.14 Cr - ₹1.72 Cr | MahaRERA: `P52100031520`
-- **[Alacarte Homes](https://propsmart.co.in/project/alacarte-homes)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹99.00 L - ₹1.62 Cr | MahaRERA: `P52100060728`
+- **[Alacarte Homes](https://propsmart.co.in/project/alacarte-homes)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹99.00 L - ₹1.62 Cr | MahaRERA: `P52100060730`
 - **[Merlin Ventana Commercial](https://propsmart.co.in/project/merlin-ventana-commercial)**: Baner, Pune | Typologies: Office | Price: ₹1.99 Cr - ₹14.66 Cr | MahaRERA: `P52100053687`
 - **[Mantra Meridian](https://propsmart.co.in/project/mantra-meridian)**: Balewadi, Pune | Typologies: 2 BHK, 3 BHK, 4 BHK | Price: ₹1.26 Cr - ₹2.99 Cr | MahaRERA: `P52100045688`
 - **[Mantra Mistara](https://propsmart.co.in/project/mantra-mistara)**: Baner, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹74.00 L - ₹98.00 L | MahaRERA: `P52100060816`
@@ -212,7 +212,7 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 - **[Yoovie Homes](https://propsmart.co.in/project/yoovie-homes)**: Baner, Pune | Typologies: 5 BHK | Price: ₹15.00 Cr | MahaRERA: `P52100049608`
 - **[Rahul Altimus](https://propsmart.co.in/project/rahul-altimus)**: Baner, Pune | Typologies: Office, Shop | Price: ₹1.00 Cr - ₹4.00 Cr | MahaRERA: `P52100061180`
 - **[Neco Park Central](https://propsmart.co.in/project/neco-park-central)**: Kharadi, Pune | Typologies: 2 BHK, 3 BHK, 3.5 BHK, 4 BHK | Price: ₹1.19 Cr - ₹2.39 Cr | MahaRERA: `P52100077542`
-- **[Tej One Baner](https://propsmart.co.in/project/tej-one)**: Baner, Pune | Typologies: Office | Price: ₹2.00 Cr - ₹3.00 Cr | MahaRERA: `P52100071416`
+- **[Tej One Baner](https://propsmart.co.in/project/tej-one)**: Baner, Pune | Typologies: Office | Price: ₹2.00 Cr - ₹3.00 Cr | MahaRERA: `P52100054320`
 - **[Park Eden](https://propsmart.co.in/project/park-eden)**: Kharadi, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.99 Cr - ₹3.33 Cr | MahaRERA: `P52100062005`
 - **[Godrej Aqua Vista](https://propsmart.co.in/project/godrej-aqua-vista)**: Mundhwa, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹85.00 L | MahaRERA: `P52100060389`
 - **[Mantra Melange](https://propsmart.co.in/project/mantra-melange)**: Kharadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.22 Cr - ₹1.72 Cr | MahaRERA: `P52100079582`
@@ -257,7 +257,7 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 - **[ANP Autograph](https://propsmart.co.in/project/anp-autograph-punawale)**: Punawale, Pune | Typologies: 2 BHK, 3 BHK, 4 BHK | Price: ₹78.00 L - ₹2.10 Cr | MahaRERA: `P52100051641`
 - **[Rohan Abhilasha](https://propsmart.co.in/project/rohan-abhilasha-wagholi)**: Wagholi, Pune | Typologies: 1 BHK, 2 BHK, 3 BHK | Price: ₹45.00 L - ₹95.00 L | MahaRERA: `P52100000489`
 - **[Oberoi Forestville](https://propsmart.co.in/project/oberoi-forestville-kolshet)**: Kolshet Road, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.95 Cr - ₹3.80 Cr | MahaRERA: `P51700050312`
-- **[Lodha Amara](https://propsmart.co.in/project/lodha-amara-kolshet)**: Kolshet Road, Pune | Typologies: 1 BHK, 2 BHK, 3 BHK | Price: ₹75.00 L - ₹2.25 Cr | MahaRERA: `P51700020088`
+- **[Lodha Amara](https://propsmart.co.in/project/lodha-amara-kolshet)**: Kolshet Road, Pune | Typologies: 1 BHK, 2 BHK, 3 BHK | Price: ₹75.00 L - ₹2.25 Cr | MahaRERA: `P51700020119`
 - **[Raymond Ten X Habitat](https://propsmart.co.in/project/raymond-tenx-habitat-thane)**: Pokhran Road, Pune | Typologies: 2 BHK | Price: ₹1.25 Cr - ₹2.40 Cr | MahaRERA: `P51700019265`
 - **[The Address by GS](https://propsmart.co.in/project/the-address-by-gs-thane)**: Pokhran Road, Pune | Typologies: 3 BHK, 4 BHK, 5 BHK | Price: ₹2.65 Cr - ₹5.40 Cr | MahaRERA: `P51700030177`
 - **[Hiranandani Estate - Pelican & Falcon](https://propsmart.co.in/project/hiranandani-estate-pelican-thane)**: Ghodbunder Road, Pune | Typologies: 1 BHK, 2 BHK, 3 BHK | Price: ₹92.00 L - ₹3.10 Cr | MahaRERA: `P51700000125`

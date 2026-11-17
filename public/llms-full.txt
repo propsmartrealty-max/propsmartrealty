@@ -515,7 +515,7 @@ This document contains the complete, unabridged real estate database of verified
 | Panchshil Towers | Kharadi | 3.5 BHK, 4.5 BHK, Penthouse | ₹2.90 Cr - ₹8.50 Cr | Under Construction | `P52100002528` | https://propsmart.co.in/project/panchshil-towers |
 | Rohan Ekam Balewadi | Balewadi | 2 BHK, 3 BHK, 4 BHK, 4.5 BHK | ₹1.33 Cr - ₹3.28 Cr | Under Construction | `P52100052298` | https://propsmart.co.in/project/rohan-ekam-balewadi |
 | Rohan Saroha | Bhugaon | 2 BHK, 3 BHK, 4 BHK | ₹80.00 L - ₹1.85 Cr | Under Construction | `P52100076652` | https://propsmart.co.in/project/rohan-saroha |
-| Rohan Ekam | Balewadi | 2 BHK, 3 BHK, 4.5 BHK | ₹1.33 Cr - ₹3.42 Cr | Under Construction | `P52100052298` | https://propsmart.co.in/project/rohan-ekam |
+| Rohan Ekam | Balewadi | 2 BHK, 3 BHK, 4.5 BHK | ₹1.33 Cr - ₹3.42 Cr | Under Construction | `P52100053912` | https://propsmart.co.in/project/rohan-ekam |
 | VJ IndiLife | Pashan | Studio Suite, 1 BHK Suite | ₹26.00 L - ₹65.00 L | Under Construction | `P52100028030` | https://propsmart.co.in/project/vj-indilife |
 | VJ PKC Central | Kharadi | 2 BHK, 3 BHK, 4 BHK | ₹1.10 Cr - ₹1.90 Cr | Under Construction | `P52100077759` | https://propsmart.co.in/project/vj-pkc-central |
 | VJ Yashwin Enchante | Wagholi | 2 BHK, 3 BHK | ₹73.00 L - ₹1.12 Cr | Under Construction | `P52100046510` | https://propsmart.co.in/project/vj-yashwin-enchante |
@@ -525,7 +525,7 @@ This document contains the complete, unabridged real estate database of verified
 | Nyati Evoque | Wadgaon Sheri | 3 BHK, 4 BHK | ₹3.57 Cr - ₹4.35 Cr | Under Construction | `P52100056152` | https://propsmart.co.in/project/nyati-evoque |
 | Nyati Emerald | Baner | 2 BHK, 3 BHK | ₹1.05 Cr - ₹1.80 Cr | Under Construction | `P52100051235` | https://propsmart.co.in/project/nyati-emerald |
 | Nyati Esteban 2 | Undri | 2 BHK, 3 BHK | ₹75.00 L - ₹1.25 Cr | Under Construction | `P52100053440` | https://propsmart.co.in/project/nyati-esteban-2 |
-| Gera Hinjewadi Phase 3 – 0 | Hinjewadi | 2 BHK, 2 BHK Duplex, 3 BHK, 3 BHK Duplex | ₹84.00 L - ₹1.50 Cr | Under Construction | `P52100077635` | https://propsmart.co.in/project/gera-hinjewadi-phase-3 |
+| Gera Hinjewadi Phase 3 – 0 | Hinjewadi | 2 BHK, 2 BHK Duplex, 3 BHK, 3 BHK Duplex | ₹84.00 L - ₹1.50 Cr | Under Construction | `P52100050873` | https://propsmart.co.in/project/gera-hinjewadi-phase-3 |
 | Gera Imperium Gateway | Bhosari | Commercial, Office, Retail | ₹55.00 L - ₹2.28 Cr | Under Construction | `P52100030184` | https://propsmart.co.in/project/gera-imperium-gateway |
 | Gera Joy on the Treetops | Hinjewadi | 2 BHK, 3 BHK, Duplex | ₹84.00 L - ₹1.38 Cr | Under Construction | `P52100077635` | https://propsmart.co.in/project/gera-joy-on-the-treetops |
 | Kasturi Apostrophe | Hinjewadi | 2 BHK | ₹88.00 L | Under Construction | `P52100031595` | https://propsmart.co.in/project/kasturi-apostrophe |
@@ -676,7 +676,7 @@ This document contains the complete, unabridged real estate database of verified
 | Gagan Klara | Balewadi | 2 BHK, 3 BHK | ₹1.23 Cr - ₹1.86 Cr | Ready to Move | `P52100010306` | https://propsmart.co.in/project/gagan-klara-balewadi |
 | Wellwisher Abode | Kondhwa | 2 BHK | ₹75.10 L | Under Construction | `P52100014352` | https://propsmart.co.in/project/wellwisher-abode-kondhwa |
 | Babar Classic Vista | Kondhwa | 2 BHK | ₹61.00 L | Under Construction | `P52100010095` | https://propsmart.co.in/project/babar-classic-vista-kondhwa |
-| Shree Shivtirth | Erandwane | 2 BHK, 3 BHK | ₹1.45 Cr - ₹2.20 Cr | Under Construction | `P52100018590` | https://propsmart.co.in/project/shree-shivtirth-erandwane |
+| Shree Shivtirth | Erandwane | 2 BHK, 3 BHK | ₹1.45 Cr - ₹2.20 Cr | Under Construction | `P52100022145` | https://propsmart.co.in/project/shree-shivtirth-erandwane |
 | Gandharv Leela | Hadapsar | 2 BHK, 3 BHK | ₹85.69 L - ₹1.04 Cr | Under Construction | `P52100018200` | https://propsmart.co.in/project/gandharv-leela-hadapsar |
 | Prajakta Karve Nagar | Karve Nagar | 2 BHK, 2.5 BHK, 3 BHK | ₹1.19 Cr - ₹1.95 Cr | Ready to Move | `P52100017626` | https://propsmart.co.in/project/prajakta-karve-nagar |
 | Pandit Mayflower | Shivaji Nagar | 3 BHK, 4 BHK | ₹3.80 Cr - ₹5.20 Cr | Under Construction | `P52100012432` | https://propsmart.co.in/project/pandit-mayflower-shivaji-nagar |
@@ -699,10 +699,10 @@ This document contains the complete, unabridged real estate database of verified
 | Celestial City | Ravet | 2 BHK, 3 BHK | ₹85.47 L - ₹1.37 Cr | Ready to Move | `P52100017814` | https://propsmart.co.in/project/celestial-city-ravet |
 | Nova Residency | Mundhwa | 2 BHK, 2.5 BHK, 3 BHK, 3.5 BHK | ₹1.15 Cr - ₹2.03 Cr | Under Construction | `P52100016649` | https://propsmart.co.in/project/nova-residency-mundhwa |
 | Ganga Nakshatra | Bibwewadi | 2 BHK, 3 BHK | ₹1.58 Cr - ₹2.73 Cr | Under Construction | `P52100030456` | https://propsmart.co.in/project/ganga-nakshatra-bibwewadi |
-| Pristine Allure | Kharadi | 2 BHK, 2.5 BHK, 3 BHK | ₹1.01 Cr - ₹1.65 Cr | Under Construction | `P52100029871` | https://propsmart.co.in/project/pristine-allure-kharadi |
+| Pristine Allure | Kharadi | 2 BHK, 2.5 BHK, 3 BHK | ₹1.01 Cr - ₹1.65 Cr | Under Construction | `P52100030198` | https://propsmart.co.in/project/pristine-allure-kharadi |
 | Purva Silversands | Mundhwa | 1 BHK, 2 BHK, 3 BHK, 4 BHK | ₹1.37 Cr - ₹3.73 Cr | Under Construction | `P52100000756` | https://propsmart.co.in/project/purva-silversands-mundhwa |
 | Ganga Vasant | Hadapsar | 1 BHK, 2 BHK | ₹39.47 L - ₹50.51 L | Under Construction | `P52100031980` | https://propsmart.co.in/project/ganga-vasant-hadapsar |
-| Infini Jagtap City | Charholi Budruk | 2 BHK, 3 BHK | ₹66.60 L - ₹76.66 L | Under Construction | `P52100028741` | https://propsmart.co.in/project/infini-jagtap-city-charholi |
+| Infini Jagtap City | Charholi Budruk | 2 BHK, 3 BHK | ₹66.60 L - ₹76.66 L | Under Construction | `P52100031893` | https://propsmart.co.in/project/infini-jagtap-city-charholi |
 | Shubh Veda | Akurdi | 3 BHK, 3.5 BHK, 4 BHK | ₹1.63 Cr - ₹4.99 Cr | Under Construction | `P52100034562` | https://propsmart.co.in/project/shubh-veda-akurdi |
 | Trio Sync | Tathawade | Studio Suite | ₹31.00 L | New Launch | `P52100032114` | https://propsmart.co.in/project/trio-sync-tathawade |
 | Neopolis | Tathawade | 2 BHK, 3 BHK | ₹78.30 L - ₹1.25 Cr | New Launch | `P52100033451` | https://propsmart.co.in/project/neopolis-tathawade |
@@ -725,12 +725,12 @@ This document contains the complete, unabridged real estate database of verified
 | Kosha | Koregaon Park | 4 BHK | ₹5.91 Cr - ₹12.85 Cr | Under Construction | `P52100060453` | https://propsmart.co.in/project/kosha |
 | Hiranandani Krisala Township | Darumbre | 2 BHK, 3 BHK | ₹75.00 L - ₹1.12 Cr | Under Construction | `P52100062438` | https://propsmart.co.in/project/hiranandani-krisala-township |
 | Gaikwad Unico | Ravet | 3 BHK | ₹1.00 Cr - ₹1.20 Cr | Under Construction | `P52100080562` | https://propsmart.co.in/project/gaikwad-unico |
-| The Reserve | Mundhwa | 3 BHK, 4 BHK | ₹2.35 Cr - ₹5.35 Cr | Under Construction | `P52100030065` | https://propsmart.co.in/project/the-reserve-mundhwa |
+| The Reserve | Mundhwa | 3 BHK, 4 BHK | ₹2.35 Cr - ₹5.35 Cr | Under Construction | `P52100049211` | https://propsmart.co.in/project/the-reserve-mundhwa |
 | Zenone | Wakad | 2 BHK, 3 BHK, 5 BHK | ₹1.03 Cr - ₹3.56 Cr | Ready to Move | `P52100053350` | https://propsmart.co.in/project/zenone |
 | Venkatesh Vanaya | Kharadi | 2 BHK, 3 BHK, 4 BHK | ₹1.02 Cr - ₹1.43 Cr | Under Construction | `P52100061304` | https://propsmart.co.in/project/venkatesh-vanaya |
 | Petals | Tathawade | 1 BHK, 2 BHK, 3 BHK | ₹59.49 L - ₹91.00 L | Under Construction | `P52100051579` | https://propsmart.co.in/project/petals-tathawade |
 | Dream Delmont | Bavdhan | 2 BHK, 3 BHK | ₹1.07 Cr - ₹1.53 Cr | Under Construction | `P52100054736` | https://propsmart.co.in/project/dream-delmont |
-| Sai Kripa Commercial | Ravet | Commercial | ₹1.33 Cr | Under Construction | `P52100060965` | https://propsmart.co.in/project/sai-kripa-commercial |
+| Sai Kripa Commercial | Ravet | Commercial | ₹1.33 Cr | Under Construction | `P52100060966` | https://propsmart.co.in/project/sai-kripa-commercial |
 | Purva Aspire | Bavdhan | 2 BHK, 3 BHK | ₹1.18 Cr - ₹1.32 Cr | Under Construction | `P52100017650` | https://propsmart.co.in/project/aspire-puravankara |
 | Pride World City Boston | Charholi | 2 BHK | ₹72.99 L - ₹77.99 L | Under Construction | `P52100049648` | https://propsmart.co.in/project/pride-world-city-boston |
 | Celestia Heights | Punawale | 2 BHK, 3 BHK, Office | ₹67.98 L - ₹95.00 L | Under Construction | `P52100022252` | https://propsmart.co.in/project/celestia-heights |
@@ -742,7 +742,7 @@ This document contains the complete, unabridged real estate database of verified
 | Pride World City Valencia | Charholi | 2 BHK, 3 BHK | ₹92.49 L - ₹1.23 Cr | New Launch | `P52100022441` | https://propsmart.co.in/project/pride-world-city-valencia |
 | Pride World City Miami | Charholi | 2 BHK, 3 BHK, 4 BHK | ₹91.00 L - ₹2.74 Cr | Under Construction | `P52100077670` | https://propsmart.co.in/project/pride-world-city-miami |
 | Palladio Presidential Towers | Hadapsar | 2 BHK, 3 BHK, 4 BHK | ₹1.35 Cr - ₹2.60 Cr | New Launch | `P52100022526` | https://propsmart.co.in/project/palladio-presidential-towers |
-| Tulip Infinity Evana Commercial | Punawale | Shop, Office | ₹20.50 L - ₹4.08 Cr | Under Construction | `P52100078470` | https://propsmart.co.in/project/tulip-infinity-evana-commercial |
+| Tulip Infinity Evana Commercial | Punawale | Shop, Office | ₹20.50 L - ₹4.08 Cr | Under Construction | `P52100078471` | https://propsmart.co.in/project/tulip-infinity-evana-commercial |
 | Vitthal Nirvana | Nigdi | 3 BHK | ₹1.40 Cr - ₹1.44 Cr | Under Construction | `P52100032914` | https://propsmart.co.in/project/vitthal-nirvana |
 | Rohan Harita | Tathawade | 1 BHK, 2 BHK, 2.5 BHK, 3 BHK, 4 BHK | ₹88.00 L - ₹2.13 Cr | Under Construction | `P52100052972` | https://propsmart.co.in/project/rohan-harita |
 | One Place | Baner | Office | ₹1.32 Cr - ₹1.70 Cr | Under Construction | `P52100019584` | https://propsmart.co.in/project/one-place |
@@ -754,7 +754,7 @@ This document contains the complete, unabridged real estate database of verified
 | The Vantage | Wakad | 2 BHK, 3 BHK, 4 BHK | ₹1.07 Cr - ₹2.69 Cr | Under Construction | `P52100021066` | https://propsmart.co.in/project/the-vantage-wakad |
 | Sukhwani Gemzs | Maan | 2 BHK, 2.5 BHK, 3 BHK | ₹1.03 Cr - ₹1.30 Cr | Under Construction | `P52100021952` | https://propsmart.co.in/project/sukhwani-gemz |
 | Pristine Amore | Kalyani Nagar | 3 BHK, 4.5 BHK, 5 BHK, 4 BHK | ₹4.25 Cr - ₹10.00 Cr | Under Construction | `P52100060653` | https://propsmart.co.in/project/pristine-amore |
-| Pristine Amore Highstreet | Kalyani Nagar | Showroom, Shop | ₹4.75 Cr - ₹23.56 Cr | Under Construction | `P52100060653` | https://propsmart.co.in/project/pristine-amore-highstreet |
+| Pristine Amore Highstreet | Kalyani Nagar | Showroom, Shop | ₹4.75 Cr - ₹23.56 Cr | Under Construction | `P52100060654` | https://propsmart.co.in/project/pristine-amore-highstreet |
 | QUE 101 | Dhanori | 2 BHK, 3 BHK, 4 BHK, 5 BHK | ₹80.03 L - ₹2.77 Cr | Under Construction | `P52100062127` | https://propsmart.co.in/project/que-101 |
 | Amorapolis | Dhanori | 2 BHK, 3 BHK | ₹68.39 L - ₹99.19 L | New Launch | `P52100049120` | https://propsmart.co.in/project/amorapolis |
 | Smruti Garden | Kiwale | 2 BHK, 3 BHK | ₹76.00 L - ₹1.10 Cr | Under Construction | `P52100081081` | https://propsmart.co.in/project/smruti-garden |
@@ -763,12 +763,12 @@ This document contains the complete, unabridged real estate database of verified
 | 38 Daffodils | Baner | Studio | ₹39.75 L | Under Construction | `P52100060765` | https://propsmart.co.in/project/38-daffodils |
 | Codename Vybe | Anand Nagar | 3 BHK, 4 BHK | ₹85.00 L | New Launch | `P52100051410` | https://propsmart.co.in/project/codename-vybe |
 | Mangalam Momento | Moshi | 2 BHK, 2.5 BHK, 3 BHK | ₹69.50 L - ₹96.61 L | Under Construction | `P52100021445` | https://propsmart.co.in/project/mangalam-momento |
-| Godrej Skyline Commercial | Mundhwa | Shop | ₹3.41 Cr - ₹7.57 Cr | Under Construction | `P52100030007` | https://propsmart.co.in/project/godrej-skyline-commercial |
-| Luxton by Saheel Commercial | Wakad | Shop, Office, Showroom | ₹1.95 Cr - ₹4.78 Cr | Under Construction | `P52100062043` | https://propsmart.co.in/project/luxton-by-saheel-commercial |
+| Godrej Skyline Commercial | Mundhwa | Shop | ₹3.41 Cr - ₹7.57 Cr | Under Construction | `P52100030008` | https://propsmart.co.in/project/godrej-skyline-commercial |
+| Luxton by Saheel Commercial | Wakad | Shop, Office, Showroom | ₹1.95 Cr - ₹4.78 Cr | Under Construction | `P52100062044` | https://propsmart.co.in/project/luxton-by-saheel-commercial |
 | Arkaa Galaxy | Ravet | 2 BHK, 3 BHK | ₹68.46 L - ₹1.17 Cr | Under Construction | `P52100045836` | https://propsmart.co.in/project/arkaa-galaxy |
-| The Crown Highstreet at Ace Ayodhya | Thergaon | Shop, Showroom | ₹1.17 Cr - ₹3.79 Cr | Under Construction | `P52100060416` | https://propsmart.co.in/project/the-crown-highstreet |
+| The Crown Highstreet at Ace Ayodhya | Thergaon | Shop, Showroom | ₹1.17 Cr - ₹3.79 Cr | Under Construction | `P52100060417` | https://propsmart.co.in/project/the-crown-highstreet |
 | Serenopolis | Tathawade | 2 BHK, 3 BHK | ₹80.62 L - ₹97.75 L | Under Construction | `P52100080004` | https://propsmart.co.in/project/serenopolis |
-| City One Panache Commercial | Ravet | Shop, Office | ₹80.59 L - ₹22.48 Cr | Under Construction | `P52100020510` | https://propsmart.co.in/project/city-one-panache-commercial |
+| City One Panache Commercial | Ravet | Shop, Office | ₹80.59 L - ₹22.48 Cr | Under Construction | `P52100020511` | https://propsmart.co.in/project/city-one-panache-commercial |
 | Ace Ayodhya | Thergaon | 1 BHK, 2 BHK, 3 BHK | ₹39.00 L - ₹92.00 L | Under Construction | `P52100060416` | https://propsmart.co.in/project/ace-ayodhya |
 | Kuber Antonia | Wakad | 2 BHK | ₹84.56 L | Under Construction | `P52100035197` | https://propsmart.co.in/project/kuber-antonia |
 | Balaji Oriana World | Tathawade | 2 BHK, 3 BHK | ₹1.48 Cr | Under Construction | `P52100080096` | https://propsmart.co.in/project/balaji-oriana-world |
@@ -776,7 +776,7 @@ This document contains the complete, unabridged real estate database of verified
 | Legacy Wakad New Launch | Wakad | 2 BHK, 3 BHK | ₹90.00 L - ₹1.40 Cr | New Launch | `P52100038920` | https://propsmart.co.in/project/legacy-wakad-new-launch |
 | 55 Twilight | Baner | Studio | ₹37.50 L | New Launch | `P52100042180` | https://propsmart.co.in/project/55-twilight |
 | Pride World City Wellington | Charholi | 3 BHK | ₹1.16 Cr - ₹1.26 Cr | Under Construction | `P52100052379` | https://propsmart.co.in/project/pride-world-city-wellington |
-| New Launch Highness Wakad | Wakad | 3 BHK, 4 BHK | ₹1.21 Cr - ₹2.09 Cr | New Launch | `P52100062183` | https://propsmart.co.in/project/new-launch-highness-wakad |
+| New Launch Highness Wakad | Wakad | 3 BHK, 4 BHK | ₹1.21 Cr - ₹2.09 Cr | New Launch | `P52100062184` | https://propsmart.co.in/project/new-launch-highness-wakad |
 | Excellaa Polaris | Bavdhan | 4 BHK, 4.5 BHK | ₹2.59 Cr - ₹3.10 Cr | Under Construction | `P52100080233` | https://propsmart.co.in/project/excellaa-polaris |
 | Krisala Riverside | Wakad | 2 BHK, 3 BHK | ₹99.00 L - ₹1.90 Cr | New Launch | `P52100052418` | https://propsmart.co.in/project/krisala-riverside |
 | Santiago Moonrise | Chikhali | 2 BHK | ₹55.00 L | Under Construction | `P52100080764` | https://propsmart.co.in/project/santiago-moonrise |
@@ -805,14 +805,14 @@ This document contains the complete, unabridged real estate database of verified
 | Arkaay Towers | Tathawade | 2 BHK, 3 BHK | ₹96.00 L - ₹1.30 Cr | Ready to Move | `P52100062454` | https://propsmart.co.in/project/arkaay-towers |
 | Arion | Balewadi | 3 BHK | ₹1.80 Cr - ₹1.90 Cr | New Launch | `P52100060090` | https://propsmart.co.in/project/arion |
 | Silverise Skylight Commercial | Pimpri | Shop | ₹64.00 L - ₹2.73 Cr | Under Construction | `P52100025469` | https://propsmart.co.in/project/silverise-skylight-commercial |
-| New Launch Truespace Wakad | Wakad | 2 BHK, 3 BHK | ₹1.05 Cr - ₹1.50 Cr | Under Construction | `P52100022057` | https://propsmart.co.in/project/new-launch-truespace-wakad |
+| New Launch Truespace Wakad | Wakad | 2 BHK, 3 BHK | ₹1.05 Cr - ₹1.50 Cr | Under Construction | `P52100022059` | https://propsmart.co.in/project/new-launch-truespace-wakad |
 | King's Grace | Rahatani | 2 BHK, 3 BHK | ₹1.15 Cr - ₹1.69 Cr | Under Construction | `P52100022278` | https://propsmart.co.in/project/kings-grace |
 | Sukhwani Associates | Kiwale | 2 BHK, 3 BHK | ₹95.00 L - ₹1.45 Cr | Under Construction | `P52100080613` | https://propsmart.co.in/project/sukhwani-associates |
 | Sky Meridian | Tathawade | 2 BHK, 3 BHK | ₹75.00 L - ₹1.09 Cr | Under Construction | `P52100078224` | https://propsmart.co.in/project/sky-meridian |
 | Milleflori | Wakad | 3 BHK | ₹1.91 Cr - ₹2.29 Cr | Under Construction | `P52100020332` | https://propsmart.co.in/project/milleflori |
 | Mahalaxmi Life In Motion | Pimpri | 2 BHK, 2.5 BHK, 3 BHK, 4 BHK | ₹1.20 Cr - ₹2.44 Cr | Under Construction | `P52100024630` | https://propsmart.co.in/project/mahalaxmi-life-in-motion |
 | Kamalraj Properties | Ravet | 2 BHK, 3 BHK | ₹75.00 L - ₹1.15 Cr | New Launch | `P52100044382` | https://propsmart.co.in/project/kamalraj-properties |
-| Divine Homes | Ravet | 2 BHK, 3 BHK | ₹70.90 L - ₹1.04 Cr | Under Construction | `P52100062389` | https://propsmart.co.in/project/divine-homes |
+| Divine Homes | Ravet | 2 BHK, 3 BHK | ₹70.90 L - ₹1.04 Cr | Under Construction | `P52100053412` | https://propsmart.co.in/project/divine-homes |
 | The Vibe | Kiwale | 2 BHK, 3 BHK | ₹85.00 L | Under Construction | `P52100017868` | https://propsmart.co.in/project/the-vibe |
 | The Westford Phase 2 Pimple Saudagar | Pimple Saudagar | 3 BHK, 4 BHK | ₹3.50 Cr - ₹5.20 Cr | Under Construction | `P52100029416` | https://propsmart.co.in/project/the-westford-phase-2-pimple-saudagar |
 | Sentosa Harico Diwaam | Kiwale | 2 BHK, 3 BHK | ₹70.90 L - ₹1.04 Cr | New Launch | `P52100062389` | https://propsmart.co.in/project/sentosa-harico-diwaam |
@@ -828,7 +828,7 @@ This document contains the complete, unabridged real estate database of verified
 | 18 Altitude | Walhekarwadi | 2 BHK, 3 BHK | ₹1.00 Cr - ₹1.42 Cr | New Launch | `P52100076759` | https://propsmart.co.in/project/18-altitude |
 | Arihant Sky Suites Tathwade | Tathawade | 2 BHK, 3 BHK | ₹94.00 L - ₹1.20 Cr | Ready to Move | `P52100080867` | https://propsmart.co.in/project/arihant-sky-suites-tathwade |
 | New launch the Arena pimpri | Pimpri | 2 BHK, 2.5 BHK, 3 BHK, 4 BHK | ₹1.20 Cr - ₹2.44 Cr | Under Construction | `P52100037505` | https://propsmart.co.in/project/new-launch-the-arena-pimpri |
-| 51 Meridian | Nigdi | Office | ₹67.00 L - ₹1.70 Cr | Under Construction | `P52000045602` | https://propsmart.co.in/project/51-meridian |
+| 51 Meridian | Nigdi | Office | ₹67.00 L - ₹1.70 Cr | Under Construction | `P52100045602` | https://propsmart.co.in/project/51-meridian |
 | The Arena | Pimpri | 2 BHK, 2.5 BHK, 3 BHK, 4 BHK | ₹1.20 Cr - ₹2.44 Cr | Under Construction | `P52100031147` | https://propsmart.co.in/project/the-arena |
 | Truespace Prima Altiora | Wakad | 2 BHK, 3 BHK | ₹1.05 Cr - ₹1.50 Cr | Under Construction | `P52100022057` | https://propsmart.co.in/project/truespace-prima-altiora |
 | Nexus Skydale | Punawale | 2 BHK, 3 BHK, 4 BHK | ₹73.91 L - ₹1.40 Cr | Under Construction | `P52100055009` | https://propsmart.co.in/project/nexus-skydale |
@@ -838,30 +838,30 @@ This document contains the complete, unabridged real estate database of verified
 | Sonigara Quorra | Tathawade | 3 BHK, 4 BHK | ₹1.50 Cr - ₹1.80 Cr | Under Construction | `P52100061552` | https://propsmart.co.in/project/sonigara-quorra |
 | Ambrosia Studios | Baner | Studio | ₹32.00 L - ₹36.00 L | Under Construction | `P52100061271` | https://propsmart.co.in/project/ambrosia-studios |
 | Arise Capital | Wakad | Office, Showroom | ₹1.90 Cr | Under Construction | `P52100020906` | https://propsmart.co.in/project/arise-capital |
-| Jhamtani Commercial | Pimple Saudagar | Office | ₹97.00 L - ₹1.60 Cr | New Launch | `P52000045602` | https://propsmart.co.in/project/jhamtani-commercial |
+| Jhamtani Commercial | Pimple Saudagar | Office | ₹97.00 L - ₹1.60 Cr | New Launch | `P52100045603` | https://propsmart.co.in/project/jhamtani-commercial |
 | RK Amore | Mamurdi | 2 BHK, 3 BHK | ₹66.00 L - ₹98.00 L | Under Construction | `P52100020597` | https://propsmart.co.in/project/rk-amore |
 | Mahakal Shivratna | Ravet | 2 BHK | ₹85.00 L | Ready to Move | `P52100055201` | https://propsmart.co.in/project/mahakal-shivratna |
 | Merak Homes | Hinjewadi | 2 BHK, 3 BHK | ₹78.00 L - ₹1.00 Cr | Under Construction | `P52100034019` | https://propsmart.co.in/project/merak-homes |
-| Austin Aurus Wakad | Wakad | 3 BHK, 4 BHK | ₹2.21 Cr - ₹3.09 Cr | Under Construction | `P52100021438` | https://propsmart.co.in/project/austin-aurus-wakad |
+| Austin Aurus Wakad | Wakad | 3 BHK, 4 BHK | ₹2.21 Cr - ₹3.09 Cr | Under Construction | `P52100021439` | https://propsmart.co.in/project/austin-aurus-wakad |
 | Marqis | Balewadi | 3 BHK | ₹1.90 Cr - ₹1.95 Cr | Under Construction | `P52100060290` | https://propsmart.co.in/project/marqis |
 | Elite The Arc | Punawale | 2 BHK, 3 BHK | ₹81.50 L - ₹1.30 Cr | Under Construction | `P52100063065` | https://propsmart.co.in/project/elite-the-arc |
-| Austin Realty | Wakad | 3 BHK, 4 BHK | ₹2.21 Cr - ₹3.09 Cr | Under Construction | `P52100021438` | https://propsmart.co.in/project/austin-realty |
-| V One Heartland | Akurdi | 3 BHK, 4 BHK | ₹1.20 Cr - ₹2.15 Cr | Under Construction | `P52100061911` | https://propsmart.co.in/project/v-one-heartland |
-| New launch Austin Mamurdi | Mamurdi | 1 BHK, 2 BHK, 3 BHK | ₹43.00 L - ₹74.00 L | Under Construction | `P52100021545` | https://propsmart.co.in/project/new-launch-austin-mamurdi |
+| Austin Realty | Wakad | 3 BHK, 4 BHK | ₹2.21 Cr - ₹3.09 Cr | Under Construction | `P52100021440` | https://propsmart.co.in/project/austin-realty |
+| V One Heartland | Akurdi | 3 BHK, 4 BHK | ₹1.20 Cr - ₹2.15 Cr | Under Construction | `P52100061912` | https://propsmart.co.in/project/v-one-heartland |
+| New launch Austin Mamurdi | Mamurdi | 1 BHK, 2 BHK, 3 BHK | ₹43.00 L - ₹74.00 L | Under Construction | `P52100021546` | https://propsmart.co.in/project/new-launch-austin-mamurdi |
 | OPULENT TOWER | Ravet | 2 BHK, 2.5 BHK, 3 BHK | ₹78.00 L - ₹1.20 Cr | Under Construction | `P52100077241` | https://propsmart.co.in/project/opulent-tower |
-| Muktangan Kimaya | Pimple Saudagar | 2 BHK, 3 BHK | ₹1.35 Cr - ₹1.70 Cr | Under Construction | `P52100020635` | https://propsmart.co.in/project/muktangan-kimaya |
+| Muktangan Kimaya | Pimple Saudagar | 2 BHK, 3 BHK | ₹1.35 Cr - ₹1.70 Cr | Under Construction | `P52100020636` | https://propsmart.co.in/project/muktangan-kimaya |
 | Icon Oro | Baner | Office | ₹1.70 Cr - ₹8.88 Cr | Under Construction | `P52100051935` | https://propsmart.co.in/project/icon-oro |
 | Kohinoor Royale Towers | Hinjewadi | 2 BHK, 3 BHK | ₹76 L - ₹1.18 Cr | Under Construction | `P52100061033` | https://propsmart.co.in/project/kohinoor-royale-towers |
 | Jhamtani Bizone | Pimple Saudagar | Office | ₹97.00 L - ₹1.91 Cr | New Launch | `P52100022029` | https://propsmart.co.in/project/jhamtani-bizone |
 | Avis Avante Wakad | Wakad | 2 BHK, 3 BHK | ₹86.00 L - ₹94.00 L | Under Construction | `P52100062977` | https://propsmart.co.in/project/avis-avante-wakad |
 | Vardhaman Skysymphony | Wakad | 2 BHK, 3 BHK | ₹99.00 L - ₹1.40 Cr | Under Construction | `P52100062323` | https://propsmart.co.in/project/vardhaman-skysymphony |
-| Millefiori Futuristic | Wakad | 3 BHK | ₹1.91 Cr - ₹2.29 Cr | Under Construction | `P52100020332` | https://propsmart.co.in/project/millefiori-futuristic |
+| Millefiori Futuristic | Wakad | 3 BHK | ₹1.91 Cr - ₹2.29 Cr | Under Construction | `P52100020333` | https://propsmart.co.in/project/millefiori-futuristic |
 | Nancy Hill View | Baner | 3 BHK, 4 BHK | ₹1.81 Cr - ₹2.55 Cr | Under Construction | `P52100079084` | https://propsmart.co.in/project/nancy-hill-view |
 | Pebbles Business Bay | Wakad | Office, Shop | ₹99.00 L - ₹1.99 Cr | Ready to Move | `P52100071416` | https://propsmart.co.in/project/pebbles-business-bay |
 | Platinum | Punawale | 2 BHK, 3 BHK, 4 BHK | ₹99.00 L - ₹1.99 Cr | Under Construction | `P52100066472` | https://propsmart.co.in/project/platinum |
 | Prime West | Balewadi | 2 BHK, 3 BHK, 4 BHK | ₹1.10 Cr - ₹1.80 Cr | Under Construction | `P52100026421` | https://propsmart.co.in/project/prime-west |
 | PK Ornate | Pimple Saudagar | 2 BHK | ₹95.00 L - ₹1.25 Cr | Under Construction | `P52100079941` | https://propsmart.co.in/project/pk-ornate |
-| Avis Avante | Wakad | 2 BHK, 3 BHK | ₹86.00 L - ₹94.00 L | Under Construction | `P52100062977` | https://propsmart.co.in/project/avis-avante |
+| Avis Avante | Wakad | 2 BHK, 3 BHK | ₹86.00 L - ₹94.00 L | Under Construction | `P52100062978` | https://propsmart.co.in/project/avis-avante |
 | Ravima Newton Homes | Walhekarwadi | 2 BHK, 3 BHK, 4 BHK | ₹93.00 L - ₹1.41 Cr | Under Construction | `P52100030528` | https://propsmart.co.in/project/ravima-newton-homes |
 | RGS Forte Aspire | Punawale | 3 BHK, 4 BHK | ₹99.00 L - ₹1.67 Cr | New Launch | `P52100062211` | https://propsmart.co.in/project/rgs-forte-aspire |
 | Sai Serenity | Kiwale | 2 BHK | ₹62.00 L - ₹63.00 L | Under Construction | `P52100018439` | https://propsmart.co.in/project/sai-serenity |
@@ -886,7 +886,7 @@ This document contains the complete, unabridged real estate database of verified
 | The Unicorn | Ravet | 2 BHK, 3 BHK | ₹74.00 L - ₹1.20 Cr | New Launch | `P52100052724` | https://propsmart.co.in/project/the-unicorn |
 | The Westford Phase 2 | Pimple Saudagar | 3 BHK, 4 BHK | ₹3.50 Cr - ₹5.20 Cr | Under Construction | `P52100029001` | https://propsmart.co.in/project/the-westford-phase-2 |
 | Codename T Square | Tathawade | Showroom | ₹1.90 Cr - ₹8.00 Cr | Under Construction | `P52100033020` | https://propsmart.co.in/project/codename-t-square |
-| TruSpace Prima Altiora | Wakad | 2 BHK, 3 BHK | ₹1.05 Cr - ₹1.50 Cr | Under Construction | `P52100022057` | https://propsmart.co.in/project/truspace-prima-altiora |
+| TruSpace Prima Altiora | Wakad | 2 BHK, 3 BHK | ₹1.05 Cr - ₹1.50 Cr | Under Construction | `P52100022058` | https://propsmart.co.in/project/truspace-prima-altiora |
 | Codename Manifest | Ravet | 2 BHK, 3 BHK | ₹93.49 L - ₹1.30 Cr | Under Construction | `P52100047548` | https://propsmart.co.in/project/codename-manifest |
 | Tulip Infinity Avana | Punawale | 2 BHK, 3 BHK, 4 BHK | ₹1.04 Cr - ₹2.20 Cr | Under Construction | `P52100047662` | https://propsmart.co.in/project/tulip-infinity-avana |
 | Sukhwani Palmera Reserves | Kiwale | 2 BHK, 3 BHK | ₹95.00 L - ₹1.45 Cr | Under Construction | `P52100021641` | https://propsmart.co.in/project/sukhwani-palmera-reserves |
@@ -894,9 +894,9 @@ This document contains the complete, unabridged real estate database of verified
 | Yashada | Kiwale | 2 BHK, 3 BHK | ₹77.00 L - ₹1.12 Cr | Under Construction | `P52100063118` | https://propsmart.co.in/project/yashada |
 | VMA Reserve | Punawale | 2 BHK | ₹79.00 L - ₹82.00 L | Ready to Move | `P52100033654` | https://propsmart.co.in/project/vma-reserve |
 | VJ Town Center | Tathawade | Shop | ₹2.58 Cr - ₹4.52 Cr | Under Construction | `P52100028755` | https://propsmart.co.in/project/vj-town-center |
-| Commercial Avis Avante | Wakad | Shop | ₹1.35 Cr - ₹3.10 Cr | Under Construction | `P52100062977` | https://propsmart.co.in/project/commercial-avis-avante |
+| Commercial Avis Avante | Wakad | Shop | ₹1.35 Cr - ₹3.10 Cr | Under Construction | `P52100062979` | https://propsmart.co.in/project/commercial-avis-avante |
 | The Miracle | Pimple Saudagar | 3 BHK | ₹1.60 Cr - ₹1.62 Cr | Under Construction | `P52100030372` | https://propsmart.co.in/project/the-miracle |
-| Chandrarang Embercrest | Wakad | 3 BHK, 4 BHK | ₹1.85 Cr - ₹2.80 Cr | Under Construction | `P52100061760` | https://propsmart.co.in/project/chandrarang-embercrest |
+| Chandrarang Embercrest | Wakad | 3 BHK, 4 BHK | ₹1.85 Cr - ₹2.80 Cr | Under Construction | `P52100061761` | https://propsmart.co.in/project/chandrarang-embercrest |
 | Mauli | Baner | 2 BHK | ₹96.00 L - ₹99.00 L | Under Construction | `P52100024756` | https://propsmart.co.in/project/mauli |
 | Park West Towers | Tathawade | Office, Shop | ₹64.00 L - ₹6.88 Cr | Under Construction | `P52100079597` | https://propsmart.co.in/project/park-west-towers |
 | Maheshwaram Vrinda | Ravet | 2 BHK, 3 BHK | ₹86.83 L - ₹1.23 Cr | Under Construction | `P52100078935` | https://propsmart.co.in/project/maheshwaram-vrinda |
@@ -905,7 +905,7 @@ This document contains the complete, unabridged real estate database of verified
 | Maheshwaram Majestic | Ravet | 2 BHK, 3 BHK | ₹79.00 L - ₹92.00 L | Under Construction | `P52100032195` | https://propsmart.co.in/project/maheshwaram-majestic |
 | Gera Code Vroom | Hinjewadi | 2 BHK, 3 BHK | ₹85.00 L - ₹1.45 Cr | New Launch | `P52100031648` | https://propsmart.co.in/project/gera-vroom |
 | GEO ARISTO | Ravet | 3 BHK | ₹1.09 Cr - ₹1.58 Cr | Under Construction | `P52100061783` | https://propsmart.co.in/project/geo-aristo |
-| Supreme Rivana | Punawale | 2 BHK, 3 BHK | ₹92.00 L - ₹1.45 Cr | New Launch | `P52100032656` | https://propsmart.co.in/project/supreme-rivana |
+| Supreme Rivana | Punawale | 2 BHK, 3 BHK | ₹92.00 L - ₹1.45 Cr | New Launch | `P52100032657` | https://propsmart.co.in/project/supreme-rivana |
 | Kunal The Canary | Balewadi | 3 BHK, 4 BHK | ₹1.81 Cr - ₹2.40 Cr | New Launch | `P52100031557` | https://propsmart.co.in/project/kunal-the-canary |
 | ALPINE 21 | Tathawade | 2 BHK, 2.5 BHK, 3 BHK | ₹89.00 L - ₹1.25 Cr | Under Construction | `P52100020172` | https://propsmart.co.in/project/alpine-21 |
 | Newton Homes Royale | Mundhwa | 2 BHK, 2.5 BHK, 3 BHK | ₹92.50 L - ₹1.25 Cr | New Launch | `P52100030924` | https://propsmart.co.in/project/newton-homes-royale |
@@ -914,7 +914,7 @@ This document contains the complete, unabridged real estate database of verified
 | GRD WeOne 121 | Wakad | Studio | ₹42.00 L | Under Construction | `P52100049391` | https://propsmart.co.in/project/grd-weone-121 |
 | Gen1 Baner | Baner | Office | ₹47.00 L - ₹1.84 Cr | Under Construction | `P52100053948` | https://propsmart.co.in/project/gen1-baner |
 | Crestline Realty | Kiwale | 2 BHK, 3 BHK | ₹76.90 L - ₹1.02 Cr | Under Construction | `P52100026833` | https://propsmart.co.in/project/crestline-realty |
-| Aria | Punawale | 2 BHK, 3 BHK | ₹85.00 L - ₹1.20 Cr | Under Construction | `P52100080612` | https://propsmart.co.in/project/aria |
+| Aria | Punawale | 2 BHK, 3 BHK | ₹85.00 L - ₹1.20 Cr | Under Construction | `P52100080614` | https://propsmart.co.in/project/aria |
 | ANP Memento | Wakad | 2 BHK, 2.5 BHK, 3 BHK, 3.5 BHK | ₹91.00 L - ₹1.85 Cr | Under Construction | `P52100026219` | https://propsmart.co.in/project/anp-memento |
 | AG Landmark | Wakad | Office | ₹24.00 L - ₹32.00 L | Under Construction | `P52100051063` | https://propsmart.co.in/project/ag-landmark |
 | GT Codename Amore | Kiwale | 2 BHK, 3 BHK | ₹71.00 L - ₹91.00 L | Under Construction | `P52100026505` | https://propsmart.co.in/project/gt-codename-amore |
@@ -933,23 +933,23 @@ This document contains the complete, unabridged real estate database of verified
 | 45 Eliite Heights | Nigdi | 3 BHK | ₹1.68 Cr | Under Construction | `P52100059010` | https://propsmart.co.in/project/45-eliite-heights |
 | Dream Glorious | Balewadi | 2 BHK, 3 BHK | ₹1.14 Cr - ₹1.68 Cr | Under Construction | `P52100052727` | https://propsmart.co.in/project/dream-glorious |
 | 73 PARK | Kiwale | 1 BHK, 2 BHK | ₹54.00 L - ₹76.00 L | Under Construction | `P52100021181` | https://propsmart.co.in/project/73-park |
-| Kohinoor Avantara | Wakad | 2 BHK, 3 BHK | ₹89.90 L - ₹1.20 Cr | Under Construction | `P52100061984` | https://propsmart.co.in/project/kohinoor-anantara |
+| Kohinoor Avantara | Wakad | 2 BHK, 3 BHK | ₹89.90 L - ₹1.20 Cr | Under Construction | `P52100061985` | https://propsmart.co.in/project/kohinoor-anantara |
 | 7 Cosmos | Pimple Nilakh | 3 BHK | ₹1.66 Cr | Under Construction | `P52100055958` | https://propsmart.co.in/project/7-cosmos |
 | 45 West | Baner | Office | ₹1.00 Cr - ₹3.85 Cr | Under Construction | `P52100051475` | https://propsmart.co.in/project/45-west |
 | Emerald Grove | Punawale | 2 BHK, 1 BHK | ₹38.00 L - ₹61.00 L | Under Construction | `P52100080431` | https://propsmart.co.in/project/emerald-grove |
-| EH Towers Commercial | Tathawade | Shop, Office | ₹25.02 L - ₹10.89 Cr | Under Construction | `P52100079038` | https://propsmart.co.in/project/eh-towers-commercial |
+| EH Towers Commercial | Tathawade | Shop, Office | ₹25.02 L - ₹10.89 Cr | Under Construction | `P52100079039` | https://propsmart.co.in/project/eh-towers-commercial |
 | Arun Sanctum | Ravet | 2 BHK, 3 BHK | ₹81.00 L - ₹1.21 Cr | Under Construction | `P52100078503` | https://propsmart.co.in/project/arun-sanctum |
 | Audumbar Green | Tathawade | 2 BHK | ₹64.00 L - ₹74.00 L | Under Construction | `P52100054752` | https://propsmart.co.in/project/audumbar-green |
 | Aster Park Residences | Jambe | 1 BHK, 2 BHK | ₹41.00 L - ₹56.00 L | Under Construction | `P52100028092` | https://propsmart.co.in/project/aster-park-residences |
 | Envogue 2 Tayal Corp Group | Akurdi | 2 BHK, 3 BHK, 4 BHK | ₹1.17 Cr - ₹2.73 Cr | Under Construction | `P52100077680` | https://propsmart.co.in/project/envogue-2-tayal-corp-group |
-| Yashada Evo Punawale | Punawale | 2 BHK, 3 BHK, 4 BHK | ₹94.00 L - ₹2.00 Cr | New Launch | `P52100031027` | https://propsmart.co.in/project/yashada-evo-punawale |
+| Yashada Evo Punawale | Punawale | 2 BHK, 3 BHK, 4 BHK | ₹94.00 L - ₹2.00 Cr | New Launch | `P52100031028` | https://propsmart.co.in/project/yashada-evo-punawale |
 | Aundh Renaissance | Aundh | 3 BHK, 4 BHK | ₹1.94 Cr - ₹3.16 Cr | New Launch | `P52100030465` | https://propsmart.co.in/project/aundh-renaissance |
 | ELITE CROWN | Ravet | 2 BHK | ₹56.00 L - ₹62.00 L | Under Construction | `P52100062244` | https://propsmart.co.in/project/elite-crown |
 | Audumbar Bliss | Walhekarwadi | 2 BHK | ₹68.96 L | Under Construction | `P52100055148` | https://propsmart.co.in/project/audumbar-bliss |
-| Gen1 | Baner | Office | ₹47.00 L - ₹1.84 Cr | Under Construction | `P52100053948` | https://propsmart.co.in/project/gen1 |
+| Gen1 | Baner | Office | ₹47.00 L - ₹1.84 Cr | Under Construction | `P52100053949` | https://propsmart.co.in/project/gen1 |
 | Greens | Thergaon | 3 BHK | ₹1.24 Cr - ₹1.39 Cr | Ready to Move | `P52100053285` | https://propsmart.co.in/project/greens |
 | GT Krushnakunj | Kiwale | 2 BHK, 3 BHK | ₹71.00 L - ₹91.00 L | Under Construction | `P52100020363` | https://propsmart.co.in/project/gt-krushnakunj |
-| GK Sindhu Skies | Pimple Saudagar | 2 BHK, 3 BHK, 4 BHK | ₹1.30 Cr - ₹2.60 Cr | Under Construction | `P52100031488` | https://propsmart.co.in/project/gk-sindhu-skies |
+| GK Sindhu Skies | Pimple Saudagar | 2 BHK, 3 BHK, 4 BHK | ₹1.30 Cr - ₹2.60 Cr | Under Construction | `P52100031490` | https://propsmart.co.in/project/gk-sindhu-skies |
 | Venkatesh Serenique | Bavdhan | 2 BHK, 3 BHK | ₹1.07 Cr - ₹2.15 Cr | New Launch | `P52100061412` | https://propsmart.co.in/project/venkatesh-serenique |
 | EMPIRE SQUARE | Chinchwad | 2 BHK, 2.5 BHK, 3 BHK, 4 BHK | ₹1.24 Cr - ₹2.51 Cr | Under Construction | `P52100056031` | https://propsmart.co.in/project/empire-square |
 | Kimaya Muktangan | Pimple Saudagar | 2 BHK, 3 BHK | ₹1.35 Cr - ₹1.70 Cr | Under Construction | `P52100020635` | https://propsmart.co.in/project/kimaya-muktangan |
@@ -967,7 +967,7 @@ This document contains the complete, unabridged real estate database of verified
 | Ajwani Prissa Pratham | Wakad | 2 BHK, 3 BHK | ₹1.12 Cr - ₹1.70 Cr | Under Construction | `P52100031933` | https://propsmart.co.in/project/ajwani-prissa-pratham |
 | Austin Avenue Commercial | Tathawade | Office | ₹1.10 Cr - ₹3.00 Cr | New Launch | `P52100078743` | https://propsmart.co.in/project/austin-avenue-commercial |
 | Kohinoor Downtown | Wakad | 2 BHK, 3 BHK | ₹1.18 Cr - ₹1.65 Cr | Under Construction | `P52100060271` | https://propsmart.co.in/project/kohinoor-wakad-downtown |
-| Kohinoor Satori | Mahalunge | 3 BHK, 4 BHK, 4.5 BHK | ₹1.48 Cr - ₹3.35 Cr | Under Construction | `P52100066472` | https://propsmart.co.in/project/kohinoor-satori |
+| Kohinoor Satori | Mahalunge | 3 BHK, 4 BHK, 4.5 BHK | ₹1.48 Cr - ₹3.35 Cr | Under Construction | `P52100077437` | https://propsmart.co.in/project/kohinoor-satori |
 | Koral Aeternaa | Thergaon | 2 BHK, 3 BHK | ₹85.00 L - ₹1.30 Cr | Under Construction | `P52100077052` | https://propsmart.co.in/project/koral-aeternaa |
 | Aurelia | Rahatani | 3 BHK | ₹1.25 Cr | Under Construction | `P52100077244` | https://propsmart.co.in/project/aurelia |
 | 24 Wallstreet | Pimpri | Office, Shop | ₹1.16 Cr - ₹6.00 Cr | Under Construction | `P52100077499` | https://propsmart.co.in/project/24-wallstreet |
@@ -1001,27 +1001,27 @@ This document contains the complete, unabridged real estate database of verified
 | Namrata Manifesta | Punawale | 2 BHK, 3 BHK | ₹76.00 L - ₹1.10 Cr | Under Construction | `P52100080124` | https://propsmart.co.in/project/namrata-manifesta |
 | Palladio Presidential Suites | Balewadi | 3 BHK, 4 BHK | ₹1.70 Cr - ₹2.25 Cr | Under Construction | `P52100062961` | https://propsmart.co.in/project/palladio-presidential-suites |
 | Royal Morya Skydale | Thergaon | 3 BHK, 3.5 BHK, 4 BHK | ₹1.77 Cr - ₹2.23 Cr | Under Construction | `P52100055584` | https://propsmart.co.in/project/royal-morya-skydale |
-| Renuka Panchatattva Shop | Tathawade | Shop, Office | ₹65.00 L - ₹4.28 Cr | Under Construction | `P52100048051` | https://propsmart.co.in/project/renuka-panchatattva-shop |
+| Renuka Panchatattva Shop | Tathawade | Shop, Office | ₹65.00 L - ₹4.28 Cr | Under Construction | `P52100048052` | https://propsmart.co.in/project/renuka-panchatattva-shop |
 | Rutuja Enclave | Nigdi | 2 BHK | ₹53.00 L | Under Construction | `P52100076736` | https://propsmart.co.in/project/rutuja-enclave |
 | Navyam | Ravet | 2 BHK, 3 BHK | ₹85.00 L - ₹1.15 Cr | Under Construction | `P52100054888` | https://propsmart.co.in/project/navyam |
 | Sai Signature | Mamurdi | 2 BHK, 3 BHK | ₹65.00 L - ₹94.00 L | Under Construction | `P52100030759` | https://propsmart.co.in/project/sai-signature |
 | Rachana Bella Casa Royale | Baner | 2 BHK, 3 BHK | ₹1.10 Cr - ₹1.40 Cr | Under Construction | `P52100047308` | https://propsmart.co.in/project/rachana-bella-casa-royale |
 | Rachana Privana | Moshi | 3 BHK, 4 BHK | ₹1.08 Cr - ₹1.47 Cr | Under Construction | `P52100020617` | https://propsmart.co.in/project/rachana-privana |
-| 18 Altitude Commercial | Walhekarwadi | Office | ₹53.00 L - ₹99.00 L | Under Construction | `P52100076759` | https://propsmart.co.in/project/18-altitude-commercial |
+| 18 Altitude Commercial | Walhekarwadi | Office | ₹53.00 L - ₹99.00 L | Under Construction | `P52100076760` | https://propsmart.co.in/project/18-altitude-commercial |
 | Sai Vilasita | Wakad | 2 BHK, 3 BHK | ₹90.00 L - ₹1.12 Cr | Under Construction | `P52100020085` | https://propsmart.co.in/project/sai-vilasita |
 | Nirvana Nothing Beyond | Baner | 4 BHK | ₹5.61 Cr - ₹6.91 Cr | Under Construction | `P52100047528` | https://propsmart.co.in/project/nirvana-nothing-beyond |
 | Bhagawati Chambers | Tathawade | Office, Shop | ₹1.11 Cr - ₹6.80 Cr | Under Construction | `P52100021422` | https://propsmart.co.in/project/bhagawati-chambers |
 | Thorve House | Balewadi | 2 BHK | ₹1.10 Cr - ₹1.15 Cr | Under Construction | `P52100060984` | https://propsmart.co.in/project/thorve-house |
 | Santiago Skytown | Kiwale | 2 BHK, 3 BHK | ₹77.00 L - ₹1.00 Cr | Under Construction | `P52100077942` | https://propsmart.co.in/project/santiago-skytown |
 | Sapphire Nest | Pimple Saudagar | 2 BHK, 2.5 BHK, 3 BHK, 4 BHK | ₹1.28 Cr - ₹2.61 Cr | Under Construction | `P52100021768` | https://propsmart.co.in/project/sapphire-nest |
-| NB Evo Highstreet | Punawale | Shop, Showroom | ₹73.00 L - ₹7.19 Cr | New Launch | `P52100031027` | https://propsmart.co.in/project/nb-evo-highstreet |
+| NB Evo Highstreet | Punawale | Shop, Showroom | ₹73.00 L - ₹7.19 Cr | New Launch | `P52100031029` | https://propsmart.co.in/project/nb-evo-highstreet |
 | Jhamtani Ace Abode | Kiwale | 2 BHK, 3 BHK | ₹57.00 L - ₹94.00 L | Under Construction | `P52100034177` | https://propsmart.co.in/project/jhamtani-ace-abode |
 | Akshara Mayfair | Tathawade | 2 BHK, 3 BHK | ₹91.00 L - ₹1.41 Cr | Under Construction | `P52100062989` | https://propsmart.co.in/project/akshara-mayfair |
 | Sky Sanctum | Wakad | 2 BHK, 3 BHK, 4 BHK | ₹99.00 L - ₹2.20 Cr | Under Construction | `P52100079426` | https://propsmart.co.in/project/sky-sanctum |
 | Shree Raman Legacy | Tathawade | 3 BHK | ₹98.00 L - ₹1.90 Cr | New Launch | `P52100078522` | https://propsmart.co.in/project/shree-raman-legacy |
-| Sentosa Harico Divaam | Kiwale | 2 BHK, 3 BHK | ₹70.90 L - ₹1.04 Cr | New Launch | `P52100062389` | https://propsmart.co.in/project/sentosa-harico-divaam |
+| Sentosa Harico Divaam | Kiwale | 2 BHK, 3 BHK | ₹70.90 L - ₹1.04 Cr | New Launch | `P52100062390` | https://propsmart.co.in/project/sentosa-harico-divaam |
 | Tulip Infinity Evana | Punawale | 2 BHK, 3 BHK, 4 BHK | ₹1.35 Cr - ₹2.03 Cr | Under Construction | `P52100078470` | https://propsmart.co.in/project/tulip-infinity-evana |
-| Shankeshwar Kingsland | Hinjewadi | 2 BHK, 3 BHK | ₹99.00 L - ₹1.62 Cr | Under Construction | `P52100060728` | https://propsmart.co.in/project/shankeshwar-kingsland |
+| Shankeshwar Kingsland | Hinjewadi | 2 BHK, 3 BHK | ₹99.00 L - ₹1.62 Cr | Under Construction | `P52100060731` | https://propsmart.co.in/project/shankeshwar-kingsland |
 | Shyni Gold Mangalam | Chinchwad | 2 BHK, 3 BHK | ₹76.69 L - ₹1.30 Cr | Under Construction | `P52100047124` | https://propsmart.co.in/project/shyni-gold-mangalam |
 | Shubh Veda Commercial | Akurdi | Shop | ₹1.05 Cr - ₹3.20 Cr | Under Construction | `P52100080358` | https://propsmart.co.in/project/shubh-veda-commercial |
 | Sentosa Edge | Punawale | 2 BHK, 3 BHK | ₹85.77 L - ₹1.28 Cr | Under Construction | `P52100061839` | https://propsmart.co.in/project/sentosa-edge |
@@ -1034,7 +1034,7 @@ This document contains the complete, unabridged real estate database of verified
 | Wakad Central Park | Wakad | 2 BHK, 3 BHK | ₹1.39 Cr - ₹1.90 Cr | Under Construction | `P52100079655` | https://propsmart.co.in/project/wakad-central-park |
 | The Canary Sky Oasis | Balewadi | 3 BHK | ₹1.94 Cr - ₹3.00 Cr | Under Construction | `P52100032867` | https://propsmart.co.in/project/the-canary-sky-oasis |
 | THE BENCHMARK | Pimple Saudagar | Office | ₹79.00 L - ₹1.99 Cr | Under Construction | `P52100032247` | https://propsmart.co.in/project/the-benchmark |
-| Skyfinia Harivishva | Tathawade | 2 BHK, 3 BHK | ₹97.00 L - ₹1.25 Cr | Ready to Move | `P52100052385` | https://propsmart.co.in/project/skyfinia-harivishva |
+| Skyfinia Harivishva | Tathawade | 2 BHK, 3 BHK | ₹97.00 L - ₹1.25 Cr | Ready to Move | `P52100052386` | https://propsmart.co.in/project/skyfinia-harivishva |
 | The Corniche | Tathawade | Office | ₹1.00 Cr - ₹2.70 Cr | Under Construction | `P52100078126` | https://propsmart.co.in/project/the-corniche |
 | My Home Sanctuary | Mamurdi | 2 BHK, 3 BHK | ₹67.00 L - ₹86.00 L | Under Construction | `P52100032725` | https://propsmart.co.in/project/my-home-sanctuary |
 | Majestique Evolvus | Kharadi | 3 BHK, 4 BHK | ₹1.84 Cr - ₹2.85 Cr | Under Construction | `P52100054253` | https://propsmart.co.in/project/majestique-evolvus |
@@ -1049,18 +1049,18 @@ This document contains the complete, unabridged real estate database of verified
 | Westgate Business Park | Wakad | Shop | ₹1.99 Cr - ₹3.34 Cr | Under Construction | `P52100061605` | https://propsmart.co.in/project/westgate-business-park |
 | Commercial Merlin Elementa 2.0 Tathewade | Tathawade | Shop | ₹1.60 Cr - ₹5.50 Cr | Under Construction | `P52100050199` | https://propsmart.co.in/project/commercial-merlin-elementa-2-0-tathewade |
 | WYCE Exclucity | Bavdhan | 2 BHK, 3 BHK, 4 BHK | ₹1.11 Cr - ₹2.82 Cr | Under Construction | `P52100077762` | https://propsmart.co.in/project/wyce-exclucity |
-| Yashada N B Highstreet | Punawale | 2 BHK, 3 BHK, 4 BHK | ₹94.00 L - ₹1.99 Cr | New Launch | `P52100031027` | https://propsmart.co.in/project/yashada-n-b-highstreet |
+| Yashada N B Highstreet | Punawale | 2 BHK, 3 BHK, 4 BHK | ₹94.00 L - ₹1.99 Cr | New Launch | `P52100031030` | https://propsmart.co.in/project/yashada-n-b-highstreet |
 | Crestline Shreshth | Kiwale | 2 BHK, 3 BHK | ₹76.90 L - ₹1.02 Cr | Under Construction | `P52100061391` | https://propsmart.co.in/project/crestline-shreshth |
-| Gaikwad Florio | Punawale | 2 BHK, 3 BHK | ₹87.99 L - ₹1.16 Cr | Under Construction | `P52100061412` | https://propsmart.co.in/project/gaikwad-florio |
+| Gaikwad Florio | Punawale | 2 BHK, 3 BHK | ₹87.99 L - ₹1.16 Cr | Under Construction | `P52100051980` | https://propsmart.co.in/project/gaikwad-florio |
 | Esson Skyora | Bavdhan | 2 BHK, 3 BHK | ₹1.14 Cr - ₹1.72 Cr | Under Construction | `P52100031520` | https://propsmart.co.in/project/esson-skyora |
 | 10 Elite Akasa Chandrarang | Pimple Gurav | 2 BHK, 3 BHK, 4 BHK | ₹1.15 Cr - ₹2.30 Cr | Under Construction | `P52100077822` | https://propsmart.co.in/project/10-elite-akasa-chandrarang |
 | Five Oaks | Rahatani | 3 BHK, 4.5 BHK | ₹1.93 Cr - ₹3.88 Cr | Under Construction | `P52100060968` | https://propsmart.co.in/project/five-oaks |
 | Crystal Homes | Ravet | 2 BHK, 3 BHK | ₹75.00 L - ₹95.00 L | Under Construction | `P52100053027` | https://propsmart.co.in/project/crystal-homes |
-| Yoo Pristine High Street | Akurdi | Shop, Showroom | ₹1.99 Cr - ₹7.50 Cr | Under Construction | `P52100078555` | https://propsmart.co.in/project/yoo-pristine-high-street |
+| Yoo Pristine High Street | Akurdi | Shop, Showroom | ₹1.99 Cr - ₹7.50 Cr | Under Construction | `P52100078556` | https://propsmart.co.in/project/yoo-pristine-high-street |
 | Dolphin Palms | Ravet | 2 BHK, 3 BHK | ₹75.00 L - ₹88.00 L | Under Construction | `P52100055197` | https://propsmart.co.in/project/dolphin-palms |
 | Antalya Next | Tathawade | 2 BHK, 3 BHK, 4 BHK | ₹1.00 Cr - ₹1.82 Cr | Under Construction | `P52100066556` | https://propsmart.co.in/project/antalya-next |
 | Legacy Kairos | Rahatani | 2 BHK, 3 BHK, 3.5 BHK | ₹90.00 L - ₹1.75 Cr | Under Construction | `P52100047901` | https://propsmart.co.in/project/legacy-kairos |
-| Alacarte Homes | Hinjewadi | 2 BHK, 3 BHK | ₹99.00 L - ₹1.62 Cr | Under Construction | `P52100060728` | https://propsmart.co.in/project/alacarte-homes |
+| Alacarte Homes | Hinjewadi | 2 BHK, 3 BHK | ₹99.00 L - ₹1.62 Cr | Under Construction | `P52100060730` | https://propsmart.co.in/project/alacarte-homes |
 | Merlin Ventana Commercial | Baner | Office | ₹1.99 Cr - ₹14.66 Cr | Under Construction | `P52100053687` | https://propsmart.co.in/project/merlin-ventana-commercial |
 | Mantra Meridian | Balewadi | 2 BHK, 3 BHK, 4 BHK | ₹1.26 Cr - ₹2.99 Cr | Under Construction | `P52100045688` | https://propsmart.co.in/project/mantra-meridian |
 | Mantra Mistara | Baner | 2 BHK, 3 BHK | ₹74.00 L - ₹98.00 L | New Launch | `P52100060816` | https://propsmart.co.in/project/mantra-mistara |
@@ -1070,15 +1070,15 @@ This document contains the complete, unabridged real estate database of verified
 | Platinum Royale | Wakad | 1 BHK, 2 BHK | ₹75.00 L - ₹96.00 L | Under Construction | `P52100031950` | https://propsmart.co.in/project/platinum-royale |
 | Renuka Brzee | Ravet | 2 BHK, 3 BHK | ₹85.00 L - ₹1.15 Cr | Under Construction | `P52100061476` | https://propsmart.co.in/project/renuka-brzee |
 | Renuka Madhuban | Akurdi | 2 BHK | ₹79.00 L - ₹97.00 L | New Launch | `P52100079444` | https://propsmart.co.in/project/renuka-madhuban |
-| New Launch QUE 154 | Punawale | 2 BHK, 3 BHK | ₹86.00 L - ₹1.10 Cr | Under Construction | `P52100060298` | https://propsmart.co.in/project/new-launch-que-154 |
+| New Launch QUE 154 | Punawale | 2 BHK, 3 BHK | ₹86.00 L - ₹1.10 Cr | Under Construction | `P52100060299` | https://propsmart.co.in/project/new-launch-que-154 |
 | Sky Tower | Moshi | 3 BHK | ₹1.23 Cr - ₹1.43 Cr | Under Construction | `P52100051495` | https://propsmart.co.in/project/sky-tower |
 | Soham Raman Stellar | Tathawade | 2 BHK | ₹89.00 L | Under Construction | `P52100049189` | https://propsmart.co.in/project/soham-raman-stellar |
 | SKY STORIES | Ravet | 3 BHK | ₹1.00 Cr - ₹1.50 Cr | Under Construction | `P52100056202` | https://propsmart.co.in/project/sky-stories |
-| Nirman Drive | Tathawade | Shop | ₹36.00 L - ₹50.00 L | Under Construction | `P52100080004` | https://propsmart.co.in/project/nirman-drive |
+| Nirman Drive | Tathawade | Shop | ₹36.00 L - ₹50.00 L | Under Construction | `P52100080005` | https://propsmart.co.in/project/nirman-drive |
 | Sentosa Elite | Wakad | Office, Shop | ₹44.00 L - ₹1.57 Cr | Under Construction | `P52100052208` | https://propsmart.co.in/project/sentosa-elite |
 | Siddhashila Eevva | Punawale | 2 BHK, 3 BHK | ₹81.00 L - ₹1.15 Cr | Under Construction | `P52100063079` | https://propsmart.co.in/project/siddhashila-eevva |
 | Studio Codename EMI | Balewadi | Studio | ₹32.00 L - ₹36.00 L | Under Construction | `P52100077683` | https://propsmart.co.in/project/studio-codename-emi |
-| The skyLark | Kiwale | 2 BHK, 3 BHK | ₹64.00 L - ₹89.00 L | Under Construction | `P52100054899` | https://propsmart.co.in/project/the-skylark |
+| The skyLark | Kiwale | 2 BHK, 3 BHK | ₹64.00 L - ₹89.00 L | Under Construction | `P52100051120` | https://propsmart.co.in/project/the-skylark |
 | STAR SOLASTA | Ravet | 3 BHK | ₹99.65 L - ₹1.40 Cr | Under Construction | `P52100047215` | https://propsmart.co.in/project/star-solasta |
 | Muktai | Ravet | 2 BHK | ₹79.00 L - ₹88.00 L | Under Construction | `P52100054215` | https://propsmart.co.in/project/muktai |
 | Yashada Evo | Punawale | 2 BHK, 3 BHK, 4 BHK | ₹94.00 L - ₹2.00 Cr | New Launch | `P52100071492` | https://propsmart.co.in/project/yashada-evo |
@@ -1086,8 +1086,8 @@ This document contains the complete, unabridged real estate database of verified
 | Yoovie Homes | Baner | 5 BHK | ₹15.00 Cr | Under Construction | `P52100049608` | https://propsmart.co.in/project/yoovie-homes |
 | Rahul Altimus | Baner | Office, Shop | ₹1.00 Cr - ₹4.00 Cr | Under Construction | `P52100061180` | https://propsmart.co.in/project/rahul-altimus |
 | Neco Park Central | Kharadi | 2 BHK, 3 BHK, 3.5 BHK, 4 BHK | ₹1.19 Cr - ₹2.39 Cr | Under Construction | `P52100077542` | https://propsmart.co.in/project/neco-park-central |
-| Tej One Baner | Baner | Office | ₹2.00 Cr - ₹3.00 Cr | Under Construction | `P52100071416` | https://propsmart.co.in/project/tej-one |
-| VTP Flamante | Manjari Khurd | 2 BHK, 4 BHK | ₹1.30 Cr - ₹3.10 Cr | Under Construction | `P52100051826` | https://propsmart.co.in/project/vtp-flamante |
+| Tej One Baner | Baner | Office | ₹2.00 Cr - ₹3.00 Cr | Under Construction | `P52100054320` | https://propsmart.co.in/project/tej-one |
+| VTP Flamante | Manjari Khurd | 2 BHK, 4 BHK | ₹1.30 Cr - ₹3.10 Cr | Under Construction | `P52100052840` | https://propsmart.co.in/project/vtp-flamante |
 | PK Hillcrest | Pimple Saudagar | 3 BHK, 4 BHK | ₹85.00 L | Under Construction | `P52100045782` | https://propsmart.co.in/project/hill-crest |
 | Park Eden | Kharadi | 3 BHK, 4 BHK | ₹1.99 Cr - ₹3.33 Cr | Ready to Move | `P52100062005` | https://propsmart.co.in/project/park-eden |
 | VTP Velvet Villas | Manjari Khurd | 3 BHK, 5 BHK | ₹6.20 Cr - ₹10.75 Cr | Under Construction | `P52100031829` | https://propsmart.co.in/project/vtp-velvet-villas |
@@ -1123,7 +1123,7 @@ This document contains the complete, unabridged real estate database of verified
 | Paranjape Aspire | Andheri West | 1 BHK, 2 BHK, 3 BHK, 4 BHK | ₹1.68 Cr - ₹5.19 Cr | Under Construction | `P51800045731` | https://propsmart.co.in/project/paranjape-aspire-andheri |
 | Paranjape Opulus | Thane West | 2 BHK, 3 BHK, 4 BHK | ₹1.04 Cr - ₹2.26 Cr | Under Construction | `P51700022773` | https://propsmart.co.in/project/paranjape-opulus-thane |
 | Paranjape Shrivega | Shrivardhan-Diveagar | 1 BHK, 2 BHK | ₹45.00 L - ₹95.00 L | Under Construction | `P52000050339` | https://propsmart.co.in/project/paranjape-shrivega-coastal |
-| Paranjape Yuthika | Baner | 2 BHK, 3 BHK | ₹97.00 L - ₹1.94 Cr | Ready to Move | `P52100000035` | https://propsmart.co.in/project/paranjape-yuthika-baner |
+| Paranjape Yuthika | Baner | 2 BHK, 3 BHK | ₹97.00 L - ₹1.94 Cr | Ready to Move | `P52100000036` | https://propsmart.co.in/project/paranjape-yuthika-baner |
 | Paranjape Blue Ridge - Golf Island | Hinjewadi | 2 BHK, 3 BHK | ₹1.25 Cr - ₹2.10 Cr | Ready to Move | `P52100000055` | https://propsmart.co.in/project/paranjape-blue-ridge-golf-island |
 | Hiranandani Empress Hill | Powai | 3 BHK, 4 BHK | ₹5.94 Cr - ₹10.45 Cr | Under Construction | `P51800052633` | https://propsmart.co.in/project/hiranandani-empress-hill-powai |
 | Hiranandani Castle Rock | Powai | 2 BHK | ₹4.20 Cr - ₹4.85 Cr | Ready to Move | `P51800000408` | https://propsmart.co.in/project/hiranandani-castle-rock-powai |
@@ -1152,7 +1152,7 @@ This document contains the complete, unabridged real estate database of verified
 | ANP Autograph | Punawale | 2 BHK, 3 BHK, 4 BHK | ₹78.00 L - ₹2.10 Cr | Under Construction | `P52100051641` | https://propsmart.co.in/project/anp-autograph-punawale |
 | Rohan Abhilasha | Wagholi | 1 BHK, 2 BHK, 3 BHK | ₹45.00 L - ₹95.00 L | Ready to Move | `P52100000489` | https://propsmart.co.in/project/rohan-abhilasha-wagholi |
 | Oberoi Forestville | Kolshet Road | 3 BHK, 4 BHK | ₹1.95 Cr - ₹3.80 Cr | Under Construction | `P51700050312` | https://propsmart.co.in/project/oberoi-forestville-kolshet |
-| Lodha Amara | Kolshet Road | 1 BHK, 2 BHK, 3 BHK | ₹75.00 L - ₹2.25 Cr | Ready to Move | `P51700020088` | https://propsmart.co.in/project/lodha-amara-kolshet |
+| Lodha Amara | Kolshet Road | 1 BHK, 2 BHK, 3 BHK | ₹75.00 L - ₹2.25 Cr | Ready to Move | `P51700020119` | https://propsmart.co.in/project/lodha-amara-kolshet |
 | Raymond Ten X Habitat | Pokhran Road | 2 BHK | ₹1.25 Cr - ₹2.40 Cr | Under Construction | `P51700019265` | https://propsmart.co.in/project/raymond-tenx-habitat-thane |
 | The Address by GS | Pokhran Road | 3 BHK, 4 BHK, 5 BHK | ₹2.65 Cr - ₹5.40 Cr | Under Construction | `P51700030177` | https://propsmart.co.in/project/the-address-by-gs-thane |
 | Hiranandani Estate - Pelican & Falcon | Ghodbunder Road | 1 BHK, 2 BHK, 3 BHK | ₹92.00 L - ₹3.10 Cr | Ready to Move | `P51700000125` | https://propsmart.co.in/project/hiranandani-estate-pelican-thane |
@@ -1228,7 +1228,7 @@ This document contains the complete, unabridged real estate database of verified
 | Yashwin Sukham | Warje | 2 BHK, 3 BHK | ₹62.00 L - ₹1.05 Cr | Under Construction | `P52100030219` | https://propsmart.co.in/project/yashwin-sukham-warje-pune |
 | VJ Downtown | Wakad | 2 BHK, 3 BHK, 4 BHK | ₹88.00 L - ₹1.75 Cr | Under Construction | `P52100034500` | https://propsmart.co.in/project/vj-downtown-wakad-pune |
 | Yashwin Nuovo Centro | Wakad | 2 BHK, 3 BHK | ₹75.00 L - ₹1.30 Cr | Under Construction | `P52100021890` | https://propsmart.co.in/project/yashwin-nuovo-centro-wakad-pune |
-| Yashwin Hinjawadi | Hinjewadi | 2 BHK, 3 BHK | ₹52.00 L - ₹98.00 L | Ready to Move | `P52100000412` | https://propsmart.co.in/project/yashwin-hinjawadi-phase-2-pune |
+| Yashwin Hinjawadi | Hinjewadi | 2 BHK, 3 BHK | ₹52.00 L - ₹98.00 L | Ready to Move | `P52100000242` | https://propsmart.co.in/project/yashwin-hinjawadi-phase-2-pune |
 | Runwal Forests | Kanjurmarg | 1.5 BHK, 2 BHK, 3 BHK | ₹1.45 Cr - ₹2.85 Cr | Ready to Move | `P51800000818` | https://propsmart.co.in/project/runwal-forests-kanjurmarg |
 | Runwal Avenue | Kanjurmarg | 1 BHK, 2 BHK | ₹98.00 L - ₹1.85 Cr | Under Construction | `P51800026860` | https://propsmart.co.in/project/runwal-avenue-kanjurmarg |
 | Runwal Pinnacle | Mulund West | 2 BHK, 2.5 BHK, 3 BHK | ₹1.85 Cr - ₹3.65 Cr | Under Construction | `P51800021322` | https://propsmart.co.in/project/runwal-pinnacle-mulund |
@@ -1282,7 +1282,7 @@ This document contains the complete, unabridged real estate database of verified
 | Ashok Astoria | Hinjewadi | 2 BHK, 3 BHK | ₹75.00 L - ₹1.35 Cr | Ready to Move | `P52100001045` | https://propsmart.co.in/project/ashok-astoria |
 | Peninsula Address One | Gahunje | 1 BHK, 2 BHK, 3 BHK | ₹38.00 L - ₹85.00 L | Under Construction | `P52100019561` | https://propsmart.co.in/project/peninsula-address-one |
 | Peninsula Address One Phase 2 | Gahunje | 1 BHK, 2 BHK, 3 BHK | ₹42.00 L - ₹95.00 L | Under Construction | `P52100026789` | https://propsmart.co.in/project/peninsula-address-one-phase-2 |
-| Peninsula Ashok Nirvaan | Khandala | 3 BHK Villa, 4 BHK Villa, 5 BHK Villa | ₹4.50 Cr - ₹9.80 Cr | Ready to Move | `P52100000781` | https://propsmart.co.in/project/peninsula-ashok-nirvaan |
+| Peninsula Ashok Nirvaan | Khandala | 3 BHK Villa, 4 BHK Villa, 5 BHK Villa | ₹4.50 Cr - ₹9.80 Cr | Ready to Move | `P52000001420` | https://propsmart.co.in/project/peninsula-ashok-nirvaan |
 | Peninsula Valley Vista | Khandala | 3 BHK, 4 BHK | ₹2.80 Cr - ₹5.40 Cr | Under Construction | `P52100015421` | https://propsmart.co.in/project/peninsula-valley-vista |
 | Peninsula Alibaug Coastal Estates | Mandwa Jetty Corridor | 3 BHK Villa, 4 BHK Villa | ₹3.50 Cr - ₹8.50 Cr | Under Construction | `P52000034125` | https://propsmart.co.in/project/peninsula-alibaug-coastal |
 | Peninsula Palm Grove Villas | Awas Beach | 3 BHK Villa, 4 BHK Villa | ₹4.20 Cr - ₹9.20 Cr | Under Construction | `P52000045129` | https://propsmart.co.in/project/peninsula-palm-grove |
@@ -1303,16 +1303,16 @@ This document contains the complete, unabridged real estate database of verified
 | Supreme Lonavala Cloud Estates | Kunegaon | 3 BHK Villa, 4 BHK Villa | ₹3.40 Cr - ₹7.50 Cr | Under Construction | `P52100039812` | https://propsmart.co.in/project/supreme-lonavala-cloud |
 | Sobha Sahyadri Whispers | Khandala | 3 BHK Villa, 4 BHK Villa, 5 BHK Villa | ₹4.20 Cr - ₹9.50 Cr | Under Construction | `P52100041289` | https://propsmart.co.in/project/sobha-sahyadri-whispers |
 | Godrej Retreat Karjat | Chowk | Resort Plot, Villa Plot, Estate Plot | ₹75.00 L - ₹1.95 Cr | Under Construction | `P52000049123` | https://propsmart.co.in/project/godrej-retreat-karjat |
-| Godrej Hillside Reserve Karjat | Karjat-Neral Foothills | Plotted Villa Land, Hill View Plot | ₹68.00 L - ₹1.60 Cr | Under Construction | `P52000052341` | https://propsmart.co.in/project/godrej-hillside-reserve-karjat |
+| Godrej Hillside Reserve Karjat | Karjat-Neral Foothills | Plotted Villa Land, Hill View Plot | ₹68.00 L - ₹1.60 Cr | Under Construction | `P52000053420` | https://propsmart.co.in/project/godrej-hillside-reserve-karjat |
 | Wadhwa Wise City Karjat Corridor | Chowk | 1 BHK, 2 BHK, Townhouse | ₹38.00 L - ₹85.00 L | Under Construction | `P52000019234` | https://propsmart.co.in/project/wadhwa-wise-city-karjat |
 | Wadhwa Magnolia Villas Karjat | Chowk | 3 BHK Villa, 4 BHK Villa | ₹1.10 Cr - ₹2.40 Cr | Under Construction | `P52000028912` | https://propsmart.co.in/project/wadhwa-magnolia-villas-karjat |
 | Pushpam Sanskruti Resort Homes | Karjat Central | 1 BHK Villa Suite, 2 BHK Villa | ₹45.00 L - ₹1.25 Cr | Ready to Move | `P52000018912` | https://propsmart.co.in/project/pushpam-sanskruti-karjat |
-| Usha Breco Karjat Hill View | Kashele | 2 BHK Villa, 3 BHK Villa, Plotted Land | ₹52.00 L - ₹1.45 Cr | Under Construction | `P52000031245` | https://propsmart.co.in/project/usha-breco-karjat-hillview |
+| Usha Breco Karjat Hill View | Kashele | 2 BHK Villa, 3 BHK Villa, Plotted Land | ₹52.00 L - ₹1.45 Cr | Under Construction | `P52000038910` | https://propsmart.co.in/project/usha-breco-karjat-hillview |
 | Nirvana Riverwoods Villas | Karjat Central | 2 BHK Villa, 3 BHK Villa | ₹72.00 L - ₹1.85 Cr | Ready to Move | `P52000024512` | https://propsmart.co.in/project/nirvana-riverwoods-karjat |
 | Penta Karjat Green Valley | Karjat-Neral Foothills | 1 BHK, 2 BHK, Villa Plot | ₹32.00 L - ₹75.00 L | Under Construction | `P52000036789` | https://propsmart.co.in/project/penta-karjat-green-valley |
 | Xrbia Karjat Riverfront | Vavanje | 1 RK, 1 BHK, 2 BHK | ₹24.00 L - ₹48.00 L | Ready to Move | `P52000015612` | https://propsmart.co.in/project/xrbia-karjat-riverfront |
 | Hiranandani Karjat Fortune City Link | Chowk | 1 BHK, 2 BHK, 3 BHK | ₹65.00 L - ₹1.80 Cr | Under Construction | `P52000041289` | https://propsmart.co.in/project/hiranandani-karjat-fortune |
-| Rohan Karjat Country Homes | Kashele | 2 BHK Villa, 3 BHK Villa | ₹58.00 L - ₹1.40 Cr | Under Construction | `P52000048912` | https://propsmart.co.in/project/rohan-karjat-country-homes |
+| Rohan Karjat Country Homes | Kashele | 2 BHK Villa, 3 BHK Villa | ₹58.00 L - ₹1.40 Cr | Under Construction | `P52000051280` | https://propsmart.co.in/project/rohan-karjat-country-homes |
 | Runwal Karjat Bliss | Karjat Central | 1 BHK, 2 BHK | ₹35.00 L - ₹78.00 L | Under Construction | `P52000035612` | https://propsmart.co.in/project/runwal-karjat-bliss |
 | Lodha Karjat Crown Estates | Chowk | Villa Plot, Estate Plot, 3 BHK Villa | ₹85.00 L - ₹2.25 Cr | Under Construction | `P52000054129` | https://propsmart.co.in/project/lodha-karjat-crown-estates |
 | Supreme ArtHouse | Bandra West | 4 BHK, 5 BHK | ₹18.50 Cr - ₹32.00 Cr | Under Construction | `P51800034891` | https://propsmart.co.in/project/supreme-arthouse-bandra |
@@ -1351,13 +1351,13 @@ This document contains the complete, unabridged real estate database of verified
 | 7 Mahalaxmi by Runwal | Mahalaxmi | 2 BHK, 3 BHK, 4 BHK | ₹4.85 Cr - ₹12.50 Cr | Under Construction | `P51900079270` | https://propsmart.co.in/project/7-mahalaxmi-by-runwal |
 | Runwal Parkside | Kanjurmarg East | 1.5 BHK, 2 BHK, 3 BHK | ₹1.25 Cr - ₹2.40 Cr | Under Construction | `P51800050459` | https://propsmart.co.in/project/runwal-parkside-kanjurmarg |
 | Runwal Woods | Chembur | 2 BHK, 2.5 BHK, 3 BHK | ₹1.85 Cr - ₹3.60 Cr | New Launch | `P51800053733` | https://propsmart.co.in/project/runwal-woods-chembur |
-| Runwal Meadows | Kanjurmarg East | 2 BHK, 3 BHK, 4 BHK | ₹1.95 Cr - ₹4.10 Cr | Under Construction | `P51800052633` | https://propsmart.co.in/project/runwal-meadows-kanjurmarg |
+| Runwal Meadows | Kanjurmarg East | 2 BHK, 3 BHK, 4 BHK | ₹1.95 Cr - ₹4.10 Cr | Under Construction | `P51800000854` | https://propsmart.co.in/project/runwal-meadows-kanjurmarg |
 | Runwal Ivory | Mulund West | 3 BHK, 4 BHK | ₹2.65 Cr - ₹5.40 Cr | Under Construction | `P51800034608` | https://propsmart.co.in/project/runwal-ivory-mulund |
-| Runwal BKC | Bandra Kurla Complex | Boutique Offices, Corporate Headquarters, Commercial Suites | ₹3.50 Cr - ₹25.00 Cr | Under Construction | `P51800022415` | https://propsmart.co.in/project/runwal-bkc-commercial |
-| Runwal Commerz | Kanjurmarg West | Commercial Offices, Doctor Clinics, Consulting Suites | ₹1.10 Cr - ₹8.50 Cr | Ready To Move | `P51800023608` | https://propsmart.co.in/project/runwal-commerz-kanjurmarg |
-| Runwal Greens | Mulund West | 2 BHK, 3 BHK, 4 BHK | ₹2.20 Cr - ₹5.80 Cr | Ready To Move | `P51800000341` | https://propsmart.co.in/project/runwal-greens-mulund |
-| Runwal Reserve | Worli | 3 BHK, 4 BHK, 5 BHK Duplex | ₹7.50 Cr - ₹22.00 Cr | Under Construction | `P51900000287` | https://propsmart.co.in/project/runwal-reserve-worli |
-| R Mall by Runwal | Mulund West | Retail Shops, F&B Anchor Stores, Showrooms | ₹1.50 Cr - ₹15.00 Cr | Ready To Move | `P51800000490` | https://propsmart.co.in/project/r-mall-by-runwal-mulund |
+| Runwal BKC | Bandra Kurla Complex | Boutique Offices, Corporate Headquarters, Commercial Suites | ₹3.50 Cr - ₹25.00 Cr | Under Construction | `P51800026194` | https://propsmart.co.in/project/runwal-bkc-commercial |
+| Runwal Commerz | Kanjurmarg West | Commercial Offices, Doctor Clinics, Consulting Suites | ₹1.10 Cr - ₹8.50 Cr | Ready To Move | `P51800027693` | https://propsmart.co.in/project/runwal-commerz-kanjurmarg |
+| Runwal Greens | Mulund West | 2 BHK, 3 BHK, 4 BHK | ₹2.20 Cr - ₹5.80 Cr | Ready To Move | `P51800000175` | https://propsmart.co.in/project/runwal-greens-mulund |
+| Runwal Reserve | Worli | 3 BHK, 4 BHK, 5 BHK Duplex | ₹7.50 Cr - ₹22.00 Cr | Under Construction | `P51900000318` | https://propsmart.co.in/project/runwal-reserve-worli |
+| R Mall by Runwal | Mulund West | Retail Shops, F&B Anchor Stores, Showrooms | ₹1.50 Cr - ₹15.00 Cr | Ready To Move | `P51800000624` | https://propsmart.co.in/project/r-mall-by-runwal-mulund |
 | Runwal Malabar | Malabar Hill | 4 BHK, 5 BHK, Signature Penthouse | ₹18.00 Cr - ₹45.00 Cr | Under Construction | `P51900035190` | https://propsmart.co.in/project/runwal-malabar-hill |
 | Runwal Raaya | Worli | 3 BHK, 4 BHK, 5 BHK | ₹8.90 Cr - ₹24.00 Cr | Under Construction | `P51900080218` | https://propsmart.co.in/project/runwal-raaya-worli |
 | Runwal Rare | Andheri West | 2 BHK, 3 BHK | ₹2.45 Cr - ₹4.80 Cr | Under Construction | `P51800034594` | https://propsmart.co.in/project/runwal-rare-andheri |
@@ -1365,10 +1365,10 @@ This document contains the complete, unabridged real estate database of verified
 | Runwal Zenith | Balkum | 2 BHK, 3 BHK | ₹88.00 L - ₹1.85 Cr | Under Construction | `P51700046734` | https://propsmart.co.in/project/runwal-zenith-thane |
 | Runwal Lands End | Kolshet | 1 BHK, 2 BHK, 3 BHK | ₹75.00 L - ₹1.70 Cr | Under Construction | `P51700033799` | https://propsmart.co.in/project/runwal-lands-end-thane |
 | Runwal One | Majiwada | 2 BHK, 3 BHK, 4 BHK | ₹1.35 Cr - ₹3.10 Cr | Under Construction | `P51700053696` | https://propsmart.co.in/project/runwal-one-thane |
-| R Square Mulund | Mulund West | Boutique Offices, Corporate Suites, Retail Showrooms | ₹95.00 L - ₹6.50 Cr | Ready To Move | `P51800021450` | https://propsmart.co.in/project/r-square-mulund |
-| R Square Andheri | Andheri East | Grade-A Offices, IT Workspaces, Corporate Suites | ₹1.45 Cr - ₹9.80 Cr | Ready To Move | `P51800021980` | https://propsmart.co.in/project/r-square-andheri |
-| The Residence by Runwal | Napean Sea Road | 4 BHK, 5 BHK Duplex | ₹25.00 Cr - ₹65.00 Cr | Ready To Move | `P51900008345` | https://propsmart.co.in/project/the-residence-napean-sea-road |
-| Runwal Elina | Andheri East | 2 BHK, 3 BHK | ₹1.40 Cr - ₹2.80 Cr | Ready To Move | `P51800001433` | https://propsmart.co.in/project/runwal-elina-sakinaka |
-| Runwal Orchard Residency | Ghatkopar West | 2 BHK, 3 BHK | ₹1.55 Cr - ₹3.20 Cr | Ready To Move | `P51800001443` | https://propsmart.co.in/project/runwal-orchard-residency-ghatkopar |
-| Runwal Eirene | Balkum | 2 BHK, 2.5 BHK, 3 BHK | ₹82.00 L - ₹1.75 Cr | Ready To Move | `P51700000125` | https://propsmart.co.in/project/runwal-eirene-thane |
+| R Square Mulund | Mulund West | Boutique Offices, Corporate Suites, Retail Showrooms | ₹95.00 L - ₹6.50 Cr | Ready To Move | `P51800022180` | https://propsmart.co.in/project/r-square-mulund |
+| R Square Andheri | Andheri East | Grade-A Offices, IT Workspaces, Corporate Suites | ₹1.45 Cr - ₹9.80 Cr | Ready To Move | `P51800023190` | https://propsmart.co.in/project/r-square-andheri |
+| The Residence by Runwal | Napean Sea Road | 4 BHK, 5 BHK Duplex | ₹25.00 Cr - ₹65.00 Cr | Ready To Move | `P51900000192` | https://propsmart.co.in/project/the-residence-napean-sea-road |
+| Runwal Elina | Andheri East | 2 BHK, 3 BHK | ₹1.40 Cr - ₹2.80 Cr | Ready To Move | `P51800002143` | https://propsmart.co.in/project/runwal-elina-sakinaka |
+| Runwal Orchard Residency | Ghatkopar West | 2 BHK, 3 BHK | ₹1.55 Cr - ₹3.20 Cr | Ready To Move | `P51800000215` | https://propsmart.co.in/project/runwal-orchard-residency-ghatkopar |
+| Runwal Eirene | Balkum | 2 BHK, 2.5 BHK, 3 BHK | ₹82.00 L - ₹1.75 Cr | Ready To Move | `P51700004515` | https://propsmart.co.in/project/runwal-eirene-thane |
 | Runwal The Central Park | Pimpri-Chinchwad | 2 BHK, 3 BHK, 4 BHK | ₹72.00 L - ₹1.55 Cr | Under Construction | `P52100032101` | https://propsmart.co.in/project/runwal-the-central-park-pune |

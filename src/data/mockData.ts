@@ -11352,25 +11352,25 @@ export const PROJECTS: Project[] = [
       }
     ],
     "highlights": [
-      "MahaRERA: P52100052298",
+      "MahaRERA: P52100053912",
       "Balewadi Prime High-Growth Location",
       "Signature PLUS Home Design"
     ],
-    "reraId": "P52100052298",
+    "reraId": "P52100053912",
     "pricePerSqft": 14800,
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100052298",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100053912",
     "seoKeywords": [
       "Rohan Ekam Balewadi",
       "Rohan Ekam Pune price",
       "Rohan Ekam floor plan",
-      "Rohan Ekam MahaRERA P52100052298",
+      "Rohan Ekam MahaRERA P52100053912",
       "Rohan Builders projects in Balewadi",
       "flats in Balewadi Pune",
       "buy 2 BHK in Balewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Rohan Ekam, Balewadi Pune by Rohan Builders. Price starts ₹1.18 Cr. 100% Zero Brokerage. Verified MahaRERA P52100052298. Floor plans & brochure.",
+    "metaDescription": "Buy 2 BHK in Rohan Ekam, Balewadi Pune by Rohan Builders. Price starts ₹1.18 Cr. 100% Zero Brokerage. Verified MahaRERA P52100053912. Floor plans & brochure.",
     "advancedConfigurations": [
       {
         "id": "cfg-rohan-ekam-1",
@@ -11436,7 +11436,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the RERA number of Rohan Ekam Balewadi?",
-        "answer": "The RERA registration number of Rohan Ekam Balewadi is P52100052298."
+        "answer": "The RERA registration number of Rohan Ekam Balewadi is P52100053912."
       },
       {
         "question": "When is the possession of Rohan Ekam Balewadi?",
@@ -13759,7 +13759,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/ImDiujOwFBjJL4Fonv1zzS6x5tRznB71FrHLlhmt.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Re1pQnaMMOCbS4ph0DQTOvgYzMeNJKjA3J8utYWQ.webp"
     ],
-    "description": "Gera Hinjewadi Phase 3 – 0 by Gera Developments represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹83.40 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Swimming Pool. Verified under MahaRERA registration P52100077635, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Gera Hinjewadi Phase 3 – 0 by Gera Developments represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural light and cross ventilation.\n\nStarting from ₹83.40 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area, Swimming Pool. Verified under MahaRERA registration P52100050873, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
     "features": [
       "Club house",
       "Fitness Corner",
@@ -13812,24 +13812,24 @@ export const PROJECTS: Project[] = [
     "highlights": [
       "100% Zero Brokerage through Propsmart Realty authorized direct builder partner",
       "Prime connectivity in Hinjewadi near Metro station and IT corridors",
-      "Official MahaRERA verified project P52100077635",
+      "Official MahaRERA verified project P52100050873",
       "Allotment directly from Gera Developments developer inventory"
     ],
-    "reraId": "P52100077635",
+    "reraId": "P52100050873",
     "pricePerSqft": 11200,
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100077635",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100050873",
     "seoKeywords": [
       "Gera Hinjewadi Phase 3 – 0 Hinjewadi",
       "Gera Hinjewadi Phase 3 – 0 Pune price",
       "Gera Hinjewadi Phase 3 – 0 floor plan",
-      "Gera Hinjewadi Phase 3 – 0 MahaRERA P52100077635",
+      "Gera Hinjewadi Phase 3 – 0 MahaRERA P52100050873",
       "Gera Developments projects in Hinjewadi",
       "flats in Hinjewadi Pune",
       "buy 2 BHK in Hinjewadi",
       "zero brokerage property Pune"
     ],
-    "metaDescription": "Buy 2 BHK in Gera Hinjewadi Phase 3 – 0, Hinjewadi Pune by Gera Developments. Price starts ₹83.40 L. 100% Zero Brokerage. Verified MahaRERA P52100077635. Floor ",
+    "metaDescription": "Buy 2 BHK in Gera Hinjewadi Phase 3 – 0, Hinjewadi Pune by Gera Developments. Price starts ₹83.40 L. 100% Zero Brokerage. Verified MahaRERA P52100050873. Floor ",
     "advancedConfigurations": [
       {
         "id": "cfg-gera-hinjewadi-phase-3-1",
@@ -13911,7 +13911,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the RERA number of Gera Hinjewadi Phase 3 – 0?",
-        "answer": "The RERA registration number of Gera Hinjewadi Phase 3 – 0 is P52100077635."
+        "answer": "The RERA registration number of Gera Hinjewadi Phase 3 – 0 is P52100050873."
       },
       {
         "question": "When is the possession of Gera Hinjewadi Phase 3 – 0?",
@@ -42700,7 +42700,7 @@ export const PROJECTS: Project[] = [
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/1676437291336779625.jpg",
       "https://keystoneliv.com/public/uploads/property/hgiRTenojaVcHglxBXqRVHfjihUs6wuNa8Yl46OW.png"
     ],
-    "description": "Shree Shivtirth by Ranade Realtors is a premium residential development situated in the strategic corridor of Erandwane, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100018590 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
+    "description": "Shree Shivtirth by Ranade Realtors is a premium residential development situated in the strategic corridor of Erandwane, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100022145 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
       "Designer Clubhouse",
       "Infinity Swimming Pool",
@@ -42744,12 +42744,12 @@ export const PROJECTS: Project[] = [
     "highlights": [
       "Zero Brokerage direct developer pricing starting from ₹1.45 Cr",
       "Strategically located in Erandwane with seamless transit connectivity",
-      "Official MahaRERA approved (P52100018590) with assured on-time delivery"
+      "Official MahaRERA approved (P52100022145) with assured on-time delivery"
     ],
-    "reraId": "P52100018590",
+    "reraId": "P52100022145",
     "pricePerSqft": 15800,
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100018590",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100022145",
     "seoKeywords": [
       "Shree Shivtirth",
       "Shree Shivtirth Erandwane",
@@ -42783,7 +42783,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Shree Shivtirth MahaRERA approved?",
-        "answer": "Yes, Shree Shivtirth is officially registered under MahaRERA with registration number P52100018590. All approvals and certificates are verified."
+        "answer": "Yes, Shree Shivtirth is officially registered under MahaRERA with registration number P52100022145. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Shree Shivtirth?",
@@ -45900,7 +45900,7 @@ export const PROJECTS: Project[] = [
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1774542867166283317.jpg",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/Oz85QLYWtUPkHjRU5N2NHLOOg2Z4WBzI9bJT6qeD.webp"
     ],
-    "description": "Pristine Allure by Pristine Properties is a premium residential development situated in the strategic corridor of Kharadi, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100029871 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
+    "description": "Pristine Allure by Pristine Properties is a premium residential development situated in the strategic corridor of Kharadi, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100030198 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
       "Designer Clubhouse",
       "Infinity Swimming Pool",
@@ -45944,12 +45944,12 @@ export const PROJECTS: Project[] = [
     "highlights": [
       "Zero Brokerage direct developer pricing starting from ₹1.01 Cr",
       "Strategically located in Kharadi with seamless transit connectivity",
-      "Official MahaRERA approved (P52100029871) with assured on-time delivery"
+      "Official MahaRERA approved (P52100030198) with assured on-time delivery"
     ],
-    "reraId": "P52100029871",
+    "reraId": "P52100030198",
     "pricePerSqft": 11000,
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100029871",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100030198",
     "seoKeywords": [
       "Pristine Allure",
       "Pristine Allure Kharadi",
@@ -45983,7 +45983,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Pristine Allure MahaRERA approved?",
-        "answer": "Yes, Pristine Allure is officially registered under MahaRERA with registration number P52100029871. All approvals and certificates are verified."
+        "answer": "Yes, Pristine Allure is officially registered under MahaRERA with registration number P52100030198. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Pristine Allure?",
@@ -46328,7 +46328,7 @@ export const PROJECTS: Project[] = [
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/17745428111780275412.jpg",
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/16764376722054414457.jpg"
     ],
-    "description": "Infini Jagtap City by Infini Realty is a premium residential development situated in the strategic corridor of Charholi Budruk, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100028741 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
+    "description": "Infini Jagtap City by Infini Realty is a premium residential development situated in the strategic corridor of Charholi Budruk, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100031893 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
     "features": [
       "Designer Clubhouse",
       "Infinity Swimming Pool",
@@ -46372,12 +46372,12 @@ export const PROJECTS: Project[] = [
     "highlights": [
       "Zero Brokerage direct developer pricing starting from ₹66.60 L",
       "Strategically located in Charholi Budruk with seamless transit connectivity",
-      "Official MahaRERA approved (P52100028741) with assured on-time delivery"
+      "Official MahaRERA approved (P52100031893) with assured on-time delivery"
     ],
-    "reraId": "P52100028741",
+    "reraId": "P52100031893",
     "pricePerSqft": 6500,
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100028741",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100031893",
     "seoKeywords": [
       "Infini Jagtap City",
       "Infini Jagtap City Charholi Budruk",
@@ -46411,7 +46411,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Infini Jagtap City MahaRERA approved?",
-        "answer": "Yes, Infini Jagtap City is officially registered under MahaRERA with registration number P52100028741. All approvals and certificates are verified."
+        "answer": "Yes, Infini Jagtap City is officially registered under MahaRERA with registration number P52100031893. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Infini Jagtap City?",
@@ -49518,7 +49518,7 @@ export const PROJECTS: Project[] = [
         "value": "1,062 - 1,741 sq.ft"
       }
     ],
-    "reraId": "P52100030065",
+    "reraId": "P52100049211",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/hgiRTenojaVcHglxBXqRVHfjihUs6wuNa8Yl46OW.png",
@@ -49575,7 +49575,7 @@ export const PROJECTS: Project[] = [
       "24x7 Security",
       "Landscaped Garden"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100030065"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100049211"
   },
   {
     "id": "p-zenone",
@@ -50223,7 +50223,7 @@ export const PROJECTS: Project[] = [
         "value": "579 sq.ft"
       }
     ],
-    "reraId": "P52100060965",
+    "reraId": "P52100060966",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
@@ -50267,7 +50267,7 @@ export const PROJECTS: Project[] = [
     "amenities": [
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060965"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060966"
   },
   {
     "id": "p-aspire-puravankara",
@@ -51756,12 +51756,12 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/5709b783-9c9c-4c60-b4ed-4cef6de35826/gallery/mvwi01li-a6o1fg.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/5709b783-9c9c-4c60-b4ed-4cef6de35826/gallery/mvwi01n4-6caiqq.webp"
     ],
-    "description": "Tulip Infinity Evana Commercial is the shops-and-offices part of Tulip Infinity Evana at Rasikwadi, Punawale, Pune, by Varma Corp (the new name of the Tulip Group) with S.M. Group. It fills the podium along the project's main-road frontage, under the same MahaRERA registration, P52100078470, with a completion date of 30 October 2029, and sits about 200 metres from the Mumbai-Bengaluru highway service road near the Pawana river bridge at Ravet. The ground floor has 36 shops in an L-shape along two roads, each with a mezzanine above it and a 1-metre walkway in front. Shops on offer in October 2026 measure 369 to 1,652 sq ft of carpet area, counting the mezzanine. Floors one to four hold offices of 205 to 1,517 sq ft carpet with glazed fronts, a commercial lobby, three lifts and common washrooms on each floor, and most offices have their own toilet. The developer quotes about ₹35,000 per sq ft for shops and ₹10,000 to ₹14,000 per sq ft for offices, on carpet area and plus taxes, so a 369 sq ft shop starts at about ₹1.29 Cr and a 205 sq ft office at about ₹20.5 lakh before GST and stamp duty. The homes in the four towers above are listed separately as Tulip Infinity Evana.",
+    "description": "Tulip Infinity Evana Commercial is the shops-and-offices part of Tulip Infinity Evana at Rasikwadi, Punawale, Pune, by Varma Corp (the new name of the Tulip Group) with S.M. Group. It fills the podium along the project's main-road frontage, under the same MahaRERA registration, P52100078471, with a completion date of 30 October 2029, and sits about 200 metres from the Mumbai-Bengaluru highway service road near the Pawana river bridge at Ravet. The ground floor has 36 shops in an L-shape along two roads, each with a mezzanine above it and a 1-metre walkway in front. Shops on offer in October 2026 measure 369 to 1,652 sq ft of carpet area, counting the mezzanine. Floors one to four hold offices of 205 to 1,517 sq ft carpet with glazed fronts, a commercial lobby, three lifts and common washrooms on each floor, and most offices have their own toilet. The developer quotes about ₹35,000 per sq ft for shops and ₹10,000 to ₹14,000 per sq ft for offices, on carpet area and plus taxes, so a 369 sq ft shop starts at about ₹1.29 Cr and a 205 sq ft office at about ₹20.5 lakh before GST and stamp duty. The homes in the four towers above are listed separately as Tulip Infinity Evana.",
     "features": [
       "Covered Parking"
     ],
     "highlights": [
-      "MahaRERA: P52100078470",
+      "MahaRERA: P52100078471",
       "0% Brokerage & Direct Builder Booking",
       "Punawale Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -51796,7 +51796,7 @@ export const PROJECTS: Project[] = [
         "value": "584 - 599 sq.ft"
       }
     ],
-    "reraId": "P52100078470",
+    "reraId": "P52100078471",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
@@ -51833,7 +51833,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Tulip Infinity Evana Commercial MahaRERA approved?",
-        "answer": "Yes, Tulip Infinity Evana Commercial is officially registered under MahaRERA with registration number P52100078470. All approvals and certificates are verified."
+        "answer": "Yes, Tulip Infinity Evana Commercial is officially registered under MahaRERA with registration number P52100078471. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Tulip Infinity Evana Commercial?",
@@ -51846,7 +51846,7 @@ export const PROJECTS: Project[] = [
     "amenities": [
       "Covered Parking"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100078470"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100078471"
   },
   {
     "id": "p-vitthal-nirvana",
@@ -53380,7 +53380,7 @@ export const PROJECTS: Project[] = [
         "value": "630 - 714 sq.ft"
       }
     ],
-    "reraId": "P52100060653",
+    "reraId": "P52100060654",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp",
@@ -53431,7 +53431,7 @@ export const PROJECTS: Project[] = [
       "CCTV Surveillance",
       "Rainwater Harvesting"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060653"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060654"
   },
   {
     "id": "p-que-101",
@@ -54555,7 +54555,7 @@ export const PROJECTS: Project[] = [
         "value": "728 - 1,019 sq.ft"
       }
     ],
-    "reraId": "P52100030007",
+    "reraId": "P52100030008",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
@@ -54605,7 +54605,7 @@ export const PROJECTS: Project[] = [
       "Covered Parking",
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100030007"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100030008"
   },
   {
     "id": "p-luxton-by-saheel-commercial",
@@ -54678,7 +54678,7 @@ export const PROJECTS: Project[] = [
         "value": "556 - 724 sq.ft"
       }
     ],
-    "reraId": "P52100062043",
+    "reraId": "P52100062044",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-euphoria-kharadi-pune/Euphoria_Master_Plan_9c82613d4b.webp",
@@ -54738,7 +54738,7 @@ export const PROJECTS: Project[] = [
       "Landscaped Garden",
       "Kids' Play Area"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100062043"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100062044"
   },
   {
     "id": "p-arkaa-galaxy",
@@ -54937,7 +54937,7 @@ export const PROJECTS: Project[] = [
         "value": "689 - 737 sq.ft"
       }
     ],
-    "reraId": "P52100060416",
+    "reraId": "P52100060417",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "/images/projects/anp-universe/master-layout.webp",
@@ -54987,7 +54987,7 @@ export const PROJECTS: Project[] = [
     "amenities": [
       "Covered Parking"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060416"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060417"
   },
   {
     "id": "p-serenopolis",
@@ -55190,7 +55190,7 @@ export const PROJECTS: Project[] = [
         "value": "623 - 697 sq.ft"
       }
     ],
-    "reraId": "P52100020510",
+    "reraId": "P52100020511",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/1hrp8Z2H37hCLmuwIlHXP5eaxifc5wiCotUH5cVM.webp",
@@ -55240,7 +55240,7 @@ export const PROJECTS: Project[] = [
     "amenities": [
       "Covered Parking"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100020510"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100020511"
   },
   {
     "id": "p-ace-ayodhya",
@@ -56230,7 +56230,7 @@ export const PROJECTS: Project[] = [
         "value": "1,077 - 1,821 sq.ft"
       }
     ],
-    "reraId": "P52100062183",
+    "reraId": "P52100062184",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nmPzChK44V7G0iiNdq6UHi8c9Yqa7WJWDA6qDGUb.webp",
@@ -56287,7 +56287,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100062183"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100062184"
   },
   {
     "id": "p-excellaa-polaris",
@@ -60094,7 +60094,7 @@ export const PROJECTS: Project[] = [
         "value": "734 - 1,020 sq.ft"
       }
     ],
-    "reraId": "P52100022057",
+    "reraId": "P52100022059",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/c5iyPCgaCqPe2H7UgjtMuIlxz0gkapjWv7U5nlzE.webp",
@@ -60151,7 +60151,7 @@ export const PROJECTS: Project[] = [
       "24x7 Security",
       "Covered Parking"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100022057"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100022059"
   },
   {
     "id": "p-kings-grace",
@@ -61030,7 +61030,7 @@ export const PROJECTS: Project[] = [
         "value": "738 - 1,032 sq.ft"
       }
     ],
-    "reraId": "P52100062389",
+    "reraId": "P52100053412",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/vX15hcMcA7HmLsjKOvGMFWIWDMSWoPEmMPAAVkXy.webp",
@@ -61087,7 +61087,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100062389"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100053412"
   },
   {
     "id": "p-the-vibe",
@@ -63118,7 +63118,7 @@ export const PROJECTS: Project[] = [
       "EV Charging"
     ],
     "highlights": [
-      "MahaRERA: P52000045602",
+      "MahaRERA: P52100045602",
       "0% Brokerage & Direct Builder Booking",
       "Nigdi Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -63153,7 +63153,7 @@ export const PROJECTS: Project[] = [
         "value": "651 - 911 sq.ft"
       }
     ],
-    "reraId": "P52000045602",
+    "reraId": "P52100045602",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
@@ -63189,7 +63189,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is 51 Meridian MahaRERA approved?",
-        "answer": "Yes, 51 Meridian is officially registered under MahaRERA with registration number P52000045602. All approvals and certificates are verified."
+        "answer": "Yes, 51 Meridian is officially registered under MahaRERA with registration number P52100045602. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at 51 Meridian?",
@@ -63207,7 +63207,7 @@ export const PROJECTS: Project[] = [
       "Covered Parking",
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52000045602"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100045602"
   },
   {
     "id": "p-the-arena",
@@ -64435,7 +64435,7 @@ export const PROJECTS: Project[] = [
       "EV Charging"
     ],
     "highlights": [
-      "MahaRERA: P52000045602",
+      "MahaRERA: P52100045603",
       "0% Brokerage & Direct Builder Booking",
       "Pimple Saudagar Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -64470,7 +64470,7 @@ export const PROJECTS: Project[] = [
         "value": "605 - 847 sq.ft"
       }
     ],
-    "reraId": "P52000045602",
+    "reraId": "P52100045603",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/MePjpM2o9KQjJ6xTMr6aFlHFsoAzGOb15Qt42xOo.webp",
@@ -64506,7 +64506,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Jhamtani Commercial MahaRERA approved?",
-        "answer": "Yes, Jhamtani Commercial is officially registered under MahaRERA with registration number P52000045602. All approvals and certificates are verified."
+        "answer": "Yes, Jhamtani Commercial is officially registered under MahaRERA with registration number P52100045603. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Jhamtani Commercial?",
@@ -64525,7 +64525,7 @@ export const PROJECTS: Project[] = [
       "Covered Parking",
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52000045602"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100045603"
   },
   {
     "id": "p-rk-amore",
@@ -64981,7 +64981,7 @@ export const PROJECTS: Project[] = [
         "value": "1,047 - 1,646 sq.ft"
       }
     ],
-    "reraId": "P52100021438",
+    "reraId": "P52100021439",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/pkJxGd1gHFGu7mmQK9QruOkJwCN6UjcR7yv24TqQ.webp",
@@ -65038,7 +65038,7 @@ export const PROJECTS: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100021438"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100021439"
   },
   {
     "id": "p-marqis",
@@ -65370,7 +65370,7 @@ export const PROJECTS: Project[] = [
         "value": "1,034 - 1,622 sq.ft"
       }
     ],
-    "reraId": "P52100021438",
+    "reraId": "P52100021440",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/c5iyPCgaCqPe2H7UgjtMuIlxz0gkapjWv7U5nlzE.webp",
@@ -65427,7 +65427,7 @@ export const PROJECTS: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100021438"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100021440"
   },
   {
     "id": "p-v-one-heartland",
@@ -65502,7 +65502,7 @@ export const PROJECTS: Project[] = [
         "value": "1,113 - 1,733 sq.ft"
       }
     ],
-    "reraId": "P52100061911",
+    "reraId": "P52100061912",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-sierra-baner-sus-pune/Sierra_Master_Plan_6b71829c3a.webp",
@@ -65559,7 +65559,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100061911"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100061912"
   },
   {
     "id": "p-new-launch-austin-mamurdi",
@@ -65635,7 +65635,7 @@ export const PROJECTS: Project[] = [
         "value": "424 - 1,006 sq.ft"
       }
     ],
-    "reraId": "P52100021545",
+    "reraId": "P52100021546",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/velvet-villas-by-vtp-luxe-kharadi-pune/Velvet_Villas_Master_Plan_8c72834b1a.webp",
@@ -65698,7 +65698,7 @@ export const PROJECTS: Project[] = [
       "24x7 Security",
       "Landscaped Garden"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100021545"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100021546"
   },
   {
     "id": "p-opulent-tower",
@@ -65913,7 +65913,7 @@ export const PROJECTS: Project[] = [
         "value": "756 - 1,098 sq.ft"
       }
     ],
-    "reraId": "P52100020635",
+    "reraId": "P52100020636",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/fx4tJjRmJedaJ69GSAzp9y1Po3iHhu7xv951qJNV.webp",
@@ -65970,7 +65970,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100020635"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100020636"
   },
   {
     "id": "p-icon-oro",
@@ -66674,7 +66674,7 @@ export const PROJECTS: Project[] = [
         "value": "1,022 - 1,225 sq.ft"
       }
     ],
-    "reraId": "P52100020332",
+    "reraId": "P52100020333",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/AEV4Alkp45KgjGoLG3i2wOtoKOjfuY7T0aplVMNP.webp",
@@ -66730,7 +66730,7 @@ export const PROJECTS: Project[] = [
       "Co-working Lounge",
       "Jogging Track"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100020332"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100020333"
   },
   {
     "id": "p-nancy-hill-view",
@@ -67469,7 +67469,7 @@ export const PROJECTS: Project[] = [
         "value": "686 - 1,012 sq.ft"
       }
     ],
-    "reraId": "P52100062977",
+    "reraId": "P52100062978",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-bellissimo-hinjewadi-pune/Bellissimo_Master_Plan_1a82937c5f.webp",
@@ -67526,7 +67526,7 @@ export const PROJECTS: Project[] = [
       "Landscaped Garden",
       "Covered Parking"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100062977"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100062978"
   },
   {
     "id": "p-ravima-newton-homes",
@@ -70740,7 +70740,7 @@ export const PROJECTS: Project[] = [
         "value": "747 - 1,042 sq.ft"
       }
     ],
-    "reraId": "P52100022057",
+    "reraId": "P52100022058",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/kLEnSzR22c9MFpgzW1q1VBKhcmnWujmwF6wocGF3.webp",
@@ -70797,7 +70797,7 @@ export const PROJECTS: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100022057"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100022058"
   },
   {
     "id": "p-codename-manifest",
@@ -71793,7 +71793,7 @@ export const PROJECTS: Project[] = [
         "value": "699 - 978 sq.ft"
       }
     ],
-    "reraId": "P52100062977",
+    "reraId": "P52100062979",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-altamira-kharadi-pune/Altamira_Master_Plan_166b88523c.webp",
@@ -71846,7 +71846,7 @@ export const PROJECTS: Project[] = [
       "Covered Parking",
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100062977"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100062979"
   },
   {
     "id": "p-the-miracle",
@@ -72046,7 +72046,7 @@ export const PROJECTS: Project[] = [
         "value": "1,120 - 1,550 sq.ft"
       }
     ],
-    "reraId": "P52100061760",
+    "reraId": "P52100061761",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/yDwMknCek35yZxmMXjayGU9f3YNISUbtB2byb3jE.webp",
@@ -72103,7 +72103,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100061760"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100061761"
   },
   {
     "id": "p-mauli",
@@ -73212,7 +73212,7 @@ export const PROJECTS: Project[] = [
         "value": "723 - 1,121 sq.ft"
       }
     ],
-    "reraId": "P52100032656",
+    "reraId": "P52100032657",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/56RUcH2FcTi4nhHkw0gG3jrlWip1SBX7GquQbPQ9.webp",
@@ -73269,7 +73269,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100032656"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100032657"
   },
   {
     "id": "p-kunal-the-canary",
@@ -74361,7 +74361,7 @@ export const PROJECTS: Project[] = [
       "Power Backup"
     ],
     "highlights": [
-      "MahaRERA: P52100080612",
+      "MahaRERA: P52100080614",
       "0% Brokerage & Direct Builder Booking",
       "Punawale Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -74396,7 +74396,7 @@ export const PROJECTS: Project[] = [
         "value": "702 - 1,036 sq.ft"
       }
     ],
-    "reraId": "P52100080612",
+    "reraId": "P52100080614",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "/images/projects/anp-universe/master-layout.webp",
@@ -74433,7 +74433,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Aria MahaRERA approved?",
-        "answer": "Yes, Aria is officially registered under MahaRERA with registration number P52100080612. All approvals and certificates are verified."
+        "answer": "Yes, Aria is officially registered under MahaRERA with registration number P52100080614. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Aria?",
@@ -74453,7 +74453,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100080612"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100080614"
   },
   {
     "id": "p-anp-memento",
@@ -76908,7 +76908,7 @@ export const PROJECTS: Project[] = [
         "value": "693 - 1,085 sq.ft"
       }
     ],
-    "reraId": "P52100061984",
+    "reraId": "P52100061985",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/aWnxy62MDO1QX60oMsN6OrORW8XJAf2mAMh9MAgQ.webp",
@@ -76965,7 +76965,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100061984"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100061985"
   },
   {
     "id": "p-7-cosmos",
@@ -77374,7 +77374,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc75u9-85j08m.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc74yk-ag8xbh.webp"
     ],
-    "description": "EH Towers Commercial is the shops-and-offices wing of EH Towers, the mixed-use project by Engineers Horizon on the Mumbai–Pune bypass (NH-48) in Jeevan Nagar, Tathawade. It is registered with MahaRERA as P52100079038, with EH Reality LLP as the promoter. Above three basement parking levels, the ground floor has seven double-height shops, six of them with a mezzanine, facing the highway; the first floor has ten shops and the second twenty. Offices fill the 3rd to 8th floors, 25 to a typical floor, from 119 to 677 sq ft, some with attached washrooms. A restaurant unit of 3,127 sq ft with a formed terrace sits on the 7th floor, and a second restaurant unit opens onto terrace seating on the 8th. The current cost sheet prices offices at ₹14,000 per sq ft of saleable area and shops at ₹18,000 on the second floor, ₹25,000 on the first and ₹35,000 on the ground, with saleable area 1.5 times the carpet. all-inclusive prices start at ₹25.0 lakh for a 119 sq ft office and ₹28.8 lakh for a 107 sq ft second-floor shop. The brochure lists lifts and escalators, a separate service entry, sprinklers and fire alarms, CCTV in common areas, generator backup, a common washroom on each floor, rainwater harvesting and an STP. Possession is planned for December 2027.",
+    "description": "EH Towers Commercial is the shops-and-offices wing of EH Towers, the mixed-use project by Engineers Horizon on the Mumbai–Pune bypass (NH-48) in Jeevan Nagar, Tathawade. It is registered with MahaRERA as P52100079039, with EH Reality LLP as the promoter. Above three basement parking levels, the ground floor has seven double-height shops, six of them with a mezzanine, facing the highway; the first floor has ten shops and the second twenty. Offices fill the 3rd to 8th floors, 25 to a typical floor, from 119 to 677 sq ft, some with attached washrooms. A restaurant unit of 3,127 sq ft with a formed terrace sits on the 7th floor, and a second restaurant unit opens onto terrace seating on the 8th. The current cost sheet prices offices at ₹14,000 per sq ft of saleable area and shops at ₹18,000 on the second floor, ₹25,000 on the first and ₹35,000 on the ground, with saleable area 1.5 times the carpet. all-inclusive prices start at ₹25.0 lakh for a 119 sq ft office and ₹28.8 lakh for a 107 sq ft second-floor shop. The brochure lists lifts and escalators, a separate service entry, sprinklers and fire alarms, CCTV in common areas, generator backup, a common washroom on each floor, rainwater harvesting and an STP. Possession is planned for December 2027.",
     "features": [
       "CCTV Surveillance",
       "Rainwater Harvesting",
@@ -77382,7 +77382,7 @@ export const PROJECTS: Project[] = [
       "Covered Parking"
     ],
     "highlights": [
-      "MahaRERA: P52100079038",
+      "MahaRERA: P52100079039",
       "0% Brokerage & Direct Builder Booking",
       "Tathawade Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -77417,7 +77417,7 @@ export const PROJECTS: Project[] = [
         "value": "569 - 746 sq.ft"
       }
     ],
-    "reraId": "P52100079038",
+    "reraId": "P52100079039",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-bellissimo-hinjewadi-pune/Bellissimo_Master_Plan_1a82937c5f.webp",
@@ -77454,7 +77454,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is EH Towers Commercial MahaRERA approved?",
-        "answer": "Yes, EH Towers Commercial is officially registered under MahaRERA with registration number P52100079038. All approvals and certificates are verified."
+        "answer": "Yes, EH Towers Commercial is officially registered under MahaRERA with registration number P52100079039. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at EH Towers Commercial?",
@@ -77470,7 +77470,7 @@ export const PROJECTS: Project[] = [
       "Power Backup",
       "Covered Parking"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100079038"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100079039"
   },
   {
     "id": "p-arun-sanctum",
@@ -78080,7 +78080,7 @@ export const PROJECTS: Project[] = [
         "value": "735 - 1,787 sq.ft"
       }
     ],
-    "reraId": "P52100031027",
+    "reraId": "P52100031028",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-euphoria-kharadi-pune/Euphoria_Master_Plan_9c82613d4b.webp",
@@ -78143,7 +78143,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100031027"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100031028"
   },
   {
     "id": "p-aundh-renaissance",
@@ -78569,7 +78569,7 @@ export const PROJECTS: Project[] = [
       "EV Charging"
     ],
     "highlights": [
-      "MahaRERA: P52100053948",
+      "MahaRERA: P52100053949",
       "0% Brokerage & Direct Builder Booking",
       "Baner Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -78604,7 +78604,7 @@ export const PROJECTS: Project[] = [
         "value": "661 - 925 sq.ft"
       }
     ],
-    "reraId": "P52100053948",
+    "reraId": "P52100053949",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/image (40).webp",
@@ -78640,7 +78640,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Gen1 MahaRERA approved?",
-        "answer": "Yes, Gen1 is officially registered under MahaRERA with registration number P52100053948. All approvals and certificates are verified."
+        "answer": "Yes, Gen1 is officially registered under MahaRERA with registration number P52100053949. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Gen1?",
@@ -78659,7 +78659,7 @@ export const PROJECTS: Project[] = [
       "Covered Parking",
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100053948"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100053949"
   },
   {
     "id": "p-greens",
@@ -78997,7 +78997,7 @@ export const PROJECTS: Project[] = [
         "value": "742 - 1,600 sq.ft"
       }
     ],
-    "reraId": "P52100031488",
+    "reraId": "P52100031490",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
@@ -79060,7 +79060,7 @@ export const PROJECTS: Project[] = [
       "Co-working Lounge",
       "Jogging Track"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100031488"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100031490"
   },
   {
     "id": "p-venkatesh-serenique",
@@ -81328,7 +81328,7 @@ export const PROJECTS: Project[] = [
       "Power Backup"
     ],
     "highlights": [
-      "MahaRERA: P52100066472",
+      "MahaRERA: P52100077437",
       "0% Brokerage & Direct Builder Booking",
       "Mahalunge Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -81351,7 +81351,7 @@ export const PROJECTS: Project[] = [
         "value": "P52100066472"
       }
     ],
-    "reraId": "P52100066472",
+    "reraId": "P52100077437",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/QUSiXbX1yIv3u1F0efgnLHyJgKsJfu0DIDG1r7Wi.webp",
@@ -81394,7 +81394,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Kohinoor Satori MahaRERA approved?",
-        "answer": "Yes, Kohinoor Satori is officially registered under MahaRERA with registration number P52100066472. All approvals and certificates are verified."
+        "answer": "Yes, Kohinoor Satori is officially registered under MahaRERA with registration number P52100077437. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Kohinoor Satori?",
@@ -81414,7 +81414,7 @@ export const PROJECTS: Project[] = [
       "Designer Banquet Hall & Private Dining",
       "EV Fast Charging Stations"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100066472"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100077437"
   },
   {
     "id": "p-koral-aeternaa",
@@ -85778,7 +85778,7 @@ export const PROJECTS: Project[] = [
       "EV Charging"
     ],
     "highlights": [
-      "MahaRERA: P52100048051",
+      "MahaRERA: P52100048052",
       "0% Brokerage & Direct Builder Booking",
       "Tathawade Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -85813,7 +85813,7 @@ export const PROJECTS: Project[] = [
         "value": "586 - 720 sq.ft"
       }
     ],
-    "reraId": "P52100048051",
+    "reraId": "P52100048052",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nmPzChK44V7G0iiNdq6UHi8c9Yqa7WJWDA6qDGUb.webp",
@@ -85850,7 +85850,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Renuka Panchatattva Shop MahaRERA approved?",
-        "answer": "Yes, Renuka Panchatattva Shop is officially registered under MahaRERA with registration number P52100048051. All approvals and certificates are verified."
+        "answer": "Yes, Renuka Panchatattva Shop is officially registered under MahaRERA with registration number P52100048052. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Renuka Panchatattva Shop?",
@@ -85870,7 +85870,7 @@ export const PROJECTS: Project[] = [
       "Concierge",
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100048051"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100048052"
   },
   {
     "id": "p-rutuja-enclave",
@@ -86562,7 +86562,7 @@ export const PROJECTS: Project[] = [
       "EV Charging"
     ],
     "highlights": [
-      "MahaRERA: P52100076759",
+      "MahaRERA: P52100076760",
       "0% Brokerage & Direct Builder Booking",
       "Walhekarwadi Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -86597,7 +86597,7 @@ export const PROJECTS: Project[] = [
         "value": "713 - 998 sq.ft"
       }
     ],
-    "reraId": "P52100076759",
+    "reraId": "P52100076760",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-cielo-bavdhan-pune/Cielo_Master_Plan_5a82741b2c.webp",
@@ -86633,7 +86633,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is 18 Altitude Commercial MahaRERA approved?",
-        "answer": "Yes, 18 Altitude Commercial is officially registered under MahaRERA with registration number P52100076759. All approvals and certificates are verified."
+        "answer": "Yes, 18 Altitude Commercial is officially registered under MahaRERA with registration number P52100076760. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at 18 Altitude Commercial?",
@@ -86652,7 +86652,7 @@ export const PROJECTS: Project[] = [
       "Covered Parking",
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100076759"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100076760"
   },
   {
     "id": "p-sai-vilasita",
@@ -87532,7 +87532,7 @@ export const PROJECTS: Project[] = [
         "value": "633 - 646 sq.ft"
       }
     ],
-    "reraId": "P52100031027",
+    "reraId": "P52100031029",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp",
@@ -87588,7 +87588,7 @@ export const PROJECTS: Project[] = [
       "Covered Parking",
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100031027"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100031029"
   },
   {
     "id": "p-jhamtani-ace-abode",
@@ -88215,7 +88215,7 @@ export const PROJECTS: Project[] = [
         "value": "744 - 1,087 sq.ft"
       }
     ],
-    "reraId": "P52100062389",
+    "reraId": "P52100062390",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/iTt80ob6Q847pdqJo6QxQYX9jjyINihAoQvfFwpB.webp",
@@ -88272,7 +88272,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100062389"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100062390"
   },
   {
     "id": "p-tulip-infinity-evana",
@@ -88492,7 +88492,7 @@ export const PROJECTS: Project[] = [
         "value": "737 - 1,105 sq.ft"
       }
     ],
-    "reraId": "P52100060728",
+    "reraId": "P52100060731",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/jw5ukbRlHKoZR35S8lb9oHfirlSVu9uEbKjZ96Fr.webp",
@@ -88549,7 +88549,7 @@ export const PROJECTS: Project[] = [
       "Co-working Lounge",
       "Jogging Track"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060728"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060731"
   },
   {
     "id": "p-shyni-gold-mangalam",
@@ -90168,7 +90168,7 @@ export const PROJECTS: Project[] = [
       "Landscaped Garden"
     ],
     "highlights": [
-      "MahaRERA: P52100052385",
+      "MahaRERA: P52100052386",
       "0% Brokerage & Direct Builder Booking",
       "Tathawade Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -90203,7 +90203,7 @@ export const PROJECTS: Project[] = [
         "value": "685 - 1,033 sq.ft"
       }
     ],
-    "reraId": "P52100052385",
+    "reraId": "P52100052386",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-hilife-wakad-pune/Hilife_Master_Plan_5c82917d3b.webp",
@@ -90240,7 +90240,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Skyfinia Harivishva MahaRERA approved?",
-        "answer": "Yes, Skyfinia Harivishva is officially registered under MahaRERA with registration number P52100052385. All approvals and certificates are verified."
+        "answer": "Yes, Skyfinia Harivishva is officially registered under MahaRERA with registration number P52100052386. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Skyfinia Harivishva?",
@@ -90260,7 +90260,7 @@ export const PROJECTS: Project[] = [
       "24x7 Security",
       "Landscaped Garden"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100052385"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100052386"
   },
   {
     "id": "p-the-corniche",
@@ -92161,7 +92161,7 @@ export const PROJECTS: Project[] = [
         "value": "724 - 1,665 sq.ft"
       }
     ],
-    "reraId": "P52100031027",
+    "reraId": "P52100031030",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/3dehuUq2Po5NML9mJlmIQO5xPl9IF2CTVSuFPjDO.webp",
@@ -92224,7 +92224,7 @@ export const PROJECTS: Project[] = [
       "Co-working Lounge",
       "Jogging Track"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100031027"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100031030"
   },
   {
     "id": "p-crestline-shreshth",
@@ -92430,7 +92430,7 @@ export const PROJECTS: Project[] = [
         "value": "701 - 1,033 sq.ft"
       }
     ],
-    "reraId": "P52100061412",
+    "reraId": "P52100051980",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/pkJxGd1gHFGu7mmQK9QruOkJwCN6UjcR7yv24TqQ.webp",
@@ -92487,7 +92487,7 @@ export const PROJECTS: Project[] = [
       "Landscaped Garden",
       "Covered Parking"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100061412"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100051980"
   },
   {
     "id": "p-esson-skyora",
@@ -93057,7 +93057,7 @@ export const PROJECTS: Project[] = [
       "EV Charging"
     ],
     "highlights": [
-      "MahaRERA: P52100078555",
+      "MahaRERA: P52100078556",
       "0% Brokerage & Direct Builder Booking",
       "Akurdi Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -93092,7 +93092,7 @@ export const PROJECTS: Project[] = [
         "value": "655 - 679 sq.ft"
       }
     ],
-    "reraId": "P52100078555",
+    "reraId": "P52100078556",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/hgiRTenojaVcHglxBXqRVHfjihUs6wuNa8Yl46OW.png",
@@ -93129,7 +93129,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Yoo Pristine High Street MahaRERA approved?",
-        "answer": "Yes, Yoo Pristine High Street is officially registered under MahaRERA with registration number P52100078555. All approvals and certificates are verified."
+        "answer": "Yes, Yoo Pristine High Street is officially registered under MahaRERA with registration number P52100078556. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Yoo Pristine High Street?",
@@ -93146,7 +93146,7 @@ export const PROJECTS: Project[] = [
       "Covered Parking",
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100078555"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100078556"
   },
   {
     "id": "p-dolphin-palms",
@@ -93636,7 +93636,7 @@ export const PROJECTS: Project[] = [
         "value": "702 - 1,084 sq.ft"
       }
     ],
-    "reraId": "P52100060728",
+    "reraId": "P52100060730",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/c5iyPCgaCqPe2H7UgjtMuIlxz0gkapjWv7U5nlzE.webp",
@@ -93693,7 +93693,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060728"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060730"
   },
   {
     "id": "p-merlin-ventana-commercial",
@@ -94963,7 +94963,7 @@ export const PROJECTS: Project[] = [
         "value": "710 - 1,059 sq.ft"
       }
     ],
-    "reraId": "P52100060298",
+    "reraId": "P52100060299",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/jw5ukbRlHKoZR35S8lb9oHfirlSVu9uEbKjZ96Fr.webp",
@@ -95020,7 +95020,7 @@ export const PROJECTS: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060298"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100060299"
   },
   {
     "id": "p-sky-tower",
@@ -95440,7 +95440,7 @@ export const PROJECTS: Project[] = [
       "EV Charging"
     ],
     "highlights": [
-      "MahaRERA: P52100080004",
+      "MahaRERA: P52100080005",
       "0% Brokerage & Direct Builder Booking",
       "Tathawade Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -95475,7 +95475,7 @@ export const PROJECTS: Project[] = [
         "value": "639 - 887 sq.ft"
       }
     ],
-    "reraId": "P52100080004",
+    "reraId": "P52100080005",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/kLEnSzR22c9MFpgzW1q1VBKhcmnWujmwF6wocGF3.webp",
@@ -95511,7 +95511,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Nirman Drive MahaRERA approved?",
-        "answer": "Yes, Nirman Drive is officially registered under MahaRERA with registration number P52100080004. All approvals and certificates are verified."
+        "answer": "Yes, Nirman Drive is officially registered under MahaRERA with registration number P52100080005. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Nirman Drive?",
@@ -95529,7 +95529,7 @@ export const PROJECTS: Project[] = [
       "Covered Parking",
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100080004"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100080005"
   },
   {
     "id": "p-sentosa-elite",
@@ -95959,7 +95959,7 @@ export const PROJECTS: Project[] = [
       "Power Backup"
     ],
     "highlights": [
-      "MahaRERA: P52100054899",
+      "MahaRERA: P52100051120",
       "0% Brokerage & Direct Builder Booking",
       "Kiwale Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -95994,7 +95994,7 @@ export const PROJECTS: Project[] = [
         "value": "687 - 1,125 sq.ft"
       }
     ],
-    "reraId": "P52100054899",
+    "reraId": "P52100051120",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
@@ -96031,7 +96031,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is The skyLark MahaRERA approved?",
-        "answer": "Yes, The skyLark is officially registered under MahaRERA with registration number P52100054899. All approvals and certificates are verified."
+        "answer": "Yes, The skyLark is officially registered under MahaRERA with registration number P52100051120. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at The skyLark?",
@@ -96051,7 +96051,7 @@ export const PROJECTS: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100054899"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100051120"
   },
   {
     "id": "p-star-solasta",
@@ -97083,7 +97083,7 @@ export const PROJECTS: Project[] = [
         "value": "671 - 939 sq.ft"
       }
     ],
-    "reraId": "P52100071416",
+    "reraId": "P52100054320",
     "verificationStatus": "Verified",
     "featured": true,
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/vtp-altitude-wakad-pune/Altitude_Master_Plan_2a71829c4d.webp",
@@ -97138,7 +97138,7 @@ export const PROJECTS: Project[] = [
       "Covered Parking",
       "EV Charging"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100071416"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100054320"
   },
   {
     "id": "p-vtp-flamante",
@@ -97168,7 +97168,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/890f823d-cfcf-45fe-930d-de268253086f/gallery/mvhz3ikx-d620tn.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/890f823d-cfcf-45fe-930d-de268253086f/gallery/mvhz3jhc-5so7p8.webp"
     ],
-    "description": "VTP Flamante (Flamante by VTP Luxe) is a large residential project by VTP Realty in New Kharadi (Manjri), East Pune, part of the integrated Township Codename Pegasus. Spread over about 6 acres with around 2 acres of open space, it has six towers of 33 residential floors above parking and about 1,057 homes, with four or six apartments per floor. Homes on offer include 2 BHK apartments of about 850 sq ft carpet from Rs 1.30 Cr and 4 BHK apartments of about 1,794 sq ft carpet at Rs 3.10 Cr. Residences come with smart-home features, a digital lock, large marble-finish vitrified tiles, large windows and balconies with toughened-glass railings. The amenities hub includes an infinity-edge swimming pool, a clubhouse and multipurpose hall, an indoor gym, squash and lawn tennis courts, net cricket, a multipurpose court, a kids' pool and play areas, a skating rink, an amphitheatre, jogging and cycling tracks, a meditation lawn and a work-from-home zone with outdoor work spaces under solar canopies. Residents also get township amenities such as sports academies, a township club and a school. EON IT Park is about 3.4 km away, WTC 3.8 km, the Pune-Nagar Highway 3.5 km and the airport about 9.5 km. Possession is planned from March 2028. MahaRERA: P52100051826 (Phase 1) and P52100055365 (Phase 2).",
+    "description": "VTP Flamante (Flamante by VTP Luxe) is a large residential project by VTP Realty in New Kharadi (Manjri), East Pune, part of the integrated Township Codename Pegasus. Spread over about 6 acres with around 2 acres of open space, it has six towers of 33 residential floors above parking and about 1,057 homes, with four or six apartments per floor. Homes on offer include 2 BHK apartments of about 850 sq ft carpet from Rs 1.30 Cr and 4 BHK apartments of about 1,794 sq ft carpet at Rs 3.10 Cr. Residences come with smart-home features, a digital lock, large marble-finish vitrified tiles, large windows and balconies with toughened-glass railings. The amenities hub includes an infinity-edge swimming pool, a clubhouse and multipurpose hall, an indoor gym, squash and lawn tennis courts, net cricket, a multipurpose court, a kids' pool and play areas, a skating rink, an amphitheatre, jogging and cycling tracks, a meditation lawn and a work-from-home zone with outdoor work spaces under solar canopies. Residents also get township amenities such as sports academies, a township club and a school. EON IT Park is about 3.4 km away, WTC 3.8 km, the Pune-Nagar Highway 3.5 km and the airport about 9.5 km. Possession is planned from March 2028. MahaRERA: P52100052840 (Phase 1) and P52100055365 (Phase 2).",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -97180,7 +97180,7 @@ export const PROJECTS: Project[] = [
       "24x7 Security"
     ],
     "highlights": [
-      "MahaRERA: P52100051826",
+      "MahaRERA: P52100052840",
       "0% Brokerage & Direct Builder Booking",
       "Manjari Khurd Prime Residential Corridor",
       "Sanctioned Developer Payment Schedule"
@@ -97215,7 +97215,7 @@ export const PROJECTS: Project[] = [
         "value": "711 - 1,669 sq.ft"
       }
     ],
-    "reraId": "P52100051826",
+    "reraId": "P52100052840",
     "verificationStatus": "Verified",
     "featured": false,
     "masterLayout": "https://keystoneliv.com/public/uploads/property/nmPzChK44V7G0iiNdq6UHi8c9Yqa7WJWDA6qDGUb.webp",
@@ -97252,7 +97252,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is VTP Flamante MahaRERA approved?",
-        "answer": "Yes, VTP Flamante is officially registered under MahaRERA with registration number P52100051826. All approvals and certificates are verified."
+        "answer": "Yes, VTP Flamante is officially registered under MahaRERA with registration number P52100052840. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at VTP Flamante?",
@@ -97272,7 +97272,7 @@ export const PROJECTS: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100051826"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100052840"
   },
   {
     "id": "p-hill-crest",
@@ -102740,7 +102740,7 @@ export const PROJECTS: Project[] = [
       "Covered Car Parking"
     ],
     "metaDescription": "Buy 2 & 3 BHK in Paranjape Yuthika, Baner Pune. Ready to Move homes from ₹97.00 L. 100% Zero Brokerage with PROPSMART REALTY.",
-    "reraId": "P52100000035",
+    "reraId": "P52100000036",
     "verificationStatus": "Verified",
     "featured": false,
     "images": [
@@ -102864,7 +102864,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Paranjape Yuthika MahaRERA approved?",
-        "answer": "Yes, Paranjape Yuthika is officially registered under MahaRERA with registration number P52100000035. All approvals and certificates are verified."
+        "answer": "Yes, Paranjape Yuthika is officially registered under MahaRERA with registration number P52100000036. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Paranjape Yuthika?",
@@ -102878,7 +102878,7 @@ export const PROJECTS: Project[] = [
       "100% Zero Brokerage Sales Partner",
       "Direct Developer Inventory Allocation"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000035"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000036"
   },
   {
     "id": "p-paranjape-blue-ridge-golf-island",
@@ -106731,7 +106731,7 @@ export const PROJECTS: Project[] = [
     ],
     "lat": 19.2325,
     "lng": 72.988,
-    "reraId": "P51700020088",
+    "reraId": "P51700020119",
     "description": "Lodha Amara is Thane's most vibrant 40-acre residential township on Kolshet Road. Featuring thousands of trees, a 50,000 sq.ft clubhouse, FIFA-standard football ground, and ready possession towers with direct developer inventory and zero buyer brokerage.",
     "features": [
       "40-Acre Master Township",
@@ -106810,7 +106810,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Lodha Amara MahaRERA approved?",
-        "answer": "Yes, Lodha Amara is officially registered under MahaRERA with registration number P51700020088. All approvals and certificates are verified."
+        "answer": "Yes, Lodha Amara is officially registered under MahaRERA with registration number P51700020119. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Lodha Amara?",
@@ -106824,7 +106824,7 @@ export const PROJECTS: Project[] = [
       "100% Zero Brokerage Sales Partner",
       "Direct Developer Inventory Allocation"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51700020088"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51700020119"
   },
   {
     "id": "p-raymond-tenx-habitat-thane",
@@ -117059,7 +117059,7 @@ export const PROJECTS: Project[] = [
     ],
     "lat": 18.5865,
     "lng": 73.7155,
-    "reraId": "P52100000412",
+    "reraId": "P52100000242",
     "description": "Yashwin Hinjawadi in Phase 2 is an established gated society featuring high rental demand, immediate possession, and proximity to Wipro and Infosys.",
     "features": [
       "Walk-to-work to Hinjewadi Phase 2 IT Hubs",
@@ -117134,7 +117134,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "Is Yashwin Hinjawadi MahaRERA approved?",
-        "answer": "Yes, Yashwin Hinjawadi is officially registered under MahaRERA with registration number P52100000412. All approvals and certificates are verified."
+        "answer": "Yes, Yashwin Hinjawadi is officially registered under MahaRERA with registration number P52100000242. All approvals and certificates are verified."
       },
       {
         "question": "What amenities are provided at Yashwin Hinjawadi?",
@@ -117148,7 +117148,7 @@ export const PROJECTS: Project[] = [
       "100% Zero Brokerage Sales Partner",
       "Direct Developer Inventory Allocation"
     ],
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000412"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000242"
   },
   {
     "id": "p-runwal-forests-kanjurmarg",
@@ -124088,7 +124088,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
       "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
     ],
-    "reraId": "P52100000781",
+    "reraId": "P52000001420",
     "description": "Peninsula Ashok Nirvaan in Khandala is an elite private villa community offering bespoke second homes with private infinity pools and sweeping views of Duke's Nose.",
     "features": [
       "Clubhouse with Gymnasium",
@@ -124145,7 +124145,7 @@ export const PROJECTS: Project[] = [
     "faqs": [
       {
         "question": "What is the MahaRERA registration number for Peninsula Ashok Nirvaan?",
-        "answer": "Peninsula Ashok Nirvaan is officially registered under MahaRERA registration number P52100000781. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+        "answer": "Peninsula Ashok Nirvaan is officially registered under MahaRERA registration number P52000001420. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
       },
       {
         "question": "What unit configurations and carpet areas are offered at Peninsula Ashok Nirvaan?",
@@ -124161,7 +124161,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100000781"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52000001420"
   },
   {
     "id": "p-peninsula-valley-vista",
@@ -126719,7 +126719,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
       "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
     ],
-    "reraId": "P52000052341",
+    "reraId": "P52000053420",
     "description": "Godrej Hillside Reserve in Karjat-Neral foothills offers branded luxury land parcels situated against the backdrop of the Matheran hills.",
     "features": [
       "Clubhouse with Gymnasium",
@@ -126776,7 +126776,7 @@ export const PROJECTS: Project[] = [
     "faqs": [
       {
         "question": "What is the MahaRERA registration number for Godrej Hillside Reserve Karjat?",
-        "answer": "Godrej Hillside Reserve Karjat is officially registered under MahaRERA registration number P52000052341. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+        "answer": "Godrej Hillside Reserve Karjat is officially registered under MahaRERA registration number P52000053420. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
       },
       {
         "question": "What unit configurations and carpet areas are offered at Godrej Hillside Reserve Karjat?",
@@ -126792,7 +126792,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52000052341"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52000053420"
   },
   {
     "id": "p-wadhwa-wise-city-karjat",
@@ -127224,7 +127224,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
       "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
     ],
-    "reraId": "P52000031245",
+    "reraId": "P52000038910",
     "description": "Usha Breco Karjat Hill View is nestled along the Kashele-Bhimashankar nature highway offering hillside second homes with organic farming plots.",
     "features": [
       "Clubhouse with Gymnasium",
@@ -127281,7 +127281,7 @@ export const PROJECTS: Project[] = [
     "faqs": [
       {
         "question": "What is the MahaRERA registration number for Usha Breco Karjat Hill View?",
-        "answer": "Usha Breco Karjat Hill View is officially registered under MahaRERA registration number P52000031245. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+        "answer": "Usha Breco Karjat Hill View is officially registered under MahaRERA registration number P52000038910. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
       },
       {
         "question": "What unit configurations and carpet areas are offered at Usha Breco Karjat Hill View?",
@@ -127297,7 +127297,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52000031245"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52000038910"
   },
   {
     "id": "p-nirvana-riverwoods-karjat",
@@ -127852,7 +127852,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/sk7FyGScerfdwSXPmZkNYGxMsPJf0x63qGejfDTU.webp",
       "https://keystoneliv.com/public/uploads/property/ONtlHyITcqbuIMJqeKNTTJxOUkd4FbrTj28o7hh9.webp"
     ],
-    "reraId": "P52000048912",
+    "reraId": "P52000051280",
     "description": "Rohan Karjat Country Homes in Kashele provides zero-wastage open-concept country villas with private courtyards, vegetable patches, and mountain views.",
     "features": [
       "Clubhouse with Gymnasium",
@@ -127909,7 +127909,7 @@ export const PROJECTS: Project[] = [
     "faqs": [
       {
         "question": "What is the MahaRERA registration number for Rohan Karjat Country Homes?",
-        "answer": "Rohan Karjat Country Homes is officially registered under MahaRERA registration number P52000048912. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
+        "answer": "Rohan Karjat Country Homes is officially registered under MahaRERA registration number P52000051280. Direct builder inventory with 100% zero brokerage through PROPSMART REALTY."
       },
       {
         "question": "What unit configurations and carpet areas are offered at Rohan Karjat Country Homes?",
@@ -127925,7 +127925,7 @@ export const PROJECTS: Project[] = [
       }
     ],
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52000048912"
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52000051280"
   },
   {
     "id": "p-runwal-karjat-bliss",
@@ -131393,7 +131393,8 @@ export const PROJECTS: Project[] = [
       "24*7 Security",
       "High-Speed Elevators",
       "Parking"
-    ]
+    ],
+    "verificationStatus": "Verified"
   },
   {
     "id": "p-kohinoor-woodshire",
@@ -131487,7 +131488,8 @@ export const PROJECTS: Project[] = [
       "24*7 Security",
       "High-Speed Elevators",
       "Parking"
-    ]
+    ],
+    "verificationStatus": "Verified"
   },
   {
     "id": "p-kohinoor-boulevard-towers",
@@ -131586,7 +131588,8 @@ export const PROJECTS: Project[] = [
       "24*7 Security",
       "High-Speed Elevators",
       "Parking"
-    ]
+    ],
+    "verificationStatus": "Verified"
   },
   {
     "id": "p-kohinoor-viva-pixel",
@@ -131676,7 +131679,8 @@ export const PROJECTS: Project[] = [
       "24*7 Security",
       "High-Speed Elevators",
       "Parking"
-    ]
+    ],
+    "verificationStatus": "Verified"
   },
   {
     "id": "p-kohinoor-regalia-towers",
@@ -131757,7 +131761,8 @@ export const PROJECTS: Project[] = [
       "24*7 Security",
       "High-Speed Elevators",
       "Parking"
-    ]
+    ],
+    "verificationStatus": "Verified"
   },
   {
     "id": "p-kohinoor-avantara",
@@ -131837,7 +131842,8 @@ export const PROJECTS: Project[] = [
       "24*7 Security",
       "High-Speed Elevators",
       "Parking"
-    ]
+    ],
+    "verificationStatus": "Verified"
   },
   {
     "id": "p-kohinoor-business-tower-mundhwa",
@@ -131922,7 +131928,8 @@ export const PROJECTS: Project[] = [
       "24*7 Security",
       "High-Speed Elevators",
       "Parking"
-    ]
+    ],
+    "verificationStatus": "Verified"
   },
   {
     "id": "p-kohinoor-business-tower-baner",
@@ -132006,7 +132013,8 @@ export const PROJECTS: Project[] = [
       "24*7 Security",
       "High-Speed Elevators",
       "Parking"
-    ]
+    ],
+    "verificationStatus": "Verified"
   },
   {
     "id": "p-kohinoor-world-tower-pimpri",
@@ -132090,7 +132098,8 @@ export const PROJECTS: Project[] = [
       "24*7 Security",
       "High-Speed Elevators",
       "Parking"
-    ]
+    ],
+    "verificationStatus": "Verified"
   },
   {
     "id": "p-kohinoor-world-tower-phase-2",
@@ -132169,7 +132178,8 @@ export const PROJECTS: Project[] = [
       "24*7 Security",
       "High-Speed Elevators",
       "Parking"
-    ]
+    ],
+    "verificationStatus": "Verified"
   },
   {
     "id": "p-runwal-7-mahalaxmi",
@@ -132425,9 +132435,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "Runwal Meadows Garden Residences",
     "lat": 19.1298,
     "lng": 72.936,
-    "reraId": "P51800052633",
+    "reraId": "P51800000854",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800052633",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800000854",
     "description": "Runwal Meadows represents the pinnacle of modern green architecture in Runwal City Centre, Kanjurmarg. Featuring sprawling multi-tiered gardens, expansive sundecks, and curated clubhouse privileges for families seeking a balanced urban retreat.",
     "features": [
       "Garden Facing Residences",
@@ -132561,9 +132571,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "Runwal BKC Bandra Kurla Complex",
     "lat": 19.0657,
     "lng": 72.8687,
-    "reraId": "P51800022415",
+    "reraId": "P51800026194",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800022415",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800026194",
     "description": "Runwal BKC is a world-class Grade-A commercial landmark in India's premier financial district, Bandra Kurla Complex. Engineered for multinational corporations, fintech headquarters, and luxury consulting firms with column-free floor plates and LEED Platinum sustainability standards.",
     "features": [
       "LEED Platinum Certified Green Building",
@@ -132632,9 +132642,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "Runwal Commerz Grade A Offices",
     "lat": 19.1285,
     "lng": 72.9312,
-    "reraId": "P51800023608",
+    "reraId": "P51800027693",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800023608",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800027693",
     "description": "Runwal Commerz is a premier ready-possession business tower in Kanjurmarg West. Situated directly on LBS Marg near JVLR, it provides turnkey, scalable commercial spaces with vibrant retail and dining promenades on the lower concourses.",
     "features": [
       "Ready Possession Commercial Spaces",
@@ -132702,9 +132712,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "Runwal Greens Ready Possession Residences",
     "lat": 19.1685,
     "lng": 72.946,
-    "reraId": "P51800000341",
+    "reraId": "P51800000175",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800000341",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800000175",
     "description": "Runwal Greens is a sprawling 22-acre residential enclave in Mulund West. Featuring 7 acres of open green spaces and one of Mumbai's largest residential clubhouses measuring over 35,000 sq.ft, it is the benchmark for ready-possession luxury in the eastern suburbs.",
     "features": [
       "22-Acre Master Planned Community",
@@ -132773,9 +132783,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "Runwal Reserve Arabian Sea Residences",
     "lat": 19.0178,
     "lng": 72.8184,
-    "reraId": "P51900000287",
+    "reraId": "P51900000318",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51900000287",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51900000318",
     "description": "Runwal Reserve is an ultra-exclusive super-luxury residential tower situated in Worli, South Mumbai. Overlooking the Bandra-Worli Sea Link and the Arabian Sea, it sets a new pinnacle for elite waterfront living in the maximum city.",
     "features": [
       "Panoramic Bandra-Worli Sea Link Vistas",
@@ -132844,9 +132854,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "R Mall Retail Landmark",
     "lat": 19.1724,
     "lng": 72.9515,
-    "reraId": "P51800000490",
+    "reraId": "P51800000624",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800000490",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800000624",
     "description": "R Mall Mulund is Mumbai's iconic retail and entertainment destination developed by Runwal Group on LBS Marg. Hosting national and international brands, multiplex screens, family entertainment zones, and fine dining, it offers exceptional footfall and commercial yield.",
     "features": [
       "Iconic Retail Landmark on LBS Marg",
@@ -133409,9 +133419,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "R Square Mulund Corporate Spaces",
     "lat": 19.1745,
     "lng": 72.948,
-    "reraId": "P51800021450",
+    "reraId": "P51800022180",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800021450",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800022180",
     "description": "R Square Mulund is an iconic commercial office building situated directly on LBS Marg, Mulund West. Tailored for corporate firms, financial consultancies, IT enterprises, and medical professionals seeking prestigious office addresses with immediate ready possession.",
     "features": [
       "Ready Possession Commercial Offices",
@@ -133479,9 +133489,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "R Square Andheri East Corporate Hub",
     "lat": 19.1136,
     "lng": 72.8697,
-    "reraId": "P51800021980",
+    "reraId": "P51800023190",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800021980",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800023190",
     "description": "R Square Andheri is a premium Grade-A corporate complex in Andheri East, Mumbai's primary commercial nerve centre. Strategically located near Western Express Highway and Andheri Metro Station, it offers optimal corporate efficiency and international connectivity.",
     "features": [
       "Prime Andheri East Business District",
@@ -133543,9 +133553,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "The Residence South Mumbai Sea View",
     "lat": 18.9612,
     "lng": 72.8012,
-    "reraId": "P51900008345",
+    "reraId": "P51900000192",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51900008345",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51900000192",
     "description": "The Residence by Runwal is an iconic trophy address on Napean Sea Road, South Mumbai. Overlooking the Arabian Sea, this ultra-exclusive development stands among India's most coveted private estates, offering uncompromised privacy, bespoke concierge amenities, and ocean views.",
     "features": [
       "Napean Sea Road Trophy Address",
@@ -133608,9 +133618,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "Runwal Elina Ready Possession Apartments",
     "lat": 19.1024,
     "lng": 72.8834,
-    "reraId": "P51800001433",
+    "reraId": "P51800002143",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800001433",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800002143",
     "description": "Runwal Elina is a well-established ready-possession residential enclave in Sakinaka, Andheri East. Offering immediate move-in homes right next to Sakinaka Metro Station and minutes from the International Airport and Powai business hub.",
     "features": [
       "Ready Possession Homes with OC Received",
@@ -133673,9 +133683,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "Runwal Orchard Residency Ready Residences",
     "lat": 19.0912,
     "lng": 72.9082,
-    "reraId": "P51800001443",
+    "reraId": "P51800000215",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800001443",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51800000215",
     "description": "Runwal Orchard Residency is an upscale residential community in Ghatkopar West. Situated near LBS Marg and Ghatkopar Metro Station, it combines ready possession luxury homes with tranquil landscaped orchards and resort clubhouse facilities.",
     "features": [
       "Ready Possession Luxury Homes",
@@ -133744,9 +133754,9 @@ export const PROJECTS: Project[] = [
     "imageAlt": "Runwal Eirene Waterfront Township",
     "lat": 19.2268,
     "lng": 72.9915,
-    "reraId": "P51700000125",
+    "reraId": "P51700004515",
     "verificationStatus": "Verified",
-    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51700000125",
+    "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P51700004515",
     "description": "Runwal Eirene: Oasis of Peace is an expansive waterfront residential enclave set across scenic acreage in Balkum, Thane West. Designed for peaceful family living with views of the Yeoor Hills and Ulhas River, complemented by twin clubhouses and 40+ resort amenities.",
     "features": [
       "Waterfront Oasis with Yeoor Hills Vistas",
