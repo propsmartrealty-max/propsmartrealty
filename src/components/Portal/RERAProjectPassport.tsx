@@ -60,7 +60,14 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
                     </div>
 
                     {/* Quick Verification Actions */}
-                    <div className="flex items-center gap-3 shrink-0">
+                    <div className="flex items-center gap-2.5 flex-wrap shrink-0">
+                        <a
+                            href={`/verify-rera?id=${encodeURIComponent(reraId)}`}
+                            className="inline-flex items-center gap-2 px-4 py-3 rounded-xl bg-white/10 hover:bg-white/20 text-white font-bold text-xs uppercase tracking-wider transition-all border border-white/20 backdrop-blur-md"
+                        >
+                            <ShieldCheck className="w-4 h-4 text-emerald-400" />
+                            <span>Verification Tool</span>
+                        </a>
                         <a
                             href={verificationUrl}
                             target="_blank"
@@ -68,7 +75,7 @@ const RERAProjectPassport: React.FC<RERAProjectPassportProps> = ({
                             className="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs uppercase tracking-wider transition-all shadow-lg shadow-emerald-900/40 hover:scale-105 active:scale-95"
                         >
                             <FileText className="w-4 h-4" />
-                            <span>Verify on MahaRERA</span>
+                            <span>Verify on Official Portal</span>
                             <ExternalLink className="w-3.5 h-3.5" />
                         </a>
                     </div>

@@ -83,6 +83,8 @@ async function run() {
         { url: '/flats-in-pune', changefreq: 'daily', priority: '0.95' },
         { url: '/flats-in-mumbai', changefreq: 'daily', priority: '0.95' },
         { url: '/flats-in-thane', changefreq: 'daily', priority: '0.9' },
+        { url: '/verify-rera', changefreq: 'daily', priority: '0.95' },
+        { url: '/maharera-verification', changefreq: 'daily', priority: '0.9' },
         { url: '/compare', changefreq: 'weekly', priority: '0.7' },
         { url: '/about', changefreq: 'monthly', priority: '0.6' },
         { url: '/contact', changefreq: 'monthly', priority: '0.6' },

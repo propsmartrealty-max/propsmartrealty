@@ -32,6 +32,7 @@ const AdminLeads = React.lazy(() => import('./pages/admin/Leads'));
 const AdminSeedData = React.lazy(() => import('./pages/admin/SeedData'));
 const AdminMedia = React.lazy(() => import('./pages/admin/MediaGallery'));
 const CompareProjects = React.lazy(() => import('./pages/CompareProjects'));
+const MahaRERAVerification = React.lazy(() => import('./pages/MahaRERAVerification'));
 
 const LoadingFallback = () => (
     <div className="h-screen w-full flex items-center justify-center">
@@ -268,6 +269,9 @@ function App() {
                                     <Route path="/builders/:slug" element={<BuilderDetails />} />
 
                                     {/* Static & Form Pages */}
+                                    <Route path="/verify-rera" element={<MahaRERAVerification />} />
+                                    <Route path="/verify-rera/:reraId" element={<MahaRERAVerification />} />
+                                    <Route path="/maharera-verification" element={<MahaRERAVerification />} />
                                     <Route path="/compare" element={<CompareProjects />} />
                                     <Route path="/post-property" element={<PostProperty />} />
                                     <Route path="/about" element={<About />} />

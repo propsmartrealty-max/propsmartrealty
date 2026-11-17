@@ -1779,14 +1779,22 @@ const ProjectDetails = () => {
                                     </div>
                                 </div>
                                 {project.reraId && (
-                                    <a
-                                        href={getMahaRERAVerificationUrl(project.reraId)}
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                        className="text-xs font-bold text-amber-400 hover:text-amber-300 flex items-center gap-1 underline"
-                                    >
-                                        Verify <ExternalLink className="w-3 h-3" />
-                                    </a>
+                                    <div className="flex items-center gap-2">
+                                        <Link
+                                            to={`/verify-rera?id=${encodeURIComponent(project.reraId)}`}
+                                            className="text-xs font-bold text-sky-400 hover:text-sky-300 flex items-center gap-1 underline"
+                                        >
+                                            Tool <ShieldCheck className="w-3 h-3" />
+                                        </Link>
+                                        <a
+                                            href={getMahaRERAVerificationUrl(project.reraId)}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="text-xs font-bold text-emerald-400 hover:text-emerald-300 flex items-center gap-1 underline"
+                                        >
+                                            Official <ExternalLink className="w-3 h-3" />
+                                        </a>
+                                    </div>
                                 )}
                             </div>
                             <p className="text-[11px] text-slate-400 mt-2 leading-relaxed border-t border-slate-800/80 pt-2">
@@ -1804,17 +1812,25 @@ const ProjectDetails = () => {
                                         <p className="text-xs text-green-700 mt-1">
                                             This project's RERA ID ({project.reraId}) has been verified against official records.
                                         </p>
-                                        {project.verificationSource && project.verificationSource.startsWith('http') ? (
-                                            <a href={project.verificationSource} target="_blank" rel="noreferrer" className="text-xs font-semibold text-green-800 underline mt-2 inline-flex items-center gap-1 hover:text-green-900">
-                                                <span>View Official Certificate</span>
+                                        <div className="flex items-center gap-3 mt-2 flex-wrap">
+                                            <a 
+                                                href={project.verificationSource && project.verificationSource.startsWith('http') ? project.verificationSource : getMahaRERAVerificationUrl(project.reraId)} 
+                                                target="_blank" 
+                                                rel="noreferrer" 
+                                                className="text-xs font-semibold text-emerald-800 underline inline-flex items-center gap-1 hover:text-emerald-900"
+                                            >
+                                                <span>Verify on Official Portal</span>
                                                 <ExternalLink className="w-3 h-3" />
                                             </a>
-                                        ) : (
-                                            <a href={project.reraId ? getMahaRERAVerificationUrl(project.reraId) : "https://maharera.maharashtra.gov.in/"} target="_blank" rel="noreferrer" className="text-xs font-semibold text-green-800 underline mt-2 inline-flex items-center gap-1 hover:text-green-900">
-                                                <span>Verify on Official MahaRERA Portal</span>
-                                                <ExternalLink className="w-3 h-3" />
-                                            </a>
-                                        )}
+                                            <span className="text-emerald-300">•</span>
+                                            <Link 
+                                                to={`/verify-rera?id=${encodeURIComponent(project.reraId)}`} 
+                                                className="text-xs font-bold text-sky-800 underline inline-flex items-center gap-1 hover:text-sky-900"
+                                            >
+                                                <span>Verification Tool</span>
+                                                <ShieldCheck className="w-3 h-3 text-sky-700" />
+                                            </Link>
+                                        </div>
                                     </div>
                                 </div>
                             )

@@ -1,5 +1,5 @@
 
-import { Home, Building2, Key, Rocket, MapPin, Users, Calculator, FileText, Phone } from 'lucide-react';
+import { Home, Building2, Key, Rocket, MapPin, Users, Calculator, FileText, Phone, ShieldCheck } from 'lucide-react';
 
 export interface NavItem {
     name: string;
@@ -33,9 +33,15 @@ export const NAVIGATION_CONFIG: NavItem[] = [
         icon: Rocket
     },
     {
+        name: 'Verify RERA',
+        path: '/verify-rera',
+        icon: ShieldCheck
+    },
+    {
         name: 'Directory',
         icon: Users,
         children: [
+            { name: 'MahaRERA Verification Tool', path: '/verify-rera' },
             { name: 'Verified Builders', path: '/directory?view=builders' },
             { name: 'All Projects', path: '/directory?view=projects' },
             { name: 'Top Localities', path: '/search' },
@@ -45,6 +51,7 @@ export const NAVIGATION_CONFIG: NavItem[] = [
         name: 'More',
         icon: FileText,
         children: [
+            { name: 'MahaRERA Verification', path: '/verify-rera' },
             { name: 'About Us', path: '/about' },
             { name: 'Contact Us', path: '/contact' },
         ]

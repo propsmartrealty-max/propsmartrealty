@@ -129,6 +129,8 @@ const Footer = () => {
                 <div className="pt-4 text-center text-xs text-gray-500 space-y-2">
                     <p>© 2026 PROPSMART REALTY. All rights reserved.</p>
                     <div className="flex flex-wrap items-center justify-center gap-3 text-xs text-slate-400">
+                        <Link to="/verify-rera" className="text-emerald-400 font-bold hover:text-emerald-300 transition-colors">MahaRERA Verification Tool</Link>
+                        <span>•</span>
                         <Link to="/privacy-policy" className="hover:text-emerald-400 transition-colors">Privacy Policy</Link>
                         <span>•</span>
                         <Link to="/terms" className="hover:text-emerald-400 transition-colors">Terms of Service</Link>
