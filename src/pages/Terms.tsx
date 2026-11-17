@@ -66,7 +66,7 @@ const Terms: React.FC = () => {
                             <h2>4. Pricing, Floor Plans & Project Visuals</h2>
                         </div>
                         <p className="text-sm sm:text-base text-slate-600 leading-relaxed">
-                            Prices, floor plans, specifications, elevation renders, and possession dates displayed on the platform are provided by the respective project developers and are indicative. Final prices, government levies (Stamp Duty, Registration, GST), and availability are determined at the time of official booking with developer sales desks.
+                            Prices, floor plans, specifications, elevation renders, and possession dates displayed on the platform are provided by the respective project developers and are indicative. All-inclusive prices, government levies (Stamp Duty, Registration, GST), and availability are determined at the time of official booking with developer sales desks.
                         </p>
                     </section>
 

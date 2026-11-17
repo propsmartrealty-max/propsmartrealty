@@ -8001,6 +8001,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "665 - 902 sq.ft"
       }
     ],
     "highlights": [
@@ -8097,7 +8101,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Godrej Hillside 3?",
-        "answer": "Prices at Godrej Hillside 3 range from ₹ 81.00 Lac – 1.06 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Godrej Hillside 3 range from ₹ 81.00 Lac – 1.06 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Godrej Hillside 3?",
@@ -8249,6 +8253,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,688 - 2,529 sq.ft"
       }
     ],
     "highlights": [
@@ -8313,7 +8321,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Godrej River Royale?",
-        "answer": "Prices at Godrej River Royale range from ₹ 2.60 Cr – 3.60 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Godrej River Royale range from ₹ 2.60 Cr – 3.60 Cr (all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Godrej River Royale?",
@@ -8469,6 +8477,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,500 - 2,500 sq.ft"
       }
     ],
     "highlights": [
@@ -8533,7 +8545,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Godrej Eden Estate Phase 2?",
-        "answer": "Prices at Godrej Eden Estate Phase 2 range from ₹ 2.39 Cr – 3.04 Cr (final all-inclusive price). Homes are available as 1 BHK Plot."
+        "answer": "Prices at Godrej Eden Estate Phase 2 range from ₹ 2.39 Cr – 3.04 Cr (all-inclusive price). Homes are available as 1 BHK Plot."
       },
       {
         "question": "Which configurations are available at Godrej Eden Estate Phase 2?",
@@ -8689,6 +8701,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "578 - 1,200 sq.ft"
       }
     ],
     "highlights": [
@@ -8785,7 +8801,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VTP Bellissimo?",
-        "answer": "Prices at VTP Bellissimo range from ₹ 84.00 Lac – 93.00 Lac (final all-inclusive price). Homes are available as 2 BHK."
+        "answer": "Prices at VTP Bellissimo range from ₹ 84.00 Lac – 93.00 Lac (all-inclusive price). Homes are available as 2 BHK."
       },
       {
         "question": "Which configurations are available at VTP Bellissimo?",
@@ -8955,6 +8971,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "674 - 1,050 sq.ft"
       }
     ],
     "highlights": [
@@ -9115,7 +9135,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VTP Dolce Vita?",
-        "answer": "Prices at VTP Dolce Vita range from ₹ 77.65 Lac – 2.07 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at VTP Dolce Vita range from ₹ 77.65 Lac – 2.07 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at VTP Dolce Vita?",
@@ -9220,11 +9240,12 @@ export const PROJECTS: Project[] = [
     "slug": "vtp-naturescape",
     "builderId": "b-vtp",
     "location": "Bavdhan",
-    "priceRange": "₹88.00 L - ₹1.55 Cr",
+    "priceRange": "₹88.00 L - ₹2.43 Cr",
     "exactPrice": "₹88.00 L",
     "configurations": [
       "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -9291,6 +9312,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "760 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -9403,7 +9428,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VTP Naturescape?",
-        "answer": "Prices at VTP Naturescape range from ₹ 88.00 Lac – 2.43 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at VTP Naturescape range from ₹ 88.00 Lac – 2.43 Cr (all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at VTP Naturescape?",
@@ -9461,6 +9486,11 @@ export const PROJECTS: Project[] = [
         "type": "3 BHK Royale",
         "carpetArea": "1180 sq.ft",
         "priceRange": "₹1.55 Cr"
+      },
+      {
+        "type": "4 BHK Imperial Sky Villa",
+        "carpetArea": "1,750 sq.ft",
+        "priceRange": "₹2.43 Cr"
       }
     ],
     "images": [
@@ -9506,11 +9536,12 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-giardino",
     "builderId": "b-lodha",
     "location": "Wagholi",
-    "priceRange": "₹95.83 L - ₹1.30 Cr",
+    "priceRange": "₹95.83 L - ₹2.57 Cr",
     "exactPrice": "₹95.83 L",
     "configurations": [
       "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -9586,6 +9617,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "807 - 1,885 sq.ft"
       }
     ],
     "highlights": [
@@ -9698,7 +9733,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Lodha Giardino?",
-        "answer": "Prices at Lodha Giardino range from ₹ 95.83 Lac – 2.57 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Lodha Giardino range from ₹ 95.83 Lac – 2.57 Cr (all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Lodha Giardino?",
@@ -9762,6 +9797,11 @@ export const PROJECTS: Project[] = [
         "type": "3 BHK Luxury Unit",
         "carpetArea": "938 sq.ft",
         "priceRange": "₹1.30 Cr"
+      },
+      {
+        "type": "4 BHK Signature Residence",
+        "carpetArea": "1,885 sq.ft",
+        "priceRange": "₹2.57 Cr"
       }
     ],
     "images": [
@@ -9813,10 +9853,13 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-panache",
     "builderId": "b-lodha",
     "location": "Hinjewadi",
-    "priceRange": "₹1.15 Cr - ₹1.20 Cr",
+    "priceRange": "₹1.15 Cr - ₹2.80 Cr",
     "exactPrice": "₹1.15 Cr",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK",
+      "4 BHK",
+      "5 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -9892,6 +9935,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "862 - 3,800 sq.ft"
       }
     ],
     "highlights": [
@@ -9972,7 +10019,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Lodha Panache?",
-        "answer": "Prices at Lodha Panache range from ₹ 1.15 Cr – 2.80 Cr (final all-inclusive price). Homes are available as 2, 3, 4, 5 BHK."
+        "answer": "Prices at Lodha Panache range from ₹ 1.15 Cr – 2.80 Cr (all-inclusive price). Homes are available as 2, 3, 4, 5 BHK."
       },
       {
         "question": "Which configurations are available at Lodha Panache?",
@@ -10025,6 +10072,21 @@ export const PROJECTS: Project[] = [
         "type": "2 BHK Luxury Unit",
         "carpetArea": "883 sq.ft",
         "priceRange": "₹1.20 Cr"
+      },
+      {
+        "type": "3 BHK Luxury Suite",
+        "carpetArea": "1,150 sq.ft",
+        "priceRange": "₹1.65 Cr"
+      },
+      {
+        "type": "4 BHK Signature Residence",
+        "carpetArea": "1,850 sq.ft",
+        "priceRange": "₹2.25 Cr"
+      },
+      {
+        "type": "5 BHK Palatial Penthouse",
+        "carpetArea": "3,800 sq.ft",
+        "priceRange": "₹2.80 Cr"
       }
     ],
     "images": [
@@ -10075,10 +10137,12 @@ export const PROJECTS: Project[] = [
     "slug": "lodha-bella-vita",
     "builderId": "b-lodha",
     "location": "Mohammed Wadi",
-    "priceRange": "₹1.05 Cr",
+    "priceRange": "₹1.05 Cr - ₹1.67 Cr",
     "exactPrice": "₹1.05 Cr",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK",
+      "3.5 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -10143,6 +10207,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "811 - 1,196 sq.ft"
       }
     ],
     "highlights": [
@@ -10207,7 +10275,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Lodha Bella Vita?",
-        "answer": "Prices at Lodha Bella Vita range from ₹ 1.05 Cr – 1.67 Cr (final all-inclusive price). Homes are available as 2, 3, 3.5 BHK."
+        "answer": "Prices at Lodha Bella Vita range from ₹ 1.05 Cr – 1.67 Cr (all-inclusive price). Homes are available as 2, 3, 3.5 BHK."
       },
       {
         "question": "Which configurations are available at Lodha Bella Vita?",
@@ -10255,6 +10323,16 @@ export const PROJECTS: Project[] = [
         "type": "2 BHK Luxury Unit",
         "carpetArea": "811 sq.ft",
         "priceRange": "₹1.05 Cr"
+      },
+      {
+        "type": "3 BHK Luxury Suite",
+        "carpetArea": "1,050 sq.ft",
+        "priceRange": "₹1.45 Cr"
+      },
+      {
+        "type": "3.5 BHK Grande Residence",
+        "carpetArea": "1,196 sq.ft",
+        "priceRange": "₹1.67 Cr"
       }
     ],
     "images": [
@@ -10364,6 +10442,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,950 - 3,650 sq.ft"
       }
     ],
     "highlights": [
@@ -10444,7 +10526,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Panchshil Eon Waterfront?",
-        "answer": "Prices at Panchshil Eon Waterfront range from ₹ 4.90 Cr – 6.58 Cr (final all-inclusive price). Homes are available as 4 BHK."
+        "answer": "Prices at Panchshil Eon Waterfront range from ₹ 4.90 Cr – 6.58 Cr (all-inclusive price). Homes are available as 4 BHK."
       },
       {
         "question": "Which configurations are available at Panchshil Eon Waterfront?",
@@ -10591,6 +10673,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,373 - 3,882 sq.ft"
       }
     ],
     "highlights": [
@@ -10671,7 +10757,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Panchshil Towers?",
-        "answer": "Prices at Panchshil Towers range from ₹ 4.25 Cr – 8.50 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Panchshil Towers range from ₹ 4.25 Cr – 8.50 Cr (all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Panchshil Towers?",
@@ -10761,12 +10847,13 @@ export const PROJECTS: Project[] = [
     "slug": "rohan-ekam-balewadi",
     "builderId": "b-rohan",
     "location": "Balewadi",
-    "priceRange": "₹1.33 Cr - ₹3.42 Cr",
+    "priceRange": "₹1.33 Cr - ₹3.28 Cr",
     "exactPrice": "₹1.33 Cr",
     "configurations": [
       "2 BHK",
       "3 BHK",
-      "4 BHK"
+      "4 BHK",
+      "4.5 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -10827,6 +10914,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "869 - 2,158 sq.ft"
       }
     ],
     "highlights": [
@@ -10891,7 +10982,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Rohan Ekam Balewadi?",
-        "answer": "Prices at Rohan Ekam Balewadi range from ₹ 1.33 Cr – 3.28 Cr (final all-inclusive price). Homes are available as 2, 3, 4, 4.5 BHK."
+        "answer": "Prices at Rohan Ekam Balewadi range from ₹ 1.33 Cr – 3.28 Cr (all-inclusive price). Homes are available as 2, 3, 4, 4.5 BHK."
       },
       {
         "question": "Which configurations are available at Rohan Ekam Balewadi?",
@@ -10954,6 +11045,11 @@ export const PROJECTS: Project[] = [
         "type": "4 BHK Royale",
         "carpetArea": "2158 sq.ft",
         "priceRange": "₹3.42 Cr"
+      },
+      {
+        "type": "4.5 BHK Signature Sky Suite",
+        "carpetArea": "2,158 sq.ft",
+        "priceRange": "₹3.28 Cr"
       }
     ],
     "images": [
@@ -11045,6 +11141,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bhugaon / Bavdhan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "727 - 1,536 sq.ft"
       }
     ],
     "highlights": [
@@ -11108,7 +11208,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Rohan Saroha?",
-        "answer": "Prices at Rohan Saroha range from ₹ 87.00 Lac – 1.66 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Rohan Saroha range from ₹ 87.00 Lac – 1.66 Cr (all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Rohan Saroha?",
@@ -11245,6 +11345,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "910 - 2,158 sq.ft"
       }
     ],
     "highlights": [
@@ -11324,7 +11428,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Rohan Ekam Balewadi?",
-        "answer": "Prices at Rohan Ekam Balewadi range from ₹ 1.33 Cr – 3.28 Cr (final all-inclusive price). Homes are available as 2, 3, 4, 4.5 BHK."
+        "answer": "Prices at Rohan Ekam Balewadi range from ₹ 1.33 Cr – 3.28 Cr (all-inclusive price). Homes are available as 2, 3, 4, 4.5 BHK."
       },
       {
         "question": "Which configurations are available at Rohan Ekam Balewadi?",
@@ -11480,6 +11584,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "184 - 397 sq.ft"
       }
     ],
     "highlights": [
@@ -11544,7 +11652,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VJ IndiLife?",
-        "answer": "Prices at VJ IndiLife range from ₹ 25.95 Lac – 48.50 Lac (final all-inclusive price). Homes are available as Studio BHK."
+        "answer": "Prices at VJ IndiLife range from ₹ 25.95 Lac – 48.50 Lac (all-inclusive price). Homes are available as Studio BHK."
       },
       {
         "question": "Which configurations are available at VJ IndiLife?",
@@ -11650,10 +11758,12 @@ export const PROJECTS: Project[] = [
     "slug": "vj-pkc-central",
     "builderId": "b-vilas-javdekar",
     "location": "Kharadi",
-    "priceRange": "₹1.10 Cr - ₹1.24 Cr",
+    "priceRange": "₹1.10 Cr - ₹1.90 Cr",
     "exactPrice": "₹1.10 Cr",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -11715,6 +11825,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "756 - 1,320 sq.ft"
       }
     ],
     "highlights": [
@@ -11795,7 +11909,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VJ PKC Central?",
-        "answer": "Prices at VJ PKC Central range from ₹ 1.10 Cr – 1.90 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at VJ PKC Central range from ₹ 1.10 Cr – 1.90 Cr (all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at VJ PKC Central?",
@@ -11848,6 +11962,16 @@ export const PROJECTS: Project[] = [
         "type": "2 BHK Luxury Unit",
         "carpetArea": "825 sq.ft",
         "priceRange": "₹1.24 Cr"
+      },
+      {
+        "type": "3 BHK Elite Residence",
+        "carpetArea": "980 sq.ft",
+        "priceRange": "₹1.45 Cr"
+      },
+      {
+        "type": "4 BHK Grand Imperial",
+        "carpetArea": "1,320 sq.ft",
+        "priceRange": "₹1.90 Cr"
       }
     ],
     "images": [
@@ -11964,6 +12088,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 865 sq.ft"
       }
     ],
     "highlights": [
@@ -12044,7 +12172,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of VJ Yashwin Enchante?",
-        "answer": "Prices at VJ Yashwin Enchante range from ₹ 77.06 Lac – 2.14 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at VJ Yashwin Enchante range from ₹ 77.06 Lac – 2.14 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at VJ Yashwin Enchante?",
@@ -12216,6 +12344,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "688 - 988 sq.ft"
       }
     ],
     "highlights": [
@@ -12296,7 +12428,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of GT Pride?",
-        "answer": "Prices at GT Pride range from ₹ 53.00 Lac – 78.00 Lac (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at GT Pride range from ₹ 53.00 Lac – 78.00 Lac (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at GT Pride?",
@@ -12457,6 +12589,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "546 - 913 sq.ft"
       }
     ],
     "highlights": [
@@ -12601,7 +12737,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Pride Park Connect?",
-        "answer": "Prices at Pride Park Connect range from ₹ 66.85 Lac – 1.12 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Pride Park Connect range from ₹ 66.85 Lac – 1.12 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Pride Park Connect?",
@@ -12786,6 +12922,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,199 - 1,736 sq.ft"
       }
     ],
     "highlights": [
@@ -12850,7 +12990,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Codename Pride Of Chinchwad?",
-        "answer": "Prices at Codename Pride Of Chinchwad range from ₹ 1.49 Cr – 2.18 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Codename Pride Of Chinchwad range from ₹ 1.49 Cr – 2.18 Cr (all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Codename Pride Of Chinchwad?",
@@ -13002,6 +13142,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,519 - 1,836 sq.ft"
       }
     ],
     "highlights": [
@@ -13066,7 +13210,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Nyati Evoque?",
-        "answer": "Prices at Nyati Evoque range from ₹ 3.57 Cr – 4.33 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Nyati Evoque range from ₹ 3.57 Cr – 4.33 Cr (all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Nyati Evoque?",
@@ -13216,6 +13360,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "838 - 1,213 sq.ft"
       }
     ],
     "highlights": [
@@ -13280,7 +13428,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Nyati Emerald?",
-        "answer": "Prices at Nyati Emerald range from ₹ 1.18 Cr – 1.65 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Nyati Emerald range from ₹ 1.18 Cr – 1.65 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Nyati Emerald?",
@@ -13431,6 +13579,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "838 - 1,214 sq.ft"
       }
     ],
     "highlights": [
@@ -13495,7 +13647,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Nyati Esteban 2?",
-        "answer": "Prices at Nyati Esteban 2 range from ₹ 84.00 Lac – 1.22 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Nyati Esteban 2 range from ₹ 84.00 Lac – 1.22 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Nyati Esteban 2?",
@@ -13651,6 +13803,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "753 - 1,218 sq.ft"
       }
     ],
     "highlights": [
@@ -13747,7 +13903,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Gera Hinjewadi Phase 3 – 0?",
-        "answer": "Prices at Gera Hinjewadi Phase 3 – 0 range from ₹ 83.40 Lac – 1.47 Cr (final all-inclusive price). Homes are available as 2, 3 BHK, Duplex."
+        "answer": "Prices at Gera Hinjewadi Phase 3 – 0 range from ₹ 83.40 Lac – 1.47 Cr (all-inclusive price). Homes are available as 2, 3 BHK, Duplex."
       },
       {
         "question": "Which configurations are available at Gera Hinjewadi Phase 3 – 0?",
@@ -13894,6 +14050,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bhosari / PCMC, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "350 - 1,500 sq.ft"
       }
     ],
     "highlights": [
@@ -13957,7 +14117,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Gera Imperium Gateway – A?",
-        "answer": "Prices at Gera Imperium Gateway – A range from ₹ 65.64 Lac – 3.50 Cr (final all-inclusive price). Homes are available as Commercial Office."
+        "answer": "Prices at Gera Imperium Gateway – A range from ₹ 65.64 Lac – 3.50 Cr (all-inclusive price). Homes are available as Commercial Office."
       },
       {
         "question": "Which configurations are available at Gera Imperium Gateway – A?",
@@ -14088,6 +14248,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hinjewadi Phase 3, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "690 - 1,040 sq.ft"
       }
     ],
     "highlights": [
@@ -14167,7 +14331,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Gera Joy On Treetop?",
-        "answer": "Prices at Gera Joy On Treetop range from ₹ 85.90 Lac – 1.38 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Gera Joy On Treetop range from ₹ 85.90 Lac – 1.38 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Gera Joy On Treetop?",
@@ -14314,6 +14478,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 sq.ft"
       }
     ],
     "highlights": [
@@ -14378,7 +14546,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kasturi Apostrophe?",
-        "answer": "Prices at Kasturi Apostrophe range from ₹ 88.00 Lac (final all-inclusive price). Homes are available as 2 BHK."
+        "answer": "Prices at Kasturi Apostrophe range from ₹ 88.00 Lac (all-inclusive price). Homes are available as 2 BHK."
       },
       {
         "question": "Which configurations are available at Kasturi Apostrophe?",
@@ -14538,6 +14706,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "839 - 1,260 sq.ft"
       }
     ],
     "highlights": [
@@ -14618,7 +14790,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kasturi Eon Homes?",
-        "answer": "Prices at Kasturi Eon Homes range from ₹ 1.10 Cr – 1.79 Cr (final all-inclusive price). Homes are available as 2, 2.5, 3 BHK."
+        "answer": "Prices at Kasturi Eon Homes range from ₹ 1.10 Cr – 1.79 Cr (all-inclusive price). Homes are available as 2, 2.5, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kasturi Eon Homes?",
@@ -14719,11 +14891,12 @@ export const PROJECTS: Project[] = [
     "slug": "kasturi-the-balmoral-towers",
     "builderId": "b-kasturi",
     "location": "Balewadi",
-    "priceRange": "₹2.13 Cr - ₹6.11 Cr",
+    "priceRange": "₹2.03 Cr - ₹7.51 Cr",
     "exactPrice": "₹2.13 Cr",
     "configurations": [
       "3 BHK",
       "4 BHK",
+      "5.5 BHK",
       "Penthouse"
     ],
     "status": "Under Construction",
@@ -14789,6 +14962,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,108 - 3,742 sq.ft"
       }
     ],
     "highlights": [
@@ -14853,7 +15030,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kasturi The Balmoral Towers?",
-        "answer": "Prices at Kasturi The Balmoral Towers range from ₹ 2.03 Cr – 7.51 Cr (final all-inclusive price). Homes are available as 3, 4, 4.5, 5.5 BHK."
+        "answer": "Prices at Kasturi The Balmoral Towers range from ₹ 2.03 Cr – 7.51 Cr (all-inclusive price). Homes are available as 3, 4, 4.5, 5.5 BHK."
       },
       {
         "question": "Which configurations are available at Kasturi The Balmoral Towers?",
@@ -14916,6 +15093,11 @@ export const PROJECTS: Project[] = [
         "type": "Signature Penthouse",
         "carpetArea": "2850 sq.ft",
         "priceRange": "₹6.11 Cr"
+      },
+      {
+        "type": "5.5 BHK Imperial Sky Mansion",
+        "carpetArea": "3,742 sq.ft",
+        "priceRange": "₹7.51 Cr"
       }
     ],
     "images": [
@@ -15028,6 +15210,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "750 - 1,050 sq.ft"
       }
     ],
     "highlights": [
@@ -15092,7 +15278,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Mahindra Happinest – D,E,F,G?",
-        "answer": "Prices at Mahindra Happinest – D,E,F,G range from ₹ 45.00 Lac (final all-inclusive price). Homes are available as 1 BHK."
+        "answer": "Prices at Mahindra Happinest – D,E,F,G range from ₹ 45.00 Lac (all-inclusive price). Homes are available as 1 BHK."
       },
       {
         "question": "Which configurations are available at Mahindra Happinest – D,E,F,G?",
@@ -15255,6 +15441,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "634 - 1,665 sq.ft"
       }
     ],
     "highlights": [
@@ -15335,7 +15525,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Mahindra Citadel?",
-        "answer": "Prices at Mahindra Citadel range from ₹ 88.00 Lac – 1.21 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Mahindra Citadel range from ₹ 88.00 Lac – 1.21 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Mahindra Citadel?",
@@ -15444,11 +15634,12 @@ export const PROJECTS: Project[] = [
     "slug": "mahindra-kharadi",
     "builderId": "b-mahindra",
     "location": "Kharadi",
-    "priceRange": "₹95.00 L - ₹1.84 Cr",
+    "priceRange": "₹98.00 L - ₹2.12 Cr",
     "exactPrice": "₹95.00 L",
     "configurations": [
       "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -15514,6 +15705,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "769 - 1,599 sq.ft"
       }
     ],
     "highlights": [
@@ -15594,7 +15789,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Mahindra Kharadi?",
-        "answer": "Prices at Mahindra Kharadi range from ₹ 98.00 Lac – 2.12 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Mahindra Kharadi range from ₹ 98.00 Lac – 2.12 Cr (all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Mahindra Kharadi?",
@@ -15652,6 +15847,11 @@ export const PROJECTS: Project[] = [
         "type": "3 BHK Royale",
         "carpetArea": "1237 sq.ft",
         "priceRange": "₹1.84 Cr"
+      },
+      {
+        "type": "4 BHK Presidential Suite",
+        "carpetArea": "1,599 sq.ft",
+        "priceRange": "₹2.12 Cr"
       }
     ],
     "images": [
@@ -15696,11 +15896,12 @@ export const PROJECTS: Project[] = [
     "slug": "kumar-parth-tower",
     "builderId": "b-kumar",
     "location": "Baner",
-    "priceRange": "₹99.00 L - ₹1.63 Cr",
+    "priceRange": "₹1.04 Cr - ₹1.90 Cr",
     "exactPrice": "₹99.00 L",
     "configurations": [
       "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -15762,6 +15963,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "760 - 1,500 sq.ft"
       }
     ],
     "highlights": [
@@ -15826,7 +16031,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kumar Parth Tower?",
-        "answer": "Prices at Kumar Parth Tower range from ₹ 1.04 Cr – 1.90 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Kumar Parth Tower range from ₹ 1.04 Cr – 1.90 Cr (all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Kumar Parth Tower?",
@@ -15884,6 +16089,11 @@ export const PROJECTS: Project[] = [
         "type": "3 BHK Royale",
         "carpetArea": "1177 sq.ft",
         "priceRange": "₹1.63 Cr"
+      },
+      {
+        "type": "4 BHK Royale Suite",
+        "carpetArea": "1,500 sq.ft",
+        "priceRange": "₹1.90 Cr"
       }
     ],
     "images": [
@@ -15987,6 +16197,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "764 - 1,280 sq.ft"
       }
     ],
     "highlights": [
@@ -16067,7 +16281,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kumar Palmspring Towers?",
-        "answer": "Prices at Kumar Palmspring Towers range from ₹ 82.38 Lac – 1.19 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Kumar Palmspring Towers range from ₹ 82.38 Lac – 1.19 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kumar Palmspring Towers?",
@@ -16229,6 +16443,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "658 sq.ft"
       }
     ],
     "highlights": [
@@ -16293,7 +16511,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kumar Codename Centrestage – 0?",
-        "answer": "Prices at Kumar Codename Centrestage – 0 range from ₹ 64.00 Lac (final all-inclusive price). Homes are available as 2 BHK."
+        "answer": "Prices at Kumar Codename Centrestage – 0 range from ₹ 64.00 Lac (all-inclusive price). Homes are available as 2 BHK."
       },
       {
         "question": "Which configurations are available at Kumar Codename Centrestage – 0?",
@@ -16436,6 +16654,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Camp, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "736 - 2,800 sq.ft"
       }
     ],
     "highlights": [
@@ -16563,7 +16785,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Bramhacorp Hues Of Sky?",
-        "answer": "Prices at Bramhacorp Hues Of Sky range from ₹ 1.56 Cr – 4.17 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Bramhacorp Hues Of Sky range from ₹ 1.56 Cr – 4.17 Cr (all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Bramhacorp Hues Of Sky?",
@@ -16697,6 +16919,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "350 - 580 sq.ft"
       }
     ],
     "highlights": [
@@ -16760,7 +16986,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Bramhacorp Townhouse?",
-        "answer": "Prices at Bramhacorp Townhouse range from ₹ 35.00 Lac (final all-inclusive price). Homes are available as 1, 1 RK BHK."
+        "answer": "Prices at Bramhacorp Townhouse range from ₹ 35.00 Lac (all-inclusive price). Homes are available as 1, 1 RK BHK."
       },
       {
         "question": "Which configurations are available at Bramhacorp Townhouse?",
@@ -16885,6 +17111,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "New Kalyani Nagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "484 - 590 sq.ft"
       }
     ],
     "highlights": [
@@ -16964,7 +17194,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Bramhacorp August Towers?",
-        "answer": "Prices at Bramhacorp August Towers range from ₹ 57.70 Lac – 57.90 Lac (final all-inclusive price). Homes are available as 2 BHK."
+        "answer": "Prices at Bramhacorp August Towers range from ₹ 57.70 Lac – 57.90 Lac (all-inclusive price). Homes are available as 2 BHK."
       },
       {
         "question": "Which configurations are available at Bramhacorp August Towers?",
@@ -17091,6 +17321,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "663 - 1,037 sq.ft"
       }
     ],
     "highlights": [
@@ -17293,6 +17527,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "393 - 815 sq.ft"
       }
     ],
     "highlights": [
@@ -17405,7 +17643,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Joyville annexe?",
-        "answer": "Prices at Joyville annexe range from ₹ 46.00 Lac – 1.30 Cr (final all-inclusive price). Homes are available as 1, 2, 3 BHK."
+        "answer": "Prices at Joyville annexe range from ₹ 46.00 Lac – 1.30 Cr (all-inclusive price). Homes are available as 1, 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Joyville annexe?",
@@ -17582,6 +17820,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "589 - 936 sq.ft"
       }
     ],
     "highlights": [
@@ -17710,7 +17952,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Joyville Celestia?",
-        "answer": "Prices at Joyville Celestia range from ₹ 77.00 Lac – 1.76 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Joyville Celestia range from ₹ 77.00 Lac – 1.76 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Joyville Celestia?",
@@ -17822,11 +18064,12 @@ export const PROJECTS: Project[] = [
     "slug": "joyville-sensorium",
     "builderId": "b-joyville",
     "location": "Hinjewadi",
-    "priceRange": "₹90.00 L - ₹1.29 Cr",
+    "priceRange": "₹90.00 L - ₹2.33 Cr",
     "exactPrice": "₹90.00 L",
     "configurations": [
       "2 BHK",
-      "3 BHK"
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -17892,6 +18135,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "697 - 1,756 sq.ft"
       }
     ],
     "highlights": [
@@ -17988,7 +18235,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Joyville Sensorium?",
-        "answer": "Prices at Joyville Sensorium range from ₹ 90.00 Lac – 2.33 Cr (final all-inclusive price). Homes are available as 2, 3, 5, 4 BHK."
+        "answer": "Prices at Joyville Sensorium range from ₹ 90.00 Lac – 2.33 Cr (all-inclusive price). Homes are available as 2, 3, 5, 4 BHK."
       },
       {
         "question": "Which configurations are available at Joyville Sensorium?",
@@ -18046,6 +18293,11 @@ export const PROJECTS: Project[] = [
         "type": "3 BHK Luxury Unit",
         "carpetArea": "973 sq.ft",
         "priceRange": "₹1.29 Cr"
+      },
+      {
+        "type": "4 BHK Grand Symphony",
+        "carpetArea": "1,756 sq.ft",
+        "priceRange": "₹2.33 Cr"
       }
     ],
     "images": [
@@ -18162,6 +18414,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "730 - 910 sq.ft"
       }
     ],
     "highlights": [
@@ -18306,7 +18562,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kohinoor Kharadi – 5?",
-        "answer": "Prices at Kohinoor Kharadi – 5 range from ₹ 99.00 Lac – 1.42 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Kohinoor Kharadi – 5 range from ₹ 99.00 Lac – 1.42 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kohinoor Kharadi – 5?",
@@ -18495,6 +18751,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "701 - 1,074 sq.ft"
       }
     ],
     "highlights": [
@@ -18575,7 +18835,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kohinoor Shangrila?",
-        "answer": "Prices at Kohinoor Shangrila range from ₹ 95.53 Lac – 1.45 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Kohinoor Shangrila range from ₹ 95.53 Lac – 1.45 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kohinoor Shangrila?",
@@ -18730,7 +18990,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "725 - 1,087 sq.ft."
+        "value": "725 - 1,087 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -18863,7 +19123,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kohinoor Central Park – 0?",
-        "answer": "Prices at Kohinoor Central Park – 0 range from ₹ 80.50 Lac – 1.18 Cr (final all-inclusive price). Homes are available as 2, 3 BHK."
+        "answer": "Prices at Kohinoor Central Park – 0 range from ₹ 80.50 Lac – 1.18 Cr (all-inclusive price). Homes are available as 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Kohinoor Central Park – 0?",
@@ -19015,6 +19275,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "780 sq.ft"
       }
     ],
     "highlights": [
@@ -19063,7 +19327,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kalpataru Jade Skyline – 5?",
-        "answer": "Prices at Kalpataru Jade Skyline – 5 range from ₹ 1.84 Cr (final all-inclusive price). Homes are available as 3, 2 BHK."
+        "answer": "Prices at Kalpataru Jade Skyline – 5 range from ₹ 1.84 Cr (all-inclusive price). Homes are available as 3, 2 BHK."
       },
       {
         "question": "Which configurations are available at Kalpataru Jade Skyline – 5?",
@@ -19220,6 +19484,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,350 - 2,600 sq.ft"
       }
     ],
     "highlights": [
@@ -19284,7 +19552,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kalpataru Jade Residences – Tower -H?",
-        "answer": "Prices at Kalpataru Jade Residences – Tower -H range from ₹ 3.09 Cr – 4.59 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Kalpataru Jade Residences – Tower -H range from ₹ 3.09 Cr – 4.59 Cr (all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Kalpataru Jade Residences – Tower -H?",
@@ -19381,10 +19649,12 @@ export const PROJECTS: Project[] = [
     "slug": "kalpataru-blossoms",
     "builderId": "b-kalpataru",
     "location": "Anand Nagar",
-    "priceRange": "₹1.56 Cr - ₹1.70 Cr",
+    "priceRange": "₹1.56 Cr - ₹5.25 Cr",
     "exactPrice": "₹1.56 Cr",
     "configurations": [
-      "2 BHK"
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -19440,6 +19710,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "877 - 2,622 sq.ft"
       }
     ],
     "highlights": [
@@ -19520,7 +19794,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Kalpataru Blossoms?",
-        "answer": "Prices at Kalpataru Blossoms range from ₹ 1.56 Cr – 5.25 Cr (final all-inclusive price). Homes are available as 2, 3, 4 BHK."
+        "answer": "Prices at Kalpataru Blossoms range from ₹ 1.56 Cr – 5.25 Cr (all-inclusive price). Homes are available as 2, 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Kalpataru Blossoms?",
@@ -19573,6 +19847,16 @@ export const PROJECTS: Project[] = [
         "type": "2 BHK Luxury Unit",
         "carpetArea": "930 sq.ft",
         "priceRange": "₹1.70 Cr"
+      },
+      {
+        "type": "3 BHK Grande Suite",
+        "carpetArea": "1,450 sq.ft",
+        "priceRange": "₹2.85 Cr"
+      },
+      {
+        "type": "4 BHK Royal Estate",
+        "carpetArea": "2,622 sq.ft",
+        "priceRange": "₹5.25 Cr"
       }
     ],
     "images": [
@@ -19666,6 +19950,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,450 - 2,981 sq.ft"
       }
     ],
     "highlights": [
@@ -19730,7 +20018,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Sobha Nesara?",
-        "answer": "Prices at Sobha Nesara range from ₹ 2.77 Cr – 4.76 Cr (final all-inclusive price). Homes are available as 3, 4 BHK."
+        "answer": "Prices at Sobha Nesara range from ₹ 2.77 Cr – 4.76 Cr (all-inclusive price). Homes are available as 3, 4 BHK."
       },
       {
         "question": "Which configurations are available at Sobha Nesara?",
@@ -19821,11 +20109,13 @@ export const PROJECTS: Project[] = [
     "slug": "sobha-nesara-block-3",
     "builderId": "b-sobha",
     "location": "Kothrud",
-    "priceRange": "₹3.60 Cr - ₹5.55 Cr",
+    "priceRange": "₹2.81 Cr - ₹4.10 Cr",
     "exactPrice": "₹3.60 Cr",
     "configurations": [
       "3 BHK",
-      "4 BHK"
+      "3.5 BHK",
+      "4 BHK",
+      "4.5 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -19892,6 +20182,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,450 - 2,987 sq.ft"
       }
     ],
     "highlights": [
@@ -19956,7 +20250,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Sobha Nesara Block 3?",
-        "answer": "Prices at Sobha Nesara Block 3 range from ₹ 2.81 Cr – 4.10 Cr (final all-inclusive price). Homes are available as 3, 3.5, 4, 4.5 BHK."
+        "answer": "Prices at Sobha Nesara Block 3 range from ₹ 2.81 Cr – 4.10 Cr (all-inclusive price). Homes are available as 3, 3.5, 4, 4.5 BHK."
       },
       {
         "question": "Which configurations are available at Sobha Nesara Block 3?",
@@ -20014,6 +20308,16 @@ export const PROJECTS: Project[] = [
         "type": "4 BHK Presidential Palace",
         "carpetArea": "2981 sq.ft",
         "priceRange": "₹5.55 Cr"
+      },
+      {
+        "type": "3.5 BHK Luxury Suite",
+        "carpetArea": "2,450 sq.ft",
+        "priceRange": "₹3.40 Cr"
+      },
+      {
+        "type": "4.5 BHK Presidential Suite",
+        "carpetArea": "2,987 sq.ft",
+        "priceRange": "₹4.10 Cr"
       }
     ],
     "images": [
@@ -20059,11 +20363,12 @@ export const PROJECTS: Project[] = [
     "slug": "prasiddhi-tatavam-residency",
     "builderId": "b-tata",
     "location": "Ravet",
-    "priceRange": "₹57.96 L - ₹95.00 L",
+    "priceRange": "₹57.96 L - ₹1.39 Cr",
     "exactPrice": "₹57.96 L",
     "configurations": [
       "1 BHK",
-      "2 BHK"
+      "2 BHK",
+      "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
@@ -20115,6 +20420,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "483 - 1,161 sq.ft"
       }
     ],
     "highlights": [
@@ -20195,7 +20504,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "question": "What is the price of Prasiddhi Tatavam Residency?",
-        "answer": "Prices at Prasiddhi Tatavam Residency range from ₹ 57.96 Lac – 1.39 Cr (final all-inclusive price). Homes are available as 1, 2, 3 BHK."
+        "answer": "Prices at Prasiddhi Tatavam Residency range from ₹ 57.96 Lac – 1.39 Cr (all-inclusive price). Homes are available as 1, 2, 3 BHK."
       },
       {
         "question": "Which configurations are available at Prasiddhi Tatavam Residency?",
@@ -20248,6 +20557,11 @@ export const PROJECTS: Project[] = [
         "type": "2 BHK Luxury Unit",
         "carpetArea": "796 sq.ft",
         "priceRange": "₹95.00 L"
+      },
+      {
+        "type": "3 BHK Royal Residence",
+        "carpetArea": "1,161 sq.ft",
+        "priceRange": "₹1.39 Cr"
       }
     ],
     "images": [
@@ -20337,6 +20651,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "458 - 736 sq.ft"
       }
     ],
     "highlights": [
@@ -20552,6 +20870,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -20737,6 +21059,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -20922,6 +21248,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -21109,6 +21439,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 4,200 sq.ft"
       }
     ],
     "faqs": [
@@ -21336,6 +21670,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -21521,6 +21859,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -21707,6 +22049,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,950 - 3,650 sq.ft"
       }
     ],
     "faqs": [
@@ -21913,6 +22259,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,950 - 3,100 sq.ft"
       }
     ],
     "faqs": [
@@ -22098,6 +22448,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -22283,6 +22637,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -22469,6 +22827,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,950 - 3,400 sq.ft"
       }
     ],
     "faqs": [
@@ -22675,6 +23037,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -22861,6 +23227,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -23068,6 +23438,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Designer Laminated Flush Doors and Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -23274,6 +23648,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -23459,6 +23837,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -23644,6 +24026,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -23830,6 +24216,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -24036,6 +24426,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -24221,6 +24615,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,800 - 2,400 sq.ft"
       }
     ],
     "faqs": [
@@ -24406,6 +24804,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -24592,6 +24994,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -24799,6 +25205,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 3,650 sq.ft"
       }
     ],
     "faqs": [
@@ -25006,6 +25416,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -25212,6 +25626,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 735 sq.ft"
       }
     ],
     "faqs": [
@@ -25397,6 +25815,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows with Mosquito Net"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -25601,6 +26023,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -25802,6 +26228,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -25987,6 +26417,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -26174,6 +26608,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -26367,6 +26805,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,950 - 3,850 sq.ft"
       }
     ],
     "faqs": [
@@ -26552,6 +26994,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -26737,6 +27183,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -26928,6 +27378,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -27135,6 +27589,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -27336,6 +27794,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -27527,6 +27989,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -27728,6 +28194,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -27923,6 +28393,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "320 - 750 sq.ft"
       }
     ],
     "faqs": [
@@ -28108,6 +28582,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -28293,6 +28771,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -28484,6 +28966,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -28691,6 +29177,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -28892,6 +29382,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -29077,6 +29571,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -29262,6 +29760,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -29453,6 +29955,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "3,150 - 5,400 sq.ft"
       }
     ],
     "faqs": [
@@ -29654,6 +30160,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,800 - 2,400 sq.ft"
       }
     ],
     "faqs": [
@@ -29845,6 +30355,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,600 - 4,800 sq.ft"
       }
     ],
     "faqs": [
@@ -30046,6 +30560,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors Windows",
         "value": "Laminated Flush Main Door and Anodized Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,200 - 3,600 sq.ft"
       }
     ],
     "faqs": [
@@ -30242,6 +30760,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -30444,6 +30966,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,650 sq.ft"
       }
     ],
     "faqs": [
@@ -30691,6 +31217,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -30904,6 +31434,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 880 sq.ft"
       }
     ],
     "faqs": [
@@ -31087,6 +31621,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 sq.ft"
       }
     ],
     "faqs": [
@@ -31258,6 +31796,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 880 sq.ft"
       }
     ],
     "faqs": [
@@ -31445,6 +31987,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,950 - 3,100 sq.ft"
       }
     ],
     "faqs": [
@@ -31632,6 +32178,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 735 sq.ft"
       }
     ],
     "faqs": [
@@ -31819,6 +32369,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 735 sq.ft"
       }
     ],
     "faqs": [
@@ -32006,6 +32560,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -32193,6 +32751,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -32386,6 +32948,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 3,100 sq.ft"
       }
     ],
     "faqs": [
@@ -32589,6 +33155,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -32776,6 +33346,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -32969,6 +33543,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -33178,6 +33756,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -33381,6 +33963,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -33574,6 +34160,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -33777,6 +34367,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -33958,6 +34552,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -34129,6 +34727,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -34322,6 +34924,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -34527,6 +35133,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "785 - 1,050 sq.ft"
       }
     ],
     "faqs": [
@@ -34730,6 +35340,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "695 - 940 sq.ft"
       }
     ],
     "faqs": [
@@ -34978,6 +35592,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "680 - 890 sq.ft"
       }
     ],
     "faqs": [
@@ -35195,6 +35813,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -35368,6 +35990,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Bathrooms",
         "value": "Kohler / Grohe Grade Premium CP & Sanitary Ware with Thermostatic Diverters and Geysers"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,384 - 2,460 sq.ft"
       }
     ],
     "highlights": [
@@ -35583,6 +36209,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Bathrooms",
         "value": "Grohe / American Standard CP Sanitary Fittings with Concealed Diverters"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "684 - 985 sq.ft"
       }
     ],
     "highlights": [
@@ -35744,6 +36374,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Balcony",
         "value": "Glass Railing Balconies with Unobstructed Golf Views and Anti-Skid Ceramic Tiles"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,011 - 1,980 sq.ft"
       }
     ],
     "highlights": [
@@ -35923,6 +36557,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Bathrooms",
         "value": "Branded CP & Sanitary Ware with Premium Concealed Plumbing"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 1,120 sq.ft"
       }
     ],
     "highlights": [
@@ -36060,11 +36698,11 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Bandra East",
     "city": "Mumbai",
-    "priceRange": "₹2.23 Cr - ₹2.49 Cr",
+    "priceRange": "₹2.23 Cr - ₹4.98 Cr",
     "exactPrice": "₹2.23 Cr",
     "configurations": [
       "2 BHK",
-      "4 BHK"
+      "4 BHK Jodi"
     ],
     "status": "Ready to Move",
     "type": "Residential",
@@ -36100,6 +36738,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Automation",
         "value": "Smart Home Automation for Lighting, AC, and Curtains"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "639 - 1,313 sq.ft"
       }
     ],
     "highlights": [
@@ -36165,6 +36807,11 @@ export const PROJECTS: Project[] = [
         "type": "2 BHK Signature Residence",
         "carpetArea": "712 sq.ft",
         "priceRange": "₹2.49 Cr"
+      },
+      {
+        "type": "4 BHK Jodi Sky Residence",
+        "carpetArea": "1,313 sq.ft",
+        "priceRange": "₹4.98 Cr"
       }
     ],
     "images": [
@@ -36257,6 +36904,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Glass Facade",
         "value": "Acoustic Double-Glazed Low-E Performance Glass"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,950 sq.ft"
       }
     ],
     "highlights": [
@@ -36433,6 +37084,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Fittings",
         "value": "Grohe / Kohler Sanitary Ware and CP Fittings"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,480 sq.ft"
       }
     ],
     "highlights": [
@@ -36610,6 +37265,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Windows",
         "value": "Anodized Aluminum Sliding Windows with Bug Screen"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,950 sq.ft"
       }
     ],
     "highlights": [
@@ -36789,6 +37448,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Acoustics",
         "value": "Low-E Acoustic Performance Glazed Facade System"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,480 - 3,400 sq.ft"
       }
     ],
     "highlights": [
@@ -36966,6 +37629,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Sanitary",
         "value": "Branded CP Fittings with Water Conservation Technology"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "415 - 644 sq.ft"
       }
     ],
     "highlights": [
@@ -37121,6 +37788,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Windows",
         "value": "Acoustic Double-Glazed Noise-Insulating Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 880 sq.ft"
       }
     ],
     "highlights": [
@@ -37273,6 +37944,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Ceiling Height",
         "value": "3.2 Meter Clear Ceiling Heights"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,180 sq.ft"
       }
     ],
     "highlights": [
@@ -37416,7 +38091,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "740 - 1,359 sq.ft."
+        "value": "740 - 1,359 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -37548,6 +38223,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -37675,6 +38354,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 sq.ft"
       }
     ],
     "highlights": [
@@ -37809,6 +38492,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 sq.ft"
       }
     ],
     "highlights": [
@@ -37943,6 +38630,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -38070,6 +38761,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 sq.ft"
       }
     ],
     "highlights": [
@@ -38204,6 +38899,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -38338,6 +39037,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -38471,6 +39174,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -38605,6 +39312,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -38732,6 +39443,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -38866,6 +39581,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 950 sq.ft"
       }
     ],
     "highlights": [
@@ -39007,6 +39726,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -39141,6 +39864,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -39273,6 +40000,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,750 - 2,242 sq.ft"
       }
     ],
     "highlights": [
@@ -39407,6 +40138,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -39541,6 +40276,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 950 sq.ft"
       }
     ],
     "highlights": [
@@ -39673,6 +40412,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,750 - 1,909 sq.ft"
       }
     ],
     "highlights": [
@@ -39805,6 +40548,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,039 sq.ft"
       }
     ],
     "highlights": [
@@ -39939,6 +40686,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -40071,6 +40822,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 - 1,594 sq.ft"
       }
     ],
     "highlights": [
@@ -40198,6 +40953,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -40332,6 +41091,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -40473,6 +41236,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -40614,6 +41381,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -40746,6 +41517,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 - 1,577 sq.ft"
       }
     ],
     "highlights": [
@@ -40880,6 +41655,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -41007,6 +41786,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -41141,6 +41924,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -41275,6 +42062,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -41406,6 +42197,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,750 - 2,032 sq.ft"
       }
     ],
     "highlights": [
@@ -41540,6 +42335,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -41667,6 +42466,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 sq.ft"
       }
     ],
     "highlights": [
@@ -41794,6 +42597,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 sq.ft"
       }
     ],
     "highlights": [
@@ -41928,6 +42735,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -42062,6 +42873,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -42203,6 +43018,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -42337,6 +43156,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -42471,6 +43294,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -42605,6 +43432,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -42746,6 +43577,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -42880,6 +43715,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -43011,6 +43850,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "690 - 980 sq.ft"
       }
     ],
     "highlights": [
@@ -43143,6 +43986,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -43275,6 +44122,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 - 1,423 sq.ft"
       }
     ],
     "highlights": [
@@ -43409,6 +44260,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -43543,6 +44398,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -43675,6 +44534,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,075 sq.ft"
       }
     ],
     "highlights": [
@@ -43809,6 +44672,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -43943,6 +44810,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -44077,6 +44948,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -44211,6 +45086,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -44345,6 +45224,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 950 sq.ft"
       }
     ],
     "highlights": [
@@ -44479,6 +45362,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -44613,6 +45500,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -44761,6 +45652,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -44895,6 +45790,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -45036,6 +45935,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -45184,6 +46087,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -45318,6 +46225,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 950 sq.ft"
       }
     ],
     "highlights": [
@@ -45452,6 +46363,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -45593,6 +46508,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -45719,6 +46638,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -45852,6 +46775,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -45986,6 +46913,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 - 1,750 sq.ft"
       }
     ],
     "highlights": [
@@ -46118,6 +47049,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,112 sq.ft"
       }
     ],
     "highlights": [
@@ -46252,6 +47187,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Nande, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "740 - 1,777 sq.ft"
       }
     ],
     "reraId": "P52100062102",
@@ -46386,6 +47325,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "694 - 1,040 sq.ft"
       }
     ],
     "reraId": "P52100061882",
@@ -46521,6 +47464,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Somatane, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,638 - 1,876 sq.ft"
       }
     ],
     "reraId": "P52100055048",
@@ -46646,6 +47593,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Aundh, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,007 sq.ft"
       }
     ],
     "reraId": "P52100062854",
@@ -46768,6 +47719,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Nilakh, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,000 - 1,809 sq.ft"
       }
     ],
     "reraId": "P52100055954",
@@ -46896,6 +47851,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mundhwa, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "739 - 999 sq.ft"
       }
     ],
     "reraId": "P52100061370",
@@ -47044,6 +48003,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mundhwa, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,018 - 1,640 sq.ft"
       }
     ],
     "reraId": "P52100030007",
@@ -47135,7 +48098,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/f6a3ff23-1594-4885-803c-779ac7881160/gallery/mvu15tsq-b2h8ww.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/f6a3ff23-1594-4885-803c-779ac7881160/gallery/mvu15tvp-e5pmtb.webp"
     ],
-    "description": "Raheja Vistas is a 7.5-acre residential project by K Raheja Corp Homes near Mahalunge Circle in Mahalunge, West Pune, about 1.5 km from Hinjewadi. It is part of K Raheja Corp's integrated township across Mahalunge, Maan and Hinjewadi, which gives residents access to a 7.5-acre landscaped central park, a riverside promenade and a high-street retail zone in the making, with Global Indian International School inside the township. Seven towers of G+2+24 floors hold 7 or 8 homes per floor, each tower with 4 lifts, in a neoclassical design by principal architects RSP Design Consultants (India), and about 75% of the land is left open. The 2 BHK homes measure about 680, 765 and 911 sq ft and start at ₹93 lakh, ₹1.10 crore and ₹1.30 crore; the 3 BHK homes measure about 1,111 and 1,298 sq ft, from ₹1.60 crore and ₹1.95 crore, with a 1,472 sq ft 3 BHK duplex from ₹2.25 crore; and the 4 BHK homes measure about 1,360, 1,530 and 1,824 sq ft, from ₹1.90 crore, ₹2.20 crore and ₹2.80 crore. Areas are cumulative total carpet area, and prices are final all-inclusive starting prices for the first floor; maintenance, floor rise and preferential location charges are extra. More than 40 amenities are spread over 2.6 acres on the podium and ground level, with two clubhouses: a half-Olympic pool with a kids' pool and jacuzzi, a gym, an indoor sports arena, two squash courts, a badminton court, pickleball and futsal courts, cricket nets, a skating rink, golf putting, cycling and jogging tracks, a spa, an indoor yoga space and yoga deck, a stargazing deck, an amphitheatre, an outdoor cinema, outdoor working pods, a banquet hall, guest rooms, a rooftop party lounge, a crèche and a pet park. Homes are Vaastu compliant, with decks, video door phones and kitchen smoke detectors, and the towers have air-conditioned lobbies, CCTV, controlled access, fire protection and DG backup in the common areas. Solar panels, rainwater harvesting and full wastewater treatment are planned, and the project has applied for IGBC Gold pre-certification. Delhi Public School is 350 m away and Global Indian International School 700 m, Baner about 4 km, the Mumbai-Pune Expressway 3.8 km and Wakad 6.6 km. Towers 1 and 2 are registered with MahaRERA as PR1260002501597 by the promoter KRC Queens Private Limited, with possession committed by the developer for December 2029; the registration's completion date is 31 July 2031.",
+    "description": "Raheja Vistas is a 7.5-acre residential project by K Raheja Corp Homes near Mahalunge Circle in Mahalunge, West Pune, about 1.5 km from Hinjewadi. It is part of K Raheja Corp's integrated township across Mahalunge, Maan and Hinjewadi, which gives residents access to a 7.5-acre landscaped central park, a riverside promenade and a high-street retail zone in the making, with Global Indian International School inside the township. Seven towers of G+2+24 floors hold 7 or 8 homes per floor, each tower with 4 lifts, in a neoclassical design by principal architects RSP Design Consultants (India), and about 75% of the land is left open. The 2 BHK homes measure about 680, 765 and 911 sq ft and start at ₹93 lakh, ₹1.10 crore and ₹1.30 crore; the 3 BHK homes measure about 1,111 and 1,298 sq ft, from ₹1.60 crore and ₹1.95 crore, with a 1,472 sq ft 3 BHK duplex from ₹2.25 crore; and the 4 BHK homes measure about 1,360, 1,530 and 1,824 sq ft, from ₹1.90 crore, ₹2.20 crore and ₹2.80 crore. Areas are cumulative total carpet area, and prices are all-inclusive starting prices for the first floor; maintenance, floor rise and preferential location charges are extra. More than 40 amenities are spread over 2.6 acres on the podium and ground level, with two clubhouses: a half-Olympic pool with a kids' pool and jacuzzi, a gym, an indoor sports arena, two squash courts, a badminton court, pickleball and futsal courts, cricket nets, a skating rink, golf putting, cycling and jogging tracks, a spa, an indoor yoga space and yoga deck, a stargazing deck, an amphitheatre, an outdoor cinema, outdoor working pods, a banquet hall, guest rooms, a rooftop party lounge, a crèche and a pet park. Homes are Vaastu compliant, with decks, video door phones and kitchen smoke detectors, and the towers have air-conditioned lobbies, CCTV, controlled access, fire protection and DG backup in the common areas. Solar panels, rainwater harvesting and full wastewater treatment are planned, and the project has applied for IGBC Gold pre-certification. Delhi Public School is 350 m away and Global Indian International School 700 m, Baner about 4 km, the Mumbai-Pune Expressway 3.8 km and Wakad 6.6 km. Towers 1 and 2 are registered with MahaRERA as PR1260002501597 by the promoter KRC Queens Private Limited, with possession committed by the developer for December 2029; the registration's completion date is 31 July 2031.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -47176,6 +48139,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mahalunge, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "725 - 1,577 sq.ft"
       }
     ],
     "reraId": "P52100061597",
@@ -47310,6 +48277,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Chikhali, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "716 - 1,009 sq.ft"
       }
     ],
     "reraId": "P52100078327",
@@ -47454,6 +48425,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mundhwa, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "733 - 1,655 sq.ft"
       }
     ],
     "reraId": "P52100056095",
@@ -47560,7 +48535,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/7e61c95f-602f-4601-b133-9770abb853e7/gallery/mvtpn4j6-7skvvo.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/7e61c95f-602f-4601-b133-9770abb853e7/gallery/mvtpn4ld-9tjsc5.webp"
     ],
-    "description": "Atlantis is a residential and retail project in Sector 7, Pradhikaran, Indrayani Nagar, Bhosari, developed by Kesar Group with Tulsi Promoters India and Atharva Buildcon. Above shops on the ground, mezzanine and part of the first floor, it offers 3 and 4 BHK homes that the developer calls villaments, with a typical floor of two 4 BHK and six 3 BHK homes. The 3 BHK homes measure about 1,123 sq ft and the 4 BHK homes about 1,460 sq ft, and the first floor has 3 BHK garden flats of about 1,869 and 1,911 sq ft that come with large private terraces. Final all-inclusive prices start at ₹1.26 crore for a 3 BHK, ₹1.63 crore for a 4 BHK and ₹1.96 crore for a garden flat; with stamp duty, registration and GST, the total packages are about ₹1.41 crore, ₹1.83 crore and ₹2.20 crore. Every 3 BHK gets two covered car parks and every 4 BHK three. The more than 25 amenities include a swimming pool with an infinity edge and a kids' pool, a multifunctional gym, a barbecue lounge, indoor games and a multipurpose hall, and a rooftop with a stargazing deck, party deck, yoga deck, exercise station, senior citizens' seating court and children's play area. Homes have 800 x 1200 mm tiles throughout, a digital smart lock on the main door, Jaquar or Kohler fittings, AC points in the living room and master bedroom and three-track aluminium sliding windows, and the common areas run on solar panels with generator backup for the lifts. The project is close to the Nashik-Pune highway, Bhosari MIDC, the PIECC exhibition centre and Talawade IT Park, and is registered with MahaRERA (P52100078626).",
+    "description": "Atlantis is a residential and retail project in Sector 7, Pradhikaran, Indrayani Nagar, Bhosari, developed by Kesar Group with Tulsi Promoters India and Atharva Buildcon. Above shops on the ground, mezzanine and part of the first floor, it offers 3 and 4 BHK homes that the developer calls villaments, with a typical floor of two 4 BHK and six 3 BHK homes. The 3 BHK homes measure about 1,123 sq ft and the 4 BHK homes about 1,460 sq ft, and the first floor has 3 BHK garden flats of about 1,869 and 1,911 sq ft that come with large private terraces. all-inclusive prices start at ₹1.26 crore for a 3 BHK, ₹1.63 crore for a 4 BHK and ₹1.96 crore for a garden flat; with stamp duty, registration and GST, the total packages are about ₹1.41 crore, ₹1.83 crore and ₹2.20 crore. Every 3 BHK gets two covered car parks and every 4 BHK three. The more than 25 amenities include a swimming pool with an infinity edge and a kids' pool, a multifunctional gym, a barbecue lounge, indoor games and a multipurpose hall, and a rooftop with a stargazing deck, party deck, yoga deck, exercise station, senior citizens' seating court and children's play area. Homes have 800 x 1200 mm tiles throughout, a digital smart lock on the main door, Jaquar or Kohler fittings, AC points in the living room and master bedroom and three-track aluminium sliding windows, and the common areas run on solar panels with generator backup for the lifts. The project is close to the Nashik-Pune highway, Bhosari MIDC, the PIECC exhibition centre and Talawade IT Park, and is registered with MahaRERA (P52100078626).",
     "features": [
       "Gymnasium",
       "Swimming Pool",
@@ -47601,6 +48576,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bhosari, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,029 - 1,577 sq.ft"
       }
     ],
     "reraId": "P52100078626",
@@ -47727,6 +48706,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bhosari, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "728 - 812 sq.ft"
       }
     ],
     "reraId": "P52100021743",
@@ -47854,6 +48837,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "752 - 1,077 sq.ft"
       }
     ],
     "reraId": "P52100060378",
@@ -47949,7 +48936,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/2be1e665-b28e-4bf5-a42f-348a3a0fa8ff/gallery/mvu2wowg-6hgugu.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/2be1e665-b28e-4bf5-a42f-348a3a0fa8ff/gallery/mvu2woyc-dbp93x.webp"
     ],
-    "description": "Santiago Skyworld 2.0 is a new 12-storey residential tower with ground-floor shops by Santiago on Sector 7 Road, Indrayani Nagar, Bhosari, in the Pradhikaran area of Pimpri-Chinchwad, and the second Skyworld project after Santiago Skyworld on Spine Road. It has only six homes per floor, all 3 BHK, which the developer calls 3 bed suites: homes of 1,332, 1,348 and 1,375 sq ft from ₹1.47 crore final all-inclusive price, and garden flats of 1,471 to 1,956 sq ft from ₹1.59 crore. Every home has three balconies plus a separate dry balcony, a private aangan at the entrance, a spacious designer kitchen and Vastu-compliant planning, and comes with two covered car parks. The building has two high-speed branded lifts and a wide staircase, a first-floor amenity level with a swimming pool, an indoor gym, indoor games, a library and a co-working space, and rooftop amenities with open views. The ground-floor commercial shops suit retail, showrooms and offices. The developer gives travel times of about 2 minutes to shopping malls, 5 minutes to COEP University, the PCMC court, Star Bazaar, schools, colleges and hospitals, and 10 minutes to more than ten hotels, with Spine Road and the highways close by; it also points to an upcoming IIM campus and metro station about 5 minutes away. Possession is planned for December 2028. The gallery shows artist's impressions from the developer's Santiago Skyworld brochure.",
+    "description": "Santiago Skyworld 2.0 is a new 12-storey residential tower with ground-floor shops by Santiago on Sector 7 Road, Indrayani Nagar, Bhosari, in the Pradhikaran area of Pimpri-Chinchwad, and the second Skyworld project after Santiago Skyworld on Spine Road. It has only six homes per floor, all 3 BHK, which the developer calls 3 bed suites: homes of 1,332, 1,348 and 1,375 sq ft from ₹1.47 crore all-inclusive price, and garden flats of 1,471 to 1,956 sq ft from ₹1.59 crore. Every home has three balconies plus a separate dry balcony, a private aangan at the entrance, a spacious designer kitchen and Vastu-compliant planning, and comes with two covered car parks. The building has two high-speed branded lifts and a wide staircase, a first-floor amenity level with a swimming pool, an indoor gym, indoor games, a library and a co-working space, and rooftop amenities with open views. The ground-floor commercial shops suit retail, showrooms and offices. The developer gives travel times of about 2 minutes to shopping malls, 5 minutes to COEP University, the PCMC court, Star Bazaar, schools, colleges and hospitals, and 10 minutes to more than ten hotels, with Spine Road and the highways close by; it also points to an upcoming IIM campus and metro station about 5 minutes away. Possession is planned for December 2028. The gallery shows artist's impressions from the developer's Santiago Skyworld brochure.",
     "features": [
       "Gymnasium",
       "Library",
@@ -47987,6 +48974,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bhosari, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,000 - 1,400 sq.ft"
       }
     ],
     "reraId": "P52100048912",
@@ -48072,7 +49063,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/1fb3b136-50b8-4324-8729-93f941e2b964/gallery/mvu359m8-8s9lgs.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/1fb3b136-50b8-4324-8729-93f941e2b964/gallery/mvu359o6-e2ze42.webp"
     ],
-    "description": "Kosha is a luxury tower of 4.5 BHK homes on South Main Road, Koregaon Park, near Blossom Boulevard, by Konbil Group and Chandra Prabha Developers through Hydepark Developers LLP. With only four residences per floor and 3.9-metre floor-to-ceiling heights, it offers three kinds of home, each with four bedrooms and a house-help room: 4.5 BHK residences of about 2,257 to 2,943 sq ft of carpet area with long sit-outs; garden residences on the first floor with private gardens, quoted at about 3,582 to 4,398 sq ft; and duplex sky villas on the 20th and 21st floors with open-to-sky gardens and terraces, quoted at about 4,372 to 5,423 sq ft. On the current price sheet, bare-shell homes start at ₹5.91 crore for a 2,257 sq ft residence, ₹9.83 crore for a garden residence and ₹12.85 crore for a sky villa (final all-inclusive price including GST, stamp duty and registration). Amenities spread across three levels include a swimming pool with a poolside deck, a gym, sauna, yoga deck, café, business centre, banquet hall, card room, senior citizens' garden and landscaped recreation spaces, and a 360-degree skywalk around the building, with a grand entrance lobby and concierge. The tower has four levels of covered parking, high-speed elevators, slab-to-slab aluminium windows with high-performance glass, DG backup for the entire apartment, a BMS and control room, CCTV, access control at each common entrance, automatic biometric door locks and sprinklers and smoke detectors in every home. German Bakery, Osho Garden and Malaka Spice are within five minutes, The Westin, Conrad, Marriott Suites and Kalyani Nagar within ten, Poona Club and the Symbiosis institutes within fifteen, and Magarpatta, Hadapsar IT Park and The Bishop's School within twenty. The project is registered with MahaRERA as PR1260002500453.",
+    "description": "Kosha is a luxury tower of 4.5 BHK homes on South Main Road, Koregaon Park, near Blossom Boulevard, by Konbil Group and Chandra Prabha Developers through Hydepark Developers LLP. With only four residences per floor and 3.9-metre floor-to-ceiling heights, it offers three kinds of home, each with four bedrooms and a house-help room: 4.5 BHK residences of about 2,257 to 2,943 sq ft of carpet area with long sit-outs; garden residences on the first floor with private gardens, quoted at about 3,582 to 4,398 sq ft; and duplex sky villas on the 20th and 21st floors with open-to-sky gardens and terraces, quoted at about 4,372 to 5,423 sq ft. On the current price sheet, bare-shell homes start at ₹5.91 crore for a 2,257 sq ft residence, ₹9.83 crore for a garden residence and ₹12.85 crore for a sky villa (all-inclusive price including GST, stamp duty and registration). Amenities spread across three levels include a swimming pool with a poolside deck, a gym, sauna, yoga deck, café, business centre, banquet hall, card room, senior citizens' garden and landscaped recreation spaces, and a 360-degree skywalk around the building, with a grand entrance lobby and concierge. The tower has four levels of covered parking, high-speed elevators, slab-to-slab aluminium windows with high-performance glass, DG backup for the entire apartment, a BMS and control room, CCTV, access control at each common entrance, automatic biometric door locks and sprinklers and smoke detectors in every home. German Bakery, Osho Garden and Malaka Spice are within five minutes, The Westin, Conrad, Marriott Suites and Kalyani Nagar within ten, Poona Club and the Symbiosis institutes within fifteen, and Magarpatta, Hadapsar IT Park and The Bishop's School within twenty. The project is registered with MahaRERA as PR1260002500453.",
     "features": [
       "CCTV Surveillance",
       "Gymnasium",
@@ -48113,6 +49104,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Koregaon Park, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,552 - 2,172 sq.ft"
       }
     ],
     "reraId": "P52100060453",
@@ -48240,6 +49235,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Darumbre, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "683 - 1,070 sq.ft"
       }
     ],
     "reraId": "P52100062438",
@@ -48367,6 +49366,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,098 - 1,317 sq.ft"
       }
     ],
     "reraId": "P52100080562",
@@ -48509,6 +49512,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mundhwa, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,062 - 1,741 sq.ft"
       }
     ],
     "reraId": "P52100030065",
@@ -48638,6 +49645,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 1,561 sq.ft"
       }
     ],
     "reraId": "P52100053350",
@@ -48742,7 +49753,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/6dcdd53e-530b-446c-a6c8-123ef894a217/gallery/mvu458u5-2mmnxs.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/6dcdd53e-530b-446c-a6c8-123ef894a217/gallery/mvu458wh-du4755.webp"
     ],
-    "description": "Venkatesh Vanaya is a 10-acre residential project by Venkatesh Buildcon on Old Mundhwa Road, near Oxygen Park in Kharadi, with 4, 3 and 2 BHK homes in 21-storey towers above four levels of parking. The 2 BHK homes have about 777 to 849 sq ft of total carpet area and start at ₹1.02 crore, the 3 BHK homes about 1,107 to 1,203 sq ft from ₹1.43 crore, and the 4 BHK homes in wing D about 1,732 to 1,944 sq ft, including 3 BHK plus service-quarter layouts; areas include balconies and dry balconies, and prices are final all-inclusive prices including stamp duty, GST, registration, and floor rise preferential location charges extra. More than 25 amenities are planned around a tropical landscape: a swimming pool with a kids' pool, a clubhouse, gym, yoga room, meditation studio, Zumba and aerobics room, co-working lounge, business centre, reading lounge, crèche, indoor games, multipurpose hall, hobby and art zone and acoustic room, with a multipurpose court, box cricket, pickleball court, outdoor gym, amphitheatre, party lawn, multipurpose lawn with a stage, kids' play area, jogging track, acupressure pathway and senior citizens' sit-out outside. Homes have 600 x 1200 mm or 800 x 800 mm vitrified flooring, aluminium or UPVC sliding windows with mosquito nets, a digital lock on the main door, Jaquar or Kohler fittings, concealed copper wiring with AC points in the living room and all bedrooms, a video door phone and Kone or Otis lifts, and the towers are built with aluminium formwork. E-Space IT Park is 1.7 km away, Zensar 2.2 km, EON IT Park and Panchshil Tech Park 3.5 km and the World Trade Centre 3.6 km, with Phoenix Avenue of Stars 2.8 km, Ramwadi metro station 3.3 km and Pune airport 6.1 km. Four phases are registered with MahaRERA: PR1261012601304 (wings K and L), PR1261012601206 (wings I and J), PR1261012601229 (wing H) and PR1261012601264 (wing D); the promoter is SVBPL Homes Pvt. Ltd.",
+    "description": "Venkatesh Vanaya is a 10-acre residential project by Venkatesh Buildcon on Old Mundhwa Road, near Oxygen Park in Kharadi, with 4, 3 and 2 BHK homes in 21-storey towers above four levels of parking. The 2 BHK homes have about 777 to 849 sq ft of total carpet area and start at ₹1.02 crore, the 3 BHK homes about 1,107 to 1,203 sq ft from ₹1.43 crore, and the 4 BHK homes in wing D about 1,732 to 1,944 sq ft, including 3 BHK plus service-quarter layouts; areas include balconies and dry balconies, and prices are all-inclusive prices including stamp duty, GST, registration, and floor rise preferential location charges extra. More than 25 amenities are planned around a tropical landscape: a swimming pool with a kids' pool, a clubhouse, gym, yoga room, meditation studio, Zumba and aerobics room, co-working lounge, business centre, reading lounge, crèche, indoor games, multipurpose hall, hobby and art zone and acoustic room, with a multipurpose court, box cricket, pickleball court, outdoor gym, amphitheatre, party lawn, multipurpose lawn with a stage, kids' play area, jogging track, acupressure pathway and senior citizens' sit-out outside. Homes have 600 x 1200 mm or 800 x 800 mm vitrified flooring, aluminium or UPVC sliding windows with mosquito nets, a digital lock on the main door, Jaquar or Kohler fittings, concealed copper wiring with AC points in the living room and all bedrooms, a video door phone and Kone or Otis lifts, and the towers are built with aluminium formwork. E-Space IT Park is 1.7 km away, Zensar 2.2 km, EON IT Park and Panchshil Tech Park 3.5 km and the World Trade Centre 3.6 km, with Phoenix Avenue of Stars 2.8 km, Ramwadi metro station 3.3 km and Pune airport 6.1 km. Four phases are registered with MahaRERA: PR1261012601304 (wings K and L), PR1261012601206 (wings I and J), PR1261012601229 (wing H) and PR1261012601264 (wing D); the promoter is SVBPL Homes Pvt. Ltd.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -48783,6 +49794,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kharadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "728 - 1,633 sq.ft"
       }
     ],
     "reraId": "P52100061304",
@@ -48925,6 +49940,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "453 - 1,043 sq.ft"
       }
     ],
     "reraId": "P52100051579",
@@ -49074,6 +50093,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bavdhan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "726 - 995 sq.ft"
       }
     ],
     "reraId": "P52100054736",
@@ -49160,7 +50183,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/17506f3d-4570-4491-940a-8e53076f3147/gallery/mrxe7usm-2dn5pa.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/34e1a7a3-da32-4ff4-b128-2a4e7a4e4dba/gallery/ms389nk0-3rrvzk.webp"
     ],
-    "description": "Sai Kripa Commercial is the retail floor of Sai Kripa, Krishna Rama Developer's building on Plot No. 415, Sector 29, Ganesh Nagar, Ravet, in the Pradhikaran area of Pimpri-Chinchwad. Eight shops, numbered 01 to 08, line the ground floor behind glass shopfronts facing a 10.5 m road, with 5 m driveways down both sides of the building. Each shop is a 40 ft deep, 10 ft wide unit, and the developer's cost sheet gives its size as 555 sq ft. The developer pitches the shops at cafés, boutiques, pharmacies and everyday essentials. Footfall comes from students at PCCOE and the D. Y. Patil schools and colleges, families in Pradhikaran's residential sectors (the developer cites more than 6,000 homes nearby), commuters using Akurdi railway station and the 36 households in the 3 BHK homes upstairs, which are sold separately as Sai Kripa. PCCOE, D. Y. Patil Dnyanshanti School, DMart Ravet, Global Hospital and Akurdi railway station are about 5 minutes away, the old Mumbai-Pune highway and NH-48 about 10 and Chinchwad station about 12. The building has high-speed lifts, an EV charging point and solar power generation. A shop is ₹1.33 crore final all-inclusive price, or ₹1.49 crore including 5% GST, 7% stamp duty and registration. Possession is planned for December 2030 (RERA completion date April 2031). MahaRERA PM1260002500965.",
+    "description": "Sai Kripa Commercial is the retail floor of Sai Kripa, Krishna Rama Developer's building on Plot No. 415, Sector 29, Ganesh Nagar, Ravet, in the Pradhikaran area of Pimpri-Chinchwad. Eight shops, numbered 01 to 08, line the ground floor behind glass shopfronts facing a 10.5 m road, with 5 m driveways down both sides of the building. Each shop is a 40 ft deep, 10 ft wide unit, and the developer's cost sheet gives its size as 555 sq ft. The developer pitches the shops at cafés, boutiques, pharmacies and everyday essentials. Footfall comes from students at PCCOE and the D. Y. Patil schools and colleges, families in Pradhikaran's residential sectors (the developer cites more than 6,000 homes nearby), commuters using Akurdi railway station and the 36 households in the 3 BHK homes upstairs, which are sold separately as Sai Kripa. PCCOE, D. Y. Patil Dnyanshanti School, DMart Ravet, Global Hospital and Akurdi railway station are about 5 minutes away, the old Mumbai-Pune highway and NH-48 about 10 and Chinchwad station about 12. The building has high-speed lifts, an EV charging point and solar power generation. A shop is ₹1.33 crore all-inclusive price, or ₹1.49 crore including 5% GST, 7% stamp duty and registration. Possession is planned for December 2030 (RERA completion date April 2031). MahaRERA PM1260002500965.",
     "features": [
       "EV Charging"
     ],
@@ -49194,6 +50217,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "579 sq.ft"
       }
     ],
     "reraId": "P52100060965",
@@ -49308,6 +50335,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bavdhan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "688 - 1,072 sq.ft"
       }
     ],
     "reraId": "P52100017650",
@@ -49434,6 +50465,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Charoli, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "704 - 752 sq.ft"
       }
     ],
     "reraId": "P52100049648",
@@ -49522,7 +50557,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/1c2a076f-5560-471a-b74d-4b10d2c36256/gallery/mvu4lgbh-fx9vid.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/1c2a076f-5560-471a-b74d-4b10d2c36256/gallery/mvu4lgdj-8mo1f0.webp"
     ],
-    "description": "Celestia Heights is a residential project by Prapti Buildcon on Kate Wasti Road in Punawale, beside the Kate Wasti forest, with two towers of two basements, ground and 14 storeys. It offers 2 BHK homes of about 747 to 782 sq ft from ₹68 lakh and 3 BHK homes of about 1,044 to 1,049 sq ft from ₹95 lakh (final all-inclusive price; about ₹76 to ₹80 lakh and ₹1.07 crore with stamp duty, GST and registration), with an aangan at the entrance of each 3 BHK, two 4th-floor 3 BHK garden homes with private gardens of about 404 and 422 sq ft, and two 527 sq ft 1 BHK homes on the refuge floors. Commercial offices of about 400 to 700 sq ft on the 1st and 2nd floors start at ₹90 lakh. Areas are cumulative total usable carpet area. Amenities include a clubhouse with a gym, hobby room and business centre, a billiards lounge and indoor games, a lawn sitting area, gazebo seating and a barbecue area, and on the top terrace a kids' play area, sand pit, acupressure pathway, viewing deck, stargazing zone and walking and jogging track. The site is about a kilometre from Laxmi Chowk and about two from Wipro Circle and Hinjewadi Phase 1, close to the 65 m ring road, Life Republic and the Mumbai-Bengaluru highway at the Punawale underpass. The project is registered with MahaRERA as PM1260002602252, with possession expected in 2030.",
+    "description": "Celestia Heights is a residential project by Prapti Buildcon on Kate Wasti Road in Punawale, beside the Kate Wasti forest, with two towers of two basements, ground and 14 storeys. It offers 2 BHK homes of about 747 to 782 sq ft from ₹68 lakh and 3 BHK homes of about 1,044 to 1,049 sq ft from ₹95 lakh (all-inclusive price; about ₹76 to ₹80 lakh and ₹1.07 crore with stamp duty, GST and registration), with an aangan at the entrance of each 3 BHK, two 4th-floor 3 BHK garden homes with private gardens of about 404 and 422 sq ft, and two 527 sq ft 1 BHK homes on the refuge floors. Commercial offices of about 400 to 700 sq ft on the 1st and 2nd floors start at ₹90 lakh. Areas are cumulative total usable carpet area. Amenities include a clubhouse with a gym, hobby room and business centre, a billiards lounge and indoor games, a lawn sitting area, gazebo seating and a barbecue area, and on the top terrace a kids' play area, sand pit, acupressure pathway, viewing deck, stargazing zone and walking and jogging track. The site is about a kilometre from Laxmi Chowk and about two from Wipro Circle and Hinjewadi Phase 1, close to the 65 m ring road, Life Republic and the Mumbai-Bengaluru highway at the Punawale underpass. The project is registered with MahaRERA as PM1260002602252, with possession expected in 2030.",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -49561,6 +50596,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "656 - 989 sq.ft"
       }
     ],
     "reraId": "P52100022252",
@@ -49693,6 +50732,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "712 - 1,037 sq.ft"
       }
     ],
     "reraId": "P52100021911",
@@ -49823,6 +50866,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Manjari Khurd, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,073 - 1,786 sq.ft"
       }
     ],
     "reraId": "P52100051280",
@@ -49959,6 +51006,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Maan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,018 sq.ft"
       }
     ],
     "reraId": "P52100061338",
@@ -50079,6 +51130,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "708 sq.ft"
       }
     ],
     "reraId": "P52100079803",
@@ -50199,6 +51254,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Walhekarwadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "714 - 1,000 sq.ft"
       }
     ],
     "reraId": "P52100021495",
@@ -50325,6 +51384,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Charoli, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "741 - 1,041 sq.ft"
       }
     ],
     "reraId": "P52100022441",
@@ -50456,6 +51519,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Charoli, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "748 - 1,651 sq.ft"
       }
     ],
     "reraId": "P52100077670",
@@ -50593,6 +51660,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hadapsar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "708 - 1,746 sq.ft"
       }
     ],
     "reraId": "P52100022526",
@@ -50719,6 +51790,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "584 - 599 sq.ft"
       }
     ],
     "reraId": "P52100078470",
@@ -50797,7 +51872,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/934ae67a-4206-4655-b43b-e446319056a8/gallery/mvuqeimm-8l4g8l.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/934ae67a-4206-4655-b43b-e446319056a8/gallery/mvuqeion-fj325b.webp"
     ],
-    "description": "Vitthal Nirvana is a residential project by Vissionary Developers on Plot 12, Sector 24, Nigdi Pradhikaran, near Geeta Pavbhaji and opposite Axis Bank, on a 24 m wide road. It is a seven-storey building with just 14 three-bedroom homes, two on each floor, above covered car parking on the ground floor. The two 3 BHK layouts have carpet areas of about 1,052 and 1,086 sq ft and cost ₹1.40 crore and ₹1.44 crore (final all-inclusive price), or about ₹1.57 crore and ₹1.62 crore with stamp duty, GST and registration. The rooftop has a gazebo, a senior citizens' sitting area, a barbecue corner and a small stage and screening area. Homes get 4 x 2 ft vitrified flooring, three-track aluminium sliding windows with granite sills, Cera or Jaguar bathroom fittings, Legrand or L&T switches, a video door phone and glass railings on the balconies, and the building has an Otis lift with battery backup and rainwater harvesting.",
+    "description": "Vitthal Nirvana is a residential project by Vissionary Developers on Plot 12, Sector 24, Nigdi Pradhikaran, near Geeta Pavbhaji and opposite Axis Bank, on a 24 m wide road. It is a seven-storey building with just 14 three-bedroom homes, two on each floor, above covered car parking on the ground floor. The two 3 BHK layouts have carpet areas of about 1,052 and 1,086 sq ft and cost ₹1.40 crore and ₹1.44 crore (all-inclusive price), or about ₹1.57 crore and ₹1.62 crore with stamp duty, GST and registration. The rooftop has a gazebo, a senior citizens' sitting area, a barbecue corner and a small stage and screening area. Homes get 4 x 2 ft vitrified flooring, three-track aluminium sliding windows with granite sills, Cera or Jaguar bathroom fittings, Legrand or L&T switches, a video door phone and glass railings on the balconies, and the building has an Otis lift with battery backup and rainwater harvesting.",
     "features": [
       "Rainwater Harvesting",
       "Covered Parking"
@@ -50832,6 +51907,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Nigdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,005 sq.ft"
       }
     ],
     "reraId": "P52100032914",
@@ -50947,6 +52026,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "450 - 2,800 sq.ft"
       }
     ],
     "reraId": "P52100052972",
@@ -51086,6 +52169,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "702 - 904 sq.ft"
       }
     ],
     "reraId": "P52100019584",
@@ -51208,6 +52295,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Deccan Gymkhana, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "573 - 1,160 sq.ft"
       }
     ],
     "reraId": "P52100035004",
@@ -51338,6 +52429,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Nilakh, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "682 - 706 sq.ft"
       }
     ],
     "reraId": "P52100078994",
@@ -51430,7 +52525,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/6f179efc-b2df-49a3-b42b-b7335719d627/gallery/mvwhgx4k-rh7tj.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/6f179efc-b2df-49a3-b42b-b7335719d627/gallery/mvwhgx7g-eeqfvw.webp"
     ],
-    "description": "ASAP Tishya, branded \"Tishya – The Beginning\", is a boutique residential tower by ASAP Spaces on Ashiyana Park Lane No. 2 in Aundh, Pune, near Baner Road. It holds just 12 homes on six residential floors, two to a floor: six 3 BHK homes of 1,667 sq ft total carpet area (2,251 sq ft saleable) and six 4.5 BHK homes of 2,183 sq ft total carpet area (2,947 sq ft saleable), where the half is a servant room with its own toilet. On the current price sheet, final all-inclusive prices start at ₹3.30 crore for a 3 BHK and ₹4.21 crore for a 4.5 BHK, with two car parks for a 3 BHK and three for a 4.5 BHK. Homes get Italian marble in the living, dining, kitchen and bathrooms, wooden flooring in the bedrooms, ROCA sanitaryware with GESSI fittings, Tostem aluminium windows, heat-pump hot water, a smart main-door lock with video calling and pre-wired CAT 6A and fibre conduits. The ground floor has a main lobby, a kids' play area, a party lawn and a multipurpose lounge, and the project adds a BBQ and café zone, a gym, sky lounges and green zones on each residential floor, a car-wash bay, EV charging provision and solar power for common areas. The tower is designed by VDA Designs, and the brochure gives its MahaRERA registration as PR1260002500977.",
+    "description": "ASAP Tishya, branded \"Tishya – The Beginning\", is a boutique residential tower by ASAP Spaces on Ashiyana Park Lane No. 2 in Aundh, Pune, near Baner Road. It holds just 12 homes on six residential floors, two to a floor: six 3 BHK homes of 1,667 sq ft total carpet area (2,251 sq ft saleable) and six 4.5 BHK homes of 2,183 sq ft total carpet area (2,947 sq ft saleable), where the half is a servant room with its own toilet. On the current price sheet, all-inclusive prices start at ₹3.30 crore for a 3 BHK and ₹4.21 crore for a 4.5 BHK, with two car parks for a 3 BHK and three for a 4.5 BHK. Homes get Italian marble in the living, dining, kitchen and bathrooms, wooden flooring in the bedrooms, ROCA sanitaryware with GESSI fittings, Tostem aluminium windows, heat-pump hot water, a smart main-door lock with video calling and pre-wired CAT 6A and fibre conduits. The ground floor has a main lobby, a kids' play area, a party lawn and a multipurpose lounge, and the project adds a BBQ and café zone, a gym, sky lounges and green zones on each residential floor, a car-wash bay, EV charging provision and solar power for common areas. The tower is designed by VDA Designs, and the brochure gives its MahaRERA registration as PR1260002500977.",
     "features": [
       "CCTV Surveillance",
       "Gymnasium",
@@ -51471,6 +52566,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Aundh, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,004 - 1,551 sq.ft"
       }
     ],
     "reraId": "P52100060977",
@@ -51560,7 +52659,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/1f3df788-7035-4e21-8487-a66424ab8f1f/gallery/mvwl1on9-40qjn3.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/1f3df788-7035-4e21-8487-a66424ab8f1f/gallery/mvwl1opg-g44546.webp"
     ],
-    "description": "Excellaa Virtu is a nearly complete project of exclusive 3 BHK homes on Jagtap Dairy Road in Vishal Nagar, Pimple Nilakh, Pune, by Excellaa Realty as part of its Gold Collection. It is registered with MahaRERA as P52100054268, and both the RERA date and the developer's commitment for possession are December 2026. The building has two wings joined at the centre in a butterfly plan, with eight homes on each floor, two lifts and two staircases. Homes come in two sizes: 1,005 sq ft (932 sq ft carpet plus a 74 sq ft balcony) and 1,091 sq ft (1,027 plus 64). Both layouts have two master suites with attached bathrooms, a walk-in wardrobe, a private patio off the living and dining room, an L-shaped kitchen and AC points in every bedroom. Final all-inclusive prices are ₹1.27 Cr and ₹1.37 Cr, or about ₹1.42 Cr and ₹1.54 Cr with stamp duty, registration and GST. The roof holds 25 amenities, including a climatised pool with a kids' pool and deck, a glass-walled gym, a bonfire sky lounge, a sky lawn, an amphitheatre, a fenced junior play area, indoor games, working pods and herbal and aromatic gardens.",
+    "description": "Excellaa Virtu is a nearly complete project of exclusive 3 BHK homes on Jagtap Dairy Road in Vishal Nagar, Pimple Nilakh, Pune, by Excellaa Realty as part of its Gold Collection. It is registered with MahaRERA as P52100054268, and both the RERA date and the developer's commitment for possession are December 2026. The building has two wings joined at the centre in a butterfly plan, with eight homes on each floor, two lifts and two staircases. Homes come in two sizes: 1,005 sq ft (932 sq ft carpet plus a 74 sq ft balcony) and 1,091 sq ft (1,027 plus 64). Both layouts have two master suites with attached bathrooms, a walk-in wardrobe, a private patio off the living and dining room, an L-shaped kitchen and AC points in every bedroom. all-inclusive prices are ₹1.27 Cr and ₹1.37 Cr, or about ₹1.42 Cr and ₹1.54 Cr with stamp duty, registration and GST. The roof holds 25 amenities, including a climatised pool with a kids' pool and deck, a glass-walled gym, a bonfire sky lounge, a sky lawn, an amphitheatre, a fenced junior play area, indoor games, working pods and herbal and aromatic gardens.",
     "features": [
       "Gymnasium",
       "Co-working Lounge",
@@ -51601,6 +52700,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Nilakh, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,020 - 1,100 sq.ft"
       }
     ],
     "reraId": "P52100054268",
@@ -51726,6 +52829,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Maan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "690 - 1,073 sq.ft"
       }
     ],
     "reraId": "P52100028741",
@@ -51809,7 +52916,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/dde4a6ce-f1b5-4b32-84c1-e8514171ca50/gallery/mtmpxi80-38i0gv.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/850377d9-38b6-4267-88da-eed7d19f924c/gallery/mvf42z4p-bwtdn0.webp"
     ],
-    "description": "The Vantage is a residential and commercial project by Kuber Properties in Wakad, behind Hotel Tip Top International near the Mumbai-Bengaluru highway, on an 18 m access road towards Bhumkar Wasti Road. The architect's master plan shows four residential towers of two basements, a podium and 13 floors, and a commercial building with retail at the entrance. It offers 2 BHK homes of 857 sq ft from ₹1.08 crore and 3 BHK homes of 1,198 sq ft at ₹1.48 crore, plus duplex homes on the 12th and 13th floors: 3 BHK duplexes of 1,639 sq ft at ₹2.17 crore and 4 BHK duplexes of 2,050 sq ft at ₹2.69 crore. Prices are final all-inclusive prices including infrastructure charges and statutory dues (about ₹1.21 crore to ₹3.01 crore with stamp duty, GST and registration), and areas are cumulative total usable carpet area. The terrace amenity floor has a children's play area, an open gym and yoga deck, a senior citizens' plaza, a lawn and a party lawn, gazebos, a sand pit, a BBQ area, a sit-out and a stargazing deck, and 10% of the site is kept as open space on the ground. The project is registered with MahaRERA as PR1260002601066.",
+    "description": "The Vantage is a residential and commercial project by Kuber Properties in Wakad, behind Hotel Tip Top International near the Mumbai-Bengaluru highway, on an 18 m access road towards Bhumkar Wasti Road. The architect's master plan shows four residential towers of two basements, a podium and 13 floors, and a commercial building with retail at the entrance. It offers 2 BHK homes of 857 sq ft from ₹1.08 crore and 3 BHK homes of 1,198 sq ft at ₹1.48 crore, plus duplex homes on the 12th and 13th floors: 3 BHK duplexes of 1,639 sq ft at ₹2.17 crore and 4 BHK duplexes of 2,050 sq ft at ₹2.69 crore. Prices are all-inclusive prices including infrastructure charges and statutory dues (about ₹1.21 crore to ₹3.01 crore with stamp duty, GST and registration), and areas are cumulative total usable carpet area. The terrace amenity floor has a children's play area, an open gym and yoga deck, a senior citizens' plaza, a lawn and a party lawn, gazebos, a sand pit, a BBQ area, a sit-out and a stargazing deck, and 10% of the site is kept as open space on the ground. The project is registered with MahaRERA as PR1260002601066.",
     "features": [
       "Gymnasium",
       "Landscaped Garden",
@@ -51847,6 +52954,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "746 - 1,691 sq.ft"
       }
     ],
     "reraId": "P52100021066",
@@ -51982,6 +53093,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Maan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "693 - 1,038 sq.ft"
       }
     ],
     "reraId": "P52100021952",
@@ -52121,6 +53236,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kalyani Nagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,097 - 1,831 sq.ft"
       }
     ],
     "reraId": "P52100060653",
@@ -52255,6 +53374,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kalyani Nagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "630 - 714 sq.ft"
       }
     ],
     "reraId": "P52100060653",
@@ -52340,7 +53463,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/991a2afa-8abc-43d8-a7a9-e2374e67d2b8/gallery/mwbvbhrv-e17cva.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/991a2afa-8abc-43d8-a7a9-e2374e67d2b8/gallery/mwbvbhtr-uok2k.webp"
     ],
-    "description": "QUE 101 is a 12-acre residential community by Unique Properties on Bharat Mata Road in Dhanori, north-east Pune, about 6 km from Pune airport. Phase I is registered with MahaRERA as PM1261012602127 (promoter ANNR Unique Realty LLP). The master plan shows 12 towers, A to L, around a 40,000 sq ft central park, with 21,000 sq ft of semi-covered and indoor amenities and a retail street along the main road. Homes include 2 BHK flats of 828 to 838 sq ft and 3 BHK flats of 963 to 1,110 sq ft, second-floor homes with private terraces, duplexes of 3, 4 and 5 BHK from 1,370 to 2,049 sq ft on the ground and upper-ground floors, and 3 BHK row houses of 2,201 and 2,210 sq ft with front and back yards (all total areas). Final all-inclusive prices on the November 2026 cost sheets start at ₹80.03 lakh for a 2 BHK, ₹91.94 lakh for a 3 BHK flat, ₹1.58 crore for a duplex and ₹2.76 crore for a row house. The amenity list runs to more than 65 items, including a clubhouse with an air-conditioned gym, swimming and kids' pools, pickleball and half-basketball courts, a pet park, co-working and business lounges, podcast and creator studios, a mini theatre, a salon and spa, and an ice-bath recovery zone. Homes get 600 x 1200 mm vitrified tiles, biometric main-door locks, glass balcony railings, a video door phone and AC points in the living room and main bedroom. Possession is planned for December 2028.",
+    "description": "QUE 101 is a 12-acre residential community by Unique Properties on Bharat Mata Road in Dhanori, north-east Pune, about 6 km from Pune airport. Phase I is registered with MahaRERA as PM1261012602127 (promoter ANNR Unique Realty LLP). The master plan shows 12 towers, A to L, around a 40,000 sq ft central park, with 21,000 sq ft of semi-covered and indoor amenities and a retail street along the main road. Homes include 2 BHK flats of 828 to 838 sq ft and 3 BHK flats of 963 to 1,110 sq ft, second-floor homes with private terraces, duplexes of 3, 4 and 5 BHK from 1,370 to 2,049 sq ft on the ground and upper-ground floors, and 3 BHK row houses of 2,201 and 2,210 sq ft with front and back yards (all total areas). all-inclusive prices on the November 2026 cost sheets start at ₹80.03 lakh for a 2 BHK, ₹91.94 lakh for a 3 BHK flat, ₹1.58 crore for a duplex and ₹2.76 crore for a row house. The amenity list runs to more than 65 items, including a clubhouse with an air-conditioned gym, swimming and kids' pools, pickleball and half-basketball courts, a pet park, co-working and business lounges, podcast and creator studios, a mini theatre, a salon and spa, and an ice-bath recovery zone. Homes get 600 x 1200 mm vitrified tiles, biometric main-door locks, glass balcony railings, a video door phone and AC points in the living room and main bedroom. Possession is planned for December 2028.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -52381,6 +53504,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Dhanori, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "739 - 1,723 sq.ft"
       }
     ],
     "reraId": "P52100062127",
@@ -52484,7 +53611,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/cd6d53c1-cdb6-454a-b6d2-2a4fc40a4a86/gallery/mwbydptb-561y23.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/cd6d53c1-cdb6-454a-b6d2-2a4fc40a4a86/gallery/mwbydpve-96ynpd.webp"
     ],
-    "description": "Amorapolis is a Nirman Greens residential community at Survey No. 12, Dhanori, Pune 411015, built in phases by Krisna Nirmaan Skyscraper LLP. Its earlier wings are registered with MahaRERA, and the newest, Wing I, is now on sale. Wing I's typical floor plan has six homes a floor: two 2 BHK homes of 698 sq ft and four 3 BHK homes of 1,012 sq ft, each the carpet area plus an open balcony. The launch cost sheet also lists a 2 BHK Grand of 825 sq ft, which is not on the typical floor plan. Final all-inclusive prices are ₹68.39 lakh for the 698 sq ft 2 BHK, ₹80.85 lakh for the 825 sq ft 2 BHK and ₹99.19 lakh for the 3 BHK; with 7% stamp duty, 5% GST and ₹31,000 registration, the totals come to ₹76.91 lakh, ₹90.86 lakh and ₹1.11 crore. The 2 BHK has a 15'6\" x 16' living and dining room and a sit-out; the 3 BHK has a 16'6\" x 16'6\" living and dining room, a kitchen with a utility area, a sit-out and a balcony. The developer's renders show a clubhouse with a swimming pool, a basketball court, a children's play area, landscaped gardens with an open-air stage, and a gated entrance, and it lists a surveillance system and 24x7 security. It places the project about 5 to 7 km from Pune International Airport and 6 to 8 km from Kharadi IT Park. Ask for Wing I's MahaRERA registration and possession date before booking.",
+    "description": "Amorapolis is a Nirman Greens residential community at Survey No. 12, Dhanori, Pune 411015, built in phases by Krisna Nirmaan Skyscraper LLP. Its earlier wings are registered with MahaRERA, and the newest, Wing I, is now on sale. Wing I's typical floor plan has six homes a floor: two 2 BHK homes of 698 sq ft and four 3 BHK homes of 1,012 sq ft, each the carpet area plus an open balcony. The launch cost sheet also lists a 2 BHK Grand of 825 sq ft, which is not on the typical floor plan. all-inclusive prices are ₹68.39 lakh for the 698 sq ft 2 BHK, ₹80.85 lakh for the 825 sq ft 2 BHK and ₹99.19 lakh for the 3 BHK; with 7% stamp duty, 5% GST and ₹31,000 registration, the totals come to ₹76.91 lakh, ₹90.86 lakh and ₹1.11 crore. The 2 BHK has a 15'6\" x 16' living and dining room and a sit-out; the 3 BHK has a 16'6\" x 16'6\" living and dining room, a kitchen with a utility area, a sit-out and a balcony. The developer's renders show a clubhouse with a swimming pool, a basketball court, a children's play area, landscaped gardens with an open-air stage, and a gated entrance, and it lists a surveillance system and 24x7 security. It places the project about 5 to 7 km from Pune International Airport and 6 to 8 km from Kharadi IT Park. Ask for Wing I's MahaRERA registration and possession date before booking.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -52524,6 +53651,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Dhanori, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "753 - 1,074 sq.ft"
       }
     ],
     "reraId": "P52100049120",
@@ -52651,6 +53782,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "716 - 1,075 sq.ft"
       }
     ],
     "reraId": "P52100081081",
@@ -52785,6 +53920,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "618 - 717 sq.ft"
       }
     ],
     "reraId": "P52100020587",
@@ -52907,6 +54046,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Shivajinagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,182 - 1,235 sq.ft"
       }
     ],
     "reraId": "P52100052300",
@@ -53023,6 +54166,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "650 sq.ft"
       }
     ],
     "reraId": "P52100060765",
@@ -53135,6 +54282,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Anand Nagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,095 - 1,810 sq.ft"
       }
     ],
     "reraId": "P52100051410",
@@ -53265,6 +54416,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Moshi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "742 - 985 sq.ft"
       }
     ],
     "reraId": "P52100021445",
@@ -53359,7 +54514,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/682acbe6-1523-4751-96d3-668325f5cf39/gallery/mwbzrs2p-4pqed1.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/682acbe6-1523-4751-96d3-668325f5cf39/gallery/mwbzrs4r-1wgfo5.webp"
     ],
-    "description": "Godrej Skyline Commercial is the high-street retail podium of Godrej Skyline, the Godrej Properties project on Ghorpadi–Mundhwa Road in Koregaon Park Annexe, Mundhwa, registered with MahaRERA as PM1260002400007. The shops sit at the base of the residential towers, along a 30 m DP road and an 18 m DP road, with more than 150 feet of retail frontage, an entrance lobby with marble flooring and a loading and unloading bay for goods. Ground-floor shops have a mezzanine within an 8.4 m (27.5 ft) floor-to-floor height; the first retail floor is 4.2 m high. The current inventory lists 13 shops: eight on the ground floor, of 750 to 1,203 sq ft of RERA carpet including the mezzanine, at final all-inclusive prices of ₹4.24 crore to ₹6.80 crore, and five on the first retail floor, of 808 to 1,551 sq ft, at ₹3.41 crore to ₹7.57 crore. That works out to about ₹51,650 to ₹56,560 per sq ft on the ground floor and ₹42,200 to ₹49,400 on the first floor. Shops get vitrified flooring, toughened glass doors, a glass facade with allotted signage space, a centralised AC provision and a high-speed internet provision, with basement parking for cars and scooters and EV provision. Possession is planned for November 2029.",
+    "description": "Godrej Skyline Commercial is the high-street retail podium of Godrej Skyline, the Godrej Properties project on Ghorpadi–Mundhwa Road in Koregaon Park Annexe, Mundhwa, registered with MahaRERA as PM1260002400007. The shops sit at the base of the residential towers, along a 30 m DP road and an 18 m DP road, with more than 150 feet of retail frontage, an entrance lobby with marble flooring and a loading and unloading bay for goods. Ground-floor shops have a mezzanine within an 8.4 m (27.5 ft) floor-to-floor height; the first retail floor is 4.2 m high. The current inventory lists 13 shops: eight on the ground floor, of 750 to 1,203 sq ft of RERA carpet including the mezzanine, at all-inclusive prices of ₹4.24 crore to ₹6.80 crore, and five on the first retail floor, of 808 to 1,551 sq ft, at ₹3.41 crore to ₹7.57 crore. That works out to about ₹51,650 to ₹56,560 per sq ft on the ground floor and ₹42,200 to ₹49,400 on the first floor. Shops get vitrified flooring, toughened glass doors, a glass facade with allotted signage space, a centralised AC provision and a high-speed internet provision, with basement parking for cars and scooters and EV provision. Possession is planned for November 2029.",
     "features": [
       "Covered Parking",
       "EV Charging"
@@ -53394,6 +54549,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mundhwa, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "728 - 1,019 sq.ft"
       }
     ],
     "reraId": "P52100030007",
@@ -53513,6 +54672,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "556 - 724 sq.ft"
       }
     ],
     "reraId": "P52100062043",
@@ -53602,7 +54765,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qk49-fnx9t2.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/d84e8031-0038-46c2-8600-bde888988008/gallery/mwc1qk68-2gzdxm.webp"
     ],
-    "description": "Arkaa Galaxy is a residential project by Agarwal and Bhondve Buildcon LLP in Ravet, behind the PCMC water tank near Chandrabhaga Corner Lane. It is registered with MahaRERA as P52100045836, with completion proposed for April 2029. On a 3,000 sq m plot, two towers rise 14 storeys above a ground floor and two parking levels, with separate entry and exit gates, and are joined at the top by a connected rooftop of about 3,500 sq ft holding a lawn, a party and play area, an open theatre, a jogging area, an open fitness area and a lounge. The brochure counts 108 2 BHK homes in Wings A and B. The current cost sheet lists 2 BHK homes of 745, 754 and 781 sq ft at final all-inclusive prices of ₹68.46 lakh, ₹69.19 lakh and ₹71.69 lakh, and a single 1,273 sq ft 3 BHK (B-702) at ₹1.17 crore. Every flat gets an inverter backup, and the building has DG backup for the lifts and common areas, CCTV, a video door phone, solar water heating, rainwater harvesting and an organic waste converter. Homes have vitrified tiles throughout, a granite kitchen platform, aluminium sliding windows with mosquito mesh, a folding door to the living-room balcony and AC provision in the living room and master bedroom.",
+    "description": "Arkaa Galaxy is a residential project by Agarwal and Bhondve Buildcon LLP in Ravet, behind the PCMC water tank near Chandrabhaga Corner Lane. It is registered with MahaRERA as P52100045836, with completion proposed for April 2029. On a 3,000 sq m plot, two towers rise 14 storeys above a ground floor and two parking levels, with separate entry and exit gates, and are joined at the top by a connected rooftop of about 3,500 sq ft holding a lawn, a party and play area, an open theatre, a jogging area, an open fitness area and a lounge. The brochure counts 108 2 BHK homes in Wings A and B. The current cost sheet lists 2 BHK homes of 745, 754 and 781 sq ft at all-inclusive prices of ₹68.46 lakh, ₹69.19 lakh and ₹71.69 lakh, and a single 1,273 sq ft 3 BHK (B-702) at ₹1.17 crore. Every flat gets an inverter backup, and the building has DG backup for the lifts and common areas, CCTV, a video door phone, solar water heating, rainwater harvesting and an organic waste converter. Homes have vitrified tiles throughout, a granite kitchen platform, aluminium sliding windows with mosquito mesh, a folding door to the living-room balcony and AC provision in the living room and master bedroom.",
     "features": [
       "CCTV Surveillance",
       "Gymnasium",
@@ -53643,6 +54806,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "691 - 1,033 sq.ft"
       }
     ],
     "reraId": "P52100045836",
@@ -53730,7 +54897,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkiy5-96mu5o.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkj0w-46ufr8.webp"
     ],
-    "description": "The Crown Highstreet is the retail podium of Ace Ayodhya, the four-tower residential project by Jhamtani Group and Shree Venkateshwara Group on the 45-metre Aundh–Ravet BRTS road near Dange Chowk, Thergaon. It is registered with the homes under MahaRERA PR1261012600416, with Ace Venkateshwara Realty as the promoter. The high street has 22 shops on the ground floor and 22 on the first, of 355 to 1,147 sq ft of carpet, plus seven showrooms of 1,983 to 5,678 sq ft over both floors, facing a high-street plaza along a 12-metre road. Final all-inclusive prices on the current cost sheets work out to ₹37,500 per sq ft on the ground floor and ₹33,000 on the first: from ₹1.33 crore for a 355 sq ft ground-floor shop and ₹1.17 crore for the same size upstairs, up to ₹4.30 crore for a 1,147 sq ft ground-floor shop. Showroom prices are on request. The renders show a colonnaded concourse beneath the towers, and the plans show lift lobbies and a commercial ramp to the basement. Possession is planned for December 2030.",
+    "description": "The Crown Highstreet is the retail podium of Ace Ayodhya, the four-tower residential project by Jhamtani Group and Shree Venkateshwara Group on the 45-metre Aundh–Ravet BRTS road near Dange Chowk, Thergaon. It is registered with the homes under MahaRERA PR1261012600416, with Ace Venkateshwara Realty as the promoter. The high street has 22 shops on the ground floor and 22 on the first, of 355 to 1,147 sq ft of carpet, plus seven showrooms of 1,983 to 5,678 sq ft over both floors, facing a high-street plaza along a 12-metre road. all-inclusive prices on the current cost sheets work out to ₹37,500 per sq ft on the ground floor and ₹33,000 on the first: from ₹1.33 crore for a 355 sq ft ground-floor shop and ₹1.17 crore for the same size upstairs, up to ₹4.30 crore for a 1,147 sq ft ground-floor shop. Showroom prices are on request. The renders show a colonnaded concourse beneath the towers, and the plans show lift lobbies and a commercial ramp to the basement. Possession is planned for December 2030.",
     "features": [
       "Covered Parking"
     ],
@@ -53764,6 +54931,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Thergaon, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "689 - 737 sq.ft"
       }
     ],
     "reraId": "P52100060416",
@@ -53888,6 +55059,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "758 - 1,063 sq.ft"
       }
     ],
     "reraId": "P52100080004",
@@ -54009,6 +55184,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "623 - 697 sq.ft"
       }
     ],
     "reraId": "P52100020510",
@@ -54131,6 +55310,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Thergaon, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "434 - 997 sq.ft"
       }
     ],
     "reraId": "P52100060416",
@@ -54225,7 +55408,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/904e6ae3-ea42-409c-b46e-8c879b2294b7/gallery/mvv4kyna-ao946s.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/904e6ae3-ea42-409c-b46e-8c879b2294b7/gallery/mvv4kyp8-ovbi4.webp"
     ],
-    "description": "Kuber Antonia is a residential project by Kuber Properties, with Bhandare Associates as joint-venture partner, behind Hotel Tip Top International and beside Yashwin Encore in Wakad, close to Bhumkar Chowk and the Mumbai-Bengaluru highway. It offers only 2 BHK homes of 730 sq ft (637 sq ft of RERA carpet plus 93 sq ft of balconies), five to a typical floor with two lifts. On the B building cost sheet, a 2 BHK costs ₹84.56 lakh as final all-inclusive price, including ₹5.25 lakh of infrastructure charges, or about ₹95 lakh with stamp duty, GST and registration. Each home has a 16'0\" x 10'6\" living and dining room with a balcony, an 8'0\" x 10'4\" kitchen with a dry balcony, a 14'0\" x 10'6\" master bedroom with its own bathroom and balcony, a 10'0\" x 10'0\" second bedroom and a second bathroom. At ground level there are a clubhouse with the Power Club co-working space, a swimming pool, a jacuzzi, a jogging track, a barbecue zone, a deck, a party lawn and pergolas, and the rooftop deck, more than 100 feet above the ground, adds a yoga and meditation area, an open gym, board games, gazebos, a party lawn, a children's play area and a senior citizens' sit-out. Homes come with 800 x 800 mm vitrified flooring, American Standard sanitaryware and Grohe fittings, split AC points in the living room and both bedrooms, a video door phone, solar hot water and 24x7 security with CCTV. The project is registered with MahaRERA as P52100035197, with possession planned for April 2027.",
+    "description": "Kuber Antonia is a residential project by Kuber Properties, with Bhandare Associates as joint-venture partner, behind Hotel Tip Top International and beside Yashwin Encore in Wakad, close to Bhumkar Chowk and the Mumbai-Bengaluru highway. It offers only 2 BHK homes of 730 sq ft (637 sq ft of RERA carpet plus 93 sq ft of balconies), five to a typical floor with two lifts. On the B building cost sheet, a 2 BHK costs ₹84.56 lakh as all-inclusive price, including ₹5.25 lakh of infrastructure charges, or about ₹95 lakh with stamp duty, GST and registration. Each home has a 16'0\" x 10'6\" living and dining room with a balcony, an 8'0\" x 10'4\" kitchen with a dry balcony, a 14'0\" x 10'6\" master bedroom with its own bathroom and balcony, a 10'0\" x 10'0\" second bedroom and a second bathroom. At ground level there are a clubhouse with the Power Club co-working space, a swimming pool, a jacuzzi, a jogging track, a barbecue zone, a deck, a party lawn and pergolas, and the rooftop deck, more than 100 feet above the ground, adds a yoga and meditation area, an open gym, board games, gazebos, a party lawn, a children's play area and a senior citizens' sit-out. Homes come with 800 x 800 mm vitrified flooring, American Standard sanitaryware and Grohe fittings, split AC points in the living room and both bedrooms, a video door phone, solar hot water and 24x7 security with CCTV. The project is registered with MahaRERA as P52100035197, with possession planned for April 2027.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -54266,6 +55449,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "690 sq.ft"
       }
     ],
     "reraId": "P52100035197",
@@ -54402,6 +55589,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "744 - 1,045 sq.ft"
       }
     ],
     "reraId": "P52100080096",
@@ -54532,6 +55723,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Charoli, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,023 - 1,600 sq.ft"
       }
     ],
     "reraId": "P52100053279",
@@ -54660,6 +55855,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "692 - 1,023 sq.ft"
       }
     ],
     "reraId": "P52100038920",
@@ -54782,6 +55981,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "555 sq.ft"
       }
     ],
     "reraId": "P52100042180",
@@ -54893,6 +56096,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Charoli, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,126 - 1,223 sq.ft"
       }
     ],
     "reraId": "P52100052379",
@@ -55017,6 +56224,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,077 - 1,821 sq.ft"
       }
     ],
     "reraId": "P52100062183",
@@ -55156,6 +56367,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bavdhan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,632 - 1,777 sq.ft"
       }
     ],
     "reraId": "P52100080233",
@@ -55280,6 +56495,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad BRTS Road, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "750 - 1,200 sq.ft"
       }
     ],
     "reraId": "P52100052418",
@@ -55417,6 +56636,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Chikhali, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "688 sq.ft"
       }
     ],
     "reraId": "P52100080764",
@@ -55547,6 +56770,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "NIBM, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,100 - 1,688 sq.ft"
       }
     ],
     "reraId": "P52100030430",
@@ -55633,7 +56860,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp",
       "https://keystoneliv.com/public/uploads/property/Q39esXojW09bMJ6Mdrck23emKYk4oMPhiZEBA16j.webp"
     ],
-    "description": "Codename District Studio, sold as Smarto Tower, is a building of studio apartments in Pune. Each typical floor has nine studios along a 1.5 m passage, served by a lift and a fire lift, and the cost sheet lists nine studio types from 202 to 307 sq ft of carpet. Each studio has a room of about 10'6\" wide and 14'7\" to 18' long, a toilet, a kitchenette counter and a small balcony. Final all-inclusive prices run from ₹26.36 lakh for the 202 sq ft studio to ₹40.06 lakh for 307 sq ft. With 7% stamp duty, 1% GST and ₹31,000 registration, the totals are ₹28.78 lakh to ₹43.58 lakh; GST is charged at the 1% affordable-housing rate because each studio is small and priced under ₹45 lakh. The cost sheet we have was valid until 30 October 2026, so ask for the current one. The material does not give the site address, a MahaRERA registration number or a possession date; get all three before paying anything.",
+    "description": "Codename District Studio, sold as Smarto Tower, is a building of studio apartments in Pune. Each typical floor has nine studios along a 1.5 m passage, served by a lift and a fire lift, and the cost sheet lists nine studio types from 202 to 307 sq ft of carpet. Each studio has a room of about 10'6\" wide and 14'7\" to 18' long, a toilet, a kitchenette counter and a small balcony. all-inclusive prices run from ₹26.36 lakh for the 202 sq ft studio to ₹40.06 lakh for 307 sq ft. With 7% stamp duty, 1% GST and ₹31,000 registration, the totals are ₹28.78 lakh to ₹43.58 lakh; GST is charged at the 1% affordable-housing rate because each studio is small and priced under ₹45 lakh. The cost sheet we have was valid until 30 October 2026, so ask for the current one. The material does not give the site address, a MahaRERA registration number or a possession date; get all three before paying anything.",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -55671,6 +56898,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "646 - 904 sq.ft"
       }
     ],
     "reraId": "P52100053120",
@@ -55762,7 +56993,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxpik-7gnm7q.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxpkf-abmj9p.webp"
     ],
-    "description": "K Pune is a residential project by Tayal Corp under its K Better Homes brand at Sr. No. 45/1 and 45/2, Bavdhan, about 1.7 km from Chandni Chowk. Spread over 10 acres, it has seven towers of 21 storeys, a high street of 62 showrooms and landscape design by Landscape Tectonix of Bangkok. Phase II (buildings C, D and E) is registered with MahaRERA as P52100077301, with VMC Landmark Realty LLP as the promoter and a proposed completion date of 31 July 2029; Phase I is registered as P52100047630. The current cost sheet lists 3 BHK homes of 1,116 sq ft in buildings C and D and 1,251 and 1,361 sq ft in building E, and 4 BHK homes of 1,708 sq ft in building E, sizes that include the balconies. Final all-inclusive prices start at ₹1.30 crore for a 1,116 sq ft 3 BHK and ₹1.975 crore for the 4 BHK, rising by ₹50,000 for each higher floor band. Amenities include a two-level cascading pool with a leisure pool, a clubhouse with a multipurpose hall and crèche, a multi-sport court, a kids' play area, a step amphitheatre, terrace gardens, a co-working space, a reading space, a games zone and a sports and wellness area, with four levels of car parking. Homes get an Aluform structure, gypsum-finished walls, UPVC windows with mosquito mesh, solar-heated water and AC points in the living room and master bedroom.",
+    "description": "K Pune is a residential project by Tayal Corp under its K Better Homes brand at Sr. No. 45/1 and 45/2, Bavdhan, about 1.7 km from Chandni Chowk. Spread over 10 acres, it has seven towers of 21 storeys, a high street of 62 showrooms and landscape design by Landscape Tectonix of Bangkok. Phase II (buildings C, D and E) is registered with MahaRERA as P52100077301, with VMC Landmark Realty LLP as the promoter and a proposed completion date of 31 July 2029; Phase I is registered as P52100047630. The current cost sheet lists 3 BHK homes of 1,116 sq ft in buildings C and D and 1,251 and 1,361 sq ft in building E, and 4 BHK homes of 1,708 sq ft in building E, sizes that include the balconies. all-inclusive prices start at ₹1.30 crore for a 1,116 sq ft 3 BHK and ₹1.975 crore for the 4 BHK, rising by ₹50,000 for each higher floor band. Amenities include a two-level cascading pool with a leisure pool, a clubhouse with a multipurpose hall and crèche, a multi-sport court, a kids' play area, a step amphitheatre, terrace gardens, a co-working space, a reading space, a games zone and a sports and wellness area, with four levels of car parking. Homes get an Aluform structure, gypsum-finished walls, UPVC windows with mosquito mesh, solar-heated water and AC points in the living room and master bedroom.",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -55803,6 +57034,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bavdhan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,082 - 1,840 sq.ft"
       }
     ],
     "reraId": "P52100077301",
@@ -55933,6 +57168,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mahalunge, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,076 - 1,656 sq.ft"
       }
     ],
     "reraId": "P52100051285",
@@ -56022,7 +57261,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2oob-6p8mi8.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2oq8-d7mbyi.webp"
     ],
-    "description": "Arvaana is a single residential tower in Balewadi, Pune, by Kundan Spaces, with only two homes on each floor. The tower rises three basements, a ground floor and 33 floors on a plot of about one acre, for 66 homes in all, and is open on the east and west sides. It is registered with MahaRERA as PR1260002600277, and the developer gives possession as December 2030. There are two home types. The 4.5 BHK homes measure 2,235 to 2,269 sq ft of total carpet area and have four bedrooms, a double-height family room, a sit-out, a servant's room with its own toilet, a dry balcony and a store. The 4 BHK homes, 2,147 and 2,160 sq ft, have the same four bedrooms with a double-height sit-out in place of the family room. Floors are 11 ft high, each typical floor is served by four lifts, power backup covers the whole building and every home gets three car parks. Final all-inclusive prices start at ₹3.46 Cr for the 4 BHK and ₹3.60 Cr for the 4.5 BHK; with stamp duty, registration and GST the packages are about ₹3.87 Cr to ₹4.09 Cr. The amenity floor at the top holds a temperature-controlled covered pool with a kids' pool, a mini theatre, a co-working room, an indoor games room and a green lounge, and the roof has a party deck and a viewing deck. The site is on a 30 m road, about two minutes from Balewadi High Street, with Baner, Aundh, Pimpri-Chinchwad and the Mumbai-Bengaluru highway close by.",
+    "description": "Arvaana is a single residential tower in Balewadi, Pune, by Kundan Spaces, with only two homes on each floor. The tower rises three basements, a ground floor and 33 floors on a plot of about one acre, for 66 homes in all, and is open on the east and west sides. It is registered with MahaRERA as PR1260002600277, and the developer gives possession as December 2030. There are two home types. The 4.5 BHK homes measure 2,235 to 2,269 sq ft of total carpet area and have four bedrooms, a double-height family room, a sit-out, a servant's room with its own toilet, a dry balcony and a store. The 4 BHK homes, 2,147 and 2,160 sq ft, have the same four bedrooms with a double-height sit-out in place of the family room. Floors are 11 ft high, each typical floor is served by four lifts, power backup covers the whole building and every home gets three car parks. all-inclusive prices start at ₹3.46 Cr for the 4 BHK and ₹3.60 Cr for the 4.5 BHK; with stamp duty, registration and GST the packages are about ₹3.87 Cr to ₹4.09 Cr. The amenity floor at the top holds a temperature-controlled covered pool with a kids' pool, a mini theatre, a co-working room, an indoor games room and a green lounge, and the roof has a party deck and a viewing deck. The site is on a 30 m road, about two minutes from Balewadi High Street, with Baner, Aundh, Pimpri-Chinchwad and the Mumbai-Bengaluru highway close by.",
     "features": [
       "Gymnasium",
       "Co-working Lounge",
@@ -56061,6 +57300,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,753 - 1,781 sq.ft"
       }
     ],
     "reraId": "P52100020277",
@@ -56191,6 +57434,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "753 - 1,024 sq.ft"
       }
     ],
     "reraId": "P52100021596",
@@ -56319,6 +57566,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "746 - 1,000 sq.ft"
       }
     ],
     "reraId": "P52100052534",
@@ -56448,6 +57699,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "739 - 1,692 sq.ft"
       }
     ],
     "reraId": "P52100080292",
@@ -56582,6 +57837,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,097 - 1,666 sq.ft"
       }
     ],
     "reraId": "P52100020993",
@@ -56710,6 +57969,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "992 - 1,563 sq.ft"
       }
     ],
     "reraId": "P52100061760",
@@ -56800,7 +58063,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkiy5-96mu5o.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/7961ad75-4a1a-477e-a5ef-29a8b2422b2c/gallery/mwevkj0w-46ufr8.webp"
     ],
-    "description": "Tapovan is a residential tower by Life Spaces Realty at Gat No. 253 on the Moshi–Alandi Road, near Vedshree Tapovan in Moshi, registered with MahaRERA as PM1260002501333 with a proposed completion date of 30 April 2029. It is a mixed-use building: shops on the ground floor and offices on the second, with 2 BHK and 3 BHK homes from the 1st to the 14th floor and refuge floors at the 7th and 12th. The 2 BHK homes measure 722 to 739 sq ft and cost ₹53.01 lakh to ₹54.16 lakh, and the 3 BHK homes measure 896 to 924 sq ft and cost ₹66.44 lakh to ₹68.95 lakh, as final all-inclusive prices. The rooftop has a children's play area, a toddlers' play area, an open gym, a yoga deck, a party area, a gazebo and senior citizens' sit-outs, a sunset deck and an acupressure walkway. The tower has a road-facing elevation with toughened glass, and homes get an earthquake-resistant RCC frame with AAC block walls, vitrified tiles throughout, a black pearl granite kitchen counter with a stainless steel sink, sliding aluminium windows with mosquito nets, solar hot water in the master bathroom and an AC point in the master bedroom. By the brochure, MIT College and the Shri Gajanan Maharaj temple are 5 minutes away, Moshi bus stop 8 minutes, and Alandi and DMart 10 minutes.",
+    "description": "Tapovan is a residential tower by Life Spaces Realty at Gat No. 253 on the Moshi–Alandi Road, near Vedshree Tapovan in Moshi, registered with MahaRERA as PM1260002501333 with a proposed completion date of 30 April 2029. It is a mixed-use building: shops on the ground floor and offices on the second, with 2 BHK and 3 BHK homes from the 1st to the 14th floor and refuge floors at the 7th and 12th. The 2 BHK homes measure 722 to 739 sq ft and cost ₹53.01 lakh to ₹54.16 lakh, and the 3 BHK homes measure 896 to 924 sq ft and cost ₹66.44 lakh to ₹68.95 lakh, as all-inclusive prices. The rooftop has a children's play area, a toddlers' play area, an open gym, a yoga deck, a party area, a gazebo and senior citizens' sit-outs, a sunset deck and an acupressure walkway. The tower has a road-facing elevation with toughened glass, and homes get an earthquake-resistant RCC frame with AAC block walls, vitrified tiles throughout, a black pearl granite kitchen counter with a stainless steel sink, sliding aluminium windows with mosquito nets, solar hot water in the master bathroom and an AC point in the master bedroom. By the brochure, MIT College and the Shri Gajanan Maharaj temple are 5 minutes away, Moshi bus stop 8 minutes, and Alandi and DMart 10 minutes.",
     "features": [
       "Gymnasium",
       "Covered Parking",
@@ -56837,6 +58100,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Moshi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "722 - 997 sq.ft"
       }
     ],
     "reraId": "P52100061333",
@@ -56930,7 +58197,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/609dca63-0f91-4e39-9c90-d3d97ab38d32/gallery/mvu256gg-9ab1m9.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/609dca63-0f91-4e39-9c90-d3d97ab38d32/gallery/mvu256i8-23ijv3.webp"
     ],
-    "description": "Sai Kripa by Krishna Rama Developer is a boutique residential building on Plot No. 415, Sector 29, Ganesh Nagar, Ravet, in the Pradhikaran area of Pimpri-Chinchwad, facing a 10.5 m road. Six residential floors hold just 36 homes, all 3 BHK and six to a floor: 1,053 sq ft homes (938 sq ft carpet plus 115 sq ft of balconies) and 1,085 sq ft homes (970 sq ft carpet plus 115 sq ft of balconies). Every home has three bedrooms, two of them with attached toilets, a living room opening onto a 12 ft balcony, a dining area and a kitchen with a dry balcony; the first-floor homes also open onto terraces. The rooftop is given over to amenities: a gym, a lawn, a yoga deck, a jogging track around the edge, a kids' play area, an indoor games room and club house, and a multipurpose hall with a pantry and stage. Homes come with a 35 mm main door with a biometric lock, a video door bell, UPVC windows and balcony doors, 600 x 1200 mm vitrified tiles, Jaquar or Hindware fittings, geyser provision in every bathroom and AC provision in the living room and all bedrooms, and the building has high-speed lifts, an EV charging point and solar power generation. The eight shops on the ground floor are listed separately as Sai Kripa Commercial. D. Y. Patil Dnyanshanti School, PCCOE, DMart Ravet, Global Hospital, Akurdi railway station and the Pradhikaran gardens are about 5 minutes away, Chinchwad station about 12 and the old Mumbai-Pune highway and NH-48 about 10. Final all-inclusive prices start from ₹1.06 crore for a 3 BHK (about ₹1.19 crore including GST, stamp duty and registration). Possession is planned for December 2030 (RERA completion date April 2031). MahaRERA PM1260002500965.",
+    "description": "Sai Kripa by Krishna Rama Developer is a boutique residential building on Plot No. 415, Sector 29, Ganesh Nagar, Ravet, in the Pradhikaran area of Pimpri-Chinchwad, facing a 10.5 m road. Six residential floors hold just 36 homes, all 3 BHK and six to a floor: 1,053 sq ft homes (938 sq ft carpet plus 115 sq ft of balconies) and 1,085 sq ft homes (970 sq ft carpet plus 115 sq ft of balconies). Every home has three bedrooms, two of them with attached toilets, a living room opening onto a 12 ft balcony, a dining area and a kitchen with a dry balcony; the first-floor homes also open onto terraces. The rooftop is given over to amenities: a gym, a lawn, a yoga deck, a jogging track around the edge, a kids' play area, an indoor games room and club house, and a multipurpose hall with a pantry and stage. Homes come with a 35 mm main door with a biometric lock, a video door bell, UPVC windows and balcony doors, 600 x 1200 mm vitrified tiles, Jaquar or Hindware fittings, geyser provision in every bathroom and AC provision in the living room and all bedrooms, and the building has high-speed lifts, an EV charging point and solar power generation. The eight shops on the ground floor are listed separately as Sai Kripa Commercial. D. Y. Patil Dnyanshanti School, PCCOE, DMart Ravet, Global Hospital, Akurdi railway station and the Pradhikaran gardens are about 5 minutes away, Chinchwad station about 12 and the old Mumbai-Pune highway and NH-48 about 10. all-inclusive prices start from ₹1.06 crore for a 3 BHK (about ₹1.19 crore including GST, stamp duty and registration). Possession is planned for December 2030 (RERA completion date April 2031). MahaRERA PM1260002500965.",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -56971,6 +58238,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,028 sq.ft"
       }
     ],
     "reraId": "P52100060965",
@@ -57091,6 +58362,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "747 sq.ft"
       }
     ],
     "reraId": "P52100062253",
@@ -57210,6 +58485,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hinjewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "430 - 719 sq.ft"
       }
     ],
     "reraId": "P52100054899",
@@ -57335,6 +58614,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Darumbre, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "744 - 1,067 sq.ft"
       }
     ],
     "reraId": "P52100073733",
@@ -57463,6 +58746,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "697 - 1,093 sq.ft"
       }
     ],
     "reraId": "P52100020598",
@@ -57586,6 +58873,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kharadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "622 - 870 sq.ft"
       }
     ],
     "reraId": "P52100045636",
@@ -57715,6 +59006,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Lavale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "601 - 1,019 sq.ft"
       }
     ],
     "reraId": "P52100060649",
@@ -57856,6 +59151,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Rahatani, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "685 - 1,029 sq.ft"
       }
     ],
     "reraId": "P52100021428",
@@ -57989,6 +59288,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,703 - 1,982 sq.ft"
       }
     ],
     "reraId": "P52100027160",
@@ -58118,6 +59421,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimpri, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "721 - 1,701 sq.ft"
       }
     ],
     "reraId": "P52100022343",
@@ -58258,6 +59565,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Nigdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,043 - 1,825 sq.ft"
       }
     ],
     "reraId": "P52100050692",
@@ -58386,6 +59697,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "723 - 1,064 sq.ft"
       }
     ],
     "reraId": "P52100062454",
@@ -58513,6 +59828,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,020 - 1,076 sq.ft"
       }
     ],
     "reraId": "P52100060090",
@@ -58638,6 +59957,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimpri, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "562 - 786 sq.ft"
       }
     ],
     "reraId": "P52100025469",
@@ -58765,6 +60088,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "734 - 1,020 sq.ft"
       }
     ],
     "reraId": "P52100022057",
@@ -58852,7 +60179,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/a6dc0c88-7cbe-43d4-9bc3-4158339ebef6/gallery/mvghnc3y-3uy8yq.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/a6dc0c88-7cbe-43d4-9bc3-4158339ebef6/gallery/mvghnbi8-2g2sm4.webp"
     ],
-    "description": "King's Grace by Krishna Rrealty is a new residential address in Rahatani, near Kokane Chowk on the Pimple Saudagar–Rahatani border in Pimpri-Chinchwad. It has two wings: B wing with 2 BHK homes of 781 and 809 sq ft, and A wing with 3 BHK homes of 1,095 to 1,148 sq ft (usable area, i.e. carpet plus balcony and terrace; RERA carpet 704–1,009 sq ft). Showrooms sit at ground level and parking is on two basement levels, with one covered car park for every home. The 3 BHK homes on the typical floors include a walk-in wardrobe, and the building has a gym and a kids' play area. Sparsh Hospital, Synergy Heart Institute and SNBP International School are about 1 km away, Kokane Chowk and Shivar Chowk within 1.5 km, the Aundh–Ravet BRTS road about 2 km and Wakad about 4 km, with Hinjewadi Phase 1 about 7 km away. Final all-inclusive prices start from ₹1.15 Cr for a 2 BHK (₹14,700 per sq ft of usable area) on a construction-linked payment plan with a ₹5 lakh booking amount. MahaRERA PR1260002602278; RERA completion date December 2029.",
+    "description": "King's Grace by Krishna Rrealty is a new residential address in Rahatani, near Kokane Chowk on the Pimple Saudagar–Rahatani border in Pimpri-Chinchwad. It has two wings: B wing with 2 BHK homes of 781 and 809 sq ft, and A wing with 3 BHK homes of 1,095 to 1,148 sq ft (usable area, i.e. carpet plus balcony and terrace; RERA carpet 704–1,009 sq ft). Showrooms sit at ground level and parking is on two basement levels, with one covered car park for every home. The 3 BHK homes on the typical floors include a walk-in wardrobe, and the building has a gym and a kids' play area. Sparsh Hospital, Synergy Heart Institute and SNBP International School are about 1 km away, Kokane Chowk and Shivar Chowk within 1.5 km, the Aundh–Ravet BRTS road about 2 km and Wakad about 4 km, with Hinjewadi Phase 1 about 7 km away. all-inclusive prices start from ₹1.15 Cr for a 2 BHK (₹14,700 per sq ft of usable area) on a construction-linked payment plan with a ₹5 lakh booking amount. MahaRERA PR1260002602278; RERA completion date December 2029.",
     "features": [
       "CCTV Surveillance",
       "Gymnasium",
@@ -58893,6 +60220,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Rahatani, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "722 - 1,118 sq.ft"
       }
     ],
     "reraId": "P52100022278",
@@ -59021,6 +60352,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "694 - 1,062 sq.ft"
       }
     ],
     "reraId": "P52100080613",
@@ -59149,6 +60484,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "727 - 1,033 sq.ft"
       }
     ],
     "reraId": "P52100078224",
@@ -59276,6 +60615,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,015 - 1,216 sq.ft"
       }
     ],
     "reraId": "P52100020332",
@@ -59405,6 +60748,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimpri, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "741 - 1,695 sq.ft"
       }
     ],
     "reraId": "P52100024630",
@@ -59545,6 +60892,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "754 - 1,090 sq.ft"
       }
     ],
     "reraId": "P52100044382",
@@ -59673,6 +61024,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "738 - 1,032 sq.ft"
       }
     ],
     "reraId": "P52100062389",
@@ -59801,6 +61156,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "719 - 1,023 sq.ft"
       }
     ],
     "reraId": "P52100017868",
@@ -59929,6 +61288,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,099 - 1,580 sq.ft"
       }
     ],
     "reraId": "P52100029416",
@@ -60056,6 +61419,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "745 - 1,012 sq.ft"
       }
     ],
     "reraId": "P52100062389",
@@ -60184,6 +61551,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,009 - 1,665 sq.ft"
       }
     ],
     "reraId": "P52100021438",
@@ -60312,6 +61683,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,030 - 1,790 sq.ft"
       }
     ],
     "reraId": "P52100062183",
@@ -60440,6 +61815,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "697 - 982 sq.ft"
       }
     ],
     "reraId": "P52100050429",
@@ -60569,6 +61948,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "562 - 1,007 sq.ft"
       }
     ],
     "reraId": "P52100052484",
@@ -60703,6 +62086,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bavdhan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "999 - 1,645 sq.ft"
       }
     ],
     "reraId": "P52100061000",
@@ -60831,6 +62218,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,019 - 1,803 sq.ft"
       }
     ],
     "reraId": "P52100061582",
@@ -60955,6 +62346,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,077 - 1,655 sq.ft"
       }
     ],
     "reraId": "P52100020510",
@@ -61082,6 +62477,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Rahatani, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "746 - 1,571 sq.ft"
       }
     ],
     "reraId": "P52100055677",
@@ -61213,6 +62612,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "625 - 874 sq.ft"
       }
     ],
     "reraId": "P52100087299",
@@ -61338,6 +62741,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Walhekarwadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "724 - 1,075 sq.ft"
       }
     ],
     "reraId": "P52100076759",
@@ -61466,6 +62873,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "714 - 1,100 sq.ft"
       }
     ],
     "reraId": "P52100080867",
@@ -61595,6 +63006,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimpri, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 1,685 sq.ft"
       }
     ],
     "reraId": "P52100037505",
@@ -61732,6 +63147,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Nigdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "651 - 911 sq.ft"
       }
     ],
     "reraId": "P52000045602",
@@ -61858,6 +63277,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimpri, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "723 - 1,598 sq.ft"
       }
     ],
     "reraId": "P52100031147",
@@ -61998,6 +63421,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "712 - 1,090 sq.ft"
       }
     ],
     "reraId": "P52100022057",
@@ -62129,6 +63556,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "732 - 1,819 sq.ft"
       }
     ],
     "reraId": "P52100055009",
@@ -62262,6 +63693,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimpri, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "713 sq.ft"
       }
     ],
     "reraId": "P52100079170",
@@ -62383,6 +63818,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "581 - 813 sq.ft"
       }
     ],
     "reraId": "P52100017578",
@@ -62509,6 +63948,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Nigdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,712 sq.ft"
       }
     ],
     "reraId": "P52100061964",
@@ -62631,6 +64074,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,051 - 1,658 sq.ft"
       }
     ],
     "reraId": "P52100061552",
@@ -62758,6 +64205,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "718 - 807 sq.ft"
       }
     ],
     "reraId": "P52100061271",
@@ -62884,6 +64335,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "551 - 720 sq.ft"
       }
     ],
     "reraId": "P52100020906",
@@ -63009,6 +64464,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "605 - 847 sq.ft"
       }
     ],
     "reraId": "P52000045602",
@@ -63135,6 +64594,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mamurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "691 - 1,021 sq.ft"
       }
     ],
     "reraId": "P52100020597",
@@ -63258,6 +64721,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "714 sq.ft"
       }
     ],
     "reraId": "P52100055201",
@@ -63376,6 +64843,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hinjewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "708 - 997 sq.ft"
       }
     ],
     "reraId": "P52100034019",
@@ -63504,6 +64975,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,047 - 1,646 sq.ft"
       }
     ],
     "reraId": "P52100021438",
@@ -63632,6 +65107,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,122 sq.ft"
       }
     ],
     "reraId": "P52100060290",
@@ -63753,6 +65232,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "736 - 1,025 sq.ft"
       }
     ],
     "reraId": "P52100063065",
@@ -63881,6 +65364,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,034 - 1,622 sq.ft"
       }
     ],
     "reraId": "P52100021438",
@@ -64009,6 +65496,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,113 - 1,733 sq.ft"
       }
     ],
     "reraId": "P52100061911",
@@ -64138,6 +65629,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mamurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "424 - 1,006 sq.ft"
       }
     ],
     "reraId": "P52100021545",
@@ -64274,6 +65769,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "733 - 1,090 sq.ft"
       }
     ],
     "reraId": "P52100077241",
@@ -64408,6 +65907,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "756 - 1,098 sq.ft"
       }
     ],
     "reraId": "P52100020635",
@@ -64532,6 +66035,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "656 - 918 sq.ft"
       }
     ],
     "reraId": "P52100051935",
@@ -64640,7 +66147,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "768 - 1,083 sq.ft."
+        "value": "768 - 1,083 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -64769,6 +66276,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "669 - 936 sq.ft"
       }
     ],
     "reraId": "P52100022029",
@@ -64895,6 +66406,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "714 - 980 sq.ft"
       }
     ],
     "reraId": "P52100062977",
@@ -65023,6 +66538,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "753 - 1,002 sq.ft"
       }
     ],
     "reraId": "P52100062323",
@@ -65149,6 +66668,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,022 - 1,225 sq.ft"
       }
     ],
     "reraId": "P52100020332",
@@ -65275,6 +66798,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "992 - 1,599 sq.ft"
       }
     ],
     "reraId": "P52100079084",
@@ -65400,6 +66927,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "598 - 623 sq.ft"
       }
     ],
     "reraId": "P52100071416",
@@ -65525,6 +67056,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "759 - 1,603 sq.ft"
       }
     ],
     "reraId": "P52100066472",
@@ -65660,6 +67195,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "719 - 1,669 sq.ft"
       }
     ],
     "reraId": "P52100026421",
@@ -65793,6 +67332,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "701 - 922 sq.ft"
       }
     ],
     "reraId": "P52100079941",
@@ -65920,6 +67463,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "686 - 1,012 sq.ft"
       }
     ],
     "reraId": "P52100062977",
@@ -66048,6 +67595,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Walhekarwadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 1,807 sq.ft"
       }
     ],
     "reraId": "P52100030528",
@@ -66182,6 +67733,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,045 - 1,581 sq.ft"
       }
     ],
     "reraId": "P52100062211",
@@ -66309,6 +67864,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "747 sq.ft"
       }
     ],
     "reraId": "P52100018439",
@@ -66428,6 +67987,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Nande / Mahalunge, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "420 - 1,080 sq.ft"
       }
     ],
     "reraId": "P52100062175",
@@ -66559,6 +68122,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mamurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "696 - 1,073 sq.ft"
       }
     ],
     "reraId": "P52100060576",
@@ -66687,6 +68254,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "748 - 985 sq.ft"
       }
     ],
     "reraId": "P52100079330",
@@ -66813,6 +68384,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hinjewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,047 sq.ft"
       }
     ],
     "reraId": "P52100076854",
@@ -66935,6 +68510,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "726 - 1,055 sq.ft"
       }
     ],
     "reraId": "P52100052323",
@@ -67063,6 +68642,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "729 - 1,127 sq.ft"
       }
     ],
     "reraId": "P52100078839",
@@ -67191,6 +68774,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "721 - 1,094 sq.ft"
       }
     ],
     "reraId": "P52100051845",
@@ -67324,6 +68911,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "754 - 1,021 sq.ft"
       }
     ],
     "reraId": "P52100056002",
@@ -67452,6 +69043,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Sangavade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "459 - 685 sq.ft"
       }
     ],
     "reraId": "P52100080686",
@@ -67579,6 +69174,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "568 - 738 sq.ft"
       }
     ],
     "reraId": "P52100022156",
@@ -67706,6 +69305,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,005 - 1,631 sq.ft"
       }
     ],
     "reraId": "P52100060985",
@@ -67833,6 +69436,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "988 sq.ft"
       }
     ],
     "reraId": "P52100048051",
@@ -67951,6 +69558,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "719 sq.ft"
       }
     ],
     "reraId": "P52100032756",
@@ -68070,6 +69681,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "757 - 1,064 sq.ft"
       }
     ],
     "reraId": "P52100032656",
@@ -68199,6 +69814,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "752 - 1,600 sq.ft"
       }
     ],
     "reraId": "P52100055041",
@@ -68333,6 +69952,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Aundh, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "728 - 1,072 sq.ft"
       }
     ],
     "reraId": "P52100077792",
@@ -68459,6 +70082,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,760 - 2,358 sq.ft"
       }
     ],
     "reraId": "P52100004039",
@@ -68586,6 +70213,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,054 - 1,648 sq.ft"
       }
     ],
     "reraId": "P52100020725",
@@ -68714,6 +70345,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "686 - 1,062 sq.ft"
       }
     ],
     "reraId": "P52100052724",
@@ -68841,6 +70476,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,014 - 1,685 sq.ft"
       }
     ],
     "reraId": "P52100029001",
@@ -68966,6 +70605,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "714 - 999 sq.ft"
       }
     ],
     "reraId": "P52100033020",
@@ -69091,6 +70734,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "747 - 1,042 sq.ft"
       }
     ],
     "reraId": "P52100022057",
@@ -69219,6 +70866,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "686 - 1,068 sq.ft"
       }
     ],
     "reraId": "P52100047548",
@@ -69352,6 +71003,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "736 - 1,826 sq.ft"
       }
     ],
     "reraId": "P52100047662",
@@ -69489,6 +71144,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 1,036 sq.ft"
       }
     ],
     "reraId": "P52100021641",
@@ -69616,6 +71275,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "738 - 1,098 sq.ft"
       }
     ],
     "reraId": "P52100052385",
@@ -69744,6 +71407,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "707 - 1,100 sq.ft"
       }
     ],
     "reraId": "P52100063118",
@@ -69871,6 +71538,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "730 sq.ft"
       }
     ],
     "reraId": "P52100033654",
@@ -69991,6 +71662,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "644 - 901 sq.ft"
       }
     ],
     "reraId": "P52100028755",
@@ -70112,6 +71787,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "699 - 978 sq.ft"
       }
     ],
     "reraId": "P52100062977",
@@ -70235,6 +71914,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,025 sq.ft"
       }
     ],
     "reraId": "P52100030372",
@@ -70357,6 +72040,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,120 - 1,550 sq.ft"
       }
     ],
     "reraId": "P52100061760",
@@ -70484,6 +72171,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "744 sq.ft"
       }
     ],
     "reraId": "P52100024756",
@@ -70605,6 +72296,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 747 sq.ft"
       }
     ],
     "reraId": "P52100079597",
@@ -70736,6 +72431,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "739 - 991 sq.ft"
       }
     ],
     "reraId": "P52100078935",
@@ -70863,6 +72562,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hinjewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "718 sq.ft"
       }
     ],
     "reraId": "P52100021233",
@@ -70985,6 +72688,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimpri, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "685 - 1,127 sq.ft"
       }
     ],
     "reraId": "P52100021126",
@@ -71113,6 +72820,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "760 - 998 sq.ft"
       }
     ],
     "reraId": "P52100032195",
@@ -71237,6 +72948,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hinjewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "691 - 942 sq.ft"
       }
     ],
     "reraId": "P52100031648",
@@ -71360,6 +73075,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,101 - 1,541 sq.ft"
       }
     ],
     "reraId": "P52100061783",
@@ -71487,6 +73206,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "723 - 1,121 sq.ft"
       }
     ],
     "reraId": "P52100032656",
@@ -71615,6 +73338,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,025 - 1,661 sq.ft"
       }
     ],
     "reraId": "P52100031557",
@@ -71744,6 +73471,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "682 - 988 sq.ft"
       }
     ],
     "reraId": "P52100020172",
@@ -71842,7 +73573,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/79ad62b1-963d-43e6-92e9-7d2a50735dc5/gallery/mvhptcrp-7spsaf.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/79ad62b1-963d-43e6-92e9-7d2a50735dc5/gallery/mvhptdgh-awu2f9.webp"
     ],
-    "description": "Newton Homes Royale by Ravima Ventures is a new launch on the Hadapsar–Magarpatta Road side of Mundhwa, next to the Kharadi–Hadapsar Bypass Road in East Pune. On a 2-acre plot, two 23-storey towers hold 226 homes – 2, 2.5 and 3 BHK residences of 796 to 1,072 sq ft carpet area, plus combined 4 BHK homes – with five corner homes on every floor and four levels of podium parking. Homes are planned with zero passage wastage, and every home gets a smart digital door lock, a video door phone and app-based security alerts. The structure is an Aluform and AAC block hybrid with an earthquake-resistant RCC frame. More than 50 lifestyle amenities are spread over four levels: a ground level with a pickleball court, a multipurpose sports court and a children's play zone; a 23rd-floor terrace of about 12,000 sq ft with a swimming pool, jacuzzi, kids' pool, adventure park, stargazing zone, amphitheatre and party lawn; and 4,500 sq ft of indoor centres – the Newton Creativity Center, a recreational center, a business center with co-working, a fitness center with gym, spa and yoga studio, and a community center with banquet hall. Magarpatta City, Amanora and Seasons malls are about 5 minutes away, Koregaon Park about 10 minutes, EON IT Park about 15 minutes, and the upcoming Hadapsar Railway Metro station about 5 minutes. Final all-inclusive prices start from ₹92.5 Lakh for a 2 BHK (about ₹1.04 Cr including GST, stamp duty and registration), with one covered car park included. MahaRERA PR1261012500924.",
+    "description": "Newton Homes Royale by Ravima Ventures is a new launch on the Hadapsar–Magarpatta Road side of Mundhwa, next to the Kharadi–Hadapsar Bypass Road in East Pune. On a 2-acre plot, two 23-storey towers hold 226 homes – 2, 2.5 and 3 BHK residences of 796 to 1,072 sq ft carpet area, plus combined 4 BHK homes – with five corner homes on every floor and four levels of podium parking. Homes are planned with zero passage wastage, and every home gets a smart digital door lock, a video door phone and app-based security alerts. The structure is an Aluform and AAC block hybrid with an earthquake-resistant RCC frame. More than 50 lifestyle amenities are spread over four levels: a ground level with a pickleball court, a multipurpose sports court and a children's play zone; a 23rd-floor terrace of about 12,000 sq ft with a swimming pool, jacuzzi, kids' pool, adventure park, stargazing zone, amphitheatre and party lawn; and 4,500 sq ft of indoor centres – the Newton Creativity Center, a recreational center, a business center with co-working, a fitness center with gym, spa and yoga studio, and a community center with banquet hall. Magarpatta City, Amanora and Seasons malls are about 5 minutes away, Koregaon Park about 10 minutes, EON IT Park about 15 minutes, and the upcoming Hadapsar Railway Metro station about 5 minutes. all-inclusive prices start from ₹92.5 Lakh for a 2 BHK (about ₹1.04 Cr including GST, stamp duty and registration), with one covered car park included. MahaRERA PR1261012500924.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -71883,6 +73614,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mundhwa, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "699 - 1,009 sq.ft"
       }
     ],
     "reraId": "P52100030924",
@@ -72015,6 +73750,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Chinchwad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "568 sq.ft"
       }
     ],
     "reraId": "P52100037600",
@@ -72134,6 +73873,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "593 - 820 sq.ft"
       }
     ],
     "reraId": "P52100077412",
@@ -72259,6 +74002,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "562 sq.ft"
       }
     ],
     "reraId": "P52100049391",
@@ -72380,6 +74127,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "609 - 852 sq.ft"
       }
     ],
     "reraId": "P52100053948",
@@ -72507,6 +74258,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "682 - 1,108 sq.ft"
       }
     ],
     "reraId": "P52100026833",
@@ -72635,6 +74390,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "702 - 1,036 sq.ft"
       }
     ],
     "reraId": "P52100080612",
@@ -72761,6 +74520,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bhumkar Chowk, Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "738 - 1,201 sq.ft"
       }
     ],
     "reraId": "P52100026219",
@@ -72892,6 +74655,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "586 - 781 sq.ft"
       }
     ],
     "reraId": "P52100051063",
@@ -73016,6 +74783,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "728 - 1,036 sq.ft"
       }
     ],
     "reraId": "P52100026505",
@@ -73144,6 +74915,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "984 - 1,581 sq.ft"
       }
     ],
     "reraId": "P52100061911",
@@ -73272,6 +75047,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Walhekarwadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "733 - 1,095 sq.ft"
       }
     ],
     "reraId": "P52100076296",
@@ -73400,6 +75179,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "714 - 1,091 sq.ft"
       }
     ],
     "reraId": "P52100077376",
@@ -73527,6 +75310,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Chinchwad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "997 - 1,246 sq.ft"
       }
     ],
     "reraId": "P52100078604",
@@ -73656,6 +75443,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "701 - 1,594 sq.ft"
       }
     ],
     "reraId": "P52100078555",
@@ -73795,6 +75586,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "556 - 641 sq.ft"
       }
     ],
     "reraId": "P52100030615",
@@ -73922,6 +75717,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hinjewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "713 - 1,010 sq.ft"
       }
     ],
     "reraId": "P52100060728",
@@ -74047,6 +75846,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "564 - 724 sq.ft"
       }
     ],
     "reraId": "P52100055995",
@@ -74171,6 +75974,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "612 - 638 sq.ft"
       }
     ],
     "reraId": "P52100054731",
@@ -74299,6 +76106,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "682 - 1,664 sq.ft"
       }
     ],
     "reraId": "P52100031488",
@@ -74434,6 +76245,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "732 - 1,565 sq.ft"
       }
     ],
     "reraId": "P52100031027",
@@ -74567,6 +76382,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "756 - 985 sq.ft"
       }
     ],
     "reraId": "P52100079038",
@@ -74694,6 +76513,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Nigdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,053 sq.ft"
       }
     ],
     "reraId": "P52100059010",
@@ -74815,6 +76638,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "702 - 1,075 sq.ft"
       }
     ],
     "reraId": "P52100052727",
@@ -74943,6 +76770,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "423 - 713 sq.ft"
       }
     ],
     "reraId": "P52100021181",
@@ -75071,6 +76902,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "693 - 1,085 sq.ft"
       }
     ],
     "reraId": "P52100061984",
@@ -75198,6 +77033,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Nilakh, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "992 sq.ft"
       }
     ],
     "reraId": "P52100055958",
@@ -75316,6 +77155,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "599 - 838 sq.ft"
       }
     ],
     "reraId": "P52100051475",
@@ -75440,6 +77283,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "446 - 722 sq.ft"
       }
     ],
     "reraId": "P52100080431",
@@ -75527,7 +77374,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc75u9-85j08m.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc74yk-ag8xbh.webp"
     ],
-    "description": "EH Towers Commercial is the shops-and-offices wing of EH Towers, the mixed-use project by Engineers Horizon on the Mumbai–Pune bypass (NH-48) in Jeevan Nagar, Tathawade. It is registered with MahaRERA as P52100079038, with EH Reality LLP as the promoter. Above three basement parking levels, the ground floor has seven double-height shops, six of them with a mezzanine, facing the highway; the first floor has ten shops and the second twenty. Offices fill the 3rd to 8th floors, 25 to a typical floor, from 119 to 677 sq ft, some with attached washrooms. A restaurant unit of 3,127 sq ft with a formed terrace sits on the 7th floor, and a second restaurant unit opens onto terrace seating on the 8th. The current cost sheet prices offices at ₹14,000 per sq ft of saleable area and shops at ₹18,000 on the second floor, ₹25,000 on the first and ₹35,000 on the ground, with saleable area 1.5 times the carpet. Final all-inclusive prices start at ₹25.0 lakh for a 119 sq ft office and ₹28.8 lakh for a 107 sq ft second-floor shop. The brochure lists lifts and escalators, a separate service entry, sprinklers and fire alarms, CCTV in common areas, generator backup, a common washroom on each floor, rainwater harvesting and an STP. Possession is planned for December 2027.",
+    "description": "EH Towers Commercial is the shops-and-offices wing of EH Towers, the mixed-use project by Engineers Horizon on the Mumbai–Pune bypass (NH-48) in Jeevan Nagar, Tathawade. It is registered with MahaRERA as P52100079038, with EH Reality LLP as the promoter. Above three basement parking levels, the ground floor has seven double-height shops, six of them with a mezzanine, facing the highway; the first floor has ten shops and the second twenty. Offices fill the 3rd to 8th floors, 25 to a typical floor, from 119 to 677 sq ft, some with attached washrooms. A restaurant unit of 3,127 sq ft with a formed terrace sits on the 7th floor, and a second restaurant unit opens onto terrace seating on the 8th. The current cost sheet prices offices at ₹14,000 per sq ft of saleable area and shops at ₹18,000 on the second floor, ₹25,000 on the first and ₹35,000 on the ground, with saleable area 1.5 times the carpet. all-inclusive prices start at ₹25.0 lakh for a 119 sq ft office and ₹28.8 lakh for a 107 sq ft second-floor shop. The brochure lists lifts and escalators, a separate service entry, sprinklers and fire alarms, CCTV in common areas, generator backup, a common washroom on each floor, rainwater harvesting and an STP. Possession is planned for December 2027.",
     "features": [
       "CCTV Surveillance",
       "Rainwater Harvesting",
@@ -75564,6 +77411,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "569 - 746 sq.ft"
       }
     ],
     "reraId": "P52100079038",
@@ -75690,6 +77541,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "731 - 1,048 sq.ft"
       }
     ],
     "reraId": "P52100078503",
@@ -75817,6 +77672,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "748 - 864 sq.ft"
       }
     ],
     "reraId": "P52100054752",
@@ -75944,6 +77803,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Jambe, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "471 - 733 sq.ft"
       }
     ],
     "reraId": "P52100028092",
@@ -76072,6 +77935,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "742 - 1,757 sq.ft"
       }
     ],
     "reraId": "P52100077680",
@@ -76207,6 +78074,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,787 sq.ft"
       }
     ],
     "reraId": "P52100031027",
@@ -76343,6 +78214,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Aundh, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "987 - 1,553 sq.ft"
       }
     ],
     "reraId": "P52100030465",
@@ -76469,6 +78344,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "733 - 811 sq.ft"
       }
     ],
     "reraId": "P52100062244",
@@ -76595,6 +78474,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Walhekarwadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "739 sq.ft"
       }
     ],
     "reraId": "P52100055148",
@@ -76715,6 +78598,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "661 - 925 sq.ft"
       }
     ],
     "reraId": "P52100053948",
@@ -76840,6 +78727,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Thergaon, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,091 - 1,222 sq.ft"
       }
     ],
     "reraId": "P52100053285",
@@ -76967,6 +78858,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "682 - 997 sq.ft"
       }
     ],
     "reraId": "P52100020363",
@@ -77096,6 +78991,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "742 - 1,600 sq.ft"
       }
     ],
     "reraId": "P52100031488",
@@ -77230,6 +79129,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bavdhan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "698 - 1,093 sq.ft"
       }
     ],
     "reraId": "P52100061412",
@@ -77359,6 +79262,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Chinchwad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "686 - 1,662 sq.ft"
       }
     ],
     "reraId": "P52100056031",
@@ -77499,6 +79406,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "724 - 1,102 sq.ft"
       }
     ],
     "reraId": "P52100020635",
@@ -77626,6 +79537,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "702 - 1,126 sq.ft"
       }
     ],
     "reraId": "P52100078972",
@@ -77754,6 +79669,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,073 - 1,762 sq.ft"
       }
     ],
     "reraId": "P52100031489",
@@ -77879,6 +79798,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "697 - 975 sq.ft"
       }
     ],
     "reraId": "P52100047558",
@@ -78004,6 +79927,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "609 - 708 sq.ft"
       }
     ],
     "reraId": "P52100030075",
@@ -78131,6 +80058,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Gurav, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "746 - 1,072 sq.ft"
       }
     ],
     "reraId": "P52100052741",
@@ -78258,6 +80189,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,615 sq.ft"
       }
     ],
     "reraId": "P52100056224",
@@ -78379,6 +80314,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Chinchwad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "689 - 1,122 sq.ft"
       }
     ],
     "reraId": "P52100079856",
@@ -78507,6 +80446,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,096 - 1,789 sq.ft"
       }
     ],
     "reraId": "P52100062483",
@@ -78634,6 +80577,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "731 sq.ft"
       }
     ],
     "reraId": "P52100062428",
@@ -78755,6 +80702,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,688 sq.ft"
       }
     ],
     "reraId": "P52100079508",
@@ -78877,6 +80828,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "422 - 743 sq.ft"
       }
     ],
     "reraId": "P52100060470",
@@ -79007,6 +80962,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "698 - 1,061 sq.ft"
       }
     ],
     "reraId": "P52100031933",
@@ -79132,6 +81091,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "724 - 1,013 sq.ft"
       }
     ],
     "reraId": "P52100078743",
@@ -79259,6 +81222,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 1,050 sq.ft"
       }
     ],
     "reraId": "P52100060271",
@@ -79377,7 +81344,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "1,121 - 2,326 sq.ft."
+        "value": "1,121 - 2,326 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -79516,6 +81483,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Thergaon, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "728 - 1,017 sq.ft"
       }
     ],
     "reraId": "P52100077052",
@@ -79646,6 +81617,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Rahatani, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,068 sq.ft"
       }
     ],
     "reraId": "P52100077244",
@@ -79767,6 +81742,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimpri, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "575 - 696 sq.ft"
       }
     ],
     "reraId": "P52100077499",
@@ -79894,6 +81873,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "734 - 1,055 sq.ft"
       }
     ],
     "reraId": "P52100049864",
@@ -80023,6 +82006,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Moshi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "688 - 981 sq.ft"
       }
     ],
     "reraId": "P52100055932",
@@ -80156,6 +82143,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "714 - 760 sq.ft"
       }
     ],
     "reraId": "P52100062297",
@@ -80282,6 +82273,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "723 - 982 sq.ft"
       }
     ],
     "reraId": "P52100079822",
@@ -80409,6 +82404,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Rahatani, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "701 - 741 sq.ft"
       }
     ],
     "reraId": "P52100066467",
@@ -80534,6 +82533,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "638 - 893 sq.ft"
       }
     ],
     "reraId": "P52100077945",
@@ -80660,6 +82663,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimpri, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "719 - 1,098 sq.ft"
       }
     ],
     "reraId": "P52100040425",
@@ -80788,6 +82795,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,021 - 1,693 sq.ft"
       }
     ],
     "reraId": "P52100061264",
@@ -80917,6 +82928,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "714 - 981 sq.ft"
       }
     ],
     "reraId": "P52100060833",
@@ -81045,6 +83060,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 1,021 sq.ft"
       }
     ],
     "reraId": "P52100080612",
@@ -81172,6 +83191,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Chinchwad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "600 - 681 sq.ft"
       }
     ],
     "reraId": "P52100061719",
@@ -81299,6 +83322,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,041 - 1,709 sq.ft"
       }
     ],
     "reraId": "P52100061445",
@@ -81426,6 +83453,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "722 sq.ft"
       }
     ],
     "reraId": "P52100020229",
@@ -81547,6 +83578,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Nilakh, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "698 - 1,075 sq.ft"
       }
     ],
     "reraId": "P52100025516",
@@ -81674,6 +83709,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,053 sq.ft"
       }
     ],
     "reraId": "P52100033536",
@@ -81797,6 +83836,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "756 - 991 sq.ft"
       }
     ],
     "reraId": "P52100053997",
@@ -81925,6 +83968,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "698 - 1,099 sq.ft"
       }
     ],
     "reraId": "P52100077137",
@@ -82053,6 +84100,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mamurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "684 - 1,088 sq.ft"
       }
     ],
     "reraId": "P52100053019",
@@ -82180,6 +84231,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "752 - 1,034 sq.ft"
       }
     ],
     "reraId": "P52100079490",
@@ -82309,6 +84364,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "722 - 1,072 sq.ft"
       }
     ],
     "reraId": "P52100078623",
@@ -82434,6 +84493,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hinjewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "615 - 647 sq.ft"
       }
     ],
     "reraId": "P52100052836",
@@ -82560,6 +84623,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "721 - 1,071 sq.ft"
       }
     ],
     "reraId": "P52100060602",
@@ -82687,6 +84754,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "745 - 1,004 sq.ft"
       }
     ],
     "reraId": "P52100060344",
@@ -82814,6 +84885,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "738 - 1,039 sq.ft"
       }
     ],
     "reraId": "P52100060298",
@@ -82942,6 +85017,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "717 - 1,090 sq.ft"
       }
     ],
     "reraId": "P52100035085",
@@ -83070,6 +85149,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "745 - 1,119 sq.ft"
       }
     ],
     "reraId": "P52100020150",
@@ -83197,6 +85280,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "697 sq.ft"
       }
     ],
     "reraId": "P52100080470",
@@ -83319,6 +85406,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "719 - 1,104 sq.ft"
       }
     ],
     "reraId": "P52100080124",
@@ -83446,6 +85537,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,115 - 1,568 sq.ft"
       }
     ],
     "reraId": "P52100062961",
@@ -83574,6 +85669,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Thergaon, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,003 - 1,837 sq.ft"
       }
     ],
     "reraId": "P52100055584",
@@ -83708,6 +85807,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "586 - 720 sq.ft"
       }
     ],
     "reraId": "P52100048051",
@@ -83834,6 +85937,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Nigdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "731 sq.ft"
       }
     ],
     "reraId": "P52100076736",
@@ -83958,6 +86065,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "751 - 1,100 sq.ft"
       }
     ],
     "reraId": "P52100054888",
@@ -84086,6 +86197,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mamurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "689 - 1,070 sq.ft"
       }
     ],
     "reraId": "P52100030759",
@@ -84214,6 +86329,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "695 - 1,036 sq.ft"
       }
     ],
     "reraId": "P52100047308",
@@ -84342,6 +86461,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Moshi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,116 - 1,738 sq.ft"
       }
     ],
     "reraId": "P52100020617",
@@ -84468,6 +86591,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Walhekarwadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "713 - 998 sq.ft"
       }
     ],
     "reraId": "P52100076759",
@@ -84594,6 +86721,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "732 - 1,118 sq.ft"
       }
     ],
     "reraId": "P52100020085",
@@ -84732,6 +86863,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,615 - 1,989 sq.ft"
       }
     ],
     "reraId": "P52100047528",
@@ -84858,6 +86993,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "633 - 675 sq.ft"
       }
     ],
     "reraId": "P52100021422",
@@ -84984,6 +87123,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "700 sq.ft"
       }
     ],
     "reraId": "P52100060984",
@@ -85106,6 +87249,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "719 - 1,053 sq.ft"
       }
     ],
     "reraId": "P52100077942",
@@ -85236,6 +87383,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "697 - 1,734 sq.ft"
       }
     ],
     "reraId": "P52100021768",
@@ -85375,6 +87526,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "633 - 646 sq.ft"
       }
     ],
     "reraId": "P52100031027",
@@ -85501,6 +87656,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "756 - 1,026 sq.ft"
       }
     ],
     "reraId": "P52100034177",
@@ -85649,6 +87808,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "693 - 1,082 sq.ft"
       }
     ],
     "reraId": "P52100062989",
@@ -85778,6 +87941,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "755 - 1,768 sq.ft"
       }
     ],
     "reraId": "P52100079426",
@@ -85911,6 +88078,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "982 - 1,374 sq.ft"
       }
     ],
     "reraId": "P52100078522",
@@ -86038,6 +88209,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "744 - 1,087 sq.ft"
       }
     ],
     "reraId": "P52100062389",
@@ -86173,6 +88348,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "707 - 1,838 sq.ft"
       }
     ],
     "reraId": "P52100078470",
@@ -86307,6 +88486,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hinjewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "737 - 1,105 sq.ft"
       }
     ],
     "reraId": "P52100060728",
@@ -86434,6 +88617,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Chinchwad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "698 - 1,125 sq.ft"
       }
     ],
     "reraId": "P52100047124",
@@ -86559,6 +88746,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "646 - 904 sq.ft"
       }
     ],
     "reraId": "P52100080358",
@@ -86684,6 +88875,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "756 - 989 sq.ft"
       }
     ],
     "reraId": "P52100061839",
@@ -86812,6 +89007,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Rahatani, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "687 - 1,068 sq.ft"
       }
     ],
     "reraId": "P52100021664",
@@ -86939,6 +89138,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Moshi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "760 - 1,018 sq.ft"
       }
     ],
     "reraId": "P52100031491",
@@ -87065,6 +89268,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hinjewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "736 - 779 sq.ft"
       }
     ],
     "reraId": "P52100054229",
@@ -87193,6 +89400,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Chinchwad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "739 - 1,693 sq.ft"
       }
     ],
     "reraId": "P52100061099",
@@ -87323,6 +89534,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kothrud, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,175 - 1,860 sq.ft"
       }
     ],
     "reraId": "P52100056306",
@@ -87458,6 +89673,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "430 - 729 sq.ft"
       }
     ],
     "reraId": "P52100020616",
@@ -87586,6 +89805,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "746 - 1,046 sq.ft"
       }
     ],
     "reraId": "P52100079655",
@@ -87713,6 +89936,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,064 - 1,489 sq.ft"
       }
     ],
     "reraId": "P52100032867",
@@ -87839,6 +90066,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "633 - 886 sq.ft"
       }
     ],
     "reraId": "P52100032247",
@@ -87966,6 +90197,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "685 - 1,033 sq.ft"
       }
     ],
     "reraId": "P52100052385",
@@ -88092,6 +90327,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "614 - 859 sq.ft"
       }
     ],
     "reraId": "P52100078126",
@@ -88220,6 +90459,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mamurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "693 - 1,124 sq.ft"
       }
     ],
     "reraId": "P52100032725",
@@ -88354,6 +90597,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kharadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "999 - 1,686 sq.ft"
       }
     ],
     "reraId": "P52100054253",
@@ -88482,6 +90729,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "728 - 981 sq.ft"
       }
     ],
     "reraId": "P52100050643",
@@ -88606,6 +90857,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "686 - 1,000 sq.ft"
       }
     ],
     "reraId": "P52100021087",
@@ -88731,6 +90986,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "696 - 1,125 sq.ft"
       }
     ],
     "reraId": "P52100020314",
@@ -88856,6 +91115,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "893 - 2,434 sq.ft"
       }
     ],
     "reraId": "P52100018143",
@@ -88985,6 +91248,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,822 sq.ft"
       }
     ],
     "reraId": "P52100061248",
@@ -89105,6 +91372,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "994 - 1,080 sq.ft"
       }
     ],
     "reraId": "P52100033011",
@@ -89232,6 +91503,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "426 - 749 sq.ft"
       }
     ],
     "reraId": "P52100060729",
@@ -89360,6 +91635,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimpri, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "714 - 1,047 sq.ft"
       }
     ],
     "reraId": "P52100078504",
@@ -89484,6 +91763,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "749 - 1,048 sq.ft"
       }
     ],
     "reraId": "P52100061605",
@@ -89604,6 +91887,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "559 - 782 sq.ft"
       }
     ],
     "reraId": "P52100050199",
@@ -89729,6 +92016,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bavdhan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "732 - 1,601 sq.ft"
       }
     ],
     "reraId": "P52100077762",
@@ -89864,6 +92155,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "724 - 1,665 sq.ft"
       }
     ],
     "reraId": "P52100031027",
@@ -89998,6 +92293,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "683 - 1,010 sq.ft"
       }
     ],
     "reraId": "P52100061391",
@@ -90125,6 +92424,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "701 - 1,033 sq.ft"
       }
     ],
     "reraId": "P52100061412",
@@ -90253,6 +92556,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bavdhan, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "752 - 1,078 sq.ft"
       }
     ],
     "reraId": "P52100031520",
@@ -90381,6 +92688,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Gurav, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "728 - 1,826 sq.ft"
       }
     ],
     "reraId": "P52100077822",
@@ -90514,6 +92825,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Rahatani, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,009 - 1,773 sq.ft"
       }
     ],
     "reraId": "P52100060968",
@@ -90642,6 +92957,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "693 - 983 sq.ft"
       }
     ],
     "reraId": "P52100053027",
@@ -90767,6 +93086,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "655 - 679 sq.ft"
       }
     ],
     "reraId": "P52100078555",
@@ -90892,6 +93215,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "753 - 1,025 sq.ft"
       }
     ],
     "reraId": "P52100055197",
@@ -91025,6 +93352,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "695 - 1,792 sq.ft"
       }
     ],
     "reraId": "P52100066556",
@@ -91161,6 +93492,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Rahatani, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "723 - 1,100 sq.ft"
       }
     ],
     "reraId": "P52100047901",
@@ -91295,6 +93630,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hinjewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "702 - 1,084 sq.ft"
       }
     ],
     "reraId": "P52100060728",
@@ -91422,6 +93761,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "574 - 803 sq.ft"
       }
     ],
     "reraId": "P52100053687",
@@ -91550,6 +93893,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "699 - 1,815 sq.ft"
       }
     ],
     "reraId": "P52100045688",
@@ -91684,6 +94031,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "744 - 1,110 sq.ft"
       }
     ],
     "reraId": "P52100060816",
@@ -91812,6 +94163,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "744 - 1,003 sq.ft"
       }
     ],
     "reraId": "P52100079999",
@@ -91940,6 +94295,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,050 - 1,774 sq.ft"
       }
     ],
     "reraId": "P52100051590",
@@ -92064,6 +94423,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "North Hinjewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "750 - 1,165 sq.ft"
       }
     ],
     "reraId": "P52100060600",
@@ -92199,6 +94562,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "426 - 693 sq.ft"
       }
     ],
     "reraId": "P52100031950",
@@ -92328,6 +94695,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "714 - 1,008 sq.ft"
       }
     ],
     "reraId": "P52100061476",
@@ -92455,6 +94826,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Akurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "711 - 873 sq.ft"
       }
     ],
     "reraId": "P52100079444",
@@ -92582,6 +94957,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 1,059 sq.ft"
       }
     ],
     "reraId": "P52100060298",
@@ -92709,6 +95088,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Moshi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,124 - 1,306 sq.ft"
       }
     ],
     "reraId": "P52100051495",
@@ -92834,6 +95217,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "716 sq.ft"
       }
     ],
     "reraId": "P52100049189",
@@ -92955,6 +95342,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,018 - 1,425 sq.ft"
       }
     ],
     "reraId": "P52100056202",
@@ -93078,6 +95469,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Tathawade, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "639 - 887 sq.ft"
       }
     ],
     "reraId": "P52100080004",
@@ -93201,6 +95596,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "649 - 710 sq.ft"
       }
     ],
     "reraId": "P52100052208",
@@ -93327,6 +95726,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "717 - 1,014 sq.ft"
       }
     ],
     "reraId": "P52100063079",
@@ -93454,6 +95857,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "620 - 697 sq.ft"
       }
     ],
     "reraId": "P52100077683",
@@ -93581,6 +95988,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "687 - 1,125 sq.ft"
       }
     ],
     "reraId": "P52100054899",
@@ -93708,6 +96119,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,093 - 1,530 sq.ft"
       }
     ],
     "reraId": "P52100047215",
@@ -93834,6 +96249,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "707 - 787 sq.ft"
       }
     ],
     "reraId": "P52100054215",
@@ -93963,6 +96382,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "705 - 1,798 sq.ft"
       }
     ],
     "reraId": "P52100071492",
@@ -94098,6 +96521,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "712 - 1,662 sq.ft"
       }
     ],
     "reraId": "P52100079396",
@@ -94231,6 +96658,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,832 sq.ft"
       }
     ],
     "reraId": "P52100049608",
@@ -94353,6 +96784,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "552 - 685 sq.ft"
       }
     ],
     "reraId": "P52100061180",
@@ -94500,6 +96935,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kharadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "702 - 1,784 sq.ft"
       }
     ],
     "reraId": "P52100077542",
@@ -94638,6 +97077,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Baner, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "671 - 939 sq.ft"
       }
     ],
     "reraId": "P52100071416",
@@ -94766,6 +97209,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Manjari Khurd, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "711 - 1,669 sq.ft"
       }
     ],
     "reraId": "P52100051826",
@@ -94898,6 +97345,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,054 - 1,677 sq.ft"
       }
     ],
     "reraId": "P52100045782",
@@ -95032,6 +97483,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kharadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,065 - 1,627 sq.ft"
       }
     ],
     "reraId": "P52100062005",
@@ -95162,6 +97617,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Manjari Khurd, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,079 - 1,573 sq.ft"
       }
     ],
     "reraId": "P52100031829",
@@ -95294,6 +97753,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mundhwa, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "682 - 1,111 sq.ft"
       }
     ],
     "reraId": "P52100060389",
@@ -95421,6 +97884,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Pimple Saudagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "740 - 1,043 sq.ft"
       }
     ],
     "reraId": "P52100054177",
@@ -95553,6 +98020,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mamurdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "455 - 997 sq.ft"
       }
     ],
     "reraId": "P52100021545",
@@ -95654,7 +98125,7 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/3266ed23-72ff-41aa-9c4b-6bcd594ab0c8/gallery/mvhti26l-976i46.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/3266ed23-72ff-41aa-9c4b-6bcd594ab0c8/gallery/mvhti32p-2fncet.webp"
     ],
-    "description": "Sai Ratan is a new mixed-use project in Sector 29, Ravet Pradhikaran, by Sai Associates with Krishna Rama Developer and Ratan Homes. Its terracotta-and-grey building has 21 double-height shops with mezzanines along a 10.5 m road and three residential wings (A, B and C) above – 102 homes in all: 2 BHK of 777 sq ft and 3 BHK of 1,020 sq ft (cumulative total carpet area). Amenities include a gymnasium, indoor games room, banquet hall, rooftop party lawn, landscaped rooftop sit-outs and a children's play area. Homes get a 35 mm main door with a biometric lock, a video door bell, UPVC windows and balcony doors, 600 x 1200 mm vitrified tiles, Jaquar/Hindware fittings, geysers in every bathroom and AC provision in the living room and all bedrooms; the building has EV charging and solar power. D. Y. Patil Dnyanshanti School, PCCOE, DMart Ravet, Global Hospital and Akurdi railway station are about 5 minutes away, with the old Mumbai–Pune Highway and NH-48 about 10 minutes. Final all-inclusive prices start from ₹77 L for a 2 BHK (about ₹86.5 L including GST, stamp duty and registration). MahaRERA PM1260002600399.",
+    "description": "Sai Ratan is a new mixed-use project in Sector 29, Ravet Pradhikaran, by Sai Associates with Krishna Rama Developer and Ratan Homes. Its terracotta-and-grey building has 21 double-height shops with mezzanines along a 10.5 m road and three residential wings (A, B and C) above – 102 homes in all: 2 BHK of 777 sq ft and 3 BHK of 1,020 sq ft (cumulative total carpet area). Amenities include a gymnasium, indoor games room, banquet hall, rooftop party lawn, landscaped rooftop sit-outs and a children's play area. Homes get a 35 mm main door with a biometric lock, a video door bell, UPVC windows and balcony doors, 600 x 1200 mm vitrified tiles, Jaquar/Hindware fittings, geysers in every bathroom and AC provision in the living room and all bedrooms; the building has EV charging and solar power. D. Y. Patil Dnyanshanti School, PCCOE, DMart Ravet, Global Hospital and Akurdi railway station are about 5 minutes away, with the old Mumbai–Pune Highway and NH-48 about 10 minutes. all-inclusive prices start from ₹77 L for a 2 BHK (about ₹86.5 L including GST, stamp duty and registration). MahaRERA PM1260002600399.",
     "features": [
       "Clubhouse",
       "Gymnasium",
@@ -95692,6 +98163,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "681 - 1,046 sq.ft"
       }
     ],
     "reraId": "P52100020399",
@@ -95822,6 +98297,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Moshi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "734 - 1,597 sq.ft"
       }
     ],
     "reraId": "P52100077434",
@@ -95972,6 +98451,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kharadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "702 - 981 sq.ft"
       }
     ],
     "reraId": "P52100079582",
@@ -96100,6 +98583,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ravet, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,036 - 1,636 sq.ft"
       }
     ],
     "reraId": "P52100021415",
@@ -96228,6 +98715,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mundhwa, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "728 - 1,003 sq.ft"
       }
     ],
     "reraId": "P52100031453",
@@ -96363,6 +98854,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kiwale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "745 - 1,065 sq.ft"
       }
     ],
     "reraId": "P52100021151",
@@ -96490,6 +98985,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "719 - 722 sq.ft"
       }
     ],
     "reraId": "P52100077826",
@@ -96618,6 +99117,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "683 - 1,731 sq.ft"
       }
     ],
     "reraId": "P52100062043",
@@ -96754,6 +99257,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Chinchwad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,074 sq.ft"
       }
     ],
     "reraId": "P52100078744",
@@ -96873,6 +99380,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Nigdi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,125 - 1,425 sq.ft"
       }
     ],
     "reraId": "P52100021161",
@@ -97006,6 +99517,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kharadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "750 - 1,051 sq.ft"
       }
     ],
     "reraId": "P52100080485",
@@ -97146,6 +99661,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kharadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "754 - 1,560 sq.ft"
       }
     ],
     "reraId": "P52100062426",
@@ -97284,6 +99803,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Mahalunge, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "713 - 1,848 sq.ft"
       }
     ],
     "reraId": "P52100061182",
@@ -97499,6 +100022,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "985 - 1,590 sq.ft"
       }
     ],
     "faqs": [
@@ -97682,6 +100209,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,079 - 1,643 sq.ft"
       }
     ],
     "faqs": [
@@ -97842,6 +100373,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "443 - 729 sq.ft"
       }
     ],
     "faqs": [
@@ -98025,6 +100560,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "718 - 1,744 sq.ft"
       }
     ],
     "faqs": [
@@ -98185,6 +100724,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "740 - 1,067 sq.ft"
       }
     ],
     "faqs": [
@@ -98366,6 +100909,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,018 - 1,725 sq.ft"
       }
     ],
     "faqs": [
@@ -98526,6 +101073,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,094 - 1,773 sq.ft"
       }
     ],
     "faqs": [
@@ -98686,6 +101237,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "743 - 1,126 sq.ft"
       }
     ],
     "faqs": [
@@ -98844,6 +101399,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "456 - 733 sq.ft"
       }
     ],
     "faqs": [
@@ -99004,6 +101563,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "442 - 752 sq.ft"
       }
     ],
     "faqs": [
@@ -99164,6 +101727,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "690 - 1,022 sq.ft"
       }
     ],
     "faqs": [
@@ -99324,6 +101891,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "754 - 1,071 sq.ft"
       }
     ],
     "faqs": [
@@ -99530,6 +102101,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "417 - 1,848 sq.ft"
       }
     ],
     "faqs": [
@@ -99736,6 +102311,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "424 - 1,996 sq.ft"
       }
     ],
     "faqs": [
@@ -99919,6 +102498,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "716 - 1,974 sq.ft"
       }
     ],
     "faqs": [
@@ -100079,6 +102662,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "469 - 697 sq.ft"
       }
     ],
     "faqs": [
@@ -100256,6 +102843,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "752 - 1,009 sq.ft"
       }
     ],
     "faqs": [
@@ -100414,6 +103005,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "701 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -100514,6 +103109,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Powai, Mumbai"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,040 - 1,843 sq.ft"
       }
     ],
     "reraId": "P51800052633",
@@ -100641,6 +103240,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Powai, Mumbai"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 819 sq.ft"
       }
     ],
     "reraId": "P51800000408",
@@ -100769,6 +103372,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Powai, Mumbai"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "426 - 691 sq.ft"
       }
     ],
     "reraId": "P51800018620",
@@ -100898,6 +103505,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Powai, Mumbai"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "694 - 1,914 sq.ft"
       }
     ],
     "reraId": "P51800000154",
@@ -101033,6 +103644,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Ghodbunder Road, Thane"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "444 - 1,827 sq.ft"
       }
     ],
     "reraId": "P51700000089",
@@ -101172,6 +103787,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hiranandani Estate, Thane"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,100 - 1,813 sq.ft"
       }
     ],
     "reraId": "P51700000146",
@@ -101305,6 +103924,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Hiranandani Estate, Thane"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "462 - 703 sq.ft"
       }
     ],
     "reraId": "P51700000197",
@@ -101434,6 +104057,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Panvel, Navi Mumbai"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "428 - 1,092 sq.ft"
       }
     ],
     "reraId": "P52000000657",
@@ -101567,6 +104194,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kandivali West, Mumbai"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "733 - 1,085 sq.ft"
       }
     ],
     "reraId": "P51800031614",
@@ -101696,6 +104327,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kunegaon, Lonavala"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,079 - 1,930 sq.ft"
       }
     ],
     "reraId": "P52100006680",
@@ -101829,6 +104464,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kunegaon, Lonavala"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,868 - 2,044 sq.ft"
       }
     ],
     "reraId": "P52100014285",
@@ -101957,6 +104596,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Khandala, Lonavala"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,015 - 1,702 sq.ft"
       }
     ],
     "reraId": "P52100008892",
@@ -102085,6 +104728,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kunegaon, Lonavala"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "738 - 1,018 sq.ft"
       }
     ],
     "reraId": "P52100009411",
@@ -102244,6 +104891,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Upper Kharadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "670 - 1,050 sq.ft"
       }
     ],
     "reraId": "P52100022499",
@@ -102375,6 +105026,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kharadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "750 - 1,200 sq.ft"
       }
     ],
     "reraId": "P52100022530",
@@ -102504,6 +105159,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kharadi Riverfront, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "780 - 1,450 sq.ft"
       }
     ],
     "reraId": "P52100050858",
@@ -102631,6 +105290,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "New Kalyani Nagar, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 1,280 sq.ft"
       }
     ],
     "reraId": "P52100001179",
@@ -102757,6 +105420,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wakad, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "692 - 926 sq.ft"
       }
     ],
     "reraId": "P52100027644",
@@ -102891,6 +105558,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Kharadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "701 - 1,284 sq.ft"
       }
     ],
     "reraId": "P52100003874",
@@ -103025,6 +105696,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bavdhan East, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "672 - 1,411 sq.ft"
       }
     ],
     "reraId": "P52100000196",
@@ -103146,6 +105821,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Undri, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "464 - 720 sq.ft"
       }
     ],
     "reraId": "P52100022705",
@@ -103279,6 +105958,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Bibwewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,171 - 2,800 sq.ft"
       }
     ],
     "reraId": "P52100018407",
@@ -103415,6 +106098,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "481 - 1,750 sq.ft"
       }
     ],
     "reraId": "P52100030318",
@@ -103548,6 +106235,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Balewadi High Street, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "876 - 3,895 sq.ft"
       }
     ],
     "reraId": "P52100024229",
@@ -103676,6 +106367,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Punawale, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "750 - 1,650 sq.ft"
       }
     ],
     "reraId": "P52100051641",
@@ -103804,6 +106499,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Micro-Market",
         "value": "Wagholi, Pune"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "358 - 1,150 sq.ft"
       }
     ],
     "reraId": "P52100000489",
@@ -103948,6 +106647,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,090 - 1,750 sq.ft"
       }
     ],
     "faqs": [
@@ -104086,6 +106789,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 955 sq.ft"
       }
     ],
     "faqs": [
@@ -104215,6 +106922,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "515 - 640 sq.ft"
       }
     ],
     "faqs": [
@@ -104351,6 +107062,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,180 - 2,150 sq.ft"
       }
     ],
     "faqs": [
@@ -104488,6 +107203,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "480 - 1,100 sq.ft"
       }
     ],
     "faqs": [
@@ -104624,6 +107343,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "460 - 985 sq.ft"
       }
     ],
     "faqs": [
@@ -104754,6 +107477,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "648 - 885 sq.ft"
       }
     ],
     "faqs": [
@@ -104891,6 +107618,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "410 - 890 sq.ft"
       }
     ],
     "faqs": [
@@ -105028,6 +107759,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "405 - 840 sq.ft"
       }
     ],
     "faqs": [
@@ -105158,6 +107893,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "630 - 895 sq.ft"
       }
     ],
     "faqs": [
@@ -105291,6 +108030,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,034 - 1,510 sq.ft"
       }
     ],
     "faqs": [
@@ -105421,6 +108164,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,450 - 2,100 sq.ft"
       }
     ],
     "faqs": [
@@ -105557,6 +108304,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,750 - 4,100 sq.ft"
       }
     ],
     "faqs": [
@@ -105687,6 +108438,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "715 - 1,020 sq.ft"
       }
     ],
     "faqs": [
@@ -105817,6 +108572,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "760 - 1,180 sq.ft"
       }
     ],
     "faqs": [
@@ -105961,6 +108720,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "505 - 1,750 sq.ft"
       }
     ],
     "faqs": [
@@ -106098,6 +108861,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "471 - 1,010 sq.ft"
       }
     ],
     "faqs": [
@@ -106228,6 +108995,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,235 - 1,780 sq.ft"
       }
     ],
     "faqs": [
@@ -106365,6 +109136,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "435 - 980 sq.ft"
       }
     ],
     "faqs": [
@@ -106502,6 +109277,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "660 - 1,480 sq.ft"
       }
     ],
     "faqs": [
@@ -106632,6 +109411,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "4,400 - 6,100 sq.ft"
       }
     ],
     "faqs": [
@@ -106761,6 +109544,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "3,850 - 5,400 sq.ft"
       }
     ],
     "faqs": [
@@ -106909,6 +109696,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "685 - 1,520 sq.ft"
       }
     ],
     "faqs": [
@@ -107046,6 +109837,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "450 - 960 sq.ft"
       }
     ],
     "faqs": [
@@ -107183,6 +109978,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "460 - 975 sq.ft"
       }
     ],
     "faqs": [
@@ -107320,6 +110119,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "820 - 2,100 sq.ft"
       }
     ],
     "faqs": [
@@ -107450,6 +110253,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,350 - 2,150 sq.ft"
       }
     ],
     "faqs": [
@@ -107585,6 +110392,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "685 - 1,020 sq.ft"
       }
     ],
     "faqs": [
@@ -107715,6 +110526,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "740 - 1,080 sq.ft"
       }
     ],
     "faqs": [
@@ -107852,6 +110667,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "430 - 965 sq.ft"
       }
     ],
     "faqs": [
@@ -107989,6 +110808,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "785 - 1,560 sq.ft"
       }
     ],
     "faqs": [
@@ -108125,6 +110948,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "765 - 1,230 sq.ft"
       }
     ],
     "faqs": [
@@ -108260,6 +111087,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "680 - 980 sq.ft"
       }
     ],
     "faqs": [
@@ -108374,7 +111205,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "798 - 1,244 sq.ft."
+        "value": "798 - 1,244 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -108506,6 +111337,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "665 - 735 sq.ft"
       }
     ],
     "faqs": [
@@ -108636,6 +111471,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "680 - 960 sq.ft"
       }
     ],
     "faqs": [
@@ -108765,6 +111604,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 990 sq.ft"
       }
     ],
     "faqs": [
@@ -108900,6 +111743,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "695 - 975 sq.ft"
       }
     ],
     "faqs": [
@@ -109036,6 +111883,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,550 - 3,600 sq.ft"
       }
     ],
     "faqs": [
@@ -109164,6 +112015,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,600 - 4,200 sq.ft"
       }
     ],
     "faqs": [
@@ -109301,6 +112156,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "580 - 1,150 sq.ft"
       }
     ],
     "faqs": [
@@ -109432,6 +112291,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,350 - 1,980 sq.ft"
       }
     ],
     "faqs": [
@@ -109562,6 +112425,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,520 - 2,250 sq.ft"
       }
     ],
     "faqs": [
@@ -109697,6 +112564,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "680 - 990 sq.ft"
       }
     ],
     "faqs": [
@@ -109826,6 +112697,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 1,050 sq.ft"
       }
     ],
     "faqs": [
@@ -109956,6 +112831,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 1,015 sq.ft"
       }
     ],
     "faqs": [
@@ -110085,6 +112964,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "750 - 1,080 sq.ft"
       }
     ],
     "faqs": [
@@ -110220,6 +113103,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "690 - 1,025 sq.ft"
       }
     ],
     "faqs": [
@@ -110357,6 +113244,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 910 sq.ft"
       }
     ],
     "faqs": [
@@ -110492,6 +113383,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "685 - 970 sq.ft"
       }
     ],
     "faqs": [
@@ -110627,6 +113522,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "690 - 990 sq.ft"
       }
     ],
     "faqs": [
@@ -110762,6 +113661,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "680 - 980 sq.ft"
       }
     ],
     "faqs": [
@@ -110892,6 +113795,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,350 - 2,100 sq.ft"
       }
     ],
     "faqs": [
@@ -111023,6 +113930,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "685 - 945 sq.ft"
       }
     ],
     "faqs": [
@@ -111150,6 +114061,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "585 - 635 sq.ft"
       }
     ],
     "faqs": [
@@ -111279,6 +114194,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 1,050 sq.ft"
       }
     ],
     "faqs": [
@@ -111404,6 +114323,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "690 - 780 sq.ft"
       }
     ],
     "faqs": [
@@ -111528,6 +114451,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "610 - 720 sq.ft"
       }
     ],
     "faqs": [
@@ -111655,6 +114582,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "650 - 980 sq.ft"
       }
     ],
     "faqs": [
@@ -111767,7 +114698,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "447 - 649 sq.ft."
+        "value": "447 - 649 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -111900,6 +114831,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "785 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -112028,6 +114963,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,650 - 2,450 sq.ft"
       }
     ],
     "faqs": [
@@ -112155,6 +115094,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,800 - 4,500 sq.ft"
       }
     ],
     "faqs": [
@@ -112290,6 +115233,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "450 - 980 sq.ft"
       }
     ],
     "faqs": [
@@ -112419,6 +115366,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "690 - 1,050 sq.ft"
       }
     ],
     "faqs": [
@@ -112548,6 +115499,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,350 - 2,250 sq.ft"
       }
     ],
     "faqs": [
@@ -112675,6 +115630,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "750 - 1,100 sq.ft"
       }
     ],
     "faqs": [
@@ -112802,6 +115761,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "820 - 1,180 sq.ft"
       }
     ],
     "faqs": [
@@ -112938,6 +115901,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 1,850 sq.ft"
       }
     ],
     "faqs": [
@@ -113073,6 +116040,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "430 - 1,020 sq.ft"
       }
     ],
     "faqs": [
@@ -113201,6 +116172,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "680 - 1,080 sq.ft"
       }
     ],
     "faqs": [
@@ -113329,6 +116304,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "680 - 1,020 sq.ft"
       }
     ],
     "faqs": [
@@ -113457,6 +116436,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "730 - 1,090 sq.ft"
       }
     ],
     "faqs": [
@@ -113591,6 +116574,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "580 - 950 sq.ft"
       }
     ],
     "faqs": [
@@ -113718,6 +116705,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "620 - 920 sq.ft"
       }
     ],
     "faqs": [
@@ -113853,6 +116844,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "850 - 1,650 sq.ft"
       }
     ],
     "faqs": [
@@ -113981,6 +116976,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "720 - 1,080 sq.ft"
       }
     ],
     "faqs": [
@@ -114114,6 +117113,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "540 - 860 sq.ft"
       }
     ],
     "faqs": [
@@ -114242,6 +117245,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "530 - 980 sq.ft"
       }
     ],
     "faqs": [
@@ -114368,6 +117375,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "380 - 595 sq.ft"
       }
     ],
     "faqs": [
@@ -114500,6 +117511,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "640 - 1,050 sq.ft"
       }
     ],
     "faqs": [
@@ -114632,6 +117647,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "610 - 940 sq.ft"
       }
     ],
     "faqs": [
@@ -114764,6 +117783,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "395 - 780 sq.ft"
       }
     ],
     "faqs": [
@@ -114890,6 +117913,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,280 - 1,850 sq.ft"
       }
     ],
     "faqs": [
@@ -115016,6 +118043,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -115142,6 +118173,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "665 - 990 sq.ft"
       }
     ],
     "faqs": [
@@ -115268,6 +118303,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "715 - 945 sq.ft"
       }
     ],
     "faqs": [
@@ -115394,6 +118433,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "740 - 980 sq.ft"
       }
     ],
     "faqs": [
@@ -115520,6 +118563,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "765 - 1,020 sq.ft"
       }
     ],
     "faqs": [
@@ -115646,6 +118693,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "725 - 960 sq.ft"
       }
     ],
     "faqs": [
@@ -115772,6 +118823,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "695 - 890 sq.ft"
       }
     ],
     "faqs": [
@@ -115898,6 +118953,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "735 - 975 sq.ft"
       }
     ],
     "faqs": [
@@ -116024,6 +119083,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 930 sq.ft"
       }
     ],
     "faqs": [
@@ -116156,6 +119219,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "730 - 980 sq.ft"
       }
     ],
     "faqs": [
@@ -116282,6 +119349,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "770 - 1,060 sq.ft"
       }
     ],
     "faqs": [
@@ -116408,6 +119479,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "420 - 610 sq.ft"
       }
     ],
     "faqs": [
@@ -116534,6 +119609,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "465 - 685 sq.ft"
       }
     ],
     "faqs": [
@@ -116666,6 +119745,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "780 - 1,550 sq.ft"
       }
     ],
     "faqs": [
@@ -116792,6 +119875,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "820 - 1,180 sq.ft"
       }
     ],
     "faqs": [
@@ -116924,6 +120011,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "920 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -117050,6 +120141,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "760 - 1,080 sq.ft"
       }
     ],
     "faqs": [
@@ -117176,6 +120271,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "815 - 1,240 sq.ft"
       }
     ],
     "faqs": [
@@ -117302,6 +120401,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "775 - 1,120 sq.ft"
       }
     ],
     "faqs": [
@@ -117428,6 +120531,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "730 - 1,010 sq.ft"
       }
     ],
     "faqs": [
@@ -117554,6 +120661,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 945 sq.ft"
       }
     ],
     "faqs": [
@@ -117696,6 +120807,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "680 - 1,150 sq.ft"
       }
     ],
     "faqs": [
@@ -117819,6 +120934,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "460 - 790 sq.ft"
       }
     ],
     "faqs": [
@@ -117948,6 +121067,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "480 - 1,280 sq.ft"
       }
     ],
     "faqs": [
@@ -118071,6 +121194,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "740 - 1,250 sq.ft"
       }
     ],
     "faqs": [
@@ -118194,6 +121321,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "710 - 1,180 sq.ft"
       }
     ],
     "faqs": [
@@ -118322,6 +121453,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "680 - 1,220 sq.ft"
       }
     ],
     "faqs": [
@@ -118446,6 +121581,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "460 - 1,100 sq.ft"
       }
     ],
     "faqs": [
@@ -118568,6 +121707,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "650 - 840 sq.ft"
       }
     ],
     "faqs": [
@@ -118698,6 +121841,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "450 - 1,380 sq.ft"
       }
     ],
     "faqs": [
@@ -118815,6 +121962,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "760 - 890 sq.ft"
       }
     ],
     "faqs": [
@@ -118939,6 +122090,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "850 - 1,750 sq.ft"
       }
     ],
     "faqs": [
@@ -119062,6 +122217,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "680 - 1,150 sq.ft"
       }
     ],
     "faqs": [
@@ -119185,6 +122344,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "420 - 710 sq.ft"
       }
     ],
     "faqs": [
@@ -119309,6 +122472,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "280 - 580 sq.ft"
       }
     ],
     "faqs": [
@@ -119432,6 +122599,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "380 - 640 sq.ft"
       }
     ],
     "faqs": [
@@ -119556,6 +122727,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "890 - 1,850 sq.ft"
       }
     ],
     "faqs": [
@@ -119679,6 +122854,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "840 - 1,450 sq.ft"
       }
     ],
     "faqs": [
@@ -119809,6 +122988,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "950 - 2,800 sq.ft"
       }
     ],
     "faqs": [
@@ -119933,6 +123116,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "910 - 1,850 sq.ft"
       }
     ],
     "faqs": [
@@ -120051,6 +123238,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,480 - 2,200 sq.ft"
       }
     ],
     "faqs": [
@@ -120175,6 +123366,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,550 - 3,100 sq.ft"
       }
     ],
     "faqs": [
@@ -120298,6 +123493,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "650 - 1,550 sq.ft"
       }
     ],
     "faqs": [
@@ -120426,6 +123625,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "765 - 1,380 sq.ft"
       }
     ],
     "faqs": [
@@ -120549,6 +123752,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "690 - 1,050 sq.ft"
       }
     ],
     "faqs": [
@@ -120673,6 +123880,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 890 sq.ft"
       }
     ],
     "faqs": [
@@ -120797,6 +124008,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "460 - 950 sq.ft"
       }
     ],
     "faqs": [
@@ -120921,6 +124136,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,450 - 4,200 sq.ft"
       }
     ],
     "faqs": [
@@ -121039,6 +124258,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,550 - 2,100 sq.ft"
       }
     ],
     "faqs": [
@@ -121157,6 +124380,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,100 - 3,400 sq.ft"
       }
     ],
     "faqs": [
@@ -121275,6 +124502,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,350 - 3,600 sq.ft"
       }
     ],
     "faqs": [
@@ -121399,6 +124630,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 - 1,850 sq.ft"
       }
     ],
     "faqs": [
@@ -121522,6 +124757,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,800 - 4,000 sq.ft"
       }
     ],
     "faqs": [
@@ -121646,6 +124885,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,350 - 2,600 sq.ft"
       }
     ],
     "faqs": [
@@ -121770,6 +125013,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,800 - 5,500 sq.ft"
       }
     ],
     "faqs": [
@@ -121893,6 +125140,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "890 - 1,650 sq.ft"
       }
     ],
     "faqs": [
@@ -122011,6 +125262,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,150 - 3,200 sq.ft"
       }
     ],
     "faqs": [
@@ -122129,6 +125384,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,200 - 3,400 sq.ft"
       }
     ],
     "faqs": [
@@ -122253,6 +125512,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "520 - 1,150 sq.ft"
       }
     ],
     "faqs": [
@@ -122371,6 +125634,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,300 - 3,600 sq.ft"
       }
     ],
     "faqs": [
@@ -122489,6 +125756,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,200 - 3,400 sq.ft"
       }
     ],
     "faqs": [
@@ -122613,6 +125884,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,450 - 2,950 sq.ft"
       }
     ],
     "faqs": [
@@ -122737,6 +126012,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "920 - 1,950 sq.ft"
       }
     ],
     "faqs": [
@@ -122861,6 +126140,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,350 - 2,750 sq.ft"
       }
     ],
     "faqs": [
@@ -122979,6 +126262,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,650 - 2,450 sq.ft"
       }
     ],
     "faqs": [
@@ -123097,6 +126384,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,100 - 3,200 sq.ft"
       }
     ],
     "faqs": [
@@ -123221,6 +126512,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,350 - 4,600 sq.ft"
       }
     ],
     "faqs": [
@@ -123345,6 +126640,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,200 - 2,500 sq.ft"
       }
     ],
     "faqs": [
@@ -123468,6 +126767,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,200 - 2,400 sq.ft"
       }
     ],
     "faqs": [
@@ -123592,6 +126895,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "440 - 950 sq.ft"
       }
     ],
     "faqs": [
@@ -123710,6 +127017,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,650 - 2,400 sq.ft"
       }
     ],
     "faqs": [
@@ -123833,6 +127144,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "580 - 1,550 sq.ft"
       }
     ],
     "faqs": [
@@ -123957,6 +127272,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,200 - 1,750 sq.ft"
       }
     ],
     "faqs": [
@@ -124075,6 +127394,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,350 - 2,100 sq.ft"
       }
     ],
     "faqs": [
@@ -124199,6 +127522,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "450 - 1,200 sq.ft"
       }
     ],
     "faqs": [
@@ -124323,6 +127650,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "320 - 650 sq.ft"
       }
     ],
     "faqs": [
@@ -124447,6 +127778,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "520 - 1,150 sq.ft"
       }
     ],
     "faqs": [
@@ -124565,6 +127900,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,200 - 1,750 sq.ft"
       }
     ],
     "faqs": [
@@ -124688,6 +128027,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "460 - 790 sq.ft"
       }
     ],
     "faqs": [
@@ -124812,6 +128155,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Doors & Windows",
         "value": "Laminated main door and heavy-duty powder coated aluminum sliding windows"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,500 - 2,200 sq.ft"
       }
     ],
     "faqs": [
@@ -124913,6 +128260,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,850 - 4,500 sq.ft"
       }
     ],
     "highlights": [
@@ -125045,6 +128396,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,950 - 3,200 sq.ft"
       }
     ],
     "highlights": [
@@ -125177,6 +128532,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,600 - 4,200 sq.ft"
       }
     ],
     "highlights": [
@@ -125310,6 +128669,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "740 - 1,650 sq.ft"
       }
     ],
     "highlights": [
@@ -125442,6 +128805,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "685 - 1,180 sq.ft"
       }
     ],
     "highlights": [
@@ -125575,6 +128942,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,420 - 2,800 sq.ft"
       }
     ],
     "highlights": [
@@ -125707,6 +129078,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,550 - 2,450 sq.ft"
       }
     ],
     "highlights": [
@@ -125839,6 +129214,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "620 - 1,050 sq.ft"
       }
     ],
     "highlights": [
@@ -125971,6 +129350,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,450 - 2,250 sq.ft"
       }
     ],
     "highlights": [
@@ -126103,6 +129486,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,380 - 2,150 sq.ft"
       }
     ],
     "highlights": [
@@ -126235,6 +129622,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "780 - 1,320 sq.ft"
       }
     ],
     "highlights": [
@@ -126366,6 +129757,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,400 - 3,600 sq.ft"
       }
     ],
     "highlights": [
@@ -126498,6 +129893,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "650 - 1,100 sq.ft"
       }
     ],
     "highlights": [
@@ -126629,6 +130028,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,250 - 1,850 sq.ft"
       }
     ],
     "highlights": [
@@ -126761,6 +130164,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "850 - 4,200 sq.ft"
       }
     ],
     "highlights": [
@@ -126893,6 +130300,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "2,450 - 4,100 sq.ft"
       }
     ],
     "highlights": [
@@ -127025,6 +130436,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,850 - 3,100 sq.ft"
       }
     ],
     "highlights": [
@@ -127157,6 +130572,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "3,200 - 5,500 sq.ft"
       }
     ],
     "highlights": [
@@ -127289,6 +130708,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "780 - 1,250 sq.ft"
       }
     ],
     "highlights": [
@@ -127421,6 +130844,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,450 - 2,300 sq.ft"
       }
     ],
     "highlights": [
@@ -127553,6 +130980,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "820 - 1,350 sq.ft"
       }
     ],
     "highlights": [
@@ -127685,6 +131116,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,650 - 2,750 sq.ft"
       }
     ],
     "highlights": [
@@ -127817,6 +131252,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "Smart Automation",
         "value": "Integrated digital lock, video door phone, and mobile app lighting control"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,500 - 2,400 sq.ft"
       }
     ],
     "highlights": [
@@ -127934,7 +131373,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "697 - 989 sq.ft."
+        "value": "697 - 989 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -128027,7 +131466,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "794 - 1,546 sq.ft."
+        "value": "794 - 1,546 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -128126,7 +131565,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "723 - 1,276 sq.ft."
+        "value": "723 - 1,276 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -128217,7 +131656,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "780 - 1,280 sq.ft."
+        "value": "780 - 1,280 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -128299,7 +131738,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "740 - 1,076 sq.ft."
+        "value": "740 - 1,076 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -128379,7 +131818,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Carpet Range",
-        "value": "704 - 1,087 sq.ft."
+        "value": "704 - 1,087 sq.ft"
       },
       {
         "label": "MahaRERA ID",
@@ -128465,6 +131904,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "MahaRERA ID",
         "value": "P52100049202"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "450 - 5,500 sq.ft"
       }
     ],
     "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100049202",
@@ -128545,6 +131988,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "MahaRERA ID",
         "value": "P52100079205"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "600 - 8,000 sq.ft"
       }
     ],
     "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100079205",
@@ -128625,6 +132072,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "MahaRERA ID",
         "value": "P52100028796"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "400 - 3,500 sq.ft"
       }
     ],
     "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100028796",
@@ -128700,6 +132151,10 @@ export const PROJECTS: Project[] = [
       {
         "label": "MahaRERA ID",
         "value": "P52100066551"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "800 - 6,500 sq.ft"
       }
     ],
     "verificationSource": "https://maharera.maharashtra.gov.in/?rera=P52100066551",
@@ -128734,17 +132189,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Suite",
         "carpetArea": "820 sq.ft (Total Usable)",
-        "priceRange": "₹4.85 Cr (Final All-Inclusive)"
+        "priceRange": "₹4.85 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Grand Suite",
         "carpetArea": "1250 sq.ft (Total Usable)",
-        "priceRange": "₹7.45 Cr (Final All-Inclusive)"
+        "priceRange": "₹7.45 Cr (All-Inclusive)"
       },
       {
         "type": "4 BHK Presidential Suite",
         "carpetArea": "1980 sq.ft (Total Usable)",
-        "priceRange": "₹12.50 Cr (Final All-Inclusive)"
+        "priceRange": "₹12.50 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -128780,6 +132235,12 @@ export const PROJECTS: Project[] = [
       "State-of-the-Art Gymnasium",
       "Banqueting Pavilion",
       "EV Fast Charging Bays"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "820 - 1,980 sq.ft"
+      }
     ]
   },
   {
@@ -128800,17 +132261,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1.5 BHK Smart",
         "carpetArea": "485 sq.ft (Total Usable)",
-        "priceRange": "₹1.25 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.25 Cr (All-Inclusive)"
       },
       {
         "type": "2 BHK Premium",
         "carpetArea": "685 sq.ft (Total Usable)",
-        "priceRange": "₹1.72 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.72 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Luxe",
         "carpetArea": "945 sq.ft (Total Usable)",
-        "priceRange": "₹2.40 Cr (Final All-Inclusive)"
+        "priceRange": "₹2.40 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -128845,6 +132306,12 @@ export const PROJECTS: Project[] = [
       "Jogging Track",
       "Yoga Pavilion",
       "Kids Play Park"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "485 - 945 sq.ft"
+      }
     ]
   },
   {
@@ -128865,17 +132332,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Signature",
         "carpetArea": "660 sq.ft (Total Usable)",
-        "priceRange": "₹1.85 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.85 Cr (All-Inclusive)"
       },
       {
         "type": "2.5 BHK Royale",
         "carpetArea": "810 sq.ft (Total Usable)",
-        "priceRange": "₹2.35 Cr (Final All-Inclusive)"
+        "priceRange": "₹2.35 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Grande",
         "carpetArea": "1040 sq.ft (Total Usable)",
-        "priceRange": "₹3.60 Cr (Final All-Inclusive)"
+        "priceRange": "₹3.60 Cr (All-Inclusive)"
       }
     ],
     "status": "New Launch",
@@ -128910,6 +132377,12 @@ export const PROJECTS: Project[] = [
       "Reflexology Path",
       "Squash Court",
       "EV Charging Stations"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "660 - 1,040 sq.ft"
+      }
     ]
   },
   {
@@ -128930,17 +132403,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Grand",
         "carpetArea": "720 sq.ft (Total Usable)",
-        "priceRange": "₹1.95 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.95 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Elite",
         "carpetArea": "1080 sq.ft (Total Usable)",
-        "priceRange": "₹2.85 Cr (Final All-Inclusive)"
+        "priceRange": "₹2.85 Cr (All-Inclusive)"
       },
       {
         "type": "4 BHK Palatial",
         "carpetArea": "1480 sq.ft (Total Usable)",
-        "priceRange": "₹4.10 Cr (Final All-Inclusive)"
+        "priceRange": "₹4.10 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -128975,6 +132448,12 @@ export const PROJECTS: Project[] = [
       "Senior Citizens Grove",
       "Business Lounge",
       "Pet Park"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "720 - 1,480 sq.ft"
+      }
     ]
   },
   {
@@ -128994,12 +132473,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "1150 sq.ft (Total Usable)",
-        "priceRange": "₹2.65 Cr (Final All-Inclusive)"
+        "priceRange": "₹2.65 Cr (All-Inclusive)"
       },
       {
         "type": "4 BHK Imperial",
         "carpetArea": "1620 sq.ft (Total Usable)",
-        "priceRange": "₹5.40 Cr (Final All-Inclusive)"
+        "priceRange": "₹5.40 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -129034,6 +132513,12 @@ export const PROJECTS: Project[] = [
       "Spa & Sauna",
       "Billiards & Gaming Lounge",
       "Covered Multi-Level Parking"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "1,150 - 1,620 sq.ft"
+      }
     ]
   },
   {
@@ -129054,17 +132539,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "Boutique Office",
         "carpetArea": "550 sq.ft (Total Usable)",
-        "priceRange": "₹3.50 Cr (Final All-Inclusive)"
+        "priceRange": "₹3.50 Cr (All-Inclusive)"
       },
       {
         "type": "Executive Suite",
         "carpetArea": "1200 sq.ft (Total Usable)",
-        "priceRange": "₹7.80 Cr (Final All-Inclusive)"
+        "priceRange": "₹7.80 Cr (All-Inclusive)"
       },
       {
         "type": "Full Floor Corporate Plate",
         "carpetArea": "4500 sq.ft (Total Usable)",
-        "priceRange": "₹25.00 Cr (Final All-Inclusive)"
+        "priceRange": "₹25.00 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -129099,6 +132584,12 @@ export const PROJECTS: Project[] = [
       "Concierge Desk",
       "High-Speed Fibre Optic Connectivity",
       "24/7 Power Backup"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "550 - 4,500 sq.ft"
+      }
     ]
   },
   {
@@ -129119,17 +132610,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "Compact Office Suite",
         "carpetArea": "380 sq.ft (Total Usable)",
-        "priceRange": "₹1.10 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.10 Cr (All-Inclusive)"
       },
       {
         "type": "Professional Office",
         "carpetArea": "750 sq.ft (Total Usable)",
-        "priceRange": "₹2.15 Cr (Final All-Inclusive)"
+        "priceRange": "₹2.15 Cr (All-Inclusive)"
       },
       {
         "type": "Corporate Floor Suite",
         "carpetArea": "2800 sq.ft (Total Usable)",
-        "priceRange": "₹8.50 Cr (Final All-Inclusive)"
+        "priceRange": "₹8.50 Cr (All-Inclusive)"
       }
     ],
     "status": "Ready To Move",
@@ -129163,6 +132654,12 @@ export const PROJECTS: Project[] = [
       "Central Air Conditioning Infrastructure",
       "Cafeteria & Food Court",
       "Power Backup"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "380 - 2,800 sq.ft"
+      }
     ]
   },
   {
@@ -129183,17 +132680,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Premium",
         "carpetArea": "760 sq.ft (Total Usable)",
-        "priceRange": "₹2.20 Cr (Final All-Inclusive)"
+        "priceRange": "₹2.20 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1180 sq.ft (Total Usable)",
-        "priceRange": "₹3.45 Cr (Final All-Inclusive)"
+        "priceRange": "₹3.45 Cr (All-Inclusive)"
       },
       {
         "type": "4 BHK Grand",
         "carpetArea": "1720 sq.ft (Total Usable)",
-        "priceRange": "₹5.80 Cr (Final All-Inclusive)"
+        "priceRange": "₹5.80 Cr (All-Inclusive)"
       }
     ],
     "status": "Ready To Move",
@@ -129228,6 +132725,12 @@ export const PROJECTS: Project[] = [
       "Indoor Squash Court",
       "Amphitheatre",
       "Cricket Pitch"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "760 - 1,720 sq.ft"
+      }
     ]
   },
   {
@@ -129248,17 +132751,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Sea Facing",
         "carpetArea": "1350 sq.ft (Total Usable)",
-        "priceRange": "₹7.50 Cr (Final All-Inclusive)"
+        "priceRange": "₹7.50 Cr (All-Inclusive)"
       },
       {
         "type": "4 BHK Sea Facing",
         "carpetArea": "2100 sq.ft (Total Usable)",
-        "priceRange": "₹12.80 Cr (Final All-Inclusive)"
+        "priceRange": "₹12.80 Cr (All-Inclusive)"
       },
       {
         "type": "5 BHK Signature Duplex",
         "carpetArea": "3450 sq.ft (Total Usable)",
-        "priceRange": "₹22.00 Cr (Final All-Inclusive)"
+        "priceRange": "₹22.00 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -129293,6 +132796,12 @@ export const PROJECTS: Project[] = [
       "World-Class Fitness Centre",
       "Screening Theatre",
       "Valet Parking"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "1,350 - 3,450 sq.ft"
+      }
     ]
   },
   {
@@ -129313,17 +132822,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "Boutique Retail Kiosk",
         "carpetArea": "250 sq.ft (Total Usable)",
-        "priceRange": "₹1.50 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.50 Cr (All-Inclusive)"
       },
       {
         "type": "High-Street Retail Store",
         "carpetArea": "650 sq.ft (Total Usable)",
-        "priceRange": "₹3.80 Cr (Final All-Inclusive)"
+        "priceRange": "₹3.80 Cr (All-Inclusive)"
       },
       {
         "type": "Anchor F&B Space",
         "carpetArea": "2400 sq.ft (Total Usable)",
-        "priceRange": "₹15.00 Cr (Final All-Inclusive)"
+        "priceRange": "₹15.00 Cr (All-Inclusive)"
       }
     ],
     "status": "Ready To Move",
@@ -129357,6 +132866,12 @@ export const PROJECTS: Project[] = [
       "Food Court Infrastructure",
       "Loading/Unloading Docks",
       "Dedicated DG Power Backup"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "250 - 2,400 sq.ft"
+      }
     ]
   },
   {
@@ -129377,17 +132892,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Grand Residence",
         "carpetArea": "2450 sq.ft (Total Usable)",
-        "priceRange": "₹18.00 Cr (Final All-Inclusive)"
+        "priceRange": "₹18.00 Cr (All-Inclusive)"
       },
       {
         "type": "5 BHK Palatial Suite",
         "carpetArea": "3600 sq.ft (Total Usable)",
-        "priceRange": "₹28.50 Cr (Final All-Inclusive)"
+        "priceRange": "₹28.50 Cr (All-Inclusive)"
       },
       {
         "type": "Duplex Sky Mansion",
         "carpetArea": "5800 sq.ft (Total Usable)",
-        "priceRange": "₹45.00 Cr (Final All-Inclusive)"
+        "priceRange": "₹45.00 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -129422,6 +132937,12 @@ export const PROJECTS: Project[] = [
       "Bespoke Wellness Spa",
       "Private Screening Theatre",
       "Valet Parking with Chauffeur Quarters"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "2,450 - 5,800 sq.ft"
+      }
     ]
   },
   {
@@ -129442,17 +132963,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "1420 sq.ft (Total Usable)",
-        "priceRange": "₹8.90 Cr (Final All-Inclusive)"
+        "priceRange": "₹8.90 Cr (All-Inclusive)"
       },
       {
         "type": "4 BHK Imperial",
         "carpetArea": "2250 sq.ft (Total Usable)",
-        "priceRange": "₹14.50 Cr (Final All-Inclusive)"
+        "priceRange": "₹14.50 Cr (All-Inclusive)"
       },
       {
         "type": "5 BHK Presidential",
         "carpetArea": "3600 sq.ft (Total Usable)",
-        "priceRange": "₹24.00 Cr (Final All-Inclusive)"
+        "priceRange": "₹24.00 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -129487,6 +133008,12 @@ export const PROJECTS: Project[] = [
       "Squash & Badminton Courts",
       "Cryotherapy Wellness Suite",
       "Automated Robotic Parking"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "1,420 - 3,600 sq.ft"
+      }
     ]
   },
   {
@@ -129506,17 +133033,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Signature",
         "carpetArea": "710 sq.ft (Total Usable)",
-        "priceRange": "₹2.45 Cr (Final All-Inclusive)"
+        "priceRange": "₹2.45 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Grande",
         "carpetArea": "1050 sq.ft (Total Usable)",
-        "priceRange": "₹3.65 Cr (Final All-Inclusive)"
+        "priceRange": "₹3.65 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Royale",
         "carpetArea": "1340 sq.ft (Total Usable)",
-        "priceRange": "₹4.80 Cr (Final All-Inclusive)"
+        "priceRange": "₹4.80 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -129551,6 +133078,12 @@ export const PROJECTS: Project[] = [
       "Children's Adventure Zone",
       "EV Charging Station",
       "Banquet Hall"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "710 - 1,340 sq.ft"
+      }
     ]
   },
   {
@@ -129571,17 +133104,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK Smart Suite",
         "carpetArea": "440 sq.ft (Total Usable)",
-        "priceRange": "₹1.65 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.65 Cr (All-Inclusive)"
       },
       {
         "type": "2 BHK Premium",
         "carpetArea": "690 sq.ft (Total Usable)",
-        "priceRange": "₹2.25 Cr (Final All-Inclusive)"
+        "priceRange": "₹2.25 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "980 sq.ft (Total Usable)",
-        "priceRange": "₹3.40 Cr (Final All-Inclusive)"
+        "priceRange": "₹3.40 Cr (All-Inclusive)"
       }
     ],
     "status": "New Launch",
@@ -129616,6 +133149,12 @@ export const PROJECTS: Project[] = [
       "Kids Play Area",
       "Gymnasium",
       "Multipurpose Hall"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "440 - 980 sq.ft"
+      }
     ]
   },
   {
@@ -129635,17 +133174,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Comfort",
         "carpetArea": "610 sq.ft (Total Usable)",
-        "priceRange": "₹88.00 L (Final All-Inclusive)"
+        "priceRange": "₹88.00 L (All-Inclusive)"
       },
       {
         "type": "2 BHK Grand",
         "carpetArea": "730 sq.ft (Total Usable)",
-        "priceRange": "₹1.18 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.18 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Regal",
         "carpetArea": "980 sq.ft (Total Usable)",
-        "priceRange": "₹1.85 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.85 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -129680,6 +133219,12 @@ export const PROJECTS: Project[] = [
       "Indoor Squash Court",
       "Children's Playground",
       "Yoga Lawn"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "610 - 980 sq.ft"
+      }
     ]
   },
   {
@@ -129700,17 +133245,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK Smart",
         "carpetArea": "420 sq.ft (Total Usable)",
-        "priceRange": "₹75.00 L (Final All-Inclusive)"
+        "priceRange": "₹75.00 L (All-Inclusive)"
       },
       {
         "type": "2 BHK Compact",
         "carpetArea": "600 sq.ft (Total Usable)",
-        "priceRange": "₹1.15 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.15 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Grande",
         "carpetArea": "880 sq.ft (Total Usable)",
-        "priceRange": "₹1.70 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.70 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -129745,6 +133290,12 @@ export const PROJECTS: Project[] = [
       "Tennis Courts",
       "Meditation Deck",
       "Cafeteria"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "420 - 880 sq.ft"
+      }
     ]
   },
   {
@@ -129765,17 +133316,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury",
         "carpetArea": "720 sq.ft (Total Usable)",
-        "priceRange": "₹1.35 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.35 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Signature",
         "carpetArea": "1050 sq.ft (Total Usable)",
-        "priceRange": "₹2.10 Cr (Final All-Inclusive)"
+        "priceRange": "₹2.10 Cr (All-Inclusive)"
       },
       {
         "type": "4 BHK Imperial",
         "carpetArea": "1480 sq.ft (Total Usable)",
-        "priceRange": "₹3.10 Cr (Final All-Inclusive)"
+        "priceRange": "₹3.10 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -129810,6 +133361,12 @@ export const PROJECTS: Project[] = [
       "Squash Court",
       "Billiards & Gaming Lounge",
       "Covered Car Parking"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "720 - 1,480 sq.ft"
+      }
     ]
   },
   {
@@ -129830,17 +133387,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "Boutique Office",
         "carpetArea": "340 sq.ft (Total Usable)",
-        "priceRange": "₹95.00 L (Final All-Inclusive)"
+        "priceRange": "₹95.00 L (All-Inclusive)"
       },
       {
         "type": "Corporate Suite",
         "carpetArea": "850 sq.ft (Total Usable)",
-        "priceRange": "₹2.45 Cr (Final All-Inclusive)"
+        "priceRange": "₹2.45 Cr (All-Inclusive)"
       },
       {
         "type": "Retail Showroom",
         "carpetArea": "1800 sq.ft (Total Usable)",
-        "priceRange": "₹6.50 Cr (Final All-Inclusive)"
+        "priceRange": "₹6.50 Cr (All-Inclusive)"
       }
     ],
     "status": "Ready To Move",
@@ -129874,6 +133431,12 @@ export const PROJECTS: Project[] = [
       "Central Air Conditioning Infrastructure",
       "Conference Rooms",
       "Power Backup"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "340 - 1,800 sq.ft"
+      }
     ]
   },
   {
@@ -129894,17 +133457,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "Commercial Office",
         "carpetArea": "480 sq.ft (Total Usable)",
-        "priceRange": "₹1.45 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.45 Cr (All-Inclusive)"
       },
       {
         "type": "IT Corporate Suite",
         "carpetArea": "1150 sq.ft (Total Usable)",
-        "priceRange": "₹3.80 Cr (Final All-Inclusive)"
+        "priceRange": "₹3.80 Cr (All-Inclusive)"
       },
       {
         "type": "Full Floor Plate",
         "carpetArea": "3200 sq.ft (Total Usable)",
-        "priceRange": "₹9.80 Cr (Final All-Inclusive)"
+        "priceRange": "₹9.80 Cr (All-Inclusive)"
       }
     ],
     "status": "Ready To Move",
@@ -129938,6 +133501,12 @@ export const PROJECTS: Project[] = [
       "Dedicated Valet Services",
       "Access Controlled Turnstiles",
       "24/7 Redundant Power Grid"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "480 - 3,200 sq.ft"
+      }
     ]
   },
   {
@@ -129957,12 +133526,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Sea Facing Estate",
         "carpetArea": "3200 sq.ft (Total Usable)",
-        "priceRange": "₹25.00 Cr (Final All-Inclusive)"
+        "priceRange": "₹25.00 Cr (All-Inclusive)"
       },
       {
         "type": "5 BHK Palatial Penthouse",
         "carpetArea": "5500 sq.ft (Total Usable)",
-        "priceRange": "₹65.00 Cr (Final All-Inclusive)"
+        "priceRange": "₹65.00 Cr (All-Inclusive)"
       }
     ],
     "status": "Ready To Move",
@@ -129997,6 +133566,12 @@ export const PROJECTS: Project[] = [
       "Concierge Desk",
       "Valet Parking",
       "Landscaped Zen Garden"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "3,200 - 5,500 sq.ft"
+      }
     ]
   },
   {
@@ -130016,12 +133591,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Comfort",
         "carpetArea": "650 sq.ft (Total Usable)",
-        "priceRange": "₹1.40 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.40 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Grande",
         "carpetArea": "940 sq.ft (Total Usable)",
-        "priceRange": "₹2.80 Cr (Final All-Inclusive)"
+        "priceRange": "₹2.80 Cr (All-Inclusive)"
       }
     ],
     "status": "Ready To Move",
@@ -130056,6 +133631,12 @@ export const PROJECTS: Project[] = [
       "Kids Play Area",
       "24/7 Security",
       "Intercom System"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "650 - 940 sq.ft"
+      }
     ]
   },
   {
@@ -130075,12 +133656,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Signature",
         "carpetArea": "690 sq.ft (Total Usable)",
-        "priceRange": "₹1.55 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.55 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Royale",
         "carpetArea": "1020 sq.ft (Total Usable)",
-        "priceRange": "₹3.20 Cr (Final All-Inclusive)"
+        "priceRange": "₹3.20 Cr (All-Inclusive)"
       }
     ],
     "status": "Ready To Move",
@@ -130115,6 +133696,12 @@ export const PROJECTS: Project[] = [
       "Badminton Court",
       "Fitness Center",
       "Children's Park"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "690 - 1,020 sq.ft"
+      }
     ]
   },
   {
@@ -130135,17 +133722,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Comfort",
         "carpetArea": "580 sq.ft (Total Usable)",
-        "priceRange": "₹82.00 L (Final All-Inclusive)"
+        "priceRange": "₹82.00 L (All-Inclusive)"
       },
       {
         "type": "2.5 BHK Grand",
         "carpetArea": "740 sq.ft (Total Usable)",
-        "priceRange": "₹1.15 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.15 Cr (All-Inclusive)"
       },
       {
         "type": "3 BHK Royal",
         "carpetArea": "950 sq.ft (Total Usable)",
-        "priceRange": "₹1.75 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.75 Cr (All-Inclusive)"
       }
     ],
     "status": "Ready To Move",
@@ -130180,6 +133767,12 @@ export const PROJECTS: Project[] = [
       "Mini Theatre",
       "Kids Adventure Park",
       "Grand Banquet Lawn"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "580 - 950 sq.ft"
+      }
     ]
   },
   {
@@ -130200,17 +133793,17 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Smart",
         "carpetArea": "685 sq.ft (Total Usable)",
-        "priceRange": "₹72.00 L (Final All-Inclusive)"
+        "priceRange": "₹72.00 L (All-Inclusive)"
       },
       {
         "type": "3 BHK Premium",
         "carpetArea": "960 sq.ft (Total Usable)",
-        "priceRange": "₹1.15 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.15 Cr (All-Inclusive)"
       },
       {
         "type": "4 BHK Imperial",
         "carpetArea": "1350 sq.ft (Total Usable)",
-        "priceRange": "₹1.55 Cr (Final All-Inclusive)"
+        "priceRange": "₹1.55 Cr (All-Inclusive)"
       }
     ],
     "status": "Under Construction",
@@ -130245,6 +133838,12 @@ export const PROJECTS: Project[] = [
       "Futsal Court",
       "Senior Citizen Courtyards",
       "Banqueting Hall"
+    ],
+    "specs": [
+      {
+        "label": "Carpet Range",
+        "value": "685 - 1,350 sq.ft"
+      }
     ]
   }
 ];

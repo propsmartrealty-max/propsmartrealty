@@ -8,7 +8,7 @@ Five Intelligent Verification Channels:
 2. Developer Statutory Disclosure Reconciliation (Section 11(2) compliance)
 3. MahaRERA 2.0 Digital Certificate, Deep-Link & QR Validator
 4. AI & Fuzzy Token-Sort Linguistic Alignment Engine
-5. Consumer Protection & Final All-Inclusive Pricing/Carpet Compliance
+5. Consumer Protection & All-Inclusive Pricing/Carpet Compliance
 """
 
 import sys
@@ -226,7 +226,7 @@ def export_audit_registries(projects: List[Dict[str, Any]], builder_map: Dict[st
             'officialPortalDeepLink': f"https://maharera.maharashtra.gov.in/?rera={rera}",
             'qrCodeAsset': f"/images/qr/{rera}-qr.svg",
             'allInclusiveStartingPrice': price_val,
-            'statutoryCompliance': '100% Final All-Inclusive',
+            'statutoryCompliance': '100% All-Inclusive',
             'legiScoreGrade': 'AAA',
             'legalTitleStatus': 'Clear & Marketable (30-Year Search)',
             'cersaiHypothecationStatus': 'CERSAI Security Interest Verified',

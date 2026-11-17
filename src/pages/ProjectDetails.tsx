@@ -1144,7 +1144,7 @@ const ProjectDetails = () => {
                                                         specs: [
                                                             { label: 'Unit Type', value: plan.bhk },
                                                             { label: 'Total Carpet Area', value: plan.carpetArea },
-                                                            { label: 'Final All-Inclusive Price', value: plan.price },
+                                                            { label: 'All-Inclusive Price', value: plan.price },
                                                             { label: 'Orientation', value: plan.facing }
                                                         ],
                                                         type: 'floor-plan'
@@ -1213,7 +1213,7 @@ const ProjectDetails = () => {
                                                         specs: [
                                                             { label: 'Unit Type', value: plan.bhk },
                                                             { label: 'Total Carpet Area', value: plan.carpetArea },
-                                                            { label: 'Final All-Inclusive Price', value: plan.price },
+                                                            { label: 'All-Inclusive Price', value: plan.price },
                                                             { label: 'Orientation', value: plan.facing }
                                                         ],
                                                         type: 'floor-plan'
@@ -1297,18 +1297,18 @@ const ProjectDetails = () => {
                                                     Optimal natural lighting, cross-ventilation, and zero space wastage. Verified under MahaRERA {project.reraId}.
                                                 </p>
 
-                                                {/* Single Final All-Inclusive Price Card */}
+                                                {/* Single All-Inclusive Price Card */}
                                                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 p-4 rounded-2xl bg-slate-50/90 border border-slate-200/80 text-xs">
                                                     <div className="sm:col-span-2">
                                                         <span className="text-[10px] text-emerald-700 uppercase font-black tracking-wider flex items-center gap-1 block">
                                                             <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
-                                                            Final All-Inclusive Price
+                                                            All-Inclusive Price
                                                         </span>
                                                         <span className="text-xl sm:text-2xl font-black text-slate-900 block mt-0.5">
                                                             {formatLakhsCr(allInclusive)}
                                                         </span>
                                                         <span className="text-[10px] text-slate-500 font-semibold block mt-0.5">
-                                                            100% Final On-Road Price (Includes Stamp Duty, Registration, GST &amp; All Statutory Add-ons)
+                                                            100% All-Inclusive On-Road Price (Includes Stamp Duty, Registration, GST &amp; All Statutory Add-ons)
                                                         </span>
                                                     </div>
                                                     <div className="flex flex-col justify-center sm:items-end border-t sm:border-t-0 sm:border-l border-slate-200 pt-2 sm:pt-0 sm:pl-3">
@@ -1334,7 +1334,7 @@ const ProjectDetails = () => {
                                                                 specs: [
                                                                     { label: 'Unit Type', value: conf.name },
                                                                     { label: 'Total Carpet Area', value: `${conf.carpetArea} sq.ft` },
-                                                                    { label: 'Final Price', value: formatLakhsCr(allInclusive) }
+                                                                    { label: 'All-Inclusive Price', value: formatLakhsCr(allInclusive) }
                                                                 ],
                                                                 type: 'floor-plan'
                                                             });

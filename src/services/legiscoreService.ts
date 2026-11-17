@@ -130,7 +130,7 @@ export interface LegiScoreDueDiligenceDossier {
     overallGrade: 'AAA' | 'AA+' | 'AA' | 'A+' | 'A';
     titleScore: number; // 0 - 100
     riskAssessment: 'Ultra-Low Risk' | 'Low Risk' | 'Moderate Risk';
-    pricingTransparencyBadge: '100% Final All-Inclusive (0 Tax Break-up)';
+    pricingTransparencyBadge: '100% All-Inclusive (0 Tax Break-up)';
     carpetAreaTransparencyBadge: '100% Cumulative Usable Carpet Area';
     titleAudit: LegiScoreTitleAudit;
     encumbranceAudit: LegiScoreEncumbranceAudit;
@@ -439,7 +439,7 @@ export const generateLegiScoreDossier = (
         overallGrade,
         titleScore,
         riskAssessment,
-        pricingTransparencyBadge: '100% Final All-Inclusive (0 Tax Break-up)',
+        pricingTransparencyBadge: '100% All-Inclusive (0 Tax Break-up)',
         carpetAreaTransparencyBadge: '100% Cumulative Usable Carpet Area',
         titleAudit,
         encumbranceAudit,

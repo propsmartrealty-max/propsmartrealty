@@ -243,11 +243,11 @@ export const auditProjectIntelligently = (project: Project): IntelligentProjectA
 
     const channel5_consumerProtection: ChannelStatus = {
         id: 5,
-        name: 'Consumer Protection & Final All-Inclusive Transparency',
-        description: 'Enforces strictly unified Final All-Inclusive Pricing with 0 tax break-up and cumulative usable carpet area.',
+        name: 'Consumer Protection & All-Inclusive Pricing Transparency',
+        description: 'Enforces strictly unified All-Inclusive Pricing with 0 tax break-up and cumulative usable carpet area.',
         passed: hasValidPrice,
         confidenceScore: 100,
-        details: `Starting at ${priceDisplay} (Final All-Inclusive). Cumulative carpet area enforced with 0 separate balcony splits.`,
+        details: `Starting at ${priceDisplay} (All-Inclusive). Cumulative carpet area enforced with 0 separate balcony splits.`,
         meta: { priceDisplay, complianceModel: '100% All-Inclusive' }
     };
 

@@ -1,5 +1,5 @@
 /**
- * Transparent All-Inclusive Pricing & Final Carpet Area Utilities
+ * Transparent All-Inclusive Pricing & Carpet Area Utilities
  * Conforms to MahaRERA transparency guidelines and eliminates hidden buyer fees.
  */
 
@@ -49,7 +49,7 @@ export const formatLakhsToCurrency = (lakhs: number): string => {
  * Standard builder listings often advertise raw agreement values and surprise buyers with 
  * 11.5% - 12.5% statutory government add-ons (Stamp Duty, Registration, GST, Infra).
  * 
- * PROPSMART strictly quotes the single Final All-Inclusive On-Road Price.
+ * PROPSMART strictly quotes the single All-Inclusive On-Road Price.
  * No separate quotes of Agreement Value vs Stamp Duty.
  * We apply a standard 11.5% statutory inclusion factor to ensure 100% transparent pricing.
  */
@@ -77,13 +77,13 @@ export const getAllInclusivePricing = (
 
     if (rawRange.toLowerCase().includes('request') || rawRange.toLowerCase().includes('call')) {
         return {
-            allInclusiveDisplay: 'Price on Request (Final All-Inclusive)',
+            allInclusiveDisplay: 'Price on Request (All-Inclusive)',
             allInclusiveRange: 'Price on Request',
             startingAllInclusive: 'Price on Request',
             isRange: false,
             breakdown: {
                 allInclusivePrice: 'On Request',
-                statutoryInclusions: 'All Taxes & Duties Included',
+                statutoryInclusions: 'All-Inclusive (Taxes & Duties Included)',
                 brokerage: '0% Brokerage',
                 totalAllInclusive: 'Price on Request'
             }
@@ -102,13 +102,13 @@ export const getAllInclusivePricing = (
             const maxFormatted = formatLakhsToCurrency(maxAllIn);
 
             return {
-                allInclusiveDisplay: `${minFormatted} - ${maxFormatted} Final Price`,
+                allInclusiveDisplay: `${minFormatted} - ${maxFormatted} (All-Inclusive)`,
                 allInclusiveRange: `${minFormatted} - ${maxFormatted}`,
-                startingAllInclusive: `Starts from ${minFormatted} (Final All-Inclusive)`,
+                startingAllInclusive: `Starts from ${minFormatted} (All-Inclusive)`,
                 isRange: true,
                 breakdown: {
                     allInclusivePrice: `${minFormatted} - ${maxFormatted}`,
-                    statutoryInclusions: 'All Statutory Taxes, Stamp Duty & Reg. Included',
+                    statutoryInclusions: 'All-Inclusive (Govt. Taxes, Stamp Duty & Reg. Included)',
                     brokerage: '0% Direct Mandate Brokerage',
                     totalAllInclusive: `${minFormatted} - ${maxFormatted}`
                 }
@@ -122,13 +122,13 @@ export const getAllInclusivePricing = (
         const allIn = baseLakhs * STATUTORY_ADDON_FACTOR;
         const formatted = formatLakhsToCurrency(allIn);
         return {
-            allInclusiveDisplay: `${formatted} Final Price`,
+            allInclusiveDisplay: `${formatted} (All-Inclusive)`,
             allInclusiveRange: formatted,
-            startingAllInclusive: `${formatted} (Final All-Inclusive)`,
+            startingAllInclusive: `${formatted} (All-Inclusive)`,
             isRange: false,
             breakdown: {
                 allInclusivePrice: formatted,
-                statutoryInclusions: 'All Statutory Taxes, Stamp Duty & Reg. Included',
+                statutoryInclusions: 'All-Inclusive (Govt. Taxes, Stamp Duty & Reg. Included)',
                 brokerage: '0% Direct Mandate Brokerage',
                 totalAllInclusive: formatted
             }
@@ -136,13 +136,13 @@ export const getAllInclusivePricing = (
     }
 
     return {
-        allInclusiveDisplay: `${rawRange} (Final Price)`,
+        allInclusiveDisplay: `${rawRange} (All-Inclusive)`,
         allInclusiveRange: rawRange,
         startingAllInclusive: rawRange,
         isRange: false,
         breakdown: {
             allInclusivePrice: rawRange,
-            statutoryInclusions: 'All Inclusive',
+            statutoryInclusions: 'All-Inclusive',
             brokerage: '0% Brokerage',
             totalAllInclusive: rawRange
         }
@@ -150,20 +150,27 @@ export const getAllInclusivePricing = (
 };
 
 /**
- * Returns strictly the Cumulative Total Usable Carpet Area.
- * Completely strips out separate balcony/terrace breakdowns and inflated super-built-up figures.
+ * Returns strictly the Sanctioned MahaRERA Usable Carpet Area.
+ * Formats clean, conforming carpet area ranges and units without inflated super-built-up figures.
  */
 export const getFinalCarpetAreaOnly = (
     configurationDetails?: { type: string; carpetArea: string; priceRange?: string }[]
 ): string | null => {
     if (!configurationDetails || configurationDetails.length === 0) return null;
 
-    const areas = configurationDetails
-        .map(c => {
-            const match = c.carpetArea?.match(/([0-9,]+)/);
-            return match ? parseInt(match[1].replace(/,/g, '')) : null;
-        })
-        .filter((a): a is number => a !== null && a > 0);
+    const areas: number[] = [];
+    for (const c of configurationDetails) {
+        if (!c.carpetArea) continue;
+        const matches = c.carpetArea.match(/([0-9,]+)/g);
+        if (matches) {
+            for (const m of matches) {
+                const num = parseInt(m.replace(/,/g, ''), 10);
+                if (!isNaN(num) && num > 0) {
+                    areas.push(num);
+                }
+            }
+        }
+    }
 
     if (areas.length === 0) return null;
 
@@ -171,7 +178,7 @@ export const getFinalCarpetAreaOnly = (
     const max = Math.max(...areas);
 
     if (min === max) {
-        return `${min.toLocaleString('en-IN')} sq.ft Total Carpet Area`;
+        return `${min.toLocaleString('en-IN')} sq.ft Carpet Area`;
     }
-    return `${min.toLocaleString('en-IN')} - ${max.toLocaleString('en-IN')} sq.ft Total Carpet Area`;
+    return `${min.toLocaleString('en-IN')} - ${max.toLocaleString('en-IN')} sq.ft Carpet Area`;
 };

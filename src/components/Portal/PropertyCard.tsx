@@ -263,12 +263,12 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         )}
                     </div>
 
-                    {/* Final Carpet Area Only & Configurations Row */}
+                    {/* Carpet Area & Configurations Row */}
                     <div className="mt-3 flex flex-wrap items-center gap-1.5">
                         {finalCarpetAreaOnly && (
                             <span 
                                 className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-emerald-50/90 border border-emerald-200/80 text-[10.5px] font-black text-emerald-800 shadow-2xs shrink-0" 
-                                title="Total & Final Carpet Area Only (MahaRERA Usable)"
+                                title="Sanctioned MahaRERA Usable Carpet Area"
                             >
                                 <Maximize2 className="w-3 h-3 text-emerald-600" /> {finalCarpetAreaOnly}
                             </span>

@@ -228,7 +228,7 @@ const MahaRERAVerification: React.FC = () => {
                                             <MapPin className="w-3.5 h-3.5 text-sky-400" />
                                             <span>{result.matchedProject.location}, {result.matchedProject.city || 'Pune'}</span>
                                             <span className="text-slate-500">•</span>
-                                            <span className="text-emerald-400 font-bold">{result.matchedProject.exactPrice || result.matchedProject.priceRange} (Final Price)</span>
+                                            <span className="text-emerald-400 font-bold">{result.matchedProject.exactPrice || result.matchedProject.priceRange} (All-Inclusive)</span>
                                         </p>
                                     )}
 
@@ -300,11 +300,11 @@ const MahaRERAVerification: React.FC = () => {
 
                                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 text-xs">
                                     <div className="p-4 rounded-2xl bg-white/5 border border-white/10">
-                                        <span className="text-[10px] text-slate-400 uppercase font-black block">Final All-Inclusive Price</span>
+                                        <span className="text-[10px] text-slate-400 uppercase font-black block">All-Inclusive Price</span>
                                         <span className="text-base font-black text-emerald-400 block mt-1">
                                             {result.matchedProject.exactPrice || result.matchedProject.priceRange}
                                         </span>
-                                        <span className="text-[10px] text-slate-500 mt-0.5 block">100% Final On-Road Price</span>
+                                        <span className="text-[10px] text-slate-500 mt-0.5 block">100% All-Inclusive On-Road Price</span>
                                     </div>
 
                                     <div className="p-4 rounded-2xl bg-white/5 border border-white/10">
@@ -401,11 +401,11 @@ const MahaRERAVerification: React.FC = () => {
 
                                 <div className="p-4 rounded-2xl bg-white/5 border border-white/10 space-y-1.5">
                                     <div className="flex items-center justify-between">
-                                        <span className="font-extrabold text-white text-xs">Channel 5: Consumer Protection</span>
+                                        <span className="font-extrabold text-white text-xs">Channel 5: All-Inclusive Pricing Transparency</span>
                                         <span className="text-[10px] font-bold text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded">100% Compliant</span>
                                     </div>
                                     <p className="text-slate-400 text-[11px]">
-                                        Enforces strictly unified Final All-Inclusive Pricing (zero separate tax break-up) and cumulative usable carpet area.
+                                        Enforces strictly unified All-Inclusive Pricing (zero separate tax break-up) and cumulative usable carpet area.
                                     </p>
                                 </div>
 

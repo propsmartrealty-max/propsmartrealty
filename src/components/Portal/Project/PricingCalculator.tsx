@@ -32,8 +32,8 @@ const PricingCalculator: React.FC<PricingCalculatorProps> = ({ configurations })
     const gst = subtotal * ((selectedConfig.gstRate || 5) / 100);
     const registration = Number(selectedConfig.registrationCharges) || 30000;
 
-    // 100% Final All-Inclusive Price (no separate agreement value or separate stamp duty)
-    const finalAllInclusivePrice = Math.round(subtotal + stampDuty + gst + registration);
+    // 100% All-Inclusive Price (no separate agreement value or separate stamp duty)
+    const allInclusivePrice = Math.round(subtotal + stampDuty + gst + registration);
 
     const formatCurrency = (amount: number) => {
         return new Intl.NumberFormat('en-IN', {
@@ -51,7 +51,7 @@ const PricingCalculator: React.FC<PricingCalculatorProps> = ({ configurations })
                         <Calculator className="w-5 h-5" />
                     </div>
                     <div>
-                        <h3 className="font-extrabold text-base sm:text-lg">Final Price Cost Sheet</h3>
+                        <h3 className="font-extrabold text-base sm:text-lg">All-Inclusive Cost Sheet</h3>
                         <p className="text-[11px] text-slate-300">100% All-Inclusive • Zero Brokerage</p>
                     </div>
                 </div>
@@ -139,13 +139,13 @@ const PricingCalculator: React.FC<PricingCalculatorProps> = ({ configurations })
                     <div>
                         <div className="flex items-center gap-1.5 text-emerald-400 text-xs font-extrabold uppercase tracking-widest mb-1">
                             <ShieldCheck className="w-4 h-4 text-emerald-400" />
-                            Final All-Inclusive Price
+                            All-Inclusive Price
                         </div>
                         <p className="text-3xl sm:text-4xl font-black text-white tracking-tight">
-                            {formatCurrency(finalAllInclusivePrice)}
+                            {formatCurrency(allInclusivePrice)}
                         </p>
                         <p className="text-xs text-slate-300 mt-1">
-                            100% Final On-Road Price • No Hidden Costs • No Separate Taxes
+                            100% All-Inclusive On-Road Price • No Hidden Costs • No Separate Taxes
                         </p>
                     </div>
 
@@ -166,10 +166,10 @@ const PricingCalculator: React.FC<PricingCalculatorProps> = ({ configurations })
                 </div>
 
                 <button
-                    onClick={() => openWhatsApp(`Hi PROPSMART, please send me the official final cost sheet for ${selectedConfig.name} (${cumulativeCarpetArea} sq.ft Total Carpet Area) on floor ${floorRise} with final all-inclusive price ${formatCurrency(finalAllInclusivePrice)}.`)}
+                    onClick={() => openWhatsApp(`Hi PROPSMART, please send me the official all-inclusive cost sheet for ${selectedConfig.name} (${cumulativeCarpetArea} sq.ft Carpet Area) on floor ${floorRise} with all-inclusive price ${formatCurrency(allInclusivePrice)}.`)}
                     className="w-full py-3.5 bg-emerald-600 hover:bg-emerald-500 text-white rounded-2xl font-black text-sm uppercase tracking-wider transition-all shadow-lg shadow-emerald-600/20 hover:shadow-emerald-600/40 active:scale-98 flex items-center justify-center gap-2 cursor-pointer"
                 >
-                    Get Official Final Cost Sheet (PDF)
+                    Get Official All-Inclusive Cost Sheet (PDF)
                 </button>
             </div>
         </div>

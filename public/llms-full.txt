@@ -507,17 +507,17 @@ This document contains the complete, unabridged real estate database of verified
 | Godrej Eden Estate Phase 2 | Hinjewadi | Villa Plot, Estate Plot | ₹1.71 Cr - ₹2.90 Cr | Under Construction | `P52100054190` | https://propsmart.co.in/project/godrej-eden-estate-phase-2 |
 | VTP Bellissimo | Hinjewadi | 2 BHK, 3 BHK | ₹74.00 L - ₹1.45 Cr | Under Construction | `P52100033888` | https://propsmart.co.in/project/vtp-bellissimo |
 | VTP Dolce Vita | Kharadi | 2 BHK, 3 BHK | ₹78.00 L - ₹1.48 Cr | Under Construction | `P52100051819` | https://propsmart.co.in/project/vtp-dolce-vita |
-| VTP Naturescape | Bavdhan | 2 BHK, 3 BHK | ₹88.00 L - ₹1.55 Cr | Under Construction | `P52100056310` | https://propsmart.co.in/project/vtp-naturescape |
-| Lodha Giardino | Wagholi | 2 BHK, 3 BHK | ₹95.83 L - ₹1.30 Cr | Under Construction | `P52100047587` | https://propsmart.co.in/project/lodha-giardino |
-| Lodha Panache | Hinjewadi | 2 BHK | ₹1.15 Cr - ₹1.20 Cr | Under Construction | `P52100050124` | https://propsmart.co.in/project/lodha-panache |
-| Lodha Bella Vita | Mohammed Wadi | 2 BHK | ₹1.05 Cr | Under Construction | `P52100024215` | https://propsmart.co.in/project/lodha-bella-vita |
+| VTP Naturescape | Bavdhan | 2 BHK, 3 BHK, 4 BHK | ₹88.00 L - ₹2.43 Cr | Under Construction | `P52100056310` | https://propsmart.co.in/project/vtp-naturescape |
+| Lodha Giardino | Wagholi | 2 BHK, 3 BHK, 4 BHK | ₹95.83 L - ₹2.57 Cr | Under Construction | `P52100047587` | https://propsmart.co.in/project/lodha-giardino |
+| Lodha Panache | Hinjewadi | 2 BHK, 3 BHK, 4 BHK, 5 BHK | ₹1.15 Cr - ₹2.80 Cr | Under Construction | `P52100050124` | https://propsmart.co.in/project/lodha-panache |
+| Lodha Bella Vita | Mohammed Wadi | 2 BHK, 3 BHK, 3.5 BHK | ₹1.05 Cr - ₹1.67 Cr | Under Construction | `P52100024215` | https://propsmart.co.in/project/lodha-bella-vita |
 | Panchshil Eon Waterfront | Kharadi | 4 BHK, 4.5 BHK, Penthouse | ₹3.02 Cr - ₹5.66 Cr | Under Construction | `P52100004202` | https://propsmart.co.in/project/panchshil-eon-waterfront |
 | Panchshil Towers | Kharadi | 3.5 BHK, 4.5 BHK, Penthouse | ₹2.90 Cr - ₹8.50 Cr | Under Construction | `P52100002528` | https://propsmart.co.in/project/panchshil-towers |
-| Rohan Ekam Balewadi | Balewadi | 2 BHK, 3 BHK, 4 BHK | ₹1.33 Cr - ₹3.42 Cr | Under Construction | `P52100052298` | https://propsmart.co.in/project/rohan-ekam-balewadi |
+| Rohan Ekam Balewadi | Balewadi | 2 BHK, 3 BHK, 4 BHK, 4.5 BHK | ₹1.33 Cr - ₹3.28 Cr | Under Construction | `P52100052298` | https://propsmart.co.in/project/rohan-ekam-balewadi |
 | Rohan Saroha | Bhugaon | 2 BHK, 3 BHK, 4 BHK | ₹80.00 L - ₹1.85 Cr | Under Construction | `P52100076652` | https://propsmart.co.in/project/rohan-saroha |
 | Rohan Ekam | Balewadi | 2 BHK, 3 BHK, 4.5 BHK | ₹1.33 Cr - ₹3.42 Cr | Under Construction | `P52100052298` | https://propsmart.co.in/project/rohan-ekam |
 | VJ IndiLife | Pashan | Studio Suite, 1 BHK Suite | ₹26.00 L - ₹65.00 L | Under Construction | `P52100028030` | https://propsmart.co.in/project/vj-indilife |
-| VJ PKC Central | Kharadi | 2 BHK | ₹1.10 Cr - ₹1.24 Cr | Under Construction | `P52100077759` | https://propsmart.co.in/project/vj-pkc-central |
+| VJ PKC Central | Kharadi | 2 BHK, 3 BHK, 4 BHK | ₹1.10 Cr - ₹1.90 Cr | Under Construction | `P52100077759` | https://propsmart.co.in/project/vj-pkc-central |
 | VJ Yashwin Enchante | Wagholi | 2 BHK, 3 BHK | ₹73.00 L - ₹1.12 Cr | Under Construction | `P52100046510` | https://propsmart.co.in/project/vj-yashwin-enchante |
 | GT Pride | Ravet | 2 BHK, 3 BHK | ₹53.00 L - ₹78.00 L | Under Construction | `P52100048595` | https://propsmart.co.in/project/gt-pride |
 | Pride Park Connect | Hinjewadi | 2 BHK, 3 BHK | ₹66.85 L - ₹1.12 Cr | Under Construction | `P52100020766` | https://propsmart.co.in/project/pride-park-connect |
@@ -530,11 +530,11 @@ This document contains the complete, unabridged real estate database of verified
 | Gera Joy on the Treetops | Hinjewadi | 2 BHK, 3 BHK, Duplex | ₹84.00 L - ₹1.38 Cr | Under Construction | `P52100077635` | https://propsmart.co.in/project/gera-joy-on-the-treetops |
 | Kasturi Apostrophe | Hinjewadi | 2 BHK | ₹88.00 L | Under Construction | `P52100031595` | https://propsmart.co.in/project/kasturi-apostrophe |
 | Kasturi Eon Homes | Hinjewadi | 2 BHK, 2.5 BHK, 3 BHK | ₹1.07 Cr - ₹1.91 Cr | Under Construction | `P52100026429` | https://propsmart.co.in/project/kasturi-eon-homes |
-| Kasturi The Balmoral Towers | Balewadi | 3 BHK, 4 BHK, Penthouse | ₹2.13 Cr - ₹6.11 Cr | Under Construction | `P52100047008` | https://propsmart.co.in/project/kasturi-the-balmoral-towers |
+| Kasturi The Balmoral Towers | Balewadi | 3 BHK, 4 BHK, 5.5 BHK, Penthouse | ₹2.03 Cr - ₹7.51 Cr | Under Construction | `P52100047008` | https://propsmart.co.in/project/kasturi-the-balmoral-towers |
 | Mahindra Happinest – D,E,F,G | Tathawade | 2 BHK, 3 BHK | ₹56.25 L - ₹78.75 L | Under Construction | `P52100028049` | https://propsmart.co.in/project/mahindra-happinest |
 | Mahindra Citadel | Pimpri Chinchwad | 2 BHK, 3 BHK, 4 BHK | ₹1.01 Cr - ₹2.64 Cr | Under Construction | `P52100047656` | https://propsmart.co.in/project/mahindra-citadel |
-| Mahindra Kharadi | Kharadi | 2 BHK, 3 BHK | ₹95.00 L - ₹1.84 Cr | Under Construction | `P52100055161` | https://propsmart.co.in/project/mahindra-kharadi |
-| Kumar Parth Tower | Baner | 2 BHK, 3 BHK | ₹99.00 L - ₹1.63 Cr | Under Construction | `P52100047987` | https://propsmart.co.in/project/kumar-parth-tower |
+| Mahindra Kharadi | Kharadi | 2 BHK, 3 BHK, 4 BHK | ₹98.00 L - ₹2.12 Cr | Under Construction | `P52100055161` | https://propsmart.co.in/project/mahindra-kharadi |
+| Kumar Parth Tower | Baner | 2 BHK, 3 BHK, 4 BHK | ₹1.04 Cr - ₹1.90 Cr | Under Construction | `P52100047987` | https://propsmart.co.in/project/kumar-parth-tower |
 | Kumar Palmspring Towers | Undri | 2 BHK, 3 BHK | ₹76.00 L - ₹1.35 Cr | Under Construction | `P52100048329` | https://propsmart.co.in/project/kumar-palmspring-towers |
 | Kumar Codename Centrestage – 0 | Hinjewadi | 2 BHK | ₹64.00 L | Under Construction | `P52100052912` | https://propsmart.co.in/project/kumar-codename-centrestage |
 | BramhaCorp Hues of Sky | Camp | 2 BHK, 3 BHK, 3.5 BHK, 4 BHK | ₹1.56 Cr - ₹3.40 Cr | Under Construction | `P52100051537` | https://propsmart.co.in/project/bramhacorp-hues-of-sky |
@@ -543,16 +543,16 @@ This document contains the complete, unabridged real estate database of verified
 | Amanora City Rise | Kothrud | 2 BHK, 3 BHK | ₹1.33 Cr - ₹2.90 Cr | Under Construction | `P52100051462` | https://propsmart.co.in/project/amanora-city-rise |
 | Joyville Hadapsar Annexe | Hadapsar | 1 BHK, 2 BHK, 3 BHK | ₹46.00 L - ₹1.06 Cr | Under Construction | `P52100026785` | https://propsmart.co.in/project/joyville-annexe |
 | Joyville Celestia | Shewalewadi | 2 BHK, 3 BHK | ₹77.00 L - ₹1.16 Cr | Under Construction | `P52100053165` | https://propsmart.co.in/project/joyville-celestia |
-| Joyville Sensorium | Hinjewadi | 2 BHK, 3 BHK | ₹90.00 L - ₹1.29 Cr | Under Construction | `P52100027234` | https://propsmart.co.in/project/joyville-sensorium |
+| Joyville Sensorium | Hinjewadi | 2 BHK, 3 BHK, 4 BHK | ₹90.00 L - ₹2.33 Cr | Under Construction | `P52100027234` | https://propsmart.co.in/project/joyville-sensorium |
 | Kohinoor Kharadi – 5 | Kharadi | 2 BHK, 3 BHK | ₹99.00 L - ₹1.25 Cr | Under Construction | `P52100065519` | https://propsmart.co.in/project/kohinoor-kharadi |
 | Kohinoor Shangrila | Pimpri Chinchwad | 2 BHK, 3 BHK | ₹93.00 L - ₹1.40 Cr | Under Construction | `P52100030688` | https://propsmart.co.in/project/kohinoor-shangrila |
 | Kohinoor Central Park | Hinjewadi | 2 BHK, 3 BHK | ₹72 L - ₹1.15 Cr | Under Construction | `P52100056358` | https://propsmart.co.in/project/kohinoor-central-park |
 | Kalpataru Jade Skyline – 5 | Baner | 2 BHK | ₹1.84 Cr | Under Construction | `P52100033791` | https://propsmart.co.in/project/kalpataru-jade-skyline |
 | Kalpataru Jade Residences – Tower -H | Baner | 3 BHK, 4 BHK | ₹1.95 Cr - ₹4.50 Cr | Under Construction | `P52100046423` | https://propsmart.co.in/project/kalpataru-jade-residences |
-| Kalpataru Blossoms | Anand Nagar | 2 BHK | ₹1.56 Cr - ₹1.70 Cr | Under Construction | `P52100077659` | https://propsmart.co.in/project/kalpataru-blossoms |
+| Kalpataru Blossoms | Anand Nagar | 2 BHK, 3 BHK, 4 BHK | ₹1.56 Cr - ₹5.25 Cr | Under Construction | `P52100077659` | https://propsmart.co.in/project/kalpataru-blossoms |
 | Sobha Nesara | Kothrud | 3 BHK, 4 BHK | ₹3.60 Cr - ₹5.55 Cr | Under Construction | `P52100020057` | https://propsmart.co.in/project/sobha-nesara |
-| Sobha Nesara Block 3 | Kothrud | 3 BHK, 4 BHK | ₹3.60 Cr - ₹5.55 Cr | Under Construction | `P52100020062` | https://propsmart.co.in/project/sobha-nesara-block-3 |
-| Prasiddhi Tatavam Residency | Ravet | 1 BHK, 2 BHK | ₹57.96 L - ₹95.00 L | Under Construction | `P52100046041` | https://propsmart.co.in/project/prasiddhi-tatavam-residency |
+| Sobha Nesara Block 3 | Kothrud | 3 BHK, 3.5 BHK, 4 BHK, 4.5 BHK | ₹2.81 Cr - ₹4.10 Cr | Under Construction | `P52100020062` | https://propsmart.co.in/project/sobha-nesara-block-3 |
+| Prasiddhi Tatavam Residency | Ravet | 1 BHK, 2 BHK, 3 BHK | ₹57.96 L - ₹1.39 Cr | Under Construction | `P52100046041` | https://propsmart.co.in/project/prasiddhi-tatavam-residency |
 | Sense 66 By TATA Value Homes | Talegaon Dabhade | 1 BHK, 2 BHK | ₹27.00 L - ₹60.00 L | Under Construction | `P52100033265` | https://propsmart.co.in/project/sense-66-by-tata-value-homes |
 | Lodha Camelot | Kharadi | 3 BHK, 4 BHK | ₹1.50 Cr - ₹2.62 Cr | Under Construction | `P52100052981` | https://propsmart.co.in/project/lodha-camelot-kharadi |
 | Lodha Altero | Wakad | 2 BHK, 3 BHK | ₹1.06 Cr - ₹1.62 Cr | Under Construction | `P52100054112` | https://propsmart.co.in/project/lodha-altero-wakad |
@@ -634,7 +634,7 @@ This document contains the complete, unabridged real estate database of verified
 | Shapoorji Pallonji Vyomora | Hinjewadi | 2 BHK, 3 BHK | ₹78.00 L - ₹1.12 Cr | Under Construction | `P52100052980` | https://propsmart.co.in/project/shapoorji-vyomora-hinjewadi |
 | Shapoorji Pallonji Vanaha Golfland | Bavdhan | 2 BHK, 3 BHK, 4 BHK | ₹1.48 Cr - ₹2.75 Cr | Under Construction | `P52100052376` | https://propsmart.co.in/project/shapoorji-vanaha-golfland-bavdhan |
 | Shapoorji Pallonji Vanaha Springs | Bavdhan | 1 BHK, 2 BHK, 3 BHK | ₹47.50 L - ₹1.21 Cr | Ready to Move | `P52100030065` | https://propsmart.co.in/project/shapoorji-vanaha-springs-bavdhan |
-| Shapoorji Pallonji BKC 28 | Bandra East | 2 BHK, 4 BHK | ₹2.23 Cr - ₹2.49 Cr | Ready to Move | `P51800028474` | https://propsmart.co.in/project/shapoorji-bkc-28-bandra-east |
+| Shapoorji Pallonji BKC 28 | Bandra East | 2 BHK, 4 BHK Jodi | ₹2.23 Cr - ₹4.98 Cr | Ready to Move | `P51800028474` | https://propsmart.co.in/project/shapoorji-bkc-28-bandra-east |
 | The Odyssey by Shapoorji Pallonji | Marine Drive | 3 BHK, 3.5 BHK, 4 BHK | ₹10.59 Cr - ₹18.43 Cr | Under Construction | `P51900050998` | https://propsmart.co.in/project/shapoorji-the-odyssey-marine-drive |
 | Shapoorji Pallonji Vicinia | Powai | 2 BHK, 3 BHK, 3.5 BHK | ₹2.30 Cr - ₹4.63 Cr | Ready to Move | `P51800002564` | https://propsmart.co.in/project/shapoorji-vicinia-powai |
 | Northern Lights by Shapoorji Pallonji | Thane West | 2 BHK, 3 BHK, 4 BHK | ₹1.81 Cr - ₹4.82 Cr | Under Construction | `P51700019864` | https://propsmart.co.in/project/shapoorji-northern-lights-thane |

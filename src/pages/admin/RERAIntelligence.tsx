@@ -113,7 +113,7 @@ const RERAIntelligence: React.FC = () => {
                                 MahaRERA Multi-Channel Intelligence Engine
                             </h1>
                             <p className="text-slate-300 text-sm sm:text-base mt-2 max-w-2xl leading-relaxed">
-                                Continuous real-time reconciliation across 6 intelligent channels: Official Authority Master Records, Developer Statutory Disclosures, MahaRERA 2.0 Clickable QRs, AI Linguistic Alignment, Final All-Inclusive Consumer Pricing, and LegiScore Bank-Grade Title & CERSAI Hypothecation Audit.
+                                Continuous real-time reconciliation across 6 intelligent channels: Official Authority Master Records, Developer Statutory Disclosures, MahaRERA 2.0 Clickable QRs, AI Linguistic Alignment, All-Inclusive Consumer Pricing, and LegiScore Bank-Grade Title & CERSAI Hypothecation Audit.
                             </p>
                         </div>
                         <div className="flex flex-wrap items-center gap-3">
@@ -194,7 +194,7 @@ const RERAIntelligence: React.FC = () => {
                                 C4 & C5: Pricing
                             </div>
                             <div className="text-2xl font-black text-amber-400 mt-1">{auditData.compliancePercentage}%</div>
-                            <div className="text-[11px] text-amber-300 mt-1">Final All-Inclusive</div>
+                            <div className="text-[11px] text-amber-300 mt-1">All-Inclusive</div>
                         </div>
 
                         <div className="bg-slate-800/80 border border-slate-700/60 rounded-xl p-3.5 backdrop-blur-sm">
@@ -346,7 +346,7 @@ const RERAIntelligence: React.FC = () => {
                                                     C4
                                                 </span>
                                                 <span 
-                                                    title="Channel 5: Final All-Inclusive Price Transparency"
+                                                    title="Channel 5: All-Inclusive Price Transparency"
                                                     className="w-5 h-5 rounded-full bg-amber-100 text-amber-700 text-[10px] font-black flex items-center justify-center cursor-help"
                                                 >
                                                     C5
