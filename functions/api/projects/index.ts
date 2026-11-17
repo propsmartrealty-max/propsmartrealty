@@ -107,9 +107,21 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
             .bind(...params)
             .all();
 
-        // Parse JSON fields
+        // Parse JSON fields and normalize snake_case DB columns to Project interface
         const formatted = (results || []).map((row: any) => ({
             ...row,
+            builderId: row.builder_id || row.builderId,
+            priceRange: row.price_range || row.priceRange || 'On Request',
+            exactPrice: row.exact_price || row.exactPrice,
+            heroImage: row.hero_image || row.heroImage,
+            masterLayout: row.master_layout || row.masterLayout,
+            possessionDate: row.possession_date || row.possessionDate,
+            reraId: row.rera_id || row.reraId,
+            pricePerSqft: row.price_per_sqft || row.pricePerSqft,
+            verificationStatus: row.verification_status || row.verificationStatus,
+            verificationSource: row.verification_source || row.verificationSource,
+            metaDescription: row.meta_description || row.metaDescription,
+            seoKeywords: typeof row.seo_keywords === 'string' ? safeJsonParse(row.seo_keywords, []) : row.seo_keywords,
             configurations: typeof row.configurations === 'string' ? safeJsonParse(row.configurations, []) : row.configurations,
             features: typeof row.features === 'string' ? safeJsonParse(row.features, []) : row.features,
             amenities: typeof row.amenities === 'string' ? safeJsonParse(row.amenities, []) : row.amenities,

@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest';
 import { render, screen } from '@testing-library/react';
-import { getAllInclusivePricing, getFinalCarpetAreaOnly } from '../utils/pricingUtils';
+import { getAllInclusivePricing, getFinalCarpetAreaOnly, parsePriceRangeInLakhs } from '../utils/pricingUtils';
 import CarpetAreaInfographic from '../components/Portal/Infographics/CarpetAreaInfographic';
 
 describe('Pricing and Carpet Area Audit Tests', () => {
@@ -23,6 +23,13 @@ describe('Pricing and Carpet Area Audit Tests', () => {
             const pricing = getAllInclusivePricing('₹1.85 Cr');
             expect(pricing.allInclusiveDisplay).toBe('₹1.85 Cr (All-Inclusive)');
             expect(pricing.allInclusiveRange).toBe('₹1.85 Cr');
+        });
+
+        it('robustly parses single prices and price ranges into Lakhs', () => {
+            expect(parsePriceRangeInLakhs('₹81.00 L - ₹1.06 Cr')).toEqual({ minLakhs: 81, maxLakhs: 106 });
+            expect(parsePriceRangeInLakhs('₹45.00 L')).toEqual({ minLakhs: 45, maxLakhs: 45 });
+            expect(parsePriceRangeInLakhs('₹3.25 Cr')).toEqual({ minLakhs: 325, maxLakhs: 325 });
+            expect(parsePriceRangeInLakhs('Price on Request')).toBeNull();
         });
     });
 

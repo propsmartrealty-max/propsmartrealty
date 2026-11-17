@@ -4,7 +4,6 @@ import { useQuery } from '@tanstack/react-query';
 import { useData } from '../context/DataContext';
 import { Project, Builder, Locality, ProjectConfiguration } from '../types';
 import { api } from '../services/api';
-import { PROJECTS } from '../data/mockData';
 import PortalNavbar from '../components/Portal/Navbar';
 import Breadcrumbs from '../components/Portal/Breadcrumbs';
 import TrustScore from '../components/Portal/TrustScore';
@@ -137,7 +136,7 @@ const ProjectDetails = () => {
 
     // Fast synchronous local resolution from memory (0ms latency):
     const localProject = useMemo(() => {
-        return resolveProjectFromList(slug, projects) || resolveProjectFromList(slug, PROJECTS);
+        return resolveProjectFromList(slug, projects);
     }, [slug, projects]);
 
     // Query single project by slug from API if not yet loaded in context or to sync latest Cloudflare D1 updates

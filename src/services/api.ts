@@ -1,6 +1,7 @@
 import { Project, Builder, ProjectConfiguration } from '../types';
 import { mapProjectFromDb, mapBuilderFromDb } from '../utils/mapper';
 import { PROJECTS, BUILDERS } from '../data/mockData';
+import { parsePriceRangeInLakhs } from '../utils/pricingUtils';
 
 const PAGE_SIZE = 10;
 
@@ -98,23 +99,44 @@ function filterProjectsLocally(page: number, filters: ProjectFilters = {}) {
 
     if (filters.budget && filters.budget.length > 0) {
         list = list.filter(p => {
-            const price = (p.priceRange || p.exactPrice || '').toLowerCase();
-            for (const b of filters.budget!) {
-                const bLower = b.toLowerCase();
-                if (bLower === '< 50 l' || bLower === 'under-50' || bLower === '< 60 l' || bLower === '50l') {
-                    if (price.includes('3') || price.includes('4') || price.includes('50') || price.includes('45') || price.includes('52') || price.includes('lakh') || price.includes('lac')) return true;
+            const range = parsePriceRangeInLakhs(p.exactPrice || p.priceRange);
+            if (!range) return false;
+            const { minLakhs, maxLakhs } = range;
+
+            return filters.budget!.some(b => {
+                const bLower = b.toLowerCase().trim();
+                // Under 50L / 60L
+                if (bLower === '< 50 l' || bLower === 'under-50' || bLower === '< 60 l' || bLower === '50l' || bLower.includes('< 50') || bLower.includes('under 50')) {
+                    return minLakhs < 60;
                 }
-                if (bLower === '60 l - 1 cr' || bLower === '50-100' || bLower === '< 75 l' || bLower === '< 1 cr' || bLower === '1cr') {
-                    if (price.includes('6') || price.includes('7') || price.includes('8') || price.includes('9') || price.includes('1cr') || price.includes('1.') || price.includes('lakh') || price.includes('lac')) return true;
+                // 50L/60L - 1 Cr
+                if (bLower === '60 l - 1 cr' || bLower === '50-100' || bLower === '< 75 l' || bLower === '< 1 cr' || bLower === '1cr' || bLower.includes('60 l - 1 cr') || bLower.includes('50 l - 1 cr')) {
+                    return minLakhs <= 100 && maxLakhs >= 50;
                 }
-                if (bLower === '1 cr - 2 cr' || bLower === '100-200' || bLower === '< 1.5 cr' || bLower === '< 2 cr' || bLower === '1.5cr') {
-                    if (price.includes('1.') || price.includes('2.0') || price.includes('2 cr') || price.includes('cr')) return true;
+                // 1 Cr - 2 Cr
+                if (bLower === '1 cr - 2 cr' || bLower === '100-200' || bLower === '< 1.5 cr' || bLower === '< 2 cr' || bLower === '1.5cr' || bLower.includes('1 cr - 2 cr')) {
+                    return minLakhs <= 200 && maxLakhs >= 100;
                 }
-                if (bLower === '> 2 cr' || bLower === 'above-200' || bLower === '2cr+' || bLower === 'luxury') {
-                    if (price.includes('2.') || price.includes('3.') || price.includes('4.') || price.includes('5.') || price.includes('6.') || price.includes('7.') || price.includes('8.') || price.includes('9.') || price.includes('10.')) return true;
+                // Above 2 Cr
+                if (bLower === '> 2 cr' || bLower === 'above-200' || bLower === '2cr+' || bLower === 'luxury' || bLower.includes('> 2 cr') || bLower.includes('above 2 cr')) {
+                    return maxLakhs >= 200;
                 }
-            }
-            return false;
+                return false;
+            });
+        });
+    }
+
+    if (typeof filters.minPrice === 'number' && filters.minPrice > 0) {
+        list = list.filter(p => {
+            const range = parsePriceRangeInLakhs(p.exactPrice || p.priceRange);
+            return range ? range.maxLakhs >= filters.minPrice! : false;
+        });
+    }
+
+    if (typeof filters.maxPrice === 'number' && filters.maxPrice > 0) {
+        list = list.filter(p => {
+            const range = parsePriceRangeInLakhs(p.exactPrice || p.priceRange);
+            return range ? range.minLakhs <= filters.maxPrice! : false;
         });
     }
 

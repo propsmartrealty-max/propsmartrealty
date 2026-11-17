@@ -44,6 +44,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
             verificationSource: project.verification_source,
             seoKeywords: typeof project.seo_keywords === 'string' ? safeJsonParse(project.seo_keywords, []) : project.seo_keywords,
             metaDescription: project.meta_description,
+            configurationDetails: typeof project.configuration_details === 'string' ? safeJsonParse(project.configuration_details, []) : project.configuration_details,
             configurations: typeof project.configurations === 'string' ? safeJsonParse(project.configurations, []) : project.configurations,
             features: typeof project.features === 'string' ? safeJsonParse(project.features, []) : project.features,
             specs: typeof project.specs === 'string' ? safeJsonParse(project.specs, {}) : project.specs,

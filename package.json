@@ -13,6 +13,7 @@
     "index:now": "node scripts/submit-indexnow.mjs",
     "index:google": "node scripts/submit-google-indexing.mjs",
     "d1:setup": "bash scripts/cf_d1_setup.sh",
+    "d1:sync:enterprise": "wrangler d1 execute propsmart-d1 --remote --file=migrations/0008_full_enterprise_catalog_sync.sql",
     "d1:migrate:local": "wrangler d1 execute propsmart-d1 --local --file=schema.sql",
     "d1:migrate:remote": "wrangler d1 execute propsmart-d1 --remote --file=schema.sql",
     "deploy:cf": "npm run build && wrangler pages deploy dist",

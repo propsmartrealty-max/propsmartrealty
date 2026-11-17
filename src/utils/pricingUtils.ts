@@ -34,6 +34,33 @@ export const parsePriceInLakhs = (priceStr?: string): number | null => {
 };
 
 /**
+ * Robustly parses a price string (single or range) into min and max in Lakhs.
+ * e.g. "₹81.00 L - ₹1.06 Cr" -> { minLakhs: 81, maxLakhs: 106 }
+ * e.g. "₹45.00 L" -> { minLakhs: 45, maxLakhs: 45 }
+ */
+export const parsePriceRangeInLakhs = (priceStr?: string): { minLakhs: number; maxLakhs: number } | null => {
+    if (!priceStr || typeof priceStr !== 'string') return null;
+    if (priceStr.toLowerCase().includes('request') || priceStr.toLowerCase().includes('call')) return null;
+
+    if (priceStr.includes(' - ')) {
+        const parts = priceStr.split(' - ').map(s => s.trim());
+        if (parts.length === 2) {
+            const min = parsePriceInLakhs(parts[0]);
+            const max = parsePriceInLakhs(parts[1]);
+            if (min !== null && max !== null) {
+                return { minLakhs: Math.min(min, max), maxLakhs: Math.max(min, max) };
+            }
+        }
+    }
+
+    const single = parsePriceInLakhs(priceStr);
+    if (single !== null) {
+        return { minLakhs: single, maxLakhs: single };
+    }
+    return null;
+};
+
+/**
  * Formats a value in Lakhs back into standard Indian Real Estate currency ("₹81.00 L" or "₹1.06 Cr").
  */
 export const formatLakhsToCurrency = (lakhs: number): string => {

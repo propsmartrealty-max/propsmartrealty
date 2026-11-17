@@ -10,7 +10,6 @@ import PropertyCard from '../components/Portal/PropertyCard';
 import { PropertyCardSkeleton, ErrorState } from '../components/UI/LoadingSkeleton';
 import { useQuery } from '@tanstack/react-query';
 import { api } from '../services/api';
-import { PROJECTS } from '../data/mockData';
 import PriceTrendChart from '../components/Portal/MarketIntelligence/PriceTrendChart';
 import { getLocalityImageUrl, PROPSMART_LOCALITIES } from '../utils/localityUtils';
 import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
@@ -66,7 +65,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({
     const filterType = forcedType || queryParams.get('type') || '';
 
     // Phase 5: Get Locality Data for Market Intelligence
-    const { localities } = useData();
+    const { localities, projects: fallbackProjects } = useData();
     const currentLocality = localities.find(l => 
         l.name.toLowerCase() === filterLoc.toLowerCase() ||
         (filterLoc && l.name.toLowerCase().includes(filterLoc.toLowerCase()))
@@ -130,7 +129,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({
 
     const projects = (data?.data && data.data.length > 0)
         ? data.data
-        : (isLoading ? [] : (error ? PROJECTS : (data?.data || [])));
+        : (isLoading ? [] : (error ? fallbackProjects : (data?.data || [])));
     const totalPages = data?.totalPages || 1;
 
     const sortedProjects = React.useMemo(() => {

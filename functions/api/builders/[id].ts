@@ -52,7 +52,8 @@ export const onRequestPut: PagesFunction<Env> = async (context) => {
                 is_verified = COALESCE(?, is_verified),
                 mobile = COALESCE(?, mobile),
                 experience = COALESCE(?, experience),
-                locations = COALESCE(?, locations)
+                locations = COALESCE(?, locations),
+                website = COALESCE(?, website)
             WHERE id = ? OR slug = ?
         `;
 
@@ -70,6 +71,7 @@ export const onRequestPut: PagesFunction<Env> = async (context) => {
             body.mobile ?? null,
             body.experience ?? null,
             body.locations ? JSON.stringify(body.locations) : null,
+            body.website ?? null,
             id,
             id
         ).run();

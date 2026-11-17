@@ -1,5 +1,6 @@
 import React from 'react';
 import { useData } from '../context/DataContext';
+import { parsePriceRangeInLakhs } from '../utils/pricingUtils';
 import PortalNavbar from '../components/Portal/Navbar';
 import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
@@ -22,7 +23,10 @@ const Home = () => {
     // Group projects for rails
     const newLaunches = projects.filter(p => p.status === 'New Launch');
     const readyToMove = projects.filter(p => p.status === 'Ready to Move');
-    const luxuryProjects = projects.filter(p => p.priceRange.includes('Cr'));
+    const luxuryProjects = projects.filter(p => {
+        const range = parsePriceRangeInLakhs(p.exactPrice || p.priceRange);
+        return range ? range.maxLakhs >= 150 : Boolean(p.priceRange && p.priceRange.includes('Cr'));
+    });
 
     // City-Wise and Developer Specific Collections
     const vtpProjects = projects.filter(p => p.builderId === 'b-vtp');

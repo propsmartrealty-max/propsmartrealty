@@ -24,11 +24,8 @@ const PriceTrendChart: React.FC<PriceTrendChartProps> = ({ locationName, current
 
         // Generate 5 years back + current year
         for (let i = 5; i >= 0; i--) {
-            // Formula: Previous = Current / (1 + rate)^year
-            // But here we want the "past value" that would result in current value at this rate.
-            // Value = Present / ((1 + rate/100) ^ years_back)
             const year = currentYear - i;
-            const projectedPrice = Math.round(priceValue / Math.pow(1 + (appreciationRate / 100), i));
+            const projectedPrice = Math.round(priceValue / Math.pow(1 + (effectiveRate / 100), i));
 
             history.push({
                 year: year,
@@ -36,7 +33,7 @@ const PriceTrendChart: React.FC<PriceTrendChartProps> = ({ locationName, current
             });
         }
         return history;
-    }, [priceValue, appreciationRate]);
+    }, [priceValue, effectiveRate]);
 
     const formatCurrency = (value: number) => {
         return `₹${value.toLocaleString('en-IN')}`;

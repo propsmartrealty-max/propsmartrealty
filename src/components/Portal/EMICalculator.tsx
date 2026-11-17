@@ -1,18 +1,16 @@
 
 import React, { useState, useMemo } from 'react';
 import { IndianRupee } from 'lucide-react';
+import { parsePriceInLakhs } from '../../utils/pricingUtils';
 
 const EMICalculator = ({ priceRange }: { priceRange: string }) => {
-    // Parse base price from string (e.g., "65 L - 1.5 Cr") -> default to 6500000
-    const parsePrice = (priceStr: string) => {
-        const match = priceStr.match(/(\d+\.?\d*)\s*(L|Cr)/i);
-        if (!match) return 5000000;
-        const val = parseFloat(match[1]);
-        const unit = match[2];
-        return unit === 'Cr' ? val * 10000000 : val * 100000;
-    };
+    // Parse base price from string using standard parser
+    const initialPrice = useMemo(() => {
+        const lakhs = parsePriceInLakhs(priceRange);
+        return lakhs ? Math.round(lakhs * 100000) : 5000000;
+    }, [priceRange]);
 
-    const [loanAmount, setLoanAmount] = useState(parsePrice(priceRange));
+    const [loanAmount, setLoanAmount] = useState(initialPrice);
     const [interestRate, setInterestRate] = useState(8.5);
     const [tenure, setTenure] = useState(20);
 

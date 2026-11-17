@@ -86,7 +86,8 @@ export const mapProjectFromDb = (data: any): Project => {
         brochureUrl: data.brochure_url || data.brochureUrl || '',
         verificationStatus: data.verification_status || data.verificationStatus,
         pricePerSqft: data.price_per_sqft || data.pricePerSqft,
-        verificationSource: data.verification_source || data.verificationSource
+        verificationSource: data.verification_source || data.verificationSource,
+        website: data.website || data.websiteUrl || undefined
     };
 };
 
@@ -110,7 +111,8 @@ export const mapBuilderToDb = (builder: Partial<Builder>) => {
         total_projects: totalProjects,
         ongoing_projects: ongoingProjects,
         trust_score: trustScore,
-        is_verified: isVerified
+        is_verified: isVerified,
+        website: builder.website
     };
 };
 
@@ -126,6 +128,7 @@ export const mapBuilderFromDb = (data: any): Builder => {
         totalProjects: data.total_projects || data.totalProjects,
         ongoingProjects: data.ongoing_projects || data.ongoingProjects,
         trustScore: data.trust_score || data.trustScore,
-        isVerified: data.is_verified || data.isVerified
+        isVerified: data.is_verified || data.isVerified,
+        website: data.website || undefined
     };
 };
