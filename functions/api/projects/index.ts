@@ -24,6 +24,23 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
             .map(token => `"${token}"*`)
             .join(' ');
 
+        // Cloudflare Workers KV Cache Key
+        const kvCacheKey = `projects:${city || 'all'}:${type || 'all'}:${status || 'all'}:${config || 'all'}:${page}:${limit}`;
+        if (!cleanFtsQuery && context.env.PRICE_KV) {
+            try {
+                const cached = await context.env.PRICE_KV.get(kvCacheKey, 'json');
+                if (cached) {
+                    return jsonResponse(cached, 200, {
+                        'Cache-Control': 'public, max-age=120, s-maxage=3600, stale-while-revalidate=86400',
+                        'X-Edge-Engine': 'Cloudflare-KV-Edge-Cache',
+                        'X-Cache-Status': 'HIT'
+                    });
+                }
+            } catch {
+                // KV lookup failure, fall through to D1
+            }
+        }
+
         let sql = '';
         let countSql = '';
         const params: any[] = [];
@@ -104,16 +121,27 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
             faqs: typeof row.faqs === 'string' ? safeJsonParse(row.faqs, []) : row.faqs,
         }));
 
-        return jsonResponse({
+        const payload = {
             data: formatted,
             total,
             page,
             limit,
             totalPages: Math.ceil(total / limit) || 1,
             engine: cleanFtsQuery ? 'Cloudflare-D1-FTS5-BM25' : 'Cloudflare-D1-Indexed'
-        }, 200, {
+        };
+
+        if (!cleanFtsQuery && context.env.PRICE_KV) {
+            try {
+                context.waitUntil(context.env.PRICE_KV.put(kvCacheKey, JSON.stringify(payload), { expirationTtl: 3600 }));
+            } catch {
+                // Ignore background caching error
+            }
+        }
+
+        return jsonResponse(payload, 200, {
             'Cache-Control': 'public, max-age=60, s-maxage=300, stale-while-revalidate=86400',
-            'X-Edge-Engine': 'Cloudflare-D1-Enterprise-FTS5'
+            'X-Edge-Engine': 'Cloudflare-D1-Enterprise-FTS5',
+            'X-Cache-Status': 'MISS'
         });
     } catch (err: any) {
         return jsonResponse({ error: 'Failed to query projects', details: err.message }, 500);

@@ -1,8 +1,16 @@
 // Cloudflare Pages Function: /api/auth/login
-import { Env, jsonResponse, ADMIN_SECRET_DEFAULT, bytesToHex } from '../_middleware';
+import { Env, jsonResponse, ADMIN_SECRET_DEFAULT, bytesToHex, checkRateLimit } from '../_middleware';
 
 export const onRequestPost: PagesFunction<Env> = async (context) => {
     try {
+        const clientIp = context.request.headers.get('CF-Connecting-IP') || context.request.headers.get('x-forwarded-for') || '127.0.0.1';
+        
+        // Cloudflare KV Edge Rate Limiter: Max 5 login attempts per IP per 15 minutes
+        const rateCheck = await checkRateLimit(clientIp, 'admin_login', 5, 900, context.env);
+        if (!rateCheck.allowed) {
+            return jsonResponse({ error: 'Too many login attempts. Please wait 15 minutes before trying again.' }, 429);
+        }
+
         const body: any = await context.request.json();
         const { email, password } = body;
 

@@ -5,6 +5,7 @@ export async function onRequest(context: {
     env: { 
         ASSETS: { fetch: (req: Request | string) => Promise<Response> };
         DB?: D1Database;
+        SEO_KV?: KVNamespace;
     }; 
     next: () => Promise<Response> 
 }) {

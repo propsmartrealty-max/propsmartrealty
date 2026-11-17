@@ -1,5 +1,5 @@
 // Cloudflare Pages Function: /api/leads
-import { Env, jsonResponse, verifyAdminToken, verifyTurnstile } from '../_middleware';
+import { Env, jsonResponse, verifyAdminToken, verifyTurnstile, checkRateLimit } from '../_middleware';
 
 export const onRequestGet: PagesFunction<Env> = async (context) => {
     const isAuthorized = await verifyAdminToken(context.request, context.env);
@@ -44,9 +44,15 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
 export const onRequestPost: PagesFunction<Env> = async (context) => {
     try {
         const body: any = await context.request.json();
-        const clientIp = context.request.headers.get('CF-Connecting-IP') || context.request.headers.get('x-forwarded-for');
+        const clientIp = context.request.headers.get('CF-Connecting-IP') || context.request.headers.get('x-forwarded-for') || '127.0.0.1';
         const userAgent = context.request.headers.get('User-Agent') || '';
         const turnstileToken = context.request.headers.get('cf-turnstile-token') || body.turnstileToken;
+
+        // Cloudflare KV Edge Rate Limiter: Max 5 leads per IP per 10 minutes
+        const rateCheck = await checkRateLimit(clientIp, 'lead_submit', 5, 600, context.env);
+        if (!rateCheck.allowed) {
+            return jsonResponse({ error: 'Too many submissions. Please wait a few minutes before submitting another inquiry.' }, 429);
+        }
 
         // If Turnstile secret is configured, enforce bot defense
         if (context.env.TURNSTILE_SECRET_KEY) {

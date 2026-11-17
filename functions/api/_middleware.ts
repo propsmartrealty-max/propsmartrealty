@@ -2,15 +2,43 @@
 
 export interface Env {
     DB: D1Database;
-    ASSETS_BUCKET: R2Bucket;
+    ASSETS_BUCKET?: R2Bucket;
+    SEO_KV?: KVNamespace;
+    PRICE_KV?: KVNamespace;
+    CRON_KV?: KVNamespace;
+    AI?: any;
     ENVIRONMENT?: string;
     ADMIN_SECRET?: string;
+    ADMIN_BOOTSTRAP_PASSWORD?: string;
     TURNSTILE_SECRET_KEY?: string;
     CORS_ALLOW_ORIGIN?: string;
     LEAD_NOTIFICATION_WEBHOOK?: string;
 }
 
 export const ADMIN_SECRET_DEFAULT = 'propsmart_realty_cf_edge_secret_key_2026';
+
+// Cloudflare Workers KV Edge Rate Limiter
+export async function checkRateLimit(
+    ip: string | null,
+    action: string,
+    limit: number,
+    windowSeconds: number,
+    env: Env
+): Promise<{ allowed: boolean; remaining: number }> {
+    if (!ip || !env.CRON_KV) return { allowed: true, remaining: limit };
+    const key = `ratelimit:${action}:${ip}`;
+    try {
+        const currentCountStr = await env.CRON_KV.get(key);
+        const count = currentCountStr ? parseInt(currentCountStr) : 0;
+        if (count >= limit) {
+            return { allowed: false, remaining: 0 };
+        }
+        await env.CRON_KV.put(key, (count + 1).toString(), { expirationTtl: windowSeconds });
+        return { allowed: true, remaining: limit - count - 1 };
+    } catch {
+        return { allowed: true, remaining: limit };
+    }
+}
 
 // Helper: JSON response with standard security headers
 export function jsonResponse(data: any, status = 200, extraHeaders: Record<string, string> = {}) {

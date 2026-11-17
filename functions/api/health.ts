@@ -55,6 +55,16 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
             service: 'Cloudflare R2 Direct Storage',
             status: context.env.ASSETS_BUCKET ? 'connected' : 'not_bound'
         },
+        kvEdgeCaching: {
+            service: 'Cloudflare Workers KV Edge Accelerator',
+            seoKv: context.env.SEO_KV ? 'connected' : 'unbound',
+            priceKv: context.env.PRICE_KV ? 'connected' : 'unbound',
+            cronKv: context.env.CRON_KV ? 'connected' : 'unbound'
+        },
+        workersAI: {
+            service: 'Cloudflare Workers AI Serverless Edge',
+            status: context.env.AI ? 'active' : 'unbound'
+        },
         security: {
             turnstile: Boolean(context.env.TURNSTILE_SECRET_KEY),
             hardenedHeaders: true,

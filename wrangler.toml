@@ -11,6 +11,23 @@ database_name = "propsmart-d1"
 database_id = "71bf05aa-03b7-4db2-8377-6000f5b1151a"
 migrations_dir = "migrations"
 
+# Cloudflare Workers KV Namespaces (High-Speed Edge Caching)
+[[kv_namespaces]]
+binding = "SEO_KV"
+id = "669410c9fc60402b8cdf6952288017c1"
+
+[[kv_namespaces]]
+binding = "PRICE_KV"
+id = "fae686bae1d44dc9a43b13a8eda1513c"
+
+[[kv_namespaces]]
+binding = "CRON_KV"
+id = "b9f2061da71a4d05af72da2cef15aa7a"
+
+# Cloudflare Workers AI (Serverless LLM on Edge)
+[ai]
+binding = "AI"
+
 # Cloudflare R2 Object Storage (Uncomment once enabled in Cloudflare Dashboard)
 # [[r2_buckets]]
 # binding = "ASSETS_BUCKET"
