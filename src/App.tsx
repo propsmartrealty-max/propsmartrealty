@@ -5,6 +5,7 @@ import { Loader2 } from 'lucide-react';
 import { DataProvider } from './context/DataContext';
 import ScrollToTop from './components/ScrollToTop';
 import CompareFloatingBar from './components/Portal/CompareFloatingBar';
+import MobileBottomNav from './components/Portal/MobileBottomNav';
 
 // Lazy Load Pages
 const Home = React.lazy(() => import('./pages/Home'));
@@ -246,6 +247,7 @@ function App() {
                             <Toaster position="top-center" />
                             <React.Suspense fallback={<LoadingFallback />}>
                                 <CompareFloatingBar />
+                                <MobileBottomNav />
                                 <Routes>
                                     <Route path="/" element={<Home />} />
                                     <Route path="/search" element={<SearchResults />} />

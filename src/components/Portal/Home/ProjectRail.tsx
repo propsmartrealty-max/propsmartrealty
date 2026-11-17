@@ -74,11 +74,11 @@ const ProjectRail: React.FC<ProjectRailProps> = ({
 
                 <div 
                     ref={railRef}
-                    className="flex gap-6 overflow-x-auto no-scrollbar pb-6 snap-x snap-mandatory scroll-pl-4 scroll-smooth"
+                    className="flex gap-4 sm:gap-6 overflow-x-auto no-scrollbar pb-6 snap-x snap-mandatory scroll-pl-4 scroll-smooth touch-momentum"
                     style={{ WebkitOverflowScrolling: 'touch' }}
                 >
                     {railProjects.map((project) => (
-                        <div key={project.id} className="min-w-[310px] sm:min-w-[340px] md:min-w-[360px] snap-center">
+                        <div key={project.id} className="min-w-[280px] sm:min-w-[340px] md:min-w-[360px] snap-center shrink-0">
                             <PropertyCard project={project} variant="grid" />
                         </div>
                     ))}

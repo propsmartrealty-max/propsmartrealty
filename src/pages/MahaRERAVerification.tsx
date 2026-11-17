@@ -86,7 +86,7 @@ const MahaRERAVerification: React.FC = () => {
     };
 
     return (
-        <div className="min-h-screen bg-gradient-to-b from-slate-900 via-slate-950 to-slate-900 text-slate-100">
+        <div className="min-h-screen bg-gradient-to-b from-slate-900 via-slate-950 to-slate-900 text-slate-100 pb-20 md:pb-0">
             <SEO
                 title="MahaRERA Project Verification Tool | Official MahaRERA Number Check"
                 description="Verify any MahaRERA registration number directly on the official Maharashtra Real Estate Regulatory Authority portal. Check CC certificates, approved layout plans, and legal title reports."

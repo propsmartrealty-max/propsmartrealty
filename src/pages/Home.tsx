@@ -98,7 +98,7 @@ const Home = () => {
     }
 
     return (
-        <div className="min-h-screen bg-slate-50/70 font-sans selection:bg-sky-500 selection:text-white relative">
+        <div className="min-h-screen bg-slate-50/70 font-sans selection:bg-sky-500 selection:text-white relative pb-20 md:pb-0">
             <WaterAmbientBackground variant="vibrant" />
             <SEO
                 title="Propsmart Realty | 100% Brokerage Free Flats in Pune & Mumbai"

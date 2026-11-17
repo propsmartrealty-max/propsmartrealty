@@ -167,6 +167,8 @@ const SearchResults: React.FC<SearchResultsProps> = ({
         setPage(1);
     };
 
+    const activeFilterCount = (selectedCity && selectedCity !== 'All' ? 1 : 0) + selectedConfigs.length + selectedBudgets.length + selectedTypes.length;
+
     const activeCity = selectedCity !== 'All' ? selectedCity : 'Pune';
     const activeCityOrLoc = filterLoc || activeCity;
     const isCityLanding = !filterLoc && selectedCity !== 'All';
@@ -304,7 +306,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({
     const shouldNoIndex = isGenericSearch && Boolean(rawQuery || queryParams.get('sort') || queryParams.get('filter'));
 
     return (
-        <div className="min-h-screen bg-slate-50/70 flex flex-col relative">
+        <div className="min-h-screen bg-slate-50/70 flex flex-col relative pb-20 md:pb-0">
             <WaterAmbientBackground />
             <SEO
                 title={seoTitle}
@@ -421,33 +423,54 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                 </div>
 
                 {/* View Toggles & Filters */}
-                <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
+                <div className="flex items-center justify-between gap-3 mb-6">
+                    {/* Mobile Filter Button */}
                     <button
-                        className="md:hidden w-full flex items-center justify-center gap-2 bg-white p-3 rounded-lg shadow-sm font-semibold text-slate-700 border border-slate-200"
-                        onClick={() => setShowFilters(!showFilters)}
+                        type="button"
+                        className="md:hidden flex-1 flex items-center justify-center gap-2 bg-white/90 backdrop-blur-md px-4 py-2.5 rounded-xl shadow-xs font-bold text-xs text-slate-800 border border-slate-200/90 active:scale-95 transition-all"
+                        onClick={() => setShowFilters(true)}
                     >
-                        <Filter className="w-5 h-5" /> {showFilters ? 'Hide Filters' : 'Show Filters'}
+                        <Filter className="w-4 h-4 text-sky-600" />
+                        <span>Filters</span>
+                        {activeFilterCount > 0 && (
+                            <span className="bg-sky-600 text-white text-[10px] font-black px-1.5 py-0.5 rounded-full ml-1">
+                                {activeFilterCount}
+                            </span>
+                        )}
                     </button>
 
-                    <div className="hidden md:flex items-center gap-2 bg-white p-1 rounded-lg border border-slate-200 shadow-sm ml-auto">
+                    {/* View Mode Switcher (Visible on BOTH mobile and desktop) */}
+                    <div className="flex items-center gap-1 bg-white/90 backdrop-blur-md p-1 rounded-xl border border-slate-200/90 shadow-xs ml-auto">
                         <button
+                            type="button"
                             onClick={() => setViewMode('list')}
-                            className={`px-4 py-2 rounded-md text-sm font-bold transition-all ${viewMode === 'list' ? 'bg-brand-600 text-white shadow-sm' : 'text-slate-500 hover:text-slate-800'}`}
+                            className={`flex items-center gap-1.5 px-3 sm:px-4 py-2 rounded-lg text-xs font-black transition-all ${
+                                viewMode === 'list' || viewMode === 'grid'
+                                    ? 'bg-slate-900 text-white shadow-xs'
+                                    : 'text-slate-600 hover:text-slate-900'
+                            }`}
                         >
-                            List View
+                            <List className="w-3.5 h-3.5" />
+                            <span>List</span>
                         </button>
                         <button
+                            type="button"
                             onClick={() => setViewMode('map')}
-                            className={`px-4 py-2 rounded-md text-sm font-bold transition-all ${viewMode === 'map' ? 'bg-brand-600 text-white shadow-sm' : 'text-slate-500 hover:text-slate-800'}`}
+                            className={`flex items-center gap-1.5 px-3 sm:px-4 py-2 rounded-lg text-xs font-black transition-all ${
+                                viewMode === 'map'
+                                    ? 'bg-sky-600 text-white shadow-xs'
+                                    : 'text-slate-600 hover:text-slate-900'
+                            }`}
                         >
-                            Map View
+                            <Map className="w-3.5 h-3.5" />
+                            <span>Map</span>
                         </button>
                     </div>
                 </div>
 
                 <div className="flex flex-col md:flex-row gap-8">
-                    {/* Sidebar Filters */}
-                    <aside className={`w-full md:w-64 flex-shrink-0 ${showFilters ? 'block' : 'hidden md:block'}`}>
+                    {/* Desktop Sidebar Filters */}
+                    <aside className="hidden md:block w-64 flex-shrink-0">
                         <div className="bg-white p-6 rounded-xl shadow-sm border border-gray-100 sticky top-24">
                             <div className="flex items-center gap-2 mb-6 text-slate-800">
                                 <Filter className="w-5 h-5" />
@@ -526,6 +549,216 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                         ) : null}
 
                     </aside>
+
+                    {/* Mobile Filter Drawer (Bottom Sheet) */}
+                    {showFilters && (
+                        <div className="md:hidden fixed inset-0 z-50 flex flex-col justify-end">
+                            {/* Backdrop */}
+                            <div 
+                                className="absolute inset-0 bg-slate-950/60 backdrop-blur-xs transition-opacity animate-in fade-in duration-200"
+                                onClick={() => setShowFilters(false)}
+                            />
+
+                            {/* Drawer Panel */}
+                            <div className="relative bg-white rounded-t-3xl shadow-2xl max-h-[85vh] flex flex-col w-full z-10 animate-in slide-in-from-bottom duration-300">
+                                {/* Drawer Header */}
+                                <div className="px-5 pt-3 pb-3 border-b border-slate-100 flex flex-col">
+                                    <div className="w-10 h-1 bg-slate-200 rounded-full mx-auto mb-3" />
+                                    <div className="flex items-center justify-between">
+                                        <div className="flex items-center gap-2">
+                                            <Filter className="w-4 h-4 text-sky-600" />
+                                            <h3 className="font-extrabold text-base text-slate-900">Filters</h3>
+                                            {activeFilterCount > 0 && (
+                                                <span className="bg-sky-100 text-sky-700 text-xs font-black px-2 py-0.5 rounded-full">
+                                                    {activeFilterCount} active
+                                                </span>
+                                            )}
+                                        </div>
+                                        <button
+                                            type="button"
+                                            onClick={() => setShowFilters(false)}
+                                            className="p-1.5 bg-slate-100 hover:bg-slate-200 rounded-full text-slate-500 transition-colors"
+                                            aria-label="Close filters"
+                                        >
+                                            <X className="w-4 h-4" />
+                                        </button>
+                                    </div>
+                                </div>
+
+                                {/* Drawer Body (Scrollable) */}
+                                <div className="p-5 overflow-y-auto space-y-6 flex-1 touch-momentum">
+                                    {/* City Selection */}
+                                    <div>
+                                        <label className="block text-xs font-black text-sky-700 uppercase tracking-wider mb-2.5">City / Region</label>
+                                        <div className="flex flex-wrap gap-2">
+                                            {['All', 'Pune', 'Mumbai', 'Thane', 'Navi Mumbai', 'Lonavala', 'Alibaug', 'Karjat'].map(c => (
+                                                <button
+                                                    key={c}
+                                                    type="button"
+                                                    onClick={() => setSelectedCity(c)}
+                                                    className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-all ${
+                                                        selectedCity === c
+                                                            ? 'bg-slate-900 text-white shadow-xs'
+                                                            : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+                                                    }`}
+                                                >
+                                                    {c === 'All' ? 'All Cities' : c}
+                                                </button>
+                                            ))}
+                                        </div>
+                                    </div>
+
+                                    {/* Configurations */}
+                                    <div className="border-t border-slate-100 pt-4">
+                                        <label className="block text-xs font-black text-sky-700 uppercase tracking-wider mb-2.5">BHK Configuration</label>
+                                        <div className="grid grid-cols-2 gap-2">
+                                            {['1 BHK', '2 BHK', '3 BHK', '4 BHK', 'Row House'].map(c => {
+                                                const checked = selectedConfigs.includes(c);
+                                                return (
+                                                    <button
+                                                        key={c}
+                                                        type="button"
+                                                        onClick={() => toggleFilter(c, selectedConfigs, setSelectedConfigs)}
+                                                        className={`px-3 py-2 rounded-xl text-xs font-bold flex items-center justify-between border transition-all ${
+                                                            checked
+                                                                ? 'bg-sky-50 border-sky-300 text-sky-800'
+                                                                : 'bg-slate-50/80 border-slate-200 text-slate-700 hover:bg-slate-100'
+                                                        }`}
+                                                    >
+                                                        <span>{c}</span>
+                                                        {checked && <Check className="w-3.5 h-3.5 text-sky-600" />}
+                                                    </button>
+                                                );
+                                            })}
+                                        </div>
+                                    </div>
+
+                                    {/* Budget */}
+                                    <div className="border-t border-slate-100 pt-4">
+                                        <label className="block text-xs font-black text-sky-700 uppercase tracking-wider mb-2.5">Budget Range</label>
+                                        <div className="grid grid-cols-2 gap-2">
+                                            {[
+                                                { label: 'Under ₹60 Lacs', val: '< 60 L' },
+                                                { label: '₹60L - ₹1 Crore', val: '60 L - 1 Cr' },
+                                                { label: '₹1Cr - ₹2 Crore', val: '1 Cr - 2 Cr' },
+                                                { label: 'Above ₹2 Crore', val: '> 2 Cr' }
+                                            ].map(({ label, val }) => {
+                                                const checked = selectedBudgets.includes(val);
+                                                return (
+                                                    <button
+                                                        key={val}
+                                                        type="button"
+                                                        onClick={() => toggleFilter(val, selectedBudgets, setSelectedBudgets)}
+                                                        className={`px-3 py-2 rounded-xl text-xs font-bold flex items-center justify-between border transition-all ${
+                                                            checked
+                                                                ? 'bg-sky-50 border-sky-300 text-sky-800'
+                                                                : 'bg-slate-50/80 border-slate-200 text-slate-700 hover:bg-slate-100'
+                                                        }`}
+                                                    >
+                                                        <span>{label}</span>
+                                                        {checked && <Check className="w-3.5 h-3.5 text-sky-600" />}
+                                                    </button>
+                                                );
+                                            })}
+                                        </div>
+                                    </div>
+
+                                    {/* Asset Type */}
+                                    <div className="border-t border-slate-100 pt-4">
+                                        <label className="block text-xs font-black text-sky-700 uppercase tracking-wider mb-2.5">Property Type</label>
+                                        <div className="grid grid-cols-2 gap-2">
+                                            {['Apartment', 'Villa', 'Plot', 'Office'].map(t => {
+                                                const checked = selectedTypes.includes(t);
+                                                return (
+                                                    <button
+                                                        key={t}
+                                                        type="button"
+                                                        onClick={() => toggleFilter(t, selectedTypes, setSelectedTypes)}
+                                                        className={`px-3 py-2 rounded-xl text-xs font-bold flex items-center justify-between border transition-all ${
+                                                            checked
+                                                                ? 'bg-sky-50 border-sky-300 text-sky-800'
+                                                                : 'bg-slate-50/80 border-slate-200 text-slate-700 hover:bg-slate-100'
+                                                        }`}
+                                                    >
+                                                        <span>{t}</span>
+                                                        {checked && <Check className="w-3.5 h-3.5 text-sky-600" />}
+                                                    </button>
+                                                );
+                                            })}
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Drawer Sticky Footer */}
+                                <div className="p-4 border-t border-slate-100 bg-white flex items-center gap-3 pb-safe">
+                                    <button
+                                        type="button"
+                                        onClick={() => {
+                                            setSelectedCity('All');
+                                            setSelectedConfigs([]);
+                                            setSelectedBudgets([]);
+                                            setSelectedTypes([]);
+                                            setPage(1);
+                                        }}
+                                        className="px-4 py-3 rounded-xl text-xs font-bold text-slate-600 hover:bg-slate-100 transition-colors"
+                                    >
+                                        Reset All
+                                    </button>
+                                    <button
+                                        type="button"
+                                        onClick={() => {
+                                            setShowFilters(false);
+                                            setPage(1);
+                                        }}
+                                        className="flex-1 py-3 px-4 rounded-xl bg-gradient-to-r from-sky-600 to-blue-600 hover:from-sky-500 hover:to-blue-700 text-white font-black text-xs uppercase tracking-wider shadow-md shadow-sky-600/25 transition-all active:scale-98 text-center"
+                                    >
+                                        Show {data?.count || projects.length} Properties
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    )}
+
+                    {/* Floating Mobile Filter & Map Pill (Sticky while scrolling results on mobile) */}
+                    <div className="md:hidden fixed bottom-16 inset-x-0 z-30 flex justify-center pointer-events-none pb-2">
+                        <div className="glass-dock rounded-full p-1.5 shadow-[0_8px_30px_rgba(0,0,0,0.18)] border border-white/80 pointer-events-auto flex items-center gap-1 animate-in fade-in slide-in-from-bottom-2 duration-300">
+                            <button
+                                type="button"
+                                onClick={() => setShowFilters(true)}
+                                className="flex items-center gap-1.5 px-3.5 py-2 rounded-full text-xs font-black bg-white text-slate-800 shadow-xs hover:bg-slate-50 transition-all active:scale-95"
+                            >
+                                <Filter className="w-3.5 h-3.5 text-sky-600" />
+                                <span>Filters</span>
+                                {activeFilterCount > 0 && (
+                                    <span className="bg-sky-600 text-white text-[9px] font-black px-1.5 py-0.5 rounded-full">
+                                        {activeFilterCount}
+                                    </span>
+                                )}
+                            </button>
+                            <div className="w-[1px] h-4 bg-slate-200" />
+                            <button
+                                type="button"
+                                onClick={() => setViewMode(viewMode === 'map' ? 'list' : 'map')}
+                                className={`flex items-center gap-1.5 px-3.5 py-2 rounded-full text-xs font-black transition-all active:scale-95 ${
+                                    viewMode === 'map'
+                                        ? 'bg-sky-600 text-white shadow-xs'
+                                        : 'bg-slate-900 text-white shadow-xs'
+                                }`}
+                            >
+                                {viewMode === 'map' ? (
+                                    <>
+                                        <List className="w-3.5 h-3.5" />
+                                        <span>Show List</span>
+                                    </>
+                                ) : (
+                                    <>
+                                        <Map className="w-3.5 h-3.5 text-sky-300" />
+                                        <span>Map View</span>
+                                    </>
+                                )}
+                            </button>
+                        </div>
+                    </div>
 
                     {/* Results Grid */}
                     <div className="flex-1">

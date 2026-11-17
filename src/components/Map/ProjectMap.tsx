@@ -41,7 +41,7 @@ const ProjectMap: React.FC<ProjectMapProps> = ({ projects }) => {
     const defaultCenter: [number, number] = [18.5204, 73.8567]; // Pune
 
     return (
-        <div className="h-[calc(100vh-140px)] w-full rounded-2xl overflow-hidden shadow-sm border border-slate-200 sticky top-24">
+        <div className="h-[calc(100vh-210px)] sm:h-[calc(100vh-140px)] min-h-[380px] w-full rounded-2xl overflow-hidden shadow-sm border border-slate-200 sticky top-20 sm:top-24">
             <MapContainer
                 center={defaultCenter}
                 zoom={12}

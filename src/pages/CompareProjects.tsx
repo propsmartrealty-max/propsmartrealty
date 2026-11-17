@@ -74,7 +74,7 @@ const CompareProjects = () => {
     ];
 
     return (
-        <div className="min-h-screen bg-slate-50 flex flex-col">
+        <div className="min-h-screen bg-slate-50 flex flex-col pb-20 md:pb-0">
             <SEO
                 title="Compare Projects Side-by-Side | PROPSMART REALTY"
                 description="Compare top real estate projects in Pune & Maharashtra side-by-side: prices, floor plans, carpet areas, RERA certificates, and amenities with PROPSMART REALTY."

@@ -183,7 +183,7 @@ const Directory = () => {
     ], [view, selectedCity]);
 
     return (
-        <div className="min-h-screen bg-slate-50 relative selection:bg-sky-500 selection:text-white">
+        <div className="min-h-screen bg-slate-50 relative selection:bg-sky-500 selection:text-white pb-20 md:pb-0">
             <WaterAmbientBackground />
             <SEO
                 title={view === 'builders' 

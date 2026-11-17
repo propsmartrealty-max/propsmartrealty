@@ -2033,7 +2033,7 @@ const ProjectDetails = () => {
             )}
 
             {/* Sticky Mobile Conversion Bar (Visible only on mobile screens < lg) */}
-            <div className="lg:hidden fixed bottom-0 inset-x-0 z-40 bg-white/95 backdrop-blur-md border-t border-slate-200/90 p-3 shadow-[0_-8px_30px_rgba(0,0,0,0.12)]">
+            <div className="lg:hidden fixed bottom-0 inset-x-0 z-40 bg-white/95 backdrop-blur-2xl border-t border-slate-200/90 px-3.5 pt-2.5 pb-safe shadow-[0_-8px_30px_rgba(0,0,0,0.12)]">
                 <div className="max-w-md mx-auto flex items-center justify-between gap-2.5">
                     <div className="min-w-0 flex-1">
                         <span className="text-[10px] uppercase font-bold tracking-wider text-slate-500 block leading-tight truncate">

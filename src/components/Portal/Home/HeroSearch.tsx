@@ -262,12 +262,12 @@ const HeroSearch = () => {
                 >
                     <div className="bg-white/90 backdrop-blur-xl rounded-[1.8rem] shadow-inner relative">
                         {/* Tabs */}
-                        <div className="flex bg-slate-50/70 border-b border-sky-100/60 overflow-x-auto no-scrollbar pt-1.5 px-2 rounded-t-[1.8rem]">
+                        <div className="flex bg-slate-50/70 border-b border-sky-100/60 overflow-x-auto no-scrollbar pt-1.5 px-2 rounded-t-[1.8rem] touch-momentum">
                             {TABS.map((tab) => (
                                 <button
                                     key={tab.id}
                                     onClick={() => setActiveTab(tab.id)}
-                                    className={`flex items-center gap-2 px-6 py-3.5 text-sm font-bold transition-all relative whitespace-nowrap rounded-t-2xl ${
+                                    className={`flex items-center gap-1.5 sm:gap-2 px-3.5 sm:px-6 py-2.5 sm:py-3.5 text-xs sm:text-sm font-bold transition-all relative whitespace-nowrap rounded-t-2xl shrink-0 ${
                                         activeTab === tab.id
                                             ? 'text-sky-600 bg-white/95 shadow-[0_-5px_15px_rgba(14,165,233,0.08)] z-10'
                                             : 'text-slate-500 hover:text-slate-800 hover:bg-white/40'
@@ -335,7 +335,7 @@ const HeroSearch = () => {
                                 <input
                                     type="text"
                                     placeholder={`Try "3 BHK in Baner" or "VTP Realty"`}
-                                    className="w-full text-slate-800 text-lg font-semibold placeholder:text-gray-300 outline-none bg-transparent"
+                                    className="w-full text-slate-800 text-base sm:text-lg font-semibold placeholder:text-gray-300 outline-none bg-transparent"
                                     value={searchQuery}
                                     onChange={(e) => setSearchQuery(e.target.value)}
                                     onFocus={() => setShowSuggestions(true)}
@@ -344,7 +344,7 @@ const HeroSearch = () => {
 
                                 {/* Smart Suggestions Dropdown */}
                                 {showSuggestions && (
-                                    <div className="absolute top-[calc(100%+20px)] left-[-20px] right-[-20px] glass-panel rounded-3xl shadow-2xl border border-white/80 p-4 z-50 animate-in fade-in duration-200">
+                                    <div className="absolute top-[calc(100%+12px)] inset-x-0 sm:left-[-20px] sm:right-[-20px] sm:w-[calc(100%+40px)] glass-panel rounded-3xl shadow-2xl border border-white/80 p-3 sm:p-4 z-50 animate-in fade-in duration-200">
                                         <h4 className="font-sans font-extrabold text-xs text-sky-700 px-3 py-1 uppercase tracking-wider flex items-center justify-between">
                                             <span>Prime {selectedCity} Corridors</span>
                                             <span className="text-[10px] text-sky-600 font-bold lowercase">★ top micro-markets</span>

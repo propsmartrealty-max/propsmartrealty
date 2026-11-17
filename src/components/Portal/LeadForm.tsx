@@ -70,7 +70,7 @@ const LeadForm: React.FC<LeadFormProps> = ({ isOpen, onClose, type, projectTitle
         <div className="fixed inset-0 z-[60] flex items-center justify-center p-4">
             <div className="absolute inset-0 bg-slate-900/60 backdrop-blur-sm" onClick={onClose} />
 
-            <div className="relative bg-white w-full max-w-md rounded-2xl shadow-2xl p-6 md:p-8 animate-in zoom-in-50 duration-200">
+            <div className="relative bg-white w-full max-w-md rounded-2xl shadow-2xl p-6 md:p-8 max-h-[90vh] overflow-y-auto animate-in zoom-in-50 duration-200">
                 <button
                     onClick={onClose}
                     className="absolute top-4 right-4 p-2 bg-slate-50 rounded-full text-slate-400 hover:text-slate-600 transition-colors"
@@ -127,7 +127,7 @@ const LeadForm: React.FC<LeadFormProps> = ({ isOpen, onClose, type, projectTitle
                                     required
                                     value={formData.name}
                                     onChange={e => setFormData({ ...formData, name: e.target.value })}
-                                    className="w-full px-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 transition-all font-medium"
+                                    className="w-full px-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 transition-all text-base font-medium"
                                     placeholder="Your Name"
                                 />
                             </div>
@@ -141,7 +141,7 @@ const LeadForm: React.FC<LeadFormProps> = ({ isOpen, onClose, type, projectTitle
                                         pattern="[0-9]{10}"
                                         value={formData.mobile}
                                         onChange={e => setFormData({ ...formData, mobile: e.target.value })}
-                                        className="w-full pl-10 pr-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 transition-all font-medium"
+                                        className="w-full pl-10 pr-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 transition-all text-base font-medium"
                                         placeholder="10-digit number"
                                     />
                                 </div>
@@ -154,7 +154,7 @@ const LeadForm: React.FC<LeadFormProps> = ({ isOpen, onClose, type, projectTitle
                                         required
                                         value={formData.email}
                                         onChange={e => setFormData({ ...formData, email: e.target.value })}
-                                        className="w-full px-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 transition-all font-medium"
+                                        className="w-full px-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 transition-all text-base font-medium"
                                         placeholder="To receive the brochure"
                                     />
                                 </div>

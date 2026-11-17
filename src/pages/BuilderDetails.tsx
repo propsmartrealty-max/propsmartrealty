@@ -55,7 +55,7 @@ const BuilderDetails = () => {
     }
 
     return (
-        <div className="min-h-screen bg-gray-50">
+        <div className="min-h-screen bg-gray-50 pb-20 md:pb-0">
             <SEO
                 title={`${builder.name} - Projects in Pune & Maharashtra | Direct Builder Pricing`}
                 description={builder.description || `Explore all residential township projects and luxury apartments by ${builder.name} in Pune & Maharashtra. 100% Zero Brokerage with authorized sales partner.`}
