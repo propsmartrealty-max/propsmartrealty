@@ -88,8 +88,8 @@ export interface Project {
   website?: string;
   seoKeywords?: string[]; // High-ranking keywords for Google SERP
   metaDescription?: string; // Optimized meta description for CTR
-  description: string;
-  features: string[];
+  description?: string;
+  features?: string[];
   amenities?: string[];
   featured?: boolean;
   highlights?: string[]; // Key selling points like "3-Side Open", "Vastu Compliant"

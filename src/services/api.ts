@@ -1,6 +1,7 @@
 import { Project, Builder, ProjectConfiguration } from '../types';
 import { mapProjectFromDb, mapBuilderFromDb } from '../utils/mapper';
-import { PROJECTS, BUILDERS } from '../data/mockData';
+import { BUILDERS } from '../data/mockData';
+import { PROJECT_SUMMARIES } from '../data/projectSummaries';
 import { parsePriceRangeInLakhs } from '../utils/pricingUtils';
 
 const PAGE_SIZE = 10;
@@ -20,7 +21,7 @@ export interface ProjectFilters {
 }
 
 function filterProjectsLocally(page: number, filters: ProjectFilters = {}) {
-    let list = [...PROJECTS];
+    let list = [...PROJECT_SUMMARIES];
 
     if (filters.city && filters.city.trim() && filters.city.toLowerCase() !== 'all') {
         list = list.filter(p => (p.city || 'Pune').toLowerCase() === filters.city!.toLowerCase().trim());
@@ -163,9 +164,9 @@ export const api = {
                 }
                 const json = await res.json();
                 if (!json.data || !Array.isArray(json.data) || json.data.length === 0) {
-                    return PROJECTS;
+                    return PROJECT_SUMMARIES;
                 }
-                const localBySlug = new Map(PROJECTS.map(p => [p.slug, p]));
+                const localBySlug = new Map(PROJECT_SUMMARIES.map(p => [p.slug, p]));
                 const mappedData = json.data.map((dbP: any) => {
                     const mapped = mapProjectFromDb(dbP) as Project;
                     const local = localBySlug.get(mapped.slug);
@@ -175,11 +176,11 @@ export const api = {
                     return mapped;
                 }) as Project[];
                 const dbSlugs = new Set(mappedData.map(p => p.slug));
-                const missingLocal = PROJECTS.filter(p => !dbSlugs.has(p.slug));
+                const missingLocal = PROJECT_SUMMARIES.filter(p => !dbSlugs.has(p.slug));
                 return [...mappedData, ...missingLocal];
             } catch (err) {
                 console.warn('api.projects.all fallback to local dataset:', err);
-                return PROJECTS;
+                return PROJECT_SUMMARIES;
             }
         },
 
@@ -234,7 +235,7 @@ export const api = {
                 const norm = raw.toLowerCase().replace(/^(p-|project-)/, '');
                 const cleanTokens = norm.split('-').filter(t => t.length > 2);
 
-                let match = PROJECTS.find(p =>
+                let match = PROJECT_SUMMARIES.find(p =>
                     p.slug === raw ||
                     p.slug.toLowerCase() === norm ||
                     p.id === raw ||
@@ -245,20 +246,20 @@ export const api = {
                 );
                 if (match) return match;
 
-                match = PROJECTS.find(p => {
+                match = PROJECT_SUMMARIES.find(p => {
                     const titleSlug = p.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
                     return titleSlug === norm || titleSlug.replace(/-/g, '') === norm.replace(/-/g, '');
                 });
                 if (match) return match;
 
-                match = PROJECTS.find(p =>
+                match = PROJECT_SUMMARIES.find(p =>
                     p.slug.toLowerCase().startsWith(norm) ||
                     norm.startsWith(p.slug.toLowerCase())
                 );
                 if (match) return match;
 
                 if (cleanTokens.length > 0) {
-                    match = PROJECTS.find(p => {
+                    match = PROJECT_SUMMARIES.find(p => {
                         const pSlug = p.slug.toLowerCase();
                         const pTitle = p.title.toLowerCase();
                         return cleanTokens.every(t => pSlug.includes(t) || pTitle.includes(t));

@@ -17,6 +17,7 @@ npx wrangler d1 execute propsmart-d1 --local --file=migrations/0001_initial_sche
 npx wrangler d1 execute propsmart-d1 --local --file=migrations/0003_advanced_enterprise_d1.sql
 npx wrangler d1 execute propsmart-d1 --local --file=migrations/0004_catalog_hardening.sql
 npx wrangler d1 execute propsmart-d1 --local --file=migrations/0005_full_catalog_sync.sql
+npx wrangler d1 execute propsmart-d1 --local --file=migrations/0008_full_enterprise_catalog_sync.sql
 
 # 3. Create Cloudflare R2 Bucket
 echo "🪣 Step 3: Provisioning Cloudflare R2 Storage Bucket..."
@@ -28,3 +29,4 @@ echo "  npx wrangler d1 execute propsmart-d1 --remote --file=migrations/0001_ini
 echo "  npx wrangler d1 execute propsmart-d1 --remote --file=migrations/0003_advanced_enterprise_d1.sql"
 echo "  npx wrangler d1 execute propsmart-d1 --remote --file=migrations/0004_catalog_hardening.sql"
 echo "  npx wrangler d1 execute propsmart-d1 --remote --file=migrations/0005_full_catalog_sync.sql"
+echo "  npx wrangler d1 execute propsmart-d1 --remote --file=migrations/0008_full_enterprise_catalog_sync.sql"

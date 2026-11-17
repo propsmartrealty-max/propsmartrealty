@@ -11,7 +11,8 @@
  */
 
 import { Project, Builder } from '../types';
-import { PROJECTS, BUILDERS } from '../data/mockData';
+import { BUILDERS } from '../data/mockData';
+import { PROJECT_SUMMARIES } from '../data/projectSummaries';
 import { generateLegiScoreDossier, LegiScoreDueDiligenceDossier } from './legiscoreService';
 
 export const MAHARERA_DISTRICT_CODES: Record<string, { name: string; region: string }> = {
@@ -310,7 +311,7 @@ export const auditProjectIntelligently = (project: Project): IntelligentProjectA
  * Audits the entire platform catalog across all 6 Intelligent Channels
  */
 export const runMultiChannelCatalogAudit = () => {
-    const audits = PROJECTS.map(auditProjectIntelligently);
+    const audits = PROJECT_SUMMARIES.map(auditProjectIntelligently);
 
     const totalProjects = audits.length;
     const fullyCompliant = audits.filter(a => a.isFullyCompliant).length;

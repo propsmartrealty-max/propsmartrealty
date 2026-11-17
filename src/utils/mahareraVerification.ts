@@ -7,7 +7,7 @@
  * - MahaRERA 2.0 Digitization Norms (PR / PM / PC / PP / AG series)
  */
 
-import { PROJECTS } from '../data/mockData';
+import { PROJECT_SUMMARIES } from '../data/projectSummaries';
 import { Project } from '../types';
 import { generateLegiScoreDossier, LegiScoreDueDiligenceDossier } from '../services/legiscoreService';
 
@@ -246,12 +246,12 @@ export const findProjectInCatalog = (reraOrQuery: string): Project | null => {
     const clean = sanitizeMahaRERANumber(reraOrQuery);
     
     // Exact reraId match
-    const byRera = PROJECTS.find(p => sanitizeMahaRERANumber(p.reraId) === clean);
+    const byRera = PROJECT_SUMMARIES.find(p => sanitizeMahaRERANumber(p.reraId) === clean);
     if (byRera) return byRera;
 
     // Check slug or title match
     const q = reraOrQuery.toLowerCase().trim();
-    const bySlugOrTitle = PROJECTS.find(p => 
+    const bySlugOrTitle = PROJECT_SUMMARIES.find(p => 
         p.slug.toLowerCase() === q || 
         p.title.toLowerCase() === q ||
         p.title.toLowerCase().includes(q)
@@ -264,7 +264,7 @@ export const findProjectInCatalog = (reraOrQuery: string): Project | null => {
  * Returns quick suggestions from the verified catalog
  */
 export const getPopularVerifiedProjects = (limit = 8) => {
-    return PROJECTS.slice(0, limit).map(p => ({
+    return PROJECT_SUMMARIES.slice(0, limit).map(p => ({
         id: p.id,
         title: p.title,
         reraId: p.reraId,

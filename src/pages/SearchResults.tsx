@@ -12,6 +12,7 @@ import { useQuery } from '@tanstack/react-query';
 import { api } from '../services/api';
 import PriceTrendChart from '../components/Portal/MarketIntelligence/PriceTrendChart';
 import { getLocalityImageUrl, PROPSMART_LOCALITIES } from '../utils/localityUtils';
+import { parseNaturalLanguageQuery } from '../utils/aiSearchUtils';
 import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
 import PSeoMarketGuide from '../components/Portal/MarketIntelligence/PSeoMarketGuide';
 
@@ -55,14 +56,19 @@ const SearchResults: React.FC<SearchResultsProps> = ({
     const rawLocationParam = queryParams.get('location') || '';
     const rawCityParam = queryParams.get('city') || forcedCity || '';
 
-    // Parse location from slug (e.g. 'baner-annex' -> 'Baner Annex') or param
+    // Smart AI Natural Language Query Parser
+    const aiParsed = useMemo(() => {
+        return parseNaturalLanguageQuery(rawQuery);
+    }, [rawQuery]);
+
+    // Parse location from slug (e.g. 'baner-annex' -> 'Baner Annex'), param, or AI parsed intent
     const derivedLocation = effectiveLocationSlug
         ? effectiveLocationSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')
-        : rawLocationParam;
+        : (rawLocationParam || aiParsed.location || '');
 
     const filterLoc = derivedLocation;
-    const filterQuery = rawQuery;
-    const filterType = forcedType || queryParams.get('type') || '';
+    const filterQuery = aiParsed.query || (aiParsed.location ? '' : rawQuery);
+    const filterType = forcedType || queryParams.get('type') || aiParsed.type || '';
 
     // Phase 5: Get Locality Data for Market Intelligence
     const { localities, projects: fallbackProjects } = useData();
@@ -108,11 +114,15 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                 : (filterType === 'buy' || filterType === 'rent') ? 'Residential'
                     : '';
 
-    const effectiveStatus = forcedStatus || (filterType === 'new-launch' ? 'New Launch' : '');
+    const effectiveStatus = forcedStatus || aiParsed.status || (filterType === 'new-launch' ? 'New Launch' : '');
+    const effectiveConfigs = selectedConfigs.length > 0 ? selectedConfigs : (forcedConfig ? [forcedConfig] : (aiParsed.configurations || undefined));
+    const effectiveBuilderSlug = forcedBuilderSlug || aiParsed.builderSlug;
+    const effectiveMaxPrice = forcedMaxBudget || aiParsed.maxPrice;
+    const effectiveMinPrice = forcedMinBudget || aiParsed.minPrice;
 
     // React Query for Server-Side Search
     const { data, isLoading, error, refetch } = useQuery({
-        queryKey: ['projects', 'search', page, filterLoc, filterQuery, selectedCity, typeFilter, effectiveStatus, selectedBudgets.join(','), selectedConfigs.join(','), forcedBuilderSlug, forcedConfig],
+        queryKey: ['projects', 'search', page, filterLoc, filterQuery, selectedCity, typeFilter, effectiveStatus, selectedBudgets.join(','), (effectiveConfigs || []).join(','), effectiveBuilderSlug, effectiveMaxPrice, effectiveMinPrice],
         queryFn: () => api.projects.list(page, {
             query: filterQuery,
             location: filterLoc,
@@ -120,9 +130,11 @@ const SearchResults: React.FC<SearchResultsProps> = ({
             type: typeFilter,
             status: effectiveStatus,
             budget: selectedBudgets,
-            configurations: selectedConfigs.length > 0 ? selectedConfigs : (forcedConfig ? [forcedConfig] : undefined),
-            builderSlug: forcedBuilderSlug,
-            builderName: forcedBuilderName
+            configurations: effectiveConfigs,
+            builderSlug: effectiveBuilderSlug,
+            builderName: forcedBuilderName,
+            maxPrice: effectiveMaxPrice,
+            minPrice: effectiveMinPrice
         }),
         placeholderData: (previousData) => previousData,
     });
@@ -703,6 +715,43 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                                 </button>
                             )}
                         </div>
+
+                        {/* AI Natural Language Search Intent Banner */}
+                        {rawQuery && (aiParsed.location || aiParsed.configurations || aiParsed.status || aiParsed.maxPrice || aiParsed.builderSlug) && (
+                            <div className="mb-5 p-3.5 rounded-2xl bg-gradient-to-r from-sky-50 via-indigo-50/70 to-emerald-50 border border-sky-200/80 flex items-center justify-between gap-3 text-xs shadow-xs">
+                                <div className="flex items-center gap-2 flex-wrap">
+                                    <span className="font-extrabold text-sky-900 flex items-center gap-1.5 bg-white px-2.5 py-1 rounded-lg border border-sky-200/80 shadow-2xs">
+                                        <Sparkles className="w-3.5 h-3.5 text-sky-600 animate-pulse" />
+                                        <span>AI Search Parsed:</span>
+                                    </span>
+                                    {aiParsed.location && (
+                                        <span className="bg-sky-100 text-sky-800 font-bold px-2.5 py-0.5 rounded-md">
+                                            📍 {aiParsed.location}
+                                        </span>
+                                    )}
+                                    {aiParsed.configurations && (
+                                        <span className="bg-emerald-100 text-emerald-800 font-bold px-2.5 py-0.5 rounded-md">
+                                            🏠 {aiParsed.configurations.join(', ')}
+                                        </span>
+                                    )}
+                                    {aiParsed.status && (
+                                        <span className="bg-amber-100 text-amber-900 font-bold px-2.5 py-0.5 rounded-md">
+                                            ⚡ {aiParsed.status}
+                                        </span>
+                                    )}
+                                    {aiParsed.maxPrice && (
+                                        <span className="bg-purple-100 text-purple-900 font-bold px-2.5 py-0.5 rounded-md">
+                                            💰 Under {aiParsed.maxPrice >= 100 ? `₹${(aiParsed.maxPrice / 100).toFixed(2)} Cr` : `₹${aiParsed.maxPrice} L`}
+                                        </span>
+                                    )}
+                                    {aiParsed.builderSlug && (
+                                        <span className="bg-blue-100 text-blue-900 font-bold px-2.5 py-0.5 rounded-md">
+                                            🏢 Verified Developer
+                                        </span>
+                                    )}
+                                </div>
+                            </div>
+                        )}
 
                         {viewMode === 'map' ? (
                             <div className="w-full h-full min-h-[500px]">

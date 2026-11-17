@@ -1,6 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import { render, screen } from '@testing-library/react';
 import { getAllInclusivePricing, getFinalCarpetAreaOnly, parsePriceRangeInLakhs } from '../utils/pricingUtils';
+import { parseNaturalLanguageQuery } from '../utils/aiSearchUtils';
 import CarpetAreaInfographic from '../components/Portal/Infographics/CarpetAreaInfographic';
 
 describe('Pricing and Carpet Area Audit Tests', () => {
@@ -30,6 +31,31 @@ describe('Pricing and Carpet Area Audit Tests', () => {
             expect(parsePriceRangeInLakhs('₹45.00 L')).toEqual({ minLakhs: 45, maxLakhs: 45 });
             expect(parsePriceRangeInLakhs('₹3.25 Cr')).toEqual({ minLakhs: 325, maxLakhs: 325 });
             expect(parsePriceRangeInLakhs('Price on Request')).toBeNull();
+        });
+    });
+
+    describe('Natural Language AI Query Parser', () => {
+        it('extracts configurations, locality, status, and budget from conversational search', () => {
+            const parsed = parseNaturalLanguageQuery('ready 3 bhk in hinjewadi under 1.2 cr');
+            expect(parsed.configurations).toEqual(['3 BHK']);
+            expect(parsed.location).toBe('Hinjewadi');
+            expect(parsed.status).toBe('Ready to Move');
+            expect(parsed.maxPrice).toBe(120);
+        });
+
+        it('extracts developer, configuration, and budget thresholds', () => {
+            const parsed = parseNaturalLanguageQuery('godrej 2 bhk flats in mahalunge under 85 lakhs');
+            expect(parsed.builderSlug).toBe('b-godrej');
+            expect(parsed.configurations).toEqual(['2 BHK']);
+            expect(parsed.location).toBe('Mahalunge');
+            expect(parsed.maxPrice).toBe(85);
+        });
+
+        it('handles new launch villas accurately', () => {
+            const parsed = parseNaturalLanguageQuery('new launch villas in lonavala');
+            expect(parsed.status).toBe('New Launch');
+            expect(parsed.type).toBe('Residential');
+            expect(parsed.location).toBe('Lonavala');
         });
     });
 

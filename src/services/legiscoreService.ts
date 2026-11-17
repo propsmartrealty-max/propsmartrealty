@@ -19,7 +19,8 @@
  */
 
 import { Project, Builder } from '../types';
-import { PROJECTS, BUILDERS } from '../data/mockData';
+import { BUILDERS } from '../data/mockData';
+import { PROJECT_SUMMARIES } from '../data/projectSummaries';
 import { sanitizeMahaRERANumber, MAHARERA_DISTRICT_CODES, MAHARERA_PORTAL } from '../utils/mahareraVerification';
 
 export const LEGISCORE_API_BASE = 'https://legiscore.in/api/v1';
@@ -179,7 +180,7 @@ export const generateLegiScoreDossier = (
     builderHint?: Builder | null
 ): LegiScoreDueDiligenceDossier => {
     const cleanRera = sanitizeMahaRERANumber(rawRera) || 'P52100050939';
-    const project = matchedProject || PROJECTS.find(p => sanitizeMahaRERANumber(p.reraId) === cleanRera);
+    const project = matchedProject || PROJECT_SUMMARIES.find(p => sanitizeMahaRERANumber(p.reraId) === cleanRera);
     
     const projectName = project?.title || (cleanRera.startsWith('P518') ? 'Worli Luxury Enclave' : 'Pune Green Horizon');
     const builder = builderHint || (project ? BUILDERS.find(b => b.id === project.builderId) : null);
