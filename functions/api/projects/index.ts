@@ -95,9 +95,13 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
             ...row,
             configurations: typeof row.configurations === 'string' ? safeJsonParse(row.configurations, []) : row.configurations,
             features: typeof row.features === 'string' ? safeJsonParse(row.features, []) : row.features,
+            amenities: typeof row.amenities === 'string' ? safeJsonParse(row.amenities, []) : row.amenities,
             specs: typeof row.specs === 'string' ? safeJsonParse(row.specs, {}) : row.specs,
             highlights: typeof row.highlights === 'string' ? safeJsonParse(row.highlights, []) : row.highlights,
             floorPlans: typeof row.floor_plans === 'string' ? safeJsonParse(row.floor_plans, []) : row.floor_plans,
+            images: typeof row.images === 'string' ? safeJsonParse(row.images, []) : row.images,
+            configurationDetails: typeof row.configuration_details === 'string' ? safeJsonParse(row.configuration_details, []) : row.configuration_details,
+            faqs: typeof row.faqs === 'string' ? safeJsonParse(row.faqs, []) : row.faqs,
         }));
 
         return jsonResponse({
@@ -133,8 +137,9 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
                 configurations, status, type, possession_date, image, hero_image,
                 master_layout, floor_plans, description, features, specs, highlights,
                 rera_id, price_per_sqft, verification_status, verification_source,
-                seo_keywords, meta_description
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                seo_keywords, meta_description, city, lat, lng,
+                configuration_details, amenities, faqs, brochure_url, images
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         `;
 
         await context.env.DB.prepare(sql).bind(
@@ -162,7 +167,15 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
             body.verificationStatus || body.verification_status || 'Verified',
             body.verificationSource || body.verification_source || '',
             JSON.stringify(body.seoKeywords || body.seo_keywords || []),
-            body.metaDescription || body.meta_description || ''
+            body.metaDescription || body.meta_description || '',
+            body.city || 'Pune',
+            body.lat !== undefined ? Number(body.lat) : 18.5204,
+            body.lng !== undefined ? Number(body.lng) : 73.8567,
+            JSON.stringify(body.configurationDetails || body.configuration_details || []),
+            JSON.stringify(body.amenities || body.features || []),
+            JSON.stringify(body.faqs || []),
+            body.brochureUrl || body.brochure_url || '',
+            JSON.stringify(body.images || [body.image || body.heroImage].filter(Boolean))
         ).run();
 
         return jsonResponse({ success: true, id, slug }, 201);

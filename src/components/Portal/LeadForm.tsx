@@ -84,13 +84,23 @@ const LeadForm: React.FC<LeadFormProps> = ({ isOpen, onClose, type, projectTitle
                             <CheckCircle2 className="w-10 h-10 text-emerald-600" />
                         </div>
                         <h3 className="text-2xl font-bold text-slate-800 mb-2">Thank You!</h3>
-                        <p className="text-slate-600 mb-6">Your request for <strong>{type}</strong> has been received. Our expert will call you shortly.</p>
+                        <p className="text-slate-600 mb-6">
+                            {type === 'Brochure' 
+                                ? <>Your request for the official brochure has been received. We are dispatching the complete PDF & floor plans for <strong>{projectTitle}</strong>.</>
+                                : <>Your request for <strong>{type}</strong> has been received. Our expert will call you shortly.</>
+                            }
+                        </p>
                         <div className="flex flex-col gap-3">
                             <button
-                                onClick={() => openWhatsApp(`Hi, I just inquired about ${projectTitle}. Can we chat?`)}
+                                onClick={() => openWhatsApp(
+                                    type === 'Brochure'
+                                        ? `Hi, I just requested the official brochure and floor plans for ${projectTitle}. Please share the complete PDF package.`
+                                        : `Hi, I just inquired about ${projectTitle}. Can we chat?`
+                                )}
                                 className="w-full py-3 rounded-xl bg-[#25D366] text-white font-bold flex items-center justify-center gap-2 hover:bg-[#20bd5a] transition-colors shadow-lg shadow-green-200"
                             >
-                                <MessageCircle className="w-5 h-5" /> Chat on WhatsApp
+                                <MessageCircle className="w-5 h-5" /> 
+                                {type === 'Brochure' ? 'Get Instant Brochure on WhatsApp' : 'Chat on WhatsApp'}
                             </button>
                             <button onClick={onClose} className="text-slate-400 font-bold hover:text-slate-600 text-sm">Close</button>
                         </div>

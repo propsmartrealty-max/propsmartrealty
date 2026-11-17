@@ -32,8 +32,9 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
             }
         }
 
-        // 2. Allow fallback developer bootstrap credentials if database is freshly deployed
-        if (!isValid && normalizedEmail === 'admin@propsmartrealty.com' && password === 'Admin@Propsmart2026') {
+        // 2. Allow fallback developer bootstrap credentials if database has no registered admin
+        const bootstrapPassword = context.env.ADMIN_BOOTSTRAP_PASSWORD || 'Admin@Propsmart2026';
+        if (!isValid && !adminUser && normalizedEmail === 'admin@propsmartrealty.com' && password === bootstrapPassword) {
             isValid = true;
             adminUser = {
                 id: 'admin-bootstrap',

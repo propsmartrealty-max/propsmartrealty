@@ -10976,8 +10976,8 @@ export const PROJECTS: Project[] = [
     "slug": "rohan-saroha",
     "builderId": "b-rohan",
     "location": "Bhugaon",
-    "priceRange": "\u20b980 L - \u20b91.85 Cr",
-    "exactPrice": "\u20b980 L",
+    "priceRange": "\u20b980.00 L - \u20b91.85 Cr",
+    "exactPrice": "\u20b980.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -13826,8 +13826,8 @@ export const PROJECTS: Project[] = [
     "slug": "gera-imperium-gateway",
     "builderId": "b-gera",
     "location": "Bhosari",
-    "priceRange": "\u20b955 L - \u20b92.28 Cr",
-    "exactPrice": "\u20b955 L",
+    "priceRange": "\u20b955.00 L - \u20b92.28 Cr",
+    "exactPrice": "\u20b955.00 L",
     "configurations": [
       "Commercial",
       "Office",
@@ -14020,8 +14020,8 @@ export const PROJECTS: Project[] = [
     "slug": "gera-joy-on-the-treetops",
     "builderId": "b-gera",
     "location": "Hinjewadi",
-    "priceRange": "\u20b984 L - \u20b91.38 Cr",
-    "exactPrice": "\u20b984 L",
+    "priceRange": "\u20b984.00 L - \u20b91.38 Cr",
+    "exactPrice": "\u20b984.00 L",
     "configurations": [
       "2 BHK",
       "3 BHK",
@@ -16586,17 +16586,22 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Skyline",
+        "type": "2 BHK Luxury Unit",
         "carpetArea": "736 sq.ft",
         "priceRange": "\u20b91.56 Cr"
       },
       {
-        "type": "3 BHK Grande",
+        "type": "3 BHK Luxury Unit",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b92.25 Cr"
+        "priceRange": "\u20b92.17 Cr"
       },
       {
-        "type": "4 BHK Imperial",
+        "type": "3.5 BHK Luxury Unit",
+        "carpetArea": "2800 sq.ft",
+        "priceRange": "\u20b92.79 Cr"
+      },
+      {
+        "type": "4 BHK Luxury Unit",
         "carpetArea": "1850 sq.ft",
         "priceRange": "\u20b93.40 Cr"
       }
@@ -16626,8 +16631,8 @@ export const PROJECTS: Project[] = [
     "slug": "bramhacorp-townhouse",
     "builderId": "b-bramhacorp",
     "location": "Balewadi",
-    "priceRange": "\u20b926 L - \u20b956 L",
-    "exactPrice": "\u20b926 L",
+    "priceRange": "\u20b926.00 L - \u20b956.00 L",
+    "exactPrice": "\u20b926.00 L",
     "configurations": [
       "Studio",
       "1 BHK"
@@ -16813,8 +16818,8 @@ export const PROJECTS: Project[] = [
     "slug": "bramhacorp-august-towers",
     "builderId": "b-bramhacorp",
     "location": "Kalyani Nagar",
-    "priceRange": "\u20b968 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b968 L",
+    "priceRange": "\u20b968.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b968.00 L",
     "configurations": [
       "1.5 BHK",
       "2 BHK"
@@ -29372,7 +29377,7 @@ export const PROJECTS: Project[] = [
     "totalFloors": "G+1 Bespoke Valley Villas",
     "floorsAndAcres": "50+ Acres Mountain Sanctuary \u2022 G+1 Bespoke Valley Villas",
     "description": "Lodha Villa Cerro is an exclusive hill-station retreat nestled in the mist-clad Sahyadri valley between Lonavala and Khopoli, offering private plunge pools and valley terraces.",
-    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/5oObZb7synV62rPVYqZAbCYsgqNubnGbhVrvmYj8.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
       "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
@@ -29762,7 +29767,7 @@ export const PROJECTS: Project[] = [
     "totalFloors": "G+1 Bespoke Beach Villas",
     "floorsAndAcres": "40+ Acres Beachside Sanctuary \u2022 G+1 Bespoke Beach Villas",
     "description": "Lodha Alibaug near Awas Beach is Mumbai's most prestigious coastal sanctuary, providing private pool villas, coconut groves, speedboat dock access, and 5-star concierge services.",
-    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/tD46gBsL9QvyzIsy8OQPgFbjZ6g6kTlrPFfXPod3.webp",
       "https://keystoneliv.com/public/uploads/property/XDKgaRfa1mQu0BrmAy2NCDrLJUSJqdBCMUuH63dB.webp"
@@ -37609,7 +37614,7 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
+        "type": "2 BHK Luxury Unit",
         "carpetArea": "950 sq.ft",
         "priceRange": "\u20b969.28 L"
       }
@@ -39205,6 +39210,11 @@ export const PROJECTS: Project[] = [
         "type": "4 BHK Premium",
         "carpetArea": "1750 sq.ft",
         "priceRange": "\u20b93.20 Cr"
+      },
+      {
+        "type": "4 BHK Grande",
+        "carpetArea": "2242 sq.ft",
+        "priceRange": "\u20b94.10 Cr"
       }
     ],
     "status": "Under Construction",
@@ -39600,6 +39610,11 @@ export const PROJECTS: Project[] = [
         "type": "4 BHK Premium",
         "carpetArea": "1750 sq.ft",
         "priceRange": "\u20b92.52 Cr"
+      },
+      {
+        "type": "4 BHK Grande",
+        "carpetArea": "1909 sq.ft",
+        "priceRange": "\u20b92.75 Cr"
       }
     ],
     "status": "Under Construction",
@@ -39727,6 +39742,11 @@ export const PROJECTS: Project[] = [
         "type": "2 BHK Premium",
         "carpetArea": "950 sq.ft",
         "priceRange": "\u20b964.14 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "1039 sq.ft",
+        "priceRange": "\u20b970.17 L"
       }
     ],
     "status": "Ready to Move",
@@ -39988,6 +40008,11 @@ export const PROJECTS: Project[] = [
         "type": "3 BHK Premium",
         "carpetArea": "1250 sq.ft",
         "priceRange": "\u20b91.45 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1594 sq.ft",
+        "priceRange": "\u20b91.85 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -40658,6 +40683,11 @@ export const PROJECTS: Project[] = [
         "type": "3 BHK Premium",
         "carpetArea": "1250 sq.ft",
         "priceRange": "\u20b92.10 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1577 sq.ft",
+        "priceRange": "\u20b92.65 Cr"
       }
     ],
     "status": "Under Construction",
@@ -41313,6 +41343,11 @@ export const PROJECTS: Project[] = [
         "type": "4 BHK Premium",
         "carpetArea": "1750 sq.ft",
         "priceRange": "\u20b97.00 Cr"
+      },
+      {
+        "type": "4 BHK Grande",
+        "carpetArea": "2032 sq.ft",
+        "priceRange": "\u20b98.13 Cr"
       }
     ],
     "status": "Under Construction",
@@ -43177,6 +43212,11 @@ export const PROJECTS: Project[] = [
         "type": "3 BHK Premium",
         "carpetArea": "1250 sq.ft",
         "priceRange": "\u20b91.44 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1423 sq.ft",
+        "priceRange": "\u20b91.64 Cr"
       }
     ],
     "status": "Under Construction",
@@ -43317,7 +43357,7 @@ export const PROJECTS: Project[] = [
     "possessionDate": "Dec 2030",
     "image": "https://keystoneliv.com/public/uploads/property/LW8ofJLVdcWXF1ixxVLZJIS7lmzcBGIFY3WSZJ6X.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/LW8ofJLVdcWXF1ixxVLZJIS7lmzcBGIFY3WSZJ6X.webp",
-    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/OrO96DlQ1BdtwMK7CAwta4xb2E56lGlQ1N3qwfrF.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/kQtc9sF6Owjfz21mFq09aaMEMBhYacxWFpT43wfC.webp",
       "https://keystoneliv.com/public/uploads/property/ugU2mSy6BbqdiWgd8BB1RXRyQnRK5gqL2KtUlB81.webp"
@@ -43572,6 +43612,11 @@ export const PROJECTS: Project[] = [
         "type": "2 BHK Premium",
         "carpetArea": "950 sq.ft",
         "priceRange": "\u20b977.67 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "1075 sq.ft",
+        "priceRange": "\u20b987.93 L"
       }
     ],
     "status": "Under Construction",
@@ -46010,6 +46055,11 @@ export const PROJECTS: Project[] = [
         "type": "2 BHK Premium",
         "carpetArea": "950 sq.ft",
         "priceRange": "\u20b972.61 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "1112 sq.ft",
+        "priceRange": "\u20b985.00 L"
       }
     ],
     "status": "Under Construction",
@@ -46127,8 +46177,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-mahindra",
     "location": "Nande",
     "city": "Pune",
-    "priceRange": "\u20b989 L - \u20b92.19 Cr",
-    "exactPrice": "\u20b989 L",
+    "priceRange": "\u20b989.00 L - \u20b92.19 Cr",
+    "exactPrice": "\u20b989.00 L",
     "pricePerSqft": 12936,
     "configurations": [
       "2 BHK",
@@ -46205,7 +46255,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "740 sq.ft",
-        "priceRange": "\u20b989 L - \u20b91.11 Cr"
+        "priceRange": "\u20b989.00 L"
       },
       {
         "type": "3 BHK",
@@ -46215,7 +46265,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1777 sq.ft",
-        "priceRange": "\u20b91.96 Cr - \u20b92.49 Cr"
+        "priceRange": "\u20b92.19 Cr"
       }
     ],
     "lat": 18.5602,
@@ -46263,8 +46313,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-tulip-realty",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b982 L - \u20b91.06 Cr",
-    "exactPrice": "\u20b982 L",
+    "priceRange": "\u20b982.00 L - \u20b91.06 Cr",
+    "exactPrice": "\u20b982.00 L",
     "pricePerSqft": 11697,
     "configurations": [
       "2 BHK",
@@ -46337,12 +46387,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "694 sq.ft",
-        "priceRange": "\u20b982 L - \u20b91.03 Cr"
+        "priceRange": "\u20b982.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1040 sq.ft",
-        "priceRange": "\u20b91.15 Cr - \u20b91.48 Cr"
+        "priceRange": "\u20b91.06 Cr"
       }
     ],
     "lat": 18.6275,
@@ -46468,9 +46518,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "4 BHK",
+        "type": "4 BHK Premium",
         "carpetArea": "1638 sq.ft",
-        "priceRange": "\u20b96.36 Cr - \u20b98.09 Cr"
+        "priceRange": "\u20b92.89 Cr"
+      },
+      {
+        "type": "4 BHK Grande",
+        "carpetArea": "1876 sq.ft",
+        "priceRange": "\u20b93.31 Cr"
       }
     ],
     "lat": 18.726,
@@ -46587,9 +46642,9 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Luxury Unit",
         "carpetArea": "1007 sq.ft",
-        "priceRange": "\u20b92.38 Cr - \u20b93.06 Cr"
+        "priceRange": "\u20b91.70 Cr"
       }
     ],
     "lat": 18.5585,
@@ -46711,12 +46766,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1000 sq.ft",
-        "priceRange": "\u20b92.62 Cr - \u20b93.37 Cr"
+        "priceRange": "\u20b91.87 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1809 sq.ft",
-        "priceRange": "\u20b94.11 Cr - \u20b95.24 Cr"
+        "priceRange": "\u20b94.25 Cr"
       }
     ],
     "lat": 18.581,
@@ -46764,8 +46819,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-avani-housing",
     "location": "Mundhwa",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b91.30 Cr",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b91.30 Cr",
+    "exactPrice": "\u20b975.00 L",
     "pricePerSqft": 12315,
     "configurations": [
       "2 BHK",
@@ -46843,7 +46898,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "999 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b91.30 Cr"
       }
     ],
     "lat": 18.5366,
@@ -46985,12 +47040,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1018 sq.ft",
-        "priceRange": "\u20b94.89 Cr - \u20b96.28 Cr"
+        "priceRange": "\u20b93.49 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1640 sq.ft",
-        "priceRange": "\u20b97.68 Cr - \u20b99.77 Cr"
+        "priceRange": "\u20b96.09 Cr"
       }
     ],
     "lat": 18.5357,
@@ -47038,8 +47093,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-k-raheja-corp",
     "location": "Mahalunge",
     "city": "Pune",
-    "priceRange": "\u20b993 L - \u20b92.80 Cr",
-    "exactPrice": "\u20b993 L",
+    "priceRange": "\u20b993.00 L - \u20b92.80 Cr",
+    "exactPrice": "\u20b993.00 L",
     "pricePerSqft": 13676,
     "configurations": [
       "2 BHK",
@@ -47117,7 +47172,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "725 sq.ft",
-        "priceRange": "\u20b993 L - \u20b91.16 Cr"
+        "priceRange": "\u20b993.00 L"
       },
       {
         "type": "3 BHK",
@@ -47127,7 +47182,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1577 sq.ft",
-        "priceRange": "\u20b92.05 Cr - \u20b92.60 Cr"
+        "priceRange": "\u20b92.80 Cr"
       }
     ],
     "lat": 18.5755,
@@ -47175,8 +47230,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-privia-group",
     "location": "Chikhali",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.50 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.50 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 10611,
     "configurations": [
       "2 BHK",
@@ -47249,12 +47304,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "716 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1009 sq.ft",
-        "priceRange": "\u20b91.19 Cr - \u20b91.53 Cr"
+        "priceRange": "\u20b91.50 Cr"
       }
     ],
     "lat": 18.6862,
@@ -47394,7 +47449,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1079 sq.ft",
-        "priceRange": "\u20b94.62 Cr - \u20b95.94 Cr"
+        "priceRange": "\u20b93.30 Cr"
       },
       {
         "type": "4 BHK",
@@ -47409,7 +47464,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "6 BHK",
         "carpetArea": "733 sq.ft",
-        "priceRange": "\u20b93.30 Cr - \u20b911.50 Cr"
+        "priceRange": "\u20b911.50 Cr"
       }
     ],
     "lat": 18.5398,
@@ -47538,12 +47593,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1029 sq.ft",
-        "priceRange": "\u20b91.76 Cr - \u20b92.27 Cr"
+        "priceRange": "\u20b91.26 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1577 sq.ft",
-        "priceRange": "\u20b92.77 Cr - \u20b93.53 Cr"
+        "priceRange": "\u20b92.01 Cr"
       }
     ],
     "lat": 18.6308,
@@ -47591,8 +47646,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vision-group",
     "location": "Bhosari",
     "city": "Pune",
-    "priceRange": "\u20b978 L - \u20b987 L",
-    "exactPrice": "\u20b978 L",
+    "priceRange": "\u20b978.00 L - \u20b987.00 L",
+    "exactPrice": "\u20b978.00 L",
     "pricePerSqft": 10483,
     "configurations": [
       "2 BHK"
@@ -47660,9 +47715,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Premium",
         "carpetArea": "728 sq.ft",
-        "priceRange": "\u20b978 L - \u20b998 L"
+        "priceRange": "\u20b978.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "812 sq.ft",
+        "priceRange": "\u20b987.00 L"
       }
     ],
     "lat": 18.6286,
@@ -47710,8 +47770,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shreenidhi-developers",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b91.37 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b91.37 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 12014,
     "configurations": [
       "2 BHK",
@@ -47784,7 +47844,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "752 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.24 Cr"
+        "priceRange": "\u20b999.00 L"
       },
       {
         "type": "3 BHK",
@@ -47913,9 +47973,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1000 sq.ft",
-        "priceRange": "\u20b92.06 Cr - \u20b92.65 Cr"
+        "priceRange": "\u20b91.47 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1400 sq.ft",
+        "priceRange": "\u20b92.11 Cr"
       }
     ],
     "lat": 18.6227,
@@ -48033,9 +48098,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "4 BHK",
+        "type": "4 BHK Premium",
         "carpetArea": "1552 sq.ft",
-        "priceRange": "\u20b913.00 Cr - \u20b916.55 Cr"
+        "priceRange": "\u20b95.91 Cr"
+      },
+      {
+        "type": "4 BHK Grande",
+        "carpetArea": "2172 sq.ft",
+        "priceRange": "\u20b912.85 Cr"
       }
     ],
     "lat": 18.5396,
@@ -48083,8 +48153,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-hiranandani",
     "location": "Darumbre",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b91.12 Cr",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b91.12 Cr",
+    "exactPrice": "\u20b975.00 L",
     "pricePerSqft": 10000,
     "configurations": [
       "2 BHK",
@@ -48162,7 +48232,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1070 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b91.12 Cr"
       }
     ],
     "lat": 18.6377,
@@ -48210,8 +48280,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-gaikwad-corp",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b91 Cr - \u20b91.20 Cr",
-    "exactPrice": "\u20b91 Cr",
+    "priceRange": "\u20b91.00 Cr - \u20b91.20 Cr",
+    "exactPrice": "\u20b91.00 Cr",
     "pricePerSqft": 10309,
     "configurations": [
       "3 BHK"
@@ -48280,9 +48350,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1098 sq.ft",
-        "priceRange": "\u20b91.40 Cr - \u20b91.80 Cr"
+        "priceRange": "\u20b91.00 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1317 sq.ft",
+        "priceRange": "\u20b91.20 Cr"
       }
     ],
     "lat": 18.6497,
@@ -48419,12 +48494,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1062 sq.ft",
-        "priceRange": "\u20b93.29 Cr - \u20b94.23 Cr"
+        "priceRange": "\u20b92.35 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1741 sq.ft",
-        "priceRange": "\u20b95.17 Cr - \u20b96.58 Cr"
+        "priceRange": "\u20b95.35 Cr"
       }
     ],
     "lat": 18.5382,
@@ -48558,7 +48633,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK",
         "carpetArea": "1561 sq.ft",
-        "priceRange": "\u20b92.27 Cr - \u20b92.88 Cr"
+        "priceRange": "\u20b93.56 Cr"
       }
     ],
     "lat": 18.6009,
@@ -48702,7 +48777,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1633 sq.ft",
-        "priceRange": "\u20b92.24 Cr - \u20b92.86 Cr"
+        "priceRange": "\u20b91.43 Cr"
       }
     ],
     "lat": 18.5535,
@@ -48750,7 +48825,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pashankar-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b959.49 L - \u20b991 L",
+    "priceRange": "\u20b959.49 L - \u20b991.00 L",
     "exactPrice": "\u20b959.49 L",
     "pricePerSqft": 13582,
     "configurations": [
@@ -48833,7 +48908,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "453 sq.ft",
-        "priceRange": "\u20b942 L - \u20b951 L"
+        "priceRange": "\u20b959.49 L"
       },
       {
         "type": "2 BHK",
@@ -48843,7 +48918,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1043 sq.ft",
-        "priceRange": "\u20b983 L - \u20b91.07 Cr"
+        "priceRange": "\u20b991.00 L"
       }
     ],
     "lat": 18.6168,
@@ -49217,7 +49292,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1072 sq.ft",
-        "priceRange": "\u20b91.65 Cr - \u20b92.12 Cr"
+        "priceRange": "\u20b91.32 Cr"
       }
     ],
     "lat": 18.5175,
@@ -49334,9 +49409,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Premium",
         "carpetArea": "704 sq.ft",
-        "priceRange": "\u20b973 L - \u20b991 L"
+        "priceRange": "\u20b972.99 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "752 sq.ft",
+        "priceRange": "\u20b977.99 L"
       }
     ],
     "lat": 18.6448,
@@ -49469,7 +49549,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Office",
         "carpetArea": "656 sq.ft",
-        "priceRange": "\u20b967.98 L - \u20b995.00 L"
+        "priceRange": "\u20b995.00 L"
       }
     ],
     "lat": 18.6265,
@@ -49515,8 +49595,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-skyway-builder-and-developers",
     "location": "Akurdi",
     "city": "Pune",
-    "priceRange": "\u20b976 L - \u20b91.03 Cr",
-    "exactPrice": "\u20b976 L",
+    "priceRange": "\u20b976.00 L - \u20b91.03 Cr",
+    "exactPrice": "\u20b976.00 L",
     "pricePerSqft": 10425,
     "configurations": [
       "2 BHK",
@@ -49718,12 +49798,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1073 sq.ft",
-        "priceRange": "\u20b95.04 Cr - \u20b96.48 Cr"
+        "priceRange": "\u20b93.60 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1786 sq.ft",
-        "priceRange": "\u20b97.92 Cr - \u20b910.08 Cr"
+        "priceRange": "\u20b94.82 Cr"
       }
     ],
     "lat": 18.5209,
@@ -49852,7 +49932,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1018 sq.ft",
-        "priceRange": "\u20b92.65 Cr - \u20b93.40 Cr"
+        "priceRange": "\u20b91.89 Cr"
       }
     ],
     "lat": 18.5921,
@@ -49899,8 +49979,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-adi-realtors",
     "location": "Balewadi",
     "city": "Pune",
-    "priceRange": "\u20b999 L",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 12375,
     "configurations": [
       "2 BHK"
@@ -49972,7 +50052,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "708 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.24 Cr"
+        "priceRange": "\u20b999.00 L"
       }
     ],
     "lat": 18.578,
@@ -50019,8 +50099,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-nawani-developers",
     "location": "Walhekarwadi",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.00 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 10625,
     "configurations": [
       "2 BHK",
@@ -50091,12 +50171,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "714 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1000 sq.ft",
-        "priceRange": "\u20b91.19 Cr - \u20b91.53 Cr"
+        "priceRange": "\u20b91.00 Cr"
       }
     ],
     "lat": 18.637,
@@ -50216,12 +50296,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "741 sq.ft",
-        "priceRange": "\u20b992 L - \u20b91.16 Cr"
+        "priceRange": "\u20b992.49 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1041 sq.ft",
-        "priceRange": "\u20b91.29 Cr - \u20b91.66 Cr"
+        "priceRange": "\u20b91.23 Cr"
       }
     ],
     "lat": 18.6516,
@@ -50269,8 +50349,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pride-purple",
     "location": "Charholi",
     "city": "Pune",
-    "priceRange": "\u20b991 L - \u20b92.74 Cr",
-    "exactPrice": "\u20b991 L",
+    "priceRange": "\u20b991.00 L - \u20b92.74 Cr",
+    "exactPrice": "\u20b991.00 L",
     "pricePerSqft": 11592,
     "configurations": [
       "2 BHK",
@@ -50347,7 +50427,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "748 sq.ft",
-        "priceRange": "\u20b991 L - \u20b91.14 Cr"
+        "priceRange": "\u20b991.00 L"
       },
       {
         "type": "3 BHK",
@@ -50357,7 +50437,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1651 sq.ft",
-        "priceRange": "\u20b92.00 Cr - \u20b92.55 Cr"
+        "priceRange": "\u20b92.74 Cr"
       }
     ],
     "lat": 18.6497,
@@ -50493,7 +50573,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1746 sq.ft",
-        "priceRange": "\u20b92.97 Cr - \u20b93.78 Cr"
+        "priceRange": "\u20b92.60 Cr"
       }
     ],
     "lat": 18.505,
@@ -50607,7 +50687,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Shop",
         "carpetArea": "599 sq.ft",
-        "priceRange": "\u20b920.50 L - \u20b94.08 Cr"
+        "priceRange": "\u20b920.50 L"
       },
       {
         "type": "Office",
@@ -50716,9 +50796,9 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Luxury Unit",
         "carpetArea": "1005 sq.ft",
-        "priceRange": "\u20b91.96 Cr - \u20b92.52 Cr"
+        "priceRange": "\u20b91.40 Cr"
       }
     ],
     "lat": 18.661,
@@ -50760,8 +50840,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-rohan",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b988 L - \u20b92.13 Cr",
-    "exactPrice": "\u20b988 L",
+    "priceRange": "\u20b988.00 L - \u20b92.13 Cr",
+    "exactPrice": "\u20b988.00 L",
     "pricePerSqft": 12400,
     "configurations": [
       "1 BHK",
@@ -50832,22 +50912,27 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Smart",
+        "type": "1 BHK Luxury Unit",
+        "carpetArea": "450 sq.ft",
+        "priceRange": "\u20b988.00 L"
+      },
+      {
+        "type": "2 BHK Luxury Unit",
         "carpetArea": "715 sq.ft",
-        "priceRange": "\u20b988 L"
+        "priceRange": "\u20b91.19 Cr"
       },
       {
-        "type": "2 BHK Grande",
-        "carpetArea": "1041 sq.ft",
-        "priceRange": "\u20b91.28 Cr"
+        "type": "2.5 BHK Luxury Unit",
+        "carpetArea": "2800 sq.ft",
+        "priceRange": "\u20b91.50 Cr"
       },
       {
-        "type": "3 BHK Royal",
+        "type": "3 BHK Luxury Unit",
         "carpetArea": "1099 sq.ft",
-        "priceRange": "\u20b91.55 Cr"
+        "priceRange": "\u20b91.82 Cr"
       },
       {
-        "type": "4 BHK Imperial",
+        "type": "4 BHK Luxury Unit",
         "carpetArea": "1241 sq.ft",
         "priceRange": "\u20b92.13 Cr"
       }
@@ -50964,9 +51049,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "702 sq.ft",
-        "priceRange": "\u20b91.32 Cr - \u20b91.70 Cr"
+        "priceRange": "\u20b91.32 Cr"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "904 sq.ft",
+        "priceRange": "\u20b91.70 Cr"
       }
     ],
     "lat": 18.5613,
@@ -51137,8 +51227,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-garve-group",
     "location": "Pimple Nilakh",
     "city": "Pune",
-    "priceRange": "\u20b968 L - \u20b92.39 Cr",
-    "exactPrice": "\u20b968 L",
+    "priceRange": "\u20b968.00 L - \u20b92.39 Cr",
+    "exactPrice": "\u20b968.00 L",
     "pricePerSqft": 27868,
     "configurations": [
       "Office",
@@ -51211,7 +51301,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Office",
         "carpetArea": "706 sq.ft",
-        "priceRange": "\u20b968 L - \u20b92.39 Cr"
+        "priceRange": "\u20b968.00 L"
       },
       {
         "type": "Shop",
@@ -51343,12 +51433,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1004 sq.ft",
-        "priceRange": "\u20b94.62 Cr - \u20b95.94 Cr"
+        "priceRange": "\u20b93.30 Cr"
       },
       {
         "type": "4.5 BHK",
         "carpetArea": "1551 sq.ft",
-        "priceRange": "\u20b97.26 Cr - \u20b99.24 Cr"
+        "priceRange": "\u20b94.21 Cr"
       }
     ],
     "lat": 18.5597,
@@ -51469,9 +51559,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1020 sq.ft",
-        "priceRange": "\u20b91.78 Cr - \u20b92.29 Cr"
+        "priceRange": "\u20b91.27 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1100 sq.ft",
+        "priceRange": "\u20b91.37 Cr"
       }
     ],
     "lat": 18.5869,
@@ -51519,8 +51614,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-excellaa-realty",
     "location": "Maan",
     "city": "Pune",
-    "priceRange": "\u20b989 L - \u20b91.21 Cr",
-    "exactPrice": "\u20b989 L",
+    "priceRange": "\u20b989.00 L - \u20b91.21 Cr",
+    "exactPrice": "\u20b989.00 L",
     "pricePerSqft": 12275,
     "configurations": [
       "2 BHK",
@@ -51591,7 +51686,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "690 sq.ft",
-        "priceRange": "\u20b989 L - \u20b91.11 Cr"
+        "priceRange": "\u20b989.00 L"
       },
       {
         "type": "3 BHK",
@@ -51722,7 +51817,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1691 sq.ft",
-        "priceRange": "\u20b92.35 Cr - \u20b93.00 Cr"
+        "priceRange": "\u20b92.69 Cr"
       }
     ],
     "lat": 18.6019,
@@ -51856,7 +51951,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1038 sq.ft",
-        "priceRange": "\u20b91.44 Cr - \u20b91.85 Cr"
+        "priceRange": "\u20b91.30 Cr"
       }
     ],
     "lat": 18.5897,
@@ -51904,7 +51999,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pristine-properties",
     "location": "Kalyani Nagar",
     "city": "Pune",
-    "priceRange": "\u20b94.25 Cr - \u20b910 Cr",
+    "priceRange": "\u20b94.25 Cr - \u20b910.00 Cr",
     "exactPrice": "\u20b94.25 Cr",
     "pricePerSqft": 25617,
     "configurations": [
@@ -51985,7 +52080,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1097 sq.ft",
-        "priceRange": "\u20b95.95 Cr - \u20b97.65 Cr"
+        "priceRange": "\u20b94.25 Cr"
       },
       {
         "type": "4.5 BHK",
@@ -52000,7 +52095,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1685 sq.ft",
-        "priceRange": "\u20b99.35 Cr - \u20b911.90 Cr"
+        "priceRange": "\u20b910.00 Cr"
       }
     ],
     "lat": 18.5428,
@@ -52121,7 +52216,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Shop",
         "carpetArea": "630 sq.ft",
-        "priceRange": "\u20b94.75 Cr - \u20b923.56 Cr"
+        "priceRange": "\u20b923.56 Cr"
       }
     ],
     "lat": 18.5475,
@@ -52243,7 +52338,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "739 sq.ft",
-        "priceRange": "\u20b980 L - \u20b91.00 Cr"
+        "priceRange": "\u20b980.03 L"
       },
       {
         "type": "3 BHK",
@@ -52258,7 +52353,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK",
         "carpetArea": "1672 sq.ft",
-        "priceRange": "\u20b91.76 Cr - \u20b92.24 Cr"
+        "priceRange": "\u20b92.77 Cr"
       }
     ],
     "lat": 18.5849,
@@ -52388,7 +52483,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1074 sq.ft",
-        "priceRange": "\u20b996 L - \u20b91.23 Cr"
+        "priceRange": "\u20b999.19 L"
       }
     ],
     "lat": 18.5823,
@@ -52435,8 +52530,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-smruti-developers",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b976 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b976 L",
+    "priceRange": "\u20b976.00 L - \u20b91.10 Cr",
+    "exactPrice": "\u20b976.00 L",
     "pricePerSqft": 9768,
     "configurations": [
       "2 BHK",
@@ -52647,7 +52742,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Showroom",
         "carpetArea": "618 sq.ft",
-        "priceRange": "\u20b92.03 Cr - \u20b99.51 Cr"
+        "priceRange": "\u20b99.51 Cr"
       }
     ],
     "lat": 18.5637,
@@ -52918,8 +53013,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-ranawat-group",
     "location": "Anand Nagar",
     "city": "Pune",
-    "priceRange": "Price on Request",
-    "exactPrice": "Price on Request",
+    "priceRange": "\u20b985.00 L",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "3 BHK",
@@ -52980,7 +53075,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100051410",
     "verificationStatus": "Verified",
     "featured": false,
-    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
     "floorPlans": [
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1774955181630535411.jpeg",
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/1676437595134924226.jpg"
@@ -52989,12 +53084,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1095 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1810 sq.ft",
-        "priceRange": "\u20b91.65 Cr - \u20b92.10 Cr"
+        "priceRange": "\u20b985.00 L"
       }
     ],
     "lat": 18.4783,
@@ -53129,7 +53224,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "985 sq.ft",
-        "priceRange": "\u20b997 L - \u20b91.25 Cr"
+        "priceRange": "\u20b996.61 L"
       }
     ],
     "lat": 18.6699,
@@ -53243,9 +53338,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "728 sq.ft",
-        "priceRange": "\u20b93.41 Cr - \u20b97.57 Cr"
+        "priceRange": "\u20b93.41 Cr"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "1019 sq.ft",
+        "priceRange": "\u20b97.57 Cr"
       }
     ],
     "lat": 18.5326,
@@ -53370,7 +53470,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Showroom",
         "carpetArea": "724 sq.ft",
-        "priceRange": "\u20b91.95 Cr - \u20b94.78 Cr"
+        "priceRange": "\u20b94.78 Cr"
       }
     ],
     "lat": 18.6028,
@@ -53493,7 +53593,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1033 sq.ft",
-        "priceRange": "\u20b996 L - \u20b91.23 Cr"
+        "priceRange": "\u20b91.17 Cr"
       }
     ],
     "lat": 18.6507,
@@ -53613,7 +53713,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Showroom",
         "carpetArea": "689 sq.ft",
-        "priceRange": "\u20b91.17 Cr - \u20b93.79 Cr"
+        "priceRange": "\u20b93.79 Cr"
       }
     ],
     "lat": 18.6151,
@@ -53731,12 +53831,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "758 sq.ft",
-        "priceRange": "\u20b981 L - \u20b91.01 Cr"
+        "priceRange": "\u20b980.62 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1063 sq.ft",
-        "priceRange": "\u20b91.13 Cr - \u20b91.45 Cr"
+        "priceRange": "\u20b997.75 L"
       }
     ],
     "lat": 18.6236,
@@ -53851,7 +53951,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Shop",
         "carpetArea": "697 sq.ft",
-        "priceRange": "\u20b980.59 L - \u20b922.48 Cr"
+        "priceRange": "\u20b980.59 L"
       },
       {
         "type": "Office",
@@ -53897,8 +53997,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-over-40-curated-lifestyle-amenities",
     "location": "Thergaon",
     "city": "Pune",
-    "priceRange": "\u20b939 L - \u20b992 L",
-    "exactPrice": "\u20b939 L",
+    "priceRange": "\u20b939.00 L - \u20b992.00 L",
+    "exactPrice": "\u20b939.00 L",
     "pricePerSqft": 10483,
     "configurations": [
       "1 BHK",
@@ -53973,7 +54073,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "434 sq.ft",
-        "priceRange": "\u20b927 L - \u20b933 L"
+        "priceRange": "\u20b939.00 L"
       },
       {
         "type": "2 BHK",
@@ -53983,7 +54083,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "997 sq.ft",
-        "priceRange": "\u20b955 L - \u20b970 L"
+        "priceRange": "\u20b992.00 L"
       }
     ],
     "lat": 18.6075,
@@ -54105,7 +54205,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "690 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b984.56 L"
       }
     ],
     "lat": 18.5945,
@@ -54246,7 +54346,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1045 sq.ft",
-        "priceRange": "\u20b92.07 Cr - \u20b92.66 Cr"
+        "priceRange": "\u20b91.48 Cr"
       }
     ],
     "lat": 18.6137,
@@ -54370,12 +54470,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1023 sq.ft",
-        "priceRange": "\u20b92.09 Cr - \u20b92.68 Cr"
+        "priceRange": "\u20b91.49 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1600 sq.ft",
-        "priceRange": "\u20b93.28 Cr - \u20b94.17 Cr"
+        "priceRange": "\u20b92.08 Cr"
       }
     ],
     "lat": 18.6489,
@@ -54423,8 +54523,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-legacy-lifespaces",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b990 L - \u20b91.40 Cr",
-    "exactPrice": "\u20b990 L",
+    "priceRange": "\u20b990.00 L - \u20b91.40 Cr",
+    "exactPrice": "\u20b990.00 L",
     "pricePerSqft": 12000,
     "configurations": [
       "2 BHK",
@@ -54497,12 +54597,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "692 sq.ft",
-        "priceRange": "\u20b990 L - \u20b91.13 Cr"
+        "priceRange": "\u20b990.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1023 sq.ft",
-        "priceRange": "\u20b91.26 Cr - \u20b91.62 Cr"
+        "priceRange": "\u20b91.40 Cr"
       }
     ],
     "lat": 18.5985,
@@ -54725,9 +54825,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1126 sq.ft",
-        "priceRange": "\u20b91.62 Cr - \u20b92.09 Cr"
+        "priceRange": "\u20b91.16 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1223 sq.ft",
+        "priceRange": "\u20b91.26 Cr"
       }
     ],
     "lat": 18.6429,
@@ -54846,12 +54951,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1077 sq.ft",
-        "priceRange": "\u20b91.69 Cr - \u20b92.18 Cr"
+        "priceRange": "\u20b91.21 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1821 sq.ft",
-        "priceRange": "\u20b92.66 Cr - \u20b93.39 Cr"
+        "priceRange": "\u20b92.09 Cr"
       }
     ],
     "lat": 18.5967,
@@ -54984,12 +55089,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1632 sq.ft",
-        "priceRange": "\u20b95.70 Cr - \u20b97.25 Cr"
+        "priceRange": "\u20b92.59 Cr"
       },
       {
         "type": "4.5 BHK",
         "carpetArea": "1777 sq.ft",
-        "priceRange": "\u20b95.70 Cr - \u20b97.25 Cr"
+        "priceRange": "\u20b93.10 Cr"
       }
     ],
     "lat": 18.5163,
@@ -55037,8 +55142,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-krisala",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b91.90 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b91.90 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 12800,
     "configurations": [
       "2 BHK",
@@ -55167,8 +55272,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-santiago-realty",
     "location": "Chikhali",
     "city": "Pune",
-    "priceRange": "\u20b955 L",
-    "exactPrice": "\u20b955 L",
+    "priceRange": "\u20b955.00 L",
+    "exactPrice": "\u20b955.00 L",
     "pricePerSqft": 7936,
     "configurations": [
       "2 BHK"
@@ -55242,7 +55347,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "688 sq.ft",
-        "priceRange": "\u20b955 L - \u20b969 L"
+        "priceRange": "\u20b955.00 L"
       }
     ],
     "lat": 18.6883,
@@ -55372,12 +55477,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3.5 BHK",
         "carpetArea": "1100 sq.ft",
-        "priceRange": "\u20b94.21 Cr - \u20b95.42 Cr"
+        "priceRange": "\u20b93.01 Cr"
       },
       {
         "type": "4.5 BHK",
         "carpetArea": "1688 sq.ft",
-        "priceRange": "\u20b96.62 Cr - \u20b98.43 Cr"
+        "priceRange": "\u20b93.69 Cr"
       }
     ],
     "lat": 18.4767,
@@ -55492,9 +55597,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Studio",
+        "type": "Studio Premium",
         "carpetArea": "646 sq.ft",
-        "priceRange": "\u20b926.36 L - \u20b940.06 L"
+        "priceRange": "\u20b926.36 L"
+      },
+      {
+        "type": "Studio Grande",
+        "carpetArea": "904 sq.ft",
+        "priceRange": "\u20b940.06 L"
       }
     ],
     "lat": 18.6202,
@@ -55621,12 +55731,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1082 sq.ft",
-        "priceRange": "\u20b91.82 Cr - \u20b92.34 Cr"
+        "priceRange": "\u20b91.30 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1840 sq.ft",
-        "priceRange": "\u20b92.86 Cr - \u20b93.64 Cr"
+        "priceRange": "\u20b91.98 Cr"
       }
     ],
     "lat": 18.5194,
@@ -55750,12 +55860,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1076 sq.ft",
-        "priceRange": "\u20b95.04 Cr - \u20b96.48 Cr"
+        "priceRange": "\u20b93.60 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1656 sq.ft",
-        "priceRange": "\u20b97.92 Cr - \u20b910.08 Cr"
+        "priceRange": "\u20b94.82 Cr"
       }
     ],
     "lat": 18.571,
@@ -55877,12 +55987,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1753 sq.ft",
-        "priceRange": "\u20b97.61 Cr - \u20b99.69 Cr"
+        "priceRange": "\u20b93.46 Cr"
       },
       {
         "type": "4.5 BHK",
         "carpetArea": "1781 sq.ft",
-        "priceRange": "\u20b97.61 Cr - \u20b99.69 Cr"
+        "priceRange": "\u20b93.65 Cr"
       }
     ],
     "lat": 18.579,
@@ -55928,8 +56038,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtop-spaces",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b981 L - \u20b91.08 Cr",
-    "exactPrice": "\u20b981 L",
+    "priceRange": "\u20b981.00 L - \u20b91.08 Cr",
+    "exactPrice": "\u20b981.00 L",
     "pricePerSqft": 11408,
     "configurations": [
       "2 BHK",
@@ -56006,7 +56116,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "753 sq.ft",
-        "priceRange": "\u20b981 L - \u20b91.01 Cr"
+        "priceRange": "\u20b981.00 L"
       },
       {
         "type": "3 BHK",
@@ -56138,7 +56248,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1000 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b91.23 Cr"
       }
     ],
     "lat": 18.6297,
@@ -56186,8 +56296,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-rohit-infra",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.60 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.60 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 11184,
     "configurations": [
       "2 BHK",
@@ -56262,7 +56372,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "739 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
@@ -56272,7 +56382,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1692 sq.ft",
-        "priceRange": "\u20b91.87 Cr - \u20b92.38 Cr"
+        "priceRange": "\u20b91.60 Cr"
       }
     ],
     "lat": 18.6248,
@@ -56394,12 +56504,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1097 sq.ft",
-        "priceRange": "\u20b92.42 Cr - \u20b93.11 Cr"
+        "priceRange": "\u20b91.73 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1666 sq.ft",
-        "priceRange": "\u20b93.81 Cr - \u20b94.84 Cr"
+        "priceRange": "\u20b92.10 Cr"
       }
     ],
     "lat": 18.6183,
@@ -56521,12 +56631,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "992 sq.ft",
-        "priceRange": "\u20b92.59 Cr - \u20b93.33 Cr"
+        "priceRange": "\u20b91.85 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1563 sq.ft",
-        "priceRange": "\u20b94.07 Cr - \u20b95.18 Cr"
+        "priceRange": "\u20b92.80 Cr"
       }
     ],
     "lat": 18.5945,
@@ -56652,7 +56762,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "997 sq.ft",
-        "priceRange": "\u20b974 L - \u20b995 L"
+        "priceRange": "\u20b968.95 L"
       }
     ],
     "lat": 18.6703,
@@ -56777,9 +56887,9 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Luxury Unit",
         "carpetArea": "1028 sq.ft",
-        "priceRange": "\u20b91.48 Cr - \u20b91.91 Cr"
+        "priceRange": "\u20b91.06 Cr"
       }
     ],
     "lat": 18.6498,
@@ -56827,8 +56937,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sai-nisarg-landmark",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b985 L",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 11740,
     "configurations": [
       "2 BHK"
@@ -56898,7 +57008,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "747 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       }
     ],
     "lat": 18.6297,
@@ -56946,8 +57056,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-estofa-realty",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b958 L - \u20b91 Cr",
-    "exactPrice": "\u20b958 L",
+    "priceRange": "\u20b958.00 L - \u20b91.00 Cr",
+    "exactPrice": "\u20b958.00 L",
     "pricePerSqft": 13942,
     "configurations": [
       "1 BHK",
@@ -57017,12 +57127,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "430 sq.ft",
-        "priceRange": "\u20b941 L - \u20b949 L"
+        "priceRange": "\u20b958.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "719 sq.ft",
-        "priceRange": "\u20b958 L - \u20b973 L"
+        "priceRange": "\u20b91.00 Cr"
       }
     ],
     "lat": 18.5953,
@@ -57067,8 +57177,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-hiranandani",
     "location": "Darumbre",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b91.12 Cr",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b91.12 Cr",
+    "exactPrice": "\u20b975.00 L",
     "pricePerSqft": 10000,
     "configurations": [
       "2 BHK",
@@ -57146,7 +57256,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1067 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b91.12 Cr"
       }
     ],
     "lat": 18.6435,
@@ -57268,7 +57378,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "697 sq.ft",
-        "priceRange": "\u20b993 L - \u20b91.17 Cr"
+        "priceRange": "\u20b993.49 L"
       },
       {
         "type": "3 BHK",
@@ -57387,9 +57497,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "622 sq.ft",
-        "priceRange": "\u20b92.46 Cr - \u20b94.48 Cr"
+        "priceRange": "\u20b92.46 Cr"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "870 sq.ft",
+        "priceRange": "\u20b94.48 Cr"
       }
     ],
     "lat": 18.5476,
@@ -57524,7 +57639,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Jodi",
         "carpetArea": "601 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.55 Cr"
+        "priceRange": "\u20b91.55 Cr"
       }
     ],
     "lat": 18.5453,
@@ -57572,8 +57687,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kunal-landmarks",
     "location": "Rahatani",
     "city": "Pune",
-    "priceRange": "Price on Request",
-    "exactPrice": "Price on Request",
+    "priceRange": "\u20b985.00 L",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "2 BHK",
@@ -57654,7 +57769,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "741 sq.ft",
-        "priceRange": "\u20b975 L - \u20b994 L"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "2.5 BHK",
@@ -57664,7 +57779,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1029 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b985.00 L"
       }
     ],
     "lat": 18.6009,
@@ -57782,9 +57897,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "4 BHK",
+        "type": "4 BHK Premium",
         "carpetArea": "1703 sq.ft",
-        "priceRange": "\u20b94.16 Cr - \u20b95.29 Cr"
+        "priceRange": "\u20b91.89 Cr"
+      },
+      {
+        "type": "4 BHK Grande",
+        "carpetArea": "1982 sq.ft",
+        "priceRange": "\u20b92.20 Cr"
       }
     ],
     "lat": 18.5953,
@@ -57925,7 +58045,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1701 sq.ft",
-        "priceRange": "\u20b92.64 Cr - \u20b93.36 Cr"
+        "priceRange": "\u20b92.44 Cr"
       }
     ],
     "lat": 18.6263,
@@ -58047,12 +58167,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1043 sq.ft",
-        "priceRange": "\u20b92.59 Cr - \u20b93.33 Cr"
+        "priceRange": "\u20b91.85 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1825 sq.ft",
-        "priceRange": "\u20b94.07 Cr - \u20b95.18 Cr"
+        "priceRange": "\u20b92.36 Cr"
       }
     ],
     "lat": 18.6585,
@@ -58100,8 +58220,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-arkaay-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b996 L - \u20b91.30 Cr",
-    "exactPrice": "\u20b996 L",
+    "priceRange": "\u20b996.00 L - \u20b91.30 Cr",
+    "exactPrice": "\u20b996.00 L",
     "pricePerSqft": 12355,
     "configurations": [
       "2 BHK",
@@ -58174,7 +58294,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "723 sq.ft",
-        "priceRange": "\u20b996 L - \u20b91.20 Cr"
+        "priceRange": "\u20b996.00 L"
       },
       {
         "type": "3 BHK",
@@ -58297,9 +58417,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1020 sq.ft",
-        "priceRange": "\u20b92.52 Cr - \u20b93.24 Cr"
+        "priceRange": "\u20b91.80 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1076 sq.ft",
+        "priceRange": "\u20b91.90 Cr"
       }
     ],
     "lat": 18.5796,
@@ -58347,8 +58472,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-silverise-group",
     "location": "Pimpri",
     "city": "Pune",
-    "priceRange": "\u20b964 L - \u20b92.73 Cr",
-    "exactPrice": "\u20b964 L",
+    "priceRange": "\u20b964.00 L - \u20b92.73 Cr",
+    "exactPrice": "\u20b964.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "Shop"
@@ -58416,9 +58541,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "562 sq.ft",
-        "priceRange": "\u20b964 L - \u20b92.73 Cr"
+        "priceRange": "\u20b964.00 L"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "786 sq.ft",
+        "priceRange": "\u20b92.73 Cr"
       }
     ],
     "lat": 18.6276,
@@ -58672,7 +58802,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1118 sq.ft",
-        "priceRange": "\u20b91.61 Cr - \u20b92.07 Cr"
+        "priceRange": "\u20b91.69 Cr"
       }
     ],
     "lat": 18.6059,
@@ -58720,8 +58850,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sukhwani-associates",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b995 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b995 L",
+    "priceRange": "\u20b995.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b995.00 L",
     "pricePerSqft": 12450,
     "configurations": [
       "2 BHK",
@@ -58794,12 +58924,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "694 sq.ft",
-        "priceRange": "\u20b995 L - \u20b91.19 Cr"
+        "priceRange": "\u20b995.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1062 sq.ft",
-        "priceRange": "\u20b91.33 Cr - \u20b91.71 Cr"
+        "priceRange": "\u20b91.45 Cr"
       }
     ],
     "lat": 18.6586,
@@ -58847,8 +58977,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-mansion-creators",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b91.09 Cr",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b91.09 Cr",
+    "exactPrice": "\u20b975.00 L",
     "pricePerSqft": 10917,
     "configurations": [
       "2 BHK",
@@ -59044,9 +59174,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1015 sq.ft",
-        "priceRange": "\u20b92.67 Cr - \u20b93.44 Cr"
+        "priceRange": "\u20b91.91 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1216 sq.ft",
+        "priceRange": "\u20b92.29 Cr"
       }
     ],
     "lat": 18.6011,
@@ -59187,7 +59322,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1695 sq.ft",
-        "priceRange": "\u20b92.64 Cr - \u20b93.36 Cr"
+        "priceRange": "\u20b92.44 Cr"
       }
     ],
     "lat": 18.6292,
@@ -59235,8 +59370,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kamalraj-group",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b975.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "2 BHK",
@@ -59314,7 +59449,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1090 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b91.15 Cr"
       }
     ],
     "lat": 18.6484,
@@ -59441,7 +59576,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1032 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.28 Cr"
+        "priceRange": "\u20b91.04 Cr"
       }
     ],
     "lat": 18.6462,
@@ -59489,8 +59624,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-the-skies-group",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "Price on Request",
-    "exactPrice": "Price on Request",
+    "priceRange": "\u20b985.00 L",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "2 BHK",
@@ -59563,12 +59698,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "719 sq.ft",
-        "priceRange": "\u20b975 L - \u20b994 L"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1023 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b985.00 L"
       }
     ],
     "lat": 18.6612,
@@ -59690,12 +59825,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1099 sq.ft",
-        "priceRange": "\u20b94.90 Cr - \u20b96.30 Cr"
+        "priceRange": "\u20b93.50 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1580 sq.ft",
-        "priceRange": "\u20b97.70 Cr - \u20b99.80 Cr"
+        "priceRange": "\u20b95.20 Cr"
       }
     ],
     "lat": 18.5979,
@@ -59821,7 +59956,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1012 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.28 Cr"
+        "priceRange": "\u20b91.04 Cr"
       }
     ],
     "lat": 18.6564,
@@ -59943,12 +60078,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1009 sq.ft",
-        "priceRange": "\u20b93.09 Cr - \u20b93.98 Cr"
+        "priceRange": "\u20b92.21 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1665 sq.ft",
-        "priceRange": "\u20b94.86 Cr - \u20b96.19 Cr"
+        "priceRange": "\u20b93.09 Cr"
       }
     ],
     "lat": 18.6,
@@ -60070,12 +60205,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1030 sq.ft",
-        "priceRange": "\u20b91.69 Cr - \u20b92.18 Cr"
+        "priceRange": "\u20b91.21 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1790 sq.ft",
-        "priceRange": "\u20b92.66 Cr - \u20b93.39 Cr"
+        "priceRange": "\u20b92.09 Cr"
       }
     ],
     "lat": 18.596,
@@ -60123,8 +60258,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-croissance-buildcon",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b978 L - \u20b996.82 L",
-    "exactPrice": "\u20b978 L",
+    "priceRange": "\u20b978.00 L - \u20b996.82 L",
+    "exactPrice": "\u20b978.00 L",
     "pricePerSqft": 10512,
     "configurations": [
       "2 BHK",
@@ -60202,7 +60337,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "982 sq.ft",
-        "priceRange": "\u20b91.09 Cr - \u20b91.40 Cr"
+        "priceRange": "\u20b996.82 L"
       }
     ],
     "lat": 18.6469,
@@ -60326,7 +60461,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 RK",
         "carpetArea": "562 sq.ft",
-        "priceRange": "\u20b979.20 L - \u20b91.51 Cr"
+        "priceRange": "\u20b979.20 L"
       },
       {
         "type": "2 BHK",
@@ -60336,7 +60471,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1007 sq.ft",
-        "priceRange": "\u20b91.11 Cr - \u20b91.43 Cr"
+        "priceRange": "\u20b91.51 Cr"
       }
     ],
     "lat": 18.6016,
@@ -60449,7 +60584,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100061000",
     "verificationStatus": "Verified",
     "featured": true,
-    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/c5iyPCgaCqPe2H7UgjtMuIlxz0gkapjWv7U5nlzE.webp",
     "floorPlans": [
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/1684240865306798012.jpg",
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/1774955201963424212.png"
@@ -60458,12 +60593,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "999 sq.ft",
-        "priceRange": "\u20b92.00 Cr - \u20b92.57 Cr"
+        "priceRange": "\u20b91.43 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1645 sq.ft",
-        "priceRange": "\u20b93.15 Cr - \u20b94.00 Cr"
+        "priceRange": "\u20b92.11 Cr"
       }
     ],
     "lat": 18.5136,
@@ -60585,12 +60720,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1019 sq.ft",
-        "priceRange": "\u20b93.36 Cr - \u20b94.32 Cr"
+        "priceRange": "\u20b92.40 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1803 sq.ft",
-        "priceRange": "\u20b95.28 Cr - \u20b96.72 Cr"
+        "priceRange": "\u20b93.35 Cr"
       }
     ],
     "lat": 18.5563,
@@ -60708,12 +60843,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1077 sq.ft",
-        "priceRange": "\u20b92.16 Cr - \u20b92.77 Cr"
+        "priceRange": "\u20b91.54 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1655 sq.ft",
-        "priceRange": "\u20b93.39 Cr - \u20b94.31 Cr"
+        "priceRange": "\u20b92.25 Cr"
       }
     ],
     "lat": 18.6509,
@@ -60845,7 +60980,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1571 sq.ft",
-        "priceRange": "\u20b92.31 Cr - \u20b92.94 Cr"
+        "priceRange": "\u20b92.39 Cr"
       }
     ],
     "lat": 18.6053,
@@ -60961,9 +61096,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "625 sq.ft",
-        "priceRange": "\u20b91.63 Cr - \u20b92.28 Cr"
+        "priceRange": "\u20b91.63 Cr"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "874 sq.ft",
+        "priceRange": "\u20b92.28 Cr"
       }
     ],
     "lat": 18.6236,
@@ -61009,8 +61149,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-december-2029",
     "location": "Walhekarwadi",
     "city": "Pune",
-    "priceRange": "\u20b91 Cr - \u20b91.42 Cr",
-    "exactPrice": "\u20b91 Cr",
+    "priceRange": "\u20b91.00 Cr - \u20b91.42 Cr",
+    "exactPrice": "\u20b91.00 Cr",
     "pricePerSqft": 11560,
     "configurations": [
       "2 BHK",
@@ -61136,8 +61276,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-arihant-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b994 L - \u20b91.20 Cr",
-    "exactPrice": "\u20b994 L",
+    "priceRange": "\u20b994.00 L - \u20b91.20 Cr",
+    "exactPrice": "\u20b994.00 L",
     "pricePerSqft": 11633,
     "configurations": [
       "2 BHK",
@@ -61210,12 +61350,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "714 sq.ft",
-        "priceRange": "\u20b994 L - \u20b91.18 Cr"
+        "priceRange": "\u20b994.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1100 sq.ft",
-        "priceRange": "\u20b91.32 Cr - \u20b91.69 Cr"
+        "priceRange": "\u20b91.20 Cr"
       }
     ],
     "lat": 18.6208,
@@ -61355,7 +61495,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1685 sq.ft",
-        "priceRange": "\u20b92.64 Cr - \u20b93.36 Cr"
+        "priceRange": "\u20b92.44 Cr"
       }
     ],
     "lat": 18.628,
@@ -61403,8 +61543,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-51-developers",
     "location": "Nigdi",
     "city": "Pune",
-    "priceRange": "\u20b967 L - \u20b91.70 Cr",
-    "exactPrice": "\u20b967 L",
+    "priceRange": "\u20b967.00 L - \u20b91.70 Cr",
+    "exactPrice": "\u20b967.00 L",
     "pricePerSqft": 19420,
     "configurations": [
       "Office"
@@ -61471,9 +61611,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "651 sq.ft",
-        "priceRange": "\u20b967 L - \u20b91.70 Cr"
+        "priceRange": "\u20b967.00 L"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "911 sq.ft",
+        "priceRange": "\u20b91.70 Cr"
       }
     ],
     "lat": 18.6629,
@@ -61611,7 +61756,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1598 sq.ft",
-        "priceRange": "\u20b92.64 Cr - \u20b93.36 Cr"
+        "priceRange": "\u20b92.44 Cr"
       }
     ],
     "lat": 18.6244,
@@ -61874,7 +62019,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1819 sq.ft",
-        "priceRange": "\u20b91.63 Cr - \u20b92.07 Cr"
+        "priceRange": "\u20b91.40 Cr"
       }
     ],
     "lat": 18.6275,
@@ -61922,8 +62067,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-skylish-bluediamond-innfrracon",
     "location": "Pimpri",
     "city": "Pune",
-    "priceRange": "Price on Request",
-    "exactPrice": "Price on Request",
+    "priceRange": "\u20b985.00 L",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "2 BHK"
@@ -61994,7 +62139,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "713 sq.ft",
-        "priceRange": "\u20b975 L - \u20b994 L"
+        "priceRange": "\u20b985.00 L"
       }
     ],
     "lat": 18.6296,
@@ -62042,8 +62187,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kasturi",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b91 Cr - \u20b91.80 Cr",
-    "exactPrice": "\u20b91 Cr",
+    "priceRange": "\u20b91.00 Cr - \u20b91.80 Cr",
+    "exactPrice": "\u20b91.00 Cr",
     "pricePerSqft": 25000,
     "configurations": [
       "Shop"
@@ -62112,9 +62257,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "581 sq.ft",
-        "priceRange": "\u20b91 Cr - \u20b91.80 Cr"
+        "priceRange": "\u20b91.00 Cr"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "813 sq.ft",
+        "priceRange": "\u20b91.80 Cr"
       }
     ],
     "lat": 18.6531,
@@ -62232,9 +62382,9 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "4 BHK",
+        "type": "4 BHK Luxury Unit",
         "carpetArea": "1712 sq.ft",
-        "priceRange": "\u20b97.48 Cr - \u20b99.52 Cr"
+        "priceRange": "\u20b93.40 Cr"
       }
     ],
     "lat": 18.658,
@@ -62356,12 +62506,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1051 sq.ft",
-        "priceRange": "\u20b92.10 Cr - \u20b92.70 Cr"
+        "priceRange": "\u20b91.50 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1658 sq.ft",
-        "priceRange": "\u20b93.30 Cr - \u20b94.20 Cr"
+        "priceRange": "\u20b91.80 Cr"
       }
     ],
     "lat": 18.6165,
@@ -62409,8 +62559,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-ambrosia-developers",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b932 L - \u20b936 L",
-    "exactPrice": "\u20b932 L",
+    "priceRange": "\u20b932.00 L - \u20b936.00 L",
+    "exactPrice": "\u20b932.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "Studio"
@@ -62479,9 +62629,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Studio",
+        "type": "Studio Premium",
         "carpetArea": "718 sq.ft",
-        "priceRange": "\u20b932 L - \u20b936 L"
+        "priceRange": "\u20b932.00 L"
+      },
+      {
+        "type": "Studio Grande",
+        "carpetArea": "807 sq.ft",
+        "priceRange": "\u20b936.00 L"
       }
     ],
     "lat": 18.5637,
@@ -62655,8 +62810,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-jhamtani-group",
     "location": "Pimple Saudagar",
     "city": "Pune",
-    "priceRange": "\u20b997 L - \u20b91.60 Cr",
-    "exactPrice": "\u20b997 L",
+    "priceRange": "\u20b997.00 L - \u20b91.60 Cr",
+    "exactPrice": "\u20b997.00 L",
     "pricePerSqft": 26648,
     "configurations": [
       "Office"
@@ -62723,9 +62878,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "605 sq.ft",
-        "priceRange": "\u20b997 L - \u20b91.60 Cr"
+        "priceRange": "\u20b997.00 L"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "847 sq.ft",
+        "priceRange": "\u20b91.60 Cr"
       }
     ],
     "lat": 18.5997,
@@ -62772,8 +62932,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-rk-developers",
     "location": "Mamurdi",
     "city": "Pune",
-    "priceRange": "\u20b966 L - \u20b998 L",
-    "exactPrice": "\u20b966 L",
+    "priceRange": "\u20b966.00 L - \u20b998.00 L",
+    "exactPrice": "\u20b966.00 L",
     "pricePerSqft": 9256,
     "configurations": [
       "2 BHK",
@@ -62851,7 +63011,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1021 sq.ft",
-        "priceRange": "\u20b992 L - \u20b91.19 Cr"
+        "priceRange": "\u20b998.00 L"
       }
     ],
     "lat": 18.6619,
@@ -62899,8 +63059,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-road",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "Price on Request",
-    "exactPrice": "Price on Request",
+    "priceRange": "\u20b985.00 L",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "2 BHK"
@@ -62967,7 +63127,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "714 sq.ft",
-        "priceRange": "\u20b975 L - \u20b994 L"
+        "priceRange": "\u20b985.00 L"
       }
     ],
     "lat": 18.6521,
@@ -63011,8 +63171,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-merak-developers",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b978 L - \u20b91 Cr",
-    "exactPrice": "\u20b978 L",
+    "priceRange": "\u20b978.00 L - \u20b91.00 Cr",
+    "exactPrice": "\u20b978.00 L",
     "pricePerSqft": 11607,
     "configurations": [
       "2 BHK",
@@ -63090,7 +63250,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "997 sq.ft",
-        "priceRange": "\u20b91.09 Cr - \u20b91.40 Cr"
+        "priceRange": "\u20b91.00 Cr"
       }
     ],
     "lat": 18.5865,
@@ -63212,12 +63372,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1047 sq.ft",
-        "priceRange": "\u20b93.09 Cr - \u20b93.98 Cr"
+        "priceRange": "\u20b92.21 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1646 sq.ft",
-        "priceRange": "\u20b94.86 Cr - \u20b96.19 Cr"
+        "priceRange": "\u20b93.09 Cr"
       }
     ],
     "lat": 18.598,
@@ -63336,9 +63496,9 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Luxury Unit",
         "carpetArea": "1122 sq.ft",
-        "priceRange": "\u20b92.66 Cr - \u20b93.42 Cr"
+        "priceRange": "\u20b91.90 Cr"
       }
     ],
     "lat": 18.5744,
@@ -63459,12 +63619,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "736 sq.ft",
-        "priceRange": "\u20b982 L - \u20b91.02 Cr"
+        "priceRange": "\u20b981.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1025 sq.ft",
-        "priceRange": "\u20b91.14 Cr - \u20b91.47 Cr"
+        "priceRange": "\u20b91.30 Cr"
       }
     ],
     "lat": 18.6235,
@@ -63586,12 +63746,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1034 sq.ft",
-        "priceRange": "\u20b93.09 Cr - \u20b93.98 Cr"
+        "priceRange": "\u20b92.21 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1622 sq.ft",
-        "priceRange": "\u20b94.86 Cr - \u20b96.19 Cr"
+        "priceRange": "\u20b93.09 Cr"
       }
     ],
     "lat": 18.5946,
@@ -63713,12 +63873,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1113 sq.ft",
-        "priceRange": "\u20b91.68 Cr - \u20b92.16 Cr"
+        "priceRange": "\u20b91.20 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1733 sq.ft",
-        "priceRange": "\u20b92.64 Cr - \u20b93.36 Cr"
+        "priceRange": "\u20b92.15 Cr"
       }
     ],
     "lat": 18.6491,
@@ -63766,8 +63926,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-new-developers",
     "location": "Mamurdi",
     "city": "Pune",
-    "priceRange": "\u20b943 L - \u20b974 L",
-    "exactPrice": "\u20b943 L",
+    "priceRange": "\u20b943.00 L - \u20b974.00 L",
+    "exactPrice": "\u20b943.00 L",
     "pricePerSqft": 9555,
     "configurations": [
       "1 BHK",
@@ -63842,7 +64002,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "424 sq.ft",
-        "priceRange": "\u20b930 L - \u20b937 L"
+        "priceRange": "\u20b943.00 L"
       },
       {
         "type": "2 BHK",
@@ -63852,7 +64012,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1006 sq.ft",
-        "priceRange": "\u20b960 L - \u20b977 L"
+        "priceRange": "\u20b974.00 L"
       }
     ],
     "lat": 18.6634,
@@ -63900,8 +64060,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-march-2027",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b978 L - \u20b91.20 Cr",
-    "exactPrice": "\u20b978 L",
+    "priceRange": "\u20b978.00 L - \u20b91.20 Cr",
+    "exactPrice": "\u20b978.00 L",
     "pricePerSqft": 9762,
     "configurations": [
       "2 BHK",
@@ -63987,7 +64147,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1090 sq.ft",
-        "priceRange": "\u20b91.09 Cr - \u20b91.40 Cr"
+        "priceRange": "\u20b91.20 Cr"
       }
     ],
     "lat": 18.6488,
@@ -64114,7 +64274,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1098 sq.ft",
-        "priceRange": "\u20b91.89 Cr - \u20b92.43 Cr"
+        "priceRange": "\u20b91.70 Cr"
       }
     ],
     "lat": 18.6012,
@@ -64229,9 +64389,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "656 sq.ft",
-        "priceRange": "\u20b91.70 Cr - \u20b98.88 Cr"
+        "priceRange": "\u20b91.70 Cr"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "918 sq.ft",
+        "priceRange": "\u20b98.88 Cr"
       }
     ],
     "lat": 18.5601,
@@ -64276,8 +64441,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b996 L - \u20b91.40 Cr",
-    "exactPrice": "\u20b996 L",
+    "priceRange": "\u20b996.00 L - \u20b91.40 Cr",
+    "exactPrice": "\u20b996.00 L",
     "pricePerSqft": 12500,
     "configurations": [
       "2 BHK",
@@ -64350,12 +64515,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b996 L - \u20b91.20 Cr"
+        "priceRange": "\u20b996.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1061 sq.ft",
-        "priceRange": "\u20b91.34 Cr - \u20b91.73 Cr"
+        "priceRange": "\u20b91.40 Cr"
       }
     ],
     "lat": 18.5935,
@@ -64403,8 +64568,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-jhamtani-group",
     "location": "Pimple Saudagar",
     "city": "Pune",
-    "priceRange": "\u20b997 L - \u20b91.91 Cr",
-    "exactPrice": "\u20b997 L",
+    "priceRange": "\u20b997.00 L - \u20b91.91 Cr",
+    "exactPrice": "\u20b997.00 L",
     "pricePerSqft": 26648,
     "configurations": [
       "Office"
@@ -64473,9 +64638,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "669 sq.ft",
-        "priceRange": "\u20b997 L - \u20b91.91 Cr"
+        "priceRange": "\u20b997.00 L"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "936 sq.ft",
+        "priceRange": "\u20b91.91 Cr"
       }
     ],
     "lat": 18.5938,
@@ -64523,8 +64693,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-avis-group",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b986 L - \u20b994 L",
-    "exactPrice": "\u20b986 L",
+    "priceRange": "\u20b986.00 L - \u20b994.00 L",
+    "exactPrice": "\u20b986.00 L",
     "pricePerSqft": 11994,
     "configurations": [
       "2 BHK",
@@ -64596,12 +64766,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "714 sq.ft",
-        "priceRange": "\u20b986 L - \u20b91.08 Cr"
+        "priceRange": "\u20b986.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "980 sq.ft",
-        "priceRange": "\u20b91.20 Cr - \u20b91.55 Cr"
+        "priceRange": "\u20b994.00 L"
       }
     ],
     "lat": 18.5977,
@@ -64649,8 +64819,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vardhaman-properties",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b91.40 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b91.40 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 13378,
     "configurations": [
       "2 BHK",
@@ -64723,7 +64893,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "753 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.24 Cr"
+        "priceRange": "\u20b999.00 L"
       },
       {
         "type": "3 BHK",
@@ -64845,9 +65015,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1022 sq.ft",
-        "priceRange": "\u20b92.67 Cr - \u20b93.44 Cr"
+        "priceRange": "\u20b91.91 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1225 sq.ft",
+        "priceRange": "\u20b92.29 Cr"
       }
     ],
     "lat": 18.5972,
@@ -64968,12 +65143,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "992 sq.ft",
-        "priceRange": "\u20b92.53 Cr - \u20b93.26 Cr"
+        "priceRange": "\u20b91.81 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1599 sq.ft",
-        "priceRange": "\u20b93.98 Cr - \u20b95.07 Cr"
+        "priceRange": "\u20b92.55 Cr"
       }
     ],
     "lat": 18.5567,
@@ -65021,8 +65196,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-abhinav-group",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b91.99 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b91.99 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 22000,
     "configurations": [
       "Office",
@@ -65092,7 +65267,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Office",
         "carpetArea": "598 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.99 Cr"
+        "priceRange": "\u20b999.00 L"
       },
       {
         "type": "Shop",
@@ -65142,8 +65317,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-platinum-buildcon",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b91.99 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b91.99 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 12073,
     "configurations": [
       "2 BHK",
@@ -65217,7 +65392,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "759 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.24 Cr"
+        "priceRange": "\u20b999.00 L"
       },
       {
         "type": "3 BHK",
@@ -65227,7 +65402,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1603 sq.ft",
-        "priceRange": "\u20b92.18 Cr - \u20b92.77 Cr"
+        "priceRange": "\u20b91.99 Cr"
       }
     ],
     "lat": 18.6253,
@@ -65361,7 +65536,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1669 sq.ft",
-        "priceRange": "\u20b92.42 Cr - \u20b93.08 Cr"
+        "priceRange": "\u20b91.80 Cr"
       }
     ],
     "lat": 18.5785,
@@ -65409,8 +65584,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pk-group",
     "location": "Pimple Saudagar",
     "city": "Pune",
-    "priceRange": "\u20b995 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b995 L",
+    "priceRange": "\u20b995.00 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b995.00 L",
     "pricePerSqft": 12258,
     "configurations": [
       "2 BHK"
@@ -65479,9 +65654,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Premium",
         "carpetArea": "701 sq.ft",
-        "priceRange": "\u20b995 L - \u20b91.19 Cr"
+        "priceRange": "\u20b995.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "922 sq.ft",
+        "priceRange": "\u20b91.25 Cr"
       }
     ],
     "lat": 18.6017,
@@ -65529,8 +65709,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-avis-group",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b986 L - \u20b994 L",
-    "exactPrice": "\u20b986 L",
+    "priceRange": "\u20b986.00 L - \u20b994.00 L",
+    "exactPrice": "\u20b986.00 L",
     "pricePerSqft": 11994,
     "configurations": [
       "2 BHK",
@@ -65603,12 +65783,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "686 sq.ft",
-        "priceRange": "\u20b986 L - \u20b91.08 Cr"
+        "priceRange": "\u20b986.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1012 sq.ft",
-        "priceRange": "\u20b91.20 Cr - \u20b91.55 Cr"
+        "priceRange": "\u20b994.00 L"
       }
     ],
     "lat": 18.5991,
@@ -65656,8 +65836,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-ravima-ventures",
     "location": "Walhekarwadi",
     "city": "Pune",
-    "priceRange": "\u20b993 L - \u20b91.41 Cr",
-    "exactPrice": "\u20b993 L",
+    "priceRange": "\u20b993.00 L - \u20b91.41 Cr",
+    "exactPrice": "\u20b993.00 L",
     "pricePerSqft": 12285,
     "configurations": [
       "2 BHK",
@@ -65731,7 +65911,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "710 sq.ft",
-        "priceRange": "\u20b993 L - \u20b91.16 Cr"
+        "priceRange": "\u20b993.00 L"
       },
       {
         "type": "3 BHK",
@@ -65741,7 +65921,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1807 sq.ft",
-        "priceRange": "\u20b92.05 Cr - \u20b92.60 Cr"
+        "priceRange": "\u20b91.41 Cr"
       }
     ],
     "lat": 18.6308,
@@ -65789,8 +65969,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-rgs-realty",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b91.67 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b91.67 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 10645,
     "configurations": [
       "3 BHK",
@@ -65863,12 +66043,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1045 sq.ft",
-        "priceRange": "\u20b91.39 Cr - \u20b91.78 Cr"
+        "priceRange": "\u20b999.00 L"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1581 sq.ft",
-        "priceRange": "\u20b92.18 Cr - \u20b92.77 Cr"
+        "priceRange": "\u20b91.67 Cr"
       }
     ],
     "lat": 18.6259,
@@ -65916,8 +66096,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sai-nisarg-landmark",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b962 L - \u20b963 L",
-    "exactPrice": "\u20b962 L",
+    "priceRange": "\u20b962.00 L - \u20b963.00 L",
+    "exactPrice": "\u20b962.00 L",
     "pricePerSqft": 8083,
     "configurations": [
       "2 BHK"
@@ -65986,9 +66166,9 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Luxury Unit",
         "carpetArea": "747 sq.ft",
-        "priceRange": "\u20b962 L - \u20b978 L"
+        "priceRange": "\u20b962.00 L"
       }
     ],
     "lat": 18.6541,
@@ -66036,8 +66216,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-rohan",
     "location": "Nande",
     "city": "Pune",
-    "priceRange": "\u20b946 L - \u20b984 L",
-    "exactPrice": "\u20b946 L",
+    "priceRange": "\u20b946.00 L - \u20b984.00 L",
+    "exactPrice": "\u20b946.00 L",
     "pricePerSqft": 9200,
     "configurations": [
       "1 BHK",
@@ -66163,8 +66343,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sai-nisarg-landmark",
     "location": "Mamurdi",
     "city": "Pune",
-    "priceRange": "\u20b965 L - \u20b981 L",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b981.00 L",
+    "exactPrice": "\u20b965.00 L",
     "pricePerSqft": 8485,
     "configurations": [
       "2 BHK",
@@ -66242,7 +66422,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1073 sq.ft",
-        "priceRange": "\u20b991 L - \u20b91.17 Cr"
+        "priceRange": "\u20b981.00 L"
       }
     ],
     "lat": 18.6643,
@@ -66290,8 +66470,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-ramsa-developers",
     "location": "Akurdi",
     "city": "Pune",
-    "priceRange": "\u20b984 L - \u20b999 L",
-    "exactPrice": "\u20b984 L",
+    "priceRange": "\u20b984.00 L - \u20b999.00 L",
+    "exactPrice": "\u20b984.00 L",
     "pricePerSqft": 10894,
     "configurations": [
       "2 BHK",
@@ -66364,12 +66544,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "748 sq.ft",
-        "priceRange": "\u20b984 L - \u20b91.05 Cr"
+        "priceRange": "\u20b984.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "985 sq.ft",
-        "priceRange": "\u20b91.18 Cr - \u20b91.51 Cr"
+        "priceRange": "\u20b999.00 L"
       }
     ],
     "lat": 18.6518,
@@ -66488,7 +66668,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1047 sq.ft",
-        "priceRange": "\u20b91.86 Cr - \u20b92.39 Cr"
+        "priceRange": "\u20b91.33 Cr"
       }
     ],
     "lat": 18.5909,
@@ -66536,8 +66716,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-preet-promoter",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b984 L - \u20b999 L",
-    "exactPrice": "\u20b984 L",
+    "priceRange": "\u20b984.00 L - \u20b999.00 L",
+    "exactPrice": "\u20b984.00 L",
     "pricePerSqft": 10526,
     "configurations": [
       "2 BHK",
@@ -66610,12 +66790,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "726 sq.ft",
-        "priceRange": "\u20b984 L - \u20b91.05 Cr"
+        "priceRange": "\u20b984.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1055 sq.ft",
-        "priceRange": "\u20b91.18 Cr - \u20b91.51 Cr"
+        "priceRange": "\u20b999.00 L"
       }
     ],
     "lat": 18.6461,
@@ -66663,8 +66843,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sankla-buildcon",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.18 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.18 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 10925,
     "configurations": [
       "2 BHK",
@@ -66737,7 +66917,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "729 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
@@ -66875,7 +67055,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3.5 BHK",
         "carpetArea": "1042 sq.ft",
-        "priceRange": "\u20b91.78 Cr - \u20b92.29 Cr"
+        "priceRange": "\u20b92.44 Cr"
       }
     ],
     "lat": 18.5716,
@@ -66923,8 +67103,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sankalp-group",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b982 L - \u20b91.22 Cr",
-    "exactPrice": "\u20b982 L",
+    "priceRange": "\u20b982.00 L - \u20b91.22 Cr",
+    "exactPrice": "\u20b982.00 L",
     "pricePerSqft": 11186,
     "configurations": [
       "2 BHK",
@@ -66996,12 +67176,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "754 sq.ft",
-        "priceRange": "\u20b982 L - \u20b91.03 Cr"
+        "priceRange": "\u20b982.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1021 sq.ft",
-        "priceRange": "\u20b91.15 Cr - \u20b91.48 Cr"
+        "priceRange": "\u20b91.22 Cr"
       }
     ],
     "lat": 18.6483,
@@ -67049,8 +67229,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-onkar-developers",
     "location": "Sangavade",
     "city": "Pune",
-    "priceRange": "\u20b940 L - \u20b950 L",
-    "exactPrice": "\u20b940 L",
+    "priceRange": "\u20b940.00 L - \u20b950.00 L",
+    "exactPrice": "\u20b940.00 L",
     "pricePerSqft": 10000,
     "configurations": [
       "1 BHK",
@@ -67123,12 +67303,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "459 sq.ft",
-        "priceRange": "\u20b928 L - \u20b934 L"
+        "priceRange": "\u20b940.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "685 sq.ft",
-        "priceRange": "\u20b940 L - \u20b950 L"
+        "priceRange": "\u20b950.00 L"
       }
     ],
     "lat": 18.657,
@@ -67176,8 +67356,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-bizzbay-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b984 L - \u20b92.04 Cr",
-    "exactPrice": "\u20b984 L",
+    "priceRange": "\u20b984.00 L - \u20b92.04 Cr",
+    "exactPrice": "\u20b984.00 L",
     "pricePerSqft": 29268,
     "configurations": [
       "Office",
@@ -67249,7 +67429,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Office",
         "carpetArea": "568 sq.ft",
-        "priceRange": "\u20b984 L - \u20b92.04 Cr"
+        "priceRange": "\u20b984.00 L"
       },
       {
         "type": "Shop",
@@ -67375,12 +67555,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1005 sq.ft",
-        "priceRange": "\u20b92.09 Cr - \u20b92.68 Cr"
+        "priceRange": "\u20b91.49 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1631 sq.ft",
-        "priceRange": "\u20b93.28 Cr - \u20b94.17 Cr"
+        "priceRange": "\u20b91.99 Cr"
       }
     ],
     "lat": 18.6503,
@@ -67500,7 +67680,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "988 sq.ft",
-        "priceRange": "\u20b91.82 Cr - \u20b92.34 Cr"
+        "priceRange": "\u20b91.30 Cr"
       }
     ],
     "lat": 18.6207,
@@ -67548,8 +67728,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-the-skies-group",
     "location": "Akurdi",
     "city": "Pune",
-    "priceRange": "\u20b965 L",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L",
+    "exactPrice": "\u20b965.00 L",
     "pricePerSqft": 16331,
     "configurations": [
       "Office"
@@ -67617,7 +67797,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Office",
         "carpetArea": "719 sq.ft",
-        "priceRange": "\u20b965 L"
+        "priceRange": "\u20b965.00 L"
       }
     ],
     "lat": 18.6465,
@@ -67662,8 +67842,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-supreme-universal",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b992 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b992 L",
+    "priceRange": "\u20b992.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b992.00 L",
     "pricePerSqft": 12332,
     "configurations": [
       "2 BHK",
@@ -67736,12 +67916,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "757 sq.ft",
-        "priceRange": "\u20b992 L - \u20b91.15 Cr"
+        "priceRange": "\u20b992.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1064 sq.ft",
-        "priceRange": "\u20b91.29 Cr - \u20b91.66 Cr"
+        "priceRange": "\u20b91.45 Cr"
       }
     ],
     "lat": 18.6297,
@@ -67875,7 +68055,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1600 sq.ft",
-        "priceRange": "\u20b92.42 Cr - \u20b93.08 Cr"
+        "priceRange": "\u20b92.29 Cr"
       }
     ],
     "lat": 18.6136,
@@ -67923,8 +68103,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-santiago-realty",
     "location": "Aundh",
     "city": "Pune",
-    "priceRange": "\u20b980 L - \u20b91.07 Cr",
-    "exactPrice": "\u20b980 L",
+    "priceRange": "\u20b980.00 L - \u20b91.07 Cr",
+    "exactPrice": "\u20b980.00 L",
     "pricePerSqft": 11713,
     "configurations": [
       "2 BHK",
@@ -67997,12 +68177,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "728 sq.ft",
-        "priceRange": "\u20b980 L - \u20b91.00 Cr"
+        "priceRange": "\u20b980.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1072 sq.ft",
-        "priceRange": "\u20b91.12 Cr - \u20b91.44 Cr"
+        "priceRange": "\u20b91.07 Cr"
       }
     ],
     "lat": 18.5532,
@@ -68119,9 +68299,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "4 BHK",
+        "type": "4 BHK Premium",
         "carpetArea": "1760 sq.ft",
-        "priceRange": "\u20b912.50 Cr - \u20b915.90 Cr"
+        "priceRange": "\u20b95.68 Cr"
+      },
+      {
+        "type": "4 BHK Grande",
+        "carpetArea": "2358 sq.ft",
+        "priceRange": "\u20b97.61 Cr"
       }
     ],
     "lat": 18.571,
@@ -68243,12 +68428,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1054 sq.ft",
-        "priceRange": "\u20b92.94 Cr - \u20b93.78 Cr"
+        "priceRange": "\u20b92.10 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1648 sq.ft",
-        "priceRange": "\u20b94.62 Cr - \u20b95.88 Cr"
+        "priceRange": "\u20b93.05 Cr"
       }
     ],
     "lat": 18.5779,
@@ -68296,8 +68481,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-the-skies-group",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b974 L - \u20b91.20 Cr",
-    "exactPrice": "\u20b974 L",
+    "priceRange": "\u20b974.00 L - \u20b91.20 Cr",
+    "exactPrice": "\u20b974.00 L",
     "pricePerSqft": 10027,
     "configurations": [
       "2 BHK",
@@ -68375,7 +68560,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1062 sq.ft",
-        "priceRange": "\u20b91.04 Cr - \u20b91.33 Cr"
+        "priceRange": "\u20b91.20 Cr"
       }
     ],
     "lat": 18.6465,
@@ -68496,12 +68681,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1014 sq.ft",
-        "priceRange": "\u20b94.90 Cr - \u20b96.30 Cr"
+        "priceRange": "\u20b93.50 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1685 sq.ft",
-        "priceRange": "\u20b97.70 Cr - \u20b99.80 Cr"
+        "priceRange": "\u20b95.20 Cr"
       }
     ],
     "lat": 18.5937,
@@ -68549,7 +68734,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-codename-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b91.90 Cr - \u20b98 Cr",
+    "priceRange": "\u20b91.90 Cr - \u20b98.00 Cr",
     "exactPrice": "\u20b91.90 Cr",
     "pricePerSqft": 19057,
     "configurations": [
@@ -68617,9 +68802,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Showroom",
+        "type": "Showroom Premium",
         "carpetArea": "714 sq.ft",
-        "priceRange": "\u20b91.90 Cr - \u20b98 Cr"
+        "priceRange": "\u20b91.90 Cr"
+      },
+      {
+        "type": "Showroom Grande",
+        "carpetArea": "999 sq.ft",
+        "priceRange": "\u20b98.00 Cr"
       }
     ],
     "lat": 18.6138,
@@ -68866,7 +69056,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "686 sq.ft",
-        "priceRange": "\u20b993 L - \u20b91.17 Cr"
+        "priceRange": "\u20b993.49 L"
       },
       {
         "type": "3 BHK",
@@ -69009,7 +69199,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1826 sq.ft",
-        "priceRange": "\u20b92.29 Cr - \u20b92.91 Cr"
+        "priceRange": "\u20b92.20 Cr"
       }
     ],
     "lat": 18.6242,
@@ -69057,8 +69247,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sukhwani-associates",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b995 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b995 L",
+    "priceRange": "\u20b995.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b995.00 L",
     "pricePerSqft": 12450,
     "configurations": [
       "2 BHK",
@@ -69134,12 +69324,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "710 sq.ft",
-        "priceRange": "\u20b995 L - \u20b91.19 Cr"
+        "priceRange": "\u20b995.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1036 sq.ft",
-        "priceRange": "\u20b91.33 Cr - \u20b91.71 Cr"
+        "priceRange": "\u20b91.45 Cr"
       }
     ],
     "lat": 18.66,
@@ -69187,8 +69377,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-harivishva-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b987 L - \u20b91.50 Cr",
-    "exactPrice": "\u20b987 L",
+    "priceRange": "\u20b987.00 L - \u20b91.50 Cr",
+    "exactPrice": "\u20b987.00 L",
     "pricePerSqft": 11054,
     "configurations": [
       "2 BHK",
@@ -69260,12 +69450,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "738 sq.ft",
-        "priceRange": "\u20b987 L - \u20b91.09 Cr"
+        "priceRange": "\u20b987.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1098 sq.ft",
-        "priceRange": "\u20b91.22 Cr - \u20b91.57 Cr"
+        "priceRange": "\u20b91.50 Cr"
       }
     ],
     "lat": 18.6188,
@@ -69313,8 +69503,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-yashada-realty",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b977 L - \u20b91.12 Cr",
-    "exactPrice": "\u20b977 L",
+    "priceRange": "\u20b977.00 L - \u20b91.12 Cr",
+    "exactPrice": "\u20b977.00 L",
     "pricePerSqft": 9871,
     "configurations": [
       "2 BHK",
@@ -69440,8 +69630,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-feb-2026",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b979 L - \u20b982 L",
-    "exactPrice": "\u20b979 L",
+    "priceRange": "\u20b979.00 L - \u20b982.00 L",
+    "exactPrice": "\u20b979.00 L",
     "pricePerSqft": 11033,
     "configurations": [
       "2 BHK"
@@ -69504,15 +69694,15 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100033654",
     "verificationStatus": "Verified",
     "featured": false,
-    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/8KKQNl9pXNBZ6numJWe8UNpGknzVelIS0Qg1KIWp.webp"
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Luxury Unit",
         "carpetArea": "730 sq.ft",
-        "priceRange": "\u20b979 L - \u20b999 L"
+        "priceRange": "\u20b979.00 L"
       }
     ],
     "lat": 18.6208,
@@ -69629,9 +69819,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "644 sq.ft",
-        "priceRange": "\u20b92.58 Cr - \u20b94.52 Cr"
+        "priceRange": "\u20b92.58 Cr"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "901 sq.ft",
+        "priceRange": "\u20b94.52 Cr"
       }
     ],
     "lat": 18.6196,
@@ -69744,9 +69939,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "699 sq.ft",
-        "priceRange": "\u20b91.35 Cr - \u20b93.10 Cr"
+        "priceRange": "\u20b91.35 Cr"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "978 sq.ft",
+        "priceRange": "\u20b93.10 Cr"
       }
     ],
     "lat": 18.6008,
@@ -69861,9 +70061,9 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Luxury Unit",
         "carpetArea": "1025 sq.ft",
-        "priceRange": "\u20b92.24 Cr - \u20b92.88 Cr"
+        "priceRange": "\u20b91.60 Cr"
       }
     ],
     "lat": 18.5974,
@@ -69985,12 +70185,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b92.59 Cr - \u20b93.33 Cr"
+        "priceRange": "\u20b91.85 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1550 sq.ft",
-        "priceRange": "\u20b94.07 Cr - \u20b95.18 Cr"
+        "priceRange": "\u20b92.80 Cr"
       }
     ],
     "lat": 18.6033,
@@ -70038,8 +70238,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-mauli-developers",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b996 L - \u20b999 L",
-    "exactPrice": "\u20b996 L",
+    "priceRange": "\u20b996.00 L - \u20b999.00 L",
+    "exactPrice": "\u20b996.00 L",
     "pricePerSqft": 11837,
     "configurations": [
       "2 BHK"
@@ -70108,9 +70308,9 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Luxury Unit",
         "carpetArea": "744 sq.ft",
-        "priceRange": "\u20b996 L - \u20b91.20 Cr"
+        "priceRange": "\u20b996.00 L"
       }
     ],
     "lat": 18.5557,
@@ -70158,8 +70358,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-park-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b964 L - \u20b96.88 Cr",
-    "exactPrice": "\u20b964 L",
+    "priceRange": "\u20b964.00 L - \u20b96.88 Cr",
+    "exactPrice": "\u20b964.00 L",
     "pricePerSqft": 18338,
     "configurations": [
       "Office",
@@ -70231,7 +70431,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Office",
         "carpetArea": "710 sq.ft",
-        "priceRange": "\u20b964 L - \u20b96.88 Cr"
+        "priceRange": "\u20b964.00 L"
       },
       {
         "type": "Shop",
@@ -70361,7 +70561,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "739 sq.ft",
-        "priceRange": "\u20b987 L - \u20b91.09 Cr"
+        "priceRange": "\u20b986.83 L"
       },
       {
         "type": "3 BHK",
@@ -70414,8 +70614,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-codename-developers",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b933 L",
-    "exactPrice": "\u20b933 L",
+    "priceRange": "\u20b933.00 L",
+    "exactPrice": "\u20b933.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "Studio"
@@ -70486,7 +70686,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Studio",
         "carpetArea": "718 sq.ft",
-        "priceRange": "\u20b933 L"
+        "priceRange": "\u20b933.00 L"
       }
     ],
     "lat": 18.5939,
@@ -70534,8 +70734,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-silverise-group",
     "location": "Pimpri",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b91.59 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b91.59 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 15789,
     "configurations": [
       "2 BHK",
@@ -70608,12 +70808,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "685 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.24 Cr"
+        "priceRange": "\u20b999.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1127 sq.ft",
-        "priceRange": "\u20b91.39 Cr - \u20b91.78 Cr"
+        "priceRange": "\u20b91.59 Cr"
       }
     ],
     "lat": 18.6242,
@@ -70661,8 +70861,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-maheshwaram-associates",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b979 L - \u20b992 L",
-    "exactPrice": "\u20b979 L",
+    "priceRange": "\u20b979.00 L - \u20b992.00 L",
+    "exactPrice": "\u20b979.00 L",
     "pricePerSqft": 11600,
     "configurations": [
       "2 BHK",
@@ -70740,7 +70940,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "998 sq.ft",
-        "priceRange": "\u20b91.11 Cr - \u20b91.42 Cr"
+        "priceRange": "\u20b992.00 L"
       }
     ],
     "lat": 18.645,
@@ -70788,8 +70988,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-gera",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 12100,
     "configurations": [
       "2 BHK",
@@ -70977,9 +71177,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1101 sq.ft",
-        "priceRange": "\u20b91.53 Cr - \u20b91.96 Cr"
+        "priceRange": "\u20b91.09 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1541 sq.ft",
+        "priceRange": "\u20b91.58 Cr"
       }
     ],
     "lat": 18.648,
@@ -71027,8 +71232,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-supreme-universal",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b992 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b992 L",
+    "priceRange": "\u20b992.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b992.00 L",
     "pricePerSqft": 12332,
     "configurations": [
       "2 BHK",
@@ -71101,12 +71306,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "723 sq.ft",
-        "priceRange": "\u20b992 L - \u20b91.15 Cr"
+        "priceRange": "\u20b992.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1121 sq.ft",
-        "priceRange": "\u20b91.29 Cr - \u20b91.66 Cr"
+        "priceRange": "\u20b91.45 Cr"
       }
     ],
     "lat": 18.6212,
@@ -71228,12 +71433,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1025 sq.ft",
-        "priceRange": "\u20b92.53 Cr - \u20b93.26 Cr"
+        "priceRange": "\u20b91.81 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1661 sq.ft",
-        "priceRange": "\u20b93.98 Cr - \u20b95.07 Cr"
+        "priceRange": "\u20b92.40 Cr"
       }
     ],
     "lat": 18.5771,
@@ -71281,8 +71486,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-alpine-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b989 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b989 L",
+    "priceRange": "\u20b989.00 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b989.00 L",
     "pricePerSqft": 11308,
     "configurations": [
       "2 BHK",
@@ -71357,7 +71562,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "682 sq.ft",
-        "priceRange": "\u20b989 L - \u20b91.11 Cr"
+        "priceRange": "\u20b989.00 L"
       },
       {
         "type": "2.5 BHK",
@@ -71485,7 +71690,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100030924",
     "verificationStatus": "Verified",
     "featured": true,
-    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/dUBwkAaG7EfnFh6NDymuNR5UNLD1e3QTLxUcN08I.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/image (96).webp",
       "https://shapoorjirealestate.com/files/assets/jpegs/all_projects/wildernest/floorplans/3bhk-1.webp",
@@ -71495,7 +71700,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "708 sq.ft",
-        "priceRange": "\u20b993 L - \u20b91.16 Cr"
+        "priceRange": "\u20b992.50 L"
       },
       {
         "type": "2.5 BHK",
@@ -71671,8 +71876,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-nm-corp",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b960 L - \u20b983 L",
-    "exactPrice": "\u20b960 L",
+    "priceRange": "\u20b960.00 L - \u20b983.00 L",
+    "exactPrice": "\u20b960.00 L",
     "pricePerSqft": 17341,
     "configurations": [
       "Office"
@@ -71740,9 +71945,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "593 sq.ft",
-        "priceRange": "\u20b960 L - \u20b983 L"
+        "priceRange": "\u20b960.00 L"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "820 sq.ft",
+        "priceRange": "\u20b983.00 L"
       }
     ],
     "lat": 18.6534,
@@ -71789,8 +71999,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-grd-infraprojects-private-limited",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b942 L",
-    "exactPrice": "\u20b942 L",
+    "priceRange": "\u20b942.00 L",
+    "exactPrice": "\u20b942.00 L",
     "pricePerSqft": 18750,
     "configurations": [
       "Studio"
@@ -71861,7 +72071,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Studio",
         "carpetArea": "562 sq.ft",
-        "priceRange": "\u20b942 L"
+        "priceRange": "\u20b942.00 L"
       }
     ],
     "lat": 18.6026,
@@ -71909,8 +72119,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-gen1-developers",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b947 L - \u20b91.84 Cr",
-    "exactPrice": "\u20b947 L",
+    "priceRange": "\u20b947.00 L - \u20b91.84 Cr",
+    "exactPrice": "\u20b947.00 L",
     "pricePerSqft": 22274,
     "configurations": [
       "Office"
@@ -71979,9 +72189,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "609 sq.ft",
-        "priceRange": "\u20b947 L - \u20b91.84 Cr"
+        "priceRange": "\u20b947.00 L"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "852 sq.ft",
+        "priceRange": "\u20b91.84 Cr"
       }
     ],
     "lat": 18.5622,
@@ -72108,7 +72323,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1108 sq.ft",
-        "priceRange": "\u20b91.08 Cr - \u20b91.38 Cr"
+        "priceRange": "\u20b91.02 Cr"
       }
     ],
     "lat": 18.6536,
@@ -72156,8 +72371,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-aria-developers",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.20 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.20 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 12445,
     "configurations": [
       "2 BHK",
@@ -72230,7 +72445,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "702 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
@@ -72283,8 +72498,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-anp-corp",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b991 L - \u20b91.85 Cr",
-    "exactPrice": "\u20b991 L",
+    "priceRange": "\u20b991.00 L - \u20b91.85 Cr",
+    "exactPrice": "\u20b991.00 L",
     "pricePerSqft": 12500,
     "configurations": [
       "2 BHK",
@@ -72415,8 +72630,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-ag-developers",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b924 L - \u20b932 L",
-    "exactPrice": "\u20b924 L",
+    "priceRange": "\u20b924.00 L - \u20b932.00 L",
+    "exactPrice": "\u20b924.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "Office"
@@ -72476,15 +72691,20 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100051063",
     "verificationStatus": "Verified",
     "featured": true,
-    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
     "floorPlans": [
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/16764375681720911222.jpg"
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "586 sq.ft",
-        "priceRange": "\u20b924 L - \u20b932 L"
+        "priceRange": "\u20b924.00 L"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "781 sq.ft",
+        "priceRange": "\u20b932.00 L"
       }
     ],
     "lat": 18.6001,
@@ -72529,8 +72749,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-gt-associates-promotors-and-builders",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b971 L - \u20b991 L",
-    "exactPrice": "\u20b971 L",
+    "priceRange": "\u20b971.00 L - \u20b991.00 L",
+    "exactPrice": "\u20b971.00 L",
     "pricePerSqft": 9268,
     "configurations": [
       "2 BHK",
@@ -72608,7 +72828,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1036 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.28 Cr"
+        "priceRange": "\u20b991.00 L"
       }
     ],
     "lat": 18.6576,
@@ -72730,12 +72950,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "984 sq.ft",
-        "priceRange": "\u20b91.68 Cr - \u20b92.16 Cr"
+        "priceRange": "\u20b91.20 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1581 sq.ft",
-        "priceRange": "\u20b92.64 Cr - \u20b93.36 Cr"
+        "priceRange": "\u20b92.15 Cr"
       }
     ],
     "lat": 18.6467,
@@ -72783,8 +73003,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shaligram-group",
     "location": "Walhekarwadi",
     "city": "Pune",
-    "priceRange": "\u20b988 L - \u20b91.18 Cr",
-    "exactPrice": "\u20b988 L",
+    "priceRange": "\u20b988.00 L - \u20b91.18 Cr",
+    "exactPrice": "\u20b988.00 L",
     "pricePerSqft": 11282,
     "configurations": [
       "2 BHK",
@@ -72857,7 +73077,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "733 sq.ft",
-        "priceRange": "\u20b988 L - \u20b91.10 Cr"
+        "priceRange": "\u20b988.00 L"
       },
       {
         "type": "3 BHK",
@@ -72989,7 +73209,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1091 sq.ft",
-        "priceRange": "\u20b91.47 Cr - \u20b91.89 Cr"
+        "priceRange": "\u20b91.40 Cr"
       }
     ],
     "lat": 18.5606,
@@ -73107,9 +73327,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "997 sq.ft",
-        "priceRange": "\u20b91.68 Cr - \u20b92.16 Cr"
+        "priceRange": "\u20b91.20 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1246 sq.ft",
+        "priceRange": "\u20b91.50 Cr"
       }
     ],
     "lat": 18.6261,
@@ -73250,7 +73475,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1594 sq.ft",
-        "priceRange": "\u20b92.53 Cr - \u20b93.22 Cr"
+        "priceRange": "\u20b92.20 Cr"
       }
     ],
     "lat": 18.6481,
@@ -73298,8 +73523,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-nb-developers",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b952 L - \u20b94.75 Cr",
-    "exactPrice": "\u20b952 L",
+    "priceRange": "\u20b952.00 L - \u20b94.75 Cr",
+    "exactPrice": "\u20b952.00 L",
     "pricePerSqft": 21940,
     "configurations": [
       "Office",
@@ -73371,7 +73596,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Office",
         "carpetArea": "641 sq.ft",
-        "priceRange": "\u20b952 L - \u20b94.75 Cr"
+        "priceRange": "\u20b952.00 L"
       },
       {
         "type": "Shop",
@@ -73423,8 +73648,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shankeshwar-group",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b91.62 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b91.62 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 12992,
     "configurations": [
       "2 BHK",
@@ -73497,12 +73722,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "713 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.24 Cr"
+        "priceRange": "\u20b999.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1010 sq.ft",
-        "priceRange": "\u20b91.39 Cr - \u20b91.78 Cr"
+        "priceRange": "\u20b91.62 Cr"
       }
     ],
     "lat": 18.5926,
@@ -73550,8 +73775,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-anp-corp",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b963 L - \u20b91.52 Cr",
-    "exactPrice": "\u20b963 L",
+    "priceRange": "\u20b963.00 L - \u20b91.52 Cr",
+    "exactPrice": "\u20b963.00 L",
     "pricePerSqft": 20588,
     "configurations": [
       "Office",
@@ -73621,7 +73846,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Office",
         "carpetArea": "724 sq.ft",
-        "priceRange": "\u20b963 L - \u20b91.52 Cr"
+        "priceRange": "\u20b963.00 L"
       },
       {
         "type": "Shop",
@@ -73672,8 +73897,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-hubtown",
     "location": "Balewadi",
     "city": "Pune",
-    "priceRange": "\u20b96 Cr - \u20b913 Cr",
-    "exactPrice": "\u20b96 Cr",
+    "priceRange": "\u20b96.00 Cr - \u20b913.00 Cr",
+    "exactPrice": "\u20b96.00 Cr",
     "pricePerSqft": 18927,
     "configurations": [
       "Office",
@@ -73749,7 +73974,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Showroom",
         "carpetArea": "638 sq.ft",
-        "priceRange": "\u20b96 Cr - \u20b913 Cr"
+        "priceRange": "\u20b913.00 Cr"
       }
     ],
     "lat": 18.572,
@@ -73882,7 +74107,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1664 sq.ft",
-        "priceRange": "\u20b92.86 Cr - \u20b93.64 Cr"
+        "priceRange": "\u20b92.60 Cr"
       }
     ],
     "lat": 18.602,
@@ -73930,8 +74155,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-yashada-realty",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b994 L - \u20b92 Cr",
-    "exactPrice": "\u20b994 L",
+    "priceRange": "\u20b994.00 L - \u20b92.00 Cr",
+    "exactPrice": "\u20b994.00 L",
     "pricePerSqft": 11604,
     "configurations": [
       "2 BHK",
@@ -74006,7 +74231,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "732 sq.ft",
-        "priceRange": "\u20b994 L - \u20b91.18 Cr"
+        "priceRange": "\u20b994.00 L"
       },
       {
         "type": "3 BHK",
@@ -74016,7 +74241,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1565 sq.ft",
-        "priceRange": "\u20b92.07 Cr - \u20b92.63 Cr"
+        "priceRange": "\u20b92.00 Cr"
       }
     ],
     "lat": 18.6211,
@@ -74064,8 +74289,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-eh-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b978 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b978 L",
+    "priceRange": "\u20b978.00 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b978.00 L",
     "pricePerSqft": 11206,
     "configurations": [
       "2 BHK",
@@ -74142,7 +74367,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "985 sq.ft",
-        "priceRange": "\u20b91.09 Cr - \u20b91.40 Cr"
+        "priceRange": "\u20b91.25 Cr"
       }
     ],
     "lat": 18.6146,
@@ -74262,7 +74487,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1053 sq.ft",
-        "priceRange": "\u20b92.35 Cr - \u20b93.02 Cr"
+        "priceRange": "\u20b91.68 Cr"
       }
     ],
     "lat": 18.6537,
@@ -74388,7 +74613,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1075 sq.ft",
-        "priceRange": "\u20b91.60 Cr - \u20b92.05 Cr"
+        "priceRange": "\u20b91.68 Cr"
       }
     ],
     "lat": 18.5747,
@@ -74436,8 +74661,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-73-developers",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b954 L - \u20b976 L",
-    "exactPrice": "\u20b954 L",
+    "priceRange": "\u20b954.00 L - \u20b976.00 L",
+    "exactPrice": "\u20b954.00 L",
     "pricePerSqft": 11111,
     "configurations": [
       "1 BHK",
@@ -74510,12 +74735,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "423 sq.ft",
-        "priceRange": "\u20b938 L - \u20b946 L"
+        "priceRange": "\u20b954.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "713 sq.ft",
-        "priceRange": "\u20b954 L - \u20b968 L"
+        "priceRange": "\u20b976.00 L"
       }
     ],
     "lat": 18.6592,
@@ -74637,12 +74862,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "693 sq.ft",
-        "priceRange": "\u20b990 L - \u20b91.12 Cr"
+        "priceRange": "\u20b989.90 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1085 sq.ft",
-        "priceRange": "\u20b91.26 Cr - \u20b91.62 Cr"
+        "priceRange": "\u20b91.20 Cr"
       }
     ],
     "lat": 18.5951,
@@ -74762,7 +74987,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "992 sq.ft",
-        "priceRange": "\u20b92.32 Cr - \u20b92.99 Cr"
+        "priceRange": "\u20b91.66 Cr"
       }
     ],
     "lat": 18.5847,
@@ -74810,8 +75035,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-excellent-connectivity",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b91 Cr - \u20b93.85 Cr",
-    "exactPrice": "\u20b91 Cr",
+    "priceRange": "\u20b91.00 Cr - \u20b93.85 Cr",
+    "exactPrice": "\u20b91.00 Cr",
     "pricePerSqft": 18691,
     "configurations": [
       "Office"
@@ -74877,9 +75102,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "599 sq.ft",
-        "priceRange": "\u20b91 Cr - \u20b93.85 Cr"
+        "priceRange": "\u20b91.00 Cr"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "838 sq.ft",
+        "priceRange": "\u20b93.85 Cr"
       }
     ],
     "lat": 18.5617,
@@ -74924,8 +75154,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-emerald-developers",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b938 L - \u20b961 L",
-    "exactPrice": "\u20b938 L",
+    "priceRange": "\u20b938.00 L - \u20b961.00 L",
+    "exactPrice": "\u20b938.00 L",
     "pricePerSqft": 8315,
     "configurations": [
       "2 BHK",
@@ -75003,7 +75233,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "446 sq.ft",
-        "priceRange": "\u20b927 L - \u20b932 L"
+        "priceRange": "\u20b961.00 L"
       }
     ],
     "lat": 18.6281,
@@ -75121,7 +75351,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Shop",
         "carpetArea": "569 sq.ft",
-        "priceRange": "\u20b925.02 L - \u20b910.89 Cr"
+        "priceRange": "\u20b925.02 L"
       },
       {
         "type": "Office",
@@ -75170,8 +75400,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-arun-developers",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b981 L - \u20b91.21 Cr",
-    "exactPrice": "\u20b981 L",
+    "priceRange": "\u20b981.00 L - \u20b91.21 Cr",
+    "exactPrice": "\u20b981.00 L",
     "pricePerSqft": 11281,
     "configurations": [
       "2 BHK",
@@ -75246,12 +75476,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "731 sq.ft",
-        "priceRange": "\u20b981 L - \u20b91.01 Cr"
+        "priceRange": "\u20b981.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1048 sq.ft",
-        "priceRange": "\u20b91.13 Cr - \u20b91.46 Cr"
+        "priceRange": "\u20b91.21 Cr"
       }
     ],
     "lat": 18.6478,
@@ -75299,8 +75529,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-audumbar-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b964 L - \u20b974 L",
-    "exactPrice": "\u20b964 L",
+    "priceRange": "\u20b964.00 L - \u20b974.00 L",
+    "exactPrice": "\u20b964.00 L",
     "pricePerSqft": 9696,
     "configurations": [
       "2 BHK"
@@ -75369,9 +75599,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Premium",
         "carpetArea": "748 sq.ft",
-        "priceRange": "\u20b964 L - \u20b980 L"
+        "priceRange": "\u20b964.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "864 sq.ft",
+        "priceRange": "\u20b974.00 L"
       }
     ],
     "lat": 18.6154,
@@ -75419,8 +75654,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-wakadkar-associate",
     "location": "Jambe",
     "city": "Pune",
-    "priceRange": "\u20b941 L - \u20b956 L",
-    "exactPrice": "\u20b941 L",
+    "priceRange": "\u20b941.00 L - \u20b956.00 L",
+    "exactPrice": "\u20b941.00 L",
     "pricePerSqft": 8506,
     "configurations": [
       "1 BHK",
@@ -75493,12 +75728,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "471 sq.ft",
-        "priceRange": "\u20b929 L - \u20b935 L"
+        "priceRange": "\u20b941.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "733 sq.ft",
-        "priceRange": "\u20b941 L - \u20b951 L"
+        "priceRange": "\u20b956.00 L"
       }
     ],
     "lat": 18.6109,
@@ -75631,7 +75866,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1757 sq.ft",
-        "priceRange": "\u20b92.57 Cr - \u20b93.28 Cr"
+        "priceRange": "\u20b92.73 Cr"
       }
     ],
     "lat": 18.6512,
@@ -75679,8 +75914,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-yashada-realty",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b994 L - \u20b92 Cr",
-    "exactPrice": "\u20b994 L",
+    "priceRange": "\u20b994.00 L - \u20b92.00 Cr",
+    "exactPrice": "\u20b994.00 L",
     "pricePerSqft": 11604,
     "configurations": [
       "2 BHK",
@@ -75755,7 +75990,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b994 L - \u20b91.18 Cr"
+        "priceRange": "\u20b994.00 L"
       },
       {
         "type": "3 BHK",
@@ -75765,7 +76000,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1787 sq.ft",
-        "priceRange": "\u20b92.07 Cr - \u20b92.63 Cr"
+        "priceRange": "\u20b92.00 Cr"
       }
     ],
     "lat": 18.6302,
@@ -75889,12 +76124,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "987 sq.ft",
-        "priceRange": "\u20b92.72 Cr - \u20b93.49 Cr"
+        "priceRange": "\u20b91.94 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1553 sq.ft",
-        "priceRange": "\u20b94.27 Cr - \u20b95.43 Cr"
+        "priceRange": "\u20b93.16 Cr"
       }
     ],
     "lat": 18.5589,
@@ -75942,8 +76177,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-elite-group",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b956 L - \u20b962 L",
-    "exactPrice": "\u20b956 L",
+    "priceRange": "\u20b956.00 L - \u20b962.00 L",
+    "exactPrice": "\u20b956.00 L",
     "pricePerSqft": 9982,
     "configurations": [
       "2 BHK"
@@ -76011,9 +76246,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Premium",
         "carpetArea": "733 sq.ft",
-        "priceRange": "\u20b956 L - \u20b970 L"
+        "priceRange": "\u20b956.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "811 sq.ft",
+        "priceRange": "\u20b962.00 L"
       }
     ],
     "lat": 18.6544,
@@ -76133,7 +76373,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "739 sq.ft",
-        "priceRange": "\u20b969 L - \u20b986 L"
+        "priceRange": "\u20b968.96 L"
       }
     ],
     "lat": 18.6388,
@@ -76181,8 +76421,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-gen1-developers",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b947 L - \u20b91.84 Cr",
-    "exactPrice": "\u20b947 L",
+    "priceRange": "\u20b947.00 L - \u20b91.84 Cr",
+    "exactPrice": "\u20b947.00 L",
     "pricePerSqft": 22274,
     "configurations": [
       "Office"
@@ -76250,9 +76490,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "661 sq.ft",
-        "priceRange": "\u20b947 L - \u20b91.84 Cr"
+        "priceRange": "\u20b947.00 L"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "925 sq.ft",
+        "priceRange": "\u20b91.84 Cr"
       }
     ],
     "lat": 18.5632,
@@ -76369,9 +76614,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1091 sq.ft",
-        "priceRange": "\u20b91.74 Cr - \u20b92.23 Cr"
+        "priceRange": "\u20b91.24 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1222 sq.ft",
+        "priceRange": "\u20b91.39 Cr"
       }
     ],
     "lat": 18.6078,
@@ -76419,8 +76669,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-gt-associates-promotors-and-builders",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b971 L - \u20b991 L",
-    "exactPrice": "\u20b971 L",
+    "priceRange": "\u20b971.00 L - \u20b991.00 L",
+    "exactPrice": "\u20b971.00 L",
     "pricePerSqft": 9268,
     "configurations": [
       "2 BHK",
@@ -76498,7 +76748,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "997 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.28 Cr"
+        "priceRange": "\u20b991.00 L"
       }
     ],
     "lat": 18.6549,
@@ -76632,7 +76882,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1600 sq.ft",
-        "priceRange": "\u20b92.86 Cr - \u20b93.64 Cr"
+        "priceRange": "\u20b92.60 Cr"
       }
     ],
     "lat": 18.6021,
@@ -76759,7 +77009,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1093 sq.ft",
-        "priceRange": "\u20b91.50 Cr - \u20b91.93 Cr"
+        "priceRange": "\u20b92.15 Cr"
       }
     ],
     "lat": 18.5168,
@@ -76899,7 +77149,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1662 sq.ft",
-        "priceRange": "\u20b92.73 Cr - \u20b93.47 Cr"
+        "priceRange": "\u20b92.51 Cr"
       }
     ],
     "lat": 18.6307,
@@ -77026,7 +77276,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1102 sq.ft",
-        "priceRange": "\u20b91.89 Cr - \u20b92.43 Cr"
+        "priceRange": "\u20b91.70 Cr"
       }
     ],
     "lat": 18.5958,
@@ -77074,8 +77324,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kshitej-realtors",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b91 Cr",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b91.00 Cr",
+    "exactPrice": "\u20b975.00 L",
     "pricePerSqft": 9715,
     "configurations": [
       "2 BHK",
@@ -77274,12 +77524,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1073 sq.ft",
-        "priceRange": "\u20b92.65 Cr - \u20b93.40 Cr"
+        "priceRange": "\u20b91.89 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1762 sq.ft",
-        "priceRange": "\u20b94.16 Cr - \u20b95.29 Cr"
+        "priceRange": "\u20b93.30 Cr"
       }
     ],
     "lat": 18.6002,
@@ -77395,9 +77645,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "697 sq.ft",
-        "priceRange": "\u20b91.33 Cr - \u20b93.47 Cr"
+        "priceRange": "\u20b91.33 Cr"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "975 sq.ft",
+        "priceRange": "\u20b93.47 Cr"
       }
     ],
     "lat": 18.6466,
@@ -77522,7 +77777,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Shop",
         "carpetArea": "609 sq.ft",
-        "priceRange": "\u20b91.28 Cr - \u20b93.90 Cr"
+        "priceRange": "\u20b93.90 Cr"
       }
     ],
     "lat": 18.6026,
@@ -77648,7 +77903,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1072 sq.ft",
-        "priceRange": "\u20b91.46 Cr - \u20b91.87 Cr"
+        "priceRange": "\u20b91.30 Cr"
       }
     ],
     "lat": 18.5926,
@@ -77696,8 +77951,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kesar-group",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b93 Cr",
-    "exactPrice": "\u20b93 Cr",
+    "priceRange": "\u20b93.00 Cr",
+    "exactPrice": "\u20b93.00 Cr",
     "pricePerSqft": 15657,
     "configurations": [
       "5 BHK"
@@ -77768,7 +78023,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK",
         "carpetArea": "1615 sq.ft",
-        "priceRange": "\u20b96.60 Cr - \u20b98.40 Cr"
+        "priceRange": "\u20b93.00 Cr"
       }
     ],
     "lat": 18.6573,
@@ -77816,8 +78071,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-udyam-developers",
     "location": "Chinchwad",
     "city": "Pune",
-    "priceRange": "\u20b982 L - \u20b91.23 Cr",
-    "exactPrice": "\u20b982 L",
+    "priceRange": "\u20b982.00 L - \u20b91.23 Cr",
+    "exactPrice": "\u20b982.00 L",
     "pricePerSqft": 11918,
     "configurations": [
       "2 BHK",
@@ -77889,12 +78144,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "689 sq.ft",
-        "priceRange": "\u20b982 L - \u20b91.03 Cr"
+        "priceRange": "\u20b982.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1122 sq.ft",
-        "priceRange": "\u20b91.15 Cr - \u20b91.48 Cr"
+        "priceRange": "\u20b91.23 Cr"
       }
     ],
     "lat": 18.6274,
@@ -78016,12 +78271,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1096 sq.ft",
-        "priceRange": "\u20b92.24 Cr - \u20b92.88 Cr"
+        "priceRange": "\u20b91.60 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1789 sq.ft",
-        "priceRange": "\u20b93.52 Cr - \u20b94.48 Cr"
+        "priceRange": "\u20b92.50 Cr"
       }
     ],
     "lat": 18.5745,
@@ -78069,8 +78324,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-unite-developers",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b929 L",
-    "exactPrice": "\u20b929 L",
+    "priceRange": "\u20b929.00 L",
+    "exactPrice": "\u20b929.00 L",
     "pricePerSqft": 13122,
     "configurations": [
       "Studio"
@@ -78141,7 +78396,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Studio",
         "carpetArea": "731 sq.ft",
-        "priceRange": "\u20b929 L"
+        "priceRange": "\u20b929.00 L"
       }
     ],
     "lat": 18.6524,
@@ -78261,7 +78516,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK",
         "carpetArea": "1688 sq.ft",
-        "priceRange": "\u20b98.14 Cr - \u20b910.36 Cr"
+        "priceRange": "\u20b93.70 Cr"
       }
     ],
     "lat": 18.6454,
@@ -78309,8 +78564,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kisana-developers",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b954 L - \u20b977 L",
-    "exactPrice": "\u20b954 L",
+    "priceRange": "\u20b954.00 L - \u20b977.00 L",
+    "exactPrice": "\u20b954.00 L",
     "pricePerSqft": 11320,
     "configurations": [
       "1 BHK",
@@ -78383,12 +78638,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "422 sq.ft",
-        "priceRange": "\u20b938 L - \u20b946 L"
+        "priceRange": "\u20b954.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "743 sq.ft",
-        "priceRange": "\u20b954 L - \u20b968 L"
+        "priceRange": "\u20b977.00 L"
       }
     ],
     "lat": 18.6576,
@@ -78517,7 +78772,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1061 sq.ft",
-        "priceRange": "\u20b91.57 Cr - \u20b92.02 Cr"
+        "priceRange": "\u20b91.70 Cr"
       }
     ],
     "lat": 18.5963,
@@ -78565,7 +78820,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-june-2027",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b91.10 Cr - \u20b93 Cr",
+    "priceRange": "\u20b91.10 Cr - \u20b93.00 Cr",
     "exactPrice": "\u20b91.10 Cr",
     "pricePerSqft": 30219,
     "configurations": [
@@ -78633,9 +78888,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "724 sq.ft",
-        "priceRange": "\u20b91.10 Cr - \u20b93 Cr"
+        "priceRange": "\u20b91.10 Cr"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "1013 sq.ft",
+        "priceRange": "\u20b93.00 Cr"
       }
     ],
     "lat": 18.6217,
@@ -78885,7 +79145,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1073 sq.ft",
-        "priceRange": "\u20b91.96 Cr - \u20b92.52 Cr"
+        "priceRange": "\u20b91.40 Cr"
       },
       {
         "type": "4 BHK",
@@ -78895,7 +79155,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4.5 BHK",
         "carpetArea": "1831 sq.ft",
-        "priceRange": "\u20b93.08 Cr - \u20b93.92 Cr"
+        "priceRange": "\u20b92.99 Cr"
       }
     ],
     "lat": 18.5694,
@@ -78943,8 +79203,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-koral-developers",
     "location": "Thergaon",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.30 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.30 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 11675,
     "configurations": [
       "2 BHK",
@@ -79017,12 +79277,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "728 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1017 sq.ft",
-        "priceRange": "\u20b91.19 Cr - \u20b91.53 Cr"
+        "priceRange": "\u20b91.30 Cr"
       }
     ],
     "lat": 18.6108,
@@ -79145,7 +79405,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1068 sq.ft",
-        "priceRange": "\u20b91.75 Cr - \u20b92.25 Cr"
+        "priceRange": "\u20b91.25 Cr"
       }
     ],
     "lat": 18.6033,
@@ -79193,7 +79453,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-24-developers",
     "location": "Pimpri",
     "city": "Pune",
-    "priceRange": "\u20b91.16 Cr - \u20b96 Cr",
+    "priceRange": "\u20b91.16 Cr - \u20b96.00 Cr",
     "exactPrice": "\u20b91.16 Cr",
     "pricePerSqft": 19269,
     "configurations": [
@@ -79271,7 +79531,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Shop",
         "carpetArea": "696 sq.ft",
-        "priceRange": "\u20b91.16 Cr - \u20b96 Cr"
+        "priceRange": "\u20b96.00 Cr"
       }
     ],
     "lat": 18.627,
@@ -79318,8 +79578,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-space-builders-group",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b959 L - \u20b992 L",
-    "exactPrice": "\u20b959 L",
+    "priceRange": "\u20b959.00 L - \u20b992.00 L",
+    "exactPrice": "\u20b959.00 L",
     "pricePerSqft": 8194,
     "configurations": [
       "2 BHK",
@@ -79397,7 +79657,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1055 sq.ft",
-        "priceRange": "\u20b983 L - \u20b91.06 Cr"
+        "priceRange": "\u20b992.00 L"
       }
     ],
     "lat": 18.6529,
@@ -79445,8 +79705,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kumar-lifespaces",
     "location": "Moshi",
     "city": "Pune",
-    "priceRange": "\u20b996 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b996 L",
+    "priceRange": "\u20b996.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b996.00 L",
     "pricePerSqft": 10000,
     "configurations": [
       "2 BHK",
@@ -79521,7 +79781,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "747 sq.ft",
-        "priceRange": "\u20b996 L - \u20b91.20 Cr"
+        "priceRange": "\u20b996.00 L"
       },
       {
         "type": "2.5 BHK",
@@ -79531,7 +79791,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "981 sq.ft",
-        "priceRange": "\u20b91.34 Cr - \u20b91.73 Cr"
+        "priceRange": "\u20b91.45 Cr"
       }
     ],
     "lat": 18.6754,
@@ -79649,9 +79909,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Premium",
         "carpetArea": "714 sq.ft",
-        "priceRange": "\u20b988 L - \u20b91.10 Cr"
+        "priceRange": "\u20b987.60 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "760 sq.ft",
+        "priceRange": "\u20b993.30 L"
       }
     ],
     "lat": 18.6258,
@@ -79777,7 +80042,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "982 sq.ft",
-        "priceRange": "\u20b92.03 Cr - \u20b92.61 Cr"
+        "priceRange": "\u20b92.16 Cr"
       }
     ],
     "lat": 18.5744,
@@ -79825,8 +80090,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kk-group",
     "location": "Rahatani",
     "city": "Pune",
-    "priceRange": "\u20b987 L - \u20b992 L",
-    "exactPrice": "\u20b987 L",
+    "priceRange": "\u20b987.00 L - \u20b992.00 L",
+    "exactPrice": "\u20b987.00 L",
     "pricePerSqft": 11357,
     "configurations": [
       "2 BHK"
@@ -79895,9 +80160,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Premium",
         "carpetArea": "701 sq.ft",
-        "priceRange": "\u20b987 L - \u20b91.09 Cr"
+        "priceRange": "\u20b987.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "741 sq.ft",
+        "priceRange": "\u20b992.00 L"
       }
     ],
     "lat": 18.6095,
@@ -79945,8 +80215,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-zolo-homes",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b927 L - \u20b940 L",
-    "exactPrice": "\u20b927 L",
+    "priceRange": "\u20b927.00 L - \u20b940.00 L",
+    "exactPrice": "\u20b927.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "Shop"
@@ -80014,9 +80284,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "638 sq.ft",
-        "priceRange": "\u20b927 L - \u20b940 L"
+        "priceRange": "\u20b927.00 L"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "893 sq.ft",
+        "priceRange": "\u20b940.00 L"
       }
     ],
     "lat": 18.6017,
@@ -80063,8 +80338,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-mahindra",
     "location": "Pimpri",
     "city": "Pune",
-    "priceRange": "\u20b91 Cr - \u20b91.57 Cr",
-    "exactPrice": "\u20b91 Cr",
+    "priceRange": "\u20b91.00 Cr - \u20b91.57 Cr",
+    "exactPrice": "\u20b91.00 Cr",
     "pricePerSqft": 13458,
     "configurations": [
       "2 BHK",
@@ -80142,7 +80417,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1098 sq.ft",
-        "priceRange": "\u20b91.40 Cr - \u20b91.80 Cr"
+        "priceRange": "\u20b91.57 Cr"
       }
     ],
     "lat": 18.6259,
@@ -80264,12 +80539,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1021 sq.ft",
-        "priceRange": "\u20b92.45 Cr - \u20b93.15 Cr"
+        "priceRange": "\u20b91.75 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1693 sq.ft",
-        "priceRange": "\u20b93.85 Cr - \u20b94.90 Cr"
+        "priceRange": "\u20b92.55 Cr"
       }
     ],
     "lat": 18.5949,
@@ -80317,8 +80592,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-lenora-developers",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b967 L - \u20b990 L",
-    "exactPrice": "\u20b967 L",
+    "priceRange": "\u20b967.00 L - \u20b990.00 L",
+    "exactPrice": "\u20b967.00 L",
     "pricePerSqft": 9503,
     "configurations": [
       "2 BHK",
@@ -80397,7 +80672,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "981 sq.ft",
-        "priceRange": "\u20b994 L - \u20b91.21 Cr"
+        "priceRange": "\u20b990.00 L"
       }
     ],
     "lat": 18.6567,
@@ -80445,8 +80720,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-gk-associates-promoters-builders",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.20 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.20 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 12445,
     "configurations": [
       "2 BHK",
@@ -80519,7 +80794,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "720 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
@@ -80650,7 +80925,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Shop",
         "carpetArea": "681 sq.ft",
-        "priceRange": "\u20b91.30 Cr - \u20b92.50 Cr"
+        "priceRange": "\u20b92.50 Cr"
       }
     ],
     "lat": 18.6301,
@@ -80762,7 +81037,7 @@ export const PROJECTS: Project[] = [
     "reraId": "P52100061445",
     "verificationStatus": "Verified",
     "featured": true,
-    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/yDwMknCek35yZxmMXjayGU9f3YNISUbtB2byb3jE.webp",
     "floorPlans": [
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/1774542663953090414.jpg",
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/16880358561556615257.jpg"
@@ -80771,12 +81046,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1041 sq.ft",
-        "priceRange": "\u20b92.32 Cr - \u20b92.99 Cr"
+        "priceRange": "\u20b91.66 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1709 sq.ft",
-        "priceRange": "\u20b93.65 Cr - \u20b94.65 Cr"
+        "priceRange": "\u20b92.41 Cr"
       }
     ],
     "lat": 18.5754,
@@ -80824,8 +81099,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-amegh-group",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b936 L",
-    "exactPrice": "\u20b936 L",
+    "priceRange": "\u20b936.00 L",
+    "exactPrice": "\u20b936.00 L",
     "pricePerSqft": 15000,
     "configurations": [
       "Studio"
@@ -80896,7 +81171,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Studio",
         "carpetArea": "722 sq.ft",
-        "priceRange": "\u20b936 L"
+        "priceRange": "\u20b936.00 L"
       }
     ],
     "lat": 18.5956,
@@ -80944,8 +81219,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-midori-developers",
     "location": "Pimple Nilakh",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b91.59 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b91.59 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 12724,
     "configurations": [
       "2 BHK",
@@ -81017,12 +81292,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "698 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.24 Cr"
+        "priceRange": "\u20b999.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1075 sq.ft",
-        "priceRange": "\u20b91.39 Cr - \u20b91.78 Cr"
+        "priceRange": "\u20b91.59 Cr"
       }
     ],
     "lat": 18.5787,
@@ -81140,9 +81415,9 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Luxury Unit",
         "carpetArea": "1053 sq.ft",
-        "priceRange": "\u20b91.61 Cr - \u20b92.07 Cr"
+        "priceRange": "\u20b91.15 Cr"
       }
     ],
     "lat": 18.6178,
@@ -81190,8 +81465,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-goyal-properties",
     "location": "Akurdi",
     "city": "Pune",
-    "priceRange": "\u20b996 L - \u20b91.36 Cr",
-    "exactPrice": "\u20b996 L",
+    "priceRange": "\u20b996.00 L - \u20b91.36 Cr",
+    "exactPrice": "\u20b996.00 L",
     "pricePerSqft": 12291,
     "configurations": [
       "2 BHK",
@@ -81265,7 +81540,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "756 sq.ft",
-        "priceRange": "\u20b996 L - \u20b91.20 Cr"
+        "priceRange": "\u20b996.00 L"
       },
       {
         "type": "3 BHK",
@@ -81318,8 +81593,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-aditya-builders",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b986 L - \u20b91.21 Cr",
-    "exactPrice": "\u20b986 L",
+    "priceRange": "\u20b986.00 L - \u20b91.21 Cr",
+    "exactPrice": "\u20b986.00 L",
     "pricePerSqft": 10790,
     "configurations": [
       "2 BHK",
@@ -81392,7 +81667,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "698 sq.ft",
-        "priceRange": "\u20b986 L - \u20b91.08 Cr"
+        "priceRange": "\u20b986.00 L"
       },
       {
         "type": "3 BHK",
@@ -81445,8 +81720,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-meriton-developers",
     "location": "Mamurdi",
     "city": "Pune",
-    "priceRange": "\u20b979 L - \u20b91.09 Cr",
-    "exactPrice": "\u20b979 L",
+    "priceRange": "\u20b979.00 L - \u20b91.09 Cr",
+    "exactPrice": "\u20b979.00 L",
     "pricePerSqft": 10762,
     "configurations": [
       "2 BHK",
@@ -81698,8 +81973,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-ar-realty",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b978 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b978 L",
+    "priceRange": "\u20b978.00 L - \u20b91.10 Cr",
+    "exactPrice": "\u20b978.00 L",
     "pricePerSqft": 10497,
     "configurations": [
       "2 BHK",
@@ -81826,8 +82101,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-it-parks",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b950 L - \u20b91.52 Cr",
-    "exactPrice": "\u20b950 L",
+    "priceRange": "\u20b950.00 L - \u20b91.52 Cr",
+    "exactPrice": "\u20b950.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "Office",
@@ -81897,7 +82172,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Office",
         "carpetArea": "615 sq.ft",
-        "priceRange": "\u20b950 L - \u20b91.52 Cr"
+        "priceRange": "\u20b950.00 L"
       },
       {
         "type": "Shop",
@@ -81948,8 +82223,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-a-reputed-west",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b959 L - \u20b984 L",
-    "exactPrice": "\u20b959 L",
+    "priceRange": "\u20b959.00 L - \u20b984.00 L",
+    "exactPrice": "\u20b959.00 L",
     "pricePerSqft": 7930,
     "configurations": [
       "2 BHK",
@@ -82027,7 +82302,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1071 sq.ft",
-        "priceRange": "\u20b983 L - \u20b91.06 Cr"
+        "priceRange": "\u20b984.00 L"
       }
     ],
     "lat": 18.6585,
@@ -82075,8 +82350,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-om-builders-developers",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b974 L - \u20b91 Cr",
-    "exactPrice": "\u20b974 L",
+    "priceRange": "\u20b974.00 L - \u20b91.00 Cr",
+    "exactPrice": "\u20b974.00 L",
     "pricePerSqft": 9226,
     "configurations": [
       "2 BHK",
@@ -82201,8 +82476,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-que-developers",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b986 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b986 L",
+    "priceRange": "\u20b986.00 L - \u20b91.10 Cr",
+    "exactPrice": "\u20b986.00 L",
     "pricePerSqft": 10913,
     "configurations": [
       "2 BHK",
@@ -82274,12 +82549,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "738 sq.ft",
-        "priceRange": "\u20b986 L - \u20b91.08 Cr"
+        "priceRange": "\u20b986.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1039 sq.ft",
-        "priceRange": "\u20b91.20 Cr - \u20b91.55 Cr"
+        "priceRange": "\u20b91.10 Cr"
       }
     ],
     "lat": 18.6241,
@@ -82327,8 +82602,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-matrix-developers",
     "location": "Akurdi",
     "city": "Pune",
-    "priceRange": "\u20b995 L - \u20b91.30 Cr",
-    "exactPrice": "\u20b995 L",
+    "priceRange": "\u20b995.00 L - \u20b91.30 Cr",
+    "exactPrice": "\u20b995.00 L",
     "pricePerSqft": 11801,
     "configurations": [
       "2 BHK",
@@ -82401,7 +82676,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "717 sq.ft",
-        "priceRange": "\u20b995 L - \u20b91.19 Cr"
+        "priceRange": "\u20b995.00 L"
       },
       {
         "type": "3 BHK",
@@ -82454,8 +82729,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-placidia-developers",
     "location": "Akurdi",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.10 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 12859,
     "configurations": [
       "2 BHK",
@@ -82528,12 +82803,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "745 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1119 sq.ft",
-        "priceRange": "\u20b91.19 Cr - \u20b91.53 Cr"
+        "priceRange": "\u20b91.10 Cr"
       }
     ],
     "lat": 18.6531,
@@ -82581,8 +82856,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pleroma-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b976 L - \u20b977 L",
-    "exactPrice": "\u20b976 L",
+    "priceRange": "\u20b976.00 L - \u20b977.00 L",
+    "exactPrice": "\u20b976.00 L",
     "pricePerSqft": 10629,
     "configurations": [
       "2 BHK"
@@ -82651,9 +82926,9 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Luxury Unit",
         "carpetArea": "697 sq.ft",
-        "priceRange": "\u20b976 L - \u20b995 L"
+        "priceRange": "\u20b976.00 L"
       }
     ],
     "lat": 18.6201,
@@ -82701,8 +82976,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-namrata",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b976 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b976 L",
+    "priceRange": "\u20b976.00 L - \u20b91.10 Cr",
+    "exactPrice": "\u20b976.00 L",
     "pricePerSqft": 9793,
     "configurations": [
       "2 BHK",
@@ -82901,12 +83176,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1115 sq.ft",
-        "priceRange": "\u20b92.38 Cr - \u20b93.06 Cr"
+        "priceRange": "\u20b91.70 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1568 sq.ft",
-        "priceRange": "\u20b93.74 Cr - \u20b94.76 Cr"
+        "priceRange": "\u20b92.25 Cr"
       }
     ],
     "lat": 18.5745,
@@ -83029,7 +83304,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1125 sq.ft",
-        "priceRange": "\u20b92.48 Cr - \u20b93.19 Cr"
+        "priceRange": "\u20b91.77 Cr"
       },
       {
         "type": "3.5 BHK",
@@ -83039,7 +83314,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1837 sq.ft",
-        "priceRange": "\u20b93.89 Cr - \u20b94.96 Cr"
+        "priceRange": "\u20b92.23 Cr"
       }
     ],
     "lat": 18.6148,
@@ -83087,8 +83362,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-renuka-construction",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b965 L - \u20b94.28 Cr",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b94.28 Cr",
+    "exactPrice": "\u20b965.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "Shop",
@@ -83161,7 +83436,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Shop",
         "carpetArea": "720 sq.ft",
-        "priceRange": "\u20b965 L - \u20b94.28 Cr"
+        "priceRange": "\u20b965.00 L"
       },
       {
         "type": "Office",
@@ -83214,8 +83489,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-rutuja-developers",
     "location": "Nigdi",
     "city": "Pune",
-    "priceRange": "\u20b953 L",
-    "exactPrice": "\u20b953 L",
+    "priceRange": "\u20b953.00 L",
+    "exactPrice": "\u20b953.00 L",
     "pricePerSqft": 9249,
     "configurations": [
       "2 BHK"
@@ -83285,7 +83560,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "731 sq.ft",
-        "priceRange": "\u20b953 L - \u20b966 L"
+        "priceRange": "\u20b953.00 L"
       }
     ],
     "lat": 18.6623,
@@ -83333,8 +83608,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kiwale-realty-llp",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 11288,
     "configurations": [
       "2 BHK",
@@ -83409,7 +83684,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "751 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
@@ -83462,8 +83737,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sai-nisarg-landmark",
     "location": "Mamurdi",
     "city": "Pune",
-    "priceRange": "\u20b965 L - \u20b994 L",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b994.00 L",
+    "exactPrice": "\u20b965.00 L",
     "pricePerSqft": 8689,
     "configurations": [
       "2 BHK",
@@ -83541,7 +83816,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1070 sq.ft",
-        "priceRange": "\u20b991 L - \u20b91.17 Cr"
+        "priceRange": "\u20b994.00 L"
       }
     ],
     "lat": 18.6618,
@@ -83668,7 +83943,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1036 sq.ft",
-        "priceRange": "\u20b91.54 Cr - \u20b91.98 Cr"
+        "priceRange": "\u20b91.40 Cr"
       }
     ],
     "lat": 18.562,
@@ -83790,12 +84065,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1116 sq.ft",
-        "priceRange": "\u20b91.51 Cr - \u20b91.94 Cr"
+        "priceRange": "\u20b91.08 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1738 sq.ft",
-        "priceRange": "\u20b92.38 Cr - \u20b93.02 Cr"
+        "priceRange": "\u20b91.47 Cr"
       }
     ],
     "lat": 18.6736,
@@ -83843,8 +84118,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-18-developers",
     "location": "Walhekarwadi",
     "city": "Pune",
-    "priceRange": "\u20b953 L - \u20b999 L",
-    "exactPrice": "\u20b953 L",
+    "priceRange": "\u20b953.00 L - \u20b999.00 L",
+    "exactPrice": "\u20b953.00 L",
     "pricePerSqft": 20784,
     "configurations": [
       "Office"
@@ -83912,9 +84187,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "713 sq.ft",
-        "priceRange": "\u20b953 L - \u20b999 L"
+        "priceRange": "\u20b953.00 L"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "998 sq.ft",
+        "priceRange": "\u20b999.00 L"
       }
     ],
     "lat": 18.6295,
@@ -83961,8 +84241,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sai-nisarg-landmark",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b990 L - \u20b91.12 Cr",
-    "exactPrice": "\u20b990 L",
+    "priceRange": "\u20b990.00 L - \u20b91.12 Cr",
+    "exactPrice": "\u20b990.00 L",
     "pricePerSqft": 12465,
     "configurations": [
       "2 BHK",
@@ -84035,12 +84315,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "732 sq.ft",
-        "priceRange": "\u20b990 L - \u20b91.13 Cr"
+        "priceRange": "\u20b990.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1118 sq.ft",
-        "priceRange": "\u20b91.26 Cr - \u20b91.62 Cr"
+        "priceRange": "\u20b91.12 Cr"
       }
     ],
     "lat": 18.6027,
@@ -84169,9 +84449,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "4 BHK",
+        "type": "4 BHK Premium",
         "carpetArea": "1615 sq.ft",
-        "priceRange": "\u20b912.34 Cr - \u20b915.71 Cr"
+        "priceRange": "\u20b95.61 Cr"
+      },
+      {
+        "type": "4 BHK Grande",
+        "carpetArea": "1989 sq.ft",
+        "priceRange": "\u20b96.91 Cr"
       }
     ],
     "lat": 18.5573,
@@ -84297,7 +84582,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Shop",
         "carpetArea": "633 sq.ft",
-        "priceRange": "\u20b91.11 Cr - \u20b96.80 Cr"
+        "priceRange": "\u20b96.80 Cr"
       }
     ],
     "lat": 18.6154,
@@ -84414,9 +84699,9 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Luxury Unit",
         "carpetArea": "700 sq.ft",
-        "priceRange": "\u20b91.10 Cr - \u20b91.38 Cr"
+        "priceRange": "\u20b91.10 Cr"
       }
     ],
     "lat": 18.5792,
@@ -84464,8 +84749,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-june-2027",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b977 L - \u20b91 Cr",
-    "exactPrice": "\u20b977 L",
+    "priceRange": "\u20b977.00 L - \u20b91.00 Cr",
+    "exactPrice": "\u20b977.00 L",
     "pricePerSqft": 10039,
     "configurations": [
       "2 BHK",
@@ -84543,7 +84828,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1053 sq.ft",
-        "priceRange": "\u20b91.08 Cr - \u20b91.39 Cr"
+        "priceRange": "\u20b91.00 Cr"
       }
     ],
     "lat": 18.6582,
@@ -84684,7 +84969,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1734 sq.ft",
-        "priceRange": "\u20b92.82 Cr - \u20b93.58 Cr"
+        "priceRange": "\u20b92.61 Cr"
       }
     ],
     "lat": 18.599,
@@ -84732,8 +85017,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-nb-developers",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b973 L - \u20b97.19 Cr",
-    "exactPrice": "\u20b973 L",
+    "priceRange": "\u20b973.00 L - \u20b97.19 Cr",
+    "exactPrice": "\u20b973.00 L",
     "pricePerSqft": 29795,
     "configurations": [
       "Shop",
@@ -84805,7 +85090,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Shop",
         "carpetArea": "633 sq.ft",
-        "priceRange": "\u20b973 L - \u20b97.19 Cr"
+        "priceRange": "\u20b973.00 L"
       },
       {
         "type": "Showroom",
@@ -84857,8 +85142,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-jhamtani-group",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b957 L - \u20b994 L",
-    "exactPrice": "\u20b957 L",
+    "priceRange": "\u20b957.00 L - \u20b994.00 L",
+    "exactPrice": "\u20b957.00 L",
     "pricePerSqft": 8272,
     "configurations": [
       "2 BHK",
@@ -84935,7 +85220,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1026 sq.ft",
-        "priceRange": "\u20b980 L - \u20b91.03 Cr"
+        "priceRange": "\u20b994.00 L"
       }
     ],
     "lat": 18.6605,
@@ -84983,8 +85268,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-garve-developers-is-a-2",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b991 L - \u20b91.41 Cr",
-    "exactPrice": "\u20b991 L",
+    "priceRange": "\u20b991.00 L - \u20b91.41 Cr",
+    "exactPrice": "\u20b991.00 L",
     "pricePerSqft": 11772,
     "configurations": [
       "2 BHK",
@@ -85077,12 +85362,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "693 sq.ft",
-        "priceRange": "\u20b991 L - \u20b91.14 Cr"
+        "priceRange": "\u20b991.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1082 sq.ft",
-        "priceRange": "\u20b91.27 Cr - \u20b91.64 Cr"
+        "priceRange": "\u20b91.41 Cr"
       }
     ],
     "lat": 18.6235,
@@ -85130,8 +85415,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-talreja-group",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b92.20 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b92.20 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 13469,
     "configurations": [
       "2 BHK",
@@ -85206,7 +85491,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "755 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.24 Cr"
+        "priceRange": "\u20b999.00 L"
       },
       {
         "type": "3 BHK",
@@ -85264,8 +85549,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shree-samarth-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b998 L - \u20b91.90 Cr",
-    "exactPrice": "\u20b998 L",
+    "priceRange": "\u20b998.00 L - \u20b91.90 Cr",
+    "exactPrice": "\u20b998.00 L",
     "pricePerSqft": 10315,
     "configurations": [
       "3 BHK"
@@ -85334,9 +85619,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "982 sq.ft",
-        "priceRange": "\u20b91.37 Cr - \u20b91.76 Cr"
+        "priceRange": "\u20b998.00 L"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1374 sq.ft",
+        "priceRange": "\u20b91.90 Cr"
       }
     ],
     "lat": 18.6166,
@@ -85463,7 +85753,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1087 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.28 Cr"
+        "priceRange": "\u20b91.04 Cr"
       }
     ],
     "lat": 18.6548,
@@ -85603,7 +85893,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1838 sq.ft",
-        "priceRange": "\u20b92.97 Cr - \u20b93.78 Cr"
+        "priceRange": "\u20b92.03 Cr"
       }
     ],
     "lat": 18.6239,
@@ -85651,8 +85941,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-shankeshwar-homes",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b91.62 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b91.62 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 12992,
     "configurations": [
       "2 BHK",
@@ -85725,12 +86015,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "737 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.24 Cr"
+        "priceRange": "\u20b999.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1105 sq.ft",
-        "priceRange": "\u20b91.39 Cr - \u20b91.78 Cr"
+        "priceRange": "\u20b91.62 Cr"
       }
     ],
     "lat": 18.5953,
@@ -85856,7 +86146,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1125 sq.ft",
-        "priceRange": "\u20b91.07 Cr - \u20b91.38 Cr"
+        "priceRange": "\u20b91.30 Cr"
       }
     ],
     "lat": 18.6329,
@@ -85972,9 +86262,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "646 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b93.20 Cr"
+        "priceRange": "\u20b91.05 Cr"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "904 sq.ft",
+        "priceRange": "\u20b93.20 Cr"
       }
     ],
     "lat": 18.6468,
@@ -86094,12 +86389,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "756 sq.ft",
-        "priceRange": "\u20b986 L - \u20b91.07 Cr"
+        "priceRange": "\u20b985.77 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "989 sq.ft",
-        "priceRange": "\u20b91.20 Cr - \u20b91.54 Cr"
+        "priceRange": "\u20b91.28 Cr"
       }
     ],
     "lat": 18.6264,
@@ -86274,7 +86569,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-silverise-group",
     "location": "Moshi",
     "city": "Pune",
-    "priceRange": "\u20b91.30 Cr - \u20b92 Cr",
+    "priceRange": "\u20b91.30 Cr - \u20b92.00 Cr",
     "exactPrice": "\u20b91.30 Cr",
     "pricePerSqft": 14444,
     "configurations": [
@@ -86352,7 +86647,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1018 sq.ft",
-        "priceRange": "\u20b91.82 Cr - \u20b92.34 Cr"
+        "priceRange": "\u20b92.00 Cr"
       }
     ],
     "lat": 18.675,
@@ -86400,8 +86695,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vijayshree-developers",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b967 L - \u20b971 L",
-    "exactPrice": "\u20b967 L",
+    "priceRange": "\u20b967.00 L - \u20b971.00 L",
+    "exactPrice": "\u20b967.00 L",
     "pricePerSqft": 9985,
     "configurations": [
       "2 BHK"
@@ -86469,9 +86764,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Premium",
         "carpetArea": "736 sq.ft",
-        "priceRange": "\u20b967 L - \u20b984 L"
+        "priceRange": "\u20b967.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "779 sq.ft",
+        "priceRange": "\u20b971.00 L"
       }
     ],
     "lat": 18.589,
@@ -86519,7 +86819,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-skyluxe-developers",
     "location": "Chinchwad",
     "city": "Pune",
-    "priceRange": "\u20b989.99 L - \u20b92 Cr",
+    "priceRange": "\u20b989.99 L - \u20b92.00 Cr",
     "exactPrice": "\u20b989.99 L",
     "pricePerSqft": 12855,
     "configurations": [
@@ -86595,7 +86895,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "739 sq.ft",
-        "priceRange": "\u20b990 L - \u20b91.12 Cr"
+        "priceRange": "\u20b989.99 L"
       },
       {
         "type": "3 BHK",
@@ -86783,8 +87083,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-smk-group-llp",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b951 L - \u20b980 L",
-    "exactPrice": "\u20b951 L",
+    "priceRange": "\u20b951.00 L - \u20b980.00 L",
+    "exactPrice": "\u20b951.00 L",
     "pricePerSqft": 10039,
     "configurations": [
       "1 BHK",
@@ -86857,12 +87157,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "430 sq.ft",
-        "priceRange": "\u20b936 L - \u20b943 L"
+        "priceRange": "\u20b951.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "729 sq.ft",
-        "priceRange": "\u20b951 L - \u20b964 L"
+        "priceRange": "\u20b980.00 L"
       }
     ],
     "lat": 18.6494,
@@ -87037,7 +87337,7 @@ export const PROJECTS: Project[] = [
     "builderId": "b-the-skies-group",
     "location": "Balewadi",
     "city": "Pune",
-    "priceRange": "\u20b91.94 Cr - \u20b93 Cr",
+    "priceRange": "\u20b91.94 Cr - \u20b93.00 Cr",
     "exactPrice": "\u20b91.94 Cr",
     "pricePerSqft": 16153,
     "configurations": [
@@ -87107,9 +87407,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1064 sq.ft",
-        "priceRange": "\u20b92.72 Cr - \u20b93.49 Cr"
+        "priceRange": "\u20b91.94 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1489 sq.ft",
+        "priceRange": "\u20b93.00 Cr"
       }
     ],
     "lat": 18.5756,
@@ -87157,8 +87462,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-the-skies-group",
     "location": "Pimple Saudagar",
     "city": "Pune",
-    "priceRange": "\u20b979 L - \u20b91.99 Cr",
-    "exactPrice": "\u20b979 L",
+    "priceRange": "\u20b979.00 L - \u20b91.99 Cr",
+    "exactPrice": "\u20b979.00 L",
     "pricePerSqft": 23867,
     "configurations": [
       "Office"
@@ -87227,9 +87532,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "633 sq.ft",
-        "priceRange": "\u20b979 L - \u20b91.99 Cr"
+        "priceRange": "\u20b979.00 L"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "886 sq.ft",
+        "priceRange": "\u20b91.99 Cr"
       }
     ],
     "lat": 18.5974,
@@ -87277,8 +87587,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-skyfinia-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b997 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b997 L",
+    "priceRange": "\u20b997.00 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b997.00 L",
     "pricePerSqft": 12325,
     "configurations": [
       "2 BHK",
@@ -87351,12 +87661,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "685 sq.ft",
-        "priceRange": "\u20b997 L - \u20b91.21 Cr"
+        "priceRange": "\u20b997.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1033 sq.ft",
-        "priceRange": "\u20b91.36 Cr - \u20b91.75 Cr"
+        "priceRange": "\u20b91.25 Cr"
       }
     ],
     "lat": 18.6189,
@@ -87404,8 +87714,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-the-skies-group",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b91 Cr - \u20b92.70 Cr",
-    "exactPrice": "\u20b91 Cr",
+    "priceRange": "\u20b91.00 Cr - \u20b92.70 Cr",
+    "exactPrice": "\u20b91.00 Cr",
     "pricePerSqft": 14005,
     "configurations": [
       "Office"
@@ -87473,9 +87783,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "614 sq.ft",
-        "priceRange": "\u20b91 Cr - \u20b92.70 Cr"
+        "priceRange": "\u20b91.00 Cr"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "859 sq.ft",
+        "priceRange": "\u20b92.70 Cr"
       }
     ],
     "lat": 18.614,
@@ -87522,8 +87837,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-goyal-properties",
     "location": "Mamurdi",
     "city": "Pune",
-    "priceRange": "\u20b967 L - \u20b986 L",
-    "exactPrice": "\u20b967 L",
+    "priceRange": "\u20b967.00 L - \u20b986.00 L",
+    "exactPrice": "\u20b967.00 L",
     "pricePerSqft": 10501,
     "configurations": [
       "2 BHK",
@@ -87603,7 +87918,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1124 sq.ft",
-        "priceRange": "\u20b994 L - \u20b91.21 Cr"
+        "priceRange": "\u20b986.00 L"
       }
     ],
     "lat": 18.6624,
@@ -87731,12 +88046,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "999 sq.ft",
-        "priceRange": "\u20b92.58 Cr - \u20b93.31 Cr"
+        "priceRange": "\u20b91.84 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1686 sq.ft",
-        "priceRange": "\u20b94.05 Cr - \u20b95.15 Cr"
+        "priceRange": "\u20b92.85 Cr"
       }
     ],
     "lat": 18.555,
@@ -87784,8 +88099,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-the-skies-group",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b986 L",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b986.00 L",
+    "exactPrice": "\u20b975.00 L",
     "pricePerSqft": 10302,
     "configurations": [
       "2 BHK",
@@ -87863,7 +88178,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "981 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b986.00 L"
       }
     ],
     "lat": 18.6461,
@@ -87911,8 +88226,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-trio-spaces",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b961 L - \u20b989.99 L",
-    "exactPrice": "\u20b961 L",
+    "priceRange": "\u20b961.00 L - \u20b989.99 L",
+    "exactPrice": "\u20b961.00 L",
     "pricePerSqft": 9697,
     "configurations": [
       "2 BHK",
@@ -87986,7 +88301,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1000 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.10 Cr"
+        "priceRange": "\u20b989.99 L"
       }
     ],
     "lat": 18.6616,
@@ -88031,8 +88346,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-city-one",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b965 L - \u20b987 L",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b987.00 L",
+    "exactPrice": "\u20b965.00 L",
     "pricePerSqft": 9129,
     "configurations": [
       "2 BHK",
@@ -88110,7 +88425,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1125 sq.ft",
-        "priceRange": "\u20b991 L - \u20b91.17 Cr"
+        "priceRange": "\u20b987.00 L"
       }
     ],
     "lat": 18.6604,
@@ -88356,7 +88671,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4.5 BHK",
         "carpetArea": "1822 sq.ft",
-        "priceRange": "\u20b918.92 Cr - \u20b924.08 Cr"
+        "priceRange": "\u20b98.60 Cr"
       }
     ],
     "lat": 18.5568,
@@ -88404,8 +88719,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-city-one",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b992 L - \u20b91 Cr",
-    "exactPrice": "\u20b992 L",
+    "priceRange": "\u20b992.00 L - \u20b91.00 Cr",
+    "exactPrice": "\u20b992.00 L",
     "pricePerSqft": 9064,
     "configurations": [
       "3 BHK"
@@ -88473,9 +88788,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "994 sq.ft",
-        "priceRange": "\u20b91.29 Cr - \u20b91.66 Cr"
+        "priceRange": "\u20b992.00 L"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1080 sq.ft",
+        "priceRange": "\u20b91.00 Cr"
       }
     ],
     "lat": 18.6531,
@@ -88523,8 +88843,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-wandering-developers",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b965 L - \u20b91.12 Cr",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b91.12 Cr",
+    "exactPrice": "\u20b965.00 L",
     "pricePerSqft": 14130,
     "configurations": [
       "1 BHK",
@@ -88597,12 +88917,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "426 sq.ft",
-        "priceRange": "\u20b946 L - \u20b955 L"
+        "priceRange": "\u20b965.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "749 sq.ft",
-        "priceRange": "\u20b965 L - \u20b981 L"
+        "priceRange": "\u20b91.12 Cr"
       }
     ],
     "lat": 18.5594,
@@ -88729,7 +89049,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1047 sq.ft",
-        "priceRange": "\u20b91.68 Cr - \u20b92.16 Cr"
+        "priceRange": "\u20b91.55 Cr"
       }
     ],
     "lat": 18.6285,
@@ -88844,9 +89164,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "749 sq.ft",
-        "priceRange": "\u20b91.99 Cr - \u20b93.34 Cr"
+        "priceRange": "\u20b91.99 Cr"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "1048 sq.ft",
+        "priceRange": "\u20b93.34 Cr"
       }
     ],
     "lat": 18.599,
@@ -88958,9 +89283,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "559 sq.ft",
-        "priceRange": "\u20b91.60 Cr - \u20b95.50 Cr"
+        "priceRange": "\u20b91.60 Cr"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "782 sq.ft",
+        "priceRange": "\u20b95.50 Cr"
       }
     ],
     "lat": 18.6207,
@@ -89091,7 +89421,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1601 sq.ft",
-        "priceRange": "\u20b92.44 Cr - \u20b93.11 Cr"
+        "priceRange": "\u20b92.82 Cr"
       }
     ],
     "lat": 18.5116,
@@ -89139,8 +89469,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-yashada-realty",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b994 L - \u20b91.99 Cr",
-    "exactPrice": "\u20b994 L",
+    "priceRange": "\u20b994.00 L - \u20b91.99 Cr",
+    "exactPrice": "\u20b994.00 L",
     "pricePerSqft": 11604,
     "configurations": [
       "2 BHK",
@@ -89215,7 +89545,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "724 sq.ft",
-        "priceRange": "\u20b994 L - \u20b91.18 Cr"
+        "priceRange": "\u20b994.00 L"
       },
       {
         "type": "3 BHK",
@@ -89225,7 +89555,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1665 sq.ft",
-        "priceRange": "\u20b92.07 Cr - \u20b92.63 Cr"
+        "priceRange": "\u20b91.99 Cr"
       }
     ],
     "lat": 18.6263,
@@ -89352,7 +89682,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1010 sq.ft",
-        "priceRange": "\u20b91.08 Cr - \u20b91.38 Cr"
+        "priceRange": "\u20b91.02 Cr"
       }
     ],
     "lat": 18.6526,
@@ -89473,12 +89803,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "701 sq.ft",
-        "priceRange": "\u20b988 L - \u20b91.10 Cr"
+        "priceRange": "\u20b987.99 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1033 sq.ft",
-        "priceRange": "\u20b91.23 Cr - \u20b91.58 Cr"
+        "priceRange": "\u20b91.16 Cr"
       }
     ],
     "lat": 18.627,
@@ -89605,7 +89935,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1078 sq.ft",
-        "priceRange": "\u20b91.60 Cr - \u20b92.05 Cr"
+        "priceRange": "\u20b91.72 Cr"
       }
     ],
     "lat": 18.5173,
@@ -89738,7 +90068,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1826 sq.ft",
-        "priceRange": "\u20b92.53 Cr - \u20b93.22 Cr"
+        "priceRange": "\u20b92.30 Cr"
       }
     ],
     "lat": 18.5843,
@@ -89859,12 +90189,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1009 sq.ft",
-        "priceRange": "\u20b92.70 Cr - \u20b93.47 Cr"
+        "priceRange": "\u20b91.93 Cr"
       },
       {
         "type": "4.5 BHK",
         "carpetArea": "1773 sq.ft",
-        "priceRange": "\u20b94.25 Cr - \u20b95.40 Cr"
+        "priceRange": "\u20b93.88 Cr"
       }
     ],
     "lat": 18.5997,
@@ -89912,8 +90242,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-crystal-creations",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b995 L",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b995.00 L",
+    "exactPrice": "\u20b975.00 L",
     "pricePerSqft": 9469,
     "configurations": [
       "2 BHK",
@@ -89991,7 +90321,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "983 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b995.00 L"
       }
     ],
     "lat": 18.6489,
@@ -90115,7 +90445,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Showroom",
         "carpetArea": "679 sq.ft",
-        "priceRange": "\u20b91.99 Cr - \u20b97.50 Cr"
+        "priceRange": "\u20b97.50 Cr"
       }
     ],
     "lat": 18.6522,
@@ -90160,8 +90490,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-dolphin-group",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b988 L",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b988.00 L",
+    "exactPrice": "\u20b975.00 L",
     "pricePerSqft": 9881,
     "configurations": [
       "2 BHK",
@@ -90239,7 +90569,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1025 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b988.00 L"
       }
     ],
     "lat": 18.6521,
@@ -90287,8 +90617,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-estofa-realty",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b91 Cr - \u20b91.82 Cr",
-    "exactPrice": "\u20b91 Cr",
+    "priceRange": "\u20b91.00 Cr - \u20b91.82 Cr",
+    "exactPrice": "\u20b91.00 Cr",
     "pricePerSqft": 13793,
     "configurations": [
       "2 BHK",
@@ -90377,7 +90707,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1792 sq.ft",
-        "priceRange": "\u20b92.20 Cr - \u20b92.80 Cr"
+        "priceRange": "\u20b91.82 Cr"
       }
     ],
     "lat": 18.6159,
@@ -90425,8 +90755,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-parks",
     "location": "Rahatani",
     "city": "Pune",
-    "priceRange": "\u20b990 L - \u20b91.75 Cr",
-    "exactPrice": "\u20b990 L",
+    "priceRange": "\u20b990.00 L - \u20b91.75 Cr",
+    "exactPrice": "\u20b990.00 L",
     "pricePerSqft": 10273,
     "configurations": [
       "2 BHK",
@@ -90502,7 +90832,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "723 sq.ft",
-        "priceRange": "\u20b990 L - \u20b91.13 Cr"
+        "priceRange": "\u20b990.00 L"
       },
       {
         "type": "3 BHK",
@@ -90512,7 +90842,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3.5 BHK",
         "carpetArea": "1046 sq.ft",
-        "priceRange": "\u20b91.26 Cr - \u20b91.62 Cr"
+        "priceRange": "\u20b91.75 Cr"
       }
     ],
     "lat": 18.6055,
@@ -90560,8 +90890,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-alacarte-developers",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b999 L - \u20b91.62 Cr",
-    "exactPrice": "\u20b999 L",
+    "priceRange": "\u20b999.00 L - \u20b91.62 Cr",
+    "exactPrice": "\u20b999.00 L",
     "pricePerSqft": 12992,
     "configurations": [
       "2 BHK",
@@ -90634,12 +90964,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "702 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.24 Cr"
+        "priceRange": "\u20b999.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1084 sq.ft",
-        "priceRange": "\u20b91.39 Cr - \u20b91.78 Cr"
+        "priceRange": "\u20b91.62 Cr"
       }
     ],
     "lat": 18.5906,
@@ -90757,9 +91087,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "574 sq.ft",
-        "priceRange": "\u20b91.99 Cr - \u20b914.66 Cr"
+        "priceRange": "\u20b91.99 Cr"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "803 sq.ft",
+        "priceRange": "\u20b914.66 Cr"
       }
     ],
     "lat": 18.5593,
@@ -90893,7 +91228,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1815 sq.ft",
-        "priceRange": "\u20b92.77 Cr - \u20b93.53 Cr"
+        "priceRange": "\u20b92.99 Cr"
       }
     ],
     "lat": 18.5806,
@@ -90941,8 +91276,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-mantra-properties",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b974 L - \u20b998 L",
-    "exactPrice": "\u20b974 L",
+    "priceRange": "\u20b974.00 L - \u20b998.00 L",
+    "exactPrice": "\u20b974.00 L",
     "pricePerSqft": 10364,
     "configurations": [
       "2 BHK",
@@ -91020,7 +91355,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1110 sq.ft",
-        "priceRange": "\u20b91.04 Cr - \u20b91.33 Cr"
+        "priceRange": "\u20b998.00 L"
       }
     ],
     "lat": 18.5567,
@@ -91068,8 +91403,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-miracle-group",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.29 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.29 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 10732,
     "configurations": [
       "2 BHK",
@@ -91142,12 +91477,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "744 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1003 sq.ft",
-        "priceRange": "\u20b91.19 Cr - \u20b91.53 Cr"
+        "priceRange": "\u20b91.29 Cr"
       }
     ],
     "lat": 18.6147,
@@ -91269,12 +91604,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b92.11 Cr - \u20b92.72 Cr"
+        "priceRange": "\u20b91.51 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1774 sq.ft",
-        "priceRange": "\u20b93.32 Cr - \u20b94.23 Cr"
+        "priceRange": "\u20b92.30 Cr"
       }
     ],
     "lat": 18.5806,
@@ -91322,8 +91657,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-krisala",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b91.24 Cr",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b91.24 Cr",
+    "exactPrice": "\u20b975.00 L",
     "pricePerSqft": 10500,
     "configurations": [
       "2 BHK",
@@ -91452,8 +91787,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-platinum-buildcon",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b996 L",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b996.00 L",
+    "exactPrice": "\u20b975.00 L",
     "pricePerSqft": 13586,
     "configurations": [
       "1 BHK",
@@ -91526,12 +91861,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "426 sq.ft",
-        "priceRange": "\u20b953 L - \u20b964 L"
+        "priceRange": "\u20b975.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "693 sq.ft",
-        "priceRange": "\u20b975 L - \u20b994 L"
+        "priceRange": "\u20b996.00 L"
       }
     ],
     "lat": 18.5956,
@@ -91579,8 +91914,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-renuka-construction",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 11333,
     "configurations": [
       "2 BHK",
@@ -91654,7 +91989,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "714 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.06 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
@@ -91707,8 +92042,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-december-2027",
     "location": "Akurdi",
     "city": "Pune",
-    "priceRange": "\u20b979 L - \u20b997 L",
-    "exactPrice": "\u20b979 L",
+    "priceRange": "\u20b979.00 L - \u20b997.00 L",
+    "exactPrice": "\u20b979.00 L",
     "pricePerSqft": 10589,
     "configurations": [
       "2 BHK"
@@ -91777,9 +92112,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Premium",
         "carpetArea": "711 sq.ft",
-        "priceRange": "\u20b979 L - \u20b999 L"
+        "priceRange": "\u20b979.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "873 sq.ft",
+        "priceRange": "\u20b997.00 L"
       }
     ],
     "lat": 18.6456,
@@ -91827,8 +92167,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-new-developers",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b986 L - \u20b91.10 Cr",
-    "exactPrice": "\u20b986 L",
+    "priceRange": "\u20b986.00 L - \u20b91.10 Cr",
+    "exactPrice": "\u20b986.00 L",
     "pricePerSqft": 10913,
     "configurations": [
       "2 BHK",
@@ -91901,12 +92241,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "710 sq.ft",
-        "priceRange": "\u20b986 L - \u20b91.08 Cr"
+        "priceRange": "\u20b986.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1059 sq.ft",
-        "priceRange": "\u20b91.20 Cr - \u20b91.55 Cr"
+        "priceRange": "\u20b91.10 Cr"
       }
     ],
     "lat": 18.6257,
@@ -92024,9 +92364,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1124 sq.ft",
-        "priceRange": "\u20b91.72 Cr - \u20b92.21 Cr"
+        "priceRange": "\u20b91.23 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1306 sq.ft",
+        "priceRange": "\u20b91.43 Cr"
       }
     ],
     "lat": 18.6726,
@@ -92074,8 +92419,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-soham-shivam-developers",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b989 L",
-    "exactPrice": "\u20b989 L",
+    "priceRange": "\u20b989.00 L",
+    "exactPrice": "\u20b989.00 L",
     "pricePerSqft": 11410,
     "configurations": [
       "2 BHK"
@@ -92145,7 +92490,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "716 sq.ft",
-        "priceRange": "\u20b989 L - \u20b91.11 Cr"
+        "priceRange": "\u20b989.00 L"
       }
     ],
     "lat": 18.6183,
@@ -92193,8 +92538,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sky-developers",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b91 Cr - \u20b91.50 Cr",
-    "exactPrice": "\u20b91 Cr",
+    "priceRange": "\u20b91.00 Cr - \u20b91.50 Cr",
+    "exactPrice": "\u20b91.00 Cr",
     "pricePerSqft": 9354,
     "configurations": [
       "3 BHK"
@@ -92263,9 +92608,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1018 sq.ft",
-        "priceRange": "\u20b91.40 Cr - \u20b91.80 Cr"
+        "priceRange": "\u20b91.00 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1425 sq.ft",
+        "priceRange": "\u20b91.50 Cr"
       }
     ],
     "lat": 18.6516,
@@ -92313,8 +92663,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-nirman-greens",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b936 L - \u20b950 L",
-    "exactPrice": "\u20b936 L",
+    "priceRange": "\u20b936.00 L - \u20b950.00 L",
+    "exactPrice": "\u20b936.00 L",
     "pricePerSqft": 4724,
     "configurations": [
       "Shop"
@@ -92380,9 +92730,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Shop",
+        "type": "Shop Premium",
         "carpetArea": "639 sq.ft",
-        "priceRange": "\u20b936 L - \u20b950 L"
+        "priceRange": "\u20b936.00 L"
+      },
+      {
+        "type": "Shop Grande",
+        "carpetArea": "887 sq.ft",
+        "priceRange": "\u20b950.00 L"
       }
     ],
     "lat": 18.6197,
@@ -92428,8 +92783,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sentosa-developer",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b944 L - \u20b91.57 Cr",
-    "exactPrice": "\u20b944 L",
+    "priceRange": "\u20b944.00 L - \u20b91.57 Cr",
+    "exactPrice": "\u20b944.00 L",
     "pricePerSqft": 14965,
     "configurations": [
       "Office",
@@ -92500,7 +92855,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Office",
         "carpetArea": "649 sq.ft",
-        "priceRange": "\u20b944 L - \u20b91.57 Cr"
+        "priceRange": "\u20b944.00 L"
       },
       {
         "type": "Shop",
@@ -92551,8 +92906,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-siddhashila-group",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b981 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b981 L",
+    "priceRange": "\u20b981.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b981.00 L",
     "pricePerSqft": 10049,
     "configurations": [
       "2 BHK",
@@ -92625,7 +92980,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "717 sq.ft",
-        "priceRange": "\u20b981 L - \u20b91.01 Cr"
+        "priceRange": "\u20b981.00 L"
       },
       {
         "type": "3 BHK",
@@ -92678,8 +93033,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-studio-developers",
     "location": "Balewadi",
     "city": "Pune",
-    "priceRange": "\u20b932 L - \u20b936 L",
-    "exactPrice": "\u20b932 L",
+    "priceRange": "\u20b932.00 L - \u20b936.00 L",
+    "exactPrice": "\u20b932.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "Studio"
@@ -92748,9 +93103,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Studio",
+        "type": "Studio Premium",
         "carpetArea": "620 sq.ft",
-        "priceRange": "\u20b932 L - \u20b936 L"
+        "priceRange": "\u20b932.00 L"
+      },
+      {
+        "type": "Studio Grande",
+        "carpetArea": "697 sq.ft",
+        "priceRange": "\u20b936.00 L"
       }
     ],
     "lat": 18.572,
@@ -92798,8 +93158,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-the-skies-group",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b964 L - \u20b989 L",
-    "exactPrice": "\u20b964 L",
+    "priceRange": "\u20b964.00 L - \u20b989.00 L",
+    "exactPrice": "\u20b964.00 L",
     "pricePerSqft": 9397,
     "configurations": [
       "2 BHK",
@@ -92877,7 +93237,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1125 sq.ft",
-        "priceRange": "\u20b990 L - \u20b91.15 Cr"
+        "priceRange": "\u20b989.00 L"
       }
     ],
     "lat": 18.658,
@@ -92995,9 +93355,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1093 sq.ft",
-        "priceRange": "\u20b91.40 Cr - \u20b91.79 Cr"
+        "priceRange": "\u20b999.65 L"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1530 sq.ft",
+        "priceRange": "\u20b91.40 Cr"
       }
     ],
     "lat": 18.653,
@@ -93045,8 +93410,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-muktai-builders-developers",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b979 L - \u20b988 L",
-    "exactPrice": "\u20b979 L",
+    "priceRange": "\u20b979.00 L - \u20b988.00 L",
+    "exactPrice": "\u20b979.00 L",
     "pricePerSqft": 10233,
     "configurations": [
       "2 BHK"
@@ -93115,9 +93480,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Premium",
         "carpetArea": "707 sq.ft",
-        "priceRange": "\u20b979 L - \u20b999 L"
+        "priceRange": "\u20b979.00 L"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "787 sq.ft",
+        "priceRange": "\u20b988.00 L"
       }
     ],
     "lat": 18.6536,
@@ -93165,8 +93535,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-yashada-realty",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b994 L - \u20b92 Cr",
-    "exactPrice": "\u20b994 L",
+    "priceRange": "\u20b994.00 L - \u20b92.00 Cr",
+    "exactPrice": "\u20b994.00 L",
     "pricePerSqft": 11604,
     "configurations": [
       "2 BHK",
@@ -93242,7 +93612,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "705 sq.ft",
-        "priceRange": "\u20b994 L - \u20b91.18 Cr"
+        "priceRange": "\u20b994.00 L"
       },
       {
         "type": "3 BHK",
@@ -93252,7 +93622,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1798 sq.ft",
-        "priceRange": "\u20b92.07 Cr - \u20b92.63 Cr"
+        "priceRange": "\u20b92.00 Cr"
       }
     ],
     "lat": 18.6259,
@@ -93386,7 +93756,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1662 sq.ft",
-        "priceRange": "\u20b92.29 Cr - \u20b92.91 Cr"
+        "priceRange": "\u20b91.98 Cr"
       }
     ],
     "lat": 18.6518,
@@ -93434,8 +93804,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-yoovie-developers",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b915 Cr",
-    "exactPrice": "\u20b915 Cr",
+    "priceRange": "\u20b915.00 Cr",
+    "exactPrice": "\u20b915.00 Cr",
     "pricePerSqft": 20675,
     "configurations": [
       "5 BHK"
@@ -93506,7 +93876,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK",
         "carpetArea": "1832 sq.ft",
-        "priceRange": "\u20b933.00 Cr - \u20b942.00 Cr"
+        "priceRange": "\u20b915.00 Cr"
       }
     ],
     "lat": 18.5623,
@@ -93554,8 +93924,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-rahul-constructions",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b91 Cr - \u20b94 Cr",
-    "exactPrice": "\u20b91 Cr",
+    "priceRange": "\u20b91.00 Cr - \u20b94.00 Cr",
+    "exactPrice": "\u20b91.00 Cr",
     "pricePerSqft": 20920,
     "configurations": [
       "Office",
@@ -93633,7 +94003,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Shop",
         "carpetArea": "552 sq.ft",
-        "priceRange": "\u20b91 Cr - \u20b94 Cr"
+        "priceRange": "\u20b94.00 Cr"
       }
     ],
     "lat": 18.558,
@@ -93791,7 +94161,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1784 sq.ft",
-        "priceRange": "\u20b92.62 Cr - \u20b93.33 Cr"
+        "priceRange": "\u20b92.39 Cr"
       }
     ],
     "lat": 18.5495,
@@ -93839,8 +94209,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-tej-developers",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b92 Cr - \u20b93 Cr",
-    "exactPrice": "\u20b92 Cr",
+    "priceRange": "\u20b92.00 Cr - \u20b93.00 Cr",
+    "exactPrice": "\u20b92.00 Cr",
     "pricePerSqft": 15384,
     "configurations": [
       "Office"
@@ -93908,9 +94278,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "Office",
+        "type": "Office Premium",
         "carpetArea": "671 sq.ft",
-        "priceRange": "\u20b92 Cr - \u20b93 Cr"
+        "priceRange": "\u20b92.00 Cr"
+      },
+      {
+        "type": "Office Grande",
+        "carpetArea": "939 sq.ft",
+        "priceRange": "\u20b93.00 Cr"
       }
     ],
     "lat": 18.5613,
@@ -94038,7 +94413,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1669 sq.ft",
-        "priceRange": "\u20b92.86 Cr - \u20b93.64 Cr"
+        "priceRange": "\u20b93.10 Cr"
       }
     ],
     "lat": 18.521,
@@ -94086,8 +94461,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pk-group",
     "location": "Pimple Saudagar",
     "city": "Pune",
-    "priceRange": "Price on Request",
-    "exactPrice": "Price on Request",
+    "priceRange": "\u20b985.00 L",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "3 BHK",
@@ -94164,12 +94539,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1054 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1677 sq.ft",
-        "priceRange": "\u20b91.65 Cr - \u20b92.10 Cr"
+        "priceRange": "\u20b985.00 L"
       }
     ],
     "lat": 18.6028,
@@ -94297,12 +94672,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1065 sq.ft",
-        "priceRange": "\u20b92.79 Cr - \u20b93.58 Cr"
+        "priceRange": "\u20b91.99 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1627 sq.ft",
-        "priceRange": "\u20b94.38 Cr - \u20b95.57 Cr"
+        "priceRange": "\u20b93.33 Cr"
       }
     ],
     "lat": 18.5539,
@@ -94426,12 +94801,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1079 sq.ft",
-        "priceRange": "\u20b98.68 Cr - \u20b911.16 Cr"
+        "priceRange": "\u20b96.20 Cr"
       },
       {
         "type": "5 BHK",
         "carpetArea": "1573 sq.ft",
-        "priceRange": "\u20b913.64 Cr - \u20b917.36 Cr"
+        "priceRange": "\u20b910.75 Cr"
       }
     ],
     "lat": 18.523,
@@ -94478,8 +94853,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Mundhwa",
     "city": "Pune",
-    "priceRange": "Price on Request",
-    "exactPrice": "Price on Request",
+    "priceRange": "\u20b985.00 L",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "2 BHK",
@@ -94557,12 +94932,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "682 sq.ft",
-        "priceRange": "\u20b975 L - \u20b994 L"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1111 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b985.00 L"
       }
     ],
     "lat": 18.5411,
@@ -94610,8 +94985,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kate-promoters-and-developers",
     "location": "Pimple Saudagar",
     "city": "Pune",
-    "priceRange": "Price on Request",
-    "exactPrice": "Price on Request",
+    "priceRange": "\u20b985.00 L",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 8200,
     "configurations": [
       "2 BHK",
@@ -94683,12 +95058,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "740 sq.ft",
-        "priceRange": "\u20b975 L - \u20b994 L"
+        "priceRange": "\u20b985.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1043 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b985.00 L"
       }
     ],
     "lat": 18.599,
@@ -94735,8 +95110,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-austin-realty",
     "location": "Mamurdi",
     "city": "Pune",
-    "priceRange": "\u20b943 L - \u20b982.50 L",
-    "exactPrice": "\u20b943 L",
+    "priceRange": "\u20b943.00 L - \u20b982.50 L",
+    "exactPrice": "\u20b943.00 L",
     "pricePerSqft": 9555,
     "configurations": [
       "1 BHK",
@@ -94815,7 +95190,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "455 sq.ft",
-        "priceRange": "\u20b930 L - \u20b937 L"
+        "priceRange": "\u20b943.00 L"
       },
       {
         "type": "2 BHK",
@@ -94825,7 +95200,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "997 sq.ft",
-        "priceRange": "\u20b960 L - \u20b977 L"
+        "priceRange": "\u20b982.50 L"
       }
     ],
     "lat": 18.6659,
@@ -94873,8 +95248,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-sai-nisarg-landmark",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b977 L - \u20b91.03 Cr",
-    "exactPrice": "\u20b977 L",
+    "priceRange": "\u20b977.00 L - \u20b91.03 Cr",
+    "exactPrice": "\u20b977.00 L",
     "pricePerSqft": 9909,
     "configurations": [
       "2 BHK",
@@ -95092,7 +95467,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1597 sq.ft",
-        "priceRange": "\u20b92.40 Cr - \u20b93.05 Cr"
+        "priceRange": "\u20b92.04 Cr"
       }
     ],
     "lat": 18.6724,
@@ -95357,12 +95732,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1036 sq.ft",
-        "priceRange": "\u20b91.93 Cr - \u20b92.48 Cr"
+        "priceRange": "\u20b91.38 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1636 sq.ft",
-        "priceRange": "\u20b93.04 Cr - \u20b93.86 Cr"
+        "priceRange": "\u20b91.92 Cr"
       }
     ],
     "lat": 18.652,
@@ -95410,8 +95785,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-esson-landmarks",
     "location": "Mundhwa",
     "city": "Pune",
-    "priceRange": "\u20b993 L - \u20b91.22 Cr",
-    "exactPrice": "\u20b993 L",
+    "priceRange": "\u20b993.00 L - \u20b91.22 Cr",
+    "exactPrice": "\u20b993.00 L",
     "pricePerSqft": 12000,
     "configurations": [
       "2 BHK",
@@ -95484,12 +95859,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "728 sq.ft",
-        "priceRange": "\u20b993 L - \u20b91.16 Cr"
+        "priceRange": "\u20b993.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1003 sq.ft",
-        "priceRange": "\u20b91.30 Cr - \u20b91.67 Cr"
+        "priceRange": "\u20b91.22 Cr"
       }
     ],
     "lat": 18.538,
@@ -95537,8 +95912,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-mangalam-landmarks",
     "location": "Kiwale",
     "city": "Pune",
-    "priceRange": "\u20b980 L - \u20b91.02 Cr",
-    "exactPrice": "\u20b980 L",
+    "priceRange": "\u20b980.00 L - \u20b91.02 Cr",
+    "exactPrice": "\u20b980.00 L",
     "pricePerSqft": 10075,
     "configurations": [
       "2 BHK",
@@ -95618,12 +95993,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "745 sq.ft",
-        "priceRange": "\u20b980 L - \u20b91.00 Cr"
+        "priceRange": "\u20b980.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1065 sq.ft",
-        "priceRange": "\u20b91.12 Cr - \u20b91.44 Cr"
+        "priceRange": "\u20b91.02 Cr"
       }
     ],
     "lat": 18.658,
@@ -95671,8 +96046,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-viraj-corp",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b968 L - \u20b92.23 Cr",
-    "exactPrice": "\u20b968 L",
+    "priceRange": "\u20b968.00 L - \u20b92.23 Cr",
+    "exactPrice": "\u20b968.00 L",
     "pricePerSqft": 19653,
     "configurations": [
       "Smart Office",
@@ -95744,7 +96119,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "Smart Office",
         "carpetArea": "722 sq.ft",
-        "priceRange": "\u20b968 L - \u20b92.23 Cr"
+        "priceRange": "\u20b968.00 L"
       },
       {
         "type": "Premium Office",
@@ -95882,7 +96257,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1731 sq.ft",
-        "priceRange": "\u20b92.33 Cr - \u20b92.97 Cr"
+        "priceRange": "\u20b91.98 Cr"
       }
     ],
     "lat": 18.5987,
@@ -95930,8 +96305,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-avirat-developers",
     "location": "Chinchwad",
     "city": "Pune",
-    "priceRange": "\u20b91 Cr",
-    "exactPrice": "\u20b91 Cr",
+    "priceRange": "\u20b91.00 Cr",
+    "exactPrice": "\u20b91.00 Cr",
     "pricePerSqft": 11574,
     "configurations": [
       "3 BHK"
@@ -96005,7 +96380,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1074 sq.ft",
-        "priceRange": "\u20b91.40 Cr - \u20b91.80 Cr"
+        "priceRange": "\u20b91.00 Cr"
       }
     ],
     "lat": 18.6346,
@@ -96121,9 +96496,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK",
+        "type": "3 BHK Premium",
         "carpetArea": "1125 sq.ft",
-        "priceRange": "\u20b92.10 Cr - \u20b92.70 Cr"
+        "priceRange": "\u20b91.50 Cr"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1425 sq.ft",
+        "priceRange": "\u20b91.90 Cr"
       }
     ],
     "lat": 18.6576,
@@ -96401,7 +96781,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1560 sq.ft",
-        "priceRange": "\u20b92.84 Cr - \u20b93.61 Cr"
+        "priceRange": "\u20b93.19 Cr"
       }
     ],
     "lat": 18.5557,
@@ -96528,7 +96908,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "713 sq.ft",
-        "priceRange": "\u20b999 L - \u20b91.24 Cr"
+        "priceRange": "\u20b999.07 L"
       },
       {
         "type": "3 BHK",
@@ -96538,7 +96918,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1848 sq.ft",
-        "priceRange": "\u20b92.18 Cr - \u20b92.77 Cr"
+        "priceRange": "\u20b91.52 Cr"
       }
     ],
     "lat": 18.5705,
@@ -96695,12 +97075,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "985 sq.ft",
-        "priceRange": "\u20b92.52 Cr - \u20b93.24 Cr"
+        "priceRange": "\u20b91.80 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1590 sq.ft",
-        "priceRange": "\u20b93.96 Cr - \u20b95.04 Cr"
+        "priceRange": "\u20b92.50 Cr"
       }
     ],
     "specs": [
@@ -96872,7 +97252,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1079 sq.ft",
-        "priceRange": "\u20b92.73 Cr - \u20b93.51 Cr"
+        "priceRange": "\u20b91.95 Cr"
       },
       {
         "type": "4 BHK",
@@ -96882,7 +97262,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK",
         "carpetArea": "1610 sq.ft",
-        "priceRange": "\u20b94.29 Cr - \u20b95.46 Cr"
+        "priceRange": "\u20b94.00 Cr"
       }
     ],
     "specs": [
@@ -97036,12 +97416,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "443 sq.ft",
-        "priceRange": "\u20b930 L - \u20b937 L"
+        "priceRange": "\u20b943.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "729 sq.ft",
-        "priceRange": "\u20b943 L - \u20b954 L"
+        "priceRange": "\u20b980.00 L"
       }
     ],
     "specs": [
@@ -97213,7 +97593,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "718 sq.ft",
-        "priceRange": "\u20b987 L - \u20b91.09 Cr"
+        "priceRange": "\u20b987.00 L"
       },
       {
         "type": "3 BHK",
@@ -97223,7 +97603,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1744 sq.ft",
-        "priceRange": "\u20b91.91 Cr - \u20b92.44 Cr"
+        "priceRange": "\u20b91.71 Cr"
       }
     ],
     "specs": [
@@ -97377,12 +97757,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "740 sq.ft",
-        "priceRange": "\u20b983 L - \u20b91.04 Cr"
+        "priceRange": "\u20b983.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1067 sq.ft",
-        "priceRange": "\u20b91.16 Cr - \u20b91.49 Cr"
+        "priceRange": "\u20b91.21 Cr"
       }
     ],
     "specs": [
@@ -97552,7 +97932,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1018 sq.ft",
-        "priceRange": "\u20b95.45 Cr - \u20b97.00 Cr"
+        "priceRange": "\u20b93.89 Cr"
       },
       {
         "type": "4 BHK",
@@ -97562,7 +97942,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK",
         "carpetArea": "1725 sq.ft",
-        "priceRange": "\u20b98.56 Cr - \u20b910.89 Cr"
+        "priceRange": "\u20b95.70 Cr"
       }
     ],
     "specs": [
@@ -97716,12 +98096,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1094 sq.ft",
-        "priceRange": "\u20b92.31 Cr - \u20b92.97 Cr"
+        "priceRange": "\u20b91.65 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1773 sq.ft",
-        "priceRange": "\u20b93.63 Cr - \u20b94.62 Cr"
+        "priceRange": "\u20b92.40 Cr"
       }
     ],
     "specs": [
@@ -97875,12 +98255,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "743 sq.ft",
-        "priceRange": "\u20b980 L - \u20b91.00 Cr"
+        "priceRange": "\u20b980.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1126 sq.ft",
-        "priceRange": "\u20b91.12 Cr - \u20b91.44 Cr"
+        "priceRange": "\u20b91.25 Cr"
       }
     ],
     "specs": [
@@ -98032,12 +98412,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "456 sq.ft",
-        "priceRange": "\u20b935 L - \u20b943 L"
+        "priceRange": "\u20b950.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "733 sq.ft",
-        "priceRange": "\u20b950 L - \u20b963 L"
+        "priceRange": "\u20b91.60 Cr"
       }
     ],
     "specs": [
@@ -98196,7 +98576,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "752 sq.ft",
-        "priceRange": "\u20b917 L - \u20b921 L"
+        "priceRange": "\u20b945.00 L"
       }
     ],
     "specs": [
@@ -98355,7 +98735,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1022 sq.ft",
-        "priceRange": "\u20b92.98 Cr - \u20b93.83 Cr"
+        "priceRange": "\u20b93.43 Cr"
       }
     ],
     "specs": [
@@ -98514,7 +98894,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1071 sq.ft",
-        "priceRange": "\u20b985 L - \u20b91.10 Cr"
+        "priceRange": "\u20b91.39 Cr"
       }
     ],
     "specs": [
@@ -98704,7 +99084,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "417 sq.ft",
-        "priceRange": "\u20b91.18 Cr - \u20b91.43 Cr"
+        "priceRange": "\u20b91.68 Cr"
       },
       {
         "type": "2 BHK",
@@ -98719,7 +99099,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1848 sq.ft",
-        "priceRange": "\u20b93.70 Cr - \u20b94.70 Cr"
+        "priceRange": "\u20b94.69 Cr"
       }
     ],
     "specs": [
@@ -98786,7 +99166,7 @@ export const PROJECTS: Project[] = [
     "location": "Andheri West",
     "city": "Mumbai",
     "priceRange": "\u20b91.68 Cr - \u20b95.19 Cr",
-    "exactPrice": "\u20b92.20 Cr",
+    "exactPrice": "\u20b91.68 Cr",
     "pricePerSqft": 34800,
     "configurations": [
       "1 BHK",
@@ -98909,7 +99289,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "424 sq.ft",
-        "priceRange": "\u20b91.54 Cr - \u20b91.87 Cr"
+        "priceRange": "\u20b91.68 Cr"
       },
       {
         "type": "2 BHK",
@@ -98924,7 +99304,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1996 sq.ft",
-        "priceRange": "\u20b94.84 Cr - \u20b96.16 Cr"
+        "priceRange": "\u20b95.19 Cr"
       }
     ],
     "specs": [
@@ -99260,12 +99640,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "469 sq.ft",
-        "priceRange": "\u20b931 L - \u20b938 L"
+        "priceRange": "\u20b945.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "697 sq.ft",
-        "priceRange": "\u20b945 L - \u20b956 L"
+        "priceRange": "\u20b995.00 L"
       }
     ],
     "specs": [
@@ -99436,12 +99816,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "752 sq.ft",
-        "priceRange": "\u20b997 L - \u20b91.21 Cr"
+        "priceRange": "\u20b997.00 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1009 sq.ft",
-        "priceRange": "\u20b91.36 Cr - \u20b91.75 Cr"
+        "priceRange": "\u20b91.94 Cr"
       }
     ],
     "specs": [
@@ -99598,7 +99978,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.75 Cr - \u20b92.25 Cr"
+        "priceRange": "\u20b92.10 Cr"
       }
     ],
     "specs": [
@@ -99738,12 +100118,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1040 sq.ft",
-        "priceRange": "\u20b98.32 Cr - \u20b910.69 Cr"
+        "priceRange": "\u20b95.94 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1843 sq.ft",
-        "priceRange": "\u20b913.07 Cr - \u20b916.63 Cr"
+        "priceRange": "\u20b910.45 Cr"
       }
     ],
     "lat": 19.1165,
@@ -99862,9 +100242,14 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK",
+        "type": "2 BHK Premium",
         "carpetArea": "710 sq.ft",
-        "priceRange": "\u20b94.20 Cr - \u20b95.25 Cr"
+        "priceRange": "\u20b94.20 Cr"
+      },
+      {
+        "type": "2 BHK Grande",
+        "carpetArea": "819 sq.ft",
+        "priceRange": "\u20b94.85 Cr"
       }
     ],
     "lat": 19.1176,
@@ -99986,12 +100371,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "426 sq.ft",
-        "priceRange": "\u20b91.22 Cr - \u20b91.49 Cr"
+        "priceRange": "\u20b91.75 Cr"
       },
       {
         "type": "2 BHK",
         "carpetArea": "691 sq.ft",
-        "priceRange": "\u20b91.75 Cr - \u20b92.19 Cr"
+        "priceRange": "\u20b92.65 Cr"
       }
     ],
     "lat": 19.1183,
@@ -100124,7 +100509,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1914 sq.ft",
-        "priceRange": "\u20b99.90 Cr - \u20b912.60 Cr"
+        "priceRange": "\u20b99.20 Cr"
       }
     ],
     "lat": 19.1137,
@@ -100248,7 +100633,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "444 sq.ft",
-        "priceRange": "\u20b988 L - \u20b91.06 Cr"
+        "priceRange": "\u20b91.25 Cr"
       },
       {
         "type": "2 BHK",
@@ -100263,7 +100648,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1827 sq.ft",
-        "priceRange": "\u20b92.75 Cr - \u20b93.50 Cr"
+        "priceRange": "\u20b96.50 Cr"
       }
     ],
     "lat": 19.2578,
@@ -100386,7 +100771,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1100 sq.ft",
-        "priceRange": "\u20b96.09 Cr - \u20b97.83 Cr"
+        "priceRange": "\u20b94.35 Cr"
       },
       {
         "type": "4 BHK",
@@ -100396,7 +100781,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK",
         "carpetArea": "1813 sq.ft",
-        "priceRange": "\u20b99.57 Cr - \u20b912.18 Cr"
+        "priceRange": "\u20b910.80 Cr"
       }
     ],
     "lat": 19.2523,
@@ -100444,8 +100829,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-hiranandani",
     "location": "Hiranandani Estate",
     "city": "Thane",
-    "priceRange": "\u20b965 L - \u20b91.18 Cr",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b91.18 Cr",
+    "exactPrice": "\u20b965.00 L",
     "pricePerSqft": 22000,
     "configurations": [
       "1 BHK",
@@ -100518,12 +100903,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "462 sq.ft",
-        "priceRange": "\u20b946 L - \u20b955 L"
+        "priceRange": "\u20b965.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "703 sq.ft",
-        "priceRange": "\u20b965 L - \u20b981 L"
+        "priceRange": "\u20b91.18 Cr"
       }
     ],
     "lat": 19.2505,
@@ -100571,8 +100956,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-hiranandani",
     "location": "Panvel",
     "city": "Navi Mumbai",
-    "priceRange": "\u20b962 L - \u20b91.85 Cr",
-    "exactPrice": "\u20b962 L",
+    "priceRange": "\u20b962.00 L - \u20b91.85 Cr",
+    "exactPrice": "\u20b962.00 L",
     "pricePerSqft": 11500,
     "configurations": [
       "1 BHK",
@@ -100646,7 +101031,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "428 sq.ft",
-        "priceRange": "\u20b943 L - \u20b953 L"
+        "priceRange": "\u20b962.00 L"
       },
       {
         "type": "2 BHK",
@@ -100656,7 +101041,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1092 sq.ft",
-        "priceRange": "\u20b987 L - \u20b91.12 Cr"
+        "priceRange": "\u20b91.85 Cr"
       }
     ],
     "lat": 18.9873,
@@ -100783,7 +101168,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1085 sq.ft",
-        "priceRange": "\u20b93.71 Cr - \u20b94.77 Cr"
+        "priceRange": "\u20b94.50 Cr"
       }
     ],
     "lat": 19.2103,
@@ -100906,7 +101291,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1079 sq.ft",
-        "priceRange": "\u20b94.83 Cr - \u20b96.21 Cr"
+        "priceRange": "\u20b93.45 Cr"
       },
       {
         "type": "4 BHK",
@@ -100916,7 +101301,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK",
         "carpetArea": "1930 sq.ft",
-        "priceRange": "\u20b97.59 Cr - \u20b99.66 Cr"
+        "priceRange": "\u20b97.80 Cr"
       }
     ],
     "lat": 18.7636,
@@ -101038,12 +101423,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1868 sq.ft",
-        "priceRange": "\u20b914.30 Cr - \u20b918.20 Cr"
+        "priceRange": "\u20b96.50 Cr"
       },
       {
         "type": "5 BHK",
         "carpetArea": "2044 sq.ft",
-        "priceRange": "\u20b914.30 Cr - \u20b918.20 Cr"
+        "priceRange": "\u20b916.50 Cr"
       }
     ],
     "lat": 18.7708,
@@ -101165,12 +101550,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1015 sq.ft",
-        "priceRange": "\u20b94.13 Cr - \u20b95.31 Cr"
+        "priceRange": "\u20b92.95 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1702 sq.ft",
-        "priceRange": "\u20b96.49 Cr - \u20b98.26 Cr"
+        "priceRange": "\u20b95.40 Cr"
       }
     ],
     "lat": 18.7578,
@@ -101297,7 +101682,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1018 sq.ft",
-        "priceRange": "\u20b93.01 Cr - \u20b93.87 Cr"
+        "priceRange": "\u20b94.10 Cr"
       }
     ],
     "lat": 18.7663,
@@ -101356,17 +101741,22 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Prime",
-        "carpetArea": "670 sq.ft",
+        "type": "Studio",
+        "carpetArea": "750 sq.ft",
         "priceRange": "\u20b91.10 Cr"
       },
       {
-        "type": "3 BHK Grand",
-        "carpetArea": "890 sq.ft",
-        "priceRange": "\u20b91.45 Cr"
+        "type": "2 BHK Luxury Unit",
+        "carpetArea": "670 sq.ft",
+        "priceRange": "\u20b91.33 Cr"
       },
       {
-        "type": "3 BHK Supreme Duplex",
+        "type": "3 BHK Luxury Unit",
+        "carpetArea": "890 sq.ft",
+        "priceRange": "\u20b91.55 Cr"
+      },
+      {
+        "type": "Duplex",
         "carpetArea": "1050 sq.ft",
         "priceRange": "\u20b91.78 Cr"
       }
@@ -101861,8 +102251,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-goel-ganga",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b985.00 L",
     "pricePerSqft": 12200,
     "configurations": [
       "2 BHK",
@@ -101997,17 +102387,22 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK XL",
+        "type": "2 BHK Luxury Unit",
         "carpetArea": "701 sq.ft",
         "priceRange": "\u20b91.20 Cr"
       },
       {
-        "type": "3 BHK XL",
+        "type": "3 BHK Luxury Unit",
         "carpetArea": "1092 sq.ft",
-        "priceRange": "\u20b91.85 Cr"
+        "priceRange": "\u20b91.62 Cr"
       },
       {
-        "type": "3.5 BHK Penthouse",
+        "type": "3.5 BHK Luxury Unit",
+        "carpetArea": "1284 sq.ft",
+        "priceRange": "\u20b92.03 Cr"
+      },
+      {
+        "type": "Penthouse",
         "carpetArea": "1284 sq.ft",
         "priceRange": "\u20b92.45 Cr"
       }
@@ -102114,8 +102509,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-goel-ganga",
     "location": "Bavdhan",
     "city": "Pune",
-    "priceRange": "\u20b982 L - \u20b91.95 Cr",
-    "exactPrice": "\u20b982 L",
+    "priceRange": "\u20b982.00 L - \u20b91.95 Cr",
+    "exactPrice": "\u20b982.00 L",
     "pricePerSqft": 11800,
     "configurations": [
       "2 BHK",
@@ -102247,8 +102642,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-goel-ganga",
     "location": "Undri",
     "city": "Pune",
-    "priceRange": "\u20b942 L - \u20b972 L",
-    "exactPrice": "\u20b942 L",
+    "priceRange": "\u20b942.00 L - \u20b972.00 L",
+    "exactPrice": "\u20b942.00 L",
     "pricePerSqft": 7800,
     "configurations": [
       "1 BHK",
@@ -102378,17 +102773,22 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "3 BHK Royal",
+        "type": "3 BHK Luxury Unit",
         "carpetArea": "1171 sq.ft",
         "priceRange": "\u20b92.10 Cr"
       },
       {
-        "type": "4 BHK Imperial",
+        "type": "4 BHK Luxury Unit",
         "carpetArea": "1560 sq.ft",
-        "priceRange": "\u20b92.85 Cr"
+        "priceRange": "\u20b92.90 Cr"
       },
       {
-        "type": "5.5 BHK Presidential",
+        "type": "4.5 BHK Luxury Unit",
+        "carpetArea": "2800 sq.ft",
+        "priceRange": "\u20b93.70 Cr"
+      },
+      {
+        "type": "5.5 BHK Luxury Unit",
         "carpetArea": "2250 sq.ft",
         "priceRange": "\u20b94.50 Cr"
       }
@@ -102494,8 +102894,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-anp-corp",
     "location": "Balewadi",
     "city": "Pune",
-    "priceRange": "\u20b965 L - \u20b92.85 Cr",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b92.85 Cr",
+    "exactPrice": "\u20b965.00 L",
     "pricePerSqft": 14500,
     "configurations": [
       "1 BHK",
@@ -102761,8 +103161,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-anp-corp",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b978 L - \u20b92.10 Cr",
-    "exactPrice": "\u20b978 L",
+    "priceRange": "\u20b978.00 L - \u20b92.10 Cr",
+    "exactPrice": "\u20b978.00 L",
     "pricePerSqft": 10800,
     "configurations": [
       "2 BHK",
@@ -102888,8 +103288,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-rohan",
     "location": "Wagholi",
     "city": "Pune",
-    "priceRange": "\u20b945 L - \u20b995 L",
-    "exactPrice": "\u20b945 L",
+    "priceRange": "\u20b945.00 L - \u20b995.00 L",
+    "exactPrice": "\u20b945.00 L",
     "pricePerSqft": 7900,
     "configurations": [
       "1 BHK",
@@ -103036,7 +103436,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Luxury",
         "carpetArea": "1750 sq.ft",
-        "priceRange": "\u20b93.20 Cr - \u20b93.80 Cr"
+        "priceRange": "\u20b93.80 Cr"
       }
     ],
     "status": "Under Construction",
@@ -103151,8 +103551,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Kolshet Road",
     "city": "Thane",
-    "priceRange": "\u20b975 L - \u20b92.25 Cr",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b92.25 Cr",
+    "exactPrice": "\u20b975.00 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -103173,7 +103573,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "955 sq.ft",
-        "priceRange": "\u20b91.75 Cr - \u20b92.25 Cr"
+        "priceRange": "\u20b92.25 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -103303,7 +103703,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Premium",
         "carpetArea": "640 sq.ft",
-        "priceRange": "\u20b91.55 Cr - \u20b91.85 Cr"
+        "priceRange": "\u20b92.40 Cr"
       }
     ],
     "status": "Under Construction",
@@ -103438,7 +103838,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK Imperial",
         "carpetArea": "2150 sq.ft",
-        "priceRange": "\u20b94.80 Cr - \u20b95.40 Cr"
+        "priceRange": "\u20b95.40 Cr"
       }
     ],
     "status": "Under Construction",
@@ -103551,8 +103951,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-hiranandani",
     "location": "Ghodbunder Road",
     "city": "Thane",
-    "priceRange": "\u20b992 L - \u20b93.10 Cr",
-    "exactPrice": "\u20b992 L",
+    "priceRange": "\u20b992.00 L - \u20b93.10 Cr",
+    "exactPrice": "\u20b992.00 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -103563,7 +103963,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK Classic",
         "carpetArea": "480 sq.ft",
-        "priceRange": "\u20b992 L - \u20b91.10 Cr"
+        "priceRange": "\u20b992.00 L"
       },
       {
         "type": "2 BHK Neo-Classical",
@@ -103573,7 +103973,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Regal",
         "carpetArea": "1100 sq.ft",
-        "priceRange": "\u20b92.45 Cr - \u20b93.10 Cr"
+        "priceRange": "\u20b93.10 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -103709,7 +104109,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "985 sq.ft",
-        "priceRange": "\u20b92.25 Cr - \u20b92.85 Cr"
+        "priceRange": "\u20b92.85 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -103838,7 +104238,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "885 sq.ft",
-        "priceRange": "\u20b91.85 Cr - \u20b92.45 Cr"
+        "priceRange": "\u20b92.45 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -103951,8 +104351,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-dosti",
     "location": "Balkum",
     "city": "Thane",
-    "priceRange": "\u20b972 L - \u20b91.75 Cr",
-    "exactPrice": "\u20b972 L",
+    "priceRange": "\u20b972.00 L - \u20b91.75 Cr",
+    "exactPrice": "\u20b972.00 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -103973,7 +104373,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Luxury",
         "carpetArea": "890 sq.ft",
-        "priceRange": "\u20b91.48 Cr - \u20b91.75 Cr"
+        "priceRange": "\u20b91.75 Cr"
       }
     ],
     "status": "Under Construction",
@@ -104087,8 +104487,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Kolshet Road",
     "city": "Thane",
-    "priceRange": "\u20b989 L - \u20b92.15 Cr",
-    "exactPrice": "\u20b989 L",
+    "priceRange": "\u20b989.00 L - \u20b92.15 Cr",
+    "exactPrice": "\u20b989.00 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -104099,7 +104499,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1 BHK Smart",
         "carpetArea": "405 sq.ft",
-        "priceRange": "\u20b989 L - \u20b91.02 Cr"
+        "priceRange": "\u20b989.00 L"
       },
       {
         "type": "2 BHK Elegance",
@@ -104109,7 +104509,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "840 sq.ft",
-        "priceRange": "\u20b91.75 Cr - \u20b92.15 Cr"
+        "priceRange": "\u20b92.15 Cr"
       }
     ],
     "status": "Under Construction",
@@ -104239,7 +104639,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "895 sq.ft",
-        "priceRange": "\u20b91.75 Cr - \u20b92.30 Cr"
+        "priceRange": "\u20b92.30 Cr"
       }
     ],
     "status": "Under Construction",
@@ -104372,7 +104772,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1510 sq.ft",
-        "priceRange": "\u20b94.90 Cr - \u20b95.80 Cr"
+        "priceRange": "\u20b95.80 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -104500,7 +104900,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Presidential",
         "carpetArea": "2100 sq.ft",
-        "priceRange": "\u20b97.20 Cr - \u20b98.50 Cr"
+        "priceRange": "\u20b98.50 Cr"
       }
     ],
     "status": "Under Construction",
@@ -104635,7 +105035,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK Penthouse",
         "carpetArea": "4100 sq.ft",
-        "priceRange": "\u20b928.00 Cr - \u20b935.00 Cr"
+        "priceRange": "\u20b935.00 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -104764,7 +105164,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Palatial",
         "carpetArea": "1020 sq.ft",
-        "priceRange": "\u20b93.15 Cr - \u20b94.20 Cr"
+        "priceRange": "\u20b94.20 Cr"
       }
     ],
     "status": "Under Construction",
@@ -104893,7 +105293,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Heritage",
         "carpetArea": "1180 sq.ft",
-        "priceRange": "\u20b94.50 Cr - \u20b96.20 Cr"
+        "priceRange": "\u20b96.20 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -105017,19 +105417,24 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "1 BHK Urban",
+        "type": "1 BHK Luxury Unit",
         "carpetArea": "505 sq.ft",
-        "priceRange": "\u20b92.40 Cr - \u20b92.75 Cr"
+        "priceRange": "\u20b92.40 Cr"
       },
       {
-        "type": "2 BHK Contemporary",
+        "type": "2 BHK Luxury Unit",
         "carpetArea": "780 sq.ft",
-        "priceRange": "\u20b93.20 Cr - \u20b93.90 Cr"
+        "priceRange": "\u20b93.53 Cr"
       },
       {
-        "type": "3 BHK Grand",
+        "type": "3 BHK Luxury Unit",
         "carpetArea": "1220 sq.ft",
-        "priceRange": "\u20b94.60 Cr - \u20b95.80 Cr"
+        "priceRange": "\u20b94.67 Cr"
+      },
+      {
+        "type": "4 BHK Luxury Unit",
+        "carpetArea": "1750 sq.ft",
+        "priceRange": "\u20b95.80 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -105166,7 +105571,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "1010 sq.ft",
-        "priceRange": "\u20b92.85 Cr - \u20b93.40 Cr"
+        "priceRange": "\u20b93.40 Cr"
       }
     ],
     "status": "Under Construction",
@@ -105296,7 +105701,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Royal",
         "carpetArea": "1780 sq.ft",
-        "priceRange": "\u20b99.20 Cr - \u20b911.50 Cr"
+        "priceRange": "\u20b911.50 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -105431,7 +105836,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "980 sq.ft",
-        "priceRange": "\u20b92.45 Cr - \u20b92.95 Cr"
+        "priceRange": "\u20b92.95 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -105567,7 +105972,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Royal",
         "carpetArea": "1480 sq.ft",
-        "priceRange": "\u20b93.85 Cr - \u20b94.50 Cr"
+        "priceRange": "\u20b94.50 Cr"
       }
     ],
     "status": "Under Construction",
@@ -105697,7 +106102,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK Ultra Penthouse",
         "carpetArea": "6100 sq.ft",
-        "priceRange": "\u20b919.00 Cr - \u20b922.00 Cr"
+        "priceRange": "\u20b922.00 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -105826,7 +106231,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK Sky Villa",
         "carpetArea": "5400 sq.ft",
-        "priceRange": "\u20b913.50 Cr - \u20b916.00 Cr"
+        "priceRange": "\u20b916.00 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -105938,8 +106343,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge",
     "city": "Pune",
-    "priceRange": "\u20b972 L - \u20b92.35 Cr",
-    "exactPrice": "\u20b972 L",
+    "priceRange": "\u20b972.00 L - \u20b92.35 Cr",
+    "exactPrice": "\u20b972.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -105970,7 +106375,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Royal",
         "carpetArea": "1520 sq.ft",
-        "priceRange": "\u20b91.95 Cr - \u20b92.35 Cr"
+        "priceRange": "\u20b92.35 Cr"
       }
     ],
     "status": "Under Construction",
@@ -106085,8 +106490,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Kharadi",
     "city": "Pune",
-    "priceRange": "\u20b955 L - \u20b91.95 Cr",
-    "exactPrice": "\u20b955 L",
+    "priceRange": "\u20b955.00 L - \u20b91.95 Cr",
+    "exactPrice": "\u20b955.00 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -106107,7 +106512,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "960 sq.ft",
-        "priceRange": "\u20b91.35 Cr - \u20b91.95 Cr"
+        "priceRange": "\u20b91.95 Cr"
       }
     ],
     "status": "Under Construction",
@@ -106221,8 +106626,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b968 L - \u20b91.65 Cr",
-    "exactPrice": "\u20b968 L",
+    "priceRange": "\u20b968.00 L - \u20b91.65 Cr",
+    "exactPrice": "\u20b968.00 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -106243,7 +106648,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "975 sq.ft",
-        "priceRange": "\u20b91.38 Cr - \u20b91.65 Cr"
+        "priceRange": "\u20b91.65 Cr"
       }
     ],
     "status": "Under Construction",
@@ -106379,7 +106784,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Sky Villa",
         "carpetArea": "2100 sq.ft",
-        "priceRange": "\u20b95.20 Cr - \u20b96.50 Cr"
+        "priceRange": "\u20b96.50 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -106509,7 +106914,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Presidential",
         "carpetArea": "2150 sq.ft",
-        "priceRange": "\u20b94.20 Cr - \u20b95.80 Cr"
+        "priceRange": "\u20b95.80 Cr"
       }
     ],
     "status": "Under Construction",
@@ -106622,8 +107027,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b978 L - \u20b91.75 Cr",
-    "exactPrice": "\u20b978 L",
+    "priceRange": "\u20b978.00 L - \u20b91.75 Cr",
+    "exactPrice": "\u20b978.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -106643,7 +107048,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "1020 sq.ft",
-        "priceRange": "\u20b91.35 Cr - \u20b91.75 Cr"
+        "priceRange": "\u20b91.75 Cr"
       }
     ],
     "status": "Under Construction",
@@ -106756,8 +107161,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-nyati",
     "location": "Kharadi",
     "city": "Pune",
-    "priceRange": "\u20b995 L - \u20b92.20 Cr",
-    "exactPrice": "\u20b995 L",
+    "priceRange": "\u20b995.00 L - \u20b92.20 Cr",
+    "exactPrice": "\u20b995.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -106767,12 +107172,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Premium",
         "carpetArea": "740 sq.ft",
-        "priceRange": "\u20b995 L - \u20b91.18 Cr"
+        "priceRange": "\u20b995.00 L"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1080 sq.ft",
-        "priceRange": "\u20b91.55 Cr - \u20b92.20 Cr"
+        "priceRange": "\u20b92.20 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -106885,8 +107290,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b965 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b965.00 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -106907,7 +107312,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Arena",
         "carpetArea": "965 sq.ft",
-        "priceRange": "\u20b91.22 Cr - \u20b91.45 Cr"
+        "priceRange": "\u20b91.45 Cr"
       }
     ],
     "status": "Under Construction",
@@ -107043,7 +107448,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Signature",
         "carpetArea": "1560 sq.ft",
-        "priceRange": "\u20b92.85 Cr - \u20b93.20 Cr"
+        "priceRange": "\u20b93.20 Cr"
       }
     ],
     "status": "Under Construction",
@@ -107178,7 +107583,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "1230 sq.ft",
-        "priceRange": "\u20b92.05 Cr - \u20b92.40 Cr"
+        "priceRange": "\u20b92.40 Cr"
       }
     ],
     "status": "Under Construction",
@@ -107292,8 +107697,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Dhanori",
     "city": "Pune",
-    "priceRange": "\u20b958 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b958 L",
+    "priceRange": "\u20b958.00 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b958.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -107426,8 +107831,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b964 L - \u20b91.35 Cr",
-    "exactPrice": "\u20b964 L",
+    "priceRange": "\u20b964.00 L - \u20b91.35 Cr",
+    "exactPrice": "\u20b964.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -107447,7 +107852,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Forest Suite",
         "carpetArea": "995 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b91.35 Cr"
       }
     ],
     "status": "Under Construction",
@@ -107560,8 +107965,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b962 L - \u20b995 L",
-    "exactPrice": "\u20b962 L",
+    "priceRange": "\u20b962.00 L - \u20b995.00 L",
+    "exactPrice": "\u20b962.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK"
@@ -107575,7 +107980,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Premium",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b976 L - \u20b995 L"
+        "priceRange": "\u20b995.00 L"
       }
     ],
     "status": "Ready to Move",
@@ -107686,8 +108091,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Ravet",
     "city": "Pune",
-    "priceRange": "\u20b959 L - \u20b91.18 Cr",
-    "exactPrice": "\u20b959 L",
+    "priceRange": "\u20b959.00 L - \u20b91.18 Cr",
+    "exactPrice": "\u20b959.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -107815,8 +108220,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b976 L - \u20b91.48 Cr",
-    "exactPrice": "\u20b976 L",
+    "priceRange": "\u20b976.00 L - \u20b91.48 Cr",
+    "exactPrice": "\u20b976.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -107831,7 +108236,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "990 sq.ft",
-        "priceRange": "\u20b91.18 Cr - \u20b91.48 Cr"
+        "priceRange": "\u20b91.48 Cr"
       }
     ],
     "status": "Under Construction",
@@ -107943,8 +108348,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b965 L - \u20b91.35 Cr",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b91.35 Cr",
+    "exactPrice": "\u20b965.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -107964,7 +108369,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "975 sq.ft",
-        "priceRange": "\u20b91.10 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b91.35 Cr"
       }
     ],
     "status": "Under Construction",
@@ -108099,7 +108504,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK Sky Villa",
         "carpetArea": "3600 sq.ft",
-        "priceRange": "\u20b96.40 Cr - \u20b97.20 Cr"
+        "priceRange": "\u20b97.20 Cr"
       }
     ],
     "status": "Under Construction",
@@ -108228,7 +108633,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK Imperial Estate",
         "carpetArea": "4200 sq.ft",
-        "priceRange": "\u20b97.50 Cr - \u20b99.50 Cr"
+        "priceRange": "\u20b99.50 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -108339,8 +108744,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kasturi",
     "location": "Mundhwa",
     "city": "Pune",
-    "priceRange": "\u20b995 L - \u20b92.40 Cr",
-    "exactPrice": "\u20b995 L",
+    "priceRange": "\u20b995.00 L - \u20b92.40 Cr",
+    "exactPrice": "\u20b995.00 L",
     "priceType": "L",
     "configurations": [
       "1.5 BHK",
@@ -108351,7 +108756,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "1.5 BHK SOHO Suite",
         "carpetArea": "580 sq.ft",
-        "priceRange": "\u20b995 L - \u20b91.15 Cr"
+        "priceRange": "\u20b995.00 L"
       },
       {
         "type": "2 BHK Urban Loft",
@@ -108361,7 +108766,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand Loft",
         "carpetArea": "1150 sq.ft",
-        "priceRange": "\u20b91.95 Cr - \u20b92.40 Cr"
+        "priceRange": "\u20b92.40 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -108491,7 +108896,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Royal Suite",
         "carpetArea": "1980 sq.ft",
-        "priceRange": "\u20b93.20 Cr - \u20b94.50 Cr"
+        "priceRange": "\u20b94.50 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -108621,7 +109026,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Presidential",
         "carpetArea": "2250 sq.ft",
-        "priceRange": "\u20b94.50 Cr - \u20b95.80 Cr"
+        "priceRange": "\u20b95.80 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -108734,8 +109139,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pride-purple",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b972 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b972 L",
+    "priceRange": "\u20b972.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b972.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -108755,7 +109160,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Luxury",
         "carpetArea": "990 sq.ft",
-        "priceRange": "\u20b91.18 Cr - \u20b91.45 Cr"
+        "priceRange": "\u20b91.45 Cr"
       }
     ],
     "status": "Under Construction",
@@ -108884,7 +109289,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b91.65 Cr - \u20b92.15 Cr"
+        "priceRange": "\u20b92.15 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -108996,8 +109401,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pride-purple",
     "location": "Charholi",
     "city": "Pune",
-    "priceRange": "\u20b965 L - \u20b91.70 Cr",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b91.70 Cr",
+    "exactPrice": "\u20b965.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -109012,7 +109417,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "1015 sq.ft",
-        "priceRange": "\u20b91.15 Cr - \u20b91.70 Cr"
+        "priceRange": "\u20b91.70 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -109141,7 +109546,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "1080 sq.ft",
-        "priceRange": "\u20b91.75 Cr - \u20b92.35 Cr"
+        "priceRange": "\u20b92.35 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -109253,8 +109658,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Kharadi",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.95 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.95 Cr",
+    "exactPrice": "\u20b985.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -109274,7 +109679,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "1025 sq.ft",
-        "priceRange": "\u20b91.45 Cr - \u20b91.95 Cr"
+        "priceRange": "\u20b91.95 Cr"
       }
     ],
     "status": "Under Construction",
@@ -109387,8 +109792,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b948 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b948 L",
+    "priceRange": "\u20b948.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b948.00 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -109523,8 +109928,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b959 L - \u20b91.28 Cr",
-    "exactPrice": "\u20b959 L",
+    "priceRange": "\u20b959.00 L - \u20b91.28 Cr",
+    "exactPrice": "\u20b959.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -109544,7 +109949,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "970 sq.ft",
-        "priceRange": "\u20b91.05 Cr - \u20b91.28 Cr"
+        "priceRange": "\u20b91.28 Cr"
       }
     ],
     "status": "Under Construction",
@@ -109657,8 +110062,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b974 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b974 L",
+    "priceRange": "\u20b974.00 L - \u20b91.45 Cr",
+    "exactPrice": "\u20b974.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -109678,7 +110083,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "990 sq.ft",
-        "priceRange": "\u20b91.18 Cr - \u20b91.45 Cr"
+        "priceRange": "\u20b91.45 Cr"
       }
     ],
     "status": "Under Construction",
@@ -109727,7 +110132,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
       "https://keystoneliv.com/public/uploads/property/image (81).webp"
     ],
-    "masterLayout": "https://www.lodhagroup.com/sites/default/files/projects/banner/2509966303_Website_banner__1903X800.jpg",
+    "masterLayout": "https://keystoneliv.com/public/uploads/property/zp0VEmpHjp3nxN9ZDMZAsjt8sftwy04Pt0zchCPr.webp",
     "specs": [
       {
         "label": "Structure",
@@ -109791,8 +110196,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b965 L - \u20b91.35 Cr",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b91.35 Cr",
+    "exactPrice": "\u20b965.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -109812,7 +110217,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "980 sq.ft",
-        "priceRange": "\u20b91.10 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b91.35 Cr"
       }
     ],
     "status": "Under Construction",
@@ -109941,7 +110346,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4.5 BHK Presidential",
         "carpetArea": "2100 sq.ft",
-        "priceRange": "\u20b93.60 Cr - \u20b94.50 Cr"
+        "priceRange": "\u20b94.50 Cr"
       }
     ],
     "status": "Under Construction",
@@ -110054,8 +110459,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b968 L - \u20b91.05 Cr",
-    "exactPrice": "\u20b968 L",
+    "priceRange": "\u20b968.00 L - \u20b91.05 Cr",
+    "exactPrice": "\u20b968.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -110184,8 +110589,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b955 L - \u20b975 L",
-    "exactPrice": "\u20b955 L",
+    "priceRange": "\u20b955.00 L - \u20b975.00 L",
+    "exactPrice": "\u20b955.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK"
@@ -110199,7 +110604,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Comfort",
         "carpetArea": "635 sq.ft",
-        "priceRange": "\u20b965 L - \u20b975 L"
+        "priceRange": "\u20b975.00 L"
       }
     ],
     "status": "Ready to Move",
@@ -110310,8 +110715,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Sus",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b975.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -110326,7 +110731,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b91.10 Cr - \u20b91.25 Cr"
+        "priceRange": "\u20b91.25 Cr"
       }
     ],
     "status": "Under Construction",
@@ -110438,8 +110843,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Kondhwa",
     "city": "Pune",
-    "priceRange": "\u20b960 L - \u20b988 L",
-    "exactPrice": "\u20b960 L",
+    "priceRange": "\u20b960.00 L - \u20b988.00 L",
+    "exactPrice": "\u20b960.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK"
@@ -110453,7 +110858,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Grande",
         "carpetArea": "780 sq.ft",
-        "priceRange": "\u20b974 L - \u20b988 L"
+        "priceRange": "\u20b988.00 L"
       }
     ],
     "status": "Ready to Move",
@@ -110562,8 +110967,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b958 L - \u20b978 L",
-    "exactPrice": "\u20b958 L",
+    "priceRange": "\u20b958.00 L - \u20b978.00 L",
+    "exactPrice": "\u20b958.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK"
@@ -110577,7 +110982,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Elite",
         "carpetArea": "720 sq.ft",
-        "priceRange": "\u20b969 L - \u20b978 L"
+        "priceRange": "\u20b978.00 L"
       }
     ],
     "status": "Ready to Move",
@@ -110685,8 +111090,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b965 L - \u20b995 L",
-    "exactPrice": "\u20b965 L",
+    "priceRange": "\u20b965.00 L - \u20b995.00 L",
+    "exactPrice": "\u20b965.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -110701,7 +111106,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grande",
         "carpetArea": "980 sq.ft",
-        "priceRange": "\u20b985 L - \u20b995 L"
+        "priceRange": "\u20b995.00 L"
       }
     ],
     "status": "Ready to Move",
@@ -110811,8 +111216,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Talegaon Dabhade",
     "city": "Pune",
-    "priceRange": "\u20b928 L - \u20b948 L",
-    "exactPrice": "\u20b928 L",
+    "priceRange": "\u20b928.00 L - \u20b948.00 L",
+    "exactPrice": "\u20b928.00 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -110827,7 +111232,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Township",
         "carpetArea": "640 sq.ft",
-        "priceRange": "\u20b940 L - \u20b948 L"
+        "priceRange": "\u20b948.00 L"
       }
     ],
     "status": "Under Construction",
@@ -110939,8 +111344,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kasturi",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b982 L - \u20b91.35 Cr",
-    "exactPrice": "\u20b982 L",
+    "priceRange": "\u20b982.00 L - \u20b91.35 Cr",
+    "exactPrice": "\u20b982.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -110955,7 +111360,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Bespoke",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.18 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b91.35 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -111082,7 +111487,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Presidential",
         "carpetArea": "2450 sq.ft",
-        "priceRange": "\u20b95.50 Cr - \u20b96.50 Cr"
+        "priceRange": "\u20b96.50 Cr"
       }
     ],
     "status": "Under Construction",
@@ -111209,7 +111614,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "5 BHK Penthouse Suite",
         "carpetArea": "4500 sq.ft",
-        "priceRange": "\u20b99.50 Cr - \u20b912.00 Cr"
+        "priceRange": "\u20b912.00 Cr"
       }
     ],
     "status": "Under Construction",
@@ -111319,8 +111724,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pride-purple",
     "location": "Charholi",
     "city": "Pune",
-    "priceRange": "\u20b948 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b948 L",
+    "priceRange": "\u20b948.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b948.00 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -111453,8 +111858,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pride-purple",
     "location": "Charholi",
     "city": "Pune",
-    "priceRange": "\u20b958 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b958 L",
+    "priceRange": "\u20b958.00 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b958.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -111597,7 +112002,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Villa Suite",
         "carpetArea": "2250 sq.ft",
-        "priceRange": "\u20b92.25 Cr - \u20b92.80 Cr"
+        "priceRange": "\u20b92.80 Cr"
       }
     ],
     "status": "Under Construction",
@@ -111709,8 +112114,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pride-purple",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b978 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b978 L",
+    "priceRange": "\u20b978.00 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b978.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -111725,7 +112130,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "1100 sq.ft",
-        "priceRange": "\u20b91.10 Cr - \u20b91.25 Cr"
+        "priceRange": "\u20b91.25 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -111835,8 +112240,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pride-purple",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b985 L - \u20b91.35 Cr",
-    "exactPrice": "\u20b985 L",
+    "priceRange": "\u20b985.00 L - \u20b91.35 Cr",
+    "exactPrice": "\u20b985.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -111851,7 +112256,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royale",
         "carpetArea": "1180 sq.ft",
-        "priceRange": "\u20b91.18 Cr - \u20b91.35 Cr"
+        "priceRange": "\u20b91.35 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -111961,8 +112366,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pride-purple",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b995 L - \u20b92.10 Cr",
-    "exactPrice": "\u20b995 L",
+    "priceRange": "\u20b995.00 L - \u20b92.10 Cr",
+    "exactPrice": "\u20b995.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -111973,7 +112378,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Grande",
         "carpetArea": "950 sq.ft",
-        "priceRange": "\u20b995 L - \u20b91.15 Cr"
+        "priceRange": "\u20b995.00 L"
       },
       {
         "type": "3 BHK Luxury",
@@ -111983,7 +112388,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Royal Suite",
         "carpetArea": "1850 sq.ft",
-        "priceRange": "\u20b91.85 Cr - \u20b92.10 Cr"
+        "priceRange": "\u20b92.10 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -112096,8 +112501,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pride-purple",
     "location": "Phursungi",
     "city": "Pune",
-    "priceRange": "\u20b942 L - \u20b995 L",
-    "exactPrice": "\u20b942 L",
+    "priceRange": "\u20b942.00 L - \u20b995.00 L",
+    "exactPrice": "\u20b942.00 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -112118,7 +112523,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "1020 sq.ft",
-        "priceRange": "\u20b982 L - \u20b995 L"
+        "priceRange": "\u20b995.00 L"
       }
     ],
     "status": "Ready to Move",
@@ -112230,8 +112635,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-pride-purple",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b972 L - \u20b91.30 Cr",
-    "exactPrice": "\u20b972 L",
+    "priceRange": "\u20b972.00 L - \u20b91.30 Cr",
+    "exactPrice": "\u20b972.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -112246,7 +112651,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "1080 sq.ft",
-        "priceRange": "\u20b91.10 Cr - \u20b91.30 Cr"
+        "priceRange": "\u20b91.30 Cr"
       }
     ],
     "status": "Under Construction",
@@ -112357,8 +112762,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Sus",
     "city": "Pune",
-    "priceRange": "\u20b968 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b968 L",
+    "priceRange": "\u20b968.00 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b968.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -112484,8 +112889,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b976 L - \u20b91.32 Cr",
-    "exactPrice": "\u20b976 L",
+    "priceRange": "\u20b976.00 L - \u20b91.32 Cr",
+    "exactPrice": "\u20b976.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -112500,7 +112905,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Royal",
         "carpetArea": "1090 sq.ft",
-        "priceRange": "\u20b91.12 Cr - \u20b91.32 Cr"
+        "priceRange": "\u20b91.32 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -112611,8 +113016,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b958 L - \u20b91.18 Cr",
-    "exactPrice": "\u20b958 L",
+    "priceRange": "\u20b958.00 L - \u20b91.18 Cr",
+    "exactPrice": "\u20b958.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -112744,8 +113149,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Warje",
     "city": "Pune",
-    "priceRange": "\u20b962 L - \u20b91.05 Cr",
-    "exactPrice": "\u20b962 L",
+    "priceRange": "\u20b962.00 L - \u20b91.05 Cr",
+    "exactPrice": "\u20b962.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -112870,8 +113275,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b988 L - \u20b91.75 Cr",
-    "exactPrice": "\u20b988 L",
+    "priceRange": "\u20b988.00 L - \u20b91.75 Cr",
+    "exactPrice": "\u20b988.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -112882,7 +113287,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK Urban",
         "carpetArea": "850 sq.ft",
-        "priceRange": "\u20b988 L - \u20b91.05 Cr"
+        "priceRange": "\u20b988.00 L"
       },
       {
         "type": "3 BHK Luxury",
@@ -112892,7 +113297,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "4 BHK Presidential",
         "carpetArea": "1650 sq.ft",
-        "priceRange": "\u20b91.60 Cr - \u20b91.75 Cr"
+        "priceRange": "\u20b91.75 Cr"
       }
     ],
     "status": "Under Construction",
@@ -113004,8 +113409,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Wakad",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b91.30 Cr",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "\u20b975.00 L - \u20b91.30 Cr",
+    "exactPrice": "\u20b975.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -113020,7 +113425,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grand",
         "carpetArea": "1080 sq.ft",
-        "priceRange": "\u20b91.12 Cr - \u20b91.30 Cr"
+        "priceRange": "\u20b91.30 Cr"
       }
     ],
     "status": "Under Construction",
@@ -113131,8 +113536,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-vilas-javdekar",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b952 L - \u20b998 L",
-    "exactPrice": "\u20b952 L",
+    "priceRange": "\u20b952.00 L - \u20b998.00 L",
+    "exactPrice": "\u20b952.00 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -113152,7 +113557,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "3 BHK Grande",
         "carpetArea": "860 sq.ft",
-        "priceRange": "\u20b985 L - \u20b998 L"
+        "priceRange": "\u20b998.00 L"
       }
     ],
     "status": "Ready to Move",
@@ -113410,7 +113815,7 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "595 sq.ft",
-        "priceRange": "\u20b91.55 Cr"
+        "priceRange": "\u20b91.85 Cr"
       }
     ],
     "status": "Under Construction",
@@ -123975,7 +124380,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/6fea60cd-7889-4d14-94ee-e56af9f959a1/gallery/mweuxpik-7gnm7q.webp"
     ],
     "lat": 19.0607,
-    "lng": 72.8258
+    "lng": 72.8258,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-prana",
@@ -124094,7 +124511,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/e2c03437-2fdf-4d51-8f6a-1f999e5b0898/gallery/ms4gar5v-dvjab2.webp"
     ],
     "lat": 19.0628,
-    "lng": 72.8291
+    "lng": 72.8291,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-the-one",
@@ -124213,7 +124642,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/8f30251d-2a71-4822-b50e-d56af0eef85d/gallery/mwev2oia-o47yz.webp"
     ],
     "lat": 19.0645,
-    "lng": 72.8272
+    "lng": 72.8272,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-boulevard",
@@ -124333,7 +124774,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/1c2a076f-5560-471a-b74d-4b10d2c36256/gallery/mvu4lg73-afji4y.webp"
     ],
     "lat": 19.0522,
-    "lng": 72.8995
+    "lng": 72.8995,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-elenor",
@@ -124452,7 +124905,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/efc5ccba-be62-4ab9-b3c3-5dd304d1bbc9/gallery/mvupv3zz-fm0xio.webp"
     ],
     "lat": 19.056,
-    "lng": 72.908
+    "lng": 72.908,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-epitome",
@@ -124572,7 +125037,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/11e66687-a63a-4a5f-b79c-573433564fb2/gallery/mrxrymkw-5s6utt.webp"
     ],
     "lat": 19.061,
-    "lng": 72.9025
+    "lng": 72.9025,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-signature",
@@ -124691,7 +125168,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/2b8f970d-6ab2-4a1b-99dd-e5ca6ba33dd0/gallery/ms4ksnxm-c0g7p.webp"
     ],
     "lat": 19.0682,
-    "lng": 72.8315
+    "lng": 72.8315,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-19",
@@ -124810,7 +125299,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/4171187c-4154-4224-bb36-819a03add6a9/gallery/mtsfd6jj-45jf27.webp"
     ],
     "lat": 19.1415,
-    "lng": 72.8335
+    "lng": 72.8335,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-corner-view",
@@ -124929,7 +125430,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/ade080ee-6bd8-4ea7-b8c7-66a937f7b80e/gallery/mttz63o6-30e3b.webp"
     ],
     "lat": 19.0635,
-    "lng": 72.834
+    "lng": 72.834,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-alora",
@@ -125048,7 +125561,19 @@ export const PROJECTS: Project[] = [
       "https://www.koltepatil.com/assets/uploads/gallery/17273291621313286942.jpg"
     ],
     "lat": 19.0705,
-    "lng": 72.836
+    "lng": 72.836,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-melange",
@@ -125167,7 +125692,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/765110d3-cf60-4fb1-af72-fbed7d22491d/gallery/mvfc6ya2-436ell.webp"
     ],
     "lat": 19.0178,
-    "lng": 72.8478
+    "lng": 72.8478,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-artveda",
@@ -125285,7 +125822,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/4f8eb75a-4580-4d79-b647-b16b71421bfc/gallery/mrxd9cax-82z44q.webp"
     ],
     "lat": 19.064,
-    "lng": 72.8285
+    "lng": 72.8285,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-belysa",
@@ -125404,7 +125953,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/efc5ccba-be62-4ab9-b3c3-5dd304d1bbc9/gallery/mvupv3j3-1t3art.webp"
     ],
     "lat": 19.0585,
-    "lng": 72.905
+    "lng": 72.905,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-residency",
@@ -125522,7 +126083,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/4f8eb75a-4580-4d79-b647-b16b71421bfc/gallery/mrxd99h3-1vljjm.webp"
     ],
     "lat": 19.0595,
-    "lng": 72.833
+    "lng": 72.833,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-headquarters",
@@ -125641,7 +126214,19 @@ export const PROJECTS: Project[] = [
       "https://www.koltepatil.com/assets/uploads/gallery/17273291621313286942.jpg"
     ],
     "lat": 19.062,
-    "lng": 72.835
+    "lng": 72.835,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-esteban",
@@ -125760,7 +126345,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/e1c8ac64-4e65-460a-84c8-460f12548757/gallery/mvf7dm64-8n3ajd.webp"
     ],
     "lat": 18.5385,
-    "lng": 73.918
+    "lng": 73.918,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-pallacio",
@@ -125879,7 +126476,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/035b585d-b971-4564-b20f-ccecfbcad104/gallery/mvhz1s8g-3g6nd6.webp"
     ],
     "lat": 18.5598,
-    "lng": 73.7854
+    "lng": 73.7854,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-adimaa",
@@ -125998,7 +126607,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/5709b783-9c9c-4c60-b4ed-4cef6de35826/gallery/mvwi01n4-6caiqq.webp"
     ],
     "lat": 18.535,
-    "lng": 73.8825
+    "lng": 73.8825,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-vivero",
@@ -126117,7 +126738,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/fcd59e60-a788-4739-b02a-fa7a4e4a06c8/gallery/mryx69n4-d14fs7.webp"
     ],
     "lat": 18.563,
-    "lng": 73.791
+    "lng": 73.791,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-amadore",
@@ -126236,7 +126869,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/8b2e1bb8-4a13-43a3-9800-49462b940cee/gallery/mtu0b25v-4jgp7u.webp"
     ],
     "lat": 18.5575,
-    "lng": 73.7895
+    "lng": 73.7895,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-estado",
@@ -126355,7 +127000,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/d19a8bbe-9e37-4dbf-a9fc-76590fd6a791/gallery/mvhz310v-8kz768.webp"
     ],
     "lat": 18.554,
-    "lng": 73.782
+    "lng": 73.782,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-renaissance",
@@ -126474,7 +127131,19 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/24ca7459-95bd-4594-85b9-4b2d720268ff/gallery/mwc1i5m1-1nxgpq.webp"
     ],
     "lat": 18.514,
-    "lng": 73.9015
+    "lng": 73.9015,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   },
   {
     "id": "p-supreme-palms",
@@ -126593,6 +127262,18 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/7c15740e-3e56-49b7-86ad-3f50e9c2761e/gallery/mvfc1lsm-5ci80s.webp"
     ],
     "lat": 18.562,
-    "lng": 73.8075
+    "lng": 73.8075,
+    "amenities": [
+      "Grand Double-Height Entrance Lobby",
+      "Infinity Edge Rooftop Temperature Controlled Swimming Pool",
+      "State-of-the-Art Wellness Club & Gymnasium",
+      "Landscaped Reflexology Garden & Walking Pavilion",
+      "Private High-Speed Biometric Elevators",
+      "Multi-Tier Advanced 24/7 Surveillance Security",
+      "Electric Vehicle (EV) Rapid Charging Stations",
+      "Children's Thematic Outdoor Play Adventure Park",
+      "Designer Banquet Hall & Sky Lounge",
+      "100% DG Power Backup for Common Areas & Residences"
+    ]
   }
 ];
