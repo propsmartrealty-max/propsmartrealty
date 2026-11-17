@@ -14,7 +14,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 57,
     "count": 57,
     "image": "/images/localities/hinjewadi.svg",
-    "price": "₹7.8k/sq.ft",
+    "price": "\u20b97.8k/sq.ft",
     "description": "Prime Hinjewadi corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -30,7 +30,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 39,
     "count": 39,
     "image": "/images/localities/baner.svg",
-    "price": "₹10.5k/sq.ft",
+    "price": "\u20b910.5k/sq.ft",
     "description": "Prime Baner corridor in Pune featuring verified residential towers, high rental yields, and 9.2% annual capital appreciation."
   },
   {
@@ -46,7 +46,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 31,
     "count": 31,
     "image": "/images/localities/balewadi.svg",
-    "price": "₹9.8k/sq.ft",
+    "price": "\u20b99.8k/sq.ft",
     "description": "Prime Balewadi corridor in Pune featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
   },
   {
@@ -62,7 +62,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 64,
     "count": 64,
     "image": "/images/localities/wakad.svg",
-    "price": "₹8.2k/sq.ft",
+    "price": "\u20b98.2k/sq.ft",
     "description": "Prime Wakad corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -78,7 +78,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 43,
     "count": 43,
     "image": "/images/localities/punawale.svg",
-    "price": "₹6.9k/sq.ft",
+    "price": "\u20b96.9k/sq.ft",
     "description": "Prime Punawale corridor in Pune featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -94,7 +94,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 51,
     "count": 51,
     "image": "/images/localities/tathawade.svg",
-    "price": "₹7.5k/sq.ft",
+    "price": "\u20b97.5k/sq.ft",
     "description": "Prime Tathawade corridor in Pune featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -110,7 +110,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/aundh.svg",
-    "price": "₹12.8k/sq.ft",
+    "price": "\u20b912.8k/sq.ft",
     "description": "Prime Aundh corridor in Pune featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
   },
   {
@@ -126,7 +126,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/pashan.svg",
-    "price": "₹9.4k/sq.ft",
+    "price": "\u20b99.4k/sq.ft",
     "description": "Prime Pashan corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -142,7 +142,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 26,
     "count": 26,
     "image": "/images/localities/bavdhan.svg",
-    "price": "₹8.9k/sq.ft",
+    "price": "\u20b98.9k/sq.ft",
     "description": "Prime Bavdhan corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -158,7 +158,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 15,
     "count": 15,
     "image": "/images/localities/mahalunge.svg",
-    "price": "₹7.2k/sq.ft",
+    "price": "\u20b97.2k/sq.ft",
     "description": "Prime Mahalunge corridor in Pune featuring verified residential towers, high rental yields, and 10.1% annual capital appreciation."
   },
   {
@@ -174,7 +174,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/bhugaon.svg",
-    "price": "₹7.6k/sq.ft",
+    "price": "\u20b97.6k/sq.ft",
     "description": "Prime Bhugaon corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -190,7 +190,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 48,
     "count": 48,
     "image": "/images/localities/ravet.svg",
-    "price": "₹7.3k/sq.ft",
+    "price": "\u20b97.3k/sq.ft",
     "description": "Prime Ravet corridor in Pune featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -206,7 +206,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 9,
     "count": 9,
     "image": "/images/localities/mamurdi.svg",
-    "price": "₹6.8k/sq.ft",
+    "price": "\u20b96.8k/sq.ft",
     "description": "Prime Mamurdi corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -222,7 +222,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 27,
     "count": 27,
     "image": "/images/localities/kiwale.svg",
-    "price": "₹6.5k/sq.ft",
+    "price": "\u20b96.5k/sq.ft",
     "description": "Prime Kiwale corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -238,7 +238,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 9,
     "count": 9,
     "image": "/images/localities/pimple-nilakh.svg",
-    "price": "₹9.2k/sq.ft",
+    "price": "\u20b99.2k/sq.ft",
     "description": "Prime Pimple Nilakh corridor in Pune featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -254,7 +254,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 15,
     "count": 15,
     "image": "/images/localities/pimple-saudagar.svg",
-    "price": "₹8.4k/sq.ft",
+    "price": "\u20b98.4k/sq.ft",
     "description": "Prime Pimple Saudagar corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -270,7 +270,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/sus.svg",
-    "price": "₹7.1k/sq.ft",
+    "price": "\u20b97.1k/sq.ft",
     "description": "Prime Sus corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -286,7 +286,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/pirangut.svg",
-    "price": "₹5.4k/sq.ft",
+    "price": "\u20b95.4k/sq.ft",
     "description": "Prime Pirangut corridor in Pune featuring verified residential towers, high rental yields, and 7.2% annual capital appreciation."
   },
   {
@@ -302,7 +302,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.8k/sq.ft",
+    "price": "\u20b96.8k/sq.ft",
     "description": "Prime Lavale corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -318,7 +318,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.5k/sq.ft",
+    "price": "\u20b96.5k/sq.ft",
     "description": "Prime Nande corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -334,7 +334,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.9k/sq.ft",
+    "price": "\u20b96.9k/sq.ft",
     "description": "Prime Maan corridor in Pune featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -350,7 +350,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.4k/sq.ft",
+    "price": "\u20b96.4k/sq.ft",
     "description": "Prime Jambe corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -366,7 +366,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.2k/sq.ft",
+    "price": "\u20b96.2k/sq.ft",
     "description": "Prime Sangavade corridor in Pune featuring verified residential towers, high rental yields, and 7.4% annual capital appreciation."
   },
   {
@@ -382,7 +382,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹5.9k/sq.ft",
+    "price": "\u20b95.9k/sq.ft",
     "description": "Prime Somatane corridor in Pune featuring verified residential towers, high rental yields, and 7.3% annual capital appreciation."
   },
   {
@@ -398,7 +398,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 31,
     "count": 31,
     "image": "/images/localities/kharadi.svg",
-    "price": "₹9.6k/sq.ft",
+    "price": "\u20b99.6k/sq.ft",
     "description": "Prime Kharadi corridor in Pune featuring verified residential towers, high rental yields, and 9.5% annual capital appreciation."
   },
   {
@@ -414,7 +414,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/viman-nagar.svg",
-    "price": "₹11.8k/sq.ft",
+    "price": "\u20b911.8k/sq.ft",
     "description": "Prime Viman Nagar corridor in Pune featuring verified residential towers, high rental yields, and 8.7% annual capital appreciation."
   },
   {
@@ -430,7 +430,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/kalyani-nagar.svg",
-    "price": "₹14.2k/sq.ft",
+    "price": "\u20b914.2k/sq.ft",
     "description": "Prime Kalyani Nagar corridor in Pune featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -446,7 +446,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/koregaon-park.svg",
-    "price": "₹15.8k/sq.ft",
+    "price": "\u20b915.8k/sq.ft",
     "description": "Prime Koregaon Park corridor in Pune featuring verified residential towers, high rental yields, and 8.6% annual capital appreciation."
   },
   {
@@ -462,7 +462,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/magarpatta-city.svg",
-    "price": "₹9.4k/sq.ft",
+    "price": "\u20b99.4k/sq.ft",
     "description": "Prime Magarpatta City corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -478,7 +478,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 7,
     "count": 7,
     "image": "/images/localities/hadapsar.svg",
-    "price": "₹8.4k/sq.ft",
+    "price": "\u20b98.4k/sq.ft",
     "description": "Prime Hadapsar corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -494,7 +494,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 8,
     "count": 8,
     "image": "/images/localities/wagholi.svg",
-    "price": "₹6.4k/sq.ft",
+    "price": "\u20b96.4k/sq.ft",
     "description": "Prime Wagholi corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -510,7 +510,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/keshavnagar.svg",
-    "price": "₹7.9k/sq.ft",
+    "price": "\u20b97.9k/sq.ft",
     "description": "Prime Keshav Nagar corridor in Pune featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -526,7 +526,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 11,
     "count": 11,
     "image": "/images/localities/mundhwa.svg",
-    "price": "₹9.1k/sq.ft",
+    "price": "\u20b99.1k/sq.ft",
     "description": "Prime Mundhwa corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -542,7 +542,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/dhanori.svg",
-    "price": "₹6.8k/sq.ft",
+    "price": "\u20b96.8k/sq.ft",
     "description": "Prime Dhanori corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -558,7 +558,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/lohegaon.svg",
-    "price": "₹6.1k/sq.ft",
+    "price": "\u20b96.1k/sq.ft",
     "description": "Prime Lohegaon corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -574,7 +574,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/wadgaon-sheri.svg",
-    "price": "₹8.7k/sq.ft",
+    "price": "\u20b98.7k/sq.ft",
     "description": "Prime Wadgaon Sheri corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -590,7 +590,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/shewalewadi.svg",
-    "price": "₹6.7k/sq.ft",
+    "price": "\u20b96.7k/sq.ft",
     "description": "Prime Shewalewadi corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -606,7 +606,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/manjri.svg",
-    "price": "₹6.3k/sq.ft",
+    "price": "\u20b96.3k/sq.ft",
     "description": "Prime Manjri corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -622,7 +622,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.4k/sq.ft",
+    "price": "\u20b96.4k/sq.ft",
     "description": "Prime Manjari Khurd corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -638,7 +638,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹10.2k/sq.ft",
+    "price": "\u20b910.2k/sq.ft",
     "description": "Prime Yerwada corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -654,7 +654,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹9.8k/sq.ft",
+    "price": "\u20b99.8k/sq.ft",
     "description": "Prime Ghorpadi corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -670,7 +670,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.2k/sq.ft",
+    "price": "\u20b96.2k/sq.ft",
     "description": "Prime Phursungi corridor in Pune featuring verified residential towers, high rental yields, and 7.4% annual capital appreciation."
   },
   {
@@ -686,7 +686,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 7,
     "count": 7,
     "image": "/images/localities/kothrud.svg",
-    "price": "₹12.8k/sq.ft",
+    "price": "\u20b912.8k/sq.ft",
     "description": "Prime Kothrud corridor in Pune featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
   },
   {
@@ -702,7 +702,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/senapati-bapat-road.svg",
-    "price": "₹16.5k/sq.ft",
+    "price": "\u20b916.5k/sq.ft",
     "description": "Prime Senapati Bapat Road corridor in Pune featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -718,7 +718,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹17.5k/sq.ft",
+    "price": "\u20b917.5k/sq.ft",
     "description": "Prime Deccan Gymkhana corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -734,7 +734,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/shivaji-nagar.svg",
-    "price": "₹16.5k/sq.ft",
+    "price": "\u20b916.5k/sq.ft",
     "description": "Prime Shivaji Nagar corridor in Pune featuring verified residential towers, high rental yields, and 8.7% annual capital appreciation."
   },
   {
@@ -750,7 +750,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹15.5k/sq.ft",
+    "price": "\u20b915.5k/sq.ft",
     "description": "Prime Erandwane corridor in Pune featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -766,7 +766,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹11.5k/sq.ft",
+    "price": "\u20b911.5k/sq.ft",
     "description": "Prime Karve Nagar corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -782,7 +782,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹14.0k/sq.ft",
+    "price": "\u20b914.0k/sq.ft",
     "description": "Prime Karve Road corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -798,7 +798,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹14.5k/sq.ft",
+    "price": "\u20b914.5k/sq.ft",
     "description": "Prime Sadashiv Peth corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -814,7 +814,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹12.8k/sq.ft",
+    "price": "\u20b912.8k/sq.ft",
     "description": "Prime Parvati corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -830,7 +830,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/camp.svg",
-    "price": "₹13.5k/sq.ft",
+    "price": "\u20b913.5k/sq.ft",
     "description": "Prime Camp corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -846,7 +846,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹14.8k/sq.ft",
+    "price": "\u20b914.8k/sq.ft",
     "description": "Prime Sopan Baug corridor in Pune featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -862,7 +862,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹16.2k/sq.ft",
+    "price": "\u20b916.2k/sq.ft",
     "description": "Prime Bund Garden Road corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -878,7 +878,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/nibm.svg",
-    "price": "₹8.9k/sq.ft",
+    "price": "\u20b98.9k/sq.ft",
     "description": "Prime NIBM Road corridor in Pune featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -894,7 +894,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/mohammed-wadi.svg",
-    "price": "₹7.4k/sq.ft",
+    "price": "\u20b97.4k/sq.ft",
     "description": "Prime Mohammed Wadi corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -910,7 +910,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/undri.svg",
-    "price": "₹6.6k/sq.ft",
+    "price": "\u20b96.6k/sq.ft",
     "description": "Prime Undri corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -926,7 +926,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/kondhwa.svg",
-    "price": "₹7.1k/sq.ft",
+    "price": "\u20b97.1k/sq.ft",
     "description": "Prime Kondhwa corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -942,7 +942,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/wanowrie.svg",
-    "price": "₹9.3k/sq.ft",
+    "price": "\u20b99.3k/sq.ft",
     "description": "Prime Wanowrie corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -958,7 +958,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/katraj.svg",
-    "price": "₹6.9k/sq.ft",
+    "price": "\u20b96.9k/sq.ft",
     "description": "Prime Katraj corridor in Pune featuring verified residential towers, high rental yields, and 7.4% annual capital appreciation."
   },
   {
@@ -974,7 +974,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.4k/sq.ft",
+    "price": "\u20b96.4k/sq.ft",
     "description": "Prime Dhayari corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -990,7 +990,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/sinhagad-road.svg",
-    "price": "₹7.8k/sq.ft",
+    "price": "\u20b97.8k/sq.ft",
     "description": "Prime Sinhagad Road corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1006,7 +1006,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/bibwewadi.svg",
-    "price": "₹10.5k/sq.ft",
+    "price": "\u20b910.5k/sq.ft",
     "description": "Prime Bibwewadi corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -1022,7 +1022,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.5k/sq.ft",
+    "price": "\u20b96.5k/sq.ft",
     "description": "Prime Ambegaon Budruk corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -1038,7 +1038,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹8.2k/sq.ft",
+    "price": "\u20b98.2k/sq.ft",
     "description": "Prime Anand Nagar corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -1054,7 +1054,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹8.4k/sq.ft",
+    "price": "\u20b98.4k/sq.ft",
     "description": "Prime Warje corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -1070,7 +1070,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹5.8k/sq.ft",
+    "price": "\u20b95.8k/sq.ft",
     "description": "Prime Khed Shivapur corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -1086,7 +1086,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/pimpri-chinchwad.svg",
-    "price": "₹7.8k/sq.ft",
+    "price": "\u20b97.8k/sq.ft",
     "description": "Prime Pimpri Chinchwad corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1102,7 +1102,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 15,
     "count": 15,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹8.2k/sq.ft",
+    "price": "\u20b98.2k/sq.ft",
     "description": "Prime Pimpri corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -1118,7 +1118,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 8,
     "count": 8,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹8.4k/sq.ft",
+    "price": "\u20b98.4k/sq.ft",
     "description": "Prime Chinchwad corridor in Pune featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -1134,7 +1134,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 12,
     "count": 12,
     "image": "/images/localities/moshi.svg",
-    "price": "₹6.2k/sq.ft",
+    "price": "\u20b96.2k/sq.ft",
     "description": "Prime Moshi corridor in Pune featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -1150,7 +1150,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 9,
     "count": 9,
     "image": "/images/localities/charholi.svg",
-    "price": "₹6.0k/sq.ft",
+    "price": "\u20b96.0k/sq.ft",
     "description": "Prime Charholi corridor in Pune featuring verified residential towers, high rental yields, and 8.6% annual capital appreciation."
   },
   {
@@ -1166,7 +1166,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.2k/sq.ft",
+    "price": "\u20b96.2k/sq.ft",
     "description": "Prime Charholi Budruk corridor in Pune featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -1182,7 +1182,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/chakan.svg",
-    "price": "₹5.2k/sq.ft",
+    "price": "\u20b95.2k/sq.ft",
     "description": "Prime Chakan corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -1198,7 +1198,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/bhosari.svg",
-    "price": "₹6.5k/sq.ft",
+    "price": "\u20b96.5k/sq.ft",
     "description": "Prime Bhosari corridor in Pune featuring verified residential towers, high rental yields, and 7.2% annual capital appreciation."
   },
   {
@@ -1214,7 +1214,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/talegaon-dabhade.svg",
-    "price": "₹4.9k/sq.ft",
+    "price": "\u20b94.9k/sq.ft",
     "description": "Prime Talegaon Dabhade corridor in Pune featuring verified residential towers, high rental yields, and 7.1% annual capital appreciation."
   },
   {
@@ -1230,7 +1230,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 15,
     "count": 15,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹7.6k/sq.ft",
+    "price": "\u20b97.6k/sq.ft",
     "description": "Prime Akurdi corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -1246,7 +1246,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 7,
     "count": 7,
     "image": "/images/localities/nigdi.svg",
-    "price": "₹7.9k/sq.ft",
+    "price": "\u20b97.9k/sq.ft",
     "description": "Prime Nigdi corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -1262,7 +1262,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹7.5k/sq.ft",
+    "price": "\u20b97.5k/sq.ft",
     "description": "Prime Thergaon corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -1278,7 +1278,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 8,
     "count": 8,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹7.9k/sq.ft",
+    "price": "\u20b97.9k/sq.ft",
     "description": "Prime Rahatani corridor in Pune featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -1294,7 +1294,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹8.1k/sq.ft",
+    "price": "\u20b98.1k/sq.ft",
     "description": "Prime Pimple Gurav corridor in Pune featuring verified residential towers, high rental yields, and 7.7% annual capital appreciation."
   },
   {
@@ -1310,7 +1310,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 6,
     "count": 6,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹7.1k/sq.ft",
+    "price": "\u20b97.1k/sq.ft",
     "description": "Prime Walhekarwadi corridor in Pune featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -1326,7 +1326,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹5.8k/sq.ft",
+    "price": "\u20b95.8k/sq.ft",
     "description": "Prime Chikhali corridor in Pune featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -1342,7 +1342,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹5.8k/sq.ft",
+    "price": "\u20b95.8k/sq.ft",
     "description": "Prime Dudulgaon corridor in Pune featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1358,7 +1358,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹5.7k/sq.ft",
+    "price": "\u20b95.7k/sq.ft",
     "description": "Prime Darumbre corridor in Pune featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -1374,7 +1374,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹55.0k/sq.ft",
+    "price": "\u20b955.0k/sq.ft",
     "description": "Prime Bandra West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
   },
   {
@@ -1390,7 +1390,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹44.0k/sq.ft",
+    "price": "\u20b944.0k/sq.ft",
     "description": "Prime Bandra East corridor in Mumbai featuring verified residential towers, high rental yields, and 9.4% annual capital appreciation."
   },
   {
@@ -1406,7 +1406,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹34.0k/sq.ft",
+    "price": "\u20b934.0k/sq.ft",
     "description": "Prime Andheri West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.6% annual capital appreciation."
   },
   {
@@ -1422,7 +1422,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹32.0k/sq.ft",
+    "price": "\u20b932.0k/sq.ft",
     "description": "Prime Versova corridor in Mumbai featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -1438,7 +1438,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹28.5k/sq.ft",
+    "price": "\u20b928.5k/sq.ft",
     "description": "Prime Goregaon West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.1% annual capital appreciation."
   },
   {
@@ -1454,7 +1454,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹27.5k/sq.ft",
+    "price": "\u20b927.5k/sq.ft",
     "description": "Prime Goregaon East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -1470,7 +1470,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹25.0k/sq.ft",
+    "price": "\u20b925.0k/sq.ft",
     "description": "Prime Borivali East corridor in Mumbai featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -1486,7 +1486,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹24.0k/sq.ft",
+    "price": "\u20b924.0k/sq.ft",
     "description": "Prime Kandivali East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1502,7 +1502,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹23.5k/sq.ft",
+    "price": "\u20b923.5k/sq.ft",
     "description": "Prime Kandivali West corridor in Mumbai featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -1518,7 +1518,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹42.0k/sq.ft",
+    "price": "\u20b942.0k/sq.ft",
     "description": "Prime Santacruz West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -1534,7 +1534,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹26.0k/sq.ft",
+    "price": "\u20b926.0k/sq.ft",
     "description": "Prime Santacruz East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1550,7 +1550,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.5k/sq.ft",
+    "price": "\u20b96.5k/sq.ft",
     "description": "Prime Virar West corridor in Mumbai featuring verified residential towers, high rental yields, and 7.4% annual capital appreciation."
   },
   {
@@ -1566,7 +1566,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 7,
     "count": 7,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹27.0k/sq.ft",
+    "price": "\u20b927.0k/sq.ft",
     "description": "Prime Powai corridor in Mumbai featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
   },
   {
@@ -1582,7 +1582,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹24.5k/sq.ft",
+    "price": "\u20b924.5k/sq.ft",
     "description": "Prime Chandivali corridor in Mumbai featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -1598,7 +1598,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹21.0k/sq.ft",
+    "price": "\u20b921.0k/sq.ft",
     "description": "Prime Kanjurmarg corridor in Mumbai featuring verified residential towers, high rental yields, and 9.1% annual capital appreciation."
   },
   {
@@ -1614,7 +1614,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹23.5k/sq.ft",
+    "price": "\u20b923.5k/sq.ft",
     "description": "Prime Mulund West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -1630,7 +1630,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹25.5k/sq.ft",
+    "price": "\u20b925.5k/sq.ft",
     "description": "Prime Vikhroli East corridor in Mumbai featuring verified residential towers, high rental yields, and 8.5% annual capital appreciation."
   },
   {
@@ -1646,7 +1646,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹26.5k/sq.ft",
+    "price": "\u20b926.5k/sq.ft",
     "description": "Prime Chembur corridor in Mumbai featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -1662,7 +1662,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹19.5k/sq.ft",
+    "price": "\u20b919.5k/sq.ft",
     "description": "Prime Bhandup West corridor in Mumbai featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -1678,7 +1678,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹52.0k/sq.ft",
+    "price": "\u20b952.0k/sq.ft",
     "description": "Prime Worli corridor in Mumbai featuring verified residential towers, high rental yields, and 9.6% annual capital appreciation."
   },
   {
@@ -1694,7 +1694,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹48.0k/sq.ft",
+    "price": "\u20b948.0k/sq.ft",
     "description": "Prime Mahalaxmi corridor in Mumbai featuring verified residential towers, high rental yields, and 9.2% annual capital appreciation."
   },
   {
@@ -1710,7 +1710,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹26.0k/sq.ft",
+    "price": "\u20b926.0k/sq.ft",
     "description": "Prime Wadala corridor in Mumbai featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
   },
   {
@@ -1726,7 +1726,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹36.0k/sq.ft",
+    "price": "\u20b936.0k/sq.ft",
     "description": "Prime Sewri corridor in Mumbai featuring verified residential towers, high rental yields, and 9.5% annual capital appreciation."
   },
   {
@@ -1738,11 +1738,11 @@ export const LOCATIONS: Locality[] = [
     "isFeatured": true,
     "avgPriceSqft": 75000,
     "appreciation_rate": 7.5,
-    "tagline": "Queen’s Necklace & World-Renowned Art Deco Promenade",
+    "tagline": "Queen\u2019s Necklace & World-Renowned Art Deco Promenade",
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹75.0k/sq.ft",
+    "price": "\u20b975.0k/sq.ft",
     "description": "Prime Marine Drive corridor in Mumbai featuring verified residential towers, high rental yields, and 7.5% annual capital appreciation."
   },
   {
@@ -1754,11 +1754,11 @@ export const LOCATIONS: Locality[] = [
     "isFeatured": false,
     "avgPriceSqft": 95000,
     "appreciation_rate": 7.2,
-    "tagline": "Billionaires’ Row & Consular Residential Enclaves",
+    "tagline": "Billionaires\u2019 Row & Consular Residential Enclaves",
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹95.0k/sq.ft",
+    "price": "\u20b995.0k/sq.ft",
     "description": "Prime Altamount Road corridor in Mumbai featuring verified residential towers, high rental yields, and 7.2% annual capital appreciation."
   },
   {
@@ -1774,7 +1774,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 5,
     "count": 5,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹14.5k/sq.ft",
+    "price": "\u20b914.5k/sq.ft",
     "description": "Prime Kolshet Road corridor in Thane featuring verified residential towers, high rental yields, and 8.7% annual capital appreciation."
   },
   {
@@ -1790,7 +1790,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹20.5k/sq.ft",
+    "price": "\u20b920.5k/sq.ft",
     "description": "Prime Pokhran Road corridor in Thane featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
   },
   {
@@ -1806,7 +1806,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹12.8k/sq.ft",
+    "price": "\u20b912.8k/sq.ft",
     "description": "Prime Ghodbunder Road corridor in Thane featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -1822,7 +1822,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹16.2k/sq.ft",
+    "price": "\u20b916.2k/sq.ft",
     "description": "Prime Majiwada corridor in Thane featuring verified residential towers, high rental yields, and 8.4% annual capital appreciation."
   },
   {
@@ -1838,7 +1838,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹13.2k/sq.ft",
+    "price": "\u20b913.2k/sq.ft",
     "description": "Prime Balkum corridor in Thane featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -1854,7 +1854,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹15.5k/sq.ft",
+    "price": "\u20b915.5k/sq.ft",
     "description": "Prime Manpada corridor in Thane featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -1870,7 +1870,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹17.5k/sq.ft",
+    "price": "\u20b917.5k/sq.ft",
     "description": "Prime Hiranandani Estate corridor in Thane featuring verified residential towers, high rental yields, and 8.6% annual capital appreciation."
   },
   {
@@ -1886,7 +1886,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹16.5k/sq.ft",
+    "price": "\u20b916.5k/sq.ft",
     "description": "Prime Thane West corridor in Thane featuring verified residential towers, high rental yields, and 8.3% annual capital appreciation."
   },
   {
@@ -1902,7 +1902,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹7.5k/sq.ft",
+    "price": "\u20b97.5k/sq.ft",
     "description": "Prime Upper Thane corridor in Thane featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
   },
   {
@@ -1918,7 +1918,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 0,
     "count": 0,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.8k/sq.ft",
+    "price": "\u20b96.8k/sq.ft",
     "description": "Prime Kalyan-Shilphata corridor in Thane featuring verified residential towers, high rental yields, and 8.9% annual capital appreciation."
   },
   {
@@ -1934,7 +1934,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹8.2k/sq.ft",
+    "price": "\u20b98.2k/sq.ft",
     "description": "Prime Panvel corridor in Navi Mumbai featuring verified residential towers, high rental yields, and 9.4% annual capital appreciation."
   },
   {
@@ -1950,7 +1950,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹12.5k/sq.ft",
+    "price": "\u20b912.5k/sq.ft",
     "description": "Prime Navi Mumbai corridor in Navi Mumbai featuring verified residential towers, high rental yields, and 8.8% annual capital appreciation."
   },
   {
@@ -1966,7 +1966,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 7,
     "count": 7,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹12.0k/sq.ft",
+    "price": "\u20b912.0k/sq.ft",
     "description": "Prime Khandala corridor in Lonavala featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -1982,7 +1982,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹13.5k/sq.ft",
+    "price": "\u20b913.5k/sq.ft",
     "description": "Prime Kunegaon corridor in Lonavala featuring verified residential towers, high rental yields, and 8.2% annual capital appreciation."
   },
   {
@@ -1998,7 +1998,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 2,
     "count": 2,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹5.2k/sq.ft",
+    "price": "\u20b95.2k/sq.ft",
     "description": "Prime Khalapur corridor in Lonavala featuring verified residential towers, high rental yields, and 8.0% annual capital appreciation."
   },
   {
@@ -2014,7 +2014,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹5.5k/sq.ft",
+    "price": "\u20b95.5k/sq.ft",
     "description": "Prime Khopoli Foothills corridor in Lonavala featuring verified residential towers, high rental yields, and 7.6% annual capital appreciation."
   },
   {
@@ -2030,7 +2030,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.5k/sq.ft",
+    "price": "\u20b96.5k/sq.ft",
     "description": "Prime Gahunje corridor in Lonavala featuring verified residential towers, high rental yields, and 7.9% annual capital appreciation."
   },
   {
@@ -2046,7 +2046,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 4,
     "count": 4,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹18.0k/sq.ft",
+    "price": "\u20b918.0k/sq.ft",
     "description": "Prime Mandwa Jetty Corridor corridor in Alibaug featuring verified residential towers, high rental yields, and 9.5% annual capital appreciation."
   },
   {
@@ -2062,7 +2062,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 3,
     "count": 3,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹16.0k/sq.ft",
+    "price": "\u20b916.0k/sq.ft",
     "description": "Prime Awas Beach corridor in Alibaug featuring verified residential towers, high rental yields, and 9.1% annual capital appreciation."
   },
   {
@@ -2078,7 +2078,7 @@ export const LOCATIONS: Locality[] = [
     "projectCount": 1,
     "count": 1,
     "image": "/images/localities/default-locality.svg",
-    "price": "₹4.2k/sq.ft",
+    "price": "\u20b94.2k/sq.ft",
     "description": "Prime Shrivardhan-Diveagar corridor in Alibaug featuring verified residential towers, high rental yields, and 7.8% annual capital appreciation."
   },
   {
@@ -2092,7 +2092,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.4,
     "tagline": "Dense Coconut & Betel Nut Palm Beach Residences",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹14.5k/sq.ft",
+    "price": "\u20b914.5k/sq.ft",
     "description": "Prestigious Kihim shoreline corridor known for private beachfront villas and immediate connectivity to Mandwa speedboats.",
     "projectCount": 2,
     "count": 2
@@ -2108,7 +2108,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.2,
     "tagline": "District Capital, Varsoli Beach & Civil Infrastructure",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹9.8k/sq.ft",
+    "price": "\u20b99.8k/sq.ft",
     "description": "Commercial and administrative core of Alibaug with verified luxury apartments and coastal residences near Varsoli beach.",
     "projectCount": 1,
     "count": 1
@@ -2124,7 +2124,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.8,
     "tagline": "Billionaires Row of Alibaug & Private Jetty Mansions",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹18.5k/sq.ft",
+    "price": "\u20b918.5k/sq.ft",
     "description": "Ultra-prime coastal strip in Alibaug housing India's top industrialist estates, sculpture gardens, and private helipads.",
     "projectCount": 1,
     "count": 1
@@ -2140,7 +2140,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9,
     "tagline": "Gourmet Dining, Boutique Resorts & Gated Villa Communities",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹12.5k/sq.ft",
+    "price": "\u20b912.5k/sq.ft",
     "description": "The lifestyle heart of Alibaug featuring high-end gourmet delis, art galleries, and secure gated villa estates.",
     "projectCount": 1,
     "count": 1
@@ -2156,7 +2156,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.7,
     "tagline": "Highland Lakeviews & Hill Station Second Homes",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹11.5k/sq.ft",
+    "price": "\u20b911.5k/sq.ft",
     "description": "Tranquil hillside belt overlooking Valvan Dam and Tungarli Lake with premium gated villa enclaves.",
     "projectCount": 1,
     "count": 1
@@ -2172,7 +2172,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.1,
     "tagline": "Hill Station Core, Transit & Luxury Apartments",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹10.2k/sq.ft",
+    "price": "\u20b910.2k/sq.ft",
     "description": "Central Lonavala offering railway connectivity, iconic bakeries, and year-round holiday home rentals.",
     "projectCount": 0,
     "count": 0
@@ -2188,7 +2188,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.3,
     "tagline": "Paragliding Capital & Serene Pawna-Indrayani Lakefront Estates",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹8.5k/sq.ft",
+    "price": "\u20b98.5k/sq.ft",
     "description": "Picturesque Western Ghats valley between Lonavala and Pune celebrated for paragliding and lake-view second homes.",
     "projectCount": 1,
     "count": 1
@@ -2204,7 +2204,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.5,
     "tagline": "Railway Junction, Riverfront Living & Educational Hub",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹5.2k/sq.ft",
+    "price": "\u20b95.2k/sq.ft",
     "description": "Core Karjat micro-market with direct suburban local train connectivity to Mumbai CSMT and Panvel link.",
     "projectCount": 4,
     "count": 4
@@ -2220,7 +2220,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.2,
     "tagline": "Matheran Eco-Sensitive Foothills & Resort Townships",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹4.8k/sq.ft",
+    "price": "\u20b94.8k/sq.ft",
     "description": "Pristine nature enclave at the base of Matheran hill station featuring lush green weekend villas and plotted communities.",
     "projectCount": 2,
     "count": 2
@@ -2236,7 +2236,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.8,
     "tagline": "Bhimashankar Wildlife Corridor & Riverfront Farmhouses",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹4.2k/sq.ft",
+    "price": "\u20b94.2k/sq.ft",
     "description": "Green biodiversity hotspot along the river basin popular for luxury farmhouses and eco-resort residences.",
     "projectCount": 2,
     "count": 2
@@ -2252,7 +2252,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 10.2,
     "tagline": "Mumbai-Pune Expressway Junction & Morbe Dam Corridor",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹5.9k/sq.ft",
+    "price": "\u20b95.9k/sq.ft",
     "description": "High-growth strategic corridor connecting Karjat directly to Navi Mumbai International Airport and Atal Setu (MTHL).",
     "projectCount": 5,
     "count": 5
@@ -2268,7 +2268,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.9,
     "tagline": "Township Corridor & Riverside Second Home Developments",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹4.5k/sq.ft",
+    "price": "\u20b94.5k/sq.ft",
     "description": "Emerging township corridor bordering Panvel and Karjat with integrated self-sufficient township projects.",
     "projectCount": 1,
     "count": 1
@@ -2284,7 +2284,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.5,
     "tagline": "Metro Line 5 Logistics & Integrated Townships",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹6.8k/sq.ft",
+    "price": "\u20b96.8k/sq.ft",
     "description": "Fast-developing MMR growth node anchored by Metro Line 5 and major industrial-logistics corridors.",
     "projectCount": 1,
     "count": 1
@@ -2300,7 +2300,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 7.6,
     "tagline": "MIDC Industrial Hub & Bullet Train Corridor",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹3.8k/sq.ft",
+    "price": "\u20b93.8k/sq.ft",
     "description": "Affordable housing industrial growth corridor on the Western Railway and upcoming Mumbai-Ahmedabad Bullet Train route.",
     "projectCount": 1,
     "count": 1
@@ -2316,7 +2316,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 7.9,
     "tagline": "District Headquarters & Coastal Green Belt",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹4.2k/sq.ft",
+    "price": "\u20b94.2k/sq.ft",
     "description": "Administrative district center with suburban local connectivity and value-driven residential master communities.",
     "projectCount": 1,
     "count": 1
@@ -2332,7 +2332,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9.1,
     "tagline": "Heritage South Mumbai & Botanical Garden High-Rises",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹38.0k/sq.ft",
+    "price": "\u20b938.0k/sq.ft",
     "description": "Historic South Mumbai precinct overlooking Rani Baug zoo gardens and the Mumbai Harbour Eastern Freeway.",
     "projectCount": 1,
     "count": 1
@@ -2348,7 +2348,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.8,
     "tagline": "Corporate Headquarters & Luxury Skyline Enclave",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹42.0k/sq.ft",
+    "price": "\u20b942.0k/sq.ft",
     "description": "Premier financial district and luxury residential cluster in Central Mumbai with ultra-tall skyscraper towers.",
     "projectCount": 1,
     "count": 1
@@ -2364,7 +2364,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 9,
     "tagline": "High Street Phoenix, Michelin Dining & Skyscraper Residences",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹46.0k/sq.ft",
+    "price": "\u20b946.0k/sq.ft",
     "description": "The luxury lifestyle and commercial epicenter of Mumbai with premier corporate parks and ultra-exclusive residences.",
     "projectCount": 2,
     "count": 2
@@ -2380,7 +2380,7 @@ export const LOCATIONS: Locality[] = [
     "appreciation_rate": 8.4,
     "tagline": "BKC Annexe & Strategic Transit Interchange",
     "image": "/images/localities/default-locality.svg",
-    "price": "₹21.0k/sq.ft",
+    "price": "\u20b921.0k/sq.ft",
     "description": "Centrally located urban hub immediately adjacent to Bandra-Kurla Complex (BKC) and Phoenix Marketcity.",
     "projectCount": 1,
     "count": 1
@@ -2504,7 +2504,7 @@ export const BUILDERS: Builder[] = [
     "slug": "vtp-realty",
     "logo": "/images/builders/vtp-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/eu7ZJIm7DagLiWWVFPW2msrtCyUQdEIcLf4u8CPr.webp",
-    "description": "VTP Realty is Pune’s leading real estate brand celebrated for Maximum Livable Area (MLA) homes, township developments, and high construction velocity across Kharadi, Hinjewadi, and Mahalunge.",
+    "description": "VTP Realty is Pune\u2019s leading real estate brand celebrated for Maximum Livable Area (MLA) homes, township developments, and high construction velocity across Kharadi, Hinjewadi, and Mahalunge.",
     "establishedYear": 2011,
     "totalProjects": 26,
     "ongoingProjects": 5,
@@ -2523,7 +2523,7 @@ export const BUILDERS: Builder[] = [
     "slug": "lodha-group",
     "logo": "/images/builders/lodha-official.svg",
     "heroImage": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg",
-    "description": "Lodha Group (Macrotech Developers) is one of India’s largest real estate developers delivering world-class residences, luxury amenities, and grand master-planned developments in Pune.",
+    "description": "Lodha Group (Macrotech Developers) is one of India\u2019s largest real estate developers delivering world-class residences, luxury amenities, and grand master-planned developments in Pune.",
     "establishedYear": 1980,
     "totalProjects": 25,
     "ongoingProjects": 5,
@@ -2542,7 +2542,7 @@ export const BUILDERS: Builder[] = [
     "slug": "panchshil-realty",
     "logo": "/images/builders/panchshil-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
-    "description": "Panchshil Realty is Pune’s pinnacle of luxury real estate, introducing world brands including Trump Towers, YOO Pune, World Trade Center Pune, and EON Free Zone.",
+    "description": "Panchshil Realty is Pune\u2019s pinnacle of luxury real estate, introducing world brands including Trump Towers, YOO Pune, World Trade Center Pune, and EON Free Zone.",
     "establishedYear": 2002,
     "totalProjects": 4,
     "ongoingProjects": 5,
@@ -2559,7 +2559,7 @@ export const BUILDERS: Builder[] = [
     "slug": "rohan-builders",
     "logo": "/images/builders/rohan-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
-    "description": "Rohan Builders is celebrated for pioneering the PLUS Home concept in Pune — focusing on Perfect Ventilation, Lively Light, Utmost Privacy, and Smart Space design.",
+    "description": "Rohan Builders is celebrated for pioneering the PLUS Home concept in Pune \u2014 focusing on Perfect Ventilation, Lively Light, Utmost Privacy, and Smart Space design.",
     "establishedYear": 1993,
     "totalProjects": 18,
     "ongoingProjects": 5,
@@ -2596,7 +2596,7 @@ export const BUILDERS: Builder[] = [
     "slug": "pride-purple-group",
     "logo": "/images/builders/pride-purple-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/pyfCcZQGbXLGoumWmHpNJZu7lOdvBE2m8hqD7GBs.webp",
-    "description": "Pride Purple Group has shaped Pune’s skyline across Hinjewadi, Wakad, and Baner with over two decades of customer trust, commercial IT towers, and premium lifestyle communities.",
+    "description": "Pride Purple Group has shaped Pune\u2019s skyline across Hinjewadi, Wakad, and Baner with over two decades of customer trust, commercial IT towers, and premium lifestyle communities.",
     "establishedYear": 2001,
     "totalProjects": 21,
     "ongoingProjects": 5,
@@ -2634,7 +2634,7 @@ export const BUILDERS: Builder[] = [
     "slug": "gera-developments",
     "logo": "/images/builders/gera-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/Clv6QVczOiJD0bNhVQSdUoYvHCzVM92HasWLD3ET.webp",
-    "description": "Gera Developments is India’s pioneer of ChildCentric® Homes with an unprecedented 7-Year Warranty, delivering landmark projects across Kharadi and Hinjewadi.",
+    "description": "Gera Developments is India\u2019s pioneer of ChildCentric\u00ae Homes with an unprecedented 7-Year Warranty, delivering landmark projects across Kharadi and Hinjewadi.",
     "establishedYear": 1970,
     "totalProjects": 7,
     "ongoingProjects": 5,
@@ -2652,7 +2652,7 @@ export const BUILDERS: Builder[] = [
     "slug": "kasturi-housing",
     "logo": "/images/builders/kasturi.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
-    "description": "Kasturi Housing is Pune’s premier bespoke luxury developer, famed for The Balmoral collection and minimalist architecture with global engineering standards.",
+    "description": "Kasturi Housing is Pune\u2019s premier bespoke luxury developer, famed for The Balmoral collection and minimalist architecture with global engineering standards.",
     "establishedYear": 1999,
     "totalProjects": 11,
     "ongoingProjects": 5,
@@ -2670,7 +2670,7 @@ export const BUILDERS: Builder[] = [
     "slug": "mahindra-lifespaces",
     "logo": "/images/builders/mahindra-lifespaces-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/7R1KntHtZGpJcf1ID73ZhW6Bmbi6t69x1dDPXrCk.webp",
-    "description": "Mahindra Lifespace Developers brings Mahindra Group’s trust and green building expertise to Pune with IGBC Net-Zero energy and sustainable homes.",
+    "description": "Mahindra Lifespace Developers brings Mahindra Group\u2019s trust and green building expertise to Pune with IGBC Net-Zero energy and sustainable homes.",
     "establishedYear": 1994,
     "totalProjects": 20,
     "ongoingProjects": 5,
@@ -2708,7 +2708,7 @@ export const BUILDERS: Builder[] = [
     "slug": "bramhacorp",
     "logo": "/images/builders/bramhacorp-official.webp",
     "heroImage": "https://keystoneliv.com/public/uploads/property/e1Yisy3QN19cU13poeL9foZvCwjxU3tEAiuqtDxW.webp",
-    "description": "BramhaCorp is Pune’s pioneer in bringing world hospitality and branded residences, including Sheraton Grand, Le Meridien, and F-Residences.",
+    "description": "BramhaCorp is Pune\u2019s pioneer in bringing world hospitality and branded residences, including Sheraton Grand, Le Meridien, and F-Residences.",
     "establishedYear": 1982,
     "totalProjects": 4,
     "ongoingProjects": 5,
@@ -2727,7 +2727,7 @@ export const BUILDERS: Builder[] = [
     "slug": "amanora-park-town",
     "logo": "/images/builders/amanora.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/OdEtAJGuBRZ8wWA1HACcHXBrWsP2uqZofPBtjreG.webp",
-    "description": "Amanora Park Town by City Corporation is Maharashtra’s first accredited 400-acre smart township in Hadapsar Pune, featuring Gateway Towers and Future Towers.",
+    "description": "Amanora Park Town by City Corporation is Maharashtra\u2019s first accredited 400-acre smart township in Hadapsar Pune, featuring Gateway Towers and Future Towers.",
     "establishedYear": 2007,
     "totalProjects": 2,
     "ongoingProjects": 5,
@@ -2762,17 +2762,25 @@ export const BUILDERS: Builder[] = [
     "name": "Kohinoor Group",
     "slug": "kohinoor-group",
     "logo": "/images/builders/kohinoor-official.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/dRkDonPR1eXndCLucTp17YruBhz2634DUGQ5X3YG.webp",
-    "description": "Kohinoor Group Pune is renowned for its Sada Sukhi Raho philosophy, delivering over 40 landmark projects across Kharadi, Hinjewadi, and Pimpri.",
+    "heroImage": "https://iamkohinoor.com//media/68667c95d42d6_satori-overview-1.webp",
+    "description": "Kohinoor Group Pune is renowned for its 42-year legacy and 'Sada Sukhi Raho' philosophy, delivering over 45 landmark residential and commercial projects across Pune's prime corridors.",
     "establishedYear": 1983,
-    "totalProjects": 23,
-    "ongoingProjects": 5,
+    "totalProjects": 30,
+    "ongoingProjects": 14,
     "trustScore": 9.3,
     "isVerified": true,
     "locations": [
+      "Mahalunge",
+      "Hinjewadi",
       "Kharadi",
-      "Pimpri Chinchwad",
-      "Hinjewadi"
+      "Bhugaon",
+      "Punawale",
+      "Wakad",
+      "Dhanori",
+      "Wagholi",
+      "Baner",
+      "Mundhwa",
+      "Pimpri Chinchwad"
     ],
     "experience": 43
   },
@@ -2782,7 +2790,7 @@ export const BUILDERS: Builder[] = [
     "slug": "kalpataru",
     "logo": "/images/builders/kalpataru-official.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/Tma48Vkc54lmiZ0fVKe7BOE9Mekbtpx5PgEUl8pW.webp",
-    "description": "Kalpataru is one of India’s most awarded real estate companies, creating luxury landmark gated estates in Baner and Bavdhan Pune.",
+    "description": "Kalpataru is one of India\u2019s most awarded real estate companies, creating luxury landmark gated estates in Baner and Bavdhan Pune.",
     "establishedYear": 1969,
     "totalProjects": 5,
     "ongoingProjects": 5,
@@ -2800,7 +2808,7 @@ export const BUILDERS: Builder[] = [
     "slug": "sobha-limited",
     "logo": "/images/builders/sobha-official.svg",
     "heroImage": "https://keystoneliv.com/public/uploads/property/udgWlmoH6ofCgYL184zKnPq8Zexr2l7fEoztyewT.webp",
-    "description": "Sobha Limited is India’s only backward integrated real estate giant, renowned for unparalleled German-standard build quality in Kothrud Pune.",
+    "description": "Sobha Limited is India\u2019s only backward integrated real estate giant, renowned for unparalleled German-standard build quality in Kothrud Pune.",
     "establishedYear": 1995,
     "totalProjects": 3,
     "ongoingProjects": 5,
@@ -18655,23 +18663,23 @@ export const PROJECTS: Project[] = [
   },
   {
     "id": "p-kohinoor-central-park",
-    "title": "Kohinoor Central Park \u2013 0",
+    "title": "Kohinoor Central Park",
     "slug": "kohinoor-central-park",
     "builderId": "b-kohinoor",
     "location": "Hinjewadi",
-    "priceRange": "\u20b980.50 L - \u20b91.03 Cr",
-    "exactPrice": "\u20b980.50 L",
+    "priceRange": "\u20b972 L - \u20b91.15 Cr",
+    "exactPrice": "\u20b972 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "in 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/dRkDonPR1eXndCLucTp17YruBhz2634DUGQ5X3YG.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/dRkDonPR1eXndCLucTp17YruBhz2634DUGQ5X3YG.webp",
-    "lat": 18.5913,
-    "lng": 73.7389,
+    "possessionDate": "2027",
+    "image": "https://iamkohinoor.com//media/685054a5e7861_overview-img-28-5.webp",
+    "heroImage": "https://iamkohinoor.com//media/685054a5e7861_overview-img-28-5.webp",
+    "lat": 18.5833,
+    "lng": 73.718,
     "masterLayout": "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/9fgd1dc8OsLM6h4q6lT60MbRpIA4vwCadScNvqMA.webp",
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/0BgGeUEWnpaENDzgtjJ9AphTNfjVqgQpmqF57pB9.webp",
@@ -18679,7 +18687,7 @@ export const PROJECTS: Project[] = [
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/MzzWe9NoesjKW5vXHcTkKqIpofYGW80l6x5m4rGA.webp",
       "https://keystoneliv.com/public/liv-thumbs/640/uploads/property/sq9UXhpZWpFavb6sZTY5JiP6bAJWQXymSdDXjV4e.webp"
     ],
-    "description": "Kohinoor Central Park \u2013 0 by Kohinoor Group represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal natural light and cross ventilation.\n\nStarting from \u20b980.50 L, each apartment is crafted with superior structural engineering and imported fittings. Residents enjoy full access to world-class amenities including Banquet Hall, Club house, Fitness Corner, Gym, Jogging Track, Kids Play Area. Verified under MahaRERA registration P52100056358, this property offers complete legal peace of mind with 100% zero brokerage through PROPSMART REALTY.",
+    "description": "Kohinoor Central Park in Hinjewadi Phase 2 spans a massive 13.27-acre integrated lifestyle township featuring 10 residential towers. Designed for IT professionals with zero-waste layouts, world-class sports amenities, and high rental return potential.",
     "features": [
       "Banquet Hall",
       "Club house",
@@ -18704,28 +18712,20 @@ export const PROJECTS: Project[] = [
     ],
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
+        "label": "Land Parcel",
+        "value": "13.27 Acres"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony"
+        "label": "Towers & Floors",
+        "value": "10 Towers | 32 Floors"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas"
+        "label": "Carpet Range",
+        "value": "725 - 1,087 sq.ft."
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe CP & Sanitaryware, Concealed Plumbing, Designer Wall Tiles"
-      },
-      {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Schneider / Legrand Modular Switches"
-      },
-      {
-        "label": "Doors Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows with Mosquito Mesh"
+        "label": "MahaRERA ID",
+        "value": "P52100056358"
       }
     ],
     "highlights": [
@@ -18735,7 +18735,7 @@ export const PROJECTS: Project[] = [
       "Allotment directly from Kohinoor Group developer inventory"
     ],
     "reraId": "P52100056358",
-    "pricePerSqft": 7800,
+    "pricePerSqft": 9930,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Authorized Developer Partner",
     "seoKeywords": [
@@ -18894,67 +18894,35 @@ export const PROJECTS: Project[] = [
     "city": "Pune",
     "configurationDetails": [
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "725 sq.ft",
-        "priceRange": "\u20b980.50 L"
+        "type": "2 BHK",
+        "carpetArea": "725 - 845 sq.ft.",
+        "priceRange": "\u20b972 L - \u20b985 L"
       },
       {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "725 sq.ft",
-        "priceRange": "\u20b980.50 L"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "796 sq.ft",
-        "priceRange": "\u20b986.00 L"
-      },
-      {
-        "type": "2 BHK Luxury Unit",
-        "carpetArea": "803 sq.ft",
-        "priceRange": "\u20b986.90 L"
-      },
-      {
-        "type": "3 BHK Luxury Unit",
-        "carpetArea": "894 sq.ft",
-        "priceRange": "\u20b997.00 L"
-      },
-      {
-        "type": "3 BHK Luxury Unit",
-        "carpetArea": "955 sq.ft",
-        "priceRange": "\u20b91.03 Cr"
+        "type": "3 BHK",
+        "carpetArea": "980 - 1,087 sq.ft.",
+        "priceRange": "\u20b998 L - \u20b91.15 Cr"
       }
     ],
     "images": [
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ce817e1a-9486-4d36-bc59-070a9ff2026a/gallery/mv6loyl1-89vpg9.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ce817e1a-9486-4d36-bc59-070a9ff2026a/gallery/mv6lp1b2-b7k5mx.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ce817e1a-9486-4d36-bc59-070a9ff2026a/gallery/mv6lp4s8-bzs2us.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/ce817e1a-9486-4d36-bc59-070a9ff2026a/gallery/mv6lp8e7-f7pfkq.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/40461eb8-5661-4748-b8ed-9686540b3bb5/gallery/mtps6fw4-8epblm.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/40461eb8-5661-4748-b8ed-9686540b3bb5/gallery/mtps6id0-csjw3c.webp"
+      "https://iamkohinoor.com//media/685054a5e7861_overview-img-28-5.webp",
+      "https://iamkohinoor.com//media/6850552909d16_amenities-3(1).webp",
+      "https://iamkohinoor.com//media/68505542bdae8_amenities-4(1).webp",
+      "https://iamkohinoor.com//media/685055a6cd927_amenities-2(1).webp",
+      "https://iamkohinoor.com//media/6852b334a3d8b_1.webp",
+      "https://iamkohinoor.com//media/6852b34c741c9_2.webp",
+      "https://iamkohinoor.com//media/6852b35f82c6d_3.webp"
     ],
     "heroImageAlt": "Kohinoor Central Park \u2013 0 by b-kohinoor in Hinjewadi, Pune",
     "imageAlt": "Kohinoor Central Park \u2013 0 Architecture in Hinjewadi",
     "amenities": [
-      "Banquet Hall",
-      "Club house",
-      "Fitness Corner",
-      "Gym",
-      "Jogging Track",
-      "Kids Play Area",
-      "Sports Courts",
-      "Swimming Pool",
-      "Yoga Zone",
-      "24*7 Water",
-      "Gas Pipeline",
-      "Gated Society",
-      "Internet / WiFi",
-      "Lift",
-      "Low Density Society",
-      "No open drainage around",
-      "Parking",
-      "Power Back Up",
-      "RWH",
-      "Security System"
+      "Central Green Park & Urban Forest",
+      "Club Central with Infinity Pool",
+      "Indoor Badminton & Squash Courts",
+      "Coworking Pods & Business Lounge",
+      "Children's Thematic Adventure Area",
+      "Jogging & Cycling Track",
+      "24/7 Security & CCTV Monitoring"
     ]
   },
   {
@@ -37334,40 +37302,40 @@ export const PROJECTS: Project[] = [
   },
   {
     "id": "p-kohinoor-kaleido-wagholi",
-    "title": "Kohinoor Kaleido",
-    "slug": "kohinoor-kaleido-wagholi",
+    "title": "Kohinoor Kaleido Phase 2",
+    "slug": "kohinoor-kaleido-phase-2",
     "builderId": "b-kohinoor",
     "location": "Wagholi",
     "city": "Pune",
-    "priceRange": "\u20b91.05 Cr - \u20b91.45 Cr",
-    "exactPrice": "\u20b91.05 Cr",
+    "priceRange": "\u20b968 L - \u20b91.28 Cr",
+    "exactPrice": "\u20b968 L",
     "configurations": [
       "2 BHK",
       "3 BHK"
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "950 sq.ft",
-        "priceRange": "\u20b91.05 Cr"
+        "type": "2 BHK",
+        "carpetArea": "740 - 815 sq.ft.",
+        "priceRange": "\u20b968 L - \u20b977 L"
       },
       {
-        "type": "3 BHK Premium",
-        "carpetArea": "1250 sq.ft",
-        "priceRange": "\u20b91.45 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1,040 - 1,359 sq.ft.",
+        "priceRange": "\u20b998 L - \u20b91.28 Cr"
       }
     ],
-    "status": "New Launch",
+    "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "Dec 2027",
-    "image": "https://keystoneliv.com/public/uploads/property/CmDFE12nnFIgAUpMaBjxRl9fnigcnkgzhwmPsgEZ.webp",
-    "heroImage": "https://keystoneliv.com/public/uploads/property/CmDFE12nnFIgAUpMaBjxRl9fnigcnkgzhwmPsgEZ.webp",
+    "possessionDate": "2028",
+    "image": "https://iamkohinoor.com//media/69ef0da9cd1ec_kaleidooverviewimage.jpg",
+    "heroImage": "https://iamkohinoor.com//media/69ef0da9cd1ec_kaleidooverviewimage.jpg",
     "masterLayout": "https://keystoneliv.com/public/uploads/property/dUBwkAaG7EfnFh6NDymuNR5UNLD1e3QTLxUcN08I.webp",
     "floorPlans": [
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/16842408651386924750.jpg",
       "https://www.koltepatil.com/assets/uploads/project_floor_plan/base_image/17745433251655516424.jpg"
     ],
-    "description": "Kohinoor Kaleido by Kohinoor Group is a premium residential development situated in the strategic corridor of Wagholi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100046027 with 100% zero brokerage and direct developer sales support through PROPSMART REALTY.",
+    "description": "Kohinoor Kaleido Phase 2 in Wagholi / New Kharadi spans 14 acres with 7 grand towers. Offering urban 2 & 3 Bed homes equipped with 35+ lifestyle amenities and seamless access to Kharadi IT hub.",
     "features": [
       "Designer Clubhouse",
       "Infinity Swimming Pool",
@@ -37380,28 +37348,20 @@ export const PROJECTS: Project[] = [
     ],
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake Resistant RCC Shear Wall Structure"
+        "label": "Land Parcel",
+        "value": "14 Acres"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms"
+        "label": "Towers & Floors",
+        "value": "7 Towers | 28 Floors"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite Kitchen Platform with Stainless Steel Sink & Piped Gas"
+        "label": "Carpet Range",
+        "value": "740 - 1,359 sq.ft."
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Branded CP & Sanitary Fittings with Concealed Plumbing"
-      },
-      {
-        "label": "Electrical",
-        "value": "Concealed Fire-Resistant Copper Wiring with Modular Switches"
-      },
-      {
-        "label": "Doors & Windows",
-        "value": "Laminated Flush Doors; Powder Coated Aluminum Sliding Windows"
+        "label": "MahaRERA ID",
+        "value": "P52100078107"
       }
     ],
     "highlights": [
@@ -37409,8 +37369,8 @@ export const PROJECTS: Project[] = [
       "Strategically located in Wagholi with seamless transit connectivity",
       "Official MahaRERA approved (P52100046027) with assured on-time delivery"
     ],
-    "reraId": "P52100046027",
-    "pricePerSqft": 8800,
+    "reraId": "P52100078107",
+    "pricePerSqft": 9190,
     "verificationStatus": "Verified",
     "verificationSource": "MahaRERA Official Records",
     "seoKeywords": [
@@ -37422,15 +37382,11 @@ export const PROJECTS: Project[] = [
     ],
     "metaDescription": "Explore Kohinoor Kaleido in Wagholi, Pune by Kohinoor Group. Offering 2 BHK, 3 BHK starting at \u20b91.05 Cr. 100% zero brokerage through PROPSMART REALTY.",
     "images": [
-      "https://keystoneliv.com/public/uploads/property/CmDFE12nnFIgAUpMaBjxRl9fnigcnkgzhwmPsgEZ.webp",
-      "https://keystoneliv.com/public/uploads/property/AEV4Alkp45KgjGoLG3i2wOtoKOjfuY7T0aplVMNP.webp",
-      "https://keystoneliv.com/public/uploads/property/q5AHQmgzPmHHJpiGmkjETlcn8wnVNDWB11vSWkcy.webp",
-      "https://keystoneliv.com/public/uploads/property/3IXVm0CGbGygZ1umE9EqC4B0hP5Box6NNUOWrnMR.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/298a78c9-04ef-4f5d-b320-399b199526a8/gallery/mtsbh44w-fgimh1.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/298a78c9-04ef-4f5d-b320-399b199526a8/gallery/mtsbh2eq-bavjgk.webp"
+      "https://iamkohinoor.com//media/69ef0da9cd1ec_kaleidooverviewimage.jpg",
+      "https://iamkohinoor.com//media/6953f5304cce8_rerakaleidophase2.jpg"
     ],
-    "lat": 18.579,
-    "lng": 73.977,
+    "lat": 18.58,
+    "lng": 73.98,
     "faqs": [
       {
         "question": "Where is Kohinoor Kaleido located?",
@@ -37456,14 +37412,11 @@ export const PROJECTS: Project[] = [
     "heroImageAlt": "Kohinoor Kaleido by b-kohinoor in Wagholi, Pune",
     "imageAlt": "Kohinoor Kaleido Architecture in Wagholi",
     "amenities": [
-      "Designer Clubhouse",
-      "Infinity Swimming Pool",
-      "Fully Equipped Gymnasium",
-      "Children's Play Enclave",
-      "Landscaped Green Parks",
-      "24/7 Multi-Tier Security",
-      "Multipurpose Sports Court",
-      "EV Charging Stations"
+      "Grand Central Clubhouse",
+      "Rooftop Swimming Pool",
+      "Fitness Center & Crossfit Arena",
+      "Tennis & Badminton Courts",
+      "Kids Thematic Play Arena"
     ]
   },
   {
@@ -64441,26 +64394,23 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b996.00 L - \u20b91.40 Cr",
-    "exactPrice": "\u20b996.00 L",
-    "pricePerSqft": 12500,
+    "priceRange": "\u20b976 L - \u20b91.18 Cr",
+    "exactPrice": "\u20b976 L",
+    "pricePerSqft": 9900,
     "configurations": [
       "2 BHK",
       "3 BHK"
     ],
-    "status": "New Launch",
+    "status": "Under Construction",
     "type": "Residential",
     "possessionDate": "2027",
-    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/e81265a5-251b-4a3a-a375-58d79aafeef5/gallery/mt8o8wcq-ezbdr1.webp",
+    "image": "https://iamkohinoor.com//media/6a05bee56c1ca_royaletowers.jpg",
     "images": [
-      "https://punehome.in/storage/v1/object/public/project-media/projects/e81265a5-251b-4a3a-a375-58d79aafeef5/gallery/mt8o8wcq-ezbdr1.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/e81265a5-251b-4a3a-a375-58d79aafeef5/gallery/mt8o8ye6-8mgbbt.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/e81265a5-251b-4a3a-a375-58d79aafeef5/gallery/mt8o905d-cv3ftv.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/e81265a5-251b-4a3a-a375-58d79aafeef5/gallery/mt8o91wr-arh9jd.webp",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      "https://iamkohinoor.com//media/6a05bee56c1ca_royaletowers.jpg",
+      "https://iamkohinoor.com//media/6954b6c8b0c58_0190-blueridgehinjewadi-ext08.jpg",
+      "https://iamkohinoor.com//media/6954b6e57b8b1_state-of-the-art-gym-0190-blueridgehinjewadi-21.jpg"
     ],
-    "description": "New Launch Kohinoor Royale Towers in Hinjewadi offers premium 2 & 3 BHK residences thoughtfully designed for modern urban living. Spread across a 2.5-acre land parcel with 2 elegant towers, the project features spacious homes, lifestyle amenities, landscaped open spaces, and excellent connectivity to Hinjewadi IT Park and major city destinations. Starting from \u20b996 Lakhs onwards, Kohinoor Royale Towers is an ideal choice for homebuyers and investors seeking luxury, comfort.",
+    "description": "Kohinoor Royale Towers in Hinjewadi Phase 1 features 2 exclusive high-rise towers across 3 acres. Designed for modern tech professionals with zero transit to prime IT campuses.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -64479,28 +64429,20 @@ export const PROJECTS: Project[] = [
     ],
     "specs": [
       {
-        "label": "Project Status",
-        "value": "New Launch"
+        "label": "Land Parcel",
+        "value": "3 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "2 Towers | 29 Floors"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "768 - 1,083 sq.ft."
       },
       {
         "label": "MahaRERA ID",
-        "value": "PR1260002501033"
-      },
-      {
-        "label": "Direct Starting Price",
-        "value": "\u20b996 L"
-      },
-      {
-        "label": "Configurations",
-        "value": "2 BHK, 3 BHK"
-      },
-      {
-        "label": "Possession Date",
-        "value": "2027"
-      },
-      {
-        "label": "Micro-Market",
-        "value": "Hinjewadi, Pune"
+        "value": "P52100061033"
       }
     ],
     "reraId": "P52100061033",
@@ -64514,17 +64456,17 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "2 BHK",
-        "carpetArea": "750 sq.ft",
-        "priceRange": "\u20b996.00 L"
+        "carpetArea": "768 - 825 sq.ft.",
+        "priceRange": "\u20b976 L - \u20b984 L"
       },
       {
         "type": "3 BHK",
-        "carpetArea": "1061 sq.ft",
-        "priceRange": "\u20b91.40 Cr"
+        "carpetArea": "990 - 1,083 sq.ft.",
+        "priceRange": "\u20b91.02 Cr - \u20b91.18 Cr"
       }
     ],
-    "lat": 18.5935,
-    "lng": 73.736,
+    "lat": 18.5912,
+    "lng": 73.7389,
     "faqs": [
       {
         "question": "Where is Kohinoor Royale Towers located?",
@@ -64547,18 +64489,15 @@ export const PROJECTS: Project[] = [
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
     ],
-    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/e81265a5-251b-4a3a-a375-58d79aafeef5/gallery/mt8o8wcq-ezbdr1.webp",
+    "heroImage": "https://iamkohinoor.com//media/6a05bee56c1ca_royaletowers.jpg",
     "heroImageAlt": "Kohinoor Royale Towers by b-kohinoor in Hinjewadi, Pune",
     "imageAlt": "Kohinoor Royale Towers Architecture in Hinjewadi",
     "amenities": [
-      "CCTV Surveillance",
-      "Clubhouse",
-      "Gymnasium",
-      "Rainwater Harvesting",
-      "Sports Court",
-      "Jogging Track",
-      "Swimming Pool",
-      "Power Backup"
+      "Sky Terrace Lounge",
+      "Infinity Pool & Jacuzzi",
+      "Modern Gym & Yoga Studio",
+      "Tennis & Badminton Courts",
+      "Children's Play Park"
     ]
   },
   {
@@ -79070,9 +79009,9 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Mahalunge",
     "city": "Pune",
-    "priceRange": "\u20b91.40 Cr - \u20b92.99 Cr",
-    "exactPrice": "\u20b91.40 Cr",
-    "pricePerSqft": 12488,
+    "priceRange": "\u20b91.48 Cr - \u20b93.35 Cr",
+    "exactPrice": "\u20b91.48 Cr",
+    "pricePerSqft": 13200,
     "configurations": [
       "3 BHK",
       "4 BHK",
@@ -79080,16 +79019,19 @@ export const PROJECTS: Project[] = [
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "2027",
-    "image": "https://punehome.in/storage/v1/object/public/project-media/projects/4171187c-4154-4224-bb36-819a03add6a9/gallery/mtsfd6jj-45jf27.webp",
+    "possessionDate": "2028",
+    "image": "https://iamkohinoor.com//media/68667c95d42d6_satori-overview-1.webp",
     "images": [
-      "https://punehome.in/storage/v1/object/public/project-media/projects/4171187c-4154-4224-bb36-819a03add6a9/gallery/mtsfd6jj-45jf27.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/4171187c-4154-4224-bb36-819a03add6a9/gallery/mtsfdc4f-nx7l2.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/4171187c-4154-4224-bb36-819a03add6a9/gallery/mtsfdisk-1l0m6.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/4171187c-4154-4224-bb36-819a03add6a9/gallery/mtsfdl2m-agjyu6.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/4171187c-4154-4224-bb36-819a03add6a9/gallery/mtsfdn55-27rkup.webp"
+      "https://iamkohinoor.com//media/68667c95d42d6_satori-overview-1.webp",
+      "https://iamkohinoor.com//media/6850d5936cf95_satori-walkthrough.webp",
+      "https://iamkohinoor.com//media/6a48e70077db9_image.jpg",
+      "https://iamkohinoor.com//media/684ffe154c475_1(1).webp",
+      "https://iamkohinoor.com//media/68500295dec01_2(1).webp",
+      "https://iamkohinoor.com//media/685002bdebe55_3.webp",
+      "https://iamkohinoor.com//media/685002dda694a_4.webp",
+      "https://iamkohinoor.com//media/6850030243a03_5.webp"
     ],
-    "description": "Kohinoor Satori is a premium twin-tower residential project by Kohinoor Group, located in New Baner, Mahalunge, Pune. Offering spacious 3, 4, and 4.5 BHK apartments, the project blends luxury, serenity, and modern amenities to create a refined living experience. With excellent connectivity to Hinjewadi IT Park, Pune-Mumbai Expressway, and key urban conveniences, Kohinoor Satori promises a well-connected, elegant lifestyle in one of Pune\u2019s most sought-after neighborhoods.",
+    "description": "Kohinoor Satori is a sanctuary of zen-inspired luxury in New Baner-Mahalunge by Kohinoor Group. Spread across 6.04 acres with 7 grand towers, it offers expansive 3, 4 & 4.5 'Legacy Edition' automated homes where lush green surroundings meet Kohinoor's iconic 'Sada Sukhi Raho' philosophy.",
     "features": [
       "CCTV Surveillance",
       "Clubhouse",
@@ -79108,28 +79050,20 @@ export const PROJECTS: Project[] = [
     ],
     "specs": [
       {
-        "label": "Project Status",
-        "value": "Under Construction"
+        "label": "Land Parcel",
+        "value": "6.04 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "7 Towers | 28 Floors"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "1,121 - 2,326 sq.ft."
       },
       {
         "label": "MahaRERA ID",
         "value": "P52100066472"
-      },
-      {
-        "label": "Direct Starting Price",
-        "value": "\u20b91.40 Cr"
-      },
-      {
-        "label": "Configurations",
-        "value": "3 BHK, 4 BHK, 4.5 BHK"
-      },
-      {
-        "label": "Possession Date",
-        "value": "2027"
-      },
-      {
-        "label": "Micro-Market",
-        "value": "Mahalunge, Pune"
       }
     ],
     "reraId": "P52100066472",
@@ -79144,22 +79078,22 @@ export const PROJECTS: Project[] = [
     "configurationDetails": [
       {
         "type": "3 BHK",
-        "carpetArea": "1073 sq.ft",
-        "priceRange": "\u20b91.40 Cr"
+        "carpetArea": "1,121 - 1,285 sq.ft.",
+        "priceRange": "\u20b91.48 Cr - \u20b91.72 Cr"
       },
       {
         "type": "4 BHK",
-        "carpetArea": "1807 sq.ft",
-        "priceRange": "\u20b93.08 Cr - \u20b93.92 Cr"
+        "carpetArea": "1,680 - 1,850 sq.ft.",
+        "priceRange": "\u20b92.25 Cr - \u20b92.55 Cr"
       },
       {
         "type": "4.5 BHK",
-        "carpetArea": "1831 sq.ft",
-        "priceRange": "\u20b92.99 Cr"
+        "carpetArea": "2,250 - 2,326 sq.ft.",
+        "priceRange": "\u20b93.10 Cr - \u20b93.35 Cr"
       }
     ],
-    "lat": 18.5694,
-    "lng": 73.7479,
+    "lat": 18.5772,
+    "lng": 73.7438,
     "faqs": [
       {
         "question": "Where is Kohinoor Satori located?",
@@ -79182,18 +79116,18 @@ export const PROJECTS: Project[] = [
         "answer": "The development features world-class lifestyle amenities including CCTV Surveillance, Clubhouse, Gymnasium, Rainwater Harvesting, Sports Court, multi-tier security systems, and high-speed elevators."
       }
     ],
-    "heroImage": "https://punehome.in/storage/v1/object/public/project-media/projects/4171187c-4154-4224-bb36-819a03add6a9/gallery/mtsfd6jj-45jf27.webp",
+    "heroImage": "https://iamkohinoor.com//media/68667c95d42d6_satori-overview-1.webp",
     "heroImageAlt": "Kohinoor Satori by b-kohinoor in Mahalunge, Pune",
     "imageAlt": "Kohinoor Satori Architecture in Mahalunge",
     "amenities": [
-      "CCTV Surveillance",
-      "Clubhouse",
-      "Gymnasium",
-      "Rainwater Harvesting",
-      "Sports Court",
-      "Jogging Track",
-      "Swimming Pool",
-      "Power Backup"
+      "Zen-Themed Landscaped Gardens",
+      "Olympic-Length Temperature Controlled Pool",
+      "Exclusive Sky Club & Meditation Deck",
+      "Advanced Smart Home Automation",
+      "Multi-Tier Biometric Security",
+      "Children's Sensory Play Arena",
+      "Designer Banquet Hall & Private Dining",
+      "EV Fast Charging Stations"
     ]
   },
   {
@@ -107831,8 +107765,8 @@ export const PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Punawale",
     "city": "Pune",
-    "priceRange": "\u20b964.00 L - \u20b91.35 Cr",
-    "exactPrice": "\u20b964.00 L",
+    "priceRange": "\u20b972 L - \u20b91.18 Cr",
+    "exactPrice": "\u20b972 L",
     "priceType": "L",
     "configurations": [
       "2 BHK",
@@ -107840,38 +107774,30 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "2 BHK Nature View",
-        "carpetArea": "705 sq.ft",
-        "priceRange": "\u20b964 L - \u20b978 L"
+        "type": "2 BHK",
+        "carpetArea": "798 - 845 sq.ft.",
+        "priceRange": "\u20b972 L - \u20b979 L"
       },
       {
-        "type": "2 BHK Grande",
-        "carpetArea": "770 sq.ft",
-        "priceRange": "\u20b974 L - \u20b988 L"
-      },
-      {
-        "type": "3 BHK Forest Suite",
-        "carpetArea": "995 sq.ft",
-        "priceRange": "\u20b91.35 Cr"
+        "type": "3 BHK",
+        "carpetArea": "1,050 - 1,244 sq.ft.",
+        "priceRange": "\u20b998 L - \u20b91.18 Cr"
       }
     ],
     "status": "Under Construction",
     "type": "Residential",
-    "possessionDate": "Jun 2026",
-    "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1920&q=80",
+    "possessionDate": "2026",
+    "image": "https://iamkohinoor.com//media/696b17018afa9_kohinoorwestviewreserve.jpg",
+    "heroImage": "https://iamkohinoor.com//media/696b17018afa9_kohinoorwestviewreserve.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/bf83785b-7b34-4206-a1c4-1a538a8ce57a/gallery/mvu1ap2f-cfxkcr.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/bf83785b-7b34-4206-a1c4-1a538a8ce57a/gallery/mvu1ap4f-dt0yxk.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/bf83785b-7b34-4206-a1c4-1a538a8ce57a/gallery/mvu1ap6n-4n96j4.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/bf83785b-7b34-4206-a1c4-1a538a8ce57a/gallery/mvu1ap8o-bm2owm.webp",
-      "https://punehome.in/storage/v1/object/public/project-media/projects/bf83785b-7b34-4206-a1c4-1a538a8ce57a/gallery/mvu1apat-3nvpoh.webp"
+      "https://iamkohinoor.com//media/696b17018afa9_kohinoorwestviewreserve.jpg",
+      "https://iamkohinoor.com//media/68565fe8e89c0_frame1100377344.webp",
+      "https://iamkohinoor.com//media/6850552909d16_amenities-3(1).webp"
     ],
-    "lat": 18.631,
-    "lng": 73.742,
+    "lat": 18.6315,
+    "lng": 73.746,
     "reraId": "P52100048589",
-    "description": "Kohinoor Westview Reserve in Punawale, West Pune is nestled against forest greens. Spanning 10+ acres with boardwalk trails, reflexology paths, and minutes from Pune-Mumbai Expressway and Hinjewadi IT hub.",
+    "description": "Kohinoor Westview Reserve in Punawale / New Wakad spans 10 grand acres featuring 7 residential towers bordered by scenic nature reserves. Offering 2 & 3 BHK nature-rich homes with resort-style podium amenities.",
     "features": [
       "Nature-Centric 10-Acre Master Township",
       "Expressway Gateway Access",
@@ -107880,11 +107806,11 @@ export const PROJECTS: Project[] = [
       "Sada Sukhi Raho Warranty"
     ],
     "amenities": [
-      "Forest Boardwalk",
-      "Clubhouse",
-      "Infinity Edge Pool",
-      "Open Gym",
-      "Tennis Court"
+      "Resort-Inspired Swimming Pool",
+      "Club Westview & Banquet Hall",
+      "Multi-Tier Security & Biometrics",
+      "Tree-Lined Walking Trails",
+      "Children's Play Zone"
     ],
     "totalAcres": "10 Acres",
     "totalFloors": "24 Floors",
@@ -107896,7 +107822,7 @@ export const PROJECTS: Project[] = [
     ],
     "verificationStatus": "Verified",
     "featured": true,
-    "pricePerSqft": 9078,
+    "pricePerSqft": 9020,
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp",
       "https://keystoneliv.com/public/uploads/property/image (81).webp"
@@ -107904,28 +107830,20 @@ export const PROJECTS: Project[] = [
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+        "label": "Land Parcel",
+        "value": "10 Acres"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+        "label": "Towers & Floors",
+        "value": "7 Towers | 22 Floors"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+        "label": "Carpet Range",
+        "value": "798 - 1,244 sq.ft."
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
-      },
-      {
-        "label": "Electrical",
-        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
-      },
-      {
-        "label": "Doors & Windows",
-        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+        "label": "MahaRERA ID",
+        "value": "P52100048589"
       }
     ],
     "faqs": [
@@ -111211,13 +111129,13 @@ export const PROJECTS: Project[] = [
   },
   {
     "id": "p-kohinoor-abhimaan-talegaon",
-    "title": "Kohinoor Abhimaan",
+    "title": "Kohinoor Abhimaan Homes",
     "slug": "kohinoor-abhimaan-talegaon-pune",
     "builderId": "b-kohinoor",
     "location": "Talegaon Dabhade",
     "city": "Pune",
-    "priceRange": "\u20b928.00 L - \u20b948.00 L",
-    "exactPrice": "\u20b928.00 L",
+    "priceRange": "\u20b928 L - \u20b945 L",
+    "exactPrice": "\u20b928 L",
     "priceType": "L",
     "configurations": [
       "1 BHK",
@@ -111225,33 +111143,29 @@ export const PROJECTS: Project[] = [
     ],
     "configurationDetails": [
       {
-        "type": "1 BHK Township",
-        "carpetArea": "420 sq.ft",
-        "priceRange": "\u20b928 L - \u20b934 L"
+        "type": "1 BHK",
+        "carpetArea": "447 - 485 sq.ft.",
+        "priceRange": "\u20b928 L - \u20b932 L"
       },
       {
-        "type": "2 BHK Township",
-        "carpetArea": "640 sq.ft",
-        "priceRange": "\u20b948.00 L"
+        "type": "2 BHK",
+        "carpetArea": "590 - 649 sq.ft.",
+        "priceRange": "\u20b939 L - \u20b945 L"
       }
     ],
-    "status": "Under Construction",
+    "status": "Ready to Move",
     "type": "Residential",
-    "possessionDate": "Dec 2026",
-    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+    "possessionDate": "Ready to Move",
+    "image": "https://iamkohinoor.com//media/695b79f557d47_abhimaan.jpg",
+    "heroImage": "https://iamkohinoor.com//media/695b79f557d47_abhimaan.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
-      "https://keystoneliv.com/public/uploads/property/naU6Ftht3sLHPndXJ1BDOd0MBFugUyMu0B32FZyO.webp",
-      "https://keystoneliv.com/public/uploads/property/ozTB4XODdBQeqGDmSjJ9UEPdq2M8vHjJj5zZK3pB.webp",
-      "https://keystoneliv.com/public/uploads/property/10EDARqP5amjPabTAp0nc33Wef1F7CrMp37tQhSP.webp",
-      "https://keystoneliv.com/public/uploads/property/9QSvdpBVQcRA9ABgjNfHXdLD8GpbbzQXsW9OlEb7.webp",
-      "https://keystoneliv.com/public/uploads/property/ByYt4cju0mAa243xiYGkSFBnG4OPoJfO0NqnVL4K.webp"
+      "https://iamkohinoor.com//media/695b79f557d47_abhimaan.jpg",
+      "https://iamkohinoor.com//media/68517d348d271_kohinoor_abhimaan_homes_09.webp"
     ],
     "lat": 18.73,
     "lng": 73.68,
-    "reraId": "P52100032115",
-    "description": "Kohinoor Abhimaan in Talegaon Dabhade is a mega-township offering modern 1 and 2 BHK affordable homes surrounded by pleasant green hills and clean mountain air.",
+    "reraId": "P52100032485",
+    "description": "Kohinoor Abhimaan Homes in Shirgaon / Talegaon Dabhade offers pocket-friendly 1 & 2 BHK homes with complete lifestyle amenities, excellent connectivity to Mumbai-Pune Expressway and Talegaon MIDC industrial belt.",
     "features": [
       "20+ Acre Master Planned Township",
       "Opposite Old Mumbai-Pune Highway",
@@ -111259,11 +111173,11 @@ export const PROJECTS: Project[] = [
       "Zero Brokerage"
     ],
     "amenities": [
-      "Grand Clubhouse",
-      "Swimming Pool",
-      "Cricket Pitch",
-      "Skating Rink",
-      "Gardens"
+      "Clubhouse & Fully Equipped Gym",
+      "Swimming Pool & Kids Splash Pool",
+      "Landscaped Green Gardens",
+      "Indoor Games Room & Table Tennis",
+      "Children's Play Arena"
     ],
     "totalAcres": "22.0 Acres",
     "totalFloors": "14 Floors",
@@ -111275,7 +111189,7 @@ export const PROJECTS: Project[] = [
     ],
     "verificationStatus": "Verified",
     "featured": false,
-    "pricePerSqft": 6667,
+    "pricePerSqft": 6260,
     "floorPlans": [
       "https://keystoneliv.com/public/uploads/property/image (83).webp",
       "https://keystoneliv.com/public/uploads/property/rdsxoqHOempJin3l6XPR603VLNKkXfr4ubFlujW4.webp"
@@ -111283,28 +111197,20 @@ export const PROJECTS: Project[] = [
     "masterLayout": "https://www.vtprealty.in/images/project/project-details/earth-one-by-vtp-luxe-mahalunge-pune/Earth_One_Master_Plan_307e5f524c.webp",
     "specs": [
       {
-        "label": "Structure",
-        "value": "Earthquake resistant RCC shear wall frame designed for seismic zone III"
+        "label": "Land Parcel",
+        "value": "3.81 Acres"
       },
       {
-        "label": "Flooring",
-        "value": "800x800mm imported glazed vitrified tiles in living, dining and master suites"
+        "label": "Towers & Floors",
+        "value": "5 Towers"
       },
       {
-        "label": "Kitchen",
-        "value": "Granite platform with stainless steel sink, piped gas provision and glazed dado"
+        "label": "Carpet Range",
+        "value": "447 - 649 sq.ft."
       },
       {
-        "label": "Bathrooms",
-        "value": "Premium Kohler / Grohe sanitaryware and CP fittings with solar water connection"
-      },
-      {
-        "label": "Electrical",
-        "value": "Concealed copper wiring with Schneider / Legrand modular switches and DG backup"
-      },
-      {
-        "label": "Doors & Windows",
-        "value": "Laminated engineered wooden doors and heavy-duty powder coated aluminum sliding windows with mosquito mesh"
+        "label": "MahaRERA ID",
+        "value": "P52100032485"
       }
     ],
     "faqs": [
@@ -127274,6 +127180,715 @@ export const PROJECTS: Project[] = [
       "Children's Thematic Outdoor Play Adventure Park",
       "Designer Banquet Hall & Sky Lounge",
       "100% DG Power Backup for Common Areas & Residences"
+    ]
+  },
+  {
+    "id": "p-kohinoor-riverdale",
+    "title": "Kohinoor Riverdale",
+    "slug": "kohinoor-riverdale",
+    "builderId": "b-kohinoor",
+    "location": "Kharadi",
+    "city": "Pune",
+    "priceRange": "\u20b975 L - \u20b91.22 Cr",
+    "exactPrice": "\u20b975 L",
+    "pricePerSqft": 10760,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "697 - 785 sq.ft.",
+        "priceRange": "\u20b975 L - \u20b986 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "890 - 989 sq.ft.",
+        "priceRange": "\u20b91.05 Cr - \u20b91.22 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "2028",
+    "image": "https://iamkohinoor.com//media/6870aa47d60a7_riverdale-overview.webp",
+    "heroImage": "https://iamkohinoor.com//media/6870aa47d60a7_riverdale-overview.webp",
+    "images": [
+      "https://iamkohinoor.com//media/6870aa47d60a7_riverdale-overview.webp",
+      "https://iamkohinoor.com//media/68518adc1bdc6_1.webp",
+      "https://iamkohinoor.com//media/68518ae8debca_2.webp",
+      "https://iamkohinoor.com//media/68518af32af30_3.webp",
+      "https://iamkohinoor.com//media/68518afd4673a_4.webp",
+      "https://iamkohinoor.com//media/68518b087c3b3_5.webp",
+      "https://iamkohinoor.com//media/685196b435171_2.webp"
+    ],
+    "lat": 18.5538,
+    "lng": 73.9472,
+    "reraId": "P52100056021",
+    "description": "Wake up to breathtaking river views at Kohinoor Riverdale in New Kharadi. Spread over 4.98 acres with 5 premium towers, Riverdale offers thoughtfully engineered 2 & 3 Bed riverside homes minutes away from EON Free Zone, World Trade Centre, and upcoming metro line.",
+    "amenities": [
+      "Riverside Promenade & Deck",
+      "Infinity Pool overlooking River",
+      "Signature Clubhouse & Gymnasium",
+      "Reflexology Walkway & Zen Garden",
+      "High-Speed Smart Elevators",
+      "Dedicated Pet Park & Kid's Play Zone"
+    ],
+    "specs": [
+      {
+        "label": "Land Parcel",
+        "value": "4.98 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "5 Towers | 25 Floors"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "697 - 989 sq.ft."
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100056021"
+      }
+    ]
+  },
+  {
+    "id": "p-kohinoor-woodshire",
+    "title": "Kohinoor Woodshire",
+    "slug": "kohinoor-woodshire",
+    "builderId": "b-kohinoor",
+    "location": "Bhugaon",
+    "city": "Pune",
+    "priceRange": "\u20b979 L - \u20b91.88 Cr",
+    "exactPrice": "\u20b979 L",
+    "pricePerSqft": 9950,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "794 - 840 sq.ft.",
+        "priceRange": "\u20b979 L - \u20b986 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1,040 - 1,180 sq.ft.",
+        "priceRange": "\u20b91.10 Cr - \u20b91.28 Cr"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1,420 - 1,546 sq.ft.",
+        "priceRange": "\u20b91.65 Cr - \u20b91.88 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "2028",
+    "image": "https://iamkohinoor.com//media/68786ea99739c_woodshire-overview-2.webp",
+    "heroImage": "https://iamkohinoor.com//media/68786ea99739c_woodshire-overview-2.webp",
+    "images": [
+      "https://iamkohinoor.com//media/68786ea99739c_woodshire-overview-2.webp",
+      "https://iamkohinoor.com//media/68503f61b9a85_woodshire.webp",
+      "https://iamkohinoor.com//media/687870b261f93_woodshire-amenity-2.webp",
+      "https://iamkohinoor.com//media/6878711d1d0bf_woodshire-amenities-1.webp",
+      "https://iamkohinoor.com//media/685198a8ebe76_gallery1.webp",
+      "https://iamkohinoor.com//media/685198b3ec8db_gallery2.webp",
+      "https://iamkohinoor.com//media/685198beba7c8_gallery3.webp",
+      "https://iamkohinoor.com//media/685198c85ae38_gallery4.webp"
+    ],
+    "lat": 18.502,
+    "lng": 73.754,
+    "reraId": "P52100078709",
+    "description": "Kohinoor Woodshire in Bhugaon near Bavdhan is a nature-inspired luxury residential retreat in West Pune. Nestled amidst rolling green hills across 3.77 acres with 5 towers, it offers peaceful 2, 3 & 4 Bed homes with clean air, forest trails, and city connectivity.",
+    "amenities": [
+      "Forest Themed Landscape Trails",
+      "Panoramic Valley View Clubhouse",
+      "Infinity Swimming Pool & Kids Pool",
+      "Open Air Amphitheatre",
+      "Yoga & Meditation Lawn",
+      "Modern Fitness Centre & Steam Room",
+      "Multipurpose Sports Court"
+    ],
+    "specs": [
+      {
+        "label": "Land Parcel",
+        "value": "3.77 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "5 Towers | 22 Floors"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "794 - 1,546 sq.ft."
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100078709"
+      }
+    ]
+  },
+  {
+    "id": "p-kohinoor-boulevard-towers",
+    "title": "Kohinoor Boulevard Towers",
+    "slug": "kohinoor-boulevard-towers---uptown-avenue",
+    "builderId": "b-kohinoor",
+    "location": "Punawale",
+    "city": "Pune",
+    "priceRange": "\u20b968 L - \u20b91.38 Cr",
+    "exactPrice": "\u20b968 L",
+    "pricePerSqft": 9400,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK",
+      "3 BHK",
+      "3 BHK Duplex"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "723 - 785 sq.ft.",
+        "priceRange": "\u20b968 L - \u20b976 L"
+      },
+      {
+        "type": "2.5 BHK",
+        "carpetArea": "875 - 920 sq.ft.",
+        "priceRange": "\u20b982 L - \u20b989 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1,050 - 1,120 sq.ft.",
+        "priceRange": "\u20b999 L - \u20b91.08 Cr"
+      },
+      {
+        "type": "3 BHK Duplex",
+        "carpetArea": "1,220 - 1,276 sq.ft.",
+        "priceRange": "\u20b91.25 Cr - \u20b91.38 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "2027",
+    "image": "https://iamkohinoor.com//media/6acc7e7955f05_overviewboulevard.jpg",
+    "heroImage": "https://iamkohinoor.com//media/6acc7e7955f05_overviewboulevard.jpg",
+    "images": [
+      "https://iamkohinoor.com//media/6acc7e7955f05_overviewboulevard.jpg",
+      "https://iamkohinoor.com//media/6851a1106f8ec_1.webp",
+      "https://iamkohinoor.com//media/6851a11ab8aba_2.webp",
+      "https://iamkohinoor.com//media/6851a1240d739_3.webp",
+      "https://iamkohinoor.com//media/6851a12d5f516_4.webp",
+      "https://iamkohinoor.com//media/6851a13803571_5.webp",
+      "https://iamkohinoor.com//media/6851a1496d3bd_1.webp"
+    ],
+    "lat": 18.6315,
+    "lng": 73.746,
+    "reraId": "P52100055120",
+    "description": "Kohinoor Boulevard Towers at Uptown Avenue in Punawale is a landmark 7.9-acre lifestyle hub in West Pune with 8 soaring towers. Offering premium 2, 2.5, 3 BHK & exclusive 3 BHK Duplex residences, seamlessly connected to Hinjewadi IT Park and Pune-Mumbai Expressway.",
+    "amenities": [
+      "Grand Central Boulevard & Plaza",
+      "Rooftop Infinity Edge Pool",
+      "Sky Lounges & Viewing Decks",
+      "High-Tech Fitness Centre",
+      "Squash Court & Indoor Games Arena",
+      "Kids Interactive Water Play Zone",
+      "EV Charging Network"
+    ],
+    "specs": [
+      {
+        "label": "Land Parcel",
+        "value": "7.90 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "8 Towers | 26 Floors"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "723 - 1,276 sq.ft."
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100055120"
+      }
+    ]
+  },
+  {
+    "id": "p-kohinoor-viva-pixel",
+    "title": "Kohinoor Viva Pixel",
+    "slug": "kohinoor-viva-pixel",
+    "builderId": "b-kohinoor",
+    "location": "Dhanori",
+    "city": "Pune",
+    "priceRange": "\u20b962 L - \u20b91.25 Cr",
+    "exactPrice": "\u20b962 L",
+    "pricePerSqft": 7950,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "780 - 845 sq.ft.",
+        "priceRange": "\u20b962 L - \u20b970 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1,037 - 1,115 sq.ft.",
+        "priceRange": "\u20b985 L - \u20b995 L"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1,240 - 1,280 sq.ft.",
+        "priceRange": "\u20b91.15 Cr - \u20b91.25 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "2027",
+    "image": "https://iamkohinoor.com//media/6853b80c10ba3_pixel-overview.webp",
+    "heroImage": "https://iamkohinoor.com//media/6853b80c10ba3_pixel-overview.webp",
+    "images": [
+      "https://iamkohinoor.com//media/6853b80c10ba3_pixel-overview.webp",
+      "https://iamkohinoor.com//media/6870a96dbcd7b_pixel-2-overview.webp",
+      "https://iamkohinoor.com//media/6852b63c963da_1.webp",
+      "https://iamkohinoor.com//media/6852b64b85100_2.webp",
+      "https://iamkohinoor.com//media/6852b657cf4bb_3.webp",
+      "https://iamkohinoor.com//media/6852b6645dba7_4.webp"
+    ],
+    "lat": 18.588,
+    "lng": 73.896,
+    "reraId": "P52100053030",
+    "description": "Kohinoor Viva Pixel in Dhanori features 6 residential towers offering smartly planned 2, 3 & 4 Bed homes with ultra-efficient carpet layouts, just minutes away from Pune International Airport, Viman Nagar, and Kalyani Nagar.",
+    "amenities": [
+      "Designer Swimming Pool & Deck",
+      "Club Pixel with Aerobics & Gym",
+      "Landscaped Party Lawn & Gazebo",
+      "Dedicated Senior Citizen Alcove",
+      "Children's Play Park & Sand Pit",
+      "Full Power Backup for Essential Services"
+    ],
+    "specs": [
+      {
+        "label": "Land Parcel",
+        "value": "3.41 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "6 Towers | 14 Floors"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "780 - 1,280 sq.ft."
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100053030 / P52100053308"
+      }
+    ]
+  },
+  {
+    "id": "p-kohinoor-regalia-towers",
+    "title": "Kohinoor Regalia Towers",
+    "slug": "kohinoor-regalia-towers",
+    "builderId": "b-kohinoor",
+    "location": "Wakad",
+    "city": "Pune",
+    "priceRange": "\u20b978 L - \u20b91.24 Cr",
+    "exactPrice": "\u20b978 L",
+    "pricePerSqft": 10540,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "740 - 810 sq.ft.",
+        "priceRange": "\u20b978 L - \u20b986 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "980 - 1,076 sq.ft.",
+        "priceRange": "\u20b91.08 Cr - \u20b91.24 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "2028",
+    "image": "https://iamkohinoor.com//media/694e701a1f594_0059-kohinoor-s.no.109-wakad-14.jpg",
+    "heroImage": "https://iamkohinoor.com//media/694e701a1f594_0059-kohinoor-s.no.109-wakad-14.jpg",
+    "images": [
+      "https://iamkohinoor.com//media/694e701a1f594_0059-kohinoor-s.no.109-wakad-14.jpg",
+      "https://iamkohinoor.com//media/694d1ad87ccdb_swimmingpool.jpeg",
+      "https://iamkohinoor.com//media/694d1af04811a_theatre.jpeg",
+      "https://iamkohinoor.com//media/694d1b04d075c_path.jpeg",
+      "https://iamkohinoor.com//media/694d1b1bdca76_cowrkingspace.jpeg"
+    ],
+    "lat": 18.5987,
+    "lng": 73.766,
+    "reraId": "P52100078271",
+    "description": "Kohinoor Regalia Towers in Downtown Wakad spans 3.5 acres with 2 premium high-rise towers. Offering 2 & 3 Bed homes with bespoke architecture, coworking hubs, and private movie theatre.",
+    "amenities": [
+      "Private Mini Movie Theatre",
+      "Executive Coworking Space",
+      "Temperature-Controlled Swimming Pool",
+      "Fitness Hub & Steam Room",
+      "Children's Sensory Play Ground"
+    ],
+    "specs": [
+      {
+        "label": "Land Parcel",
+        "value": "3.5 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "2 Towers | 24 Floors"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "740 - 1,076 sq.ft."
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100078271"
+      }
+    ]
+  },
+  {
+    "id": "p-kohinoor-avantara",
+    "title": "Kohinoor Avantara",
+    "slug": "kohinoor-avantara",
+    "builderId": "b-kohinoor",
+    "location": "Wakad",
+    "city": "Pune",
+    "priceRange": "\u20b979 L - \u20b91.35 Cr",
+    "exactPrice": "\u20b979 L",
+    "pricePerSqft": 11220,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "704 - 785 sq.ft.",
+        "priceRange": "\u20b979 L - \u20b989 L"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "980 - 1,087 sq.ft.",
+        "priceRange": "\u20b91.15 Cr - \u20b91.35 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "2027",
+    "image": "https://iamkohinoor.com//media/69e86f63d908b_anantara_podium_view_post_davantara.jpg",
+    "heroImage": "https://iamkohinoor.com//media/69e86f63d908b_anantara_podium_view_post_davantara.jpg",
+    "images": [
+      "https://iamkohinoor.com//media/69e86f63d908b_anantara_podium_view_post_davantara.jpg",
+      "https://iamkohinoor.com//media/69c767e56e170_anantara_podium_view_final_highres.jpg",
+      "https://iamkohinoor.com//media/69c767989acd0_25032026_post_highres.jpg",
+      "https://iamkohinoor.com//media/69c767c715ba7_25032026_v2_post_highres.jpg"
+    ],
+    "lat": 18.5987,
+    "lng": 73.766,
+    "reraId": "P52100061984",
+    "description": "Kohinoor Avantara in Downtown Wakad spans 8.66 acres featuring 8 iconic residential towers. Designed for modern luxury with panoramic podium vistas, smart homes, and unbeatable walkability to high-street retail and schools.",
+    "amenities": [
+      "Grand Elevated Podium Garden",
+      "Clubhouse Avantara with Olympic-length Pool",
+      "Fitness Hub & Aerobics Studio",
+      "Badminton & Multi-Sport Courts",
+      "Thematic Children's Play Arena"
+    ],
+    "specs": [
+      {
+        "label": "Land Parcel",
+        "value": "8.66 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "8 Towers | 28 Floors"
+      },
+      {
+        "label": "Carpet Range",
+        "value": "704 - 1,087 sq.ft."
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100061984"
+      }
+    ]
+  },
+  {
+    "id": "p-kohinoor-business-tower-mundhwa",
+    "title": "Kohinoor Business Tower",
+    "slug": "kohinoor-business-tower",
+    "builderId": "b-kohinoor",
+    "location": "Mundhwa",
+    "city": "Pune",
+    "priceRange": "\u20b965 L - \u20b98.50 Cr",
+    "exactPrice": "\u20b965 L",
+    "pricePerSqft": 14400,
+    "configurations": [
+      "Commercial Offices",
+      "Retail Spaces"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Boutique Offices",
+        "carpetArea": "450 - 850 sq.ft.",
+        "priceRange": "\u20b965 L - \u20b91.25 Cr"
+      },
+      {
+        "type": "Corporate Suites",
+        "carpetArea": "1,500 - 5,500 sq.ft.",
+        "priceRange": "\u20b92.20 Cr - \u20b98.50 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Commercial",
+    "possessionDate": "Ready to Move",
+    "image": "https://iamkohinoor.com//media/68c7c012df26c_1--121.webp",
+    "heroImage": "https://iamkohinoor.com//media/68c7c012df26c_1--121.webp",
+    "images": [
+      "https://iamkohinoor.com//media/68c7c012df26c_1--121.webp",
+      "https://iamkohinoor.com//media/68565d3812d56_frame1100377335.webp",
+      "https://iamkohinoor.com//media/68523182d8454_1.webp",
+      "https://iamkohinoor.com//media/6852318cc180e_2.webp",
+      "https://iamkohinoor.com//media/6852319669a27_3.webp"
+    ],
+    "lat": 18.535,
+    "lng": 73.923,
+    "reraId": "P52100049202",
+    "description": "Kohinoor Business Tower (KBT) at Koregaon Park Annexe / Mundhwa is a Grade-A commercial landmark across 0.92 acres with 16 floors. Featuring double-height air-conditioned lobbies, high-speed elevators, and high rental yield potential.",
+    "amenities": [
+      "Grand Triple-Height Entrance Lobby",
+      "High-Speed Destination Elevators",
+      "Ample Multi-Level Car Parking",
+      "100% Power Backup & Advanced Fire Safety",
+      "Cafeteria & Executive Breakout Zones"
+    ],
+    "specs": [
+      {
+        "label": "Land Parcel",
+        "value": "0.92 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "1 Tower | 16 Floors"
+      },
+      {
+        "label": "Usage",
+        "value": "Commercial Offices & High Street Retail"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100049202"
+      }
+    ]
+  },
+  {
+    "id": "p-kohinoor-business-tower-baner",
+    "title": "Kohinoor Business Tower Baner",
+    "slug": "kohinoor-business-tower---baner",
+    "builderId": "b-kohinoor",
+    "location": "Baner",
+    "city": "Pune",
+    "priceRange": "\u20b995 L - \u20b913.50 Cr",
+    "exactPrice": "\u20b995 L",
+    "pricePerSqft": 15800,
+    "configurations": [
+      "Commercial Offices",
+      "IT/ITES Spaces"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Smart Offices",
+        "carpetArea": "600 - 1,200 sq.ft.",
+        "priceRange": "\u20b995 L - \u20b91.95 Cr"
+      },
+      {
+        "type": "Corporate Floors",
+        "carpetArea": "2,000 - 8,000 sq.ft.",
+        "priceRange": "\u20b93.20 Cr - \u20b913.50 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Commercial",
+    "possessionDate": "2027",
+    "image": "https://iamkohinoor.com//media/687f8a62e4396_kbt-baner-ocerview.webp",
+    "heroImage": "https://iamkohinoor.com//media/687f8a62e4396_kbt-baner-ocerview.webp",
+    "images": [
+      "https://iamkohinoor.com//media/687f8a62e4396_kbt-baner-ocerview.webp",
+      "https://iamkohinoor.com//media/68565d63793fa_frame1100377336.webp",
+      "https://iamkohinoor.com//media/6853b4bf2f7a1_gallery1.webp",
+      "https://iamkohinoor.com//media/6853b4cc600e0_gallery2.webp"
+    ],
+    "lat": 18.559,
+    "lng": 73.7868,
+    "reraId": "P52100079205",
+    "description": "Kohinoor Business Tower Baner is an iconic Grade A commercial hub spanning 2.44 acres with 22 floors right on Baner Main Road. Tailored for corporate headquarters, IT conglomerates, and premium retail brands.",
+    "amenities": [
+      "LEED Certified Green Architecture",
+      "Grand Glass-Faceted Facade",
+      "High-Speed Smart Elevators",
+      "Rooftop Business Sky Lounge",
+      "Executive Meeting Rooms & Cafes"
+    ],
+    "specs": [
+      {
+        "label": "Land Parcel",
+        "value": "2.44 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "1 Tower | 22 Floors"
+      },
+      {
+        "label": "Usage",
+        "value": "Commercial Offices & Retail Showrooms"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100079205"
+      }
+    ]
+  },
+  {
+    "id": "p-kohinoor-world-tower-pimpri",
+    "title": "Kohinoor World Tower",
+    "slug": "kohinoor-world-tower",
+    "builderId": "b-kohinoor",
+    "location": "Pimpri Chinchwad",
+    "city": "Pune",
+    "priceRange": "\u20b975 L - \u20b96.80 Cr",
+    "exactPrice": "\u20b975 L",
+    "pricePerSqft": 15000,
+    "configurations": [
+      "Commercial Offices",
+      "Retail High-Street"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Commercial Offices",
+        "carpetArea": "500 - 3,500 sq.ft.",
+        "priceRange": "\u20b975 L - \u20b95.50 Cr"
+      },
+      {
+        "type": "High-Street Retail",
+        "carpetArea": "400 - 2,200 sq.ft.",
+        "priceRange": "\u20b91.10 Cr - \u20b96.80 Cr"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Commercial",
+    "possessionDate": "Ready to Move",
+    "image": "https://iamkohinoor.com//media/69ce1ae2a6408_newproject.jpg",
+    "heroImage": "https://iamkohinoor.com//media/69ce1ae2a6408_newproject.jpg",
+    "images": [
+      "https://iamkohinoor.com//media/69ce1ae2a6408_newproject.jpg",
+      "https://iamkohinoor.com//media/6852272db3112_1.webp",
+      "https://iamkohinoor.com//media/68522737a1f70_2.webp",
+      "https://iamkohinoor.com//media/68522741b5256_3.webp"
+    ],
+    "lat": 18.6279,
+    "lng": 73.8009,
+    "reraId": "P52100028796",
+    "description": "Kohinoor World Tower (KWT) in Pimpri is PCMC's premier integrated business destination directly on Old Mumbai-Pune Highway and adjacent to Pimpri Metro Station. Featuring 24 storeys of Grade-A office spaces and bustling high-street retail.",
+    "amenities": [
+      "Direct Pimpri Metro Station Walkway Access",
+      "Grand Air-Conditioned Central Atrium",
+      "Multi-Tier High-Speed Lift Banks",
+      "Integrated Food Court & High-Street Retail",
+      "Multi-Level Basement Parking for 1000+ Cars"
+    ],
+    "specs": [
+      {
+        "label": "Land Parcel",
+        "value": "2.22 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "1 Tower | 24 Floors"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Direct Metro Line Access"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100028796"
+      }
+    ]
+  },
+  {
+    "id": "p-kohinoor-world-tower-phase-2",
+    "title": "Kohinoor World Tower Phase 2",
+    "slug": "kohinoor-world-tower-phase-2",
+    "builderId": "b-kohinoor",
+    "location": "Pimpri Chinchwad",
+    "city": "Pune",
+    "priceRange": "\u20b91.20 Cr - \u20b99.80 Cr",
+    "exactPrice": "\u20b91.20 Cr",
+    "pricePerSqft": 15000,
+    "configurations": [
+      "Commercial Offices",
+      "IT Park Campuses"
+    ],
+    "configurationDetails": [
+      {
+        "type": "IT/Commercial Offices",
+        "carpetArea": "800 - 6,500 sq.ft.",
+        "priceRange": "\u20b91.20 Cr - \u20b99.80 Cr"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Commercial",
+    "possessionDate": "2028",
+    "image": "https://iamkohinoor.com//media/687f7ce625f53_kwt-pimpri-ph2.webp",
+    "heroImage": "https://iamkohinoor.com//media/687f7ce625f53_kwt-pimpri-ph2.webp",
+    "images": [
+      "https://iamkohinoor.com//media/687f7ce625f53_kwt-pimpri-ph2.webp",
+      "https://iamkohinoor.com//media/685553e5752b9_1.webp",
+      "https://iamkohinoor.com//media/685553ef1f4cf_2.webp",
+      "https://iamkohinoor.com//media/685553f6b70d4_3.webp"
+    ],
+    "lat": 18.6279,
+    "lng": 73.8009,
+    "reraId": "P52100066551",
+    "description": "Kohinoor World Tower Phase 2 expands the iconic KWT business district across 8.13 acres with 5 state-of-the-art corporate towers, setting a new benchmark for MNC headquarters in Pimpri Chinchwad.",
+    "amenities": [
+      "Campus Style IT/Corporate Infrastructure",
+      "Central Water Cascade & Plaza",
+      "LEED Gold Rated Green Standards",
+      "Rooftop Helipad & Sky Lounge",
+      "Extensive EV Charging Infrastructure"
+    ],
+    "specs": [
+      {
+        "label": "Land Parcel",
+        "value": "8.13 Acres"
+      },
+      {
+        "label": "Towers & Floors",
+        "value": "5 Towers | 24 Floors"
+      },
+      {
+        "label": "Usage",
+        "value": "MNC Corporate Headquarters & IT Parks"
+      },
+      {
+        "label": "MahaRERA ID",
+        "value": "P52100066551"
+      }
     ]
   }
 ];
