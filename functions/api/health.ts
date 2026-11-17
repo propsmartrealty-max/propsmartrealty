@@ -65,6 +65,11 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
             service: 'Cloudflare Workers AI Serverless Edge',
             status: context.env.AI ? 'active' : 'unbound'
         },
+        vectorize: {
+            service: 'Cloudflare Vectorize Semantic Search',
+            status: context.env.VECTORIZE ? 'active' : 'unbound',
+            index: 'propsmart-vector-search'
+        },
         security: {
             turnstile: Boolean(context.env.TURNSTILE_SECRET_KEY),
             hardenedHeaders: true,

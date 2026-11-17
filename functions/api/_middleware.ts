@@ -7,6 +7,7 @@ export interface Env {
     PRICE_KV?: KVNamespace;
     CRON_KV?: KVNamespace;
     AI?: any;
+    VECTORIZE?: any;
     ENVIRONMENT?: string;
     ADMIN_SECRET?: string;
     ADMIN_BOOTSTRAP_PASSWORD?: string;

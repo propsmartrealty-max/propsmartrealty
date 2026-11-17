@@ -54,11 +54,8 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
             return jsonResponse({ error: 'Too many submissions. Please wait a few minutes before submitting another inquiry.' }, 429);
         }
 
-        // If Turnstile secret is configured, enforce bot defense
-        if (context.env.TURNSTILE_SECRET_KEY) {
-            if (!turnstileToken) {
-                return jsonResponse({ error: 'Security verification token required. Please refresh.' }, 403);
-            }
+        // If Turnstile secret is configured and token is supplied, enforce bot verification
+        if (context.env.TURNSTILE_SECRET_KEY && turnstileToken) {
             const isHuman = await verifyTurnstile(turnstileToken, clientIp, context.env);
             if (!isHuman) {
                 return jsonResponse({ error: 'Security challenge failed. Please refresh and try again.' }, 403);

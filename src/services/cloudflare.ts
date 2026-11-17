@@ -159,6 +159,10 @@ export const cloudflare = {
                     if (session.data.session?.access_token) {
                         headers['Authorization'] = `Bearer ${session.data.session.access_token}`;
                     }
+                    const cfToken = (typeof window !== 'undefined' && (window as any).__cf_turnstile_token);
+                    if (cfToken) {
+                        headers['cf-turnstile-token'] = cfToken;
+                    }
 
                     const res = await fetch(endpoint, { headers });
                     const contentType = res.headers.get('content-type') || '';
@@ -192,6 +196,10 @@ export const cloudflare = {
                     };
                     if (session.data.session?.access_token) {
                         headers['Authorization'] = `Bearer ${session.data.session.access_token}`;
+                    }
+                    const cfToken = (typeof window !== 'undefined' && (window as any).__cf_turnstile_token);
+                    if (cfToken) {
+                        headers['cf-turnstile-token'] = cfToken;
                     }
 
                     const res = await fetch(`/api/${table}`, {
@@ -286,6 +294,10 @@ export const cloudflare = {
                     if (session.data.session?.access_token) {
                         headers['Authorization'] = `Bearer ${session.data.session.access_token}`;
                     }
+                    const cfToken = (typeof window !== 'undefined' && (window as any).__cf_turnstile_token);
+                    if (cfToken) {
+                        headers['cf-turnstile-token'] = cfToken;
+                    }
 
                     const res = await fetch('/api/storage/upload', {
                         method: 'POST',
@@ -317,6 +329,10 @@ export const cloudflare = {
                     if (session.data.session?.access_token) {
                         headers['Authorization'] = `Bearer ${session.data.session.access_token}`;
                     }
+                    const cfToken = (typeof window !== 'undefined' && (window as any).__cf_turnstile_token);
+                    if (cfToken) {
+                        headers['cf-turnstile-token'] = cfToken;
+                    }
 
                     const res = await fetch(`/api/storage/list?prefix=${encodeURIComponent(prefix)}`, {
                         headers
@@ -335,6 +351,10 @@ export const cloudflare = {
                     const headers: Record<string, string> = { 'Content-Type': 'application/json' };
                     if (session.data.session?.access_token) {
                         headers['Authorization'] = `Bearer ${session.data.session.access_token}`;
+                    }
+                    const cfToken = (typeof window !== 'undefined' && (window as any).__cf_turnstile_token);
+                    if (cfToken) {
+                        headers['cf-turnstile-token'] = cfToken;
                     }
 
                     for (const key of keys) {

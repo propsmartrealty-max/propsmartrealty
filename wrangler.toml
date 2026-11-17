@@ -28,6 +28,11 @@ id = "b9f2061da71a4d05af72da2cef15aa7a"
 [ai]
 binding = "AI"
 
+# Cloudflare Vectorize (Semantic Property Search Index)
+[[vectorize]]
+binding = "VECTORIZE"
+index_name = "propsmart-vector-search"
+
 # Cloudflare R2 Object Storage (Uncomment once enabled in Cloudflare Dashboard)
 # [[r2_buckets]]
 # binding = "ASSETS_BUCKET"

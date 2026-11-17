@@ -26,3 +26,5 @@ dist-ssr
 .env*.local
 .wrangler
 scripts/propsmart-service-account.json
+*.ndjson
+d1_projects_all.json
