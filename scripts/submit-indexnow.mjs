@@ -19,6 +19,9 @@ async function submitIndexNow() {
     // Extract all URLs
     const urls = [
         `${BASE_URL}/`,
+        `${BASE_URL}/llms.txt`,
+        `${BASE_URL}/llms-full.txt`,
+        `${BASE_URL}/feed.xml`,
         `${BASE_URL}/directory`,
         `${BASE_URL}/search`,
         `${BASE_URL}/compare`,

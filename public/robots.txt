@@ -1,15 +1,137 @@
 # ==============================================================================
-# PROPSMART REALTY - Advanced Multi-Engine Robots.txt
+# PROPSMART REALTY - Enterprise Multi-Engine & AI Crawler Robots.txt
 # Domain: https://propsmart.co.in
 # Official MahaRERA Agent Registration: A031262401295
 # Direct Builder Sales Mandates | 100% Brokerage Free Real Estate Platform
+# Generative Engine Optimization (GEO) & Answer Engine Optimization (AEO)
 # ==============================================================================
 
-# Google Crawlers (Googlebot, Mobile, Video, News)
+# ------------------------------------------------------------------------------
+# 1. AI SEARCH ENGINES & LLM CRAWLERS (OpenAI, Claude, Gemini, Perplexity, Apple)
+# ------------------------------------------------------------------------------
+
+# OpenAI: SearchGPT Real-Time Search & Web Browsing
+User-agent: OAI-SearchBot
+User-agent: GPTBot
+User-agent: ChatGPT-User
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /feed.xml
+Allow: /sitemap.xml
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Allow: /compare
+Allow: /about
+Allow: /contact
+Allow: /pune
+Allow: /mumbai
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /api/
+Disallow: /api/*
+Disallow: /login
+
+# Anthropic: Claude Search, Research & Browsing
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: anthropic-ai
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /feed.xml
+Allow: /sitemap.xml
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Allow: /compare
+Allow: /about
+Allow: /contact
+Allow: /pune
+Allow: /mumbai
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /api/
+Disallow: /api/*
+Disallow: /login
+
+# Google Gemini, Vertex AI & Extended Grounding Crawlers
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: GoogleOther-Image
+User-agent: GoogleOther-Video
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /feed.xml
+Allow: /sitemap.xml
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Disallow: /admin/
+Disallow: /api/
+Disallow: /login
+
+# Perplexity AI Real-Time Answer Engine
+User-agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /feed.xml
+Allow: /sitemap.xml
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Allow: /compare
+Disallow: /admin/
+Disallow: /api/
+Disallow: /login
+
+# Apple Intelligence: Siri, Safari Suggestions & Spotlight Search
+User-agent: Applebot
+User-agent: Applebot-Extended
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /feed.xml
+Allow: /sitemap.xml
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Disallow: /admin/
+Disallow: /api/
+Disallow: /login
+
+# Meta AI & Cohere
+User-agent: Meta-ExternalAgent
+User-agent: FacebookBot
+User-agent: cohere-ai
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Disallow: /admin/
+Disallow: /api/
+
+# ------------------------------------------------------------------------------
+# 2. TRADITIONAL SEARCH ENGINES (Google, Bing, Yahoo, Yandex, Baidu)
+# ------------------------------------------------------------------------------
+
+# Googlebot (Mobile, Desktop, News, Video)
 User-agent: Googlebot
 User-agent: Googlebot-Mobile
 User-agent: Googlebot-News
 Allow: /
+Allow: /llms.txt
 Allow: /assets/
 Allow: /images/
 Allow: /flats-in-*
@@ -45,10 +167,12 @@ Allow: /*.svg$
 Disallow: /admin/
 Disallow: /api/
 
-# Microsoft Bingbot (Powers Bing, Yahoo Search & DuckDuckGo)
+# Microsoft Bingbot & Copilot (Powers Bing, Yahoo, DuckDuckGo & SearchGPT)
 User-agent: Bingbot
 User-agent: msnbot
 Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
 Allow: /assets/
 Allow: /images/
 Allow: /flats-in-*
@@ -67,22 +191,10 @@ Disallow: /api/*
 Disallow: /login
 Crawl-delay: 1
 
-# Applebot (Powers Apple Spotlight, Siri & Safari Suggestions)
-User-agent: Applebot
-Allow: /
-Allow: /assets/
-Allow: /images/
-Allow: /flats-in-*
-Allow: /project/*
-Allow: /builder/*
-Allow: /directory
-Disallow: /admin/
-Disallow: /api/
-Disallow: /login
-
 # DuckDuckGo Crawler
 User-agent: DuckDuckBot
 Allow: /
+Allow: /llms.txt
 Allow: /assets/
 Allow: /images/
 Allow: /flats-in-*
@@ -117,7 +229,7 @@ Disallow: /admin/
 Disallow: /api/
 Crawl-delay: 2
 
-# Social Media Preview Bots (WhatsApp, Facebook, Twitter/X, LinkedIn)
+# Social Media Preview Bots (WhatsApp, Twitter/X, LinkedIn)
 User-agent: facebookexternalhit
 User-agent: Facebot
 User-agent: Twitterbot
@@ -133,6 +245,8 @@ Disallow: /api/
 # Universal Rules for All Other Legitimate Crawlers
 User-agent: *
 Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
 Allow: /assets/
 Allow: /images/
 Allow: /flats-in-*
@@ -148,7 +262,7 @@ Disallow: /login
 Disallow: /*?*sort=
 Disallow: /*?*filter=
 Disallow: /*?*utm_*
-Crawl-delay: 3
+Crawl-delay: 2
 
 # Canonical Host
 Host: https://propsmart.co.in
@@ -164,5 +278,5 @@ Sitemap: https://propsmart.co.in/sitemap-pseo-status.xml
 Sitemap: https://propsmart.co.in/sitemap-pseo-budget.xml
 Sitemap: https://propsmart.co.in/sitemap-pseo-builders.xml
 
-# Fresh Property RSS Feed
+# Fresh Property RSS Feed & LLMs Knowledge Base
 Sitemap: https://propsmart.co.in/feed.xml
