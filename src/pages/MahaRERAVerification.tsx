@@ -169,6 +169,19 @@ const MahaRERAVerification: React.FC = () => {
                                 PROPSMART Mandate ({MAHARERA_PORTAL.propsmartAgentRera})
                             </button>
                         </div>
+
+                        {/* Audit Registry Download Pill */}
+                        <div className="mt-3.5 flex items-center justify-center gap-2">
+                            <a
+                                href="/maharera-verification-registry.csv"
+                                download="MahaRERA-846-Projects-Verification-Registry.csv"
+                                className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-white/10 hover:bg-white/20 text-slate-200 text-xs font-bold border border-white/15 transition-all shadow-sm"
+                                title="Download complete verification registry of all 846 projects"
+                            >
+                                <Download className="w-3.5 h-3.5 text-emerald-400" />
+                                <span>Download 846 Projects MahaRERA Verification Registry (CSV)</span>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
