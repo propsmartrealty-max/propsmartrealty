@@ -26,5 +26,6 @@ dist-ssr
 .env*.local
 .wrangler
 scripts/propsmart-service-account.json
+scripts/.google-indexing-state.json
 *.ndjson
 d1_projects_all.json
