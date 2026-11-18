@@ -1,7 +1,7 @@
 # PROPSMART REALTY — Complete Real Estate Knowledge Corpus
 > Domain: https://propsmart.co.in
 > MahaRERA Agent Registration: A031262401295
-> Total Verified Projects: 900
+> Total Verified Projects: 916
 > Total Verified Builders: 316
 > Total Localities: 152
 
@@ -12,7 +12,7 @@ This document contains the complete, unabridged real estate database of verified
 # TABLE OF CONTENTS
 1. Localities & Corridor Rates
 2. Leading Real Estate Developers
-3. Complete Verified Projects Catalog (900 Projects)
+3. Complete Verified Projects Catalog (916 Projects)
 
 ---
 
@@ -498,7 +498,7 @@ This document contains the complete, unabridged real estate database of verified
 
 ---
 
-# 3. COMPLETE VERIFIED PROJECTS CATALOG (900 Projects)
+# 3. COMPLETE VERIFIED PROJECTS CATALOG (916 Projects)
 
 | Project Name | Locality | Typologies | Price Range (All-Inclusive) | Status | MahaRERA ID | URL |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -1402,3 +1402,19 @@ This document contains the complete, unabridged real estate database of verified
 | Mansion by Burgundy | Keshav Nagar / Magarpatta | 4 BHK, 5 BHK | ₹3.20 Cr - ₹5.50 Cr | New Launch | `PM1260002601823` | https://propsmart.co.in/project/mansion-by-burgundy-keshav-nagar |
 | Marvilla by Burgundy | Wagholi / Keshav Nagar | 4 BHK, 5 BHK | ₹3.80 Cr - ₹6.50 Cr | Under Construction | `P52100054742` | https://propsmart.co.in/project/marvilla-by-burgundy-wagholi |
 | Mantra Business Centre (MBC) | Upper Koregaon Park, Mundhwa | Boutique Offices, Retail Showrooms | ₹68 L - ₹3.50 Cr | Under Construction | `P52100030995` | https://propsmart.co.in/project/mantra-business-centre-mundhwa |
+| The Crown by Majestique | Near 7 Loves Chowk, Gultekdi / Market Yard | 3 BHK, 4 BHK | ₹1.95 Cr - ₹3.40 Cr | Under Construction | `P52100054379` | https://propsmart.co.in/project/the-crown-majestique-gultekdi |
+| Majestique Signature Towers | Balewadi High Street, Balewadi | 2 BHK, 3 BHK | ₹1.05 Cr - ₹1.68 Cr | Under Construction | `P52100046445` | https://propsmart.co.in/project/majestique-signature-towers-balewadi |
+| 27 Grand Residences by Majestique | Balewadi | 2 BHK, 3 BHK | ₹98 L - ₹1.58 Cr | Under Construction | `P52100047314` | https://propsmart.co.in/project/27-grand-residences-balewadi |
+| Majestique Evolvus | Central Kharadi | 2 BHK, 3 BHK, 4 BHK | ₹92 L - ₹2.10 Cr | Under Construction | `P52100054253` | https://propsmart.co.in/project/majestique-evolvus-central-kharadi |
+| Majestique Towers 2.0 | Near EON IT Park & WTC, Kharadi | 2 BHK, 3 BHK | ₹86 L - ₹1.45 Cr | Under Construction | `P52100053786` | https://propsmart.co.in/project/majestique-towers-kharadi |
+| Majestique Marbella | Central Kharadi | 2 BHK, 3 BHK | ₹82 L - ₹1.35 Cr | Under Construction | `P52100032450` | https://propsmart.co.in/project/majestique-marbella-kharadi |
+| Majestique Aravali | Warje, Kothrud NXT | 2 BHK, 3 BHK | ₹79 L - ₹1.28 Cr | Under Construction | `P52100055877` | https://propsmart.co.in/project/majestique-aravali-warje-kothrud-nxt |
+| Majestique Rhythm County | Hadapsar-Handewadi Road | 2 BHK, 3 BHK | ₹58 L - ₹95 L | Under Construction | `P52100054338` | https://propsmart.co.in/project/majestique-rhythm-county-handewadi-hadapsar |
+| Majestique Ephelia | Central NIBM Annexe | 2 BHK, 3 BHK, 4 BHK | ₹78 L - ₹1.65 Cr | Under Construction | `P52100051801` | https://propsmart.co.in/project/majestique-ephelia-nibm-annexe |
+| Majestique Krutarth | Bibwewadi / Market Yard | 3 BHK, 4 BHK | ₹1.55 Cr - ₹2.65 Cr | Under Construction | `PR1260002500803` | https://propsmart.co.in/project/majestique-krutarth-bibwewadi |
+| 38 Park Majestique | Undri, South Pune | 2 BHK, 3 BHK | ₹55 L - ₹92 L | Under Construction | `P52100046281` | https://propsmart.co.in/project/38-park-majestique-undri |
+| Majestique New Friends | Vanaz Corner, Paud Road, Kothrud | 2 BHK, 3 BHK, 4 BHK | ₹1.35 Cr - ₹2.85 Cr | Under Construction | `P52100055935` | https://propsmart.co.in/project/majestique-new-friends-kothrud |
+| Kothrud Central Mall (KCM) | Vanaz Metro Station, Paud Road, Kothrud | Retail Showrooms, Anchor Stores, Multiplex & Food Courts | ₹75 L - ₹6.50 Cr | Under Construction | `P52100055935` | https://propsmart.co.in/project/kothrud-central-mall-paud-road |
+| Majestique Evolvus Business & Retail Plaza | Central Kharadi IT Corridor | Boutique IT Offices, High-Street Retail Stores | ₹65 L - ₹3.80 Cr | Under Construction | `P52100054253` | https://propsmart.co.in/project/majestique-evolvus-commercial-kharadi |
+| Majestique Towers High-Street Commercial | Near EON Free Zone, Kharadi | High-Street Retail, Executive Workspaces | ₹58 L - ₹3.20 Cr | Under Construction | `P52100053786` | https://propsmart.co.in/project/majestique-towers-commercial-kharadi |
+| Majestique Signature Commercial Hub | Balewadi High Street, Balewadi | Boutique Offices, Flagship Retail Stores | ₹72 L - ₹4.50 Cr | Under Construction | `P52100046445` | https://propsmart.co.in/project/majestique-signature-commercial-balewadi |
