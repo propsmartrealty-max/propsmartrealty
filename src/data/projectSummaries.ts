@@ -7,6 +7,549 @@ import { Project } from '../types';
  */
 export const PROJECT_SUMMARIES: Project[] = [
   {
+    "id": "p-nanded-city-harmony",
+    "title": "Harmony at Nanded City",
+    "slug": "nanded-city-harmony",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹1.85 Cr - ₹3.10 Cr",
+    "exactPrice": "₹1.85 Cr",
+    "pricePerSqft": 13028,
+    "configurations": [
+      "3.5 BHK",
+      "4.5 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "in 2028",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2026/11/Harmony_Apartments_Sales_Home_Banner-scaled.jpeg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2026/11/Harmony_Apartments_Sales_Home_Banner-scaled.jpeg",
+    "reraId": "PR1260002502527",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Club House",
+      "Infinity Edge Swimming Pool",
+      "Landscaped Gardens",
+      "Fitness Centre"
+    ],
+    "description": "Harmony Apartments at Nanded City is a newly launched ultra-luxury residential enclave by Nanded City Development and Construction Company (Magarpatta Group). Set within the sprawling 700+ acre self-sustained eco-township on Sinhagad Road, Pune, Harmony features expansive 3.5 BHK and 4.5 BHK luxury ",
+    "lat": 18.4682,
+    "lng": 73.7915
+  },
+  {
+    "id": "p-nanded-city-saajgiri",
+    "title": "Saajgiri at Nanded City",
+    "slug": "nanded-city-saajgiri",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹88.00 L - ₹1.48 Cr",
+    "exactPrice": "₹88.00 L",
+    "pricePerSqft": 12846,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "in 2027",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2026/09/shubh-shuruaat-ncp-banner.webp",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2026/09/shubh-shuruaat-ncp-banner.webp",
+    "reraId": "PR1260002501621",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Two Recreation Centres",
+      "Community Hall with Pantry",
+      "Indoor Games Room",
+      "Fitness Centre"
+    ],
+    "description": "Saajgiri at Nanded City is a premier residential cluster of smart 2 BHK and 3 BHK homes on Sinhagad Road, Pune by Magarpatta City Group. Designed for families valuing security, convenience, and vibrant community living within the 700+ acre integrated township.\n\nStarting at ₹88.00 L all-inclusive (3 ",
+    "lat": 18.469,
+    "lng": 73.7925
+  },
+  {
+    "id": "p-nanded-city-destination-center-2",
+    "title": "Destination Center II",
+    "slug": "nanded-city-destination-center-2",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹48.00 L - ₹3.20 Cr",
+    "exactPrice": "₹48.00 L",
+    "pricePerSqft": 21818,
+    "configurations": [
+      "Commercial Retail",
+      "Showroom",
+      "Office"
+    ],
+    "configurationDetails": [],
+    "status": "Under Construction",
+    "type": "Commercial",
+    "possessionDate": "in 2026",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2026/07/destination-center-cp.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2026/07/destination-center-cp.jpg",
+    "reraId": "P52100079788",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "High-Street Retail Showrooms",
+      "Food Court & Cafes",
+      "Escalators & High-Speed Lifts",
+      "Multi-Level Basement Parking"
+    ],
+    "description": "Destination Center II is the premier commercial, retail, and shopping destination within Nanded City on Sinhagad Road, Pune. Catering to over 24,000+ resident families and high-traffic regional footfalls, this high-street development features prime retail shops, hypermarkets, healthcare suites, and ",
+    "lat": 18.4675,
+    "lng": 73.7905
+  },
+  {
+    "id": "p-nanded-city-symphony-it-park",
+    "title": "Symphony IT Park",
+    "slug": "nanded-city-symphony-it-park",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹1.25 Cr - ₹9.50 Cr",
+    "exactPrice": "₹1.25 Cr",
+    "pricePerSqft": 10040,
+    "configurations": [
+      "Grade-A IT Office",
+      "Corporate Suite"
+    ],
+    "configurationDetails": [],
+    "status": "Ready to Move",
+    "type": "Commercial",
+    "possessionDate": "Ready to Move",
+    "image": "https://nandedcitypune.com/symphonyitpark/IMG/Symphony%20Microsite%20-%20Final%20-%2007.webp",
+    "heroImage": "https://nandedcitypune.com/symphonyitpark/IMG/Symphony%20Microsite%20-%20Final%20-%2007.webp",
+    "reraId": "P52100000385",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Clean High-Efficiency Floor Plates",
+      "Grade-A IT/ITES Campus",
+      "High-Speed Passenger & Service Elevators",
+      "100% DG Power Back-up with N+1 Redundancy"
+    ],
+    "description": "Symphony IT Park by Magarpatta City Group brings premium Grade-A IT/ITES workspace infrastructure to Nanded City, Sinhagad Road, Pune. Offering large, clean floor plates designed for global IT conglomerates, tech startups, and corporate headquarters with seamless access to Mumbai-Bangalore Highway.\n",
+    "lat": 18.4688,
+    "lng": 73.7895
+  },
+  {
+    "id": "p-nanded-city-aalaap",
+    "title": "Aalaap I at Nanded City",
+    "slug": "nanded-city-aalaap",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹78.00 L - ₹1.25 Cr",
+    "exactPrice": "₹78.00 L",
+    "pricePerSqft": 12000,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "in 2027",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2025/03/aalaap-ongoing-project.webp",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2025/03/aalaap-ongoing-project.webp",
+    "reraId": "P52100055134",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Clubhouse & Multipurpose Hall",
+      "Swimming Pool with Deck",
+      "Children Play Area",
+      "Gymnasium"
+    ],
+    "description": "Aalaap I at Nanded City is an ongoing premium residential development offering thoughtfully proportioned 2 BHK and 3 BHK homes with scenic views of landscaped open greens. Benefitting from the township's self-contained educational, healthcare, and retail ecosystem.\n\nStarting at ₹78.00 L all-inclusiv",
+    "lat": 18.468,
+    "lng": 73.791
+  },
+  {
+    "id": "p-nanded-city-melody-1",
+    "title": "Melody I at Nanded City",
+    "slug": "nanded-city-melody-1",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹74.00 L - ₹1.12 Cr",
+    "exactPrice": "₹74.00 L",
+    "pricePerSqft": 10882,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "in 2026",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2026/07/melody-cp.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2026/07/melody-cp.jpg",
+    "reraId": "P52100051948",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Landscaped Gardens",
+      "Community Hall",
+      "Children Play Area",
+      "Indoor Games"
+    ],
+    "description": "Melody I at Nanded City brings contemporary 2 BHK and 2.5 BHK residences to the heart of Nanded City township on Sinhagad Road. Featuring quiet residential tower placement, high green cover, and proximity to Pawar Public School and Destination Center.\n\nStarting at ₹74.00 L all-inclusive, each apartm",
+    "lat": 18.4685,
+    "lng": 73.7918
+  },
+  {
+    "id": "p-nanded-city-melody-2",
+    "title": "Melody II at Nanded City",
+    "slug": "nanded-city-melody-2",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹79.00 L - ₹1.22 Cr",
+    "exactPrice": "₹79.00 L",
+    "pricePerSqft": 11126,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "in 2026",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2026/07/melody-cp.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2026/07/melody-cp.jpg",
+    "reraId": "P52100051867",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Clubhouse",
+      "Gym",
+      "Landscaped Podium",
+      "Children Play Zone"
+    ],
+    "description": "Melody II at Nanded City extends the celebrated Melody residential cluster with upgraded 2 BHK and 3 BHK layouts on Sinhagad Road, Pune. Providing superior lifestyle comfort, open river-breeze corridors, and abundant community infrastructure.\n\nStarting from ₹79.00 L all-inclusive, verified under off",
+    "lat": 18.4687,
+    "lng": 73.792
+  },
+  {
+    "id": "p-nanded-city-sur",
+    "title": "Sur at Nanded City",
+    "slug": "nanded-city-sur",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹72.00 L - ₹1.15 Cr",
+    "exactPrice": "₹72.00 L",
+    "pricePerSqft": 10909,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2020/01/sargam-completed.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2020/01/sargam-completed.jpg",
+    "reraId": "P52100032686",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Gated Security",
+      "Landscaped Gardens",
+      "Children Play Area",
+      "Clubhouse"
+    ],
+    "description": "Sur at Nanded City is a completed, ready-to-move residential sector offering spacious 2 and 3 BHK apartments on Sinhagad Road, Pune. Providing established community living with landscaped parks, fitness zones, and direct walking access to township schools.\n\nStarting at ₹72.00 L all-inclusive, verifi",
+    "lat": 18.4678,
+    "lng": 73.793
+  },
+  {
+    "id": "p-nanded-city-janaranjani",
+    "title": "Janaranjani D Phase II",
+    "slug": "nanded-city-janaranjani",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹70.00 L - ₹1.08 Cr",
+    "exactPrice": "₹70.00 L",
+    "pricePerSqft": 10447,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "in 2026",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2020/01/pancham-completed.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2020/01/pancham-completed.jpg",
+    "reraId": "P52100047078",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Landscaped Garden",
+      "Children Play Arena",
+      "Community Hall",
+      "24/7 Security"
+    ],
+    "description": "Janaranjani D Phase II at Nanded City features well-planned 2 BHK and 2.5 BHK residences designed for budget-conscious families desiring integrated township amenities on Sinhagad Road, Pune.\n\nStarting from ₹70.00 L all-inclusive, verified under official MahaRERA registration P52100047078 with zero b",
+    "lat": 18.4672,
+    "lng": 73.7912
+  },
+  {
+    "id": "p-nanded-city-bahaar",
+    "title": "Bahaar at Nanded City",
+    "slug": "nanded-city-bahaar",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹75.00 L - ₹1.18 Cr",
+    "exactPrice": "₹75.00 L",
+    "pricePerSqft": 10869,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2026/07/rhytm-cp.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2026/07/rhytm-cp.jpg",
+    "reraId": "P52100049984",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Landscaped Greens",
+      "Play Area",
+      "Clubhouse Amenities",
+      "Security"
+    ],
+    "description": "Bahaar at Nanded City offers ready-to-move 2 BHK and 3 BHK residences set amid lush landscaped avenues in Nanded City, Sinhagad Road, Pune. Providing quiet residential living with immediate occupancy.\n\nStarting from ₹75.00 L all-inclusive, verified under official MahaRERA registration P52100049984 w",
+    "lat": 18.4681,
+    "lng": 73.7922
+  },
+  {
+    "id": "p-nanded-city-dhanashree",
+    "title": "Dhanashree at Nanded City",
+    "slug": "nanded-city-dhanashree",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹62.00 L - ₹85.00 L",
+    "exactPrice": "₹62.00 L",
+    "pricePerSqft": 10000,
+    "configurations": [
+      "2 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2020/01/pancham2-completed.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2020/01/pancham2-completed.jpg",
+    "reraId": "P52100002425",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Gated Security",
+      "Township Road Access",
+      "Kids Play Area",
+      "24/7 Water"
+    ],
+    "description": "Dhanashree at Nanded City is a popular completed residential community of cozy 2 BHK homes located on Sinhagad Road, Pune. Providing great affordability paired with world-class integrated township infrastructure.\n\nStarting from ₹62.00 L all-inclusive, verified under official MahaRERA registration P5",
+    "lat": 18.467,
+    "lng": 73.7915
+  },
+  {
+    "id": "p-nanded-city-bageshree",
+    "title": "Bageshree at Nanded City",
+    "slug": "nanded-city-bageshree",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹58.00 L - ₹78.00 L",
+    "exactPrice": "₹58.00 L",
+    "pricePerSqft": 9914,
+    "configurations": [
+      "2 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2024/02/Bageshree.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2024/02/Bageshree.jpg",
+    "reraId": "P52100021465",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Gated Security",
+      "Children Play Area",
+      "Community Living",
+      "Rainwater Harvesting"
+    ],
+    "description": "Bageshree at Nanded City represents cozy, comfortable, and convenient township living on Sinhagad Road, Pune. Featuring thoughtfully designed 2 BHK apartments with excellent ventilation and access to sports arenas and green parks.\n\nStarting from ₹58.00 L all-inclusive, verified under official MahaRE",
+    "lat": 18.4692,
+    "lng": 73.7932
+  },
+  {
+    "id": "p-nanded-city-kalashree",
+    "title": "Kalashree at Nanded City",
+    "slug": "nanded-city-kalashree",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹64.00 L - ₹89.00 L",
+    "exactPrice": "₹64.00 L",
+    "pricePerSqft": 10000,
+    "configurations": [
+      "2 BHK",
+      "2.5 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2024/02/Kalashree.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2024/02/Kalashree.jpg",
+    "reraId": "P52100021483",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Gated Township Security",
+      "Landscaped Gardens",
+      "Sports Facilities",
+      "Community Hall"
+    ],
+    "description": "Kalashree at Nanded City offers homes that suit your lifestyle in a vibrant completed residential community on Sinhagad Road, Pune. Providing comfortable 2 BHK and 2.5 BHK apartments with expansive township infrastructure.\n\nStarting from ₹64.00 L all-inclusive, verified under official MahaRERA regis",
+    "lat": 18.4695,
+    "lng": 73.7935
+  },
+  {
+    "id": "p-nanded-city-pancham",
+    "title": "Pancham at Nanded City",
+    "slug": "nanded-city-pancham",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹68.00 L - ₹1.10 Cr",
+    "exactPrice": "₹68.00 L",
+    "pricePerSqft": 10000,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2020/01/pancham-I-completed-1.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2020/01/pancham-I-completed-1.jpg",
+    "reraId": "P52100000385",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Gated Security",
+      "Clubhouse",
+      "Children Play Arena",
+      "Walking Corridors"
+    ],
+    "description": "Pancham at Nanded City is one of the foundation residential sectors of the township, offering well-established 2 BHK and 3 BHK family residences surrounded by landscaped parks and wide internal roads.\n\nStarting from ₹68.00 L all-inclusive, verified under official MahaRERA registration P52100000385 w",
+    "lat": 18.4674,
+    "lng": 73.7918
+  },
+  {
+    "id": "p-nanded-city-sarang",
+    "title": "Sarang at Nanded City",
+    "slug": "nanded-city-sarang",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹72.00 L - ₹1.15 Cr",
+    "exactPrice": "₹72.00 L",
+    "pricePerSqft": 10000,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2017/10/com-pro2.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2017/10/com-pro2.jpg",
+    "reraId": "P52100000288",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Landscaped Gardens",
+      "Clubhouse Facilities",
+      "Children Play Area",
+      "Gated Security"
+    ],
+    "description": "Sarang at Nanded City is a premier completed residential enclave situated adjacent to central landscaped gardens, offering elegant 2 BHK and 3 BHK family homes on Sinhagad Road, Pune.\n\nStarting from ₹72.00 L all-inclusive, verified under official MahaRERA registration P52100000288 with zero brokerag",
+    "lat": 18.4678,
+    "lng": 73.7922
+  },
+  {
+    "id": "p-nanded-city-asawari",
+    "title": "Asawari at Nanded City",
+    "slug": "nanded-city-asawari",
+    "builderId": "b-nanded-city",
+    "location": "Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹76.00 L - ₹1.25 Cr",
+    "exactPrice": "₹76.00 L",
+    "pricePerSqft": 10133,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready to Move",
+    "image": "https://nandedcitypune.com/wp-content/uploads/2017/10/com-pro3.jpg",
+    "heroImage": "https://nandedcitypune.com/wp-content/uploads/2017/10/com-pro3.jpg",
+    "reraId": "P52100000292",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Clubhouse",
+      "Swimming Pool",
+      "Green Park Lawns",
+      "Children Play Zone"
+    ],
+    "description": "Asawari at Nanded City offers premium 2 BHK and 3 BHK ready-to-move homes nestled in pristine greenery within the 700+ acre township on Sinhagad Road, Pune.\n\nStarting from ₹76.00 L all-inclusive, verified under official MahaRERA registration P52100000292 with zero brokerage through PROPSMART.",
+    "lat": 18.4682,
+    "lng": 73.7928
+  },
+  {
     "id": "p-godrej-hillside-3",
     "title": "Godrej Hillside 3",
     "slug": "godrej-hillside-3",
@@ -57,6 +600,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Club house",
       "Gym"
     ],
+    "description": "Godrej Hillside 3 by Godrej Properties represents modern residential excellence in Mahalunge, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences ",
     "lat": 18.563,
     "lng": 73.742
   },
@@ -111,6 +655,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Kids Play Area",
       "Library"
     ],
+    "description": "Godrej River Royale is an ultra-luxury riverside residential enclave by Godrej Properties situated along the scenic riverfront in Mahalunge, West Pune. Spread over prime river-view acreage, River Royale features expansive 3 and 4 BHK palatial residences starting from ₹2.50 Cr up to ₹4.40 Cr with pri",
     "lat": 18.563,
     "lng": 73.742
   },
@@ -165,6 +710,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "Godrej Eden Estate Phase 2 is an exclusive gated plotted villa development by Godrej Properties located in Phase 1 / Maan, Hinjewadi, Pune. Offering custom residential villa plots ranging from 1,500 sq.ft to 2,500 sq.ft starting from ₹1.71 Cr, Eden Estate provides 5-tier security, dedicated estate c",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -219,6 +765,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "VTP Bellissimo by VTP Realty represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natu",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -273,6 +820,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "VTP Dolce Vita by VTP Realty represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal",
     "lat": 18.5514,
     "lng": 73.9349
   },
@@ -333,6 +881,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "VTP Naturescape by VTP Realty represents modern residential excellence in Bavdhan, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optima",
     "lat": 18.5135,
     "lng": 73.7699
   },
@@ -398,6 +947,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Cafeteria",
       "Club house"
     ],
+    "description": "Lodha Giardino by Lodha Group represents modern residential excellence in Wagholi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optima",
     "lat": 18.5815,
     "lng": 73.9806
   },
@@ -464,6 +1014,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Cafeteria",
       "Club house"
     ],
+    "description": "Lodha Panache by Lodha Group represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natu",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -519,6 +1070,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "Lodha Bella Vita by Lodha Group represents modern residential excellence in Mohammed Wadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optim",
     "lat": 18.4826,
     "lng": 73.9142
   },
@@ -569,6 +1121,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Cafeteria",
       "Club house"
     ],
+    "description": "Panchshil Eon Waterfront by Panchshil Realty represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residen",
     "lat": 18.5514,
     "lng": 73.9349
   },
@@ -629,6 +1182,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24*7 Water",
       "Lift"
     ],
+    "description": "Panchshil Towers by Panchshil Realty represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with",
     "lat": 18.5514,
     "lng": 73.9349
   },
@@ -695,6 +1249,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Club house",
       "Fitness Corner"
     ],
+    "description": "Rohan Ekam Balewadi by Rohan Builders represents modern residential excellence in Balewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with opti",
     "lat": 18.5772,
     "lng": 73.7715
   },
@@ -750,6 +1305,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Multi-Tier Clubhouse & Heated Swimming Pool",
       "Organic Herb Gardens & Forest Walking Trails"
     ],
+    "description": "Rohan Saroha in Bhugaon near Bavdhan is an integrated nature-inspired township nestled amidst the scenic Sahyadri foothills. Providing clean green living with multi-tier clubhouse, mountain-view infinity pool, organic farming zones, and seamless access to Chandani Chowk and Kothrud.",
     "lat": 18.5028,
     "lng": 73.7381
   },
@@ -800,6 +1356,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Over 70% Open Space & Landscaped Gardens",
       "Olympic-Size Swimming Pool & Sports Clubhouse"
     ],
+    "description": "Rohan Ekam is a master-planned 12.9-acre luxury residential community in Balewadi, Pune. Built around Rohan's signature PLUS Home philosophy (Perfect Ventilation, Lively Light, Utmost Privacy, Smart Space), offering expansive 2, 3, and 4.5 BHK homes with zero dead spaces and 70% open landscaped gree",
     "lat": 18.5772,
     "lng": 73.7715
   },
@@ -854,6 +1411,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "VJ IndiLife by Vilas Javdekar Developers represents modern residential excellence in Pashan, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences w",
     "lat": 18.5412,
     "lng": 73.7925
   },
@@ -914,6 +1472,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "VJ PKC Central by Vilas Javdekar Developers represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with",
     "lat": 18.5514,
     "lng": 73.9349
   },
@@ -968,6 +1527,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Cafeteria",
       "Club house"
     ],
+    "description": "VJ Yashwin Enchante by Vilas Javdekar Developers represents modern residential excellence in Wagholi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK res",
     "lat": 18.5815,
     "lng": 73.9806
   },
@@ -1017,6 +1577,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Jogging Track",
       "Kids Play Area"
     ],
+    "description": "GT Pride by Pride Purple Group represents modern residential excellence in Ravet, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with optimal",
     "lat": 18.6496,
     "lng": 73.7441
   },
@@ -1086,6 +1647,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "Pride Park Connect by Pride Purple Group represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residence",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -1140,6 +1702,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Kids Play Area",
       "Open Gym"
     ],
+    "description": "Codename Pride Of Chinchwad by Pride Purple Group represents modern residential excellence in Pimpri Chinchwad, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK,",
     "lat": 18.6298,
     "lng": 73.7997
   },
@@ -1194,6 +1757,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Kids Play Area",
       "Mini-Theater"
     ],
+    "description": "Nyati Evoque by Nyati Group represents modern residential excellence in Wadgaon Sheri, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences with op",
     "lat": 18.5528,
     "lng": 73.9234
   },
@@ -1243,6 +1807,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "Nyati Emerald by Nyati Group represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natural ",
     "lat": 18.559,
     "lng": 73.7868
   },
@@ -1292,6 +1857,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "Nyati Esteban 2 by Nyati Group represents modern residential excellence in Undri, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal natura",
     "lat": 18.4608,
     "lng": 73.9099
   },
@@ -1348,6 +1914,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "Gera Hinjewadi Phase 3 – 0 by Gera Developments represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residence",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -1398,6 +1965,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Grand Double-Height Glass Atrium",
       "Multi-Level Basement Parking"
     ],
+    "description": "Gera Imperium Gateway is a landmark commercial and retail tower directly connected to Bhosari Metro Station in PCMC, Pune. Featuring Grade-A corporate office suites, retail outlets, grand atrium, and multi-tier basement parking.",
     "lat": 18.625,
     "lng": 73.8441
   },
@@ -1448,6 +2016,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "ChildCentric® Development Programs",
       "Olympic-Spec Swimming Pool"
     ],
+    "description": "Gera Joy on the Treetops Hinjewadi Phase 3 is a lush child-centric sanctuary elevated above the treetops next to Megapolis Circle. Seamlessly connected to Rajiv Gandhi Infotech Park, the development features an elevated infinity sky-bridge, treehouse study cabins, and pro coaching academies.",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -1491,6 +2060,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "Kasturi Apostrophe by Kasturi Housing represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with opt",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -1546,6 +2116,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "Kasturi Eon Homes by Kasturi Housing represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 5 BHK residences wi",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -1612,6 +2183,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Cafeteria",
       "Club house"
     ],
+    "description": "The Balmoral Towers by Kasturi Housing is a benchmark of ultra-luxury living on Balewadi High Street, Pune. Featuring international concierge services, German engineered fixtures, and sprawling 3 & 4 BHK residences starting from ₹2.13 Cr up to ₹6.11 Cr.\n\nVerified under MahaRERA registration P5210000",
     "lat": 18.5772,
     "lng": 73.7715
   },
@@ -1656,6 +2228,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "Mahindra Happinest – D,E,F,G by Mahindra Lifespaces represents modern residential excellence in Tathawade, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BH",
     "lat": 18.6186,
     "lng": 73.7533
   },
@@ -1716,6 +2289,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "Mahindra Citadel by Mahindra Lifespaces represents modern residential excellence in Pimpri Chinchwad, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK res",
     "lat": 18.6298,
     "lng": 73.7997
   },
@@ -1776,6 +2350,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "Mahindra Kharadi by Mahindra Lifespaces represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with opt",
     "lat": 18.5514,
     "lng": 73.9349
   },
@@ -1836,6 +2411,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Jogging Track",
       "Kids Play Area"
     ],
+    "description": "Kumar Parth Tower by Kumar Properties represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal",
     "lat": 18.559,
     "lng": 73.7868
   },
@@ -1890,6 +2466,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "Kumar Palmspring Towers by Kumar Properties represents modern residential excellence in Undri, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with o",
     "lat": 18.4608,
     "lng": 73.9099
   },
@@ -1933,6 +2510,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "Kumar Codename Centrestage – 0 by Kumar Properties represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK reside",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -1989,6 +2567,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rooftop Sky Lounge & Observatory",
       "Infinity Heated Pool"
     ],
+    "description": "BramhaCorp Hues of Sky rises 35 storeys above Sadhu Vaswani Chowk in Camp, Central Pune, just 400m from Pune Zero Milestone. Offering panoramic 360-degree city views, private sky decks, Italian marble flooring, and concierge amenities.",
     "lat": 18.5133,
     "lng": 73.8798
   },
@@ -2033,6 +2612,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "High Rental Yield Investment Asset",
       "Rooftop Cafe & Fitness Zone"
     ],
+    "description": "BramhaCorp Townhouse is a contemporary micro-living and millennial studio residential development in Balewadi, Pune. Crafted specifically for young professionals and IT leaders, offering stylish Studio and 1 BHK suites with automated rental yield management.",
     "lat": 18.5772,
     "lng": 73.7715
   },
@@ -2077,6 +2657,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Minutes from Koregaon Park & Viman Nagar",
       "Infinity Edge Rooftop Swimming Pool"
     ],
+    "description": "BramhaCorp August Towers is a 34-storey high-rise luxury enclave situated in New Kalyani Nagar / Wadgaon Sheri, Pune. Offering thoughtfully engineered 1.5 & 2 BHK compact luxury homes with panoramic river views, infinity clubhouse, and minutes from Koregaon Park.",
     "lat": 18.5484,
     "lng": 73.9025
   },
@@ -2131,6 +2712,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Yoga Zone"
     ],
+    "description": "Amanora City Rise by Amanora Park Town represents modern residential excellence in Kothrud, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences wi",
     "lat": 18.5074,
     "lng": 73.8077
   },
@@ -2191,6 +2773,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "Joyville annexe by Joyville by Shapoorji Pallonji represents modern residential excellence in Hadapsar, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BHK, ",
     "lat": 18.5089,
     "lng": 73.9259
   },
@@ -2255,6 +2838,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Cafeteria",
       "Fitness Corner"
     ],
+    "description": "Joyville Celestia by Joyville by Shapoorji Pallonji represents modern residential excellence in Shewalewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 ",
     "lat": 18.495,
     "lng": 73.961
   },
@@ -2315,6 +2899,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "Joyville Sensorium by Joyville by Shapoorji Pallonji represents modern residential excellence in Hinjewadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 B",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -2384,6 +2969,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Conference Room",
       "Gym"
     ],
+    "description": "Kohinoor Kharadi – 5 by Kohinoor Group represents modern residential excellence in Kharadi, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences wi",
     "lat": 18.5514,
     "lng": 73.9349
   },
@@ -2438,6 +3024,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "Kohinoor Shangrila by Kohinoor Group represents modern residential excellence in Pimpri Chinchwad, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences wi",
     "lat": 18.6298,
     "lng": 73.7997
   },
@@ -2482,6 +3069,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Corner",
       "Gym"
     ],
+    "description": "Kohinoor Central Park in Hinjewadi Phase 2 spans a massive 13.27-acre integrated lifestyle township featuring 10 residential towers. Designed for IT professionals with zero-waste layouts, world-class sports amenities, and high rental return potential.",
     "lat": 18.5833,
     "lng": 73.718
   },
@@ -2520,6 +3108,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Club house",
       "Conference Room"
     ],
+    "description": "Kalpataru Jade Skyline – 5 by Kalpataru represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optim",
     "lat": 18.559,
     "lng": 73.7868
   },
@@ -2574,6 +3163,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "Kalpataru Jade Residences – Tower -H by Kalpataru represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK resi",
     "lat": 18.559,
     "lng": 73.7868
   },
@@ -2634,6 +3224,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "Kalpataru Blossoms by Kalpataru represents modern residential excellence in Anand Nagar, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK residences with optimal",
     "lat": 18.4831,
     "lng": 73.8211
   },
@@ -2688,6 +3279,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Kids Play Area",
       "Pet Park"
     ],
+    "description": "Sobha Nesara is an ultra-luxury hillside residential enclave by Sobha Limited nestled along the NDA hills in Kothrud, Pune. Boasting panoramic Sahyadri hill views, German engineered precision construction, and magnificent 3 & 4 BHK residences starting from ₹3.60 Cr up to ₹5.55 Cr.\n\nVerified under Ma",
     "lat": 18.5074,
     "lng": 73.8077
   },
@@ -2754,6 +3346,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Cafeteria",
       "Club house"
     ],
+    "description": "Sobha Nesara Block 3 by Sobha Limited represents modern residential excellence in Kothrud, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK residences wit",
     "lat": 18.5074,
     "lng": 73.8077
   },
@@ -2809,6 +3402,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24*7 Water",
       "Gas Pipeline"
     ],
+    "description": "Prasiddhi Tatavam Residency by Tata Housing represents modern residential excellence in Ravet, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BHK residences",
     "lat": 18.6496,
     "lng": 73.7441
   },
@@ -2858,6 +3452,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gym",
       "Jogging Track"
     ],
+    "description": "Sense 66 By TATA Value Homes by Tata Housing represents modern residential excellence in Talegaon Dabhade, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 1 BHK, 2 BH",
     "lat": 18.7303,
     "lng": 73.6767
   },
@@ -2902,6 +3497,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Camelot in Upper Kharadi Pune brings an elite royal lifestyle featuring panoramic river and greenery views, grand palace-inspired clubhouses, and bespoke 3 & 4 BHK residences.",
     "lat": 18.5529,
     "lng": 73.9416
   },
@@ -2946,6 +3542,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Altero in Wakad Pune provides futuristic luxury living with intelligent home automation, sprawling podium amenities, and high-speed access to the Hinjewadi IT Park and Pune-Mumbai Expressway.",
     "lat": 18.5987,
     "lng": 73.7684
   },
@@ -2990,6 +3587,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Estilo is Kharadi's crowning jewel of luxury residences, with expansive sundecks, Italian marble finishes, private elevator lobbies, and a lavish 25,000 sq.ft. clubhouse.",
     "lat": 18.5534,
     "lng": 73.9482
   },
@@ -3046,6 +3644,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Belmondo is a spectacular 100+ acre riverside golf township designed around a 45-hole Greg Norman golf course along the Pavana River, with 50,000 sq.ft. luxury resort clubhouse.",
     "lat": 18.6833,
     "lng": 73.6989
   },
@@ -3090,6 +3689,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Magnus brings grand executive residences to Hinjewadi Phase 1 with infinity lap pools, sky lounges, and pedestrian-first landscape architecture next to major IT campuses.",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -3134,6 +3734,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Massimo in Baner Pune offers high-street luxury living adjacent to Baner Hill, featuring double-height entrance lobbies, private deck balconies, and full Olympic amenities.",
     "lat": 18.559,
     "lng": 73.7868
   },
@@ -3184,6 +3785,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha One at Bund Garden is Pune's most prestigious super-luxury address, providing ultra-exclusive sprawling floor-plate residences with personal concierge and private club services.",
     "lat": 18.5362,
     "lng": 73.8797
   },
@@ -3228,6 +3830,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Palais in Kothrud Pune offers French palace-inspired bespoke architecture with lavish high ceilings, private sundecks, and handcrafted leisure facilities.",
     "lat": 18.5074,
     "lng": 73.8077
   },
@@ -3272,6 +3875,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Sylvan in Hinjewadi Phase 3 combines tranquil forest living with urban convenience, boasting over 1,000 trees, an organic farm, and multi-tier club zones.",
     "lat": 18.5833,
     "lng": 73.698
   },
@@ -3316,6 +3920,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Elise at Worli Mumbai offers uninterrupted Arabian Sea views, bespoke interior styling by world-renowned designers, and private sky lounges overlooking South Mumbai.",
     "lat": 19.0176,
     "lng": 72.8188
   },
@@ -3366,6 +3971,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Altamount on Mumbai's iconic Billionaire's Row is India's most coveted residential skyscraper, featuring black glass curtain walls and ultra-exclusive residences.",
     "lat": 18.9667,
     "lng": 72.8083
   },
@@ -3410,6 +4016,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Bellevue in Mahalaxmi offers mesmerizing views of the Mahalaxmi Racecourse and Arabian Sea, paired with two 56-storey architectural marvels.",
     "lat": 18.9826,
     "lng": 72.8242
   },
@@ -3460,6 +4067,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Amara is Thane's premier 40-acre residential township with a 2-acre private forest, 6 clubhouses, 5,000 sq.ft. sports arenas, and thousands of trees.",
     "lat": 19.2312,
     "lng": 72.9868
   },
@@ -3510,6 +4118,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Upper Thane is a 200+ acre mega-township offering world-class ICSE school, grand 50,000 sq.ft. clubhouse, retail high street, and cricket ground.",
     "lat": 19.2789,
     "lng": 73.0412
   },
@@ -3554,6 +4163,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Meadows at Riverhills Mahalunge Pune is a wellness-focused residential community with a 3,000 sq.ft. health club, tranquil nature views, and direct connectivity to the Hinjewadi IT corridor.",
     "lat": 18.563,
     "lng": 73.742
   },
@@ -3598,6 +4208,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Park Springs in Manjari Pune is an expansive green-themed development featuring scenic natural springs, skywalk trails, and quick access to Hadapsar and Kharadi.",
     "lat": 18.5204,
     "lng": 73.9872
   },
@@ -3642,6 +4253,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Serene in Mamurdi Pune is designed around holistic lifestyle amenities with 1+ acre central park, grand clubhouse, and immediate access to the Pune-Mumbai Expressway.",
     "lat": 18.6723,
     "lng": 73.7145
   },
@@ -3692,6 +4304,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Green Cove is part of the 100+ acre Godrej Riverhills Township in Mahalunge, offering lush riverfront views, cycling tracks, and an integrated high-street retail zone.",
     "lat": 18.5635,
     "lng": 73.743
   },
@@ -3736,6 +4349,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Park Greens offers over 1,100 trees, tree houses, and reflexology paths in Mamurdi, making it one of Pune's most nature-blessed residential communities.",
     "lat": 18.671,
     "lng": 73.713
   },
@@ -3780,6 +4394,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Hillview Estate is an exclusive branded plotted development nestled against the Sahyadri hills off the Pune-Mumbai Expressway, featuring custom villa layouts.",
     "lat": 18.825,
     "lng": 73.284
   },
@@ -3824,6 +4439,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Nurture in Bhandup Mumbai is a child-development-focused community with dedicated academies for sports, music, languages, and modern science.",
     "lat": 19.1524,
     "lng": 72.9372
   },
@@ -3874,6 +4490,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Urban Park near Powai Mumbai features rooftop amenities, sky cinema, jogging loops, and proximity to corporate hubs in BKC, SEEPZ, and Powai.",
     "lat": 19.1136,
     "lng": 72.8953
   },
@@ -3924,6 +4541,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Bandra Bay is an architectural trophy residence overlooking Bandra Bay with private infinity edge pools, personal elevators, and 5-star hotel concierge.",
     "lat": 19.0596,
     "lng": 72.8295
   },
@@ -3974,6 +4592,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej City Panvel is a 150-acre integrated mega-township featuring a 9-hole golf course, high-street retail, international school, and close access to the Navi Mumbai International Airport.",
     "lat": 18.9894,
     "lng": 73.1175
   },
@@ -4018,6 +4637,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Upavan features 2+ hectares of greens, 50+ lifestyle amenities, and round-the-clock convenience in the rapidly appreciating Thane Extension belt.",
     "lat": 19.2612,
     "lng": 73.1023
   },
@@ -4062,6 +4682,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Prime in Chembur connects Central Mumbai, BKC, and South Mumbai seamlessly via the Eastern Freeway and SCLR, featuring rooftop gardens and clubhouse.",
     "lat": 19.0626,
     "lng": 72.8994
   },
@@ -4112,6 +4733,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Earth One by VTP Luxe in Mahalunge Pune offers riverside architectural excellence, maximum livable area (MLA) layouts, 5-tier club indulgence, and seamless transit to Hinjewadi Phase 1.",
     "lat": 18.563,
     "lng": 73.742
   },
@@ -4156,6 +4778,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Monarque by VTP Luxe in Hinjewadi Phase 1 offers royal high-rise homes right next to Infosys Circle with smart-home automation and Olympic-scale sporting amenities.",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -4200,6 +4823,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Aurelia at Township Codename Pegasus in Kharadi is a benchmark in high-end living with heated swimming pools, grand clubhouse, and quick access to EON Free Zone.",
     "lat": 18.5529,
     "lng": 73.9416
   },
@@ -4244,6 +4868,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Altamira brings Spanish-inspired elegance to Kharadi Pune with high-ceiling residences, landscaped central courtyard, and designer podium amenities.",
     "lat": 18.5535,
     "lng": 73.9425
   },
@@ -4288,6 +4913,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Velvet Villas by VTP Luxe is Pune's ultimate private sanctuary offering custom luxury villas with personal elevators, private swimming pools, and manicured lawns in Kharadi.",
     "lat": 18.554,
     "lng": 73.945
   },
@@ -4332,6 +4958,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Volare in Hinjewadi Phase 1 provides state-of-the-art tech living for IT executives, featuring smart digital locks, home automation, and 24x7 fitness zones.",
     "lat": 18.5905,
     "lng": 73.737
   },
@@ -4376,6 +5003,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Verve on Baner-Sus Road combines picturesque hill views with modern urban comfort, featuring high-speed elevators, infinity swimming pool, and sky observation deck.",
     "lat": 18.558,
     "lng": 73.765
   },
@@ -4426,6 +5054,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Cielo in Bavdhan is nestled amidst lush green hills with clean air and great connectivity to Kothrud and the Pune-Bangalore Highway.",
     "lat": 18.5134,
     "lng": 73.7742
   },
@@ -4476,6 +5105,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Euphoria in Kharadi offers vibrant community living with over 30 lifestyle amenities, a central sports arena, and kid-friendly learning zones.",
     "lat": 18.552,
     "lng": 73.94
   },
@@ -4520,6 +5150,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Sierra on Baner-Sus Road provides breathtaking mountain horizons, 3-tier clubhouse amenities, and quick transit to Balewadi High Street.",
     "lat": 18.5575,
     "lng": 73.764
   },
@@ -4570,6 +5201,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Flamante by VTP Luxe is an opulent address in Kharadi Pune featuring Italian marble flooring, high-end fittings, private decks, and a sky observatory.",
     "lat": 18.5532,
     "lng": 73.943
   },
@@ -4614,6 +5246,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Aethereus offers modern township living with an integrated high-street retail promenade, health spa, and riverside lifestyle amenities in Mahalunge.",
     "lat": 18.5638,
     "lng": 73.7435
   },
@@ -4668,6 +5301,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Altitude is Wakad's premier commercial high-rise tower offering Grade-A corporate offices, retail spaces, and conference facilities right on the Mumbai-Pune Expressway exit.",
     "lat": 18.5985,
     "lng": 73.768
   },
@@ -4712,6 +5346,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Bellissimo in Hinjewadi Phase 1 features 3-side open residences with uninterrupted hill views, heated lap pool, and walking proximity to Wipro and Quadron IT Park.",
     "lat": 18.591,
     "lng": 73.738
   },
@@ -4756,6 +5391,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Hilife in Wakad is a ready-to-move-in lifestyle landmark featuring double-height club lounge, swimming pool, and prime location off Dange Chowk.",
     "lat": 18.599,
     "lng": 73.769
   },
@@ -4806,6 +5442,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Leonara is an established ready community within Township Codename Bluewaters in Mahalunge, offering lush river promenades and cricket academy.",
     "lat": 18.562,
     "lng": 73.741
   },
@@ -4856,6 +5493,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Belair offers comfortable contemporary family residences surrounded by pristine river views and 75% open spaces in Mahalunge.",
     "lat": 18.5625,
     "lng": 73.7415
   },
@@ -4900,6 +5538,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Alpine in Mahalunge Pune offers ready-possession homes with state-of-the-art gymnasium, multi-purpose hall, and jogging paths.",
     "lat": 18.5615,
     "lng": 73.7405
   },
@@ -4944,6 +5583,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Cygnus at Township Codename Pegasus in Kharadi is a fully integrated residential development with retail arcade and wellness club.",
     "lat": 18.5515,
     "lng": 73.939
   },
@@ -4988,6 +5628,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "VTP Beaumonde in Kharadi Pune delivers premier lifestyle residences with temperature-controlled swimming pool, indoor sports lounge, and business pods.",
     "lat": 18.5525,
     "lng": 73.941
   },
@@ -5038,6 +5679,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Villa Cerro is an exclusive hill-station retreat nestled in the mist-clad Sahyadri valley between Lonavala and Khopoli, offering private plunge pools and valley terraces.",
     "lat": 18.7892,
     "lng": 73.3421
   },
@@ -5082,6 +5724,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Godrej Woodside Estate along the Mumbai-Pune Expressway near Lonavala is an idyllic green township featuring a natural river stream, camping grounds, and grand clubhouse.",
     "lat": 18.8123,
     "lng": 73.3105
   },
@@ -5132,6 +5775,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "Lodha Alibaug near Awas Beach is Mumbai's most prestigious coastal sanctuary, providing private pool villas, coconut groves, speedboat dock access, and 5-star concierge services.",
     "lat": 18.7758,
     "lng": 72.8756
   },
@@ -5176,6 +5820,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Kids Play Area"
     ],
+    "description": "The House of Abhinandan Lodha Alibaug Reserve offers prime 7-star branded land and villa estates just 15 minutes from the Mandwa RORO ferry terminal.",
     "lat": 18.7905,
     "lng": 72.885
   },
@@ -5220,6 +5865,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "When you're living at Qrious by Life Republic – a new launch project offering 2 & 3 BHK flats in Hinjewadi, the very heart of Pune’s future.\n\r\nHere, every day the next chapter unfolds, Future opportun\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -5270,6 +5916,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Enjoy the different colours of the sky with four high-rising towers offering luxurious 3 and 4 BHK apartments that overlook the township from an impressive altitude of ~120M.\n\nYou once pictured a life\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -5314,6 +5961,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Rise above the mundane, everyday life and seek something extraordinary. This immersive and rejuvenating lifestyle at Aros, Life Republic, includes a thoughtfully designed 19,000 sq.ft. Club Aros, a me\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -5358,6 +6006,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "A multi-passionate modern family deserves a flexible atmosphere to explore and flourish in. A home that syncs with their aura. Atmos is a New Launch at Life Republic by Kolte Patil located near Hinjaw\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -5396,6 +6045,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Because while two hearts beat together and live together, they can have different expectations. So, here’s one address that has everything needed to complete these two worlds that live together under\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional ",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -5440,6 +6090,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "At Kolte Patil Echoes, childhood is designed to be truly carefree, where play flows across open, thoughtfully planned spaces and everyday moments turn into lasting memories.\n\r\nSet within a secure town\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -5484,6 +6135,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Welcome to 24K Espada, an urban cocoon of privacy and exclusivity. Located in well-connected Hinjawadi, it is part of a 400-acre integrated township. 24K Espada offers 4 & 5 bed premium row houses tha\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -5528,6 +6180,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "The {U}niverse at Life Republic is the cradle of a digital lifestyle in Pune. Powered by smart living solutions, you will be ensconced at the heart of every activity here. The Planet App, a proprietar\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -5572,6 +6225,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Welcome to the finest sector of Pune - Life Republic Oro Avenue. A dream come true for the modernized minds who seek urban spaces for their family at luxurious 2 BHK flats in Hinjewadi. These apartmen\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -5616,6 +6270,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Beautifully crafted to complement your chic and aristocratic personality, our exclusively designed residences at 24K Atria by Kolte-Patil Developers let you explore the true joy of grandeur. These ult\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers excepti",
     "lat": 18.5833,
     "lng": 73.7833
   },
@@ -5660,6 +6315,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "At the intersection of architectural brilliance and lifestyle sophistication, 24K Manor stands tall, a beacon of exclusivity and grandeur. Every aspect of this unparalleled offering has been meticulou\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers excepti",
     "lat": 18.5833,
     "lng": 73.7833
   },
@@ -5710,6 +6366,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Spread across 7.77 acres, each home at 24K Opula is built to perfection and adheres to the highest standards of quality and efficiency. The ongoing project in Pune by Kolte Patil Developers offers exc\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers excepti",
     "lat": 18.5833,
     "lng": 73.7833
   },
@@ -5754,6 +6411,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "24K Stargaze by Kolte Patil, not only offers you a place to reside but a home where you’ll enjoy every moment with your friends and family. Located in Bavdhan, which is just 5-kms away from Kothrud, t\n\nSituated in prime Bavdhan, Pune, this development by Kolte-Patil Developers delivers exceptional c",
     "lat": 18.5158,
     "lng": 73.7686
   },
@@ -5798,6 +6456,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "All its endearing charm and enduring greens, its strategic placement and pleasant peace, somehow felt incomplete. It craved for something that would add glitter to the greens and shimmer to the sunset\n\nSituated in prime Pimple Nilakh, Pune, this development by Kolte-Patil Developers delivers excepti",
     "lat": 18.5833,
     "lng": 73.7833
   },
@@ -5848,6 +6507,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Spread across 21.03 acres of master development in a rare riverside setting at Vadgaon Khurd on Sinhgad Road, The Reserve by Kolte-Patil brings together river-facing greens, scenic NDA hill views and\n\nSituated in prime Sinhagad Road, Pune, this development by Kolte-Patil Developers delivers exceptio",
     "lat": 18.4716,
     "lng": 73.8184
   },
@@ -5898,6 +6558,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "The Winds by Kolte-Patil is a thoughtfully designed residential development nestled in the natural valley of Bhugaon-where cleaner air, open greens, and seamless connectivity come together. Located mi\n\nSituated in prime Bhugaon, Pune, this development by Kolte-Patil Developers delivers exceptional c",
     "lat": 18.5089,
     "lng": 73.7324
   },
@@ -5942,6 +6603,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Step into your personal outdoor oasis at Springshire, where style and comfort blend seamlessly with nature. Whether you’re looking for 2 BHK flats in Wagholi, spacious 3 BHK flats in Wagholi Pune, or\n\nSituated in prime Wagholi, Pune, this development by Kolte-Patil Developers delivers exceptional co",
     "lat": 18.5808,
     "lng": 73.9787
   },
@@ -5992,6 +6654,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "A finely crafted 2, 2.5 & 3 BHK home in Pune promises a lot more than just a good living. It’s a bouquet of goodies! An enticing expanse of 25 acres, a gated community in Pune, serene environment, eye\n\nSituated in prime Kiwale, Pune, this development by Kolte-Patil Developers delivers exceptional co",
     "lat": 18.6653,
     "lng": 73.7256
   },
@@ -6036,6 +6699,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Spread over 16 acres of land, Western Avenue offers you holistic residential living in Wakad with 30+ lifestyle amenities—specially curated for recreation, relaxation, and rejuvenation—right in the he\n\nSituated in prime Wakad, Pune, this development by Kolte-Patil Developers delivers exceptional con",
     "lat": 18.5987,
     "lng": 73.7645
   },
@@ -6074,6 +6738,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "A home, a haven… an abode of bliss! Welcome to Centria by Kolte-Patil, a thoughtfully designed residential project in Undri, Pune, located in one of the city’s fastest-growing real estate corridors.\n\nSituated in prime Undri, Pune, this development by Kolte-Patil Developers delivers exceptional conne",
     "lat": 18.4552,
     "lng": 73.9118
   },
@@ -6118,6 +6783,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Spread across 6 acres of thoughtfully planned land, this residential project in Hinjewadi, Pune offers you a vibrant neighborhood right next to Rajiv Gandhi Infotech Park, India’s largest IT hub.\n\nThe\n\nSituated in prime Hinjewadi, Pune, this development by Kolte-Patil Developers delivers exceptional",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -6168,6 +6834,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Nestled in Wagholi, East Pune’s fastest-growing investment hub, Kolte Patil IVY Estate offers the perfect balance of community living and green living. These spacious and efficiently planned 1, 2 & 3\n\nSituated in prime Wagholi, Pune, this development by Kolte-Patil Developers delivers exceptional co",
     "lat": 18.5808,
     "lng": 73.9787
   },
@@ -6212,6 +6879,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Discover New Launch By Kolte Patil at Versova – a boutique residential address where Mumbai’s pace gently slows down. With thoughtfully designed 2 & 3 Bed residences, private balconies, and elegant la\n\nSituated in prime Versova, Andheri West, Mumbai, this development by Kolte-Patil Developers delive",
     "lat": 19.1319,
     "lng": 72.8164
   },
@@ -6256,6 +6924,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Vivere by Kolte Patil Developers is a premium residential development in Bangur Nagar, Goregaon (W), thoughtfully designed for elevated urban living. With excellent connectivity to the Western Express\n\nSituated in prime Goregaon West, Mumbai, this development by Kolte-Patil Developers delivers excep",
     "lat": 19.1663,
     "lng": 72.8402
   },
@@ -6300,6 +6969,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Welcome to Alora by Kolte-Patil Developers, an inspired edifice that celebrates life. Leisure is the essence of living here at Alora. The collage of memories you’ll create includes blissful moments li\n\nSituated in prime Santacruz East, Mumbai, this development by Kolte-Patil Developers delivers exce",
     "lat": 19.0843,
     "lng": 72.855
   },
@@ -6344,6 +7014,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
+    "description": "Welcome to La Vita by Kolte-Patil Developers – Vashi’s new landmark address of inspiration.\n\nLocated in the vibrant hub of Vashi, Navi Mumbai, La Vita offers seamless connectivity to premier shopping\n\nSituated in prime Navi Mumbai, Mumbai, this development by Kolte-Patil Developers delivers exceptio",
     "lat": 19.076,
     "lng": 72.9986
   },
@@ -6398,6 +7069,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Central Mango Orchard",
       "Open Podium Gym"
     ],
+    "description": "Wildernest at SP Kingstown by Shapoorji Pallonji Real Estate represents ultra-luxury living on the Pune-Solapur Highway in Shewalewadi (Hadapsar Annexe), Pune. Nestled inside a massive 130+ acre master township, Wildernest offers low-density living with only 4 apartments per floor, east-west facing ",
     "lat": 18.4963459,
     "lng": 73.9695155
   },
@@ -6442,6 +7114,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Digital Learning Dome",
       "Miyawaki Forest Zone"
     ],
+    "description": "Shapoorji Pallonji Vyomora is a visionary 25-acre integrated residential development located strategically in Hinjawadi Phase 1, Pune. Designed around biophilic living and intelligent smart homes, Vyomora offers contemporary 2 BHK, 3 BHK residences and exclusive duplexes.\n\nStarting from ₹78.00 L, th",
     "lat": 18.5912,
     "lng": 73.7194
   },
@@ -6492,6 +7165,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Putting Greens",
       "Temperature-Controlled Pool"
     ],
+    "description": "Vanaha Golfland by Shapoorji Pallonji Real Estate is an elite golf-front residential enclave situated adjacent to the Oxford Golf Resort in Bavdhan, Pune. Part of the 1,000-acre master township, Golfland offers panoramic views of the 18-hole championship golf course and surrounding Sahyadri hills.\n\n",
     "lat": 18.5158,
     "lng": 73.7684
   },
@@ -6542,6 +7216,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Gardens"
     ],
+    "description": "Vanaha Springs by Shapoorji Pallonji is a serene hill-facing residential enclave located in Bavdhan, Pune, near Chandani Chowk and the Oxford Valley. Offering ready and near-possession 1, 2, and 3 BHK homes starting from ₹53.50 L, Springs combines clean mountain air with rapid connectivity to Kothru",
     "lat": 18.5145,
     "lng": 73.7698
   },
@@ -6591,6 +7266,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "High-Tech Fitness Center",
       "Automated Multi-Level Parking"
     ],
+    "description": "BKC 28 by Shapoorji Pallonji Real Estate is an exclusive boutique high-rise development located in Kherwadi, Bandra East, Mumbai, minutes away from the Bandra-Kurla Complex (BKC) financial epicenter. Rising 22 storeys with only 4 apartments per floor, BKC 28 delivers smart, ultra-luxury 2 BHK homes ",
     "lat": 19.0607,
     "lng": 72.8524
   },
@@ -6641,6 +7317,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Private Elevator Foyer",
       "Luxury Wellness Spa & Sauna"
     ],
+    "description": "The Odyssey by Shapoorji Pallonji Real Estate is an ultra-luxury architectural masterpiece located off Marine Drive in Gamdevi, South Mumbai. Offering unobstructed panoramic vistas of the Arabian Sea and the Queen's Necklace, The Odyssey sets a new benchmark in bespoke high-rise luxury.\n\nFeaturing p",
     "lat": 18.9554,
     "lng": 72.8126
   },
@@ -6691,6 +7368,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Squash & Indoor Badminton Courts",
       "Gymnasium & Aerobics Studio"
     ],
+    "description": "Shapoorji Pallonji Vicinia is a premier 6.7-acre residential landmark located in Chandivali, Powai, Mumbai. Designed to provide a serene sanctuary amidst the bustling city, Vicinia offers ready-to-move 2, 3, and 3.5 BHK luxury residences.\n\nStarting from ₹2.10 Cr with Occupation Certificate (OC) rece",
     "lat": 19.1176,
     "lng": 72.8984
   },
@@ -6741,6 +7419,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Heated Swimming Pool",
       "Music & Performing Arts Studio"
     ],
+    "description": "Northern Lights by Shapoorji Pallonji Real Estate is a landmark 4.8-acre luxury residential community located on prime Pokhran Road No. 2, Thane West. Featuring towering high-rises including the prestigious Skyraa tower, the project offers thoughtfully engineered 2, 3, and 4 BHK homes.\n\nStarting fro",
     "lat": 19.2183,
     "lng": 72.9644
   },
@@ -6791,6 +7470,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "High-Altitude Observation Decks",
       "Temperature-Controlled Swimming Pool"
     ],
+    "description": "The Minerva is one of India's tallest and most iconic residential skyscrapers, soaring above Mahalaxmi Racecourse in South Mumbai. Developed in strategic collaboration with Shapoorji Pallonji Real Estate, this architectural wonder offers palatial 3.5 BHK, 4 BHK, and duplex sky mansions.\n\nStarting fr",
     "lat": 18.9827,
     "lng": 72.8258
   },
@@ -6835,6 +7515,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Kids Play Park"
     ],
+    "description": "Joyville Virar by Shapoorji Pallonji Real Estate is a sprawling master-planned residential township located in Virar West in the Mumbai Metropolitan Region (MMR). Built with Shapoorji's legendary engineering standards, the project offers thoughtfully designed 1 and 2 BHK residences.\n\nStarting from ₹",
     "lat": 19.4674,
     "lng": 72.8028
   },
@@ -6879,6 +7560,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Designer Clubhouse",
       "Hi-Tech Fitness Center"
     ],
+    "description": "The Canvas Residences by Shapoorji Pallonji (SD Corp) is an upscale harbour-facing residential tower located in Sewri West, South-Central Mumbai, right at the onset of the Mumbai Trans Harbour Link (Atal Setu). Offering premium 2 and 2.5 BHK residences with scenic views of the Arabian Sea and flamin",
     "lat": 18.9982,
     "lng": 72.8558
   },
@@ -6917,6 +7599,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Double-Height Grand Entrance Foyer",
       "Private Elevator Access"
     ],
+    "description": "The Designate by Shapoorji Pallonji Real Estate is an ultra-exclusive low-density luxury residence located in Khar West / Santacruz, Mumbai. Designed with only 2 private apartments per floor, The Designate offers bespoke 3 BHK luxury residences crafted for utmost privacy and distinction.\n\nStarting f",
     "lat": 19.0833,
     "lng": 72.8367
   },
@@ -6961,6 +7644,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Kohinoor Kaleido Phase 2 in Wagholi / New Kharadi spans 14 acres with 7 grand towers. Offering urban 2 & 3 Bed homes equipped with 35+ lifestyle amenities and seamless access to Kharadi IT hub.",
     "lat": 18.58,
     "lng": 73.98
   },
@@ -7005,6 +7689,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Topaz Towers by Aakar Developers is a premium residential development situated in the strategic corridor of Charholi Budruk, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P",
     "lat": 18.646,
     "lng": 73.8964
   },
@@ -7043,6 +7728,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Kartavya Srushti by Kartavya Udyog Vishwa is a premium residential development situated in the strategic corridor of Dhayari, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521000",
     "lat": 18.4454,
     "lng": 73.8172
   },
@@ -7087,6 +7773,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Aksha Ambar by Aksha Group Builders is a premium residential development situated in the strategic corridor of Dudulgaon, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P5",
     "lat": 18.6636,
     "lng": 73.8659
   },
@@ -7131,6 +7818,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Nirman Anamika by Nirman Developers is a premium residential development situated in the strategic corridor of Sadashiv Peth, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration ",
     "lat": 18.5083,
     "lng": 73.8511
   },
@@ -7169,6 +7857,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Aashirwad Homes by Arruj Group is a premium residential development situated in the strategic corridor of Ravet, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100021276 with 10",
     "lat": 18.6489,
     "lng": 73.748
   },
@@ -7213,6 +7902,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "33 Central Avenue by Garve Group is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521000",
     "lat": 18.6209,
     "lng": 73.7508
   },
@@ -7257,6 +7947,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Sankalp Torezza by Sankalp Group is a premium residential development situated in the strategic corridor of Ravet, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration PM126000260",
     "lat": 18.6499,
     "lng": 73.7388
   },
@@ -7301,6 +7992,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Dream Velmore by Dream Works Realtors is a premium residential development situated in the strategic corridor of Balewadi, Pune. Offering thoughtfully engineered 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration PM1",
     "lat": 18.5763,
     "lng": 73.7762
   },
@@ -7345,6 +8037,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "One Pearl by Guddwill Spaces is a premium residential development situated in the strategic corridor of Punawale, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration PR1260002601",
     "lat": 18.6238,
     "lng": 73.7394
   },
@@ -7383,6 +8076,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "5 Racecourse by SKYi is a premium residential development situated in the strategic corridor of Wanowrie, Pune. Offering thoughtfully engineered 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100077439 with 100% zero",
     "lat": 18.4869,
     "lng": 73.8955
   },
@@ -7427,6 +8121,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Nyati Elan West by Nyati Group is a premium residential development situated in the strategic corridor of Wagholi, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P5210000084",
     "lat": 18.5848,
     "lng": 73.9841
   },
@@ -7477,6 +8172,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Nyati Ekaant by Nyati Group is a premium residential development situated in the strategic corridor of Dhayari, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521000",
     "lat": 18.4495,
     "lng": 73.8154
   },
@@ -7521,6 +8217,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Nirman Adi by Nirman Developers is a premium residential development situated in the strategic corridor of Yerwada, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521000158",
     "lat": 18.5525,
     "lng": 73.8867
   },
@@ -7564,6 +8261,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Nyati Emblem by Nyati Group is a premium residential development situated in the strategic corridor of Parvati, Pune. Offering thoughtfully engineered 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100011601 with 100",
     "lat": 18.4972,
     "lng": 73.8461
   },
@@ -7608,6 +8306,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Saarrthi Skybizz by Saarrthi Group is a premium residential development situated in the strategic corridor of Mahalunge, Pune. Offering thoughtfully engineered Studio Suite, 1 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registratio",
     "lat": 18.5684,
     "lng": 73.7463
   },
@@ -7652,6 +8351,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Aksha Amulyam by Aksha Group Builders is a premium residential development situated in the strategic corridor of Moshi, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100",
     "lat": 18.6695,
     "lng": 73.8495
   },
@@ -7695,6 +8395,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Polaris Bavdhan by Excellaa Realty is a premium residential development situated in the strategic corridor of Bavdhan, Pune. Offering thoughtfully engineered 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100011330 w",
     "lat": 18.5131,
     "lng": 73.7655
   },
@@ -7738,6 +8439,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Elina Lite by Chaphalkar Karandikar is a premium residential development situated in the strategic corridor of Mohammed Wadi, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521000",
     "lat": 18.4811,
     "lng": 73.9204
   },
@@ -7782,6 +8484,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Suryam 89 by Uptitan Infra is a premium residential development situated in the strategic corridor of Wagholi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100013742 wi",
     "lat": 18.5828,
     "lng": 73.9834
   },
@@ -7825,6 +8528,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Presidia Kondhwa by Kundan Spaces is a premium residential development situated in the strategic corridor of Kondhwa, Pune. Offering thoughtfully engineered 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100015616 wi",
     "lat": 18.4705,
     "lng": 73.8894
   },
@@ -7863,6 +8567,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "9 Jagdish by Trisha Developers is a premium residential development situated in the strategic corridor of Erandwane, Pune. Offering thoughtfully engineered 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100078912 wit",
     "lat": 18.5109,
     "lng": 73.8299
   },
@@ -7907,6 +8612,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Shantiban II by A.K. Surana Developers is a premium residential development situated in the strategic corridor of Kondhwa, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52",
     "lat": 18.4703,
     "lng": 73.8896
   },
@@ -7957,6 +8663,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Arvaana Balewadi by Kundan Spaces is a premium residential development situated in the strategic corridor of Balewadi, Pune. Offering thoughtfully engineered 3.5 BHK, 4 BHK, 4.5 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registrat",
     "lat": 18.5749,
     "lng": 73.7789
   },
@@ -8007,6 +8714,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Sentosa Era by Sentosa Developers is a premium residential development situated in the strategic corridor of Moshi, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P",
     "lat": 18.6729,
     "lng": 73.8489
   },
@@ -8050,6 +8758,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Surekha Kothrud by Trisha Developers is a premium residential development situated in the strategic corridor of Kothrud, Pune. Offering thoughtfully engineered 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100014941",
     "lat": 18.5089,
     "lng": 73.8109
   },
@@ -8094,6 +8803,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Kundan Eternia by Kundan Spaces is a premium residential development situated in the strategic corridor of Ghorpadi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100015",
     "lat": 18.5308,
     "lng": 73.8962
   },
@@ -8132,6 +8842,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Suvarnaban Shivaji Nagar by Trisha Developers is a premium residential development situated in the strategic corridor of Shivaji Nagar, Pune. Offering thoughtfully engineered 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registrati",
     "lat": 18.5349,
     "lng": 73.8465
   },
@@ -8176,6 +8887,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "RBD Elina Legend by Chaphalkar Karandikar is a premium residential development situated in the strategic corridor of Mohammed Wadi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registr",
     "lat": 18.481,
     "lng": 73.92
   },
@@ -8220,6 +8932,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Platinum Citylight by Platinum Group is a premium residential development situated in the strategic corridor of Moshi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521000",
     "lat": 18.6744,
     "lng": 73.8514
   },
@@ -8263,6 +8976,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Amar Oasis by Amar Builders is a premium residential development situated in the strategic corridor of Pashan, Pune. Offering thoughtfully engineered 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100014346 with 100%",
     "lat": 18.5337,
     "lng": 73.7877
   },
@@ -8307,6 +9021,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Gagan Klara by Gagan Developers is a premium residential development situated in the strategic corridor of Balewadi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100010",
     "lat": 18.5755,
     "lng": 73.7704
   },
@@ -8345,6 +9060,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Wellwisher Abode by Wellwisher Group is a premium residential development situated in the strategic corridor of Kondhwa, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100014352",
     "lat": 18.4715,
     "lng": 73.8932
   },
@@ -8383,6 +9099,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Babar Classic Vista by Classic Properties is a premium residential development situated in the strategic corridor of Kondhwa, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521000",
     "lat": 18.478,
     "lng": 73.8853
   },
@@ -8427,6 +9144,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Shree Shivtirth by Ranade Realtors is a premium residential development situated in the strategic corridor of Erandwane, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P5210",
     "lat": 18.5093,
     "lng": 73.8305
   },
@@ -8471,6 +9189,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Gandharv Leela by Gandharv Developers is a premium residential development situated in the strategic corridor of Hadapsar, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52",
     "lat": 18.5097,
     "lng": 73.9248
   },
@@ -8521,6 +9240,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Prajakta Karve Nagar by Gangotree Homes is a premium residential development situated in the strategic corridor of Karve Nagar, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA re",
     "lat": 18.4915,
     "lng": 73.8228
   },
@@ -8565,6 +9285,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Pandit Mayflower by Pandit Javadekar is a premium residential development situated in the strategic corridor of Shivaji Nagar, Pune. Offering thoughtfully engineered 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration",
     "lat": 18.533,
     "lng": 73.8488
   },
@@ -8609,6 +9330,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Placidia Akurdi by Vision Group is a premium residential development situated in the strategic corridor of Akurdi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P5210001613",
     "lat": 18.6459,
     "lng": 73.7699
   },
@@ -8653,6 +9375,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Shree Sonigara Ekam by Shree Sonigara Developers is a premium residential development situated in the strategic corridor of Ravet, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registra",
     "lat": 18.6457,
     "lng": 73.7408
   },
@@ -8703,6 +9426,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "6 Boulevard by Namrata Group is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521",
     "lat": 18.6191,
     "lng": 73.7592
   },
@@ -8747,6 +9471,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Kimaya One by Kimaya Group is a premium residential development situated in the strategic corridor of Balewadi, Pune. Offering thoughtfully engineered 2 BHK, 4.5 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100012787",
     "lat": 18.5787,
     "lng": 73.77
   },
@@ -8791,6 +9516,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Multi-Tier Clubhouse & Sports Court",
       "Vastu Compliant 2 & 3 BHK Homes"
     ],
+    "description": "Krisala Aventis Tathawade is a premium high-rise project positioned near Indira College and the Mumbai-Pune Expressway in West Pune. Featuring smart multi-tier layouts, cross-ventilated living spaces, infinity pool, and co-working pod amenities.",
     "lat": 18.6216,
     "lng": 73.7585
   },
@@ -8835,6 +9561,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "The Orchids Bavdhan by A.K. Surana Developers is a premium residential development situated in the strategic corridor of Bavdhan, Pune. Offering thoughtfully engineered 2 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registrat",
     "lat": 18.52,
     "lng": 73.7729
   },
@@ -8878,6 +9605,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "54 Flores Drive by Bhandari Associates is a premium residential development situated in the strategic corridor of Hadapsar, Pune. Offering thoughtfully engineered 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100017",
     "lat": 18.5089,
     "lng": 73.9217
   },
@@ -8922,6 +9650,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Leela Heights by Vishal Properties is a premium residential development situated in the strategic corridor of Wakad, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100011",
     "lat": 18.6037,
     "lng": 73.7719
   },
@@ -8966,6 +9695,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Madhunirmal Kothrud by Trisha Developers is a premium residential development situated in the strategic corridor of Kothrud, Pune. Offering thoughtfully engineered 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P",
     "lat": 18.5069,
     "lng": 73.8084
   },
@@ -9009,6 +9739,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Legacy Highpoint by Legacy Lifespaces is a premium residential development situated in the strategic corridor of Punawale, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521000135",
     "lat": 18.6231,
     "lng": 73.7386
   },
@@ -9053,6 +9784,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Nirman Shreyas by Nirman Developers is a premium residential development situated in the strategic corridor of Shivaji Nagar, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration ",
     "lat": 18.535,
     "lng": 73.8463
   },
@@ -9097,6 +9829,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Mahalaxmi Elegance by Mahalaxmi Construction is a premium residential development situated in the strategic corridor of Undri, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration",
     "lat": 18.4583,
     "lng": 73.9086
   },
@@ -9141,6 +9874,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Visoka Keystone by Visoka Developer is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521",
     "lat": 18.6204,
     "lng": 73.7568
   },
@@ -9185,6 +9919,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Sahyadri Plumeria by Sahyadri Landmarks is a premium residential development situated in the strategic corridor of Moshi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521",
     "lat": 18.6722,
     "lng": 73.8488
   },
@@ -9229,6 +9964,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Laxmi Green by Darsheel Group is a premium residential development situated in the strategic corridor of Ambegaon Budruk, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P521",
     "lat": 18.4535,
     "lng": 73.8343
   },
@@ -9273,6 +10009,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Parshwa Greens by Parshwa Realty is a premium residential development situated in the strategic corridor of Moshi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P5210001701",
     "lat": 18.676,
     "lng": 73.8434
   },
@@ -9317,6 +10054,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Celestial City by Rama Group is a premium residential development situated in the strategic corridor of Ravet, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100017814 wi",
     "lat": 18.6488,
     "lng": 73.7427
   },
@@ -9373,6 +10111,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Nova Residency by Magarpatta Builders is a premium residential development situated in the strategic corridor of Mundhwa, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK, 3 BHK, 3.5 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA",
     "lat": 18.5363,
     "lng": 73.9216
   },
@@ -9417,6 +10156,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Ganga Nakshatra by Goel Ganga Developments is a premium residential development situated in the strategic corridor of Bibwewadi, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registrati",
     "lat": 18.4814,
     "lng": 73.8687
   },
@@ -9467,6 +10207,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Pristine Allure by Pristine Properties is a premium residential development situated in the strategic corridor of Kharadi, Pune. Offering thoughtfully engineered 2 BHK, 2.5 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registr",
     "lat": 18.5504,
     "lng": 73.9341
   },
@@ -9523,6 +10264,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Purva Silversands by Puravankara Limited is a premium residential development situated in the strategic corridor of Mundhwa, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK, 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA ",
     "lat": 18.5409,
     "lng": 73.9176
   },
@@ -9567,6 +10309,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Ganga Vasant by Goel Ganga Developments is a premium residential development situated in the strategic corridor of Hadapsar, Pune. Offering thoughtfully engineered 1 BHK, 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P",
     "lat": 18.51,
     "lng": 73.9214
   },
@@ -9611,6 +10354,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Infini Jagtap City by Infini Realty is a premium residential development situated in the strategic corridor of Charholi Budruk, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registratio",
     "lat": 18.648,
     "lng": 73.8905
   },
@@ -9661,6 +10405,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Shubh Veda by Shubh Developers is a premium residential development situated in the strategic corridor of Akurdi, Pune. Offering thoughtfully engineered 3 BHK, 3.5 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52",
     "lat": 18.6491,
     "lng": 73.7685
   },
@@ -9699,6 +10444,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Trio Sync by Sync Realty is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered Studio Suite homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100032114 wi",
     "lat": 18.6204,
     "lng": 73.7544
   },
@@ -9743,6 +10489,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Neopolis by Kolte-Patil Developers is a premium residential development situated in the strategic corridor of Tathawade, Pune. Offering thoughtfully engineered 2 BHK, 3 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P5210",
     "lat": 18.6158,
     "lng": 73.7524
   },
@@ -9787,6 +10534,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Highness Wakad by Pristine Properties is a premium residential development situated in the strategic corridor of Wakad, Pune. Offering thoughtfully engineered 3 BHK, 4 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100",
     "lat": 18.6021,
     "lng": 73.7733
   },
@@ -9830,6 +10578,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fully Equipped Gymnasium",
       "Children's Play Enclave"
     ],
+    "description": "Shubham Karoti by Karoti Builders is a premium residential development situated in the strategic corridor of Bavdhan, Pune. Offering thoughtfully engineered 2 BHK homes with modern lifestyle amenities, grand clubhouse, and landscaped open spaces.\n\nVerified under MahaRERA registration P52100025619 wi",
     "lat": 18.5122,
     "lng": 73.7713
   },
@@ -9880,6 +10629,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Library",
       "Sports Court"
     ],
+    "description": "Mahindra Rivenza by Mahindra Lifespaces is a ~13.46-acre gated community in Baner Annex – village Nande, off the Baner–Hinjawadi Road, between Mahalunge and Hinjawadi, with the Mula river and hills alongside. The launch covers six high-rise towers (T1–T6) with 1,236 homes in RERA-registered Phase 1 ",
     "lat": 18.5602,
     "lng": 73.72
   },
@@ -9924,6 +10674,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Tulip infinity solaria Tathawade by Tulip realty is a modern residential project in Tathawade, Pune, spread over 1.53 acres. It features three towers with 2, 3 and 4 BHK apartments starting from ₹82.50 Lakhs. Residents can enjoy 50+ lifestyle amenities including a clubhouse, swimming pool, gym, and ",
     "lat": 18.6275,
     "lng": 73.7373
   },
@@ -9967,6 +10718,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Sports Court"
     ],
+    "description": "Supreme Villagio is a gated villa community by Supreme Universal in Somatane, off the old Mumbai-Pune highway, about 10 minutes from Dehu Road. After its sold-out first phases of 3 BHK townhouses and 5 BHK twin villas, the next phases bring 4 BHK townhouses and 4 BHK twin villas, all ground plus two",
     "lat": 18.726,
     "lng": 73.7014
   },
@@ -10005,6 +10757,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Sathe 24 Kalpavriksha is a boutique residential project by Sathe Gandhi Builders in Baner, Pune, offering just 24 exclusive 3 BHK residences, priced between ₹1.70 Cr and ₹1.75 Cr. It's located along the Baner-Pashan Link Road, close to Parihar Chowk, Westend Mall, Jupiter Hospital, and Balewadi High",
     "lat": 18.5585,
     "lng": 73.8079
   },
@@ -10049,6 +10802,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Library"
     ],
+    "description": "The Arista by Cristallo Infra LLP is a single-tower residential project in Vishal Nagar, Pimple Nilakh, Pune 411027, on a land parcel of about 0.66 acre (around 27,000 sq ft). It offers 3 BHK apartments of 1,210 to 1,605 sq ft carpet, 4 BHK apartments of 1,669 to 1,994 sq ft carpet, and duplex Sky V",
     "lat": 18.581,
     "lng": 73.7937
   },
@@ -10093,6 +10847,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Avani Amara is a residential project by Avani Housing, developed with Bansall, in Keshav Nagar, Mundhwa, Pune, opposite the Godrej substation (Sr. No. 9 to 14/1/49). Spread over about 2 acres, it has five connected towers of ground plus 20 floors with 2 and 3 BHK homes that the developer calls Signa",
     "lat": 18.5366,
     "lng": 73.9181
   },
@@ -10137,6 +10892,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Library",
       "Sports Court"
     ],
+    "description": "Godrej Skyline is a luxury residential development by Godrej Properties in Koregaon Park Annexe, Mundhwa, Pune, on a 3.75-acre land parcel at the corner of a 30 m and an 18 m wide road. Four towers rise to B + G + UG + 5 podium levels + 29 floors, and each tower holds only one home type: Towers 1 an",
     "lat": 18.5357,
     "lng": 73.913
   },
@@ -10187,6 +10943,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Raheja Vistas is a 7.5-acre residential project by K Raheja Corp Homes near Mahalunge Circle in Mahalunge, West Pune, about 1.5 km from Hinjewadi. It is part of K Raheja Corp's integrated township across Mahalunge, Maan and Hinjewadi, which gives residents access to a 7.5-acre landscaped central par",
     "lat": 18.5755,
     "lng": 73.7504
   },
@@ -10231,6 +10988,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Sports Court"
     ],
+    "description": "Privia Naimish on Spine Road, Pimpri-Chinchwad is a premium residential project offering spacious 2 & 3 BHK homes with Jodi options, designed for modern urban living. Strategically located near key hubs, it features an integrated commercial zone and two-level lifestyle amenities including a sky loun",
     "lat": 18.6862,
     "lng": 73.8169
   },
@@ -10293,6 +11051,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Sports Court"
     ],
+    "description": "Supreme Towers is a luxury residential project by Supreme Universal, with Sukhwani Realty, in Koregaon Park Annexe, Mundhwa, Pune, near The Westin. Two towers stand on a 3-acre land parcel, each with a basement, ground and podium level and 32 residential floors, and a Cloud Walk sky bridge on level ",
     "lat": 18.5398,
     "lng": 73.9151
   },
@@ -10337,6 +11096,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Atlantis is a residential and retail project in Sector 7, Pradhikaran, Indrayani Nagar, Bhosari, developed by Kesar Group with Tulsi Promoters India and Atharva Buildcon. Above shops on the ground, mezzanine and part of the first floor, it offers 3 and 4 BHK homes that the developer calls villaments",
     "lat": 18.6308,
     "lng": 73.8447
   },
@@ -10380,6 +11140,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Vision Ekaan in Moshi, Pimpri Chinchwad, offers thoughtfully designed 2 BHK homes for families and first-time buyers looking for comfort at a value-driven price. Moshi is a fast-growing residential hub with good connectivity to the Pune-Nashik Highway, major IT and industrial belts, schools, hospita",
     "lat": 18.6286,
     "lng": 73.8518
   },
@@ -10424,6 +11185,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Shreenidhi in Pashan offers premium 2 & 3 BHK residences thoughtfully planned across a 1-acre land parcel with a modern tower, combining elegant design, quality amenities, and excellent city connectivity. Starting at ₹99 Lakhs onwards, the project is ideal for homebuyers seeking comfortable and upsc",
     "lat": 18.5636,
     "lng": 73.7848
   },
@@ -10467,6 +11229,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Swimming Pool"
     ],
+    "description": "Santiago Skyworld 2.0 is a new 12-storey residential tower with ground-floor shops by Santiago on Sector 7 Road, Indrayani Nagar, Bhosari, in the Pradhikaran area of Pimpri-Chinchwad, and the second Skyworld project after Santiago Skyworld on Spine Road. It has only six homes per floor, all 3 BHK, w",
     "lat": 18.6227,
     "lng": 73.8451
   },
@@ -10510,6 +11273,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Swimming Pool"
     ],
+    "description": "Kosha is a luxury tower of 4.5 BHK homes on South Main Road, Koregaon Park, near Blossom Boulevard, by Konbil Group and Chandra Prabha Developers through Hydepark Developers LLP. With only four residences per floor and 3.9-metre floor-to-ceiling heights, it offers three kinds of home, each with four",
     "lat": 18.5396,
     "lng": 73.8984
   },
@@ -10554,6 +11318,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Hiranandani Mamurdi is a luxurious residential project offering 2 & 3 BHK apartments with 50+ premium amenities, designed by the renowned architect Arco. Located in Pune’s sought-after western suburbs, it combines eco-friendly landscapes with modern living. Backed by the trusted Hiranandani Group, t",
     "lat": 18.6377,
     "lng": 73.7089
   },
@@ -10597,6 +11362,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Gaikwad Unico in Ravet, Pune, is a premium residential project by Gaikwad Corp offering spacious 3BHK apartments with carpet areas ranging from 970 to 1200 sq. ft. Designed for modern families, these well-planned homes feature smart layouts, quality finishes, and ample natural light. The project als",
     "lat": 18.6497,
     "lng": 73.7388
   },
@@ -10641,6 +11407,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Sports Court"
     ],
+    "description": "The Reserve is a low-density residential project by Lohia Jain Malpani Properties (promoter LJM Estate LLP, in association with Kodre Realty) at Pingale Wasti, Mundhwa, near the Mundhwa Passport Seva Kendra, in the stretch better known as Koregaon Park Annexe. Spread over 4.25 acres, it has three to",
     "lat": 18.5382,
     "lng": 73.9206
   },
@@ -10691,6 +11458,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Jogging Track",
       "Swimming Pool"
     ],
+    "description": "Zenone in Wakad is a contemporary mixed-use development spread across 2.25 acres, featuring 3 residential towers and 1 commercial tower, with Phase 1 already completed. The project boasts a Basement + Ground + 12-floor elevation, 3 high-speed elevators, and thoughtfully designed amenities and open s",
     "lat": 18.6009,
     "lng": 73.7644
   },
@@ -10741,6 +11509,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Library"
     ],
+    "description": "Venkatesh Vanaya is a 10-acre residential project by Venkatesh Buildcon on Old Mundhwa Road, near Oxygen Park in Kharadi, with 4, 3 and 2 BHK homes in 21-storey towers above four levels of parking. The 2 BHK homes have about 777 to 849 sq ft of total carpet area and start at ₹1.02 crore, the 3 BHK h",
     "lat": 18.5535,
     "lng": 73.9335
   },
@@ -10791,6 +11560,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Landscaped Garden"
     ],
+    "description": "Petals by Pashankar Developers is a residential project at Sr. No. 27/1, near Raghunandan Lawns, Nimbalkar Nagar, Tathawade, about 400 m from Dange Chowk and 100 m from the Aundh-Ravet BRTS road. Six wings, A to F, of basement, ground and seven floors hold 147 homes in five layouts: 1 BHK of 438 and",
     "lat": 18.6168,
     "lng": 73.7509
   },
@@ -10835,6 +11605,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Co-working Lounge"
     ],
+    "description": "Dream Delmont is a residential project by Dream Works Realtors in Bavdhan Budruk, Pune, near Arihant College and about two minutes from Chandni Chowk. It has five towers of up to 24 floors on about 4 acres, with four homes on each floor. It offers 2 BHK homes of 825 sq ft from ₹1.07 crore and 3 BHK ",
     "lat": 18.5208,
     "lng": 73.7744
   },
@@ -10870,6 +11641,7 @@ export const PROJECT_SUMMARIES: Project[] = [
     "features": [
       "EV Charging"
     ],
+    "description": "Sai Kripa Commercial is the retail floor of Sai Kripa, Krishna Rama Developer's building on Plot No. 415, Sector 29, Ganesh Nagar, Ravet, in the Pradhikaran area of Pimpri-Chinchwad. Eight shops, numbered 01 to 08, line the ground floor behind glass shopfronts facing a 10.5 m road, with 5 m driveway",
     "lat": 18.648,
     "lng": 73.7413
   },
@@ -10914,6 +11686,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Purva Aspire is a residential project by Puravankara at the foothills of the NDA hills in Bavdhan, Pune, on a 2.5-acre land parcel with two towers of basement, ground, podium and 17 storeys. Its 2 and 3 BHK homes are built around the developer's Twin Living idea: an indoor living room plus an outdoo",
     "lat": 18.5175,
     "lng": 73.7705
   },
@@ -10957,6 +11730,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Jogging Track"
     ],
+    "description": "Pride World City Boston is a cluster of compact 2 BHK homes in Pride Group's 400-acre Pride World City township at Charholi Budruk in north-east Pune. Planned on about 8.5 acres as ten towers of 23 floors with around 1,800 homes, it is registered with MahaRERA so far in two phases: P52100049648 for ",
     "lat": 18.6448,
     "lng": 73.8986
   },
@@ -11007,6 +11781,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Jogging Track"
     ],
+    "description": "Celestia Heights is a residential project by Prapti Buildcon on Kate Wasti Road in Punawale, beside the Kate Wasti forest, with two towers of two basements, ground and 14 storeys. It offers 2 BHK homes of about 747 to 782 sq ft from ₹68 lakh and 3 BHK homes of about 1,044 to 1,049 sq ft from ₹95 lak",
     "lat": 18.6265,
     "lng": 73.7396
   },
@@ -11051,6 +11826,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Skyway Elite in Punawale, Pune offers 2 and 3 BHK flats in one of West Pune’s fastest-growing residential areas. Punawale is known for good connectivity to Hinjewadi and the highway, and it costs less than Wakad, Hinjewadi or Balewadi. It suits first-time buyers and upgraders who want modern, well-p",
     "lat": 18.6443,
     "lng": 73.7693
   },
@@ -11095,6 +11871,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Swimming Pool"
     ],
+    "description": "VTP Codename Never Before East is an upcoming VTP Luxe project of duplex 'villas in the sky' in VTP's Township Codename Pegasus, New Kharadi, East Pune, near the township's West Gate and the Mula-Mutha riverside road. The tentative master plan shows two 34-storey towers (T1 and T2) with 17 lower and",
     "lat": 18.5209,
     "lng": 73.9742
   },
@@ -11133,6 +11910,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Landscaped Garden"
     ],
+    "description": "18 Aangan is a gated enclave of just 18 independent 3 BHK row houses by Four Pillars in Maan, off Maan Road near Hinjewadi Phase 1 and the Rajiv Gandhi Infotech Park, with Rising Spaces as strategic partner. Each row house has its own entrance, a private car porch, front and rear gardens (side garde",
     "lat": 18.5921,
     "lng": 73.7116
   },
@@ -11171,6 +11949,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Adi Aarambh by Adi Realtors is a small boutique project in Balewadi, Pune: one tower with 12 residential units on about 0.14 acres, and around 7 storeys. The 2 BHKs are roughly 800 sq ft. The project is RERA registered (P52100079803), with possession scheduled for August 2026. That date has already ",
     "lat": 18.578,
     "lng": 73.7744
   },
@@ -11215,6 +11994,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Garden",
       "Covered Parking"
     ],
+    "description": "Skyone is a boutique residential project by Nawani Developers on Ravet Road in Walhekarwadi, Chinchwad, near Rajyog Petrol Pump, on a plot of about a quarter of an acre. Its two buildings now launching, B and C, have just 36 homes on six floors above basement and ground-floor parking, and every flat",
     "lat": 18.637,
     "lng": 73.7594
   },
@@ -11259,6 +12039,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Jogging Track"
     ],
+    "description": "Pride World City Valencia is the newest cluster of Pride Group's 400-acre Pride World City township at Charholi Budruk in north-east Pune, launched in October 2026. The 5.9-acre cluster is planned with five residential towers, a clubhouse with a swimming pool and a retail high street; its first Maha",
     "lat": 18.6516,
     "lng": 73.8992
   },
@@ -11309,6 +12090,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Jogging Track"
     ],
+    "description": "Pride World City Miami is a cluster of 2, 3 and 4.5 BHK homes in Pride Group's 400-acre Pride World City township at Charholi Budruk in north-east Pune. On about 10 acres, it is planned as nine towers of 23 floors with about 1,200 homes, many facing the hills, and is registered with MahaRERA in two ",
     "lat": 18.6497,
     "lng": 73.8966
   },
@@ -11359,6 +12141,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Library",
       "Sports Court"
     ],
+    "description": "Palladio Presidential Towers is a new residential project by Vilas Javdekar Developers (VJ), in association with Tupe Developers, in Sector 2 of the Hadapsar Central community beside Leisure Town, east of Amanora Park Town and Magarpatta City in Hadapsar. Six towers, T1 to T6, are planned with up to",
     "lat": 18.505,
     "lng": 73.9279
   },
@@ -11400,6 +12183,7 @@ export const PROJECT_SUMMARIES: Project[] = [
     "features": [
       "Covered Parking"
     ],
+    "description": "Tulip Infinity Evana Commercial is the shops-and-offices part of Tulip Infinity Evana at Rasikwadi, Punawale, Pune, by Varma Corp (the new name of the Tulip Group) with S.M. Group. It fills the podium along the project's main-road frontage, under the same MahaRERA registration, P52100078471, with a ",
     "lat": 18.6294,
     "lng": 73.7329
   },
@@ -11436,6 +12220,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Covered Parking"
     ],
+    "description": "Vitthal Nirvana is a residential project by Vissionary Developers on Plot 12, Sector 24, Nigdi Pradhikaran, near Geeta Pavbhaji and opposite Axis Bank, on a 24 m wide road. It is a seven-storey building with just 14 three-bedroom homes, two on each floor, above covered car parking on the ground floo",
     "lat": 18.661,
     "lng": 73.7661
   },
@@ -11498,6 +12283,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rooftop Stargazing Observatory & Skywalk",
       "Zero Wastage Space Planning"
     ],
+    "description": "Rohan Harita in Tathawade spans across a 38,900 sq meter green-sanctuary layout featuring tall 38-storey towers positioned near JSPM College. Incorporates lush tree groves, reflexology trails, Olympic-length pool, and cross-ventilated homes.",
     "lat": 18.6234,
     "lng": 73.7593
   },
@@ -11541,6 +12327,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "One Place Baner (listed as New Unicon One Place) is a commercial development by Mittal Brothers on Pan Card Club Road, Baner, Pune. It offers 104 offices and 75 shops, so it suits small and mid-sized businesses more than large corporate occupiers. The surrounding area has restaurants, malls and medi",
     "lat": 18.5613,
     "lng": 73.7821
   },
@@ -11590,6 +12377,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Grade-A Corporate Glass Facade",
       "High Rental Yield Prime Heritage Zone"
     ],
+    "description": "Tej One FC Road is an ultra-prestigious commercial boutique address positioned at Goodluck Chowk on Ferguson College (FC) Road, Deccan Gymkhana, Pune. Offering Grade-A corporate offices, premium retail frontages, and robotic automated parking.",
     "lat": 18.5134,
     "lng": 73.8431
   },
@@ -11634,6 +12422,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Garve The Cullinan in Pimple Nilakh is a premium commercial landmark by Garve, offering world-class showrooms, high-street retail, and futuristic office spaces designed to blend luxury, functionality, and innovation. Strategically located in a thriving business hub, it ensures excellent visibility, ",
     "lat": 18.578,
     "lng": 73.7949
   },
@@ -11678,6 +12467,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "ASAP Tishya, branded \"Tishya – The Beginning\", is a boutique residential tower by ASAP Spaces on Ashiyana Park Lane No. 2 in Aundh, Pune, near Baner Road. It holds just 12 homes on six residential floors, two to a floor: six 3 BHK homes of 1,667 sq ft total carpet area (2,251 sq ft saleable) and six",
     "lat": 18.5597,
     "lng": 73.8098
   },
@@ -11721,6 +12511,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
+    "description": "Excellaa Virtu is a nearly complete project of exclusive 3 BHK homes on Jagtap Dairy Road in Vishal Nagar, Pimple Nilakh, Pune, by Excellaa Realty as part of its Gold Collection. It is registered with MahaRERA as P52100054268, and both the RERA date and the developer's commitment for possession are ",
     "lat": 18.5869,
     "lng": 73.7948
   },
@@ -11764,6 +12555,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Garden"
     ],
+    "description": "Excellaa TOTT, launched under the name Codename TOTT (\"Talk of the Town\"), is a pre-launch residential project by Excellaa Realty on the 45-metre Hinjawadi–Maan Road in Maan, west of Hinjewadi Phase 1, Pune. Spread over more than 10 acres, the master layout shows seven buildings (A to G) around a la",
     "lat": 18.588,
     "lng": 73.7127
   },
@@ -11814,6 +12606,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Covered Parking",
       "Kids' Play Area"
     ],
+    "description": "The Vantage is a residential and commercial project by Kuber Properties in Wakad, behind Hotel Tip Top International near the Mumbai-Bengaluru highway, on an 18 m access road towards Bhumkar Wasti Road. The architect's master plan shows four residential towers of two basements, a podium and 13 floor",
     "lat": 18.6019,
     "lng": 73.7675
   },
@@ -11864,6 +12657,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Sports Court"
     ],
+    "description": "Sukhwani Gemzs is a low-density residential project by Prime Properties, a Sukhwani Group company, on Thakar Nagar Road in Maan, near Hinjewadi. It is registered with MahaRERA as PR1260002601952. The 4,250 sq m (about 1.05 acre) parcel holds the homes and a separate amenity parcel, with about 4,500 ",
     "lat": 18.5897,
     "lng": 73.7121
   },
@@ -11920,6 +12714,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Pristine Amore is a luxury residential project by Pristine Properties on Late Sopanrao Trimbakrao Mulik Road in Kalyani Nagar, opposite Cerebrum IT Park. It is registered with MahaRERA as PR1261012600653, with Pristine Landmark Spaces LLP as the promoter, and possession is planned for December 2030.",
     "lat": 18.5428,
     "lng": 73.906
   },
@@ -11962,6 +12757,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "CCTV Surveillance",
       "Rainwater Harvesting"
     ],
+    "description": "Pristine Amore Highstreet is the retail podium of Pristine Amore, a Pristine Properties project on Late Sopanrao Trimbakrao Mulik Road in Kalyani Nagar, opposite Cerebrum IT Park. It fronts the 18 m Cerebrum Road and an 18 m driveway, shares the homes' MahaRERA registration (PR1261012600653) and has",
     "lat": 18.5475,
     "lng": 73.8987
   },
@@ -12018,6 +12814,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "QUE 101 is a 12-acre residential community by Unique Properties on Bharat Mata Road in Dhanori, north-east Pune, about 6 km from Pune airport. Phase I is registered with MahaRERA as PM1261012602127 (promoter ANNR Unique Realty LLP). The master plan shows 12 towers, A to L, around a 40,000 sq ft cent",
     "lat": 18.5849,
     "lng": 73.8961
   },
@@ -12062,6 +12859,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Swimming Pool"
     ],
+    "description": "Amorapolis is a Nirman Greens residential community at Survey No. 12, Dhanori, Pune 411015, built in phases by Krisna Nirmaan Skyscraper LLP. Its earlier wings are registered with MahaRERA, and the newest, Wing I, is now on sale. Wing I's typical floor plan has six homes a floor: two 2 BHK homes of ",
     "lat": 18.5823,
     "lng": 73.8911
   },
@@ -12106,6 +12904,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Smruti Garden in Kiwale is a thoughtfully planned residential project spread across 1 acre, featuring a single well-designed tower offering spacious 2 & 3 BHK homes starting from just ₹76 lakhs (negotiable). Ideal for modern families, the project combines comfortable living with good connectivity to",
     "lat": 18.655,
     "lng": 73.7276
   },
@@ -12150,6 +12949,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Stalwart Business Enclave by Kiran Creators & Developers is a 12-storey commercial landmark on the Aundh–Baner Link Road in Baner, near Jupiter Hospital, with premium corporate offices and exclusive showrooms for corporates, IT and consulting firms, doctors, CAs, lawyers, architects and brands. Offi",
     "lat": 18.5637,
     "lng": 73.7918
   },
@@ -12193,6 +12993,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Soundproof Acoustic Double-Glazed Windows",
       "Private Elevator Access"
     ],
+    "description": "Tej Midtown on Ganeshkhind Road in Modibaug, Shivajinagar, is an elite luxury residential tower offering ultra-spacious 3 BHK residences. Designed with grand 11-foot clear ceilings, sound-insulated glass, and multi-tier smart home security.",
     "lat": 18.5318,
     "lng": 73.8424
   },
@@ -12228,6 +13029,7 @@ export const PROJECT_SUMMARIES: Project[] = [
     "features": [
       "Gymnasium"
     ],
+    "description": "38 Daffodils is a building of pre-leased, fully furnished studio apartments by Bluepearl (Blue Pearl Realty) at Sr. No. 38, Pancard Club Road, Baner, opposite Ambrosia Galaxy and behind Costa Blanca Society. It is registered with MahaRERA as PR1260002500765, with a proposed completion date of Novemb",
     "lat": 18.557,
     "lng": 73.7883
   },
@@ -12272,6 +13074,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Jogging Track"
     ],
+    "description": "Codename Vybe, also called the Luxury Riverine Collection, is a pre-launch residential project at Anand Nagar on Sinhagad Road, marketed by Ranawat Group with Welworth Realty. It has no MahaRERA registration number yet, and the developer has not published prices, a possession date, the land area or ",
     "lat": 18.4783,
     "lng": 73.8181
   },
@@ -12322,6 +13125,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Swimming Pool"
     ],
+    "description": "Mangalam Momento is a two-tower residential project by Mangalam Landmarks on the Pune–Nashik Highway in Moshi, beside Moshi Fire Station and near Bharat Mata Chowk. It is registered with MahaRERA as PR1260002601445, with Preetam Prakash Associates as the promoter, and possession is planned for Decem",
     "lat": 18.6699,
     "lng": 73.8431
   },
@@ -12363,6 +13167,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Covered Parking",
       "EV Charging"
     ],
+    "description": "Godrej Skyline Commercial is the high-street retail podium of Godrej Skyline, the Godrej Properties project on Ghorpadi–Mundhwa Road in Koregaon Park Annexe, Mundhwa, registered with MahaRERA as PM1260002400007. The shops sit at the base of the residential towers, along a 30 m DP road and an 18 m DP",
     "lat": 18.5326,
     "lng": 73.9207
   },
@@ -12413,6 +13218,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Garden"
     ],
+    "description": "Luxton by Saheel Commercial is the retail and office block of Luxton by Saheel, a mixed-use project by Saheel Properties at Survey No. 111/1/2, next to Indira School near Shani Mandir Road in Wakad. It is registered with MahaRERA as PM1260002502043, with Neev Sai Developers as the promoter. The grou",
     "lat": 18.6028,
     "lng": 73.768
   },
@@ -12457,6 +13263,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Arkaa Galaxy is a residential project by Agarwal and Bhondve Buildcon LLP in Ravet, behind the PCMC water tank near Chandrabhaga Corner Lane. It is registered with MahaRERA as P52100045836, with completion proposed for April 2029. On a 3,000 sq m plot, two towers rise 14 storeys above a ground floor",
     "lat": 18.6507,
     "lng": 73.7444
   },
@@ -12498,6 +13305,7 @@ export const PROJECT_SUMMARIES: Project[] = [
     "features": [
       "Covered Parking"
     ],
+    "description": "The Crown Highstreet is the retail podium of Ace Ayodhya, the four-tower residential project by Jhamtani Group and Shree Venkateshwara Group on the 45-metre Aundh–Ravet BRTS road near Dange Chowk, Thergaon. It is registered with the homes under MahaRERA PR1261012600416, with Ace Venkateshwara Realty",
     "lat": 18.6151,
     "lng": 73.7786
   },
@@ -12542,6 +13350,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Serenopolis is a single 14-storey tower of 121 homes by Nirman Greens in Nirman District, Tathawade, where it joins the developer's Astropolis and Cosmopolis. It stands on Link Road in Ashok Nagar, next to Sharayu Toyota, with commercial spaces at its base, and is registered with MahaRERA as P521000",
     "lat": 18.6236,
     "lng": 73.7535
   },
@@ -12583,6 +13392,7 @@ export const PROJECT_SUMMARIES: Project[] = [
     "features": [
       "Covered Parking"
     ],
+    "description": "City One Panache Commercial is the shop and office podium of City One Panache 2.0, a 26-storey tower in Sector 29 of the Pradhikaran area of Ravet, Pimpri-Chinchwad, registered with MahaRERA as PM1260002600510. The ground floor has 28 shops, numbered 1 to 29 (there is no shop 2), wrapped around a co",
     "lat": 18.6447,
     "lng": 73.7475
   },
@@ -12633,6 +13443,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Ace Ayodhya by Jhamtani Group and Shree Venkateshwara Group is a grand 5-acre residential township located in Thergaon, Pune, right off the 45-meter Aundh-Ravet BRTS corridor and minutes from Dange Chowk.\n\nFeaturing high-rise architectural towers, Ace Ayodhya offers thoughtfully crafted 2 & 3 BHK pr",
     "lat": 18.6075,
     "lng": 73.7837
   },
@@ -12671,6 +13482,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Co-working Lounge"
     ],
+    "description": "Kuber Antonia is a residential project by Kuber Properties, with Bhandare Associates as joint-venture partner, behind Hotel Tip Top International and beside Yashwin Encore in Wakad, close to Bhumkar Chowk and the Mumbai-Bengaluru highway. It offers only 2 BHK homes of 730 sq ft (637 sq ft of RERA ca",
     "lat": 18.5945,
     "lng": 73.773
   },
@@ -12715,6 +13527,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Sports Court"
     ],
+    "description": "Oriana World is a residential project by Balaji Builders in Ashok Nagar, Tathawade, Pune 411033, near Bhumkar Chowk Road. The development is planned as five towers of basement, ground, podium and 25 floors on roughly 5 acres; the first MahaRERA phase, Buildings D and E, covers two towers and 315 hom",
     "lat": 18.6137,
     "lng": 73.7572
   },
@@ -12759,6 +13572,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Jogging Track"
     ],
+    "description": "Pride World City Montreal is a cluster of duplex homes in Pride Group's 400-acre Pride World City township at Charholi Budruk in north-east Pune. On about 10 acres, it is planned as eight towers of 28 floors with about 900 homes, each a true two-floor duplex with a double-height living room and an i",
     "lat": 18.6489,
     "lng": 73.8964
   },
@@ -12803,6 +13617,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Legacy Lifespaces is launching a premium residential project in Wakad, Pune, offering modern homes with world-class amenities, contemporary design, and a comfortable lifestyle in a prime location.",
     "lat": 18.5985,
     "lng": 73.7736
   },
@@ -12838,6 +13653,7 @@ export const PROJECT_SUMMARIES: Project[] = [
     "features": [
       "Gymnasium"
     ],
+    "description": "55 Twilight is a seven-storey building of 56 studio apartments by Blue Pearl at No. 55, Baner Annex Road, before Nyati Emerald and near Nanaware Chowk in Baner, with frontage on a 24-metre DP road. Each floor has eight studios of 200 sq ft, each with a 14'4\" x 12'8\" room, a 4'9\" x 7'1\" toilet, a kit",
     "lat": 18.5621,
     "lng": 73.7857
   },
@@ -12881,6 +13697,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Garden"
     ],
+    "description": "Pride World City Wellington is one of the largest clusters in Pride Group's 400-acre Pride World City township at Charholi Budruk in north-east Pune: about 12 acres and 14 towers of three podium levels and 23 floors, with only six apartments a floor served by three lifts. The towers stand around an ",
     "lat": 18.6429,
     "lng": 73.8897
   },
@@ -12925,6 +13742,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Highness is a premium new residential launch in Wakad by Binary Infrastructures, spread across 2.5 acres with two elegant towers offering spacious 3 & 4 BHK apartments. Designed for upscale urban living, the project features 50+ modern lifestyle amenities, quality specifications, and a well-planned ",
     "lat": 18.5967,
     "lng": 73.7665
   },
@@ -12969,6 +13787,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Co-working Lounge"
     ],
+    "description": "Excellaa Polaris is a single-tower luxury project near Ambrosia Resort in Bavdhan Khurd, Bavdhan, Pune, close to Chandani Chowk, by Excellaa Realty as part of its Autograph Collection. It is registered with MahaRERA as P52100080233 and possession is planned for December 2030. The tower rises 27 resi",
     "lat": 18.5163,
     "lng": 73.7717
   },
@@ -13023,6 +13842,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Double-Height Luxury Entrance Lobbies",
       "Rooftop Infinity Leisure Deck"
     ],
+    "description": "Krisala Riverside on the Wakad–Bhosari BRTS corridor in Wakad is an architectural masterpiece designed by Hafeez Contractor. Situated right beside 41 Presidency Tower and near Ganga Asmi, it features riverfront promenades, double-height club lounges, and high-spec homes.",
     "lat": 18.5948,
     "lng": 73.7716
   },
@@ -13061,6 +13881,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Co-working Lounge"
     ],
+    "description": "Santiago Moonrise is a residential tower of 2 BHK homes by Santiago Realty at Gat No. 13 on Dehu–Alandi Road in central Chikhali, Pimpri-Chinchwad, registered with MahaRERA as P52100080764 (promoter Shree Datta Developers). The typical floor plan shows six homes a floor, flats 101 to 606, around a l",
     "lat": 18.6883,
     "lng": 73.8112
   },
@@ -13105,6 +13926,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Jogging Track"
     ],
+    "description": "YOO One is a luxury residential project at NIBM, Pune, by Dasscon Realty, the luxury development arm of the construction company Tricon, with interiors by Sussanne Khan for YOO, the international design brand. The 6.75-acre development looks over about 200 acres of reserved forest. This listing cove",
     "lat": 18.4767,
     "lng": 73.8937
   },
@@ -13148,6 +13970,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Garden"
     ],
+    "description": "Codename District Studio, sold as Smarto Tower, is a building of studio apartments in Pune. Each typical floor has nine studios along a 1.5 m passage, served by a lift and a fire lift, and the cost sheet lists nine studio types from 202 to 307 sq ft of carpet. Each studio has a room of about 10'6\" w",
     "lat": 18.6202,
     "lng": 73.751
   },
@@ -13192,6 +14015,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Library",
       "Sports Court"
     ],
+    "description": "K Pune is a residential project by Tayal Corp under its K Better Homes brand at Sr. No. 45/1 and 45/2, Bavdhan, about 1.7 km from Chandni Chowk. Spread over 10 acres, it has seven towers of 21 storeys, a high street of 62 showrooms and landscape design by Landscape Tectonix of Bangkok. Phase II (bui",
     "lat": 18.5194,
     "lng": 73.7655
   },
@@ -13236,6 +14060,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Swimming Pool"
     ],
+    "description": "VTP Codename Never Before West is an upcoming VTP Luxe project of duplex 'villas in the sky' in VTP's Township Codename Blue Waters at Mahalunge (Baner Next), West Pune, on the Mula riverfront beside Earth 1 by VTP Luxe. The tentative master plan shows four 36-storey towers with 18 lower and 18 uppe",
     "lat": 18.571,
     "lng": 73.7501
   },
@@ -13280,6 +14105,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
+    "description": "Arvaana is a single residential tower in Balewadi, Pune, by Kundan Spaces, with only two homes on each floor. The tower rises three basements, a ground floor and 33 floors on a plot of about one acre, for 66 homes in all, and is open on the east and west sides. It is registered with MahaRERA as PR12",
     "lat": 18.579,
     "lng": 73.7711
   },
@@ -13324,6 +14150,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "VTOP Velesta is a new launch of 2 and 3 BHK homes in Punawale, Pune, by VTOP Spaces, on the 100 ft DP road that runs from Punawale towards Jambhe and Hinjawadi, about 600 m from the Mumbai-Bengaluru highway. It is registered with MahaRERA as PR1260002601596, with a RERA completion date of December 2",
     "lat": 18.6234,
     "lng": 73.7381
   },
@@ -13368,6 +14195,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "18 Magnitude is a residential project by GD Square Spaces at Punawale (Kate Wasti), Pune 411033, next to 18 Latitude Mall. It is planned as four towers of ground plus two podium levels plus 14 floors on about 2.35 acres, with 486 apartments listed under MahaRERA. Homes are 2 BHK with carpet areas of",
     "lat": 18.6297,
     "lng": 73.7388
   },
@@ -13418,6 +14246,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Rohit Astera by Rohit Infra is a premium residential project in Punawale, Pune, featuring 2, 3, and 4 BHK luxury apartments across six 22-story towers on 4 acres. With over 25 amenities, including a clubhouse, landscaped gardens, and recreational spaces, it offers modern living at its finest. Strate",
     "lat": 18.6248,
     "lng": 73.7412
   },
@@ -13462,6 +14291,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Privve in Tathawade is a premium residential project spread across 3 acres, featuring 3 elegant towers offering spacious 3 BHK homes starting from ₹1.73 Cr (negotiable), designed with modern architecture, quality construction, and lifestyle amenities, making it an ideal choice for comfortable an",
     "lat": 18.6183,
     "lng": 73.7574
   },
@@ -13506,6 +14336,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Chandrarang Embercrest in Wakad is a landmark of luxury, offering exquisitely crafted 3 & 4 BHK signature residences designed for elite living. Sprawled across expansive open spaces with ultra-low density, the project features three magnificent towers and over 60 world-class amenities that redefine ",
     "lat": 18.5945,
     "lng": 73.7662
   },
@@ -13550,6 +14381,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Kids' Play Area",
       "Yoga Deck"
     ],
+    "description": "Tapovan is a residential tower by Life Spaces Realty at Gat No. 253 on the Moshi–Alandi Road, near Vedshree Tapovan in Moshi, registered with MahaRERA as PM1260002501333 with a proposed completion date of 30 April 2029. It is a mixed-use building: shops on the ground floor and offices on the second,",
     "lat": 18.6703,
     "lng": 73.8488
   },
@@ -13588,6 +14420,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Jogging Track",
       "Landscaped Garden"
     ],
+    "description": "Sai Kripa by Krishna Rama Developer is a boutique residential building on Plot No. 415, Sector 29, Ganesh Nagar, Ravet, in the Pradhikaran area of Pimpri-Chinchwad, facing a 10.5 m road. Six residential floors hold just 36 homes, all 3 BHK and six to a floor: 1,053 sq ft homes (938 sq ft carpet plus",
     "lat": 18.6498,
     "lng": 73.7409
   },
@@ -13626,6 +14459,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Jogging Track",
       "Swimming Pool"
     ],
+    "description": "Sai Mehar Punawale is a thoughtfully planned residential project offering premium 2 BHK homes in a boutique single-tower development spread across 0.27 acres. Designed for comfortable urban living, the project combines modern amenities, excellent connectivity, and a peaceful neighborhood, with homes",
     "lat": 18.6297,
     "lng": 73.7335
   },
@@ -13670,6 +14504,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Landscaped Garden"
     ],
+    "description": "Estofa One Home is a pre-launch residential project by Estofa Realty, a Goyal & Planedge initiative, near Kasturi Chowk in Hinjawadi, Pune. It is planned as a single tower of 24 floors above two basements and a stilt level, with a recreational floor and a G+1 clubhouse set in landscaped open space. ",
     "lat": 18.5953,
     "lng": 73.7385
   },
@@ -13714,6 +14549,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Hiranandani Mamurdi is a luxurious residential project offering 2 & 3 BHK apartments with 50+ premium amenities, designed by the renowned architect Arco. Located in Pune’s sought-after western suburbs, it combines eco-friendly landscapes with modern living. Backed by the trusted Hiranandani Group, t",
     "lat": 18.6435,
     "lng": 73.7125
   },
@@ -13758,6 +14594,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Codename Manifest by Gurukrupa Developers is a premium residential project in Ravet, Pune, offering thoughtfully designed 2 & 3 BHK homes with modern amenities, efficient layouts, and contemporary living spaces. Strategically located near Hinjewadi IT Park, the Mumbai-Pune Highway, and key social in",
     "lat": 18.6506,
     "lng": 73.7439
   },
@@ -13801,6 +14638,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Covered Parking"
     ],
+    "description": "Escala is a commercial building by Shroff Group and RHS Developments opposite EON IT Park in EON Free Zone, Kharadi, registered with MahaRERA as P52100045636, with Rising Prime Developers LLP as the promoter. It rises from two basements through a ground floor, a mezzanine and two parking podiums to ",
     "lat": 18.5476,
     "lng": 73.9372
   },
@@ -13851,6 +14689,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Jogging Track",
       "Swimming Pool"
     ],
+    "description": "Vanaha Verdant is a residential project by Shapoorji Pallonji in Vanaha, the group's integrated township of about 1,000 acres off the Pune–Bengaluru highway near the Oxford Golf Resort, in Lavale village (Mulshi), marketed as Vanaha Bavdhan. Towers 3 and 4 have just launched; MahaRERA registers them",
     "lat": 18.5453,
     "lng": 73.7101
   },
@@ -13901,6 +14740,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Co-working Lounge"
     ],
+    "description": "Kunal Manthan is a residential project by Kunal Landmarks in Rahatani, Pune. It is a 14-storey tower on a 38 guntha (about 0.95 acre) land parcel, with three levels of parking, 11 apartments on each floor, 4 high-speed elevators and 2 staircases, and open views on three sides. The tower offers 2 BHK",
     "lat": 18.6009,
     "lng": 73.7854
   },
@@ -13944,6 +14784,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Discover ANP Group's upcoming luxurious 4 BHK apartments in Wakad, Pune, ideally located near Bhoomkar Chowk. These spacious residences offer premium amenities, modern architecture, and superior connectivity to IT hubs, schools, and shopping destinations, making them the perfect choice for families ",
     "lat": 18.5953,
     "lng": 73.7697
   },
@@ -14000,6 +14841,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Arena new launch mahalaxmi group and Kohinoor Group is a premium residential project in Pimpri spread across a 20-acre land parcel, offering thoughtfully designed 2, 3 & 4 BHK homes in Tower 12. With prices starting from ₹1.2 Cr, the project combines modern living, lifestyle amenities, and excel",
     "lat": 18.6263,
     "lng": 73.797
   },
@@ -14044,6 +14886,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Discover Nitara Tower Nigdi, an exclusive single-tower residential development offering ultra-luxurious 3 & 4 BHK homes in one of Pune's most sought-after locations. Starting from ₹1.85 Cr, the project features spacious residences, premium specifications, and world-class modern amenities designed fo",
     "lat": 18.6585,
     "lng": 73.7637
   },
@@ -14088,6 +14931,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Arkaay Towers by Rajwardhan Group is a RERA-registered residential project in Tathawade, Pune, offering premium 2 and 3 BHK homes with carpet areas from 777 to 1,050 sq ft. Thoughtfully designed with modern amenities, the towers enjoy excellent connectivity to Hinjewadi, Wakad and the Mumbai–Pune Ex",
     "lat": 18.6168,
     "lng": 73.7544
   },
@@ -14131,6 +14975,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Arion in Balewadi appears to be Mont Vert's project, also marketed as \"Codename Wings.\" It has 4 towers of 17 storeys each, about 272 units on 2.8 Acres, and is listed as pre-launch under RERA No. PR1261012600090. Listings pitch it as luxury 3 BHK homes starting from ₹1.80 Cr, with modern amenities ",
     "lat": 18.5796,
     "lng": 73.7762
   },
@@ -14174,6 +15019,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Power Backup"
     ],
+    "description": "Silverise Skylight Pimpri is a well-planned commercial project offering modern retail shops within a 1-acre land parcel. Developed with a single contemporary tower, the project is designed to support high visibility, steady footfall, and efficient business operations. Strategically located in Pimpri",
     "lat": 18.6276,
     "lng": 73.802
   },
@@ -14218,6 +15064,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "TrueSpace Prima Altiora is a premium residential project in Wakad, Pune, offering thoughtfully designed 2 & 3 BHK homes with modern amenities and essential lifestyle conveniences. Developed by TrueSpace, a Pune-based developer with over 15 years of experience and 500+ families housed, the project en",
     "lat": 18.5992,
     "lng": 73.7716
   },
@@ -14262,6 +15109,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Power Backup"
     ],
+    "description": "King's Grace by Krishna Rrealty is a new residential address in Rahatani, near Kokane Chowk on the Pimple Saudagar–Rahatani border in Pimpri-Chinchwad. It has two wings: B wing with 2 BHK homes of 781 and 809 sq ft, and A wing with 3 BHK homes of 1,095 to 1,148 sq ft (usable area, i.e. carpet plus b",
     "lat": 18.6059,
     "lng": 73.7915
   },
@@ -14306,6 +15154,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Sukhwani associates kiwale, an upcoming 5-acre project in Chinchwad, Pune, by Sukhwani associates, offers 2, 3, and 4 BHK apartments offering 50+ Premium amenities, it features 6 buildings with amenities like a gym, swimming pool, football field, restaurants, and closed parking. Its prime location e",
     "lat": 18.6586,
     "lng": 73.7348
   },
@@ -14350,6 +15199,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Sky Meridian, Tathawade - A premium residential project by Mansion Creators offering 2 & 3 BHK homes with modern amenities and excellent connectivity in PCMC, Pune.\nSky Meridian in Tathawade, Pune offers 2 & 3 BHK premium homes by Mansion Creators with modern amenities and excellent connectivity in ",
     "lat": 18.6163,
     "lng": 73.7555
   },
@@ -14393,6 +15243,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Millefiori in Wakad is an exclusive residential project offering spacious 3 & 3.5 BHK homes, thoughtfully designed within a 1-acre land parcel featuring a single premium tower for enhanced privacy and low-density living. With modern architecture, quality construction, and excellent connectivity to H",
     "lat": 18.6011,
     "lng": 73.7636
   },
@@ -14449,6 +15300,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Arena is a premium residential project in Pimpri spread across a 20-acre land parcel, offering thoughtfully designed 2, 3 & 4 BHK homes in Tower 12. With prices starting from ₹1.2 Cr, the project combines modern living, lifestyle amenities, and excellent connectivity, making it an ideal choice f",
     "lat": 18.6292,
     "lng": 73.8032
   },
@@ -14493,6 +15345,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Launching soon at Kiwale, Kamalraj Properties, in association with Bahirat Patil Group, presents luxurious 2, 3, and 4 BHK towers featuring 50+ premium amenities, including a swimming pool, clubhouse, children's play area, amphitheater, gym, and garden.Kamalraj Properties has built a strong reputati",
     "lat": 18.6484,
     "lng": 73.7439
   },
@@ -14537,6 +15390,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Divine Homes is a MahaRERA-registered residential project by Drashti Developers, located in Ravet, on the outskirts of Kiwale, Pune. Spread across a plot of roughly 3,360 sq. metres, the project comprises 5 apartment units set in a quiet, well-connected pocket of the city. Its location offers easy a",
     "lat": 18.6462,
     "lng": 73.7472
   },
@@ -14581,6 +15435,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Vibe in Kiwale is an ultra-luxurious residential project offering expansive 5 BHK homes with a grand 4,700 sq. ft. carpet area, starting at ₹5 Cr. Designed for elite living, the project blends spacious layouts, premium specifications, and modern lifestyle amenities, making it an exclusive addres",
     "lat": 18.6612,
     "lng": 73.7277
   },
@@ -14625,6 +15480,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Westford Phase 2 in Pimple Saudagar, Pune, is an upcoming luxury residential luxury residential project featuring spacious 3 BHK and 4 BHK apartments in the tallest towers of the area. Spread across 2.89 acres with three thoughtfully designed towers, it offers modern amenities and a perfect blen",
     "lat": 18.5979,
     "lng": 73.7993
   },
@@ -14669,6 +15525,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Harico Divaam is residential project by Sentosa Landmarks, located behind Sentosa Resort in Kiwale, Pune. The active MahaRERA-registered project (RERA PR1260002502389), across 2 towers. Positioned in the fast-growing Kiwale micro-market — known for its proximity to Hinjawadi IT hub, Dehu Road, and t",
     "lat": 18.6564,
     "lng": 73.7265
   },
@@ -14713,6 +15570,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Austin Aurus is an exclusive premium residential development spread across 2.20 acres, featuring two elegant towers with thoughtfully designed 3 & 4 BHK residences that blend spacious layouts, contemporary architecture, and refined urban living. Designed for discerning homebuyers, the project offers",
     "lat": 18.6,
     "lng": 73.7692
   },
@@ -14757,6 +15615,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Highness by Binary Infrastructures is a premium residential new launch in Wakad, Pune, spread across 2.5 acres with two elegantly designed towers offering spacious 3 & 4 BHK homes. Crafted for refined urban living, the project features 50+ modern lifestyle amenities, superior specifications, and a t",
     "lat": 18.596,
     "lng": 73.7666
   },
@@ -14801,6 +15660,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "RA Urbania is a residential project in Ganesh Nagar, Ravet, Pimpri-Chinchwad, Pune 412101, on Survey No. 148 near Shinde Vasti and Pipeline Road. It is developed by Croissance Buildcon, a Pune partnership firm. The project is a single tower of 2 parking levels, ground and 17 floors, with 8 flats per",
     "lat": 18.6469,
     "lng": 73.7452
   },
@@ -14851,6 +15711,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Sky World is a residential project by Siyaram Developers on Pink City Road near EuroSchool in Wakad, Pune 411057. It is registered with MahaRERA under P52100052484 on about 1.58 acres, with four buildings and 64 apartments filed in the registration. The homes are 2 BHK and 3 BHK layouts, with 2 BHK ",
     "lat": 18.6016,
     "lng": 73.7645
   },
@@ -14895,6 +15756,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "EH Sky Tower in Bavdhan is a premium residential project spread across a 1-acre land parcel, featuring a single iconic tower designed to offer modern and luxurious living spaces. With a starting price of ₹1.43 Cr, the project combines contemporary architecture, high-quality amenities, and a well-pla",
     "lat": 18.5136,
     "lng": 73.7717
   },
@@ -14939,6 +15801,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Livience UNIONE in Aundh, Pune, is a premium luxury residential project by Livience—a collaboration of Kohinoor Group, Welworth Realty, and Shree Bal Developers—bringing together over 85 years of combined expertise and 100+ successful projects. This landmark development aims to redefine upscale livi",
     "lat": 18.5563,
     "lng": 73.7855
   },
@@ -14983,6 +15846,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Kids' Play Area"
     ],
+    "description": "City One Panache 2.0 is a 26-storey residential tower by City One in Sector 29 of the Pradhikaran area of Ravet, Pimpri-Chinchwad, registered with MahaRERA as PM1260002600510 (promoter Cityone Skycastle LLP). It offers 3 BHK homes, which the developer calls Sky Suites, of 1,300 sq ft and 4 BHK suite",
     "lat": 18.6509,
     "lng": 73.7431
   },
@@ -15033,6 +15897,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Amberwood in Pawana Nagar, near Kokane Chowk, is a prestigious residential development offering elegantly designed 2, 3, and 4 BHK homes that seamlessly blend modern sophistication with natural tranquility. Set amidst lush greenery, this premium project provides a serene retreat while ensuring easy ",
     "lat": 18.6053,
     "lng": 73.7913
   },
@@ -15076,6 +15941,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Landscaped Garden"
     ],
+    "description": "Adhira Spaces in Punawale, Pune, offers commercial shop spaces suitable for retail outlets, showrooms, and business establishments. Located in a developing residential neighbourhood, the project offers an opportunity for business owners and investors seeking commercial property in Punawale. Its loca",
     "lat": 18.6236,
     "lng": 73.7356
   },
@@ -15120,6 +15986,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "GD 18 Altitude in Walhekarwadi, Chinchwad, Pune, is a premium residential project spanning 3.5 acres, featuring two high-rise buildings with 24 floors each. Offering 2 and 3 BHK apartments ranging from 753 to 1080 sq. ft., the project is set to launch in June 2024, with possession expected by Decemb",
     "lat": 18.6386,
     "lng": 73.7591
   },
@@ -15164,6 +16031,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Arihant Sky Suites in Tathawade is a premium residential project featuring two exclusive towers of 3P + 27 storeys, offering spacious 2 & 3 BHK apartments. Designed for modern urban living, the project boasts 30+ world-class amenities including a gym, swimming pool, co-working spaces, kids' zones, a",
     "lat": 18.6208,
     "lng": 73.7546
   },
@@ -15220,6 +16088,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Arena, Pimpri is a premium residential project offering thoughtfully designed 2 & 3 BHK homes spread across a vast 20-acre land parcel with 12 modern towers. Designed for a contemporary lifestyle, the project combines spacious residences, world-class amenities, and a well-planned community envir",
     "lat": 18.628,
     "lng": 73.8041
   },
@@ -15263,6 +16132,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Landscaped Garden"
     ],
+    "description": "51 Meridian in Nigdi is a premium commercial development offering modern offices and showrooms, thoughtfully planned on a 0.25-acre land parcel with a single iconic tower. Designed to support growing businesses, it features efficient layouts, excellent visibility, and a strategic location that ensur",
     "lat": 18.6629,
     "lng": 73.7667
   },
@@ -15319,6 +16189,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Arena by Mahalaxmi Group is a residential project in Pimpri, at the heart of Pimpri-Chinchwad's established urban belt. It offers a versatile mix of 2, 2.5, 3 and 4 BHK homes with carpet areas from 830 to 1,682 sq ft, suiting everyone from young families to those wanting expansive premium living",
     "lat": 18.6244,
     "lng": 73.8048
   },
@@ -15363,6 +16234,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Truespace Prima Altiora is a residential project by Truespace, part of Atharva Enterprises, a Pune-based developer with over 15 years of experience and 500+ families housed. The project is positioned in Wakad, one of Pune's fast-growing residential and IT-adjacent corridors, offering strong connecti",
     "lat": 18.6002,
     "lng": 73.7708
   },
@@ -15413,6 +16285,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Nexus Skydale is a residential project by Nexus Group at Pandhare Wasti Road, Kate Wasti, Punawale, Pune, planned on about 4 acres with high-rise towers of up to 21 floors and roughly 650 homes. It offers 2, 3 and 4 BHK apartments; the developer lists carpet areas of about 677 to 691 sq ft for 2 BHK",
     "lat": 18.6275,
     "lng": 73.7416
   },
@@ -15451,6 +16324,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Skylish Vaastuu is a 2 BHK residential project by Skylish Bluediamond Innfrracon in Pimpri, Pimpri-Chinchwad, Pune, registered with MahaRERA under P52100079170. It stands on Survey No. 144P, CTS No. 6015 (6020) P, Pimpri Waghere (PIN 411018), on a plot of about 2,257 sq m (0.56 acre) and is planned ",
     "lat": 18.6296,
     "lng": 73.8033
   },
@@ -15494,6 +16368,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Kasturi Corner Kiwale is a thoughtfully designed commercial project offering premium retail shops within a 1-acre land parcel. Developed with a single modern tower, the project ensures good visibility, steady footfall, and efficient business potential. Strategically located in the growing Kiwale are",
     "lat": 18.6531,
     "lng": 73.7316
   },
@@ -15532,6 +16407,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Library"
     ],
+    "description": "Ashirwad Sapphire in Nigdi is an exclusive residential project offering spacious 4 BHK homes across a single tower on a compact 0.20-acre land parcel, designed for premium living and privacy. With a starting price of ₹3.4 Cr (negotiable), the project caters to luxury homebuyers seeking modern layout",
     "lat": 18.658,
     "lng": 73.7689
   },
@@ -15576,6 +16452,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sonigara Quorra in Tathawade is an upcoming premium residential development featuring spacious 3 & 4 BHK residences designed for modern luxury living. Spread across a 1-acre land parcel with 2 well-planned towers, the project focuses on elite lifestyle comfort with thoughtful layouts, premium finish",
     "lat": 18.6165,
     "lng": 73.7577
   },
@@ -15619,6 +16496,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Ambrosia Studios in Baner is a thoughtfully planned studio apartment project set on a 1-acre land parcel, featuring a single tower with well-designed, space-efficient homes ideal for investors and young professionals. Starting at an attractive price of just ₹32 lakhs, the project offers modern ameni",
     "lat": 18.5637,
     "lng": 73.7859
   },
@@ -15663,6 +16541,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Arise Capital in Wakad is a premium commercial development spread across 1 acre, featuring a well-planned tower offering modern showrooms and office spaces starting from ₹1.9 Cr (negotiable), making it an excellent opportunity for businesses and investors seeking high visibility, strong connectivity",
     "lat": 18.6027,
     "lng": 73.7654
   },
@@ -15706,6 +16585,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Jhamtani Bizone is a newly launched commercial project by the Jhamtani Group, strategically located at Kokane Chowk in Pimple Saudagar, offering premium showroom and office spaces starting from ₹97 lakhs onwards. Designed to cater to both investors and business owners, the project features modern co",
     "lat": 18.5997,
     "lng": 73.7959
   },
@@ -15750,6 +16630,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Power Backup"
     ],
+    "description": "RK Amore in Mamurdi offers thoughtfully designed 2 & 3 BHK homes across a 2-acre land parcel with 2 modern towers, crafted for comfortable and contemporary living. The project features well-planned residences, lifestyle amenities, and excellent connectivity to key areas of Pune, making it an ideal c",
     "lat": 18.6619,
     "lng": 73.7245
   },
@@ -15788,6 +16669,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Kids' Play Area"
     ],
+    "description": "Mahakal Shivratna is a small residential building in Ravet, Pune, on a plot at Sr. No. 215, Plot No. 6, off the BRT Road, pincode 412101. It is listed under Mahakal Builders & Developers and is registered with MahaRERA as P52100055201, with a proposed completion date of 30 June 2025. Most property p",
     "lat": 18.6521,
     "lng": 73.7443
   },
@@ -15832,6 +16714,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Merak Homes in Hinjewadi Phase 3 offers thoughtfully designed 2 & 3 BHK residences for modern families and professionals. Located in Pune’s prominent IT corridor, the project provides excellent connectivity to Hinjewadi IT Park and key city destinations. Residents can enjoy a comfortable lifestyle w",
     "lat": 18.5865,
     "lng": 73.7428
   },
@@ -15876,6 +16759,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Austin Aurus is a premium residential development spread across 2.20 acres with 2 elegant towers offering spacious 3 & 4 BHK homes designed for modern urban living. With thoughtfully planned residences, contemporary amenities, and excellent connectivity, the project offers a refined lifestyle experi",
     "lat": 18.598,
     "lng": 73.7674
   },
@@ -15914,6 +16798,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Marqis Balewadi is an exclusive residential project by Balwadkar Housing Corp (developed under BM Build Spaces LLP) located near Patil Wasti/Madhuban Society Road in Balewadi, Pune. Spread across roughly 1 acre with a single tower of 5 wings, it offers only spacious, 100% Vastu-compliant 3 BHK apart",
     "lat": 18.5744,
     "lng": 73.7762
   },
@@ -15958,6 +16843,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Elite The Arc in Punawale is a thoughtfully planned residential project offering spacious 2 & 3 BHK homes across 4 towers on a 5-acre land parcel, designed for modern urban living. With a starting price of ₹81.50 lakhs (negotiable), the project combines smart layouts, contemporary amenities, and a w",
     "lat": 18.6235,
     "lng": 73.7323
   },
@@ -16002,6 +16888,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Austin Aurus is a premium residential project offering spacious 3 & 4 BHK luxury apartments in a well-planned 2.20-acre development with two elegant towers. Designed for modern urban living, the project features thoughtfully crafted homes, world-class amenities, lush open spaces, and excellent conne",
     "lat": 18.5946,
     "lng": 73.768
   },
@@ -16046,6 +16933,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "V one Heartland Akurdi is a premium residential project spread across 2.5 acres, featuring three elegant G+33 towers with spacious 3 BHK and 4 BHK homes. Designed with modern architecture, refined specifications, and efficient layouts, the project offers a perfect balance of luxury and comfort. Stra",
     "lat": 18.6491,
     "lng": 73.7691
   },
@@ -16096,6 +16984,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Austin Namaste in Mamurdi is a thoughtfully planned residential development spread across 4.5 acres, offering well-designed 1, 2, and 3 BHK homes across 3 towers, ideal for modern urban living. With homes starting from ₹43 lakhs, the project combines smart layouts, quality construction, and a serene",
     "lat": 18.6634,
     "lng": 73.7303
   },
@@ -16146,6 +17035,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Swimming Pool"
     ],
+    "description": "Opulent Tower in Ravet is a premium residential development spread across 1 acre, featuring a single high-rise tower with Basement + Ground + 17 floors. The project offers a total of 130 thoughtfully designed units, with 8 flats per floor and 3 elevators ensuring smooth access. Designed for modern u",
     "lat": 18.6488,
     "lng": 73.7433
   },
@@ -16190,6 +17080,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Kimaya Muktangan, Pimple Saudagar is a premium residential project spread across a 0.5-acre land parcel, comprising 3 modern towers with thoughtfully designed 2 & 3 BHK homes. Located in the well-connected suburb of Pimple Saudagar, the project offers easy access to IT hubs. With contemporary amenit",
     "lat": 18.6012,
     "lng": 73.8027
   },
@@ -16233,6 +17124,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Covered Parking"
     ],
+    "description": "Icon Oro, Baner is a premium mixed-use commercial development spread across approximately 0.75 acres, featuring one landmark tower designed to accommodate modern office spaces and business establishments. Strategically located in the thriving Baner business corridor of Pune, the project offers excel",
     "lat": 18.5601,
     "lng": 73.7838
   },
@@ -16277,6 +17169,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Kohinoor Royale Towers in Hinjewadi Phase 1 features 2 exclusive high-rise towers across 3 acres. Designed for modern tech professionals with zero transit to prime IT campuses.",
     "lat": 18.5912,
     "lng": 73.7389
   },
@@ -16320,6 +17213,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Jhamtani Bizone is a newly launched commercial project by the Jhamtani Group, strategically located at Kokane Chowk in Pimple Saudagar, offering premium showroom and office spaces starting from ₹97 lakhs onwards. Designed to cater to both investors and business owners, the project features modern co",
     "lat": 18.5938,
     "lng": 73.7992
   },
@@ -16364,6 +17258,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Avis Avante is a boutique residential development in Wakad spread across approximately 0.30 acres, featuring a single residential tower designed for modern urban living. The project offers well-planned 2 BHK apartments with a focus on efficient layouts, contemporary amenities, and connectivity to ke",
     "lat": 18.5977,
     "lng": 73.7643
   },
@@ -16408,6 +17303,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Vardhaman Skysymphony in Wakad, Pune is a premium residential development spread across 5.3 acres, featuring thoughtfully designed 2 & 3 BHK homes across 4 elegant towers. Blending modern architecture with smart layouts and quality construction, the project offers a refined lifestyle with excellent ",
     "lat": 18.6002,
     "lng": 73.7654
   },
@@ -16451,6 +17347,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Millefiori in Wakad is an exclusive residential project offering spacious 3 & 3.5 BHK homes, thoughtfully designed within a 1-acre land parcel featuring a single premium tower for enhanced privacy and low-density living. With modern architecture, quality construction, and excellent connectivity to H",
     "lat": 18.5972,
     "lng": 73.7652
   },
@@ -16495,6 +17392,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Nancy Hill View in Baner is a premium residential project spread across 3.5 acres, featuring 3 well-planned towers offering spacious 1, 3, and 4 BHK homes. Designed for modern urban living, the project combines contemporary amenities, excellent connectivity, and a comfortable lifestyle, with homes s",
     "lat": 18.5567,
     "lng": 73.7882
   },
@@ -16539,6 +17437,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "Covered Parking"
     ],
+    "description": "Pebbles Business Bay is a premium commercial and hospital-ready development in Wakad, Pune, crafted by the Abhinav Group, a trusted name with over 25 years of infrastructure expertise. Designed to meet the needs of modern businesses and healthcare operators, the project offers contemporary architect",
     "lat": 18.5979,
     "lng": 73.7734
   },
@@ -16589,6 +17488,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Platinum Punawale by Platinum Buildcon is a RERA-registered residential project set across a 2-acre layout in Punawale, Pimpri-Chinchwad. It offers a wide choice of 2, 3 and 4 BHK homes with carpet areas from 820 to 1,650 sq ft, catering to compact families and those seeking larger, premium residenc",
     "lat": 18.6253,
     "lng": 73.7354
   },
@@ -16639,6 +17539,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Prime West in Balewadi is an elegant residential project spread across 2 acres, offering luxurious 2, 3, and 4 BHK homes designed for refined urban living. Featuring three impressive towers, the project blends modern architecture with premium amenities to provide comfort and sophistication. With a s",
     "lat": 18.5785,
     "lng": 73.7762
   },
@@ -16682,6 +17583,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "PK Ornate in Pimple Saudagar offers premium 2 and 2.5 BHK homes in a meticulously designed 8-storey tower. Blending elegance with functionality, it features top-tier amenities like a senior citizen sit-out, yoga and meditation plaza, open-air buffet area, party lawn, children’s play area, and gazebo",
     "lat": 18.6017,
     "lng": 73.803
   },
@@ -16726,6 +17628,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Avis Avante is a boutique residential development in Wakad spread across approximately 0.30 acres, featuring a single residential tower designed for modern urban living. The project offers well-planned 2 BHK apartments with a focus on efficient layouts, contemporary amenities, and connectivity to ke",
     "lat": 18.5991,
     "lng": 73.7731
   },
@@ -16776,6 +17679,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Ravima Newton Homes Codename Royale by Ravima Ventures in Walhekarwadi, Chinchwad, is a luxurious residential project that blends elegance with creativity, offering a sanctuary where imagination meets modern living. Designed to elevate lifestyles, this project features meticulously crafted homes wit",
     "lat": 18.6308,
     "lng": 73.7585
   },
@@ -16820,6 +17724,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "RGS Forte Aspire is a new-launch luxury residential project offering spacious 3 & 4 BHK apartments on a 3.5-acre land parcel with 1.5 acres dedicated to premium amenities and open spaces. Designed for upscale living, the project features a special 1% payment plan scheme, making ownership more conven",
     "lat": 18.6259,
     "lng": 73.7352
   },
@@ -16858,6 +17763,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Sai Serenity Kiwale offers thoughtfully designed 2 BHK near-possession apartments starting from ₹62 lakh in one of Pune's rapidly developing residential locations. Featuring modern amenities, excellent connectivity to the Mumbai–Pune Expressway, Hinjewadi IT Park, schools, hospitals, and daily conve",
     "lat": 18.6541,
     "lng": 73.7276
   },
@@ -16908,6 +17814,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-Working Hub & High-Speed Wi-Fi Zones",
       "Affordable Direct Developer Pricing"
     ],
+    "description": "Rohan Nitara in Nande, West Pune (adjacent to Mahalunge and Hinjawadi Phase 1) is a modern gated township offering smart 1, 2, and 3 BHK residences with extensive co-working spaces, sports courts, and nature parks.",
     "lat": 18.5611,
     "lng": 73.7207
   },
@@ -16952,6 +17859,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sai Stella, Mamurdi offers well-designed 2 & 3 BHK apartments in a thoughtfully planned residential project spread across 1 acre land parcel with 3 towers. The project provides comfortable and modern living spaces with quality construction and essential amenities, making it an ideal choice for famil",
     "lat": 18.6643,
     "lng": 73.7257
   },
@@ -16996,6 +17904,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Power Backup"
     ],
+    "description": "RAMSA REGIO in Akurdi offers premium 2 & 3 BHK homes thoughtfully designed for modern living, just minutes from Akurdi Metro Station. With smart layouts, quality finishes, and lifestyle amenities, it ensures comfort and convenience while providing excellent connectivity to schools, IT parks, hospita",
     "lat": 18.6518,
     "lng": 73.7728
   },
@@ -17034,6 +17943,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Rahul Aston is a residential project by Rahul Construction Company (developing property in Pune since 1977) located in Hinjewadi Phase 1, Pune, near D-Mart and close to the Mumbai-Bangalore Highway. Spread across 6 acres, it comprises 5 towers of 2 podium + ground + 22 floors, offering 1, 2, and 3 B",
     "lat": 18.5909,
     "lng": 73.7342
   },
@@ -17078,6 +17988,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Preet Shivam Residency by Preet Promoters is a thoughtfully designed residential project in the prime PCMC locale of Ravet, ensuring excellent connectivity to Hinjewadi, Talawade, and key MIDCs. Offering spacious 2 & 3 BHK homes, this gated community of 200+ families provides a secure and serene env",
     "lat": 18.6461,
     "lng": 73.7453
   },
@@ -17122,6 +18033,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "West world Punawale by Sankla Buildcon is a premium residential project spread across 7 acres in the heart of Punawale, Pune. Comprising 8 elegantly designed residential towers, it offers spacious 2 and 3 BHK homes crafted for contemporary living. With over 40 luxurious amenities, including 3 levels",
     "lat": 18.6229,
     "lng": 73.7339
   },
@@ -17172,6 +18084,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sai Canary in Balewadi is a premium residential development offering spacious 2, 3 & 3.5 BHK homes across a 1.5-acre land parcel, thoughtfully planned in 2 elegant towers. With modern amenities, well-designed layouts, and a prime Balewadi location, the project promises a refined urban lifestyle, wit",
     "lat": 18.5716,
     "lng": 73.7707
   },
@@ -17216,6 +18129,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "New Launch Sankalp, Ravet is a thoughtfully planned residential project offering spacious 2 & 3 BHK apartments in a single elegant tower, developed on a 1.25-acre land parcel. Designed for comfortable modern living, the project features efficient layouts, quality specifications, and a well-connected",
     "lat": 18.6483,
     "lng": 73.7406
   },
@@ -17260,6 +18174,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Onkar Greens in Kiwale offers thoughtfully designed 1 & 2 BHK homes in a well-planned residential development spread across a 1.26-acre land parcel with 1 modern tower. The project combines smart space planning, lifestyle amenities, and excellent connectivity to major schools, highways, and daily co",
     "lat": 18.657,
     "lng": 73.7021
   },
@@ -17304,6 +18219,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Bizzbay Commercial in Tathawade is a premium commercial development spread across a 1-acre land parcel, featuring a modern tower offering well-designed office and shop spaces starting from ₹84 lakhs, ideal for businesses and investors seeking high visibility, strong footfall, and excellent connectiv",
     "lat": 18.616,
     "lng": 73.7558
   },
@@ -17348,6 +18264,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sai Palladium in Pradhikaran, Ravet is an exclusive residential project offering premium 3 & 4 BHK homes in a well-planned Tower 1, set on a thoughtfully designed 1-acre land parcel. With a starting price of ₹1.15 Cr, the project combines elegant architecture, spacious layouts, and modern lifestyle ",
     "lat": 18.6503,
     "lng": 73.7399
   },
@@ -17386,6 +18303,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Swimming Pool"
     ],
+    "description": "Renuka Construction's premium project in Tathawade spans 5 acres, featuring 5 high-rise towers with 3 podium levels and 21 floors. Offering over 90 unique amenities, it includes ample car parking, a clubhouse, a swimming pool, and podium and terrace-level recreational spaces. Residents enjoy a lavis",
     "lat": 18.6207,
     "lng": 73.7537
   },
@@ -17424,6 +18342,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Covered Parking"
     ],
+    "description": "The Capital in Akurdi is a premium commercial project offering modern office spaces designed for growing businesses and investors. Spread across a 0.2-acre land parcel with 1 tower, the project provides well-planned offices in a strategic location with strong connectivity and business potential. Wit",
     "lat": 18.6465,
     "lng": 73.7745
   },
@@ -17468,6 +18387,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Supreme Punawale offers spacious 2 & 3 BHK apartments in a thoughtfully designed 12.6-acre township with 10 towers, top amenities & great connectivity to Pune's IT hubs. Starting ₹892 Lacs",
     "lat": 18.6297,
     "lng": 73.7347
   },
@@ -17518,6 +18438,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Codename T Square, Tathawade is an upcoming residential development designed to offer modern, comfortable, and well-connected urban living in one of Pune’s fast-growing neighbourhoods. The project combines contemporary architecture, thoughtfully planned residences, lifestyle amenities, and convenien",
     "lat": 18.6136,
     "lng": 73.7575
   },
@@ -17562,6 +18483,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Santiago Sunrise is a residential project by Santiago Realty (Santiago Realtech Ventures) on Survey No. 12/1, Plot No. 74 in Old Sangvi, Pune 411027, which the developer also describes as New Aundh. It is a single-tower development on about 0.28 acre, launched in October 2024. The developer lists 2 ",
     "lat": 18.5532,
     "lng": 73.812
   },
@@ -17605,6 +18527,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Terraces Phase II by Almal is a 4 BHK residential project in Balewadi, Pune, with a pool, gym and landscaped gardens.the project is under construction. Balewadi High Street and the Balewadi Sports Stadium are about 5 minutes away, and the Mumbai-Pune Highway is easy to reach. The earlier phase w",
     "lat": 18.571,
     "lng": 73.7699
   },
@@ -17649,6 +18572,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Hamptons, Balewadi is a boutique luxury residential project spread across a 1-acre land parcel with a single premium tower offering spacious 3 & 4 BHK homes. Strategically located in Balewadi, the project combines modern design, quality amenities, and excellent connectivity, with residences star",
     "lat": 18.5779,
     "lng": 73.7739
   },
@@ -17693,6 +18617,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Unicorn Ravet is a premium pre-launch residential project located in the rapidly growing neighborhood of Ravet, Pune. Featuring 5 elegant towers rising up to 19 floors, it offers thoughtfully designed 2 & 3 BHK apartments that blend comfort with contemporary style. With over 50 world-class ameni",
     "lat": 18.6465,
     "lng": 73.7395
   },
@@ -17737,6 +18662,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Westford Phase 2 in Pimple Saudagar, Pune, is an upcoming luxury residential luxury residential project featuring spacious 3 BHK and 4 BHK apartments in the tallest towers of the area. Spread across 2.89 acres with three thoughtfully designed towers, it offers modern amenities and a perfect blen",
     "lat": 18.5937,
     "lng": 73.8038
   },
@@ -17780,6 +18706,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Landscaped Garden"
     ],
+    "description": "Codename T Square, Tathawade is an upcoming commercial development positioned in one of Pune’s rapidly growing business and residential corridors. Designed to cater to modern businesses and investors, the project offers thoughtfully planned commercial spaces with a strategic location, excellent conn",
     "lat": 18.6138,
     "lng": 73.7522
   },
@@ -17824,6 +18751,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "TrueSpace Wakad is a premium residential project by TrueSpace, a Pune-based developer with 15+ years of experience and 500+ families delivered. Strategically located in Wakad, the project offers well-designed 2 & 3 BHK homes with modern amenities, contemporary planning, and essential features focuse",
     "lat": 18.5959,
     "lng": 73.7696
   },
@@ -17868,6 +18796,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Codename Manifest, Ravet is a premium residential project in Ravet, Pune, offering thoughtfully designed 2 & 3 BHK homes with modern amenities and smart layouts. Strategically located with excellent connectivity to Hinjewadi IT Park, the Mumbai-Pune Highway, and key social infrastructure, it's an id",
     "lat": 18.6501,
     "lng": 73.7414
   },
@@ -17918,6 +18847,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Co-working Lounge"
     ],
+    "description": "Tulip Infinity Avana is a residential project by Tulip Group, now Varma Corp, on the Aundh-Ravet BRTS Road at Vishnu Dev Nagar, Punawale, on the Tathawade side of Pimpri-Chinchwad, Pune 411033. It is planned as four high-rise towers of about 33 floors on roughly 3.2 acres. Homes are 2, 3 and 4 BHK w",
     "lat": 18.6242,
     "lng": 73.7375
   },
@@ -17962,6 +18892,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sukhwani Palmera Reserve is a premium residential project by Sukhwani Associates, located in the fast-developing locality of Kiwale, Pune. The project offers thoughtfully designed 2 & 3 BHK apartments with modern amenities and quality construction. Backed by Sukhwani's 45+ years of legacy and over 5",
     "lat": 18.66,
     "lng": 73.7337
   },
@@ -18006,6 +18937,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Harivishva Skyfinia is an expansive premium residential project spread across 6 acres, featuring 6 grand towers with a structure of B+G+4P+32 floors. The project offers thoughtfully designed 2 & 3 BHK residences that blend luxury, comfort, and modern architecture. With spacious layouts, premium spec",
     "lat": 18.6188,
     "lng": 73.7592
   },
@@ -18050,6 +18982,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Yashada Kiwale, an ultra-luxurious residential project spread across an expansive 6-acre land parcel near Mukai Chowk, Kiwale, features four iconic towers with G+30 floors, offering premium 2 BHK, 3 BHK, and 4 BHK residences. Designed with over 50+ lifestyle amenities, including a clubhouse, gymnasi",
     "lat": 18.6537,
     "lng": 73.7271
   },
@@ -18088,6 +19021,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "VMA Reserve by VMA Properties LLP is a RERA-registered project in Punawale, Pimpri-Chinchwad, spread over 0.87 acres.It has 2 BHK apartments. The project is listed as ready to move, with possession by Feb 2026, and amenities include a gym, play area, landscaped garden, lift, power backup, CCTV and c",
     "lat": 18.6208,
     "lng": 73.7332
   },
@@ -18131,6 +19065,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Landscaped Garden"
     ],
+    "description": "VJ Town Center in Wakad is a premium commercial development spread across a 1-acre land parcel, featuring a well-planned tower offering high-street retail shops. Designed to attract strong footfall and business visibility, the project combines a strategic location with modern infrastructure, making ",
     "lat": 18.6196,
     "lng": 73.758
   },
@@ -18174,6 +19109,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Covered Parking"
     ],
+    "description": "Avis Avante, Wakad is a boutique mixed-use development located in Wakad, spread across approximately 0.30 acres. The project features a single residential tower with ground-level retail shops, offering modern homes in a well-connected micro-market near major employment hubs. Apartments are priced fr",
     "lat": 18.6008,
     "lng": 73.7735
   },
@@ -18212,6 +19148,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Miracle is a premium residential project in Pimple Saudagar spread across a 1.5-acre land parcel, featuring 3 thoughtfully designed towers with spacious 3 & 4 BHK apartments. Starting from ₹1.60 Cr, the project combines modern architecture, quality construction, and lifestyle-focused amenities, ",
     "lat": 18.5974,
     "lng": 73.7953
   },
@@ -18256,6 +19193,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Chandrarang Embercrest in Wakad is a landmark of luxury, offering exquisitely crafted 3 & 4 BHK signature residences designed for elite living. Sprawled across expansive open spaces with ultra-low density, the project features three magnificent towers and over 60 world-class amenities that redefine ",
     "lat": 18.6033,
     "lng": 73.7658
   },
@@ -18294,6 +19232,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Mauli Baner is a boutique residential project in Baner offering well-designed 2 and 2.5 BHK homes on a compact 0.17-acre land parcel with a single tower, ideal for modern urban living. Starting at just ₹96 lakhs (negotiable), the project combines affordability with a prime location, making it a grea",
     "lat": 18.5557,
     "lng": 73.7838
   },
@@ -18338,6 +19277,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Park West Towers, Tathawade is a premium commercial project offering well-planned shops and offices on a 1-acre land parcel with two modern towers. Designed to suit growing businesses and investors, the project ensures excellent visibility and functional layouts. Its strategic location in Tathawade ",
     "lat": 18.6195,
     "lng": 73.752
   },
@@ -18382,6 +19322,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Sports Court"
     ],
+    "description": "Maheshwaram Vrinda by Maheshwaram Associates (Maheshwaram Realty Group) is a mixed residential and commercial project near the ISKCON Temple in Pradhikaran, Ravet, Pune 412101, on about 1.7 acres at Sr. No. 189/2. The MahaRERA filing lists 143 units, including shops, and the developer's plans show t",
     "lat": 18.6456,
     "lng": 73.7397
   },
@@ -18420,6 +19361,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Jogging Track",
       "Power Backup"
     ],
+    "description": "Codename Minibust – Menlo, Hinjawadi is a thoughtfully designed residential project offering smart studio apartments starting from just ₹33 Lacs, ideally located in Hinjawadi, Pune's premier IT and business hub. Developed with modern urban lifestyles in mind, the project offers compact yet functiona",
     "lat": 18.5939,
     "lng": 73.7378
   },
@@ -18464,6 +19406,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Silverise Skylight Pimpri is a thoughtfully planned residential and commercial development spread across a 1-acre land parcel, offering premium 2 & 3 BHK homes along with commercial spaces. Featuring modern architecture, lifestyle amenities, and excellent connectivity, the project is designed to pro",
     "lat": 18.6242,
     "lng": 73.8047
   },
@@ -18508,6 +19451,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Maheshwaram Majestic in Ravet offers thoughtfully designed 2 & 3 BHK homes in a premium residential setting across a 0.74-acre land parcel with 1 elegant tower. The project combines modern amenities, smart space planning, and excellent connectivity, making it an ideal choice for comfortable urban li",
     "lat": 18.645,
     "lng": 73.7445
   },
@@ -18552,6 +19496,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rooftop Sports Arena",
       "Smart Home Automation"
     ],
+    "description": "Gera Code Vroom Hinjewadi is an action-themed high-rise community with an indoor racing simulator arena, skate park, gaming lounges, and fast-paced lifestyle amenities, crafted for Pune's young tech workforce.",
     "lat": 18.594,
     "lng": 73.7365
   },
@@ -18595,6 +19540,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "GEO ARISTO Ravet is a premium residential project offering spacious 3 BHK homes across a thoughtfully planned 1-acre land parcel with two elegant towers, featuring premium specifications, a low-density lifestyle, excellent connectivity in the fast-developing Ravet location, and prices starting from ",
     "lat": 18.648,
     "lng": 73.7455
   },
@@ -18639,6 +19585,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "New Launch Supreme Punawale offers premium 2 & 3 BHK apartments spread across a 12.6-acre land parcel with 10 towers, thoughtfully designed for modern living. Located in the fast-growing Punawale area of West Pune, the project provides spacious homes, contemporary amenities, and excellent connectivi",
     "lat": 18.6212,
     "lng": 73.7402
   },
@@ -18683,6 +19630,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "New launch Kunal Canary in Balewadi is an upcoming premium residential project spread across an expansive 8-acre land parcel, featuring 9 elegantly designed towers offering spacious 3 & 4 BHK residences. Crafted for modern luxury living, the project promises high-end amenities, superior specificatio",
     "lat": 18.5771,
     "lng": 73.7694
   },
@@ -18733,6 +19681,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "ALPINE 21 in Tathawade presents thoughtfully designed 2, 2.5 & 3 BHK homes in a premium residential setting.Spread across a 0.75-acre land parcel with 1 well-planned tower, the project offers modern lifestyle amenities and smart space planning.Located in the fast-growing Tathawade locality, it ensur",
     "lat": 18.6179,
     "lng": 73.7581
   },
@@ -18783,6 +19732,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Library"
     ],
+    "description": "Newton Homes Royale by Ravima Ventures is a new launch on the Hadapsar–Magarpatta Road side of Mundhwa, next to the Kharadi–Hadapsar Bypass Road in East Pune. On a 2-acre plot, two 23-storey towers hold 226 homes – 2, 2.5 and 3 BHK residences of 796 to 1,072 sq ft carpet area, plus combined 4 BHK ho",
     "lat": 18.5347,
     "lng": 73.9171
   },
@@ -18821,6 +19771,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Golden HQ Chinchwad is a commercial office development in Chinchwad, one of Pimpri Chinchwad's busiest business and industrial hubs in Pune. It offers modern, efficient workspaces for startups, growing businesses and established firms. The location is well connected by road and rail, with Chinchwad ",
     "lat": 18.6308,
     "lng": 73.784
   },
@@ -18864,6 +19815,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Capri by NM Corp and Aashirwad Homes is a premium commercial project in Ravet, Pune, strategically located near S.B. Patil School. Offering modern office spaces starting from ₹60 Lakhs, the project features excellent connectivity, contemporary infrastructure, and a business-friendly environment, mak",
     "lat": 18.6534,
     "lng": 73.7383
   },
@@ -18902,6 +19854,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "GRD WeOne 121 in Wakad offers smartly designed studio residences ideal for modern urban living and investment. Spread across a compact 0.05-acre land parcel with 1 thoughtfully planned tower, the project combines contemporary architecture, efficient space utilization, and excellent connectivity to k",
     "lat": 18.6026,
     "lng": 73.773
   },
@@ -18945,6 +19898,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Gen1 in Baner is a premium residential project spread across a 0.34-acre land parcel with a single thoughtfully designed tower, offering smart living spaces with carpet areas ranging from 211 sq. ft. to 821 sq. ft. Priced from ₹47 Lakhs onwards, the project caters to modern homebuyers with compact y",
     "lat": 18.5622,
     "lng": 73.7873
   },
@@ -18989,6 +19943,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Crestline Realty in Kiwale offers thoughtfully designed 2 & 3 BHK homes in a well-planned G + 1P + 7 structure, comprising 102 premium residential units. The project blends modern architecture with practical layouts to provide a comfortable urban lifestyle. Located in the rapidly developing suburb o",
     "lat": 18.6536,
     "lng": 73.7312
   },
@@ -19033,6 +19988,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Aria in Punawale is a premium residential project offering spacious 2 & 3 BHK homes with east-west orientation, zero shared walls, and thoughtfully designed layouts for ample light, ventilation, and privacy. With only 4 units per floor, it ensures an exclusive and peaceful living environment while b",
     "lat": 18.626,
     "lng": 73.7355
   },
@@ -19089,6 +20045,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Double-Height Private Lifestyle Balconies",
       "High-Speed Elevators & Podium Amenities"
     ],
+    "description": "ANP Memento in Bhumkar Chowk, Wakad, is situated opposite Golden Care Hospital with immediate connectivity to Hinjewadi IT Park and Phoenix Mall of the Millennium. Offering 2, 2.5, and 3.5 BHK luxury homes with double-height lifestyle balconies.",
     "lat": 18.6032,
     "lng": 73.7648
   },
@@ -19132,6 +20089,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Covered Parking"
     ],
+    "description": "AG Landmark Wakad is a well-planned commercial project offering modern office spaces on a compact 0.5-acre land parcel with a single efficient tower. Designed to suit startups, professionals, and investors, the project features smart layouts, contemporary architecture, and essential business ameniti",
     "lat": 18.6001,
     "lng": 73.7657
   },
@@ -19176,6 +20134,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "GT Codename Amore in Kiwale is a thoughtfully planned residential project spread across 0.5 acres, featuring a single tower with well-designed 2 & 3 BHK homes. With a starting price of ₹67 lakhs, it offers a compact yet modern living experience ideal for families seeking comfort, connectivity, and v",
     "lat": 18.6576,
     "lng": 73.733
   },
@@ -19220,6 +20179,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Heartland Akurdi offers premium 3 & 4 BHK homes spread across a spacious 2.5-acre land parcel with 3 elegantly designed towers in the prime location of Akurdi, Pune. Starting at ₹148 Cr, this thoughtfully planned residential project combines modern architecture, comfortable living spaces, and excell",
     "lat": 18.6467,
     "lng": 73.7667
   },
@@ -19264,6 +20224,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Shaligram walhekarwadi, an upcoming project in walhekarwadi, Pune, by Shaligram Group, offers 2, 3, and 4 BHK apartments. offering 50+ Premium amenities, it features 6 buildings with amenities like a gym, swimming pool, football field, restaurants, and closed parking. Its prime location ensures seam",
     "lat": 18.6321,
     "lng": 73.759
   },
@@ -19308,6 +20269,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Power Backup"
     ],
+    "description": "Anand Vihar, Baner is an exclusive residential development spread across a 0.5-acre land parcel, featuring a single premium tower with thoughtfully designed 2 and 3 BHK residences. Starting at ₹1 crore, the project offers modern homes with efficient layouts, contemporary amenities, and excellent con",
     "lat": 18.5606,
     "lng": 73.7882
   },
@@ -19351,6 +20313,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Sports Court"
     ],
+    "description": "Vishnu Crown is an upcoming premium residential project spread across a 3-acre land parcel, featuring two elegant towers rising to 28 floors with 2 basements, ground, and podium levels. The project offers spacious 3BHK premium residences designed for modern urban living, blending luxury, comfort, an",
     "lat": 18.6261,
     "lng": 73.7874
   },
@@ -19407,6 +20370,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "YOO Pristine in Akurdi is a premium residential development spread across 6 acres, featuring 2 iconic towers offering spacious 2, 2.5, 3 & 4 BHK apartments. Designed for modern urban living with quality specifications and lifestyle-focused planning, the project starts from ₹1.15 Cr and promises a re",
     "lat": 18.6481,
     "lng": 73.7669
   },
@@ -19451,6 +20415,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Yashada NB EVO Plaza in Punawale, Pune, is a premium commercial development offering modern offices and shops designed for comfort, functionality, and growth. Showcasing contemporary architecture harmoniously blended with nature, the project reflects the trusted craftsmanship of the reputed Yashada ",
     "lat": 18.6223,
     "lng": 73.7394
   },
@@ -19495,6 +20460,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Shankeshwar Kingsland is a premium residential development by Shankeshwar Group, located in the heart of Hinjewadi Phase 1, Pune, right beside D-Mart and just a minute from the metro station. Spread across a 4-acre land parcel, the project features 4 towers rising over 33 storeys, offering thoughtfu",
     "lat": 18.5926,
     "lng": 73.7357
   },
@@ -19539,6 +20505,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "ANP Bizsquare Wakad is a premium commercial development designed for modern businesses, offering well-planned retail shops and office spaces in the thriving Wakad business hub of Pune. Spread across a 0.23-acre land parcel, the project features Tower 1 with contemporary architecture, excellent conne",
     "lat": 18.5991,
     "lng": 73.7699
   },
@@ -19583,6 +20550,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "27West is a premium, RERA-registered commercial project by Hubtown Limited, located in the fast-growing Balewadi micro-market of Pune.the development offers thoughtfully designed retail and commercial spaces across multiple configurations to suit varied business needs. Strategically positioned near ",
     "lat": 18.572,
     "lng": 73.7753
   },
@@ -19633,6 +20601,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "GK Sindhu Skies in Pimple Saudagar is a premium residential project spread across a 5-acre land parcel, featuring 4 elegantly designed towers that offer spacious 2, 3, and 4 BHK homes starting at ₹1.3 Cr. Thoughtfully planned to blend modern architecture with world-class amenities, the project ensur",
     "lat": 18.602,
     "lng": 73.8005
   },
@@ -19683,6 +20652,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Evo Residences Phase 1 in Punawale by Yashada Realty is a premium 15-acre luxury township featuring elegantly designed residences, 3 signature towers, 50+ world-class amenities, excellent connectivity, and exceptional pre-launch investment potential, making it an ideal choice for modern homebuyers a",
     "lat": 18.6211,
     "lng": 73.7382
   },
@@ -19727,6 +20697,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "EH Towers in Tathawade is a premium residential development spread across 1.11 acres, featuring two elegantly designed towers with 3 basements + ground + 14 floors. The project offers well-planned 2 BHK and 3 BHK premium residences, combining modern architecture with thoughtful layouts to deliver a ",
     "lat": 18.6146,
     "lng": 73.7499
   },
@@ -19765,6 +20736,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "45 Elite Heights offers 3 BHK flats in Nigdi, Pune, a fast-developing residential area preferred for its open surroundings and improving connectivity. Nigdi's location in Pimpri Chinchwad gives residents easy access to major roads, business hubs, educational institutions, and healthcare facilities. ",
     "lat": 18.6537,
     "lng": 73.7678
   },
@@ -19809,6 +20781,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Dream Glorious in Balewadi is an exclusive residential project spread across 0.5 acres, featuring a single elegant tower with 3 basements, ground, and 15 floors. The project offers thoughtfully designed 2BHK and 3BHK premium residences that blend style, comfort, and functionality. With prices starti",
     "lat": 18.5747,
     "lng": 73.7729
   },
@@ -19853,6 +20826,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "73 PARK is a 1 and 2 BHK residential project in Kiwale, Pune, listed as “Siddhhidata 73 Park” on 99acres. Its price is shown only as “on request,” and I couldn’t find the RERA number, carpet areas, possession date or construction status. Kiwale itself is well connected, near the Mumbai-Pune Expressw",
     "lat": 18.6592,
     "lng": 73.7335
   },
@@ -19897,6 +20871,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Sports Court"
     ],
+    "description": "Kohinoor Avantara, also searched as Kohinoor Anantara, is a residential project by Kohinoor Group in Downtown Wakad, Pune, near Shani Mandir Road and Dattwadi. It spreads across 8.66 acres with eight towers rising above a podium, and the developer lists more than 80 amenities across eight themed zon",
     "lat": 18.5951,
     "lng": 73.7703
   },
@@ -19935,6 +20910,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "7 Cosmos is a small, under-construction 3 BHK project by Cosmos Urban Realty LLP in Ingawale Nagar, Pimple Nilakh, near Visoka Aurum Petals and Brahmavrind Housing Society. It has just 12 units, with possession due in December 2028, and its RERA number is P52100055958, which you can verify on the Ma",
     "lat": 18.5847,
     "lng": 73.7942
   },
@@ -19978,6 +20954,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Covered Parking"
     ],
+    "description": "45 West in Baner is a premium residential project spread across a sprawling 7.9-acre land parcel, offering thoughtfully designed homes starting at ₹1 Crore. With a single iconic tower, the project promises a blend of exclusivity, modern architecture, and upscale living, complemented by excellent con",
     "lat": 18.5617,
     "lng": 73.7871
   },
@@ -20022,6 +20999,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Emerald Grove in Punawale is a thoughtfully planned residential project spread across 3 acres, featuring 2 elegant towers offering well-designed 1 & 2 BHK homes. With prices starting at ₹36 lakhs, the project blends affordability with modern living, providing spacious layouts, quality construction, ",
     "lat": 18.6281,
     "lng": 73.7336
   },
@@ -20066,6 +21044,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "Covered Parking"
     ],
+    "description": "EH Towers Commercial is the shops-and-offices wing of EH Towers, the mixed-use project by Engineers Horizon on the Mumbai–Pune bypass (NH-48) in Jeevan Nagar, Tathawade. It is registered with MahaRERA as P52100079039, with EH Reality LLP as the promoter. Above three basement parking levels, the grou",
     "lat": 18.6203,
     "lng": 73.7554
   },
@@ -20110,6 +21089,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Arun Sanctum Ravet offers premium 2 and 3 BHK flats with spacious layouts, modern amenities, and a prime location near the iconic hanging bridge. Spread over 2.6 acres, it features four towers, 35+ lifestyle amenities, and excellent connectivity to schools, hospitals, and shopping, making it perfect",
     "lat": 18.6478,
     "lng": 73.7475
   },
@@ -20153,6 +21133,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Jogging Track",
       "Power Backup"
     ],
+    "description": "Audumbar Green in Tathawade is a modern residential project spread across 0.5 acres, featuring 2 elegant towers offering well-designed 2 BHK homes. Thoughtfully planned for contemporary living, the project combines comfort, convenience, and connectivity. With prices starting at just ₹64 lakhs, Audum",
     "lat": 18.6154,
     "lng": 73.7551
   },
@@ -20197,6 +21178,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Aster Park (listed as Wakadkar Aster Park) is a residential project by Wakadkar Associates in Jambe, Mulshi, Pune, offering 1 BHK and 2 BHK flats. It's a small, 0.8-acre, G+8 high-rise development with 10+ lifestyle amenities such as a gym, indoor games, yoga and meditation decks, and a children's p",
     "lat": 18.6109,
     "lng": 73.7156
   },
@@ -20247,6 +21229,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Experience premium lifestyle in a 7-acre township with 6 iconic towers, each rising to an impressive 36 floors, designed for ultimate comfort and elegance.Envogue 2 by Tayal Corp Group in Akurdi is a stunning new creation that epitomizes exclusivity and sophistication. Meticulously designed with an ",
     "lat": 18.6512,
     "lng": 73.7757
   },
@@ -20297,6 +21280,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Yashada Realty is soon launching Evo Residences Phase 1 in Punawale, an expansive 15-acre ultra-luxurious residential project designed to offer an elevated lifestyle. With 50+ premium amenities, thoughtfully planned spaces, and 3 elegant towers in the first phase, the project promises exceptional co",
     "lat": 18.6302,
     "lng": 73.7353
   },
@@ -20341,6 +21325,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Aundh Renaissance at Parihar Chowk, Aundh, offers luxurious 3 & 4 BHK homes starting from ₹1.71 Cr*. This newly launched project features premium amenities like a swimming pool, gym, mini-theatre, and valet parking, ensuring a refined lifestyle. With excellent connectivity to key hubs like Baner, Ba",
     "lat": 18.5589,
     "lng": 73.809
   },
@@ -20384,6 +21369,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "ELITE CROWN in Ravet is a compact and well-planned residential project offering thoughtfully designed 2 BHK homes in Tower 2, set on a 0.16-acre land parcel. With a starting price of ₹56 lakhs, the project is ideal for homebuyers seeking modern living in a fast-growing locality, featuring smart layo",
     "lat": 18.6544,
     "lng": 73.7407
   },
@@ -20422,6 +21408,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Library",
       "Sports Court"
     ],
+    "description": "Audumbar Bliss in Walhekarwadi offers thoughtfully designed 2 BHK residences starting at ₹68.96 Lakhs in Tower 1, combining modern architecture with premium amenities to create a comfortable and stylish living experience. Strategically located, the project ensures excellent connectivity to key desti",
     "lat": 18.6388,
     "lng": 73.767
   },
@@ -20465,6 +21452,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Gen1 in Baner is a premium residential project spread across a 0.34-acre land parcel with a single thoughtfully designed tower, offering smart living spaces with carpet areas ranging from 211 sq. ft. to 821 sq. ft. Priced from ₹47 Lakhs onwards, the project caters to modern homebuyers with compact y",
     "lat": 18.5632,
     "lng": 73.7895
   },
@@ -20508,6 +21496,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Greens, located on Aditya Birla Hospital Road in Thergaon, Pune, is a premium residential project offering luxurious 4, 3.5, and 3 BHK apartments in its tallest towers, O & P. Already home to 800+ happy families across six towers, the project is now expanding with the upcoming Towers M, N, O & P—des",
     "lat": 18.6078,
     "lng": 73.7826
   },
@@ -20552,6 +21541,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Jogging Track"
     ],
+    "description": "GT Krushnakunj, located in Kiwale, is a thoughtfully planned residential project spread across a 1-acre land parcel with a single tower offering spacious 2 & 3 BHK homes. Starting at ₹71 lakh, the project combines modern living with excellent connectivity to key areas of Pune, making it an ideal cho",
     "lat": 18.6549,
     "lng": 73.736
   },
@@ -20602,6 +21592,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "GK Sindhu Skies in Pimple Saudagar is a premium residential project spread across a 5-acre land parcel, featuring 4 elegantly designed towers that offer spacious 2, 3, and 4 BHK homes starting at ₹1.3 Cr. Thoughtfully planned to blend modern architecture with world-class amenities, the project ensur",
     "lat": 18.6021,
     "lng": 73.7955
   },
@@ -20646,6 +21637,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Venkatesh Serenique is a pre-launch residential project by Shree Venkatesh Buildcon (part of the established Pune-based Shree Venkatesh Group) located in Bavdhan, West Pune, offering 2, 3, and 4 BHK homes and registered under MahaRERA (PM1261012601412). Some listings describe it as spread across app",
     "lat": 18.5168,
     "lng": 73.7684
   },
@@ -20702,6 +21694,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Sports Court"
     ],
+    "description": "Empire Square in Chinchwad is PCMC’s most premium residential community, offering exquisitely designed 2, 3 & 4 BHK Royal Residences starting at ₹1.24 Cr.*. Nestled in tranquil surroundings off the Old Pune-Mumbai Highway, the project blends spacious layouts, premium fittings, and luxurious amenitie",
     "lat": 18.6307,
     "lng": 73.7798
   },
@@ -20746,6 +21739,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Sports Court"
     ],
+    "description": "Kimaya Muktangan, Pimple Saudagar is a premium residential project spread across a 0.5-acre land parcel, comprising 3 modern towers with thoughtfully designed 2 & 3 BHK homes. Located in the well-connected suburb of Pimple Saudagar, the project offers easy access to IT hubs. With contemporary amenit",
     "lat": 18.5958,
     "lng": 73.7991
   },
@@ -20790,6 +21784,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Kshitej 24Life Altaa, Punawale is a premium residential project by Kshitej Realtors, offering thoughtfully designed 2 & 3 BHK homes with carpet areas from 700–1000 sq ft, priced between ₹75 Lakh–1 Cr. Spread across 0.45 acres with 1 tower and 14 floors, comprising 28 units, the project is RERA regis",
     "lat": 18.6301,
     "lng": 73.7364
   },
@@ -20834,6 +21829,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Aswani Magnus is a premium residential project in Pimple Saudagar, offering spacious 3 & 4 BHK homes across 4 elegantly designed towers on a 4.80-acre land parcel. The project focuses on luxury living with well-planned layouts, modern amenities, and excellent connectivity, with starting prices from ",
     "lat": 18.6002,
     "lng": 73.8045
   },
@@ -20877,6 +21873,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Vezdaa is a premium commercial project located in Ravet, strategically positioned near Mukai Chowk on the Mumbai-Bangalore Highway, spread across 2.5 acres of prime land. The development offers ground floor and first floor retail shop spaces ranging from 529 to 1095 sq.ft., designed to cater to busi",
     "lat": 18.6466,
     "lng": 73.7425
   },
@@ -20921,6 +21918,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Kalp One in Wakad is a premium commercial development spread across a 0.5-acre land parcel, offering well-designed shops and offices with carpet areas ranging from 370 to 1250 sq. ft. With prices starting from ₹2.50 Cr, the project is crafted to cater to modern businesses and retail brands seeking a",
     "lat": 18.6026,
     "lng": 73.764
   },
@@ -20965,6 +21963,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Power Backup"
     ],
+    "description": "Akshay Vista in Pimple Gurav is a premium residential project spread across 0.61 acres, featuring a single elegant tower with 2 basements, ground, and 13 upper floors. The project offers well-planned 2BHK and 3BHK premium residences designed to provide comfort, functionality, and modern living. With",
     "lat": 18.5926,
     "lng": 73.8196
   },
@@ -21003,6 +22002,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Kesar Kalhaar in Kiwale is an elite residential development featuring limited edition 5 BHK luxurious bungalows, thoughtfully designed to offer a rare blend of exclusivity, comfort, and sophistication. Set amidst picturesque landscapes, the project promises a serene living environment complemented b",
     "lat": 18.6573,
     "lng": 73.7339
   },
@@ -21047,6 +22047,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Udyam Residency, Chinchwad is a thoughtfully planned residential development spread across a 0.71-acre land parcel, featuring one premium tower with well-designed 2, 2.5, and 3 BHK residences. The project offers a balanced urban lifestyle with efficient space planning, modern amenities, and excellen",
     "lat": 18.6274,
     "lng": 73.7822
   },
@@ -21091,6 +22092,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Atrium Montaire in Balewadi is a premium residential project offering spacious 3 & 4 BHK homes, set on a well-planned 1.26-acre land parcel with a single elegant tower designed for modern urban living. Starting at ₹1.60 Cr (negotiable), the project combines contemporary architecture, quality constru",
     "lat": 18.5745,
     "lng": 73.7741
   },
@@ -21129,6 +22131,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Unite Runal Studios in Ravet, Pune, is a compact and smartly designed studio apartment project spread across 0.32 acres, featuring a single tower tailored for modern urban living. With starting prices from ₹29 lakhs, the project offers an affordable entry point for first-time homebuyers and investor",
     "lat": 18.6524,
     "lng": 73.7401
   },
@@ -21167,6 +22170,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Vivanta Aarayna Ravet is an exclusive premium row house development spread across a 1-acre land parcel in the rapidly growing locality of Ravet, Pune. Featuring luxurious 5 BHK row houses thoughtfully designed with spacious layouts, contemporary architecture, and premium specifications, the project ",
     "lat": 18.6454,
     "lng": 73.7453
   },
@@ -21211,6 +22215,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Kisana Skies, Kiwale is a thoughtfully planned residential development offering well-designed 1 & 2 BHK apartments. Spread across a compact land parcel of approximately 0.25 acres with a single residential tower, the project focuses on efficient space utilization and modern urban living. Strategical",
     "lat": 18.6576,
     "lng": 73.7313
   },
@@ -21255,6 +22260,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Sports Court"
     ],
+    "description": "Ajwani Prissa Pratham is a residential project by Ajwani Developers, part of the Ajwani Group, in Wakad, Pune, near Akshara Lane and Santosh Nagar. It is planned on about 3 acres as three towers of up to 27 storeys, with roughly 71 percent open space, three-side open homes and five lifts per tower. ",
     "lat": 18.5963,
     "lng": 73.7708
   },
@@ -21298,6 +22304,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Austin Avenue is a premium commercial development in Ashok Nagar, Tathawade, Pune (RERA No. P52100078743), developed by Austin Realty (in association with Gravity Landmarks), launched in January 2025 and slated for completion by June 2027. Spread across roughly 0.98 acre in a single G+12 RCC-framed ",
     "lat": 18.6217,
     "lng": 73.755
   },
@@ -21342,6 +22349,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Co-working Lounge"
     ],
+    "description": "Kohinoor Downtown is a residential project by Kohinoor Group in Wakad, Pune, near Shani Mandir Road and Dattwadi. The developer's own website presents it as Kohinoor Regalia Towers in Downtown Wakad. It has two towers on a plot of about 3.5 acres as listed by the developer, with a B+G+4 podium+21 fl",
     "lat": 18.6,
     "lng": 73.7648
   },
@@ -21392,6 +22400,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Kohinoor Satori is a sanctuary of zen-inspired luxury in New Baner-Mahalunge by Kohinoor Group. Spread across 6.04 acres with 7 grand towers, it offers expansive 3, 4 & 4.5 'Legacy Edition' automated homes where lush green surroundings meet Kohinoor's iconic 'Sada Sukhi Raho' philosophy.",
     "lat": 18.5772,
     "lng": 73.7438
   },
@@ -21436,6 +22445,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Koral Aeternaa by Koral Realty is a premium residential project near Dange Chowk, Wakad, Pune, offering stylish 2 BHK and 3 BHK homes with modern amenities. Strategically located near Hinjawadi and Chinchwad, it ensures seamless connectivity and urban convenience, making it an ideal choice for a com",
     "lat": 18.6108,
     "lng": 73.7792
   },
@@ -21474,6 +22484,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Power Backup"
     ],
+    "description": "Aurelia by Shitole Properties is a residential apartment building in Rahatani, Pimpri-Chinchwad, Pune 411017, on a plot of about 925.64 sq m (roughly 0.22 acre) at S. No. 32/2B, CTS No. 1742 (part). The project is a single tower with 15 apartments, presented by the developer as 3 BHK homes; listed c",
     "lat": 18.6033,
     "lng": 73.7906
   },
@@ -21518,6 +22529,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "24 Wallstreet in Pimpri is a premium commercial project spread across 1 acre, featuring a single elegant tower designed for modern offices and retail spaces. With prices starting from ₹1.16 Cr, it offers an exclusive business destination that combines style, functionality, and convenience. Strategic",
     "lat": 18.627,
     "lng": 73.7961
   },
@@ -21562,6 +22574,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "64 Meridian by Space Builders Group is a premium residential project in Ravet, Pune, offering a perfect blend of modern architecture, thoughtful design, and luxurious living. Crafted with attention to detail, this development promises comfort, quality, and a fairy-tale charm through its uniquely des",
     "lat": 18.6529,
     "lng": 73.7438
   },
@@ -21612,6 +22625,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Kumar Parv is a residential project by Kumar Lifespaces/Kumar Properties in Moshi, Pune, spread across roughly 3.55–4 acres with 8 towers and about 360 units, offering 2 BHK , 2.5 BHK, and 3 BHK homes with amenities like a swimming pool, yoga and fitness studios, kids' play areas, and community farm",
     "lat": 18.6754,
     "lng": 73.8437
   },
@@ -21655,6 +22669,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "LEGACY EKAM in Punawale is a thoughtfully designed residential project spread across 1 acre, featuring a single tower with well-planned 2 BHK homes. Offering a perfect blend of comfort and modern living, the project is ideal for homebuyers seeking quality construction, efficient layouts, and a peace",
     "lat": 18.6258,
     "lng": 73.7399
   },
@@ -21699,6 +22714,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Icon Avanza, Balewadi is a premium residential project spread across approximately 0.25 acres with 2 towers, offering thoughtfully designed 2 & 3 BHK homes in one of Pune’s most sought-after locations. The project combines modern living, good connectivity to IT hubs and daily conveniences, and stron",
     "lat": 18.5744,
     "lng": 73.7708
   },
@@ -21742,6 +22758,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "KK Capitol is a premium residential project in Rahatani, a rapidly developing and well-connected suburb of Pune, offering modern apartments with high-end finishes. Designed for a luxurious lifestyle, the project features top-tier amenities, including a rooftop garden, a well-equipped gymnasium, and ",
     "lat": 18.6095,
     "lng": 73.7909
   },
@@ -21785,6 +22802,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Krisala 41Commune in Wakad, Pune, offers fully furnished, pre-leased studio apartments tailored for urban professionals and investors. Strategically located near Hinjewadi IT Park, the project ensures high rental demand and seamless connectivity. With modern amenities, professional maintenance by Zo",
     "lat": 18.6017,
     "lng": 73.772
   },
@@ -21829,6 +22847,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Mahindra Sanctum at Pimpri is a premium residential development within the larger Mahindra Citadel township, spread across an approximately 11.5-acre land parcel. Offering well-designed 2 and 3 BHK homes in Tower 3, the project combines modern architecture, landscaped open spaces, and lifestyle amen",
     "lat": 18.6259,
     "lng": 73.8028
   },
@@ -21873,6 +22892,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "PK Canopus in Wakad is a premium residential project spread across 2 acres, offering spacious 3 and 4 BHK homes designed for modern living. With thoughtfully planned layouts, contemporary amenities, and excellent connectivity to IT hubs, schools, hospitals, and lifestyle destinations, the project pr",
     "lat": 18.5949,
     "lng": 73.7711
   },
@@ -21917,6 +22937,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Sports Court"
     ],
+    "description": "Lenora Kiwale is a thoughtfully planned residential project offering well-designed 2 & 3 BHK homes in a single elegant tower spread across a 0.6-acre land parcel. With modern layouts, quality specifications, and a comfortable lifestyle focus, the project caters perfectly to today’s urban families. L",
     "lat": 18.6567,
     "lng": 73.7349
   },
@@ -21961,6 +22982,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "GK Aria Punawale offers a well-connected residential lifestyle with convenient access to healthcare, education, shopping, entertainment and major employment hubs. Located near Punawale Multispeciality Hospital, Adhira International School, Elpro City Square Mall and DMart, the project also enjoys co",
     "lat": 18.6243,
     "lng": 73.7332
   },
@@ -22005,6 +23027,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Apex Business Bay Chinchwad is a premium commercial development spread across 3.94 acres, featuring two modern towers with well-designed shops and office spaces. Starting from ₹1.3 Crore, the project offers an excellent business address with contemporary infrastructure and strong investment potentia",
     "lat": 18.6301,
     "lng": 73.7845
   },
@@ -22049,6 +23072,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Majestique The Light in Balewadi is a premium residential project spread across 6.5 acres, offering an elegant blend of comfort and sophistication. With four well-planned towers, the project is modern homes with top-class amenities in a prime Pune location. Starting at just ₹1.66 Cr, it promises an ",
     "lat": 18.5754,
     "lng": 73.7739
   },
@@ -22087,6 +23111,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Jogging Track"
     ],
+    "description": "Amegh Meridian Studios is a new residential development by Amegh Group, strategically located in Wakad, Pune, within the Pimpri Chinchwad (PCMC) area. The project is RERA-registered (PM1260002503053) and is classified as a mixed-use development with A and B wings. It is currently in its new launch p",
     "lat": 18.5956,
     "lng": 73.7698
   },
@@ -22131,6 +23156,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Midori Towers, located in Pimple Nilakh, Pune, is a premium residential project offering thoughtfully designed 2 & 3 BHK apartments. Spread across a 2.34-acre land parcel, the project features Tower 2 with modern amenities, elegant architecture, and well-planned living spaces. Starting at ₹1.17 Cr, ",
     "lat": 18.5787,
     "lng": 73.7949
   },
@@ -22169,6 +23195,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Avani 12th Avenue is a residential project by Avani Housing on the Aundh-Ravet BRTS Road near Dange Chowk, Tathawade, registered with MahaRERA. It offers 2 BHK and 3 BHK homes. Amenities include a gym, kids' play area, yoga deck, landscaped gardens, EV charging, and basement and ground parking. It h",
     "lat": 18.6178,
     "lng": 73.751
   },
@@ -22213,6 +23240,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "My Home Akurdi by Goyal Properties is a premium residential project spanning 1 acre, offering well-designed 2 & 3 BHK apartments with modern amenities. With two towers housing a total of 140 units, the project provides spacious living spaces, with modern lifestyle amenities. Strategically located fo",
     "lat": 18.6496,
     "lng": 73.7684
   },
@@ -22257,6 +23285,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Aditya Vivaaz in Ravet, Pune, offers well-designed 2 & 3 BHK apartments starting at Rs. 86 lakhs, with sizes ranging from 797 to 1027 sqft. Priced at Rs. 7,900/sqft, these homes feature modern amenities, spacious layouts, and high-quality finishes. Located in a prime area with excellent connectivity",
     "lat": 18.6497,
     "lng": 73.7402
   },
@@ -22301,6 +23330,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Meriton Heights in Mamurdi is a premium residential development spread across 3.5 acres, featuring two well-planned towers offering spacious 2 & 3 BHK homes designed for modern living. With thoughtful architecture, ample open spaces, and essential lifestyle amenities, the project promises a comforta",
     "lat": 18.67,
     "lng": 73.7276
   },
@@ -22345,6 +23375,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Meridian Square is a RERA-registered residential development by Np Lifespaces in Tathawade, one of Pune's fastest-growing western corridors. The project offers thoughtfully planned 2 and 3 BHK apartments with carpet areas from 740 to 990 sq ft, balancing comfortable living spaces with efficient layo",
     "lat": 18.6222,
     "lng": 73.7538
   },
@@ -22389,6 +23420,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "AR Amora in Wakad by AR Living is an exclusive residential project spread across 0.5 acres, offering just 66 premium units with spacious carpet areas ranging from 728 to 852 sq. ft. Located in the thriving Pimpri Chinchwad (PCMC) micro market, this low-density development in Wakad promises privacy, ",
     "lat": 18.6033,
     "lng": 73.7651
   },
@@ -22433,6 +23465,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Avishkar Ridhima Commercial, Hinjewadi Phase 3 is a modern commercial development offering premium shops and office spaces in one of Pune’s fastest-growing business corridors. Spread across a 1.78-acre land parcel, Tower 1 features well-planned commercial units starting from ₹50 lakh onwards. Surrou",
     "lat": 18.5915,
     "lng": 73.7436
   },
@@ -22477,6 +23510,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "7 Avenue in Kiwale offers well-planned 2 & 3 BHK homes in a premium 13-storey tower with just 6 flats per floor, ensuring privacy and comfort. Designed with unique, vastu-compliant layouts, the project features 3 balconies plus a separate dry balcony, highway-touch connectivity, covered parking, and",
     "lat": 18.6585,
     "lng": 73.73
   },
@@ -22521,6 +23555,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Om Mangalam Samruddhi in Kiwale redefines modern community living with spacious 2 & 3 BHK homes designed for comfort, style, and functionality. Nestled in the heart of Kiwale, the project offers a perfect blend of contemporary architecture, premium lifestyle amenities, and serene green surroundings.",
     "lat": 18.6557,
     "lng": 73.7339
   },
@@ -22565,6 +23600,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "QUE 154, Punawale offers thoughtfully designed 2, 2.5, and 3 BHK residences in a premium residential development spread across a 2.5-acre land parcel with 2 elegant towers. Crafted for modern living, the project combines spacious layouts, contemporary amenities, and excellent connectivity to key loc",
     "lat": 18.6241,
     "lng": 73.7357
   },
@@ -22609,6 +23645,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "One Platinum in Akurdi, by Matrix Developers, is an upcoming premium residential project spread across 1.5 acres, offering thoughtfully designed 2 and 3 BHK residences ranging from 805 sq.ft. to 1120 sq.ft. Priced from ₹95 Lakhs onwards, the project combines modern living spaces with premium ameniti",
     "lat": 18.6483,
     "lng": 73.7735
   },
@@ -22653,6 +23690,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Placidia Akurdi is a premium residential development offering thoughtfully designed 2 & 3 BHK homes across a 0.5-acre land parcel with a single elegant tower. Starting at just ₹85 Lakhs, the project combines modern living, quality construction, and excellent connectivity, making it an ideal choice f",
     "lat": 18.6531,
     "lng": 73.7721
   },
@@ -22691,6 +23729,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Pleroma Greens Tathawade is a well-planned residential project offering spacious 2 BHK homes designed for comfortable urban living. Spread across a 4.5-acre land parcel with 3 thoughtfully designed towers, the project ensures open spaces, natural light, and modern amenities. Located in the fast-deve",
     "lat": 18.6201,
     "lng": 73.7534
   },
@@ -22735,6 +23774,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Sports Court"
     ],
+    "description": "Namrata Manifesta is a premium residential project by Namrata Group, offering well-planned 2 and 3 BHK homes in the fast-developing locality of Punawale, Pune. The project features spacious layouts, vastu-compliant design, and over 35 lifestyle amenities spread across ground, podium, and rooftop lev",
     "lat": 18.6254,
     "lng": 73.7363
   },
@@ -22779,6 +23819,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Palladio Presidential Suites in Balewadi is a premium residential development spread across a sprawling 10-acre land parcel, featuring 5 elegant towers offering spacious 3 & 4 BHK residences. Designed for upscale living with modern architecture and lifestyle amenities, the project combines luxury wi",
     "lat": 18.5745,
     "lng": 73.7703
   },
@@ -22829,6 +23870,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Morya Skydale, near Aditya Birla Hospital in Thergaon-Chinchwad, offers luxurious 3 BHK, 3.5 BHK, and 4 BHK residences with premium amenities for all ages. This prime location project integrates retail spaces, office facilities, and multi-level parking, ensuring ultimate convenience. Experience a se",
     "lat": 18.6148,
     "lng": 73.7842
   },
@@ -22873,6 +23915,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Renuka Panchatattva in Tathawade presents premium shops and office spaces starting at ₹65 Lakhs, designed to cater to modern business needs with excellent connectivity, high visibility, and contemporary infrastructure in one of Pune’s fastest-growing commercial destinations, making it a perfect choi",
     "lat": 18.6212,
     "lng": 73.7565
   },
@@ -22911,6 +23954,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Rutuja Enclave in Akurdi is a thoughtfully designed residential project spread across 1 acre, offering well-planned 2 BHK homes that blend comfort with convenience. Located in a prime neighborhood, the project ensures excellent connectivity to schools, hospitals, shopping hubs, and transport facilit",
     "lat": 18.6623,
     "lng": 73.7641
   },
@@ -22955,6 +23999,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Navyam is an under-construction residential project in Ravet, Pune 412101, on Survey No. 117, opposite S. B. Patil School, by Kiwale Realty LLP. It is planned on about 2.28 acres (9,210 sq m) with wings A to H and 203 apartments as filed with MahaRERA. The homes are 2 BHK with listed carpet areas of",
     "lat": 18.652,
     "lng": 73.7454
   },
@@ -22999,6 +24044,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Power Backup"
     ],
+    "description": "Sai Signature is an upcoming residential project spread across 2 acres, featuring 4 thoughtfully designed towers with 3-level basements, ground plus 16 floors, offering spacious 2 BHK and 3 BHK premium residences. With prices starting at ₹65 Lakhs, the project blends modern architecture, smart layou",
     "lat": 18.6618,
     "lng": 73.7285
   },
@@ -23043,6 +24089,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Rachana Bella Casa Royale, located near Sus Lane, Baner, Pune, offers 2 and 3 BHK premium residences across two towers with G+5P+14 floors. Spread over 25 acres, the project features over 50 luxurious amenities, including a clubhouse, swimming pools, gym, and kids' play area, along with high-quality",
     "lat": 18.562,
     "lng": 73.7864
   },
@@ -23087,6 +24134,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Swimming Pool"
     ],
+    "description": "Rachana Privana, Moshi is a premium residential project spread across a 1-acre land parcel, featuring a single thoughtfully designed tower with spacious 3 BHK &4 BHK residences. Starting at ₹1.08 Cr., the project offers modern amenities, efficient layouts, and a well-connected location, making it an",
     "lat": 18.6736,
     "lng": 73.8452
   },
@@ -23130,6 +24178,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "18 Altitude Commercial in Walhekarwadi is a premium commercial development spread across a 3.48-acre land parcel, featuring a well-designed tower offering modern offices. Strategically planned for high visibility and business growth, the project combines contemporary infrastructure with a prime loca",
     "lat": 18.6295,
     "lng": 73.764
   },
@@ -23174,6 +24223,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sai Vilasita Wakad is a thoughtfully planned residential development offering spacious 2 & 3 BHK homes across a 2-acre land parcel with a dedicated single tower. Strategically located in Wakad, Pune, the project combines comfortable living spaces, modern lifestyle conveniences, and excellent connect",
     "lat": 18.6027,
     "lng": 73.7648
   },
@@ -23217,6 +24267,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Nirvana by Nirman Greens is a luxury residential project on Survey No. 224/1, Aundh-Baner Link Road, Baner, bordering the green expanse of Pallod Farms. It has three towers. Tower A rises 31 floors with just two homes per floor: a 4 BHK of 2,550 sq ft and a 4.5 BHK with a family lounge of 3,179 sq f",
     "lat": 18.5573,
     "lng": 73.7827
   },
@@ -23261,6 +24312,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Bhagawati Chambers is a premium commercial complex strategically located in Tathawade, Pune — a rapidly growing IT and residential hub known for its proximity to Hinjewadi IT Park, Wakad, and the Mumbai-Bangalore Highway. Designed to cater to modern business needs, the complex offers well-planned of",
     "lat": 18.6154,
     "lng": 73.7563
   },
@@ -23299,6 +24351,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Thorve House in Balewadi is an elegant residential project spread across 1 acre, featuring a single well-designed tower that offers modern 2 BHK homes. With prices starting at ₹1.10 Cr, the project combines contemporary architecture, premium amenities, and a prime Balewadi location, ensuring a perfe",
     "lat": 18.5792,
     "lng": 73.7769
   },
@@ -23343,6 +24396,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Swimming Pool"
     ],
+    "description": "Santiago Skytown in Kiwale, Ravet, is a premium residential project spread across 0.89 acres, featuring a single tower with 40 thoughtfully designed 2 & 3 BHK apartments ranging from 624 to 856 sq.ft.This project offers a blend of spacious living and modern aesthetics at an average price of ₹12.19K/",
     "lat": 18.6582,
     "lng": 73.7312
   },
@@ -23399,6 +24453,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sapphire Nest in Pimple Saudagar is a premium residential project by Manggaldeep Group. It is spread over 1.25 acres with just 100 homes, and is pitched around a private, contemporary lifestyle with an early-access EOI opportunity. Prices start from ₹1.28 Cr for a 2 BHK and ₹1.28 Cr for a 3 BHK, wit",
     "lat": 18.599,
     "lng": 73.8037
   },
@@ -23443,6 +24498,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "NB Evo Highstreet Punawale is a newly launched premium commercial project offering modern shops and showrooms starting from ₹73 Lakhs onwards. Strategically located in the rapidly developing Punawale area, the project offers excellent visibility, high footfall potential, and strong investment return",
     "lat": 18.621,
     "lng": 73.7339
   },
@@ -23487,6 +24543,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Jhamtani Ace Abode in Upper Ravet spans across a vast land area of 13,950 sq.m with a saleable area of 6,50,000 sq.ft, housing 600+ thoughtfully designed units across 7 wings of 13 stories each. Offering a blend of 2 and 3 BHK configurations, the project features elegant colonial-style architecture ",
     "lat": 18.6605,
     "lng": 73.7301
   },
@@ -23531,6 +24588,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Akshara Mayfair by Garve Developers is a 2.25-acre residential development in the heart of Tathawade, behind G.G. International School and Hotel Raaga Imperio at Newale Wasti, close to the Aundh–Ravet BRTS Road and the Mumbai–Bengaluru Highway. Two towers, A and B, rise B1 + B2 + ground + 21 storeys",
     "lat": 18.6235,
     "lng": 73.756
   },
@@ -23581,6 +24639,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sky Sanctum is a two-tower high-rise residential project at Bhujbal Chowk, Wakad, Pune 411057, near The Address Commercia. It is presented by Talreja Group together with Ailsinghani Group, and the MahaRERA registration is held under Mohar Lifespaces LLP. The towers rise to about 32 storeys and offer",
     "lat": 18.6002,
     "lng": 73.7718
   },
@@ -23624,6 +24683,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Shree Raman Legacy in Tathawade is a boutique residential project by Shree Samarth Developers, offering 6 exclusive 3 BHK apartments across 0.5 acres. Launched in December 2024 with possession by December 2027, the project features modern amenities and a prime location near key schools, hospitals, a",
     "lat": 18.6166,
     "lng": 73.7591
   },
@@ -23668,6 +24728,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sentosa Harico Divaam is a premium new-launch residential project in Kiwale, Pune, spread across a vast 6-acre land parcel and featuring 5 iconic towers of 24 floors each. The project offers thoughtfully designed luxurious 2 & 3 BHK apartments, blending contemporary architecture with spacious layout",
     "lat": 18.6548,
     "lng": 73.7344
   },
@@ -23718,6 +24779,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Sports Court"
     ],
+    "description": "Tulip Infinity Evana is a high-rise residential project at Rasikwadi, Punawale, Pune, by Varma Corp (the new name of the Tulip Group) with S.M. Group as joint-venture partner. It is registered with MahaRERA as P52100078470 under the name Infinity Evana, with a revised completion date of 30 October 2",
     "lat": 18.6239,
     "lng": 73.7342
   },
@@ -23762,6 +24824,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Shankeshwar kingsland Hinjewadi Phase 1 is a thoughtfully planned residential project spread across a 4-acre land parcel, featuring 4 well-designed towers offering spacious 2 & 3 BHK homes. With modern architecture, smart layouts, and lifestyle amenities, the project is ideal for both end-users and ",
     "lat": 18.5953,
     "lng": 73.7405
   },
@@ -23806,6 +24869,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Shyni Gold by K. Infra in Walhekarwadi is a premium residential project offering open-view, spacious flats with the largest carpet area in the vicinity. Thoughtfully designed as per Vastu principles, these homes ensure a harmonious and positive living environment. Every residence comes with dedicate",
     "lat": 18.6329,
     "lng": 73.7784
   },
@@ -23849,6 +24913,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Shubh Veda Commercial Akurdi is a premium commercial development spread across an expansive 8-acre land parcel, featuring 2 well-planned towers offering modern retail shops. Designed for high visibility and strong business potential, the project combines efficient layouts, contemporary architecture,",
     "lat": 18.6468,
     "lng": 73.7688
   },
@@ -23893,6 +24958,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sentosa Edge is an under-construction residential project by Sentosa Developers on Pandhare Wasti Road in Punawale, Pimpri-Chinchwad, Pune 411033, registered under MahaRERA as PM1260002501839. It offers 2 BHK homes of 741 and 826 sq ft carpet area and 3 BHK homes of 942, 1,048 and 1,114 sq ft carpet",
     "lat": 18.6264,
     "lng": 73.7332
   },
@@ -23937,6 +25003,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sky Eloria in Rahatani, Pune, is a thoughtfully planned residential development spread across a 2.5-acre land parcel, featuring two elegant towers with well-designed 2 & 3 BHK homes. Starting from ₹1.05 Cr, the project offers modern living spaces complemented by lifestyle amenities and excellent con",
     "lat": 18.6078,
     "lng": 73.7866
   },
@@ -23981,6 +25048,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Silverise GrandSky in Moshi offers premium 2 & 3 BHK residences designed to blend luxury, comfort, and modern living. Developed by the renowned SilveRise Group, the project boasts spacious layouts, high-end finishes, and state-of-the-art amenities. With a strong focus on sustainability and architect",
     "lat": 18.675,
     "lng": 73.8474
   },
@@ -24024,6 +25092,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Signature Park is a compact residential development spread across approximately 1 acre, featuring 2 residential towers with thoughtfully planned 2 BHK homes starting from around ₹67 lakh. Developed by Vijayshree Developers, the project is designed for IT professionals and end-users seeking affordabi",
     "lat": 18.589,
     "lng": 73.7417
   },
@@ -24074,6 +25143,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Skyluxe Chinchwad is a premium residential development spread across a 3.5-acre land parcel, featuring 3 elegant towers with G+2P+26 floors. The project offers thoughtfully designed 2 BHK, 3 BHK, and 4 BHK residences that blend luxury with modern living. With prices starting from ₹89.99 lakhs, Skylu",
     "lat": 18.6327,
     "lng": 73.7815
   },
@@ -24128,6 +25198,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Low-Density Living (Only 4 Units Per Floor)",
       "Kothrud Metro & Vanaz Station Access"
     ],
+    "description": "Solitaire Kothrud is a marquee hilltop luxury development in Lokmanya Colony, Manikya Nagar, Kothrud. Blending Pune's cultural soul with modern architecture, it offers panoramic running decks with zero overlooking between balconies, 32,000 sq ft amenity podium, and multi-tier clubhouses.",
     "lat": 18.5088,
     "lng": 73.812
   },
@@ -24172,6 +25243,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "SMK Platinum, Ravet is a boutique residential project spread across a 0.5-acre land parcel with a single tower offering well-planned 1 & 2 BHK homes. Located in the fast-growing locality of Ravet, Pune, the project provides excellent connectivity to key commercial hubs, educational institutions, and",
     "lat": 18.6494,
     "lng": 73.7404
   },
@@ -24216,6 +25288,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Wakad Central Park in Wakad is an exclusive residential project offering elegant 2 & 3 BHK homes within a single tower spread across 1 acre, housing just 70 premium units. Designed for seamless, sophisticated living, the project features a grand entrance gate, electronic boom barrier, 3-tier securit",
     "lat": 18.6002,
     "lng": 73.766
   },
@@ -24259,6 +25332,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Canary Sky Oasis in Balewadi is a premium residential development spread across 4.5 acres, featuring 4 well-designed towers offering spacious 3 BHK residences. The project is thoughtfully planned to provide a blend of modern living, comfort, and open spaces, making it ideal for urban families. With ",
     "lat": 18.5756,
     "lng": 73.7749
   },
@@ -24302,6 +25376,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "THE BENCHMARK, Pimple Saudagar is a premium commercial project offering well-designed office spaces and showrooms on a 0.75-acre land parcel with a single iconic tower. It features efficient layouts, contemporary architecture, and excellent visibility in one of Pune’s established commercial hubs. Wi",
     "lat": 18.5974,
     "lng": 73.7973
   },
@@ -24346,6 +25421,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Harivishva Skyfinia is an expansive premium residential project spread across 6 acres, featuring 6 grand towers with a structure of B+G+4P+32 floors. The project offers thoughtfully designed 2 & 3 BHK residences that blend luxury, comfort, and modern architecture. With spacious layouts, premium spec",
     "lat": 18.6189,
     "lng": 73.7536
   },
@@ -24389,6 +25465,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "The Corniche Tathawade is a premium commercial development strategically located in one of Pune’s fastest-growing business hubs. Spread across 0.67 acres with a single impressive tower, the project offers modern office spaces designed to meet the needs of dynamic enterprises and professionals. With ",
     "lat": 18.614,
     "lng": 73.752
   },
@@ -24433,6 +25510,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Library",
       "Sports Court"
     ],
+    "description": "My Home Sanctuary is a residential township by Goyal Properties at Survey No. 8 (P), Mamurdi, Haveli taluka, Pune, on about 40,000 sq m of land and registered with MahaRERA as Phase I. The RERA record lists six buildings: towers A, B, C, D and a MHADA tower L of up to 31 floors, plus a multi-level c",
     "lat": 18.6624,
     "lng": 73.7236
   },
@@ -24477,6 +25555,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Library",
       "Sports Court"
     ],
+    "description": "Majestique Evolvus by Majestique Landmarks is a 10-acre landmark development in Central Kharadi, near the Kharadi bypass and next to BNY Mellon, with the EON Free Zone and World Trade Center close by. Its towers rise G + 26 floors above five levels of car parking, over a retail high street planned t",
     "lat": 18.555,
     "lng": 73.9313
   },
@@ -24521,6 +25600,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Saniket The Rising is an ultra-premium residential project in Ravet, spread across 5 acers. Offering meticulously designed 2 BHK and 3 BHK residences with only 4 flats per floor for enhanced privacy, the project boasts over 30 luxurious amenities. With spacious layouts, exclusive access, and excelle",
     "lat": 18.6461,
     "lng": 73.7442
   },
@@ -24565,6 +25645,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Garden"
     ],
+    "description": "Trio Kaya Ravet is a thoughtfully planned residential project offering spacious 2 & 3 BHK apartments in the thriving locality of Ravet, Pune. Spread across a 2.29-acre land parcel with 3 elegantly designed towers, the project blends modern architecture, premium amenities, and excellent connectivity ",
     "lat": 18.6616,
     "lng": 73.7326
   },
@@ -24609,6 +25690,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "City One Vieorra, Kiwale is a premium residential development by City One Developers, spread across 2.25 acres near Datta Mandir. It offers elegantly designed 2 & 3 BHK homes with 2 BHK starting from ₹65 L and 3 BHK from ₹85 L onwards, featuring smart layouts, abundant natural light, and modern amen",
     "lat": 18.6604,
     "lng": 73.7296
   },
@@ -24659,6 +25741,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rooftop Infinity Lounge & Sky Terrace",
       "Imported Marble Finishes"
     ],
+    "description": "Tej Elevia on Pancard Club Road in Baner is an upscale architectural boutique residence offering 2, 3, and sprawling 4.5 BHK penthouses. Situated near Baner Hill with peaceful green surroundings, infinity rooftop lounge, and 100% zero brokerage.",
     "lat": 18.5593,
     "lng": 73.7874
   },
@@ -24697,6 +25780,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Venkatesh Tresor in Baner offers exclusive 4.5 BHK luxury residences on a 0.5-acre land parcel, featuring a premium single-tower development. Starting at ₹8.60 Cr, the project is designed for those seeking spacious, sophisticated living in one of Pune’s most sought-after locations.",
     "lat": 18.5568,
     "lng": 73.7883
   },
@@ -24740,6 +25824,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "City one SkyVe is a premium residential project spread across 2.25 acres, featuring three elegant towers with G+3P+19 floors that offer thoughtfully designed 2 & 3 BHK premium residences. With modern architecture, spacious layouts, and a host of lifestyle amenities, the project promises a refined li",
     "lat": 18.6531,
     "lng": 73.7295
   },
@@ -24784,6 +25869,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Wandering Winds, Aundh is a boutique residential development spread across approximately 0.2 acres, featuring a single residential tower with thoughtfully planned 1 and 2 BHK apartments. Designed for urban homebuyers seeking a well-connected lifestyle in one of Pune’s established residential hubs, t",
     "lat": 18.5594,
     "lng": 73.7827
   },
@@ -24828,6 +25914,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Wisdom Skyverse Pimpri is a premium residential development offering spacious 2 BHK and 3 BHK homes designed for modern urban living. Spread across a vast 7.5-acre land parcel with 3 well-planned towers, the project ensures ample open spaces and a comfortable lifestyle. Located in the prime Pimpri a",
     "lat": 18.6285,
     "lng": 73.7987
   },
@@ -24871,6 +25958,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Covered Parking"
     ],
+    "description": "Westgate Business Park in Wakad is a premium commercial development spread across a 1.4-acre land parcel, featuring well-planned retail shops in Tower 1 with a starting price of ₹1.99 Cr, designed to offer high visibility, modern infrastructure, and excellent connectivity, making it an ideal investm",
     "lat": 18.599,
     "lng": 73.7725
   },
@@ -24914,6 +26002,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Covered Parking"
     ],
+    "description": "Merlin Elementa 2.0 in Tathawade is a premium commercial development offering well-designed shops within a sprawling 2.75-acre land parcel featuring 3 impressive towers. With a starting price of ₹1.6 Cr, the project is crafted to cater to high-street retail and business requirements, ensuring excell",
     "lat": 18.6207,
     "lng": 73.7528
   },
@@ -24964,6 +26053,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "WYCE Exclusivity, Bavdhan, is a premium residential development, offering thoughtfully designed 2 & 3 BHK homes.Starting from ₹1.11 Cr onwards, the project combines modern architecture, spacious residences, lifestyle amenities and a well-connected location to deliver a comfortable and contemporary l",
     "lat": 18.5116,
     "lng": 73.7704
   },
@@ -25014,6 +26104,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Yashada Realty is soon launching Evo Residences Phase 1 in Punawale, an expansive 15-acre ultra-luxurious residential project designed to offer an elevated lifestyle. With 50+ premium amenities, thoughtfully planned spaces, and 3 elegant towers in the first phase, the project promises exceptional co",
     "lat": 18.6263,
     "lng": 73.7395
   },
@@ -25058,6 +26149,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Crestline Shreshth in Kiwale is a thoughtfully designed residential project offering spacious 2 & 3 BHK apartments within a 2.3-acre land parcel featuring a single well-planned tower. The project is designed to provide comfortable urban living with modern amenities, efficient layouts, and excellent ",
     "lat": 18.6526,
     "lng": 73.7303
   },
@@ -25102,6 +26194,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Co-working Lounge"
     ],
+    "description": "Gaikwad Florio is a residential project by Gaikwad Corp (Gaikwad Developers) at Kate Wasti, Punawale, Pune 411033, on about 2.25 acres. The high-rise buildings rise to two basements, ground and 27 floors. Homes are 2 BHK of about 799 to 804 sq ft carpet area and 3 BHK of about 1,058 to 1,064 sq ft c",
     "lat": 18.627,
     "lng": 73.7331
   },
@@ -25146,6 +26239,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Menlo Skyora by Menlo Realty is a RERA-registered residential project in Bavdhan, a sought-after western Pune neighbourhood known for its green surroundings and quick access to the city. The project offers spacious 2 and 3 BHK homes with carpet areas from 856 to 1,282 sq ft, designed for buyers seek",
     "lat": 18.5173,
     "lng": 73.7685
   },
@@ -25196,6 +26290,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "10 Elite Akasa Chandrarang in Pimple Gurav is a premium residential project spread across 1.7 acres, featuring 3 elegant towers offering spacious 2, 3, and 4 BHK homes. Designed for modern urban living, the project blends luxury, comfort, and functionality with thoughtfully planned layouts and premi",
     "lat": 18.5843,
     "lng": 73.8212
   },
@@ -25240,6 +26335,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Five Oaks Pimple Saudagar is a thoughtfully designed residential project offering modern 2 and 3 BHK homes in one of Pune’s well-established and sought-after neighbourhoods. Designed for comfortable urban living, the project combines contemporary architecture, spacious layouts, lifestyle amenities, ",
     "lat": 18.5997,
     "lng": 73.7923
   },
@@ -25284,6 +26380,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Crystal Homes, Ravet is a premium residential development spread across a 0.77-acre land parcel, featuring 2 thoughtfully designed towers with well-planned 2 & 3 BHK residences. Strategically located in the rapidly developing Ravet micro-market, the project offers a blend of modern amenities, effici",
     "lat": 18.6489,
     "lng": 73.7416
   },
@@ -25328,6 +26425,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Covered Parking"
     ],
+    "description": "Yoo Pristine in Akurdi is a premium commercial development featuring shops and showrooms in its impressive Tower 2, designed to offer maximum visibility and business growth. Spanning a vast 6-acre land parcel, the project provides a modern high-street experience with spacious layouts and strategic f",
     "lat": 18.6522,
     "lng": 73.7681
   },
@@ -25372,6 +26470,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Dolphin Palms by Dinesh Gupta Builders is a state-of-the-art residential project in Ravet, Pune, spanning 1.5 acres and offering 2 & 3 BHK modern apartments across five thoughtfully designed towers. With over 50 premium amenities, including a dedicated dry balcony, an on-site temple, a 3-tier securi",
     "lat": 18.6521,
     "lng": 73.7449
   },
@@ -25422,6 +26521,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Power Backup"
     ],
+    "description": "Antalya Next is a residential project at Ram Nagar, Tathawade, Pune 411033, built on a 2.25-acre plot as two towers of ground plus 17 floors with podium parking. It is registered with MahaRERA under P52100066556 by Sanil Constructions LLP and marketed by Estofa Realty. Homes are 2 BHK (725 to 844 sq",
     "lat": 18.6159,
     "lng": 73.7531
   },
@@ -25472,6 +26572,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Legacy Kairos in Rahatani, Pune, offers spacious, air-conditioned apartments with modern amenities and excellent connectivity. Featuring a gym, pool, spa, and children’s play area, it provides a luxurious lifestyle close to IT parks, shopping, dining, and entertainment. Surrounded by parks, it blend",
     "lat": 18.6055,
     "lng": 73.7881
   },
@@ -25516,6 +26617,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Alacarte Homes in Hinjewadi is a thoughtfully planned residential project spread across a 4-acre land parcel, featuring 4 well-designed towers offering spacious 2 & 3 BHK homes. With modern architecture, smart layouts, and lifestyle amenities, the project is ideal for both end-users and investors. S",
     "lat": 18.5906,
     "lng": 73.742
   },
@@ -25559,6 +26661,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Co-working Lounge",
       "Power Backup"
     ],
+    "description": "Merlin Ventana Commercial, Baner is a modern commercial project offering premium shops, showrooms, and office spaces across a 1.25-acre land parcel with a single tower layout. Located in one of Pune’s prime business hubs, it ensures excellent connectivity, strong visibility, and high footfall, makin",
     "lat": 18.5593,
     "lng": 73.7915
   },
@@ -25609,6 +26712,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Mantra Meridian Balewadi offers premium 2, 3, 4 BHK, and duplex apartments in a lush 8-acre low-rise development. Strategically located in Balewadi, it ensures seamless connectivity to IT hubs, schools, and markets, with modern amenities and serene surroundings for a luxurious lifestyle.this project",
     "lat": 18.5806,
     "lng": 73.7772
   },
@@ -25653,6 +26757,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Sports Court"
     ],
+    "description": "Mantra Mistara by Mantra Properties is a residential project at Sus Hillside, off Rajgad Bunglow Road near Parkhe Vasti, Sus, Pune 411021. It is planned as two towers of three basement levels plus 28 floors on about 2.45 acres, with seven flats and two lifts per floor, and hillside views to the sout",
     "lat": 18.5567,
     "lng": 73.7848
   },
@@ -25697,6 +26802,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Launching Miracle Imperio Towers, located on Aundh-Ravet BRTS Road in Tathawade, offers luxurious 2, 3, and 4 BHK apartments with 50+ premium amenities. Developed by Miracle Groups, a leader in Pune's real estate market since 2010, the project blends innovative design with sustainable living. With o",
     "lat": 18.6147,
     "lng": 73.7587
   },
@@ -25741,6 +26847,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Palladio Balewadi Central, by Vilas Javdekar Developers, is a premium residential project spread across a sprawling 7.76 acre expanse in Balewadi, Pune, offering spacious 3 & 4 BHK apartments with a low-density design of only 4 units per floor. Strategically located near Balewadi High Street, the me",
     "lat": 18.5806,
     "lng": 73.7775
   },
@@ -25795,6 +26902,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Dedicated Shuttle Service to Hinjewadi IT Park",
       "Olympic-Size Swimming Pool"
     ],
+    "description": "Krisala Everland in North Hinjewadi / Darumbre near Kasarsai Lake is a scenic gated community offering 2 & 3 BHK nature-facing residences. Features over 40+ curated lifestyle amenities, adventure zones, botanical gardens, and fast connectivity to Hinjewadi IT parks.",
     "lat": 18.5889,
     "lng": 73.7341
   },
@@ -25839,6 +26947,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Platinum Royale, Wakad is a premium residential development spread across a 3.7-acre land parcel, featuring a thoughtfully planned tower with spacious 1 & 2 BHK homes. Designed to offer a blend of comfort, connectivity, and modern lifestyle amenities, the project presents an attractive opportunity f",
     "lat": 18.5956,
     "lng": 73.7664
   },
@@ -25883,6 +26992,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Renuka Brzee Ravet is a premium residential development spread across a 3.07-acre land parcel, featuring 4 elegant towers offering thoughtfully designed 2 & 3 BHK homes. Crafted to deliver comfort, convenience, and modern living, the project brings a blend of well-planned layouts, lifestyle amenitie",
     "lat": 18.6472,
     "lng": 73.743
   },
@@ -25926,6 +27036,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Renuka Madhuban in Akurdi, Pune West is a newly launched RERA-registered residential project offering a range of thoughtfully designed homes to suit diverse budgets. Scheduled for possession by December 2027, it presents a modern living destination with multiple options for homebuyers seeking comfor",
     "lat": 18.6456,
     "lng": 73.7742
   },
@@ -25970,6 +27081,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "QUE 154, Punawale presents thoughtfully designed 2, 2.5, and 3 BHK residences within a premium residential development spread across 2.5 acres, featuring 2 elegant towers. Crafted for modern living, the project combines spacious layouts, contemporary amenities, and excellent connectivity to key loca",
     "lat": 18.6257,
     "lng": 73.7407
   },
@@ -26013,6 +27125,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Jogging Track",
       "Power Backup"
     ],
+    "description": "Sky Tower Moshi is a premium residential development offering well-designed 2 & 3 BHK homes, perfectly suited for modern lifestyles. Spread across a 0.5-acre land parcel with a single thoughtfully planned tower, the project combines smart space utilization with quality living. With homes starting at",
     "lat": 18.6726,
     "lng": 73.8521
   },
@@ -26051,6 +27164,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Soham Raman Stellar is a residential project by Soham Shivam Developers, on about 1 acres. It offers 2 BHK apartments of roughly 650 to 780 sq ft, and a resale unit is listed at ₹89 lakh. Possession was scheduled for Dec 2025, and one portal reports an Occupancy Certificate, while others still show ",
     "lat": 18.6183,
     "lng": 73.7571
   },
@@ -26094,6 +27208,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Sky Stories in Aundh‑Ravet BRTS, Ravet (Pune), is a premium 2‑ and 3‑BHK residential‑cum‑commercial development sprawled across a meticulously planned 2.5‑acre campus. The project features four elegant towers with main‑road‑facing commercial bays, a unique contemporary layout, top-tier construction ",
     "lat": 18.6516,
     "lng": 73.7412
   },
@@ -26137,6 +27252,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Nirman Drive Tathawade is a premium commercial project spread across approximately 1 acre, featuring a dedicated tower with well-planned retail shops designed for business and investment opportunities. Strategically located in Tathawade, the project offers excellent connectivity to key areas of Pune",
     "lat": 18.6197,
     "lng": 73.7499
   },
@@ -26181,6 +27297,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Landscaped Garden"
     ],
+    "description": "Sentosa Elite Wakad is a premium commercial project strategically located in Wakad, one of Pune's fastest-growing business and residential hubs. Designed to cater to modern business needs, the project offers well-planned retail spaces, showrooms, and office units with excellent visibility and connec",
     "lat": 18.5982,
     "lng": 73.7735
   },
@@ -26225,6 +27342,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Siddhashila Eevva in Kate Wasti, Punawale, is a thoughtfully planned residential development offering modern homes in one of Pune’s rapidly growing western corridors. Designed for contemporary urban living, the project combines well-planned residences, lifestyle amenities",
     "lat": 18.6252,
     "lng": 73.7414
   },
@@ -26268,6 +27386,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Library",
       "Power Backup"
     ],
+    "description": "Studio Codename EMI, Balewadi is an upcoming residential development spread across 0.65 acres, featuring 5 thoughtfully designed towers with modern studio residences. Starting at an attractive price of ₹32 lakhs, the project offers a smart blend of contemporary living, efficient space planning, and ",
     "lat": 18.572,
     "lng": 73.773
   },
@@ -26312,6 +27431,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "The Skylark Phase 2 in Kiwale is an upcoming premium residential development spread across a 4-acre land parcel. The project will feature two elegantly designed towers, each rising G+19 floors high, offering spacious and well-planned 2BHK and 3BHK premium residences. Designed to blend modern archite",
     "lat": 18.658,
     "lng": 73.7343
   },
@@ -26355,6 +27475,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "STAR SOLASTA in Ravet presents an exclusive collection of 3 & 4 BHK flats across three elegantly designed towers, each rising B+G+20 storeys high. Offering spacious homes with multiple balconies, the project ensures a luxurious and well-ventilated living experience. Making it an ideal choice for mod",
     "lat": 18.653,
     "lng": 73.7436
   },
@@ -26398,6 +27519,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Jogging Track"
     ],
+    "description": "Muktai Ravet is a thoughtfully planned residential development in Ravet, Pune, spread across a 0.5-acre land parcel with a single premium tower. The project offers well-designed 2 BHK residences that blend modern architecture, efficient space utilization, and contemporary amenities for comfortable u",
     "lat": 18.6536,
     "lng": 73.7441
   },
@@ -26448,6 +27570,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Yashada Realty is soon launching Evo Residences Phase 1 in Punawale, an expansive 15-acre ultra-luxurious residential project designed to offer an elevated lifestyle. With 50+ premium amenities, thoughtfully planned spaces, and 3 elegant towers in the first phase, the project promises exceptional co",
     "lat": 18.6259,
     "lng": 73.7402
   },
@@ -26498,6 +27621,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Yashada Earthsong, offers premium 2, 3 & 4 BHK residences , an exceptional residential project sprawling across 5.5 acres of prime land in Ravet, features four iconic towers with G+28 floors. The homes boast fully covered balconies for added privacy and relaxation, while the strategic location near ",
     "lat": 18.6518,
     "lng": 73.7388
   },
@@ -26536,6 +27660,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Yoovie Homes in Baner is a premium 15-storey residential tower offering an exclusive one flat per floor design, with an expansive 7,255 sq. ft. carpet area per home. Combining luxury, privacy, and modern elegance, it features spacious car parking and a prime location in one of Pune’s most prestigiou",
     "lat": 18.5623,
     "lng": 73.7821
   },
@@ -26580,6 +27705,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Co-working Lounge"
     ],
+    "description": "Rahul Altimus in Baner is a premium commercial development offering well-designed shops and offices on a 1-acre land parcel with a single iconic tower featuring G + M + 2P + 11 floors. Strategically located in one of Pune’s most sought-after business hubs, the project is crafted to deliver high visi",
     "lat": 18.558,
     "lng": 73.7827
   },
@@ -26636,6 +27762,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rainwater Harvesting",
       "Sports Court"
     ],
+    "description": "Neco Park Central by Vasupujya Corporation is an IGBC Platinum pre-certified residential project off Old Mundhwa Road in Kharadi, East Pune, behind BG Tatva Society and near Bollywood Multiplex. The site sits in one of the greenest pockets of Kharadi, beside Oxygen Park, a public playground and rese",
     "lat": 18.5495,
     "lng": 73.9311
   },
@@ -26679,6 +27806,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Tej One in Baner is a premium commercial project offering modern office spaces and showrooms on a 1-acre land parcel with 1 well-planned tower. Designed for businesses seeking a prime location in West Pune, the project features contemporary architecture, excellent connectivity, and high-visibility c",
     "lat": 18.5613,
     "lng": 73.7894
   },
@@ -26723,6 +27851,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Co-working Lounge"
     ],
+    "description": "VTP Flamante (Flamante by VTP Luxe) is a large residential project by VTP Realty in New Kharadi (Manjri), East Pune, part of the integrated Township Codename Pegasus. Spread over about 6 acres with around 2 acres of open space, it has six towers of 33 residential floors above parking and about 1,057",
     "lat": 18.521,
     "lng": 73.9808
   },
@@ -26767,6 +27896,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Sports Court"
     ],
+    "description": "PK Hillcrest is a residential project by PK Group on Jarvari Road, near PK International School, in Pimple Saudagar, Pune 411027. The development rises to G+22 floors with Wing A and Wing B, and offers 3 BHK homes with 975 to 980 sq ft of carpet area and 4 BHK homes with 1,438 sq ft of carpet area, ",
     "lat": 18.6028,
     "lng": 73.8026
   },
@@ -26811,6 +27941,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Co-working Lounge"
     ],
+    "description": "Park Eden is a luxury residential project in Kharadi, Pune, by Purple Corp (Pride Purple) in association with iDO Realty, marketed as \"Real Kharadi\". Five towers rise around a central clubhouse and podium amenity level with landscaped gardens, a swimming pool and open activity zones. The towers offe",
     "lat": 18.5539,
     "lng": 73.9331
   },
@@ -26855,6 +27986,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Swimming Pool"
     ],
+    "description": "Velvet Villas by VTP Luxe is an exclusive gated enclave of just 43 independent villas on a 5-acre land parcel inside VTP Realty's 165+ acre Township Codename Pegasus in New Kharadi, Pune, near WTC and EON IT Park. About an acre is kept as open space. Each villa rises ground + 1 floor with a private ",
     "lat": 18.523,
     "lng": 73.9756
   },
@@ -26899,6 +28031,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Library",
       "Sports Court"
     ],
+    "description": "Godrej Aqua Vista is a riverfront residential development by Godrej Properties in Keshav Nagar, Pune, along the Mula Mutha river, developed with Oxford Group. It is planned across 7 acres with 7 towers, of which about 2.5 acres are given to amenities: 50+ amenities, three clubhouses, two infinity sw",
     "lat": 18.5411,
     "lng": 73.9149
   },
@@ -26943,6 +28076,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Vimal Twin Towers is a 2 and 3 BHK residential project by Kate Promoters and Developers at S.No. 176/2/1, Shiv Sai Lane, on the Pimple Saudagar and Rahatani border in Pimpri-Chinchwad, Pune 411027. The A Wing is a ten-floor building with two lifts, and the master plan also shows a B building and a p",
     "lat": 18.599,
     "lng": 73.7962
   },
@@ -26993,6 +28127,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Austin Ira is a residential project by Austin Realty in Mamurdi, Pune, spread across 4.5 acres on MCA Road near Mukai Chowk and beside the MCA Pune Stadium. It offers 2 BHK Premium homes of 621 sq ft, 2 BHK Luxury homes of 671 sq ft and 3 BHK Premium homes of 840 sq ft carpet area, along with 1 BHK ",
     "lat": 18.6659,
     "lng": 73.7292
   },
@@ -27037,6 +28172,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Garden",
       "Kids' Play Area"
     ],
+    "description": "Sai Ratan is a new mixed-use project in Sector 29, Ravet Pradhikaran, by Sai Associates with Krishna Rama Developer and Ratan Homes. Its terracotta-and-grey building has 21 double-height shops with mezzanines along a 10.5 m road and three residential wings (A, B and C) above – 102 homes in all: 2 BH",
     "lat": 18.6533,
     "lng": 73.7481
   },
@@ -27087,6 +28223,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Jogging Track"
     ],
+    "description": "L Axis by Pharande Spaces is a large residential community on Spine Road, Sector 6, PCNTDA, Moshi, Pimpri-Chinchwad, spread over about 11 acres and built in phases and clusters, with the earlier phases already occupied. The current phases offer 2, 3 and 4 BHK apartments in high-rise towers using Miv",
     "lat": 18.6724,
     "lng": 73.8443
   },
@@ -27131,6 +28268,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Library",
       "Co-working Lounge"
     ],
+    "description": "Mantra Melange is a riverside residential project by Mantra Properties in Kharadi Riverside, Wadgaon Sheri, Pune, on the banks of the Mula Mutha river. The development spreads over 8.75 acres, with a master layout of 11 landmark towers. The current launch brings 6 new towers with only 4 homes per fl",
     "lat": 18.5497,
     "lng": 73.9326
   },
@@ -27175,6 +28313,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Shaligram The Mile by Shaligram Group is a single landmark tower on the Aundh–Ravet BRTS Road in Ravet – the first high-rise you see entering Pune from Mumbai. On a 1.75-acre plot, it rises B2 + B1 + G + 36 floors with only 202 signature residences: 3 BHK homes of 1,124 to 1,301 sq ft and 4 BHK home",
     "lat": 18.652,
     "lng": 73.7403
   },
@@ -27219,6 +28358,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Codename Light is a Vastu-compliant residential project in Keshav Nagar, Mundhwa, Pune, by Esson Landmarks, Unitary Properties and Suyog Group, on Keshav Nagar Road near Renuka Mata Mandir. Spread across 4.5 acres, it is planned around three elegantly rising towers with about 1.1 acres of lifestyle ",
     "lat": 18.538,
     "lng": 73.9206
   },
@@ -27263,6 +28403,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Premium 2 & 3 BHK Apartments in Kiwale, Pune\nMangalam Starview is a thoughtfully planned residential project by Mangalam Landmarks, located near Mukai Chowk, Kiwale, Pune. Designed for modern families, the project offers spacious 2 & 3 BHK apartments that combine quality construction, functional lay",
     "lat": 18.658,
     "lng": 73.7312
   },
@@ -27306,6 +28447,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "24x7 Security",
       "Covered Parking"
     ],
+    "description": "Prime Pinnacle is a Grade A commercial tower by Viraj Corp on Datta Mandir Road in Wakad, Pune 411057, which the developer describes as the tallest commercial building in Wakad. The project is a single 15-storey tower offering boutique offices with glass partitions and doors, a grand double-height e",
     "lat": 18.5994,
     "lng": 73.7682
   },
@@ -27356,6 +28498,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Library"
     ],
+    "description": "Luxton by Saheel is a residential project by Saheel Properties at Survey No. 111/1/2, next to Indira School, near Shani Mandir Road in Wakad, Pune. It is planned as three towers of about 30 floors on roughly 3 acres, with 2, 3 and 4 BHK homes. Carpet areas, including balconies as printed in the deve",
     "lat": 18.5987,
     "lng": 73.7734
   },
@@ -27394,6 +28537,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Panoreeva Greens is a riverside residential project by Avirat Developers at Survey No. 110, Walhekarwadi, Chinchwad, Pune 411033, beside the Pavana river and close to Chhatrapati Shivaji Chowk. Built on a land parcel of about 72,200 sq ft (roughly 1.66 acres), it is planned as five connected towers ",
     "lat": 18.6346,
     "lng": 73.7795
   },
@@ -27437,6 +28581,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Power Backup",
       "24x7 Security"
     ],
+    "description": "Elementis ORO by ADI Group is a new launch in Pradhikaran, Nigdi – the successor to the developer's Elementis project in the same neighbourhood. It is a boutique community of two towers with exclusive 3 BHK residences of 1,318 and 1,438 sq ft carpet area. Homes are three-side open, with spacious kit",
     "lat": 18.6576,
     "lng": 73.766
   },
@@ -27481,6 +28626,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
+    "description": "Unique Youtopia is a residential township in Central Kharadi, Pune, by Unique Properties in association with the Kodre family, on River Road. Phase IV, registered with MahaRERA as P52100080485, brings the A7 and A8 wings with 2 BHK homes of 748 to 761 sq ft and 3 BHK homes of 893 to 1,009 sq ft (tot",
     "lat": 18.5552,
     "lng": 73.9345
   },
@@ -27531,6 +28677,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Library",
       "Sports Court"
     ],
+    "description": "Godrej Ivara by Godrej Properties is a large-format community in Kharadi, Pune, a few minutes from EON Free Zone and the World Trade Center. Spread over about 12.8 acres with 11 towers (A to K), it offers 2, 3 and 4 BHK homes from 729 to 1,580 sq ft, with around 6 acres of open, landscaped greens. A",
     "lat": 18.5557,
     "lng": 73.9375
   },
@@ -27581,6 +28728,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sports Court",
       "Jogging Track"
     ],
+    "description": "VJ Palladio La Viento is a residential project by Vilas Javdekar Developers at Baner-Mahalunge, near VIBGYOR High School, Pune. Spread over about 3.78 acres with roughly 75% open area, it has two 27-storey towers with 194 apartments. Homes come in 2, 3 and 4 BHK layouts with carpet areas from about ",
     "lat": 18.5705,
     "lng": 73.7531
   },
@@ -27625,6 +28773,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Boat Club & Marina",
       "Infinity Swimming Pool"
     ],
+    "description": "The Promenade by Paranjape Schemes is a luxury waterfront high-rise development in the iconic 138-acre Blue Ridge Township, Hinjewadi Phase 1, Pune. Rising 32 storeys along the serene Mula riverfront, these limited-edition 3 and 4 BHK residences offer private elevator foyers, floor-to-ceiling glass ",
     "lat": 18.5793,
     "lng": 73.7388
   },
@@ -27675,6 +28824,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Private Lift Lobbies",
       "Olympic Lap Pool"
     ],
+    "description": "The Altius (Tower 26) is the crown jewel architectural skyscraper within Paranjape Blue Ridge township in Hinjewadi, Pune. Soaring 36 storeys high, The Altius offers ultra-luxury 3, 4, and 5 BHK penthouses and grand residences designed for Pune's corporate leadership and global CXOs.\n\nEvery home fea",
     "lat": 18.5785,
     "lng": 73.7395
   },
@@ -27719,6 +28869,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Clubhouse",
       "Gymnasium"
     ],
+    "description": "Trident Towers by Paranjape Schemes is a high-tech residential landmark located on the Hinjewadi-Wakad Link Road. Engineered with modern Mivan shuttering technology, these smart 1 & 2 BHK homes are crafted specifically for young IT and engineering professionals.\n\nFeaturing integrated work-from-home ",
     "lat": 18.584,
     "lng": 73.746
   },
@@ -27769,6 +28920,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Equestrian Horse Riding Academy",
       "Heated Swimming Pool"
     ],
+    "description": "Highgardens is a premier hillside residential enclave inside the celebrated 190+ acre Forest Trails Township in Bhugaon, just minutes from Bavdhan and Chandani Chowk. Highgardens introduces private terrace garden residences that seamlessly blend indoor luxury with lush Sahyadri nature.\n\nResidents en",
     "lat": 18.514,
     "lng": 73.748
   },
@@ -27813,6 +28965,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Access to The Cliff Club",
       "Jogging Track"
     ],
+    "description": "The Canopy (Sector R48) is a 24-storey high-rise biophilic residential tower nestled inside the 190-acre Forest Trails Township in Bhugaon, minutes from Bavdhan, Pune. Designed to sit under the verdant canopy of 34,000+ forest trees, every apartment offers cross ventilation and unobstructed valley p",
     "lat": 18.513,
     "lng": 73.749
   },
@@ -27863,6 +29016,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Private Plunge Pool Provision",
       "The Cliff Club Privileges"
     ],
+    "description": "The Rivolo Residences represents the pinnacle of private villa luxury in Pune. Set upon high hill ridges inside the Forest Trails Township near Bavdhan, each standalone villa features a private garden, personal plunge pool provision, multi-tier entertainment terraces, and bespoke luxury interiors.\n\n",
     "lat": 18.511,
     "lng": 73.745
   },
@@ -27907,6 +29061,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Large Sundecks",
       "The Cliff Club Access"
     ],
+    "description": "The Orchard Residences (Sector R40) offers spacious low-density villaments and grand apartments overlooking fragrant mango and fruit groves in Forest Trails, Bhugaon near Bavdhan. Offering expansive carpet areas from 2,100 to 2,400+ sq. ft., these homes are crafted for discerning multi-generational ",
     "lat": 18.512,
     "lng": 73.747
   },
@@ -27951,6 +29106,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Senior-friendly Non-skid Flooring",
       "Nutritious Community Dining Hall"
     ],
+    "description": "Athashri B3 is the newest landmark phase of Paranjape Schemes' globally acclaimed Athashri senior living brand, situated inside the Forest Trails Township in Bhugaon near Bavdhan, Pune. Specially conceptualized for senior citizens, it incorporates barrier-free anti-skid architectural design, emergen",
     "lat": 18.515,
     "lng": 73.746
   },
@@ -27995,6 +29151,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Central Dining & Meal Delivery",
       "Activity Hall & Indoor Games"
     ],
+    "description": "Athashri Baner is Paranjape Schemes' iconic pioneer retirement community on Pan Card Club Road, Baner, Pune. Established as India's premier dedicated senior living habitat, Athashri Baner features specialized amenities like home-delivered meals, medical check-ups, housekeeping support, cultural club",
     "lat": 18.559,
     "lng": 73.784
   },
@@ -28039,6 +29196,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Cricket Pitch & Sports Court",
       "Temple & Meditation Deck"
     ],
+    "description": "Happiness Hub by Paranjape Schemes is a sprawling 25-acre integrated affordable township situated on the Pune-Bengaluru Highway (NH-48) at Khed Shivapur, Varve Bk. Offering over 2,000 smart, budget-friendly 1 RK, 1 BHK, and 2 BHK residences, Happiness Hub brings township living within reach of first",
     "lat": 18.324,
     "lng": 73.864
   },
@@ -28083,6 +29241,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Gymnasium",
       "Central Erandwane Location"
     ],
+    "description": "Swapna Samrat is a boutique luxury residential address by Paranjape Schemes on Karve Road, Khilarewadi in Erandwane, right in the heart of Pune. Offering an elite collection of spacious 2 & 3 BHK residences, Swapna Samrat places you minutes from Deccan Gymkhana, FC Road, and Pune's heritage cultural",
     "lat": 18.508,
     "lng": 73.834
   },
@@ -28127,6 +29286,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Children's Play Area",
       "Landscaped Gardens"
     ],
+    "description": "Gloria Grand by Paranjape Schemes is a premier completed residential township situated in Bavdhan, Pune. Offering comfortable 2 and 3 BHK family apartments, Gloria Grand is celebrated for its lush greenery, serene environment, and excellent connectivity to Paud Road, Kothrud, and the Mumbai-Bangalor",
     "lat": 18.517,
     "lng": 73.771
   },
@@ -28183,6 +29343,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sky Deck Lounge",
       "Designer Fitness Gym"
     ],
+    "description": "Paranjape Athena is a landmark luxury residential development in Bandra East, Mumbai. Situated near Teacher's Colony and the Western Express Highway, Athena places you moments from the Bandra-Kurla Complex (BKC) and the Bandra-Worli Sea Link.\n\nFeaturing boutique 1, 2, 3, and 4 BHK residences with ro",
     "lat": 19.0596,
     "lng": 72.8522
   },
@@ -28239,6 +29400,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Center",
       "Automated Tower Parking"
     ],
+    "description": "Paranjape Aspire is a 22-storey luxury high-rise tower located in SV Patel Nagar, 4 Bungalows, Andheri West, Mumbai. Offering meticulously designed 1, 2, 3, and 4 BHK residences with optimal space utilization, cross ventilation, and imported fittings.\n\nEquipped with a rooftop recreation deck, fitnes",
     "lat": 19.129,
     "lng": 72.827
   },
@@ -28289,6 +29451,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Grand Clubhouse & Gym",
       "Co-Working Hub with WiFi"
     ],
+    "description": "Paranjape Opulus is a grand 4.8-acre high-rise luxury residential community in Manpada near Hiranandani Meadows, off Pokhran Road No. 2, Thane West. Rising against the scenic Yeoor Hills backdrop, Opulus features 2, 3, and 4 BHK lifestyle apartments with panoramic nature views.\n\nBoasting a half-Olym",
     "lat": 19.227,
     "lng": 72.973
   },
@@ -28333,6 +29496,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Cliffside Infinity Pool",
       "Seaside Cafe & BBQ Bay"
     ],
+    "description": "Paranjape Shrivega is a 39-acre gated seaside holiday villa and residential plot township situated along the picturesque Shrivardhan-Diveagar coastal highway at Shekhadi, Raigad, Maharashtra. Overlooking the azure Arabian Sea, Shrivega offers coastal cottages, second homes, and fully developed villa",
     "lat": 18.063,
     "lng": 73.024
   },
@@ -28377,6 +29541,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Tennis & Basketball Courts",
       "Modern Clubhouse"
     ],
+    "description": "Paranjape Yuthika is a ready-to-move-in residential landmark in Veerbhadra Nagar, Baner, Pune. Built across extensive lush grounds, Yuthika offers 2 and 3 BHK family residences with dedicated club facilities, swimming pool, tennis court, and children's activity zones.\n\nOffering immediate possession ",
     "lat": 18.558,
     "lng": 73.782
   },
@@ -28421,6 +29586,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Access to Blue Ridge Marina",
       "Grand Sports Complex"
     ],
+    "description": "Golf Island is an exclusive enclave within the 138-acre Paranjape Blue Ridge Township in Hinjewadi, Pune. Overlooking the pristine greens of the 9-hole executive golf course and river waters, Golf Island offers ready-to-move 2 & 3 BHK luxury golf residences.\n\nResidents enjoy full access to township ",
     "lat": 18.579,
     "lng": 73.738
   },
@@ -28465,6 +29631,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Infinity Pool",
       "Clubhouse"
     ],
+    "description": "Hiranandani Empress Hill is an ultra-luxury residential landmark within the iconic Hiranandani Gardens, Powai. Offering bespoke 3 & 4 BHK balcony residences overlooking the serene Powai Lake, it blends neoclassical architecture with contemporary grandeur. Residents enjoy exclusive access to a sky gy",
     "lat": 19.1165,
     "lng": 72.9086
   },
@@ -28508,6 +29675,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Squash Court",
       "Swimming Pool"
     ],
+    "description": "Hiranandani Castle Rock in Powai features elegant 2 BHK neoclassical residences set amid manicured European gardens. Ready-to-move and fully serviced by the Hiranandani township infrastructure, Castle Rock offers cross-ventilated homes with French windows, clubhouse, swimming pool, squash court, and",
     "lat": 19.1176,
     "lng": 72.902
   },
@@ -28552,6 +29720,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Multipurpose Hall"
     ],
+    "description": "Hiranandani Regent Hill offers smart luxury 1 & 2 BHK air-conditioned apartments designed for discerning urban professionals and investors. Situated within Hiranandani Gardens Powai, residents enjoy seamless access to corporate parks, top-tier schools, healthcare, and a host of lifestyle amenities.",
     "lat": 19.1183,
     "lng": 72.9072
   },
@@ -28602,6 +29771,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Grand Colonnade",
       "Clubhouse"
     ],
+    "description": "Hiranandani Atlantis is a signature twin-tower development in Powai offering expansive 2, 3 and 4 BHK luxury residences. Built with Roman architectural pediments and soaring columns, Atlantis commands unobstructed panoramas of the Powai lake and green hills.",
     "lat": 19.1137,
     "lng": 72.9067
   },
@@ -28658,6 +29828,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Tennis Courts",
       "Swimming Pools"
     ],
+    "description": "One Hiranandani Park on Ghodbunder Road, Thane, spans 21 acres of botanical gardens with 8 magnificent high-rise towers. Offering 1, 2, 3, and 4 BHK residences, the estate features 6 natural water bodies, Olympic-sized swimming pools, tennis courts, and grand European courtyards.",
     "lat": 19.2578,
     "lng": 72.9522
   },
@@ -28708,6 +29879,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Infinity Pool",
       "Banquet Hall"
     ],
+    "description": "Rodas Enclave represents the pinnacle of luxury living within the 250-acre Hiranandani Estate, Thane. Comprising palatial 3, 4 and 5 BHK residences and penthouses, it boasts a 5-star clubhouse, infinity pools, private landscaped gardens, and immediate access to The Walk High Street.",
     "lat": 19.2523,
     "lng": 72.9763
   },
@@ -28752,6 +29924,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Indoor Games",
       "Landscaped Podium"
     ],
+    "description": "Hiranandani Solitaire offers boutique studio and 1 BHK apartments situated in the vibrant heart of Hiranandani Estate, Thane. Designed for young tech professionals and investors seeking high rental yields, Solitaire provides full access to the township's retail and sporting hubs.",
     "lat": 19.2505,
     "lng": 72.9767
   },
@@ -28802,6 +29975,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Grand Clubhouse",
       "International School"
     ],
+    "description": "Hiranandani Fortune City is a sprawling 600-acre mega-township in Panvel, Navi Mumbai, strategically located along the Mumbai-Pune Expressway and adjacent to the Navi Mumbai International Airport corridor. Featuring sectors like Arden and Flora, the township hosts international schools, multispecial",
     "lat": 18.9873,
     "lng": 73.1185
   },
@@ -28846,6 +30020,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Center",
       "Children's Play Area"
     ],
+    "description": "Hiranandani Castalia in Kandivali West is a premium high-rise tower offering 2 and 3 BHK neoclassical residences. Boasting double-height entrance lobbies, rooftop amenities, swimming pool, and rapid transit access via the Western Express Highway and Metro Line 2A.",
     "lat": 19.2103,
     "lng": 72.8573
   },
@@ -28896,6 +30071,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "In-Villa Dining & Chef",
       "Italian Marble Interiors"
     ],
+    "description": "Della Luxury Villas in Kunegaon, Lonavala, conceptualized and designed by visionary architect Jimmy Mistry, offers signature 3, 4 and 5 BHK hillside private-pool villas. Overlooking the Sahyadri valleys and fully serviced with 24x7 5-star Della Resort hospitality, in-villa dining, bespoke Italian in",
     "lat": 18.7636,
     "lng": 73.4207
   },
@@ -28940,6 +30116,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Private Infinity Pool",
       "Manicured Party Lawns"
     ],
+    "description": "Della Enclave Hillside Estates is an exclusive collection of palatial 10,000+ sq.ft custom hillside villas in Lonavala. Featuring 20-foot soaring double-height ceilings, private infinity swimming pools facing the Sahyadri mountains, manicured party lawns, and bespoke Della Luxury Products furnishing",
     "lat": 18.7708,
     "lng": 73.4176
   },
@@ -28984,6 +30161,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Resort Butler Service",
       "Fine-Dining Access"
     ],
+    "description": "Della Sky Villas & Penthouses on Old Khandala Road offer boutique hilltop living with open-to-sky jacuzzi decks and panoramic valley views. Designed by Jimmy Mistry, each residence combines resort amenities with private luxury living.",
     "lat": 18.7578,
     "lng": 73.3708
   },
@@ -29028,6 +30206,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Lifetime Club Membership",
       "7 Multi-Cuisine Restaurants"
     ],
+    "description": "Integrated within the 50-acre Della mixed-use experiential township in Kunegaon, Lonavala, these resort residences offer 2 and 3 BHK holiday suites with an automated rental yield program managed by Della Resorts. Homeowners enjoy lifetime privileges across all Della hospitality and adventure venues.",
     "lat": 18.7663,
     "lng": 73.4142
   },
@@ -29084,6 +30263,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Multi-Tiered Grand Clubhouse",
       "Olympic-Size Swimming Pool"
     ],
+    "description": "Gera World of Joy is an iconic 20-acre child-centric mega-township in Upper Kharadi, Pune. Engineered specifically for holistic family development, it integrates world-class celebrity sports and arts academies (Pullela Gopichand Badminton, Bhaichung Bhutia Football, Shankar Mahadevan Music, Shiamak ",
     "lat": 18.5502,
     "lng": 73.9332
   },
@@ -29134,6 +30314,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Martial Arts & Music Studios",
       "Heated Children's Pool"
     ],
+    "description": "Gera Planet of Joy Kharadi represents the newest ChildCentric® landmark by Gera Developments. Designed around state-of-the-art interactive play zones, temperature-controlled splash pools, multi-purpose dance and martial arts studios, and spacious 2 & 3 BHK homes featuring 10-foot ceiling heights and",
     "lat": 18.5562,
     "lng": 73.9347
   },
@@ -29184,6 +30365,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "40,000 Sq.Ft Clubhouse",
       "Celebrity Learning Academies"
     ],
+    "description": "Gera Island of Joy spans 12.5 riverfront acres in Kharadi, offering a wave pool, private go-karting track, 40,000 sq ft clubhouse, and 9 celebrity-run sports and cultural academies. Each residence provides panoramic views of the river and eastern cityscape.",
     "lat": 18.5475,
     "lng": 73.939
   },
@@ -29234,6 +30416,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Designer Lobby by International Architects",
       "Ready to Move with OC Received"
     ],
+    "description": "BramhaCorp F-Residences in New Kalyani Nagar is India's first fashion-branded residential development in partnership with FashionTV (FTV). Designed with high-glamour finishes, runway swimming pool, F-bar lounge, and high-fashion landscaped podiums.",
     "lat": 18.547,
     "lng": 73.899
   },
@@ -29283,6 +30466,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rooftop Sports Lounge & Sun Decks",
       "Clubhouse with Fully Equipped Gym"
     ],
+    "description": "Ganga Asmi by Goel Ganga Developments is a landmark residential high-rise near Mankar Chowk in Wakad, Pune. Constructed using robust aluminum Mivan shuttering technology, it features double-height entrance lobbies, high-speed elevators, grand podium clubhouse, and easy proximity to Hinjewadi IT Park",
     "lat": 18.5963,
     "lng": 73.7685
   },
@@ -29339,6 +30523,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Olympic-Spec Swimming Pool & Cabanas",
       "Ready to Move with Full OC Received"
     ],
+    "description": "Ganga Platino in Kharadi is Goel Ganga Developments' flagship XL-sized luxury community situated right beside EON Free Zone and World Trade Center Pune. Offering ultra-spacious configurations with walk-in closets, sprawling private terraces, and an expansive podium recreation park.",
     "lat": 18.5533,
     "lng": 73.932
   },
@@ -29395,6 +30580,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "4 Dedicated Multi-Tier Clubhouses",
       "Bavdhan East Scenic Foothills"
     ],
+    "description": "Ganga Legend spans 30 verdant acres in Bavdhan East, Pune. Offering panoramic hill views, world-class sports facilities, international standard soccer pitch, cricket ground, 4 multi-tier clubhouses, and unmatched highway connectivity to Kothrud and Hinjewadi.",
     "lat": 18.5134,
     "lng": 73.7668
   },
@@ -29439,6 +30625,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Modern Clubhouse & Swimming Pool",
       "Ready to Move Immediate Possession"
     ],
+    "description": "Ganga Fernhill in Undri, South Pune, is situated near The Corinthians Club and top international schools. Offering well-ventilated 1 & 2 BHK family apartments surrounded by green forest cover with clubhouse, gym, and landscaped gardens.",
     "lat": 18.4556,
     "lng": 73.9143
   },
@@ -29495,6 +30682,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "World-Class Sports Courts & Spa",
       "Integrated SBH Business Hub & World Plaza"
     ],
+    "description": "Solitaire World in Bibwewadi is Pune's flagship 17-acre ultra-luxury residential and commercial integrated lifestyle district. Featuring grand skyscraper residences overlooking Bibwewadi hills, high-street retail, World Plaza, and high-spec amenities.",
     "lat": 18.4782,
     "lng": 73.8647
   },
@@ -29551,6 +30739,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Infinity Pool & Jacuzzi Lounge",
       "Pro-Grade Sports Facilities"
     ],
+    "description": "ANP Atlantis in Balewadi is an iconic high-rise residential development located directly behind Jupiter Hospital. Providing seamless connectivity to Balewadi High Street, Mumbai-Pune Expressway, and Hinjewadi IT Park. Designed with an expansive 3-acre podium, infinity pool, and smart residences.",
     "lat": 18.5802,
     "lng": 73.7717
   },
@@ -29606,6 +30795,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sky Duplexes & Penthouses with Hill Views",
       "High-Street Gourmet Retail Arcade"
     ],
+    "description": "ANP Universe is a sprawling 35-storey mixed-use and residential landmark positioned right on Balewadi High Street. Offering majestic 2, 3, and 4 BHK residences and sky duplexes, complemented by high-street retail, world-class clubhouses, and rooftop infinity pools.",
     "lat": 18.5749,
     "lng": 73.7773
   },
@@ -29656,6 +30846,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Children's Themed Play Park & Daycare",
       "Digital Home Automation"
     ],
+    "description": "ANP Autograph along the Aundh-Ravet BRTS corridor in Punawale is a landmark residential high-rise featuring multi-level podium parking, cantilevered leisure decks, and spacious 2, 3, and 4 BHK residences with direct connectivity to Hinjewadi.",
     "lat": 18.6286,
     "lng": 73.7412
   },
@@ -29706,6 +30897,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Ready Possession OC Received",
       "Close to Pune International Airport"
     ],
+    "description": "Rohan Abhilasha is a 30-acre residential township on Lohegaon-Wagholi Road in East Pune. Featuring double-height terrace gardens, large central courtyards, sports academies, and ready possession with full Occupancy Certificate (OC).",
     "lat": 18.5789,
     "lng": 73.9777
   },
@@ -29755,6 +30947,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Grand 40,000 sq.ft Clubhouse",
       "Tennis & Squash Courts"
     ],
+    "description": "Oberoi Forestville at Kolshet Road, Thane West is a signature luxury development by Oberoi Realty. Spanning verdant acres overlooking Yeoor Hills, it offers grand 3 & 4 BHK residences with Biophilic design, international sports club, and 100% Zero Brokerage through authorized developer mandate.",
     "lat": 19.2315,
     "lng": 72.9863
   },
@@ -29805,6 +30998,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "FIFA Football Pitch",
       "Private Cricket Ground"
     ],
+    "description": "Lodha Amara is Thane's most vibrant 40-acre residential township on Kolshet Road. Featuring thousands of trees, a 50,000 sq.ft clubhouse, FIFA-standard football ground, and ready possession towers with direct developer inventory and zero buyer brokerage.",
     "lat": 19.2325,
     "lng": 72.988
   },
@@ -29848,6 +31042,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Central Forest Landscape",
       "Proximity to Singhania School"
     ],
+    "description": "Raymond Ten X Habitat at Pokhran Road No. 2 is an iconic 14-acre gated ecosystem in the heart of Thane West. Featuring 50+ curated lifestyle amenities, central landscaped podium, and rapid connectivity to Eastern Express Highway and Cadbury Junction.",
     "lat": 19.215,
     "lng": 72.961
   },
@@ -29898,6 +31093,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Skyline Infinity Pool",
       "3-Tier Signature Club"
     ],
+    "description": "The Address by GS at Pokhran Road No. 1 is Gautam Singhania's flagship luxury residential landmark in Thane. Offering ultra-spacious 3, 4, & 5 BHK royal suites, 3-tier clubhouse, infinity sky pool, and private high-street retail.",
     "lat": 19.2085,
     "lng": 72.9554
   },
@@ -29948,6 +31144,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "HCS International School on Campus",
       "Hiranandani Hospital Proximity"
     ],
+    "description": "Hiranandani Estate on Ghodbunder Road is Thane's most celebrated neo-classical mega township. Spanning 250+ acres with Hiranandani Hospital, HCS International School, The Walk high-street retail, and tree-lined avenues with 100% Zero Brokerage.",
     "lat": 19.2685,
     "lng": 72.9664
   },
@@ -29998,6 +31195,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "405+ Lifestyle Amenities",
       "Metro Line 4 Connectivity"
     ],
+    "description": "Kalpataru Parkcity at Kolshet Road is a 100+ acre integrated township built around the 20+ acre Grand Central Park in Thane. Offering ready-to-move and new launch residential towers with 405+ amenities and direct developer booking.",
     "lat": 19.231,
     "lng": 72.983
   },
@@ -30042,6 +31240,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Leon's World Experiential Center",
       "Immediate EEH Access"
     ],
+    "description": "Rustomjee Urbania at Majiwada Junction is Thane's premier 127-acre township. Featuring the Rustomjee Cambridge International School, Leon's World for kids, rooftop infinity pool, and seamless connectivity to Eastern Express Highway.",
     "lat": 19.2183,
     "lng": 72.9781
   },
@@ -30092,6 +31291,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "EuroKids & Shiamak Davar on Campus",
       "Near Balkum Metro Station"
     ],
+    "description": "Dosti West County at Balkum, Thane West is a 100-acre residential county offering premium 1, 2, & 3 BHK homes. Featuring Dosti Club County, Shiamak Davar Dance Academy, and EuroKids Preschool right within the township.",
     "lat": 19.2245,
     "lng": 72.9912
   },
@@ -30142,6 +31342,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sky Sports Arena",
       "Direct Kolshet Main Road Access"
     ],
+    "description": "Godrej Ascend on Kolshet Road, Thane West spans 6+ acres with 2 grand clubhouses, 40+ lifestyle amenities, and prime connectivity to Ghodbunder Road and Eastern Express Highway. Direct developer rates with 100% zero brokerage.",
     "lat": 19.2355,
     "lng": 72.9875
   },
@@ -30186,6 +31387,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Adjacent to R-Mall Thane",
       "Walk to Manpada Metro Station"
     ],
+    "description": "Runwal 25 Hour Life at Manpada, Ghodbunder Road is an urban oasis designed to give you an extra hour every day. Spanning 21 acres with 70+ amenities, R-Mall proximity, and Metro Line 4 station at walking distance.",
     "lat": 19.245,
     "lng": 72.973
   },
@@ -30234,6 +31436,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Western Express Highway Frontage",
       "Sky City Mall on-site"
     ],
+    "description": "Oberoi Sky City at Borivali East is Mumbai's landmark 25-acre integrated luxury development. Situated right off Western Express Highway with its own direct pedestrian connection to Devipada Metro Station, grand landscaped podium, and ready-to-move luxury 3 BHK homes.",
     "lat": 19.227,
     "lng": 72.8625
   },
@@ -30278,6 +31481,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Aarey Greenery Panoramic Views",
       "High-Ceiling Luxury Residences"
     ],
+    "description": "Oberoi Elysian is the crown jewel of Oberoi Garden City in Goregaon East. Surrounded by Aarey Colony greenery, adjacent to Oberoi Mall, The Westin Mumbai, and Oberoi International School. Palatial 3 & 4 BHK residences with direct developer allocation.",
     "lat": 19.1663,
     "lng": 72.871
   },
@@ -30328,6 +31532,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Arabian Sea & Sea Link Panoramas",
       "Private 5-Acre Gated Estate"
     ],
+    "description": "Lodha World Towers in Worli is an architectural wonder standing tall on Mumbai's skyline. Designed by Pei Cobb Freed & Partners with interiors by Armani/Casa, offering panoramic Arabian Sea and Bandra-Worli Sea Link views with direct developer pricing and zero brokerage.",
     "lat": 19.0028,
     "lng": 72.831
   },
@@ -30372,6 +31577,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Walk to Akurli Metro Station",
       "25,000 sq.ft Central Clubhouse"
     ],
+    "description": "Lodha Woods at Kandivali East is a tranquil 5-acre residential enclave set amidst 25,000 acres of Sanjay Gandhi National Park greens. Featuring an organic garden, 30+ luxury amenities, and rapid access to Akurli Metro Station and Western Express Highway.",
     "lat": 19.2047,
     "lng": 72.871
   },
@@ -30416,6 +31622,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Neo-Classical Architectural Heritage",
       "High-Street Dining & Galleria Mall"
     ],
+    "description": "Hiranandani Gardens in Powai is Mumbai's most prestigious master-planned neo-classical township overlooking Powai Lake. Home to Hiranandani Foundation School, Dr. L.H. Hiranandani Hospital, and multinational IT headquarters. Direct developer inventory with zero buyer brokerage.",
     "lat": 19.1176,
     "lng": 72.906
   },
@@ -30472,6 +31679,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Mangrove Ecosystem Preservation",
       "Eastern Express Highway Frontage"
     ],
+    "description": "Godrej The Trees at Vikhroli East is a 34-acre mixed-use sustainable development. Featuring the Taj The Trees hotel, luxury residential towers, corporate headquarters, and high-street retail amidst preserved mangrove ecosystems on Eastern Express Highway.",
     "lat": 19.102,
     "lng": 72.928
   },
@@ -30522,6 +31730,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "50% Open Spaces",
       "Immediate Goregaon-Mulund Link Road Access"
     ],
+    "description": "Piramal Revanta at Mulund West is an 8.4-acre landmark development overlooking the 25,000-acre Sanjay Gandhi National Park. Featuring 50% open green spaces, world-class sports facilities, and direct developer pricing with zero buyer brokerage.",
     "lat": 19.168,
     "lng": 72.942
   },
@@ -30566,6 +31775,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Private Cinema & Gaming Room",
       "Ready Possession Luxury"
     ],
+    "description": "Rustomjee Seasons at BKC Annexe, Bandra East is Mumbai's most sought-after corporate-executive residence. Spread over 3.8 acres with bespoke bespoke lifestyle amenities, Alfresco dining terrace, and 2-minute connectivity to Bandra-Kurla Complex (BKC).",
     "lat": 19.06,
     "lng": 72.856
   },
@@ -30616,6 +31826,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "3 Grand Clubhouses",
       "Ready to Move Options"
     ],
+    "description": "Runwal Bliss in Kanjurmarg East is built around a historic 150-year-old banyan tree. Offering 36 acres of integrated township living with 3 private clubhouses, walking distance to Kanjurmarg Railway Station, and zero brokerage on direct developer bookings.",
     "lat": 19.1314,
     "lng": 72.936
   },
@@ -30666,6 +31877,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Minutes to Eastern Freeway & BKC",
       "50-Storey Architectural Towers"
     ],
+    "description": "Dosti Eastern Bay at Wadala is designed by world-renowned architect Hafeez Contractor. Offering stunning views of the Eastern Seaboard and Atal Setu (MTHL), 50-storey high-rise towers, and direct connectivity to BKC and South Mumbai via Eastern Freeway.",
     "lat": 19.0176,
     "lng": 72.868
   },
@@ -30710,6 +31922,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Interiors by Matteo Nunziati",
       "Trump White-Glove Global Concierge"
     ],
+    "description": "Trump Towers Pune in Kalyani Nagar is Maharashtra's most exclusive ultra-luxury residential address. Developed by Panchshil Realty, these twin 23-storey black glass monoliths feature single-floor residences with interiors by Matteo Nunziati, 24/7 Trump white-glove concierge, private art gallery, and",
     "lat": 18.5482,
     "lng": 73.9022
   },
@@ -30754,6 +31967,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "The Six Senses Spa On-Site",
       "Tea Lounge & Cigar Room"
     ],
+    "description": "yoo pune is India's first yoo-branded luxury residential enclave, masterminded by world-renowned French designer Philippe Starck and Panchshil Realty. Nestled inside a 17-acre historic rainforest, offering palatial 4.5 & 5 BHK bespoke sky villas with direct developer allocation and zero buyer broker",
     "lat": 18.514,
     "lng": 73.929
   },
@@ -30814,6 +32028,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "MLA (Maximum Livable Area) Homes",
       "34-Storey Architectural High-Rises"
     ],
+    "description": "VTP Earth One is the flagship riverside township in Mahalunge, Baner Annex. Spanning 100+ acres along the Mula River, featuring 34+ storey glass-facade skyscrapers, Maximum Usable Area (MLA) designs, and direct connection to Baner and Hinjewadi IT Park with 100% Zero Brokerage.",
     "lat": 18.5685,
     "lng": 73.746
   },
@@ -30864,6 +32079,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "5 Themed Grand Clubhouses",
       "Professional Sports Academies"
     ],
+    "description": "VTP Pegasus is East Pune's premier 100+ acre mega township located in New Kharadi. Offering modern 1, 2, and 3 BHK smart apartments with five grand themed clubhouses, international sports academies, and direct 10-minute access to EON IT Park and World Trade Center.",
     "lat": 18.552,
     "lng": 73.968
   },
@@ -30914,6 +32130,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sky Lounge with Panoramic Views",
       "Dedicated Work Pods"
     ],
+    "description": "Godrej Woodsville at Hinjewadi Phase 1 is a nature-inspired luxury residential community featuring 400+ trees, sky lounge, and state-of-the-art work-from-home facilities. Located right at the gateway of Hinjewadi with instant connectivity to Pune-Bangalore Highway.",
     "lat": 18.591,
     "lng": 73.738
   },
@@ -30964,6 +32181,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "400-Acre Amanora Park Town Ecosystem",
       "Central Green Spine & Lake"
     ],
+    "description": "Amanora Gateway Towers at Amanora Park Town is the world's first residential tower adorned with crystals from Swarovski. Standing 45 storeys high inside a 400-acre township, offering private sky pools, world-class spas, and ready possession with 0% brokerage.",
     "lat": 18.517,
     "lng": 73.936
   },
@@ -31008,6 +32226,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Floor-to-Ceiling Belgian Glass",
       "Minutes to Balewadi High Street"
     ],
+    "description": "The Balmoral Riverside by Kasturi Housing is a boutique riverfront ultra-luxury sanctuary in Balewadi. Overlooking the Mula River with German Poggenpohl kitchens, floor-to-ceiling glass facades, and bespoke single-tower privacy.",
     "lat": 18.579,
     "lng": 73.782
   },
@@ -31057,6 +32276,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rooftop Sky Lounge",
       "Zero Brokerage Guaranteed"
     ],
+    "description": "Yashwin Supernova by Vilas Javdekar Developers is Wakad's most ambitious residential tower. Situated near Bhumkar Chowk with 40+ lifestyle amenities, sky terrace, and direct developer booking with 0% brokerage.",
     "lat": 18.5995,
     "lng": 73.768
   },
@@ -31101,6 +32321,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "28-Storey High-Rise Architecture",
       "Ready to Move Occupancy"
     ],
+    "description": "Nyati Elysia is a premier residential high-rise landmark overlooking the river in Kharadi, Pune. Featuring 28-storey architectural towers, 30+ luxury amenities, and walking distance to EON Free Zone and World Trade Center.",
     "lat": 18.548,
     "lng": 73.948
   },
@@ -31151,6 +32372,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Walk to Infosys & Wipro Campuses",
       "Zero Buyer Brokerage"
     ],
+    "description": "Kohinoor Sportsville at Hinjewadi Phase 1 is a premium sports-centric residential township. Featuring 5 sports academies, Olympic-sized swimming pool, tennis and basketball courts, and immediate access to Infosys, Wipro, and TCS campuses.",
     "lat": 18.588,
     "lng": 73.729
   },
@@ -31201,6 +32423,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "45,000 sq.ft Central Podium",
       "Baner Hills Views"
     ],
+    "description": "Supreme Estia by Supreme Universal in Baner is an Art Deco architectural masterpiece. Featuring 3 grand double-height clubhouses, 45,000 sq.ft of central green podium, and bespoke luxury apartments overlooking Baner hills.",
     "lat": 18.562,
     "lng": 73.784
   },
@@ -31250,6 +32473,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Double-Height Grand Club",
       "Sada Sukhi Raho 5-Year Maintenance Assurance"
     ],
+    "description": "Kohinoor Presidentia at Sopan Baug Annexe, B.T. Kawade Road is an exclusive high-rise enclave. Featuring 15+ lifestyle amenities, panoramic views of the Pune Cantonment greenery, and rapid 10-minute access to Koregaon Park and Magarpatta City with 100% Zero Brokerage.",
     "lat": 18.528,
     "lng": 73.901
   },
@@ -31299,6 +32523,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "20+ Podium Amenities",
       "Sada Sukhi Raho Philosophy"
     ],
+    "description": "Kohinoor Viva City at Dhanori is East Pune's most dynamic family township. Offering 2 & 3 BHK homes with 20+ lifestyle amenities, direct connectivity to Pune International Airport, Viman Nagar, and Commerzone IT Park.",
     "lat": 18.598,
     "lng": 73.899
   },
@@ -31343,6 +32568,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Forest-Facing Balconies",
       "Zero Buyer Brokerage"
     ],
+    "description": "Kohinoor Westview Reserve in Punawale / New Wakad spans 10 grand acres featuring 7 residential towers bordered by scenic nature reserves. Offering 2 & 3 BHK nature-rich homes with resort-style podium amenities.",
     "lat": 18.6315,
     "lng": 73.746
   },
@@ -31386,6 +32612,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Near Top Educational Hubs",
       "Branded Construction Quality"
     ],
+    "description": "Kohinoor Sapphire at Tathawade, Wakad Annex is a landmark ready-to-move residential community. Located near JSPM and Indira College with rapid access to Hinjewadi Phase 1.",
     "lat": 18.618,
     "lng": 73.754
   },
@@ -31430,6 +32657,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "3-Tier Gated Security",
       "Near Akurdi Railway Station"
     ],
+    "description": "Kohinoor Grandeur at Ravet is situated right off the Pune-Mumbai Expressway. Offering ready-possession 2 & 3 BHK residences with direct developer pricing and zero brokerage.",
     "lat": 18.648,
     "lng": 73.746
   },
@@ -31474,6 +32702,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Premium Clubhouse & Amenities",
       "Zero Brokerage Guaranteed"
     ],
+    "description": "Kohinoor Courtyard One at Wakad is designed around expansive central open courtyards. Near Dange Chowk with direct connectivity to Hinjewadi IT Park.",
     "lat": 18.604,
     "lng": 73.766
   },
@@ -31523,6 +32752,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Multi-Tier Security & Crèche",
       "Zero Commission"
     ],
+    "description": "Kohinoor Famville at Hinjewadi Phase 2 is engineered specifically around multi-generational family living. Featuring child-centric sports and senior citizen recreation zones.",
     "lat": 18.594,
     "lng": 73.719
   },
@@ -31573,6 +32803,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Private High-Speed Elevators",
       "100% Zero Brokerage"
     ],
+    "description": "The Balmoral Hillside by Kasturi Housing is an ultra-luxury hillside enclave nestled against the Baner hills bio-reserve. Featuring floor-to-ceiling glass, Italian marble, and bespoke private sky terraces with zero buyer brokerage.",
     "lat": 18.557,
     "lng": 73.778
   },
@@ -31617,6 +32848,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Italian Poggenpohl Kitchens",
       "Ready Possession Luxury"
     ],
+    "description": "The Balmoral Estate in Baner represents the zenith of Kasturi Housing's architectural mastery. Offering palatial, single-floor residences with panoramic views, private plunge pools, and 24/7 concierge service.",
     "lat": 18.559,
     "lng": 73.781
   },
@@ -31667,6 +32899,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rooftop Sky Deck",
       "100% Zero Brokerage"
     ],
+    "description": "Kasturi Zero One at Mundhwa, Koregaon Park Annexe is a contemporary SOHO and residential concept. Featuring international loft architecture, high ceilings, rooftop infinity deck, and 2-minute connectivity to Koregaon Park.",
     "lat": 18.536,
     "lng": 73.921
   },
@@ -31711,6 +32944,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "30,000 sq.ft Grand Clubhouse",
       "Direct Builder Mandate"
     ],
+    "description": "Park Titanium by Pride Purple Group in Baner is one of Pune's most celebrated ready luxury communities. Featuring an Olympic-length swimming pool, 30,000 sq.ft grand clubhouse, and walking distance to Baner High Street with zero brokerage.",
     "lat": 18.558,
     "lng": 73.783
   },
@@ -31755,6 +32989,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Exclusive Low-Density Living",
       "Ready Possession"
     ],
+    "description": "Park Grandeur on Baner-Pashan Link Road represents the epitome of Pride Purple luxury. Offering spacious 3 & 4 BHK residences with floor-to-ceiling glass, Italian marble flooring, and ready-to-move occupancy.",
     "lat": 18.554,
     "lng": 73.786
   },
@@ -31804,6 +33039,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "30+ Resort-Style Amenities",
       "100% Zero Brokerage"
     ],
+    "description": "Park Astra is an integral part of Pride Purple's 60-acre Park District in Hinjewadi Phase 1. Designed for modern tech professionals with 30+ amenities, podium sports arena, and direct walking distance to Infosys and Quadron Business Park.",
     "lat": 18.591,
     "lng": 73.728
   },
@@ -31848,6 +33084,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Podium",
       "Zero Brokerage"
     ],
+    "description": "Park Xpress in Baner offers ready-to-move cosmopolitan apartments close to Mumbai-Pune highway bypass. Featuring landscaped gardens, clubhouse, and ready possession with direct developer inventory.",
     "lat": 18.556,
     "lng": 73.787
   },
@@ -31892,6 +33129,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Master Community Infrastructure",
       "Ready to Move Occupancy"
     ],
+    "description": "Kingsbury at Pride World City, Charholi is part of a 400-acre mega township. Featuring schools, shopping plazas, sports arenas, and ready-to-move 2 & 3 BHK residences with direct developer pricing and zero brokerage.",
     "lat": 18.627,
     "lng": 73.885
   },
@@ -31936,6 +33174,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gated Security & Landscaping",
       "Zero Brokerage"
     ],
+    "description": "Park Landmark at Bibwewadi, South Pune is a ready luxury landmark near Salisbury Park and Market Yard. Featuring tranquil landscaped gardens, clubhouse, and ready possession with 0% brokerage.",
     "lat": 18.476,
     "lng": 73.864
   },
@@ -31985,6 +33224,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "VJ 7-Year Construction Warranty",
       "Zero Buyer Brokerage"
     ],
+    "description": "Yashwin Orizzonte by Vilas Javdekar in Kharadi overlooks the river. Featuring 30+ lifestyle amenities, VJ signature construction warranty, and direct 5-minute access to EON IT Park and World Trade Center with 100% Zero Brokerage.",
     "lat": 18.553,
     "lng": 73.951
   },
@@ -32035,6 +33275,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "20+ Curated Amenities",
       "VJ Trust & Transparent Delivery"
     ],
+    "description": "YashONE Hinjewadi by Vilas Javdekar is a vibrant community in Hinjewadi Phase 1. Offering smart 1, 2, & 3 BHK ready homes with 20+ amenities, walk-to-work convenience for IT professionals, and zero brokerage.",
     "lat": 18.592,
     "lng": 73.731
   },
@@ -32084,6 +33325,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "VJ Construction Warranty",
       "Zero Buyer Brokerage"
     ],
+    "description": "YashONE Infinitee in Punawale, West Pune offers infinite lifestyle possibilities with 40+ amenities, sprawling landscaped podium, and instant access to Hinjewadi and Pune-Bangalore Highway.",
     "lat": 18.628,
     "lng": 73.746
   },
@@ -32133,6 +33375,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "VJ Brand Construction Quality",
       "100% Zero Brokerage"
     ],
+    "description": "YashONE Wakad Central is situated right in the center of Wakad near Datta Mandir road. Offering 2 & 3 BHK homes with 25+ lifestyle amenities and direct developer booking.",
     "lat": 18.601,
     "lng": 73.762
   },
@@ -32182,6 +33425,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "VJ Quality Guarantee",
       "Zero Buyer Commission"
     ],
+    "description": "VJ Palladio in Tathawade offers Italian-inspired architecture and lifestyle amenities right off the Mumbai-Pune Expressway. Features spacious 2 & 3 BHK residences with direct developer pricing.",
     "lat": 18.622,
     "lng": 73.751
   },
@@ -32226,6 +33470,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Private Elevators & Decks",
       "100% Zero Brokerage"
     ],
+    "description": "VJ Portia is Vilas Javdekar's ultra-luxury boutique landmark in Baner. Designed for high net-worth individuals with single-tower privacy, expansive decks, Italian marble, and bespoke concierge.",
     "lat": 18.561,
     "lng": 73.787
   },
@@ -32270,6 +33515,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "20+ Podium Amenities",
       "Sada Sukhi Raho Assurance"
     ],
+    "description": "Kohinoor Sapphire 2 at Tathawade offers well-planned 2 and 3 BHK residences situated near Mumbai-Pune Expressway and Hinjewadi IT Park. Backed by the 5 Pillars of Sada Sukhi Raho.",
     "lat": 18.6185,
     "lng": 73.7538
   },
@@ -32313,6 +33559,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "High Rental Yield Corridor",
       "Zero Buyer Brokerage"
     ],
+    "description": "Kohinoor Coral is strategically nestled in Hinjewadi Phase 3, minutes away from Infosys, TCS, and Tech Mahindra. High rental yields, ready social infrastructure, and lifetime security.",
     "lat": 18.578,
     "lng": 73.689
   },
@@ -32357,6 +33604,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Modern Lifestyle Clubhouse",
       "Sada Sukhi Raho Trust"
     ],
+    "description": "Kohinoor Emerald at Sus - Baner Annexe offers seamless connectivity to Mumbai-Bengaluru Highway and Hinjewadi IT Park while preserving scenic green hill views.",
     "lat": 18.548,
     "lng": 73.754
   },
@@ -32400,6 +33648,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Established Community",
       "Direct Developer Pricing"
     ],
+    "description": "Kohinoor Reina in South Pune's Kondhwa offers premium finished 2 BHK homes with quick connectivity to Camp, NIBM, and Market Yard.",
     "lat": 18.472,
     "lng": 73.893
   },
@@ -32442,6 +33691,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Ready Possession Homes",
       "100% Zero Brokerage"
     ],
+    "description": "Kohinoor Tinsel County in Hinjewadi Phase 2 is an established gated society tailored for tech professionals. Exceptional rental demand and immediate move-in readiness.",
     "lat": 18.586,
     "lng": 73.712
   },
@@ -32485,6 +33735,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gated Township Community",
       "Zero Brokerage Sales"
     ],
+    "description": "Kohinoor Tinsel Town at Hinjewadi Phase 2 provides spacious 2 and 3 BHK family residences with expansive open greens and clubhouse facilities.",
     "lat": 18.5875,
     "lng": 73.714
   },
@@ -32529,6 +33780,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Near Talegaon MIDC",
       "Zero Brokerage"
     ],
+    "description": "Kohinoor Abhimaan Homes in Shirgaon / Talegaon Dabhade offers pocket-friendly 1 & 2 BHK homes with complete lifestyle amenities, excellent connectivity to Mumbai-Pune Expressway and Talegaon MIDC industrial belt.",
     "lat": 18.73,
     "lng": 73.68
   },
@@ -32573,6 +33825,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Zero Brokerage Guarantee",
       "Ready Possession"
     ],
+    "description": "Kasturi Apostrophe Next in Wakad represents minimalist European design principles. Featuring Italian marble flooring, soundproof German double-glazed windows, and pristine finishing.",
     "lat": 18.598,
     "lng": 73.765
   },
@@ -32617,6 +33870,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Italian Marble & Poggenpohl Kitchens",
       "Zero Brokerage Authorized"
     ],
+    "description": "Kasturi Legacy is an ultra-exclusive residential landmark in Model Colony, Shivajinagar. Designed for discerning families seeking an old-Pune heritage address with world-class engineering.",
     "lat": 18.536,
     "lng": 73.834
   },
@@ -32661,6 +33915,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Concierge by Global Luxury Operators",
       "100% Direct Developer Terms"
     ],
+    "description": "Kasturi Poona Club Privé near Bund Garden is one of Pune's most expensive residential addresses. Overlooking the river and premier club greenery, it redefines royal living in Pune.",
     "lat": 18.539,
     "lng": 73.882
   },
@@ -32711,6 +33966,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Direct Access to Ring Road & Airport",
       "Zero Brokerage"
     ],
+    "description": "Long Island at the 400-acre Pride World City mega-township in Charholi provides waterfront lifestyle apartments with access to world-class sports arenas, schools, and parks.",
     "lat": 18.621,
     "lng": 73.896
   },
@@ -32755,6 +34011,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Integrated Township Ecosystem",
       "Zero Brokerage"
     ],
+    "description": "Brooklyn at Pride World City takes inspiration from New York brownstone urbanity with tree-lined pedestrian boulevards, cafes, and rooftop recreational amenities.",
     "lat": 18.6225,
     "lng": 73.8975
   },
@@ -32799,6 +34056,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Private Jacuzzis & Expansive Terraces",
       "Direct Builder Terms"
     ],
+    "description": "Notting Hill is Pride World City's ultra-premium enclave of luxury cluster apartments and townhomes. British-inspired Victorian design with sprawling manicured lawns.",
     "lat": 18.6235,
     "lng": 73.899
   },
@@ -32843,6 +34101,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Zero Brokerage Sales",
       "Pride Purple Quality"
     ],
+    "description": "Park Turquoise by Pride Purple in Wakad is an established residential community with mature landscaping, clubhouse, and unmatched proximity to Hinjewadi Phase 1.",
     "lat": 18.599,
     "lng": 73.768
   },
@@ -32886,6 +34145,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Walking Distance to Schools & Markets",
       "100% Zero Buyer Brokerage"
     ],
+    "description": "Park Ivory is Pride Purple's iconic ready-to-move enclave in Wakad. Spacious layouts, dedicated covered parking, and prime connectivity to Pune-Bangalore highway.",
     "lat": 18.601,
     "lng": 73.7695
   },
@@ -32935,6 +34195,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Ready to Move In Community of 2000+ Families",
       "Zero Brokerage Direct Sales"
     ],
+    "description": "Park Street is Wakad's most recognizable integrated township by Pride Purple. Spread over 30+ acres, it includes parks, commercial shops, schools, and extensive sports facilities.",
     "lat": 18.596,
     "lng": 73.762
   },
@@ -32984,6 +34245,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Rapid Access to Magarpatta & Solapur Highway",
       "Zero Brokerage Sales Support"
     ],
+    "description": "Park Infinia by Pride Purple is an expansive 41-acre township at Phursungi, Hadapsar Annexe. Near SP Infocity IT Park and Magarpatta City with ready amenities.",
     "lat": 18.478,
     "lng": 73.965
   },
@@ -33027,6 +34289,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Steps to Major IT Campuses & Metro Line 3",
       "100% Zero Brokerage"
     ],
+    "description": "Pride Park District in Hinjewadi Phase 1 is a 60-acre master planned development that brings together premium residences, retail boulevards, and landscaped urban parks.",
     "lat": 18.592,
     "lng": 73.742
   },
@@ -33070,6 +34333,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Quick Connectivity to Baner & Highway",
       "Zero Brokerage Guaranteed"
     ],
+    "description": "Yashwin Anand by Vilas Javdekar in Sus offers thoughtful 2 and 3 BHK homes designed around VJ's principles of maximum space efficiency, sunlight, and cross ventilation.",
     "lat": 18.549,
     "lng": 73.755
   },
@@ -33113,6 +34377,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Trusted VJ Engineering Standards",
       "Zero Brokerage Sales Support"
     ],
+    "description": "Yashwin Encore in Wakad is an acclaimed ready-to-move community featuring contemporary architecture, indoor badminton court, and lush podium gardens.",
     "lat": 18.6025,
     "lng": 73.766
   },
@@ -33162,6 +34427,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Zero Brokerage Direct Sales",
       "VJ Signature Delivery"
     ],
+    "description": "YashONE Eternitee in Hinjewadi Phase 1 by Vilas Javdekar brings together modern tech-enabled residences, 30+ lifestyle amenities, and zero-minute commute to key IT parks.",
     "lat": 18.591,
     "lng": 73.738
   },
@@ -33206,6 +34472,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Hillside Breeze & Views",
       "Zero Brokerage"
     ],
+    "description": "Yashwin Sukham in Warje offers serene hilltop living with unmatched connectivity to Kothrud, Deccan, and Mumbai-Bangalore Highway.",
     "lat": 18.482,
     "lng": 73.801
   },
@@ -33256,6 +34523,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "VJ Architectural Innovation",
       "100% Zero Brokerage"
     ],
+    "description": "VJ Downtown in Wakad is an integrated mixed-use destination combining luxury residences with upscale shopping boulevards and high-street entertainment.",
     "lat": 18.5995,
     "lng": 73.7645
   },
@@ -33299,6 +34567,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Prime Datta Mandir Road Connectivity",
       "Zero Brokerage Sales Support"
     ],
+    "description": "Yashwin Nuovo Centro by Vilas Javdekar in Wakad offers Italian-inspired urban lifestyle with expansive sunlit rooms, central courtyards, and rooftop recreation.",
     "lat": 18.6015,
     "lng": 73.7675
   },
@@ -33347,6 +34616,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Ready Possession Family Homes",
       "Zero Brokerage Guarantee"
     ],
+    "description": "Yashwin Hinjawadi in Phase 2 is an established gated society featuring high rental demand, immediate possession, and proximity to Wipro and Infosys.",
     "lat": 18.5865,
     "lng": 73.7155
   },
@@ -33397,6 +34667,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Sky Lounge Deck"
     ],
+    "description": "Runwal Forests at Kanjurmarg West is an iconic 15-acre urban oasis featuring 10 residential towers overlooking lush forest greens, a 35,000 sq.ft clubhouse, and 100% zero brokerage through PROPSMART REALTY.",
     "lat": 19.1312,
     "lng": 72.9389
   },
@@ -33441,6 +34712,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Sky Lounge Deck"
     ],
+    "description": "Runwal Avenue at Kanjurmarg East represents high-street lifestyle living with Fifth Avenue retail galleria, landscaped sky amenities, and seamless suburban railway and metro connectivity.",
     "lat": 19.1325,
     "lng": 72.9405
   },
@@ -33491,6 +34763,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Sky Lounge Deck"
     ],
+    "description": "Runwal Pinnacle in Mulund West stands tall as the tallest residential sky-tower in the central suburbs (67 storeys), offering breathtaking Sanjay Gandhi National Park views and rooftop sky-decks.",
     "lat": 19.1723,
     "lng": 72.9489
   },
@@ -33541,6 +34814,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Sky Lounge Deck"
     ],
+    "description": "Runwal Sanctuary Mulund West is an ultra-luxury hillside retreat adjoining green hill reserves, featuring 5 curated towers with multi-level podium amenities and zero brokerage booking.",
     "lat": 19.1745,
     "lng": 72.9465
   },
@@ -33591,6 +34865,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Sky Lounge Deck"
     ],
+    "description": "Runwal Gardens is a 115-acre self-sustaining integrated mega township on Kalyan-Shilphata Road with EuroSchool, multispecialty hospital, 11-acre central park, and 100+ lifestyle amenities.",
     "lat": 19.1989,
     "lng": 73.0856
   },
@@ -33635,6 +34910,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Sky Lounge Deck"
     ],
+    "description": "Runwal Elegante in Lokhandwala, Andheri West is Bollywood royalty and elite celebrity residence featuring Mumbai’s first rooftop Galileo sky-bridge suspended across three towers.",
     "lat": 19.1364,
     "lng": 72.8277
   },
@@ -33679,6 +34955,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Sky Lounge Deck"
     ],
+    "description": "Runwal Nirvana in South Central Mumbai offers panoramic Arabian Sea and eastern harbour views, 54 storeys of modern architecture, and direct connectivity to Lower Parel and BKC.",
     "lat": 19.0012,
     "lng": 72.8345
   },
@@ -33723,6 +35000,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Gymnasium",
       "Sky Lounge Deck"
     ],
+    "description": "Runwal Timeless at Wadala East offers boutique luxury residences minutes from the Eastern Freeway, Monorail, and BKC connector with lifestyle podium amenities and direct builder mandate.",
     "lat": 19.0189,
     "lng": 72.8589
   },
@@ -33767,6 +35045,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Landscaped Gardens"
     ],
+    "description": "Krisala 41 Estera in Punawale offers thoughtfully planned 2 & 3 BHK residences with smart home automation, zero brokerage direct builder rates, and fast connectivity to Hinjewadi Phase 1.",
     "lat": 18.6256,
     "lng": 73.7371
   },
@@ -33811,6 +35090,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Landscaped Gardens"
     ],
+    "description": "Krisala 41 Elite at Tathawade features premier high-rise towers near JSPM and Indira Institute with double-height designer entrance lobbies and 30+ lifestyle amenities.",
     "lat": 18.6186,
     "lng": 73.7548
   },
@@ -33855,6 +35135,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Landscaped Gardens"
     ],
+    "description": "Krisala 41 Zircon in Tathawade offers luxury high-rise homes with unhindered views, private balconies, and dedicated electric vehicle charging points on Mumbai-Pune expressway corridor.",
     "lat": 18.6212,
     "lng": 73.7565
   },
@@ -33899,6 +35180,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Landscaped Gardens"
     ],
+    "description": "Krisala 41 Evok at Ravet is situated on the BRTS transit spine with seamless access to Akurdi railway station, Hinjewadi IT park, and premier PCMC schools.",
     "lat": 18.6496,
     "lng": 73.7431
   },
@@ -33943,6 +35225,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Landscaped Gardens"
     ],
+    "description": "Krisala 41 Plumeria in Punawale is an established gated residential community featuring ready-to-move and near-possession residences with full occupancy certificate and zero brokerage.",
     "lat": 18.6278,
     "lng": 73.7389
   },
@@ -33987,6 +35270,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Landscaped Gardens"
     ],
+    "description": "Krisala 41 Cosmo in Tathawade offers modern smart-living apartments with rooftop stargazing deck, infinity edge pool, and seamless expressway connectivity.",
     "lat": 18.6195,
     "lng": 73.7532
   },
@@ -34031,6 +35315,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Landscaped Gardens"
     ],
+    "description": "Krisala 41 Valley in Marunji Hinjewadi features nature-enveloped hillside apartments with unhindered views, green walkways, and instant access to Phase 1 and Phase 2 tech campuses.",
     "lat": 18.5889,
     "lng": 73.7123
   },
@@ -34081,6 +35366,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Landscaped Gardens"
     ],
+    "description": "Krisala 41 Crown Punawale is an elite residential tower with multi-tier podium lifestyle zones, jogging tracks, and high rental return potential.",
     "lat": 18.6265,
     "lng": 73.7355
   },
@@ -34125,6 +35411,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Gymnasium",
       "Landscaped Gardens"
     ],
+    "description": "Krisala 41 Bellissimo Tathawade is the marquee flagship new launch offering Italian-inspired architectural facades, expansive sky decks, and state-of-the-art sports clubhouse.",
     "lat": 18.6225,
     "lng": 73.7578
   },
@@ -34169,6 +35456,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Central Greens"
     ],
+    "description": "Rohan Prathama in Hinjewadi Phase 1 is a signature PLUS Home project delivering zero wasted space, optimal natural cross-ventilation, and walk-to-work proximity for IT professionals.",
     "lat": 18.5913,
     "lng": 73.7389
   },
@@ -34213,6 +35501,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Central Greens"
     ],
+    "description": "Rohan Ananta Tathawade provides modern high-rise living with open green views, sports amenities, and immediate access to the Mumbai-Pune Expressway.",
     "lat": 18.6186,
     "lng": 73.7548
   },
@@ -34263,6 +35552,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Central Greens"
     ],
+    "description": "Rohan Viti at Bavdhan nestled against the scenic NDA hills provides master-crafted residences with expansive decks, biophilic elements, and swift access to Kothrud and Chandani Chowk.",
     "lat": 18.5158,
     "lng": 73.7699
   },
@@ -34307,6 +35597,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Central Greens"
     ],
+    "description": "Rohan Madhuban in Bavdhan is an award-winning residential enclave celebrated for low-density garden living, peaceful tree canopies, and superior construction quality.",
     "lat": 18.5142,
     "lng": 73.7681
   },
@@ -34357,6 +35648,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Central Greens"
     ],
+    "description": "Rohan Mithila in Viman Nagar is a benchmark luxury township opposite Symbiosis campus offering expansive landscaped greens, multiple clubhouses, and airport vicinity.",
     "lat": 18.5679,
     "lng": 73.9143
   },
@@ -34401,6 +35693,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Central Greens"
     ],
+    "description": "Rohan Kritika on Sinhagad Road delivers serene canal-side living with high ceilings, spacious living areas, and prompt connectivity to Swargate and Deccan.",
     "lat": 18.4712,
     "lng": 73.8245
   },
@@ -34445,6 +35738,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Central Greens"
     ],
+    "description": "Rohan Leher 2 off Baner Road provides peaceful foothills living with zero overlooking windows, private terraces, and quick connectivity to Balewadi High Street.",
     "lat": 18.559,
     "lng": 73.7868
   },
@@ -34489,6 +35783,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Central Greens"
     ],
+    "description": "Rohan Ishan in Bavdhan offers smart architecture with internal courtyards, natural illumination, and premium amenities on the Paud Road transit corridor.",
     "lat": 18.5175,
     "lng": 73.7712
   },
@@ -34533,6 +35828,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Central Greens"
     ],
+    "description": "Rohan Tarang in Wakad is situated near Datta Mandir road offering excellent access to IT parks, Hinjewadi flyover, and premier schools with zero brokerage.",
     "lat": 18.5987,
     "lng": 73.7686
   },
@@ -34577,6 +35873,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Swimming Pool",
       "Landscaped Central Greens"
     ],
+    "description": "Rohan Tapovan in Dhanori delivers tranquil green living minutes from Viman Nagar, Pune International Airport, and Commerzone IT Park.",
     "lat": 18.5866,
     "lng": 73.8927
   },
@@ -34631,6 +35928,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Nestwalk in Pimpri, Pune offers IGBC certified sustainable 2 & 3 BHK residences with expansive green central courtyards and direct connectivity to the Old Pune-Mumbai Highway and metro.",
     "lat": 18.6279,
     "lng": 73.8009
   },
@@ -34680,6 +35978,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Centralis is an iconic high-rise development in Pimpri, featuring 4 elegant towers surrounding a grand central landscaped podium with premium lifestyle amenities.",
     "lat": 18.6265,
     "lng": 73.8021
   },
@@ -34735,6 +36034,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Antheia spans 16 sprawling acres in Pimpri, delivering luxury high-rises with floodlit tennis courts, Olympic-size swimming pool, and dedicated clubhouse.",
     "lat": 18.6291,
     "lng": 73.8035
   },
@@ -34784,6 +36084,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Royale offers royal living in the heart of PCMC with palatial cross-ventilated residences, clubhouse, squash court, and beautifully maintained grounds.",
     "lat": 18.631,
     "lng": 73.8042
   },
@@ -34833,6 +36134,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Woods in Pimpri delivers nature-centric living with dense tree canopies, multi-tier security, and immediate access to IT parks and highway links.",
     "lat": 18.6285,
     "lng": 73.8015
   },
@@ -34887,6 +36189,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Alcove in Chandivali (Powai Annexe) is an eco-luxury residential enclave featuring Miyawaki urban forests, rooftop jogging tracks, and EV charging stations.",
     "lat": 19.1128,
     "lng": 72.8954
   },
@@ -34937,6 +36240,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Vicino in Andheri offers boutique, biophilic homes with French windows, automated smart climate controls, and proximity to Western Express Highway and Metro Line 1.",
     "lat": 19.1197,
     "lng": 72.8464
   },
@@ -34985,6 +36289,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Roots in Kandivali East represents contemporary urban living with unobstructed views of Sanjay Gandhi National Park and 35+ curated lifestyle amenities.",
     "lat": 19.2045,
     "lng": 72.8687
   },
@@ -35041,6 +36346,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Vista is a 7.7-acre flagship master community in Kandivali East featuring biophilic architectural towers, bi-level clubhouses, and zero vehicular movement podium.",
     "lat": 19.2088,
     "lng": 72.871
   },
@@ -35084,6 +36390,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Iris offers boutique luxury living with private sundecks, landscaped sensory gardens, and swift access to Link Road and S.V. Road.",
     "lat": 19.1865,
     "lng": 72.8489
   },
@@ -35134,6 +36441,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Eminente in Goregaon West is an ultra-luxury landmark featuring double-height entrance lobbies, heated indoor pools, and skyline viewing decks.",
     "lat": 19.1645,
     "lng": 72.8598
   },
@@ -35183,6 +36491,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Splendour on LBS Marg, Bhandup West, spans 15 acres of lush landscaped expanses with clubhouse, multi-sport courts, and seamless highway access.",
     "lat": 19.1512,
     "lng": 72.9345
   },
@@ -35232,6 +36541,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Happinest Kalyan is an integrated 9-acre township with 50+ amenities, cricket pitch, amphitheater, and direct access to upcoming Metro Line 5.",
     "lat": 19.2612,
     "lng": 73.1124
   },
@@ -35282,6 +36592,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Happinest Boisar offers modern, affordable living with private gardens, dedicated medical clinic, commercial retail arcade, and children play zones.",
     "lat": 19.8021,
     "lng": 72.7534
   },
@@ -35331,6 +36642,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Mahindra Happinest Palghar features master-planned low-rise residences with energy-efficient LED street lighting, rainwater harvesting, and lush community gardens.",
     "lat": 19.6967,
     "lng": 72.7654
   },
@@ -35381,6 +36693,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Peninsula Salsette 27 is an ultra-exclusive skyscraper landmark in Byculla, South Mumbai, offering panoramic vistas of the Arabian Sea, Victoria Gardens, and Eastern Harbour.",
     "lat": 18.9754,
     "lng": 72.8365
   },
@@ -35430,6 +36743,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Celestia Spaces in Sewri offers unmatched luxury with uninterrupted views of the Mumbai Harbour, flamingos sanctuary, and Atal Setu (MTHL) connectivity.",
     "lat": 18.9987,
     "lng": 72.8541
   },
@@ -35486,6 +36800,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Ashok Towers in Parel is one of Mumbai's most iconic luxury gated residential communities, spanning 18 acres with Olympic-class sports facilities and clubhouse.",
     "lat": 19.0012,
     "lng": 72.8423
   },
@@ -35536,6 +36851,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Ashok Gardens in Sewri features 12 acres of tranquil landscaped grounds, grand swimming pool, private squash courts, and sea-facing sundecks.",
     "lat": 18.9954,
     "lng": 72.8512
   },
@@ -35580,6 +36896,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Peninsula Spenta in Lower Parel delivers bespoke ultra-luxury residences situated inside the iconic Mathuradas Mill compound alongside Mumbai's finest dining establishments.",
     "lat": 18.9945,
     "lng": 72.8291
   },
@@ -35630,6 +36947,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Peninsula Park Heights is an ultra-exclusive private residential tower adjoining Peninsula Business Park, curated for corporate leaders and high-net-worth investors.",
     "lat": 18.9961,
     "lng": 72.8278
   },
@@ -35679,6 +36997,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Peninsula Technopark in Kurla West offers grade-A corporate offices and tech suites right off BKC with high rental yields and institutional maintenance.",
     "lat": 19.0712,
     "lng": 72.8821
   },
@@ -35733,6 +37052,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Ashok Meadows in Hinjewadi Phase 1, Pune is a prestigious 15-acre resort-style residential community with infinity edge pool, floodlit tennis courts, and grand clubhouse.",
     "lat": 18.5912,
     "lng": 73.7421
   },
@@ -35782,6 +37102,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Ashok Astoria in Hinjewadi offers boutique architectural residences with landscaped podium gardens, indoor games lounge, and direct access to IT hubs.",
     "lat": 18.5935,
     "lng": 73.745
   },
@@ -35832,6 +37153,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Peninsula Address One in Gahunje is a 50-acre gated township adjoining MCA International Cricket Stadium and Mumbai-Pune Expressway with open recreational grounds.",
     "lat": 18.6723,
     "lng": 73.7012
   },
@@ -35882,6 +37204,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Phase 2 of Peninsula Address One features upgraded lifestyle towers with rooftop gazebos, dedicated sports academy, and landscaped cycling tracks.",
     "lat": 18.6735,
     "lng": 73.7025
   },
@@ -35932,6 +37255,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Peninsula Ashok Nirvaan in Khandala is an elite private villa community offering bespoke second homes with private infinity pools and sweeping views of Duke's Nose.",
     "lat": 18.7512,
     "lng": 73.3765
   },
@@ -35976,6 +37300,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Peninsula Valley Vista offers luxury holiday condominiums nestled in the misty valleys of Khandala Foothills with heated pool and wellness spa.",
     "lat": 18.7545,
     "lng": 73.3789
   },
@@ -36020,6 +37345,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Peninsula Alibaug Coastal Estates delivers serene tropical villa living within minutes of Mandwa Jetty, featuring sprawling landscaped lawns and private swimming pools.",
     "lat": 18.7845,
     "lng": 72.8421
   },
@@ -36064,6 +37390,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Peninsula Palm Grove Villas in Awas Beach offers secluded luxury surrounded by casuarina groves and virgin beaches with personalized butler services.",
     "lat": 18.7912,
     "lng": 72.8512
   },
@@ -36114,6 +37441,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Peninsula Karjat Riverwoods is a 25-acre riverside retreat in Karjat featuring gated luxury villas and villa plots with organic orchards and sports club.",
     "lat": 18.9123,
     "lng": 73.3245
   },
@@ -36163,6 +37491,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "The House of Abhinandan Lodha (HoABL) Alibaug Reserve offers branded 5-star plotted villa land near Mandwa Jetty with international club amenities managed by luxury hoteliers.",
     "lat": 18.7889,
     "lng": 72.8465
   },
@@ -36213,6 +37542,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Hiranandani Sands by Hiranandani Communities brings classical neoclassical architecture and lush green boulevard landscaping to Kihim Beach, Alibaug.",
     "lat": 18.7345,
     "lng": 72.8712
   },
@@ -36263,6 +37593,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Villas by Isprava in Sasawane are bespoke luxury residences curated with antique furnishings, private heated pools, expansive courtyards, and dedicated property management.",
     "lat": 18.8012,
     "lng": 72.8398
   },
@@ -36312,6 +37643,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Sunstone Awas Beach Residences offers low-rise coastal apartments with sea-facing balconies and private beach access path in tranquil Awas.",
     "lat": 18.7945,
     "lng": 72.8567
   },
@@ -36356,6 +37688,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "The Canvas Alibaug in Zirad features contemporary minimalist architecture, private plunge pools, and open-to-sky shower pavilions near Chondi market.",
     "lat": 18.7456,
     "lng": 72.8912
   },
@@ -36400,6 +37733,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "SaffronStays Riverfront Villas in Kihim offers luxury serviced second homes with assured rental returns and dedicated hospitality management.",
     "lat": 18.7398,
     "lng": 72.8754
   },
@@ -36450,6 +37784,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Alibaug Palms in Varsoli / Alibaug Town offers verified residential apartments walking distance from the beach and civil infrastructure.",
     "lat": 18.6543,
     "lng": 72.8812
   },
@@ -36494,6 +37829,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Epitome Alibaug Bayview Estates features private elevated ocean-view villas on the Mandwa ridge with infinity pools overlooking Mumbai's southern skyline.",
     "lat": 18.7812,
     "lng": 72.8456
   },
@@ -36538,6 +37874,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Tata Prive in Khandala Foothills is a gated sanctuary of hillside villas designed by international architects, set amidst 20 acres of pristine greenery.",
     "lat": 18.7567,
     "lng": 73.3712
   },
@@ -36588,6 +37925,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Piramal Lonavala Horizon brings Piramal Realty's gold-standard craftsmanship to the Khandala ridge with private verandas and mountain view decks.",
     "lat": 18.7589,
     "lng": 73.3745
   },
@@ -36638,6 +37976,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Kalpataru Waterfront in Kamshet offers lakeside second homes with private kayaking club, lakeside boardwalk, and panoramic valley views.",
     "lat": 18.7345,
     "lng": 73.5412
   },
@@ -36688,6 +38027,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Runwal Khandala Heights offers secluded hillside villas surrounded by private waterfalls, meditation pavilions, and temperature-controlled pools.",
     "lat": 18.7523,
     "lng": 73.3798
   },
@@ -36732,6 +38072,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Rohan Ananta Lonavala Villas in Tungarli features Rohan's proprietary PLUS Home architecture (Perfect Ventilation, Lively Light, Utmost Privacy, Smart Space).",
     "lat": 18.7612,
     "lng": 73.4123
   },
@@ -36776,6 +38117,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Supreme Lonavala Cloud Estates in Kunegaon delivers ultra-luxury cantilevered mountain villas overlooking the Sahyadri ranges with private heated jacuzzis.",
     "lat": 18.7489,
     "lng": 73.3856
   },
@@ -36826,6 +38168,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Sobha Sahyadri Whispers brings Sobha's renowned backward integration and impeccable German engineering to luxury second homes in Khandala.",
     "lat": 18.7534,
     "lng": 73.3723
   },
@@ -36876,6 +38219,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Godrej Retreat Karjat is an expansive resort-themed plotted development by Godrej Properties near Chowk and Morbe Dam with 100+ wellness and leisure amenities.",
     "lat": 18.9234,
     "lng": 73.2845
   },
@@ -36925,6 +38269,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Godrej Hillside Reserve in Karjat-Neral foothills offers branded luxury land parcels situated against the backdrop of the Matheran hills.",
     "lat": 18.9456,
     "lng": 73.3123
   },
@@ -36975,6 +38320,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Wadhwa Wise City is a 138-acre mega-integrated township in the Chowk-Karjat corridor offering healthcare, ICSE school, commercial retail, and green living.",
     "lat": 18.9289,
     "lng": 73.2798
   },
@@ -37019,6 +38365,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Wadhwa Magnolia Villas offers exclusive independent villas inside Wadhwa Wise City with private front lawns, private parking, and luxury clubhouse access.",
     "lat": 18.9312,
     "lng": 73.2821
   },
@@ -37068,6 +38415,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Pushpam Sanskruti is a fully operational resort home community in Karjat featuring managed rental programs, multi-cuisine restaurants, and water park.",
     "lat": 18.9156,
     "lng": 73.3312
   },
@@ -37118,6 +38466,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Usha Breco Karjat Hill View is nestled along the Kashele-Bhimashankar nature highway offering hillside second homes with organic farming plots.",
     "lat": 18.9812,
     "lng": 73.4123
   },
@@ -37162,6 +38511,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Nirvana Riverwoods in Karjat offers direct riverfront villas with private fishing docks, riverside gazebos, and serene mountain backdrop.",
     "lat": 18.9089,
     "lng": 73.3278
   },
@@ -37212,6 +38562,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Penta Karjat Green Valley offers affordable holiday homes and weekend villa plots with panoramic valley views of the Matheran mountain range.",
     "lat": 18.9512,
     "lng": 73.3089
   },
@@ -37262,6 +38613,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Xrbia Karjat Riverfront is a self-contained smart township in Vavanje offering riverside boardwalks, convenience shopping, and round-the-clock security.",
     "lat": 18.9189,
     "lng": 73.2512
   },
@@ -37312,6 +38664,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Hiranandani Karjat Fortune City Link offers signature Hiranandani architecture with Roman arches, extensive open green spaces, and upcoming airport access.",
     "lat": 18.9345,
     "lng": 73.2756
   },
@@ -37356,6 +38709,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Rohan Karjat Country Homes in Kashele provides zero-wastage open-concept country villas with private courtyards, vegetable patches, and mountain views.",
     "lat": 18.9756,
     "lng": 73.4089
   },
@@ -37405,6 +38759,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Runwal Karjat Bliss offers peaceful nature living in Central Karjat with infinity edge pool, gymnasium, meditation lawn, and kid's adventure area.",
     "lat": 18.9178,
     "lng": 73.3289
   },
@@ -37455,6 +38810,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Courtyard Gardens",
       "24x7 Multi-Tier Security & CCTV"
     ],
+    "description": "Lodha Karjat Crown Estates is an ultra-exclusive gated enclave in Chowk offering curated villa plots and designer holiday villas with 5-star club privileges.",
     "lat": 18.9267,
     "lng": 73.2812
   },
@@ -37504,6 +38860,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme ArtHouse by Supreme Universal is an ultra-exclusive, low-density residential landmark situated off Carter Road and Pali Hill in Bandra West, Mumbai. Designed for high-net-worth connoisseurs, this bespoke art-inspired tower features full-floor palatial residences with private elevator access ",
     "lat": 19.0607,
     "lng": 72.8258
   },
@@ -37553,6 +38910,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Prana is a tranquil luxury sanctuary situated on Pali Mala Road in the heart of historic Pali Hill, Bandra West. Surrounded by majestic heritage trees and a lush green canopy, each floor hosts only one sprawling residence featuring acoustic double-glazed curtain walls, Italian travertine mar",
     "lat": 19.0628,
     "lng": 72.8291
   },
@@ -37602,6 +38960,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme The One stands as the pinnacle of elite residential living on Pali Hill, Bandra West. Featuring cutting-edge architectural engineering, biometric private elevator entries, individual temperature-controlled plunge pools, and a rooftop sky club overlooking the Bandra coastline, this address is",
     "lat": 19.0645,
     "lng": 72.8272
   },
@@ -37652,6 +39011,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Boulevard is an expansive 6-acre resort-style residential enclave by Supreme Universal in Chembur, Mumbai. Blending lush botanical landscapes with high-rise luxury, the project offers 2, 3, and 4 BHK residences equipped with over 40 lifestyle amenities including a 25-meter infinity pool, mul",
     "lat": 19.0522,
     "lng": 72.8995
   },
@@ -37701,6 +39061,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Elenor is a contemporary luxury residential tower in Deonar, Chembur. Designed with high-efficiency floor layouts, floor-to-ceiling glass fenestrations, double-height air-conditioned entrance lobby, and landscaped open-air podium deck, Elenor provides ready-to-move peace of mind in one of Ea",
     "lat": 19.056,
     "lng": 72.908
   },
@@ -37751,6 +39112,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Epitome is an exclusive, large-format luxury residential tower situated in prime Chembur. Offering signature 3, 4, and 5 BHK expansive residences with private elevators, sky lounge, fitness studio, and infinity terrace, Epitome is an established benchmark for discerning families seeking gene",
     "lat": 19.061,
     "lng": 72.9025
   },
@@ -37800,6 +39162,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Signature is an intimate boutique residential address near Union Park in Bandra West. With only two residences per floor, the development offers unrivaled privacy, Italian marble interiors, designer German sanitary fittings, acoustic glass facades, and a rooftop sky terrace with Arabian Sea ",
     "lat": 19.0682,
     "lng": 72.8315
   },
@@ -37849,6 +39212,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme 19 is an ultra-modern 19-storey residential tower in Oshiwara, Andheri West. Situated minutes from Lokhandwala Complex and the Western Express Highway, Supreme 19 features automated multi-level puzzle parking, rooftop infinity fitness pavilion, and thoughtfully planned 2 and 3 BHK homes.",
     "lat": 19.1415,
     "lng": 72.8335
   },
@@ -37898,6 +39262,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Corner View is a prestigious residential redevelopment on 24th Road, Bandra West. Boasting three-side open corner layouts, excellent cross-ventilation, double-height reception lobby, and private mechanised parking, this project caters to high-profile families seeking a quintessential Bandra ",
     "lat": 19.0635,
     "lng": 72.834
   },
@@ -37947,6 +39312,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Alora is an avant-garde boutique residential development on 14th Road, Khar West, Mumbai. Blending contemporary architectural lines with artisanal European finishes, Alora offers limited 3 and 4 BHK luxury residences featuring full-height acoustic windows, rooftop zen garden, smart home conc",
     "lat": 19.0705,
     "lng": 72.836
   },
@@ -37996,6 +39362,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Melange is a landmark high-rise development located in Dadar, South Central Mumbai. Positioned at the confluence of premier coastal connectivity and heritage cultural living, Supreme Melange offers meticulously engineered 2 and 3 BHK residences with breezy sundecks, podium recreation deck, m",
     "lat": 19.0178,
     "lng": 72.8478
   },
@@ -38044,6 +39411,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme ArtVeda on Pali Hill, Bandra West is a masterwork of aesthetic refinement. Conceived as bespoke art residences, ArtVeda features one apartment per floor, private high-speed elevators, museum-grade display lighting, Italian stone cladding, and private verandas framed by ancient banyan trees.",
     "lat": 19.064,
     "lng": 72.8285
   },
@@ -38093,6 +39461,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Belysa on ST Road in Chembur is a ready-to-move premium residential building. Offering well-planned 2 and 3 BHK apartments, Supreme Belysa provides panoramic views of the green Chembur Golf Club surroundings, energy-efficient LED common lighting, intercom security, and rooftop seating pavili",
     "lat": 19.0585,
     "lng": 72.905
   },
@@ -38141,6 +39510,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Residency is an established luxury residential address in Bandra West. Built to supreme engineering tolerances, this boutique tower offers generous 3 BHK apartments, marble-clad entrance foyers, 24/7 security surveillance, and unmatched walkability to Bandra's best international schools and ",
     "lat": 19.0595,
     "lng": 72.833
   },
@@ -38190,6 +39560,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Headquarters at the junction of 14th and 33rd Road in Bandra West is Mumbai's preeminent Grade-A boutique commercial landmark. Offering bespoke office suites, double-glazed curtain walls, LEED gold certified energy conservation, valet parking, and rooftop executive dining, this address is th",
     "lat": 19.062,
     "lng": 72.835
   },
@@ -38239,6 +39610,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Esteban is an award-winning ultra-luxury residential development in Mundhwa / Koregaon Park Annexe, Pune. Overlooking the scenic Mula-Mutha river, Esteban offers palatial 4 and 5 BHK sky residences with private plunge pools, temperature-controlled wine cellars, custom German kitchens, and pa",
     "lat": 18.5385,
     "lng": 73.918
   },
@@ -38288,6 +39660,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Pallacio on Pan Card Club Road, Baner is an iconic European-classical luxury residential enclave. Boasting Roman arches, Corinthian pillars, landscaped fountain courtyards, and expansive 3 and 4 BHK residences, Pallacio remains one of West Pune's most celebrated architectural addresses.",
     "lat": 18.5598,
     "lng": 73.7854
   },
@@ -38337,6 +39710,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Adimaa is an ultra-exclusive, limited-edition residential landmark located on prestigious Boat Club Road, Pune Central. Fronting the tranquil Mula-Mutha riverfront, Adimaa features massive full-floor 4 and 5 BHK residences, dedicated concierge and valet, private temperature-regulated plunge ",
     "lat": 18.535,
     "lng": 73.8825
   },
@@ -38386,6 +39760,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Vivero is a vibrant modern residential community situated along the scenic Baner-Pashan Link Road, Pune. Offering energy-efficient 2 and 3 BHK homes, infinity-edge rooftop swimming pool, air-conditioned fitness studio, squash court, and children's adventure play area, Vivero delivers complet",
     "lat": 18.563,
     "lng": 73.791
   },
@@ -38435,6 +39810,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Amadore is a premier luxury gated community in Baner, West Pune. Designed with large open green lawns, multi-tiered security, clubhouse with spa and steam rooms, and proximity to Baner's top schools and IT corridor, Amadore offers spacious, elegant family living.",
     "lat": 18.5575,
     "lng": 73.7895
   },
@@ -38484,6 +39860,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Estado is a well-established residential development in Baner, Pune. Offering thoughtfully designed 2 and 3 BHK residences with high-speed elevators, landscaped podium, solar water heating, and high rental yield potential, Estado represents dependable quality and prime accessibility.",
     "lat": 18.554,
     "lng": 73.782
   },
@@ -38533,6 +39910,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Renaissance is a luxury boutique development nestled in the verdant, peaceful enclave of Sopan Baug, Pune. Surrounded by century-old trees and high-ranking defense and diplomatic residences, Renaissance offers quiet refinement, temperature-controlled indoor pool, jogging trail, and spacious ",
     "lat": 18.514,
     "lng": 73.9015
   },
@@ -38582,6 +39960,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "State-of-the-Art Wellness Club & Gymnasium",
       "Landscaped Reflexology Garden & Walking Pavilion"
     ],
+    "description": "Supreme Palms is a landmark residential community situated in Aundh, Pune, within walking distance of Westend Mall and Bremen Chowk. Featuring expansive manicured grounds, tennis court, clubhouse, and large 3 and 4 BHK homes with ample natural light, Supreme Palms remains an enduring address of pres",
     "lat": 18.562,
     "lng": 73.8075
   },
@@ -38626,6 +40005,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Signature Clubhouse & Gymnasium",
       "Reflexology Walkway & Zen Garden"
     ],
+    "description": "Wake up to breathtaking river views at Kohinoor Riverdale in New Kharadi. Spread over 4.98 acres with 5 premium towers, Riverdale offers thoughtfully engineered 2 & 3 Bed riverside homes minutes away from EON Free Zone, World Trade Centre, and upcoming metro line.",
     "lat": 18.5538,
     "lng": 73.9472
   },
@@ -38676,6 +40056,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Infinity Swimming Pool & Kids Pool",
       "Open Air Amphitheatre"
     ],
+    "description": "Kohinoor Woodshire in Bhugaon near Bavdhan is a nature-inspired luxury residential retreat in West Pune. Nestled amidst rolling green hills across 3.77 acres with 5 towers, it offers peaceful 2, 3 & 4 Bed homes with clean air, forest trails, and city connectivity.",
     "lat": 18.502,
     "lng": 73.754
   },
@@ -38732,6 +40113,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sky Lounges & Viewing Decks",
       "High-Tech Fitness Centre"
     ],
+    "description": "Kohinoor Boulevard Towers at Uptown Avenue in Punawale is a landmark 7.9-acre lifestyle hub in West Pune with 8 soaring towers. Offering premium 2, 2.5, 3 BHK & exclusive 3 BHK Duplex residences, seamlessly connected to Hinjewadi IT Park and Pune-Mumbai Expressway.",
     "lat": 18.6315,
     "lng": 73.746
   },
@@ -38782,6 +40164,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Landscaped Party Lawn & Gazebo",
       "Dedicated Senior Citizen Alcove"
     ],
+    "description": "Kohinoor Viva Pixel in Dhanori features 6 residential towers offering smartly planned 2, 3 & 4 Bed homes with ultra-efficient carpet layouts, just minutes away from Pune International Airport, Viman Nagar, and Kalyani Nagar.",
     "lat": 18.588,
     "lng": 73.896
   },
@@ -38826,6 +40209,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Temperature-Controlled Swimming Pool",
       "Fitness Hub & Steam Room"
     ],
+    "description": "Kohinoor Regalia Towers in Downtown Wakad spans 3.5 acres with 2 premium high-rise towers. Offering 2 & 3 Bed homes with bespoke architecture, coworking hubs, and private movie theatre.",
     "lat": 18.5987,
     "lng": 73.766
   },
@@ -38870,6 +40254,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Fitness Hub & Aerobics Studio",
       "Badminton & Multi-Sport Courts"
     ],
+    "description": "Kohinoor Avantara in Downtown Wakad spans 8.66 acres featuring 8 iconic residential towers. Designed for modern luxury with panoramic podium vistas, smart homes, and unbeatable walkability to high-street retail and schools.",
     "lat": 18.5987,
     "lng": 73.766
   },
@@ -38914,6 +40299,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Ample Multi-Level Car Parking",
       "100% Power Backup & Advanced Fire Safety"
     ],
+    "description": "Kohinoor Business Tower (KBT) at Koregaon Park Annexe / Mundhwa is a Grade-A commercial landmark across 0.92 acres with 16 floors. Featuring double-height air-conditioned lobbies, high-speed elevators, and high rental yield potential.",
     "lat": 18.535,
     "lng": 73.923
   },
@@ -38958,6 +40344,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "High-Speed Smart Elevators",
       "Rooftop Business Sky Lounge"
     ],
+    "description": "Kohinoor Business Tower Baner is an iconic Grade A commercial hub spanning 2.44 acres with 22 floors right on Baner Main Road. Tailored for corporate headquarters, IT conglomerates, and premium retail brands.",
     "lat": 18.559,
     "lng": 73.7868
   },
@@ -39002,6 +40389,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Multi-Tier High-Speed Lift Banks",
       "Integrated Food Court & High-Street Retail"
     ],
+    "description": "Kohinoor World Tower (KWT) in Pimpri is PCMC's premier integrated business destination directly on Old Mumbai-Pune Highway and adjacent to Pimpri Metro Station. Featuring 24 storeys of Grade-A office spaces and bustling high-street retail.",
     "lat": 18.6279,
     "lng": 73.8009
   },
@@ -39041,6 +40429,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "LEED Gold Rated Green Standards",
       "Rooftop Helipad & Sky Lounge"
     ],
+    "description": "Kohinoor World Tower Phase 2 expands the iconic KWT business district across 8.13 acres with 5 state-of-the-art corporate towers, setting a new benchmark for MNC headquarters in Pimpri Chinchwad.",
     "lat": 18.6279,
     "lng": 73.8009
   },
@@ -39091,6 +40480,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Sky Deck Clubhouse",
       "Double-Height Designer Lobby"
     ],
+    "description": "7 Mahalaxmi is Runwal's flagship ultra-luxury residential landmark in South Mumbai offering unhindered, panoramic vistas of the Arabian Sea and the iconic Mahalaxmi Racecourse. Designed for the global elite with sky-lounge amenities, heated infinity pool, and concierge services.",
     "lat": 18.9826,
     "lng": 72.8234
   },
@@ -39141,6 +40531,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Township Living with Retail High-Street",
       "Multi-Tier Sports Arenas"
     ],
+    "description": "Runwal Parkside is situated inside the prestigious 36-acre Runwal City Centre township in Kanjurmarg East. Overlooking sprawling 6-acre central green parklands, it seamlessly marries serene natural landscapes with rapid transit access to JVLR, Eastern Express Highway, and Metro Line 4 & 6.",
     "lat": 19.1306,
     "lng": 72.9348
   },
@@ -39191,6 +40582,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "10 Minutes to BKC via Connector",
       "Sky Gymnasium with Panoramic Skyline Views"
     ],
+    "description": "Runwal Woods Chembur is an oasis of biophilic luxury in one of Mumbai's most strategic central suburbs. Situated minutes from the Eastern Freeway and BKC Connector, it offers serene tree-canopied living with seamless connectivity to South Mumbai and the airport.",
     "lat": 19.0622,
     "lng": 72.8974
   },
@@ -39241,6 +40633,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Proximity to Kanjurmarg Railway Station",
       "Vastu Compliant Floor Layouts"
     ],
+    "description": "Runwal Meadows represents the pinnacle of modern green architecture in Runwal City Centre, Kanjurmarg. Featuring sprawling multi-tiered gardens, expansive sundecks, and curated clubhouse privileges for families seeking a balanced urban retreat.",
     "lat": 19.1298,
     "lng": 72.936
   },
@@ -39285,6 +40678,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Grand Double-Height Entrance Portico",
       "High-Speed Mitsubishi Elevators"
     ],
+    "description": "Runwal Ivory is an exclusive limited-edition high-rise tower on LBS Marg, Mulund West. Designed with lavish 3 & 4 BHK residences offering panoramic views of the Sanjay Gandhi National Park greens on one side and the Mumbai city skyline on the other.",
     "lat": 19.1764,
     "lng": 72.9492
   },
@@ -39335,6 +40729,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "High Ceiling Height of 4.2 Metres",
       "Advanced Destination Controlled Elevators"
     ],
+    "description": "Runwal BKC is a world-class Grade-A commercial landmark in India's premier financial district, Bandra Kurla Complex. Engineered for multinational corporations, fintech headquarters, and luxury consulting firms with column-free floor plates and LEED Platinum sustainability standards.",
     "lat": 19.0657,
     "lng": 72.8687
   },
@@ -39385,6 +40780,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Direct LBS Marg & JVLR Junction Access",
       "Grand Double-Height Corporate Lobby"
     ],
+    "description": "Runwal Commerz is a premier ready-possession business tower in Kanjurmarg West. Situated directly on LBS Marg near JVLR, it provides turnkey, scalable commercial spaces with vibrant retail and dining promenades on the lower concourses.",
     "lat": 19.1285,
     "lng": 72.9312
   },
@@ -39435,6 +40831,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "35,000+ sq.ft Resort Clubhouse",
       "Over 1,500 Happy Families Residing"
     ],
+    "description": "Runwal Greens is a sprawling 22-acre residential enclave in Mulund West. Featuring 7 acres of open green spaces and one of Mumbai's largest residential clubhouses measuring over 35,000 sq.ft, it is the benchmark for ready-possession luxury in the eastern suburbs.",
     "lat": 19.1685,
     "lng": 72.946
   },
@@ -39485,6 +40882,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Curated Luxury Concierge Service",
       "Private Plunge Pools in Select Penthouses"
     ],
+    "description": "Runwal Reserve is an ultra-exclusive super-luxury residential tower situated in Worli, South Mumbai. Overlooking the Bandra-Worli Sea Link and the Arabian Sea, it sets a new pinnacle for elite waterfront living in the maximum city.",
     "lat": 19.0178,
     "lng": 72.8184
   },
@@ -39535,6 +40933,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Multi-Level Automated Parking for 800+ Cars",
       "Central Air-Conditioned Atrium"
     ],
+    "description": "R Mall Mulund is Mumbai's iconic retail and entertainment destination developed by Runwal Group on LBS Marg. Hosting national and international brands, multiplex screens, family entertainment zones, and fine dining, it offers exceptional footfall and commercial yield.",
     "lat": 19.1724,
     "lng": 72.9515
   },
@@ -39585,6 +40984,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Bespoke Italian Marble Interiors",
       "Sky Terrace with Infinity Heated Pool"
     ],
+    "description": "Runwal Malabar is a bespoke super-luxury landmark situated in Malabar Hill, Mumbai's most prestigious and powerful residential pincode. Overlooking the Arabian Sea and the Queen's Necklace, this boutique vertical estate offers private elevators, sprawling sea-view sundecks, and presidential lifestyl",
     "lat": 18.9548,
     "lng": 72.8028
   },
@@ -39635,6 +41035,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Tri-Level Club Raaya",
       "Smart Home Automation by Legrand"
     ],
+    "description": "Runwal Raaya is where royalty resides in the heart of Worli, South Mumbai. Designed with majestic sea-facing suites overlooking the Bandra-Worli Sea Link, it presents an ultra-curated sanctuary of private cabanas, wellness pavilions, and world-class design by international masters.",
     "lat": 19.0142,
     "lng": 72.819
   },
@@ -39684,6 +41085,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Podium Green Amphitheatre",
       "Designer Double-Height Entrance Lobby"
     ],
+    "description": "Runwal Rare is an exclusive residential enclave in the vibrant heart of Andheri West. Offering rare low-density living, lush landscaped podiums, and rapid transit access to Link Road, Western Express Highway, and Metro Lines 2A & 7.",
     "lat": 19.1352,
     "lng": 72.8361
   },
@@ -39734,6 +41136,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "30+ Curated Rooftop & Podium Amenities",
       "Vastu-Aligned Space Planning"
     ],
+    "description": "Runwal Auris is Chembur's newest landmark development delivering curated lifestyle living in one of Mumbai's most connected suburban growth hubs. Minutes from the Eastern Freeway, Monorail, and SCLR, it provides effortless connectivity across Mumbai.",
     "lat": 19.0585,
     "lng": 72.8942
   },
@@ -39783,6 +41186,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Multi-Level Clubhouse with Sky Deck",
       "Zero Space Wastage Floor Layouts"
     ],
+    "description": "Runwal Zenith is a towering architectural marvel in Balkum, Thane West. Designed for aspirational families seeking elevated living, it offers panoramic creek and skyline views, multi-tiered lifestyle avenues, and seamless connectivity to Ghodbunder Road and Majiwada Junction.",
     "lat": 19.2241,
     "lng": 72.9892
   },
@@ -39833,6 +41237,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Grand Clubhouse with 70+ Amenities",
       "Dedicated Children's Sports Academies"
     ],
+    "description": "Runwal Lands End is a waterfront paradise in Kolshet, Thane West. Set against 1,600 acres of natural greenery and creek waters, this riverside sanctuary delivers world-class club recreation, open amphitheatre lawns, and rapid access to Thane's commercial belt.",
     "lat": 19.2312,
     "lng": 72.9984
   },
@@ -39883,6 +41288,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Direct Connection to Eastern Express Highway",
       "Over 50,000 sq.ft of Club Amenities"
     ],
+    "description": "Runwal One is redefining urban luxury at Majiwada Junction, the nerve centre of Thane. Designed for connoisseurs of fine architecture, it features sweeping city views, private sky gardens, and unhindered transit access to Eastern Express Highway, Mumbai, and Navi Mumbai.",
     "lat": 19.2154,
     "lng": 72.9812
   },
@@ -39933,6 +41339,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Grand Double-Height AC Entrance Lobby",
       "High Efficiency Carpet Usability"
     ],
+    "description": "R Square Mulund is an iconic commercial office building situated directly on LBS Marg, Mulund West. Tailored for corporate firms, financial consultancies, IT enterprises, and medical professionals seeking prestigious office addresses with immediate ready possession.",
     "lat": 19.1745,
     "lng": 72.948
   },
@@ -39983,6 +41390,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Metro Line 1 & 7 Interchange Proximity",
       "LEED Compliant Energy Efficient Systems"
     ],
+    "description": "R Square Andheri is a premium Grade-A corporate complex in Andheri East, Mumbai's primary commercial nerve centre. Strategically located near Western Express Highway and Andheri Metro Station, it offers optimal corporate efficiency and international connectivity.",
     "lat": 19.1136,
     "lng": 72.8697
   },
@@ -40027,6 +41435,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Arabian Sea Frontage",
       "Private Chauffeur Quarters"
     ],
+    "description": "The Residence by Runwal is an iconic trophy address on Napean Sea Road, South Mumbai. Overlooking the Arabian Sea, this ultra-exclusive development stands among India's most coveted private estates, offering uncompromised privacy, bespoke concierge amenities, and ocean views.",
     "lat": 18.9612,
     "lng": 72.8012
   },
@@ -40071,6 +41480,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Direct Connectivity to Powai & BKC",
       "Zero GST on Ready Move-in Units"
     ],
+    "description": "Runwal Elina is a well-established ready-possession residential enclave in Sakinaka, Andheri East. Offering immediate move-in homes right next to Sakinaka Metro Station and minutes from the International Airport and Powai business hub.",
     "lat": 19.1024,
     "lng": 72.8834
   },
@@ -40115,6 +41525,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Over 2 Acres of Open Landscaped Orchards",
       "Established Gated Township Security"
     ],
+    "description": "Runwal Orchard Residency is an upscale residential community in Ghatkopar West. Situated near LBS Marg and Ghatkopar Metro Station, it combines ready possession luxury homes with tranquil landscaped orchards and resort clubhouse facilities.",
     "lat": 19.0912,
     "lng": 72.9082
   },
@@ -40165,6 +41576,7 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Ready Possession Homes with OC",
       "Over 75% Open Green Spaces"
     ],
+    "description": "Runwal Eirene: Oasis of Peace is an expansive waterfront residential enclave set across scenic acreage in Balkum, Thane West. Designed for peaceful family living with views of the Yeoor Hills and Ulhas River, complemented by twin clubhouses and 40+ resort amenities.",
     "lat": 19.2268,
     "lng": 72.9915
   },
@@ -40215,7 +41627,2183 @@ export const PROJECT_SUMMARIES: Project[] = [
       "Minutes from Chinchwad Railway Station",
       "Over 50 Resort Lifestyle Amenities"
     ],
+    "description": "Runwal The Central Park is an expansive 26-acre integrated township in Chinchwad, Pune. Centred around massive landscaped urban gardens, it seamlessly combines luxury high-rise homes, retail boulevards, and rapid connectivity to Hinjewadi IT Park and old Mumbai-Pune Highway.",
     "lat": 18.6298,
     "lng": 73.7997
+  },
+  {
+    "id": "mantra-mirari-mundhwa",
+    "title": "Mantra Mirari",
+    "slug": "mantra-mirari-mundhwa",
+    "builderId": "mantra-properties",
+    "location": "Upper Koregaon Park, Mundhwa",
+    "city": "Pune",
+    "priceRange": "₹1.65 Cr - ₹2.85 Cr",
+    "exactPrice": "₹1.65 Cr - ₹2.85 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "3 BHK",
+      "4 BHK",
+      "4.5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1250 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.65 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Signature",
+        "carpetArea": "1780 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹2.35 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4.5 BHK Sky Palace",
+        "carpetArea": "2150 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹2.85 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-mirari-slider-632262703.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-mirari-slider-632262703.webp",
+    "reraId": "P52100030037",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100030037",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Upper Koregaon Park, Mundhwa Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-meridian-balewadi",
+    "title": "Mantra Meridian",
+    "slug": "mantra-meridian-balewadi",
+    "builderId": "mantra-properties",
+    "location": "Balewadi High Street, Balewadi",
+    "city": "Pune",
+    "priceRange": "₹98 L - ₹1.75 Cr",
+    "exactPrice": "₹98 L - ₹1.75 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "785 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹98 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1120 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.35 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Grand",
+        "carpetArea": "1640 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.75 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-meridian-slider-215259293.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-meridian-slider-215259293.webp",
+    "reraId": "P52100045688",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100045688",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Balewadi High Street, Balewadi Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-marquis-jogeshwari",
+    "title": "Mantra Marquis",
+    "slug": "mantra-marquis-jogeshwari",
+    "builderId": "mantra-properties",
+    "location": "Sarvodaya Nagar, Jogeshwari East",
+    "city": "Mumbai",
+    "priceRange": "₹2.10 Cr - ₹3.65 Cr",
+    "exactPrice": "₹2.10 Cr - ₹3.65 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Elite",
+        "carpetArea": "720 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹2.10 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Signature",
+        "carpetArea": "1090 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹2.85 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Iconic",
+        "carpetArea": "1580 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹3.65 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "March 2027",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-marquis-slider-661072372.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-marquis-slider-661072372.webp",
+    "reraId": "P51800001690",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P51800001690",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Sarvodaya Nagar, Jogeshwari East Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-magnus-keshav-nagar",
+    "title": "Mantra Magnus",
+    "slug": "mantra-magnus-keshav-nagar",
+    "builderId": "mantra-properties",
+    "location": "Keshav Nagar, Mundhwa",
+    "city": "Pune",
+    "priceRange": "₹85 L - ₹1.55 Cr",
+    "exactPrice": "₹85 L - ₹1.55 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban",
+        "carpetArea": "760 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹85 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1080 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.18 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Majestic",
+        "carpetArea": "1420 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.55 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2027",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-slider-384624144.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-slider-384624144.webp",
+    "reraId": "P52100054231",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100054231",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Keshav Nagar, Mundhwa Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-magnus-elite-keshav-nagar",
+    "title": "Mantra Magnus Elite",
+    "slug": "mantra-magnus-elite-keshav-nagar",
+    "builderId": "mantra-properties",
+    "location": "Keshav Nagar, Mundhwa",
+    "city": "Pune",
+    "priceRange": "₹1.25 Cr - ₹1.95 Cr",
+    "exactPrice": "₹1.25 Cr - ₹1.95 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Elite",
+        "carpetArea": "1120 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.25 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Royal",
+        "carpetArea": "1550 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.95 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "New Launch",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-elite-slider-887651390.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-elite-slider-887651390.webp",
+    "reraId": "P52100055623",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100055623",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Keshav Nagar, Mundhwa Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-mesmer-keshav-nagar",
+    "title": "Mantra Mesmer",
+    "slug": "mantra-mesmer-keshav-nagar",
+    "builderId": "mantra-properties",
+    "location": "Keshav Nagar, Mundhwa",
+    "city": "Pune",
+    "priceRange": "₹72 L - ₹1.28 Cr",
+    "exactPrice": "₹72 L - ₹1.28 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "680 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹72 L (Final All-Inclusive)"
+      },
+      {
+        "type": "2 BHK Large",
+        "carpetArea": "790 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹84 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1150 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.28 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-mesmer-slider-274726269.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-mesmer-slider-274726269.webp",
+    "reraId": "P52100030387",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100030387",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Keshav Nagar, Mundhwa Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-meraki-akurdi",
+    "title": "Mantra Meraki",
+    "slug": "mantra-meraki-akurdi",
+    "builderId": "mantra-properties",
+    "location": "Akurdi, PCMC",
+    "city": "Pune",
+    "priceRange": "₹89 L - ₹1.98 Cr",
+    "exactPrice": "₹89 L - ₹1.98 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK",
+      "4.5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Smart",
+        "carpetArea": "790 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹89 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1140 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.29 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Supreme",
+        "carpetArea": "1620 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.72 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4.5 BHK Duplex",
+        "carpetArea": "1880 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.98 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2026",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-meraki-slider-941745527.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-meraki-slider-941745527.webp",
+    "reraId": "P52100030518",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100030518",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Akurdi, PCMC Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-monarch-balewadi",
+    "title": "Mantra Monarch",
+    "slug": "mantra-monarch-balewadi",
+    "builderId": "mantra-properties",
+    "location": "Balewadi",
+    "city": "Pune",
+    "priceRange": "₹95 L - ₹1.45 Cr",
+    "exactPrice": "₹95 L - ₹1.45 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "740 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹95 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Grand",
+        "carpetArea": "1180 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.45 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-monarch-slider-594773450.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-monarch-slider-594773450.webp",
+    "reraId": "P52100023453",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100023453",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Balewadi Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-melange-sopan-baug",
+    "title": "Mantra Melange",
+    "slug": "mantra-melange-sopan-baug",
+    "builderId": "mantra-properties",
+    "location": "BT Kawade Road, Sopan Baug Annexe",
+    "city": "Pune",
+    "priceRange": "₹92 L - ₹1.58 Cr",
+    "exactPrice": "₹92 L - ₹1.58 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "750 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹92 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1250 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.58 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://www.mantraproperties.in/assets/images/properties/codename-joypin-kharadi-slider-136697916.png",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/codename-joypin-kharadi-slider-136697916.png",
+    "reraId": "P52100079582",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100079582",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent BT Kawade Road, Sopan Baug Annexe Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-mistara-wagholi",
+    "title": "Mantra Mistara",
+    "slug": "mantra-mistara-wagholi",
+    "builderId": "mantra-properties",
+    "location": "Kharadi Annexe, Wagholi",
+    "city": "Pune",
+    "priceRange": "₹58 L - ₹95 L",
+    "exactPrice": "₹58 L - ₹95 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Modern",
+        "carpetArea": "670 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹58 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Spacious",
+        "carpetArea": "1090 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹95 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "New Launch",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-sus-slider-627437384.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-sus-slider-627437384.webp",
+    "reraId": "PR1261012600816",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: PR1261012600816",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Kharadi Annexe, Wagholi Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-insignia-keshav-nagar",
+    "title": "Mantra Insignia",
+    "slug": "mantra-insignia-keshav-nagar",
+    "builderId": "mantra-properties",
+    "location": "Keshav Nagar, Mundhwa",
+    "city": "Pune",
+    "priceRange": "₹78 L - ₹1.18 Cr",
+    "exactPrice": "₹78 L - ₹1.18 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Classic",
+        "carpetArea": "710 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹78 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Elite",
+        "carpetArea": "1140 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.18 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-insignia-slider-85813414.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-insignia-slider-85813414.webp",
+    "reraId": "P52100026580",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100026580",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Keshav Nagar, Mundhwa Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-montana-dhanori",
+    "title": "Mantra Montana",
+    "slug": "mantra-montana-dhanori",
+    "builderId": "mantra-properties",
+    "location": "Dhanori",
+    "city": "Pune",
+    "priceRange": "₹62 L - ₹98 L",
+    "exactPrice": "₹62 L - ₹98 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Hillview",
+        "carpetArea": "680 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹62 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Panoramic",
+        "carpetArea": "1120 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹98 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-montana-slider-315229266.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-montana-slider-315229266.webp",
+    "reraId": "P52100019684",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100019684",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Dhanori Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-99-riverfront-baner",
+    "title": "Mantra 99 Riverfront",
+    "slug": "mantra-99-riverfront-baner",
+    "builderId": "mantra-properties",
+    "location": "Baner",
+    "city": "Pune",
+    "priceRange": "₹1.45 Cr - ₹1.95 Cr",
+    "exactPrice": "₹1.45 Cr - ₹1.95 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Riverfront Residence",
+        "carpetArea": "1040 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.45 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Grand Decks",
+        "carpetArea": "1450 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.95 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-99-riverfront-slider-623203766.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-99-riverfront-slider-623203766.webp",
+    "reraId": "P52100019974",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100019974",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Baner Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-29-gold-coast-tingre-nagar",
+    "title": "Mantra 29 Gold Coast",
+    "slug": "mantra-29-gold-coast-tingre-nagar",
+    "builderId": "mantra-properties",
+    "location": "Tingre Nagar / Dhanori",
+    "city": "Pune",
+    "priceRange": "₹65 L - ₹1.08 Cr",
+    "exactPrice": "₹65 L - ₹1.08 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Coastline",
+        "carpetArea": "720 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹65 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Coastal Grand",
+        "carpetArea": "1180 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.08 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-29-gold-coast-slider-449131139.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-29-gold-coast-slider-449131139.webp",
+    "reraId": "P52100002674",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100002674",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Tingre Nagar / Dhanori Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-24-west-gahunje",
+    "title": "Mantra 24 West",
+    "slug": "mantra-24-west-gahunje",
+    "builderId": "mantra-properties",
+    "location": "Gahunje, Hinjewadi Extension",
+    "city": "Pune",
+    "priceRange": "₹42 L - ₹68 L",
+    "exactPrice": "₹42 L - ₹68 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Smart",
+        "carpetArea": "480 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹42 L (Final All-Inclusive)"
+      },
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "790 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹68 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-24-west-slider-445096859.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-24-west-slider-445096859.webp",
+    "reraId": "P52100001260",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100001260",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Gahunje, Hinjewadi Extension Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-parkview-dhayari",
+    "title": "Mantra Parkview",
+    "slug": "mantra-parkview-dhayari",
+    "builderId": "mantra-properties",
+    "location": "Dhayari, Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹55 L - ₹88 L",
+    "exactPrice": "₹55 L - ₹88 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Gardenview",
+        "carpetArea": "690 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹55 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Panoramic",
+        "carpetArea": "1080 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹88 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-parkview-slider-602156130.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-parkview-slider-602156130.webp",
+    "reraId": "P52100016922",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100016922",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Dhayari, Sinhagad Road Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-grandstand-trinity-kothrud",
+    "title": "Mantra Grandstand Trinity",
+    "slug": "mantra-grandstand-trinity-kothrud",
+    "builderId": "mantra-properties",
+    "location": "Kothrud Annexe",
+    "city": "Pune",
+    "priceRange": "₹1.35 Cr - ₹1.85 Cr",
+    "exactPrice": "₹1.35 Cr - ₹1.85 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Prime",
+        "carpetArea": "1100 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.35 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Grand Deluxe",
+        "carpetArea": "1480 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.85 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-grandstand-trinity-slider-48367243.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-grandstand-trinity-slider-48367243.webp",
+    "reraId": "P52100020513",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100020513",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Kothrud Annexe Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-moments-moshi",
+    "title": "Mantra Moments",
+    "slug": "mantra-moments-moshi",
+    "builderId": "mantra-properties",
+    "location": "Moshi, PCMC",
+    "city": "Pune",
+    "priceRange": "₹52 L - ₹78 L",
+    "exactPrice": "₹52 L - ₹78 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Lifestyle",
+        "carpetArea": "670 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹52 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Community",
+        "carpetArea": "1050 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹78 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-moments-slider-471018251.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-moments-slider-471018251.webp",
+    "reraId": "P52100000094",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100000094",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Moshi, PCMC Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-magic-chikhali",
+    "title": "Mantra Magic",
+    "slug": "mantra-magic-chikhali",
+    "builderId": "mantra-properties",
+    "location": "Chikhali / Moshi, PCMC",
+    "city": "Pune",
+    "priceRange": "₹38 L - ₹58 L",
+    "exactPrice": "₹38 L - ₹58 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Smart",
+        "carpetArea": "450 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹38 L (Final All-Inclusive)"
+      },
+      {
+        "type": "2 BHK Family",
+        "carpetArea": "750 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹58 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-magic-slider-722351884.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-magic-slider-722351884.webp",
+    "reraId": "P52100000137",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100000137",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Chikhali / Moshi, PCMC Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-city-360-talegaon",
+    "title": "Mantra City 360",
+    "slug": "mantra-city-360-talegaon",
+    "builderId": "mantra-properties",
+    "location": "Talegaon Dabhade",
+    "city": "Pune",
+    "priceRange": "₹32 L - ₹52 L",
+    "exactPrice": "₹32 L - ₹52 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Township",
+        "carpetArea": "460 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹32 L (Final All-Inclusive)"
+      },
+      {
+        "type": "2 BHK Township",
+        "carpetArea": "720 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹52 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-city-360-slider-400890579.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-city-360-slider-400890579.webp",
+    "reraId": "P52100001846",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100001846",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Talegaon Dabhade Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-divine-dongargaon",
+    "title": "Mantra Divine",
+    "slug": "mantra-divine-dongargaon",
+    "builderId": "mantra-properties",
+    "location": "Wagholi Annexe / Dongargaon",
+    "city": "Pune",
+    "priceRange": "₹36 L - ₹56 L",
+    "exactPrice": "₹36 L - ₹56 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "1 BHK",
+      "2 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Serenity",
+        "carpetArea": "490 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹36 L (Final All-Inclusive)"
+      },
+      {
+        "type": "2 BHK Harmony",
+        "carpetArea": "760 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹56 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-divine-slider-438572572.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-divine-slider-438572572.webp",
+    "reraId": "P52100004781",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100004781",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Wagholi Annexe / Dongargaon Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-7-hills-kirkatwadi",
+    "title": "Mantra 7 Hills",
+    "slug": "mantra-7-hills-kirkatwadi",
+    "builderId": "mantra-properties",
+    "location": "Kirkatwadi, Sinhagad Road",
+    "city": "Pune",
+    "priceRange": "₹35 L - ₹68 L",
+    "exactPrice": "₹35 L - ₹68 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Valley",
+        "carpetArea": "460 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹35 L (Final All-Inclusive)"
+      },
+      {
+        "type": "2 BHK Mountain",
+        "carpetArea": "740 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹52 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Ridge",
+        "carpetArea": "980 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹68 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-7-hills-slider-426272996.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-7-hills-slider-426272996.webp",
+    "reraId": "P52100001182",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100001182",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Kirkatwadi, Sinhagad Road Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-residency-chakan",
+    "title": "Mantra Residency",
+    "slug": "mantra-residency-chakan",
+    "builderId": "mantra-properties",
+    "location": "Nighoje, Chakan Corridor",
+    "city": "Pune",
+    "priceRange": "₹31 L - ₹62 L",
+    "exactPrice": "₹31 L - ₹62 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "1 BHK",
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "1 BHK Smart",
+        "carpetArea": "470 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹31 L (Final All-Inclusive)"
+      },
+      {
+        "type": "2 BHK Family",
+        "carpetArea": "720 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹48 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Master",
+        "carpetArea": "920 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹62 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-residency-slider-667489225.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-residency-slider-667489225.webp",
+    "reraId": "P52100001165",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100001165",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Nighoje, Chakan Corridor Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-essence-undri",
+    "title": "Mantra Essence",
+    "slug": "mantra-essence-undri",
+    "builderId": "mantra-properties",
+    "location": "Undri, South Pune",
+    "city": "Pune",
+    "priceRange": "₹56 L - ₹89 L",
+    "exactPrice": "₹56 L - ₹89 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Garden",
+        "carpetArea": "680 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹56 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Deluxe",
+        "carpetArea": "1090 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹89 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Residential",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-essence-slider-999402031.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-essence-slider-999402031.webp",
+    "reraId": "P52100001157",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100001157",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Undri, South Pune Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-essence-plots-undri",
+    "title": "Mantra Essence Plots",
+    "slug": "mantra-essence-plots-undri",
+    "builderId": "mantra-properties",
+    "location": "Undri, South Pune",
+    "city": "Pune",
+    "priceRange": "₹48 L - ₹1.15 Cr",
+    "exactPrice": "₹48 L - ₹1.15 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "Villa Plots"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Villa Plot 1500",
+        "carpetArea": "1500 sq.ft. (Sanctioned Plot Area)",
+        "priceRange": "₹48 L (Final All-Inclusive)"
+      },
+      {
+        "type": "Villa Plot 2400",
+        "carpetArea": "2400 sq.ft. (Sanctioned Plot Area)",
+        "priceRange": "₹78 L (Final All-Inclusive)"
+      },
+      {
+        "type": "Estate Plot 3500",
+        "carpetArea": "3500 sq.ft. (Sanctioned Plot Area)",
+        "priceRange": "₹1.15 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Ready to Move",
+    "type": "Plot",
+    "possessionDate": "Ready To Move",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-essence-plots-slider-86733874.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-essence-plots-slider-86733874.webp",
+    "reraId": "P52100001796",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100001796",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Undri, South Pune Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "one-residences-burgundy-magarpatta",
+    "title": "One Residences by Burgundy",
+    "slug": "one-residences-burgundy-magarpatta",
+    "builderId": "mantra-properties",
+    "location": "Magarpatta / Keshav Nagar",
+    "city": "Pune",
+    "priceRange": "₹2.40 Cr - ₹4.10 Cr",
+    "exactPrice": "₹2.40 Cr - ₹4.10 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "3.5 BHK",
+      "4 BHK",
+      "4.5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3.5 BHK Palace",
+        "carpetArea": "1680 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹2.40 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "2250 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹3.25 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4.5 BHK Penthouse",
+        "carpetArea": "2850 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹4.10 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://www.mantraproperties.in/assets/images/properties/1-residences-burgundy-intro-26600773.png",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/1-residences-burgundy-intro-26600773.png",
+    "reraId": "P52100066482",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100066482",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Magarpatta / Keshav Nagar Connectivity"
+    ],
+    "description": "About Mantra: We follow a simple Mantra... continuous innovation brings continuous success.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mayfair-river-residences-burgundy-mundhwa",
+    "title": "Mayfair River Residences by Burgundy",
+    "slug": "mayfair-river-residences-burgundy-mundhwa",
+    "builderId": "mantra-properties",
+    "location": "Mundhwa Riverside / Kharadi",
+    "city": "Pune",
+    "priceRange": "₹1.95 Cr - ₹3.40 Cr",
+    "exactPrice": "₹1.95 Cr - ₹3.40 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Riverside Grand",
+        "carpetArea": "1450 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.95 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Riverfront Estate",
+        "carpetArea": "2350 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹3.40 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://www.mantraproperties.in/assets/images/properties/1742478533724-863336114.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/1742478533724-863336114.webp",
+    "reraId": "P52100079077",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100079077",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Mundhwa Riverside / Kharadi Connectivity"
+    ],
+    "description": "About Mantra: We follow a simple Mantra... continuous innovation brings continuous success.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mansion-by-burgundy-keshav-nagar",
+    "title": "Mansion by Burgundy",
+    "slug": "mansion-by-burgundy-keshav-nagar",
+    "builderId": "mantra-properties",
+    "location": "Keshav Nagar / Magarpatta",
+    "city": "Pune",
+    "priceRange": "₹3.20 Cr - ₹5.50 Cr",
+    "exactPrice": "₹3.20 Cr - ₹5.50 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK Sky Mansion",
+        "carpetArea": "2200 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹3.20 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "5 BHK Imperial Mansion",
+        "carpetArea": "3600 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹5.50 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "New Launch",
+    "type": "Residential",
+    "possessionDate": "March 2028",
+    "image": "https://www.mantraproperties.in/assets/images/properties/1791209446652-296382042.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/1791209446652-296382042.webp",
+    "reraId": "PM1260002601823",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: PM1260002601823",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Keshav Nagar / Magarpatta Connectivity"
+    ],
+    "description": "About Mantra: We follow a simple Mantra... continuous innovation brings continuous success.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "marvilla-by-burgundy-wagholi",
+    "title": "Marvilla by Burgundy",
+    "slug": "marvilla-by-burgundy-wagholi",
+    "builderId": "mantra-properties",
+    "location": "Wagholi / Keshav Nagar",
+    "city": "Pune",
+    "priceRange": "₹3.80 Cr - ₹6.50 Cr",
+    "exactPrice": "₹3.80 Cr - ₹6.50 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "4 BHK",
+      "5 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "4 BHK Luxury Villa",
+        "carpetArea": "2400 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹3.80 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "5 BHK Estate Villa",
+        "carpetArea": "4100 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹6.50 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-marvilla-burgundy-intro-671165738.png",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-marvilla-burgundy-intro-671165738.png",
+    "reraId": "P52100054742",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100054742",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Wagholi / Keshav Nagar Connectivity"
+    ],
+    "description": "About Mantra: We follow a simple Mantra... continuous innovation brings continuous success.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "mantra-business-centre-mundhwa",
+    "title": "Mantra Business Centre (MBC)",
+    "slug": "mantra-business-centre-mundhwa",
+    "builderId": "mantra-properties",
+    "location": "Upper Koregaon Park, Mundhwa",
+    "city": "Pune",
+    "priceRange": "₹68 L - ₹3.50 Cr",
+    "exactPrice": "₹68 L - ₹3.50 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "Boutique Offices",
+      "Retail Showrooms"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Boutique Office Suite",
+        "carpetArea": "450 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹68 L (Final All-Inclusive)"
+      },
+      {
+        "type": "Corporate Floorplate",
+        "carpetArea": "1250 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.85 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "High-Street Retail Store",
+        "carpetArea": "2400 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹3.50 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Commercial",
+    "possessionDate": "December 2026",
+    "image": "https://www.mantraproperties.in/assets/images/properties/mantra-business-centre-slider-830756262.webp",
+    "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-business-centre-slider-830756262.webp",
+    "reraId": "P52100030995",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "Verified MahaRERA Registration: P52100030995",
+      "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed",
+      "Prominent Upper Koregaon Park, Mundhwa Connectivity"
+    ],
+    "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "the-crown-majestique-gultekdi",
+    "title": "The Crown by Majestique",
+    "slug": "the-crown-majestique-gultekdi",
+    "builderId": "majestique-landmarks",
+    "location": "Near 7 Loves Chowk, Gultekdi / Market Yard",
+    "city": "Pune",
+    "priceRange": "₹1.95 Cr - ₹3.40 Cr",
+    "exactPrice": "₹1.95 Cr - ₹3.40 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Palatial",
+        "carpetArea": "1350 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.95 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Presidential",
+        "carpetArea": "2250 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹3.40 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://the-crown.majestiquelandmarks.com/assets/crown_desktop_v3.jpeg",
+    "heroImage": "https://the-crown.majestiquelandmarks.com/assets/crown_desktop_v3.jpeg",
+    "reraId": "P52100054379",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100054379",
+      "100% Final All-Inclusive Price - Zero Extra Registration or Tax Breakup",
+      "Cumulative Usable Carpet Area Guaranteed (Zero Balcony Split)",
+      "Prime Gultekdi Market Yard Address with 7 Loves Chowk Access"
+    ],
+    "description": "The Crown by Majestique is a crowning architectural jewel located near 7 Loves Chowk, Gultekdi, offering palatial 3 & 4 BHK residences with single-unit privacy, panoramic city views, and bank-grade legal title under MahaRERA registration P52100054379. Enforces strictly unified Final All-Inclusive pr",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-signature-towers-balewadi",
+    "title": "Majestique Signature Towers",
+    "slug": "majestique-signature-towers-balewadi",
+    "builderId": "majestique-landmarks",
+    "location": "Balewadi High Street, Balewadi",
+    "city": "Pune",
+    "priceRange": "₹1.05 Cr - ₹1.68 Cr",
+    "exactPrice": "₹1.05 Cr - ₹1.68 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Luxury",
+        "carpetArea": "760 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.05 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Signature",
+        "carpetArea": "1180 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.68 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2026",
+    "image": "https://signaturetowers.majestiquelandmarks.com/Signature%20Towers%20by%20Majestique_files/hero-diwali-desktop.webp",
+    "heroImage": "https://signaturetowers.majestiquelandmarks.com/Signature%20Towers%20by%20Majestique_files/hero-diwali-desktop.webp",
+    "reraId": "P52100046445",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100046445 / P52100047314",
+      "100% Final All-Inclusive Price - Zero Hidden Taxes",
+      "Cumulative Usable Carpet Area without Balcony Subtractions",
+      "Immediate Access to Balewadi High Street Dining & Retail"
+    ],
+    "description": "Majestique Signature Towers represents luxury residential living right on the vibrant Balewadi High Street corridor. Featuring meticulously crafted 2 & 3 BHK residences with expansive living decks, floor-to-ceiling glass fenestration, and direct expressway connectivity under MahaRERA registration P5",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "27-grand-residences-balewadi",
+    "title": "27 Grand Residences by Majestique",
+    "slug": "27-grand-residences-balewadi",
+    "builderId": "majestique-landmarks",
+    "location": "Balewadi",
+    "city": "Pune",
+    "priceRange": "₹98 L - ₹1.58 Cr",
+    "exactPrice": "₹98 L - ₹1.58 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "780 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹98 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Elite",
+        "carpetArea": "1220 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.58 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://signaturetowers.majestiquelandmarks.com/Signature%20Towers%20by%20Majestique_files/hero-diwali-desktop.webp",
+    "heroImage": "https://signaturetowers.majestiquelandmarks.com/Signature%20Towers%20by%20Majestique_files/hero-diwali-desktop.webp",
+    "reraId": "P52100047314",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100047314",
+      "Strictly Final All-Inclusive Price (Zero Breakup)",
+      "Cumulative Carpet Area Enforced with No Separate Balcony Deductions",
+      "5 Minutes from Baner-Balewadi Metro Station"
+    ],
+    "description": "27 Grand Residences brings elevated contemporary architecture to Balewadi. Offering smart, high-utility 2 & 3 BHK homes equipped with premium branded specifications, landscaped recreational terraces, and comprehensive statutory approvals under MahaRERA registration P52100047314.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-evolvus-central-kharadi",
+    "title": "Majestique Evolvus",
+    "slug": "majestique-evolvus-central-kharadi",
+    "builderId": "majestique-landmarks",
+    "location": "Central Kharadi",
+    "city": "Pune",
+    "priceRange": "₹92 L - ₹2.10 Cr",
+    "exactPrice": "₹92 L - ₹2.10 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Urban Comfort",
+        "carpetArea": "790 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹92 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Luxury Grande",
+        "carpetArea": "1180 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.48 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Signature Palace",
+        "carpetArea": "1650 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹2.10 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://evolvus.majestiquelandmarks.com/assets/evolvus_hero_desktop.jpg",
+    "heroImage": "https://evolvus.majestiquelandmarks.com/assets/evolvus_hero_desktop.jpg",
+    "reraId": "P52100054253",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100054253 / P52100056143",
+      "100% Final All-Inclusive Price - Zero Surprises",
+      "Total Usable Cumulative Carpet Area Measurement",
+      "Direct Road Connectivity to World Trade Center & EON Free Zone"
+    ],
+    "description": "Majestique Evolvus is a landmark mixed-use residential and commercial master-community in the beating heart of Central Kharadi. Offering 2, 3 & 4 BHK residences with state-of-the-art podium amenities, pedestrian boulevards, and immediate proximity to EON IT Park under MahaRERA registration P52100054",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-towers-kharadi",
+    "title": "Majestique Towers 2.0",
+    "slug": "majestique-towers-kharadi",
+    "builderId": "majestique-landmarks",
+    "location": "Near EON IT Park & WTC, Kharadi",
+    "city": "Pune",
+    "priceRange": "₹86 L - ₹1.45 Cr",
+    "exactPrice": "₹86 L - ₹1.45 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "740 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹86 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Grande",
+        "carpetArea": "1190 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.45 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://towers.majestiquelandmarks.com/assets/images/hero-desktop-v2.webp",
+    "heroImage": "https://towers.majestiquelandmarks.com/assets/images/hero-desktop-v2.webp",
+    "reraId": "P52100053786",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100053786 / PR1260002600313",
+      "Single Unified Final All-Inclusive Price",
+      "Full Cumulative Carpet Area Guaranteed with Zero Balcony Deductions",
+      "2 Minutes to World Trade Center Kharadi"
+    ],
+    "description": "Majestique Towers 2.0 redefines elevated urban living in Kharadi. Strategically positioned next to EON IT Park, this development features modern 2 & 3 BHK homes, an elevated skybridge, podium sports arenas, and verified statutory compliance across MahaRERA numbers P52100053786, P52100078306, and Mah",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-marbella-kharadi",
+    "title": "Majestique Marbella",
+    "slug": "majestique-marbella-kharadi",
+    "builderId": "majestique-landmarks",
+    "location": "Central Kharadi",
+    "city": "Pune",
+    "priceRange": "₹82 L - ₹1.35 Cr",
+    "exactPrice": "₹82 L - ₹1.35 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "720 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹82 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1140 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.35 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "June 2026",
+    "image": "https://towers.majestiquelandmarks.com/assets/images/hero-desktop-v2.webp",
+    "heroImage": "https://towers.majestiquelandmarks.com/assets/images/hero-desktop-v2.webp",
+    "reraId": "P52100032450",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100032450 / P52100051012",
+      "100% Final All-Inclusive Price Transparency",
+      "Cumulative Usable Carpet Area without Structural Deductions",
+      "Spanish Courtyard & Cascading Water Features"
+    ],
+    "description": "Majestique Marbella is an exquisite Spanish-inspired gated residential sanctuary in Central Kharadi. Featuring spacious 2 & 3 BHK apartments, grand courtyards, and seamless connectivity to Nagar Road and Magarpatta under MahaRERA registration P52100032450 and P52100051012.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-aravali-warje-kothrud-nxt",
+    "title": "Majestique Aravali",
+    "slug": "majestique-aravali-warje-kothrud-nxt",
+    "builderId": "majestique-landmarks",
+    "location": "Warje, Kothrud NXT",
+    "city": "Pune",
+    "priceRange": "₹79 L - ₹1.28 Cr",
+    "exactPrice": "₹79 L - ₹1.28 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Valley View",
+        "carpetArea": "710 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹79 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Panoramic",
+        "carpetArea": "1080 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.28 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2027",
+    "image": "https://aravali.majestiquelandmarks.com/Aravali_files/hero-desktop_v1.jpg",
+    "heroImage": "https://aravali.majestiquelandmarks.com/Aravali_files/hero-desktop_v1.jpg",
+    "reraId": "P52100055877",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100055877",
+      "Final All-Inclusive Pricing - Zero Stamp Duty / Tax Surprises",
+      "Full Cumulative Carpet Area Enforced with Zero Balcony Deductions",
+      "Unobstructed Panoramic Hill Views of Kothrud NXT"
+    ],
+    "description": "Majestique Aravali blends luxury urban living with the tranquil backdrop of the Western Ghat hills in Warje, Kothrud NXT. Features 2 & 3 BHK residences with pure mountain ventilation, direct access to the Mumbai-Bengaluru Highway, and certified legal title under MahaRERA registration P52100055877.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-rhythm-county-handewadi-hadapsar",
+    "title": "Majestique Rhythm County",
+    "slug": "majestique-rhythm-county-handewadi-hadapsar",
+    "builderId": "majestique-landmarks",
+    "location": "Hadapsar-Handewadi Road",
+    "city": "Pune",
+    "priceRange": "₹58 L - ₹95 L",
+    "exactPrice": "₹58 L - ₹95 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Lifestyle",
+        "carpetArea": "680 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹58 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Grand Family",
+        "carpetArea": "1060 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹95 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://rhythmcounty.majestiquelandmarks.com/assets/images/hero-rhythm-desktop_v1.jpg",
+    "heroImage": "https://rhythmcounty.majestiquelandmarks.com/assets/images/hero-rhythm-desktop_v1.jpg",
+    "reraId": "P52100054338",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100054338 / PR1260002501002",
+      "100% Final All-Inclusive Price Guarantee",
+      "Cumulative Usable Carpet Area without Balcony Subtractions",
+      "15 Minutes to Magarpatta Cybercity & SP Infocity"
+    ],
+    "description": "Majestique Rhythm County is a vibrant gated residential community located on the thriving Hadapsar-Handewadi corridor. Features well-ventilated 2 & 3 BHK homes, sprawling sports courts, and verified regulatory filings under MahaRERA registration P52100054338 and MahaRERA 2.0 PR1260002501002.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-ephelia-nibm-annexe",
+    "title": "Majestique Ephelia",
+    "slug": "majestique-ephelia-nibm-annexe",
+    "builderId": "majestique-landmarks",
+    "location": "Central NIBM Annexe",
+    "city": "Pune",
+    "priceRange": "₹78 L - ₹1.65 Cr",
+    "exactPrice": "₹78 L - ₹1.65 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Classic",
+        "carpetArea": "750 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹78 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1120 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.25 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Grand",
+        "carpetArea": "1520 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.65 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://the-crown.majestiquelandmarks.com/assets/crown_desktop_v3.jpeg",
+    "heroImage": "https://the-crown.majestiquelandmarks.com/assets/crown_desktop_v3.jpeg",
+    "reraId": "P52100051801",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100051801",
+      "Single Final All-Inclusive On-Road Price",
+      "Full Cumulative Carpet Area Measurement without Balcony Deductions",
+      "Adjacent to South Pune High-Street Retail & Top Schools"
+    ],
+    "description": "Majestique Ephelia is a premier residential landmark in Central NIBM Annexe, offering spacious 2, 3 & 4 BHK apartments surrounded by South Pune greenery, prestigious schools, and vibrant cafes under MahaRERA registration P52100051801. Guaranteed single final all-inclusive pricing with zero tax surpr",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-krutarth-bibwewadi",
+    "title": "Majestique Krutarth",
+    "slug": "majestique-krutarth-bibwewadi",
+    "builderId": "majestique-landmarks",
+    "location": "Bibwewadi / Market Yard",
+    "city": "Pune",
+    "priceRange": "₹1.55 Cr - ₹2.65 Cr",
+    "exactPrice": "₹1.55 Cr - ₹2.65 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "3 BHK Heritage",
+        "carpetArea": "1180 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.55 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Aristocrat",
+        "carpetArea": "1850 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹2.65 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2028",
+    "image": "https://the-crown.majestiquelandmarks.com/assets/crown_desktop_v3.jpeg",
+    "heroImage": "https://the-crown.majestiquelandmarks.com/assets/crown_desktop_v3.jpeg",
+    "reraId": "PR1260002500803",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA 2.0 Registration: PR1260002500803",
+      "100% Final All-Inclusive Price - Zero Extra Charges",
+      "Full Cumulative Carpet Area Guaranteed with Zero Balcony Deductions",
+      "Prime Established Central Pune Neighborhood"
+    ],
+    "description": "Majestique Krutarth is a prestigious residential redevelopment enclave in Bibwewadi, near Market Yard. Offering bespoke 3 & 4 BHK homes with advanced smart automation, expansive floorplans, and certified MahaRERA 2.0 registration PR1260002500803.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "38-park-majestique-undri",
+    "title": "38 Park Majestique",
+    "slug": "38-park-majestique-undri",
+    "builderId": "majestique-landmarks",
+    "location": "Undri, South Pune",
+    "city": "Pune",
+    "priceRange": "₹55 L - ₹92 L",
+    "exactPrice": "₹55 L - ₹92 L (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Comfort",
+        "carpetArea": "690 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹55 L (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1090 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹92 L (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2026",
+    "image": "https://the-crown.majestiquelandmarks.com/assets/crown_desktop_v3.jpeg",
+    "heroImage": "https://the-crown.majestiquelandmarks.com/assets/crown_desktop_v3.jpeg",
+    "reraId": "P52100046281",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100046281",
+      "Final All-Inclusive Pricing - 100% Tax Transparency",
+      "Full Cumulative Carpet Area Measurement without Balcony Splits",
+      "Walking Distance to The Bishop’s School & DPS"
+    ],
+    "description": "38 Park Majestique is a sprawling nature-centric township development in Undri, South Pune. Offering ongoing Phase 5 apartments with verdant forest views, clubhouse amenities, and clear statutory approvals under MahaRERA registration P52100046281.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-new-friends-kothrud",
+    "title": "Majestique New Friends",
+    "slug": "majestique-new-friends-kothrud",
+    "builderId": "majestique-landmarks",
+    "location": "Vanaz Corner, Paud Road, Kothrud",
+    "city": "Pune",
+    "priceRange": "₹1.35 Cr - ₹2.85 Cr",
+    "exactPrice": "₹1.35 Cr - ₹2.85 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ],
+    "configurationDetails": [
+      {
+        "type": "2 BHK Prime",
+        "carpetArea": "820 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.35 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1250 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.98 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "4 BHK Signature",
+        "carpetArea": "1750 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹2.85 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Residential",
+    "possessionDate": "December 2028",
+    "image": "https://kothrudcentralmall.majestiquelandmarks.com/assets/images/KCM_Desktop.jpeg",
+    "heroImage": "https://kothrudcentralmall.majestiquelandmarks.com/assets/images/KCM_Desktop.jpeg",
+    "reraId": "P52100055935",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100055935",
+      "100% Final All-Inclusive Price - Zero Hidden Taxes",
+      "Cumulative Usable Carpet Area without Balcony Subtractions",
+      "Right Opposite Vanaz Metro Station on Paud Road"
+    ],
+    "description": "Majestique New Friends is an elite high-rise residential redevelopment project situated right at Vanaz Corner on Paud Road, Kothrud. Features 2, 3 & 4 BHK apartments directly connected to the Vanaz Metro Station, with bank-grade legal due-diligence under MahaRERA registration P52100055935.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kothrud-central-mall-paud-road",
+    "title": "Kothrud Central Mall (KCM)",
+    "slug": "kothrud-central-mall-paud-road",
+    "builderId": "majestique-landmarks",
+    "location": "Vanaz Metro Station, Paud Road, Kothrud",
+    "city": "Pune",
+    "priceRange": "₹75 L - ₹6.50 Cr",
+    "exactPrice": "₹75 L - ₹6.50 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "Retail Showrooms",
+      "Anchor Stores",
+      "Multiplex & Food Courts"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Boutique High-Street Shop",
+        "carpetArea": "350 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹75 L (Final All-Inclusive)"
+      },
+      {
+        "type": "Retail Showroom Suite",
+        "carpetArea": "1250 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹2.65 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "Anchor Brand Flagship Store",
+        "carpetArea": "4500 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹6.50 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Commercial",
+    "possessionDate": "December 2028",
+    "image": "https://kothrudcentralmall.majestiquelandmarks.com/assets/images/KCM_Desktop.jpeg",
+    "heroImage": "https://kothrudcentralmall.majestiquelandmarks.com/assets/images/KCM_Desktop.jpeg",
+    "reraId": "P52100055935",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100055935",
+      "100% Final All-Inclusive Price - Zero Tax Surcharges",
+      "Full Cumulative Carpet Area Measurement Guaranteed",
+      "Direct Skywalk Access from Vanaz Metro Station"
+    ],
+    "description": "Kothrud Central Mall (KCM) is an upcoming iconic retail and entertainment destination by Majestique Landmarks at Vanaz Corner, Kothrud. Positioned along the high-traffic Paud Road metro corridor, offering multi-level retail showrooms, food courts, and anchor spaces under MahaRERA registration P52100",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-evolvus-commercial-kharadi",
+    "title": "Majestique Evolvus Business & Retail Plaza",
+    "slug": "majestique-evolvus-commercial-kharadi",
+    "builderId": "majestique-landmarks",
+    "location": "Central Kharadi IT Corridor",
+    "city": "Pune",
+    "priceRange": "₹65 L - ₹3.80 Cr",
+    "exactPrice": "₹65 L - ₹3.80 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "Boutique IT Offices",
+      "High-Street Retail Stores"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Boutique IT Suite",
+        "carpetArea": "420 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹65 L (Final All-Inclusive)"
+      },
+      {
+        "type": "Corporate Office Floorplate",
+        "carpetArea": "1400 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.95 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "Retail Showroom Frontage",
+        "carpetArea": "2800 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹3.80 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Commercial",
+    "possessionDate": "December 2027",
+    "image": "https://evolvus.majestiquelandmarks.com/assets/evolvus_hero_desktop.jpg",
+    "heroImage": "https://evolvus.majestiquelandmarks.com/assets/evolvus_hero_desktop.jpg",
+    "reraId": "P52100054253",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100054253",
+      "Single Unified Final All-Inclusive Price",
+      "Cumulative Usable Carpet Area without Balcony Subtractions",
+      "Walking Distance to World Trade Center Kharadi"
+    ],
+    "description": "Majestique Evolvus Commercial Plaza is an elite commercial business destination in Central Kharadi. Offering premium boutique office suites and high-street retail showrooms designed for tech enterprises, medical consulting, and retail brands under MahaRERA registration P52100054253.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-towers-commercial-kharadi",
+    "title": "Majestique Towers High-Street Commercial",
+    "slug": "majestique-towers-commercial-kharadi",
+    "builderId": "majestique-landmarks",
+    "location": "Near EON Free Zone, Kharadi",
+    "city": "Pune",
+    "priceRange": "₹58 L - ₹3.20 Cr",
+    "exactPrice": "₹58 L - ₹3.20 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "High-Street Retail",
+      "Executive Workspaces"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Executive Workspace",
+        "carpetArea": "380 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹58 L (Final All-Inclusive)"
+      },
+      {
+        "type": "Retail Corner Shop",
+        "carpetArea": "950 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹1.45 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "Flagship Retail Boulevard",
+        "carpetArea": "2400 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹3.20 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Commercial",
+    "possessionDate": "December 2026",
+    "image": "https://towers.majestiquelandmarks.com/assets/images/hero-desktop-v2.webp",
+    "heroImage": "https://towers.majestiquelandmarks.com/assets/images/hero-desktop-v2.webp",
+    "reraId": "P52100053786",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100053786",
+      "100% Final All-Inclusive Price Transparency",
+      "Cumulative Carpet Area Enforced with Zero Balcony Deductions",
+      "Direct Frontage on EON IT Park Access Corridor"
+    ],
+    "description": "Majestique Towers Commercial provides premium high-street commercial storefronts and executive workspaces catering to the massive corporate workforce of EON Free Zone and WTC Kharadi under MahaRERA registration P52100053786.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "majestique-signature-commercial-balewadi",
+    "title": "Majestique Signature Commercial Hub",
+    "slug": "majestique-signature-commercial-balewadi",
+    "builderId": "majestique-landmarks",
+    "location": "Balewadi High Street, Balewadi",
+    "city": "Pune",
+    "priceRange": "₹72 L - ₹4.50 Cr",
+    "exactPrice": "₹72 L - ₹4.50 Cr (Final All-Inclusive)",
+    "pricePerSqft": null,
+    "configurations": [
+      "Boutique Offices",
+      "Flagship Retail Stores"
+    ],
+    "configurationDetails": [
+      {
+        "type": "Boutique Office",
+        "carpetArea": "450 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹72 L (Final All-Inclusive)"
+      },
+      {
+        "type": "High Street Retail Showroom",
+        "carpetArea": "1250 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹2.10 Cr (Final All-Inclusive)"
+      },
+      {
+        "type": "Corporate Penthouse Office",
+        "carpetArea": "3200 sq.ft. (Cumulative Usable Area)",
+        "priceRange": "₹4.50 Cr (Final All-Inclusive)"
+      }
+    ],
+    "status": "Under Construction",
+    "type": "Commercial",
+    "possessionDate": "June 2026",
+    "image": "https://signaturetowers.majestiquelandmarks.com/Signature%20Towers%20by%20Majestique_files/hero-diwali-desktop.webp",
+    "heroImage": "https://signaturetowers.majestiquelandmarks.com/Signature%20Towers%20by%20Majestique_files/hero-diwali-desktop.webp",
+    "reraId": "P52100046445",
+    "verificationStatus": "Verified",
+    "featured": false,
+    "website": null,
+    "features": [
+      "MahaRERA Registration: P52100046445",
+      "100% Final All-Inclusive Price - Zero Hidden Surcharges",
+      "Cumulative Usable Carpet Area without Balcony Subtractions",
+      "Direct Balewadi High Street Road Frontage"
+    ],
+    "description": "Majestique Signature Commercial Hub offers prime boutique corporate workspaces and flagship luxury retail spaces on Balewadi High Street under MahaRERA registration P52100046445. Features double-height road-facing retail, glass facades, and exceptional investor returns.",
+    "lat": null,
+    "lng": null
   }
 ];

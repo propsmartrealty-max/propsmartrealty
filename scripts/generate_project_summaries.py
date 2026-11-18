@@ -33,6 +33,7 @@ for p in projects:
         "featured": p.get("featured", False),
         "website": p.get("website"),
         "features": (p.get("features") or [])[:4],
+        "description": (p.get("description") or "")[:300],
         "lat": p.get("lat"),
         "lng": p.get("lng")
     }

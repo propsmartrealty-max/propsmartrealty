@@ -73,12 +73,13 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
             const confBhkMatch = conf.match(/(\d+(?:\.\d+)?)\s*BHK/i);
             const targetBhk = confBhkMatch ? confBhkMatch[1] : null;
 
-            const matchingCds = project.configurationDetails.filter(cd => {
+            const matchingCds = (project.configurationDetails || []).filter(cd => {
+                if (!cd || !cd.type) return false;
                 if (targetBhk) {
                     const cdBhkMatch = cd.type.match(/(\d+(?:\.\d+)?)\s*BHK/i);
-                    return cdBhkMatch && cdBhkMatch[1] === targetBhk;
+                    return Boolean(cdBhkMatch && cdBhkMatch[1] === targetBhk);
                 }
-                return cd.type.toLowerCase().includes(conf.toLowerCase());
+                return Boolean(conf && cd.type.toLowerCase().includes(conf.toLowerCase()));
             });
 
             const areas: number[] = [];
@@ -341,7 +342,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         )}
                         {(project.configurations || []).slice(0, isGrid ? 2 : 4).map((conf, i) => {
                             const carpet = configCarpetMap[conf] ||
-                                project.configurationDetails?.find(cd => cd.type.toLowerCase().includes(conf.toLowerCase()))?.carpetArea;
+                                project.configurationDetails?.find(cd => Boolean(cd?.type && conf && cd.type.toLowerCase().includes(conf.toLowerCase())))?.carpetArea;
                             return (
                                 <span 
                                     key={i} 

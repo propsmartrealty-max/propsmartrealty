@@ -20,30 +20,32 @@ import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground'
 const Home = () => {
     const { projects, builders, isLoading, error, refreshData } = useData();
 
-    // Group projects for rails
-    const newLaunches = projects.filter(p => p.status === 'New Launch');
-    const readyToMove = projects.filter(p => p.status === 'Ready to Move');
-    const luxuryProjects = projects.filter(p => {
+    // Group projects for rails with defensive null-safety
+    const newLaunches = (projects || []).filter(p => p?.status === 'New Launch');
+    const readyToMove = (projects || []).filter(p => p?.status === 'Ready to Move');
+    const luxuryProjects = (projects || []).filter(p => {
+        if (!p) return false;
         const range = parsePriceRangeInLakhs(p.exactPrice || p.priceRange);
         return range ? range.maxLakhs >= 150 : Boolean(p.priceRange && p.priceRange.includes('Cr'));
     });
 
     // City-Wise and Developer Specific Collections
-    const vtpProjects = projects.filter(p => p.builderId === 'b-vtp');
-    const mumbaiProjects = projects.filter(p => p.city === 'Mumbai');
-    const secondHomeProjects = projects.filter(p => p.city === 'Lonavala' || p.city === 'Alibaug');
+    const vtpProjects = (projects || []).filter(p => p?.builderId === 'b-vtp');
+    const mumbaiProjects = (projects || []).filter(p => p?.city === 'Mumbai');
+    const secondHomeProjects = (projects || []).filter(p => p?.city === 'Lonavala' || p?.city === 'Alibaug');
 
-    // Mega Townships & Iconic Masterplanned Enclaves (Life Republic, Belmondo, Blue Waters, etc.)
-    const townshipProjects = projects.filter(p =>
-        p.title.toLowerCase().includes('township') ||
-        p.description.toLowerCase().includes('township') ||
-        p.description.toLowerCase().includes('acre') ||
-        p.slug.includes('belmondo') ||
-        p.slug.includes('life-republic') ||
-        p.slug.includes('blue-waters') ||
-        p.slug.includes('panchshil-towers') ||
-        p.slug.includes('sensorium') ||
-        p.slug.includes('river-royale')
+    // Mega Townships & Iconic Masterplanned Enclaves (Life Republic, Belmondo, Blue Waters, Nanded City, etc.)
+    const townshipProjects = (projects || []).filter(p =>
+        Boolean(p?.title && p.title.toLowerCase().includes('township')) ||
+        Boolean(p?.description && p.description.toLowerCase().includes('township')) ||
+        Boolean(p?.description && p.description.toLowerCase().includes('acre')) ||
+        Boolean(p?.slug && p.slug.includes('belmondo')) ||
+        Boolean(p?.slug && p.slug.includes('life-republic')) ||
+        Boolean(p?.slug && p.slug.includes('blue-waters')) ||
+        Boolean(p?.slug && p.slug.includes('panchshil-towers')) ||
+        Boolean(p?.slug && p.slug.includes('sensorium')) ||
+        Boolean(p?.slug && p.slug.includes('river-royale')) ||
+        Boolean(p?.slug && p.slug.includes('nanded-city'))
     );
 
     const homeFaqJsonLd = React.useMemo(() => ({
