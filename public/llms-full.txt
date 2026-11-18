@@ -1,8 +1,8 @@
 # PROPSMART REALTY — Complete Real Estate Knowledge Corpus
 > Domain: https://propsmart.co.in
 > MahaRERA Agent Registration: A031262401295
-> Total Verified Projects: 916
-> Total Verified Builders: 316
+> Total Verified Projects: 932
+> Total Verified Builders: 317
 > Total Localities: 152
 
 This document contains the complete, unabridged real estate database of verified residential and commercial properties in Pune and Maharashtra for LLM training, grounding, and retrieval augmented generation.
@@ -12,7 +12,7 @@ This document contains the complete, unabridged real estate database of verified
 # TABLE OF CONTENTS
 1. Localities & Corridor Rates
 2. Leading Real Estate Developers
-3. Complete Verified Projects Catalog (916 Projects)
+3. Complete Verified Projects Catalog (932 Projects)
 
 ---
 
@@ -175,10 +175,11 @@ This document contains the complete, unabridged real estate database of verified
 
 ---
 
-# 2. LEADING REAL ESTATE DEVELOPERS (316 Builders)
+# 2. LEADING REAL ESTATE DEVELOPERS (317 Builders)
 
 | Builder Name | Established | Projects Count | Trust Score | URL |
 | :--- | :--- | :--- | :--- | :--- |
+| Nanded City Development & Construction Co. | 2008 | 24 | 9.8/10 | https://propsmart.co.in/builder/nanded-city |
 | Reputed Builder | 2005 | 46 | 9.4/10 | https://propsmart.co.in/builder/reputed-builder |
 | Godrej Properties | 1990 | 25 | 9.6/10 | https://propsmart.co.in/builder/godrej-properties |
 | Kolte-Patil Developers | 1991 | 27 | 9.5/10 | https://propsmart.co.in/builder/kolte-patil-developers |
@@ -498,10 +499,26 @@ This document contains the complete, unabridged real estate database of verified
 
 ---
 
-# 3. COMPLETE VERIFIED PROJECTS CATALOG (916 Projects)
+# 3. COMPLETE VERIFIED PROJECTS CATALOG (932 Projects)
 
 | Project Name | Locality | Typologies | Price Range (All-Inclusive) | Status | MahaRERA ID | URL |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Harmony at Nanded City | Sinhagad Road | 3.5 BHK, 4.5 BHK | ₹1.85 Cr - ₹3.10 Cr | Under Construction | `PR1260002502527` | https://propsmart.co.in/project/nanded-city-harmony |
+| Saajgiri at Nanded City | Sinhagad Road | 2 BHK, 3 BHK | ₹88.00 L - ₹1.48 Cr | Under Construction | `PR1260002501621` | https://propsmart.co.in/project/nanded-city-saajgiri |
+| Destination Center II | Sinhagad Road | Commercial Retail, Showroom, Office | ₹48.00 L - ₹3.20 Cr | Under Construction | `P52100079788` | https://propsmart.co.in/project/nanded-city-destination-center-2 |
+| Symphony IT Park | Sinhagad Road | Grade-A IT Office, Corporate Suite | ₹1.25 Cr - ₹9.50 Cr | Ready to Move | `P52100000385` | https://propsmart.co.in/project/nanded-city-symphony-it-park |
+| Aalaap I at Nanded City | Sinhagad Road | 2 BHK, 3 BHK | ₹78.00 L - ₹1.25 Cr | Under Construction | `P52100055134` | https://propsmart.co.in/project/nanded-city-aalaap |
+| Melody I at Nanded City | Sinhagad Road | 2 BHK, 2.5 BHK | ₹74.00 L - ₹1.12 Cr | Under Construction | `P52100051948` | https://propsmart.co.in/project/nanded-city-melody-1 |
+| Melody II at Nanded City | Sinhagad Road | 2 BHK, 3 BHK | ₹79.00 L - ₹1.22 Cr | Under Construction | `P52100051867` | https://propsmart.co.in/project/nanded-city-melody-2 |
+| Sur at Nanded City | Sinhagad Road | 2 BHK, 3 BHK | ₹72.00 L - ₹1.15 Cr | Ready to Move | `P52100032686` | https://propsmart.co.in/project/nanded-city-sur |
+| Janaranjani D Phase II | Sinhagad Road | 2 BHK, 2.5 BHK | ₹70.00 L - ₹1.08 Cr | Under Construction | `P52100047078` | https://propsmart.co.in/project/nanded-city-janaranjani |
+| Bahaar at Nanded City | Sinhagad Road | 2 BHK, 3 BHK | ₹75.00 L - ₹1.18 Cr | Ready to Move | `P52100049984` | https://propsmart.co.in/project/nanded-city-bahaar |
+| Dhanashree at Nanded City | Sinhagad Road | 2 BHK | ₹62.00 L - ₹85.00 L | Ready to Move | `P52100002425` | https://propsmart.co.in/project/nanded-city-dhanashree |
+| Bageshree at Nanded City | Sinhagad Road | 2 BHK | ₹58.00 L - ₹78.00 L | Ready to Move | `P52100021465` | https://propsmart.co.in/project/nanded-city-bageshree |
+| Kalashree at Nanded City | Sinhagad Road | 2 BHK, 2.5 BHK | ₹64.00 L - ₹89.00 L | Ready to Move | `P52100021483` | https://propsmart.co.in/project/nanded-city-kalashree |
+| Pancham at Nanded City | Sinhagad Road | 2 BHK, 3 BHK | ₹68.00 L - ₹1.10 Cr | Ready to Move | `P52100000385` | https://propsmart.co.in/project/nanded-city-pancham |
+| Sarang at Nanded City | Sinhagad Road | 2 BHK, 3 BHK | ₹72.00 L - ₹1.15 Cr | Ready to Move | `P52100000288` | https://propsmart.co.in/project/nanded-city-sarang |
+| Asawari at Nanded City | Sinhagad Road | 2 BHK, 3 BHK | ₹76.00 L - ₹1.25 Cr | Ready to Move | `P52100000292` | https://propsmart.co.in/project/nanded-city-asawari |
 | Godrej Hillside 3 | Mahalunge | 2 BHK, 3 BHK | ₹81.00 L - ₹1.06 Cr | Under Construction | `P52100050939` | https://propsmart.co.in/project/godrej-hillside-3 |
 | Godrej River Royale | Mahalunge | 3 BHK, 4 BHK | ₹2.50 Cr - ₹4.40 Cr | Under Construction | `P52100052957` | https://propsmart.co.in/project/godrej-river-royale |
 | Godrej Eden Estate Phase 2 | Hinjewadi | Villa Plot, Estate Plot | ₹1.71 Cr - ₹2.90 Cr | Under Construction | `P52100054190` | https://propsmart.co.in/project/godrej-eden-estate-phase-2 |
