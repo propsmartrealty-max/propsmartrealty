@@ -134312,5 +134312,2360 @@ export const PROJECTS: Project[] = [
       "https://punehome.in/storage/v1/object/public/project-media/projects/1edaa53d-bf29-49fb-bbd4-a1388fd59928/gallery/ms4gz8xs-22kab7.webp",
       "https://punehome.in/storage/v1/object/public/project-media/projects/9b195edf-c20c-4111-994a-8f5bcf6ea104/gallery/mrysr25n-c3xe2z.webp"
     ]
-  }
+  },
+{
+  "id": "mantra-mirari-mundhwa",
+  "title": "Mantra Mirari",
+  "slug": "mantra-mirari-mundhwa",
+  "builderId": "mantra-properties",
+  "location": "Upper Koregaon Park, Mundhwa",
+  "city": "Pune",
+  "priceRange": "\u20b91.65 Cr - \u20b92.85 Cr",
+  "exactPrice": "\u20b91.65 Cr - \u20b92.85 Cr (Final All-Inclusive)",
+  "priceType": "Cr",
+  "configurations": [
+    "3 BHK",
+    "4 BHK",
+    "4.5 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "3 BHK Luxury",
+      "carpetArea": "1250 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.65 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "4 BHK Signature",
+      "carpetArea": "1780 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b92.35 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "4.5 BHK Sky Palace",
+      "carpetArea": "2150 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b92.85 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Under Construction",
+  "type": "Residential",
+  "possessionDate": "December 2026",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-mirari-slider-632262703.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-mirari-slider-632262703.webp",
+    "https://img.youtube.com/vi_webp/qAZYcJdqSnA/0.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-mirari-4-bhk-floor-plan-773657732.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-mirari-duplex-floor-plan-177865297.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-mirari-amenity-476400904.webp",
+    "https://www.mantraproperties.in/assets/images/properties/malls-movie-theatres-147359401.webp"
+  ],
+  "imageAlt": "Mantra Mirari by Mantra Properties in Upper Koregaon Park, Mundhwa",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-mirari-slider-632262703.webp",
+  "heroImageAlt": "Mantra Mirari Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100030037",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Upper Koregaon Park, Mundhwa Connectivity",
+    "Under Construction Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Upper Koregaon Park Address",
+    "Triple Height Clubhouse",
+    "Zero Balcony Split - 100% Usable Area"
+  ],
+  "reraId": "P52100030037",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 24 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-meridian-balewadi",
+  "title": "Mantra Meridian",
+  "slug": "mantra-meridian-balewadi",
+  "builderId": "mantra-properties",
+  "location": "Balewadi High Street, Balewadi",
+  "city": "Pune",
+  "priceRange": "\u20b998 L - \u20b91.75 Cr",
+  "exactPrice": "\u20b998 L - \u20b91.75 Cr (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK",
+    "4 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Premium",
+      "carpetArea": "785 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b998 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Luxury",
+      "carpetArea": "1120 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.35 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "4 BHK Grand",
+      "carpetArea": "1640 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.75 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Under Construction",
+  "type": "Residential",
+  "possessionDate": "December 2026",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-meridian-slider-215259293.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meridian-slider-215259293.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meridian-intro-317592911.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meridian-floor-plan-279058082.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meridian-floor-plan-425800430.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meridian-floor-plan-763477442.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meridian-floor-plan-506294750.webp"
+  ],
+  "imageAlt": "Mantra Meridian by Mantra Properties in Balewadi High Street, Balewadi",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-meridian-slider-215259293.webp",
+  "heroImageAlt": "Mantra Meridian Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100045688",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Balewadi High Street, Balewadi Connectivity",
+    "Under Construction Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Hospitals &amp; Medical Centres (2)",
+    "Yoga Lawn",
+    "Multipurpose Court",
+    "Senior Citizen Sitout",
+    "EV Charging Station"
+  ],
+  "highlights": [
+    "Walking Distance to High Street",
+    "Rooftop Infinity Pool",
+    "Final All-Inclusive Pricing"
+  ],
+  "reraId": "P52100045688",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 22 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-marquis-jogeshwari",
+  "title": "Mantra Marquis",
+  "slug": "mantra-marquis-jogeshwari",
+  "builderId": "mantra-properties",
+  "location": "Sarvodaya Nagar, Jogeshwari East",
+  "city": "Mumbai",
+  "priceRange": "\u20b92.10 Cr - \u20b93.65 Cr",
+  "exactPrice": "\u20b92.10 Cr - \u20b93.65 Cr (Final All-Inclusive)",
+  "priceType": "Cr",
+  "configurations": [
+    "2 BHK",
+    "3 BHK",
+    "4 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Elite",
+      "carpetArea": "720 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b92.10 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Signature",
+      "carpetArea": "1090 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b92.85 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "4 BHK Iconic",
+      "carpetArea": "1580 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b93.65 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Under Construction",
+  "type": "Residential",
+  "possessionDate": "March 2027",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-marquis-slider-661072372.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-marquis-slider-661072372.webp",
+    "https://img.youtube.com/vi_webp/GvwT43GtsRU/0.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-marquis-119496338.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-sus-391690262.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meridian-873008650.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-business-centre-391756899.webp"
+  ],
+  "imageAlt": "Mantra Marquis by Mantra Properties in Sarvodaya Nagar, Jogeshwari East",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-marquis-slider-661072372.webp",
+  "heroImageAlt": "Mantra Marquis Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P51800001690",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Sarvodaya Nagar, Jogeshwari East Connectivity",
+    "Under Construction Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "WEH & Metro Connectivity",
+    "Panoramic Aravalli & City Views",
+    "100% Clear Title Redevelopment"
+  ],
+  "reraId": "P51800001690",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "4 Basements + G + 32 Storeys",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-magnus-keshav-nagar",
+  "title": "Mantra Magnus",
+  "slug": "mantra-magnus-keshav-nagar",
+  "builderId": "mantra-properties",
+  "location": "Keshav Nagar, Mundhwa",
+  "city": "Pune",
+  "priceRange": "\u20b985 L - \u20b91.55 Cr",
+  "exactPrice": "\u20b985 L - \u20b91.55 Cr (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK",
+    "4 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Urban",
+      "carpetArea": "760 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b985 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Grande",
+      "carpetArea": "1080 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.18 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "4 BHK Majestic",
+      "carpetArea": "1420 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.55 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Under Construction",
+  "type": "Residential",
+  "possessionDate": "June 2027",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-slider-384624144.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-slider-384624144.webp",
+    "https://img.youtube.com/vi_webp/W2W0IIlTHQY/0.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-floor-plan-831178954.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-floor-plan-17317224.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-floor-plan-922391692.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-floor-plan-249919515.webp"
+  ],
+  "imageAlt": "Mantra Magnus by Mantra Properties in Keshav Nagar, Mundhwa",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-slider-384624144.webp",
+  "heroImageAlt": "Mantra Magnus Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100054231",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Keshav Nagar, Mundhwa Connectivity",
+    "Under Construction Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "5 Min from Magarpatta & Kharadi",
+    "Over 30+ Lifestyle Amenities",
+    "Integrated Smart Home Features"
+  ],
+  "reraId": "P52100054231",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 22 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-magnus-elite-keshav-nagar",
+  "title": "Mantra Magnus Elite",
+  "slug": "mantra-magnus-elite-keshav-nagar",
+  "builderId": "mantra-properties",
+  "location": "Keshav Nagar, Mundhwa",
+  "city": "Pune",
+  "priceRange": "\u20b91.25 Cr - \u20b91.95 Cr",
+  "exactPrice": "\u20b91.25 Cr - \u20b91.95 Cr (Final All-Inclusive)",
+  "priceType": "Cr",
+  "configurations": [
+    "3 BHK",
+    "4 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "3 BHK Elite",
+      "carpetArea": "1120 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.25 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "4 BHK Royal",
+      "carpetArea": "1550 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.95 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "New Launch",
+  "type": "Residential",
+  "possessionDate": "December 2027",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-elite-slider-887651390.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-elite-slider-887651390.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-elite-intro-468643890.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-elite-floor-plan-915628182.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-elite-floor-plan-137516065.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-elite-floor-plan-276290634.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-elite-floor-plan-729126278.webp"
+  ],
+  "imageAlt": "Mantra Magnus Elite by Mantra Properties in Keshav Nagar, Mundhwa",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-magnus-elite-slider-887651390.webp",
+  "heroImageAlt": "Mantra Magnus Elite Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100055623",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Keshav Nagar, Mundhwa Connectivity",
+    "New Launch Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Exclusive Low-Density Tower",
+    "Private Elevator Lobbies",
+    "Ultra-Spacious Living Decks"
+  ],
+  "reraId": "P52100055623",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 24 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-mesmer-keshav-nagar",
+  "title": "Mantra Mesmer",
+  "slug": "mantra-mesmer-keshav-nagar",
+  "builderId": "mantra-properties",
+  "location": "Keshav Nagar, Mundhwa",
+  "city": "Pune",
+  "priceRange": "\u20b972 L - \u20b91.28 Cr",
+  "exactPrice": "\u20b972 L - \u20b91.28 Cr (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Comfort",
+      "carpetArea": "680 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b972 L (Final All-Inclusive)"
+    },
+    {
+      "type": "2 BHK Large",
+      "carpetArea": "790 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b984 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Luxury",
+      "carpetArea": "1150 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.28 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Under Construction",
+  "type": "Residential",
+  "possessionDate": "December 2026",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-mesmer-slider-274726269.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-mesmer-slider-274726269.webp",
+    "https://img.youtube.com/vi_webp/DKOUkGeGMPE/0.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-mesmer-1-bhk-floor-plan-449805218.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-mesmer-2-bhk-floor-plan-286509548.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-mesmer-3-bhk-floor-plan-463579214.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-mesmer-duplex-floor-plan-380706116.webp"
+  ],
+  "imageAlt": "Mantra Mesmer by Mantra Properties in Keshav Nagar, Mundhwa",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-mesmer-slider-274726269.webp",
+  "heroImageAlt": "Mantra Mesmer Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100030387",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Keshav Nagar, Mundhwa Connectivity",
+    "Under Construction Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Near Koregaon Park North Bridge",
+    "Landscaped Central Podium",
+    "Zero Brokerage Certified"
+  ],
+  "reraId": "P52100030387",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 21 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-meraki-akurdi",
+  "title": "Mantra Meraki",
+  "slug": "mantra-meraki-akurdi",
+  "builderId": "mantra-properties",
+  "location": "Akurdi, PCMC",
+  "city": "Pune",
+  "priceRange": "\u20b989 L - \u20b91.98 Cr",
+  "exactPrice": "\u20b989 L - \u20b91.98 Cr (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK",
+    "4 BHK",
+    "4.5 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Smart",
+      "carpetArea": "790 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b989 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Grand",
+      "carpetArea": "1140 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.29 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "4 BHK Supreme",
+      "carpetArea": "1620 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.72 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "4.5 BHK Duplex",
+      "carpetArea": "1880 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.98 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Under Construction",
+  "type": "Residential",
+  "possessionDate": "June 2026",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-meraki-slider-941745527.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meraki-slider-941745527.webp",
+    "https://img.youtube.com/vi_webp/nD5tEqN19hk/0.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meraki-2-bhk-floor-plan-736344549.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meraki-3-bhk-floor-plan-962165580.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meraki-4-bhk-floor-plan-363587033.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-meraki-3-bhk-duplex-floor-plan-611233260.webp"
+  ],
+  "imageAlt": "Mantra Meraki by Mantra Properties in Akurdi, PCMC",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-meraki-slider-941745527.webp",
+  "heroImageAlt": "Mantra Meraki Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100030518",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Akurdi, PCMC Connectivity",
+    "Under Construction Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Direct Old Mumbai-Pune Highway Access",
+    "Podium Sports Complex",
+    "High-Street Retail Boulevard"
+  ],
+  "reraId": "P52100030518",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 26 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-monarch-balewadi",
+  "title": "Mantra Monarch",
+  "slug": "mantra-monarch-balewadi",
+  "builderId": "mantra-properties",
+  "location": "Balewadi",
+  "city": "Pune",
+  "priceRange": "\u20b995 L - \u20b91.45 Cr",
+  "exactPrice": "\u20b995 L - \u20b91.45 Cr (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Luxury",
+      "carpetArea": "740 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b995 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Grand",
+      "carpetArea": "1180 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.45 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-monarch-slider-594773450.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-monarch-slider-594773450.webp",
+    "https://img.youtube.com/vi_webp/JStV_5toCtU/0.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-monarch-amenity-133933918.webp",
+    "https://www.mantraproperties.in/assets/images/properties/hotel-restaurants-366831941.webp",
+    "https://www.mantraproperties.in/assets/images/properties/property-testimonial.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-monarch-amenity-161641308.webp"
+  ],
+  "imageAlt": "Mantra Monarch by Mantra Properties in Balewadi",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-monarch-slider-594773450.webp",
+  "heroImageAlt": "Mantra Monarch Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100023453",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Balewadi Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Ready OC Received",
+    "5 Min from Mumbai-Pune Expressway",
+    "100% Occupancy Handover"
+  ],
+  "reraId": "P52100023453",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 18 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-melange-sopan-baug",
+  "title": "Mantra Melange",
+  "slug": "mantra-melange-sopan-baug",
+  "builderId": "mantra-properties",
+  "location": "BT Kawade Road, Sopan Baug Annexe",
+  "city": "Pune",
+  "priceRange": "\u20b992 L - \u20b91.58 Cr",
+  "exactPrice": "\u20b992 L - \u20b91.58 Cr (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Premium",
+      "carpetArea": "750 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b992 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Luxury",
+      "carpetArea": "1250 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.58 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Under Construction",
+  "type": "Residential",
+  "possessionDate": "December 2027",
+  "image": "https://www.mantraproperties.in/assets/images/properties/codename-joypin-kharadi-slider-136697916.png",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/codename-joypin-kharadi-slider-136697916.png",
+    "https://www.mantraproperties.in/assets/images/properties/codename-joypin-kharadi-intro-925647251.png",
+    "https://www.mantraproperties.in/assets/images/properties/codename-joypin-kharadi-floor-plan-60637207.png",
+    "https://www.mantraproperties.in/assets/images/properties/codename-joypin-kharadi-floor-plan-10412715.png",
+    "https://www.mantraproperties.in/assets/images/properties/1758709741910-610222155.webp",
+    "https://www.mantraproperties.in/assets/images/properties/hospitals-medical-centres-185384784.webp"
+  ],
+  "imageAlt": "Mantra Melange by Mantra Properties in BT Kawade Road, Sopan Baug Annexe",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/codename-joypin-kharadi-slider-136697916.png",
+  "heroImageAlt": "Mantra Melange Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100079582",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent BT Kawade Road, Sopan Baug Annexe Connectivity",
+    "Under Construction Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Prime Sopan Baug Connectivity",
+    "Lavish Rooftop Lounge",
+    "Designer Vitrified Living Spaces"
+  ],
+  "reraId": "P52100079582",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 20 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-mistara-wagholi",
+  "title": "Mantra Mistara",
+  "slug": "mantra-mistara-wagholi",
+  "builderId": "mantra-properties",
+  "location": "Kharadi Annexe, Wagholi",
+  "city": "Pune",
+  "priceRange": "\u20b958 L - \u20b995 L",
+  "exactPrice": "\u20b958 L - \u20b995 L (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Modern",
+      "carpetArea": "670 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b958 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Spacious",
+      "carpetArea": "1090 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b995 L (Final All-Inclusive)"
+    }
+  ],
+  "status": "New Launch",
+  "type": "Residential",
+  "possessionDate": "December 2027",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-sus-slider-627437384.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-sus-slider-627437384.webp",
+    "https://img.youtube.com/vi_webp/K9IYf8Y3yD8/0.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-sus-floor-plan-202665402.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-sus-floor-plan-926999306.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-sus-floor-plan-937738321.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709741910-610222155.webp"
+  ],
+  "imageAlt": "Mantra Mistara by Mantra Properties in Kharadi Annexe, Wagholi",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-sus-slider-627437384.webp",
+  "heroImageAlt": "Mantra Mistara Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: PR1261012600816",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Kharadi Annexe, Wagholi Connectivity",
+    "New Launch Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "MahaRERA 2.0 Digitally Certified",
+    "7 Min to EON IT Park Kharadi",
+    "Eco-Sensitive Green Architecture"
+  ],
+  "reraId": "PR1261012600816",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 22 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-insignia-keshav-nagar",
+  "title": "Mantra Insignia",
+  "slug": "mantra-insignia-keshav-nagar",
+  "builderId": "mantra-properties",
+  "location": "Keshav Nagar, Mundhwa",
+  "city": "Pune",
+  "priceRange": "\u20b978 L - \u20b91.18 Cr",
+  "exactPrice": "\u20b978 L - \u20b91.18 Cr (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Classic",
+      "carpetArea": "710 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b978 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Elite",
+      "carpetArea": "1140 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.18 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-insignia-slider-85813414.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-insignia-slider-85813414.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-insignia-intro-787232879.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-insignia-2-bhk-floor-plan-10877643.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-insignia-amenity-554933384.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709989621-915480000.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709797864-247126777.webp"
+  ],
+  "imageAlt": "Mantra Insignia by Mantra Properties in Keshav Nagar, Mundhwa",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-insignia-slider-85813414.webp",
+  "heroImageAlt": "Mantra Insignia Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100026580",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Keshav Nagar, Mundhwa Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Ready Possession Homes",
+    "Established Vibrant Gated Community",
+    "Zero GST Impact"
+  ],
+  "reraId": "P52100026580",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 16 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-montana-dhanori",
+  "title": "Mantra Montana",
+  "slug": "mantra-montana-dhanori",
+  "builderId": "mantra-properties",
+  "location": "Dhanori",
+  "city": "Pune",
+  "priceRange": "\u20b962 L - \u20b998 L",
+  "exactPrice": "\u20b962 L - \u20b998 L (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Hillview",
+      "carpetArea": "680 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b962 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Panoramic",
+      "carpetArea": "1120 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b998 L (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-montana-slider-315229266.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-montana-slider-315229266.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-montana-intro-82714406.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-montana-amenity-787207149.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709797864-247126777.webp",
+    "https://www.mantraproperties.in/assets/images/properties/malls-movie-theatres-147359401.webp",
+    "https://www.mantraproperties.in/assets/images/properties/hospitals-medical-centres-185384784.webp"
+  ],
+  "imageAlt": "Mantra Montana by Mantra Properties in Dhanori",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-montana-slider-315229266.webp",
+  "heroImageAlt": "Mantra Montana Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100019684",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Dhanori Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Unobstructed Hill Views",
+    "10 Min to Pune International Airport",
+    "Complete OC Obtained"
+  ],
+  "reraId": "P52100019684",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 18 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-99-riverfront-baner",
+  "title": "Mantra 99 Riverfront",
+  "slug": "mantra-99-riverfront-baner",
+  "builderId": "mantra-properties",
+  "location": "Baner",
+  "city": "Pune",
+  "priceRange": "\u20b91.45 Cr - \u20b91.95 Cr",
+  "exactPrice": "\u20b91.45 Cr - \u20b91.95 Cr (Final All-Inclusive)",
+  "priceType": "Cr",
+  "configurations": [
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "3 BHK Riverfront Residence",
+      "carpetArea": "1040 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.45 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Grand Decks",
+      "carpetArea": "1450 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.95 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-99-riverfront-slider-623203766.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-99-riverfront-slider-623203766.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-99-riverfront-intro-87771676.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-99-riverfront-amenity-369841572.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709989621-915480000.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709741910-610222155.webp",
+    "https://www.mantraproperties.in/assets/images/properties/malls-movie-theatres-147359401.webp"
+  ],
+  "imageAlt": "Mantra 99 Riverfront by Mantra Properties in Baner",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-99-riverfront-slider-623203766.webp",
+  "heroImageAlt": "Mantra 99 Riverfront Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100019974",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Baner Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Serene Riverfront Promenade",
+    "Elite Baner Residential Belt",
+    "Immediate Key Handover"
+  ],
+  "reraId": "P52100019974",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 16 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-29-gold-coast-tingre-nagar",
+  "title": "Mantra 29 Gold Coast",
+  "slug": "mantra-29-gold-coast-tingre-nagar",
+  "builderId": "mantra-properties",
+  "location": "Tingre Nagar / Dhanori",
+  "city": "Pune",
+  "priceRange": "\u20b965 L - \u20b91.08 Cr",
+  "exactPrice": "\u20b965 L - \u20b91.08 Cr (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Coastline",
+      "carpetArea": "720 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b965 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Coastal Grand",
+      "carpetArea": "1180 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.08 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-29-gold-coast-slider-449131139.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-29-gold-coast-slider-449131139.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-29-gold-coast-intro-631582432.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-29-gold-coast-29-gold-coast-wing-b-2-floor-plan-294085535.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-29-gold-coast-29-gc-floor-plan-floor-plan-714833356.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-29-gold-coast-29-gc-floor-plan-floor-plan-147042017.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-29-gold-coast-29-gc-floor-plan-floor-plan-156517354.webp"
+  ],
+  "imageAlt": "Mantra 29 Gold Coast by Mantra Properties in Tingre Nagar / Dhanori",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-29-gold-coast-slider-449131139.webp",
+  "heroImageAlt": "Mantra 29 Gold Coast Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100002674",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Tingre Nagar / Dhanori Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "5 Min to Kalyani Nagar & Viman Nagar",
+    "Ready Gated Society",
+    "Clubhouse & Swimming Pool"
+  ],
+  "reraId": "P52100002674",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 14 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-24-west-gahunje",
+  "title": "Mantra 24 West",
+  "slug": "mantra-24-west-gahunje",
+  "builderId": "mantra-properties",
+  "location": "Gahunje, Hinjewadi Extension",
+  "city": "Pune",
+  "priceRange": "\u20b942 L - \u20b968 L",
+  "exactPrice": "\u20b942 L - \u20b968 L (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "1 BHK",
+    "2 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "1 BHK Smart",
+      "carpetArea": "480 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b942 L (Final All-Inclusive)"
+    },
+    {
+      "type": "2 BHK Comfort",
+      "carpetArea": "790 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b968 L (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-24-west-slider-445096859.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-24-west-slider-445096859.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-24-west-intro-726067110.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-24-west-1-bhk-floor-plan-174786652.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-24-west-2-bhk-floor-plan-403219501.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-24-west-amenity-840891970.webp",
+    "https://www.mantraproperties.in/assets/images/properties/hospitals-medical-centres-185384784.webp"
+  ],
+  "imageAlt": "Mantra 24 West by Mantra Properties in Gahunje, Hinjewadi Extension",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-24-west-slider-445096859.webp",
+  "heroImageAlt": "Mantra 24 West Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100001260",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Gahunje, Hinjewadi Extension Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Next to MCA Cricket Stadium",
+    "15 Min to Hinjewadi IT Park Phase 1",
+    "Clean Air & Mountain Breeze"
+  ],
+  "reraId": "P52100001260",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 14 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-parkview-dhayari",
+  "title": "Mantra Parkview",
+  "slug": "mantra-parkview-dhayari",
+  "builderId": "mantra-properties",
+  "location": "Dhayari, Sinhagad Road",
+  "city": "Pune",
+  "priceRange": "\u20b955 L - \u20b988 L",
+  "exactPrice": "\u20b955 L - \u20b988 L (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Gardenview",
+      "carpetArea": "690 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b955 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Panoramic",
+      "carpetArea": "1080 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b988 L (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-parkview-slider-602156130.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-parkview-slider-602156130.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-parkview-intro-217253638.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-parkview-amenity-894608389.webp",
+    "https://www.mantraproperties.in/assets/images/properties/malls-movie-theatres-147359401.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709989621-915480000.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709797864-247126777.webp"
+  ],
+  "imageAlt": "Mantra Parkview by Mantra Properties in Dhayari, Sinhagad Road",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-parkview-slider-602156130.webp",
+  "heroImageAlt": "Mantra Parkview Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100016922",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Dhayari, Sinhagad Road Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Direct Sinhagad Road Link",
+    "Overlooking Landscaped Parks",
+    "Fully Occupied Society"
+  ],
+  "reraId": "P52100016922",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 15 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-grandstand-trinity-kothrud",
+  "title": "Mantra Grandstand Trinity",
+  "slug": "mantra-grandstand-trinity-kothrud",
+  "builderId": "mantra-properties",
+  "location": "Kothrud Annexe",
+  "city": "Pune",
+  "priceRange": "\u20b91.35 Cr - \u20b91.85 Cr",
+  "exactPrice": "\u20b91.35 Cr - \u20b91.85 Cr (Final All-Inclusive)",
+  "priceType": "Cr",
+  "configurations": [
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "3 BHK Prime",
+      "carpetArea": "1100 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.35 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Grand Deluxe",
+      "carpetArea": "1480 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.85 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-grandstand-trinity-slider-48367243.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-grandstand-trinity-slider-48367243.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-grandstand-trinity-intro-446898445.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-grandstand-trinity-amenity-179535378.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709989621-915480000.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709741910-610222155.webp",
+    "https://www.mantraproperties.in/assets/images/properties/hospitals-medical-centres-185384784.webp"
+  ],
+  "imageAlt": "Mantra Grandstand Trinity by Mantra Properties in Kothrud Annexe",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-grandstand-trinity-slider-48367243.webp",
+  "heroImageAlt": "Mantra Grandstand Trinity Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100020513",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Kothrud Annexe Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Landmarks (2)",
+    "Yoga Lawn",
+    "Multipurpose Court",
+    "Senior Citizen Sitout",
+    "EV Charging Station"
+  ],
+  "highlights": [
+    "Prestige Kothrud Neighborhood",
+    "Vastu Aligned Layouts",
+    "Clear Marketable Legal Title"
+  ],
+  "reraId": "P52100020513",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 16 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-moments-moshi",
+  "title": "Mantra Moments",
+  "slug": "mantra-moments-moshi",
+  "builderId": "mantra-properties",
+  "location": "Moshi, PCMC",
+  "city": "Pune",
+  "priceRange": "\u20b952 L - \u20b978 L",
+  "exactPrice": "\u20b952 L - \u20b978 L (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Lifestyle",
+      "carpetArea": "670 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b952 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Community",
+      "carpetArea": "1050 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b978 L (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-moments-slider-471018251.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-moments-slider-471018251.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-moments-intro-792648273.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-moments-floor-plan-663034252.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-moments-wing-sp-2-floor-plan-116568799.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-moments-wing-sp-3-floor-plan-76687533.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-moments-wing-h-floor-plan-888659576.webp"
+  ],
+  "imageAlt": "Mantra Moments by Mantra Properties in Moshi, PCMC",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-moments-slider-471018251.webp",
+  "heroImageAlt": "Mantra Moments Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100000094",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Moshi, PCMC Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Near Spine Road & PCMC Industrial Hub",
+    "Grand Central Courtyard",
+    "Ready to Move with Full OC"
+  ],
+  "reraId": "P52100000094",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 14 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-magic-chikhali",
+  "title": "Mantra Magic",
+  "slug": "mantra-magic-chikhali",
+  "builderId": "mantra-properties",
+  "location": "Chikhali / Moshi, PCMC",
+  "city": "Pune",
+  "priceRange": "\u20b938 L - \u20b958 L",
+  "exactPrice": "\u20b938 L - \u20b958 L (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "1 BHK",
+    "2 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "1 BHK Smart",
+      "carpetArea": "450 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b938 L (Final All-Inclusive)"
+    },
+    {
+      "type": "2 BHK Family",
+      "carpetArea": "750 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b958 L (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-magic-slider-722351884.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magic-slider-722351884.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magic-intro-372311575.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-magic-amenity-308943721.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709989621-915480000.webp",
+    "https://www.mantraproperties.in/assets/images/properties/hospitals-medical-centres-185384784.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709741910-610222155.webp"
+  ],
+  "imageAlt": "Mantra Magic by Mantra Properties in Chikhali / Moshi, PCMC",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-magic-slider-722351884.webp",
+  "heroImageAlt": "Mantra Magic Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100000137",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Chikhali / Moshi, PCMC Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Landmarks (1)",
+    "Yoga Lawn",
+    "Multipurpose Court",
+    "Senior Citizen Sitout",
+    "EV Charging Station"
+  ],
+  "highlights": [
+    "High Rental Demand in PCMC",
+    "Well Connected to Bhosari & Talawade",
+    "Zero Maintenance Headaches"
+  ],
+  "reraId": "P52100000137",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 12 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-city-360-talegaon",
+  "title": "Mantra City 360",
+  "slug": "mantra-city-360-talegaon",
+  "builderId": "mantra-properties",
+  "location": "Talegaon Dabhade",
+  "city": "Pune",
+  "priceRange": "\u20b932 L - \u20b952 L",
+  "exactPrice": "\u20b932 L - \u20b952 L (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "1 BHK",
+    "2 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "1 BHK Township",
+      "carpetArea": "460 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b932 L (Final All-Inclusive)"
+    },
+    {
+      "type": "2 BHK Township",
+      "carpetArea": "720 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b952 L (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-city-360-slider-400890579.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-city-360-slider-400890579.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-city-360-intro-298462091.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-city-360-amenity-296646591.webp",
+    "https://www.mantraproperties.in/assets/images/properties/hospitals-medical-centres-185384784.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709797864-247126777.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709989621-915480000.webp"
+  ],
+  "imageAlt": "Mantra City 360 by Mantra Properties in Talegaon Dabhade",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-city-360-slider-400890579.webp",
+  "heroImageAlt": "Mantra City 360 Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100001846",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Talegaon Dabhade Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Scenic Mountain Climate",
+    "Close to Talegaon MIDC",
+    "Self-Sustaining Gated Township"
+  ],
+  "reraId": "P52100001846",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 12 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-divine-dongargaon",
+  "title": "Mantra Divine",
+  "slug": "mantra-divine-dongargaon",
+  "builderId": "mantra-properties",
+  "location": "Wagholi Annexe / Dongargaon",
+  "city": "Pune",
+  "priceRange": "\u20b936 L - \u20b956 L",
+  "exactPrice": "\u20b936 L - \u20b956 L (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "1 BHK",
+    "2 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "1 BHK Serenity",
+      "carpetArea": "490 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b936 L (Final All-Inclusive)"
+    },
+    {
+      "type": "2 BHK Harmony",
+      "carpetArea": "760 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b956 L (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-divine-slider-438572572.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-divine-slider-438572572.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-divine-intro-493121380.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-divine-amenity-830781871.webp",
+    "https://www.mantraproperties.in/assets/images/properties/malls-movie-theatres-147359401.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709741910-610222155.webp",
+    "https://www.mantraproperties.in/assets/images/properties/hospitals-medical-centres-185384784.webp"
+  ],
+  "imageAlt": "Mantra Divine by Mantra Properties in Wagholi Annexe / Dongargaon",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-divine-slider-438572572.webp",
+  "heroImageAlt": "Mantra Divine Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100004781",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Wagholi Annexe / Dongargaon Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Malls &amp; Movie Theatres (1)",
+    "Yoga Lawn",
+    "Multipurpose Court",
+    "Senior Citizen Sitout",
+    "EV Charging Station"
+  ],
+  "highlights": [
+    "3-Acre Green Landscape",
+    "Vastu Harmonious Planning",
+    "Affordable All-Inclusive Pricing"
+  ],
+  "reraId": "P52100004781",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 11 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-7-hills-kirkatwadi",
+  "title": "Mantra 7 Hills",
+  "slug": "mantra-7-hills-kirkatwadi",
+  "builderId": "mantra-properties",
+  "location": "Kirkatwadi, Sinhagad Road",
+  "city": "Pune",
+  "priceRange": "\u20b935 L - \u20b968 L",
+  "exactPrice": "\u20b935 L - \u20b968 L (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "1 BHK",
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "1 BHK Valley",
+      "carpetArea": "460 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b935 L (Final All-Inclusive)"
+    },
+    {
+      "type": "2 BHK Mountain",
+      "carpetArea": "740 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b952 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Ridge",
+      "carpetArea": "980 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b968 L (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-7-hills-slider-426272996.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-7-hills-slider-426272996.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-7-hills-intro-981839057.webp",
+    "https://www.mantraproperties.in/assets/images/properties/parks-776264482.webp",
+    "https://www.mantraproperties.in/assets/images/properties/malls-movie-theatres-147359401.webp",
+    "https://www.mantraproperties.in/assets/images/properties/property-testimonial.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-7-hills-amenity-268991342.webp"
+  ],
+  "imageAlt": "Mantra 7 Hills by Mantra Properties in Kirkatwadi, Sinhagad Road",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-7-hills-slider-426272996.webp",
+  "heroImageAlt": "Mantra 7 Hills Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100001182",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Kirkatwadi, Sinhagad Road Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Parks (1)",
+    "Yoga Lawn",
+    "Multipurpose Court",
+    "Senior Citizen Sitout",
+    "EV Charging Station"
+  ],
+  "highlights": [
+    "Surrounded by Sinhagad Hills",
+    "Pollution Free Enclave",
+    "Immediate Registration Available"
+  ],
+  "reraId": "P52100001182",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 12 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-residency-chakan",
+  "title": "Mantra Residency",
+  "slug": "mantra-residency-chakan",
+  "builderId": "mantra-properties",
+  "location": "Nighoje, Chakan Corridor",
+  "city": "Pune",
+  "priceRange": "\u20b931 L - \u20b962 L",
+  "exactPrice": "\u20b931 L - \u20b962 L (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "1 BHK",
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "1 BHK Smart",
+      "carpetArea": "470 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b931 L (Final All-Inclusive)"
+    },
+    {
+      "type": "2 BHK Family",
+      "carpetArea": "720 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b948 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Master",
+      "carpetArea": "920 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b962 L (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-residency-slider-667489225.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-residency-slider-667489225.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-residency-intro-821384639.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-residency-amenity-720451896.webp",
+    "https://www.mantraproperties.in/assets/images/properties/parks-776264482.webp",
+    "https://www.mantraproperties.in/assets/images/properties/industries-625482371.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709989621-915480000.webp"
+  ],
+  "imageAlt": "Mantra Residency by Mantra Properties in Nighoje, Chakan Corridor",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-residency-slider-667489225.webp",
+  "heroImageAlt": "Mantra Residency Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100001165",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Nighoje, Chakan Corridor Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Parks (1)",
+    "Yoga Lawn",
+    "Multipurpose Court",
+    "Senior Citizen Sitout",
+    "EV Charging Station"
+  ],
+  "highlights": [
+    "Heart of Auto & Manufacturing Corridor",
+    "High Yield Investment",
+    "Clean Title Handed Over"
+  ],
+  "reraId": "P52100001165",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 11 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-essence-undri",
+  "title": "Mantra Essence",
+  "slug": "mantra-essence-undri",
+  "builderId": "mantra-properties",
+  "location": "Undri, South Pune",
+  "city": "Pune",
+  "priceRange": "\u20b956 L - \u20b989 L",
+  "exactPrice": "\u20b956 L - \u20b989 L (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "2 BHK Garden",
+      "carpetArea": "680 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b956 L (Final All-Inclusive)"
+    },
+    {
+      "type": "3 BHK Deluxe",
+      "carpetArea": "1090 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b989 L (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Residential",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-essence-slider-999402031.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-essence-slider-999402031.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-essence-intro-949090972.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-essence-2-bhk-floor-plan-600411835.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-essence-3-bhk-floor-plan-119456586.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-essence-wing-d-floor-plan-396645890.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-essence-wing-d-floor-plan-525061368.webp"
+  ],
+  "imageAlt": "Mantra Essence by Mantra Properties in Undri, South Pune",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-essence-slider-999402031.webp",
+  "heroImageAlt": "Mantra Essence Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100001157",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Undri, South Pune Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Near Renowned International Schools",
+    "Fully Functional Clubhouse",
+    "Ready Family Living"
+  ],
+  "reraId": "P52100001157",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 14 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-essence-plots-undri",
+  "title": "Mantra Essence Plots",
+  "slug": "mantra-essence-plots-undri",
+  "builderId": "mantra-properties",
+  "location": "Undri, South Pune",
+  "city": "Pune",
+  "priceRange": "\u20b948 L - \u20b91.15 Cr",
+  "exactPrice": "\u20b948 L - \u20b91.15 Cr (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "Villa Plots"
+  ],
+  "configurationDetails": [
+    {
+      "type": "Villa Plot 1500",
+      "carpetArea": "1500 sq.ft. (Sanctioned Plot Area)",
+      "priceRange": "\u20b948 L (Final All-Inclusive)"
+    },
+    {
+      "type": "Villa Plot 2400",
+      "carpetArea": "2400 sq.ft. (Sanctioned Plot Area)",
+      "priceRange": "\u20b978 L (Final All-Inclusive)"
+    },
+    {
+      "type": "Estate Plot 3500",
+      "carpetArea": "3500 sq.ft. (Sanctioned Plot Area)",
+      "priceRange": "\u20b91.15 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Ready to Move",
+  "type": "Plot",
+  "possessionDate": "Ready To Move",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-essence-plots-slider-86733874.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-essence-plots-slider-86733874.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-essence-plots-intro-417777883.webp",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-essence-plots-amenity-147790745.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709741910-610222155.webp",
+    "https://www.mantraproperties.in/assets/images/properties/parks-776264482.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709989621-915480000.webp"
+  ],
+  "imageAlt": "Mantra Essence Plots by Mantra Properties in Undri, South Pune",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-essence-plots-slider-86733874.webp",
+  "heroImageAlt": "Mantra Essence Plots Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100001796",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Undri, South Pune Connectivity",
+    "Ready to Move Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Schools &amp; Colleges (1)",
+    "Yoga Lawn",
+    "Multipurpose Court",
+    "Senior Citizen Sitout",
+    "EV Charging Station"
+  ],
+  "highlights": [
+    "Clear Title Freehold NA Plots",
+    "Demarcated Boundaries with Water & Power",
+    "Immediate Registry"
+  ],
+  "reraId": "P52100001796",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "Bespoke Villa Sanction G + 2",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "one-residences-burgundy-magarpatta",
+  "title": "One Residences by Burgundy",
+  "slug": "one-residences-burgundy-magarpatta",
+  "builderId": "mantra-properties",
+  "location": "Magarpatta / Keshav Nagar",
+  "city": "Pune",
+  "priceRange": "\u20b92.40 Cr - \u20b94.10 Cr",
+  "exactPrice": "\u20b92.40 Cr - \u20b94.10 Cr (Final All-Inclusive)",
+  "priceType": "Cr",
+  "configurations": [
+    "3.5 BHK",
+    "4 BHK",
+    "4.5 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "3.5 BHK Palace",
+      "carpetArea": "1680 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b92.40 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "4 BHK Presidential",
+      "carpetArea": "2250 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b93.25 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "4.5 BHK Penthouse",
+      "carpetArea": "2850 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b94.10 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Under Construction",
+  "type": "Residential",
+  "possessionDate": "December 2027",
+  "image": "https://www.mantraproperties.in/assets/images/properties/1-residences-burgundy-intro-26600773.png",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/1-residences-burgundy-intro-26600773.png",
+    "https://www.mantraproperties.in/assets/images/properties/1749473073972-304163589.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1749473074144-150840610.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1749473074306-154873884.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1749473074472-260449322.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1-residences-burgundy-tower-b-3-bhk-floor-plan-264405970.png"
+  ],
+  "imageAlt": "One Residences by Burgundy by Mantra Properties in Magarpatta / Keshav Nagar",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/1-residences-burgundy-intro-26600773.png",
+  "heroImageAlt": "One Residences by Burgundy Architecture & Masterplan",
+  "description": "About Mantra: We follow a simple Mantra... continuous innovation brings continuous success.",
+  "features": [
+    "Verified MahaRERA Registration: P52100066482",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Magarpatta / Keshav Nagar Connectivity",
+    "Under Construction Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Burgundy Ultra-Luxury Collection",
+    "Private Helipad Access & Sky Deck",
+    "100% Final All-Inclusive Price"
+  ],
+  "reraId": "P52100066482",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 30 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mayfair-river-residences-burgundy-mundhwa",
+  "title": "Mayfair River Residences by Burgundy",
+  "slug": "mayfair-river-residences-burgundy-mundhwa",
+  "builderId": "mantra-properties",
+  "location": "Mundhwa Riverside / Kharadi",
+  "city": "Pune",
+  "priceRange": "\u20b91.95 Cr - \u20b93.40 Cr",
+  "exactPrice": "\u20b91.95 Cr - \u20b93.40 Cr (Final All-Inclusive)",
+  "priceType": "Cr",
+  "configurations": [
+    "3 BHK",
+    "4 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "3 BHK Riverside Grand",
+      "carpetArea": "1450 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.95 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "4 BHK Riverfront Estate",
+      "carpetArea": "2350 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b93.40 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Under Construction",
+  "type": "Residential",
+  "possessionDate": "December 2027",
+  "image": "https://www.mantraproperties.in/assets/images/properties/1742478533724-863336114.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/1742478533724-863336114.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1739165273505-7503077.png",
+    "https://www.mantraproperties.in/assets/images/specifications/1724918112328-193609293.png",
+    "https://www.mantraproperties.in/assets/images/properties/1739165273504-476265171.png",
+    "https://www.mantraproperties.in/assets/images/properties/1738923314769-719104725.png",
+    "https://www.mantraproperties.in/assets/images/properties/1738923314769-726859838.png"
+  ],
+  "imageAlt": "Mayfair River Residences by Burgundy by Mantra Properties in Mundhwa Riverside / Kharadi",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/1742478533724-863336114.webp",
+  "heroImageAlt": "Mayfair River Residences by Burgundy Architecture & Masterplan",
+  "description": "About Mantra: We follow a simple Mantra... continuous innovation brings continuous success.",
+  "features": [
+    "Verified MahaRERA Registration: P52100079077",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Mundhwa Riverside / Kharadi Connectivity",
+    "Under Construction Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Direct Waterfront Views",
+    "Private Yacht Club Style Deck",
+    "Bank Grade Title Clearances"
+  ],
+  "reraId": "P52100079077",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 28 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mansion-by-burgundy-keshav-nagar",
+  "title": "Mansion by Burgundy",
+  "slug": "mansion-by-burgundy-keshav-nagar",
+  "builderId": "mantra-properties",
+  "location": "Keshav Nagar / Magarpatta",
+  "city": "Pune",
+  "priceRange": "\u20b93.20 Cr - \u20b95.50 Cr",
+  "exactPrice": "\u20b93.20 Cr - \u20b95.50 Cr (Final All-Inclusive)",
+  "priceType": "Cr",
+  "configurations": [
+    "4 BHK",
+    "5 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "4 BHK Sky Mansion",
+      "carpetArea": "2200 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b93.20 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "5 BHK Imperial Mansion",
+      "carpetArea": "3600 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b95.50 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "New Launch",
+  "type": "Residential",
+  "possessionDate": "March 2028",
+  "image": "https://www.mantraproperties.in/assets/images/properties/1791209446652-296382042.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/1791209446652-296382042.webp",
+    "https://www.mantraproperties.in/assets/images/specifications/1791210533563-355257650.webp",
+    "https://www.mantraproperties.in/assets/images/specifications/1791210533571-734577041.webp",
+    "https://www.mantraproperties.in/assets/images/specifications/1791210533574-278726891.webp",
+    "https://www.mantraproperties.in/assets/images/specifications/1791210533578-657030621.webp",
+    "https://www.mantraproperties.in/assets/images/specifications/1791210533581-228184561.webp"
+  ],
+  "imageAlt": "Mansion by Burgundy by Mantra Properties in Keshav Nagar / Magarpatta",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/1791209446652-296382042.webp",
+  "heroImageAlt": "Mansion by Burgundy Architecture & Masterplan",
+  "description": "About Mantra: We follow a simple Mantra... continuous innovation brings continuous success.",
+  "features": [
+    "Verified MahaRERA Registration: PM1260002601823",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Keshav Nagar / Magarpatta Connectivity",
+    "New Launch Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "MahaRERA 2.0 PM Series Sanctioned",
+    "Single Unit per Floor Privacy",
+    "Private Plunge Pools"
+  ],
+  "reraId": "PM1260002601823",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 32 Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "marvilla-by-burgundy-wagholi",
+  "title": "Marvilla by Burgundy",
+  "slug": "marvilla-by-burgundy-wagholi",
+  "builderId": "mantra-properties",
+  "location": "Wagholi / Keshav Nagar",
+  "city": "Pune",
+  "priceRange": "\u20b93.80 Cr - \u20b96.50 Cr",
+  "exactPrice": "\u20b93.80 Cr - \u20b96.50 Cr (Final All-Inclusive)",
+  "priceType": "Cr",
+  "configurations": [
+    "4 BHK",
+    "5 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "4 BHK Luxury Villa",
+      "carpetArea": "2400 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b93.80 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "5 BHK Estate Villa",
+      "carpetArea": "4100 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b96.50 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Under Construction",
+  "type": "Residential",
+  "possessionDate": "December 2027",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-marvilla-burgundy-intro-671165738.png",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-marvilla-burgundy-intro-671165738.png",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-marvilla-burgundy-first-floor-floor-plan-852949801.png",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-marvilla-burgundy-second-floor-floor-plan-179644507.png",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-marvilla-burgundy-upper-ground-floor-floor-plan-806297806.png",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-marvilla-burgundy-lower-ground-floor-floor-plan-836209918.png",
+    "https://www.mantraproperties.in/assets/images/properties/mantra-marvilla-burgundy-outdoor-cafeteria-370587619.png"
+  ],
+  "imageAlt": "Marvilla by Burgundy by Mantra Properties in Wagholi / Keshav Nagar",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-marvilla-burgundy-intro-671165738.png",
+  "heroImageAlt": "Marvilla by Burgundy Architecture & Masterplan",
+  "description": "About Mantra: We follow a simple Mantra... continuous innovation brings continuous success.",
+  "features": [
+    "Verified MahaRERA Registration: P52100054742",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Wagholi / Keshav Nagar Connectivity",
+    "Under Construction Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Private Landscaped Lawns",
+    "Personal Elevator & Double Height Foyers",
+    "5-Star Concierge Services"
+  ],
+  "reraId": "P52100054742",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "Bespoke Luxury Villas G + 2",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+},
+{
+  "id": "mantra-business-centre-mundhwa",
+  "title": "Mantra Business Centre (MBC)",
+  "slug": "mantra-business-centre-mundhwa",
+  "builderId": "mantra-properties",
+  "location": "Upper Koregaon Park, Mundhwa",
+  "city": "Pune",
+  "priceRange": "\u20b968 L - \u20b93.50 Cr",
+  "exactPrice": "\u20b968 L - \u20b93.50 Cr (Final All-Inclusive)",
+  "priceType": "L",
+  "configurations": [
+    "Boutique Offices",
+    "Retail Showrooms"
+  ],
+  "configurationDetails": [
+    {
+      "type": "Boutique Office Suite",
+      "carpetArea": "450 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b968 L (Final All-Inclusive)"
+    },
+    {
+      "type": "Corporate Floorplate",
+      "carpetArea": "1250 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b91.85 Cr (Final All-Inclusive)"
+    },
+    {
+      "type": "High-Street Retail Store",
+      "carpetArea": "2400 sq.ft. (Cumulative Usable Area)",
+      "priceRange": "\u20b93.50 Cr (Final All-Inclusive)"
+    }
+  ],
+  "status": "Under Construction",
+  "type": "Commercial",
+  "possessionDate": "December 2026",
+  "image": "https://www.mantraproperties.in/assets/images/properties/mantra-business-centre-slider-830756262.webp",
+  "images": [
+    "https://www.mantraproperties.in/assets/images/properties/mantra-business-centre-slider-830756262.webp",
+    "https://img.youtube.com/vi_webp/fm-VkGYYb38/0.webp",
+    "https://www.mantraproperties.in/assets/images/properties/hospitals-medical-centres-185384784.webp",
+    "https://www.mantraproperties.in/assets/images/properties/malls-movie-theatres-147359401.webp",
+    "https://www.mantraproperties.in/assets/images/properties/parks-776264482.webp",
+    "https://www.mantraproperties.in/assets/images/properties/1758709989621-915480000.webp"
+  ],
+  "imageAlt": "Mantra Business Centre (MBC) by Mantra Properties in Upper Koregaon Park, Mundhwa",
+  "heroImage": "https://www.mantraproperties.in/assets/images/properties/mantra-business-centre-slider-830756262.webp",
+  "heroImageAlt": "Mantra Business Centre (MBC) Architecture & Masterplan",
+  "description": "Disclaimer All the designs, images, specifications and other details are purely indicative in nature and the intended recipient should note that these are to be treated as purely provisional and informative and as such only. We reserve the right to modify / amend / alter any of the aforesaid in the best interest of the development and as per RERA regulations. The contents herein should not be construed as an offer / invitation to offer / contract. This printed material inter alia images, contents therein are for representative purpose only. Any party desirous / interested in the project needs ",
+  "features": [
+    "Verified MahaRERA Registration: P52100030995",
+    "100% Final All-Inclusive Price - Zero Separate Agreement / Tax Breakup",
+    "Cumulative Usable Carpet Area Guaranteed",
+    "Prominent Upper Koregaon Park, Mundhwa Connectivity",
+    "Under Construction Construction Status with Strict Timelines",
+    "LegiScore Institutional Grade AAA Title Clearance"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming Pool",
+    "Gymnasium",
+    "Children Play Area",
+    "Landscaped Gardens",
+    "Jogging Track",
+    "24x7 Security & CCTV",
+    "Power Backup"
+  ],
+  "highlights": [
+    "Upper Koregaon Park Frontage",
+    "Double Height Grand Reception",
+    "Grade-A LEED Certified Specification"
+  ],
+  "reraId": "P52100030995",
+  "verificationStatus": "Verified",
+  "verificationSource": "MahaRERA Official Authority Records & LegiScore Intelligence",
+  "totalFloors": "G + 16 Commercial Floors",
+  "approvedBanks": [
+    "State Bank of India",
+    "HDFC Bank Ltd",
+    "ICICI Bank Ltd",
+    "Axis Bank Ltd",
+    "Kotak Mahindra Bank"
+  ]
+}
 ];

@@ -1,7 +1,7 @@
 # PROPSMART REALTY — Complete Real Estate Knowledge Corpus
 > Domain: https://propsmart.co.in
 > MahaRERA Agent Registration: A031262401295
-> Total Verified Projects: 870
+> Total Verified Projects: 900
 > Total Verified Builders: 316
 > Total Localities: 152
 
@@ -12,7 +12,7 @@ This document contains the complete, unabridged real estate database of verified
 # TABLE OF CONTENTS
 1. Localities & Corridor Rates
 2. Leading Real Estate Developers
-3. Complete Verified Projects Catalog (870 Projects)
+3. Complete Verified Projects Catalog (900 Projects)
 
 ---
 
@@ -498,7 +498,7 @@ This document contains the complete, unabridged real estate database of verified
 
 ---
 
-# 3. COMPLETE VERIFIED PROJECTS CATALOG (870 Projects)
+# 3. COMPLETE VERIFIED PROJECTS CATALOG (900 Projects)
 
 | Project Name | Locality | Typologies | Price Range (All-Inclusive) | Status | MahaRERA ID | URL |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -1372,3 +1372,33 @@ This document contains the complete, unabridged real estate database of verified
 | Runwal Orchard Residency | Ghatkopar West | 2 BHK, 3 BHK | ₹1.55 Cr - ₹3.20 Cr | Ready To Move | `P51800000215` | https://propsmart.co.in/project/runwal-orchard-residency-ghatkopar |
 | Runwal Eirene | Balkum | 2 BHK, 2.5 BHK, 3 BHK | ₹82.00 L - ₹1.75 Cr | Ready To Move | `P51700004515` | https://propsmart.co.in/project/runwal-eirene-thane |
 | Runwal The Central Park | Pimpri-Chinchwad | 2 BHK, 3 BHK, 4 BHK | ₹72.00 L - ₹1.55 Cr | Under Construction | `P52100032101` | https://propsmart.co.in/project/runwal-the-central-park-pune |
+| Mantra Mirari | Upper Koregaon Park, Mundhwa | 3 BHK, 4 BHK, 4.5 BHK | ₹1.65 Cr - ₹2.85 Cr | Under Construction | `P52100030037` | https://propsmart.co.in/project/mantra-mirari-mundhwa |
+| Mantra Meridian | Balewadi High Street, Balewadi | 2 BHK, 3 BHK, 4 BHK | ₹98 L - ₹1.75 Cr | Under Construction | `P52100045688` | https://propsmart.co.in/project/mantra-meridian-balewadi |
+| Mantra Marquis | Sarvodaya Nagar, Jogeshwari East | 2 BHK, 3 BHK, 4 BHK | ₹2.10 Cr - ₹3.65 Cr | Under Construction | `P51800001690` | https://propsmart.co.in/project/mantra-marquis-jogeshwari |
+| Mantra Magnus | Keshav Nagar, Mundhwa | 2 BHK, 3 BHK, 4 BHK | ₹85 L - ₹1.55 Cr | Under Construction | `P52100054231` | https://propsmart.co.in/project/mantra-magnus-keshav-nagar |
+| Mantra Magnus Elite | Keshav Nagar, Mundhwa | 3 BHK, 4 BHK | ₹1.25 Cr - ₹1.95 Cr | New Launch | `P52100055623` | https://propsmart.co.in/project/mantra-magnus-elite-keshav-nagar |
+| Mantra Mesmer | Keshav Nagar, Mundhwa | 2 BHK, 3 BHK | ₹72 L - ₹1.28 Cr | Under Construction | `P52100030387` | https://propsmart.co.in/project/mantra-mesmer-keshav-nagar |
+| Mantra Meraki | Akurdi, PCMC | 2 BHK, 3 BHK, 4 BHK, 4.5 BHK | ₹89 L - ₹1.98 Cr | Under Construction | `P52100030518` | https://propsmart.co.in/project/mantra-meraki-akurdi |
+| Mantra Monarch | Balewadi | 2 BHK, 3 BHK | ₹95 L - ₹1.45 Cr | Ready to Move | `P52100023453` | https://propsmart.co.in/project/mantra-monarch-balewadi |
+| Mantra Melange | BT Kawade Road, Sopan Baug Annexe | 2 BHK, 3 BHK | ₹92 L - ₹1.58 Cr | Under Construction | `P52100079582` | https://propsmart.co.in/project/mantra-melange-sopan-baug |
+| Mantra Mistara | Kharadi Annexe, Wagholi | 2 BHK, 3 BHK | ₹58 L - ₹95 L | New Launch | `PR1261012600816` | https://propsmart.co.in/project/mantra-mistara-wagholi |
+| Mantra Insignia | Keshav Nagar, Mundhwa | 2 BHK, 3 BHK | ₹78 L - ₹1.18 Cr | Ready to Move | `P52100026580` | https://propsmart.co.in/project/mantra-insignia-keshav-nagar |
+| Mantra Montana | Dhanori | 2 BHK, 3 BHK | ₹62 L - ₹98 L | Ready to Move | `P52100019684` | https://propsmart.co.in/project/mantra-montana-dhanori |
+| Mantra 99 Riverfront | Baner | 3 BHK | ₹1.45 Cr - ₹1.95 Cr | Ready to Move | `P52100019974` | https://propsmart.co.in/project/mantra-99-riverfront-baner |
+| Mantra 29 Gold Coast | Tingre Nagar / Dhanori | 2 BHK, 3 BHK | ₹65 L - ₹1.08 Cr | Ready to Move | `P52100002674` | https://propsmart.co.in/project/mantra-29-gold-coast-tingre-nagar |
+| Mantra 24 West | Gahunje, Hinjewadi Extension | 1 BHK, 2 BHK | ₹42 L - ₹68 L | Ready to Move | `P52100001260` | https://propsmart.co.in/project/mantra-24-west-gahunje |
+| Mantra Parkview | Dhayari, Sinhagad Road | 2 BHK, 3 BHK | ₹55 L - ₹88 L | Ready to Move | `P52100016922` | https://propsmart.co.in/project/mantra-parkview-dhayari |
+| Mantra Grandstand Trinity | Kothrud Annexe | 3 BHK | ₹1.35 Cr - ₹1.85 Cr | Ready to Move | `P52100020513` | https://propsmart.co.in/project/mantra-grandstand-trinity-kothrud |
+| Mantra Moments | Moshi, PCMC | 2 BHK, 3 BHK | ₹52 L - ₹78 L | Ready to Move | `P52100000094` | https://propsmart.co.in/project/mantra-moments-moshi |
+| Mantra Magic | Chikhali / Moshi, PCMC | 1 BHK, 2 BHK | ₹38 L - ₹58 L | Ready to Move | `P52100000137` | https://propsmart.co.in/project/mantra-magic-chikhali |
+| Mantra City 360 | Talegaon Dabhade | 1 BHK, 2 BHK | ₹32 L - ₹52 L | Ready to Move | `P52100001846` | https://propsmart.co.in/project/mantra-city-360-talegaon |
+| Mantra Divine | Wagholi Annexe / Dongargaon | 1 BHK, 2 BHK | ₹36 L - ₹56 L | Ready to Move | `P52100004781` | https://propsmart.co.in/project/mantra-divine-dongargaon |
+| Mantra 7 Hills | Kirkatwadi, Sinhagad Road | 1 BHK, 2 BHK, 3 BHK | ₹35 L - ₹68 L | Ready to Move | `P52100001182` | https://propsmart.co.in/project/mantra-7-hills-kirkatwadi |
+| Mantra Residency | Nighoje, Chakan Corridor | 1 BHK, 2 BHK, 3 BHK | ₹31 L - ₹62 L | Ready to Move | `P52100001165` | https://propsmart.co.in/project/mantra-residency-chakan |
+| Mantra Essence | Undri, South Pune | 2 BHK, 3 BHK | ₹56 L - ₹89 L | Ready to Move | `P52100001157` | https://propsmart.co.in/project/mantra-essence-undri |
+| Mantra Essence Plots | Undri, South Pune | Villa Plots | ₹48 L - ₹1.15 Cr | Ready to Move | `P52100001796` | https://propsmart.co.in/project/mantra-essence-plots-undri |
+| One Residences by Burgundy | Magarpatta / Keshav Nagar | 3.5 BHK, 4 BHK, 4.5 BHK | ₹2.40 Cr - ₹4.10 Cr | Under Construction | `P52100066482` | https://propsmart.co.in/project/one-residences-burgundy-magarpatta |
+| Mayfair River Residences by Burgundy | Mundhwa Riverside / Kharadi | 3 BHK, 4 BHK | ₹1.95 Cr - ₹3.40 Cr | Under Construction | `P52100079077` | https://propsmart.co.in/project/mayfair-river-residences-burgundy-mundhwa |
+| Mansion by Burgundy | Keshav Nagar / Magarpatta | 4 BHK, 5 BHK | ₹3.20 Cr - ₹5.50 Cr | New Launch | `PM1260002601823` | https://propsmart.co.in/project/mansion-by-burgundy-keshav-nagar |
+| Marvilla by Burgundy | Wagholi / Keshav Nagar | 4 BHK, 5 BHK | ₹3.80 Cr - ₹6.50 Cr | Under Construction | `P52100054742` | https://propsmart.co.in/project/marvilla-by-burgundy-wagholi |
+| Mantra Business Centre (MBC) | Upper Koregaon Park, Mundhwa | Boutique Offices, Retail Showrooms | ₹68 L - ₹3.50 Cr | Under Construction | `P52100030995` | https://propsmart.co.in/project/mantra-business-centre-mundhwa |

@@ -128,9 +128,16 @@ def audit_5_channels(projects: List[Dict[str, Any]], builder_map: Dict[str, str]
         loc = p.get('location', '') or p.get('locality', '')
 
         # Channel 1: District
-        is_valid_format = bool(re.match(r'^P\d{11}$', rera) or rera.startswith('A'))
-        dist_code = rera[1:4] if len(rera) == 12 else ''
-        dist_name = MAHARERA_DISTRICT_CODES.get(dist_code, 'Other')
+        is_valid_format = bool(re.match(r'^(?:P\d{11}|(?:PR|PM|PC|PP)\d+|A\d+)$', rera))
+        if rera.startswith(('PR', 'PM', 'PC', 'PP')):
+            dist_code = '521'
+            dist_name = 'Pune'
+        elif len(rera) == 12 and rera.startswith('P'):
+            dist_code = rera[1:4]
+            dist_name = MAHARERA_DISTRICT_CODES.get(dist_code, 'Maharashtra')
+        else:
+            dist_code = 'Govt'
+            dist_name = 'Maharashtra Statewide'
         channel_stats['districtDistribution'][dist_name] = channel_stats['districtDistribution'].get(dist_name, 0) + 1
 
         c1_pass = is_valid_format
@@ -198,8 +205,15 @@ def export_audit_registries(projects: List[Dict[str, Any]], builder_map: Dict[st
     registry_data = []
     for p in projects:
         rera = p.get('reraId', '').strip()
-        dist_code = rera[1:4] if len(rera) == 12 else ''
-        district_name = MAHARERA_DISTRICT_CODES.get(dist_code, 'Maharashtra')
+        if rera.startswith(('PR', 'PM', 'PC', 'PP')):
+            dist_code = '521'
+            district_name = 'Pune'
+        elif len(rera) == 12 and rera.startswith('P'):
+            dist_code = rera[1:4]
+            district_name = MAHARERA_DISTRICT_CODES.get(dist_code, 'Maharashtra')
+        else:
+            dist_code = 'Govt'
+            district_name = 'Maharashtra Statewide'
         name = p.get('title', '') or p.get('name', '')
         builder_id = p.get('builderId', '')
         dev = builder_map.get(builder_id, builder_id) or 'Reputed Developer'
