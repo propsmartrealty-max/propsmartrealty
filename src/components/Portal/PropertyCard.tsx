@@ -312,7 +312,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                 All-Inclusive Price
                             </span>
                             <p className="text-base sm:text-lg font-black text-slate-900 tracking-tight leading-tight truncate">
-                                {pricing.allInclusiveDisplay}
+                                {pricing.allInclusiveRange || pricing.allInclusiveDisplay}
                             </p>
                             {pricing.isRange && (
                                 <span className="text-[10px] text-emerald-700 font-bold block mt-0.5 truncate">

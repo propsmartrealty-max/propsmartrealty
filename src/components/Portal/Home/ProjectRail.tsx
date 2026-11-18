@@ -78,7 +78,10 @@ const ProjectRail: React.FC<ProjectRailProps> = ({
                     style={{ WebkitOverflowScrolling: 'touch' }}
                 >
                     {railProjects.map((project) => (
-                        <div key={project.id} className="min-w-[280px] sm:min-w-[340px] md:min-w-[360px] snap-center shrink-0">
+                        <div 
+                            key={project.id} 
+                            className="w-[280px] sm:w-[320px] md:w-[340px] max-w-[340px] min-w-[280px] sm:min-w-[320px] md:min-w-[340px] snap-center shrink-0"
+                        >
                             <PropertyCard project={project} variant="grid" />
                         </div>
                     ))}
