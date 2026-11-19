@@ -83,6 +83,7 @@ export const mapProjectFromDb = (data: any): Project => {
         features: safeParseArray(data.features),
         highlights: safeParseArray(data.highlights),
         faqs: safeParseArray(data.faqs),
+        specs: safeParseArray(data.specs),
         brochureUrl: data.brochure_url || data.brochureUrl || '',
         verificationStatus: data.verification_status || data.verificationStatus,
         pricePerSqft: data.price_per_sqft || data.pricePerSqft,

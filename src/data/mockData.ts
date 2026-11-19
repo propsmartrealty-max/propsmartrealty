@@ -2440,7 +2440,11 @@ export const BUILDERS: Builder[] = [
       "establishedYear": 2008,
       "totalProjects": 24,
       "ongoingProjects": 6,
-      "trustScore": 9.8
+      "trustScore": 9.8,
+      "locations": [
+        "Sinhagad Road",
+        "Pune"
+      ]
   },
   {
     "id": "b-reputed",

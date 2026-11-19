@@ -42,27 +42,38 @@ class GlobalErrorBoundary extends Component<Props, State> {
                         <div className="space-y-3">
                             <button
                                 onClick={() => window.location.reload()}
-                                className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-xl transition-all flex items-center justify-center gap-2"
+                                className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-xl transition-all flex items-center justify-center gap-2 cursor-pointer shadow-sm"
                             >
                                 <RefreshCw className="w-5 h-5" />
                                 Reload Page
                             </button>
 
                             <button
-                                onClick={() => window.location.href = '/'}
-                                className="w-full bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold py-3 px-6 rounded-xl transition-all flex items-center justify-center gap-2"
+                                onClick={() => {
+                                    try {
+                                        localStorage.removeItem('propsmart_compare');
+                                        localStorage.removeItem('propsmart_favorites');
+                                        sessionStorage.clear();
+                                    } catch {}
+                                    window.location.href = '/';
+                                }}
+                                className="w-full bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold py-3 px-6 rounded-xl transition-all flex items-center justify-center gap-2 cursor-pointer"
                             >
                                 <Home className="w-5 h-5" />
-                                Return Home
+                                Clear Cache & Return Home
                             </button>
                         </div>
 
-                        {process.env.NODE_ENV === 'development' && this.state.error && (
-                            <div className="mt-8 text-left">
-                                <p className="text-xs font-mono text-red-500 bg-red-50 p-4 rounded-lg overflow-auto max-h-40">
-                                    {this.state.error.toString()}
-                                </p>
-                            </div>
+                        {this.state.error && (
+                            <details className="mt-6 text-left">
+                                <summary className="text-xs text-slate-400 hover:text-slate-600 cursor-pointer text-center select-none">
+                                    Technical Diagnostics
+                                </summary>
+                                <div className="mt-2 bg-slate-50 p-3 rounded-xl border border-slate-200 overflow-auto max-h-40 text-[11px] font-mono text-red-600">
+                                    <p className="font-bold mb-1">{this.state.error.name}: {this.state.error.message}</p>
+                                    <pre className="whitespace-pre-wrap">{this.state.error.stack}</pre>
+                                </div>
+                            </details>
                         )}
                     </div>
                 </div>

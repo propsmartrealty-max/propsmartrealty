@@ -42,8 +42,12 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
     // Compare Logic State
     const [compareList, setCompareList] = React.useState<string[]>(() => {
-        const saved = localStorage.getItem('propsmart_compare');
-        return saved ? JSON.parse(saved) : [];
+        try {
+            const saved = localStorage.getItem('propsmart_compare');
+            return saved ? JSON.parse(saved) : [];
+        } catch {
+            return [];
+        }
     });
 
     const addToCompare = (id: string) => {

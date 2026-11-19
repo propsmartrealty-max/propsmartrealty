@@ -23,9 +23,9 @@ interface SpecVisualMeta {
     description: string;
 }
 
-const resolveSpecVisual = (label: string, value: string): SpecVisualMeta => {
-    const l = label.toLowerCase();
-    const v = value.toLowerCase();
+const resolveSpecVisual = (label: string = '', value: string = ''): SpecVisualMeta => {
+    const l = (label || '').toLowerCase();
+    const v = (value || '').toLowerCase();
 
     if (l.includes('structure') || v.includes('rcc') || v.includes('earthquake')) {
         return {
@@ -108,7 +108,9 @@ const resolveSpecVisual = (label: string, value: string): SpecVisualMeta => {
 
 const SpecificationsInfographic: React.FC<SpecificationsInfographicProps> = ({ specs = [], projectTitle, reraId }) => {
     // Default rich specs fallback if project specs are sparse
-    const effectiveSpecs = specs && specs.length > 0 ? specs : [
+    const effectiveSpecs = Array.isArray(specs) && specs.length > 0
+        ? specs.map((s: any) => typeof s === 'string' ? { label: s, value: s } : { label: s?.label || s?.name || '', value: s?.value || s?.val || '' })
+        : [
         { label: 'Structure', value: 'Earthquake Resistant RCC Shear Wall Structure' },
         { label: 'Flooring', value: '800x800mm Double Charged Vitrified Tiles in Living, Dining & Bedrooms; Anti-skid in Balcony' },
         { label: 'Kitchen', value: 'Granite Kitchen Platform with SS Sink, Provision for Water Purifier & Piped Gas' },

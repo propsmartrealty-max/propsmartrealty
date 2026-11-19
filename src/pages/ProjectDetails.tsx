@@ -1683,14 +1683,14 @@ const ProjectDetails = () => {
                     <section className="pt-8 mt-10 border-t border-slate-200/80">
                         <h3 className="text-lg font-black text-slate-900 mb-4 flex items-center gap-2">
                             <Compass className="w-5 h-5 text-sky-500" />
-                            Explore Real Estate in {project.location} & {cityName}
+                            Explore Real Estate in {project.location || 'Pune'} & {cityName}
                         </h3>
                         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
                             <Link 
-                                to={`/flats-in-${encodeURIComponent(project.location.toLowerCase().trim().replace(/\s+/g, '-'))}`}
+                                to={`/flats-in-${encodeURIComponent((project.location || 'pune').toLowerCase().trim().replace(/\s+/g, '-'))}`}
                                 className="p-3 rounded-xl bg-white border border-slate-200/80 hover:border-sky-400 hover:text-sky-600 font-bold transition-all flex items-center justify-between group shadow-2xs"
                             >
-                                <span>All Flats in {project.location}</span>
+                                <span>All Flats in {project.location || 'Pune'}</span>
                                 <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-sky-600 transition-colors" />
                             </Link>
                             {builder?.slug && (
@@ -1712,25 +1712,25 @@ const ProjectDetails = () => {
                             {['1 BHK', '2 BHK', '3 BHK'].map((bhk) => (
                                 <Link 
                                     key={bhk}
-                                    to={`/${bhk.toLowerCase().replace(/\s+/g, '-')}-flats-in-${encodeURIComponent(project.location.toLowerCase().trim().replace(/\s+/g, '-'))}`}
+                                    to={`/${bhk.toLowerCase().replace(/\s+/g, '-')}-flats-in-${encodeURIComponent((project.location || 'pune').toLowerCase().trim().replace(/\s+/g, '-'))}`}
                                     className="p-3 rounded-xl bg-white border border-slate-200/80 hover:border-sky-400 hover:text-sky-600 font-bold transition-all flex items-center justify-between group shadow-2xs"
                                 >
-                                    <span>{bhk} Flats in {project.location}</span>
+                                    <span>{bhk} Flats in {project.location || 'Pune'}</span>
                                     <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-sky-600 transition-colors" />
                                 </Link>
                             ))}
                             <Link 
-                                to={`/ready-to-move-flats-in-${encodeURIComponent(project.location.toLowerCase().trim().replace(/\s+/g, '-'))}`}
+                                to={`/ready-to-move-flats-in-${encodeURIComponent((project.location || 'pune').toLowerCase().trim().replace(/\s+/g, '-'))}`}
                                 className="p-3 rounded-xl bg-white border border-slate-200/80 hover:border-sky-400 hover:text-sky-600 font-bold transition-all flex items-center justify-between group shadow-2xs"
                             >
-                                <span>Ready to Move in {project.location}</span>
+                                <span>Ready to Move in {project.location || 'Pune'}</span>
                                 <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-sky-600 transition-colors" />
                             </Link>
                             <Link 
-                                to={`/new-launch-projects-in-${encodeURIComponent(project.location.toLowerCase().trim().replace(/\s+/g, '-'))}`}
+                                to={`/new-launch-projects-in-${encodeURIComponent((project.location || 'pune').toLowerCase().trim().replace(/\s+/g, '-'))}`}
                                 className="p-3 rounded-xl bg-white border border-slate-200/80 hover:border-sky-400 hover:text-sky-600 font-bold transition-all flex items-center justify-between group shadow-2xs"
                             >
-                                <span>New Launches in {project.location}</span>
+                                <span>New Launches in {project.location || 'Pune'}</span>
                                 <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-sky-600 transition-colors" />
                             </Link>
                             <Link 
