@@ -80,12 +80,12 @@ export const LocalityCard: React.FC<LocalityCardProps> = ({
                 {/* 5. Bottom Locality Highlight Text */}
                 <div className="absolute bottom-3 left-3 right-3 z-10 text-white pointer-events-none">
                     {/* Consistent bold locality title across website */}
-                    <h4 className="font-sans font-black text-base sm:text-lg tracking-tight text-white mb-0.5 drop-shadow-md group-hover:text-sky-300 transition-colors line-clamp-1 flex items-center justify-between">
+                    <h3 className="font-sans font-black text-base sm:text-lg tracking-tight text-white mb-0.5 drop-shadow-md group-hover:text-sky-300 transition-colors line-clamp-1 flex items-center justify-between">
                         <span className="truncate">{locality.name}</span>
                         {locality.isFeatured && (
                             <span className="text-amber-400 text-xs font-bold font-sans ml-1 shrink-0">★</span>
                         )}
-                    </h4>
+                    </h3>
 
                     {locality.tagline && (
                         <p className="text-[10.5px] text-slate-300 font-medium line-clamp-1 mb-1.5 opacity-90 truncate">

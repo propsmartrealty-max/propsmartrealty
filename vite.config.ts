@@ -212,6 +212,9 @@ export default defineConfig(({ mode }) => {
             if (id.includes('src/data/mockData.ts')) {
               return 'mockData';
             }
+            if (id.includes('src/data/projectSummaries.ts')) {
+              return 'projects-catalog';
+            }
             if (id.includes('node_modules/react/') || id.includes('node_modules/react-dom/') || id.includes('node_modules/react-router')) {
               return 'vendor-react';
             }

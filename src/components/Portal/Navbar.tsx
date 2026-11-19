@@ -174,6 +174,7 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                                 href={getWhatsAppUrl()} 
                                 target="_blank" 
                                 rel="noopener noreferrer" 
+                                aria-label="Contact PROPSMART on WhatsApp"
                                 className="hidden lg:flex items-center gap-2 px-3.5 py-2 rounded-full font-bold text-xs transition-all water-btn bg-emerald-500/90 hover:bg-emerald-600 text-white shadow-md shadow-emerald-500/20 backdrop-blur-md border border-emerald-400/50"
                             >
                                 <svg className="w-3.5 h-3.5 fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -184,6 +185,7 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
 
                             <a 
                                 href="tel:+917744009295" 
+                                aria-label="Call PROPSMART at +91 7744009295"
                                 className={`hidden lg:flex items-center gap-2 px-3.5 py-2 rounded-full font-bold text-xs transition-all water-btn ${
                                     isSolid 
                                         ? 'bg-white/80 hover:bg-white text-slate-800 shadow-sm border border-slate-200/80' 

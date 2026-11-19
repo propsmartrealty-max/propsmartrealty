@@ -46,15 +46,15 @@ const Footer = () => {
                         >
                             <ShieldCheck className="w-4 h-4 text-emerald-400 group-hover:scale-110 transition-transform" />
                             <div>
-                                <span className="text-[10px] uppercase font-bold text-slate-400 block leading-none">MahaRERA Agent</span>
+                                <span className="text-[10px] uppercase font-bold text-slate-300 block leading-none">MahaRERA Agent</span>
                                 <span className="font-extrabold text-amber-400 tracking-wide text-xs">{PROPSMART_RERA.number}</span>
                             </div>
-                            <ExternalLink className="w-3 h-3 text-slate-500 group-hover:text-amber-400 ml-1" />
+                            <ExternalLink className="w-3 h-3 text-slate-400 group-hover:text-amber-400 ml-1" />
                         </a>
                     </div>
                     <div>
-                        <h4 className="text-white font-medium mb-4">Quick Links</h4>
-                        <ul className="space-y-2 text-sm">
+                        <div className="text-white font-bold mb-4 text-base">Quick Links</div>
+                        <ul className="space-y-2 text-sm text-slate-300">
                             <li><Link to="/directory" className="hover:text-brand-400 transition-colors">Project Directory</Link></li>
                             <li><Link to="/about" className="hover:text-brand-400 transition-colors">About Us</Link></li>
                             <li><Link to="/contact" className="hover:text-brand-400 transition-colors">Contact</Link></li>
@@ -64,8 +64,8 @@ const Footer = () => {
                         </ul>
                     </div>
                     <div>
-                        <h4 className="text-white font-medium mb-4">Services</h4>
-                        <ul className="space-y-2 text-sm">
+                        <div className="text-white font-bold mb-4 text-base">Services</div>
+                        <ul className="space-y-2 text-sm text-slate-300">
                             <li><Link to="/search?type=buy" className="hover:text-brand-400 transition-colors">Buy Property</Link></li>
                             <li><Link to="/post-property" className="hover:text-brand-400 transition-colors">Sell Property</Link></li>
                             <li><Link to="/search?type=rent" className="hover:text-brand-400 transition-colors">Rent Property</Link></li>
@@ -74,17 +74,35 @@ const Footer = () => {
                         </ul>
                     </div>
                     <div>
-                        <h4 className="text-white font-medium mb-4">Connect</h4>
-                        <p className="text-sm mb-2">connect@propsmart.co.in</p>
+                        <div className="text-white font-bold mb-4 text-base">Connect</div>
+                        <p className="text-sm mb-2 text-slate-300">connect@propsmart.co.in</p>
                         <p className="text-sm font-bold text-white mb-4">+91 7744009295</p>
-                        <div className="flex gap-4">
-                            <a href="https://www.facebook.com/punepropertyvlog" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-500 transition-colors">
+                        <div className="flex gap-2">
+                            <a 
+                                href="https://www.facebook.com/punepropertyvlog" 
+                                target="_blank" 
+                                rel="noopener noreferrer" 
+                                aria-label="Visit PROPSMART REALTY on Facebook"
+                                className="p-2.5 rounded-xl text-slate-300 hover:text-blue-400 hover:bg-white/10 transition-colors"
+                            >
                                 <Facebook className="w-5 h-5" />
                             </a>
-                            <a href="https://www.instagram.com/pune_property_vlog/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-pink-500 transition-colors">
+                            <a 
+                                href="https://www.instagram.com/pune_property_vlog/" 
+                                target="_blank" 
+                                rel="noopener noreferrer" 
+                                aria-label="Visit PROPSMART REALTY on Instagram"
+                                className="p-2.5 rounded-xl text-slate-300 hover:text-pink-400 hover:bg-white/10 transition-colors"
+                            >
                                 <Instagram className="w-5 h-5" />
                             </a>
-                            <a href="https://www.youtube.com/@punepropertyvlog" target="_blank" rel="noopener noreferrer" className="text-white hover:text-red-500 transition-colors">
+                            <a 
+                                href="https://www.youtube.com/@punepropertyvlog" 
+                                target="_blank" 
+                                rel="noopener noreferrer" 
+                                aria-label="Visit PROPSMART REALTY on YouTube"
+                                className="p-2.5 rounded-xl text-slate-300 hover:text-red-400 hover:bg-white/10 transition-colors"
+                            >
                                 <Youtube className="w-5 h-5" />
                             </a>
                         </div>
@@ -94,10 +112,10 @@ const Footer = () => {
                 {/* Deep SEO Real Estate Authority & Programmatic Keyword Cloud */}
                 <div className="border-t border-slate-800/80 pt-8 pb-6 my-2 text-xs space-y-5">
                     <div>
-                        <h5 className="text-slate-300 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-sky-400">
+                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-sky-400">
                             Popular Pune Real Estate Localities (100% Brokerage Free)
-                        </h5>
-                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-400">
+                        </div>
+                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-300">
                             {[
                                 { name: 'Hinjewadi', slug: 'hinjewadi' },
                                 { name: 'Kharadi', slug: 'kharadi' },
@@ -129,10 +147,10 @@ const Footer = () => {
                     </div>
 
                     <div>
-                        <h5 className="text-slate-300 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-indigo-400">
+                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-indigo-400">
                             Mumbai & MMR Luxury High-Rise Hubs
-                        </h5>
-                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-400">
+                        </div>
+                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-300">
                             {[
                                 { name: 'Andheri West', slug: 'andheri-west' },
                                 { name: 'Bandra East', slug: 'bandra-east' },
@@ -157,10 +175,10 @@ const Footer = () => {
                     </div>
 
                     <div>
-                        <h5 className="text-slate-300 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-amber-400">
+                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-amber-400">
                             Direct Builder Authorized Sales Mandates
-                        </h5>
-                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-400">
+                        </div>
+                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-300">
                             {[
                                 { name: 'Godrej Properties', slug: 'godrej-properties' },
                                 { name: 'Lodha Group', slug: 'lodha-group' },
@@ -187,10 +205,10 @@ const Footer = () => {
                     </div>
 
                     <div>
-                        <h5 className="text-slate-300 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-emerald-400">
+                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-emerald-400">
                             High-Intent Homebuyer Searches (0% Brokerage)
-                        </h5>
-                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-400">
+                        </div>
+                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-300">
                             <Link to="/flats-in-pune" className="hover:text-emerald-300 hover:underline">Flats in Pune</Link>
                             <Link to="/properties-in-mumbai" className="hover:text-emerald-300 hover:underline">Properties in Mumbai</Link>
                             <Link to="/1-bhk-flats-in-hinjewadi" className="hover:text-emerald-300 hover:underline">1 BHK Flats in Hinjewadi</Link>

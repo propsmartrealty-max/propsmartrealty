@@ -9,6 +9,7 @@ import { getRecentSearches, saveRecentSearch, clearRecentSearches, calculateFuzz
 // Top Developer Flagship Building Elevations & Mega Township Projects
 export interface HeroSlide {
     image: string;
+    mobileImage?: string;
     developer: string;
     title: string;
     location: string;
@@ -17,18 +18,19 @@ export interface HeroSlide {
 
 export const FLAGSHIP_HERO_SLIDES: HeroSlide[] = [
     {
-        image: "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Belmondo_1903X800_0.jpg",
-        developer: "Lodha",
-        title: "Lodha Belmondo",
-        location: "Pune Expressway, Gahunje",
-        type: "100+ Acre Luxury Golf Township"
-    },
-    {
-        image: "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+        image: "/images/hero/hero-life-republic.webp",
+        mobileImage: "/images/hero/hero-life-republic-mobile.webp",
         developer: "Kolte-Patil",
         title: "Life Republic",
         location: "Hinjewadi IT Corridor",
         type: "400+ Acre Mega Smart Township"
+    },
+    {
+        image: "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+        developer: "Lodha",
+        title: "Lodha Belmondo",
+        location: "Pune Expressway, Gahunje",
+        type: "100+ Acre Luxury Golf Township"
     },
     {
         image: "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
@@ -157,13 +159,26 @@ const HeroSearch = () => {
                 <AnimatePresence mode='wait'>
                     <motion.div
                         key={currentSlide.image}
-                        initial={{ opacity: 0, scale: 1.08 }}
-                        animate={{ opacity: 1, scale: 1 }}
+                        initial={currentImage === 0 ? { opacity: 1 } : { opacity: 0 }}
+                        animate={{ opacity: 1 }}
                         exit={{ opacity: 0 }}
-                        transition={{ duration: 1.6, ease: "easeOut" }}
-                        className="absolute inset-0 bg-cover bg-center"
-                        style={{ backgroundImage: `url(${currentSlide.image})` }}
-                    />
+                        transition={{ duration: 0.8, ease: "easeOut" }}
+                        className="absolute inset-0"
+                    >
+                        <picture>
+                            {currentSlide.mobileImage && (
+                                <source media="(max-width: 768px)" srcSet={currentSlide.mobileImage} type="image/webp" />
+                            )}
+                            <img
+                                src={currentSlide.image}
+                                alt={`${currentSlide.developer} - ${currentSlide.title}`}
+                                className="w-full h-full object-cover"
+                                {...({ fetchpriority: currentImage === 0 ? "high" : "low" } as any)}
+                                decoding={currentImage === 0 ? "sync" : "async"}
+                                loading={currentImage === 0 ? "eager" : "lazy"}
+                            />
+                        </picture>
+                    </motion.div>
                 </AnimatePresence>
 
                 {/* Subtle Ambient Vignette & Gradient for High-Contrast Text Legibility */}
@@ -186,19 +201,21 @@ const HeroSearch = () => {
                 </div>
             </div>
 
-            {/* Slide Navigation Indicator Dots */}
-            <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-2 z-20 pointer-events-auto">
+            {/* Slide Navigation Indicator Dots (Accessible Touch Targets) */}
+            <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-1 z-20 pointer-events-auto">
                 {slides.map((slide, idx) => (
                     <button
                         key={idx}
                         onClick={() => setCurrentImage(idx)}
-                        className={`transition-all duration-300 rounded-full ${
+                        className="p-3 flex items-center justify-center rounded-full hover:bg-white/10 transition-colors"
+                        aria-label={`View slide ${idx + 1}: ${slide.developer} ${slide.title}`}
+                    >
+                        <span className={`block transition-all duration-300 rounded-full ${
                             idx === currentImage
                                 ? 'w-8 h-2 bg-gradient-to-r from-amber-400 to-brand-400 shadow-md shadow-amber-500/30'
-                                : 'w-2 h-2 bg-white/40 hover:bg-white/80'
-                        }`}
-                        title={`${slide.developer} - ${slide.title}`}
-                    />
+                                : 'w-2.5 h-2.5 bg-white/50 hover:bg-white/90'
+                        }`} />
+                    </button>
                 ))}
             </div>
 
@@ -281,7 +298,7 @@ const HeroSearch = () => {
                                     className={`flex items-center gap-1.5 sm:gap-2 px-3.5 sm:px-6 py-2.5 sm:py-3.5 text-xs sm:text-sm font-bold transition-all relative whitespace-nowrap rounded-t-2xl shrink-0 ${
                                         activeTab === tab.id
                                             ? 'text-sky-600 bg-white/95 shadow-[0_-5px_15px_rgba(14,165,233,0.08)] z-10'
-                                            : 'text-slate-500 hover:text-slate-800 hover:bg-white/40'
+                                            : 'text-slate-600 hover:text-slate-900 hover:bg-white/40'
                                     }`}
                                 >
                                     <div className={`p-1 rounded-full ${activeTab === tab.id ? 'bg-sky-100/80 text-sky-600' : 'bg-transparent'}`}>
@@ -304,6 +321,7 @@ const HeroSearch = () => {
                                 <button
                                     type="button"
                                     onClick={() => setCityDropdownOpen(!cityDropdownOpen)}
+                                    aria-label={`Select City: Currently ${selectedCity}`}
                                     className="flex justify-between items-center w-full text-slate-800 font-extrabold text-lg hover:text-sky-600 transition-colors"
                                 >
                                     <span>{selectedCity}</span>
@@ -342,11 +360,13 @@ const HeroSearch = () => {
 
                             {/* Text Input */}
                             <div className="flex-1 w-full relative group">
-                                <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1 block group-hover:text-sky-600 transition-colors">Search Location, Project or Builder</label>
+                                <label htmlFor="hero-search-input" className="text-[10px] font-black text-slate-500 uppercase tracking-widest mb-1 block group-hover:text-sky-600 transition-colors">Search Location, Project or Builder</label>
                                 <input
+                                    id="hero-search-input"
                                     type="text"
+                                    aria-label="Search Location, Project or Builder"
                                     placeholder={`Try "3 BHK in Baner" or "VTP Realty"`}
-                                    className="w-full text-slate-800 text-base sm:text-lg font-semibold placeholder:text-gray-300 outline-none bg-transparent"
+                                    className="w-full text-slate-800 text-base sm:text-lg font-semibold placeholder:text-gray-400 outline-none bg-transparent"
                                     value={searchQuery}
                                     onChange={(e) => setSearchQuery(e.target.value)}
                                     onFocus={() => setShowSuggestions(true)}
@@ -394,10 +414,10 @@ const HeroSearch = () => {
                                             </div>
                                         )}
 
-                                        <h4 className="font-sans font-extrabold text-xs text-sky-700 px-3 py-1 uppercase tracking-wider flex items-center justify-between">
+                                        <div className="font-sans font-extrabold text-xs text-sky-700 px-3 py-1 uppercase tracking-wider flex items-center justify-between">
                                             <span>Prime {selectedCity} Corridors</span>
                                             <span className="text-[10px] text-sky-600 font-bold lowercase">★ top micro-markets</span>
-                                        </h4>
+                                        </div>
                                         <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 mt-2">
                                             {(CITY_HERO_LOCALITIES[selectedCity] || CITY_HERO_LOCALITIES['Pune']).map(loc => (
                                                 <div

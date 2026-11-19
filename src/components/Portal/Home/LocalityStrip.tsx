@@ -133,10 +133,10 @@ const LocalityStrip: React.FC = () => {
                         <Compass className="w-3.5 h-3.5 text-accent-600" />
                         Explore By City & Micro-Market
                     </span>
-                    <h3 className="font-sans font-extrabold text-3xl md:text-4xl text-slate-900 tracking-tight flex items-center justify-center gap-2">
+                    <h2 className="font-sans font-extrabold text-3xl md:text-4xl text-slate-900 tracking-tight flex items-center justify-center gap-2">
                         <span>{activeMeta.icon}</span>
                         <span>Popular Micro-Markets in {selectedCity}</span>
-                    </h3>
+                    </h2>
                     <p className="font-sans text-slate-500 text-sm md:text-base mt-2 max-w-2xl mx-auto">
                         {activeMeta.subtext} with live capital appreciation and 100% direct developer pricing.
                     </p>
@@ -207,9 +207,9 @@ const LocalityStrip: React.FC = () => {
                     <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
                         <div className="flex items-center gap-2">
                             <Sparkles className="w-4 h-4 text-amber-500" />
-                            <h4 className="font-sans font-extrabold text-sm md:text-base text-slate-900 tracking-tight">
+                            <h3 className="font-sans font-extrabold text-sm md:text-base text-slate-900 tracking-tight">
                                 Complete {selectedCity} Micro-Markets Index ({cityLocalities.length} Localities)
-                            </h4>
+                            </h3>
                         </div>
                         <div className="w-full sm:w-64">
                             <input

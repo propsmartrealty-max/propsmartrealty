@@ -133,9 +133,9 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
 
                                 {/* Builder Title & Project Metrics - Uniform 2-line height alignment */}
                                 <div className="text-center mt-3 pt-2 border-t border-white/5 flex flex-col justify-between">
-                                    <h4 className="font-sans font-extrabold text-xs sm:text-sm text-white group-hover:text-amber-300 transition-colors line-clamp-2 min-h-[2.5rem] flex items-center justify-center mb-1 leading-snug">
+                                    <h3 className="font-sans font-extrabold text-xs sm:text-sm text-white group-hover:text-amber-300 transition-colors line-clamp-2 min-h-[2.5rem] flex items-center justify-center mb-1 leading-snug">
                                         {builder.name}
-                                    </h4>
+                                    </h3>
                                     <p className="font-sans font-bold text-[11px] sm:text-xs text-slate-400">
                                         {builder.totalProjects || 20}+ Projects
                                     </p>

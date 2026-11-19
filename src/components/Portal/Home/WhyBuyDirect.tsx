@@ -100,9 +100,9 @@ const WhyBuyDirect: React.FC = () => {
                             <div className="text-xs font-extrabold uppercase tracking-widest text-emerald-400">
                                 Official Developer Sales Desk
                             </div>
-                            <h4 className="text-xl font-black text-white mt-0.5">
+                            <h3 className="text-xl font-black text-white mt-0.5">
                                 Connect directly with developer sales teams in Pune
-                            </h4>
+                            </h3>
                             <p className="text-xs text-slate-400 mt-1">
                                 0% Brokerage Guaranteed • Authentic Sanctioned Pricing • Verified MahaRERA Authorized Partner
                             </p>

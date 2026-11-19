@@ -68,6 +68,10 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Propsmart">
 
+  <!-- Critical Hero Image Preload for Instant Sub-2s LCP -->
+  <link rel="preload" as="image" href="/images/hero/hero-life-republic-mobile.webp" media="(max-width: 768px)" fetchpriority="high">
+  <link rel="preload" as="image" href="/images/hero/hero-life-republic.webp" media="(min-width: 769px)" fetchpriority="high">
+
   <!-- Performance & CDNs Preconnect / DNS Prefetch -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

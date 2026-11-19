@@ -217,7 +217,8 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                     setShowQRModal(true);
                                 }}
                                 className="p-1.5 rounded-lg bg-slate-950/70 hover:bg-emerald-600 text-white backdrop-blur-md border border-white/20 transition-all shadow-md hover:scale-105 active:scale-95"
-                                title="Scan MahaRERA Verification QR"
+                                title={`Scan MahaRERA Verification QR for ${project.title}`}
+                                aria-label={`Scan MahaRERA Verification QR for ${project.title}`}
                             >
                                 <QrCode className="w-3.5 h-3.5 text-emerald-300" />
                             </button>
@@ -237,7 +238,8 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                     ? 'bg-brand-600 text-white border-brand-400 shadow-brand-500/30'
                                     : 'bg-slate-950/70 text-white border-white/20 hover:bg-white hover:text-slate-900'
                             }`}
-                            title="Add to compare list"
+                            title={isInCompare ? "Remove from compare list" : "Add to compare list"}
+                            aria-label={isInCompare ? `Remove ${project.title} from compare list` : `Add ${project.title} to compare list`}
                         >
                             {isInCompare ? (
                                 <>
@@ -483,6 +485,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                             type="button"
                             onClick={() => setShowQRModal(false)}
                             className="absolute top-4 right-4 p-1.5 rounded-full text-slate-400 hover:text-slate-700 hover:bg-sky-50"
+                            aria-label="Close MahaRERA QR Modal"
                         >
                             <X className="w-5 h-5" />
                         </button>
@@ -490,7 +493,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         <div className="w-10 h-10 rounded-full bg-emerald-50 text-emerald-600 flex items-center justify-center mx-auto mb-3 shadow-inner border border-emerald-100">
                             <ShieldCheck className="w-6 h-6" />
                         </div>
-                        <h4 className="font-black text-slate-900 text-base leading-tight mb-1">{project.title}</h4>
+                        <p className="font-black text-slate-900 text-base leading-tight mb-1">{project.title}</p>
                         <p className="text-[11px] text-slate-500 mb-4">Official MahaRERA Regulatory QR Code</p>
 
                         <a 

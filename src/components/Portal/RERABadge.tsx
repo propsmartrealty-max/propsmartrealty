@@ -88,9 +88,9 @@ const RERABadge: React.FC<RERABadgeProps> = ({ variant = 'card', isSolid = false
                                 Direct Developer Partner
                             </span>
                         </div>
-                        <h3 className="text-xl md:text-2xl font-black tracking-tight text-white mt-1">
+                        <h2 className="text-xl md:text-2xl font-black tracking-tight text-white mt-1">
                             PROPSMART REALTY MahaRERA: <span className="text-amber-400">{PROPSMART_RERA.number}</span>
-                        </h3>
+                        </h2>
                         <p className="text-sm text-slate-300 mt-1 max-w-2xl">
                             All residential & commercial projects listed on this platform are registered with MahaRERA. Buy with 0% brokerage directly from developer inventory.
                         </p>

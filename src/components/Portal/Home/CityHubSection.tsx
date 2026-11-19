@@ -154,7 +154,7 @@ const CityHubSection: React.FC<CityHubSectionProps> = ({ projects }) => {
                 ) : (
                     <div className="text-center py-12 bg-white rounded-2xl border border-dashed border-slate-300">
                         <Building2 className="w-12 h-12 text-slate-300 mx-auto mb-3" />
-                        <h4 className="text-lg font-bold text-slate-800">Projects Loading for {selectedCity}</h4>
+                        <p className="text-lg font-bold text-slate-800">Projects Loading for {selectedCity}</p>
                         <p className="text-sm text-slate-500 mt-1">Direct builder inventory being updated with MahaRERA clearances.</p>
                     </div>
                 )}
@@ -166,9 +166,9 @@ const CityHubSection: React.FC<CityHubSectionProps> = ({ projects }) => {
                             <ShieldCheck className="w-5 h-5" />
                         </div>
                         <div>
-                            <h4 className="text-base font-black">
+                            <h3 className="text-base font-black">
                                 Looking for bespoke project recommendations in {selectedCity}?
-                            </h4>
+                            </h3>
                             <p className="text-xs text-slate-300 mt-0.5">
                                 Connect directly with our {selectedCity} builder sales partner team for floor plans, payment schedules, and zero brokerage bookings.
                             </p>
