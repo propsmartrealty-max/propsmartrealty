@@ -70,14 +70,16 @@ export async function onRequest(context: {
     }
 
     // 2. Fetch static assets (.svg, .png, .jpg, .webp, .css, .js, .xml, .txt, .json)
-    const assetResponse = await env.ASSETS.fetch(request);
-    if (assetResponse.status === 200 || assetResponse.status === 304 || (assetResponse.status >= 300 && assetResponse.status < 400)) {
-        return assetResponse;
-    }
+    if (pathname !== '/' && pathname !== '') {
+        const assetResponse = await env.ASSETS.fetch(request);
+        if (assetResponse.status === 200 || assetResponse.status === 304 || (assetResponse.status >= 300 && assetResponse.status < 400)) {
+            return assetResponse;
+        }
 
-    // Never rewrite static file extensions that were 404
-    if (/\.[a-zA-Z0-9]+$/.test(pathname)) {
-        return assetResponse;
+        // Never rewrite static file extensions that were 404
+        if (/\.[a-zA-Z0-9]+$/.test(pathname)) {
+            return assetResponse;
+        }
     }
 
     // 3. Fallback to index.html with HTTP 200 OK for SPA routing
