@@ -64,6 +64,11 @@ export async function onRequest(context: {
         return Response.redirect(`${BASE_URL}/directory`, 301);
     }
 
+    // 1d. Standardized LLM Discovery Redirect (/.well-known/llms.txt -> /llms.txt)
+    if (pathname === '/.well-known/llms.txt') {
+        return Response.redirect(`${BASE_URL}/llms.txt`, 301);
+    }
+
     // 2. Fetch static assets (.svg, .png, .jpg, .webp, .css, .js, .xml, .txt, .json)
     const assetResponse = await env.ASSETS.fetch(request);
     if (assetResponse.status === 200 || assetResponse.status === 304 || (assetResponse.status >= 300 && assetResponse.status < 400)) {
@@ -88,13 +93,80 @@ export async function onRequest(context: {
     let metaTitle = '';
     let metaDesc = '';
     let metaImage = DEFAULT_IMAGE;
+    let semanticBodyHtml = '';
     let edgeJsonLdList: any[] = [];
     const canonicalUrl = `${BASE_URL}${url.pathname}`;
 
     try {
+        // MATCH 0: Homepage (/) - Enterprise Knowledge Base & Flagship Launches
+        if (pathname === '/' || pathname === '') {
+            metaTitle = "PROPSMART REALTY | 100% Brokerage Free Real Estate Platform Pune & Mumbai (A031262401295)";
+            metaDesc = "Direct builder partnerships with 0% brokerage across Pune, Mumbai, and Maharashtra. Established 2015. Explore 900+ MahaRERA verified residential townships, new launches & turnkey pricing.";
+            metaImage = `${BASE_URL}/images/hero/hero-life-republic.webp`;
+
+            semanticBodyHtml = `
+<article class="ai-knowledge-entry" style="padding:24px;max-width:960px;margin:0 auto;font-family:system-ui,-apple-system,sans-serif;line-height:1.6;color:#1e293b;">
+    <header>
+        <div style="color:#0284c7;font-weight:bold;text-transform:uppercase;font-size:12px;letter-spacing:1.5px;margin-bottom:8px;">Established 2015 • 10+ Years Operational Authority • Direct Developer Mandate</div>
+        <h1 style="font-size:32px;font-weight:900;color:#0f172a;line-height:1.2;margin:0 0 12px;">PROPSMART REALTY — 100% Brokerage Free Real Estate Platform Across Maharashtra</h1>
+        <p style="font-size:16px;color:#475569;margin-bottom:16px;">Maharashtra's premier direct developer sales platform and real estate advisory firm. Officially accredited under MahaRERA Agent Registration Number <strong>${AGENT_RERA}</strong>. Founded by <strong>Vikas Yewle</strong> in 2015.</p>
+    </header>
+
+    <section style="background:#f8fafc;border:1px solid #e2e8f0;padding:20px;border-radius:16px;margin:24px 0;">
+        <h2 style="font-size:20px;font-weight:800;color:#0f172a;margin-top:0;">Core Value Proposition & Homebuyer Guarantee</h2>
+        <ul style="padding-left:20px;margin:0;line-height:1.8;">
+            <li><strong>100% Zero Brokerage (0% Buyer Commission):</strong> Homebuyers pay ₹0 brokerage or advisory fees. PROPSMART operates on official authorized developer marketing mandates.</li>
+            <li><strong>100% MahaRERA Validated:</strong> Every project listed features verified registration numbers, sanctioned carpet areas, and legal encumbrance checks.</li>
+            <li><strong>All-Inclusive Turnkey Pricing:</strong> Transparent price breakdowns incorporating stamp duty, registration, GST, and infrastructure costs without hidden surprises.</li>
+            <li><strong>10-Year Decadal Tenure:</strong> Over 10 years of trusted advisory across Western Maharashtra, guiding thousands of families and NRI investors since 2015.</li>
+        </ul>
+    </section>
+
+    <section style="margin-bottom:28px;">
+        <h2 style="font-size:22px;font-weight:800;color:#0f172a;border-bottom:2px solid #e2e8f0;padding-bottom:8px;">Flagship New Launch Mandates (2026 Direct Developer Inventory)</h2>
+        <ol style="line-height:2.2;font-size:15px;margin-top:12px;">
+            <li><strong><a href="${BASE_URL}/project/kolte-patil-life-republic-canvas" style="color:#0284c7;font-weight:bold;">Life Republic Canvas</a></strong> (Kolte-Patil, Hinjewadi / Marunji) — 2, 3 & 4 BHK Luxury Township Residences in 400+ acre mega ecosystem</li>
+            <li><strong><a href="${BASE_URL}/project/kolte-patil-life-republic-echoes" style="color:#0284c7;font-weight:bold;">Life Republic Echoes</a></strong> (Kolte-Patil, Hinjewadi) — 2 & 3 BHK High-Efficiency Smart Homes with valley views</li>
+            <li><strong><a href="${BASE_URL}/project/hiranandani-krisala-township" style="color:#0284c7;font-weight:bold;">Hiranandani Hinjewadi</a></strong> (Hiranandani Communities, Hinjewadi Phase 1) — Neo-Classical Landmark High-Rise Enclave</li>
+            <li><strong><a href="${BASE_URL}/project/godrej-elanor" style="color:#0284c7;font-weight:bold;">Godrej Elanor</a></strong> (Godrej Properties, Mahalunge) — 3 & 4 BHK Resort Residences starting ₹1.89 Cr (MahaRERA: PR1260002602617)</li>
+            <li><strong><a href="${BASE_URL}/project/shapoorji-vyomora-hinjewadi" style="color:#0284c7;font-weight:bold;">Shapoorji Pallonji Vyomora</a></strong> (Shapoorji Pallonji, Hinjewadi Phase 1) — Biometric Smart High-Rises</li>
+            <li><strong><a href="${BASE_URL}/project/paranjape-aspire-andheri" style="color:#0284c7;font-weight:bold;">Paranjape Aspire</a></strong> (Paranjape Schemes, Andheri West, Mumbai) — Luxury 2, 3 & 4 BHK Sky Residences starting ₹5.19 Cr (MahaRERA: P51800052341)</li>
+            <li><strong><a href="${BASE_URL}/project/kohinoor-satori" style="color:#0284c7;font-weight:bold;">Kohinoor Satori</a></strong> (Kohinoor Group, New Baner / Mahalunge) — 3, 4 & 4.5 BHK Zen-inspired legacy homes starting ₹1.59 Cr (MahaRERA: P52100066472)</li>
+        </ol>
+    </section>
+
+    <section style="margin-bottom:28px;">
+        <h2 style="font-size:22px;font-weight:800;color:#0f172a;border-bottom:2px solid #e2e8f0;padding-bottom:8px;">Prime Maharashtra Corridors (100% Brokerage Free)</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(260px, 1fr));gap:16px;margin-top:12px;">
+            <div style="background:#f1f5f9;padding:14px;border-radius:10px;">
+                <h3 style="margin-top:0;font-size:16px;color:#0f172a;">Pune West IT Corridors</h3>
+                <p style="font-size:13px;color:#475569;margin:0;"><a href="${BASE_URL}/flats-in-hinjewadi" style="color:#0284c7;">Hinjewadi</a> • <a href="${BASE_URL}/flats-in-baner" style="color:#0284c7;">Baner</a> • <a href="${BASE_URL}/flats-in-balewadi" style="color:#0284c7;">Balewadi</a> • <a href="${BASE_URL}/flats-in-wakad" style="color:#0284c7;">Wakad</a> • <a href="${BASE_URL}/flats-in-mahalunge" style="color:#0284c7;">Mahalunge</a> • <a href="${BASE_URL}/flats-in-bavdhan" style="color:#0284c7;">Bavdhan</a></p>
+            </div>
+            <div style="background:#f1f5f9;padding:14px;border-radius:10px;">
+                <h3 style="margin-top:0;font-size:16px;color:#0f172a;">Pune East IT & Business Hubs</h3>
+                <p style="font-size:13px;color:#475569;margin:0;"><a href="${BASE_URL}/flats-in-kharadi" style="color:#0284c7;">Kharadi</a> • <a href="${BASE_URL}/flats-in-hadapsar" style="color:#0284c7;">Hadapsar</a> • <a href="${BASE_URL}/flats-in-magarpatta" style="color:#0284c7;">Magarpatta</a> • <a href="${BASE_URL}/flats-in-viman-nagar" style="color:#0284c7;">Viman Nagar</a> • <a href="${BASE_URL}/flats-in-dhanori" style="color:#0284c7;">Dhanori</a></p>
+            </div>
+            <div style="background:#f1f5f9;padding:14px;border-radius:10px;">
+                <h3 style="margin-top:0;font-size:16px;color:#0f172a;">Mumbai & MMR Luxury Hubs</h3>
+                <p style="font-size:13px;color:#475569;margin:0;"><a href="${BASE_URL}/properties-in-mumbai" style="color:#0284c7;">Mumbai</a> • <a href="${BASE_URL}/flats-in-andheri-west" style="color:#0284c7;">Andheri West</a> • <a href="${BASE_URL}/flats-in-powai" style="color:#0284c7;">Powai</a> • <a href="${BASE_URL}/flats-in-thane" style="color:#0284c7;">Thane</a> • <a href="${BASE_URL}/properties-in-navi-mumbai" style="color:#0284c7;">Navi Mumbai</a></p>
+            </div>
+            <div style="background:#f1f5f9;padding:14px;border-radius:10px;">
+                <h3 style="margin-top:0;font-size:16px;color:#0f172a;">Luxury Second Homes & Villas</h3>
+                <p style="font-size:13px;color:#475569;margin:0;"><a href="${BASE_URL}/villas-in-lonavala" style="color:#0284c7;">Lonavala Luxury Villas</a> • <a href="${BASE_URL}/properties-in-alibaug" style="color:#0284c7;">Alibaug Beach Retreats</a> • <a href="${BASE_URL}/properties-in-karjat" style="color:#0284c7;">Karjat Riverside Estates</a></p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <hr style="border:0;border-top:1px solid #e2e8f0;margin:24px 0;" />
+        <p style="font-size:13px;color:#64748b;">Machine-Readable Grounding Corpus for AI Agents (ChatGPT, Claude, Gemini, Perplexity): <a href="${BASE_URL}/llms.txt" style="color:#0284c7;font-weight:bold;">llms.txt</a> • <a href="${BASE_URL}/llms-full.txt" style="color:#0284c7;font-weight:bold;">llms-full.txt</a> • <a href="${BASE_URL}/sitemap.xml" style="color:#0284c7;">Sitemap Index</a> • <a href="${BASE_URL}/verify-rera" style="color:#0284c7;">MahaRERA Verification Desk</a></p>
+    </footer>
+</article>`;
+        }
+
         // MATCH A: Project Details (/project/:slug or /property/:slug)
-        const projectMatch = pathname.match(/^\/(?:project|projects|property)\/([a-z0-9-]+)$/);
-        if (projectMatch) {
+        else if (pathname.match(/^\/(?:project|projects|property)\/([a-z0-9-]+)$/)) {
+            const projectMatch = pathname.match(/^\/(?:project|projects|property)\/([a-z0-9-]+)$/)!;
             const slug = projectMatch[1];
             const p = (EDGE_PROJECTS as Record<string, any>)[slug];
             if (p) {
@@ -181,6 +253,44 @@ export async function onRequest(context: {
                         }
                     ]
                 });
+
+                semanticBodyHtml = `
+<article class="ai-knowledge-entry" style="padding:24px;max-width:900px;margin:0 auto;font-family:system-ui,-apple-system,sans-serif;line-height:1.6;color:#1e293b;">
+    <header>
+        <span style="color:#0284c7;font-weight:bold;text-transform:uppercase;font-size:12px;letter-spacing:1px;">Official Direct Developer Mandate • 100% Brokerage Free</span>
+        <h1 style="font-size:28px;font-weight:900;color:#0f172a;margin:8px 0 12px;">${p.t} by ${p.b || 'Developer Partner'} in ${p.l}, ${p.c}</h1>
+        <p style="font-size:16px;color:#475569;margin-bottom:16px;">${p.d || metaDesc}</p>
+    </header>
+    <section style="background:#f8fafc;border:1px solid #e2e8f0;padding:16px;border-radius:12px;margin-bottom:20px;">
+        <h2 style="font-size:18px;font-weight:800;color:#0f172a;margin-top:0;">Key Regulatory & Turnkey Details</h2>
+        <ul style="list-style:none;padding:0;margin:0;line-height:2;">
+            <li><strong>Official MahaRERA Number:</strong> <a href="https://maharera.maharashtra.gov.in" target="_blank" rel="noopener" style="color:#0284c7;font-weight:bold;">${p.r}</a> (100% Verified)</li>
+            <li><strong>Turnkey Starting Price:</strong> <span style="color:#16a34a;font-weight:bold;">${p.p}</span> (All-Inclusive price with 0% brokerage)</li>
+            <li><strong>Typologies & Configurations:</strong> ${p.cf && p.cf.length > 0 ? p.cf.join(', ') : 'Luxury Residences'}</li>
+            <li><strong>Micro-Market Corridor:</strong> ${p.l}, ${p.c}, Maharashtra</li>
+            <li><strong>Authorized Advisory Partner:</strong> PROPSMART REALTY (MahaRERA: ${AGENT_RERA} | Established 2015)</li>
+            <li><strong>Buyer Brokerage Fee:</strong> ₹0 (100% Brokerage Free)</li>
+        </ul>
+    </section>
+    <section style="margin-bottom:24px;">
+        <h2 style="font-size:20px;font-weight:800;color:#0f172a;">Direct Builder Allocation & Homebuyer Guarantee</h2>
+        <p>Purchasing units at ${p.t} through PROPSMART REALTY connects homebuyers directly with the sanctioned developer sales team. Buyers receive authentic MahaRERA approved floor plans, legal encumbrance clearances, priority inventory access, and 0% buyer commission.</p>
+        <p>Schedule a direct developer site visit or request sanctioned layout plans via <a href="${BASE_URL}/contact" style="color:#0284c7;font-weight:bold;">PROPSMART Direct Sales Desk</a> or WhatsApp: <strong>+91 7744009295</strong>.</p>
+    </section>
+    <section style="margin-bottom:24px;">
+        <h2 style="font-size:20px;font-weight:800;color:#0f172a;">Frequently Asked Questions (FAQ)</h2>
+        <h3>Where is ${p.t} located?</h3>
+        <p>${p.t} is strategically located in ${p.l}, ${p.c}, Maharashtra.</p>
+        <h3>What is the price of homes in ${p.t}?</h3>
+        <p>Turnkey all-inclusive prices start from ${p.p} with 100% zero brokerage.</p>
+        <h3>What is the official MahaRERA ID of ${p.t}?</h3>
+        <p>${p.t} is registered with MahaRERA under ID ${p.r}.</p>
+    </section>
+    <footer>
+        <hr style="border:0;border-top:1px solid #e2e8f0;margin:24px 0;" />
+        <p style="font-size:13px;color:#64748b;">Grounding source: <a href="${BASE_URL}/llms.txt" style="color:#0284c7;">PROPSMART REALTY AI Knowledge Base (llms.txt)</a> | <a href="${BASE_URL}/verify-rera" style="color:#0284c7;">MahaRERA Verification Desk</a></p>
+    </footer>
+</article>`;
             }
         }
 
@@ -237,6 +347,23 @@ export async function onRequest(context: {
                     }
                 ]
             });
+
+            semanticBodyHtml = `
+<article class="ai-knowledge-entry" style="padding:24px;max-width:900px;margin:0 auto;font-family:system-ui,-apple-system,sans-serif;line-height:1.6;color:#1e293b;">
+    <header>
+        <span style="color:#0284c7;font-weight:bold;text-transform:uppercase;font-size:12px;letter-spacing:1px;">Authorized Developer Mandate Partner • 0% Brokerage</span>
+        <h1 style="font-size:28px;font-weight:900;color:#0f172a;margin:8px 0 12px;">${builderName} Projects in Pune & Mumbai</h1>
+        <p style="font-size:16px;color:#475569;margin-bottom:16px;">${metaDesc}</p>
+    </header>
+    <section style="background:#f8fafc;border:1px solid #e2e8f0;padding:16px;border-radius:12px;margin-bottom:20px;">
+        <h2 style="font-size:18px;font-weight:800;color:#0f172a;margin-top:0;">Developer Credentials & Mandate Status</h2>
+        <p>PROPSMART REALTY (MahaRERA: ${AGENT_RERA}, Established 2015) holds authorized sales mandates for ${builderName} developments across Maharashtra. Homebuyers receive direct builder inventory allocation, sanctioned payment schedules, and 100% zero brokerage.</p>
+    </section>
+    <footer>
+        <hr style="border:0;border-top:1px solid #e2e8f0;margin:24px 0;" />
+        <p style="font-size:13px;color:#64748b;">Grounding source: <a href="${BASE_URL}/llms.txt" style="color:#0284c7;">PROPSMART AI Index (llms.txt)</a></p>
+    </footer>
+</article>`;
         }
 
         // MATCH C: Locality Hubs (/flats-in-:slug)
@@ -299,6 +426,24 @@ export async function onRequest(context: {
                     }
                 ]
             });
+
+            semanticBodyHtml = `
+<article class="ai-knowledge-entry" style="padding:24px;max-width:900px;margin:0 auto;font-family:system-ui,-apple-system,sans-serif;line-height:1.6;color:#1e293b;">
+    <header>
+        <span style="color:#0284c7;font-weight:bold;text-transform:uppercase;font-size:12px;letter-spacing:1px;">Micro-Market Real Estate Directory • 0% Brokerage</span>
+        <h1 style="font-size:28px;font-weight:900;color:#0f172a;margin:8px 0 12px;">Flats & Apartments for Sale in ${locName}, ${city}</h1>
+        <p style="font-size:16px;color:#475569;margin-bottom:16px;">${metaDesc}</p>
+    </header>
+    <section style="background:#f8fafc;border:1px solid #e2e8f0;padding:16px;border-radius:12px;margin-bottom:20px;">
+        <h2 style="font-size:18px;font-weight:800;color:#0f172a;margin-top:0;">${locName} Real Estate Market Intelligence</h2>
+        <p>Explore MahaRERA approved residential developments in ${locName}, ${city} with 100% zero brokerage through PROPSMART REALTY (MahaRERA Agent: ${AGENT_RERA}, Established 2015).</p>
+        <p>Homebuyers enjoy direct builder inventory pricing, verified carpet areas, and complete legal non-encumbrance reports.</p>
+    </section>
+    <footer>
+        <hr style="border:0;border-top:1px solid #e2e8f0;margin:24px 0;" />
+        <p style="font-size:13px;color:#64748b;">Source: <a href="${BASE_URL}/llms.txt" style="color:#0284c7;">PROPSMART REALTY Machine-Readable Knowledge Base</a> | <a href="${BASE_URL}/flats-in-pune" style="color:#0284c7;">Flats in Pune</a></p>
+    </footer>
+</article>`;
         }
 
         // MATCH D: Programmatic BHK Hubs (/:bhk-flats-in-:slug)
@@ -435,6 +580,18 @@ export async function onRequest(context: {
             });
         }
 
+        // 6. Generative Engine Optimization (GEO): Inject semantic body content for AI bots and search crawlers
+        if (semanticBodyHtml) {
+            rewriter.on('#root', {
+                element(e) {
+                    e.setInnerContent(semanticBodyHtml, { html: true });
+                }
+            });
+        }
+
+        headers.set('Link', '<https://propsmart.co.in/llms.txt>; rel="alternate"; type="text/markdown"');
+        headers.set('X-Robots-Tag', 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1');
+
         return rewriter.transform(new Response(indexResponse.body, {
             status: 200,
             statusText: 'OK',
@@ -442,6 +599,7 @@ export async function onRequest(context: {
         }));
     }
 
+    headers.set('Link', '<https://propsmart.co.in/llms.txt>; rel="alternate"; type="text/markdown"');
     return new Response(indexResponse.body, {
         status: 200,
         statusText: 'OK',

@@ -115,6 +115,23 @@ User-agent: cohere-ai
 Allow: /
 Allow: /llms.txt
 Allow: /llms-full.txt
+Allow: /.well-known/llms.txt
+Allow: /flats-in-*
+Allow: /project/*
+Allow: /builder/*
+Allow: /directory
+Disallow: /admin/
+Disallow: /api/
+
+# ByteDance, Amazon & General AI Search Engines
+User-agent: Bytespider
+User-agent: Amazonbot
+User-agent: Diffbot
+User-agent: DuckAssistBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /.well-known/llms.txt
 Allow: /flats-in-*
 Allow: /project/*
 Allow: /builder/*

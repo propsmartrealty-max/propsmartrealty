@@ -68,7 +68,7 @@ const About = () => {
                             With 15+ years of real estate sales advisory & authorized developer partner experience, our mission is to eliminate middleman commissions and broker markups. We connect homebuyers directly to the official sales lounges of Pune's premier builders, ensuring direct developer pricing, sanitized inventory, and official MahaRERA compliance.
                         </p>
 
-                        <h3 className="text-2xl font-bold text-slate-800 mt-8 mb-4">Our Vision</h3>
+                        <h2 className="text-2xl font-bold text-slate-800 mt-8 mb-4">Our Vision</h2>
                         <p>
                             To make real estate in Pune completely brokerage-free, empowering every homebuyer to deal directly with certified developers backed by transparent data, verified MahaRERA documentation, and authentic price sheets.
                         </p>
@@ -95,9 +95,9 @@ const About = () => {
                                     <span className="text-xs font-bold uppercase tracking-widest text-emerald-400 block mb-1">
                                         Statutory & Regulatory Accreditation
                                     </span>
-                                    <h3 className="text-2xl font-black text-white">
+                                    <h2 className="text-2xl font-black text-white">
                                         MahaRERA Registered Real Estate Agent
-                                    </h3>
+                                    </h2>
                                     <p className="text-sm text-slate-300 mt-1">
                                         Registration Number:{' '}
                                         <span className="font-extrabold text-amber-400 text-lg">A031262401295</span>
