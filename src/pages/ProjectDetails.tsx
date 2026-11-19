@@ -500,8 +500,29 @@ const ProjectDetails = () => {
 
     const cityName = project.city || 'Pune';
     const builderLabel = builder?.name ? ` by ${builder.name}` : '';
-    const seoTitle = `${project.title}, ${project.location} - 100% Brokerage Free | PROPSMART REALTY`;
-    const seoDesc = project.metaDescription || `${project.title}${builderLabel} in ${project.location}, ${cityName}. Direct builder inventory, 100% zero brokerage, official MahaRERA (${project.reraId || 'Verified'}), verified floor plans, pricing & instant site visit booking.`;
+    const startingPrice = project.exactPrice || (project.priceRange ? project.priceRange.split(' - ')[0] : '');
+    const priceSnippet = startingPrice && !startingPrice.toLowerCase().includes('request') ? ` - Starting ${startingPrice}` : '';
+    const configSnippet = safeConfigurations.length > 0 ? ` (${safeConfigurations.slice(0, 3).join(', ')})` : '';
+    const reraSnippet = project.reraId ? `MahaRERA: ${project.reraId}` : 'MahaRERA Verified';
+
+    // High-CTR Google First Rank Title & Semantic Meta Description
+    const seoTitle = `${project.title}${configSnippet} in ${project.location}, ${cityName}${priceSnippet} | Floor Plans & ${reraSnippet} (0% Brokerage)`;
+    const seoDesc = project.metaDescription || `Explore ${project.title}${builderLabel} in ${project.location}, ${cityName}. Direct builder inventory with 100% zero brokerage, official ${reraSnippet}, sanctioned usable carpet area floor plans, turnkey pricing & complimentary site visits.`;
+
+    const seoKeywords = Array.isArray(project.seoKeywords) && project.seoKeywords.length > 0 
+        ? project.seoKeywords 
+        : [
+            `${project.title} ${cityName}`,
+            `${project.title} ${project.location}`,
+            `${project.title} price`,
+            `${project.title} floor plans`,
+            `${project.title} MahaRERA`,
+            `${project.title} possession date`,
+            `Flats in ${project.location}`,
+            `New projects in ${project.location}`,
+            `100% brokerage free property ${cityName}`,
+            ...safeConfigurations.map(c => `${c} in ${project.location}`)
+        ];
 
     const getTabClass = (section: string) => {
         const base = "py-4 px-2 font-semibold text-sm uppercase tracking-wider border-b-2 transition-colors whitespace-nowrap";
@@ -525,7 +546,7 @@ const ProjectDetails = () => {
             <SEO
                 title={seoTitle}
                 description={seoDesc}
-                keywords={Array.isArray(project.seoKeywords) && project.seoKeywords.length > 0 ? project.seoKeywords : [(project.title + " "), (project.location + " flats"), ("New projects in " + project.location), ...safeConfigurations.map(c => c + " in " + project.location)]}
+                keywords={seoKeywords}
                 canonical={"https://propsmart.co.in/project/" + project.slug}
                 openGraph={{
                     type: 'website',
@@ -1655,6 +1676,73 @@ const ProjectDetails = () => {
                                     </Link>
                                 ));
                             })()}
+                        </div>
+                    </section>
+
+                    {/* Deep Semantic Real Estate Linking Hub (Google PageRank Sculpting) */}
+                    <section className="pt-8 mt-10 border-t border-slate-200/80">
+                        <h3 className="text-lg font-black text-slate-900 mb-4 flex items-center gap-2">
+                            <Compass className="w-5 h-5 text-sky-500" />
+                            Explore Real Estate in {project.location} & {cityName}
+                        </h3>
+                        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
+                            <Link 
+                                to={`/flats-in-${encodeURIComponent(project.location.toLowerCase().trim().replace(/\s+/g, '-'))}`}
+                                className="p-3 rounded-xl bg-white border border-slate-200/80 hover:border-sky-400 hover:text-sky-600 font-bold transition-all flex items-center justify-between group shadow-2xs"
+                            >
+                                <span>All Flats in {project.location}</span>
+                                <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-sky-600 transition-colors" />
+                            </Link>
+                            {builder?.slug && (
+                                <Link 
+                                    to={`/builder/${builder.slug}`}
+                                    className="p-3 rounded-xl bg-white border border-slate-200/80 hover:border-sky-400 hover:text-sky-600 font-bold transition-all flex items-center justify-between group shadow-2xs"
+                                >
+                                    <span>All Projects by {builder.name}</span>
+                                    <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-sky-600 transition-colors" />
+                                </Link>
+                            )}
+                            <Link 
+                                to={`/properties-in-${(project.city || 'pune').toLowerCase().trim()}`}
+                                className="p-3 rounded-xl bg-white border border-slate-200/80 hover:border-sky-400 hover:text-sky-600 font-bold transition-all flex items-center justify-between group shadow-2xs"
+                            >
+                                <span>Properties in {cityName}</span>
+                                <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-sky-600 transition-colors" />
+                            </Link>
+                            {['1 BHK', '2 BHK', '3 BHK'].map((bhk) => (
+                                <Link 
+                                    key={bhk}
+                                    to={`/${bhk.toLowerCase().replace(/\s+/g, '-')}-flats-in-${encodeURIComponent(project.location.toLowerCase().trim().replace(/\s+/g, '-'))}`}
+                                    className="p-3 rounded-xl bg-white border border-slate-200/80 hover:border-sky-400 hover:text-sky-600 font-bold transition-all flex items-center justify-between group shadow-2xs"
+                                >
+                                    <span>{bhk} Flats in {project.location}</span>
+                                    <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-sky-600 transition-colors" />
+                                </Link>
+                            ))}
+                            <Link 
+                                to={`/ready-to-move-flats-in-${encodeURIComponent(project.location.toLowerCase().trim().replace(/\s+/g, '-'))}`}
+                                className="p-3 rounded-xl bg-white border border-slate-200/80 hover:border-sky-400 hover:text-sky-600 font-bold transition-all flex items-center justify-between group shadow-2xs"
+                            >
+                                <span>Ready to Move in {project.location}</span>
+                                <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-sky-600 transition-colors" />
+                            </Link>
+                            <Link 
+                                to={`/new-launch-projects-in-${encodeURIComponent(project.location.toLowerCase().trim().replace(/\s+/g, '-'))}`}
+                                className="p-3 rounded-xl bg-white border border-slate-200/80 hover:border-sky-400 hover:text-sky-600 font-bold transition-all flex items-center justify-between group shadow-2xs"
+                            >
+                                <span>New Launches in {project.location}</span>
+                                <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-sky-600 transition-colors" />
+                            </Link>
+                            <Link 
+                                to="/verify-rera"
+                                className="p-3 rounded-xl bg-emerald-50 border border-emerald-200/80 hover:border-emerald-400 text-emerald-800 font-bold transition-all flex items-center justify-between group shadow-2xs"
+                            >
+                                <span className="flex items-center gap-1.5">
+                                    <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
+                                    MahaRERA Verification Desk
+                                </span>
+                                <ArrowRight className="w-3.5 h-3.5 text-emerald-500 group-hover:text-emerald-700 transition-colors" />
+                            </Link>
                         </div>
                     </section>
                 </div>

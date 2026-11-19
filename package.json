@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "python3 scripts/generate_llms_txt.py && node scripts/generate-sitemap.mjs && vite build && cp dist/index.html dist/404.html",
+    "build": "python3 scripts/generate_edge_seo_index.py && python3 scripts/generate_llms_txt.py && node scripts/generate-sitemap.mjs && vite build && cp dist/index.html dist/404.html",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives",
     "preview": "vite preview",
     "test": "vitest run",

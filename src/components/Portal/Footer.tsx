@@ -91,6 +91,121 @@ const Footer = () => {
                     </div>
                 </div>
 
+                {/* Deep SEO Real Estate Authority & Programmatic Keyword Cloud */}
+                <div className="border-t border-slate-800/80 pt-8 pb-6 my-2 text-xs space-y-5">
+                    <div>
+                        <h5 className="text-slate-300 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-sky-400">
+                            Popular Pune Real Estate Localities (100% Brokerage Free)
+                        </h5>
+                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-400">
+                            {[
+                                { name: 'Hinjewadi', slug: 'hinjewadi' },
+                                { name: 'Kharadi', slug: 'kharadi' },
+                                { name: 'Baner', slug: 'baner' },
+                                { name: 'Wakad', slug: 'wakad' },
+                                { name: 'Balewadi', slug: 'balewadi' },
+                                { name: 'Kothrud', slug: 'kothrud' },
+                                { name: 'Wagholi', slug: 'wagholi' },
+                                { name: 'Hadapsar', slug: 'hadapsar' },
+                                { name: 'Magarpatta', slug: 'magarpatta' },
+                                { name: 'Mundhwa', slug: 'mundhwa' },
+                                { name: 'Bavdhan', slug: 'bavdhan' },
+                                { name: 'Ravet', slug: 'ravet' },
+                                { name: 'Punawale', slug: 'punawale' },
+                                { name: 'NIBM Road', slug: 'nibm-road' },
+                                { name: 'Viman Nagar', slug: 'viman-nagar' },
+                                { name: 'Dhanori', slug: 'dhanori' },
+                                { name: 'Sinhagad Road', slug: 'sinhagad-road' }
+                            ].map((loc) => (
+                                <Link 
+                                    key={loc.slug} 
+                                    to={`/flats-in-${loc.slug}`} 
+                                    className="hover:text-sky-300 hover:underline transition-colors"
+                                >
+                                    Flats in {loc.name}
+                                </Link>
+                            ))}
+                        </div>
+                    </div>
+
+                    <div>
+                        <h5 className="text-slate-300 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-indigo-400">
+                            Mumbai & MMR Luxury High-Rise Hubs
+                        </h5>
+                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-400">
+                            {[
+                                { name: 'Andheri West', slug: 'andheri-west' },
+                                { name: 'Bandra East', slug: 'bandra-east' },
+                                { name: 'Powai', slug: 'powai' },
+                                { name: 'Thane', slug: 'thane' },
+                                { name: 'Pokhran Road', slug: 'pokhran-road' },
+                                { name: 'Ghodbunder Road', slug: 'ghodbunder-road' },
+                                { name: 'Kolshet Road', slug: 'kolshet-road' },
+                                { name: 'Navi Mumbai', slug: 'navi-mumbai' },
+                                { name: 'Lonavala Luxury Villas', slug: 'lonavala' },
+                                { name: 'Alibaug Beach Retreats', slug: 'alibaug' }
+                            ].map((hub) => (
+                                <Link 
+                                    key={hub.slug} 
+                                    to={`/properties-in-${hub.slug}`} 
+                                    className="hover:text-indigo-300 hover:underline transition-colors"
+                                >
+                                    {hub.name}
+                                </Link>
+                            ))}
+                        </div>
+                    </div>
+
+                    <div>
+                        <h5 className="text-slate-300 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-amber-400">
+                            Direct Builder Authorized Sales Mandates
+                        </h5>
+                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-400">
+                            {[
+                                { name: 'Godrej Properties', slug: 'godrej-properties' },
+                                { name: 'Lodha Group', slug: 'lodha-group' },
+                                { name: 'VTP Realty', slug: 'vtp-realty' },
+                                { name: 'Kolte Patil', slug: 'kolte-patil-developers' },
+                                { name: 'Rohan Builders', slug: 'rohan-builders' },
+                                { name: 'Panchshil Realty', slug: 'panchshil-realty' },
+                                { name: 'Paranjape Schemes', slug: 'paranjape-schemes' },
+                                { name: 'Shapoorji Pallonji', slug: 'shapoorji-pallonji' },
+                                { name: 'Runwal Realty', slug: 'runwal-realty' },
+                                { name: 'Mantra Properties', slug: 'mantra-properties' },
+                                { name: 'Majestique Landmarks', slug: 'majestique-landmarks' },
+                                { name: 'Hiranandani Communities', slug: 'hiranandani-communities' }
+                            ].map((b) => (
+                                <Link 
+                                    key={b.slug} 
+                                    to={`/builder/${b.slug}`} 
+                                    className="hover:text-amber-300 hover:underline transition-colors"
+                                >
+                                    {b.name}
+                                </Link>
+                            ))}
+                        </div>
+                    </div>
+
+                    <div>
+                        <h5 className="text-slate-300 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-emerald-400">
+                            High-Intent Homebuyer Searches (0% Brokerage)
+                        </h5>
+                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-400">
+                            <Link to="/flats-in-pune" className="hover:text-emerald-300 hover:underline">Flats in Pune</Link>
+                            <Link to="/properties-in-mumbai" className="hover:text-emerald-300 hover:underline">Properties in Mumbai</Link>
+                            <Link to="/1-bhk-flats-in-hinjewadi" className="hover:text-emerald-300 hover:underline">1 BHK Flats in Hinjewadi</Link>
+                            <Link to="/2-bhk-flats-in-kharadi" className="hover:text-emerald-300 hover:underline">2 BHK Flats in Kharadi</Link>
+                            <Link to="/3-bhk-flats-in-baner" className="hover:text-emerald-300 hover:underline">3 BHK Flats in Baner</Link>
+                            <Link to="/ready-to-move-flats-in-pune" className="hover:text-emerald-300 hover:underline">Ready to Move Flats in Pune</Link>
+                            <Link to="/new-launch-projects-in-pune" className="hover:text-emerald-300 hover:underline">New Launch Projects in Pune</Link>
+                            <Link to="/villas-in-lonavala" className="hover:text-emerald-300 hover:underline">Villas in Lonavala</Link>
+                            <Link to="/flats-under-50-lakhs-in-pune" className="hover:text-emerald-300 hover:underline">Flats Under 50 Lakhs in Pune</Link>
+                            <Link to="/flats-under-1-crore-in-pune" className="hover:text-emerald-300 hover:underline">Flats Under 1 Crore in Pune</Link>
+                            <Link to="/verify-rera" className="hover:text-emerald-300 hover:underline">MahaRERA Project Verification</Link>
+                        </div>
+                    </div>
+                </div>
+
                 {/* Prominent MahaRERA Verification & Compliance Section */}
                 <div className="border-t border-slate-800/80 pt-6 pb-6 my-2">
                     <div className="bg-slate-800/60 border border-slate-700/60 rounded-xl p-4 sm:p-5 flex flex-col md:flex-row items-center justify-between gap-4">

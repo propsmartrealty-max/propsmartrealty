@@ -1,35 +1,60 @@
 // Cloudflare Pages Single Page Application (SPA) 200 OK Fallback Router
-// With Edge Dynamic SEO & Social Meta Tag Rewriter
+// With High-Performance Edge SSR Dynamic SEO, Social Meta & Schema.org Rewriter
+import { EDGE_PROJECTS, EDGE_BUILDERS, EDGE_LOCALITIES } from './edgeSeoData';
+
+const BASE_URL = 'https://propsmart.co.in';
+const DEFAULT_IMAGE = `${BASE_URL}/images/propsmart-logo.png`;
+const AGENT_RERA = 'A031262401295';
+
+const CITY_NAME_MAP: Record<string, string> = {
+    'pune': 'Pune',
+    'mumbai': 'Mumbai',
+    'thane': 'Thane',
+    'navi-mumbai': 'Navi Mumbai',
+    'lonavala': 'Lonavala',
+    'khandala': 'Lonavala',
+    'alibaug': 'Alibaug',
+    'karjat': 'Karjat',
+    'maharashtra': 'Maharashtra'
+};
+
+function formatSlug(slug: string): string {
+    return slug
+        .replace(/^b-/, '')
+        .split('-')
+        .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+        .join(' ');
+}
+
 export async function onRequest(context: { 
     request: Request; 
     env: { 
         ASSETS: { fetch: (req: Request | string) => Promise<Response> };
         DB?: D1Database;
-        SEO_KV?: KVNamespace;
     }; 
     next: () => Promise<Response> 
 }) {
     const { request, env } = context;
     const url = new URL(request.url);
+    const pathname = url.pathname.toLowerCase().replace(/\/$/, '') || '/';
 
-    // If it's an API route, pass to next handlers in functions/api/
-    if (url.pathname.startsWith('/api/')) {
+    // 1. API routes pass directly to functions/api/
+    if (pathname.startsWith('/api/')) {
         return context.next();
     }
 
-    // Try fetching the exact static asset or redirect
+    // 2. Fetch static assets (.svg, .png, .jpg, .webp, .css, .js, .xml, .txt, .json)
     const assetResponse = await env.ASSETS.fetch(request);
     if (assetResponse.status === 200 || assetResponse.status === 304 || (assetResponse.status >= 300 && assetResponse.status < 400)) {
         return assetResponse;
     }
 
-    // Do NOT serve index.html for missing static files (.svg, .png, .jpg, .webp, .css, .js, .ico, .xml)
-    const isStaticAsset = /\.[a-zA-Z0-9]+$/.test(url.pathname);
-    if (isStaticAsset) {
+    // Never rewrite static file extensions that were 404
+    if (/\.[a-zA-Z0-9]+$/.test(pathname)) {
         return assetResponse;
     }
 
-    // Path did not match a static file: serve index.html with HTTP 200 OK for SPA client routing
+    // 3. Fallback to index.html with HTTP 200 OK for SPA routing
     const indexUrl = new URL('/', request.url);
     const indexResponse = await env.ASSETS.fetch(new Request(indexUrl.toString(), request));
 
@@ -38,94 +63,212 @@ export async function onRequest(context: {
     headers.set('cache-control', 'public, max-age=0, must-revalidate');
     headers.delete('location');
 
-    // Edge SEO Dynamic Meta & JSON-LD Injection for Crawlers & Social Bots
+    // 4. Edge Dynamic SEO & Structured Data Generation
     let metaTitle = '';
     let metaDesc = '';
-    let metaImage = '';
-    let edgeJsonLd = '';
-    const canonicalUrl = `https://propsmart.co.in${url.pathname}`;
+    let metaImage = DEFAULT_IMAGE;
+    let edgeJsonLdList: any[] = [];
+    const canonicalUrl = `${BASE_URL}${url.pathname}`;
 
     try {
-        const projectMatch = url.pathname.match(/^\/(?:project|projects|property)\/([a-z0-9-]+)$/i);
-        const builderMatch = url.pathname.match(/^\/(?:builder|builders)\/([a-z0-9-]+)$/i);
-        const localityMatch = url.pathname.match(/^\/flats-in-([a-z0-9-]+)$/i);
+        // MATCH A: Project Details (/project/:slug or /property/:slug)
+        const projectMatch = pathname.match(/^\/(?:project|projects|property)\/([a-z0-9-]+)$/);
+        if (projectMatch) {
+            const slug = projectMatch[1];
+            const p = (EDGE_PROJECTS as Record<string, any>)[slug];
+            if (p) {
+                const configStr = p.cf && p.cf.length > 0 ? ` (${p.cf.join(', ')})` : '';
+                const priceStr = p.p && !p.p.toLowerCase().includes('request') ? ` - Starting ${p.p}` : '';
+                const reraStr = p.r ? `MahaRERA: ${p.r}` : 'MahaRERA Verified';
 
-        if (projectMatch && env.DB) {
-            const slug = projectMatch[1].toLowerCase();
-            const project = await env.DB.prepare(
-                'SELECT title, location, price_range, image, hero_image, description FROM projects WHERE slug = ? OR id = ? LIMIT 1'
-            ).bind(slug, slug).first<any>();
+                metaTitle = `${p.t}${configStr} in ${p.l}, ${p.c}${priceStr} | Floor Plans & ${reraStr} (0% Brokerage)`;
+                metaDesc = `Explore ${p.t} in ${p.l}, ${p.c}. Direct builder inventory with 100% zero brokerage, official ${reraStr}, sanctioned usable carpet area floor plans & turnkey pricing starting ${p.p}.`;
+                metaImage = p.i || DEFAULT_IMAGE;
 
-            if (project) {
-                metaTitle = `${project.title} in ${project.location} - Starting ${project.price_range} | PROPSMART REALTY`;
-                metaDesc = `${project.title} by top builders in ${project.location}. 100% Zero Brokerage, MahaRERA verified. Starting ${project.price_range}. Floor plans, photos & direct builder booking.`;
-                metaImage = project.hero_image || project.image || 'https://propsmart.co.in/images/propsmart-logo.png';
-                edgeJsonLd = JSON.stringify({
+                // Rich ApartmentComplex Schema
+                edgeJsonLdList.push({
                     "@context": "https://schema.org",
                     "@type": ["ApartmentComplex", "RealEstateListing"],
-                    "name": project.title,
-                    "description": project.description || metaDesc,
-                    "image": [project.hero_image, project.image].filter(Boolean),
+                    "name": p.t,
+                    "description": p.d || metaDesc,
+                    "image": [p.i].filter(Boolean),
                     "url": canonicalUrl,
                     "address": {
                         "@type": "PostalAddress",
-                        "addressLocality": project.location,
+                        "streetAddress": p.l,
+                        "addressLocality": p.l,
                         "addressRegion": "Maharashtra",
                         "addressCountry": "IN"
                     },
-                    "aggregateRating": {
-                        "@type": "AggregateRating",
-                        "ratingValue": "4.8",
-                        "reviewCount": "54",
-                        "bestRating": "5",
-                        "worstRating": "1"
+                    "offers": {
+                        "@type": "AggregateOffer",
+                        "priceCurrency": "INR",
+                        "price": p.p,
+                        "availability": "https://schema.org/InStock"
+                    },
+                    "provider": {
+                        "@type": "RealEstateAgent",
+                        "name": "PROPSMART REALTY",
+                        "url": BASE_URL,
+                        "license": AGENT_RERA
                     }
                 });
-            }
-        } else if (builderMatch && env.DB) {
-            const slug = builderMatch[1].toLowerCase();
-            const builder = await env.DB.prepare(
-                'SELECT name, logo, description FROM builders WHERE slug = ? OR id = ? LIMIT 1'
-            ).bind(slug, slug).first<any>();
 
-            if (builder) {
-                metaTitle = `${builder.name} Projects & Ongoing Developments | PROPSMART REALTY`;
-                metaDesc = `Explore all MahaRERA verified residential and commercial developments by ${builder.name}. 100% Brokerage Free direct developer booking with PROPSMART REALTY.`;
-                metaImage = builder.logo || 'https://propsmart.co.in/images/propsmart-logo.png';
-                edgeJsonLd = JSON.stringify({
+                // BreadcrumbList Schema
+                edgeJsonLdList.push({
                     "@context": "https://schema.org",
-                    "@type": "Organization",
-                    "name": builder.name,
-                    "url": canonicalUrl,
-                    "logo": builder.logo,
-                    "description": builder.description || metaDesc,
-                    "aggregateRating": {
-                        "@type": "AggregateRating",
-                        "ratingValue": "4.8",
-                        "reviewCount": "48",
-                        "bestRating": "5",
-                        "worstRating": "1"
-                    }
+                    "@type": "BreadcrumbList",
+                    "itemListElement": [
+                        { "@type": "ListItem", "position": 1, "name": "Home", "item": BASE_URL },
+                        { "@type": "ListItem", "position": 2, "name": p.c, "item": `${BASE_URL}/properties-in-${p.c.toLowerCase().replace(/\s+/g, '-')}` },
+                        { "@type": "ListItem", "position": 3, "name": p.l, "item": `${BASE_URL}/flats-in-${p.l.toLowerCase().replace(/[^a-z0-9]+/g, '-')}` },
+                        { "@type": "ListItem", "position": 4, "name": p.t, "item": canonicalUrl }
+                    ]
+                });
+
+                // FAQPage Schema
+                edgeJsonLdList.push({
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        {
+                            "@type": "Question",
+                            "name": `Where is ${p.t} located?`,
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": `${p.t} is located in ${p.l}, ${p.c}, offering prime connectivity to IT hubs and expressways.`
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": `What is the price of apartments in ${p.t}?`,
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": `Turnkey all-inclusive prices at ${p.t} start from ${p.p} with 100% zero brokerage through direct developer partner booking.`
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": `What is the MahaRERA registration number of ${p.t}?`,
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": `${p.t} is registered with the Maharashtra Real Estate Regulatory Authority under MahaRERA ID ${p.r}.`
+                            }
+                        }
+                    ]
                 });
             }
-        } else if (localityMatch) {
-            const rawLoc = localityMatch[1].replace(/-/g, ' ');
-            const locName = rawLoc.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-            metaTitle = `Flats in ${locName}, Pune - 100% Brokerage Free | PROPSMART REALTY`;
-            metaDesc = `Buy 1, 2, 3 & 4 BHK apartments in ${locName}, Pune directly from developers with 0% brokerage. Verified MahaRERA projects, prices & floor plans.`;
-            metaImage = 'https://propsmart.co.in/images/propsmart-logo.png';
-            edgeJsonLd = JSON.stringify({
+        }
+
+        // MATCH B: Builder Profile (/builder/:slug)
+        else if (pathname.startsWith('/builder/')) {
+            const slug = pathname.replace('/builder/', '');
+            const b = (EDGE_BUILDERS as Record<string, any>)[slug];
+            const builderName = b ? b.n : formatSlug(slug);
+
+            metaTitle = `${builderName} Projects in Pune & Mumbai - Ongoing & New Launches | 0% Brokerage`;
+            metaDesc = `Explore all MahaRERA verified residential and commercial developments by ${builderName}. Direct developer inventory, zero buyer commission, verified floor plans & prices.`;
+            metaImage = b ? b.l : DEFAULT_IMAGE;
+
+            edgeJsonLdList.push({
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": builderName,
+                "url": canonicalUrl,
+                "logo": metaImage,
+                "description": b ? b.d : metaDesc
+            });
+        }
+
+        // MATCH C: Locality Hubs (/flats-in-:slug)
+        else if (pathname.startsWith('/flats-in-')) {
+            const slug = pathname.replace('/flats-in-', '');
+            const loc = (EDGE_LOCALITIES as Record<string, any>)[slug];
+            const locName = loc ? loc.n : formatSlug(slug);
+            const city = loc ? loc.c : 'Pune';
+
+            metaTitle = `Flats in ${locName}, ${city} - 1, 2, 3 BHK Apartments | 100% Brokerage Free`;
+            metaDesc = `Buy verified 1, 2, 3 & 4 BHK apartments in ${locName}, ${city} directly from builders with 0% brokerage. Verified MahaRERA projects, sanctioned floor plans & direct prices.`;
+
+            edgeJsonLdList.push({
                 "@context": "https://schema.org",
                 "@type": "ItemList",
-                "name": `Properties and Flats in ${locName}, Pune`,
+                "name": `Properties and Flats in ${locName}, ${city}`,
                 "url": canonicalUrl,
                 "description": metaDesc
             });
         }
+
+        // MATCH D: Programmatic BHK Hubs (/:bhk-flats-in-:slug)
+        else if (/^\/([1-5])-bhk-flats-in-([a-z0-9-]+)$/.test(pathname)) {
+            const match = pathname.match(/^\/([1-5])-bhk-flats-in-([a-z0-9-]+)$/)!;
+            const bhk = `${match[1]} BHK`;
+            const slug = match[2];
+            const loc = (EDGE_LOCALITIES as Record<string, any>)[slug];
+            const targetName = loc ? loc.n : (CITY_NAME_MAP[slug] || formatSlug(slug));
+            const city = loc ? loc.c : (CITY_NAME_MAP[slug] ? '' : 'Pune');
+
+            metaTitle = `${bhk} Flats in ${targetName} ${city} - Prices, Floor Plans & RERA Verified | 0% Brokerage`;
+            metaDesc = `Find verified ${bhk} apartments in ${targetName} ${city}. 100% zero brokerage through direct developer mandates. Sanctioned usable carpet area floor plans & pricing.`;
+
+            edgeJsonLdList.push({
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                "name": `${bhk} Flats in ${targetName}`,
+                "url": canonicalUrl,
+                "description": metaDesc
+            });
+        }
+
+        // MATCH E: City Landings (/pune, /mumbai, /properties-in-*)
+        else if (pathname.startsWith('/properties-in-') || CITY_NAME_MAP[pathname.replace(/^\//, '')]) {
+            const raw = pathname.startsWith('/properties-in-') ? pathname.replace('/properties-in-', '') : pathname.replace(/^\//, '');
+            const cityName = CITY_NAME_MAP[raw] || formatSlug(raw);
+
+            metaTitle = `Properties in ${cityName} | Luxury Flats & Apartments - 100% Brokerage Free | PROPSMART`;
+            metaDesc = `Explore verified luxury residential properties and apartments in ${cityName}, Maharashtra. Buy directly from top builders with 0% brokerage, MahaRERA verification & direct pricing.`;
+
+            edgeJsonLdList.push({
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                "name": `Real Estate Properties in ${cityName}`,
+                "url": canonicalUrl,
+                "description": metaDesc
+            });
+        }
+
+        // MATCH F: Status Landings (/ready-to-move-flats-in-*, /new-launch-projects-in-*)
+        else if (/^\/(ready-to-move-flats|new-launch-projects|upcoming-projects)-in-([a-z0-9-]+)$/.test(pathname)) {
+            const match = pathname.match(/^\/(ready-to-move-flats|new-launch-projects|upcoming-projects)-in-([a-z0-9-]+)$/)!;
+            const statusLabel = match[1].includes('ready') ? 'Ready to Move' : 'New Launch';
+            const slug = match[2];
+            const loc = (EDGE_LOCALITIES as Record<string, any>)[slug];
+            const targetName = loc ? loc.n : (CITY_NAME_MAP[slug] || formatSlug(slug));
+
+            metaTitle = `${statusLabel} Flats in ${targetName} - Direct Builder Booking | 0% Brokerage`;
+            metaDesc = `Explore ${statusLabel.toLowerCase()} residential projects in ${targetName}. Verified MahaRERA certificates, sanctioned floor plans, 100% zero brokerage & instant site visits.`;
+        }
+
+        // MATCH G: Luxury Villas & Penthouses (/villas-in-*, /penthouses-in-*)
+        else if (/^\/(?:luxury-)?villas-in-([a-z0-9-]+)$/.test(pathname) || pathname.startsWith('/penthouses-in-')) {
+            const rawSlug = pathname.replace(/^\/(?:luxury-)?villas-in-/, '').replace(/^\/penthouses-in-/, '');
+            const isVilla = pathname.includes('villa');
+            const targetName = CITY_NAME_MAP[rawSlug] || formatSlug(rawSlug);
+
+            metaTitle = `Luxury ${isVilla ? 'Villas & Row Houses' : 'Penthouses'} in ${targetName} - 100% Brokerage Free`;
+            metaDesc = `Experience ultra-luxury ${isVilla ? 'villas and row houses' : 'penthouse suites'} in ${targetName}, Maharashtra. Direct developer mandates, private estates, zero brokerage.`;
+        }
+
+        // MATCH H: MahaRERA Verification Desk (/verify-rera, /maharera-verification)
+        else if (pathname === '/verify-rera' || pathname === '/maharera-verification') {
+            metaTitle = `MahaRERA Project & Agent Verification Desk (A031262401295) | PROPSMART REALTY`;
+            metaDesc = `Verify any Maharashtra real estate project registration, QR code, promoter legal title, and CERSAI encumbrance report under MahaRERA Circular 46/2023 with PROPSMART REALTY.`;
+        }
     } catch {
-        // Fallback to unmodified indexResponse on error
+        // Fallback to unmodified response
     }
 
+    // 5. HTMLRewriter Edge Streaming Transformation
     if (metaTitle && typeof HTMLRewriter !== 'undefined') {
         const rewriter = new HTMLRewriter()
             .on('title', {
@@ -179,10 +322,13 @@ export async function onRequest(context: {
                 }
             });
 
-        if (edgeJsonLd) {
+        if (edgeJsonLdList.length > 0) {
+            const scriptsHtml = edgeJsonLdList
+                .map(json => `<script type="application/ld+json">${JSON.stringify(json)}</script>`)
+                .join('\n');
             rewriter.on('head', {
                 element(e) {
-                    e.append(`<script type="application/ld+json">${edgeJsonLd}</script>`, { html: true });
+                    e.append(scriptsHtml, { html: true });
                 }
             });
         }
