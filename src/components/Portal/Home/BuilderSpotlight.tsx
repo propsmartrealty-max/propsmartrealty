@@ -136,7 +136,7 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
                                     <h3 className="font-sans font-extrabold text-xs sm:text-sm text-white group-hover:text-amber-300 transition-colors line-clamp-2 min-h-[2.5rem] flex items-center justify-center mb-1 leading-snug">
                                         {builder.name}
                                     </h3>
-                                    <p className="font-sans font-bold text-[11px] sm:text-xs text-slate-400">
+                                    <p className="font-sans font-bold text-[11px] sm:text-xs text-slate-300">
                                         {builder.totalProjects || 20}+ Projects
                                     </p>
                                 </div>
@@ -147,6 +147,7 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
                     {/* View All Developers Card */}
                     <Link
                         to="/directory?view=builders"
+                        aria-label="View all verified developers"
                         className="group bg-gradient-to-br from-brand-900/40 via-slate-900 to-slate-950 border border-brand-500/30 hover:border-brand-400 rounded-2xl p-4 flex flex-col items-center justify-center text-center transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl hover:shadow-brand-900/50 shadow-md"
                     >
                         <div className="w-14 h-14 rounded-2xl bg-brand-600/20 border border-brand-500/40 flex items-center justify-center text-brand-300 group-hover:bg-brand-600 group-hover:text-white transition-all shadow-inner mb-3">
@@ -155,10 +156,10 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
                         <span className="font-sans font-extrabold text-base text-white group-hover:text-amber-300 mb-1">
                             View All
                         </span>
-                        <span className="font-sans font-bold text-[11px] text-brand-400 uppercase tracking-wider">
+                        <span className="font-sans font-extrabold text-[11px] text-amber-300 uppercase tracking-wider">
                             {builders.length > 20 ? `${builders.length}+ Developers` : '290+ Developers'}
                         </span>
-                        <ChevronRight className="w-4 h-4 text-brand-400 mt-2 group-hover:translate-x-1 transition-transform" />
+                        <ChevronRight className="w-4 h-4 text-amber-400 mt-2 group-hover:translate-x-1 transition-transform" />
                     </Link>
                 </div>
             </div>

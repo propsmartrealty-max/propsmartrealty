@@ -38,7 +38,7 @@ export const MobileBottomNav: React.FC = () => {
                 {/* 1. Home */}
                 <Link
                     to="/"
-                    className={`flex flex-col items-center justify-center py-1 px-2.5 rounded-2xl transition-all duration-200 active:scale-90 ${
+                    className={`flex flex-col items-center justify-center py-1 px-2.5 min-w-[48px] min-h-[48px] rounded-2xl transition-all duration-200 active:scale-90 ${
                         isHomeActive
                             ? 'text-sky-600'
                             : 'text-slate-500 hover:text-slate-900'
@@ -56,7 +56,7 @@ export const MobileBottomNav: React.FC = () => {
                 {/* 2. Explore / Search */}
                 <Link
                     to="/search"
-                    className={`flex flex-col items-center justify-center py-1 px-2.5 rounded-2xl transition-all duration-200 active:scale-90 ${
+                    className={`flex flex-col items-center justify-center py-1 px-2.5 min-w-[48px] min-h-[48px] rounded-2xl transition-all duration-200 active:scale-90 ${
                         isSearchActive
                             ? 'text-sky-600'
                             : 'text-slate-500 hover:text-slate-900'
@@ -74,7 +74,7 @@ export const MobileBottomNav: React.FC = () => {
                 {/* 3. Shortlist (with Live Badge) */}
                 <Link
                     to="/shortlist"
-                    className={`relative flex flex-col items-center justify-center py-1 px-2.5 rounded-2xl transition-all duration-200 active:scale-90 ${
+                    className={`relative flex flex-col items-center justify-center py-1 px-2.5 min-w-[48px] min-h-[48px] rounded-2xl transition-all duration-200 active:scale-90 ${
                         isShortlistActive
                             ? 'text-rose-600'
                             : 'text-slate-500 hover:text-slate-900'
@@ -97,7 +97,7 @@ export const MobileBottomNav: React.FC = () => {
                 {/* 4. Compare (with Live Badge) */}
                 <Link
                     to="/compare"
-                    className={`relative flex flex-col items-center justify-center py-1 px-2.5 rounded-2xl transition-all duration-200 active:scale-90 ${
+                    className={`relative flex flex-col items-center justify-center py-1 px-2.5 min-w-[48px] min-h-[48px] rounded-2xl transition-all duration-200 active:scale-90 ${
                         isCompareActive
                             ? 'text-sky-600'
                             : 'text-slate-500 hover:text-slate-900'
@@ -122,7 +122,7 @@ export const MobileBottomNav: React.FC = () => {
                     href={getWhatsAppUrl("Hi Propsmart Team, I am looking for verified 0% brokerage properties in Pune/Mumbai.")}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex flex-col items-center justify-center py-1 px-2.5 rounded-2xl text-emerald-600 hover:text-emerald-700 transition-all duration-200 active:scale-90"
+                    className="flex flex-col items-center justify-center py-1 px-2.5 min-w-[48px] min-h-[48px] rounded-2xl text-emerald-600 hover:text-emerald-700 transition-all duration-200 active:scale-90"
                     aria-label="Chat on WhatsApp"
                 >
                     <div className="p-1.5 rounded-xl bg-emerald-500 text-white shadow-md shadow-emerald-500/25">

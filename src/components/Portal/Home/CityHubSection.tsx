@@ -110,7 +110,7 @@ const CityHubSection: React.FC<CityHubSectionProps> = ({ projects }) => {
                                 <h3 className="text-base sm:text-lg font-black tracking-tight mb-1">
                                     {c.name}
                                 </h3>
-                                <p className={`text-xs line-clamp-1 ${isSelected ? 'text-slate-300' : 'text-slate-500'}`}>
+                                <p className={`text-xs line-clamp-1 ${isSelected ? 'text-slate-300 font-medium' : 'text-slate-700 font-semibold'}`}>
                                     Starting {c.startingPrice}
                                 </p>
                                 {isSelected && (
@@ -126,7 +126,7 @@ const CityHubSection: React.FC<CityHubSectionProps> = ({ projects }) => {
                     <div>
                         <div className="flex items-center gap-2 mb-1">
                             <MapPin className="w-4 h-4 text-brand-600" />
-                            <span className="text-xs font-black uppercase tracking-wider text-slate-500">
+                            <span className="text-xs font-black uppercase tracking-wider text-slate-700">
                                 Region Overview: {activeConfig.name}
                             </span>
                         </div>

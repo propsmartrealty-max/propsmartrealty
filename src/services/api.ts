@@ -1,9 +1,22 @@
 import { Project, Builder, ProjectConfiguration } from '../types';
 import { mapProjectFromDb, mapBuilderFromDb } from '../utils/mapper';
-import { BUILDERS } from '../data/mockData';
-import { PROJECT_SUMMARIES } from '../data/projectSummaries';
+import { BUILDERS } from '../data/buildersData';
+import { FEATURED_PROJECTS } from '../data/featuredProjects';
 import { parsePriceRangeInLakhs } from '../utils/pricingUtils';
 import { calculateFuzzyScore } from '../utils/fuzzySearch';
+
+let _cachedProjectCatalog: Project[] | null = null;
+async function getFullProjectCatalog(): Promise<Project[]> {
+    if (!_cachedProjectCatalog) {
+        try {
+            const mod = await import('../data/projectSummaries');
+            _cachedProjectCatalog = mod.PROJECT_SUMMARIES;
+        } catch {
+            _cachedProjectCatalog = FEATURED_PROJECTS;
+        }
+    }
+    return _cachedProjectCatalog || FEATURED_PROJECTS;
+}
 
 const PAGE_SIZE = 10;
 
@@ -21,8 +34,9 @@ export interface ProjectFilters {
     builderName?: string;
 }
 
-function filterProjectsLocally(page: number, filters: ProjectFilters = {}) {
-    let list = [...PROJECT_SUMMARIES];
+async function filterProjectsLocally(page: number, filters: ProjectFilters = {}) {
+    const catalog = await getFullProjectCatalog();
+    let list = [...catalog];
 
     if (filters.city && filters.city.trim() && filters.city.toLowerCase() !== 'all') {
         list = list.filter(p => (p.city || 'Pune').toLowerCase() === filters.city!.toLowerCase().trim());
@@ -166,7 +180,7 @@ export const api = {
     projects: {
         all: async () => {
             // High-speed static discovery index: instant sub-millisecond resolution with zero network payload
-            return PROJECT_SUMMARIES;
+            return getFullProjectCatalog();
         },
 
         list: async (page = 1, filters: ProjectFilters = {}) => {
@@ -214,13 +228,14 @@ export const api = {
         },
 
         getById: async (id: string) => {
+            const catalog = await getFullProjectCatalog();
             const findLocal = () => {
                 if (!id) return undefined;
                 const raw = id.trim();
                 const norm = raw.toLowerCase().replace(/^(p-|project-)/, '');
                 const cleanTokens = norm.split('-').filter(t => t.length > 2);
 
-                let match = PROJECT_SUMMARIES.find(p =>
+                let match = catalog.find(p =>
                     p.slug === raw ||
                     p.slug.toLowerCase() === norm ||
                     p.id === raw ||
@@ -231,20 +246,20 @@ export const api = {
                 );
                 if (match) return match;
 
-                match = PROJECT_SUMMARIES.find(p => {
+                match = catalog.find(p => {
                     const titleSlug = p.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
                     return titleSlug === norm || titleSlug.replace(/-/g, '') === norm.replace(/-/g, '');
                 });
                 if (match) return match;
 
-                match = PROJECT_SUMMARIES.find(p =>
+                match = catalog.find(p =>
                     p.slug.toLowerCase().startsWith(norm) ||
                     norm.startsWith(p.slug.toLowerCase())
                 );
                 if (match) return match;
 
                 if (cleanTokens.length > 0) {
-                    match = PROJECT_SUMMARIES.find(p => {
+                    match = catalog.find(p => {
                         const pSlug = p.slug.toLowerCase();
                         const pTitle = p.title.toLowerCase();
                         return cleanTokens.every(t => pSlug.includes(t) || pTitle.includes(t));

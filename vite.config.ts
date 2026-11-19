@@ -215,6 +215,12 @@ export default defineConfig(({ mode }) => {
             if (id.includes('src/data/projectSummaries.ts')) {
               return 'projects-catalog';
             }
+            if (id.includes('src/data/featuredProjects.ts')) {
+              return 'featured-projects';
+            }
+            if (id.includes('src/data/buildersData.ts') || id.includes('src/data/locationsData.ts')) {
+              return 'directory-data';
+            }
             if (id.includes('node_modules/react/') || id.includes('node_modules/react-dom/') || id.includes('node_modules/react-router')) {
               return 'vendor-react';
             }

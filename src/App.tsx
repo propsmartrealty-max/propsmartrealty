@@ -7,8 +7,9 @@ import ScrollToTop from './components/ScrollToTop';
 import CompareFloatingBar from './components/Portal/CompareFloatingBar';
 import MobileBottomNav from './components/Portal/MobileBottomNav';
 
+import Home from './pages/Home';
+
 // Lazy Load Pages
-const Home = React.lazy(() => import('./pages/Home'));
 const SearchResults = React.lazy(() => import('./pages/SearchResults'));
 const ProjectDetails = React.lazy(() => import('./pages/ProjectDetails'));
 const BuilderDetails = React.lazy(() => import('./pages/BuilderDetails'));

@@ -57,7 +57,7 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
 
                         {/* Brand Logo & City Quick Selector */}
                         <div className="flex items-center gap-2.5 sm:gap-3 z-50">
-                            <Link to="/" className="flex items-center group" title="PROPSMART REALTY">
+                            <Link to="/" className="flex items-center group" title="PROPSMART REALTY" aria-label="Propsmart Realty Homepage">
                                 <PropsmartLogo isSolid={isSolid} />
                             </Link>
                             <RERABadge variant="compact" isSolid={isSolid} className="hidden xl:inline-flex" />
@@ -66,7 +66,8 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                             <div className="relative">
                                 <button
                                     onClick={() => setCityMenuOpen(!cityMenuOpen)}
-                                    className={`px-3 py-1.5 rounded-full text-xs font-black transition-all flex items-center gap-1.5 border shadow-2xs glass-pill ${
+                                    aria-label="Select City"
+                                    className={`px-3 py-1.5 min-h-[38px] rounded-full text-xs font-black transition-all flex items-center gap-1.5 border shadow-2xs glass-pill ${
                                         isSolid
                                             ? 'bg-white/75 text-slate-800 border-white/80 hover:bg-white hover:border-sky-300'
                                             : 'bg-white/15 text-white border-white/20 hover:bg-white/25 backdrop-blur-md'
@@ -197,7 +198,7 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                             </a>
 
                             <button 
-                                className={`p-2 rounded-full lg:hidden transition-colors ${isSolid ? 'text-slate-900 bg-white/60 backdrop-blur-md' : 'text-white bg-black/20 backdrop-blur-md'}`} 
+                                className={`p-3 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-full lg:hidden transition-colors ${isSolid ? 'text-slate-900 bg-white/60 backdrop-blur-md' : 'text-white bg-black/20 backdrop-blur-md'}`} 
                                 onClick={() => setMobileMenuOpen(true)}
                                 aria-label="Open Mobile Menu"
                             >

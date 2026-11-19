@@ -103,7 +103,7 @@ const WhyBuyDirect: React.FC = () => {
                             <h3 className="text-xl font-black text-white mt-0.5">
                                 Connect directly with developer sales teams in Pune
                             </h3>
-                            <p className="text-xs text-slate-400 mt-1">
+                            <p className="text-xs text-slate-300 font-medium mt-1">
                                 0% Brokerage Guaranteed • Authentic Sanctioned Pricing • Verified MahaRERA Authorized Partner
                             </p>
                         </div>

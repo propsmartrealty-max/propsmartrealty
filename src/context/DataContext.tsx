@@ -2,8 +2,9 @@ import React, { createContext, useContext } from 'react';
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { Project, Builder, Locality } from '../types';
 import { api, ProjectFilters } from '../services/api';
-import { BUILDERS, LOCATIONS } from '../data/mockData';
-import { PROJECT_SUMMARIES } from '../data/projectSummaries';
+import { BUILDERS } from '../data/buildersData';
+import { LOCATIONS } from '../data/locationsData';
+import { FEATURED_PROJECTS } from '../data/featuredProjects';
 
 interface DataContextType {
     projects: Project[];
@@ -109,10 +110,11 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
         }
     }, []);
 
-    // Fetch initial data (load full inventory so all project cards, detail routes, and rails resolve instantly)
+    // Fetch initial data (load full inventory asynchronously in background with instant featured project boot)
     const projectsQuery = useQuery({
         queryKey: ['projects', 'all'],
         queryFn: () => api.projects.all(),
+        initialData: FEATURED_PROJECTS,
     });
 
     const buildersQuery = useQuery({
@@ -222,7 +224,7 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
     const contextValue = React.useMemo(() => {
         const rawProjects = projectsQuery.data;
-        const resolvedProjects = (rawProjects && Array.isArray(rawProjects) && rawProjects.length > 0) ? rawProjects : PROJECT_SUMMARIES;
+        const resolvedProjects = (rawProjects && Array.isArray(rawProjects) && rawProjects.length > 0) ? rawProjects : FEATURED_PROJECTS;
         const rawBuilders = buildersQuery.data;
         const resolvedBuilders = (rawBuilders && rawBuilders.length > 0) ? rawBuilders : BUILDERS;
         const rawLocalities = localitiesQuery.data;

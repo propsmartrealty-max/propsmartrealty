@@ -3,8 +3,9 @@
  * Native Edge Integration for Cloudflare D1 (Database), R2 (Storage), and Edge Auth
  */
 
-import { BUILDERS, LOCATIONS } from '../data/mockData';
-import { PROJECT_SUMMARIES } from '../data/projectSummaries';
+import { BUILDERS } from '../data/buildersData';
+import { LOCATIONS } from '../data/locationsData';
+import { FEATURED_PROJECTS } from '../data/featuredProjects';
 
 // Local storage keys for Cloudflare Session
 const CF_SESSION_KEY = 'propsmart_cf_session';
@@ -177,7 +178,12 @@ export const cloudflare = {
                 } catch (err: any) {
                     // Fallback to local mock data if edge functions are offline in dev
                     if (table === 'projects') {
-                        return { data: PROJECT_SUMMARIES, error: null, count: PROJECT_SUMMARIES.length };
+                        try {
+                            const { PROJECT_SUMMARIES } = await import('../data/projectSummaries');
+                            return { data: PROJECT_SUMMARIES, error: null, count: PROJECT_SUMMARIES.length };
+                        } catch {
+                            return { data: FEATURED_PROJECTS, error: null, count: FEATURED_PROJECTS.length };
+                        }
                     }
                     if (table === 'builders') {
                         return { data: BUILDERS, error: null, count: BUILDERS.length };

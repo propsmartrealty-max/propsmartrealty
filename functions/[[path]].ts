@@ -107,6 +107,39 @@ export async function onRequest(context: {
             metaImage = `${BASE_URL}/images/hero/hero-life-republic.webp`;
 
             semanticBodyHtml = `
+<div class="relative min-h-[720px] lg:min-h-[760px] py-16 w-full flex flex-col items-center justify-center text-white bg-slate-950 overflow-hidden" style="position:relative;min-height:720px;width:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;color:#fff;background:#020617;overflow:hidden;padding:64px 16px;">
+    <div style="position:absolute;inset:0;overflow:hidden;pointer-events:none;">
+        <picture>
+            <source media="(max-width: 768px)" srcset="/images/hero/hero-life-republic-mobile.webp" type="image/webp">
+            <img src="/images/hero/hero-life-republic.webp" alt="Kolte-Patil - Life Republic" style="width:100%;height:100%;object-fit:cover;" fetchpriority="high" decoding="sync" loading="eager" width="800" height="450">
+        </picture>
+        <div style="position:absolute;inset:0;background:linear-gradient(to top, rgba(2,6,23,0.95), rgba(2,6,23,0.55), rgba(2,6,23,0.4));"></div>
+        <div style="position:absolute;inset:0;background:rgba(0,0,0,0.25);"></div>
+    </div>
+    <div style="position:relative;z-index:10;width:100%;max-width:1024px;margin:32px auto 0;text-align:center;">
+        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-bottom:20px;">
+            <div style="background:rgba(16,185,129,0.25);border:1px solid rgba(52,211,153,0.5);padding:6px 16px;border-radius:9999px;font-size:12px;font-weight:900;color:#fff;">
+                ✨ 100% BROKERAGE FREE PLATFORM
+            </div>
+            <div style="background:rgba(245,158,11,0.25);border:1px solid rgba(251,191,36,0.5);padding:6px 16px;border-radius:9999px;font-size:12px;font-weight:900;color:#fef3c7;">
+                🏢 BUY DIRECTLY WITH BUILDER
+            </div>
+        </div>
+        <div style="margin-bottom:16px;">
+            <a href="https://maharera.maharashtra.gov.in/" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:8px;padding:6px 16px;border-radius:9999px;background:rgba(15,23,42,0.6);border:1px solid rgba(255,255,255,0.2);color:#fff;text-decoration:none;font-size:12px;font-weight:600;">
+                <span style="color:rgba(255,255,255,0.85);">Authorized MahaRERA Partner:</span>
+                <span style="font-weight:900;color:#fcd34d;">A031262401295</span>
+            </a>
+        </div>
+        <h1 style="font-size:clamp(32px, 5vw, 60px);font-weight:900;line-height:1.15;margin:0 0 16px;color:#fff;letter-spacing:-0.02em;">
+            Buy Directly With Builder. <span style="background:linear-gradient(to right, #fcd34d, #ffffff, #6ee7b7);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">100% Brokerage Free.</span>
+        </h1>
+        <p style="font-size:clamp(16px, 2vw, 20px);color:rgba(241,245,249,0.9);max-width:768px;margin:0 auto 32px;line-height:1.6;font-weight:500;">
+            Zero buyer commission. Direct developer inventory, official builder pricing, and sanctioned payment plans across Pune's top MahaRERA registered townships and luxury projects.
+        </p>
+    </div>
+</div>
+
 <article class="ai-knowledge-entry" style="padding:24px;max-width:960px;margin:0 auto;font-family:system-ui,-apple-system,sans-serif;line-height:1.6;color:#1e293b;">
     <header>
         <div style="color:#0284c7;font-weight:bold;text-transform:uppercase;font-size:12px;letter-spacing:1.5px;margin-bottom:8px;">Established 2015 • 10+ Years Operational Authority • Direct Developer Mandate</div>

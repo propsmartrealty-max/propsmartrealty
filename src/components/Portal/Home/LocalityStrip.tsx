@@ -137,7 +137,7 @@ const LocalityStrip: React.FC = () => {
                         <span>{activeMeta.icon}</span>
                         <span>Popular Micro-Markets in {selectedCity}</span>
                     </h2>
-                    <p className="font-sans text-slate-500 text-sm md:text-base mt-2 max-w-2xl mx-auto">
+                    <p className="font-sans text-slate-700 font-medium text-sm md:text-base mt-2 max-w-2xl mx-auto">
                         {activeMeta.subtext} with live capital appreciation and 100% direct developer pricing.
                     </p>
                     <div className="w-20 h-1.5 bg-gradient-to-r from-brand-600 to-accent-500 mx-auto mt-4 rounded-full"></div>
@@ -160,13 +160,13 @@ const LocalityStrip: React.FC = () => {
                                 className={`inline-flex items-center gap-2 px-4 py-2.5 rounded-2xl font-sans font-bold text-sm transition-all duration-300 ${
                                     isSelected
                                         ? 'bg-slate-900 text-white shadow-xl shadow-slate-900/20 scale-105 border border-slate-900'
-                                        : 'bg-slate-100 text-slate-600 hover:bg-slate-200 hover:text-slate-900 border border-slate-200/80'
+                                        : 'bg-slate-100 text-slate-800 hover:bg-slate-200 hover:text-slate-950 border border-slate-200/80'
                                 }`}
                             >
                                 <span className="text-base">{meta?.icon || '📍'}</span>
                                 <span>{city}</span>
                                 <span className={`text-[11px] px-2 py-0.5 rounded-full font-bold ${
-                                    isSelected ? 'bg-white/20 text-white' : 'bg-slate-200 text-slate-600'
+                                    isSelected ? 'bg-white/20 text-white' : 'bg-slate-200 text-slate-900'
                                 }`}>
                                     {count}
                                 </span>
@@ -186,7 +186,7 @@ const LocalityStrip: React.FC = () => {
                                 className={`font-sans font-bold text-sm tracking-tight px-4 py-2 rounded-full transition-all duration-200 ${
                                     isActive
                                         ? 'bg-brand-600 text-white shadow-md shadow-brand-500/20 scale-105'
-                                        : 'bg-slate-100 text-slate-600 hover:bg-slate-200 hover:text-slate-900'
+                                        : 'bg-slate-100 text-slate-800 hover:bg-slate-200 hover:text-slate-950'
                                 }`}
                             >
                                 {zone.label}

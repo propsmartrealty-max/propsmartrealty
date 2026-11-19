@@ -293,7 +293,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                 {project.title}
                             </h3>
                         </Link>
-                        <div itemProp="address" itemScope itemType="https://schema.org/PostalAddress" className="flex items-center gap-1.5 text-slate-500 text-xs sm:text-sm mt-1">
+                        <div itemProp="address" itemScope itemType="https://schema.org/PostalAddress" className="flex items-center gap-1.5 text-slate-700 font-semibold text-xs sm:text-sm mt-1">
                             <MapPin className="w-3.5 h-3.5 flex-shrink-0 text-sky-500" />
                             <span itemProp="addressLocality" className="truncate font-sans font-semibold text-slate-600 text-xs sm:text-sm">
                                 {project.location}
@@ -321,7 +321,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                     {pricing.startingAllInclusive}
                                 </span>
                             )}
-                            <span className="text-[9px] text-slate-400 font-semibold block mt-0.5">
+                            <span className="text-[9.5px] text-slate-600 font-bold block mt-0.5">
                                 Taxes, Stamp Duty & Registration Included • 0% Brokerage
                             </span>
                         </div>
@@ -414,7 +414,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
 
                     {/* Possession Date (List View Extra Metric) */}
                     {!isGrid && project.possessionDate && (
-                        <div className="mt-2.5 flex items-center gap-2 text-xs text-slate-500 flex-wrap">
+                        <div className="mt-2.5 flex items-center gap-2 text-xs text-slate-700 font-semibold flex-wrap">
                             <span className="flex items-center gap-1.5 shrink-0">
                                 <Calendar className="w-3.5 h-3.5 text-sky-500 shrink-0" />
                                 <span>Possession by: <strong className="text-slate-700">{project.possessionDate}</strong></span>
@@ -494,7 +494,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                             <ShieldCheck className="w-6 h-6" />
                         </div>
                         <p className="font-black text-slate-900 text-base leading-tight mb-1">{project.title}</p>
-                        <p className="text-[11px] text-slate-500 mb-4">Official MahaRERA Regulatory QR Code</p>
+                        <p className="text-[11px] text-slate-700 font-semibold mb-4">Official MahaRERA Regulatory QR Code</p>
 
                         <a 
                             href={mahaReraLink}

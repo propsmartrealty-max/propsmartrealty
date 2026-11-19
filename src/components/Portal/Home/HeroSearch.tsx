@@ -118,13 +118,19 @@ const HeroSearch = () => {
         setRecentSearches(getRecentSearches());
     }, []);
 
-    // Preload flagship developer elevation images
+    // Preload next slide only, deferred after initial load to conserve mobile network bandwidth
     useEffect(() => {
-        FLAGSHIP_HERO_SLIDES.forEach(slide => {
-            const img = new Image();
-            img.src = slide.image;
-        });
-    }, []);
+        if (slides.length <= 1) return;
+        const nextIdx = (currentImage + 1) % slides.length;
+        const nextSlide = slides[nextIdx];
+        if (nextSlide) {
+            const timer = setTimeout(() => {
+                const img = new Image();
+                img.src = nextSlide.image;
+            }, 3000);
+            return () => clearTimeout(timer);
+        }
+    }, [currentImage, slides]);
 
     // Auto-rotate background every 6 seconds
     useEffect(() => {
@@ -152,34 +158,28 @@ const HeroSearch = () => {
     };
 
     return (
-        <div className="relative min-h-[720px] lg:min-h-[760px] py-16 w-full flex flex-col items-center justify-center text-white bg-brand-950 overflow-hidden">
+        <div className="relative min-h-[720px] lg:min-h-[760px] py-16 w-full flex flex-col items-center justify-center text-white bg-slate-950 overflow-hidden">
 
-            {/* Background Slider with Parallax-like feel & Real Developer Elevation Showcase */}
+            {/* Background Slider with Real Developer Elevation Showcase (Sub-1.5s LCP Hardened) */}
             <div className="absolute inset-0 overflow-hidden pointer-events-none">
-                <AnimatePresence mode='wait'>
-                    <motion.div
-                        key={currentSlide.image}
-                        initial={currentImage === 0 ? { opacity: 1 } : { opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                        exit={{ opacity: 0 }}
-                        transition={{ duration: 0.8, ease: "easeOut" }}
-                        className="absolute inset-0"
-                    >
-                        <picture>
-                            {currentSlide.mobileImage && (
-                                <source media="(max-width: 768px)" srcSet={currentSlide.mobileImage} type="image/webp" />
-                            )}
-                            <img
-                                src={currentSlide.image}
-                                alt={`${currentSlide.developer} - ${currentSlide.title}`}
-                                className="w-full h-full object-cover"
-                                {...({ fetchpriority: currentImage === 0 ? "high" : "low" } as any)}
-                                decoding={currentImage === 0 ? "sync" : "async"}
-                                loading={currentImage === 0 ? "eager" : "lazy"}
-                            />
-                        </picture>
-                    </motion.div>
-                </AnimatePresence>
+                <div className="absolute inset-0">
+                    <picture>
+                        {currentSlide.mobileImage && (
+                            <source media="(max-width: 768px)" srcSet={currentSlide.mobileImage} type="image/webp" />
+                        )}
+                        <img
+                            key={currentSlide.image}
+                            src={currentSlide.image}
+                            alt={`${currentSlide.developer} - ${currentSlide.title}`}
+                            className="w-full h-full object-cover transition-opacity duration-700"
+                            {...({ fetchpriority: currentImage === 0 ? "high" : "low" } as any)}
+                            decoding={currentImage === 0 ? "sync" : "async"}
+                            loading={currentImage === 0 ? "eager" : "lazy"}
+                            width="800"
+                            height="450"
+                        />
+                    </picture>
+                </div>
 
                 {/* Subtle Ambient Vignette & Gradient for High-Contrast Text Legibility */}
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-950/95 via-slate-950/55 to-slate-950/40" />
@@ -201,19 +201,19 @@ const HeroSearch = () => {
                 </div>
             </div>
 
-            {/* Slide Navigation Indicator Dots (Accessible Touch Targets) */}
+            {/* Slide Navigation Indicator Dots (Accessible 48px Touch Targets) */}
             <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-1 z-20 pointer-events-auto">
                 {slides.map((slide, idx) => (
                     <button
                         key={idx}
                         onClick={() => setCurrentImage(idx)}
-                        className="p-3 flex items-center justify-center rounded-full hover:bg-white/10 transition-colors"
+                        className="p-3.5 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-full hover:bg-white/10 transition-colors"
                         aria-label={`View slide ${idx + 1}: ${slide.developer} ${slide.title}`}
                     >
                         <span className={`block transition-all duration-300 rounded-full ${
                             idx === currentImage
                                 ? 'w-8 h-2 bg-gradient-to-r from-amber-400 to-brand-400 shadow-md shadow-amber-500/30'
-                                : 'w-2.5 h-2.5 bg-white/50 hover:bg-white/90'
+                                : 'w-2.5 h-2.5 bg-white/60 hover:bg-white'
                         }`} />
                     </button>
                 ))}

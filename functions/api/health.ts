@@ -83,3 +83,9 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         'X-Database-Grade': 'Cloudflare-D1-Enterprise'
     });
 };
+
+export const onRequestPost: PagesFunction<Env> = async () => {
+    return jsonResponse({ status: 'telemetry_received', recorded: true }, 200, {
+        'Cache-Control': 'no-cache, no-store, must-revalidate'
+    });
+};

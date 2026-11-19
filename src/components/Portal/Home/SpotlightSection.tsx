@@ -42,13 +42,14 @@ const SpotlightSection: React.FC<SpotlightSectionProps> = ({ projects }) => {
                         <h2 className="text-3xl sm:text-4xl font-black text-slate-900 tracking-tight">
                             Iconic Landmark Elevations
                         </h2>
-                        <p className="text-sm sm:text-base text-slate-500 font-medium mt-1">
+                        <p className="text-sm sm:text-base text-slate-700 font-medium mt-1">
                             Experience Pune's most celebrated architectural elevations and master-planned mega townships.
                         </p>
                     </div>
                     <Link
                         to="/search?type=projects"
-                        className="inline-flex items-center gap-2 text-sm font-bold text-brand-600 hover:text-brand-700 bg-brand-50 hover:bg-brand-100 px-5 py-2.5 rounded-full transition-all border border-brand-200 shrink-0"
+                        aria-label="Explore all flagship landmark elevations"
+                        className="inline-flex items-center gap-2 text-sm font-extrabold text-brand-700 hover:text-brand-800 bg-brand-50 hover:bg-brand-100 px-5 py-2.5 rounded-full transition-all border border-brand-200 shrink-0"
                     >
                         <span>Explore All Flagships</span>
                         <ArrowRight className="w-4 h-4" />
