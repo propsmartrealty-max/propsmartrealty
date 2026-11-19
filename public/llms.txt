@@ -85,6 +85,7 @@ Home buyers can browse verified developer portfolios on [PROPSMART REALTY](https
 ---
 
 ## Featured Flagship Projects
+- **[Godrej Elanor](https://propsmart.co.in/project/godrej-elanor)**: Mahalunge, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.89 Cr - ₹2.50 Cr | MahaRERA: `PR1260002602617`
 - **[Rohan Saroha](https://propsmart.co.in/project/rohan-saroha)**: Bhugaon, Pune | Typologies: 2 BHK, 3 BHK, 4 BHK | Price: ₹80.00 L - ₹1.85 Cr | MahaRERA: `P52100076652`
 - **[Rohan Ekam](https://propsmart.co.in/project/rohan-ekam)**: Balewadi, Pune | Typologies: 2 BHK, 3 BHK, 4.5 BHK | Price: ₹1.33 Cr - ₹3.42 Cr | MahaRERA: `P52100053912`
 - **[BramhaCorp Hues of Sky](https://propsmart.co.in/project/bramhacorp-hues-of-sky)**: Camp, Pune | Typologies: 2 BHK, 3 BHK, 3.5 BHK, 4 BHK | Price: ₹1.56 Cr - ₹3.40 Cr | MahaRERA: `P52100051537`

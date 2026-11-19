@@ -6,6 +6,57 @@ import { Project } from '../types';
  */
 export const PROJECT_SUMMARIES: Project[] = [
   {
+  "id": "p-godrej-elanor",
+  "title": "Godrej Elanor",
+  "slug": "godrej-elanor",
+  "builderId": "b-godrej",
+  "location": "Mahalunge",
+  "city": "Pune",
+  "priceRange": "₹1.89 Cr - ₹2.50 Cr",
+  "exactPrice": "₹1.89 Cr",
+  "pricePerSqft": 14880,
+  "configurations": [
+    "3 BHK",
+    "4 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "3 BHK Resort Residence",
+      "carpetArea": "1270 sq.ft",
+      "priceRange": "₹1.89 Cr"
+    },
+    {
+      "type": "3.5 BHK Sky Deck Suite",
+      "carpetArea": "1320 sq.ft",
+      "priceRange": "₹2.09 Cr"
+    },
+    {
+      "type": "4 BHK Duplex Penthouse",
+      "carpetArea": "1680 sq.ft",
+      "priceRange": "₹2.50 Cr"
+    }
+  ],
+  "status": "New Launch",
+  "type": "Residential",
+  "possessionDate": "December 2030",
+  "image": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+  "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+  "reraId": "PR1260002602617",
+  "verificationStatus": "Verified",
+  "featured": true,
+  "website": "https://www.godrejproperties.com",
+  "features": [
+    "8.5 Acres Resort Township",
+    "5 High-Rise Towers (35 Floors)",
+    "Miyawaki Micro-Forest",
+    "Infinity Lap Pool & Cabanas",
+    "Aromatic Herb Garden"
+  ],
+  "description": "Godrej Elanor is an exclusive resort-inspired residential enclave spanning ~8.5 acres in Mahalunge, West Pune along the Hinjewadi-Baner tech corridor. Offering 3 BHK luxury residences and 4 BHK duplexes.",
+  "lat": 18.5721,
+  "lng": 73.7432
+},
+  {
     "id": "p-nanded-city-harmony",
     "title": "Harmony at Nanded City",
     "slug": "nanded-city-harmony",
@@ -6071,7 +6122,7 @@ export const PROJECT_SUMMARIES: Project[] = [
         "priceRange": "\u20b91.85 Cr"
       }
     ],
-    "status": "Under Construction",
+    "status": "New Launch",
     "type": "Residential",
     "possessionDate": "June 2028",
     "image": "https://www.koltepatil.com/assets/uploads/overview/1736838615597289150.jpg",
@@ -6245,7 +6296,7 @@ export const PROJECT_SUMMARIES: Project[] = [
         "priceRange": "\u20b961.50 L"
       }
     ],
-    "status": "Under Construction",
+    "status": "New Launch",
     "type": "Residential",
     "possessionDate": "Dec 2027",
     "image": "https://www.koltepatil.com/assets/uploads/overview/17742511611639045753.jpg",
@@ -7269,7 +7320,7 @@ export const PROJECT_SUMMARIES: Project[] = [
         "priceRange": "\u20b91.12 Cr"
       }
     ],
-    "status": "Under Construction",
+    "status": "New Launch",
     "type": "Residential",
     "possessionDate": "Dec 2028",
     "image": "https://keystoneliv.com/public/uploads/property/leqFS0kMhJDAQ6ZdwEOxnajHj4VcaKZHhxS1hVk1.webp",
@@ -11449,10 +11500,10 @@ export const PROJECT_SUMMARIES: Project[] = [
   },
   {
     "id": "p-hiranandani-krisala-township",
-    "title": "Hiranandani Krisala Township",
+    "title": "Hiranandani Hinjewadi Township",
     "slug": "hiranandani-krisala-township",
     "builderId": "b-hiranandani",
-    "location": "Darumbre",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "\u20b975.00 L - \u20b91.12 Cr",
     "exactPrice": "\u20b975.00 L",
@@ -11473,7 +11524,7 @@ export const PROJECT_SUMMARIES: Project[] = [
         "priceRange": "\u20b91.12 Cr"
       }
     ],
-    "status": "Under Construction",
+    "status": "New Launch",
     "type": "Residential",
     "possessionDate": "2027",
     "image": "https://punehome.in/storage/v1/object/public/project-media/projects/f6112baa-0481-401b-8910-ec78b165019e/gallery/mruxuv87-8c5g2i.webp",

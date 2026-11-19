@@ -152,8 +152,22 @@ const SearchResults: React.FC<SearchResultsProps> = ({
         if (sortBy === 'price-desc') {
             return list.sort((a, b) => (b.pricePerSqft || 0) - (a.pricePerSqft || 0));
         }
-        if (sortBy === 'newest') {
-            return list.sort((a, b) => (b.status === 'New Launch' ? 1 : 0) - (a.status === 'New Launch' ? 1 : 0));
+        if (sortBy === 'newest' || effectiveStatus === 'New Launch') {
+            const prioritySlugs = [
+                'kolte-patil-life-republic-canvas',
+                'kolte-patil-life-republic-echoes',
+                'hiranandani-krisala-township',
+                'godrej-elanor',
+                'shapoorji-vyomora-hinjewadi'
+            ];
+            return list.sort((a, b) => {
+                const aIdx = prioritySlugs.indexOf(a.slug);
+                const bIdx = prioritySlugs.indexOf(b.slug);
+                if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx;
+                if (aIdx !== -1) return -1;
+                if (bIdx !== -1) return 1;
+                return (b.status === 'New Launch' ? 1 : 0) - (a.status === 'New Launch' ? 1 : 0);
+            });
         }
         return list;
     }, [projects, sortBy]);

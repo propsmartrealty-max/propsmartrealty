@@ -7988,6 +7988,200 @@ export const BUILDERS: Builder[] = [
 ];
 
 export const PROJECTS: Project[] = [
+  {
+  "id": "p-godrej-elanor",
+  "title": "Godrej Elanor",
+  "slug": "godrej-elanor",
+  "builderId": "b-godrej",
+  "location": "Mahalunge",
+  "city": "Pune",
+  "priceRange": "₹1.89 Cr - ₹2.50 Cr",
+  "exactPrice": "₹1.89 Cr",
+  "pricePerSqft": 14880,
+  "configurations": [
+    "3 BHK",
+    "4 BHK"
+  ],
+  "configurationDetails": [
+    {
+      "type": "3 BHK Resort Residence",
+      "carpetArea": "1270 sq.ft",
+      "priceRange": "₹1.89 Cr"
+    },
+    {
+      "type": "3.5 BHK Sky Deck Suite",
+      "carpetArea": "1320 sq.ft",
+      "priceRange": "₹2.09 Cr"
+    },
+    {
+      "type": "4 BHK Duplex Penthouse",
+      "carpetArea": "1680 sq.ft",
+      "priceRange": "₹2.50 Cr"
+    }
+  ],
+  "status": "New Launch",
+  "type": "Residential",
+  "possessionDate": "December 2030",
+  "image": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+  "heroImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+  "imageAlt": "Godrej Elanor Luxury High-Rise Elevation in Mahalunge Hinjewadi Corridor, Pune",
+  "heroImageAlt": "Godrej Elanor Architectural Towers by Godrej Properties in Mahalunge Pune",
+  "lat": 18.5721,
+  "lng": 73.7432,
+  "masterLayout": "https://keystoneliv.com/public/uploads/property/5tGVdoBmlNYzErLGfVKOK1iX1OZIqyzJ17rTGkJ7.webp",
+  "floorPlans": [
+    "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp"
+  ],
+  "reraId": "PR1260002602617",
+  "seoKeywords": [
+    "Godrej Elanor Pune",
+    "Godrej Elanor Mahalunge",
+    "Godrej Elanor price",
+    "Godrej Elanor floor plan",
+    "Godrej Elanor MahaRERA PR1260002602617",
+    "Godrej new launch Mahalunge",
+    "3 BHK flats in Mahalunge"
+  ],
+  "metaDescription": "Buy luxury 3 BHK & 4 BHK in Godrej Elanor, Mahalunge Pune by Godrej Properties. Starts ₹1.89 Cr. MahaRERA PR1260002602617. 100% Zero Brokerage with PROPSMART REALTY.",
+  "description": "Godrej Elanor is an exclusive resort-inspired residential enclave spanning ~8.5 acres in Mahalunge, West Pune along the Hinjewadi-Baner tech corridor. Comprising 5 high-rise towers (G+3P+35 storeys) offering spacious 3 BHK residences and 4 BHK duplex penthouses. Designed with a Miyawaki micro-forest, reflexology paths, infinity lap pool, sky-deck observatory, and premier sports courts. Officially verified under MahaRERA registration PR1260002602617 with 100% Zero Brokerage through PROPSMART REALTY.",
+  "features": [
+    "8.5 Acres Resort Township",
+    "5 High-Rise Towers (35 Floors)",
+    "Miyawaki Micro-Forest",
+    "Infinity Lap Pool & Cabanas",
+    "Aromatic Herb Garden",
+    "Sky-Deck Observatory",
+    "Tennis & Pickleball Courts",
+    "Proximity to Hinjewadi Phase 1 & 2",
+    "Direct Hinjewadi-Mahalunge Road Frontage"
+  ],
+  "amenities": [
+    "8.5 Acres Resort Township",
+    "5 High-Rise Towers (35 Floors)",
+    "Miyawaki Micro-Forest",
+    "Infinity Lap Pool & Cabanas",
+    "Aromatic Herb Garden",
+    "Sky-Deck Observatory",
+    "Tennis & Pickleball Courts",
+    "Proximity to Hinjewadi Phase 1 & 2",
+    "Direct Hinjewadi-Mahalunge Road Frontage"
+  ],
+  "highlights": [
+    "Flagship New Launch by Godrej Properties in West Pune",
+    "MahaRERA Sanctioned Project: PR1260002602617",
+    "100% Zero Brokerage Direct Developer Mandate",
+    "Ultra-Spacious 3 & 4 BHK Floor Plans with Sky Decks",
+    "Resort-Themed Living with Miyawaki Micro-Forest"
+  ],
+  "specs": [
+    {
+      "label": "Structure",
+      "value": "Earthquake resistant RCC shear wall structure designed for Seismic Zone III"
+    },
+    {
+      "label": "Flooring",
+      "value": "Italian marble finish vitrified tiles in living/dining; wooden finish tiles in master bedroom"
+    },
+    {
+      "label": "Kitchen",
+      "value": "Granite platform with double bowl stainless steel sink, piped gas provision & utility balcony"
+    },
+    {
+      "label": "Bathrooms",
+      "value": "Premium Kohler / Grohe CP fittings & sanitaryware with concealed plumbing and solar water connection"
+    },
+    {
+      "label": "Electrical",
+      "value": "Concealed copper wiring with Schneider / Legrand modular switches, home automation provisions & DG backup"
+    },
+    {
+      "label": "Doors & Windows",
+      "value": "Laminated flush doors and powder coated aluminum sliding French windows with mosquito mesh"
+    },
+    {
+      "label": "Carpet Range",
+      "value": "1,270 - 1,680 sq.ft (Usable Carpet Area)"
+    }
+  ],
+  "verificationStatus": "Verified",
+  "featured": true,
+  "images": [
+    "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp",
+    "https://keystoneliv.com/public/uploads/property/5tGVdoBmlNYzErLGfVKOK1iX1OZIqyzJ17rTGkJ7.webp"
+  ],
+  "advancedConfigurations": [
+    {
+      "id": "cfg-godrej-elanor-3bhk",
+      "projectId": "p-godrej-elanor",
+      "name": "3 BHK Resort Residence",
+      "carpetArea": 1270,
+      "balconyArea": 110,
+      "bathrooms": 3,
+      "basePrice": 18900000,
+      "pricePerSqft": 14881,
+      "infraCharges": 450000,
+      "clubhouseCharges": 300000,
+      "gstRate": 5,
+      "stampDutyRate": 7,
+      "registrationCharges": 30000,
+      "layoutImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp"
+    },
+    {
+      "id": "cfg-godrej-elanor-3.5bhk",
+      "projectId": "p-godrej-elanor",
+      "name": "3.5 BHK Sky Deck Suite",
+      "carpetArea": 1320,
+      "balconyArea": 130,
+      "bathrooms": 3,
+      "basePrice": 20900000,
+      "pricePerSqft": 15833,
+      "infraCharges": 500000,
+      "clubhouseCharges": 300000,
+      "gstRate": 5,
+      "stampDutyRate": 7,
+      "registrationCharges": 30000,
+      "layoutImage": "https://keystoneliv.com/public/uploads/property/tJoMXAcz93Q3AzNSRbGl2rqXifgKmka5ixZgZ61W.webp"
+    },
+    {
+      "id": "cfg-godrej-elanor-4bhk",
+      "projectId": "p-godrej-elanor",
+      "name": "4 BHK Duplex Penthouse",
+      "carpetArea": 1680,
+      "balconyArea": 180,
+      "bathrooms": 4,
+      "basePrice": 25000000,
+      "pricePerSqft": 14880,
+      "infraCharges": 650000,
+      "clubhouseCharges": 400000,
+      "gstRate": 5,
+      "stampDutyRate": 7,
+      "registrationCharges": 30000,
+      "layoutImage": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Where is Godrej Elanor located?",
+      "answer": "Godrej Elanor is located in prime Mahalunge, Pune along the Hinjewadi-Baner tech corridor, adjacent to the Mula River and opposite Delhi Public School."
+    },
+    {
+      "question": "What is the price range of Godrej Elanor?",
+      "answer": "Homes in Godrej Elanor start from ₹1.89 Cr for 3 BHK luxury residences up to ₹2.50 Cr for 4 BHK duplex penthouses with 100% Zero Brokerage through PROPSMART REALTY."
+    },
+    {
+      "question": "What is the MahaRERA number for Godrej Elanor?",
+      "answer": "Godrej Elanor is registered with MahaRERA under official registration number PR1260002602617."
+    },
+    {
+      "question": "What amenities are offered at Godrej Elanor?",
+      "answer": "The project features resort-style living with an 8.5-acre master plan, Miyawaki micro-forest, infinity lap pool, sky-deck observatory, squash & badminton courts, and 50+ holistic wellness facilities."
+    }
+  ],
+  "verificationSource": "https://maharera.maharashtra.gov.in/?rera=PR1260002602617",
+  "website": "https://www.godrejproperties.com"
+},
 {
     "id": "p-nanded-city-harmony",
     "title": "Harmony at Nanded City",
@@ -32487,7 +32681,7 @@ export const PROJECTS: Project[] = [
         "priceRange": "\u20b91.85 Cr"
       }
     ],
-    "status": "Under Construction",
+    "status": "New Launch",
     "type": "Residential",
     "possessionDate": "June 2028",
     "image": "https://www.koltepatil.com/assets/uploads/overview/1736838615597289150.jpg",
@@ -33329,7 +33523,7 @@ export const PROJECTS: Project[] = [
         "priceRange": "\u20b961.50 L"
       }
     ],
-    "status": "Under Construction",
+    "status": "New Launch",
     "type": "Residential",
     "possessionDate": "Dec 2027",
     "image": "https://www.koltepatil.com/assets/uploads/overview/17742511611639045753.jpg",
@@ -37780,7 +37974,7 @@ export const PROJECTS: Project[] = [
       "2 BHK",
       "3 BHK"
     ],
-    "status": "Under Construction",
+    "status": "New Launch",
     "type": "Residential",
     "possessionDate": "Dec 2028",
     "image": "https://keystoneliv.com/public/uploads/property/leqFS0kMhJDAQ6ZdwEOxnajHj4VcaKZHhxS1hVk1.webp",
@@ -50792,10 +50986,10 @@ export const PROJECTS: Project[] = [
   },
   {
     "id": "p-hiranandani-krisala-township",
-    "title": "Hiranandani Krisala Township",
+    "title": "Hiranandani Hinjewadi Township",
     "slug": "hiranandani-krisala-township",
     "builderId": "b-hiranandani",
-    "location": "Darumbre",
+    "location": "Hinjewadi",
     "city": "Pune",
     "priceRange": "\u20b975.00 L - \u20b91.12 Cr",
     "exactPrice": "\u20b975.00 L",
@@ -50804,7 +50998,7 @@ export const PROJECTS: Project[] = [
       "2 BHK",
       "3 BHK"
     ],
-    "status": "Under Construction",
+    "status": "New Launch",
     "type": "Residential",
     "possessionDate": "2027",
     "image": "https://punehome.in/storage/v1/object/public/project-media/projects/f6112baa-0481-401b-8910-ec78b165019e/gallery/mruxuv87-8c5g2i.webp",

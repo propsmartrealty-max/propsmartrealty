@@ -26,6 +26,20 @@ export interface EdgeLocalityInfo {
 }
 
 export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
+  "godrej-elanor": {
+    "t": "Godrej Elanor",
+    "b": "Godrej Properties",
+    "l": "Mahalunge",
+    "c": "Pune",
+    "p": "\u20b91.89 Cr",
+    "r": "PR1260002602617",
+    "i": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "d": "Godrej Elanor is an exclusive resort-inspired residential enclave spanning ~8.5 acres in Mahalunge, West Pune along the Hinjewadi-Baner tech corridor. Offering 3 BHK luxury residences and 4 BHK duplexes.",
+    "cf": [
+      "3 BHK",
+      "4 BHK"
+    ]
+  },
   "nanded-city-harmony": {
     "t": "Harmony at Nanded City",
     "b": "Nanded City Development & Construction Co.",
@@ -3381,9 +3395,9 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     ]
   },
   "hiranandani-krisala-township": {
-    "t": "Hiranandani Krisala Township",
+    "t": "Hiranandani Hinjewadi Township",
     "b": "Hiranandani Group",
-    "l": "Darumbre",
+    "l": "Hinjewadi",
     "c": "Pune",
     "p": "\u20b975.00 L",
     "r": "P52100062438",

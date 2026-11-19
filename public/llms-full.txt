@@ -1,7 +1,7 @@
 # PROPSMART REALTY — Complete Real Estate Knowledge Corpus
 > Domain: https://propsmart.co.in
 > MahaRERA Agent Registration: A031262401295
-> Total Verified Projects: 932
+> Total Verified Projects: 933
 > Total Verified Builders: 317
 > Total Localities: 152
 
@@ -12,7 +12,7 @@ This document contains the complete, unabridged real estate database of verified
 # TABLE OF CONTENTS
 1. Localities & Corridor Rates
 2. Leading Real Estate Developers
-3. Complete Verified Projects Catalog (932 Projects)
+3. Complete Verified Projects Catalog (933 Projects)
 
 ---
 
@@ -499,10 +499,11 @@ This document contains the complete, unabridged real estate database of verified
 
 ---
 
-# 3. COMPLETE VERIFIED PROJECTS CATALOG (932 Projects)
+# 3. COMPLETE VERIFIED PROJECTS CATALOG (933 Projects)
 
 | Project Name | Locality | Typologies | Price Range (All-Inclusive) | Status | MahaRERA ID | URL |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Godrej Elanor | Mahalunge | 3 BHK, 4 BHK | ₹1.89 Cr - ₹2.50 Cr | New Launch | `PR1260002602617` | https://propsmart.co.in/project/godrej-elanor |
 | Harmony at Nanded City | Sinhagad Road | 3.5 BHK, 4.5 BHK | ₹1.85 Cr - ₹3.10 Cr | Under Construction | `PR1260002502527` | https://propsmart.co.in/project/nanded-city-harmony |
 | Saajgiri at Nanded City | Sinhagad Road | 2 BHK, 3 BHK | ₹88.00 L - ₹1.48 Cr | Under Construction | `PR1260002501621` | https://propsmart.co.in/project/nanded-city-saajgiri |
 | Destination Center II | Sinhagad Road | Commercial Retail, Showroom, Office | ₹48.00 L - ₹3.20 Cr | Under Construction | `P52100079788` | https://propsmart.co.in/project/nanded-city-destination-center-2 |
@@ -622,11 +623,11 @@ This document contains the complete, unabridged real estate database of verified
 | Lodha Alibaug | Awas Beach | 3 BHK Beach Villa, 4 BHK Beach Villa, 5 BHK Royal Manor | ₹6.89 Cr - ₹12.72 Cr | Under Construction | `P52000051189` | https://propsmart.co.in/project/lodha-alibaug-coastal-villas |
 | Abhinandan Lodha Alibaug Reserve | Mandwa Jetty Corridor | Coastal Villa Plot, Beach Estate | ₹3.69 Cr - ₹6.05 Cr | New Launch | `P52000053912` | https://propsmart.co.in/project/abhinandan-lodha-alibaug-reserve |
 | Kolte Patil Life Republic Qrious | Hinjewadi | 2 BHK, 3 BHK | ₹53.00 L - ₹80.50 L | Under Construction | `P52100079623` | https://propsmart.co.in/project/kolte-patil-life-republic-qrious |
-| Kolte Patil Life Republic Canvas | Hinjewadi | 3 BHK, 3.5 BHK, 4 BHK | ₹1.18 Cr - ₹1.85 Cr | Under Construction | `P52100077008` | https://propsmart.co.in/project/kolte-patil-life-republic-canvas |
+| Kolte Patil Life Republic Canvas | Hinjewadi | 3 BHK, 3.5 BHK, 4 BHK | ₹1.18 Cr - ₹1.85 Cr | New Launch | `P52100077008` | https://propsmart.co.in/project/kolte-patil-life-republic-canvas |
 | Kolte Patil Life Republic Aros | Hinjewadi | 2 BHK, 3 BHK | ₹52.00 L - ₹79.50 L | Under Construction | `P52100047921` | https://propsmart.co.in/project/kolte-patil-life-republic-aros |
 | Kolte Patil Life Republic Atmos | Hinjewadi | 2 BHK, 2.5 BHK | ₹51.00 L - ₹61.00 L | Under Construction | `P52100051765` | https://propsmart.co.in/project/kolte-patil-life-republic-atmos |
 | Kolte Patil Life Republic Duet | Hinjewadi | 2 BHK | ₹50.00 L | Under Construction | `P52100079424` | https://propsmart.co.in/project/kolte-patil-life-republic-duet |
-| Kolte Patil Life Republic Echoes | Hinjewadi | 2 BHK, 2.5 BHK | ₹51.50 L - ₹61.50 L | Under Construction | `P52100077382` | https://propsmart.co.in/project/kolte-patil-life-republic-echoes |
+| Kolte Patil Life Republic Echoes | Hinjewadi | 2 BHK, 2.5 BHK | ₹51.50 L - ₹61.50 L | New Launch | `P52100077382` | https://propsmart.co.in/project/kolte-patil-life-republic-echoes |
 | Kolte Patil 24K Espada at Life Republic | Hinjewadi | 4 BHK, 5 BHK | ₹2.19 Cr - ₹3.47 Cr | Under Construction | `P52100051876` | https://propsmart.co.in/project/kolte-patil-24k-espada-at-life-republic |
 | Kolte Patil Universe at Life Republic | Hinjewadi | 1 BHK, 2 BHK | ₹30.50 L - ₹50.50 L | Ready to Move | `P52100027629` | https://propsmart.co.in/project/kolte-patil-universe-at-life-republic |
 | Kolte Patil Oro Avenue at Life Republic | Hinjewadi | 1 BHK, 2 BHK | ₹30.00 L - ₹50.00 L | Ready to Move | `P52100017116` | https://propsmart.co.in/project/kolte-patil-oro-avenue-at-life-republic |
@@ -648,7 +649,7 @@ This document contains the complete, unabridged real estate database of verified
 | Kolte Patil Alora | Santacruz East | 2 BHK, 3 BHK | ₹1.95 Cr - ₹2.65 Cr | Under Construction | `P51800049048` | https://propsmart.co.in/project/kolte-patil-alora |
 | Kolte Patil La Vita | Navi Mumbai | 2 BHK, 3 BHK | ₹1.58 Cr - ₹2.41 Cr | Under Construction | `P51700077178` | https://propsmart.co.in/project/kolte-patil-la-vita |
 | Shapoorji Pallonji Wildernest | Shewalewadi | 3 BHK, 4 BHK | ₹1.84 Cr - ₹3.15 Cr | Under Construction | `P52100052683` | https://propsmart.co.in/project/shapoorji-wildernest-sp-kingstown |
-| Shapoorji Pallonji Vyomora | Hinjewadi | 2 BHK, 3 BHK | ₹78.00 L - ₹1.12 Cr | Under Construction | `P52100052980` | https://propsmart.co.in/project/shapoorji-vyomora-hinjewadi |
+| Shapoorji Pallonji Vyomora | Hinjewadi | 2 BHK, 3 BHK | ₹78.00 L - ₹1.12 Cr | New Launch | `P52100052980` | https://propsmart.co.in/project/shapoorji-vyomora-hinjewadi |
 | Shapoorji Pallonji Vanaha Golfland | Bavdhan | 2 BHK, 3 BHK, 4 BHK | ₹1.48 Cr - ₹2.75 Cr | Under Construction | `P52100052376` | https://propsmart.co.in/project/shapoorji-vanaha-golfland-bavdhan |
 | Shapoorji Pallonji Vanaha Springs | Bavdhan | 1 BHK, 2 BHK, 3 BHK | ₹47.50 L - ₹1.21 Cr | Ready to Move | `P52100030065` | https://propsmart.co.in/project/shapoorji-vanaha-springs-bavdhan |
 | Shapoorji Pallonji BKC 28 | Bandra East | 2 BHK, 4 BHK Jodi | ₹2.23 Cr - ₹4.98 Cr | Ready to Move | `P51800028474` | https://propsmart.co.in/project/shapoorji-bkc-28-bandra-east |
@@ -740,7 +741,7 @@ This document contains the complete, unabridged real estate database of verified
 | Shreenidhi | Baner | 2 BHK, 3 BHK | ₹99.00 L - ₹1.37 Cr | Under Construction | `P52100060378` | https://propsmart.co.in/project/shreenidhi |
 | Santiago Skyworld 2.0 | Bhosari | 3 BHK | ₹1.47 Cr - ₹2.11 Cr | Under Construction | `P52100048912` | https://propsmart.co.in/project/santiago-skyworld-2-0 |
 | Kosha | Koregaon Park | 4 BHK | ₹5.91 Cr - ₹12.85 Cr | Under Construction | `P52100060453` | https://propsmart.co.in/project/kosha |
-| Hiranandani Krisala Township | Darumbre | 2 BHK, 3 BHK | ₹75.00 L - ₹1.12 Cr | Under Construction | `P52100062438` | https://propsmart.co.in/project/hiranandani-krisala-township |
+| Hiranandani Hinjewadi Township | Hinjewadi | 2 BHK, 3 BHK | ₹75.00 L - ₹1.12 Cr | New Launch | `P52100062438` | https://propsmart.co.in/project/hiranandani-krisala-township |
 | Gaikwad Unico | Ravet | 3 BHK | ₹1.00 Cr - ₹1.20 Cr | Under Construction | `P52100080562` | https://propsmart.co.in/project/gaikwad-unico |
 | The Reserve | Mundhwa | 3 BHK, 4 BHK | ₹2.35 Cr - ₹5.35 Cr | Under Construction | `P52100049211` | https://propsmart.co.in/project/the-reserve-mundhwa |
 | Zenone | Wakad | 2 BHK, 3 BHK, 5 BHK | ₹1.03 Cr - ₹3.56 Cr | Ready to Move | `P52100053350` | https://propsmart.co.in/project/zenone |

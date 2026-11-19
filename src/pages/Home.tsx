@@ -21,7 +21,38 @@ const Home = () => {
     const { projects, builders, isLoading, error, refreshData } = useData();
 
     // Group projects for rails with defensive null-safety
-    const newLaunches = (projects || []).filter(p => p?.status === 'New Launch');
+    // Mandated New Launch priority sequence:
+    // 1. Life Republic Canvas, 2. Life Republic Echoes, 3. Hiranandani Hinjewadi, 4. Godrej Elanor, 5. Shapoorji Vyomora
+    const newLaunches = React.useMemo(() => {
+        const raw = (projects || []).filter(p => p?.status === 'New Launch');
+
+        const prioritySlugs = [
+            'kolte-patil-life-republic-canvas',
+            'kolte-patil-life-republic-echoes',
+            'hiranandani-krisala-township',
+            'godrej-elanor',
+            'shapoorji-vyomora-hinjewadi'
+        ];
+
+        const prioritized: typeof raw = [];
+        for (const slug of prioritySlugs) {
+            const match = (projects || []).find(p => 
+                p?.slug === slug || 
+                p?.id === slug || 
+                p?.id === `p-${slug}` ||
+                (slug === 'hiranandani-krisala-township' && (p?.slug?.includes('hiranandani-krisala') || p?.slug?.includes('hiranandani-hinjewadi')))
+            );
+            if (match && !prioritized.some(p => p.id === match.id)) {
+                prioritized.push(match);
+            }
+        }
+
+        const priorityIdSet = new Set(prioritized.map(p => p.id));
+        const remaining = raw.filter(p => !priorityIdSet.has(p.id));
+
+        return [...prioritized, ...remaining];
+    }, [projects]);
+
     const readyToMove = (projects || []).filter(p => p?.status === 'Ready to Move');
     const luxuryProjects = (projects || []).filter(p => {
         if (!p) return false;
