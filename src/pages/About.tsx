@@ -21,9 +21,17 @@ const About = () => {
                         "description": "PROPSMART REALTY is Pune's leading 100% Brokerage Free platform where homebuyers connect and buy directly with authorized builders.",
                         "mainEntity": {
                             "@type": "RealEstateAgent",
+                            "@id": "https://propsmart.co.in/#organization",
                             "name": "PROPSMART REALTY",
                             "license": "A031262401295",
-                            "telephone": "+91-7744009295"
+                            "foundingDate": "2015",
+                            "telephone": "+91-7744009295",
+                            "founder": {
+                                "@type": "Person",
+                                "name": "Vikas Yewle",
+                                "jobTitle": "Founder & Principal Real Estate Advisor"
+                            },
+                            "award": "Established 2015 | 10+ Years Trusted Real Estate Advisory"
                         }
                     },
                     {

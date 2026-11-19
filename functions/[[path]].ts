@@ -43,6 +43,27 @@ export async function onRequest(context: {
         return context.next();
     }
 
+    // 1b. Trailing slash canonicalization (301 Permanent Redirect)
+    if (url.pathname.length > 1 && url.pathname.endsWith('/')) {
+        const cleanPath = url.pathname.replace(/\/+$/, '');
+        return Response.redirect(`${BASE_URL}${cleanPath}${url.search}`, 301);
+    }
+
+    // 1c. Historical 10-Year Domain Backlink Preservation (301 Permanent Redirects)
+    const legacyProjectMatch = pathname.match(/^\/(?:property-detail|project-detail|properties-details|property-details|view-property|view-project)\/([a-z0-9-]+)$/);
+    if (legacyProjectMatch) {
+        return Response.redirect(`${BASE_URL}/project/${legacyProjectMatch[1]}`, 301);
+    }
+
+    const legacyBuilderMatch = pathname.match(/^\/(?:developer|developers)\/([a-z0-9-]+)$/);
+    if (legacyBuilderMatch) {
+        return Response.redirect(`${BASE_URL}/builder/${legacyBuilderMatch[1]}`, 301);
+    }
+
+    if (/^\/(?:blog|blogs|article|articles|post|posts|news|category|categories|tag|tags)(?:\/.*)?$/.test(pathname) || /^\/20\d\d(?:\/.*)?$/.test(pathname)) {
+        return Response.redirect(`${BASE_URL}/directory`, 301);
+    }
+
     // 2. Fetch static assets (.svg, .png, .jpg, .webp, .css, .js, .xml, .txt, .json)
     const assetResponse = await env.ASSETS.fetch(request);
     if (assetResponse.status === 200 || assetResponse.status === 304 || (assetResponse.status >= 300 && assetResponse.status < 400)) {
@@ -108,9 +129,12 @@ export async function onRequest(context: {
                     },
                     "provider": {
                         "@type": "RealEstateAgent",
+                        "@id": `${BASE_URL}/#organization`,
                         "name": "PROPSMART REALTY",
                         "url": BASE_URL,
-                        "license": AGENT_RERA
+                        "license": AGENT_RERA,
+                        "foundingDate": "2015",
+                        "telephone": "+91-7744009295"
                     }
                 });
 
@@ -178,6 +202,41 @@ export async function onRequest(context: {
                 "logo": metaImage,
                 "description": b ? b.d : metaDesc
             });
+
+            // Breadcrumbs for Builder
+            edgeJsonLdList.push({
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": BASE_URL },
+                    { "@type": "ListItem", "position": 2, "name": "Developers", "item": `${BASE_URL}/directory?view=builders` },
+                    { "@type": "ListItem", "position": 3, "name": builderName, "item": canonicalUrl }
+                ]
+            });
+
+            // FAQs for Builder
+            edgeJsonLdList.push({
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": `How can I buy ${builderName} properties with 0% brokerage?`,
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": `PROPSMART REALTY is an authorized direct sales partner for ${builderName}. Homebuyers pay 100% zero brokerage and get direct developer pricing.`
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": `Are all ${builderName} projects on PROPSMART MahaRERA verified?`,
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": `Yes. Every ${builderName} residential and commercial development listed on PROPSMART has verified MahaRERA registration numbers and sanctioned layout plans.`
+                        }
+                    }
+                ]
+            });
         }
 
         // MATCH C: Locality Hubs (/flats-in-:slug)
@@ -196,6 +255,49 @@ export async function onRequest(context: {
                 "name": `Properties and Flats in ${locName}, ${city}`,
                 "url": canonicalUrl,
                 "description": metaDesc
+            });
+
+            // Breadcrumbs for Locality
+            edgeJsonLdList.push({
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": BASE_URL },
+                    { "@type": "ListItem", "position": 2, "name": city, "item": `${BASE_URL}/properties-in-${city.toLowerCase().replace(/\s+/g, '-')}` },
+                    { "@type": "ListItem", "position": 3, "name": `Flats in ${locName}`, "item": canonicalUrl }
+                ]
+            });
+
+            // High-Intent Locality FAQs
+            edgeJsonLdList.push({
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": `Can I buy flats in ${locName}, ${city} with 0% brokerage?`,
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": `Yes. PROPSMART REALTY operates strictly on direct builder sales mandates. Homebuyers pay 100% zero brokerage and get direct developer pricing in ${locName}.`
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": `Are residential projects in ${locName} MahaRERA verified?`,
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": `All residential developments in ${locName} featured on PROPSMART REALTY have verified MahaRERA registration numbers, sanctioned carpet areas, and government compliance certificates.`
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": `What apartment configurations are available in ${locName}?`,
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": `${locName} offers 1 BHK, 2 BHK, 3 BHK, and 4 BHK luxury residences and penthouses across ready-to-move and new launch developments.`
+                        }
+                    }
+                ]
             });
         }
 
