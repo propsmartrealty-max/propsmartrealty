@@ -1,15 +1,45 @@
-// Google GenAI SDK type definitions might be missing in this environment
+// Google GenAI SDK Enterprise Client
 import { GoogleGenAI } from "@google/genai";
 import { Project, Builder } from "../types";
 
-// Initialize Gemini
-// Note: We ignore the type error for now if the SDK types aren't fully picked up
+// Initialize Enterprise Gemini
 const apiKey = import.meta.env.VITE_GEMINI_API_KEY || process.env.GEMINI_API_KEY || '';
 const client = new GoogleGenAI({ apiKey });
 
-// We need a partial project type that doesn't strictly require ID or internal fields
+// Enterprise-Grade Model Hierarchy: Flagship reasoning pro model with high-speed fallback
+export const GEMINI_ENTERPRISE_MODEL = import.meta.env.VITE_GEMINI_MODEL || "gemini-2.5-pro";
+export const GEMINI_ENTERPRISE_FALLBACK = "gemini-1.5-pro";
+
 export type AIProjectDetails = Omit<Project, 'id'>;
-export type AIBuilderDetails = Omit<Builder, 'id' | 'locations'>; // Locations inferred from projects usually
+export type AIBuilderDetails = Omit<Builder, 'id' | 'locations'>;
+
+async function generateWithEnterpriseModel(prompt: string, systemInstruction?: string): Promise<string> {
+    const modelsToTry = [GEMINI_ENTERPRISE_MODEL, GEMINI_ENTERPRISE_FALLBACK, "gemini-2.5-flash", "gemini-1.5-flash"];
+    let lastError: any = null;
+
+    for (const model of modelsToTry) {
+        try {
+            const config: any = {};
+            if (systemInstruction) {
+                config.systemInstruction = systemInstruction;
+            }
+            const response = await client.models.generateContent({
+                model,
+                contents: [{ parts: [{ text: prompt }] }],
+                config
+            });
+
+            if (response.text) {
+                return response.text;
+            }
+        } catch (err: any) {
+            lastError = err;
+            console.warn(`Gemini Enterprise model ${model} failed, trying next in fallback chain...`, err?.message || err);
+        }
+    }
+
+    throw lastError || new Error("Failed to generate content with Enterprise Gemini models.");
+}
 
 export const fetchProjectDetailsFromAI = async (query: string): Promise<Partial<AIProjectDetails>> => {
 
@@ -56,12 +86,10 @@ export const fetchProjectDetailsFromAI = async (query: string): Promise<Partial<
         `;
 
 
-        const response = await client.models.generateContent({
-            model: "gemini-flash-latest",
-            contents: [{ parts: [{ text: prompt }] }]
-        });
-
-        const text = response.text;
+        const text = await generateWithEnterpriseModel(
+            prompt,
+            "You are an Enterprise Real Estate Intelligence Specialist & MahaRERA Compliance Analyst for Maharashtra, Pune, and Mumbai. Return strictly accurate, verified data formatted as valid JSON."
+        );
         if (!text) throw new Error("Empty response from AI");
 
         // Cleanup potential markdown
@@ -104,12 +132,10 @@ export const fetchBuilderDetailsFromAI = async (builderName: string): Promise<Pa
         Do not include markdown.
         `;
 
-        const response = await client.models.generateContent({
-            model: "gemini-flash-latest",
-            contents: [{ parts: [{ text: prompt }] }]
-        });
-
-        const text = response.text;
+        const text = await generateWithEnterpriseModel(
+            prompt,
+            "You are an Enterprise Real Estate Intelligence Specialist & MahaRERA Compliance Analyst for Maharashtra, Pune, and Mumbai. Return strictly accurate, verified data formatted as valid JSON."
+        );
         if (!text) throw new Error("Empty response from AI");
 
         const cleanJson = text.replace(/```json/g, '').replace(/```/g, '').trim();

@@ -379,7 +379,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                         <div className="h-4 w-[1px] bg-slate-200 mx-1 shrink-0" />
 
                         <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider px-2 shrink-0">BHK:</span>
-                        {['1 BHK', '2 BHK', '3 BHK', '4 BHK'].map((bhk) => {
+                        {['Studio', '1 BHK', '2 BHK', '3 BHK', '4 BHK'].map((bhk) => {
                             const active = selectedConfigs.includes(bhk);
                             return (
                                 <button
@@ -495,7 +495,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                                 <div>
                                     <label className="block text-sm font-medium text-slate-700 mb-3">Configuration</label>
                                     <div className="space-y-2">
-                                        {['1 BHK', '2 BHK', '3 BHK', '4 BHK', 'Row House'].map(c => (
+                                        {['Studio', '1 BHK', '2 BHK', '3 BHK', '4 BHK', 'Row House'].map(c => (
                                             <label key={c} className="flex items-center gap-2 text-sm text-slate-600 cursor-pointer hover:text-blue-600 transition-colors">
                                                 <input
                                                     type="checkbox"
@@ -626,7 +626,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                                     <div className="border-t border-slate-100 pt-4">
                                         <label className="block text-xs font-black text-sky-700 uppercase tracking-wider mb-2.5">BHK Configuration</label>
                                         <div className="grid grid-cols-2 gap-2">
-                                            {['1 BHK', '2 BHK', '3 BHK', '4 BHK', 'Row House'].map(c => {
+                                            {['Studio', '1 BHK', '2 BHK', '3 BHK', '4 BHK', 'Row House'].map(c => {
                                                 const checked = selectedConfigs.includes(c);
                                                 return (
                                                     <button
@@ -933,6 +933,7 @@ const SearchResults: React.FC<SearchResultsProps> = ({
                                 { label: '₹50 L - ₹1 Cr', action: () => toggleFilter('50-100', selectedBudgets, setSelectedBudgets), active: selectedBudgets.includes('50-100') },
                                 { label: '₹1 Cr - ₹2 Cr', action: () => toggleFilter('100-200', selectedBudgets, setSelectedBudgets), active: selectedBudgets.includes('100-200') },
                                 { label: 'Above ₹2 Cr', action: () => toggleFilter('above-200', selectedBudgets, setSelectedBudgets), active: selectedBudgets.includes('above-200') },
+                                { label: 'Studio', action: () => toggleFilter('Studio', selectedConfigs, setSelectedConfigs), active: selectedConfigs.includes('Studio') },
                                 { label: '2 BHK', action: () => toggleFilter('2 BHK', selectedConfigs, setSelectedConfigs), active: selectedConfigs.includes('2 BHK') },
                                 { label: '3 BHK', action: () => toggleFilter('3 BHK', selectedConfigs, setSelectedConfigs), active: selectedConfigs.includes('3 BHK') },
                                 { label: 'New Launch', action: () => toggleFilter('new-launch', selectedTypes, setSelectedTypes), active: selectedTypes.includes('new-launch') },

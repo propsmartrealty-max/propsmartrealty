@@ -224,68 +224,52 @@ const HeroSearch = () => {
 
                 {/* Badges: Brokerage Free + Buy Direct with Builder */}
                 <div className="flex flex-wrap justify-center items-center gap-2.5 sm:gap-3 mb-5">
-                    <motion.div
-                        initial={{ y: -20, opacity: 0 }}
-                        animate={{ y: 0, opacity: 1 }}
-                        className="bg-emerald-500/25 backdrop-blur-md border border-emerald-400/50 px-4 sm:px-5 py-1.5 sm:py-2 rounded-full text-xs sm:text-sm font-black text-white flex items-center gap-2 shadow-[0_0_20px_rgba(16,185,129,0.35)]"
+                    <div
+                        className="bg-emerald-500/25 backdrop-blur-md border border-emerald-400/50 px-4 sm:px-5 py-2 rounded-full text-xs sm:text-sm font-black text-white flex items-center gap-2 shadow-[0_0_20px_rgba(16,185,129,0.35)]"
                     >
                         <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
                         ✨ 100% BROKERAGE FREE PLATFORM
-                    </motion.div>
+                    </div>
 
-                    <motion.div
-                        initial={{ y: -20, opacity: 0 }}
-                        animate={{ y: 0, opacity: 1 }}
-                        transition={{ delay: 0.05 }}
-                        className="bg-amber-500/25 backdrop-blur-md border border-amber-400/50 px-4 sm:px-5 py-1.5 sm:py-2 rounded-full text-xs sm:text-sm font-black text-amber-200 flex items-center gap-2 shadow-[0_0_20px_rgba(245,158,11,0.25)]"
+                    <div
+                        className="bg-amber-500/25 backdrop-blur-md border border-amber-400/50 px-4 sm:px-5 py-2 rounded-full text-xs sm:text-sm font-black text-amber-100 flex items-center gap-2 shadow-[0_0_20px_rgba(245,158,11,0.25)]"
                     >
                         <Building2 className="w-3.5 h-3.5 text-amber-300" />
                         🏢 BUY DIRECTLY WITH BUILDER
-                    </motion.div>
+                    </div>
                 </div>
 
-                <motion.div
-                    initial={{ y: -10, opacity: 0 }}
-                    animate={{ y: 0, opacity: 1 }}
-                    className="flex justify-center mb-4"
-                >
+                <div className="flex justify-center mb-4">
                     <a
                         href="https://maharera.maharashtra.gov.in/"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-slate-900/60 backdrop-blur-md border border-white/20 text-white text-xs font-semibold hover:bg-slate-900/80 transition-all shadow-md group"
+                        aria-label="Authorized MahaRERA Partner: A031262401295"
+                        className="inline-flex items-center gap-2 px-4 py-2 min-h-[44px] rounded-full bg-slate-900/80 backdrop-blur-md border border-white/30 text-white text-xs font-semibold hover:bg-slate-900 transition-all shadow-md group"
                     >
                         <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-                        <span className="text-white/80">Authorized MahaRERA Partner:</span>
+                        <span className="text-white">Authorized MahaRERA Partner:</span>
                         <span className="font-extrabold text-amber-300 tracking-wide">A031262401295</span>
                     </a>
-                </motion.div>
+                </div>
 
-                <motion.h1
-                    initial={{ y: 20, opacity: 0 }}
-                    animate={{ y: 0, opacity: 1 }}
+                <h1
                     className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black text-center mb-4 drop-shadow-2xl leading-tight text-white tracking-tight"
                 >
                     Buy Directly With Builder.{' '}
                     <span className="block mt-1 sm:inline text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-white to-emerald-300">
                         100% Brokerage Free.
                     </span>
-                </motion.h1>
+                </h1>
 
-                <motion.p
-                    initial={{ y: 20, opacity: 0 }}
-                    animate={{ y: 0, opacity: 1 }}
-                    transition={{ delay: 0.1 }}
-                    className="text-base sm:text-lg md:text-xl text-center text-slate-100/90 mb-8 font-medium max-w-3xl mx-auto leading-relaxed drop-shadow"
+                <p
+                    className="text-base sm:text-lg md:text-xl text-center text-white mb-8 font-medium max-w-3xl mx-auto leading-relaxed drop-shadow"
                 >
                     Zero buyer commission. Direct developer inventory, official builder pricing, and sanctioned payment plans across Pune's top MahaRERA registered townships and luxury projects.
-                </motion.p>
+                </p>
 
                 {/* Search Box Container with Water Border & Glassmorphic Elevation */}
-                <motion.div
-                    initial={{ scale: 0.95, opacity: 0 }}
-                    animate={{ scale: 1, opacity: 1 }}
-                    transition={{ delay: 0.2 }}
+                <div
                     className="w-full glass-panel-elevated water-border-flow rounded-[2.2rem] shadow-2xl p-2 relative z-30"
                 >
                     <div className="bg-white/90 backdrop-blur-xl rounded-[1.8rem] shadow-inner relative">
@@ -447,19 +431,20 @@ const HeroSearch = () => {
                             {/* Search Button with Liquid Wave Ripple */}
                             <button
                                 type="submit"
-                                className="water-btn w-full md:w-auto bg-gradient-to-r from-sky-500 via-blue-600 to-indigo-600 hover:from-sky-400 hover:to-blue-500 text-white font-black py-4 px-10 rounded-[1.4rem] shadow-xl shadow-sky-500/25 transition-all flex items-center justify-center gap-2 text-base"
+                                aria-label="Search Properties"
+                                className="water-btn w-full md:w-auto bg-gradient-to-r from-sky-500 via-blue-600 to-indigo-600 hover:from-sky-400 hover:to-blue-500 text-white font-black py-4 px-10 rounded-[1.4rem] shadow-xl shadow-sky-500/25 transition-all flex items-center justify-center gap-2 text-base min-h-[48px]"
                             >
                                 <Search className="w-5 h-5" />
                                 <span>Search</span>
                             </button>
                         </form>
                     </div>
-                </motion.div>
+                </div>
 
                 {/* Quick Discovery Shortcuts (Google Real Estate & Keystone Liv Inspired) */}
                 <div className="w-full max-w-4xl mt-6 space-y-2.5">
                     <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-1 text-xs justify-center flex-wrap">
-                        <span className="text-amber-300 font-extrabold shrink-0 flex items-center gap-1.5 bg-amber-500/10 border border-amber-500/20 px-2.5 py-1 rounded-lg">
+                        <span className="text-amber-300 font-extrabold shrink-0 flex items-center gap-1.5 bg-amber-500/10 border border-amber-500/20 px-2.5 py-1.5 rounded-lg">
                             <Rocket className="w-3.5 h-3.5 text-amber-300" /> Looking for:
                         </span>
                         {[
@@ -473,7 +458,8 @@ const HeroSearch = () => {
                             <button
                                 key={i}
                                 type="button"
-                                className="shrink-0 bg-white/10 hover:bg-amber-400 hover:text-slate-900 text-white text-xs font-bold px-3.5 py-1 rounded-full border border-white/20 backdrop-blur-md transition-all shadow-sm"
+                                aria-label={`Search for ${label}`}
+                                className="shrink-0 bg-white/10 hover:bg-amber-400 hover:text-slate-900 text-white text-xs font-bold px-3.5 py-2 min-h-[44px] rounded-full border border-white/20 backdrop-blur-md transition-all shadow-sm flex items-center justify-center"
                                 onClick={() => {
                                     setSearchQuery(query);
                                     navigate(`/search?q=${encodeURIComponent(query)}`);
@@ -492,7 +478,8 @@ const HeroSearch = () => {
                             <button
                                 key={i}
                                 type="button"
-                                className="shrink-0 bg-slate-900/40 hover:bg-white hover:text-slate-900 text-slate-200 text-xs font-semibold px-3 py-0.5 rounded-full border border-white/10 transition-all"
+                                aria-label={`Search properties in ${loc}`}
+                                className="shrink-0 bg-slate-900/60 hover:bg-white hover:text-slate-900 text-white text-xs font-bold px-3 py-1.5 min-h-[40px] rounded-full border border-white/20 transition-all flex items-center justify-center"
                                 onClick={() => {
                                     setSearchQuery(loc);
                                     navigate(`/search?q=${encodeURIComponent(loc)}`);

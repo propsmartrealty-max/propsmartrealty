@@ -6,16 +6,18 @@ import Footer from '../components/Portal/Footer';
 import SEO from '../components/SEO';
 import { ErrorState } from '../components/UI/LoadingSkeleton';
 
-// New Components
+// Above-the-fold Critical Components
 import HeroSearch from '../components/Portal/Home/HeroSearch';
 import LocalityStrip from '../components/Portal/Home/LocalityStrip';
 import WhyBuyDirect from '../components/Portal/Home/WhyBuyDirect';
-import CityHubSection from '../components/Portal/Home/CityHubSection';
-import SpotlightSection from '../components/Portal/Home/SpotlightSection';
-import ProjectRail from '../components/Portal/Home/ProjectRail';
-import BuilderSpotlight from '../components/Portal/Home/BuilderSpotlight';
 import RERABadge from '../components/Portal/RERABadge';
 import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
+
+// Below-the-fold Code-Split Components for Sub-1.5s Mobile LCP & Fast Execution
+const CityHubSection = React.lazy(() => import('../components/Portal/Home/CityHubSection'));
+const SpotlightSection = React.lazy(() => import('../components/Portal/Home/SpotlightSection'));
+const ProjectRail = React.lazy(() => import('../components/Portal/Home/ProjectRail'));
+const BuilderSpotlight = React.lazy(() => import('../components/Portal/Home/BuilderSpotlight'));
 
 const Home = () => {
     const { projects, builders, isLoading, error, refreshData } = useData();
@@ -145,92 +147,95 @@ const Home = () => {
             {/* Main Content Area */}
             <main>
 
-                {/* 1. Hero Search Section */}
+                {/* 1. Hero Search Section (Critical Immediate Paint) */}
                 <HeroSearch />
 
-                {/* 2. City-Wise Verified Portfolios (Pune, Mumbai, Lonavala, Alibaug) */}
-                <CityHubSection projects={projects} />
-
-                {/* 3. Popular Localities Strip */}
+                {/* 2. Popular Localities Strip (Critical Immediate Paint) */}
                 <LocalityStrip />
 
-                {/* 4. Why Buy Directly with Builder Section (Core Brand Value Proposition) */}
+                {/* 3. Why Buy Directly with Builder Section (Core Brand Value Proposition) */}
                 <WhyBuyDirect />
 
-                {/* 5. Spotlight / Featured Section */}
-                <SpotlightSection projects={projects} />
+                {/* Below-the-fold Rails & Spotlights (Deferred for Fast Mobile Execution) */}
+                <React.Suspense fallback={<div className="min-h-[120px]" />}>
+                    {/* 4. City-Wise Verified Portfolios (Pune, Mumbai, Lonavala, Alibaug) */}
+                    <CityHubSection projects={projects} />
 
-                {/* 5b. Integrated Mega Townships & Landmark High-Rises Rail */}
-                {townshipProjects.length > 0 && (
+                    {/* 5. Spotlight / Featured Section */}
+                    <SpotlightSection projects={projects} />
+
+                    {/* 5b. Integrated Mega Townships & Landmark High-Rises Rail */}
+                    {townshipProjects.length > 0 && (
+                        <ProjectRail
+                            title="Integrated Mega Townships & Landmark High-Rises"
+                            subtitle="Self-sustained 40 to 400+ acre township ecosystems with golf courses, premier schools & retail high-streets"
+                            projects={townshipProjects}
+                            viewAllLink="/search?q=township"
+                            bgColor="bg-amber-50/40"
+                        />
+                    )}
+
+                    {/* 6. VTP Realty Township Flagships Rail */}
+                    {vtpProjects.length > 0 && (
+                        <ProjectRail
+                            title="VTP Realty Township Flagships"
+                            subtitle="Pioneering MLA philosophy across Hinjewadi, Kharadi, Mahalunge & Baner"
+                            projects={vtpProjects}
+                            viewAllLink="/builder/vtp-realty"
+                            bgColor="bg-slate-50"
+                        />
+                    )}
+
+                    {/* 7. Project Rails: New Launches */}
                     <ProjectRail
-                        title="Integrated Mega Townships & Landmark High-Rises"
-                        subtitle="Self-sustained 40 to 400+ acre township ecosystems with golf courses, premier schools & retail high-streets"
-                        projects={townshipProjects}
-                        viewAllLink="/search?q=township"
-                        bgColor="bg-amber-50/40"
+                        title="New Launches"
+                        subtitle="Be the first to book the best inventories"
+                        projects={newLaunches}
+                        viewAllLink="/search?status=New+Launch"
                     />
-                )}
 
-                {/* 6. VTP Realty Township Flagships Rail */}
-                {vtpProjects.length > 0 && (
+                    {/* 8. Mumbai Luxury Landmarks Rail */}
+                    {mumbaiProjects.length > 0 && (
+                        <ProjectRail
+                            title="Mumbai Luxury Landmarks"
+                            subtitle="Sea-facing and ultra-luxury high-rise towers across South Mumbai & MMR"
+                            projects={mumbaiProjects}
+                            viewAllLink="/search?city=Mumbai"
+                            bgColor="bg-indigo-50/40"
+                        />
+                    )}
+
+                    {/* 9. Lonavala & Alibaug Second-Home Villa Retreats */}
+                    {secondHomeProjects.length > 0 && (
+                        <ProjectRail
+                            title="Lonavala & Alibaug Second-Home Villas"
+                            subtitle="Scenic mountain valley estates and coastal beach retreats"
+                            projects={secondHomeProjects}
+                            viewAllLink="/search?city=Lonavala"
+                            bgColor="bg-emerald-50/40"
+                        />
+                    )}
+
+                    {/* 10. Ready to Move In */}
                     <ProjectRail
-                        title="VTP Realty Township Flagships"
-                        subtitle="Pioneering MLA philosophy across Hinjewadi, Kharadi, Mahalunge & Baner"
-                        projects={vtpProjects}
-                        viewAllLink="/builder/vtp-realty"
-                        bgColor="bg-slate-50"
+                        title="Ready to Move In"
+                        subtitle="Move into your dream home today with zero waiting period"
+                        projects={readyToMove}
+                        viewAllLink="/search?status=Ready+to+Move"
                     />
-                )}
 
-                {/* 7. Project Rails: New Launches */}
-                <ProjectRail
-                    title="New Launches"
-                    subtitle="Be the first to book the best inventories"
-                    projects={newLaunches}
-                    viewAllLink="/search?status=New+Launch"
-                />
+                    {/* 11. Builder Spotlight */}
+                    <BuilderSpotlight builders={builders} />
 
-                {/* 8. Mumbai Luxury Landmarks Rail */}
-                {mumbaiProjects.length > 0 && (
+                    {/* 12. Luxury Collection Rail */}
                     <ProjectRail
-                        title="Mumbai Luxury Landmarks"
-                        subtitle="Sea-facing and ultra-luxury high-rise towers across South Mumbai & MMR"
-                        projects={mumbaiProjects}
-                        viewAllLink="/search?city=Mumbai"
-                        bgColor="bg-indigo-50/40"
+                        title="Luxury Collections"
+                        subtitle="Premium living for the discerning few"
+                        projects={luxuryProjects}
+                        viewAllLink="/search?price=luxury"
+                        bgColor="bg-blue-50"
                     />
-                )}
-
-                {/* 9. Lonavala & Alibaug Second-Home Villa Retreats */}
-                {secondHomeProjects.length > 0 && (
-                    <ProjectRail
-                        title="Lonavala & Alibaug Second-Home Villas"
-                        subtitle="Scenic mountain valley estates and coastal beach retreats"
-                        projects={secondHomeProjects}
-                        viewAllLink="/search?city=Lonavala"
-                        bgColor="bg-emerald-50/40"
-                    />
-                )}
-
-                {/* 10. Ready to Move In */}
-                <ProjectRail
-                    title="Ready to Move In"
-                    subtitle="Move into your dream home today with zero waiting period"
-                    projects={readyToMove}
-                    viewAllLink="/search?status=Ready+to+Move"
-                />
-
-                {/* 11. Builder Spotlight */}
-                <BuilderSpotlight builders={builders} />
-
-                {/* 12. Luxury Collection Rail */}
-                <ProjectRail
-                    title="Luxury Collections"
-                    subtitle="Premium living for the discerning few"
-                    projects={luxuryProjects}
-                    viewAllLink="/search?price=luxury"
-                    bgColor="bg-blue-50"
-                />
+                </React.Suspense>
 
                 {/* 7. Propsmart MahaRERA Compliance & Trust Banner */}
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">

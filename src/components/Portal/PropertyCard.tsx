@@ -197,15 +197,15 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                 e.stopPropagation();
                                 if (toggleFavorite) toggleFavorite(project.id);
                             }}
-                            className={`p-1.5 rounded-lg backdrop-blur-md border transition-all shadow-md hover:scale-110 active:scale-95 ${
+                            className={`min-w-[36px] min-h-[36px] flex items-center justify-center rounded-lg backdrop-blur-md border transition-all shadow-md hover:scale-110 active:scale-95 ${
                                 isFav
                                     ? 'bg-rose-500 text-white border-rose-400 shadow-rose-500/30'
                                     : 'bg-slate-950/70 text-white/90 border-white/20 hover:bg-rose-600 hover:text-white'
                             }`}
                             title={isFav ? "Remove from Shortlist" : "Save to Shortlist"}
-                            aria-label={isFav ? "Remove from Shortlist" : "Save to Shortlist"}
+                            aria-label={isFav ? `Remove ${project.title} from Shortlist` : `Save ${project.title} to Shortlist`}
                         >
-                            <Heart className={`w-3.5 h-3.5 ${isFav ? 'fill-current text-white' : 'stroke-[2.2]'}`} />
+                            <Heart className={`w-4 h-4 ${isFav ? 'fill-current text-white' : 'stroke-[2.2]'}`} />
                         </button>
 
                         {project.reraId && (
@@ -216,11 +216,11 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                     e.stopPropagation();
                                     setShowQRModal(true);
                                 }}
-                                className="p-1.5 rounded-lg bg-slate-950/70 hover:bg-emerald-600 text-white backdrop-blur-md border border-white/20 transition-all shadow-md hover:scale-105 active:scale-95"
+                                className="min-w-[36px] min-h-[36px] flex items-center justify-center rounded-lg bg-slate-950/70 hover:bg-emerald-600 text-white backdrop-blur-md border border-white/20 transition-all shadow-md hover:scale-105 active:scale-95"
                                 title={`Scan MahaRERA Verification QR for ${project.title}`}
                                 aria-label={`Scan MahaRERA Verification QR for ${project.title}`}
                             >
-                                <QrCode className="w-3.5 h-3.5 text-emerald-300" />
+                                <QrCode className="w-4 h-4 text-emerald-300" />
                             </button>
                         )}
                         <button
@@ -233,7 +233,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                     addToCompare(project.id);
                                 }
                             }}
-                            className={`px-2.5 py-1 rounded-lg text-[10px] font-bold uppercase tracking-wider shadow-md backdrop-blur-md border transition-all flex items-center gap-1 hover:scale-105 active:scale-95 ${
+                            className={`px-3 py-1.5 min-h-[36px] rounded-lg text-[10px] font-bold uppercase tracking-wider shadow-md backdrop-blur-md border transition-all flex items-center gap-1.5 hover:scale-105 active:scale-95 ${
                                 isInCompare
                                     ? 'bg-brand-600 text-white border-brand-400 shadow-brand-500/30'
                                     : 'bg-slate-950/70 text-white border-white/20 hover:bg-white hover:text-slate-900'
@@ -243,12 +243,12 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         >
                             {isInCompare ? (
                                 <>
-                                    <CheckCircle2 className="w-3 h-3 text-emerald-300" /> 
+                                    <CheckCircle2 className="w-3.5 h-3.5 text-emerald-300" /> 
                                     <span>Added</span>
                                 </>
                             ) : (
                                 <>
-                                    <Building2 className="w-3 h-3 text-slate-300" /> 
+                                    <Building2 className="w-3.5 h-3.5 text-slate-300" /> 
                                     <span>Compare</span>
                                 </>
                             )}
@@ -440,7 +440,8 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         onClick={(e) => {
                             e.stopPropagation();
                         }}
-                        className="px-3 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider text-center transition-all shadow-xs hover:shadow-md flex items-center justify-center gap-1.5 active:scale-95"
+                        className="px-3 py-2.5 min-h-[44px] rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider text-center transition-all shadow-xs hover:shadow-md flex items-center justify-center gap-1.5 active:scale-95"
+                        aria-label={`Inquire on WhatsApp about ${project.title}`}
                         title={`Inquire on WhatsApp about ${project.title}`}
                     >
                         <svg className="w-3.5 h-3.5 fill-current shrink-0" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -450,7 +451,8 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                     </a>
                     <Link
                         to={projectLink}
-                        className="px-3 py-2 rounded-xl bg-gradient-to-r from-sky-600 via-blue-600 to-indigo-600 hover:from-sky-500 hover:to-blue-700 text-white font-bold text-xs uppercase tracking-wider text-center transition-all shadow-md shadow-sky-500/20 hover:shadow-lg active:scale-95 flex items-center justify-center gap-1"
+                        aria-label={`View details and floor plans for ${project.title}`}
+                        className="px-3 py-2.5 min-h-[44px] rounded-xl bg-gradient-to-r from-sky-600 via-blue-600 to-indigo-600 hover:from-sky-500 hover:to-blue-700 text-white font-bold text-xs uppercase tracking-wider text-center transition-all shadow-md shadow-sky-500/20 hover:shadow-lg active:scale-95 flex items-center justify-center gap-1"
                     >
                         <span>Details</span>
                         <ArrowRight className="w-3.5 h-3.5 shrink-0" />

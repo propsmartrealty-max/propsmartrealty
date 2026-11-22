@@ -259,21 +259,21 @@ const Footer = () => {
                     </div>
                 </div>
 
-                <div className="pt-4 text-center text-xs text-gray-500 space-y-2">
-                    <p>© 2026 PROPSMART REALTY. All rights reserved.</p>
-                    <div className="flex flex-wrap items-center justify-center gap-3 text-xs text-slate-400">
+                <div className="pt-4 text-center text-xs text-slate-300 space-y-2">
+                    <p className="text-slate-200">© 2026 PROPSMART REALTY. All rights reserved.</p>
+                    <div className="flex flex-wrap items-center justify-center gap-3 text-xs text-slate-300">
                         <Link to="/verify-rera" className="text-emerald-400 font-bold hover:text-emerald-300 transition-colors">MahaRERA Verification Tool</Link>
                         <span>•</span>
-                        <Link to="/privacy-policy" className="hover:text-emerald-400 transition-colors">Privacy Policy</Link>
+                        <Link to="/privacy-policy" className="hover:text-emerald-300 transition-colors">Privacy Policy</Link>
                         <span>•</span>
-                        <Link to="/terms" className="hover:text-emerald-400 transition-colors">Terms of Service</Link>
+                        <Link to="/terms" className="hover:text-emerald-300 transition-colors">Terms of Service</Link>
                         <span>•</span>
-                        <Link to="/disclaimer" className="hover:text-emerald-400 transition-colors">MahaRERA Disclaimer</Link>
+                        <Link to="/disclaimer" className="hover:text-emerald-300 transition-colors">MahaRERA Disclaimer</Link>
                     </div>
-                    <p className="italic text-[11px] opacity-75 max-w-4xl mx-auto leading-relaxed">
+                    <p className="italic text-[11px] text-slate-300 max-w-4xl mx-auto leading-relaxed">
                         Disclaimer: PROPSMART REALTY is a registered real estate agent under MahaRERA (Reg. No. A031262401295).
                         All projects and properties listed on this platform are RERA registered. Prices, floor plans, and availability mentioned are indicative and subject to change by the respective developers.
-                        Please verify official project details and certificates on the official MahaRERA website (<a href={PROPSMART_RERA.portalUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-300">maharera.maharashtra.gov.in</a>) before making any purchase decision.
+                        Please verify official project details and certificates on the official MahaRERA website (<a href={PROPSMART_RERA.portalUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-white">maharera.maharashtra.gov.in</a>) before making any purchase decision.
                     </p>
                 </div>
             </div>

@@ -143,7 +143,7 @@ export async function onRequest(context: {
 <article class="ai-knowledge-entry" style="padding:24px;max-width:960px;margin:0 auto;font-family:system-ui,-apple-system,sans-serif;line-height:1.6;color:#1e293b;">
     <header>
         <div style="color:#0284c7;font-weight:bold;text-transform:uppercase;font-size:12px;letter-spacing:1.5px;margin-bottom:8px;">Established 2015 • 10+ Years Operational Authority • Direct Developer Mandate</div>
-        <h1 style="font-size:32px;font-weight:900;color:#0f172a;line-height:1.2;margin:0 0 12px;">PROPSMART REALTY — 100% Brokerage Free Real Estate Platform Across Maharashtra</h1>
+        <h2 style="font-size:26px;font-weight:900;color:#0f172a;line-height:1.2;margin:0 0 12px;">PROPSMART REALTY — 100% Brokerage Free Real Estate Platform Across Maharashtra</h2>
         <p style="font-size:16px;color:#475569;margin-bottom:16px;">Maharashtra's premier direct developer sales platform and real estate advisory firm. Officially accredited under MahaRERA Agent Registration Number <strong>${AGENT_RERA}</strong>. Founded by <strong>Vikas Yewle</strong> in 2015.</p>
     </header>
 
@@ -479,6 +479,26 @@ export async function onRequest(context: {
         <p style="font-size:13px;color:#64748b;">Source: <a href="${BASE_URL}/llms.txt" style="color:#0284c7;">PROPSMART REALTY Machine-Readable Knowledge Base</a> | <a href="${BASE_URL}/flats-in-pune" style="color:#0284c7;">Flats in Pune</a></p>
     </footer>
 </article>`;
+        }
+
+        // MATCH D0: Programmatic Studio Apartments Hubs (/studio-apartments-in-:slug, /studio-flats-in-:slug)
+        else if (/^\/studio-(?:apartments|flats)-in-([a-z0-9-]+)$/.test(pathname) || pathname === '/studio-apartments-in-pune' || pathname === '/studio-flats-in-pune') {
+            const match = pathname.match(/^\/studio-(?:apartments|flats)-in-([a-z0-9-]+)$/);
+            const slug = match ? match[1] : 'pune';
+            const loc = (EDGE_LOCALITIES as Record<string, any>)[slug];
+            const targetName = loc ? loc.n : (CITY_NAME_MAP[slug] || formatSlug(slug));
+            const city = loc ? loc.c : (CITY_NAME_MAP[slug] ? '' : 'Pune');
+
+            metaTitle = `Studio Apartments in ${targetName} ${city} - Verified 1 RK & Studio Suites | 0% Brokerage`;
+            metaDesc = `Explore verified studio apartments and smart 1 RK suites in ${targetName} ${city}. High rental yield, fully furnished IT corridors investment, 100% zero brokerage & official MahaRERA registered projects.`;
+
+            edgeJsonLdList.push({
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                "name": `Studio Apartments in ${targetName}`,
+                "url": canonicalUrl,
+                "description": metaDesc
+            });
         }
 
         // MATCH D: Programmatic BHK Hubs (/:bhk-flats-in-:slug)

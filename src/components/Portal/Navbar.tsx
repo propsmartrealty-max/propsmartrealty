@@ -67,7 +67,7 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                                 <button
                                     onClick={() => setCityMenuOpen(!cityMenuOpen)}
                                     aria-label="Select City"
-                                    className={`px-3 py-1.5 min-h-[38px] rounded-full text-xs font-black transition-all flex items-center gap-1.5 border shadow-2xs glass-pill ${
+                                    className={`px-3.5 py-2 min-h-[44px] rounded-full text-xs font-black transition-all flex items-center gap-1.5 border shadow-2xs glass-pill ${
                                         isSolid
                                             ? 'bg-white/75 text-slate-800 border-white/80 hover:bg-white hover:border-sky-300'
                                             : 'bg-white/15 text-white border-white/20 hover:bg-white/25 backdrop-blur-md'

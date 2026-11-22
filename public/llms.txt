@@ -241,7 +241,7 @@ Every legal real estate project in Maharashtra must be registered under MahaRERA
 - **[Kohinoor Downtown](https://propsmart.co.in/project/kohinoor-wakad-downtown)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.18 Cr - ₹1.65 Cr | MahaRERA: `P52100060271`
 - **[Kohinoor Satori](https://propsmart.co.in/project/kohinoor-satori)**: Mahalunge, Pune | Typologies: 3 BHK, 4 BHK, 4.5 BHK | Price: ₹1.48 Cr - ₹3.35 Cr | MahaRERA: `P52100077437`
 - **[Icon Avanza](https://propsmart.co.in/project/icon-avanza)**: Balewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.45 Cr - ₹2.16 Cr | MahaRERA: `P52100079822`
-- **[Krisala 41 Commune](https://propsmart.co.in/project/krisala-41-commune)**: Wakad, Pune | Typologies: Shop | Price: ₹27.00 L - ₹40.00 L | MahaRERA: `P52100077945`
+- **[Krisala 41 Commune](https://propsmart.co.in/project/krisala-41-commune)**: Wakad, Pune | Typologies: Studio | Price: ₹31 L - ₹43 L | MahaRERA: `P52100030044`
 - **[PK Canopus](https://propsmart.co.in/project/pk-canopus)**: Wakad, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.75 Cr - ₹2.55 Cr | MahaRERA: `P52100061264`
 - **[Majestique The Light](https://propsmart.co.in/project/majestique-the-light)**: Balewadi, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.66 Cr - ₹2.41 Cr | MahaRERA: `P52100061445`
 - **[Meridian Studios](https://propsmart.co.in/project/meridian-studios)**: Wakad, Pune | Typologies: Studio | Price: ₹36.00 L | MahaRERA: `P52100020229`
@@ -348,7 +348,7 @@ Every legal real estate project in Maharashtra must be registered under MahaRERA
 - **[Godrej Woodsville](https://propsmart.co.in/project/godrej-woodsville-hinjewadi-phase-1)**: Hinjewadi, Pune | Typologies: 1 BHK, 2 BHK, 3 BHK | Price: ₹68.00 L - ₹1.65 Cr | MahaRERA: `P52100031590`
 - **[Amanora Gateway Towers](https://propsmart.co.in/project/amanora-gateway-towers-hadapsar-pune)**: Hadapsar, Pune | Typologies: 2 BHK, 3 BHK, 4 BHK | Price: ₹1.85 Cr - ₹6.50 Cr | MahaRERA: `P52100000282`
 - **[The Balmoral Riverside](https://propsmart.co.in/project/the-balmoral-riverside-balewadi-pune)**: Balewadi, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.45 Cr - ₹5.80 Cr | MahaRERA: `P52100028914`
-- **[Yashwin Supernova](https://propsmart.co.in/project/yashwin-supernova-wakad-pune)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹78.00 L - ₹1.75 Cr | MahaRERA: `P52100030882`
+- **[Yashwin Supernova](https://propsmart.co.in/project/yashwin-supernova-wakad-pune)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: Sold Out (100% Delivered) | MahaRERA: `P52100030882`
 - **[Nyati Elysia](https://propsmart.co.in/project/nyati-elysia-kharadi-pune)**: Kharadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹95.00 L - ₹2.20 Cr | MahaRERA: `P52100000851`
 - **[Kohinoor Sportsville](https://propsmart.co.in/project/kohinoor-sportsville-hinjewadi-phase-1)**: Hinjewadi, Pune | Typologies: 1 BHK, 2 BHK, 3 BHK | Price: ₹65.00 L - ₹1.45 Cr | MahaRERA: `P52100029651`
 - **[Supreme Estia](https://propsmart.co.in/project/supreme-estia-baner-pune)**: Baner, Pune | Typologies: 2 BHK, 3 BHK, 4 BHK | Price: ₹1.40 Cr - ₹3.20 Cr | MahaRERA: `P52100024783`
@@ -368,12 +368,12 @@ Every legal real estate project in Maharashtra must be registered under MahaRERA
 - **[Park Xpress](https://propsmart.co.in/project/park-xpress-baner-pune)**: Baner, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.10 Cr - ₹2.15 Cr | MahaRERA: `P52100000645`
 - **[Pride World City - Kingsbury](https://propsmart.co.in/project/pride-world-city-kingsbury-charholi-pune)**: Charholi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹65.00 L - ₹1.70 Cr | MahaRERA: `P52100001889`
 - **[Park Landmark](https://propsmart.co.in/project/park-landmark-bibwewadi-pune)**: Bibwewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹1.15 Cr - ₹2.35 Cr | MahaRERA: `P52100000512`
-- **[Yashwin Orizzonte](https://propsmart.co.in/project/yashwin-orizzonte-kharadi-pune)**: Kharadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹85.00 L - ₹1.95 Cr | MahaRERA: `P52100032598`
-- **[YashONE Hinjewadi](https://propsmart.co.in/project/yashone-hinjewadi-phase-1-pune)**: Hinjewadi, Pune | Typologies: 1 BHK, 2 BHK, 3 BHK | Price: ₹48.00 L - ₹1.15 Cr | MahaRERA: `P52100020145`
+- **[Yashwin Orizzonte](https://propsmart.co.in/project/yashwin-orizzonte-kharadi-pune)**: Kharadi, Pune | Typologies: 2 BHK, 3 BHK | Price: Sold Out (100% Delivered) | MahaRERA: `P52100032598`
+- **[YashONE Hinjewadi](https://propsmart.co.in/project/yashone-hinjewadi-phase-1-pune)**: Hinjewadi, Pune | Typologies: 1 BHK, 2 BHK, 3 BHK | Price: Sold Out (100% Delivered) | MahaRERA: `P52100020145`
 - **[YashONE Infinitee](https://propsmart.co.in/project/yashone-infinitee-punawale-pune)**: Punawale, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹59.00 L - ₹1.28 Cr | MahaRERA: `P52100030284`
 - **[YashONE Wakad Central](https://propsmart.co.in/project/yashone-wakad-central-pune)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹74.00 L - ₹1.45 Cr | MahaRERA: `P52100031841`
 - **[VJ Palladio Tathawade](https://propsmart.co.in/project/vj-palladio-tathawade-pune)**: Tathawade, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹65.00 L - ₹1.35 Cr | MahaRERA: `P52100030452`
-- **[VJ Portia](https://propsmart.co.in/project/vj-portia-baner-pune)**: Baner, Pune | Typologies: 3 BHK, 4.5 BHK | Price: ₹2.25 Cr - ₹4.50 Cr | MahaRERA: `P52100045218`
+- **[VJ Portia](https://propsmart.co.in/project/vj-portia-baner-pune)**: Baner, Pune | Typologies: 3 BHK, 4.5 BHK | Price: Sold Out (100% Delivered) | MahaRERA: `P52100045218`
 - **[Kasturi Legacy](https://propsmart.co.in/project/kasturi-legacy-model-colony-pune)**: Shivaji Nagar, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹3.80 Cr - ₹6.50 Cr | MahaRERA: `P52100002100`
 - **[Kasturi Poona Club Privé](https://propsmart.co.in/project/kasturi-poona-club-prive-bund-garden-pune)**: Bund Garden Road, Pune | Typologies: 4 BHK, 5 BHK | Price: ₹5.50 Cr - ₹12.00 Cr | MahaRERA: `P52100020110`
 - **[Pride World City - Notting Hill](https://propsmart.co.in/project/pride-world-city-notting-hill-charholi-pune)**: Charholi, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹1.45 Cr - ₹2.80 Cr | MahaRERA: `P52100001815`

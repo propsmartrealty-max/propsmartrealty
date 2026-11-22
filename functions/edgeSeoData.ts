@@ -34,7 +34,7 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "p": "\u20b91.89 Cr",
     "r": "PR1260002602617",
     "i": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
-    "d": "Godrej Elanor is an exclusive resort-inspired residential enclave spanning ~8.5 acres in Mahalunge, West Pune along the Hinjewadi-Baner tech corridor. Offering 3 BHK luxury residences and 4 BHK duplexes.",
+    "d": "Godrej Elanor is an exclusive resort-inspired residential enclave spanning ~8.5 acres in Mahalunge, West Pune along the Hinjewadi-Baner tech corridor. Comprising 5 high-rise towers (G+3P+35 storeys) offering spacious 3 BHK residences and 4 BHK duplex",
     "cf": [
       "3 BHK",
       "4 BHK"
@@ -473,10 +473,10 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "Vilas Javdekar Developers",
     "l": "Pashan",
     "c": "Pune",
-    "p": "\u20b926.00 L",
+    "p": "Sold Out",
     "r": "P52100028030",
     "i": "https://keystoneliv.com/public/uploads/property/tckPqBcVINZBVHdS5Bf2TEn7XG8BA2rNaM34RTIU.webp",
-    "d": "VJ IndiLife by Vilas Javdekar Developers represents modern residential excellence in Pashan, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offe",
+    "d": "VJ IndiLife is a landmark delivered community by Vilas Javdekar in Pashan. Successfully handed over to homeowners and 100% Sold Out.",
     "cf": [
       "Studio Suite",
       "1 BHK Suite"
@@ -789,13 +789,12 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "BramhaCorp",
     "l": "Balewadi",
     "c": "Pune",
-    "p": "\u20b926.00 L",
-    "r": "P52100045228",
+    "p": "\u20b938 Lakhs",
+    "r": "P52100024773",
     "i": "https://keystoneliv.com/public/uploads/property/2ocDxHCTXWnA2CnIKGCGcSwin1rTir1eCXkoMNzB.webp",
-    "d": "BramhaCorp Townhouse is a contemporary micro-living and millennial studio residential development in Balewadi, Pune. Crafted specifically for young professionals and IT leaders, offering stylish Studio and 1 BHK suites with automated rental yield man",
+    "d": "BramhaCorp Townhouse in Balewadi is Pune's iconic millennial co-living and luxury studio suite destination (230 - 350 sq.ft.). Features boutique hotel-style concierge services, rooftop infinity pool, and high rental return.",
     "cf": [
-      "Studio",
-      "1 BHK"
+      "Studio"
     ]
   },
   "bramhacorp-august-towers": {
@@ -6915,12 +6914,12 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "Krisala Developers",
     "l": "Wakad",
     "c": "Pune",
-    "p": "\u20b927.00 L",
-    "r": "P52100077945",
+    "p": "\u20b931 Lakhs",
+    "r": "P52100030044",
     "i": "https://punehome.in/storage/v1/object/public/project-media/projects/79d0271e-267d-4ae7-9dfd-30eb2c6f9ccd/gallery/mtlfb0pf-36zkyk.webp",
-    "d": "Krisala 41Commune in Wakad, Pune, offers fully furnished, pre-leased studio apartments tailored for urban professionals and investors. Strategically located near Hinjewadi IT Park, the project ensures high rental demand and seamless connectivity. Wit",
+    "d": "Krisala 41 Commune in Wakad / Hinjewadi corridor offers fully furnished smart studio suites (260 - 358 sq.ft.) engineered for high rental yield and modern tech lifestyles. Features co-working lounges, cafe, and fitness zone.",
     "cf": [
-      "Shop"
+      "Studio"
     ]
   },
   "mahindra-sanctum": {
@@ -9766,10 +9765,10 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "Vilas Javdekar Developers",
     "l": "Wakad",
     "c": "Pune",
-    "p": "\u20b978.00 L",
+    "p": "Sold Out",
     "r": "P52100030882",
     "i": "https://keystoneliv.com/public/uploads/property/irWHREpB4Bu9k23L7M8Y1Z5T9X4V2P8Q6A1S3K7M.webp",
-    "d": "Yashwin Supernova by Vilas Javdekar Developers is Wakad's most ambitious residential tower. Situated near Bhumkar Chowk with 40+ lifestyle amenities, sky terrace, and direct developer booking with 0% brokerage.",
+    "d": "Yashwin Supernova is a landmark delivered community by Vilas Javdekar in Wakad. Successfully handed over to homeowners and 100% Sold Out.",
     "cf": [
       "2 BHK",
       "3 BHK"
@@ -10049,10 +10048,10 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "Vilas Javdekar Developers",
     "l": "Kharadi",
     "c": "Pune",
-    "p": "\u20b985.00 L",
+    "p": "Sold Out",
     "r": "P52100032598",
     "i": "https://keystoneliv.com/public/uploads/property/jbCsemSHSujdq78L1M4Y9Z2T5X8V1P7Q3A9S6K2L.webp",
-    "d": "Yashwin Orizzonte by Vilas Javdekar in Kharadi overlooks the river. Featuring 30+ lifestyle amenities, VJ signature construction warranty, and direct 5-minute access to EON IT Park and World Trade Center with 100% Zero Brokerage.",
+    "d": "Yashwin Orizzonte is a landmark delivered community by Vilas Javdekar in Kharadi. Successfully handed over to homeowners and 100% Sold Out.",
     "cf": [
       "2 BHK",
       "3 BHK"
@@ -10063,10 +10062,10 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "Vilas Javdekar Developers",
     "l": "Hinjewadi",
     "c": "Pune",
-    "p": "\u20b948.00 L",
+    "p": "Sold Out",
     "r": "P52100020145",
     "i": "https://keystoneliv.com/public/uploads/property/irWHREpB4Bu9k23L7M8Y1Z5T9X4V2P8Q6A1S3K7M.webp",
-    "d": "YashONE Hinjewadi by Vilas Javdekar is a vibrant community in Hinjewadi Phase 1. Offering smart 1, 2, & 3 BHK ready homes with 20+ amenities, walk-to-work convenience for IT professionals, and zero brokerage.",
+    "d": "YashONE Hinjewadi is a landmark delivered community by Vilas Javdekar in Hinjewadi. Successfully handed over to homeowners and 100% Sold Out.",
     "cf": [
       "1 BHK",
       "2 BHK",
@@ -10120,10 +10119,10 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "Vilas Javdekar Developers",
     "l": "Baner",
     "c": "Pune",
-    "p": "\u20b92.25 Cr",
+    "p": "Sold Out",
     "r": "P52100045218",
     "i": "https://keystoneliv.com/public/uploads/property/elqlVrqhkL41pdaytkeF0xK9oc0oitS9ZctMJKZz.webp",
-    "d": "VJ Portia is Vilas Javdekar's ultra-luxury boutique landmark in Baner. Designed for high net-worth individuals with single-tower privacy, expansive decks, Italian marble, and bespoke concierge.",
+    "d": "VJ Portia is a landmark delivered community by Vilas Javdekar in Baner. Successfully handed over to homeowners and 100% Sold Out.",
     "cf": [
       "3 BHK",
       "4.5 BHK"
@@ -10386,10 +10385,10 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "Vilas Javdekar Developers",
     "l": "Sus",
     "c": "Pune",
-    "p": "\u20b968.00 L",
+    "p": "Sold Out",
     "r": "P52100024501",
     "i": "https://keystoneliv.com/public/uploads/property/nBIFK5yY27v8iGeOPunLCcGZJMSxZp8NlvxZwRKD.webp",
-    "d": "Yashwin Anand by Vilas Javdekar in Sus offers thoughtful 2 and 3 BHK homes designed around VJ's principles of maximum space efficiency, sunlight, and cross ventilation.",
+    "d": "Yashwin Anand is a landmark delivered community by Vilas Javdekar in Sus. Successfully handed over to homeowners and 100% Sold Out.",
     "cf": [
       "2 BHK",
       "3 BHK"
@@ -10400,10 +10399,10 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "Vilas Javdekar Developers",
     "l": "Wakad",
     "c": "Pune",
-    "p": "\u20b976.00 L",
+    "p": "Sold Out",
     "r": "P52100019550",
     "i": "https://keystoneliv.com/public/uploads/property/jnS1qblkmU2CpmWs6iYIug0TT9I1JmRAEizQVMsP.webp",
-    "d": "Yashwin Encore in Wakad is an acclaimed ready-to-move community featuring contemporary architecture, indoor badminton court, and lush podium gardens.",
+    "d": "Yashwin Encore is a landmark delivered community by Vilas Javdekar in Wakad. Successfully handed over to homeowners and 100% Sold Out.",
     "cf": [
       "2 BHK",
       "3 BHK"
@@ -10428,10 +10427,10 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "Vilas Javdekar Developers",
     "l": "Warje",
     "c": "Pune",
-    "p": "\u20b962.00 L",
+    "p": "Sold Out",
     "r": "P52100030219",
     "i": "https://keystoneliv.com/public/uploads/property/cu7T1exp3WjBAuIjjcAQclhBnDwVt0x1lCTQkwlS.webp",
-    "d": "Yashwin Sukham in Warje offers serene hilltop living with unmatched connectivity to Kothrud, Deccan, and Mumbai-Bangalore Highway.",
+    "d": "Yashwin Sukham is a landmark delivered community by Vilas Javdekar in Warje. Successfully handed over to homeowners and 100% Sold Out.",
     "cf": [
       "2 BHK",
       "3 BHK"
@@ -10457,10 +10456,10 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "Vilas Javdekar Developers",
     "l": "Wakad",
     "c": "Pune",
-    "p": "\u20b975.00 L",
+    "p": "Sold Out",
     "r": "P52100021890",
     "i": "https://www.pscl.in/wp-content/uploads/2025/10/Aspire-scaled.webp",
-    "d": "Yashwin Nuovo Centro by Vilas Javdekar in Wakad offers Italian-inspired urban lifestyle with expansive sunlit rooms, central courtyards, and rooftop recreation.",
+    "d": "Yashwin Nuovo Centro is a landmark delivered community by Vilas Javdekar in Wakad. Successfully handed over to homeowners and 100% Sold Out.",
     "cf": [
       "2 BHK",
       "3 BHK"
@@ -13186,6 +13185,483 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "cf": [
       "Boutique Offices",
       "Flagship Retail Stores"
+    ]
+  },
+  "palladio-presidential-towers-hadapsar": {
+    "t": "Palladio Presidential Towers Hadapsar",
+    "b": "Vilas Javdekar Developers",
+    "l": "Hadapsar",
+    "c": "Pune",
+    "p": "\u20b91.45 Cr",
+    "r": "PM1260002602526",
+    "i": "https://keystoneliv.com/public/uploads/property/QQmMk6MksfNeJOsNyWH7z6Sry9x5MXzEGBPiWPLv.webp",
+    "d": "Palladio Presidential Towers by Vilas Javdekar in Hadapsar Central features iconic 39-storey high-rise luxury towers with home automation, triple-height clubhouses, and direct connectivity to Magarpatta Cybercity, SP Infocity, and Amanora.",
+    "cf": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ]
+  },
+  "palladio-presidential-suites-balewadi": {
+    "t": "Palladio Presidential Suites Balewadi",
+    "b": "Vilas Javdekar Developers",
+    "l": "Balewadi",
+    "c": "Pune",
+    "p": "\u20b91.85 Cr",
+    "r": "PR1260002502961",
+    "i": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+    "d": "Palladio Presidential Suites by Vilas Javdekar on Balewadi Riverfront offers ultra-luxury river-view 3 & 4 BHK residences with expansive deck balconies, world-class amenities, and immediate access to Balewadi High Street.",
+    "cf": [
+      "3 BHK",
+      "4 BHK"
+    ]
+  },
+  "palladio-kothrud-central": {
+    "t": "Palladio Kothrud Central",
+    "b": "Vilas Javdekar Developers",
+    "l": "Kothrud",
+    "c": "Pune",
+    "p": "\u20b91.75 Cr",
+    "r": "PR1260002501660",
+    "i": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "d": "Palladio Kothrud Central by Vilas Javdekar is a prestigious residential tower situated in central Kothrud, offering direct connectivity to Pune Metro, Paud Road, and Karve Road with luxury amenities.",
+    "cf": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ]
+  },
+  "yashwin-urbo-centro-wakad": {
+    "t": "Yashwin Urbo Centro Wakad",
+    "b": "Vilas Javdekar Developers",
+    "l": "Wakad",
+    "c": "Pune",
+    "p": "\u20b988 Lakhs",
+    "r": "P52100053194",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Yashwin Urbo Centro by Vilas Javdekar in Wakad brings urban terrace residences and 2, 3, 4 BHK homes right near Datta Mandir Road and Hinjewadi IT Park access.",
+    "cf": [
+      "2 BHK",
+      "3 BHK",
+      "4 BHK"
+    ]
+  },
+  "palladio-kharadi-central-2": {
+    "t": "Palladio Kharadi Central II",
+    "b": "Vilas Javdekar Developers",
+    "l": "Kharadi",
+    "c": "Pune",
+    "p": "\u20b91.20 Cr",
+    "r": "P52100050357",
+    "i": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "d": "Palladio Kharadi Central Phase II by Vilas Javdekar brings expansive 2 & 3 BHK high-rise homes right in the heart of Kharadi near EON IT Park and World Trade Center.",
+    "cf": [
+      "2 BHK",
+      "3 BHK"
+    ]
+  },
+  "yashwin-2-0-baner-sus": {
+    "t": "Yashwin 2.0 Baner Sus",
+    "b": "Vilas Javdekar Developers",
+    "l": "Baner",
+    "c": "Pune",
+    "p": "Sold Out",
+    "r": "P52100017306",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Yashwin 2.0 at Baner-Sus by Vilas Javdekar is a benchmark delivered residential community. Fully handed over to happy homeowners and 100% Sold Out.",
+    "cf": [
+      "2 BHK",
+      "3 BHK"
+    ]
+  },
+  "yashwin-1-0-baner-sus": {
+    "t": "Yashwin 1.0 Baner Sus",
+    "b": "Vilas Javdekar Developers",
+    "l": "Baner",
+    "c": "Pune",
+    "p": "Sold Out",
+    "r": "P52100017306",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Yashwin 1.0 at Baner-Sus by Vilas Javdekar is a pioneer community living development in West Pune, delivered ahead of schedule and 100% Sold Out.",
+    "cf": [
+      "2 BHK"
+    ]
+  },
+  "yashwin-royal-sinhagad-road": {
+    "t": "Yashwin Royal Sinhagad Road",
+    "b": "Vilas Javdekar Developers",
+    "l": "Sinhagad Road",
+    "c": "Pune",
+    "p": "Sold Out",
+    "r": "P52100000011",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Yashwin Royal on Sinhagad Road is an established delivered residential complex by Vilas Javdekar, offering serene river and hill views, 100% Sold Out.",
+    "cf": [
+      "2 BHK",
+      "3 BHK"
+    ]
+  },
+  "yashwin-jeevan-sus": {
+    "t": "Yashwin Jeevan Sus",
+    "b": "Vilas Javdekar Developers",
+    "l": "Baner",
+    "c": "Pune",
+    "p": "Sold Out",
+    "r": "P52100000011",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Yashwin Jeevan at Sus-Pashan Link Road by Vilas Javdekar is a completed, delivered community known for its high-grade construction, 100% Sold Out.",
+    "cf": [
+      "2 BHK"
+    ]
+  },
+  "prudentia-towers-wakad": {
+    "t": "Prudentia Towers Wakad",
+    "b": "Vilas Javdekar Developers",
+    "l": "Wakad",
+    "c": "Pune",
+    "p": "Sold Out",
+    "r": "P52100017756",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Prudentia Towers by Vilas Javdekar in Wakad near Bhumkar Chowk is an iconic delivered landmark with twin high-rise towers, 100% Sold Out.",
+    "cf": [
+      "2 BHK",
+      "3 BHK"
+    ]
+  },
+  "palash-boulevard-pirangut": {
+    "t": "Palash Boulevard Pirangut",
+    "b": "Vilas Javdekar Developers",
+    "l": "Pirangut",
+    "c": "Pune",
+    "p": "Sold Out",
+    "r": "P52100014585",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Palash Boulevard by Vilas Javdekar in Pirangut is an eco-centric residential township enclave, delivered and 100% Sold Out.",
+    "cf": [
+      "1 BHK",
+      "2 BHK"
+    ]
+  },
+  "palash-centro-wakad": {
+    "t": "Palash Centro Wakad",
+    "b": "Vilas Javdekar Developers",
+    "l": "Wakad",
+    "c": "Pune",
+    "p": "Sold Out",
+    "r": "P52100014585",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Palash Centro in Wakad by Vilas Javdekar offers delivered residential homes right off the Mumbai-Bangalore highway, 100% Sold Out.",
+    "cf": [
+      "2 BHK",
+      "3 BHK"
+    ]
+  },
+  "prime-panache-baner-road": {
+    "t": "Prime Panache Baner Road",
+    "b": "Vilas Javdekar Developers",
+    "l": "Baner",
+    "c": "Pune",
+    "p": "Sold Out",
+    "r": "P52100017306",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Prime Panache on main Baner Road is a boutique delivered residence by Vilas Javdekar, fully occupied and 100% Sold Out.",
+    "cf": [
+      "2 BHK",
+      "3 BHK"
+    ]
+  },
+  "prime-heights-pashan-sus": {
+    "t": "Prime Heights Pashan Sus",
+    "b": "Vilas Javdekar Developers",
+    "l": "Pashan",
+    "c": "Pune",
+    "p": "Sold Out",
+    "r": "P52100017306",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Prime Heights on Pashan-Sus Road is a peaceful delivered residential enclave by Vilas Javdekar, 100% Sold Out.",
+    "cf": [
+      "2 BHK"
+    ]
+  },
+  "krisala-41-west-world": {
+    "t": "Krisala 41 West World",
+    "b": "Krisala Developers",
+    "l": "Balewadi",
+    "c": "Pune",
+    "p": "\u20b939 Lakhs",
+    "r": "P52100032049",
+    "i": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+    "d": "Krisala 41 West World at Balewadi offers smart studio suites and 1 BHK compact homes (217 - 391 sq.ft.) just 2 minutes from Balewadi High Street, ideal for working professionals and single millennial home seekers.",
+    "cf": [
+      "Studio",
+      "1 BHK"
+    ]
+  },
+  "krisala-41-shakai": {
+    "t": "Krisala 41 Shakai",
+    "b": "Krisala Developers",
+    "l": "Tathawade",
+    "c": "Pune",
+    "p": "\u20b932 Lakhs",
+    "r": "P52100034604",
+    "i": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "d": "Krisala 41 Shakai in Tathawade features Japanese-inspired zen studio apartments (210 - 320 sq.ft.) with minimalist design, smart space utilization, landscaped zen gardens, and swift connectivity to Hinjewadi Phase 1.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "bramhacorp-smart-studios": {
+    "t": "BramhaCorp Smart Studios",
+    "b": "BramhaCorp",
+    "l": "Kalyani Nagar",
+    "c": "Pune",
+    "p": "\u20b936 Lakhs",
+    "r": "P52100021644",
+    "i": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "d": "BramhaCorp Smart Studios at New Kalyani Nagar / Wadgaon Sheri delivers tech-enabled automated studio suites (215 - 340 sq.ft.) minutes from Koregaon Park and Kharadi Cyber City.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "bramhacorp-f-residences-smart-studios": {
+    "t": "BramhaCorp F-Residences Smart Studios",
+    "b": "BramhaCorp",
+    "l": "Kalyani Nagar",
+    "c": "Pune",
+    "p": "\u20b942 Lakhs",
+    "r": "P52100001089",
+    "i": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "d": "BramhaCorp F-Residences Smart Studios in Kalyani Nagar offers branded designer studio living (250 - 410 sq.ft.) curated for executives and investors seeking immediate rental income in East Pune.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "ag-landmark-studios-wakad": {
+    "t": "AG Landmark Studios Wakad",
+    "b": "",
+    "l": "Wakad",
+    "c": "Pune",
+    "p": "\u20b923 Lakhs",
+    "r": "P52100051063",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "AG Landmark Studios at Bhujbal Chowk, Wakad is an 18-storey boutique high-rise dedicated to smart studio suites (141 - 189 sq.ft.) at an accessible budget starting just \u20b923 Lakhs with verified high rental demand.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "ag-highgrove-studios-punawale": {
+    "t": "AG Highgrove Studios Punawale",
+    "b": "",
+    "l": "Punawale",
+    "c": "Pune",
+    "p": "\u20b925 Lakhs",
+    "r": "P52100052184",
+    "i": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "d": "AG Highgrove Studios in Punawale offers compact investment studios (165 - 220 sq.ft.) right on the expressway corridor, connecting quickly to Hinjewadi Phase 2 and Wakad.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "trio-sync-codename-air-tathawade": {
+    "t": "Trio Sync / Codename AIR Tathawade",
+    "b": "Trio Spaces",
+    "l": "Tathawade",
+    "c": "Pune",
+    "p": "\u20b931 Lakhs",
+    "r": "PM1260002502951",
+    "i": "https://keystoneliv.com/public/uploads/property/leqFS0kMhJDAQ6ZdwEOxnajHj4VcaKZHhxS1hVk1.webp",
+    "d": "Trio Sync (Codename AIR) in Tathawade offers fully serviced studio suites (167 - 219 sq.ft.) managed with Youthville student and tech co-living leases. Provides guaranteed pre-leased income with 0% vacancy worry.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "trio-kaya-tathawade": {
+    "t": "Trio Kaya Tathawade",
+    "b": "Trio Spaces",
+    "l": "Tathawade",
+    "c": "Pune",
+    "p": "\u20b928 Lakhs",
+    "r": "P52100049812",
+    "i": "https://keystoneliv.com/public/uploads/property/leqFS0kMhJDAQ6ZdwEOxnajHj4VcaKZHhxS1hVk1.webp",
+    "d": "Trio Kaya in Tathawade / Hinjewadi border is designed for young professionals seeking compact independent living (180 - 240 sq.ft.) with fitness, co-working, and fast transit connectivity.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "menlo-nest-studio-hinjewadi": {
+    "t": "Menlo Nest Studio Hinjewadi",
+    "b": "",
+    "l": "Hinjewadi",
+    "c": "Pune",
+    "p": "\u20b924.14 Lakhs",
+    "r": "P52100077996",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Menlo Nest Studio (Hashtag Studios) in Hinjewadi Phase 1 provides fully furnished, automated studio suites (179 - 195 sq.ft.) situated walking distance from major IT employers. High ROI of 6.5%-7.5% with managed leasing.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "menlo-sky-suites-ravet": {
+    "t": "Menlo Sky Suites Ravet",
+    "b": "",
+    "l": "Ravet",
+    "c": "Pune",
+    "p": "\u20b929.90 Lakhs",
+    "r": "PR1260002602755",
+    "i": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "d": "Menlo Sky Suites in Ravet offers modern compact studios (195 - 224 sq.ft.) tailored for working professionals and students with panoramic skyline views and immediate highway access.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "one-suites-kharadi": {
+    "t": "One Suites Kharadi",
+    "b": "",
+    "l": "Kharadi",
+    "c": "Pune",
+    "p": "\u20b945 Lakhs",
+    "r": "P52100031890",
+    "i": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "d": "One Suites Kharadi is East Pune's premier managed luxury studio development (230 - 310 sq.ft.) located near EON Free Zone and World Trade Center with professional asset management and high corporate rental yield.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "meridian-studios-hinjewadi": {
+    "t": "Meridian Studios Hinjewadi",
+    "b": "",
+    "l": "Hinjewadi",
+    "c": "Pune",
+    "p": "\u20b926 Lakhs",
+    "r": "P52100030512",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Meridian Studios in Hinjewadi Phase 2 is an investor-favorite compact residential project (190 - 240 sq.ft.) offering low acquisition cost, assured rental demand, and plug-and-play lifestyle.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "unite-runal-studios-ravet": {
+    "t": "Unite Runal Studios Ravet",
+    "b": "",
+    "l": "Ravet",
+    "c": "Pune",
+    "p": "\u20b928 Lakhs",
+    "r": "P52100029841",
+    "i": "https://keystoneliv.com/public/uploads/property/dVV2cx7KeQONobjzrxtwJm7Z6viFIsjkYb5lBMOc.webp",
+    "d": "Unite Runal Studios in Ravet combines integrated co-working infrastructure with compact studio residences (210 - 290 sq.ft.) for freelancers, entrepreneurs, and IT professionals.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "ambrosia-studios-bavdhan": {
+    "t": "Ambrosia Studios Bavdhan",
+    "b": "",
+    "l": "Bavdhan",
+    "c": "Pune",
+    "p": "\u20b932 Lakhs",
+    "r": "P52100025410",
+    "i": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+    "d": "Ambrosia Studios in Bavdhan offers tranquil nature hillside studio suites (240 - 340 sq.ft.) overlooking the NDA green reserve while staying minutes from Chandani Chowk and Kothrud.",
+    "cf": [
+      "Studio"
+    ]
+  },
+  "menlo-homes-hinjewadi": {
+    "t": "Menlo Homes Hinjewadi",
+    "b": "",
+    "l": "Hinjewadi",
+    "c": "Pune",
+    "p": "\u20b942 Lakhs",
+    "r": "P52100026785",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Menlo Homes at Maan, Hinjewadi Phase 1 features smartly designed 1 & 2 BHK residences (450 - 680 sq.ft.) offering effortless commute to top tech campuses and high lifestyle comfort.",
+    "cf": [
+      "1 BHK",
+      "2 BHK"
+    ]
+  },
+  "menlo-joywood-bavdhan": {
+    "t": "Menlo Joywood Bavdhan",
+    "b": "",
+    "l": "Bavdhan",
+    "c": "Pune",
+    "p": "\u20b975 Lakhs",
+    "r": "P52100048120",
+    "i": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+    "d": "Menlo Joywood in Bavdhan offers premium 2 & 3 BHK nature residences (720 - 1050 sq.ft.) nestled amidst scenic hills with seamless connectivity to Kothrud and Chandani Chowk.",
+    "cf": [
+      "2 BHK",
+      "3 BHK"
+    ]
+  },
+  "menlo-skyora-bavdhan": {
+    "t": "Menlo Skyora Bavdhan",
+    "b": "",
+    "l": "Bavdhan",
+    "c": "Pune",
+    "p": "\u20b978 Lakhs",
+    "r": "P52100049112",
+    "i": "https://keystoneliv.com/public/uploads/property/uWtUJyzOstqZeclQtHvZOYivrkFxSlpcBtUzkk5j.webp",
+    "d": "Menlo Skyora in Bavdhan features high-rise 2 & 3 BHK panoramic view residences (750 - 1100 sq.ft.) offering sky lounge amenities, fitness center, and serene surroundings.",
+    "cf": [
+      "2 BHK",
+      "3 BHK"
+    ]
+  },
+  "menlo-tathastu-chakan": {
+    "t": "Menlo Tathastu Chakan",
+    "b": "",
+    "l": "Chakan",
+    "c": "Pune",
+    "p": "\u20b921 Lakhs",
+    "r": "P52100030219",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Menlo Tathastu in Chakan is a masterplanned community of 1 & 2 BHK value apartments (380 - 590 sq.ft.) serving the Chakan and Talegaon automobile and industrial corridors.",
+    "cf": [
+      "1 BHK",
+      "2 BHK"
+    ]
+  },
+  "menlo-delicia-mundhwa": {
+    "t": "Menlo Delicia Mundhwa",
+    "b": "",
+    "l": "Mundhwa",
+    "c": "Pune",
+    "p": "\u20b988 Lakhs",
+    "r": "P52100045190",
+    "i": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "d": "Menlo Delicia at Koregaon Park Annexe / Mundhwa features premium 2 & 3 BHK urban residences (780 - 1150 sq.ft.) located 5 minutes from Koregaon Park and Magarpatta City.",
+    "cf": [
+      "2 BHK",
+      "3 BHK"
+    ]
+  },
+  "menlo-homes-kharadi-next": {
+    "t": "Menlo Homes Kharadi Next",
+    "b": "",
+    "l": "Kharadi",
+    "c": "Pune",
+    "p": "\u20b968 Lakhs",
+    "r": "P52100031890",
+    "i": "https://keystoneliv.com/public/uploads/property/WQDgrXOUlEW3lrJuTVXdijlc3HUZMVKaA76af70F.webp",
+    "d": "Menlo Homes Kharadi Next brings contemporary 2 & 3 BHK apartments (690 - 1020 sq.ft.) with rapid connectivity to EON IT Park, WTC, and Pune Airport.",
+    "cf": [
+      "2 BHK",
+      "3 BHK"
+    ]
+  },
+  "menlo-zircon-lohegaon": {
+    "t": "Menlo Zircon Lohegaon",
+    "b": "",
+    "l": "Lohegaon",
+    "c": "Pune",
+    "p": "\u20b958 Lakhs",
+    "r": "P52100022145",
+    "i": "https://keystoneliv.com/public/uploads/property/0Vsyqe88cPZjVUnBiv7Nt4UYX36M8iZOkg8saGJ7.webp",
+    "d": "Menlo Zircon in Lohegaon / Viman Nagar Extension offers well-ventilated 2 & 3 BHK family residences (650 - 980 sq.ft.) just 10 minutes from Pune Airport and Phoenix Marketcity.",
+    "cf": [
+      "2 BHK",
+      "3 BHK"
     ]
   }
 };

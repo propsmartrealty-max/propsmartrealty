@@ -68,14 +68,17 @@ export function parseNaturalLanguageQuery(query: string): ProjectFilters {
         working = working.replace(bhkMatch[0], ' ');
     } else {
         // Check "1RK" or "Studio"
-        if (/\b(1\s*RK|studio)\b/i.test(working)) {
-            filters.configurations = ['1 RK'];
-            working = working.replace(/\b(1\s*RK|studio)\b/i, ' ');
+        if (/\b(1\s*RK|studio|studio\s*apartments?)\b/i.test(working)) {
+            filters.configurations = ['Studio', '1 RK'];
+            working = working.replace(/\b(1\s*RK|studio|studio\s*apartments?)\b/i, ' ');
         }
     }
 
-    // 2. Extract Status (e.g. "ready to move", "ready", "new launch", "under construction")
-    if (/\b(ready\s*to\s*move|ready\s*possession|ready\s*homes?|ready)\b/i.test(working)) {
+    // 2. Extract Status (e.g. "ready to move", "ready", "new launch", "under construction", "sold out")
+    if (/\b(sold\s*out|completed|delivered)\b/i.test(working)) {
+        filters.status = 'Sold Out';
+        working = working.replace(/\b(sold\s*out|completed|delivered)\b/i, ' ');
+    } else if (/\b(ready\s*to\s*move|ready\s*possession|ready\s*homes?|ready)\b/i.test(working)) {
         filters.status = 'Ready to Move';
         working = working.replace(/\b(ready\s*to\s*move|ready\s*possession|ready\s*homes?|ready)\b/i, ' ');
     } else if (/\b(new\s*launch|upcoming|pre\s*launch)\b/i.test(working)) {

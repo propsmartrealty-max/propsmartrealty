@@ -121,6 +121,20 @@ const DynamicLocalityOrNotFound = () => {
         );
     }
 
+    // 2b. Programmatic SEO: Studio Apartments (/studio-apartments-in-:slug, /studio-flats-in-:slug)
+    const studioMatch = pathname.match(/^\/studio-(?:apartments|flats)-in-([a-z0-9-]+)$/);
+    if (studioMatch) {
+        const target = resolveTarget(studioMatch[1]);
+        return (
+            <SearchResults 
+                forcedConfig="Studio" 
+                forcedCity={target.city} 
+                forcedLocationSlug={target.locationSlug} 
+                canonicalPath={pathname} 
+            />
+        );
+    }
+
     // 3. Programmatic SEO: Luxury Villas & Row Houses (/villas-in-:slug, /luxury-villas-in-:slug)
     const villaMatch = pathname.match(/^\/(?:luxury-)?villas-in-([a-z0-9-]+)$/) || pathname.match(/^\/row-houses-in-([a-z0-9-]+)$/);
     if (villaMatch) {

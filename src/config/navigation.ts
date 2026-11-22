@@ -15,6 +15,7 @@ export const NAVIGATION_CONFIG: NavItem[] = [
         icon: Home,
         children: [
             { name: 'Residential Properties', path: '/search?type=residential&intent=buy' },
+            { name: 'Studio Apartments', path: '/search?configuration=Studio' },
             { name: 'Commercial Properties', path: '/search?type=commercial&intent=buy' },
             { name: 'Plots / Land', path: '/search?type=plot&intent=buy' },
         ]

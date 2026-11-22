@@ -4,7 +4,7 @@
 > Founder: Vikas Yewle
 > Official MahaRERA Agent Registration: A031262401295
 > Zero Brokerage Policy: 100% Direct Developer Authorized Sales Mandates
-> Total Verified Projects: 933
+> Total Verified Projects: 968
 > Total Verified Developers: 317
 > Total Localities & Micro-Markets: 152
 > Geographic Span: Pune, Mumbai, Thane, Navi Mumbai, Pimpri-Chinchwad, Lonavala, Alibaug, Karjat, Maharashtra
@@ -17,7 +17,7 @@ This document contains the complete, authoritative, and exhaustive database of v
 1. Policy & Regulatory Compliance Framework
 2. Micro-Markets & Localities Index (152 Localities)
 3. Developer Directory & Authorizations (317 Developers)
-4. Exhaustive Verified Projects Catalog (933 Projects)
+4. Exhaustive Verified Projects Catalog (968 Projects)
 
 ---
 
@@ -517,7 +517,7 @@ Operating continuously since 2015, PROPSMART REALTY (initially known as Pune Pro
 
 ---
 
-# 4. EXHAUSTIVE VERIFIED PROJECTS CATALOG (933 Projects)
+# 4. EXHAUSTIVE VERIFIED PROJECTS CATALOG (968 Projects)
 
 | Project Title | Developer | Locality | City | Typologies | Price Range | Status | MahaRERA ID | URL |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -552,7 +552,7 @@ Operating continuously since 2015, PROPSMART REALTY (initially known as Pune Pro
 | Rohan Ekam Balewadi | Rohan Builders | Balewadi | Pune | 2 BHK, 3 BHK, 4 BHK, 4.5 BHK | ₹1.33 Cr | Under Construction | `P52100052298` | https://propsmart.co.in/project/rohan-ekam-balewadi |
 | Rohan Saroha | Rohan Builders | Bhugaon | Pune | 2 BHK, 3 BHK, 4 BHK | ₹80.00 L | Under Construction | `P52100076652` | https://propsmart.co.in/project/rohan-saroha |
 | Rohan Ekam | Rohan Builders | Balewadi | Pune | 2 BHK, 3 BHK, 4.5 BHK | ₹1.33 Cr | Under Construction | `P52100053912` | https://propsmart.co.in/project/rohan-ekam |
-| VJ IndiLife | Vilas Javdekar Developers | Pashan | Pune | Studio Suite, 1 BHK Suite | ₹26.00 L | Under Construction | `P52100028030` | https://propsmart.co.in/project/vj-indilife |
+| VJ IndiLife | Vilas Javdekar Developers | Pashan | Pune | Studio Suite, 1 BHK Suite | Sold Out | Sold Out | `P52100028030` | https://propsmart.co.in/project/vj-indilife |
 | VJ PKC Central | Vilas Javdekar Developers | Kharadi | Pune | 2 BHK, 3 BHK, 4 BHK | ₹1.10 Cr | Under Construction | `P52100077759` | https://propsmart.co.in/project/vj-pkc-central |
 | VJ Yashwin Enchante | Vilas Javdekar Developers | Wagholi | Pune | 2 BHK, 3 BHK | ₹73.00 L | Under Construction | `P52100046510` | https://propsmart.co.in/project/vj-yashwin-enchante |
 | GT Pride | Pride Purple Group | Ravet | Pune | 2 BHK, 3 BHK | ₹53.00 L | Under Construction | `P52100048595` | https://propsmart.co.in/project/gt-pride |
@@ -574,7 +574,7 @@ Operating continuously since 2015, PROPSMART REALTY (initially known as Pune Pro
 | Kumar Palmspring Towers | Kumar Properties | Undri | Pune | 2 BHK, 3 BHK | ₹76.00 L | Under Construction | `P52100048329` | https://propsmart.co.in/project/kumar-palmspring-towers |
 | Kumar Codename Centrestage – 0 | Kumar Properties | Hinjewadi | Pune | 2 BHK | ₹64.00 L | Under Construction | `P52100052912` | https://propsmart.co.in/project/kumar-codename-centrestage |
 | BramhaCorp Hues of Sky | BramhaCorp | Camp | Pune | 2 BHK, 3 BHK, 3.5 BHK, 4 BHK | ₹1.56 Cr | Under Construction | `P52100051537` | https://propsmart.co.in/project/bramhacorp-hues-of-sky |
-| BramhaCorp Townhouse | BramhaCorp | Balewadi | Pune | Studio, 1 BHK | ₹26.00 L | Under Construction | `P52100045228` | https://propsmart.co.in/project/bramhacorp-townhouse |
+| BramhaCorp Townhouse | BramhaCorp | Balewadi | Pune | Studio | ₹38 Lakhs | Under Construction | `P52100024773` | https://propsmart.co.in/project/bramhacorp-townhouse |
 | BramhaCorp August Towers | BramhaCorp | Kalyani Nagar | Pune | 1.5 BHK, 2 BHK | ₹68.00 L | Under Construction | `P52100048195` | https://propsmart.co.in/project/bramhacorp-august-towers |
 | Amanora City Rise | Amanora Park Town | Kothrud | Pune | 2 BHK, 3 BHK | ₹1.33 Cr | Under Construction | `P52100051462` | https://propsmart.co.in/project/amanora-city-rise |
 | Joyville Hadapsar Annexe | Joyville by Shapoorji Pallonji | Hadapsar | Pune | 1 BHK, 2 BHK, 3 BHK | ₹46.00 L | Under Construction | `P52100026785` | https://propsmart.co.in/project/joyville-annexe |
@@ -1012,7 +1012,7 @@ Operating continuously since 2015, PROPSMART REALTY (initially known as Pune Pro
 | Legacy Ekam | Legacy Lifespaces | Punawale | Pune | 2 BHK | ₹87.60 L | Under Construction | `P52100062297` | https://propsmart.co.in/project/legacy-ekam |
 | Icon Avanza | ICON Group | Balewadi | Pune | 2 BHK, 3 BHK | ₹1.45 Cr | Under Construction | `P52100079822` | https://propsmart.co.in/project/icon-avanza |
 | KK Capitol | KK Group | Rahatani | Pune | 2 BHK | ₹87.00 L | Under Construction | `P52100066467` | https://propsmart.co.in/project/kk-capitol |
-| Krisala 41 Commune | Krisala Developers | Wakad | Pune | Shop | ₹27.00 L | Under Construction | `P52100077945` | https://propsmart.co.in/project/krisala-41-commune |
+| Krisala 41 Commune | Krisala Developers | Wakad | Pune | Studio | ₹31 Lakhs | Under Construction | `P52100030044` | https://propsmart.co.in/project/krisala-41-commune |
 | Mahindra Sanctum | Mahindra Lifespaces | Pimpri | Pune | 2 BHK, 3 BHK | ₹1.00 Cr | Under Construction | `P52100040425` | https://propsmart.co.in/project/mahindra-sanctum |
 | PK Canopus | PK Group | Wakad | Pune | 3 BHK, 4 BHK | ₹1.75 Cr | Under Construction | `P52100061264` | https://propsmart.co.in/project/pk-canopus |
 | Lenora | Lenora Developers | Kiwale | Pune | 2 BHK, 3 BHK | ₹67.00 L | Under Construction | `P52100060833` | https://propsmart.co.in/project/lenora |
@@ -1214,7 +1214,7 @@ Operating continuously since 2015, PROPSMART REALTY (initially known as Pune Pro
 | Godrej Woodsville | Godrej Properties | Hinjewadi | Pune | 1 BHK, 2 BHK, 3 BHK | ₹68.00 L | Under Construction | `P52100031590` | https://propsmart.co.in/project/godrej-woodsville-hinjewadi-phase-1 |
 | Amanora Gateway Towers | Amanora Park Town | Hadapsar | Pune | 2 BHK, 3 BHK, 4 BHK | ₹1.85 Cr | Ready to Move | `P52100000282` | https://propsmart.co.in/project/amanora-gateway-towers-hadapsar-pune |
 | The Balmoral Riverside | Kasturi Housing | Balewadi | Pune | 3 BHK, 4 BHK | ₹2.45 Cr | Under Construction | `P52100028914` | https://propsmart.co.in/project/the-balmoral-riverside-balewadi-pune |
-| Yashwin Supernova | Vilas Javdekar Developers | Wakad | Pune | 2 BHK, 3 BHK | ₹78.00 L | Under Construction | `P52100030882` | https://propsmart.co.in/project/yashwin-supernova-wakad-pune |
+| Yashwin Supernova | Vilas Javdekar Developers | Wakad | Pune | 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100030882` | https://propsmart.co.in/project/yashwin-supernova-wakad-pune |
 | Nyati Elysia | Nyati Group | Kharadi | Pune | 2 BHK, 3 BHK | ₹95.00 L | Ready to Move | `P52100000851` | https://propsmart.co.in/project/nyati-elysia-kharadi-pune |
 | Kohinoor Sportsville | Kohinoor Group | Hinjewadi | Pune | 1 BHK, 2 BHK, 3 BHK | ₹65.00 L | Under Construction | `P52100029651` | https://propsmart.co.in/project/kohinoor-sportsville-hinjewadi-phase-1 |
 | Supreme Estia | Supreme Universal | Baner | Pune | 2 BHK, 3 BHK, 4 BHK | ₹1.40 Cr | Under Construction | `P52100024783` | https://propsmart.co.in/project/supreme-estia-baner-pune |
@@ -1234,12 +1234,12 @@ Operating continuously since 2015, PROPSMART REALTY (initially known as Pune Pro
 | Park Xpress | Pride Purple Group | Baner | Pune | 2 BHK, 3 BHK | ₹1.10 Cr | Ready to Move | `P52100000645` | https://propsmart.co.in/project/park-xpress-baner-pune |
 | Pride World City - Kingsbury | Pride Purple Group | Charholi | Pune | 2 BHK, 3 BHK | ₹65.00 L | Ready to Move | `P52100001889` | https://propsmart.co.in/project/pride-world-city-kingsbury-charholi-pune |
 | Park Landmark | Pride Purple Group | Bibwewadi | Pune | 2 BHK, 3 BHK | ₹1.15 Cr | Ready to Move | `P52100000512` | https://propsmart.co.in/project/park-landmark-bibwewadi-pune |
-| Yashwin Orizzonte | Vilas Javdekar Developers | Kharadi | Pune | 2 BHK, 3 BHK | ₹85.00 L | Under Construction | `P52100032598` | https://propsmart.co.in/project/yashwin-orizzonte-kharadi-pune |
-| YashONE Hinjewadi | Vilas Javdekar Developers | Hinjewadi | Pune | 1 BHK, 2 BHK, 3 BHK | ₹48.00 L | Ready to Move | `P52100020145` | https://propsmart.co.in/project/yashone-hinjewadi-phase-1-pune |
+| Yashwin Orizzonte | Vilas Javdekar Developers | Kharadi | Pune | 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100032598` | https://propsmart.co.in/project/yashwin-orizzonte-kharadi-pune |
+| YashONE Hinjewadi | Vilas Javdekar Developers | Hinjewadi | Pune | 1 BHK, 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100020145` | https://propsmart.co.in/project/yashone-hinjewadi-phase-1-pune |
 | YashONE Infinitee | Vilas Javdekar Developers | Punawale | Pune | 2 BHK, 3 BHK | ₹59.00 L | Under Construction | `P52100030284` | https://propsmart.co.in/project/yashone-infinitee-punawale-pune |
 | YashONE Wakad Central | Vilas Javdekar Developers | Wakad | Pune | 2 BHK, 3 BHK | ₹74.00 L | Under Construction | `P52100031841` | https://propsmart.co.in/project/yashone-wakad-central-pune |
 | VJ Palladio Tathawade | Vilas Javdekar Developers | Tathawade | Pune | 2 BHK, 3 BHK | ₹65.00 L | Under Construction | `P52100030452` | https://propsmart.co.in/project/vj-palladio-tathawade-pune |
-| VJ Portia | Vilas Javdekar Developers | Baner | Pune | 3 BHK, 4.5 BHK | ₹2.25 Cr | Under Construction | `P52100045218` | https://propsmart.co.in/project/vj-portia-baner-pune |
+| VJ Portia | Vilas Javdekar Developers | Baner | Pune | 3 BHK, 4.5 BHK | Sold Out | Sold Out | `P52100045218` | https://propsmart.co.in/project/vj-portia-baner-pune |
 | Kohinoor Sapphire 2 | Kohinoor Group | Tathawade | Pune | 2 BHK, 3 BHK | ₹68.00 L | Under Construction | `P52100030588` | https://propsmart.co.in/project/kohinoor-sapphire-2-tathawade-pune |
 | Kohinoor Coral | Kohinoor Group | Hinjewadi | Pune | 2 BHK | ₹55.00 L | Ready to Move | `P52100021279` | https://propsmart.co.in/project/kohinoor-coral-hinjewadi-phase-3-pune |
 | Kohinoor Emerald | Kohinoor Group | Sus | Pune | 2 BHK, 3 BHK | ₹75.00 L | Under Construction | `P52100032666` | https://propsmart.co.in/project/kohinoor-emerald-sus-baner-annexe-pune |
@@ -1258,12 +1258,12 @@ Operating continuously since 2015, PROPSMART REALTY (initially known as Pune Pro
 | Park Street | Pride Purple Group | Wakad | Pune | 2 BHK, 3 BHK, 4 BHK | ₹95.00 L | Ready to Move | `P52100000450` | https://propsmart.co.in/project/park-street-wakad-pune |
 | Park Infinia | Pride Purple Group | Phursungi | Pune | 1 BHK, 2 BHK, 3 BHK | ₹42.00 L | Ready to Move | `P52100000892` | https://propsmart.co.in/project/park-infinia-phursungi-hadapsar-pune |
 | Pride Park District | Pride Purple Group | Hinjewadi | Pune | 2 BHK, 3 BHK | ₹72.00 L | Under Construction | `P52100031120` | https://propsmart.co.in/project/pride-park-district-hinjewadi-phase-1-pune |
-| Yashwin Anand | Vilas Javdekar Developers | Sus | Pune | 2 BHK, 3 BHK | ₹68.00 L | Under Construction | `P52100024501` | https://propsmart.co.in/project/yashwin-anand-sus-baner-annexe-pune |
-| Yashwin Encore | Vilas Javdekar Developers | Wakad | Pune | 2 BHK, 3 BHK | ₹76.00 L | Ready to Move | `P52100019550` | https://propsmart.co.in/project/yashwin-encore-wakad-pune |
+| Yashwin Anand | Vilas Javdekar Developers | Sus | Pune | 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100024501` | https://propsmart.co.in/project/yashwin-anand-sus-baner-annexe-pune |
+| Yashwin Encore | Vilas Javdekar Developers | Wakad | Pune | 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100019550` | https://propsmart.co.in/project/yashwin-encore-wakad-pune |
 | YashONE Eternitee | Vilas Javdekar Developers | Hinjewadi | Pune | 2 BHK, 3 BHK | ₹58.00 L | Under Construction | `P52100026850` | https://propsmart.co.in/project/yashone-eternitee-hinjewadi-phase-1-pune |
-| Yashwin Sukham | Vilas Javdekar Developers | Warje | Pune | 2 BHK, 3 BHK | ₹62.00 L | Under Construction | `P52100030219` | https://propsmart.co.in/project/yashwin-sukham-warje-pune |
+| Yashwin Sukham | Vilas Javdekar Developers | Warje | Pune | 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100030219` | https://propsmart.co.in/project/yashwin-sukham-warje-pune |
 | VJ Downtown | Vilas Javdekar Developers | Wakad | Pune | 2 BHK, 3 BHK, 4 BHK | ₹88.00 L | Under Construction | `P52100034500` | https://propsmart.co.in/project/vj-downtown-wakad-pune |
-| Yashwin Nuovo Centro | Vilas Javdekar Developers | Wakad | Pune | 2 BHK, 3 BHK | ₹75.00 L | Under Construction | `P52100021890` | https://propsmart.co.in/project/yashwin-nuovo-centro-wakad-pune |
+| Yashwin Nuovo Centro | Vilas Javdekar Developers | Wakad | Pune | 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100021890` | https://propsmart.co.in/project/yashwin-nuovo-centro-wakad-pune |
 | Yashwin Hinjawadi | Vilas Javdekar Developers | Hinjewadi | Pune | 2 BHK, 3 BHK | ₹52.00 L | Ready to Move | `P52100000242` | https://propsmart.co.in/project/yashwin-hinjawadi-phase-2-pune |
 | Runwal Forests | Runwal Group | Kanjurmarg | Mumbai | 1.5 BHK, 2 BHK, 3 BHK | ₹1.45 Cr | Ready to Move | `P51800000818` | https://propsmart.co.in/project/runwal-forests-kanjurmarg |
 | Runwal Avenue | Runwal Group | Kanjurmarg | Mumbai | 1 BHK, 2 BHK | ₹98.00 L | Under Construction | `P51800026860` | https://propsmart.co.in/project/runwal-avenue-kanjurmarg |
@@ -1454,3 +1454,38 @@ Operating continuously since 2015, PROPSMART REALTY (initially known as Pune Pro
 | Majestique Evolvus Business & Retail Plaza | Majestique Landmarks | Central Kharadi IT Corridor | Pune | Boutique IT Offices, High-Street Retail Stores | ₹65 L - ₹3.80 Cr (Final All-Inclusive) | Under Construction | `P52100054253` | https://propsmart.co.in/project/majestique-evolvus-commercial-kharadi |
 | Majestique Towers High-Street Commercial | Majestique Landmarks | Near EON Free Zone, Kharadi | Pune | High-Street Retail, Executive Workspaces | ₹58 L - ₹3.20 Cr (Final All-Inclusive) | Under Construction | `P52100053786` | https://propsmart.co.in/project/majestique-towers-commercial-kharadi |
 | Majestique Signature Commercial Hub | Majestique Landmarks | Balewadi High Street, Balewadi | Pune | Boutique Offices, Flagship Retail Stores | ₹72 L - ₹4.50 Cr (Final All-Inclusive) | Under Construction | `P52100046445` | https://propsmart.co.in/project/majestique-signature-commercial-balewadi |
+| Palladio Presidential Towers Hadapsar | Vilas Javdekar Developers | Hadapsar | Pune | 2 BHK, 3 BHK, 4 BHK | ₹1.45 Cr | New Launch | `PM1260002602526` | https://propsmart.co.in/project/palladio-presidential-towers-hadapsar |
+| Palladio Presidential Suites Balewadi | Vilas Javdekar Developers | Balewadi | Pune | 3 BHK, 4 BHK | ₹1.85 Cr | New Launch | `PR1260002502961` | https://propsmart.co.in/project/palladio-presidential-suites-balewadi |
+| Palladio Kothrud Central | Vilas Javdekar Developers | Kothrud | Pune | 2 BHK, 3 BHK, 4 BHK | ₹1.75 Cr | Under Construction | `PR1260002501660` | https://propsmart.co.in/project/palladio-kothrud-central |
+| Yashwin Urbo Centro Wakad | Vilas Javdekar Developers | Wakad | Pune | 2 BHK, 3 BHK, 4 BHK | ₹88 Lakhs | Under Construction | `P52100053194` | https://propsmart.co.in/project/yashwin-urbo-centro-wakad |
+| Palladio Kharadi Central II | Vilas Javdekar Developers | Kharadi | Pune | 2 BHK, 3 BHK | ₹1.20 Cr | New Launch | `P52100050357` | https://propsmart.co.in/project/palladio-kharadi-central-2 |
+| Yashwin 2.0 Baner Sus | Vilas Javdekar Developers | Baner | Pune | 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100017306` | https://propsmart.co.in/project/yashwin-2-0-baner-sus |
+| Yashwin 1.0 Baner Sus | Vilas Javdekar Developers | Baner | Pune | 2 BHK | Sold Out | Sold Out | `P52100017306` | https://propsmart.co.in/project/yashwin-1-0-baner-sus |
+| Yashwin Royal Sinhagad Road | Vilas Javdekar Developers | Sinhagad Road | Pune | 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100000011` | https://propsmart.co.in/project/yashwin-royal-sinhagad-road |
+| Yashwin Jeevan Sus | Vilas Javdekar Developers | Baner | Pune | 2 BHK | Sold Out | Sold Out | `P52100000011` | https://propsmart.co.in/project/yashwin-jeevan-sus |
+| Prudentia Towers Wakad | Vilas Javdekar Developers | Wakad | Pune | 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100017756` | https://propsmart.co.in/project/prudentia-towers-wakad |
+| Palash Boulevard Pirangut | Vilas Javdekar Developers | Pirangut | Pune | 1 BHK, 2 BHK | Sold Out | Sold Out | `P52100014585` | https://propsmart.co.in/project/palash-boulevard-pirangut |
+| Palash Centro Wakad | Vilas Javdekar Developers | Wakad | Pune | 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100014585` | https://propsmart.co.in/project/palash-centro-wakad |
+| Prime Panache Baner Road | Vilas Javdekar Developers | Baner | Pune | 2 BHK, 3 BHK | Sold Out | Sold Out | `P52100017306` | https://propsmart.co.in/project/prime-panache-baner-road |
+| Prime Heights Pashan Sus | Vilas Javdekar Developers | Pashan | Pune | 2 BHK | Sold Out | Sold Out | `P52100017306` | https://propsmart.co.in/project/prime-heights-pashan-sus |
+| Krisala 41 West World | Krisala Developers | Balewadi | Pune | Studio, 1 BHK | ₹39 Lakhs | Under Construction | `P52100032049` | https://propsmart.co.in/project/krisala-41-west-world |
+| Krisala 41 Shakai | Krisala Developers | Tathawade | Pune | Studio | ₹32 Lakhs | Under Construction | `P52100034604` | https://propsmart.co.in/project/krisala-41-shakai |
+| BramhaCorp Smart Studios | BramhaCorp | Kalyani Nagar | Pune | Studio | ₹36 Lakhs | Under Construction | `P52100021644` | https://propsmart.co.in/project/bramhacorp-smart-studios |
+| BramhaCorp F-Residences Smart Studios | BramhaCorp | Kalyani Nagar | Pune | Studio | ₹42 Lakhs | Ready to Move | `P52100001089` | https://propsmart.co.in/project/bramhacorp-f-residences-smart-studios |
+| AG Landmark Studios Wakad | Developer Partner | Wakad | Pune | Studio | ₹23 Lakhs | Under Construction | `P52100051063` | https://propsmart.co.in/project/ag-landmark-studios-wakad |
+| AG Highgrove Studios Punawale | Developer Partner | Punawale | Pune | Studio | ₹25 Lakhs | Under Construction | `P52100052184` | https://propsmart.co.in/project/ag-highgrove-studios-punawale |
+| Trio Sync / Codename AIR Tathawade | Trio Spaces | Tathawade | Pune | Studio | ₹31 Lakhs | Under Construction | `PM1260002502951` | https://propsmart.co.in/project/trio-sync-codename-air-tathawade |
+| Trio Kaya Tathawade | Trio Spaces | Tathawade | Pune | Studio | ₹28 Lakhs | Under Construction | `P52100049812` | https://propsmart.co.in/project/trio-kaya-tathawade |
+| Menlo Nest Studio Hinjewadi | Developer Partner | Hinjewadi | Pune | Studio | ₹24.14 Lakhs | Under Construction | `P52100077996` | https://propsmart.co.in/project/menlo-nest-studio-hinjewadi |
+| Menlo Sky Suites Ravet | Developer Partner | Ravet | Pune | Studio | ₹29.90 Lakhs | Under Construction | `PR1260002602755` | https://propsmart.co.in/project/menlo-sky-suites-ravet |
+| One Suites Kharadi | Developer Partner | Kharadi | Pune | Studio | ₹45 Lakhs | Under Construction | `P52100031890` | https://propsmart.co.in/project/one-suites-kharadi |
+| Meridian Studios Hinjewadi | Developer Partner | Hinjewadi | Pune | Studio | ₹26 Lakhs | Under Construction | `P52100030512` | https://propsmart.co.in/project/meridian-studios-hinjewadi |
+| Unite Runal Studios Ravet | Developer Partner | Ravet | Pune | Studio | ₹28 Lakhs | Under Construction | `P52100029841` | https://propsmart.co.in/project/unite-runal-studios-ravet |
+| Ambrosia Studios Bavdhan | Developer Partner | Bavdhan | Pune | Studio | ₹32 Lakhs | Under Construction | `P52100025410` | https://propsmart.co.in/project/ambrosia-studios-bavdhan |
+| Menlo Homes Hinjewadi | Developer Partner | Hinjewadi | Pune | 1 BHK, 2 BHK | ₹42 Lakhs | Under Construction | `P52100026785` | https://propsmart.co.in/project/menlo-homes-hinjewadi |
+| Menlo Joywood Bavdhan | Developer Partner | Bavdhan | Pune | 2 BHK, 3 BHK | ₹75 Lakhs | Under Construction | `P52100048120` | https://propsmart.co.in/project/menlo-joywood-bavdhan |
+| Menlo Skyora Bavdhan | Developer Partner | Bavdhan | Pune | 2 BHK, 3 BHK | ₹78 Lakhs | Under Construction | `P52100049112` | https://propsmart.co.in/project/menlo-skyora-bavdhan |
+| Menlo Tathastu Chakan | Developer Partner | Chakan | Pune | 1 BHK, 2 BHK | ₹21 Lakhs | Under Construction | `P52100030219` | https://propsmart.co.in/project/menlo-tathastu-chakan |
+| Menlo Delicia Mundhwa | Developer Partner | Mundhwa | Pune | 2 BHK, 3 BHK | ₹88 Lakhs | Under Construction | `P52100045190` | https://propsmart.co.in/project/menlo-delicia-mundhwa |
+| Menlo Homes Kharadi Next | Developer Partner | Kharadi | Pune | 2 BHK, 3 BHK | ₹68 Lakhs | Under Construction | `P52100031890` | https://propsmart.co.in/project/menlo-homes-kharadi-next |
+| Menlo Zircon Lohegaon | Developer Partner | Lohegaon | Pune | 2 BHK, 3 BHK | ₹58 Lakhs | Under Construction | `P52100022145` | https://propsmart.co.in/project/menlo-zircon-lohegaon |

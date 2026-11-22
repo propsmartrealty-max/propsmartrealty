@@ -205,6 +205,7 @@ export default defineConfig(({ mode }) => {
       }
     },
     build: {
+      sourcemap: true,
       chunkSizeWarningLimit: 2000,
       rollupOptions: {
         output: {
