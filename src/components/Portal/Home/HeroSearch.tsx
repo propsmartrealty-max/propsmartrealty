@@ -117,26 +117,13 @@ const HeroSearch = () => {
         setRecentSearches(getRecentSearches());
     }, []);
 
-    // Preload next slide only, deferred after initial load to conserve mobile network bandwidth
+    // Auto-rotate background only on desktop screens after 15s to keep mobile LCP pinned at <1.2s
     useEffect(() => {
-        if (slides.length <= 1) return;
-        const nextIdx = (currentImage + 1) % slides.length;
-        const nextSlide = slides[nextIdx];
-        if (nextSlide) {
-            const timer = setTimeout(() => {
-                const img = new Image();
-                img.src = nextSlide.image;
-            }, 3000);
-            return () => clearTimeout(timer);
-        }
-    }, [currentImage, slides]);
-
-    // Auto-rotate background every 6 seconds
-    useEffect(() => {
+        if (typeof window !== 'undefined' && window.innerWidth < 1024) return;
         if (slides.length <= 1) return;
         const interval = setInterval(() => {
             setCurrentImage((prev) => (prev + 1) % slides.length);
-        }, 6000);
+        }, 15000);
         return () => clearInterval(interval);
     }, [slides.length]);
 
@@ -231,7 +218,7 @@ const HeroSearch = () => {
                     </div>
 
                     <div
-                        className="bg-amber-500/25 backdrop-blur-md border border-amber-400/50 px-4 sm:px-5 py-2 rounded-full text-xs sm:text-sm font-black text-amber-100 flex items-center gap-2 shadow-[0_0_20px_rgba(245,158,11,0.25)]"
+                        className="bg-amber-500/25 backdrop-blur-md border border-amber-400/50 px-4 sm:px-5 py-2 rounded-full text-xs sm:text-sm font-black text-amber-200 flex items-center gap-2 shadow-[0_0_20px_rgba(245,158,11,0.25)]"
                     >
                         <Building2 className="w-3.5 h-3.5 text-amber-300" />
                         🏢 BUY DIRECTLY WITH BUILDER
@@ -244,7 +231,7 @@ const HeroSearch = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="Authorized MahaRERA Partner: A031262401295"
-                        className="inline-flex items-center gap-2 px-4 py-2 min-h-[44px] rounded-full bg-slate-900/80 backdrop-blur-md border border-white/30 text-white text-xs font-semibold hover:bg-slate-900 transition-all shadow-md group"
+                        className="inline-flex items-center gap-2 px-4 py-2 min-h-[48px] rounded-full bg-slate-900/80 backdrop-blur-md border border-white/30 text-white text-xs font-semibold hover:bg-slate-900 transition-all shadow-md group"
                     >
                         <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
                         <span className="text-white">Authorized MahaRERA Partner:</span>
@@ -280,11 +267,11 @@ const HeroSearch = () => {
                                     onClick={() => setActiveTab(tab.id)}
                                     className={`flex items-center gap-1.5 sm:gap-2 px-3.5 sm:px-6 py-2.5 sm:py-3.5 text-xs sm:text-sm font-bold transition-all relative whitespace-nowrap rounded-t-2xl shrink-0 ${
                                         activeTab === tab.id
-                                            ? 'text-sky-600 bg-white/95 shadow-[0_-5px_15px_rgba(14,165,233,0.08)] z-10'
-                                            : 'text-slate-600 hover:text-slate-900 hover:bg-white/40'
+                                            ? 'text-sky-700 bg-white/95 shadow-[0_-5px_15px_rgba(14,165,233,0.08)] z-10'
+                                            : 'text-slate-700 hover:text-slate-900 hover:bg-white/40'
                                     }`}
                                 >
-                                    <div className={`p-1 rounded-full ${activeTab === tab.id ? 'bg-sky-100/80 text-sky-600' : 'bg-transparent'}`}>
+                                    <div className={`p-1 rounded-full ${activeTab === tab.id ? 'bg-sky-100/80 text-sky-700' : 'bg-transparent'}`}>
                                         {tab.icon}
                                     </div>
                                     {tab.label}
@@ -300,20 +287,20 @@ const HeroSearch = () => {
 
                             {/* Location Dropdown */}
                             <div className="w-full md:w-[28%] relative border-b md:border-b-0 md:border-r border-sky-100/80 pb-4 md:pb-0 md:pr-4 group">
-                                <label className="text-[10px] font-black text-sky-600 uppercase tracking-widest mb-1 block group-hover:text-sky-700 transition-colors">Select City</label>
+                                <label className="text-[10px] font-black text-sky-700 uppercase tracking-widest mb-1 block group-hover:text-sky-800 transition-colors">Select City</label>
                                 <button
                                     type="button"
                                     onClick={() => setCityDropdownOpen(!cityDropdownOpen)}
                                     aria-label={`Select City: Currently ${selectedCity}`}
-                                    className="flex justify-between items-center w-full text-slate-800 font-extrabold text-lg hover:text-sky-600 transition-colors"
+                                    className="flex justify-between items-center w-full text-slate-800 font-extrabold text-lg hover:text-sky-700 transition-colors"
                                 >
                                     <span>{selectedCity}</span>
-                                    <ChevronDown className={`w-4 h-4 text-sky-500 transition-transform duration-300 ${cityDropdownOpen ? 'rotate-180' : ''}`} />
+                                    <ChevronDown className={`w-4 h-4 text-sky-600 transition-transform duration-300 ${cityDropdownOpen ? 'rotate-180' : ''}`} />
                                 </button>
 
                                 {cityDropdownOpen && (
                                     <div className="absolute top-[calc(100%+12px)] left-0 w-64 glass-panel rounded-2xl shadow-2xl border border-white/80 p-2 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
-                                        <div className="text-[11px] font-black uppercase text-sky-600 px-3 py-1.5 tracking-wider flex items-center gap-1.5">
+                                        <div className="text-[11px] font-black uppercase text-sky-700 px-3 py-1.5 tracking-wider flex items-center gap-1.5">
                                             <span className="w-1.5 h-1.5 rounded-full bg-sky-500 animate-ping"></span>
                                             Active Regions
                                         </div>
@@ -332,7 +319,7 @@ const HeroSearch = () => {
                                                 }`}
                                             >
                                                 <span>{c.label}</span>
-                                                <span className="text-[11px] font-black text-sky-600 bg-sky-100/80 px-2 py-0.5 rounded-full">
+                                                <span className="text-[11px] font-black text-sky-700 bg-sky-100/80 px-2 py-0.5 rounded-full">
                                                     {c.badge}
                                                 </span>
                                             </button>
@@ -343,13 +330,13 @@ const HeroSearch = () => {
 
                             {/* Text Input */}
                             <div className="flex-1 w-full relative group">
-                                <label htmlFor="hero-search-input" className="text-[10px] font-black text-slate-500 uppercase tracking-widest mb-1 block group-hover:text-sky-600 transition-colors">Search Location, Project or Builder</label>
+                                <label htmlFor="hero-search-input" className="text-[10px] font-black text-slate-700 uppercase tracking-widest mb-1 block group-hover:text-sky-700 transition-colors">Search Location, Project or Builder</label>
                                 <input
                                     id="hero-search-input"
                                     type="text"
                                     aria-label="Search Location, Project or Builder"
                                     placeholder={`Try "3 BHK in Baner" or "VTP Realty"`}
-                                    className="w-full text-slate-800 text-base sm:text-lg font-semibold placeholder:text-gray-400 outline-none bg-transparent"
+                                    className="w-full text-slate-800 text-base sm:text-lg font-semibold placeholder:text-slate-500 outline-none bg-transparent"
                                     value={searchQuery}
                                     onChange={(e) => setSearchQuery(e.target.value)}
                                     onFocus={() => setShowSuggestions(true)}
@@ -363,18 +350,19 @@ const HeroSearch = () => {
                                         {recentSearches.length > 0 && !searchQuery.trim() && (
                                             <div className="mb-3 pb-3 border-b border-sky-100/60">
                                                 <div className="flex items-center justify-between px-1 mb-1.5">
-                                                    <span className="text-[10px] font-black uppercase tracking-wider text-slate-500 flex items-center gap-1">
-                                                        <History className="w-3 h-3 text-sky-600" />
+                                                    <span className="text-[10px] font-black uppercase tracking-wider text-slate-700 flex items-center gap-1">
+                                                        <History className="w-3 h-3 text-sky-700" />
                                                         Recent Searches
                                                     </span>
                                                     <button
                                                         type="button"
+                                                        aria-label="Clear recent searches"
                                                         onMouseDown={(e) => {
                                                             e.preventDefault();
                                                             clearRecentSearches();
                                                             setRecentSearches([]);
                                                         }}
-                                                        className="text-[10px] text-slate-400 hover:text-red-500 transition-colors font-bold"
+                                                        className="text-[11px] text-slate-600 hover:text-red-600 transition-colors font-bold p-2 min-h-[44px] min-w-[44px] flex items-center justify-center"
                                                     >
                                                         Clear
                                                     </button>
@@ -388,7 +376,7 @@ const HeroSearch = () => {
                                                                 setSearchQuery(term);
                                                                 navigate(`/search?q=${encodeURIComponent(term)}`);
                                                             }}
-                                                            className="px-2.5 py-1 rounded-lg bg-sky-50 hover:bg-sky-100 text-sky-800 text-xs font-bold transition-colors flex items-center gap-1"
+                                                            className="px-3 py-1.5 min-h-[44px] rounded-lg bg-sky-50 hover:bg-sky-100 text-sky-850 text-xs font-bold transition-colors flex items-center gap-1"
                                                         >
                                                             <span>{term}</span>
                                                         </button>
@@ -443,7 +431,7 @@ const HeroSearch = () => {
                 {/* Quick Discovery Shortcuts (Google Real Estate & Keystone Liv Inspired) */}
                 <div className="w-full max-w-4xl mt-6 space-y-2.5">
                     <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-1 text-xs justify-center flex-wrap">
-                        <span className="text-amber-300 font-extrabold shrink-0 flex items-center gap-1.5 bg-amber-500/10 border border-amber-500/20 px-2.5 py-1.5 rounded-lg">
+                        <span className="text-amber-300 font-extrabold shrink-0 flex items-center gap-1.5 bg-amber-500/10 border border-amber-500/20 px-3 py-2 rounded-lg min-h-[48px]">
                             <Rocket className="w-3.5 h-3.5 text-amber-300" /> Looking for:
                         </span>
                         {[
@@ -458,7 +446,7 @@ const HeroSearch = () => {
                                 key={i}
                                 type="button"
                                 aria-label={`Search for ${label}`}
-                                className="shrink-0 bg-white/10 hover:bg-amber-400 hover:text-slate-900 text-white text-xs font-bold px-3.5 py-2 min-h-[44px] rounded-full border border-white/20 backdrop-blur-md transition-all shadow-sm flex items-center justify-center"
+                                className="shrink-0 bg-white/10 hover:bg-amber-400 hover:text-slate-900 text-white text-xs font-bold px-4 py-2 min-h-[48px] rounded-full border border-white/20 backdrop-blur-md transition-all shadow-sm flex items-center justify-center"
                                 onClick={() => {
                                     setSearchQuery(query);
                                     navigate(`/search?q=${encodeURIComponent(query)}`);
@@ -470,7 +458,7 @@ const HeroSearch = () => {
                     </div>
 
                     <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-1 text-xs justify-center flex-wrap">
-                        <span className="text-slate-300 font-bold shrink-0 flex items-center gap-1 px-1">
+                        <span className="text-slate-200 font-bold shrink-0 flex items-center gap-1 px-1">
                             📍 Popular:
                         </span>
                         {['Hinjewadi', 'Kharadi', 'Baner', 'Wakad', 'Bavdhan', 'Mahalunge', 'Hadapsar', 'Ravet'].map((loc, i) => (
@@ -478,7 +466,7 @@ const HeroSearch = () => {
                                 key={i}
                                 type="button"
                                 aria-label={`Search properties in ${loc}`}
-                                className="shrink-0 bg-slate-900/60 hover:bg-white hover:text-slate-900 text-white text-xs font-bold px-3 py-1.5 min-h-[40px] rounded-full border border-white/20 transition-all flex items-center justify-center"
+                                className="shrink-0 bg-slate-900/80 hover:bg-white hover:text-slate-900 text-white text-xs font-bold px-4 py-2 min-h-[48px] rounded-full border border-white/20 transition-all flex items-center justify-center"
                                 onClick={() => {
                                     setSearchQuery(loc);
                                     navigate(`/search?q=${encodeURIComponent(loc)}`);
@@ -492,43 +480,43 @@ const HeroSearch = () => {
 
                 {/* 4 Core Pillars: 100% Brokerage Free & Buy Directly with Builder */}
                 <div className="mt-6 grid grid-cols-2 md:grid-cols-4 gap-2.5 sm:gap-3 w-full max-w-4xl">
-                    <div className="flex items-center gap-2.5 p-2.5 sm:p-3 rounded-2xl bg-slate-900/50 backdrop-blur-md border border-white/15 text-white shadow-lg">
+                    <div className="flex items-center gap-2.5 p-2.5 sm:p-3 rounded-2xl bg-slate-900/70 backdrop-blur-md border border-white/15 text-white shadow-lg">
                         <div className="w-8 h-8 rounded-xl bg-emerald-500/20 border border-emerald-400/40 flex items-center justify-center text-emerald-300 shrink-0">
                             <BadgePercent className="w-4 h-4" />
                         </div>
                         <div className="text-left">
                             <div className="text-xs font-black tracking-wide text-white">0% Brokerage</div>
-                            <div className="text-[10px] text-slate-300">Zero commission for buyers</div>
+                            <div className="text-[10.5px] text-slate-200">Zero commission for buyers</div>
                         </div>
                     </div>
 
-                    <div className="flex items-center gap-2.5 p-2.5 sm:p-3 rounded-2xl bg-slate-900/50 backdrop-blur-md border border-white/15 text-white shadow-lg">
+                    <div className="flex items-center gap-2.5 p-2.5 sm:p-3 rounded-2xl bg-slate-900/70 backdrop-blur-md border border-white/15 text-white shadow-lg">
                         <div className="w-8 h-8 rounded-xl bg-amber-500/20 border border-amber-400/40 flex items-center justify-center text-amber-300 shrink-0">
                             <Building2 className="w-4 h-4" />
                         </div>
                         <div className="text-left">
                             <div className="text-xs font-black tracking-wide text-white">Direct with Builder</div>
-                            <div className="text-[10px] text-slate-300">Direct developer sales desk</div>
+                            <div className="text-[10.5px] text-slate-200">Direct developer sales desk</div>
                         </div>
                     </div>
 
-                    <div className="flex items-center gap-2.5 p-2.5 sm:p-3 rounded-2xl bg-slate-900/50 backdrop-blur-md border border-white/15 text-white shadow-lg">
+                    <div className="flex items-center gap-2.5 p-2.5 sm:p-3 rounded-2xl bg-slate-900/70 backdrop-blur-md border border-white/15 text-white shadow-lg">
                         <div className="w-8 h-8 rounded-xl bg-teal-500/20 border border-teal-400/40 flex items-center justify-center text-teal-300 shrink-0">
                             <ShieldCheck className="w-4 h-4" />
                         </div>
                         <div className="text-left">
                             <div className="text-xs font-black tracking-wide text-white">MahaRERA Partner</div>
-                            <div className="text-[10px] text-slate-300">Agent: A031262401295</div>
+                            <div className="text-[10.5px] text-slate-200">Agent: A031262401295</div>
                         </div>
                     </div>
 
-                    <div className="flex items-center gap-2.5 p-2.5 sm:p-3 rounded-2xl bg-slate-900/50 backdrop-blur-md border border-white/15 text-white shadow-lg">
+                    <div className="flex items-center gap-2.5 p-2.5 sm:p-3 rounded-2xl bg-slate-900/70 backdrop-blur-md border border-white/15 text-white shadow-lg">
                         <div className="w-8 h-8 rounded-xl bg-blue-500/20 border border-blue-400/40 flex items-center justify-center text-blue-300 shrink-0">
                             <CheckCircle2 className="w-4 h-4" />
                         </div>
                         <div className="text-left">
                             <div className="text-xs font-black tracking-wide text-white">Sanctioned Prices</div>
-                            <div className="text-[10px] text-slate-300">No middleman markups</div>
+                            <div className="text-[10.5px] text-slate-200">No middleman markups</div>
                         </div>
                     </div>
                 </div>

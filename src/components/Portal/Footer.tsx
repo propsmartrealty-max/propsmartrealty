@@ -14,7 +14,7 @@ const Footer = () => {
                 </svg>
             </div>
 
-            <footer className="bg-slate-950 text-gray-400 pt-12 pb-10 border-t border-white/10 relative overflow-hidden">
+            <footer className="bg-slate-950 text-slate-300 pt-12 pb-10 border-t border-white/10 relative overflow-hidden">
                 {/* Ambient Deep Ocean Glow Spot */}
                 <div className="absolute top-0 right-1/4 w-96 h-96 bg-sky-600/10 rounded-full blur-3xl pointer-events-none -z-0" />
                 <div className="absolute bottom-0 left-1/4 w-96 h-96 bg-teal-600/10 rounded-full blur-3xl pointer-events-none -z-0" />
@@ -83,7 +83,7 @@ const Footer = () => {
                                 target="_blank" 
                                 rel="noopener noreferrer" 
                                 aria-label="Visit PROPSMART REALTY on Facebook"
-                                className="p-2.5 rounded-xl text-slate-300 hover:text-blue-400 hover:bg-white/10 transition-colors"
+                                className="p-3 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-xl text-slate-200 hover:text-blue-400 hover:bg-white/10 transition-colors"
                             >
                                 <Facebook className="w-5 h-5" />
                             </a>
@@ -92,7 +92,7 @@ const Footer = () => {
                                 target="_blank" 
                                 rel="noopener noreferrer" 
                                 aria-label="Visit PROPSMART REALTY on Instagram"
-                                className="p-2.5 rounded-xl text-slate-300 hover:text-pink-400 hover:bg-white/10 transition-colors"
+                                className="p-3 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-xl text-slate-200 hover:text-pink-400 hover:bg-white/10 transition-colors"
                             >
                                 <Instagram className="w-5 h-5" />
                             </a>
@@ -101,7 +101,7 @@ const Footer = () => {
                                 target="_blank" 
                                 rel="noopener noreferrer" 
                                 aria-label="Visit PROPSMART REALTY on YouTube"
-                                className="p-2.5 rounded-xl text-slate-300 hover:text-red-400 hover:bg-white/10 transition-colors"
+                                className="p-3 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-xl text-slate-200 hover:text-red-400 hover:bg-white/10 transition-colors"
                             >
                                 <Youtube className="w-5 h-5" />
                             </a>

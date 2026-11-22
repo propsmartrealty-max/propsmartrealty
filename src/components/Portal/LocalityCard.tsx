@@ -36,7 +36,8 @@ export const LocalityCard: React.FC<LocalityCardProps> = ({
     return (
         <Link
             to={`/search?location=${encodeURIComponent(locality.name)}`}
-            className={`group cursor-pointer block ${className}`}
+            aria-label={`Explore real estate projects in ${locality.name}`}
+            className={`group cursor-pointer block min-h-[48px] ${className}`}
         >
             <div className={`relative rounded-3xl overflow-hidden aspect-[4/5] shadow-md hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border bg-slate-900 water-shimmer ${
                 locality.isFeatured

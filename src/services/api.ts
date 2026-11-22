@@ -178,7 +178,12 @@ async function filterProjectsLocally(page: number, filters: ProjectFilters = {})
 export const api = {
     projects: {
         all: async () => {
-            // High-speed static discovery index: instant sub-millisecond resolution with zero network payload
+            // Ultra-lean curated showcase index: instant 0ms resolution with 0 kB network overhead
+            return FEATURED_PROJECTS;
+        },
+
+        catalog: async () => {
+            // Full 846+ project database deferred for explicit search/directory filtering
             return getFullProjectCatalog();
         },
 

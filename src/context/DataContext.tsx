@@ -108,16 +108,20 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
         }
     }, []);
 
-    // Fetch initial data (load full inventory asynchronously in background with instant featured project boot)
+    // Fetch initial data (instant boot from FEATURED_PROJECTS with zero network payload & instant paint)
     const projectsQuery = useQuery({
         queryKey: ['projects', 'all'],
         queryFn: () => api.projects.all(),
         initialData: FEATURED_PROJECTS,
+        staleTime: Infinity,
+        refetchOnMount: false,
     });
 
     const buildersQuery = useQuery({
         queryKey: ['builders'],
         queryFn: () => api.builders.list(),
+        staleTime: Infinity,
+        refetchOnMount: false,
     });
 
     // Fetch Localities globally for Deal Engine
@@ -136,7 +140,9 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
                 const { LOCATIONS } = await import('../data/locationsData');
                 return LOCATIONS;
             }
-        }
+        },
+        staleTime: Infinity,
+        refetchOnMount: false,
     });
 
     // Mutations

@@ -188,7 +188,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         </span>
                     </div>
 
-                    <div className="flex items-center gap-1.5 shrink-0 pointer-events-auto">
+                    <div className="flex items-center gap-2 shrink-0 pointer-events-auto">
                         {/* Heart / Shortlist Button */}
                         <button
                             type="button"
@@ -197,7 +197,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                 e.stopPropagation();
                                 if (toggleFavorite) toggleFavorite(project.id);
                             }}
-                            className={`min-w-[36px] min-h-[36px] flex items-center justify-center rounded-lg backdrop-blur-md border transition-all shadow-md hover:scale-110 active:scale-95 ${
+                            className={`min-w-[48px] min-h-[48px] flex items-center justify-center rounded-xl backdrop-blur-md border transition-all shadow-md hover:scale-110 active:scale-95 ${
                                 isFav
                                     ? 'bg-rose-500 text-white border-rose-400 shadow-rose-500/30'
                                     : 'bg-slate-950/70 text-white/90 border-white/20 hover:bg-rose-600 hover:text-white'
@@ -216,7 +216,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                     e.stopPropagation();
                                     setShowQRModal(true);
                                 }}
-                                className="min-w-[36px] min-h-[36px] flex items-center justify-center rounded-lg bg-slate-950/70 hover:bg-emerald-600 text-white backdrop-blur-md border border-white/20 transition-all shadow-md hover:scale-105 active:scale-95"
+                                className="min-w-[48px] min-h-[48px] flex items-center justify-center rounded-xl bg-slate-950/70 hover:bg-emerald-600 text-white backdrop-blur-md border border-white/20 transition-all shadow-md hover:scale-105 active:scale-95"
                                 title={`Scan MahaRERA Verification QR for ${project.title}`}
                                 aria-label={`Scan MahaRERA Verification QR for ${project.title}`}
                             >
@@ -233,7 +233,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                                     addToCompare(project.id);
                                 }
                             }}
-                            className={`px-3 py-1.5 min-h-[36px] rounded-lg text-[10px] font-bold uppercase tracking-wider shadow-md backdrop-blur-md border transition-all flex items-center gap-1.5 hover:scale-105 active:scale-95 ${
+                            className={`px-3 py-2 min-h-[48px] rounded-xl text-[10px] font-bold uppercase tracking-wider shadow-md backdrop-blur-md border transition-all flex items-center gap-1.5 hover:scale-105 active:scale-95 ${
                                 isInCompare
                                     ? 'bg-brand-600 text-white border-brand-400 shadow-brand-500/30'
                                     : 'bg-slate-950/70 text-white border-white/20 hover:bg-white hover:text-slate-900'
@@ -283,19 +283,19 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                 <div>
                     {/* Header: Developer Byline, Title & Location (Full Width, Zero Collisions) */}
                     <div>
-                        <div itemProp="brand" itemScope itemType="https://schema.org/Brand" className="text-[10px] sm:text-[10.5px] uppercase font-black tracking-wider text-sky-600 truncate mb-1">
+                        <div itemProp="brand" itemScope itemType="https://schema.org/Brand" className="text-[10px] sm:text-[10.5px] uppercase font-black tracking-wider text-sky-700 truncate mb-1">
                             <span itemProp="name">{builderName}</span>
                         </div>
                         <Link to={projectLink} className="block group/title" title={project.title} aria-label={project.title} itemProp="url">
-                            <h3 itemProp="name" className={`font-sans font-black text-slate-900 leading-snug group-hover/title:text-sky-600 transition-colors ${
+                            <h3 itemProp="name" className={`font-sans font-black text-slate-900 leading-snug group-hover/title:text-sky-700 transition-colors ${
                                 isGrid ? 'text-base sm:text-lg line-clamp-1' : 'text-lg md:text-xl line-clamp-2'
                             }`} title={project.title}>
                                 {project.title}
                             </h3>
                         </Link>
-                        <div itemProp="address" itemScope itemType="https://schema.org/PostalAddress" className="flex items-center gap-1.5 text-slate-700 font-semibold text-xs sm:text-sm mt-1">
-                            <MapPin className="w-3.5 h-3.5 flex-shrink-0 text-sky-500" />
-                            <span itemProp="addressLocality" className="truncate font-sans font-semibold text-slate-600 text-xs sm:text-sm">
+                        <div itemProp="address" itemScope itemType="https://schema.org/PostalAddress" className="flex items-center gap-1.5 text-slate-800 font-semibold text-xs sm:text-sm mt-1">
+                            <MapPin className="w-3.5 h-3.5 flex-shrink-0 text-sky-600" />
+                            <span itemProp="addressLocality" className="truncate font-sans font-semibold text-slate-700 text-xs sm:text-sm">
                                 {project.location}
                                 {project.city && project.city !== 'Pune' && (
                                     <span itemProp="addressRegion" className="ml-1.5 inline-flex items-center text-[10px] font-bold px-1.5 py-0.2 rounded bg-sky-100 text-sky-800">
@@ -309,24 +309,24 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                     {/* Dedicated All-Inclusive Price Row (Prominent, High Contrast, 100% Collision-Free) */}
                     <div className="mt-3 p-2.5 rounded-xl bg-slate-50/90 border border-slate-200/70 flex items-baseline justify-between gap-2 shadow-2xs">
                         <div className="min-w-0">
-                            <span className="text-[9.5px] uppercase font-black tracking-wider text-emerald-700 flex items-center gap-1 leading-tight">
-                                <ShieldCheck className="w-3 h-3 text-emerald-600" />
+                            <span className="text-[9.5px] uppercase font-black tracking-wider text-emerald-800 flex items-center gap-1 leading-tight">
+                                <ShieldCheck className="w-3 h-3 text-emerald-700" />
                                 All-Inclusive Price
                             </span>
                             <p className="text-base sm:text-lg font-black text-slate-900 tracking-tight leading-tight truncate">
                                 {pricing.allInclusiveRange || pricing.allInclusiveDisplay}
                             </p>
                             {pricing.isRange && (
-                                <span className="text-[10px] text-emerald-700 font-bold block mt-0.5 truncate">
+                                <span className="text-[10px] text-emerald-800 font-bold block mt-0.5 truncate">
                                     {pricing.startingAllInclusive}
                                 </span>
                             )}
-                            <span className="text-[9.5px] text-slate-600 font-bold block mt-0.5">
+                            <span className="text-[9.5px] text-slate-700 font-bold block mt-0.5">
                                 Taxes, Stamp Duty & Registration Included • 0% Brokerage
                             </span>
                         </div>
                         {project.pricePerSqft && (
-                            <span className="text-[10.5px] font-bold text-sky-700 bg-sky-100/80 px-2 py-0.5 rounded-md border border-sky-200/70 shrink-0">
+                            <span className="text-[10.5px] font-bold text-sky-800 bg-sky-100/90 px-2 py-0.5 rounded-md border border-sky-200/70 shrink-0">
                                 ₹{project.pricePerSqft.toLocaleString('en-IN')}/sqft
                             </span>
                         )}
@@ -440,7 +440,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         onClick={(e) => {
                             e.stopPropagation();
                         }}
-                        className="px-3 py-2.5 min-h-[44px] rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider text-center transition-all shadow-xs hover:shadow-md flex items-center justify-center gap-1.5 active:scale-95"
+                        className="px-3 py-2.5 min-h-[48px] rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider text-center transition-all shadow-xs hover:shadow-md flex items-center justify-center gap-1.5 active:scale-95"
                         aria-label={`Inquire on WhatsApp about ${project.title}`}
                         title={`Inquire on WhatsApp about ${project.title}`}
                     >
@@ -452,7 +452,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                     <Link
                         to={projectLink}
                         aria-label={`View details and floor plans for ${project.title}`}
-                        className="px-3 py-2.5 min-h-[44px] rounded-xl bg-gradient-to-r from-sky-600 via-blue-600 to-indigo-600 hover:from-sky-500 hover:to-blue-700 text-white font-bold text-xs uppercase tracking-wider text-center transition-all shadow-md shadow-sky-500/20 hover:shadow-lg active:scale-95 flex items-center justify-center gap-1"
+                        className="px-3 py-2.5 min-h-[48px] rounded-xl bg-gradient-to-r from-sky-600 via-blue-600 to-indigo-600 hover:from-sky-500 hover:to-blue-700 text-white font-bold text-xs uppercase tracking-wider text-center transition-all shadow-md shadow-sky-500/20 hover:shadow-lg active:scale-95 flex items-center justify-center gap-1"
                     >
                         <span>Details</span>
                         <ArrowRight className="w-3.5 h-3.5 shrink-0" />
@@ -486,7 +486,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         <button
                             type="button"
                             onClick={() => setShowQRModal(false)}
-                            className="absolute top-4 right-4 p-1.5 rounded-full text-slate-400 hover:text-slate-700 hover:bg-sky-50"
+                            className="absolute top-4 right-4 p-3 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-full text-slate-500 hover:text-slate-800 hover:bg-sky-50 transition-colors"
                             aria-label="Close MahaRERA QR Modal"
                         >
                             <X className="w-5 h-5" />

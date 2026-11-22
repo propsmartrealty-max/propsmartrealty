@@ -205,7 +205,7 @@ export default defineConfig(({ mode }) => {
       }
     },
     build: {
-      target: 'es2022',
+      target: ['es2022', 'chrome89', 'edge89', 'firefox89', 'safari15'],
       sourcemap: true,
       chunkSizeWarningLimit: 2000,
       rollupOptions: {

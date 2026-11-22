@@ -89,7 +89,8 @@ const CityHubSection: React.FC<CityHubSectionProps> = ({ projects }) => {
                             <button
                                 key={c.id}
                                 onClick={() => setSelectedCity(c.id as any)}
-                                className={`text-left p-4 sm:p-5 rounded-2xl border transition-all duration-300 relative overflow-hidden group ${
+                                aria-label={`Select ${c.name} verified properties (${count} projects)`}
+                                className={`text-left p-4 sm:p-5 rounded-2xl border transition-all duration-300 relative overflow-hidden group min-h-[48px] ${
                                     isSelected
                                         ? 'bg-slate-900 text-white shadow-xl border-slate-900 scale-[1.02]'
                                         : 'bg-white text-slate-800 border-slate-200 hover:border-slate-300 hover:shadow-md'
@@ -107,10 +108,10 @@ const CityHubSection: React.FC<CityHubSectionProps> = ({ projects }) => {
                                         {count} Projects
                                     </span>
                                 </div>
-                                <h3 className="text-base sm:text-lg font-black tracking-tight mb-1">
+                                <div className="text-base sm:text-lg font-black tracking-tight mb-1">
                                     {c.name}
-                                </h3>
-                                <p className={`text-xs line-clamp-1 ${isSelected ? 'text-slate-300 font-medium' : 'text-slate-700 font-semibold'}`}>
+                                </div>
+                                <p className={`text-xs line-clamp-1 ${isSelected ? 'text-slate-200 font-medium' : 'text-slate-700 font-semibold'}`}>
                                     Starting {c.startingPrice}
                                 </p>
                                 {isSelected && (

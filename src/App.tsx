@@ -52,8 +52,18 @@ import NotFound from './pages/NotFound';
 
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 
-// Create a client
-const queryClient = new QueryClient();
+// Create a client with hardened caching defaults for instant navigation & minimal network overhead
+const queryClient = new QueryClient({
+    defaultOptions: {
+        queries: {
+            staleTime: Infinity, // Treat static catalog & featured data as fresh
+            gcTime: 1000 * 60 * 60, // 60 minutes
+            refetchOnWindowFocus: false,
+            refetchOnMount: false,
+            retry: 1,
+        }
+    }
+});
 
 import { Toaster } from 'react-hot-toast';
 

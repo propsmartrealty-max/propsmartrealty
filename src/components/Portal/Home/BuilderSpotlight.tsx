@@ -95,7 +95,8 @@ const BuilderSpotlight: React.FC<BuilderSpotlightProps> = ({ builders }) => {
                             <Link
                                 to={`/builder/${builder.slug}`}
                                 key={builder.id}
-                                className="group relative bg-slate-900/80 border border-white/10 hover:border-amber-400/60 rounded-2xl p-3.5 flex flex-col justify-between hover:bg-slate-850 transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl hover:shadow-brand-900/40 backdrop-blur-sm"
+                                aria-label={`View verified direct builder projects by ${builder.name}`}
+                                className="group relative bg-slate-900/80 border border-white/10 hover:border-amber-400/60 rounded-2xl p-3.5 flex flex-col justify-between hover:bg-slate-850 transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl hover:shadow-brand-900/40 backdrop-blur-sm min-h-[48px]"
                             >
                                 {/* Top Mini Verified Badge */}
                                 <div className="flex items-center justify-between mb-2.5 px-1">

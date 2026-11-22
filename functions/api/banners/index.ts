@@ -2,7 +2,16 @@
 import { Env, jsonResponse, verifyAdminToken } from '../_middleware';
 
 export const onRequestGet: PagesFunction<Env> = async (context) => {
+    const defaultBanners = [
+        { id: 'b1', title: 'Buy Directly with Builder', imageUrl: '/images/hero/hero-life-republic.webp', link: '/project/kolte-patil-life-republic-canvas', isActive: true, sortOrder: 0 },
+        { id: 'b2', title: '100% Brokerage Free Pune Properties', imageUrl: '/images/hero/hero-life-republic.webp', link: '/search', isActive: true, sortOrder: 1 }
+    ];
+
     try {
+        if (!context.env.DB) {
+            return jsonResponse(defaultBanners);
+        }
+
         const { results } = await context.env.DB
             .prepare('SELECT * FROM banners WHERE is_active = 1 ORDER BY sort_order ASC, created_at DESC')
             .all();
@@ -20,9 +29,9 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
             createdAt: b.created_at
         }));
 
-        return jsonResponse(formatted);
-    } catch (err: any) {
-        return jsonResponse({ error: 'Failed to fetch banners', details: err.message }, 500);
+        return jsonResponse(formatted.length > 0 ? formatted : defaultBanners);
+    } catch {
+        return jsonResponse(defaultBanners);
     }
 };
 

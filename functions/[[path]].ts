@@ -73,7 +73,19 @@ export async function onRequest(context: {
     if (pathname !== '/' && pathname !== '') {
         const assetResponse = await env.ASSETS.fetch(request);
         if (assetResponse.status === 200 || assetResponse.status === 304 || (assetResponse.status >= 300 && assetResponse.status < 400)) {
-            return assetResponse;
+            const assetHeaders = new Headers(assetResponse.headers);
+            if (pathname.startsWith('/assets/')) {
+                assetHeaders.set('Cache-Control', 'public, max-age=31536000, immutable');
+            } else if (/\.(webp|png|jpg|jpeg|svg|ico|woff2?|ttf|eot)$/i.test(pathname)) {
+                assetHeaders.set('Cache-Control', 'public, max-age=2592000, stale-while-revalidate=86400');
+            } else if (/\.(xml|txt|json)$/i.test(pathname)) {
+                assetHeaders.set('Cache-Control', 'public, max-age=3600, s-maxage=86400, stale-while-revalidate=86400');
+            }
+            return new Response(assetResponse.body, {
+                status: assetResponse.status,
+                statusText: assetResponse.statusText,
+                headers: assetHeaders
+            });
         }
 
         // Never rewrite static file extensions that were 404

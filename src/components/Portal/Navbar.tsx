@@ -88,7 +88,8 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                                                 key={c.id}
                                                 to={`/search?city=${encodeURIComponent(c.id)}`}
                                                 onClick={() => setCityMenuOpen(false)}
-                                                className="flex items-center justify-between px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-sky-50/80 hover:text-sky-700 transition-colors"
+                                                aria-label={`Search properties in ${c.label} (${c.count} projects)`}
+                                                className="flex items-center justify-between px-3 py-2.5 min-h-[44px] rounded-xl text-xs font-bold text-slate-700 hover:bg-sky-50/80 hover:text-sky-700 transition-colors"
                                             >
                                                 <span>{c.label}</span>
                                                 <span className="text-[10px] bg-sky-100/80 text-sky-700 px-2 py-0.5 rounded-full font-black">
@@ -207,7 +208,11 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                 >
                     <div className="p-5 flex justify-between items-center border-b border-sky-100/60 sticky top-0 bg-white/80 backdrop-blur-xl z-10">
                         <PropsmartLogo variant="light" />
-                        <button onClick={() => setMobileMenuOpen(false)} className="p-2.5 bg-sky-50 rounded-full text-slate-700 hover:bg-sky-100" aria-label="Close menu">
+                        <button 
+                            onClick={() => setMobileMenuOpen(false)} 
+                            className="p-3 min-w-[48px] min-h-[48px] flex items-center justify-center bg-sky-50 rounded-full text-slate-800 hover:bg-sky-100 transition-colors" 
+                            aria-label="Close menu"
+                        >
                             <X className="w-6 h-6" />
                         </button>
                     </div>

@@ -46,26 +46,27 @@ const ProjectRail: React.FC<ProjectRailProps> = ({
 
                     <div className="flex items-center gap-2">
                         {/* Smooth Navigation Controls */}
-                        <div className="hidden sm:flex items-center gap-1.5 mr-2">
+                        <div className="hidden sm:flex items-center gap-2 mr-2">
                             <button
                                 onClick={() => scroll('left')}
-                                className="p-2 rounded-full bg-white/80 hover:bg-white text-slate-700 hover:text-sky-600 border border-slate-200/80 shadow-2xs hover:shadow-sm transition-all active:scale-95"
-                                aria-label="Previous properties"
+                                className="p-3 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-full bg-white/80 hover:bg-white text-slate-800 hover:text-sky-700 border border-slate-200/80 shadow-2xs hover:shadow-sm transition-all active:scale-95"
+                                aria-label={`Previous properties in ${title}`}
                             >
-                                <ChevronLeft className="w-4 h-4" />
+                                <ChevronLeft className="w-5 h-5" />
                             </button>
                             <button
                                 onClick={() => scroll('right')}
-                                className="p-2 rounded-full bg-white/80 hover:bg-white text-slate-700 hover:text-sky-600 border border-slate-200/80 shadow-2xs hover:shadow-sm transition-all active:scale-95"
-                                aria-label="Next properties"
+                                className="p-3 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-full bg-white/80 hover:bg-white text-slate-800 hover:text-sky-700 border border-slate-200/80 shadow-2xs hover:shadow-sm transition-all active:scale-95"
+                                aria-label={`Next properties in ${title}`}
                             >
-                                <ChevronRight className="w-4 h-4" />
+                                <ChevronRight className="w-5 h-5" />
                             </button>
                         </div>
 
                         <Link 
                             to={viewAllLink} 
-                            className="water-btn text-sky-600 font-bold text-xs uppercase tracking-wider flex items-center gap-1.5 px-4 py-2 rounded-full bg-white/80 backdrop-blur-md border border-white/80 shadow-2xs hover:text-sky-700 hover:shadow-sm transition-all"
+                            aria-label={`See all ${projects.length} properties in ${title}`}
+                            className="water-btn text-sky-700 font-bold text-xs uppercase tracking-wider flex items-center gap-1.5 px-4 py-2.5 min-h-[48px] rounded-full bg-white/80 backdrop-blur-md border border-white/80 shadow-2xs hover:text-sky-800 hover:shadow-sm transition-all"
                         >
                             <span>See All ({projects.length})</span> <ArrowRight className="w-3.5 h-3.5" />
                         </Link>
@@ -88,11 +89,15 @@ const ProjectRail: React.FC<ProjectRailProps> = ({
 
                     {/* View More Card */}
                     <div className="min-w-[150px] flex items-center justify-center">
-                        <Link to={viewAllLink} className="flex flex-col items-center gap-2.5 group">
-                            <div className="w-16 h-16 rounded-full glass-panel text-sky-600 flex items-center justify-center group-hover:bg-gradient-to-r group-hover:from-sky-500 group-hover:to-blue-600 group-hover:text-white transition-all duration-300 shadow-glass border border-white/80 group-hover:scale-110">
+                        <Link 
+                            to={viewAllLink} 
+                            aria-label={`View all ${projects.length} properties in ${title}`}
+                            className="flex flex-col items-center gap-2.5 group p-3 min-h-[48px]"
+                        >
+                            <div className="w-16 h-16 rounded-full glass-panel text-sky-700 flex items-center justify-center group-hover:bg-gradient-to-r group-hover:from-sky-500 group-hover:to-blue-600 group-hover:text-white transition-all duration-300 shadow-glass border border-white/80 group-hover:scale-110">
                                 <ArrowRight className="w-6 h-6" />
                             </div>
-                            <span className="text-xs font-black uppercase tracking-wider text-slate-600 group-hover:text-sky-600">View All ({projects.length})</span>
+                            <span className="text-xs font-black uppercase tracking-wider text-slate-700 group-hover:text-sky-700">View All ({projects.length})</span>
                         </Link>
                     </div>
                 </div>
