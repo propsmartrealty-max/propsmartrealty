@@ -150,8 +150,8 @@ Every legal real estate project in Maharashtra must be registered under MahaRERA
 - **[BramhaCorp August Towers](https://propsmart.co.in/project/bramhacorp-august-towers)**: Kalyani Nagar, Pune | Typologies: 1.5 BHK, 2 BHK | Price: ₹68.00 L - ₹1.15 Cr | MahaRERA: `P52100048195`
 - **[Kohinoor Central Park](https://propsmart.co.in/project/kohinoor-central-park)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹72 L - ₹1.15 Cr | MahaRERA: `P52100056358`
 - **[Lodha Belmondo](https://propsmart.co.in/project/lodha-belmondo)**: Gahunje, Lonavala | Typologies: 2 BHK, 3 BHK, 4 BHK, Golf Villa | Price: ₹1.15 Cr - ₹6.58 Cr | MahaRERA: `P52100000287`
-- **[Kolte Patil Life Republic Canvas](https://propsmart.co.in/project/kolte-patil-life-republic-canvas)**: Hinjewadi, Pune | Typologies: 3 BHK, 3.5 BHK, 4 BHK | Price: ₹1.18 Cr - ₹1.85 Cr | MahaRERA: `P52100077008`
-- **[Kolte Patil Life Republic Echoes](https://propsmart.co.in/project/kolte-patil-life-republic-echoes)**: Hinjewadi, Pune | Typologies: 2 BHK, 2.5 BHK | Price: ₹51.50 L - ₹61.50 L | MahaRERA: `P52100077382`
+- **[Kolte Patil Life Republic Canvas](https://propsmart.co.in/project/kolte-patil-life-republic-canvas)**: Hinjewadi, Pune | Typologies: 3 BHK, 3.5 BHK, 4 BHK | Price: ₹1.49 Cr - ₹2.25 Cr | MahaRERA: `P52100077008`
+- **[Kolte Patil Life Republic Echoes](https://propsmart.co.in/project/kolte-patil-life-republic-echoes)**: Hinjewadi, Pune | Typologies: 2 BHK, 2.5 BHK | Price: ₹87.00 L - ₹1.05 Cr | MahaRERA: `P52100077382`
 - **[Shapoorji Pallonji Vyomora](https://propsmart.co.in/project/shapoorji-vyomora-hinjewadi)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹78.00 L - ₹1.12 Cr | MahaRERA: `P52100052980`
 - **[Krisala Aventis](https://propsmart.co.in/project/krisala-aventis-tathawade)**: Tathawade, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹77.92 L - ₹1.33 Cr | MahaRERA: `P52100010109`
 - **[Avani Amara](https://propsmart.co.in/project/avani-amara)**: Mundhwa, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹75.00 L - ₹1.30 Cr | MahaRERA: `P52100061370`

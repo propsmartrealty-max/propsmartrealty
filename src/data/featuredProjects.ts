@@ -8,9 +8,9 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b91.18 Cr - \u20b91.85 Cr",
-    "exactPrice": "\u20b91.18 Cr",
-    "pricePerSqft": 8400,
+    "priceRange": "₹1.49 Cr - ₹2.25 Cr",
+    "exactPrice": "₹1.49 Cr",
+    "pricePerSqft": 13300,
     "configurations": [
       "3 BHK",
       "3.5 BHK",
@@ -20,17 +20,17 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK Luxury Sky Suite",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.18 Cr"
+        "priceRange": "₹1.49 Cr*"
       },
       {
         "type": "3.5 BHK Grand Residence",
         "carpetArea": "1390 sq.ft",
-        "priceRange": "\u20b91.52 Cr"
+        "priceRange": "₹1.85 Cr*"
       },
       {
         "type": "4 BHK Imperial Penthouse",
         "carpetArea": "1650 sq.ft",
-        "priceRange": "\u20b91.85 Cr"
+        "priceRange": "₹2.25 Cr*"
       }
     ],
     "status": "New Launch",
@@ -59,9 +59,9 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b951.50 L - \u20b961.50 L",
-    "exactPrice": "\u20b951.50 L",
-    "pricePerSqft": 7000,
+    "priceRange": "₹87.00 L - ₹1.05 Cr",
+    "exactPrice": "₹87.00 L",
+    "pricePerSqft": 11800,
     "configurations": [
       "2 BHK",
       "2.5 BHK"
@@ -70,12 +70,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b951.50 L"
+        "priceRange": "₹87 Lacs*"
       },
       {
         "type": "2.5 BHK",
         "carpetArea": "880 sq.ft",
-        "priceRange": "\u20b961.50 L"
+        "priceRange": "₹1.05 Cr*"
       }
     ],
     "status": "New Launch",
@@ -104,8 +104,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-hiranandani",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b975.00 L - \u20b91.12 Cr",
-    "exactPrice": "\u20b975.00 L",
+    "priceRange": "₹75.00 L - ₹1.12 Cr",
+    "exactPrice": "₹75.00 L",
     "pricePerSqft": 10000,
     "configurations": [
       "2 BHK",
@@ -115,12 +115,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "683 sq.ft",
-        "priceRange": "\u20b975 L - \u20b994 L"
+        "priceRange": "₹75 L - ₹94 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1070 sq.ft",
-        "priceRange": "\u20b91.12 Cr"
+        "priceRange": "₹1.12 Cr"
       }
     ],
     "status": "New Launch",
@@ -138,7 +138,7 @@ export const FEATURED_PROJECTS: Project[] = [
       "Gymnasium",
       "Rainwater Harvesting"
     ],
-    "description": "Hiranandani Mamurdi is a luxurious residential project offering 2 & 3 BHK apartments with 50+ premium amenities, designed by the renowned architect Arco. Located in Pune\u2019s sought-after western suburbs, it combines eco-friendly landscapes with modern living. Backed by the trusted Hiranandani Group, t",
+    "description": "Hiranandani Mamurdi is a luxurious residential project offering 2 & 3 BHK apartments with 50+ premium amenities, designed by the renowned architect Arco. Located in Pune’s sought-after western suburbs, it combines eco-friendly landscapes with modern living. Backed by the trusted Hiranandani Group, t",
     "lat": 18.6377,
     "lng": 73.7089
   },
@@ -149,8 +149,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Mahalunge",
     "city": "Pune",
-    "priceRange": "\u20b91.89 Cr - \u20b92.50 Cr",
-    "exactPrice": "\u20b91.89 Cr",
+    "priceRange": "₹1.89 Cr - ₹2.50 Cr",
+    "exactPrice": "₹1.89 Cr",
     "pricePerSqft": 14880,
     "configurations": [
       "3 BHK",
@@ -160,17 +160,17 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK Resort Residence",
         "carpetArea": "1270 sq.ft",
-        "priceRange": "\u20b91.89 Cr"
+        "priceRange": "₹1.89 Cr"
       },
       {
         "type": "3.5 BHK Sky Deck Suite",
         "carpetArea": "1320 sq.ft",
-        "priceRange": "\u20b92.09 Cr"
+        "priceRange": "₹2.09 Cr"
       },
       {
         "type": "4 BHK Duplex Penthouse",
         "carpetArea": "1680 sq.ft",
-        "priceRange": "\u20b92.50 Cr"
+        "priceRange": "₹2.50 Cr"
       }
     ],
     "status": "New Launch",
@@ -200,8 +200,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-shapoorji",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b978.00 L - \u20b91.12 Cr",
-    "exactPrice": "\u20b978.00 L",
+    "priceRange": "₹78.00 L - ₹1.12 Cr",
+    "exactPrice": "₹78.00 L",
     "pricePerSqft": 11400,
     "configurations": [
       "2 BHK",
@@ -211,12 +211,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK Smart Residence",
         "carpetArea": "684 sq.ft",
-        "priceRange": "\u20b978.00 L"
+        "priceRange": "₹78.00 L"
       },
       {
         "type": "3 BHK Royale Residence",
         "carpetArea": "985 sq.ft",
-        "priceRange": "\u20b91.12 Cr"
+        "priceRange": "₹1.12 Cr"
       }
     ],
     "status": "New Launch",
@@ -234,7 +234,7 @@ export const FEATURED_PROJECTS: Project[] = [
       "Digital Learning Dome",
       "Miyawaki Forest Zone"
     ],
-    "description": "Shapoorji Pallonji Vyomora is a visionary 25-acre integrated residential development located strategically in Hinjawadi Phase 1, Pune. Designed around biophilic living and intelligent smart homes, Vyomora offers contemporary 2 BHK, 3 BHK residences and exclusive duplexes.\n\nStarting from \u20b978.00 L, th",
+    "description": "Shapoorji Pallonji Vyomora is a visionary 25-acre integrated residential development located strategically in Hinjawadi Phase 1, Pune. Designed around biophilic living and intelligent smart homes, Vyomora offers contemporary 2 BHK, 3 BHK residences and exclusive duplexes.\n\nStarting from ₹78.00 L, th",
     "lat": 18.5912,
     "lng": 73.7194
   },
@@ -245,8 +245,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-paranjape",
     "location": "Andheri West",
     "city": "Mumbai",
-    "priceRange": "\u20b91.68 Cr - \u20b95.19 Cr",
-    "exactPrice": "\u20b91.68 Cr",
+    "priceRange": "₹1.68 Cr - ₹5.19 Cr",
+    "exactPrice": "₹1.68 Cr",
     "pricePerSqft": 34800,
     "configurations": [
       "1 BHK",
@@ -258,22 +258,22 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "424 sq.ft",
-        "priceRange": "\u20b91.68 Cr"
+        "priceRange": "₹1.68 Cr"
       },
       {
         "type": "2 BHK",
         "carpetArea": "667 sq.ft",
-        "priceRange": "\u20b92.20 Cr - \u20b92.75 Cr"
+        "priceRange": "₹2.20 Cr - ₹2.75 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1012 sq.ft",
-        "priceRange": "\u20b93.08 Cr - \u20b93.96 Cr"
+        "priceRange": "₹3.08 Cr - ₹3.96 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1996 sq.ft",
-        "priceRange": "\u20b95.19 Cr"
+        "priceRange": "₹5.19 Cr"
       }
     ],
     "status": "Under Construction",
@@ -302,8 +302,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Mahalunge",
     "city": "Pune",
-    "priceRange": "\u20b91.48 Cr - \u20b93.35 Cr",
-    "exactPrice": "\u20b91.48 Cr",
+    "priceRange": "₹1.48 Cr - ₹3.35 Cr",
+    "exactPrice": "₹1.48 Cr",
     "pricePerSqft": 13200,
     "configurations": [
       "3 BHK",
@@ -314,17 +314,17 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1,121 - 1,285 sq.ft.",
-        "priceRange": "\u20b91.48 Cr - \u20b91.72 Cr"
+        "priceRange": "₹1.48 Cr - ₹1.72 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1,680 - 1,850 sq.ft.",
-        "priceRange": "\u20b92.25 Cr - \u20b92.55 Cr"
+        "priceRange": "₹2.25 Cr - ₹2.55 Cr"
       },
       {
         "type": "4.5 BHK",
         "carpetArea": "2,250 - 2,326 sq.ft.",
-        "priceRange": "\u20b93.10 Cr - \u20b93.35 Cr"
+        "priceRange": "₹3.10 Cr - ₹3.35 Cr"
       }
     ],
     "status": "Under Construction",
@@ -353,8 +353,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Gahunje",
     "city": "Lonavala",
-    "priceRange": "\u20b91.15 Cr - \u20b96.58 Cr",
-    "exactPrice": "\u20b91.15 Cr",
+    "priceRange": "₹1.15 Cr - ₹6.58 Cr",
+    "exactPrice": "₹1.15 Cr",
     "pricePerSqft": 15650,
     "configurations": [
       "2 BHK",
@@ -366,22 +366,22 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.15 Cr"
+        "priceRange": "₹1.15 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.75 Cr"
+        "priceRange": "₹1.75 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b93.05 Cr"
+        "priceRange": "₹3.05 Cr"
       },
       {
         "type": "Golf Villa",
         "carpetArea": "4200 sq.ft",
-        "priceRange": "\u20b96.58 Cr"
+        "priceRange": "₹6.58 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -410,8 +410,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-panchshil",
     "location": "Kharadi",
     "city": "Pune",
-    "priceRange": "\u20b92.90 Cr - \u20b98.50 Cr",
-    "exactPrice": "\u20b92.90 Cr",
+    "priceRange": "₹2.90 Cr - ₹8.50 Cr",
+    "exactPrice": "₹2.90 Cr",
     "pricePerSqft": 16500,
     "configurations": [
       "3.5 BHK",
@@ -422,27 +422,27 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3.5 BHK Sky Residence",
         "carpetArea": "1373 sq.ft",
-        "priceRange": "\u20b92.90 Cr"
+        "priceRange": "₹2.90 Cr"
       },
       {
         "type": "3.5 BHK Luxury",
         "carpetArea": "1857 sq.ft",
-        "priceRange": "\u20b94.50 Cr"
+        "priceRange": "₹4.50 Cr"
       },
       {
         "type": "4.5 BHK Luxury Suite",
         "carpetArea": "2224 sq.ft",
-        "priceRange": "\u20b95.00 Cr"
+        "priceRange": "₹5.00 Cr"
       },
       {
         "type": "4.5 BHK Grande",
         "carpetArea": "2650 sq.ft",
-        "priceRange": "\u20b95.80 Cr"
+        "priceRange": "₹5.80 Cr"
       },
       {
         "type": "Signature Penthouse",
         "carpetArea": "3882 sq.ft",
-        "priceRange": "\u20b98.50 Cr"
+        "priceRange": "₹8.50 Cr"
       }
     ],
     "status": "Under Construction",
@@ -471,8 +471,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Mahalunge",
     "city": "Pune",
-    "priceRange": "\u20b92.50 Cr - \u20b94.40 Cr",
-    "exactPrice": "\u20b92.50 Cr",
+    "priceRange": "₹2.50 Cr - ₹4.40 Cr",
+    "exactPrice": "₹2.50 Cr",
     "pricePerSqft": 14800,
     "configurations": [
       "3 BHK",
@@ -482,22 +482,22 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK Riverside Luxury",
         "carpetArea": "1688 sq.ft",
-        "priceRange": "\u20b92.50 Cr"
+        "priceRange": "₹2.50 Cr"
       },
       {
         "type": "3 BHK Grande",
         "carpetArea": "2100 sq.ft",
-        "priceRange": "\u20b92.95 Cr"
+        "priceRange": "₹2.95 Cr"
       },
       {
         "type": "4 BHK Riverside Palace",
         "carpetArea": "2304 sq.ft",
-        "priceRange": "\u20b93.95 Cr"
+        "priceRange": "₹3.95 Cr"
       },
       {
         "type": "4 BHK Presidential",
         "carpetArea": "2529 sq.ft",
-        "priceRange": "\u20b94.40 Cr"
+        "priceRange": "₹4.40 Cr"
       }
     ],
     "status": "Under Construction",
@@ -515,7 +515,7 @@ export const FEATURED_PROJECTS: Project[] = [
       "Kids Play Area",
       "Library"
     ],
-    "description": "Godrej River Royale is an ultra-luxury riverside residential enclave by Godrej Properties situated along the scenic riverfront in Mahalunge, West Pune. Spread over prime river-view acreage, River Royale features expansive 3 and 4 BHK palatial residences starting from \u20b92.50 Cr up to \u20b94.40 Cr with pri",
+    "description": "Godrej River Royale is an ultra-luxury riverside residential enclave by Godrej Properties situated along the scenic riverfront in Mahalunge, West Pune. Spread over prime river-view acreage, River Royale features expansive 3 and 4 BHK palatial residences starting from ₹2.50 Cr up to ₹4.40 Cr with pri",
     "lat": 18.563,
     "lng": 73.742
   },
@@ -526,8 +526,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b91.15 Cr - \u20b92.80 Cr",
-    "exactPrice": "\u20b91.15 Cr",
+    "priceRange": "₹1.15 Cr - ₹2.80 Cr",
+    "exactPrice": "₹1.15 Cr",
     "pricePerSqft": 7800,
     "configurations": [
       "2 BHK",
@@ -539,32 +539,32 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "862 sq.ft",
-        "priceRange": "\u20b91.15 Cr"
+        "priceRange": "₹1.15 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "862 sq.ft",
-        "priceRange": "\u20b91.15 Cr"
+        "priceRange": "₹1.15 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "883 sq.ft",
-        "priceRange": "\u20b91.20 Cr"
+        "priceRange": "₹1.20 Cr"
       },
       {
         "type": "3 BHK Luxury Suite",
         "carpetArea": "1,150 sq.ft",
-        "priceRange": "\u20b91.65 Cr"
+        "priceRange": "₹1.65 Cr"
       },
       {
         "type": "4 BHK Signature Residence",
         "carpetArea": "1,850 sq.ft",
-        "priceRange": "\u20b92.25 Cr"
+        "priceRange": "₹2.25 Cr"
       },
       {
         "type": "5 BHK Palatial Penthouse",
         "carpetArea": "3,800 sq.ft",
-        "priceRange": "\u20b92.80 Cr"
+        "priceRange": "₹2.80 Cr"
       }
     ],
     "status": "Under Construction",
@@ -593,8 +593,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-kasturi",
     "location": "Balewadi",
     "city": "Pune",
-    "priceRange": "\u20b92.03 Cr - \u20b97.51 Cr",
-    "exactPrice": "\u20b92.13 Cr",
+    "priceRange": "₹2.03 Cr - ₹7.51 Cr",
+    "exactPrice": "₹2.13 Cr",
     "pricePerSqft": 18500,
     "configurations": [
       "3 BHK",
@@ -606,32 +606,32 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1108 sq.ft",
-        "priceRange": "\u20b92.13 Cr"
+        "priceRange": "₹2.13 Cr"
       },
       {
         "type": "3 BHK Grande",
         "carpetArea": "1246 sq.ft",
-        "priceRange": "\u20b92.56 Cr"
+        "priceRange": "₹2.56 Cr"
       },
       {
         "type": "4 BHK Sky Residence",
         "carpetArea": "1581 sq.ft",
-        "priceRange": "\u20b92.74 Cr"
+        "priceRange": "₹2.74 Cr"
       },
       {
         "type": "4 BHK Royale",
         "carpetArea": "1750 sq.ft",
-        "priceRange": "\u20b93.05 Cr"
+        "priceRange": "₹3.05 Cr"
       },
       {
         "type": "Signature Penthouse",
         "carpetArea": "2850 sq.ft",
-        "priceRange": "\u20b96.11 Cr"
+        "priceRange": "₹6.11 Cr"
       },
       {
         "type": "5.5 BHK Imperial Sky Mansion",
         "carpetArea": "3,742 sq.ft",
-        "priceRange": "\u20b97.51 Cr"
+        "priceRange": "₹7.51 Cr"
       }
     ],
     "status": "Under Construction",
@@ -649,7 +649,7 @@ export const FEATURED_PROJECTS: Project[] = [
       "Cafeteria",
       "Club house"
     ],
-    "description": "The Balmoral Towers by Kasturi Housing is a benchmark of ultra-luxury living on Balewadi High Street, Pune. Featuring international concierge services, German engineered fixtures, and sprawling 3 & 4 BHK residences starting from \u20b92.13 Cr up to \u20b96.11 Cr.\n\nVerified under MahaRERA registration P5210000",
+    "description": "The Balmoral Towers by Kasturi Housing is a benchmark of ultra-luxury living on Balewadi High Street, Pune. Featuring international concierge services, German engineered fixtures, and sprawling 3 & 4 BHK residences starting from ₹2.13 Cr up to ₹6.11 Cr.\n\nVerified under MahaRERA registration P5210000",
     "lat": 18.5772,
     "lng": 73.7715
   },
@@ -660,8 +660,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-joyville",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b990.00 L - \u20b92.33 Cr",
-    "exactPrice": "\u20b990.00 L",
+    "priceRange": "₹90.00 L - ₹2.33 Cr",
+    "exactPrice": "₹90.00 L",
     "pricePerSqft": 7800,
     "configurations": [
       "2 BHK",
@@ -672,27 +672,27 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "697 sq.ft",
-        "priceRange": "\u20b990.00 L"
+        "priceRange": "₹90.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "697 sq.ft",
-        "priceRange": "\u20b990.00 L"
+        "priceRange": "₹90.00 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "715 sq.ft",
-        "priceRange": "\u20b995.00 L"
+        "priceRange": "₹95.00 L"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "973 sq.ft",
-        "priceRange": "\u20b91.29 Cr"
+        "priceRange": "₹1.29 Cr"
       },
       {
         "type": "4 BHK Grand Symphony",
         "carpetArea": "1,756 sq.ft",
-        "priceRange": "\u20b92.33 Cr"
+        "priceRange": "₹2.33 Cr"
       }
     ],
     "status": "Under Construction",
@@ -721,8 +721,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b972 L - \u20b91.15 Cr",
-    "exactPrice": "\u20b972 L",
+    "priceRange": "₹72 L - ₹1.15 Cr",
+    "exactPrice": "₹72 L",
     "pricePerSqft": 9930,
     "configurations": [
       "2 BHK",
@@ -732,12 +732,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "725 - 845 sq.ft.",
-        "priceRange": "\u20b972 L - \u20b985 L"
+        "priceRange": "₹72 L - ₹85 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "980 - 1,087 sq.ft.",
-        "priceRange": "\u20b998 L - \u20b91.15 Cr"
+        "priceRange": "₹98 L - ₹1.15 Cr"
       }
     ],
     "status": "Under Construction",
@@ -766,8 +766,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-kohinoor",
     "location": "Kharadi",
     "city": "Pune",
-    "priceRange": "\u20b975 L - \u20b91.22 Cr",
-    "exactPrice": "\u20b975 L",
+    "priceRange": "₹75 L - ₹1.22 Cr",
+    "exactPrice": "₹75 L",
     "pricePerSqft": 10760,
     "configurations": [
       "2 BHK",
@@ -777,12 +777,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "697 - 785 sq.ft.",
-        "priceRange": "\u20b975 L - \u20b986 L"
+        "priceRange": "₹75 L - ₹86 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "890 - 989 sq.ft.",
-        "priceRange": "\u20b91.05 Cr - \u20b91.22 Cr"
+        "priceRange": "₹1.05 Cr - ₹1.22 Cr"
       }
     ],
     "status": "Under Construction",
@@ -811,8 +811,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-supreme-universal",
     "location": "Mundhwa",
     "city": "Pune",
-    "priceRange": "\u20b93.30 Cr - \u20b911.50 Cr",
-    "exactPrice": "\u20b93.30 Cr",
+    "priceRange": "₹3.30 Cr - ₹11.50 Cr",
+    "exactPrice": "₹3.30 Cr",
     "pricePerSqft": 23125,
     "configurations": [
       "3 BHK",
@@ -825,27 +825,27 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK Luxury Residence",
         "carpetArea": "1292 sq.ft",
-        "priceRange": "\u20b93.30 Cr"
+        "priceRange": "₹3.30 Cr"
       },
       {
         "type": "4 BHK Horizon Suite",
         "carpetArea": "1937 sq.ft",
-        "priceRange": "\u20b95.16 Cr"
+        "priceRange": "₹5.16 Cr"
       },
       {
         "type": "5 BHK Sky Palace",
         "carpetArea": "2626 sq.ft",
-        "priceRange": "\u20b96.50 Cr"
+        "priceRange": "₹6.50 Cr"
       },
       {
         "type": "6 BHK Sky Palace",
         "carpetArea": "2854 sq.ft",
-        "priceRange": "\u20b97.00 Cr"
+        "priceRange": "₹7.00 Cr"
       },
       {
         "type": "4 BHK Duplex Sky Villa",
         "carpetArea": "4356 sq.ft",
-        "priceRange": "\u20b911.50 Cr"
+        "priceRange": "₹11.50 Cr"
       }
     ],
     "status": "Under Construction",
@@ -874,8 +874,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Wagholi",
     "city": "Pune",
-    "priceRange": "\u20b995.83 L - \u20b92.57 Cr",
-    "exactPrice": "\u20b995.83 L",
+    "priceRange": "₹95.83 L - ₹2.57 Cr",
+    "exactPrice": "₹95.83 L",
     "pricePerSqft": 6400,
     "configurations": [
       "2 BHK",
@@ -886,32 +886,32 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "807 sq.ft",
-        "priceRange": "\u20b995.83 L"
+        "priceRange": "₹95.83 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "807 sq.ft",
-        "priceRange": "\u20b995.83 L"
+        "priceRange": "₹95.83 L"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "822 sq.ft",
-        "priceRange": "\u20b91.22 Cr"
+        "priceRange": "₹1.22 Cr"
       },
       {
         "type": "2 BHK Luxury Unit",
         "carpetArea": "855 sq.ft",
-        "priceRange": "\u20b91.26 Cr"
+        "priceRange": "₹1.26 Cr"
       },
       {
         "type": "3 BHK Luxury Unit",
         "carpetArea": "938 sq.ft",
-        "priceRange": "\u20b91.30 Cr"
+        "priceRange": "₹1.30 Cr"
       },
       {
         "type": "4 BHK Signature Residence",
         "carpetArea": "1,885 sq.ft",
-        "priceRange": "\u20b92.57 Cr"
+        "priceRange": "₹2.57 Cr"
       }
     ],
     "status": "Under Construction",
@@ -940,8 +940,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b968.00 L - \u20b91.65 Cr",
-    "exactPrice": "\u20b968.00 L",
+    "priceRange": "₹68.00 L - ₹1.65 Cr",
+    "exactPrice": "₹68.00 L",
     "pricePerSqft": 14783,
     "configurations": [
       "1 BHK",
@@ -952,17 +952,17 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "1 BHK Comfort",
         "carpetArea": "460 sq.ft",
-        "priceRange": "\u20b968 L - \u20b978 L"
+        "priceRange": "₹68 L - ₹78 L"
       },
       {
         "type": "2 BHK Elegance",
         "carpetArea": "720 sq.ft",
-        "priceRange": "\u20b998 L - \u20b91.18 Cr"
+        "priceRange": "₹98 L - ₹1.18 Cr"
       },
       {
         "type": "3 BHK Grand",
         "carpetArea": "975 sq.ft",
-        "priceRange": "\u20b91.65 Cr"
+        "priceRange": "₹1.65 Cr"
       }
     ],
     "status": "Under Construction",
@@ -991,8 +991,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Mahalunge",
     "city": "Pune",
-    "priceRange": "\u20b972.00 L - \u20b92.35 Cr",
-    "exactPrice": "\u20b972.00 L",
+    "priceRange": "₹72.00 L - ₹2.35 Cr",
+    "exactPrice": "₹72.00 L",
     "pricePerSqft": 10511,
     "configurations": [
       "2 BHK",
@@ -1003,27 +1003,27 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK Simplex",
         "carpetArea": "685 sq.ft",
-        "priceRange": "\u20b972 L - \u20b988 L"
+        "priceRange": "₹72 L - ₹88 L"
       },
       {
         "type": "2 BHK Premium",
         "carpetArea": "760 sq.ft",
-        "priceRange": "\u20b984 L - \u20b998 L"
+        "priceRange": "₹84 L - ₹98 L"
       },
       {
         "type": "3 BHK Grand",
         "carpetArea": "980 sq.ft",
-        "priceRange": "\u20b91.25 Cr - \u20b91.45 Cr"
+        "priceRange": "₹1.25 Cr - ₹1.45 Cr"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1180 sq.ft",
-        "priceRange": "\u20b91.55 Cr - \u20b91.85 Cr"
+        "priceRange": "₹1.55 Cr - ₹1.85 Cr"
       },
       {
         "type": "4 BHK Royal",
         "carpetArea": "1520 sq.ft",
-        "priceRange": "\u20b92.35 Cr"
+        "priceRange": "₹2.35 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1052,8 +1052,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Sus",
     "city": "Pune",
-    "priceRange": "\u20b982.50 L - \u20b91.25 Cr",
-    "exactPrice": "\u20b982.50 L",
+    "priceRange": "₹82.50 L - ₹1.25 Cr",
+    "exactPrice": "₹82.50 L",
     "pricePerSqft": 11200,
     "configurations": [
       "2 BHK",
@@ -1063,12 +1063,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b982.50 L"
+        "priceRange": "₹82.50 L"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b91.25 Cr"
+        "priceRange": "₹1.25 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1097,8 +1097,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-vtp",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b974.00 L - \u20b91.45 Cr",
-    "exactPrice": "\u20b974.00 L",
+    "priceRange": "₹74.00 L - ₹1.45 Cr",
+    "exactPrice": "₹74.00 L",
     "pricePerSqft": 9500,
     "configurations": [
       "2 BHK",
@@ -1108,22 +1108,22 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK Smart",
         "carpetArea": "578 sq.ft",
-        "priceRange": "\u20b974.00 L"
+        "priceRange": "₹74.00 L"
       },
       {
         "type": "2 BHK Grande",
         "carpetArea": "800 sq.ft",
-        "priceRange": "\u20b995.00 L"
+        "priceRange": "₹95.00 L"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "900 sq.ft",
-        "priceRange": "\u20b91.05 Cr"
+        "priceRange": "₹1.05 Cr"
       },
       {
         "type": "3 BHK Royale",
         "carpetArea": "1200 sq.ft",
-        "priceRange": "\u20b91.45 Cr"
+        "priceRange": "₹1.45 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1152,8 +1152,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-paranjape",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b943.00 L - \u20b980.00 L",
-    "exactPrice": "\u20b943.00 L",
+    "priceRange": "₹43.00 L - ₹80.00 L",
+    "exactPrice": "₹43.00 L",
     "pricePerSqft": 8750,
     "configurations": [
       "1 BHK",
@@ -1163,12 +1163,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "443 sq.ft",
-        "priceRange": "\u20b943.00 L"
+        "priceRange": "₹43.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "729 sq.ft",
-        "priceRange": "\u20b980.00 L"
+        "priceRange": "₹80.00 L"
       }
     ],
     "status": "Under Construction",
@@ -1197,8 +1197,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-paranjape",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "\u20b91.80 Cr - \u20b92.50 Cr",
-    "exactPrice": "\u20b91.80 Cr",
+    "priceRange": "₹1.80 Cr - ₹2.50 Cr",
+    "exactPrice": "₹1.80 Cr",
     "pricePerSqft": 13677,
     "configurations": [
       "3 BHK",
@@ -1208,12 +1208,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "985 sq.ft",
-        "priceRange": "\u20b91.80 Cr"
+        "priceRange": "₹1.80 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1590 sq.ft",
-        "priceRange": "\u20b92.50 Cr"
+        "priceRange": "₹2.50 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1242,8 +1242,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-rohan",
     "location": "Wagholi",
     "city": "Pune",
-    "priceRange": "\u20b945.00 L - \u20b995.00 L",
-    "exactPrice": "\u20b945.00 L",
+    "priceRange": "₹45.00 L - ₹95.00 L",
+    "exactPrice": "₹45.00 L",
     "pricePerSqft": 7900,
     "configurations": [
       "1 BHK",
@@ -1254,17 +1254,17 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "1 BHK Comfort",
         "carpetArea": "358 sq.ft",
-        "priceRange": "\u20b945 L"
+        "priceRange": "₹45 L"
       },
       {
         "type": "2 BHK Smart",
         "carpetArea": "650 sq.ft",
-        "priceRange": "\u20b968 L"
+        "priceRange": "₹68 L"
       },
       {
         "type": "3 BHK Grande",
         "carpetArea": "1150 sq.ft",
-        "priceRange": "\u20b995 L"
+        "priceRange": "₹95 L"
       }
     ],
     "status": "Ready to Move",
@@ -1293,8 +1293,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-rohan",
     "location": "Tathawade",
     "city": "Pune",
-    "priceRange": "\u20b948.00 L - \u20b972.00 L",
-    "exactPrice": "\u20b948.00 L",
+    "priceRange": "₹48.00 L - ₹72.00 L",
+    "exactPrice": "₹48.00 L",
     "pricePerSqft": 7600,
     "configurations": [
       "1 BHK",
@@ -1304,12 +1304,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "465 sq.ft",
-        "priceRange": "\u20b948.00 L"
+        "priceRange": "₹48.00 L"
       },
       {
         "type": "2 BHK",
         "carpetArea": "685 sq.ft",
-        "priceRange": "\u20b972.00 L"
+        "priceRange": "₹72.00 L"
       }
     ],
     "status": "Ready to Move",
@@ -1333,13 +1333,13 @@ export const FEATURED_PROJECTS: Project[] = [
   },
   {
     "id": "p-kalpataru-jade-residences",
-    "title": "Kalpataru Jade Residences \u2013 Tower -H",
+    "title": "Kalpataru Jade Residences – Tower -H",
     "slug": "kalpataru-jade-residences",
     "builderId": "b-kalpataru",
     "location": "Baner",
     "city": "Pune",
-    "priceRange": "\u20b91.95 Cr - \u20b94.50 Cr",
-    "exactPrice": "\u20b91.95 Cr",
+    "priceRange": "₹1.95 Cr - ₹4.50 Cr",
+    "exactPrice": "₹1.95 Cr",
     "pricePerSqft": 14500,
     "configurations": [
       "3 BHK",
@@ -1349,22 +1349,22 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1350 sq.ft",
-        "priceRange": "\u20b91.95 Cr"
+        "priceRange": "₹1.95 Cr"
       },
       {
         "type": "3 BHK Grande",
         "carpetArea": "1930 sq.ft",
-        "priceRange": "\u20b92.50 Cr"
+        "priceRange": "₹2.50 Cr"
       },
       {
         "type": "4 BHK Sky Villa",
         "carpetArea": "2450 sq.ft",
-        "priceRange": "\u20b93.99 Cr"
+        "priceRange": "₹3.99 Cr"
       },
       {
         "type": "4 BHK Presidential",
         "carpetArea": "2600 sq.ft",
-        "priceRange": "\u20b94.50 Cr"
+        "priceRange": "₹4.50 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1382,7 +1382,7 @@ export const FEATURED_PROJECTS: Project[] = [
       "Gym",
       "Jogging Track"
     ],
-    "description": "Kalpataru Jade Residences \u2013 Tower -H by Kalpataru represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK resi",
+    "description": "Kalpataru Jade Residences – Tower -H by Kalpataru represents modern residential excellence in Baner, Pune. Strategically located with direct access to Pune's prime business parks, tech hubs, and reputed educational institutions, this premium development offers meticulously designed 2 BHK, 3 BHK resi",
     "lat": 18.559,
     "lng": 73.7868
   },
@@ -1393,8 +1393,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Worli",
     "city": "Mumbai",
-    "priceRange": "\u20b94.80 Cr - \u20b98.37 Cr",
-    "exactPrice": "\u20b94.80 Cr",
+    "priceRange": "₹4.80 Cr - ₹8.37 Cr",
+    "exactPrice": "₹4.80 Cr",
     "pricePerSqft": 42900,
     "configurations": [
       "3 BHK",
@@ -1404,12 +1404,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b94.80 Cr"
+        "priceRange": "₹4.80 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b98.37 Cr"
+        "priceRange": "₹8.37 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1438,8 +1438,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Altamount Road",
     "city": "Mumbai",
-    "priceRange": "\u20b918.75 Cr - \u20b932.69 Cr",
-    "exactPrice": "\u20b918.75 Cr",
+    "priceRange": "₹18.75 Cr - ₹32.69 Cr",
+    "exactPrice": "₹18.75 Cr",
     "pricePerSqft": 96150,
     "configurations": [
       "4 BHK",
@@ -1450,17 +1450,17 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b918.75 Cr"
+        "priceRange": "₹18.75 Cr"
       },
       {
         "type": "5 BHK",
         "carpetArea": "3100 sq.ft",
-        "priceRange": "\u20b929.80 Cr"
+        "priceRange": "₹29.80 Cr"
       },
       {
         "type": "Duplex",
         "carpetArea": "3400 sq.ft",
-        "priceRange": "\u20b932.69 Cr"
+        "priceRange": "₹32.69 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -1489,8 +1489,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Mahalaxmi",
     "city": "Mumbai",
-    "priceRange": "\u20b94.94 Cr - \u20b98.60 Cr",
-    "exactPrice": "\u20b94.94 Cr",
+    "priceRange": "₹4.94 Cr - ₹8.60 Cr",
+    "exactPrice": "₹4.94 Cr",
     "pricePerSqft": 44090,
     "configurations": [
       "3 BHK",
@@ -1500,12 +1500,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b94.94 Cr"
+        "priceRange": "₹4.94 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b98.60 Cr"
+        "priceRange": "₹8.60 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1534,8 +1534,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Khalapur",
     "city": "Lonavala",
-    "priceRange": "\u20b91.17 Cr - \u20b91.56 Cr",
-    "exactPrice": "\u20b91.17 Cr",
+    "priceRange": "₹1.17 Cr - ₹1.56 Cr",
+    "exactPrice": "₹1.17 Cr",
     "pricePerSqft": 6500,
     "configurations": [
       "Villa Plot",
@@ -1545,12 +1545,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "Villa Plot",
         "carpetArea": "1800 sq.ft",
-        "priceRange": "\u20b91.17 Cr"
+        "priceRange": "₹1.17 Cr"
       },
       {
         "type": "Resort Villa",
         "carpetArea": "2400 sq.ft",
-        "priceRange": "\u20b91.56 Cr"
+        "priceRange": "₹1.56 Cr"
       }
     ],
     "status": "New Launch",
@@ -1579,8 +1579,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Bhandup West",
     "city": "Mumbai",
-    "priceRange": "\u20b91.72 Cr - \u20b92.62 Cr",
-    "exactPrice": "\u20b91.72 Cr",
+    "priceRange": "₹1.72 Cr - ₹2.62 Cr",
+    "exactPrice": "₹1.72 Cr",
     "pricePerSqft": 23380,
     "configurations": [
       "2 BHK",
@@ -1590,12 +1590,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.72 Cr"
+        "priceRange": "₹1.72 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b92.62 Cr"
+        "priceRange": "₹2.62 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1624,8 +1624,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Powai",
     "city": "Mumbai",
-    "priceRange": "\u20b91.42 Cr - \u20b93.62 Cr",
-    "exactPrice": "\u20b91.42 Cr",
+    "priceRange": "₹1.42 Cr - ₹3.62 Cr",
+    "exactPrice": "₹1.42 Cr",
     "pricePerSqft": 32290,
     "configurations": [
       "1 BHK",
@@ -1636,17 +1636,17 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "1 BHK",
         "carpetArea": "440 sq.ft",
-        "priceRange": "\u20b91.42 Cr"
+        "priceRange": "₹1.42 Cr"
       },
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b92.38 Cr"
+        "priceRange": "₹2.38 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b93.62 Cr"
+        "priceRange": "₹3.62 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1675,8 +1675,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Bandra West",
     "city": "Mumbai",
-    "priceRange": "\u20b97.88 Cr - \u20b925.68 Cr",
-    "exactPrice": "\u20b97.88 Cr",
+    "priceRange": "₹7.88 Cr - ₹25.68 Cr",
+    "exactPrice": "₹7.88 Cr",
     "pricePerSqft": 70370,
     "configurations": [
       "3 BHK",
@@ -1687,17 +1687,17 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b97.88 Cr"
+        "priceRange": "₹7.88 Cr"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1950 sq.ft",
-        "priceRange": "\u20b913.72 Cr"
+        "priceRange": "₹13.72 Cr"
       },
       {
         "type": "Penthouse",
         "carpetArea": "3650 sq.ft",
-        "priceRange": "\u20b925.68 Cr"
+        "priceRange": "₹25.68 Cr"
       }
     ],
     "status": "New Launch",
@@ -1726,8 +1726,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Chembur",
     "city": "Mumbai",
-    "priceRange": "\u20b91.78 Cr - \u20b92.71 Cr",
-    "exactPrice": "\u20b91.78 Cr",
+    "priceRange": "₹1.78 Cr - ₹2.71 Cr",
+    "exactPrice": "₹1.78 Cr",
     "pricePerSqft": 24260,
     "configurations": [
       "2 BHK",
@@ -1737,12 +1737,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "735 sq.ft",
-        "priceRange": "\u20b91.78 Cr"
+        "priceRange": "₹1.78 Cr"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1120 sq.ft",
-        "priceRange": "\u20b92.71 Cr"
+        "priceRange": "₹2.71 Cr"
       }
     ],
     "status": "Ready to Move",
@@ -1771,8 +1771,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Khopoli Foothills",
     "city": "Lonavala",
-    "priceRange": "\u20b95.25 Cr - \u20b910.50 Cr",
-    "exactPrice": "\u20b95.25 Cr",
+    "priceRange": "₹5.25 Cr - ₹10.50 Cr",
+    "exactPrice": "₹5.25 Cr",
     "pricePerSqft": 16800,
     "configurations": [
       "4 BHK Villa",
@@ -1783,17 +1783,17 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "4 BHK Private Villa",
         "carpetArea": "3150 sq.ft",
-        "priceRange": "\u20b95.25 Cr"
+        "priceRange": "₹5.25 Cr"
       },
       {
         "type": "4 BHK Grande Villa",
         "carpetArea": "4050 sq.ft",
-        "priceRange": "\u20b97.00 Cr"
+        "priceRange": "₹7.00 Cr"
       },
       {
         "type": "5 BHK Royal Estate",
         "carpetArea": "5400 sq.ft",
-        "priceRange": "\u20b910.50 Cr"
+        "priceRange": "₹10.50 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1822,8 +1822,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-godrej",
     "location": "Khalapur",
     "city": "Lonavala",
-    "priceRange": "\u20b92.07 Cr - \u20b92.76 Cr",
-    "exactPrice": "\u20b92.07 Cr",
+    "priceRange": "₹2.07 Cr - ₹2.76 Cr",
+    "exactPrice": "₹2.07 Cr",
     "pricePerSqft": 11500,
     "configurations": [
       "Villa Plot",
@@ -1833,12 +1833,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "Villa Plot",
         "carpetArea": "1800 sq.ft",
-        "priceRange": "\u20b92.07 Cr"
+        "priceRange": "₹2.07 Cr"
       },
       {
         "type": "Resort Villa",
         "carpetArea": "2400 sq.ft",
-        "priceRange": "\u20b92.76 Cr"
+        "priceRange": "₹2.76 Cr"
       }
     ],
     "status": "New Launch",
@@ -1867,8 +1867,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Awas Beach",
     "city": "Alibaug",
-    "priceRange": "\u20b96.89 Cr - \u20b912.72 Cr",
-    "exactPrice": "\u20b96.89 Cr",
+    "priceRange": "₹6.89 Cr - ₹12.72 Cr",
+    "exactPrice": "₹6.89 Cr",
     "pricePerSqft": 26500,
     "configurations": [
       "3 BHK Beach Villa",
@@ -1879,17 +1879,17 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "3 BHK Beach Villa",
         "carpetArea": "2600 sq.ft",
-        "priceRange": "\u20b96.89 Cr"
+        "priceRange": "₹6.89 Cr"
       },
       {
         "type": "4 BHK Beach Villa",
         "carpetArea": "3450 sq.ft",
-        "priceRange": "\u20b99.14 Cr"
+        "priceRange": "₹9.14 Cr"
       },
       {
         "type": "5 BHK Royal Manor",
         "carpetArea": "4800 sq.ft",
-        "priceRange": "\u20b912.72 Cr"
+        "priceRange": "₹12.72 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1918,8 +1918,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-lodha",
     "location": "Mandwa Jetty Corridor",
     "city": "Alibaug",
-    "priceRange": "\u20b93.69 Cr - \u20b96.05 Cr",
-    "exactPrice": "\u20b93.69 Cr",
+    "priceRange": "₹3.69 Cr - ₹6.05 Cr",
+    "exactPrice": "₹3.69 Cr",
     "pricePerSqft": 16800,
     "configurations": [
       "Coastal Villa Plot",
@@ -1929,12 +1929,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "Coastal Villa Plot",
         "carpetArea": "2200 sq.ft",
-        "priceRange": "\u20b93.69 Cr"
+        "priceRange": "₹3.69 Cr"
       },
       {
         "type": "Beach Estate",
         "carpetArea": "3600 sq.ft",
-        "priceRange": "\u20b96.05 Cr"
+        "priceRange": "₹6.05 Cr"
       }
     ],
     "status": "New Launch",
@@ -1963,8 +1963,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Andheri West",
     "city": "Mumbai",
-    "priceRange": "\u20b92.75 Cr - \u20b93.80 Cr",
-    "exactPrice": "\u20b92.75 Cr",
+    "priceRange": "₹2.75 Cr - ₹3.80 Cr",
+    "exactPrice": "₹2.75 Cr",
     "pricePerSqft": 32000,
     "configurations": [
       "2 BHK",
@@ -1974,12 +1974,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK Coastal Luxe",
         "carpetArea": "785 sq.ft",
-        "priceRange": "\u20b92.75 Cr"
+        "priceRange": "₹2.75 Cr"
       },
       {
         "type": "3 BHK Sea Facing Suite",
         "carpetArea": "1050 sq.ft",
-        "priceRange": "\u20b93.80 Cr"
+        "priceRange": "₹3.80 Cr"
       }
     ],
     "status": "Under Construction",
@@ -1997,7 +1997,7 @@ export const FEATURED_PROJECTS: Project[] = [
       "State-of-the-Art Gymnasium",
       "Landscaped Zen Gardens"
     ],
-    "description": "Discover New Launch By Kolte Patil at Versova \u2013 a boutique residential address where Mumbai\u2019s pace gently slows down. With thoughtfully designed 2 & 3 Bed residences, private balconies, and elegant la\n\nSituated in prime Versova, Andheri West, Mumbai, this development by Kolte-Patil Developers delive",
+    "description": "Discover New Launch By Kolte Patil at Versova – a boutique residential address where Mumbai’s pace gently slows down. With thoughtfully designed 2 & 3 Bed residences, private balconies, and elegant la\n\nSituated in prime Versova, Andheri West, Mumbai, this development by Kolte-Patil Developers delive",
     "lat": 19.1319,
     "lng": 72.8164
   },
@@ -2008,8 +2008,8 @@ export const FEATURED_PROJECTS: Project[] = [
     "builderId": "b-kolte-patil",
     "location": "Goregaon West",
     "city": "Mumbai",
-    "priceRange": "\u20b92.15 Cr - \u20b92.95 Cr",
-    "exactPrice": "\u20b92.15 Cr",
+    "priceRange": "₹2.15 Cr - ₹2.95 Cr",
+    "exactPrice": "₹2.15 Cr",
     "pricePerSqft": 28500,
     "configurations": [
       "2 BHK",
@@ -2019,12 +2019,12 @@ export const FEATURED_PROJECTS: Project[] = [
       {
         "type": "2 BHK Modern Urban",
         "carpetArea": "695 sq.ft",
-        "priceRange": "\u20b92.15 Cr"
+        "priceRange": "₹2.15 Cr"
       },
       {
         "type": "3 BHK Premium Suite",
         "carpetArea": "940 sq.ft",
-        "priceRange": "\u20b92.95 Cr"
+        "priceRange": "₹2.95 Cr"
       }
     ],
     "status": "Under Construction",
