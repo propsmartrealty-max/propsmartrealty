@@ -22,27 +22,24 @@ const WaterAmbientBackground: React.FC<WaterAmbientBackgroundProps> = ({
             {/* Ambient Water Gradient Flow Wash */}
             <div className="absolute inset-0 bg-gradient-to-br from-slate-50 via-sky-50/40 to-cyan-50/30" />
 
-            {/* Fluid Water Blob 1 - Cyan / Aqua Stream */}
+            {/* Fluid Water Blobs - Desktop only to eliminate mobile forced reflow & GPU throttling */}
             <div 
-                className="water-blob water-blob-cyan top-[-10%] left-[5%] w-[45vw] h-[45vw] max-w-[650px] max-h-[650px]"
+                className="hidden md:block water-blob water-blob-cyan top-[-10%] left-[5%] w-[45vw] h-[45vw] max-w-[650px] max-h-[650px]"
                 style={{ opacity: variant === 'vibrant' ? 0.6 : 0.4 }}
             />
 
-            {/* Fluid Water Blob 2 - Royal Sapphire Stream */}
             <div 
-                className="water-blob water-blob-blue top-[30%] right-[-5%] w-[50vw] h-[50vw] max-w-[700px] max-h-[700px]"
+                className="hidden md:block water-blob water-blob-blue top-[30%] right-[-5%] w-[50vw] h-[50vw] max-w-[700px] max-h-[700px]"
                 style={{ opacity: variant === 'vibrant' ? 0.55 : 0.35 }}
             />
 
-            {/* Fluid Water Blob 3 - Emerald Lagoon Stream */}
             <div 
-                className="water-blob water-blob-emerald bottom-[-10%] left-[25%] w-[40vw] h-[40vw] max-w-[600px] max-h-[600px]"
+                className="hidden md:block water-blob water-blob-emerald bottom-[-10%] left-[25%] w-[40vw] h-[40vw] max-w-[600px] max-h-[600px]"
                 style={{ opacity: variant === 'vibrant' ? 0.5 : 0.3 }}
             />
 
-            {/* Fluid Water Blob 4 - Delicate Sky Ripple (Mid page) */}
             <div 
-                className="water-blob water-blob-cyan top-[70%] right-[20%] w-[35vw] h-[35vw] max-w-[500px] max-h-[500px]"
+                className="hidden md:block water-blob water-blob-cyan top-[70%] right-[20%] w-[35vw] h-[35vw] max-w-[500px] max-h-[500px]"
                 style={{ opacity: variant === 'vibrant' ? 0.45 : 0.25 }}
             />
 

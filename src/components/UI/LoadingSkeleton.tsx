@@ -1,12 +1,9 @@
 import React from 'react';
-import { motion } from 'framer-motion';
 
 export const SkeletonPulse = ({ className }: { className?: string }) => (
-    <motion.div
-        className={`bg-slate-200 rounded ${className}`}
-        initial={{ opacity: 0.5 }}
-        animate={{ opacity: [0.5, 0.8, 0.5] }}
-        transition={{ duration: 1.5, repeat: Infinity, ease: "easeInOut" }}
+    <div
+        className={`bg-slate-200 animate-pulse rounded ${className || ''}`}
+        aria-hidden="true"
     />
 );
 

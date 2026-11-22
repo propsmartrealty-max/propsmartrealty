@@ -8,12 +8,12 @@ import { ErrorState } from '../components/UI/LoadingSkeleton';
 
 // Above-the-fold Critical Components
 import HeroSearch from '../components/Portal/Home/HeroSearch';
-import LocalityStrip from '../components/Portal/Home/LocalityStrip';
-import WhyBuyDirect from '../components/Portal/Home/WhyBuyDirect';
-import RERABadge from '../components/Portal/RERABadge';
 import WaterAmbientBackground from '../components/Portal/WaterAmbientBackground';
 
 // Below-the-fold Code-Split Components for Sub-1.5s Mobile LCP & Fast Execution
+const LocalityStrip = React.lazy(() => import('../components/Portal/Home/LocalityStrip'));
+const WhyBuyDirect = React.lazy(() => import('../components/Portal/Home/WhyBuyDirect'));
+const RERABadge = React.lazy(() => import('../components/Portal/RERABadge'));
 const CityHubSection = React.lazy(() => import('../components/Portal/Home/CityHubSection'));
 const SpotlightSection = React.lazy(() => import('../components/Portal/Home/SpotlightSection'));
 const ProjectRail = React.lazy(() => import('../components/Portal/Home/ProjectRail'));
@@ -150,14 +150,14 @@ const Home = () => {
                 {/* 1. Hero Search Section (Critical Immediate Paint) */}
                 <HeroSearch />
 
-                {/* 2. Popular Localities Strip (Critical Immediate Paint) */}
-                <LocalityStrip />
-
-                {/* 3. Why Buy Directly with Builder Section (Core Brand Value Proposition) */}
-                <WhyBuyDirect />
-
                 {/* Below-the-fold Rails & Spotlights (Deferred for Fast Mobile Execution) */}
                 <React.Suspense fallback={<div className="min-h-[120px]" />}>
+                    {/* 2. Popular Localities Strip */}
+                    <LocalityStrip />
+
+                    {/* 3. Why Buy Directly with Builder Section (Core Brand Value Proposition) */}
+                    <WhyBuyDirect />
+
                     {/* 4. City-Wise Verified Portfolios (Pune, Mumbai, Lonavala, Alibaug) */}
                     <CityHubSection projects={projects} />
 

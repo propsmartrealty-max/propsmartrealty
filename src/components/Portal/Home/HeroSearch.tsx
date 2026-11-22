@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Search, ChevronDown, Rocket, Key, Home, Building, ShieldCheck, Building2, BadgePercent, CheckCircle2, History, X, Sparkles } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
-import { motion, AnimatePresence } from 'framer-motion';
 import { getLocalityImageUrl } from '../../../utils/localityUtils';
 import { cloudflare } from '../../../services/cloudflare';
 import { getRecentSearches, saveRecentSearch, clearRecentSearches, calculateFuzzyScore } from '../../../utils/fuzzySearch';

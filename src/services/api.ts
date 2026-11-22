@@ -1,6 +1,5 @@
 import { Project, Builder, ProjectConfiguration } from '../types';
 import { mapProjectFromDb, mapBuilderFromDb } from '../utils/mapper';
-import { BUILDERS } from '../data/buildersData';
 import { FEATURED_PROJECTS } from '../data/featuredProjects';
 import { parsePriceRangeInLakhs } from '../utils/pricingUtils';
 import { calculateFuzzyScore } from '../utils/fuzzySearch';
@@ -311,10 +310,12 @@ export const api = {
 
     builders: {
         list: async () => {
+            const { BUILDERS } = await import('../data/buildersData');
             return BUILDERS;
         },
 
         getById: async (id: string) => {
+            const { BUILDERS } = await import('../data/buildersData');
             const local = BUILDERS.find(b => b.id === id || b.slug === id);
             if (local) return local;
             throw new Error('Builder not found');

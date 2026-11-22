@@ -2,8 +2,6 @@ import React, { createContext, useContext } from 'react';
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { Project, Builder, Locality } from '../types';
 import { api, ProjectFilters } from '../services/api';
-import { BUILDERS } from '../data/buildersData';
-import { LOCATIONS } from '../data/locationsData';
 import { FEATURED_PROJECTS } from '../data/featuredProjects';
 
 interface DataContextType {
@@ -129,9 +127,13 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
             try {
                 const { cloudflare } = await import('../services/cloudflare');
                 const { data, error } = await cloudflare.from('localities').select('*');
-                if (error || !data || data.length === 0) return LOCATIONS;
+                if (error || !data || data.length === 0) {
+                    const { LOCATIONS } = await import('../data/locationsData');
+                    return LOCATIONS;
+                }
                 return data;
             } catch {
+                const { LOCATIONS } = await import('../data/locationsData');
                 return LOCATIONS;
             }
         }
@@ -226,9 +228,9 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
         const rawProjects = projectsQuery.data;
         const resolvedProjects = (rawProjects && Array.isArray(rawProjects) && rawProjects.length > 0) ? rawProjects : FEATURED_PROJECTS;
         const rawBuilders = buildersQuery.data;
-        const resolvedBuilders = (rawBuilders && rawBuilders.length > 0) ? rawBuilders : BUILDERS;
+        const resolvedBuilders = (rawBuilders && Array.isArray(rawBuilders)) ? rawBuilders : [];
         const rawLocalities = localitiesQuery.data;
-        const resolvedLocalities = (rawLocalities && rawLocalities.length > 0) ? rawLocalities : LOCATIONS;
+        const resolvedLocalities = (rawLocalities && Array.isArray(rawLocalities)) ? rawLocalities : [];
 
         return {
             projects: resolvedProjects,

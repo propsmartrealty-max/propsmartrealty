@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Search, MapPin, Building2, TrendingUp, Home, Key, Percent } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
-import { motion } from 'framer-motion';
 
 // --- CONFIGURATION ---
 // Top developer landmark township elevation render
@@ -47,10 +46,7 @@ const SearchBanner = () => {
             <div className="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/40 to-slate-900/60" />
 
             <div className="relative z-20 w-full max-w-5xl px-4 flex flex-col items-center">
-                <motion.div
-                    initial={{ opacity: 0, y: 30 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.8, ease: "easeOut" }}
+                <div
                     className="text-center"
                 >
                     <div className="inline-block px-4 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/10 text-blue-200 text-sm font-semibold mb-6 shadow-lg">
@@ -65,13 +61,10 @@ const SearchBanner = () => {
                     <p className="text-lg md:text-xl text-slate-200 mb-12 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow-md">
                         Explore Pune's most exclusive properties. From luxury villas to premium apartments, find a home that matches your ambition.
                     </p>
-                </motion.div>
+                </div>
 
                 {/* Glassmorphism Search Box */}
-                <motion.div
-                    initial={{ opacity: 0, scale: 0.9 }}
-                    animate={{ opacity: 1, scale: 1 }}
-                    transition={{ delay: 0.2, duration: 0.6, type: "spring" }}
+                <div
                     className="w-full max-w-4xl"
                 >
                     <div className="bg-white/10 backdrop-blur-xl p-3 rounded-[2.5rem] border border-white/20 shadow-[0_20px_50px_rgba(0,0,0,0.3)]">
@@ -150,7 +143,7 @@ const SearchBanner = () => {
                             </button>
                         ))}
                     </div>
-                </motion.div>
+                </div>
             </div>
 
             {/* Bottom Fade */}

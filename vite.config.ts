@@ -205,6 +205,7 @@ export default defineConfig(({ mode }) => {
       }
     },
     build: {
+      target: 'es2022',
       sourcemap: true,
       chunkSizeWarningLimit: 2000,
       rollupOptions: {
@@ -224,9 +225,6 @@ export default defineConfig(({ mode }) => {
             }
             if (id.includes('node_modules/react/') || id.includes('node_modules/react-dom/') || id.includes('node_modules/react-router')) {
               return 'vendor-react';
-            }
-            if (id.includes('node_modules/framer-motion')) {
-              return 'vendor-motion';
             }
             if (id.includes('node_modules/leaflet') || id.includes('node_modules/react-leaflet')) {
               return 'maps';

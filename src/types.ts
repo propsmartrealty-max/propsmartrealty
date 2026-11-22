@@ -69,7 +69,8 @@ export interface Project {
     carpetArea: string;
     priceRange?: string;
   }[];
-  status: 'Ready to Move' | 'Ready To Move' | 'Under Construction' | 'New Launch';
+  status: 'Ready to Move' | 'Ready To Move' | 'Under Construction' | 'New Launch' | 'Sold Out' | 'Completed';
+  tags?: string[];
   type: 'Residential' | 'Commercial' | 'Plot'; // New field for categorization
   possessionDate: string;
   image: string;

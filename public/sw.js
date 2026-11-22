@@ -11,7 +11,7 @@ const PRECACHE_URLS = [
     '/manifest.json',
     '/favicon.svg',
     '/favicon-192x192.png',
-    '/images/propsmart-logo.png'
+    '/images/propsmart-logo.webp'
 ];
 
 // Install Event: Precaching essential shell

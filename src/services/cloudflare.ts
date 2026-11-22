@@ -3,8 +3,6 @@
  * Native Edge Integration for Cloudflare D1 (Database), R2 (Storage), and Edge Auth
  */
 
-import { BUILDERS } from '../data/buildersData';
-import { LOCATIONS } from '../data/locationsData';
 import { FEATURED_PROJECTS } from '../data/featuredProjects';
 
 // Local storage keys for Cloudflare Session
@@ -186,9 +184,11 @@ export const cloudflare = {
                         }
                     }
                     if (table === 'builders') {
+                        const { BUILDERS } = await import('../data/buildersData');
                         return { data: BUILDERS, error: null, count: BUILDERS.length };
                     }
                     if (table === 'localities') {
+                        const { LOCATIONS } = await import('../data/locationsData');
                         return { data: LOCATIONS, error: null, count: LOCATIONS.length };
                     }
                     return { data: [], error: err };
