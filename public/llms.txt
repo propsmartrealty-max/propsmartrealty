@@ -158,7 +158,7 @@ Every legal real estate project in Maharashtra must be registered under MahaRERA
 - **[Godrej Skyline](https://propsmart.co.in/project/godrej-skyline)**: Mundhwa, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹3.49 Cr - ₹6.09 Cr | MahaRERA: `P52100030007`
 - **[Supreme Towers](https://propsmart.co.in/project/supreme-towers)**: Mundhwa, Pune | Typologies: 3 BHK, 4 BHK, 5 BHK, 6 BHK, Duplex Sky Villa | Price: ₹3.30 Cr - ₹11.50 Cr | MahaRERA: `P52100056095`
 - **[Shreenidhi](https://propsmart.co.in/project/shreenidhi)**: Baner, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹99.00 L - ₹1.37 Cr | MahaRERA: `P52100060378`
-- **[Hiranandani Hinjewadi Township](https://propsmart.co.in/project/hiranandani-krisala-township)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹75.00 L - ₹1.12 Cr | MahaRERA: `P52100062438`
+- **[Hiranandani Hinjewadi Township](https://propsmart.co.in/project/hiranandani-krisala-township)**: Hinjewadi, Pune | Typologies: 2 BHK, 3 BHK | Price: ₹79.00 L - ₹1.18 Cr | MahaRERA: `P52100062438`
 - **[The Reserve](https://propsmart.co.in/project/the-reserve-mundhwa)**: Mundhwa, Pune | Typologies: 3 BHK, 4 BHK | Price: ₹2.35 Cr - ₹5.35 Cr | MahaRERA: `P52100049211`
 - **[Zenone](https://propsmart.co.in/project/zenone)**: Wakad, Pune | Typologies: 2 BHK, 3 BHK, 5 BHK | Price: ₹1.03 Cr - ₹3.56 Cr | MahaRERA: `P52100053350`
 - **[Venkatesh Vanaya](https://propsmart.co.in/project/venkatesh-vanaya)**: Kharadi, Pune | Typologies: 2 BHK, 3 BHK, 4 BHK | Price: ₹1.02 Cr - ₹1.43 Cr | MahaRERA: `P52100061304`

@@ -759,7 +759,7 @@ Operating continuously since 2015, PROPSMART REALTY (initially known as Pune Pro
 | Shreenidhi | Shreenidhi Developers | Baner | Pune | 2 BHK, 3 BHK | ₹99.00 L | Under Construction | `P52100060378` | https://propsmart.co.in/project/shreenidhi |
 | Santiago Skyworld 2.0 | Santiago On Sector 7 Road | Bhosari | Pune | 3 BHK | ₹1.47 Cr | Under Construction | `P52100048912` | https://propsmart.co.in/project/santiago-skyworld-2-0 |
 | Kosha | Konbil Group | Koregaon Park | Pune | 4 BHK | ₹5.91 Cr | Under Construction | `P52100060453` | https://propsmart.co.in/project/kosha |
-| Hiranandani Hinjewadi Township | Hiranandani Group | Hinjewadi | Pune | 2 BHK, 3 BHK | ₹75.00 L | New Launch | `P52100062438` | https://propsmart.co.in/project/hiranandani-krisala-township |
+| Hiranandani Hinjewadi Township | Hiranandani Group | Hinjewadi | Pune | 2 BHK, 3 BHK | ₹79.00 L | New Launch | `P52100062438` | https://propsmart.co.in/project/hiranandani-krisala-township |
 | Gaikwad Unico | Gaikwad Corp | Ravet | Pune | 3 BHK | ₹1.00 Cr | Under Construction | `P52100080562` | https://propsmart.co.in/project/gaikwad-unico |
 | The Reserve | The Skies Group | Mundhwa | Pune | 3 BHK, 4 BHK | ₹2.35 Cr | Under Construction | `P52100049211` | https://propsmart.co.in/project/the-reserve-mundhwa |
 | Zenone | Zenone Developers | Wakad | Pune | 2 BHK, 3 BHK, 5 BHK | ₹1.03 Cr | Ready to Move | `P52100053350` | https://propsmart.co.in/project/zenone |
@@ -830,7 +830,7 @@ Operating continuously since 2015, PROPSMART REALTY (initially known as Pune Pro
 | Sai Kripa | Sai Nisarg Landmark | Ravet | Pune | 3 BHK | ₹1.06 Cr | Under Construction | `P52100060965` | https://propsmart.co.in/project/sai-kripa |
 | Sai Mehar | Sai Nisarg Landmark | Punawale | Pune | 2 BHK | ₹85.00 L | Under Construction | `P52100062253` | https://propsmart.co.in/project/sai-mehar |
 | Estofa One Home | Estofa Realty | Hinjewadi | Pune | 1 BHK, 2 BHK | ₹58.00 L | New Launch | `P52100054899` | https://propsmart.co.in/project/estofa-one-home |
-| Hiranandani | Hiranandani Group | Darumbre | Pune | 2 BHK, 3 BHK | ₹75.00 L | Under Construction | `P52100073733` | https://propsmart.co.in/project/hiranandani |
+| Hiranandani Hinjewadi Township | Hiranandani Group | Hinjewadi | Pune | 2 BHK, 3 BHK | ₹79.00 L | Under Construction | `P52100073733` | https://propsmart.co.in/project/hiranandani |
 | Gurukrupa | Gurukrupa Developers | Ravet | Pune | 2 BHK, 3 BHK | ₹93.49 L | Under Construction | `P52100020598` | https://propsmart.co.in/project/gurukrupa |
 | Escala | Escala Developers | Kharadi | Pune | Office | ₹2.46 Cr | Under Construction | `P52100045636` | https://propsmart.co.in/project/escala |
 | Vanaha Verdant | Shapoorji Pallonji | Lavale | Pune | 2 BHK, 3 BHK, Jodi | ₹1.05 Cr | New Launch | `P52100060649` | https://propsmart.co.in/project/vanaha-verdant |

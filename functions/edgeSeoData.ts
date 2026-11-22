@@ -3398,7 +3398,7 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     "b": "Hiranandani Group",
     "l": "Hinjewadi",
     "c": "Pune",
-    "p": "\u20b975.00 L",
+    "p": "\u20b979.00 L",
     "r": "P52100062438",
     "i": "https://punehome.in/storage/v1/object/public/project-media/projects/f6112baa-0481-401b-8910-ec78b165019e/gallery/mruxuv87-8c5g2i.webp",
     "d": "Hiranandani Mamurdi is a luxurious residential project offering 2 & 3 BHK apartments with 50+ premium amenities, designed by the renowned architect Arco. Located in Pune\u2019s sought-after western suburbs, it combines eco-friendly landscapes with modern",
@@ -4385,11 +4385,11 @@ export const EDGE_PROJECTS: Record<string, EdgeProjectInfo> = {
     ]
   },
   "hiranandani": {
-    "t": "Hiranandani",
+    "t": "Hiranandani Hinjewadi Township",
     "b": "Hiranandani Group",
-    "l": "Darumbre",
+    "l": "Hinjewadi",
     "c": "Pune",
-    "p": "\u20b975.00 L",
+    "p": "\u20b979.00 L",
     "r": "P52100073733",
     "i": "https://punehome.in/storage/v1/object/public/project-media/projects/a6634267-49ad-49d9-957a-3053de1e1203/gallery/msqeqa47-83fc3u.webp",
     "d": "Hiranandani Mamurdi is a luxurious residential project offering 2 & 3 BHK apartments with 50+ premium amenities, designed by the renowned architect Arco. Located in Pune\u2019s sought-after western suburbs, it combines eco-friendly landscapes with modern",

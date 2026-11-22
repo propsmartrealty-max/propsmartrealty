@@ -50995,9 +50995,9 @@ export const PROJECTS: Project[] = [
     "builderId": "b-hiranandani",
     "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "₹75.00 L - ₹1.12 Cr",
-    "exactPrice": "₹75.00 L",
-    "pricePerSqft": 10000,
+    "priceRange": "₹79.00 L - ₹1.18 Cr",
+    "exactPrice": "₹79.00 L",
+    "pricePerSqft": 11566,
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -51042,7 +51042,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Direct Starting Price",
-        "value": "₹75 L"
+        "value": "₹79 Lacs*"
       },
       {
         "label": "Configurations",
@@ -51073,12 +51073,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "683 sq.ft",
-        "priceRange": "₹75 L - ₹94 L"
+        "priceRange": "₹79 Lacs*"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1070 sq.ft",
-        "priceRange": "₹1.12 Cr"
+        "priceRange": "₹1.18 Cr*"
       }
     ],
     "lat": 18.6377,
@@ -60369,14 +60369,14 @@ export const PROJECTS: Project[] = [
   },
   {
     "id": "p-hiranandani",
-    "title": "Hiranandani",
+    "title": "Hiranandani Hinjewadi Township",
     "slug": "hiranandani",
     "builderId": "b-hiranandani",
-    "location": "Darumbre",
+    "location": "Hinjewadi",
     "city": "Pune",
-    "priceRange": "₹75.00 L - ₹1.12 Cr",
-    "exactPrice": "₹75.00 L",
-    "pricePerSqft": 10000,
+    "priceRange": "₹79.00 L - ₹1.18 Cr",
+    "exactPrice": "₹79.00 L",
+    "pricePerSqft": 11566,
     "configurations": [
       "2 BHK",
       "3 BHK"
@@ -60421,7 +60421,7 @@ export const PROJECTS: Project[] = [
       },
       {
         "label": "Direct Starting Price",
-        "value": "₹75 L"
+        "value": "₹79 Lacs*"
       },
       {
         "label": "Configurations",
@@ -60452,12 +60452,12 @@ export const PROJECTS: Project[] = [
       {
         "type": "2 BHK",
         "carpetArea": "744 sq.ft",
-        "priceRange": "₹75 L - ₹94 L"
+        "priceRange": "₹79 Lacs*"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1067 sq.ft",
-        "priceRange": "₹1.12 Cr"
+        "priceRange": "₹1.18 Cr*"
       }
     ],
     "lat": 18.6435,
