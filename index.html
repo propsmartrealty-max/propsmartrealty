@@ -68,9 +68,9 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Propsmart">
 
-  <!-- Critical Hero Image Preload for Instant Sub-2s LCP -->
-  <link rel="preload" as="image" href="/images/hero/hero-life-republic-mobile.webp" media="(max-width: 768px)" fetchpriority="high">
-  <link rel="preload" as="image" href="/images/hero/hero-life-republic.webp" media="(min-width: 769px)" fetchpriority="high">
+  <!-- Critical Hero Image Preload for Instant Sub-1s LCP -->
+  <link rel="preload" as="image" href="/images/hero/hero-life-republic-v2-mobile.webp" type="image/webp" media="(max-width: 768px)" fetchpriority="high">
+  <link rel="preload" as="image" href="/images/hero/hero-life-republic-v2.webp" type="image/webp" media="(min-width: 769px)" fetchpriority="high">
 
   <!-- LLM & Generative Engine Optimization (GEO) Knowledge Discovery -->
   <link rel="alternate" type="text/markdown" title="LLM Knowledge Base" href="https://propsmart.co.in/llms.txt">
@@ -327,7 +327,30 @@
 </head>
 
 <body class="bg-slate-50 text-slate-900">
-  <div id="root"></div>
+  <div id="root">
+    <div style="min-height: 720px; background-color: #020617; position: relative; display: flex; flex-direction: column; align-items: center; justify-content: center; overflow: hidden; color: #ffffff; padding: 4rem 1rem;">
+      <div style="position: absolute; inset: 0; overflow: hidden; pointer-events: none;">
+        <picture>
+          <source media="(max-width: 768px)" srcset="/images/hero/hero-life-republic-v2-mobile.webp" type="image/webp">
+          <img src="/images/hero/hero-life-republic-v2-mobile.webp" alt="Kolte-Patil - Life Republic" style="width: 100%; height: 100%; object-fit: cover;" fetchpriority="high" decoding="sync" loading="eager" width="540" height="304">
+        </picture>
+        <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(2,6,23,0.95), rgba(2,6,23,0.55), rgba(2,6,23,0.4));"></div>
+        <div style="position: absolute; inset: 0; background: rgba(0,0,0,0.25);"></div>
+      </div>
+      <div style="position: relative; z-index: 10; width: 100%; max-width: 64rem; padding: 0 1rem; display: flex; flex-direction: column; align-items: center; margin-top: 2rem; text-align: center;">
+        <div style="display: inline-flex; align-items: center; gap: 0.5rem; background: rgba(16,185,129,0.25); border: 1px solid rgba(52,211,153,0.5); padding: 0.5rem 1.25rem; border-radius: 9999px; font-size: 0.875rem; font-weight: 900; margin-bottom: 1.25rem;">
+          ✨ 100% BROKERAGE FREE PLATFORM
+        </div>
+        <h1 style="font-size: clamp(1.875rem, 5vw, 4.5rem); font-weight: 900; text-align: center; letter-spacing: -0.025em; margin-bottom: 1rem; line-height: 1.1; color: #ffffff;">
+          Buy Directly With Builder.<br>
+          <span style="background: linear-gradient(to right, #fde68a, #fef08a, #facc15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">100% Brokerage Free.</span>
+        </h1>
+        <p style="font-size: 1rem; color: #e2e8f0; max-width: 42rem; margin: 0 auto 1.5rem; line-height: 1.5;">
+          Zero buyer commission. Direct developer inventory, official builder pricing, and sanctioned payment plans across Pune's top MahaRERA registered townships and luxury projects.
+        </p>
+      </div>
+    </div>
+  </div>
   <script type="module" src="/src/index.tsx"></script>
   <!-- Progressive Web App Service Worker Registration -->
   <script>

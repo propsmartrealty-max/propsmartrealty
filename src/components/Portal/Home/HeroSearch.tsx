@@ -17,8 +17,8 @@ export interface HeroSlide {
 
 export const FLAGSHIP_HERO_SLIDES: HeroSlide[] = [
     {
-        image: "/images/hero/hero-life-republic.webp",
-        mobileImage: "/images/hero/hero-life-republic-mobile.webp",
+        image: "/images/hero/hero-life-republic-v2.webp",
+        mobileImage: "/images/hero/hero-life-republic-v2-mobile.webp",
         developer: "Kolte-Patil",
         title: "Life Republic",
         location: "Hinjewadi IT Corridor",
@@ -155,14 +155,14 @@ const HeroSearch = () => {
                         )}
                         <img
                             key={currentSlide.image}
-                            src={currentSlide.image}
+                            src={currentSlide.mobileImage || currentSlide.image}
                             alt={`${currentSlide.developer} - ${currentSlide.title}`}
                             className="w-full h-full object-cover transition-opacity duration-700"
                             {...({ fetchpriority: currentImage === 0 ? "high" : "low" } as any)}
                             decoding={currentImage === 0 ? "sync" : "async"}
                             loading={currentImage === 0 ? "eager" : "lazy"}
-                            width="800"
-                            height="450"
+                            width="540"
+                            height="304"
                         />
                     </picture>
                 </div>
@@ -181,7 +181,7 @@ const HeroSearch = () => {
                         <span className="text-white/40">•</span>
                         <span className="font-sans font-extrabold text-white text-xs">{currentSlide.title}</span>
                     </div>
-                    <p className="text-[11px] text-slate-300 font-medium font-sans">
+                    <p className="text-[11px] text-slate-200 font-medium font-sans">
                         {currentSlide.type} — <span className="text-amber-200/90">{currentSlide.location}</span>
                     </p>
                 </div>
@@ -199,7 +199,7 @@ const HeroSearch = () => {
                         <span className={`block transition-all duration-300 rounded-full ${
                             idx === currentImage
                                 ? 'w-8 h-2 bg-gradient-to-r from-amber-400 to-brand-400 shadow-md shadow-amber-500/30'
-                                : 'w-2.5 h-2.5 bg-white/60 hover:bg-white'
+                                : 'w-2.5 h-2.5 bg-white/70 hover:bg-white'
                         }`} />
                     </button>
                 ))}
@@ -265,7 +265,7 @@ const HeroSearch = () => {
                                 <button
                                     key={tab.id}
                                     onClick={() => setActiveTab(tab.id)}
-                                    className={`flex items-center gap-1.5 sm:gap-2 px-3.5 sm:px-6 py-2.5 sm:py-3.5 text-xs sm:text-sm font-bold transition-all relative whitespace-nowrap rounded-t-2xl shrink-0 ${
+                                    className={`flex items-center gap-1.5 sm:gap-2 px-3.5 sm:px-6 py-2.5 sm:py-3.5 text-xs sm:text-sm font-bold transition-all relative whitespace-nowrap rounded-t-2xl shrink-0 min-h-[48px] ${
                                         activeTab === tab.id
                                             ? 'text-sky-700 bg-white/95 shadow-[0_-5px_15px_rgba(14,165,233,0.08)] z-10'
                                             : 'text-slate-700 hover:text-slate-900 hover:bg-white/40'

@@ -396,19 +396,13 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                             </span>
                         </div>
                         {project.reraId && (
-                            <button
-                                type="button"
-                                onClick={(e) => {
-                                    e.preventDefault();
-                                    e.stopPropagation();
-                                    setShowQRModal(true);
-                                }}
-                                className="inline-flex items-center gap-1 text-[10px] font-mono font-bold text-emerald-700 bg-emerald-50 hover:bg-emerald-100 border border-emerald-200/80 px-2 py-0.5 rounded-md shrink-0 transition-colors shadow-2xs"
-                                title={`MahaRERA: ${project.reraId}`}
+                            <span
+                                className="inline-flex items-center gap-1 text-[10px] font-mono font-bold text-emerald-800 bg-emerald-50 border border-emerald-200/80 px-2 py-0.5 rounded-md shrink-0 shadow-2xs"
+                                title={`MahaRERA Registration: ${project.reraId}`}
                             >
                                 <ShieldCheck className="w-3 h-3 text-emerald-600" />
                                 <span className="truncate max-w-[85px] sm:max-w-[110px]">{project.reraId}</span>
-                            </button>
+                            </span>
                         )}
                     </div>
 
@@ -486,7 +480,7 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ project, variant = 'grid' }
                         <button
                             type="button"
                             onClick={() => setShowQRModal(false)}
-                            className="absolute top-4 right-4 p-3 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-full text-slate-500 hover:text-slate-800 hover:bg-sky-50 transition-colors"
+                            className="absolute top-4 right-4 p-3 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-full text-slate-700 hover:text-slate-900 hover:bg-sky-50 transition-colors"
                             aria-label="Close MahaRERA QR Modal"
                         >
                             <X className="w-5 h-5" />

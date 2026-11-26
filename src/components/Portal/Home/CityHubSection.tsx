@@ -138,7 +138,7 @@ const CityHubSection: React.FC<CityHubSectionProps> = ({ projects }) => {
 
                     <Link
                         to={`/search?city=${encodeURIComponent(selectedCity)}`}
-                        className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-brand-600 text-white font-bold text-sm hover:bg-brand-700 transition-colors shrink-0 shadow-sm"
+                        className="inline-flex items-center gap-2 px-5 py-3 min-h-[48px] rounded-xl bg-brand-600 text-white font-bold text-sm hover:bg-brand-700 transition-colors shrink-0 shadow-sm"
                     >
                         View All {cityProjects.length} {selectedCity} Projects
                         <ArrowRight className="w-4 h-4" />
@@ -156,7 +156,7 @@ const CityHubSection: React.FC<CityHubSectionProps> = ({ projects }) => {
                     <div className="text-center py-12 bg-white rounded-2xl border border-dashed border-slate-300">
                         <Building2 className="w-12 h-12 text-slate-300 mx-auto mb-3" />
                         <p className="text-lg font-bold text-slate-800">Projects Loading for {selectedCity}</p>
-                        <p className="text-sm text-slate-500 mt-1">Direct builder inventory being updated with MahaRERA clearances.</p>
+                        <p className="text-sm text-slate-700 mt-1">Direct builder inventory being updated with MahaRERA clearances.</p>
                     </div>
                 )}
 
@@ -177,7 +177,7 @@ const CityHubSection: React.FC<CityHubSectionProps> = ({ projects }) => {
                     </div>
                     <Link
                         to={`/search?city=${encodeURIComponent(selectedCity)}`}
-                        className="px-5 py-2.5 rounded-xl bg-white text-slate-900 font-extrabold text-sm hover:bg-amber-50 transition-colors shrink-0 shadow-md"
+                        className="px-5 py-3 min-h-[48px] rounded-xl bg-white text-slate-900 font-extrabold text-sm hover:bg-amber-50 transition-colors shrink-0 shadow-md flex items-center justify-center"
                     >
                         Browse {selectedCity} Collection
                     </Link>

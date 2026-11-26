@@ -110,12 +110,12 @@ const Footer = () => {
                 </div>
 
                 {/* Deep SEO Real Estate Authority & Programmatic Keyword Cloud */}
-                <div className="border-t border-slate-800/80 pt-8 pb-6 my-2 text-xs space-y-5">
+                <div className="border-t border-slate-800/80 pt-8 pb-6 my-2 text-xs space-y-6">
                     <div>
-                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-sky-400">
+                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-sky-300">
                             Popular Pune Real Estate Localities (100% Brokerage Free)
                         </div>
-                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-300">
+                        <div className="flex flex-wrap gap-x-4 gap-y-3 text-slate-300">
                             {[
                                 { name: 'Hinjewadi', slug: 'hinjewadi' },
                                 { name: 'Kharadi', slug: 'kharadi' },
@@ -138,7 +138,7 @@ const Footer = () => {
                                 <Link 
                                     key={loc.slug} 
                                     to={`/flats-in-${loc.slug}`} 
-                                    className="hover:text-sky-300 hover:underline transition-colors"
+                                    className="py-1 inline-block hover:text-sky-300 hover:underline transition-colors"
                                 >
                                     Flats in {loc.name}
                                 </Link>
@@ -147,10 +147,10 @@ const Footer = () => {
                     </div>
 
                     <div>
-                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-indigo-400">
+                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-indigo-300">
                             Mumbai & MMR Luxury High-Rise Hubs
                         </div>
-                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-300">
+                        <div className="flex flex-wrap gap-x-4 gap-y-3 text-slate-300">
                             {[
                                 { name: 'Andheri West', slug: 'andheri-west' },
                                 { name: 'Bandra East', slug: 'bandra-east' },
@@ -166,7 +166,7 @@ const Footer = () => {
                                 <Link 
                                     key={hub.slug} 
                                     to={`/properties-in-${hub.slug}`} 
-                                    className="hover:text-indigo-300 hover:underline transition-colors"
+                                    className="py-1 inline-block hover:text-indigo-300 hover:underline transition-colors"
                                 >
                                     {hub.name}
                                 </Link>
@@ -175,10 +175,10 @@ const Footer = () => {
                     </div>
 
                     <div>
-                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-amber-400">
+                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-amber-300">
                             Direct Builder Authorized Sales Mandates
                         </div>
-                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-300">
+                        <div className="flex flex-wrap gap-x-4 gap-y-3 text-slate-300">
                             {[
                                 { name: 'Godrej Properties', slug: 'godrej-properties' },
                                 { name: 'Lodha Group', slug: 'lodha-group' },
@@ -196,7 +196,7 @@ const Footer = () => {
                                 <Link 
                                     key={b.slug} 
                                     to={`/builder/${b.slug}`} 
-                                    className="hover:text-amber-300 hover:underline transition-colors"
+                                    className="py-1 inline-block hover:text-amber-300 hover:underline transition-colors"
                                 >
                                     {b.name}
                                 </Link>
@@ -205,21 +205,21 @@ const Footer = () => {
                     </div>
 
                     <div>
-                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-emerald-400">
+                        <div className="text-slate-200 font-bold uppercase tracking-wider mb-2.5 text-[11px] text-emerald-300">
                             High-Intent Homebuyer Searches (0% Brokerage)
                         </div>
-                        <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-slate-300">
-                            <Link to="/flats-in-pune" className="hover:text-emerald-300 hover:underline">Flats in Pune</Link>
-                            <Link to="/properties-in-mumbai" className="hover:text-emerald-300 hover:underline">Properties in Mumbai</Link>
-                            <Link to="/1-bhk-flats-in-hinjewadi" className="hover:text-emerald-300 hover:underline">1 BHK Flats in Hinjewadi</Link>
-                            <Link to="/2-bhk-flats-in-kharadi" className="hover:text-emerald-300 hover:underline">2 BHK Flats in Kharadi</Link>
-                            <Link to="/3-bhk-flats-in-baner" className="hover:text-emerald-300 hover:underline">3 BHK Flats in Baner</Link>
-                            <Link to="/ready-to-move-flats-in-pune" className="hover:text-emerald-300 hover:underline">Ready to Move Flats in Pune</Link>
-                            <Link to="/new-launch-projects-in-pune" className="hover:text-emerald-300 hover:underline">New Launch Projects in Pune</Link>
-                            <Link to="/villas-in-lonavala" className="hover:text-emerald-300 hover:underline">Villas in Lonavala</Link>
-                            <Link to="/flats-under-50-lakhs-in-pune" className="hover:text-emerald-300 hover:underline">Flats Under 50 Lakhs in Pune</Link>
-                            <Link to="/flats-under-1-crore-in-pune" className="hover:text-emerald-300 hover:underline">Flats Under 1 Crore in Pune</Link>
-                            <Link to="/verify-rera" className="hover:text-emerald-300 hover:underline">MahaRERA Project Verification</Link>
+                        <div className="flex flex-wrap gap-x-4 gap-y-3 text-slate-300">
+                            <Link to="/flats-in-pune" className="py-1 inline-block hover:text-emerald-300 hover:underline">Flats in Pune</Link>
+                            <Link to="/properties-in-mumbai" className="py-1 inline-block hover:text-emerald-300 hover:underline">Properties in Mumbai</Link>
+                            <Link to="/1-bhk-flats-in-hinjewadi" className="py-1 inline-block hover:text-emerald-300 hover:underline">1 BHK Flats in Hinjewadi</Link>
+                            <Link to="/2-bhk-flats-in-kharadi" className="py-1 inline-block hover:text-emerald-300 hover:underline">2 BHK Flats in Kharadi</Link>
+                            <Link to="/3-bhk-flats-in-baner" className="py-1 inline-block hover:text-emerald-300 hover:underline">3 BHK Flats in Baner</Link>
+                            <Link to="/ready-to-move-flats-in-pune" className="py-1 inline-block hover:text-emerald-300 hover:underline">Ready to Move Flats in Pune</Link>
+                            <Link to="/new-launch-projects-in-pune" className="py-1 inline-block hover:text-emerald-300 hover:underline">New Launch Projects in Pune</Link>
+                            <Link to="/villas-in-lonavala" className="py-1 inline-block hover:text-emerald-300 hover:underline">Villas in Lonavala</Link>
+                            <Link to="/flats-under-50-lakhs-in-pune" className="py-1 inline-block hover:text-emerald-300 hover:underline">Flats Under 50 Lakhs in Pune</Link>
+                            <Link to="/flats-under-1-crore-in-pune" className="py-1 inline-block hover:text-emerald-300 hover:underline">Flats Under 1 Crore in Pune</Link>
+                            <Link to="/verify-rera" className="py-1 inline-block hover:text-emerald-300 hover:underline">MahaRERA Project Verification</Link>
                         </div>
                     </div>
                 </div>

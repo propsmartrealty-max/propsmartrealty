@@ -59,8 +59,7 @@ const LocalityStrip: React.FC = () => {
                 } else {
                     setLocalities(PROPSMART_LOCALITIES);
                 }
-            } catch (err) {
-                console.warn('LocalityStrip using verified defaults:', err);
+            } catch (_err) {
                 setLocalities(PROPSMART_LOCALITIES);
             }
         };
@@ -217,17 +216,17 @@ const LocalityStrip: React.FC = () => {
                                 placeholder={`Search in ${selectedCity}...`}
                                 value={filterQuery}
                                 onChange={(e) => setFilterQuery(e.target.value)}
-                                className="w-full text-base sm:text-xs font-semibold px-3.5 py-2 sm:py-1.5 rounded-full border border-slate-300 bg-white text-slate-800 placeholder:text-slate-400 focus:outline-none focus:border-brand-500"
+                                className="w-full text-base sm:text-xs font-semibold px-3.5 py-2 sm:py-1.5 rounded-full border border-slate-300 bg-white text-slate-800 placeholder:text-slate-500 focus:outline-none focus:border-brand-500"
                             />
                         </div>
                     </div>
 
-                    <div className="flex flex-wrap gap-2 max-h-48 overflow-y-auto pr-1">
+                    <div className="flex flex-wrap gap-2.5 max-h-48 overflow-y-auto pr-1">
                         {filteredMicroMarkets.map((loc) => (
                             <Link
                                 key={loc.id || loc.name}
                                 to={`/search?city=${encodeURIComponent(selectedCity)}&location=${encodeURIComponent(loc.name)}`}
-                                className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-bold transition-all border ${
+                                className={`inline-flex items-center gap-1.5 px-3.5 py-2 rounded-full text-xs font-bold transition-all border min-h-[36px] ${
                                     loc.isFeatured
                                         ? 'bg-amber-50/80 text-slate-900 border-amber-300 hover:bg-amber-100 hover:border-amber-400 shadow-xs'
                                         : 'bg-white text-slate-700 border-slate-200 hover:bg-slate-100 hover:border-slate-300'
@@ -241,14 +240,14 @@ const LocalityStrip: React.FC = () => {
                                 />
                                 <span>{loc.name}</span>
                                 {loc.isFeatured && (
-                                    <span className="text-[10px] text-amber-600 font-extrabold">★</span>
+                                    <span className="text-[10px] text-amber-700 font-extrabold">★</span>
                                 )}
                                 {loc.count > 0 && (
                                     <span className="text-[10px] bg-sky-100 text-sky-800 px-1.5 py-0.2 rounded-full font-bold">
                                         {loc.count}
                                     </span>
                                 )}
-                                <span className="text-[10px] text-slate-400 font-medium">({loc.price})</span>
+                                <span className="text-[10px] text-slate-600 font-semibold">({loc.price})</span>
                             </Link>
                         ))}
                     </div>
@@ -258,7 +257,7 @@ const LocalityStrip: React.FC = () => {
                 <div className="mt-8 text-center">
                     <Link
                         to={`/directory?city=${encodeURIComponent(selectedCity)}`}
-                        className="inline-flex items-center gap-2 font-sans font-bold text-sm text-brand-600 hover:text-brand-700 bg-brand-50 hover:bg-brand-100 px-6 py-2.5 rounded-full transition-all border border-brand-200/60 shadow-sm group"
+                        className="inline-flex items-center gap-2 font-sans font-bold text-sm text-brand-600 hover:text-brand-700 bg-brand-50 hover:bg-brand-100 px-6 py-3 min-h-[48px] rounded-full transition-all border border-brand-200/60 shadow-sm group"
                     >
                         <Building2 className="w-4 h-4" />
                         <span>View All {selectedCity} Properties &amp; Localities Directory</span>

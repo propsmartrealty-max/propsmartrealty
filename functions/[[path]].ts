@@ -78,6 +78,8 @@ export async function onRequest(context: {
                 assetHeaders.set('Cache-Control', 'public, max-age=31536000, immutable');
             } else if (/\.(webp|png|jpg|jpeg|svg|ico|woff2?|ttf|eot)$/i.test(pathname)) {
                 assetHeaders.set('Cache-Control', 'public, max-age=2592000, stale-while-revalidate=86400');
+            } else if (/\.(manifest|webmanifest)$/i.test(pathname) || pathname === '/manifest.json') {
+                assetHeaders.set('Cache-Control', 'public, max-age=604800, stale-while-revalidate=86400');
             } else if (/\.(xml|txt|json)$/i.test(pathname)) {
                 assetHeaders.set('Cache-Control', 'public, max-age=3600, s-maxage=86400, stale-while-revalidate=86400');
             }
@@ -116,14 +118,14 @@ export async function onRequest(context: {
         if (pathname === '/' || pathname === '') {
             metaTitle = "PROPSMART REALTY | 100% Brokerage Free Real Estate Platform Pune & Mumbai (A031262401295)";
             metaDesc = "Direct builder partnerships with 0% brokerage across Pune, Mumbai, and Maharashtra. Established 2015. Explore 900+ MahaRERA verified residential townships, new launches & turnkey pricing.";
-            metaImage = `${BASE_URL}/images/hero/hero-life-republic.webp`;
+            metaImage = `${BASE_URL}/images/hero/hero-life-republic-v2.webp`;
 
             semanticBodyHtml = `
 <div class="relative min-h-[720px] lg:min-h-[760px] py-16 w-full flex flex-col items-center justify-center text-white bg-slate-950 overflow-hidden" style="position:relative;min-height:720px;width:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;color:#fff;background:#020617;overflow:hidden;padding:64px 16px;">
     <div style="position:absolute;inset:0;overflow:hidden;pointer-events:none;">
         <picture>
-            <source media="(max-width: 768px)" srcset="/images/hero/hero-life-republic-mobile.webp" type="image/webp">
-            <img src="/images/hero/hero-life-republic.webp" alt="Kolte-Patil - Life Republic" style="width:100%;height:100%;object-fit:cover;" fetchpriority="high" decoding="sync" loading="eager" width="800" height="450">
+            <source media="(max-width: 768px)" srcset="/images/hero/hero-life-republic-v2-mobile.webp" type="image/webp">
+            <img src="/images/hero/hero-life-republic-v2-mobile.webp" alt="Kolte-Patil - Life Republic" style="width:100%;height:100%;object-fit:cover;" fetchpriority="high" decoding="sync" loading="eager" width="540" height="304">
         </picture>
         <div style="position:absolute;inset:0;background:linear-gradient(to top, rgba(2,6,23,0.95), rgba(2,6,23,0.55), rgba(2,6,23,0.4));"></div>
         <div style="position:absolute;inset:0;background:rgba(0,0,0,0.25);"></div>

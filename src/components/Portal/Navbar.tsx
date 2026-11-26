@@ -66,7 +66,7 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                                 <button
                                     onClick={() => setCityMenuOpen(!cityMenuOpen)}
                                     aria-label="Select City"
-                                    className={`px-3.5 py-2 min-h-[44px] rounded-full text-xs font-black transition-all flex items-center gap-1.5 border shadow-2xs glass-pill ${
+                                    className={`px-3.5 py-2.5 min-h-[48px] rounded-full text-xs font-black transition-all flex items-center gap-1.5 border shadow-2xs glass-pill ${
                                         isSolid
                                             ? 'bg-white/75 text-slate-800 border-white/80 hover:bg-white hover:border-sky-300'
                                             : 'bg-white/15 text-white border-white/20 hover:bg-white/25 backdrop-blur-md'
@@ -89,7 +89,7 @@ const PortalNavbar = ({ variant = 'transparent' }: { variant?: 'transparent' | '
                                                 to={`/search?city=${encodeURIComponent(c.id)}`}
                                                 onClick={() => setCityMenuOpen(false)}
                                                 aria-label={`Search properties in ${c.label} (${c.count} projects)`}
-                                                className="flex items-center justify-between px-3 py-2.5 min-h-[44px] rounded-xl text-xs font-bold text-slate-700 hover:bg-sky-50/80 hover:text-sky-700 transition-colors"
+                                                className="flex items-center justify-between px-3 py-2.5 min-h-[48px] rounded-xl text-xs font-bold text-slate-700 hover:bg-sky-50/80 hover:text-sky-700 transition-colors"
                                             >
                                                 <span>{c.label}</span>
                                                 <span className="text-[10px] bg-sky-100/80 text-sky-700 px-2 py-0.5 rounded-full font-black">
